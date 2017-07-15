@@ -1,3 +1,3 @@
 file,message
-mikael.onsjoe\test.txt,"Failed to parse data for ""Major Themes"" in ""movie: Test (1648)"""
-mikael.onsjoe\test.txt,"Unhandled subject ""BAD SUBJECT"" in ""movie: Test (1648)"""
+mikael.onsjoe/test.txt,"Failed to parse data for ""Major Themes"" in ""movie: Test (1648)"""
+mikael.onsjoe/test.txt,"Unhandled subject ""BAD SUBJECT"" in ""movie: Test (1648)"""
