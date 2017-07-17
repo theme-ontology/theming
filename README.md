@@ -1,7 +1,6 @@
-# theming
+# Theming
 
 http://www.themeontology.org/  
-http://www.thestartrekproject.net/  
 
 
 ### /notes
@@ -40,7 +39,7 @@ Look for themes that expose our human nature through the stories we make.
 "The quest for vengeance", "the horrors of war", "faith vs. reason", "what if I had magical powers", are examples of good themes that we find in many different stories.
 
 
-# Why?
+## Why?
 
 Data from this repository can easily be incorporated into http://www.themeontology.org/. 
 There it can be analyzed in various ways.
