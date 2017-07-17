@@ -4,7 +4,7 @@ http://www.themeontology.org/
 http://www.thestartrekproject.net/  
 
 
-## /notes
+### /notes
 
 Commit text files with stories and themes here. 
 Collaborate on files or create a directory with your name and work on files in private there.
@@ -13,7 +13,7 @@ Use themes that are already defined in the first hand.
 Use the search tools on the main page.
 Invent new themes when needed.
 
-## /auto
+### /auto
 
 Data committed into /notes will be automatically parsed and collated into tables here.
 Files ending in "-stories.txt" will be parsed.
@@ -21,7 +21,7 @@ These tables may be copied, edited and uploaded to the main site.
 Do not commit manually into the /auto directory.
 
 
-# What is a Theme?
+## What is a Theme?
 
 A theme is any topic that is featured in a story.
 A major or choice theme is a topic that is topical throughout much of the story, either because it is featured explicitly or because it is revealed as the "moral of the story" towards the end.
