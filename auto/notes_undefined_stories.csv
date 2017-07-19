@@ -4,7 +4,7 @@ tvseries: GoT7x06,,,,gameofthrones-stories.txt
 movie: X-Men Last Stand (2006),,,,xmen-stories.txt
 movie: X-Men Origins: Wolverine (2009),,,,xmen-stories.txt
 tvseries: GoT7x03,,,,gameofthrones-stories.txt
-tvseries: GoT7x02,,,,gameofthrones-stories.txt
+movie: X-Men: Apocalypse (2016),,,,xmen-stories.txt
 tvseries: GoT7x01,,,,gameofthrones-stories.txt
 movie: The Wolverine (2013),,,,xmen-stories.txt
 movie: X-Men (2000),,,,xmen-stories.txt
@@ -13,4 +13,6 @@ movie: Test (1648),,,,mikael.onsjoe/test-stories.txt
 tvseries: GoT7x04,,,,gameofthrones-stories.txt
 movie: X-Men: First Class (2011),,,,xmen-stories.txt
 movie: Logan (2017),,,,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),,,,xmen-stories.txt
 movie: X2 (2003),,,,xmen-stories.txt
+tvseries: GoT7x02,,,,gameofthrones-stories.txt
