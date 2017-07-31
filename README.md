@@ -11,6 +11,11 @@ Use themes that are already defined in the first hand.
 Use the search tools on the main page.
 Invent new themes when needed.
 
+### /canon
+
+Any data on which there is broad consensus from the main contributors may be uploaded here.
+The idea is to keep this more or less in sync with the data on http://www.themeontology.org.
+
 ### /auto
 
 Data committed into /notes will be automatically parsed and collated into tables here.
