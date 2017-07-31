@@ -81,6 +81,25 @@ movie: The Wolverine (2013),Minor Theme,gratitude,young Yashida to Logan but lat
 movie: The Wolverine (2013),Minor Theme,atomic warfare,Nagasaki bombing was featured,xmen-stories.txt
 movie: The Wolverine (2013),Minor Theme,justification for torture,Logan tortured and threatened two people for information,xmen-stories.txt
 movie: The Wolverine (2013),Minor Theme,what if I had to operate on myself,Logan pulled out parasite from his own heart,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Choice Theme,timetravel,culminated in two fan-confusing storylines,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Choice Theme,rise of the machines,sentinels wrecked the world,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Choice Theme,xenophobia,,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Choice Theme,ethnic hatred,,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Choice Theme,compassion vs. ruthlessness,X vs. Magneto,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Major Theme,fighting evil with evil,"some good guys, esp Raven, wanted to kill in order to do good but thought better of hit",xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Major Theme,coping with the loss of a friend,various friends were lost in the future,xmen-stories.txt
+movie: X-Men: Days of Future Past (2014),Minor Theme,what if I broke into the White House,painfully common theme in US stories,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Choice Theme,xenophobia,,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Choice Theme,ethnic hatred,,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Choice Theme,facing an overpowering adversary,,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Choice Theme,good vs. evil,,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Major Theme,coping with the murder of a loved one,Magneto lost his family and went nuts,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Major Theme,grief,Magneto,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Major Theme,what if I could move faster in time than everyone else,quicksilver,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Minor Theme,cage fighting,featured in the beginning,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Minor Theme,WMDs,nuclear weapons were shot into space,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Minor Theme,male toungtiedness,X in front of ex,xmen-stories.txt
+movie: X-Men: Apocalypse (2016),Minor Theme,Chariots of the Gods,there was alien tech in the pyramids,xmen-stories.txt
 movie: Logan (2017),Choice Theme,coping with aging,,xmen-stories.txt
 movie: Logan (2017),Choice Theme,facing death,,xmen-stories.txt
 movie: Logan (2017),Choice Theme,responsibility,,xmen-stories.txt
@@ -101,6 +120,26 @@ movie: Logan (2017),Minor Theme,alcoholism,Logan,xmen-stories.txt
 movie: Logan (2017),Minor Theme,torture,Caliban was tortured,xmen-stories.txt
 movie: Logan (2017),Minor Theme,dealing with children,Logan and Laura,xmen-stories.txt
 movie: Logan (2017),Minor Theme,family feud,that farmer family,xmen-stories.txt
+movie: Mysterious Island (1961),Choice Theme,the desire to go home,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Choice Theme,world peace,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,social hierarchy,men establish pecking order when stranded on island,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,the value of hard work and dedication,strandees in making a new home on the island,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,engineered giant plants and animals for food,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,super high-tech submarine,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,misanthropy,Nemo,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,man vs. nature,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,man vs. beast,"giant crab, giant chicken, giant bees, giant nautilus",classic-scifi-stories.txt
+movie: Mysterious Island (1961),Major Theme,man vs. pirates,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,cowardice,Herbert coping with having deserted his fellow soldiers,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,bravery,Herbert slays giant chicken,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,despair,suicided skeleton,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,imperialism,Nemo hated,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,diving suit,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,the cause of war,Nemo says famine and economic competition,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,underwater electric gun,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,sunken city,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,post scarcity economy,,classic-scifi-stories.txt
+movie: Mysterious Island (1961),Minor Theme,romantic love,Herbert and lady,classic-scifi-stories.txt
 tvseries: GoT7x01,Choice Theme,the desire for vengeance,Arya,gameofthrones-stories.txt
 tvseries: GoT7x01,Choice Theme,quest for vengeance,Arya's purpose in life,gameofthrones-stories.txt
 tvseries: GoT7x01,Choice Theme,facing an overpowering adversary,both Cerci and John preparing for a war,gameofthrones-stories.txt

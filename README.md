@@ -5,8 +5,7 @@ http://www.themeontology.org/
 
 ### /notes
 
-Commit text files with stories and themes here. 
-Collaborate on files or create a directory with your name and work on files in private there.
+Collaborate on files or create a directory with your name and work on files in private here.
 Any published stories (books, movies, tv shows, ...) are welcome.
 Use themes that are already defined in the first hand.
 Use the search tools on the main page.
@@ -23,8 +22,11 @@ Do not commit manually into the /auto directory.
 ## What is a Theme?
 
 A theme is any topic that is featured in a story.
-A major or choice theme is a topic that is topical throughout much of the story, either because it is featured explicitly or because it is revealed as the "moral of the story" towards the end.
-A minor theme is any theme of interest that is featured briefly.
+A central theme is a topic that is topical throughout most of the story, either because it is featured explicitly or because it is revealed as the "moral of the story" towards the end.
+A peripheral theme is any theme of interest that is featured briefly.
+In the notes, peripheral themes are called "minor". 
+Central themes are called "major" or "choice".
+Choice themes are whatever seems to be at the essence of the story.
 
 There are no strict rules for what makes a good theme to include.
 There are a few rules of thumb.
@@ -36,7 +38,7 @@ Don't introduce themes that are specific to a particular fictional universe; gen
 Look for themes that are obvious and seem uncontroversial.
 Look for themes that expose our human nature through the stories we make.
 
-"The quest for vengeance", "the horrors of war", "faith vs. reason", "what if I had magical powers", are examples of good themes that we find in many different stories.
+"The desire for vengeance", "the horrors of war", "faith vs. reason", "what if I had magical powers", are examples of good themes that we find in many different stories.
 
 
 ## Why?
