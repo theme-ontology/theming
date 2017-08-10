@@ -3549,7 +3549,7 @@ Year Of Hell (1)
 Nefarious aliens change time and use temporal torpedoes on poor Voyager.
 
 :: Ratings
-1 <mikael>
+1 <mikael>, 2 <paul>
 
 :: Main Characters
 Janeway, The Doctor
@@ -3564,7 +3564,7 @@ action
 desperation [],
 facing death [],
 temporal limbo ops center [the aliens had and a similar theme is found in certain books (The End of Eternity by Asimov)],
-past altering machine [],
+history altering machine [],
 
 :: Major Themes
 facing an overpowering adversary [],
@@ -3600,13 +3600,13 @@ Janeway makes a suicide run on the temporal ship and Voyager explodes and then
 has never exploded.
 
 :: Ratings
-1 <mikael>
+1 <mikael>, 4 <paul>
 
 :: Main Characters
-Janeway, Chakotay
+Janeway, Chakotay, Tom Paris, Annorax
 
 :: Supporting Cast
-Tom, B’Ellana, The Doctor, Seven, Tuvoc
+B’Elanna, The Doctor, Seven of Nine, Tuvok, Obrist, Neelix, Harry Kim
 
 :: Genre
 garbage
@@ -3617,18 +3617,25 @@ facing death [],
 heroism [],
 selfless service [Janeway various suicide heroics],
 temporal limbo ops center [the aliens had and a similar theme is found in certain books],
+history altering machine [],
+unindended consequences [https://en.wikipedia.org/wiki/Unintended_consequences],
+obeseeion [Annorax sought the perfect alteration of history for 200 years],
+hubris [Annorax]
 
 :: Major Themes
 facing an overpowering adversary [],
 the calculus of human lives [destroying one civ to save ten],
 time travel [],
+facing an exponential search space [],
 
 :: Minor Themes
+coping with blindness [Tuvok],
 attachment to ones ship [Janeway expressed forcefully],
 clash of wills [The Doctor unsuccessfully relieving Janeway of duty],
 coping with the loss of a loved one [Anorax about wife],
 science vs. instinct [Chakotay flunked temporal mechanics but had an instinct for it],
-
+simulation of a mathematical model [Chakotay conducted history altering simulations],
+the butterfly effect [Annorax explained to Chakotay after he tried to erase comet from history],
 
 VOY4x10
 =======
