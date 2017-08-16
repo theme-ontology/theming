@@ -1,0 +1,5 @@
+ERROR:  \theming\notes\mikael.onsjoe\test.st.txt
+.. in:  movie: Test (1648) :: Major Themes
+.. Malformed field (bracket mismatch):
+  30 years war [bad,{]} comment]
+.. SKIPPING!
