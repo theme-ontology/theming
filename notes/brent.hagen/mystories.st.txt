@@ -1,4 +1,4 @@
-movie: mymovieid
+ham movie: mymovieid
 ===================
 
 :: Title
@@ -10,7 +10,9 @@ movie: mymovieid
 :: Description
 
 :: Ratings
-2 <Mikael> 
+
+
+::Characters
 
 :: Choice Themes
 what if I had magic powers [],
