@@ -3924,8 +3924,8 @@ Prey
 Trophy hunting aliens chase species 8472 and Voyager gets caught in the crossfire.
 
 :: Ratings
-1 <Mikael>
-3 <Paul: Holy crap! There's a head in that helmet!>
+1 <Mikael>,
+3 <Paul> [Holy crap! There's a head in that helmet!],
 
 :: Main Characters
 Seven of Nine, Janeway, Alpha-Hirogen, Chakotay
@@ -3967,6 +3967,7 @@ Seven believes she is violated by a visiting arms dealing alien.
 
 :: Ratings
 2 <paul>,
+4 <Mikael> [there was an interesting ethical dilemma treated reasonably well],
 
 :: Main Characters
 Seven of Nine [object], Janeway, Kovin, The Doctor
@@ -3978,23 +3979,33 @@ Tuvok, Chakotay, Tom Paris, B'Elanna, Entharan Magistrate, Harry Kim
 courtroom drama
 
 :: Choice Themes
-coping with having been violated [Kovin surruptitiously probed Seven],
+coping with having been violated [Kovin surreptitiously probed Seven],
 coping with having been raped [violation was a euphemism for rape],
 justice is blind [is this what the story was about? how to express the idea about the crew making a point to be impartial?],
-
-:: Major Themes
-earning someone's trust [Seven of Janeway],
-suppressed memories [Seven],
 guilt and evidence [reliability of repressed memories in court],
 what if I was accused of a crime that I didn't commit [Kovin],
 remorse [everyone about what happened to Kovin],
 
+:: Major Themes
+earning someone's trust [Seven of Janeway],
+suppressed memories [Seven],
+arms trade [Kovin was such a trader],
+betrayal of trust [Seven thought of Kovin, Kovin thought of Janeway, Janeway thought of Seven],
+the importance of reputation [Kovin was concerned about his, he also noted that Voyager needed],
+resentment [Seven to Kovin and discussed with Doctor repeatedly],
+anger [Seven at Kovin and discussed with Doctor repeatedly],
+the danger of preconceptions [their disliked of Kovin lead to wrongful accusations and his death],
+unethical psychological experimentation [the Doctor's guilt in influencing Seven],
+
 :: Minor Themes
 loathing [Seven toward Kovin],
 anxiety [Seven in sickbay],
-hypnotic regression [The Doctor used on Seven],
-resentment [Seven to Kovin],
-anger [Seven at Kovin],
+hypnotic regression [The Doctor used on Seven - MO: is this not just med-tech-babble?],
+the importance of firepower [Kovin's selling point - art of war?],
+negotiation [Janeway and Kovin engaged in some tough bargaining],
+coping with a loose cannon [Janeway with Seven],
+acute anxiety [the term was used but we should consider],
+procedure on non-consenting patient [Kovin thought to have violated but Doctor was notably upstanding],
 
 
 VOY4x18
@@ -4004,10 +4015,12 @@ VOY4x18
 The Killing Game (1)
 
 :: Description
-
+The Hirogen have captured Voyager and are using both it's holodecks and the crew to play out
+cruel and violent military scenarios. The Doctor and Harry are resisting.
 
 :: Ratings
 2 <paul>,
+1 <mikael>,
 
 :: Main Characters
 Janeway, Karr, Seven of Nine
@@ -4016,14 +4029,14 @@ Janeway, Karr, Seven of Nine
 Tuvok, Neelix, B'Elanna, Turanj, the Kapitan, The Doctor, Harry Kim, Chakotay, Tom Paris
 
 :: Genre
-
+action
 
 :: Choice Themes
 what if I were living in a simulated reality where I'm repeatedly hunted down for sport [],
+resistance movement [French Resistance, paralleled in the crew vs. Hirogen],
+facing an occupying force [French Resistance, paralleled in the crew vs. Hirogen],
 
 :: Major Themes
-facing an occupying force [French Resistance],
-resistance movement [French Resistance],
 the French Resistance [history theme],
 space Nazis [Hirogen for all intents and purposes],
 pleasure in hunting [Karr took pleasure in hunting down the French Resistance],
@@ -4031,10 +4044,15 @@ facing a ship takeover [],
 trophy hunting alien [],
 simulated hunting [Karr had masterplan to use holodeck technology to save his civilization],
 predator vs. prey [],
+what if I had to face a fight to the death [Janeway as Klingon],
+World War 2 [part reenacted],
 
 :: Minor Themes
-simulated reality room [],
+virtual reality room [],
 art appreciation [the Kapitan in Praxitiles masterpiece],
+cipher codes [featured and discussed briefly],
+social stagnation [Hirogen captain complained thereof],
+mind-computer merging [the neural interface],
 
 
 VOY4x19
@@ -4044,10 +4062,13 @@ VOY4x19
 The Killing Game (2)
 
 :: Description
-With half the Voyager crew trapped in a deadly simulation staged by the Hirogen, Captain Janeway must find a way to retake the ship - Memory Alpha.
+The Hirogen have captured Voyager and are using both it's holodecks and the crew to play out
+cruel and violent military scenarios. The crew resists as best they can. The Hirogen captain has 
+ideas about reforming his culture and comes to an understanding with Janeway.
 
 :: Ratings
-2 <paul>
+2 <paul>,
+1 <mikael>,
 
 :: Main Characters
 Janeway [Katrine], Seven of Nine, Chakotay [Captain Miller], Karr
@@ -4060,27 +4081,35 @@ action
 
 :: Choice Themes
 social stagnation [something about the Hirogen guy wanting to create a future for his people],
+resistance movement [French Resistance, paralleled in the crew vs. Hirogen],
+facing an occupying force [French Resistance, paralleled in the crew vs. Hirogen],
+conservative vs. progressive [the rift in Hirogen ranks - maybe liberal is close enough],
 
 :: Major Themes
 what if I were living in a simulated reality where I'm repeatedly hunted down for sport [],
-facing an occupying force [French Resistance],
+what if I were hunted for sport [perhaps enough?],
 pleasure in hunting [Karr took pleasure in hunting down the French Resistance],
 facing a ship takeover [Hirogen takeover of Voyager],
-resistance movement [French Resistance],
 the French Resistance [history theme],
 trophy hunting alien [],
 space Nazis [Hirogen for all intents and purposes],
 simulated hunting [Karr had masterplan to use holodeck technology to save his civilization],
 simulated reality room [],
 predator vs. prey [],
+racism in society [both Hirogen and Nazis],
+World War 2 [part reenacted],
 
 :: Minor Themes
 romantic love [Tom and B'Elanna],
 trust in a potential foe [Tuvok suspected Seven was a German spy],
 love triangle [B'Elanna/Tom/the Kapitan],
-uber belligerent alien [simulated Klingons],
+über belligerent alien [simulated Klingons],
 Nazism [the Kapitan laid into the German supremacy pretty hard in this episode],
 gluttony [Klingon feasting],
+mind-computer merging [the neural interface],
+virtual reality room [],
+triangle drama [B'Elanna, Tom and holo-Nazi],
+medical triage [Doctor vs. Hirogen doctor],
 
 
 VOY4x20
@@ -4110,7 +4139,6 @@ what if I switched bodies with an alien [Tom and Steth],
 
 :: Major Themes
 shapeshifter [Steth],
-
 
 :: Minor Themes
 passion for classic cars [Tom with his muscle car],
@@ -4203,7 +4231,7 @@ Living Witness
 Reactivated after lying inactive for seven hundred years, a backup version of The Doctor tries to uncover the truth about war crimes supposedly committed by Voyager when they passed a planet centuries ago - Memory Alpha.
 
 :: Ratings
-4 <apul>
+4 <paul>
 
 :: Main Characters
 The Doctor [object], Janeway, Quarren
