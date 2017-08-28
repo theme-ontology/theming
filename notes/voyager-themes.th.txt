@@ -143,7 +143,7 @@ anger management
 ================
 
 :: Description
-
+Someone struggles consciously to handle their inner anger.
 
 :: Parents
 introspection
@@ -153,17 +153,20 @@ anger management issues
 =======================
 
 :: Description
-
+Someone struggles consciously to handle their inner anger.
 
 :: Parents
 introspection
+
+:: Flag
+review: why do we have this and anger management??
 
 
 animal guide
 ============
 
 :: Description
-
+The shamanistic belief in spirit animal guides is featured.
 
 :: Parents
 superstition
@@ -173,7 +176,7 @@ ankle bracelet
 ==============
 
 :: Description
-
+A device used to control prisoners.
 
 :: Parents
 real gadget
@@ -183,7 +186,8 @@ anti-science in society
 =======================
 
 :: Description
-
+The opposition between adherents of a scientific way of thinking with people who 
+feel threatened by it is discussed.
 
 :: Parents
 past and present moral controversies
@@ -193,7 +197,7 @@ antigovernment militia movement
 ===============================
 
 :: Description
-
+A militant rebel movement that strives to overthrow the sitting government is featured.
 
 :: Parents
 contemporary social issue
@@ -203,7 +207,7 @@ artificial lungs
 ================
 
 :: Description
-
+Artificially created human lungs.
 
 :: Parents
 human enhancement
@@ -213,7 +217,7 @@ astronomy
 =========
 
 :: Description
-
+The scientific discipline of astronomy, the study of celestial objects and phenomena, is highlighted.
 
 :: Parents
 scientific discipline
@@ -223,17 +227,20 @@ autonomous sentient coworker
 ============================
 
 :: Description
-
+An artificial co-worker, for example a robot, that is autonomous and sentient.
 
 :: Parents
 AI technology
+
+:: Flag
+review: should be artificial autonomous sentient co-worker I guess
 
 
 bad influence on children
 =========================
 
 :: Description
-
+A parent's concern for the bad influence someone may have on their child is noted.
 
 :: Parents
 parenting
@@ -243,7 +250,7 @@ being ashamed of who you are
 ============================
 
 :: Description
-
+Someone thinks about why the feel ashamed for who they are.
 
 :: Parents
 introspection
@@ -253,7 +260,7 @@ bellicosity
 ===========
 
 :: Description
-
+Someone is aggressive and hostile.
 
 :: Parents
 disagreeable characteristic
@@ -263,7 +270,7 @@ betrayal of trust
 =================
 
 :: Description
-
+Someone betrays the trust that a friend, co-worker, or other person has placed in them.
 
 :: Parents
 one-on-one interaction
@@ -273,7 +280,7 @@ bioengineered human bomb
 ========================
 
 :: Description
-
+Technology used to turn someone into a living walking bomb.
 
 :: Parents
 human enhancement
@@ -283,7 +290,8 @@ biological computer virus
 =========================
 
 :: Description
-
+A virus that is more like real viruses than computer viruses but infects biological 
+components of a biological computer.
 
 :: Parents
 what's out there
@@ -303,7 +311,7 @@ brain memory virus
 ==================
 
 :: Description
-
+A viral life form that embeds itself in the memory parts of the brain of a host.
 
 :: Parents
 parasitic life form
@@ -313,7 +321,7 @@ bribery in society
 ==================
 
 :: Description
-
+The social problem of people taking bribes is discussed.
 
 :: Parents
 contemporary social issue
@@ -323,7 +331,7 @@ burning the candle at both ends
 ===============================
 
 :: Description
-
+Someone is working longer and harder than what they can really cope with.
 
 :: Parents
 group interaction
@@ -3073,5 +3081,127 @@ The way we can sometimes dream with full awareness and control of our dream is f
 
 :: Parents
 human nature
+
+
+manners
+=======
+
+:: Description
+The importance of, for example, not telling fools they are fools straight to their face
+is featured.
+
+:: Parents
+group interaction
+
+
+galactic communication network
+==============================
+
+:: Description
+A way of communicating in some kind of realtime across the vast distances of the galaxy.
+
+:: Parents
+mastering space
+
+
+coping with the defeat of one's people
+======================================
+
+:: Description
+Someone deals with the news that their people have been defeated.
+
+:: Parents
+coping with adversity
+
+:: Flag
+review
+
+
+trophy hunting alien
+====================
+
+:: Description
+An alien whose primary raison d'être is to hunt other aliens for sport
+and take their body parts as trophies.
+
+:: Parents
+culturally distinguished alien
+
+
+predator vs. prey
+=================
+
+:: Description
+The prey's struggle for survival against the hunter is featured.
+
+:: Parents
+survival
+
+
+coping with having been raped
+=============================
+
+:: Description
+Someone deals with the psychological problems that can come from being violated.
+
+:: Parents
+coping with stress
+
+
+impartiality in the legal system
+================================
+
+:: Description
+The problem of ensuring impartiality in the legal system is highlighted. We all suffer
+from various preconceptions and judges are no exception.
+
+:: Parents
+contemporary social issue
+
+
+the importance of reputation
+============================
+
+:: Description
+The fact that one's reputation is of vital importance to one's well being is highlighted.
+
+:: Parents
+life lesson
+
+
+hypnotic regression
+===================
+
+:: Description
+Hypnosis used to bring out buried or suppressed old memories.
+
+:: Parents
+topics in science
+
+
+the importance of firepower
+===========================
+
+:: Description
+The simple fact that pure firepower is important to the outcome of conflict is highlighted.
+
+:: Parents
+the art of war
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
