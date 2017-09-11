@@ -4522,9 +4522,9 @@ claustrophobia [B'Elanna mentioned on shuttlecraft],
 inferiority complex [Seven seemed to feel a bit to One],
 
 :: Associations
-tng5x23
-tng2x01
-tng3x16
+tng5x23,
+tng2x01,
+tng3x16 [MO@PS: motivation?],
 
 
 voy5x03
@@ -4581,13 +4581,14 @@ voy5x04
 In the Flesh
 
 :: Description
-
+Voyager comes across a training camp in which species 8472 is practicing how to infiltrate
+Starfleet Academy on Earth. Chakotay infiltrates the camp and drama ensues.
 
 :: Ratings
-
+0 <mikael>,
 
 :: Main Characters
-
+Chakotay [object],
 
 :: Supporting Cast
 
@@ -4596,13 +4597,24 @@ In the Flesh
 
 
 :: Choice Themes
-
+alien point of view [aliens looking at human society from without],
+espionage [this was an allegory for some cold war nonsense cf. sleeper villages],
+diplomacy vs. force [Janeway debated with eg. Seven],
+cross cultural understanding [specify?],
 
 :: Major Themes
-
+annihilation by WMDs [maybe],
+détente [a war theme],
+attack from outer space by a genocidal enemy [attack by species 8472 was discussed, and also the Borg],
+putting differences aside [Janeway and alien leaders],
+mutual trust [Janeway took the first step in the detante to build trust],
 
 :: Minor Themes
-
+coping with being suspected of something [Chakotay was briefly suspected by Janeway],
+mistrust leading to group dysfunction [seems topical],
+chastity [Chakotay briefly],
+lust [alien babe and Chakotay],
+logic vs. gut feeling [Janeway said something about faith and intuition to Seven],
 
 
 voy5x05
@@ -4612,28 +4624,41 @@ voy5x05
 Once Upon a Time
 
 :: Description
-
+Naiomi's mum is missing on an away mission and the whole crew is discussing how the child
+is doing and whether she should be told the truth. Janeway said: "batten down the hatches 
+and reinforce the shields".
 
 :: Ratings
-
+0 <mikael>,
 
 :: Main Characters
-
+Naomi [object], Neelix [object], Janeway
 
 :: Supporting Cast
 
 
 :: Genre
-
+sappy bs
 
 :: Choice Themes
-
+stupid neelix,
+VR fairy tale [VR room for educating kids cf. tng5x20],
+mother and daughter [Naomi and mum],
+coping with a loved one being in peril [Naomi about mother],
+facing death [mum, Tuvoc, and Tom],
+to tell the truth vs. offering a comforting lie [Neelixes tough decision],
 
 :: Major Themes
-
+teaching children about death [Naomi tough Neelix],
+godparenthood [Neelix],
+remembrance [Nelix about family],
 
 :: Minor Themes
+the need to be remembered [trapped people leave last messages],
+parental legacy [Naomi's mum about having been a good mum and giving parting advice],
 
+:: Associations
+tng5x20 [kids on the holodeck],
 
 
 voy5x06
