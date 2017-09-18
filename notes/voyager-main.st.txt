@@ -4489,7 +4489,7 @@ able to teach him superior human values and individuality so he sides with the g
 a confrontation with the rest of the collective.
 
 :: Ratings
-0 <mikael>, 1 <paul>
+1 <mikael>, 1 <paul>
 
 :: Main Characters
 Seven of Nine [object], One [object], Janeway
@@ -4585,7 +4585,7 @@ Voyager comes across a training camp in which species 8472 is practicing how to 
 Starfleet Academy on Earth. Chakotay infiltrates the camp and drama ensues.
 
 :: Ratings
-0 <mikael>, 3 <paul>
+1 <mikael>, 3 <paul>
 
 :: Main Characters
 Chakotay [object, Jason Hayek], Janeway, Valarie Archer
@@ -4626,11 +4626,10 @@ Once Upon a Time
 
 :: Description
 Naiomi's mum is missing on an away mission and the whole crew is discussing how the child
-is doing and whether she should be told the truth. Janeway said: "batten down the hatches 
-and reinforce the shields".
+is doing and whether she should be told the truth. 
 
 :: Ratings
-0 <mikael>, 2 <paul>
+1 <mikael>, 2 <paul>
 
 :: Main Characters
 Naomi Wildman [object], Neelix [object], Janeway
@@ -4669,7 +4668,8 @@ voy5x06
 Timeless
 
 :: Description
-Chakotay and Harry travel back in time to save Voyager from destruction.
+Chakotay and Harry travel back in time to save Voyager from destruction and give future Janeway a 
+grandfather paradox induced headache.
 
 :: Ratings
 1 <paul>, 0 <mikael>
@@ -4712,7 +4712,8 @@ Infinite Regress
 Seven of Nine suffers from Borg induced multiple personality disorder.
 
 :: Ratings
-3 <paul>
+0 <mikael,
+3 <paul>,
 
 :: Main Characters
 Seven of Nine [object], Janeway, The Doctor
@@ -4745,13 +4746,14 @@ voy5x08
 Nothing Human
 
 :: Description
-
+A weird buglike alien attaches itself to B'Elanna and the Doctor takes help from the simulated
+personality of a Cardassian scientist with a ruthless and genocidal background.
 
 :: Ratings
-
+2 <mikael>,
 
 :: Main Characters
-
+The Doctor [object], B'Elanna
 
 :: Supporting Cast
 
@@ -4760,13 +4762,22 @@ Nothing Human
 
 
 :: Choice Themes
-
+science based on unethical experimentation [can we conscientiously use data obtained through Nazi war-crimes?],
+humanoid testing [Cardassian had done in the past],
+racism [all to Cardassian],
+prejudice [all to Cardassian],
+social ethical dilemma - make sure one is included,
+personal ethical dilemma - make sure one is included,
+medical ethics - make sure one is included,
 
 :: Major Themes
-
+virtual reality medical training [novel sci-fi soon to be real?],
 
 :: Minor Themes
-
+arrogance [the Doctor and his slide sharing],
+the need to be treated with respect [something about the Doc],
+vanity [Doc],
+AI rights [they callously vivisected a holographic alien],
 
 
 voy5x09
