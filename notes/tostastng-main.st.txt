@@ -1255,7 +1255,8 @@ ruthlessness [Karnas] <Karnas>,
 temperance [Anne Jameson refused the serum] <Anne Jameson>,
 wrath [Karnas] <Karnas>,
 military dictatorship [Karnas],
-rule by strength of arm [Karnas]
+rule by strength of arm [Karnas],
+coping with a disability [Jameson in wheelchair contraption],
 
 
 tng1x17
@@ -3177,7 +3178,7 @@ taking responsibility for one's actions [Q offers himself to the Calamarain] <Q>
 the nature of human emotions [Q beside himself in experiencing human emotions],
 belonging [Q has difficulty fitting in with his new crew] <Q>,
 hubris [Q] <Q>,
-coping with a disability [Q with losing his godlike powers] <Q>,
+coping with losing a special ability [Q with losing his godlike powers] <Q>,
 humility [Q got a lesson in humility] <Q>,
 kindness [Picard and crew to Q] <Picard>,
 patience [Picard and Data to Q] <Picard, Data>,
@@ -3229,7 +3230,8 @@ fairness [Picard conducting hearing] <Picard>,
 lust [Manua Apgar at Riker and vice versa] <Riker, Manua Apgar>,
 conflicting systems of jurisprudence [innocent until proved guilty vs. guilty until proven innocent],
 the presumption of innocence [Riker presumed innocent under Federation law, but guilty under Tanugan law],
-conflict of moral codes [Riker is guilty until proven innocent]
+conflict of moral codes [Riker is guilty until proven innocent],
+legal proceedings [Riker extradition hearing],
 
 :: Minor Themes
 diplomatic compromising [Picard negotiates to hold extradition hearing on Enterprise],
@@ -3377,7 +3379,7 @@ treason [Worf's father accused of treason],
 the need to be treated with respect [Worf among Klingons] <Worf>,
 sacrifice for a loved one [Worf accepts discommendation for Kurn] <Kurn>,
 father and son [Worf and father] <Mogh/Worf>,
-facing wrongful accusations [Worf] <Worf>
+facing wrongful accusations [Worf in place of his father] <Worf>
 
 :: Minor Themes
 order vs. freedom [Human vs. Klingon styles of command are compared and illustrate the respective benefits and disadvantages of order and freedom],
@@ -3396,7 +3398,9 @@ loathing [Worf for Duras] <Worf>,
 personal conviction [Worf] <Worf>,
 rage [Worf in Kurn's quarters] <Worf>,
 wrath [Worf flips out at Kurn and Klingons more generally] <Worf>,
-pride [Worf and Kurn in the Mogh dynasty ] <Worf, Kurn>
+pride [Worf and Kurn in the Mogh dynasty ] <Worf, Kurn>,
+legal proceedings [Worf stands trial to prove his father's innocence],
+guilt and evidence [what evidence was necessary to exonerate Worf's father],
 
 
 tng3x18
@@ -4292,6 +4296,7 @@ An unknown force captures the Enterprise and causes Deanna to lose her empathic 
 
 :: Choice Themes
 coping with a disability [Troi loses empathic powers and the 2D beings with the loss of a dimension] <Troi>,
+coping with losing a special ability [Troi loses empathic powers and the 2D beings with the loss of a dimension] <Troi>,
 2D beings [Enterprise encounters a swarm of 2D beings] <2D Lifeform>
 
 :: Major Themes
@@ -4726,7 +4731,8 @@ A witchhunt ensues for suspected Romulan spies aboard the Enterprise . Guest sta
 :: Choice Themes
 obsession [Satie with witch-hunt] <Norah Satie>,
 guilt and evidence [Satie and Picard at odds over what makes for strong evidence against Simon],
-prejudice [Satie against Romulans] <Norah Satie>
+prejudice [Satie against Romulans] <Norah Satie>,
+what if I was accused of a crime that I didn't commit [Simon and Picard],
 
 :: Major Themes
 oppression [Satie launches witch-hunt for Romulan conspirators],
@@ -4941,7 +4947,6 @@ rage [Kurn at Worf] <Kurn>,
 Spartan asceticism [Klingons],
 surprise [Sela looks a lot like Tasha] <Picard>,
 wrath [Klingons],
-imperialistic society [Klingons] <Klingon>
 
 
 tng5x01
@@ -4988,8 +4993,7 @@ annoyance [Data at Hobson] <Data>,
 rage [Kurn at Gowron] <Kurn>,
 Spartan asceticism [Klingons],
 wrath [Klingons in barroom brawl],
-imperialistic society [Klingons] <Klingon>
-
+historical revisionism [Gowron was accused of rewriting the Klingon history books],
 
 tng5x02
 =======
@@ -6302,7 +6306,7 @@ the lust for gold [Ferengi captain] <Lurin>
 :: Minor Themes
 the nature of children [Alexander and the youthenized crew] <Alexander Rozhenko, Guinan, Ro, Picard>,
 female bonding [Guinan and Ro as children in bed] <Guinan/Ro>,
-coping with a disability [Picard with being in a child's body],
+coping with losing a special ability [Picard with being in a child's body],
 for better or for worse [Keiko being in the body of a little girl and husband Miles quietly asking himself if this counts as for the better, or for the worse] <Miles O'Brien/Keiko O'Brien>,
 husband and wife [Miles and Keiko] <Miles O'Brien/Keiko O'Brien>,
 carpe diem [Guinan's advice to Ro],
@@ -6529,7 +6533,8 @@ bio-mimicking life form [coalescent organism] <Coalescent Organism>
 :: Major Themes
 trust [Geordi in Aquiel] <Geordi>,
 coping with a loved one being in peril [Geordi at Aquiel] <Geordi>,
-facing wrongful accusations [Aquiel faced murder charges] <Aquiel Uhnari>
+facing wrongful accusations [Aquiel faced murder charges] <Aquiel Uhnari>,
+what if I was accused of a crime that I didn't commit [Aquiel faced murder charges] <Aquiel Uhnari>,
 
 :: Minor Themes
 duty vs. love [Geordi torn between siding with the weight of the evidence against Aquiel on the one hand and with his trust in Aquiel on the other] <Geordi>,
@@ -8459,7 +8464,6 @@ rudeness [Charlie] <Charlie Evans>,
 discipline of a child [Kirk to Charlie] <Kirk>,
 childishness [Charlie] <Charlie Evans>,
 lesson in humility [Charlie by Kirk] <Charlie Evans>,
-the desire for vengeance [Charlie] <Charlie Evans>,
 alien overseers [Thasians] <Thasian>,
 coping with unwelcome romantic attention [Janice from Charlie] <Janice Rand>,
 pride [Charlie] <Charlie Evans>,
@@ -8794,7 +8798,8 @@ old flames [Kirk and Areel Shaw] <Kirk/Areel Shaw>,
 compassion [Jame for Kirk] <Jame Finney>,
 grief [Jame for Finney] <Jame Finney>,
 kindness [Jame for Kirk] <Jame Finney>,
-the reliability of AI evidence in court [computer evidence disputed by Kirk's lawyer]
+the reliability of AI evidence in court [computer evidence disputed by Kirk's lawyer],
+legal proceedings [Kirk's court martial],
 
 
 tos1x15
@@ -9338,7 +9343,8 @@ Dispatched to the mining colony on Janus VI, the Enterprise is tasked to investi
 silicon-based life form [the horta] <Horta>,
 sentient rights [the horta had none according to the miners] <Horta>,
 endangered species [the horta was the last of it's species] <Horta>,
-cultural differences [Federation/Horta]
+cultural differences [Federation/Horta],
+the morality of colonization [Horta's planet was colonized by the Federation and Horta exploited],
 
 :: Major Themes
 xenocide vs. foregoing personal gain [kill Horta or lose access to mineral deposits],
@@ -9414,7 +9420,6 @@ respect for an enemy [Kor at Kirk] <Kor>,
 there is strength in unity [Kor about Klingons],
 fight vs. flee [Sulu should protect the ship says Kirk] <Sulu>,
 guerrilla tactics [Kirk in opposing Klingon occupation],
-the desire for vengeance [Kirk confused that Organians did not want vengeance] <Kirk>,
 the lust for power [Kor about conquest] <Kor>,
 sloth [Organians],
 anger [Kirk at Organians] <Kirk>,
@@ -9836,7 +9841,6 @@ hedonism [McCoy describes Argelius as a hedonistic society] <Argelian>,
 what men want [Scotty wants a cabaret dancing girl],
 open sexuality in society [the belly dancing],
 free love [the belly dancing],
-the desire for vengeance [Morla one of the suspects outraged] <Moria>,
 when in Rome [Kirk implored Scotty to follow Argelian customs in the cabaret],
 mind reading technology [psychotricorder; which they never used as far as I can tell] <psychotricorder>,
 lie detector [Enterprise computer],
@@ -9866,7 +9870,8 @@ serenity [Argelians],
 surprise [Scotty waking up with knife] <Scotty>,
 terror [Redjac tried to inspire terror in crew],
 sloth [Argelians],
-conflicting systems of jurisprudence []
+conflicting systems of jurisprudence [Argelians used the death penalty],
+legal proceedings [Scotty's extradition hearing],
 
 
 tos2x08
@@ -10061,7 +10066,8 @@ young and old romance [Kirk and Janet] <Janet Wallace/Kirk>,
 anger [Kirk had rambling outburst] <Kirk>,
 annoyance [Chekov at repeated medical examinations] <Chekov>,
 apprehension [landing party at prospect of rapid aging] <Kirk, Spock, McCoy>,
-grief [Kirk for Galway] <Kirk>
+grief [Kirk for Galway] <Kirk>,
+legal proceedings [Krik's competency hearing],
 
 
 tos2x12
@@ -11961,11 +11967,11 @@ trust in a friend [Spock at Kirk] <Spock>,
 transsexualism [Kirk was in the body of a woman],
 inferiority complex [Janice] <Janice Lester>,
 ruthlessness [Janice] <Janice Lester>,
-legal proceedings [the courtmartial],
 placing blame [Janice at Kirk] <Janice Lester>,
 facing a mortal enemy [Kirk faces Janice] <Kirk>,
 cruelty [Janice orders executions] <Janice Lester>,
 rage [Janice has temper tantrum] <Janice Lester>,
-wrath [Janice] <Janice Lester>
+wrath [Janice] <Janice Lester>,
+legal proceedings [Janice Lester in the body of Kirk at competency hearing],
 
 
