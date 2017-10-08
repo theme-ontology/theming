@@ -8,7 +8,7 @@ http://www.themeontology.org/
 Collaborate on files or create a directory with your name and work on files in private here.
 Any published stories (books, movies, tv shows, ...) are welcome.
 Use themes that are already defined in the first hand.
-Use the search tools on the main page.
+Use the search tools on the "themes" page at the url above.
 Invent new themes when needed.
 
 ### /canon
@@ -19,9 +19,8 @@ The idea is to keep this more or less in sync with the data on http://www.themeo
 ### /auto
 
 Data committed into /notes will be automatically parsed and collated into tables here.
-Files ending in "-stories.txt" will be parsed.
-These tables may be copied, edited and uploaded to the main site.
-Do not commit manually into the /auto directory.
+Files ending in "st.txt" will be parsed.
+The idea is that any errors in formatting or undefined stories/themes should show up here.
 
 
 ## What is a Theme?
