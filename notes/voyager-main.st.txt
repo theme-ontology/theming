@@ -4762,31 +4762,30 @@ Chakotay, Harry Kim, Tom Paris, Tuvok, Neelix, Seven of Nine, Tabor
 
 
 :: Choice Themes
-science based on unethical experimentation [can we conscientiously use data obtained through Nazi war-crimes?],
-humanoid testing [Cardassian had done in the past https://en.wikipedia.org/wiki/Unethical_human_experimentation],
-racism [all to Cardassian; B'Elanna was an unapologetic racist - IPHO racism stuff not choice],
-prejudice [all to Cardassian],
-prejudice in society [all to Cardassians],
-social ethical dilemma - make sure one is included,
-personal ethical dilemma - make sure one is included,
-medical ethics - make sure one is included,
+unethical human experimentation [can we conscientiously use data obtained through Nazi war-crimes?],
+humanoid testing [can we conscientiously use data obtained through Nazi war-crimes?],
+racism [Maquis to Cardassian; B'Elanna was an unapologetic racist],
+prejudice [Maquis to Cardassian; B'Elanna was an unapologetic racist],
+prejudice in society [Maquis to Cardassian; B'Elanna was an unapologetic racist],
 
 :: Major Themes
-virtual reality medical training [novel sci-fi soon to be real?],
-arthropod-like alien [the cytoplasmic lifeform https://en.wikipedia.org/wiki/Arthropod]
-Nazi human experimentation [use as history theme? thinly veiled parallel between Moset and Mengele],
-war crimes [Moset's unethical humanoid experimentation on Bajor during Cardassian occupation],
+virtual reality room [holodeck used to practice performing medical procedures],
+arthropod alien [the cytoplasmic life form],
+parasitic life form [the cytoplasmic life form parasitised B'Elanna],
+atrocities of war [Moset's unethical humanoid experimentation on Bajor during Cardassian occupation],
 the good of the many vs. the needs of the few [the arguments for and against doing nasty medical experiments],
+informed consent in medicine [The Doctor struggled with whether or not to treat B'Elanna without her consent],
+great need vs. compromising one's ethical principles [The Doctor struggled with decising whether or not to help Moset in his evil experiments],
 
 :: Minor Themes
-arrogance [the Doctor and his slide sharing],
-the need to be treated with respect [something about the Doc - maybe more about the need to be appreciated for one's accomplishments],
+pride [The Doctor giving his slide show],
 vanity [The Doctor giving his slide show],
-AI rights [they callously vivisected a holographic alien],
+the need to be treated with respect [The Doctor about being needed to be appreciated for one's accomplishments],
+vivisection [Moset callously vivisected a holographic alien],
 boredom [Voyager crew at The Doctor's slide show],
 coping with a loved one being in peril [Tom in particular about B'Elanna],
-passion for medicine [Crell and The Doctor],
-incompatible modes of communication [Voyager crew and bug aliens],
+passion for medicine [Moset and The Doctor],
+incompatible modes of communication [Voyager crew and cytoplasmic life form aliens],
 
 
 voy5x09
@@ -4812,43 +4811,39 @@ Neelix, Chakotay, Tuvok, Seven of Nine, The Doctor, B'Elanna, Riga, Burkus, Jenn
 sci-fi
 
 :: Choice Themes
-existential risk from destroying the environment [Monean mining operation caused their world ocean to evaporate],
-climate change and bureaucratic inaction [it was pretty much that ER],
-environmentalism [],
-confronting an old ghost [Tom introspecting about his dad (same theme used in Riker anbo jyutsu episode)],
-duty vs. conscience [Tom's tough decision],
-taking the law into one's own hands [Tom's tough decision],
+ecological destruction [Monean mining operation caused their world ocean to evaporate],
+climate change and bureaucratic inaction [Monean bureaucracy was unable to face the challenge of climate change],
+duty vs. conscience [Tom's tough decision about helping Riga],
+taking the law into one's own hands [Tom violated orders by helping Riga],
 
 :: Major Themes
-coping with being locked up in prison [Tom spends thirty days in the brig],
+confronting an old ghost [Tom introspecting about his relationship with his dad],
+coping with being imprisoned [Tom spends thirty days in the brig],
 father and son [Tom and his estranged father],
 fatherly disappointment in a son [Tom's father in Tom],
-ocean planet [Moneans lived in huge ball of water floating in space],
-semi-rapid oceanic dissipation [Monean existential risk],
-the need for adventure [reoccurring theme in tom episodes],
+water planet to the core [Moneans lived in huge ball of water floating in space],
+the need for adventure [Tom was bored with life and was eager to help Riga explore the water planet],
 boredom [Tom in the brig],
-Prime Directive [],
-duty vs. conscience [Tom],
-eco-terrorism,
-solitary confinement as a punishment [can indeed be considered cruel and unusual],
-water planet to the core [different from ocean planet and interesting],
-loneliness [Tom],
+Prime Directive [Tom violated Prime Directive by assisting Riga against their will],
+eco-terrorism [Tom and Riga committed acts of eco-terrorism by sabotaging refineries],
+solitary confinement as a punishment [Tom struggled in solitary confinement in the brig],
+loneliness [Tom in the brig],
 coping with being alone [Tom],
-bureaucracy [aliens' social problem],
+bureaucracy [Monean social problem],
+environmentalism [Riga's consciousness was raised about the importance of protecting the environment by the end of the episode],
 
 :: Minor Themes
-passion for cheesy sci-fi [Tom with Captain Proton holo-novel MO old films?],
-underwater city [Monean capital],
+passion for classic films [Tom with Captain Proton],
+underwater city [Monean capital city],
 man vs. beast [Delta Flier crew vs. electric ell-like sea creature],
+facing a ferocious beast [Delta Flier crew vs. electric ell-like sea creature],
 mysterious maker alien race [makers of the ocean planet],
 artificial planet [ocean planet was built by ancient aliens],
 man vs. institution [Riga and Tom vs. Monean government],
-eco terrorism [Riga and Tom destroy the refineries],
 unrequited love [Harry for wrong sister],
 delivering bad news [alien did not like],
 friendship [Tom and Harry],
-Prime Directive [mentioned and flaunted],
-ruthlessness [Janeway prepared to destroy Tom],
+ruthlessness [Janeway prepared to destroy Tom] <Janeway>,
 
 
 voy5x10
@@ -4865,7 +4860,7 @@ for Jews. A few twists a turns later he has seduced Janeway and tries to double 
 1 <mikael>, 2 <paul>
 
 :: Main Characters
-Janeway [object of romantic aspiration], Kashyk
+Janeway [object], Kashyk
 
 :: Supporting Cast
 Chakotay, B'Elanna, Harry Kim, Seven of Nine, The Doctor, Neelix, Tuvok, Kir, Prax, Vorik, Torat
@@ -4873,18 +4868,17 @@ Chakotay, B'Elanna, Harry Kim, Seven of Nine, The Doctor, Neelix, Tuvok, Kir, Pr
 :: Genre
 
 :: Choice Themes
-betrayal of trust [alien betrayed Janeway],
-mutual trust [the importance of which was discussed and illustrated],
-trust in a potential foe [Janeway's tough decision],
-betrayal [alien betrayed Janeway],
-refugees [Voyager was ferrying telepath refugees to safety], 
+betrayal of trust [Kashyk betrayed Janeway],
+mutual trust [Kashyk betrayed Janeway],
+trust in a potential foe [Janeway's tough decision in trusting Kashyk],
+betrayal [Kashyk betrayed Janeway], 
 
 :: Major Themes
-prejudice [aliens against telepaths (I think we have prejudice in society too)],
-racism in society [aliens against other species],
-xenophobic isolationist alien [the Devore],
-sacrifice .. for a cause? [Kashnik pretended],
-infatuation [Janeway and Nazi mutual],
+oppression [Voyager was ferrying telepath refugees to safety],
+prejudice [Kashyk against telepaths],
+racism in society [Devore against other species],
+sacrifice for one's beliefs [Kashyk pretended to support the telepathic refugees],
+infatuation [Janeway and Kashyk mutual],
 
 :: Minor Themes
 political asylum [Voyager granted to Kashyk],
@@ -4895,7 +4889,7 @@ suspended animation [telepaths suspended in transporter buffer],
 wormhole [Voyager sought one with the help of Kashyk and Torat],
 flirtation [Janeway and Kashyk in late night wormhole finding session],
 passion for music [Janeway and KAshyk for classical music],
-
+xenophobic isolationist alien [the Devore],
 
 
 voy5x11
