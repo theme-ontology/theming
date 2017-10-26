@@ -653,16 +653,6 @@ decoy tactic
 the art of war
 
 
-descent into crime
-==================
-
-:: Description
-
-
-:: Parents
-contemporary social issue
-
-
 desert planet
 =============
 
@@ -4043,6 +4033,78 @@ to commit.
 
 :: Parents
 social ethical dilemma
+
+
+the millennium shift
+====================
+
+:: Description
+One or more topics, for example the Y2K bug scare or the general excitement, that are 
+connected to the shift from the 2nd to the 3rd millennium in the Gregorian calendar,
+are featured.
+
+:: Parents
+history
+
+
+life in the late 20th century
+=============================
+
+:: Description
+We are shown what life was like for people in the second half of the 20th century.
+
+:: Parents
+history
+
+
+growing as a person
+===================
+
+:: Description
+Someone realizes that they've learned something important that made them develop as
+a person, making them more mature and sophisticated as a result.
+
+:: Aliases
+personal development
+
+:: Parents
+introspect
+
+
+sacrifice to prevent mass death
+===============================
+
+:: Description
+Someone does a self-sacrificial thing in order to save a large number of people
+from death.
+
+:: Example
+In voy5x25 "Warhead" the eponymous warhead (a sentient bomb) decides to detonate
+to destroy a number of other bombs instead of letting them complete their missing,
+thereby saving countless innocent lives.
+
+:: Parents
+self-sacrifice
+
+
+descent into crime
+==================
+
+:: Description
+The way that someone can, step by step and without particular premeditation, get 
+drawn into evermore serious crime is featured.
+
+:: Example
+In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be involved
+in drug smuggling. After covering up some minor transgressions Neelix eventually found 
+himself an accomplice to serious crime.
+
+In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed an alien
+and discovered that its body made excellent fuel. Driven by exceptional need they
+procured another alien which they murdered for fuel, then another and so on.
+
+:: Parents
+contemporary social issue
 
 
 
