@@ -5414,7 +5414,8 @@ voy5x23
 11:59
 
 :: Description
-Janeway learns that one of her famed ancestors is not who she thought she was.
+Janeway learns that one of her famed ancestors is not who she thought she was. The story follows
+her ancestors, Shannon O'Donnel and Henry Janeway, around the turn of the millennium.
 
 :: Ratings
 4 <paul>,
@@ -5461,7 +5462,8 @@ voy5x24
 Relativity
 
 :: Description
-Seven of Nine travels back in time to save Voyager.
+Seven of Nine travels back in time to save Voyager. This is because Braxton is trying to destroy
+Voyager to prevent himself from having suffered in the past.
 
 :: Ratings
 1 <paul>,
@@ -5542,7 +5544,8 @@ voy5x26
 Equinox (1)
 
 :: Description
-
+Voyager comes across another ship stranded in the Delta Quadrant. The Equinox has a dark secret though:
+they kill extra-dimensional aliens to harness their bodies as fuel.
 
 :: Ratings
 3 <paul>,
@@ -5589,10 +5592,12 @@ voy6x01
 Equinox (2)
 
 :: Description
-
+Janeway goes through hell and high water to track down the Equinox and bring its crew to justice
+for their unethical acts against extra-dimensional aliens.
 
 :: Ratings
 3 <paul>, 
+2 <mikael>,
 
 :: Main Characters
 Janeway, Chakotay, Seven of Nine, The Doctor, Rudolph Ransom, Max Burke
@@ -5600,12 +5605,10 @@ Janeway, Chakotay, Seven of Nine, The Doctor, Rudolph Ransom, Max Burke
 :: Supporting Cast
 Tom Paris, Neelix, Tuvok, B'Elanna, Harry Kim, Marla Gilmore, Noah Lessing, Naomi Wildman
 
-:: Genre
-
-
 :: Choice Themes
 the desire for vengeance [Janeway determined to hunt down Captain Ransom],
 becoming the very thing you hate [Janeway behaved like Captain Ransom],
+duty vs. conscience [Chakotay v Janeway, Max v Ransom],
 
 :: Major Themes
 second guessing one's self [Captain Ransom saw the error of his ways by the end of the episode],
@@ -5614,6 +5617,11 @@ Prime Directive [Equinox violated to get home],
 extra-dimensional alien [nucleogenic alien],
 descent into evil [],
 obsession [Janeway at getting vengeance against Ransom],
+vengeance vs. safety [Janeway took stupid risks to get at Ransom],
+sentient rights [not to be exploited for fuel, and the torture session],
+trusting one's conscience [Chakotay wrestled with his conscience, as did others],
+selfless service [Ransom sacrificed himself in the end],
+duty to disobey illegal orders [https://en.wikipedia.org/wiki/Nuremberg_principles#Principle_IV],
 
 :: Minor Themes
 problem of language and meaning [Voyager crew trying to communicate with neurogenic aliens],
@@ -5624,7 +5632,10 @@ justification for torture [Janeway subjected Noah Lessing to torture in effort t
 duty vs. self-preservation [Equinox crew abandoned the Prime Directive in order to return to the Alpha Quadrant],
 killing to survive [Equinox crew used aliens for fuel to return to Earth at breakneck speed],
 self-sacrifice [Captain Random gave his life by to save Voyager and Equinox crews],
+mind reading technology [evil Doc used on Seven],
 
+:: Associations
+tng7x12 [Riker stood up to Pressman like Chakotay stood up to Janeway],
 
 
 voy6x02
@@ -5634,19 +5645,18 @@ voy6x02
 Survival Instinct
 
 :: Description
-
+A group of former Borg drones from Seven's past appear and seek help to disentangle their
+minds from one another.
 
 :: Ratings
 2 <paul>,
+1 <mikael>,
 
 :: Main Characters
 Seven of Nine [object], Janeway,
 
 :: Supporting Cast
 Neelix, Tuvok, Naomi Wildman, B'Elanna, Harry Kim, The Doctor, Tom Paris, Lansor, Marika Wilkarah, P'Chan
-
-:: Genre
-
 
 :: Choice Themes
 what if I could hear thoughts [ex-Borg drones had their minds filled with each others thoughts],
@@ -5673,10 +5683,11 @@ voy6x03
 Barge of the Dead
 
 :: Description
-B'Elanna dies and goes to Klingon hell.
+B'Elanna goes to Klingon hell to save her mother but it's all a hallucination. Or is it?
 
 :: Ratings
 2 <paul>,
+0 <mikael>,
 
 :: Main Characters
 B'Elanna [object], Janeway, Tom Paris, The Doctor
@@ -5684,16 +5695,19 @@ B'Elanna [object], Janeway, Tom Paris, The Doctor
 :: Supporting Cast
 Chakotay, Harry Kim, Neelix, Tuvok, Seven of Nine, Hij'Qa, Miral, Brok'tan, Kotar
 
-:: Genre
-
-
 :: Choice Themes
 the afterlife [B'Elanna in Klingon hell],
 what if I went on a journey into the underworld [B'Elanna in Klingon hell],
 confronting an old ghost [B'Elanna about letting her mother know she appreciated her in life],
+honor [Klingon culture is all about honor of one kind or another],
+the need for cultural heritage [B'Elanna came to appreciate hers],
+having a preconception challenged [B'Elanna found out Klingon mythology is real],
+what if some religion was in fact true [],
+sacrifice for a loved one [B'Elanna went to hell for mommy],
+introspection,
 
 :: Major Themes
-mother and daughter [Miral and B'Elanna],
+mother and daughter [Miral and B'Elanna also Janeway and B'Elanna],
 symbolism [B'Elanna searching for meaning in her experience in the afterlife],
 near death experience [PS notices we have a related crackpot theory theme, but none for the actual experience people sometimes report],
 catharsis [B'Elanna releases bottled up emotions about Voyager crew and her mother on Klingon barge],
@@ -5701,6 +5715,9 @@ catharsis [B'Elanna releases bottled up emotions about Voyager crew and her moth
 :: Minor Themes
 the need for cultural heritage [something about the crew embracing B'Elanna's Klingon heritage],
 honor [Miral claimed she was dishonored by her daughter B'Elanna],
+freedom of religion [B'Elanna argued over with Janeway],
+husband and wife [Tom was there and whined a bit],
+
 
 voy6x04
 =======
