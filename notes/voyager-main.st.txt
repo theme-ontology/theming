@@ -5768,7 +5768,7 @@ voy6x05
 Alice
 
 :: Description
-Tom finds a spaceship with a neural interface and hot sexy personality. 
+Tom finds a spaceship with a neural interface and a hot sexy personality. 
 Tom is seduced and made to do the spaceship's bidding.
 
 :: Ratings
@@ -5812,10 +5812,12 @@ voy6x06
 Riddles
 
 :: Description
-
+Betentacled aliens zap Tuvok with an amnesia inducing energy weapon. When he wakes up he is so emotional and
+childlike that he befriends Neelix and takes up cooking.
 
 :: Ratings
-3 <paul>
+3 <paul>,
+1 <mikael>,
 
 :: Main Characters
 Neelix [object], Tuvok [object], Janeway, Naroq,
@@ -5823,19 +5825,22 @@ Neelix [object], Tuvok [object], Janeway, Naroq,
 :: Supporting Cast
 The Doctor, Seven of Nine, Chakotay, Harry Kim, Tom Paris
 
-:: Genre
-
-
 :: Choice Themes
-loss of inhibition [Tuvok],
+loss of inhibition [Tuvok MO: huh? that was very very minor],
 friendship [Tuvok and Neelix],
-faith in a friend [Neelix in Tuvok's ability to recover from his affliction],
-personal identity [fun loving Tuvok didn't want to undergo the treatment to return to logical Tuvok],
+faith in a friend [Neelix in Tuvok's ability to recover from his affliction MO: this is used differently - maybe friendship is enough],
+personal identity [fun loving Tuvok didn't want to undergo the treatment to return to logical Tuvok MO: personal identity is a metaphysics theme],
+Apollonian vs. Dionysian [intellect vs. emotion],
+extrovert vs. introvert [Tuvok is exceedingly taciturn and Neelix just won't shut up],
+what if I suffered total amnesia and had to relearn everything [Tuvok did],
+coping with amnesia [Tuvok did although MO now regrets having extraordinary unlikely situations as copings - what if's are better],
 
 :: Major Themes
 convalescence [Tuvok upon waking from coma],
 xenophobic isolationist alien [Ba'neth],
 ultra rational alien [Vulcans],
+coping with degrading mental faculties [Tuvok frustrated by being less smart - and we may all do as we grow older],
+betentacled invisible jerk aliens?,
 
 :: Minor Themes
 annoyance [Tuvok at Neelix telling riddles in the shuttlecraft],
@@ -5843,6 +5848,10 @@ fear [Tuvok cowered net to chair during Ba'neth attack],
 anger [Tuvok had a temper tantrum in sickbay],
 the thirst for knowledge [Naroq was curious to prove the existence of a mythical race of shadow people; The Doctor at Neelix playing Vulcan monastic chants in sickbay],
 coping with bad food [Tom and Harry eating Tuvok's sundae; Janeway with Tuvok's souffle],
+coping with a loved one being in peril [Neelix over injured Tuvok],
+what if my friend suffered a coma [Neelix and Tuvok, a common motif in stories],
+pleasure in cooking [Tuvok and Neelix],
+strange TD (life choice) for Tuvok [],
 
 
 voy6x07
