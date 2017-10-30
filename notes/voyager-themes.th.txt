@@ -508,7 +508,7 @@ coping with being ill on the job
 ================================
 
 :: Description
-
+Someone experiences symptoms of some illness while at work.
 
 :: Parents
 coping with an affliction
@@ -518,7 +518,8 @@ coping with being separated from someone you love
 =================================================
 
 :: Description
-
+A character is struggling with relationship issues that come from being far away
+(or otherwise separated) from the object of their affection for an extended period of time.
 
 :: Parents
 coping with social issues
@@ -528,7 +529,8 @@ coping with being suspected of something
 ========================================
 
 :: Description
-
+A character struggles with the feelings and social complications that can come with being 
+suspected of a misdemeanor even without firm evidence.
 
 :: Parents
 coping with stress
@@ -538,7 +540,7 @@ coping with getting dumped
 ==========================
 
 :: Description
-
+A former lovebird deals with the emotional fallout of having been dumped like a sack of potatoes.
 
 :: Parents
 coping with social issues
@@ -548,13 +550,8 @@ coping with having a bad reputation
 ===================================
 
 :: Description
-
-
-:: Parents
-coping with social issues
-
-:: Description
-
+A character struggles with the feelings and social complications that can come with having
+a bad reputation with people around you.
 
 :: Parents
 coping with social issues
@@ -564,7 +561,8 @@ coping with puberty
 ===================
 
 :: Description
-
+A kid struggles with the normal hallmarks of puberty, such as a variety of bodily changes
+and sexual urges.
 
 :: Parents
 coping with life issues
@@ -574,7 +572,8 @@ coping with saying goodbye forever
 ==================================
 
 :: Description
-
+A character is about to leave someone they care about behind forever and struggles with
+how to take their leave.
 
 :: Parents
 coping with life issues
@@ -584,7 +583,7 @@ coping with starvation
 ======================
 
 :: Description
-
+A character is deprived of food for a dangerous period of time.
 
 :: Parents
 coping with an affliction
@@ -594,7 +593,8 @@ coping with the death of a new-born
 ===================================
 
 :: Description
-
+Someone, typically a parent, struggles with the emotions that can come when a
+new-born child to which they are beholden expires soon after delivery.
 
 :: Parents
 coping with death
@@ -604,7 +604,7 @@ coping with unwanted sexual urges
 =================================
 
 :: Description
-
+A character has carnal urges of which they are ashamed, or that they otherwise don't desire.
 
 :: Parents
 coping with life issues
@@ -614,7 +614,7 @@ cranial aggression implant
 ==========================
 
 :: Description
-
+A device implanted in the head that makes you more aggressive.
 
 :: Parents
 fictional apparatus
@@ -624,7 +624,9 @@ creationism in society
 ======================
 
 :: Description
-
+The contemporary social issue of how to handle creationist teachings is discussed. Everyone is
+entitled to their own opinion, of course, but to what extent is it permissible to teach children
+such nonsense?
 
 :: Parents
 contemporary social issue
