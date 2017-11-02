@@ -7493,7 +7493,7 @@ Pathfinder
 
 
 :: Setting
-
+apartment, office
 
 :: Deaths
 
@@ -7529,7 +7529,7 @@ Pathfinder
 
 
 :: Other Keywords
-
+intruder alert <33:22>
 
 :: Errors
 
