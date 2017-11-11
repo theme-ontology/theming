@@ -866,7 +866,7 @@ facing organized pursuit
 ========================
 
 :: Description
-A character is being pursued by the police, or a crime syndicate, etc.
+A character is being pursued by for example the police, a crime syndicate, or some other organized group.
 
 :: Parents
 facing general adversity
@@ -876,7 +876,14 @@ family life
 ===========
 
 :: Description
+The everyday life of a possible human family is featured.
 
+:: Example
+In voy3x22 "Real Life" The Doctor created a stereotypical idealized American family on the holodeck with
+which he played out classical motifs such as the husband coming home from work to a loving house wife
+and sitting down to an orderly family dinner. Objecting to this unrealistic fantasy, B'Elanna introduced
+various elements of dysfunction: The wife became overworked and testy, their teenage son got caught up with a bad
+crowd of rowdy Klingons, their younger daughter wanted to engage in dangerous activities, etc.
 
 :: Parents
 group interaction
@@ -886,7 +893,7 @@ fantasy romance
 ===============
 
 :: Description
-
+Someone imagines their own ideal romantic adventure.
 
 :: Parents
 introspection
@@ -896,7 +903,7 @@ female sexuality
 ================
 
 :: Description
-
+The sexual urges of a female character are notably featured.
 
 :: Parents
 human nature
@@ -906,7 +913,8 @@ fighting one's inner demons
 ===========================
 
 :: Description
-
+Someone is haunted by past memories or fictive notions with which they seek to come to grips 
+in order to function normally.
 
 :: Parents
 introspection
@@ -916,7 +924,8 @@ figuring out what to do with one's life
 =======================================
 
 :: Description
-
+Someone lacks a particular sense of purpose and tries to decide what they really want to do
+in the long term, e.g., choosing a career, a life of adventure, or settling down etc.
 
 :: Parents
 life choice
@@ -926,7 +935,7 @@ fitting in at work
 ==================
 
 :: Description
-
+Some has troubles getting along smoothly in day-to-day life with their coworkers.
 
 :: Parents
 group interaction
@@ -936,7 +945,8 @@ focusing on the present vs. thinking about the future
 =====================================================
 
 :: Description
-
+Someone is focusing on the future at the expense of the present or vice versa and struggles
+with finding a reasonable balance between the two.
 
 :: Parents
 personal ethical dilemma
@@ -946,7 +956,12 @@ forced fatherhood
 =================
 
 :: Description
+Someone becomes a father against their will and we are asked what this person's responsibilities
+vis-à-vis his unwanted child should morally be.
 
+:: Example
+In voy2x26 "Basics, Part I" we learn that Seska has stolen some DNA from Chakotay and made herself 
+pregnant with his child entirely without his cooperation or consent.
 
 :: Parents
 past and present moral controversies
@@ -956,7 +971,9 @@ freedom of the press
 ====================
 
 :: Description
-Fourth Estate
+The oft desirable independence of the Fourth Estate, i.e. news and media, from undue influences by other 
+branches of government is discussed. What counts as news, and should putative journalists be allowed to 
+write and say whatever they choose in public forums?
 
 :: Parents
 contemporary social issue
@@ -966,7 +983,8 @@ gestural language
 =================
 
 :: Description
-
+Someone communicates by means of large ritualistic gestures, well beyond simple sign language as we are 
+familiar with it.
 
 :: Parents
 problem of language and meaning
@@ -976,7 +994,8 @@ giving birth
 ============
 
 :: Description
-
+A mother gives birth to a child, often with a medical professional present to assist and with a
+father standing anxiously by.
 
 :: Parents
 parenting
