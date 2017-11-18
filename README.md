@@ -26,7 +26,7 @@ The idea is that any errors in formatting or undefined stories/themes should sho
 ## What is a Theme?
 
 A theme is any topic that is featured in a story.
-A central theme is a topic that is topical throughout most of the story, either because it is featured explicitly or because it is revealed as the "moral of the story" towards the end.
+A central theme is a theme that is topical throughout most of the story, either because it is featured explicitly or because it is revealed as the "moral of the story" towards the end.
 A peripheral theme is any theme of interest that is featured briefly.
 In the notes, peripheral themes are called "minor". 
 Central themes are called "major" or "choice".
@@ -40,7 +40,7 @@ Don't waste time including uninteresting minor themes but feel free to include w
 Good themes are topics that are featured sgnificantly in various different stories.
 Don't introduce themes that are specific to a particular fictional universe; generalize them instead.
 Look for themes that are obvious and seem uncontroversial.
-Look for themes that expose our human nature through the stories we make.
+Look for themes that expose our human nature through the stories we tell.
 
 "The desire for vengeance", "the horrors of war", "faith vs. reason", "what if I had magical powers", are examples of good themes that we find in many different stories.
 
