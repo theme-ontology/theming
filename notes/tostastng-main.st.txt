@@ -2190,7 +2190,6 @@ handheld lab [used to investigate the eery  planet on which the hotel was found]
 Fermat's last theorem [Picard discussed],
 pleasure in solving a puzzle [Picard about Fermat's Last Theorem] <Picard>,
 infatuation [bellboy and Mickey D's girlfriend] <bellboy>,
-alien overseers [Royal creators] <Casino Royale Makers>,
 mysterious maker alien race [Royale makers] <Casino Royale Makers>,
 ennui [astronaut was bored to death in that horrible story],
 boredom [Picard was bored senseless by that horrible novel] <Picard>,
@@ -4970,14 +4969,12 @@ stepping up to the task [Data commands a ship of his own] <Data>,
 über-belligerent alien [Klingon] <Klingon>
 
 :: Minor Themes
-avarice [Lursa and B'Etor] <Lursa, B'Etor>,
-the lust for gold [Lursa and B'Etor] <Lursa, B'Etor>,
+the lust for power [Lursa and B'Etor] <Lursa, B'Etor>,
 mercy [Worf at Toral] <Worf>,
 magnanimity in victory [Worf at end] <Worf>,
 military dictatorship [Klingons] <Klingon>,
 ingenuity [Geordi sets up tachyon detection grid] <Geordi>,
 gluttony [Klingon feast],
-mother and daughter [Tasha and Sela] <Tasha/Sela>,
 playing dead tactic [Picard lured Sela to enter the detection grid],
 clash of wills [Data and Hobson] <Data/Christopher Hobson>,
 the desire to advance one's career [Data steps up and asks Picard to grant him command of a ship] <Data>,
@@ -5179,15 +5176,13 @@ what if everyone turned into zombies [video game addicted people were pretty muc
 people escaping from reality [],
 man vs. zombie [Wesley and Robin vs. video game addicted crew] <Wesley, Robin Lefler>,
 facing mysterious adversity [Wesley and Robin face a video game addicted crew] <Wesley, Robin Lefler>,
-sloth [gamers]
+sloth [gamers],
 
 :: Minor Themes
 reunion with a loved one [Beverly with Wesley] <Beverly, Wesley>,
 mother and son [Beverly and Wesley] <Beverly/Wesley>,
 cooperation [stellar physicists and planetary evolution team must learn to work together],
 the lust for power [Etana] <Etana Jol>,
-avarice [Etana] <Etana Jol>,
-the lust for gold [Etana] <Etana Jol>,
 facing a mortal enemy [crew face Enata],
 ecstasy [gamers],
 gluttony [Troi with chocolate fudge] <Troi>,
@@ -5667,7 +5662,8 @@ deductive logic [crew must resort to deduction to solve puzzle of temporal causa
 anxiety [Beverly over deja vu experiences] <Beverly>,
 logic vs. gut feeling [Beverly] <Beverly>,
 man vs. space anomaly [Enterprise stuck in time loop],
-facing mysterious adversity [Enterprise stuck in time loop]
+facing mysterious adversity [Enterprise stuck in time loop],
+time travel [Enterprise stuck in time loop],
 
 :: Minor Themes
 charting unknown territory [exploration of the Typhon Expanse],
@@ -6991,9 +6987,10 @@ localized time distortion [time distortions wrought havoc on Enterprise]
 :: Major Themes
 extra-dimensional alien [the quantum singularity lifeform] <Quantum Singularity Lifeform>,
 risk taking vs. playing it safe [crew takes risk by helping crippled Romulan vessel],
-man vs. space anomaly [crew vs. time distortion]
+man vs. space anomaly [crew vs. time distortion],
 
 :: Minor Themes
+time travel [crew experience localized time distortions],
 the nature of human perception of time [Data and the tea kettle],
 coping with an unruly pet [Riker and Geordi at Spot] <Riker, Geordi>,
 exceedingly devious alien [Romulan] <Romulan>,
@@ -7192,8 +7189,6 @@ passion for archaeology [Picard in searching for the Stone of Gol] <Picard>,
 space pirates [Baran and crew],
 ruthlessness [Baran] <Arctus Baran>,
 workplace relations [tense relations among Baran's crew],
-avarice [mercenaries] <Arctus Baran>,
-the lust for gold [mercenaries] <Arctus Baran>,
 coping with a bad boss [crew at Baran] <Picard, Tallera, Vekor, Narik>,
 anger [Riker at Yranac] <Riker>,
 cruelty [Baran not opposed to using pain implants] <Arctus Baran>,
@@ -7229,8 +7224,6 @@ space pirates [Baran and crew],
 android [Data in the captain's chair] <Data, Soong Type Android>,
 coping with a bad boss [crew at Baran] <Picard, Riker, Tallera, Vekor, Narik>,
 the thirst for knowledge [Picard about Vulcan history] <Picard>,
-avarice [mercenaries],
-the lust for gold [mercenaries] <Arctus Baran>,
 facing a mortal enemy [Picard and Riker on enemy ship] <Picard, Riker>,
 anger [Tallera] <Tallera>,
 cruelty [Baran not opposed to using pain implants] <Arctus Baran>,
@@ -8460,7 +8453,6 @@ rudeness [Charlie] <Charlie Evans>,
 discipline of a child [Kirk to Charlie] <Kirk>,
 childishness [Charlie] <Charlie Evans>,
 lesson in humility [Charlie by Kirk] <Charlie Evans>,
-alien overseers [Thasians] <Thasian>,
 coping with unwelcome romantic attention [Janice from Charlie] <Janice Rand>,
 pride [Charlie] <Charlie Evans>,
 compassion [all to Charlie; especially Janice] <Janice Rand>,
