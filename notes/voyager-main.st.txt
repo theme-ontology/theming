@@ -6870,7 +6870,7 @@ that are deemed important rather than those that need it.
 
 :: Ratings
 2 <mikael> [it had potential but the conceits and hypocrisies were just too many to bear],
-4 <paul> [reminded me of when i peered into first class from economy on my flight from canada last month],
+4 <paul>,
 
 :: Main Characters
 The Doctor [object], Janeway, Voje, Chellick
@@ -6974,6 +6974,7 @@ coping with unwanted sexual urges [Tuvok in a Vulcan heat],
 loss of self-control [Tuvok in the pon farr],
 self-control [Tuvok in the pon farr],
 pride [The Doctor wallowed in his own accomplishments in the body of Seven],
+vanity [The Doctor wallowed in his own accomplishments in the body of Seven],
 AI prejudice in society [Lokirrim against photonics],
 the nature of the senses [The Doctor was astonished by the experience of tastes, smells, emotions, etc.],
 man vs. captivity [Away team held captive aboard Lokirrim vessel],
@@ -7121,26 +7122,29 @@ between them for some reason. Whilst setting things aright he has to confront a 
 of enemies from the past.
 
 :: Ratings
-0 <mikael>,
+0 <mikael>, 1 <paul>,
 
 :: Main Characters
-
+Chakotay [object], Janeway, 
 
 :: Supporting Cast
-
+Icheb, Naomi Wildman, Harry Kim, Seven of Nine, B'Elanna, The Doctor, Tom Paris, Neelix, Tuvok, Doctor Chaotica, Lonzak, Seska, Rulat, Andrews
 
 :: Choice Themes
-time travel [],
+time travel [a time distortion throws Chakotay different points into Voyager's past, depending his location on the ship],
 time traveler's dilemma [Chakotay argued with various people about changing the past],
-localized time distortion [whatever],
+localized time distortion [whatever (major, why not?)],
+what if I was tossed into the past [a time distortion throws Chakotay different points into Voyager's past, depending his location on the ship]
 
 :: Major Themes
 
 
 :: Minor Themes
-trust in a potential foe [Janeway about Chakotay, maybe others],
+trust in a potential foe [Janeway about Chakotay; B'Elanna in Chakotay],
 coping with the death of a friend [Janeway with Tuvoc],
 facing a hostage situation [tiny one with Seska],
+virus that grows into large creature [the macroscopic virus is back!!],
+unrequited love [Doctor Chaotica at Janeway; Seska at Chakotay],
 
 
 voy7x12
@@ -7151,29 +7155,31 @@ Lineage
 
 :: Description
 Tom and B'Elanna become pregnant and start worrying about what their baby will be like.
-B'Elanna remembers her own troubled upbringing and tries to get the Doctor to genetically
+B'Elanna remembers her own troubled upbringing and tries to get The Doctor to genetically
 modify the child so it won't suffer the same. Because then Tom might leave her like her dad
 left her mom.
 
 :: Ratings
-3 <mikael>,
+3 <mikael>, 3 <paul>
 
 
 :: Main Characters
-
+B'Elanna [object], Tom Paris [object], The Doctor
 
 :: Supporting Cast
-
+Janeway, Icheb, Seven of Nine, Neelix, Chakotay, Harry Kim, Tuvok, John Torres, Carl, Dean, Elizabeth, Michael
 
 :: Choice Themes
 husband and wife [B'Elanna and Tom],
 expecting parents [B'Elanna and Tom],
 childhood as an outsider [B'Elanna did and now worries about her baby facing the same],
-the use of genetic engineering [when and to what extent is it ok to modify your baby?],
-dysfunctional upbringing [B'Elanna had had and worried about her daughter],
+the use of genetic engineering [when and to what extent is it ok to modify your baby? (would do well to make a child theme here. reminds me of Gattaca)],
+contemporary social issue [something about parent's right to determine a pregnancy],
+dysfunctional upbringing [B'Elanna had had and worried about her daughter (troubled childhood?)],
+the struggles Of being mixed race [PS supposes this is the theme at the crux of the story],
 
 :: Major Themes
-father and daughter [B'Elanna and her father],
+father and daughter [B'Elanna and her father Michael],
 divorce [B'Elanna's father and she worried about Tom],
 
 :: Minor Themes
@@ -7181,8 +7187,9 @@ child rearing [Tom discussed with Tuvoc],
 genetic engineering [DNA was mentioned],
 bullying [B'Elanna was bullied],
 coping with guilt [apparently B'Elanna felt guilty about making her father leave],
-AI rights [the Doctor was violated],
+AI rights [the Doctor was violated (borderline)],
 fear of abandonment [revealed as perhaps the underlying reason for B'Elanna's behavior],
+anger [B'Elanna had angry outburst when she was pregnant; young B'Elanna flipped out when Dean put a worm in her sandwich],
 
 
 voy7x13
