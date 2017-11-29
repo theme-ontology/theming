@@ -228,7 +228,8 @@ The Enterprise crew revisits the "amusement park" planet first seen in the Class
 
 :: Choice Themes
 magical amusement planet [Shore Leave Planet] <Shore Leave Planet>,
-what if our fantasies become reality [just a regular day on the Shore Leave Planet]
+what if our fantasies become reality [just a regular day on the Shore Leave Planet],
+out of control AI [Shore Leave Planet central computer took over] <Shore Leave Planet Computer>,
 
 :: Major Themes
 machines in society [what is a good role for the amusement planet controller in society],
@@ -2607,11 +2608,10 @@ obsession with a life-dedicated project [Stubs] <Paul Stubbs>
 :: Major Themes
 sentient nanomachines [Nanites] <Nanites>,
 nanotechnology [Nanites] <Nanites>,
-danger from a new technology [Nanites taking over the Enterprise was an unintended consequence of Wesley having made them],
+out of control AI [Nanites taking over the Enterprise was an unintended consequence of Wesley having made them],
 the theory of evolution [much was made of the nanites having evolved],
 cultural differences [humans/nanites],
 lesson in humility [Stubbs] <Paul Stubbs>,
-rise of the machines [Nanites take over the Enterprise],
 self-replicating nano-devices [Nanites] <Nanites>,
 AI point of view [Nanites] <Nanites>,
 AI rights [do the nanites have rights? Stubbs says no, but others beg to differ],
@@ -6379,7 +6379,7 @@ personal conviction [Data about exocomp rights] <Data>
 manliness [beards discussed at the poker table],
 beards [pogonotrophical interlocution at the poker table ] <Geordi, Riker>,
 man vs. woman [Beverly challenges the men to shave their beards],
-danger from a new technology [exocomps being to disobey their Human masters],
+out of control AI [exocomps being to disobey their Human masters],
 heroism [exocomps],
 sacrifice for a friend [exocomps for Data],
 compassion [exocomps],
@@ -7778,7 +7778,6 @@ what if everyone turned into zombies [Picard and Data faced a ship full of zombi
 :: Major Themes
 the nature of animal instincts in humans [devolved people displayed idiosyncratic animal instincts],
 what if I underwent a physical metamorphosis [the crew, but Picard in lemur in particular] <Picard, Troi, Riker, Worf, Beverly, Barclay>,
-man-made pandemic [Barclay’s protomorphosis syndrome]
 
 :: Minor Themes
 hypochondria [Barclay] <Barclay>,
