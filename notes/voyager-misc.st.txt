@@ -9465,7 +9465,7 @@ Human Error
 
 
 :: Setting
-
+parlor,
 
 :: Deaths
 
@@ -9501,7 +9501,7 @@ Human Error
 
 
 :: Other Keywords
-
+red alert <37:55>,
 
 :: Errors
 
@@ -9514,16 +9514,16 @@ VOY7x19
 =======
 
 :: Title
-Q²
+Q2
 
 :: Short Description
 
 
 :: Aliens
-
+Q, Borg, Chokuzan
 
 :: Setting
-
+alien strip bar, 
 
 :: Deaths
 
