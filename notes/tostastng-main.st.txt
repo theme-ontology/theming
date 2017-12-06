@@ -1438,7 +1438,9 @@ Trapped on the surface of an abandoned planet, an away team becomes unwitting pa
 
 :: Choice Themes
 rise of the machines [autonomous adaptive machines killed everyone on planet],
-unregulated autonomous weapons system [the hover kill bots],
+autonomous weapons system [the hover kill bots],
+autonomous weapon system killing everyone [the hover bots turned on their makers],
+autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems],
 man vs. machine [crew vs. weapons system]
 
 :: Major Themes
@@ -9109,7 +9111,7 @@ man vs. zombie [landing party and the people controlled by Landru]
 :: Minor Themes
 inebriated interaction [the people at festival],
 what if I could do anything I wanted without repercussions [the people at festival],
-god king [Landru] <Children of Landru>,
+theocracy [Landru] <Children of Landru>,
 quasi-religious cults [Landru as cult leader] <Children of Landru>,
 religion as a control mechanism [Landru used religion as a tool to control the people],
 what if everyone turned into zombies [the people at festival] <Children of Landru>,
@@ -9859,6 +9861,7 @@ facing an overpowering adversary [crew face Nomad],
 man vs. machine [crew vs. nomad]
 
 :: Minor Themes
+interstellar probe [Nomad probe sent from Earth],
 music appreciation [Uhura] <Uhura>,
 femininity [a mass of conflicting impulses],
 what if I suffered total amnesia and had to relearn everything [Uhura] <Uhura>,
@@ -10638,6 +10641,8 @@ obsession with a life-dedicated project [Daystrom] <Richard Daystrom>
 :: Major Themes
 sentient computer [M-5 multitronic unit] <M-5 multitronic unit>,
 out of control AI [M-5 multitronic unit goes out of control and starts attacking Starfleet targets],
+autonomous weapon system [M-5 multitronic unit transformed the Enterprise into an autonomous weapons system],
+autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems],
 coping with time passing you by [Daystrom built the M-5 to show everyone he still had it] <Richard Daystrom>,
 clash of wills [Kirk/Daystrom, McCoy/Spock] <Kirk/Richard Daystrom, McCoy/Spock>,
 maker and machine [Daystrom and the M-5] <Richard Daystrom/M-5 multitronic unit>,
@@ -11803,7 +11808,6 @@ military tactics [good team strategy contrasted with evil team strategy],
 deviousness [Green] <Philip Green>,
 the thirst for knowledge [Yarnek] <Yarnek>,
 what if I had to fight to the death [landing part vs. Green] <Kirk, Spock, Surak, Abraham Lincoln>,
-good is stronger than evil [we must conclude in light of the result of the fight to the death],
 ultra-rational alien [Vulcan] <Vulcan>,
 alien with alien values [rock monsters] <Exclabian>,
 leadership [Kirk in contrast to Green] <Kirk>,
