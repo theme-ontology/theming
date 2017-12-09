@@ -914,7 +914,7 @@ Bolian, Bajoran, Ferengi [mentioned], Romulan [mentioned], Cardassian [mentioned
 
 
 :: Plot Devices
-captain's log [Janeway, Janeway]<6:12-6:28, 31:14-31:28>, security log supplemental [Tuvok]<23:34-23:48>, find a cure [the cheese infection of the biogel]
+captain's log [Janeway, Janeway]<6:12-6:28, 31:14-31:28>, security log supplemental [Tuvok]<23:34-23:48>
 
 :: Other Keywords
 red alert <25:15>, holodeck, English stereotyping, holonovel, stargazing [Tuvok]
@@ -1784,7 +1784,7 @@ kiss [Tom and Kes]<25:40>
 
 
 :: Plot Devices
-first officer's log [Chakotay]<39:15-39:28>, first officer's log supplemental [Chakotay]<42:15-42:26>, Maltuvis device [Orville Wright, Neil Armstrong, Zephram Cochrane, Tom Paris], find a cure
+first officer's log [Chakotay]<39:15-39:28>, first officer's log supplemental [Chakotay]<42:15-42:26>, Maltuvis device [Orville Wright, Neil Armstrong, Zephram Cochrane, Tom Paris]
 
 :: Other Keywords
 level three security alert {security alert}<36:35>, Orville Wright {historical character}, Neil Armstrong {historical character}, Zephram Cochrane {fictional historical character}
@@ -2016,7 +2016,7 @@ crying [Danara Pel]<8:55>, kiss [The Doctor and Danara Pel]<34:45>
 
 
 :: Plot Devices
-chief medical officer's log [The Doctor]<7:10-7:25>, heart to heart talk [The Doctor and Kes, The Doctor and Tom Paris, Kes and Danara Pel], doctor's personal log [The Doctor, The Doctor]<31:58-32:18, 37:37-37:43>
+chief medical officer's log [The Doctor]<7:10-7:25>, heart to heart talk [The Doctor and Kes, The Doctor and Tom Paris, Kes and Danara Pel], doctor's personal log [The Doctor, The Doctor]<31:58-32:18, 37:37-37:43>, find a cure [The Doctor for Danara Pel's disease]
 
 :: Other Keywords
 hypospray [The Doctor to Danara Pel]<1:37>, holography, Hippocrates {historical character}, I Only Have Eyes for You {song}
@@ -2306,7 +2306,7 @@ crying [Kes]<39:00>
 
 
 :: Plot Devices
-captain's log [Janeway]<0:00-0:18, 28:30-29:26>, transporter complication, chief medical officer's log supplemental [The Doctor]<10:13-10:22>, heart to heart talk [Janeway and Kes], find a cure
+captain's log [Janeway]<0:00-0:18, 28:30-29:26>, transporter complication, chief medical officer's log supplemental [The Doctor]<10:13-10:22>, heart to heart talk [Janeway and Kes]
 
 :: Other Keywords
 intruder alert <15:16>, stargazing [Janeway]
@@ -2538,7 +2538,7 @@ cliff
 
 
 :: Plot Devices
-captain's log [Janeway]<2:30-2:43>, find a cure
+captain's log [Janeway]<2:30-2:43>
 
 :: Other Keywords
 red alert <33:24>, intruder alert <38:18>, Vulcan mind meld [Tuvok to Janeway], Vulcan nerve pinch [Tuvok to Janice Rand]<39:20>
@@ -2654,7 +2654,7 @@ level four memory fragmentation [The Doctor]
 
 
 :: Plot Devices
-helmsman's log [Tom Paris]<0:00-0:18>, shuttlecraft for two [Tom and B'Elanna], Maltuvis device [Enrico Caruso, Delacorchi and Amelita Galli-Curci, Luciano Pavarotti and Mirella Freni, Sural and T'Pena of Vulcan], find a cure, space fight [Voyager and swarm]
+helmsman's log [Tom Paris]<0:00-0:18>, shuttlecraft for two [Tom and B'Elanna], Maltuvis device [Enrico Caruso, Delacorchi and Amelita Galli-Curci, Luciano Pavarotti and Mirella Freni, Sural and T'Pena of Vulcan], space fight [Voyager and swarm]
 
 :: Other Keywords
 red alert <32:06>, battle stations <36:10>
@@ -2828,7 +2828,7 @@ Nechani homeworld <standard orbit>
 
 
 :: Plot Devices
-captain's log [Janeway]<0:00-0:15>, find a cure
+captain's log [Janeway]<0:00-0:15>
 
 :: Other Keywords
 shore leave, hypospray [The Doctor to Kes]<33:32>
@@ -3118,7 +3118,7 @@ cavern, tropical resort <holodeck>
 
 
 :: Plot Devices
-shuttlecraft for two [Janeway and Neelix], find a cure
+shuttlecraft for two [Janeway and Neelix], find a cure [macroviral infection],
 
 :: Other Keywords
 captain's log [Janeway]<0:39-0:53>, hypospray [The Doctor to Janeway, The Doctor to macrovirus]<31:30, 34:50>, red alert <32:05>, ship-wide epidemic, intruder alert <35:40>
@@ -8280,7 +8280,7 @@ Viidian
 
 
 :: Plot Devices
-find a cure [The Doctor cured his creator Zimmerman of terminal illness],
+
 
 :: Other Keywords
 intruder alert <5:21>, tactical alert <12:20>, red alert <37:42>
@@ -8338,7 +8338,7 @@ Life Line
 
 
 :: Plot Devices
-
+find a cure [The Doctor cured his creator Zimmerman of terminal illness],
 
 :: Other Keywords
 
@@ -9266,7 +9266,7 @@ cavern
 
 
 :: Plot Devices
-
+find a cure [The Doctor synthesized an antivirus to cure the nehret]
 
 :: Other Keywords
 red alert <6:50>
@@ -9868,10 +9868,10 @@ Endgame (1)
 
 
 :: Aliens
-Klingon, Borg
+
 
 :: Setting
-cemetery, cavern, 
+
 
 :: Deaths
 
@@ -9907,7 +9907,7 @@ cemetery, cavern,
 
 
 :: Other Keywords
-red alert <41:55>, red alert chili
+
 
 :: Errors
 
