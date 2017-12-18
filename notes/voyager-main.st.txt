@@ -662,7 +662,6 @@ self-loathing [Neelix],
 :: Minor Themes
 anger [Neelix],
 curiosity [Jetrel in science],
-hatred [Neelix at Jetrel],
 interest [Jetrel in science],
 moral outrage [Neelix],
 pleasure in shooting pool [teaser],
@@ -995,7 +994,7 @@ male bonding [Tom and Neelix],
 reconciliation [Tom and Neelix],
 
 :: Major Themes
-coping with a loved one being in danger [Kes about Neelix],
+coping with a loved one being in peril [Kes about Neelix],
 coping with an envious lover [Kes about Neelix],
 infatuation [Tom over Kes],
 romantic love [Neelix and Kes],
@@ -1176,9 +1175,7 @@ selfless service [Chakotay],
 humiliation [Chakotay over Seska defection],
 love-hate relationship [Seska and Chakotay? excellent theme!],
 second guessing one's self [Chakotay about how he could have let Seska in his confidence],
-spurned lover [],
 the desire for vengeance [Seska],
-vengeance [Seska],
 
 :: Minor Themes
 a common interest unites [Kazon sects to get technology],
@@ -1267,7 +1264,7 @@ AI rights [the mechanical men's right to exist],
 betrayal [Pralor betrayed B'Elanna],
 destroying one's own creation [B'Elanna rued destroying Pralor],
 man vs. machine [],
-survival of the species vs. compromising one's ethical principles [the robots kidnapped to survive, granted they did not have ethical principles but that was not understood at the time],
+survival of one's species [the robots kidnapped to survive, granted they did not have ethical principles but that was not understood at the time],
 the need for procreation [mechanical men to continue war],
 
 :: Minor Themes
@@ -1496,7 +1493,7 @@ transcendental alien [Q],
 
 :: Minor Themes
 amazement [Ginsberg and Newton on Voyager],
-battle of the sexes [Q versus Janeway],
+the battle of the sexes [Q versus Janeway],
 bribery in society [Q bribes Janeway],
 joy [Quinn at newfound mortality and he took hemlock],
 surprise [Janeway with Q in bed],
@@ -1673,7 +1670,7 @@ dealing with children [Tuvok with children],
 
 :: Major Themes
 coming to terms with one's impending death [the children come to understand they must die],
-exceedingly rational alien [Vulcan],
+ultra rational alien [Vulcan],
 facing being stranded [Tuvok on moon],
 facing one's darkest fear [children over the beast],
 man vs. beast [Tuvok and children vs. morrok],
@@ -1857,7 +1854,7 @@ trust in a potential foe [Chakotay in Seska],
 :: Minor Themes
 admiration [Lon of Tuvok for all the mind melding],
 anger management issues [Lon Suter],
-bioengineered human suicide weapon [Kazon had one],
+bioengineered human suicide-weapon [Kazon had one],
 coping with being a cuckold [Culluh],
 decoy tactic [Voyager used holographic double of ship],
 facing being stranded [crew marooned on planet by Kazon],
@@ -2096,7 +2093,7 @@ The Doctor, Kes, Tuvok, Chakotay, Harry Kim, Tom Paris, Neelix, Jor Brel, Jessen
 :: Choice Themes
 genocide [progressives of regressives],
 human rights [],
-oppression of a people [],
+oppression [],
 the importance of remembering history [message of episode was to not forget about the genocide],
 
 :: Major Themes
@@ -2405,7 +2402,7 @@ cryogenic suspension punishment [50 years in cryo for you!],
 guilt and evidence [Janeway vs. station master about arresting Chakotay and Tom on flimsy evidence],
 having a skeleton in the closet [Neelix was a drug smuggler],
 mass surveillance [the station was completely monitored and the master was going to spy on communications],
-punishment as deterrent to crime [station captain gives 50 years of cryogenic preservation to anyone convicted of petty drug violation],
+punishment as a deterrent to crime [station captain gives 50 years of cryogenic preservation to anyone convicted of petty drug violation],
 the desire to advance one's career [Wixiban and Neelix],
 treatment of prisoners [harsh sentencing given to prisoners on space station],
 we are valuable beyond what we can offer to others [Neelix learned the crew valued him for more than what services he provided them],
@@ -2498,7 +2495,7 @@ euthanasia [The Doctor proposed],
 grief [crew for Janeway],
 out-of-body experience [Janeway in sickbay],
 stage fright [Chakotay in regard to performing at the talent show],
-what if I met double [Janeway, although one of her was unconscious],
+what if I met my double [Janeway, although one of her was unconscious],
 alien origin of near-death experiences [Admiral Janeway alien caused Janeway to have near death experience],
 what if I had a near-death experience [Janeway],
 
@@ -2658,7 +2655,7 @@ Tom Paris, Nezu ambassador, Chakotay, Harry Kim, Goth, Kes, The Doctor, B'Elanna
 
 :: Choice Themes
 orchestrated asteroid bombardment [Nezu bombarded Etanian homeworld],
-space elevator [],
+space elevator [landing party used space elevator to escape from planet],
 the desire to be liked [Neelix wanted to be liked by Tuvok],
 the need to be treated with respect [Neelix called out Tuvok for disrespecting him over the years],
 the qualities of a good leader [Tuvok in command on space elevator],
@@ -2764,7 +2761,7 @@ precognition [Kes had],
 :: Minor Themes
 pride [The Doctor several times raised eyebrows],
 coping with the death of a friend [Janeway and B'Elanna died],
-coping with the death of a leader [various about Janeway],
+coping with the death of a colleague [various about Janeway],
 dad the better parent [Linnis commented that Harry was the better at taking care of their son and she was better suited for working in the lab],
 giving birth [Kes gave birth on the shuttlecraft],
 grandmother and grandson [Kes and Andrew],
@@ -3102,7 +3099,7 @@ B'Elanna [object], Tom Paris, Seven of Nine
 Janeway, Vorik, Chakotay, Tuvok, Rahmin, Neelix, Lumas, Moklor, Harry Kim
 
 :: Choice Themes
-coping with having a bad day [B'Elanna kept whining about this],
+coping with having a bad day [B'Elanna was fed up over having a bad day],
 generosity [Voyager crew to space paupers],
 give them a finger and they'll take the whole hand [space beggars not satisfied with provisions Voyager crew gave them],
 helping a stranger in need [Janeway to the space paupers],
@@ -3112,12 +3109,11 @@ kindness [Janeway lectured Seven about],
 belonging [Seven of Nine felt everyone felt she was a threat to their safety],
 compassion [Janeway to beggars and to Seven],
 fear of intimacy [B'Elanna displayed],
-how to treat a beggar [a kind of ethical dilemma posed here],
 love kindled by danger [B‘Elanna and Tom's feelings came out when they thought they were about to die],
 repressing one's desires [B'Elanna about Tom],
 space paupers [Caatati],
 the need for cultural heritage [B'Elanna with Klingon stuff],
-what if I were stranded in space [happened to B'Elanna and Tom],
+what if I were stranded in outer space [happened to B'Elanna and Tom],
 
 :: Minor Themes
 alien customs [],
@@ -4046,7 +4042,7 @@ coping with a loved one being in peril [B'Elanna urged Chakotay to let her go on
 coping with an unwelcome house guest [The Doctor with squatters in his sickbay],
 coping with an unwilling host [The Doctor made unnecessary commotion while his guests were trying to sleep in sickbay],
 male bonding [Tom and Harry],
-what if I met double [bioformed Tom and Harry met real Tom and Harry],
+what if I met my double [bioformed Tom and Harry met real Tom and Harry],
 force field [there were an unusual number of them],
 male banter [Harry vs. Tom],
 the nature of humor [Tom and Harry discussed],
@@ -4274,7 +4270,7 @@ ennui [B'Elanna],
 self-injurious behavior [B'Elanna with dangerous activities on the holodeck],
 
 :: Minor Themes
-suppressed emotions [B'Elanna had trouble with],
+suppressed emotion [B'Elanna had trouble with],
 catharsis [sort of what B'Elanna was doing],
 the thrill of danger [both B'Elanna and Tom in different ways and degrees Major candidate],
 distraction [B'Elanna distracted from her duties and obligations],
@@ -4322,7 +4318,7 @@ chastity [Chakotay rebuffs Valarie's advances],
 lust [Valarie and Chakotay],
 logic vs. gut feeling [Janeway said something about faith and intuition to Seven],
 interest [Valarie in human culture],
-thirst for knowledge [Valarie in human culture],
+the thirst for knowledge [Valarie in human culture],
 annihilation by WMDs [Voyager crew threatened Species 8472 with Borg nanoprobes],
 
 
@@ -4972,7 +4968,7 @@ the life of a friend vs. the lives of many [Janeway could save Voyager by sendin
 pleasure in solving a puzzle [Kurros prided himself on his ability to solve problems; Voyager crew in puzzle game; Janeway in strategizing Hazari bounty hunters],
 
 :: Major Themes
-facing an genius adversary [Voyager crew and Hazari join forces to defeat Think Tank],
+facing a genius adversary [Voyager crew and Hazari join forces to defeat Think Tank],
 deal with the devil [Aliens in teaser were done dirty by the Think Tank, suggested proposed in Seven bargain],
 the need for a challenge in life [it was suggested Seven would get more of a challenge with the Think Tank],
 career choice [Seven had opportunity to leave Voyager to explore Delta Quadrant with the Think Tank],
@@ -5150,7 +5146,7 @@ trust in a potential foe [Janeway in time traveling Seven],
 time traveler's dilemma [some garbed form of this dilemma was put forward in this episode],
 
 :: Minor Themes
-what if I met double [psychotic Braxton meets normal Braxton; Seven and Seven],
+what if I met my double [psychotic Braxton meets normal Braxton; Seven and Seven],
 captain and crew's attachment to their ship [Janeway was very excited about checking out her new vessel],
 hypochondria [Seven thought she had some rare disease],
 pride [Tom goaded Seven into ping pong],
@@ -5184,8 +5180,8 @@ growing as a person [the sentient alien missile learned it could expand its prog
 
 :: Major Themes
 annihilation by WMDs [sentient alien missile],
-autonomous weapon system [sentient alien missile],
-autonomous weapon system killing everyone [alien missile system could not be diverted from blowing up its target even after the war had ended],
+autonomous weapons system [sentient alien missile],
+autonomous weapons system killing everyone [alien missile system could not be diverted from blowing up its target even after the war had ended],
 autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems],
 
 sentient bomb [sentient alien missile],
@@ -5248,7 +5244,7 @@ coping with post-traumatic stress [Marla shared with Chakotay that she was suffe
 love triangle [Tom, B'Elanna, and Max Burke],
 old flames [B'Elanna and Max Burke],
 remorse [Marla over using aliens for fuel],
-what if I met double [The Doctor met his evil Equinox counterpart],
+what if I met my double [The Doctor met his evil Equinox counterpart],
 grief [Ransom and crew over fallen companions],
 claustrophobia [Marla suffered],
 rivalry [Janeway vs. Ransom],
@@ -5298,7 +5294,7 @@ killing to survive [Equinox crew used aliens for fuel to return to Earth at brea
 the ethics of interfering in less advanced societies [Equinox violated to get home],
 problem of language and meaning [Voyager crew trying to communicate with neurogenic aliens],
 standing up to a boss [Chakotay to Janeway over her obsessive pursuit of Captain Ransom],
-what if I met double [The Doctor met his evil Equinox counterpart],
+what if I met my double [The Doctor met his evil Equinox counterpart],
 old flames [B'Elanna and Max Burke],
 justification for torture [Janeway subjected Noah Lessing to torture in effort to get information],
 mind reading technology [evil Doctor was extracting memories from Seven's mind],
@@ -5502,7 +5498,7 @@ ultra-rational alien [Vulcans],
 coping with degrading mental faculties [Tuvok frustrated by being less smart after waking up from coma],
 
 :: Minor Themes
-loss of self-control [Tuvok cowered net to chair during Ba'neth attack and had a temper tantrum in sickbay]
+loss of self-control [Tuvok cowered net to chair during Ba'neth attack and had a temper tantrum in sickbay],
 annoyance [Tuvok at Neelix telling riddles in the shuttlecraft],
 fear [Tuvok cowered net to chair during Ba'neth attack],
 anger [Tuvok had a temper tantrum in sickbay],
@@ -5830,7 +5826,7 @@ memory implantation technology [the obelisk that induced vivid memory-like visio
 annoyance [Harry at his wits end by the time away mission was over],
 boyfriend and girlfriend [B'Elanna helps Tom cope with his post-traumatic stress],
 mysterious maker alien race [Nakan memorial makers],
-battle of the sexes [Tom watching TV while B'Elanna chats],
+the battle of the sexes [Tom watching TV while B'Elanna chats],
 female stereotype [Tom watching TV while B'Elanna chats],
 male stereotype [Tom watching TV while B'Elanna chats],
 
@@ -6007,7 +6003,7 @@ dealing with children [Seven with Borg children],
 what if someone I knew returned from the dead [Harry and Voyager crew astonished when Lyndsay returned],
 what if I was brought back to life long after my death [Lyndsay was revived from the dead by aliens],
 fitting in at work [Lyndsay had some trouble and worried about her looks],
-coping with having an intractable disease [Lyndsay would have had to take inoculations twice daily for the rest of her life],
+coping with having a chronic condition [Lyndsay would have had to take inoculations twice daily for the rest of her life],
 choosing between allegiances [this seems adequately to describe Lyndsay's life choice], 
 
 :: Minor Themes
@@ -6304,6 +6300,7 @@ facing a ship takeover [electromagnetic entity was taking over Voyager in Neelix
 incorporeal alien [electromagnetic space ghost],
 to tell the truth vs. offering a comforting lie [we were left to ponder whether Neelix had told the truth in the end after all],
 ghosts [Neelix's space ghost story],
+pleasure in sotrytelling [Neelix telling ghost stories to Borg children],
 
 :: Minor Themes
 apprehension [crew during the power outage],
