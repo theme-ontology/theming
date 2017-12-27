@@ -7141,7 +7141,7 @@ McCoy, Uhura, Sulu, Scotty
 flight of fancy
 
 :: Setting
-Enterprise bridge, Enterprise engineering, Enterprise officer's mess, Enterprise corridor, Enterprise recreation room, Enterprise computer room, Romulan vessel bridge, Enterprise holodeck <woodland glade, lakeshore, frozen wasteland, hedge maze>, woodland glade, shoreline, frozen wasteland, hedge maze
+Enterprise bridge, Enterprise engineering, Enterprise officer's mess, Enterprise corridor, Enterprise recreation room, Enterprise computer room, Romulan vessel bridge, Enterprise holodeck <woodland glade; lakeshore; frozen wasteland; hedge maze>, woodland glade, shoreline, frozen wasteland, hedge maze
 
 :: Deaths
 
@@ -7707,7 +7707,7 @@ Data, Worf, Geordi, Tasha, Portal 6-3
 
 
 :: Setting
-Enterprise-D bridge, Enterprise-D observation lounge <emergency shelter, meeting room>, Enterprise-D briefing room, Enterprise-D transporter room, alien landscape, emergency shelter, meeting room
+Enterprise-D bridge, Enterprise-D observation lounge <emergency shelter; meeting room>, Enterprise-D briefing room, Enterprise-D transporter room, alien landscape, emergency shelter, meeting room
 
 :: Deaths
 
@@ -7989,7 +7989,7 @@ Beverly, Troi, Riker, Kazago
 human drama, intrigue
 
 :: Setting
-Enterprise-D Picard's quarters <living room, bedroom>, Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, Stargazer bridge <smoke filled room>, Stargazer Picard's quarters, science lab, Stargazer derelict bridge, smoke filled room, living room, bedroom
+Enterprise-D Picard's quarters <living room; bedroom>, Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, Stargazer bridge <smoke filled room>, Stargazer Picard's quarters, science lab, Stargazer derelict bridge, smoke filled room, living room, bedroom
 
 :: Deaths
 
@@ -8199,7 +8199,7 @@ Beverly, Whalen, Data, Riker
 mystery
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D holodeck <world of Dixon Hill, American 1940s era office, American 1940s era hallway, American 14940s era waiting room, American 1940s era police station interrogation room, American 1940s era city sidewalk, arctic wasteland>, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, American 1940s era office, American 1940s era hallway, American 14940s era waiting room, American 1940s era police station interrogation room, American 1940s era city sidewalk, Arctic wasteland, world of Dixon Hill
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D holodeck <world of Dixon Hill; American 1940s era office; American 1940s era hallway; American 14940s era waiting room; American 1940s era police station interrogation room; American 1940s era city sidewalk; arctic wasteland>, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, American 1940s era office, American 1940s era hallway, American 14940s era waiting room, American 1940s era police station interrogation room, American 1940s era city sidewalk, Arctic wasteland, world of Dixon Hill
 
 :: Deaths
 death by exiting holodeck [Cyrus Redblock Felix Leech]<40:23>
@@ -8691,7 +8691,7 @@ Chang, Oliana Mirren, Mordock, T'Shanik, Jake Kurland, Riker
 high school drama, teenage drama, office drama
 
 :: Setting
-Enterprise-D observation lounge <interrogation room, meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D bridge, Enterprise-D holodeck <black void>, black void, Enterprise-D Admiral Quinn's quarters, Enterprise-D engineering, classroom, corridor, exam room, environmental lab, shuttlecraft, interrogation room
+Enterprise-D observation lounge <interrogation room; meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D bridge, Enterprise-D holodeck <black void>, black void, Enterprise-D Admiral Quinn's quarters, Enterprise-D engineering, classroom, corridor, exam room, environmental lab, shuttlecraft, interrogation room
 
 :: Deaths
 
@@ -9394,7 +9394,7 @@ Picard, Geordi, Pulaski
 mystery
 
 :: Setting
-Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D holodeck <Victorian parlor, Victorian foyer, Victorian London street, Victorian alleyway>, Victorian parlor, Victorian foyer, Victorian London street, Victorian alleyway, Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room
+Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D holodeck <Victorian parlor; Victorian foyer; Victorian London street; Victorian alleyway>, Victorian parlor, Victorian foyer, Victorian London street, Victorian alleyway, Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room
 
 :: Deaths
 death by strangulation [holo-character]<20:20>
@@ -10167,7 +10167,7 @@ Worf, Wesley, Geordi, Pulaski, Data
 human drama
 
 :: Setting
-Enterprise-D engineering, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D holodeck <chamber, arena>, chamber, arena, Ten Forward <bar>, bar, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, Enterprise-D sickbay, Enterprise-D Pulaski's office, Enterprise-D Troi's office, Enterprise-D gymnasium, Enterprise-D ready room
+Enterprise-D engineering, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D holodeck <chamber; arena>, chamber, arena, Ten Forward <bar>, bar, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, Enterprise-D sickbay, Enterprise-D Pulaski's office, Enterprise-D Troi's office, Enterprise-D gymnasium, Enterprise-D ready room
 
 :: Deaths
 
@@ -10517,7 +10517,7 @@ Troi
 flight of fancy
 
 :: Setting
-Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters <dinner table>, dinner table, Enterprise-D holodeck <world of Dixon Hill, American 1940s era reception room, American 1940s era bar, American 1940s era hallway, American 1940s era detective office, American 1940s era city street>, Enterprise-D sickbay, American 1940s era reception room, American 1940s era bar, American 1940s era hallway, American 1940s era detective office, American 1940s era city street, world of Dixon Hill
+Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters <dinner table>, dinner table, Enterprise-D holodeck <world of Dixon Hill; American 1940s era reception room; American 1940s era bar; American 1940s era hallway; American 1940s era detective office; American 1940s era city street>, Enterprise-D sickbay, American 1940s era reception room, American 1940s era bar, American 1940s era hallway, American 1940s era detective office, American 1940s era city street, world of Dixon Hill
 
 :: Deaths
 
@@ -10727,7 +10727,7 @@ Picard, Geordi, Data
 medical drama
 
 :: Setting
-Enterprise-D transporter room, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D Pulaski's office, swamp, rocky wasteland, Enterprise-D holodeck <woodland, jazz club>, woodland, jazz club, Ten Forward <bar>, bar, Enterprise-D Troi's office, council chamber, Klingon vessel bridge, Enterprise-D Quinn's quarters, Enterprise-D battle bridge
+Enterprise-D transporter room, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D Pulaski's office, swamp, rocky wasteland, Enterprise-D holodeck <woodland; jazz club>, woodland, jazz club, Ten Forward <bar>, bar, Enterprise-D Troi's office, council chamber, Klingon vessel bridge, Enterprise-D Quinn's quarters, Enterprise-D battle bridge
 
 :: Deaths
 
@@ -11147,7 +11147,7 @@ Riker, Data, Christy Henshaw
 romance
 
 :: Setting
-Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D holodeck <drafting room, tropical beach>, drafting room, tropical beach, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Promellian battle cruiser derelict bridge
+Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D holodeck <drafting room; tropical beach>, drafting room, tropical beach, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Promellian battle cruiser derelict bridge
 
 :: Deaths
 
@@ -11292,7 +11292,7 @@ Riker, Goss, Leyor, Arridor, Seth Mendoza, Bhavani
 romance, political drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <reception room, bar>, reception room, bar, Enterprise-D sickbay, Enterprise-D gymnasium, Enterprise-D Troi's quarters <living room, bedroom>, living room, bedroom, Enterprise-D Ferengi quarters, shuttlecraft
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <reception room; bar>, reception room, bar, Enterprise-D sickbay, Enterprise-D gymnasium, Enterprise-D Troi's quarters <living room; bedroom>, living room, bedroom, Enterprise-D Ferengi quarters, shuttlecraft
 
 :: Deaths
 
@@ -11444,7 +11444,7 @@ Riker, Geordi
 political drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Jarok's quarters, Enterprise-D interrogation room, relaxation center, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <woodland, gridlines, rocky wasteland, campfire>, woodland, gridlines, rocky wasteland, campfire, Romulan warbird ready room
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Jarok's quarters, Enterprise-D interrogation room, relaxation center, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <woodland; gridlines; rocky wasteland; campfire>, woodland, gridlines, rocky wasteland, campfire, Romulan warbird ready room
 
 :: Deaths
 suicide by ingesting a felodesine chip [Jarok]<42:05>
@@ -11744,7 +11744,7 @@ Picard, Data, Troi, Manua Apgar
 courtroom drama, whodunnit
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D sickbay, Enterprise-D holodeck <gridlines, science lab, space station, living area>, Enterprise-D observation lounge <art studio>, art studio, gridlines, science lab, space station, living area
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D sickbay, Enterprise-D holodeck <gridlines; science lab; space station; living area>, Enterprise-D observation lounge <art studio>, art studio, gridlines, science lab, space station, living area
 
 :: Deaths
 death by space station explosion [Nel Apgar by Nel Apgar]<3:02>
@@ -12037,7 +12037,7 @@ Troi, Beverly, Abducting Alien no. 1, Abducting Alien no. 2
 mystery
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D Picard's quarters <dinner table, living room>, dinner table, living room, Enterprise-D Riker's quarters <poker table, meeting room>, poker table, meeting room, Enterprise-D Data's quarters, Enterprise-D Beverly's office, holding cell
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D Picard's quarters <dinner table; living room>, dinner table, living room, Enterprise-D Riker's quarters <poker table; meeting room>, poker table, meeting room, Enterprise-D Data's quarters, Enterprise-D Beverly's office, holding cell
 
 :: Deaths
 
@@ -12253,7 +12253,7 @@ Troi, Riker, Picard
 human drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D cargo bay, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D holodeck <Enterprise-D bridge, Ten Forward, Enterprise-D Troi's office, woodland glade, gridlines>, woodland glade, gridlines
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D cargo bay, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D holodeck <Enterprise-D bridge; Ten Forward; Enterprise-D Troi's office; woodland glade; gridlines>, woodland glade, gridlines
 
 :: Deaths
 
@@ -13168,7 +13168,7 @@ Picard, Troi, Tomalak, Min Riker
 mystery
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D Riker's quarters, Enterprise-D Picard's quarters, Romulan holodeck <alien chamber, cavern, holding cell, tunnel>, antechamber, Romulan warbird ready room, alien chamber, cavern, holding cell, tunnel
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D Riker's quarters, Enterprise-D Picard's quarters, Romulan holodeck <alien chamber; cavern; holding cell; tunnel>, antechamber, Romulan warbird ready room, alien chamber, cavern, holding cell, tunnel
 
 :: Deaths
 death by disruptor [Romulan]
@@ -13588,7 +13588,7 @@ Guinan, Beverly, Geordi, Troi [Paxan]
 mystery
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D sickbay <science lab>, science lab, Enterprise-D engineering, Ten Forward, Enterprise-D Troi's quarters, Enterprise-D Data's quarters, Enterprise-D holodeck <world of Dixon Hill, workout room, American 1940s era reception room, American 1940s era detective office>, world of Dixon Hill, workout room, American 1940s era reception room, American 1940s era detective office
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D sickbay <science lab>, science lab, Enterprise-D engineering, Ten Forward, Enterprise-D Troi's quarters, Enterprise-D Data's quarters, Enterprise-D holodeck <world of Dixon Hill; workout room; American 1940s era reception room; American 1940s era detective office>, world of Dixon Hill, workout room, American 1940s era reception room, American 1940s era detective office
 
 :: Deaths
 death by machine gunning [holocharacter]<3:33>
@@ -14429,7 +14429,7 @@ Guinan, Kurn, Lursa, B'Etor, Toral, Sela, K'Tal
 political drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D holodeck <black void, shooting range>, black void, shooting range, Enterprise-D transporter room, Enterprise-D Worf's quarters, Klingon vessel bridge, Klingon vessel ready room, great hall, Klingon living room
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D holodeck <black void; shooting range>, black void, shooting range, Enterprise-D transporter room, Enterprise-D Worf's quarters, Klingon vessel bridge, Klingon vessel ready room, great hall, Klingon living room
 
 :: Deaths
 death by ship explosion [Klingons x36]<33:35>, death by console explosion [Klingon]<31:40>
@@ -15830,7 +15830,7 @@ Troi, Worf, Picard, Campio, Geordi, Data
 human drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Troi's quarters <living room>, living room, Enterprise-D Lwaxana's quarters, Enterprise-D Worf's quarters, Enterprise-D holodeck <resort, courtyard garden>, resort, courtyard garden
+Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Troi's quarters <living room>, living room, Enterprise-D Lwaxana's quarters, Enterprise-D Worf's quarters, Enterprise-D holodeck <resort; courtyard garden>, resort, courtyard garden
 
 :: Deaths
 
@@ -15900,7 +15900,7 @@ Riker, Beverly, Briam, Par Lenor, Qol, Alrik
 romance, political drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D sickbay, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Picard's quarters <dinner table>, dinner table, Enterprise-D Kamala's quarters <living room>, living room, Enterprise-D Ferengi quarters, Enterprise-D holodeck <temple, ceremonial chamber>, temple, ceremonial chamber
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D sickbay, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Picard's quarters <dinner table>, dinner table, Enterprise-D Kamala's quarters <living room>, living room, Enterprise-D Ferengi quarters, Enterprise-D holodeck <temple; ceremonial chamber>, temple, ceremonial chamber
 
 :: Deaths
 
@@ -16740,7 +16740,7 @@ Riker, Beverly, Miles O'Brien, Keiko O'Brien, Troi, Geordi, Alexander Rozhenko, 
 human drama, comedy
 
 :: Setting
-Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D Jefferies tube, Enterprise-D O'Brien's quarters <living room, bedroom>, living room, bedroom, Enterprise-D Picard's quarters, Enterprise-D Ro's quarters, Enterprise-D classroom, shuttlecraft
+Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D Jefferies tube, Enterprise-D O'Brien's quarters <living room; bedroom>, living room, bedroom, Enterprise-D Picard's quarters, Enterprise-D Ro's quarters, Enterprise-D classroom, shuttlecraft
 
 :: Deaths
 
@@ -16811,7 +16811,7 @@ Picard, Geordi, Troi [Durango], Eli Hollander, Annie Meyers
 western
 
 :: Setting
-Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <rehearsal room>, rehearsal room, Enterprise-D corridor, Enterprise-D holodeck <world of the Wild West, Wild West saloon, Wild West sheriff's office, mine shaft, Wild West town street>, Enterprise-D Worf's quarters, Enterprise-D Picard's quarters, Enterprise-D Data's quarters, Wild West saloon, Wild West sheriff's office, mine shaft, Wild West town street
+Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <rehearsal room>, rehearsal room, Enterprise-D corridor, Enterprise-D holodeck <world of the Wild West; Wild West saloon; Wild West sheriff's office; mine shaft; Wild West town street>, Enterprise-D Worf's quarters, Enterprise-D Picard's quarters, Enterprise-D Data's quarters, Wild West saloon, Wild West sheriff's office, mine shaft, Wild West town street
 
 :: Deaths
 
@@ -17091,7 +17091,7 @@ Barclay, Geordi, Riker, Regina Bartholomew
 
 
 :: Setting
-Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, shuttlecraft, Enterprise-D corridor, Enterprise-D holodeck <Victorian era drawing room, gridlines, Victorian era parlor>, Victorian era drawing room, Victorian era parlor, gridlines
+Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, shuttlecraft, Enterprise-D corridor, Enterprise-D holodeck <Victorian era drawing room; gridlines; Victorian era parlor>, Victorian era drawing room, Victorian era parlor, gridlines
 
 :: Deaths
 death by strychnine poisoning [holodeck character]
@@ -17721,7 +17721,7 @@ Picard, Beverly, Troi, Syrus, Mavek, Jaya
 psychological thriller
 
 :: Setting
-Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D Riker's quarters, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D theater <asylum cell, asylum cafeteria>, asylum cell, asylum cafeteria, alien lab
+Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D Riker's quarters, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D theater <asylum cell; asylum cafeteria>, asylum cell, asylum cafeteria, alien lab
 
 :: Deaths
 
@@ -18072,7 +18072,7 @@ Alynna Nechayev, Troi, Riker, Worf, Geordi, Beverly, Albert Einstein (hologram),
 action
 
 :: Setting
-Enterprise-D bridge, Enterprise-D holodeck <Enterprise-D Data's quarters, poker table>, poker table, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D brig, Enterprise-D Data's quarters, great hall, control room, countryside
+Enterprise-D bridge, Enterprise-D holodeck <Enterprise-D Data's quarters; poker table>, poker table, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D brig, Enterprise-D Data's quarters, great hall, control room, countryside
 
 :: Deaths
 death by forced plasma beam [three officers], death by chocking and subsequent bump to head [rogue Borg drone by Data]<7:33>, death by phaser blast [Ensign Corelki, rogue Borg drone, rogue Borg drone, rogue Borg drone, Franklin, rogue Borg drone by Worf, yellowshirt by rogue Borg drone]<7:05, 6:30, 6:45, 7:08, 24:42, 24:45, 41:10>
@@ -18285,7 +18285,7 @@ Beverly, Picard, Riker, Silvia La Forge
 
 
 :: Setting
-science ship <wrecked room, smoke filled room>, wrecked room, smoke filled room, Enterprise-D Jefferies tube, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D Beverly's office, Enterprise-D Data's quarters, Enterprise-D sickbay, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, science ship auxiliary control, science ship engineering
+science ship <wrecked room; smoke filled room>, wrecked room, smoke filled room, Enterprise-D Jefferies tube, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D Beverly's office, Enterprise-D Data's quarters, Enterprise-D sickbay, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, science ship auxiliary control, science ship engineering
 
 :: Deaths
 death by neural shock [7 USS Raman crewmen]<13:20>, death by ship explosion [750 USS Hera crewmen including Sylvia La Forge]
@@ -18495,7 +18495,7 @@ Troi, Picard, Beverly, Riker, Geordi, Sigmund Freud (hologram), Spot
 horror
 
 :: Setting
-Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Data's quarters <bedroom>, bedroom, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D holodeck <psychiatrist's office, gridlines>, psychiatrist's office, gridlines, Enterprise-D Troi's office, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay
+Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Data's quarters <bedroom>, bedroom, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D holodeck <psychiatrist's office; gridlines>, psychiatrist's office, gridlines, Enterprise-D Troi's office, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay
 
 :: Deaths
 death by gunshot to the chest [freud]
@@ -18985,7 +18985,7 @@ Picard, Data, Beverly, Geordi, Vorin, Dobara
 human drama
 
 :: Setting
-Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D stellar cartography lab, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Vorin's quarters, cavern, xeric scrubland, Enterprise-D holodeck <cavern, mountain pass, campfire>, cavern, mountain pass, campfire
+Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D stellar cartography lab, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Vorin's quarters, cavern, xeric scrubland, Enterprise-D holodeck <cavern; mountain pass; campfire>, cavern, mountain pass, campfire
 
 :: Deaths
 death by rapid atmospheric dissipation [50 million Boraalans], suicide by ritual suicide [Vorin]<38:55>
@@ -19685,7 +19685,7 @@ Beverly, Riker, Worf, Geordi, Troi, train conductor
 mystery
 
 :: Setting
-Enterprise-D bridge, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D holodeck <woodland, train car, American 1950s era city street>, Enterprise-D cargo bay, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, woodland, train car, American 1950s era city street
+Enterprise-D bridge, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D holodeck <woodland; train car; American 1950s era city street>, Enterprise-D cargo bay, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, woodland, train car, American 1950s era city street
 
 :: Deaths
 death by gunshot to the back [holocharacter by holocharacter],<15:00>
