@@ -59,7 +59,7 @@ pond, futuristic cityscape, temple, beach, cavern, rocky landscape, park, white 
 :: Aliens
 Borg, Cardassian
 
-:: Other keywords
+:: Other Keywords
 red alert <0:30, 1:14:46>, yellow alert <54:52>
 
 
@@ -93,7 +93,7 @@ Directed by: David Carson. Story by: Rick Berman and Michael Piller.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x03
@@ -240,7 +240,7 @@ father and son [Benjamin stuck with Jake through his disease],
 :: Aliens
 Bajoran
 
-:: Other keywords
+:: Other Keywords
 find a cure [Bashir and Surmak Ren for aphasia virus],
 
 
@@ -293,7 +293,7 @@ the use of genetic engineering [Tosk was engineered to be hunted by hunting alie
 :: Aliens
 Tosk, First Hunter's species
 
-:: Other keywords
+:: Other Keywords
 yellow alert <1:17>
 
 
@@ -386,7 +386,7 @@ courtroom
 :: Aliens
 Klaestron, Trill
 
-:: Other keywords
+:: Other Keywords
 extradition hearing [extradition hearing held for Jadzia]
 
 
@@ -428,7 +428,7 @@ pride [Bashir boasted of his achievements in medicine to Kira in the shuttlecraf
 :: Aliens
 Kobliad,
 
-:: Other keywords
+:: Other Keywords
 security alert yellow {alert}<34:14>
 
 
@@ -476,7 +476,7 @@ cavern,
 :: Aliens
 Wadi,
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x11
@@ -526,7 +526,7 @@ something about retirement and handing over the mantle [Grand Magus choose Quark
 :: Aliens
 Ferengi,
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x12
@@ -674,8 +674,6 @@ village square
 :: Aliens
 Bajoran
 
-:: Other keywords
-
 
 ds91x15
 =======
@@ -690,22 +688,33 @@ home even though it is slated for demolition.
 Directed by: Les Landau. Story by: Peter Allan Fields.
 
 :: Ratings
+2 <paul>
 
 :: Main Characters
+Benjamin Sisko, Kira Nerys, Jake Sisko, Nog, Mullibok
 
 :: Supporting Cast
+Quark, Rom, Miles O'Brien, Jadzia Dax, Julian Bashir, Odo, Lissepian Captain, Toran, Baltrim, Keena, First Guard
 
 :: Choice Themes
+attachment to one's land [Mullibok was a farmer who refused to leave his farm that was expropriated by Bajoran government],
+the good of the many vs. the needs of the few [development of energy sources on moon to benefit Bajoran people vs. Mullibok wanting to stay in his home on the moon],
+resettlement vs. fighting for one's homeland [Mullibox was prepared to die rather than leave his farm],
 
 :: Major Themes
+government expropriation of land [contemporary social issue theme],
+avarice [Nog with his plot to profit from selling a plot of land],
+the lust for gold [Nog with his plot to profit from selling a plot of land],
+duty vs. conscience [Kira],
 
 :: Minor Themes
+compassion [Kira to Mulibox],
 
 :: Settings
+garden, farm,
 
 :: Aliens
-
-:: Other keywords
+Bajoran, Lissepian
 
 
 ds91x16
@@ -737,7 +746,7 @@ Crawford.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x17
@@ -768,7 +777,7 @@ Directed by: Les Landau. Story by: Jim Trombetta.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x18
@@ -799,7 +808,7 @@ Directed by: Cliff Bole. Story by: Joe Menosky.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x19
@@ -831,7 +840,7 @@ Directed by: James L. Conway. Story by: Lisa Rich & Jeanne Carrigan-Fauci.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds91x20
@@ -862,7 +871,7 @@ Directed by: David Livingston. Story by: Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x01
@@ -893,7 +902,7 @@ Directed by: Winrich Kolbe. Story by: Jeri Taylor and Ira Steven Behr.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x02
@@ -924,7 +933,7 @@ Directed by: Corey Allen. Story by: Peter Allan Fields.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x03
@@ -956,7 +965,7 @@ Directed by: Winrich Kolbe. Story by: Michael Piller.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x04
@@ -987,7 +996,7 @@ Directed by: Les Landau. Story by: John Whelpley.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x05
@@ -1018,7 +1027,7 @@ Directed by: Cliff Bole. Story by: Gene Wolande & John Wright.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x06
@@ -1049,7 +1058,7 @@ Directed by: Winrich Kolbe. Story by: Evan Carlos Somers.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x07
@@ -1082,7 +1091,7 @@ Directed by: David Livingston. Story by: Hilary J. Bader.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x08
@@ -1113,7 +1122,7 @@ Directed by: James L. Conway. Story by: Peter Allan Fields.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x09
@@ -1143,7 +1152,7 @@ Directed by: Alexander Singer. Story by: Mark Gehred-O'Connell.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x10
@@ -1174,7 +1183,7 @@ Directed by: Les Landau. Story by: Gabe Essoe & Kelley Miles.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x11
@@ -1205,7 +1214,7 @@ Directed by: David Livingston. Story by: Jim Trombetta & Michael Piller.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x12
@@ -1236,7 +1245,7 @@ Directed by: David Carson. Story by: Jim Trombetta and Bill Dial.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x13
@@ -1268,7 +1277,7 @@ Directed by: Winrich Kolbe. Story by: Morgan Gendel.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x14
@@ -1301,7 +1310,7 @@ Directed by: Les Landau. Story by: Paul Robert Coyle.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x15
@@ -1333,7 +1342,7 @@ Directed by: Corey Allen. Story by: Jim Trombetta and James Crocker.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x16
@@ -1363,7 +1372,7 @@ Directed by: Robert Scheerer. Story by: Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x17
@@ -1395,7 +1404,7 @@ Directed by: David Livingston. Story by: Jim Trombetta.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x18
@@ -1427,7 +1436,7 @@ Directed by: Robert Wiemer. Story by: Flip Kobler and Cindy Marcus.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x19
@@ -1460,7 +1469,7 @@ Directed by: Winrich Kolbe. Story by: Andrea Moore Alton.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x20
@@ -1492,7 +1501,7 @@ Taylor and James Crocker.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x21
@@ -1524,7 +1533,7 @@ Directed by: Corey Allen. Story by: Rick Berman and Michael Piller.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x22
@@ -1555,7 +1564,7 @@ Directed by: Kim Friedman. Story by: Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x23
@@ -1588,7 +1597,7 @@ Directed by: David Livingston. Story by: Peter Allan Fields.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x24
@@ -1620,7 +1629,7 @@ Directed by: Cliff Bole. Story by: Gary Holland.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x25
@@ -1651,7 +1660,7 @@ Directed by: Avery Brooks. Story by: Bill Dial.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds92x26
@@ -1683,7 +1692,7 @@ Directed by: Kim Friedman. Story by: Ira Steven Behr.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x01
@@ -1715,7 +1724,7 @@ Directed by: Kim Friedman. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x02
@@ -1747,7 +1756,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x03
@@ -1778,7 +1787,7 @@ Directed by: Les Landau. Story by: Tom Benko.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x04
@@ -1808,7 +1817,7 @@ Directed by: Cliff Bole. Story by: Christopher Teague.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x05
@@ -1839,7 +1848,7 @@ Directed by: Les Landau. Story by: Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x06
@@ -1870,7 +1879,7 @@ Directed by: Avery Brooks. Story by: D. Thomas Maio and Steve Warnek.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x07
@@ -1904,7 +1913,7 @@ Directed by: Reza Badiyi. Story by: Mike Krohn.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x08
@@ -1936,7 +1945,7 @@ Somers.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x09
@@ -1967,7 +1976,7 @@ Directed by: Cliff Bole. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x10
@@ -1998,7 +2007,7 @@ Directed by: Avery Brooks. Story by: Ira Steven Behr and James Crocker.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x11
@@ -2031,7 +2040,7 @@ Directed by: Reza Badiyi. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x12
@@ -2063,7 +2072,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x13
@@ -2094,7 +2103,7 @@ Directed by: Reza Badiyi. Story by: Christian Ford and Roger Soffer.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x14
@@ -2127,7 +2136,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x15
@@ -2159,7 +2168,7 @@ Directed by: Les Landau. Story by: David S. Cohen and Martin A. Winer.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x16
@@ -2192,7 +2201,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x17
@@ -2223,7 +2232,7 @@ Directed by: Reza Badiyi. Story by: Ethan H. Calk.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x18
@@ -2254,7 +2263,7 @@ Directed by: Alexander Singer. Story by: Joe Menosky.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x19
@@ -2285,7 +2294,7 @@ Directed by: Winrich Kolbe. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x20
@@ -2316,7 +2325,7 @@ Directed by: Avery Brooks. Story by: Robert Lederman & David R. Long.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x21
@@ -2348,7 +2357,7 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x22
@@ -2380,7 +2389,7 @@ Directed by: Cliff Bole. Story by: Hilary J. Bader.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x23
@@ -2412,7 +2421,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x24
@@ -2444,7 +2453,7 @@ Directed by: Jonathan West. Story by: Gordon Dawson.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x25
@@ -2476,7 +2485,7 @@ Directed by: Cliff Bole. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds93x26
@@ -2509,7 +2518,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x01
@@ -2542,7 +2551,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x02
@@ -2575,7 +2584,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x03
@@ -2606,7 +2615,7 @@ Directed by: David Livingston. Story by: Michael Taylor.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x04
@@ -2639,7 +2648,7 @@ Directed by: René Auberjonois. Story by: Nicholas Corea and Lisa Klink.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x05
@@ -2671,7 +2680,7 @@ Directed by: LeVar Burton. Story by: Toni Marberry & Jack Treviño.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x06
@@ -2703,7 +2712,7 @@ Directed by: Avery Brooks. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x07
@@ -2734,7 +2743,7 @@ Directed by: Alexander Singer. Story by: David Mack and John J. Ordover.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x08
@@ -2765,7 +2774,7 @@ Directed by: James L. Conway. Story by: Toni Marberry & Jack Treviño.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x09
@@ -2796,7 +2805,7 @@ Directed by: LeVar Burton. Story by: Richard Danus.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x10
@@ -2828,7 +2837,7 @@ Directed by: Winrich Kolbe. Story by: Robert Gillan.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x11
@@ -2860,7 +2869,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x12
@@ -2891,7 +2900,7 @@ Directed by: Reza Badiyi. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x13
@@ -2922,7 +2931,7 @@ Directed by: Les Landau. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x14
@@ -2952,7 +2961,7 @@ Directed by: Jonathan West. Story by: Tom Benko.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x15
@@ -2983,7 +2992,7 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x16
@@ -3013,7 +3022,7 @@ Directed by: LeVar Burton. Story by: Barbara J. Lee & Jenifer A. Lee.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x17
@@ -3044,7 +3053,7 @@ Directed by: Les Landau. Story by: Jane Espenson.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x18
@@ -3075,7 +3084,7 @@ Directed by: LeVar Burton. Story by: David Weddle & Bradley Thompson.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x19
@@ -3106,7 +3115,7 @@ Directed by: Alexander Singer. Story by: Daniel Keys Moran and Lynn Barker.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x20
@@ -3137,7 +3146,7 @@ Directed by: James L. Conway. Story by: Ira Steven Behr and Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x21
@@ -3169,7 +3178,7 @@ Roddenberry.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x22
@@ -3199,7 +3208,7 @@ Directed by: James L. Conway. Story by: Mark Gehred-O'Connell.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x23
@@ -3230,7 +3239,7 @@ Directed by: LeVar Burton. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x24
@@ -3261,7 +3270,7 @@ Directed by: René Auberjonois. Story by: Naren Shankar.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x25
@@ -3292,7 +3301,7 @@ Directed by: Avery Brooks. Story by: Louis P. DeSantis & Robert J. Bolivar.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds94x26
@@ -3323,7 +3332,7 @@ Directed by: Les Landau. Story by: George A. Brozak.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x01
@@ -3355,7 +3364,7 @@ Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x02
@@ -3386,7 +3395,7 @@ Directed by: Kim Friedman. Story by: Pam Wigginton & Rick Cason.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x03
@@ -3417,7 +3426,7 @@ Directed by: Andrew J. Robinson. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x04
@@ -3449,7 +3458,7 @@ Directed by: Kim Friedman. Story by: Brice R. Parker.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x05
@@ -3480,7 +3489,7 @@ Directed by: Allan Kroeker. Story by: David R. Long & Robert Lederman.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x06
@@ -3512,7 +3521,7 @@ Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x07
@@ -3544,7 +3553,7 @@ Behr.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x08
@@ -3576,7 +3585,7 @@ Directed by: LeVar Burton. Story by: Michael Taylor.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x09
@@ -3607,7 +3616,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x10
@@ -3637,7 +3646,7 @@ Directed by: Jonathan West. Story by: L.J. Strom.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x11
@@ -3667,7 +3676,7 @@ Directed by: Mike Vejar. Story by: Bryan Fuller.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x12
@@ -3698,7 +3707,7 @@ Directed by: Jesús Salvador Treviño. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x13
@@ -3728,7 +3737,7 @@ Directed by: Victor Lobl. Story by: Peter Allan Fields.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x14
@@ -3760,7 +3769,7 @@ Behr.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x15
@@ -3791,7 +3800,7 @@ Directed by: Les Landau. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x16
@@ -3822,7 +3831,7 @@ Directed by: David Livingston. Story by: Jimmy Diggs.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x17
@@ -3852,7 +3861,7 @@ Directed by: John T. Kretchmer. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x18
@@ -3882,7 +3891,7 @@ Directed by: Siddig El Fadil. Story by: Bradley Thompson and David Weddle.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x19
@@ -3912,7 +3921,7 @@ Directed by: Avery Brooks. Story by: Edmund Newton & Robbin L. Slocum.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x20
@@ -3943,7 +3952,7 @@ Directed by: René Auberjonois. Story by: Ira Steven Behr and Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x21
@@ -3974,7 +3983,7 @@ Directed by: LeVar Burton. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x22
@@ -4005,7 +4014,7 @@ Directed by: Allan Kroeker. Story by: Gary Holland and Ethan H. Calk.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x23
@@ -4037,7 +4046,7 @@ Directed by: Kim Friedman. Story by: Robert Hewitt Wolfe and Ira Steven Behr.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x24
@@ -4069,7 +4078,7 @@ Directed by: Mike Vejar. Story by: Bryan Fuller.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x25
@@ -4101,7 +4110,7 @@ Directed by: Michael Dorn. Story by: Truly Barr Clark & Scott J. Neal.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds95x26
@@ -4133,7 +4142,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x01
@@ -4167,7 +4176,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x02
@@ -4198,7 +4207,7 @@ Directed by: Mike Vejar. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x03
@@ -4230,7 +4239,7 @@ Weddle.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x04
@@ -4262,7 +4271,7 @@ Directed by: LeVar Burton. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x05
@@ -4294,7 +4303,7 @@ Directed by: Winrich Kolbe. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x06
@@ -4326,7 +4335,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x07
@@ -4357,7 +4366,7 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x08
@@ -4389,7 +4398,7 @@ Directed by: LeVar Burton. Story by: Michael Taylor.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x09
@@ -4421,7 +4430,7 @@ Directed by: Anson Williams. Story by: Pam Pietroforte.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x10
@@ -4452,7 +4461,7 @@ Directed by: Chip Chalmers. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x11
@@ -4483,7 +4492,7 @@ Directed by: René Auberjonois. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x12
@@ -4514,7 +4523,7 @@ Directed by: Victor Lobl. Story by: Mark Gehred-O'Connell.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x13
@@ -4545,7 +4554,7 @@ Directed by: Avery Brooks. Story by: Marc Scott Zicree.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x14
@@ -4576,7 +4585,7 @@ Directed by: Allan Kroeker. Story by: David Weddle & Bradley Thompson.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x15
@@ -4607,7 +4616,7 @@ Directed by: Allan Eastman. Story by: Philip Kim.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x16
@@ -4638,7 +4647,7 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x17
@@ -4670,7 +4679,7 @@ Directed by: Jonathan West. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x18
@@ -4700,7 +4709,7 @@ Directed by: Michael Dorn. Story by: Bradley Thompson & David Weddle.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x19
@@ -4731,7 +4740,7 @@ Directed by: Victor Lobl. Story by: Peter Allan Fields.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x20
@@ -4763,7 +4772,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x21
@@ -4795,7 +4804,7 @@ Stanton.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x22
@@ -4827,7 +4836,7 @@ Directed by: Mike Vejar. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x23
@@ -4858,7 +4867,7 @@ Directed by: Siddig El Faddil. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x24
@@ -4889,7 +4898,7 @@ Directed by: Allan Kroeker. Story by: Joe Menosky.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x25
@@ -4921,7 +4930,7 @@ Directed by: Winrich Kolbe. Story by: Pam Pietroforte.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds96x26
@@ -4953,7 +4962,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x01
@@ -4985,7 +4994,7 @@ Directed by: Les Landau. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x02
@@ -5016,7 +5025,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x03
@@ -5047,7 +5056,7 @@ Directed by: Les Landau. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x04
@@ -5078,7 +5087,7 @@ Directed by: Chip Chalmers. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x05
@@ -5109,7 +5118,7 @@ Directed by: Jonathan West. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x06
@@ -5141,7 +5150,7 @@ Directed by: Steve Posey. Story by: Philip Kim.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x07
@@ -5171,7 +5180,7 @@ Directed by: Allan Kroeker. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x08
@@ -5203,7 +5212,7 @@ Directed by: Winrich Kolbe. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x09
@@ -5234,7 +5243,7 @@ Directed by: John Kretchmer. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x10
@@ -5264,7 +5273,7 @@ Directed by: Anson Williams. Story by: David Mack & John J. Ordover.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x11
@@ -5296,7 +5305,7 @@ Directed by: Victor Lobl. Story by: David Weddle & Bradley Thompson.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x12
@@ -5326,7 +5335,7 @@ Directed by: LeVar Burton. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x13
@@ -5357,7 +5366,7 @@ Directed by: Tony Dow. Story by: Robert Hewitt Wolfe.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x14
@@ -5389,7 +5398,7 @@ Directed by: Steve Posey. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x15
@@ -5420,7 +5429,7 @@ Directed by: Mike Vejar. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x16
@@ -5451,7 +5460,7 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x17
@@ -5481,7 +5490,7 @@ Directed by: Steve Posey. Story by: René Echevarria.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x18
@@ -5512,7 +5521,7 @@ Directed by: Winrich Kolbe. Story by: Bradley Thompson & David Weddle.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x19
@@ -5544,7 +5553,7 @@ Directed by: René Auberjonois. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x20
@@ -5577,7 +5586,7 @@ Directed by: Mike Vejar. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x21
@@ -5609,7 +5618,7 @@ Directed by: Michael Dorn. Story by: René Echevarria & Spike Steingasser.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x22
@@ -5640,7 +5649,7 @@ Directed by: Mike Vejar. Story by: Ronald D. Moore.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x23
@@ -5670,7 +5679,7 @@ Directed by: Steve Posey. Story by: David Weddle & Bradley Thompson.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x24
@@ -5701,7 +5710,7 @@ Directed by: Avery Brooks. Story by: Peter Allan Fields.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x25
@@ -5734,7 +5743,7 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
 ds97x26
@@ -5767,6 +5776,6 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Aliens
 
-:: Other keywords
+:: Other Keywords
 
 
