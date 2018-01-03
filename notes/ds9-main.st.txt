@@ -126,7 +126,7 @@ patriotism [Tahna Los in Bajor independence movement],
 
 :: Major Themes
 trust in a friend [Kira trusted Thana Los that he was honest in having renounced his terrorist ways],
-betrayal of trust [Thana Los betrayed Kira's trust and vice versa; Duras sisters betrayed Thana Los],
+betrayal [Thana Los betrayed Kira's trust and vice versa; Duras sisters betrayed Thana Los],
 choosing between conflicting loyalties [Kira between Bajor, the Federation and the terrorists],
 loyalty to a group [Kira's was tested],
 loyalty to a leader [Kira to Benjamin],
@@ -276,7 +276,7 @@ trophy hunting alien [The Hunters hunted Tosk for sport],
 pleasure in hunting [hunting aliens in hunting down Tosk],
 trust in a potential foe [Miles in Tosk],
 pleasure in blood sports [The Hunters in hunting Tosk],
-betrayal of trust [Tosk betrayed Miles by trying to steal the weapons from the station],
+betrayal [Tosk betrayed Miles by trying to steal the weapons from the station],
 duty vs. friendship [Miles skirting orders to help Tosk escape hunters],
 
 :: Minor Themes
@@ -320,11 +320,11 @@ Benjamin Sisko, Vash, Q, Miles O'Brien, Quark
 Odo, Julian Bashir, Jadzia Dax, Kira Nerys, Kolos
 
 :: Choice Themes
-
-:: Major Themes
 the lust for gold [Vash says she will choose profit over science every time; Quark lectured by Odo about the pointless accumulation of material possession; Vash and Quark try to sell plundered artifacts in auction],
 avarice [Vash says she will choose profit over science every time; Quark lectured by Odo about the pointless accumulation of material possession],
 transcendental alien [Q bids Deep Space Nine a visit],
+
+:: Major Themes
 unrequited love [Q at Vash],
 to settle down vs. to keep on trekking [Vash about a life of adventure vs. quiet life on Earth with a cushy job at the Daystrom Institute],
 
@@ -366,18 +366,17 @@ guilt and evidence [was there enough evidence to convict Jazdia of treason?],
 conflicting systems of jurisprudence [who had the rights to try Dax?],
 sins of the father [was Jadzia responsible for the actions of her antecedent, Curzon?],
 personal identity [what constitutes Dax' personhood?],
+symbiotic alien [Trill],
 
 :: Major Themes
 friendship [Benjamin's friendship with both Curzon and Jadzia Dax; Curzon Dax kept his promise with his old friend the general not to expose him as a traitor],
-symbiotic alien [Trill],
-forbidden love [extramarital affair, ruined reputation whatnot],
-tough decision [Jadzia about protecting the reputation of friend's wife],
+forbidden love [Curzon in extramarital affair with Enina],
+sacrifice for a loved one [Jadzia about protecting the reputation of friend's wife by accepting blame for a murder],
 
 :: Minor Themes
 treason [Jadzia accused of treason],
 coping with unwelcome romantic attention [Bashir pestering Jadzia for a date],
 extramarital affair [Curzon Dax and Enina Tandro had an affair in the general's absence],
-love vs. friendship [Curzon Dax had an affair with his friend's wife IPHO his decision wasn't featured],
 mother and son [Enina Tandro and Ilon Tandro],
 
 :: Settings
@@ -454,29 +453,26 @@ Benjamin Sisko, Jadzia Dax, Kira Nerys, Julian Bashir, Quark, Falow
 Jake Sisko, Odo, George Primmin, Chandra
 
 :: Choice Themes
-passion for gambling [Quark and the Wadi - IMHO we can merge this into pleasure in gambling PS definitely],
-pleasure in gambling [Quark and the Wadi],
-what if I was stuck in a game-like maze [Sisko et al (PS: leave it at "stuck inside a game"?)],
+pleasure for gambling [Quark and the Wadi],
+what if I was stuck in a game [Sisko and company stuck in a maze in the Wadi game],
 
 :: Major Themes
-diplomacy [add a theme for establishing diplomatic relations aka. first contact? https://en.wikipedia.org/wiki/First_contact_(anthropology)],
+establishing diplomatic relations [The Federation with the Wadi],
 Sophie's choice [Quark was repeatedly forced to make life and death decisions involving his friends],
 man vs. captivity [Benjamin, Kira, Bashir, and Jadzia trapped inside the Wadi game],
 
 :: Minor Themes
-teaching children about the birds and the bees [Benjamin tells Jake about the birds and the bees (PS: leave it at "the birds and the bees"?)],
+the birds and the bees [Benjamin tells Jake about the birds and the bees],
 father and son [Benjamin tells Jake about the birds and the bees],
 sacrifice for a friend [Benjamin refused to abandon Jadzia],
 pleasure in solving a puzzle [the Wadi seemed to enjoy when their captives succeeded in solving a challenging puzzle],
 risk taking vs. playing it safe [Quark convinced Odo it was better adopt a high reward high risk strategy when playing the game],
 
 :: Settings
-cavern,
+cavern, labyrinth
 
 :: Aliens
 Wadi,
-
-:: Other Keywords
 
 
 ds91x11
@@ -506,27 +502,21 @@ avarice [Ferengi trumpeted avarice a virtue],
 the lust for gold [Ferengi trumpeted avarice a virtue],
 
 :: Major Themes
-bad influence on children [Benjamin concerned about Nog being a bad influence on Jakeg],
-parenting [Benjamin concerned about Nog being a bad influence on Jake; Rom struggles with taking Nog out of school],
+bad influence on children [Benjamin concerned about Nog being a bad influence on Jake],
 dealing with children [Miles teaching unruly students in schoolroom; Benjamin and Rom with their sons],
 friendship [Nog and Jake],
-betrayal of trust [Rom conspired to assassinate his brother Quark],
+betrayal [Rom conspired to assassinate his brother Quark],
 brother and brother [Quark and Nog],
 exceedingly avaricious alien [Ferengi],
 Sword of Damocles [Quark learns being Grand Nagus is not all fun in games],
-jealously [Rom jealous of his brother Quark's achievements],
-test of loyalty [Zek devised elaborate test of his son's loyalty],
+jealously [Rom jealous of his brother Quark's achievements in business],
 
 :: Minor Themes
-what if an assassin was after me [Quark],
-something about retirement and handing over the mantle [Grand Magus choose Quark as his successor],
-
-:: Settings
+handing over the mantle before retirement [Zek choose Quark to succeed him as Grand Nagus so he could retire],
+test of loyalty [Zek devised elaborate test of his son's loyalty],
 
 :: Aliens
 Ferengi,
-
-:: Other Keywords
 
 
 ds91x12
@@ -552,24 +542,22 @@ Julian Bashir, Jadzia Dax, Miles O'Brien, Quark, Kira Nerys, Ah-Kel, Ro-Kel, Rom
 
 :: Choice Themes
 the need to know one's roots [Odo interested in the possibility of others like him living in the Gamma Quadrant on the other side of the wormhole],
+the need to belong [Odo on the space station; Croden discussed living as as a newcomer in the Federation],
+belonging [Odo the lone changeling on space station; Croyen and his daughter to begin new life on Vulcan],
 
 :: Major Themes
 the desire for vengeance [Ah-Kel wanted to take vengeance against Croden over the murder of his twin brother Ro-Kel],
-the need to belong [Odo and other alien discussed (maybe)],
 loneliness [Odo was the lone member of his species aboard space station; Ah-Kel after the murder of his twin brother Ro-Kel],
-conflicting systems of jurisprudence [oh we'll extradite anyone to whoever yells so loudly, Sir! (PS: no discussion about the presumption of innocence or anything like that. it was just a matter of jurisdiction. or it could be the extended version of capital punishment where they kill your family)],
-duty vs. desire [Odo about what to do with the prisoner],
+extradition [aliens wanted to extradite Croden],
+duty vs. desire [Odo about whether to violate orders and set the prisoner free],
 oppression [alien society clearly had some kind of oppression],
 trust in a potential foe [Odo trusted Croden to take him to changeling colony],
-belonging [Odo the lone changeling on space station; Croyen and his daughter to begin new life on Vulcan],
 
 :: Minor Themes
-twin-bonded alien [or whatever or just ignore (PS: hard to explain and vague so just ignore)],
-father and daughter [alien dude],
-sacrifice for an adversary [alien for Odo and a bit vice versa],
+father and daughter [Croden and his daughter],
+sacrifice for an adversary [Croden for Odo and a bit vice versa],
 shapeshifter [Odo transformed himself into an egg-like object],
-wormhole [when should this be used in ds9?],
-prickliness [Odo (seems like an Odo signature theme)],
+prickliness [Odo],
 
 :: Aliens
 Rakhari, Miradorn, Vulcan
@@ -865,7 +853,7 @@ Jadzia Dax, Miles O'Brien, Odo, Julian Bashir, Quark, Hon-Tihl, Valerian captain
 
 :: Choice Themes
 loyalty to a leader [Kira led successful mutiny against Benjamin],
-betrayal of trust [Kira plotted to betray Benjamin over handling of alleged smugglers],
+betrayal [Kira plotted to betray Benjamin over handling of alleged smugglers],
 choosing between conflicting loyalties [Kira convinced Dax and other station members to side with her in mutiny against Benjamin; mutiny aboard Klingon vessel; power struggle on Saltah'na homeworld],
 what if people around me started acting all weird [from Odo's point of view],
 
