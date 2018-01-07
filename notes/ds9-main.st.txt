@@ -921,6 +921,7 @@ Directed by: David Livingston. Story by: Robert Hewitt Wolfe.
 
 :: Ratings
 1 <paul>,
+3 <mikael>,
 
 :: Main Characters
 Benjamin Sisko, Miles O'Brien, Winn Adami
@@ -932,8 +933,14 @@ Odo Kira Nerys, Julian Bashir, Jadzia Dax, Jake Sisko, Keiko O'Brien, Neela, Bar
 religious fundamentalism [orthodox Bajorans objected to teaching scientific facts about the wormhole in the space station school],
 creation and evolution in public education [orthodox Bajorans a thinly veiled reference to American creationism in the schools debate (https://en.wikipedia.org/wiki/Creation_and_evolution_in_public_education) Can we add a field in the definitions for related links? It's helpful for when we make the ontology],
 faith vs. reason [Keiko advanced a rational explanation of the wormhole, but Bajoran orthodox religious leaders thought it blasphemous],
+religion in public education [IMHO generalize it to this level],
 
 :: Major Themes
+religious fanaticism [shouting about blasphemy and using terrorism for the sake of beliefs],
+alternate points of view [Sisko made a big fuss about how one can see things from different perspectives, claiming wormhole aliens were legitimately prophets to the Bajoran],
+cross cultural understanding [Sisko wanted joint education for this purpose and stresses this is the point of ds9],
+sacrifice for one's beliefs [assistant/assassin expected to be caught but ready/ordered to sacrifice herself],
+terrorism [bombings and assassinations],
 
 :: Minor Themes
 husband and wife [Miles and Keiko],
@@ -941,6 +948,10 @@ father and son [Benjamin and Jake had heart to heart talk about the trial of Gal
 infatuation [Neela at Miles],
 terrorism [religious fundamentalists bombed space station school],
 disillusionment [Kira after realizing her religious leader stooped to orchestrated assassination plot against her rival],
+female jealousy [Keiko faked at O'Brian over assistant],
+extramarital affair [O'Brian was briefly tempted by assistant],
+wormhole [because Keiko made a point about explaining what it is in school (albeit in a stupid way)],
+
 
 :: Settings
 schoolroom, pond, public garden
