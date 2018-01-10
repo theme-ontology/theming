@@ -884,19 +884,19 @@ Jadzia Dax, Julian Bashir, Odo, Miles O'Brien, Quark, Dukat, Neela, Kobheerian c
 guilt and evidence [Benjamin tormented over holding Marritza without evidence],
 war crimes [Marritza was accused of having committed terrible war crimes],
 the desire for vengeance [Kira and other Bajorans wanted Marritza's blood],
-atrocities of war [Marritza was accused of running a regular concentration camp],
-concentration camp [Marritza was accused of running a regular concentration camp],
-remorse [Marritza felt responsible for the crimes committed at concentration camp and went to elaborate lengths to be punished],
+atrocities of war [Marritza was accused of running a labor/concentration camp],
+concentration camp [Marritza was accused of running a labor/regular concentration camp],
 
 :: Major Themes
 taking the law into one's own hands [Kira was sorely tempted to punish Marritza for the crimes of which she accused him],
-racism [various Bajorans against Cardassians, albeit with some cause],
+racism in society [various Bajorans against Cardassians, albeit with some cause],
 shades of gray [Marritza argued plausibly that no atrocities had been committed],
+remorse [Marritza felt responsible for the crimes committed at concentration camp and went to elaborate lengths to be punished],
 
 :: Minor Themes
 control by intimidation [Marritza described a Machiavellian philosophy of control],
-pride [Marritza boasted of his efficient running of labour/concentration camp],
-face altering technology theme [what did we call this?],
+pride [Marritza boasted of his efficient running of labor/concentration camp],
+appearance altering technology [Cardassian file clerk altered himself to look like Darhe'el],
 
 :: Settings
 brig,
@@ -930,36 +930,30 @@ Benjamin Sisko, Miles O'Brien, Winn Adami
 Odo Kira Nerys, Julian Bashir, Jadzia Dax, Jake Sisko, Keiko O'Brien, Neela, Bareil Antos, Vendor
 
 :: Choice Themes
-religious fundamentalism [orthodox Bajorans objected to teaching scientific facts about the wormhole in the space station school],
-creation and evolution in public education [orthodox Bajorans a thinly veiled reference to American creationism in the schools debate (https://en.wikipedia.org/wiki/Creation_and_evolution_in_public_education) Can we add a field in the definitions for related links? It's helpful for when we make the ontology],
+religious fundamentalism in society [orthodox Bajorans objected to teaching scientific facts about the wormhole in the space station school],
+religion in public education [orthodox Bajorans a thinly veiled reference to American creationism in the schools debate],
 faith vs. reason [Keiko advanced a rational explanation of the wormhole, but Bajoran orthodox religious leaders thought it blasphemous],
-religion in public education [IMHO generalize it to this level],
 
 :: Major Themes
-religious fanaticism [shouting about blasphemy and using terrorism for the sake of beliefs],
-alternate points of view [Sisko made a big fuss about how one can see things from different perspectives, claiming wormhole aliens were legitimately prophets to the Bajoran],
-cross cultural understanding [Sisko wanted joint education for this purpose and stresses this is the point of ds9],
-sacrifice for one's beliefs [assistant/assassin expected to be caught but ready/ordered to sacrifice herself],
-terrorism [bombings and assassinations],
+alternate points of view [Benjamin made a big fuss about how one can see things from different perspectives, claiming wormhole aliens were legitimately prophets to the Bajorans],
+cross cultural understanding [Benjamin wanted joint education for this purpose and stresses this is the point of having the space station],
+sacrifice for one's beliefs [Neela expected to be caught for assassinating religious leader but ready/ordered to sacrifice herself],
+terrorism [religious fundamentalists bombed space station school and assassination attempt made on religious leader],
+the lust for power [Winn Adami used school issue as a way to expand her power],
 
 :: Minor Themes
-husband and wife [Miles and Keiko],
+husband and wife [Keiko teased Miles about his interest in Neela],
 father and son [Benjamin and Jake had heart to heart talk about the trial of Galileo],
-infatuation [Neela at Miles],
-terrorism [religious fundamentalists bombed space station school],
 disillusionment [Kira after realizing her religious leader stooped to orchestrated assassination plot against her rival],
-female jealousy [Keiko faked at O'Brian over assistant],
-extramarital affair [O'Brian was briefly tempted by assistant],
-wormhole [because Keiko made a point about explaining what it is in school (albeit in a stupid way)],
-
+female jealousy [Keiko joked at Miles over his assistant Neela],
+forbidden love [Miles possibly to Neela],
+wormhole [Keiko taught students about wormhole in a lesson],
 
 :: Settings
 schoolroom, pond, public garden
 
 :: Aliens
 Bajoran,
-
-:: Other Keywords
 
 
 ds92x01
@@ -984,26 +978,25 @@ Benjamin Sisko, Kira Nerys, Miles O'Brien, Li Nalas
 Odo, Quark, Jake Sisko, Jadzia Dax, Julian Bashir, Rom, Borum, Dukat, Jaro Essa, Freighter Captain, Tygarian Officer
 
 :: Choice Themes
-taking the law into one's own hands [Kira off to free captive without permission (PS: What? The mission had Sisko's full blessing.)],
-hero worship [Li Nalas was worshiped as a hero for shooting an unarmed Cardassian leader in his underwear],
-messiah [this is off the mark, but there is something going on like in the Kahless clone episode],
 
 :: Major Themes
-extremism [the circle were Bajoran white supremacists],
-racism in society [the circle were Bajoran white supremacists],
+taking the law into one's own hands [Benjamin and Kira arranged to free Li Nalis without governmental approval],
+hero worship [Li Nalas was worshiped as a hero on Bajor for shooting an unarmed Cardassian leader in his underwear],
+extremism [the Circle were like Bajoran white supremacists],
+racism in society [the Circle were like Bajoran white supremacists],
+heroism [Kira and Miles going on jail break mission; Li Nalas as Bajoran hero],
 
 :: Minor Themes
 father and son [Benjamin advised Jake on his first date],
 the birds and the bees [Benjamin talked to Jake about dating],
 teenage angst [Jake worried about his first date],
-teen romance [Jake had a date (PS: I prefer to use this one when there are actually two people involved)],
+teen romance [Jake on his first date],
 coping with being famous [Li Nalas couldn't find a moments peace on the space station],
 distaste for attention [Li Nalas shunned the attention he received as a returning war hero],
 avarice [Quark shared his profits one to seven with Rom],
 the lust for gold [Quark shared his profits one to seven with Rom],
 vandalism [Bajoran extremists spray painted their logo on a space station corridor wall],
 passion for baseball [Benjamin talking baseball with Jake and Jadzia],
-heroism [Kira and Miles going on jail break mission]
 
 :: Settings
 rock quarry,
@@ -1011,7 +1004,8 @@ rock quarry,
 :: Aliens
 Cardassian, Tygarian, Bajoran
 
-:: Other Keywords
+:: Association
+tng6x23 [Kahless as hero to the Klingons]
 
 
 ds92x02
@@ -1037,13 +1031,13 @@ Odo, Quark, Jadzia Dax, Miles O'Brien, Julian Bashir, Li Nalas, Krim, Chekote, J
 
 :: Choice Themes
 civil war [the Bajoran provisional government faced a coup at the hands of the Circle insurgents],
+political polerization [Bajorans split among provisional government and Circle insurgents],
 
 :: Major Themes
 terrorism [the Circle now kidnapping and branding people],
 extremism [the Circle were Bajoran white supremacists],
-racism [the Circle were Bajoran white supremacists],
-the fulfillment of prophesy [at least there was some religious drivel going on],
-dithering democracy vs. decisive autocracy [or just democracy vs. autocracy (PS: nice catch)],
+racism in society [the Circle were Bajoran white supremacists],
+dithering democracy vs. decisive autocracy [Bajoran provisional government vs. Circle insurgents],
 
 :: Minor Themes
 friendship [various station people bidding farewell to Kira in her quarters],
@@ -1057,8 +1051,6 @@ futuristic cityscape, public garden, pond, monastery, cavern
 
 :: Aliens
 Kressari, Cardassian
-
-:: Other Keywords
 
 
 ds92x03
@@ -1088,14 +1080,15 @@ civil war [the Bajoran provisional government faced a coup at the hands of the C
 facing a ship takeover [Benjamin and his crew held the fort when space station invaded by Circle insurgents],
 
 :: Major Themes
-selfless service [people staying to defend ds9],
-heroism [Li Nalas apparently],
+selfless service [people staying to defend space station],
+heroism [Li Nalas gave life to save adversary],
 the lust for power [Winn Adami and Jaro Essa set nefarious plot to rule Bajor into motion],
+political polerization [Bajorans split among provisional government and Circle insurgents],
 
 :: Minor Themes
-something for O'Brien staying and Keiko being mad at him [],
-flight overbooking in society [],
-arachnophobia [Jadzia exhibited in caves],
+the battle of the sexes [Keiko wanted Miles to evacuate space station together with her and Molly],
+flight overbooking in society [Quark had to stay on space station due to escape vessel overbooking],
+arachnophobia [Jadzia feared spiders in the caves],
 getting a taste of one's own medicine [Rom sold Quark's seat aboard the escape vessel to a Dabo girl],
 avarice [Quark trying to profiteer during space station evacuation by selling double seats],
 the lust for gold [Quark trying to profiteer during space station evacuation by selling double seats],
