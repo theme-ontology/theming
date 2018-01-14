@@ -1404,7 +1404,7 @@ mating strategies
 =================
 
 :: Description
-
+This is a topic in biology that focuses on the various ways in which males and females from different species (plants and animals as well as humans) go about selecting a mate for reproduction. The purpose is generally to maximize the evolutionary fitness of one's offspring, but what this means in practice is a complicated question.
 
 :: Parents
 topic in science
@@ -1414,7 +1414,7 @@ medical triage
 ==============
 
 :: Description
-
+A practitioner of medicine has to choose which patient to prioritize base on factors such as likelihood of survival, age, and expected quality of remaining life.
 
 :: Parents
 medical ethics
@@ -1424,17 +1424,20 @@ medicine wheel
 ==============
 
 :: Description
-
+There is a Shamanic medicine wheel such as appears in many NAtive American traditions.
 
 :: Parents
 superstition
+
+:: References
+https://en.wikipedia.org/wiki/Medicine_wheel
 
 
 military training moon
 ======================
 
 :: Description
-
+An entire moon has been conditioned for the sole purpose of military training.
 
 :: Parents
 mastering space
@@ -1444,17 +1447,17 @@ misery loves company
 =====================
 
 :: Description
-
+The embarrassingly human tendency for unhappy people to want other people to be unhappy as well, is featured.
 
 :: Parents
-introspection
+human nature
 
 
 misfortune unites
 =================
 
 :: Description
-
+It is observed that a shared spat of adversity can work to bring people closer together.
 
 :: Parents
 life lesson
@@ -1464,7 +1467,7 @@ mistrust leading to group dysfunction
 =====================================
 
 :: Description
-
+The way in which mistrust can lead to a group of people not getting along is noted.
 
 :: Parents
 group interaction
@@ -1474,7 +1477,7 @@ musical machine interface
 =========================
 
 :: Description
-
+There is a machine which uses harmonious sequences of sound to interact with its user.
 
 :: Parents
 fictional apparatus
@@ -1484,7 +1487,7 @@ neighbor and neighbor
 =====================
 
 :: Description
-
+The relationship between two people who live next to each other is featured.
 
 :: Parents
 familial relations
@@ -1494,7 +1497,7 @@ nuclear power safety
 ====================
 
 :: Description
-
+The social problem of whether and to what extent nuclear power generation can be made safe is discussed.
 
 :: Parents
 contemporary social issue
@@ -1504,7 +1507,7 @@ opera
 =====
 
 :: Description
-
+This intersection between theater and singing is featured with focus on its production or artistic qualities.
 
 :: Parents
 the fine arts and the humanities
@@ -1514,7 +1517,7 @@ order vs. progress
 ==================
 
 :: Description
-
+The likely trade-off between having things orderly and predictable in society on one hand, and improving social conditions via. innovations on the other is discussed.
 
 :: Parents
 social dichotomy
@@ -1524,7 +1527,7 @@ organ harvesting alien
 ======================
 
 :: Description
-
+There is an alien species that engages in subduing members of other species in order to extract and steal pieces of their bodies.
 
 :: Parents
 culturally distinguished life form
@@ -1534,7 +1537,7 @@ out of control technology
 =========================
 
 :: Description
-
+The potential problem of a technology somehow getting out of hand and damaging the lives and well being of large groups of people are discussed from a society point of view.
 
 :: Parents
 contemporary social issue
@@ -1544,17 +1547,25 @@ out-of-body experience
 ======================
 
 :: Description
-
+Someone experiences a feeling being outside of their own physical body.
 
 :: Parents
 superstition
+
+:: References
+https://en.wikipedia.org/wiki/Out-of-body_experience
+
+:: Aliases
+astral projection,
+soul travel,
+spirit walking,
 
 
 passion for antique cars
 ========================
 
 :: Description
-
+Someone is enthusiastic about old vintage cars and the like.
 
 :: Parents
 human pleasure
@@ -1564,7 +1575,7 @@ passion for astronomy
 =====================
 
 :: Description
-
+Someone is enthusiastic about the stargazing science and profession.
 
 :: Parents
 human aspiration
@@ -1574,7 +1585,7 @@ passion for classic films
 =========================
 
 :: Description
-
+Someone is enthusiastic about old movies of cultural significance.
 
 :: Parents
 human pleasure
@@ -1584,7 +1595,7 @@ passion for event management
 ============================
 
 :: Description
-
+Someone is enthusiastic about the hobby or profession of organizing large get-togethers and the like.
 
 :: Parents
 human aspiration
@@ -1594,7 +1605,7 @@ passion for flying
 ==================
 
 :: Description
-
+Someone is enthusiastic about the hobby and profession of piloting aircrafts, spaceships, or the like.
 
 :: Parents
 human aspiration
@@ -1604,13 +1615,7 @@ passion for journalism
 ======================
 
 :: Description
-
-
-:: Parents
-human aspiration
-
-:: Description
-
+Someone is enthusiastic about the news-reporting profession - tabloid, investigative or otherwise.
 
 :: Parents
 human aspiration
@@ -1620,7 +1625,7 @@ patriarchal alien
 =================
 
 :: Description
-
+There is an alien species in which the males have all political power.
 
 :: Parents
 culturally distinguished life form
@@ -1630,7 +1635,7 @@ persecution of heretics in society
 ==================================
 
 :: Description
-
+The social issue of organized religious bodies tracking down and punishing individuals who they deem to be in opposition to that religious body's religious dogma, is discussed.
 
 :: Parents
 contemporary social issue
@@ -1640,7 +1645,7 @@ personal invisibility cloak
 ===========================
 
 :: Description
-
+There is technology by which a person can render their own body practically invisible.
 
 :: Parents
 fictional apparatus
@@ -1661,7 +1666,7 @@ pleasure in carpentry
 =====================
 
 :: Description
-
+Someone takes great pleasure in working with wood and the like.
 
 :: Parents
 human pleasure
@@ -1671,7 +1676,7 @@ pleasure in coffee
 ==================
 
 :: Description
-
+Someone takes great pleasure in preparing or imbuing the black heavenly nectar colloquially known as "coffee".
 
 :: Parents
 human pleasure
@@ -1681,17 +1686,20 @@ pleasure in floriculture
 ========================
 
 :: Description
-
+Someone takes great pleasure in working with flowers and the like.
 
 :: Parents
 human pleasure
+
+:: Related Themes
+pleasure in horticulture
 
 
 pleasure in gambling
 ====================
 
 :: Description
-
+Someone takes great pleasure in engaging in games of chance with money or other valuables at stake.
 
 :: Parents
 human pleasure
@@ -1701,17 +1709,20 @@ pleasure in horticulture
 ========================
 
 :: Description
-
+Someone takes great pleasure in bringing up vegetables, flowers, and other plants.
 
 :: Parents
 human pleasure
+
+:: Related Themes
+pleasure in floriculture
 
 
 pleasure in meeting new cultures
 ================================
 
 :: Description
-
+Someone takes great pleasure in fraternizing with people from other cultures.
 
 :: Parents
 human pleasure
@@ -1721,7 +1732,7 @@ pleasure in shooting pool
 =========================
 
 :: Description
-
+Someone takes great pleasure in playing cue sports such as the game of pool.
 
 :: Parents
 human pleasure
@@ -1731,7 +1742,7 @@ pleasure in singing opera
 =========================
 
 :: Description
-
+Someone takes great pleasure in singing the kind of singing known as opera singing.
 
 :: Parents
 human pleasure
@@ -1741,7 +1752,7 @@ polygamy
 ========
 
 :: Description
-
+The contentious social question of whether or to what extent a man or woman should be permitted to be lawfully married to more than one spouse at a time.
 
 :: Parents
 past and present moral controversy
