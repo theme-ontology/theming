@@ -3588,7 +3588,8 @@ fortitude [Barclay stayed on in spite of adversity] <Barclay>,
 hedonism [Barclay in holodeck] <Barclay>,
 kindness [Geordi toward Barclay] <Geordi>,
 lust [Barclay at Troi] <Barclay>,
-pensiveness [Barclay] <Barclay>
+pensiveness [Barclay] <Barclay>,
+anti-gravity technology [Barclay was trying to find the problem with an anti-gravitational device of some kind],
 
 
 tng3x22
@@ -9878,7 +9879,8 @@ anticipation [crew with Nomad around],
 apprehension [Nomad afoot],
 grief [crew for Scotty],
 interest [Nomad in Uhura] <Nomad>,
-surprise [Scotty resurrected from the dead]
+surprise [Scotty resurrected from the dead],
+anti-gravity technology [Nomad carried to the transporter room on an anti-grav trolley],
 
 
 tos2x09
