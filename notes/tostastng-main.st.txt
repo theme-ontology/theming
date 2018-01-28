@@ -1065,7 +1065,8 @@ annoyance [Picard is annoyed by Data in observation lounge] <Picard>,
 cruelty [Cyrus Redblock] <Cyrus Redblock>,
 malevolence [Cyrus Redblock] <Cyrus Redblock>,
 sadism [Cyrus Redblock] <Cyrus Redblock>,
-wrath [Cyrus Redblock] <Cyrus Redblock>
+wrath [Cyrus Redblock] <Cyrus Redblock>,
+what if I found out I was a simulation [Cyrus Redblock and Felix Leech upon exiting holodeck] <Cyrus Redblock, Felix Leech>,
 
 
 tng1x13
@@ -1208,7 +1209,8 @@ facing a ship takeover [Bynars],
 distraction [Riker and Picard by Minuet on holodeck] <Picard, Riker>,
 mercy [Picard to Bynars at end] <Picard>,
 patience [Picard to Bynars at end] <Picard>,
-federalism [Bynars were in Federation]
+federalism [Bynars were in Federation],
+what if I found out I was a simulation [Minuet] <Minuet>,
 
 
 tng1x16
@@ -1809,7 +1811,8 @@ prejudice [Pulaski at Data] <Pulaski>,
 the need for freedom [Moriarty wants to escape the confines of the holodeck] <James Moriarty>,
 simulated personality [Moriarty],
 facing a mortal enemy [Picard faces Moriarty] <Picard>,
-man vs. machine [crew vs. holodeck]
+man vs. machine [crew vs. holodeck],
+what if I found out I was a simulation [Moriarty] <James Moriarty>,
 
 :: Minor Themes
 be careful what you wish for [Pulaski wished for a holodeck program that could outsmart Data and got Moriarty],
@@ -4073,7 +4076,7 @@ After an apparent failure of a warp-field experiment, people begin to disappear 
 
 :: Choice Themes
 what if I couldn't trust the veracity of my senses [Beverly in bubble universe] <Beverly>,
-collapsing bubble universe [experiment gone wrong creates warp bubble universe],
+universe-in-a-box [experiment gone wrong creates warp bubble universe],
 second guessing one's self [Beverly about the veracity of her own memories] <Beverly>
 
 :: Major Themes
@@ -9045,7 +9048,7 @@ wrath [Lazarus-B] <Lazarus-B>
 delusional point of view [Lazarus-B was bat shit crazy] <Lazarus-B>,
 the science of anti-matter [we learn it goes boom when brought into contact with ordinary matter],
 time travel [Lazarus-A was a time traveller],
-collision with a parallel anti-matter universe [Lazarus-A was on a mission to prevent this from happening],
+collision with a parallel universe [Lazarus-A was on a mission to prevent this from happening],
 surviving an existential risk [the collision of universes],
 rage [Lazarus-B for Lazarus-A] <Lazarus-B>,
 trust in a potential foe [Kirk in Lazarus-A] <Kirk>,
