@@ -1871,7 +1871,7 @@ Directed by: Winrich Kolbe. Story by: Andrea Moore Alton.
 
 :: Ratings
 2 <mikael>,
-4 <paul> [the squire returns!],
+4 <paul>,
 
 :: Main Characters
 Jadzia Dax [object], Kor, Kang, Koloth,
@@ -1880,40 +1880,30 @@ Jadzia Dax [object], Kor, Kang, Koloth,
 Quark, Odo, Kira Nerys, Benjamin Sisko, The Albino, The Albino's assistant
 
 :: Choice Themes
-honor [Klingons],
 the desire for vengeance [Jadzia Dax, Kor, Kang, and Koloth swore a blood oath to get vengeance on The Albino for killing their first born sons using a genetic virus],
+honor [Klingons were dishonored by The Albino killing their first born sons],
 pleasure in violence [Klingons enjoying themselves],
+friendship [Curzon's friendship with Klingons was carried on through Jadzia],
 
 :: Major Themes
-coping with aging [age weary Klingons sought death in battle],
-personal identity [to what extent was Dax still the old Dax? blood-oath?],
-symbiotic alien [Jadzia and her symbiont were in the center],
-conflict of moral codes [Federation people did not understand Klingon moral codes and did not approve of Jadzia going on a bloody quest for vengance],
-friendship [Jadzia and rowdy Klingons],
-the desire for glory [Klingons sought death in battle and reminisced about past glories etc etc],
+coping with aging [age weary Klingons sought death in battle; Kor was a Klingon warrior past his prime],
+personal identity [to what extent was Jadzia still the old Curzon Dax?],
+symbiotic alien [Jadzia's symbiont was a friend of the Klingons in a former host Trill],
+conflict of moral codes [Federation people did not understand Klingon moral codes and did not approve of Jadzia going on a bloody quest for vengeance],
+the desire for glory [Klingons sought death in battle and reminisced about past glories],
 über-belligerent alien [Klingons],
-friendship [Curzon's friendship with Klingons was carried on through Jadzia],
 loyalty to a friend [Jadzia felt an obligation to Curzon's Klingon friends to go on mission to kill The Albino],
-what if I had to fight to the death [Jadzia and the Klingons vs. The Albino and his minions],
-facing a fight to the death [Jadzia and the Klingons vs. The Albino and his minions],
-the human condition [something about Jadzia taking a life],
+keeping an oath when circumstances have changed [Jadzia deciding whether she was honor bound to keep her oath from a past life to kill The Albino],
 
 :: Minor Themes
-coping with time passing you by [not exactly sure but seemed slightly topical],
-vendetta [not much was made of it but it was a vendetta situation described],
-facing an overpowering adversary [Klingons were intent on before the playing field was leveled],
-lust [],
-gluttony [],
-wrath [],
-coping with aging [Kor was a  Klingon warrior past his prime],
+vendetta [Klingons pursued a vendetta against The Albino after he killed their first born sons],
+facing an overpowering adversary [Klingons were intent on leveling the playing field before facing The Albino in the compound],
 
 :: Settings
 cavern, woodland, control room,
 
 :: Aliens
 Klingon,
-
-:: Other Keywords
 
 
 ds92x20
@@ -1940,37 +1930,29 @@ Benjamin Sisko, Dukat, Calvin Hudson
 Kira Nerys, Jadzia Dax, Miles O'Brien, Odo, Quark, Rom, Julian Bashir, Amaros, Sakonna, Evek, William Samuels, Kobb, Niles
 
 :: Choice Themes
-terrorism [Federation colonists accused Cardassian colonists of launching terrorists attacks and vice versa],
-terrorist or freedom fighter [Maquis were terrorists in the eyes of the Cardassians and liberators in the eyes of the Federation colonists],
-diplomacy [Federation/Cardassian treaty hung in the balance of how Benjamin handled the Maquis terrorist attack on Cardassian vessel],
+international politics [Federation/Cardassian treaty hung in the balance of how Benjamin handled the Maquis terrorist attack on Cardassian vessel],
 
 :: Major Themes
+terrorism [Federation colonists accused Cardassian colonists of launching terrorists attacks and vice versa],
+terrorist or freedom fighter [Maquis were terrorists in the eyes of the Cardassians and liberators in the eyes of the Federation colonists],
 arms trade [Benjamin raised possibility that Cardassian vessel may have been carrying weapons colonists; to Sakonna attempted to arrange a long term arms deal with Quark to supply the Maquis],
-guilt and evidence [],
-diplomatic negotiating [],
-international politics [],
-mediation [],
-false flag operation [is this what the Maquis did?],
-transnational conflict over a claimed territory [],
-loyalty to a friend [Sisko and old Maquis friend wuss-is-face],
-duty vs. friendship [Sisko at the end I think],
+transnational conflict over a claimed territory [Federation colonists in territory seeded to Cardassian Union wanted to belong to the Federation and vice versa],
+loyalty to a friend [Benjamin refused to support his old friend Calvin Hudson in joining the Maquis cause],
+duty vs. friendship [Benjamin refused to support his old friend Calvin Hudson in joining the Maquis cause],
+friendship [Benjamin and Calvin Hudson reminisced about the good old days on New Berlin],
 
 :: Minor Themes
 unrequited love [Quark at Sakonna],
 ultra rational alien [Sakonna admired the logic of the Ferengi Rules of Acquisition],
-friendship [Benjamin and Calvin Hudson reminisced about the god old days on New Berlin],
-man vs. captivity [Dukat kidnapped by Maquis],
 betrayal [Calvin Hudson betrayed his old friend Benjamin at the end of the episode by defecting to the Maquis],
-lookism in society [Jadzia and Kira bickered],
-female banter [or bickering? to go with male banter],
+lookism in society [Kira chided Jadzia for dating an alien whose brain was visible],
+female banter [Kira chided Jadzia for dating an alien whose brain was visible],
 
 :: Settings
 town square, jungle,
 
 :: Aliens
-Cardassian, Vulcan, 
-
-:: Other Keywords
+Cardassian, Vulcan,
 
 
 ds92x21
@@ -1999,24 +1981,19 @@ Jadzia Dax, Kira Nerys, Julian Bashir, Miles O'Brien, Odo, Quark, Rom, Amaros, S
 :: Choice Themes
 terrorism [Federation colonists accused Cardassian colonists of launching terrorists attacks and vice versa],
 terrorist or freedom fighter [Maquis were terrorists in the eyes of the Cardassians and liberators in the eyes of the Federation colonists],
-diplomacy [Federation/Cardassian treaty hung in the balance of how Benjamin handled the Maquis terrorist attack on Cardassian vessel],
+international politics [Federation/Cardassian treaty hung in the balance of how Benjamin handled the Maquis terrorist attack on Cardassian vessel],
 
 :: Major Themes
-betrayal [Calvin Hudson betrayed his old friend Benjamin by defecting to the Maquis],
+betrayal [Calvin Hudson betrayed his old friend Benjamin by defecting to the Maquis; Cardassians betrayed Dukat by leaving him to die in the hands of his Maquis captors],
 arms trade [Federation was accused of smuggling arms to colonists; Cardassians smuggled weapons into demilitarized zone],
-the desire for vengeance [Calvin Hudson wanted revenge against the Cardassians],
-cross cultural understanding [Dukat mingling with humans thing],
 friendship [Benjamin and Calvin Hudson effectively ended their friendship over Hudson joining the Maquis],
-diplomatic negotiating [],
-international politics [],
-mediation [],
-false flag operation [is this what the Maquis did?],
-transnational conflict over a claimed territory [],
-loyalty to a friend [Sisko and old Maquis friend wuss-is-face],
-duty vs. friendship [Sisko maybe],
-sacrifice for an adversary [Sisko put his neck on the line for Gul Dukat I think],
+transnational conflict over a claimed territory [Federation colonists in territory seeded to Cardassian Union wanted to belong to the Federation and vice versa],
+loyalty to a friend [Benjamin refused to support his old friend Calvin Hudson in joining the Maquis cause],
+duty vs. friendship [Benjamin refused to support his old friend Calvin Hudson in joining the Maquis cause],
+sacrifice for an adversary [Benjamin headed a mission to rescue Dukat from the Maquis when the Cardassians left him for dead],
 
 :: Minor Themes
+the desire for vengeance [Calvin Hudson wanted revenge against the Cardassians],
 man vs. captivity [Dukat kidnapped by Maquis],
 respect for an enemy [Benjamin for Dukat and vice versa],
 the presumption of innocence [Dukat explained how the verdict is known in advance in the Cardassian system of justice],
@@ -2026,8 +2003,6 @@ jungle, cavern, town square, council chamber,
 
 :: Aliens
 Cardassian, Vulcan, Xepolite,
-
-:: Other Keywords
 
 
 ds92x22
