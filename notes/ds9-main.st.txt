@@ -3272,29 +3272,30 @@ Julian Bashir, Elim Garak [object], Odo, Benjamin Sisko,
 Kira Nerys, Miles O'Brien, Jadzia Dax, Retaya, Enabran Tain, Mila, Romulan Tal Shiar operative,
 
 :: Choice Themes
-alternate points of view [Garak had rather surprising sincere opinions about truth and honesty],
+betrayal [Garak felt betrayed by his former mentor Tain once Garak discovered that Tain had plotted to assassinate him; Tain insinuated that Odo betrayed his shapeshifter brethren by turning his back on them; Garak appeared betray Odo by switching affiliations to the Cardassians],
 
 :: Major Themes
-trust in a friend [Garak sowed seeds of mistrust between himself and his space station colleagues],
+trust in a friend [Garak's space station colleagues didn't know whether to trust him or not because he was a pathological],
+sacrifice for a friend [Garak risked his life to save his former mentor Tain from being assassinated],
+political assassination [Obsidian Order Cardassians plotted to assassinate Garak and others],
+alternate points of view [Garak kept pointing out differences between the Federation and Cardassia way of seeing things],
 mentor and protégé [Garak was the former protégé of Tain],
-sacrifice for a friend [Garak risked his life to save his former mentor Tain],
-political assassination [Obsidian Order Cardassians plotted to assassinate Garak],
-betrayal [Garak felt betrayed by his former mentor Tain once Garak discovered that Tain had plotted to assassinate him; Tain insinuated that Odo betrayed his shapeshifter brethren by turning his back on them; Garak betrayed Odo by switching affiliations to the Cardassians],
 
 :: Minor Themes
 literature appreciation [Bashir and Garak discussed the literary merits of one of Shakespeare's plays over lunch],
 first strike tactic [Tain plotted a first strike against the Dominion],
-pleasure in eating [Garak discussed with Bshir in teaser],
-the theater [Garak discussed with Bshir in teaser],
-inhospitable environment dwelling life form [aliens that needed corrosive air were coming aboard],
+joining forces against a common enemy [Cardassians and Romulans united in a preemptive strike against the Dominion],
+a common enemy unites [Cardassians and Romulans united in a preemptive strike against the Dominion],
+preemptive strike in self-defense [Cardassians and Romulans united in a preemptive strike against the Dominion],
+pleasure in eating [Garak discussed with Bashir about the importance of taking one's time when eating],
+the theater [Garak discussed with Bashir in teaser],
+inhospitable environment dwelling life form [Yalosian ambassador needed corrosive air were coming aboard space station],
 
 :: Settings
 cavern,
 
 :: Aliens
-Flaxian, Cardassian, Kobheerian, Romulan,
-
-:: Other Keywords
+Flaxian, Cardassian, Kobheerian, Romulan, Yalosian,
 
 
 ds93x21
@@ -3315,33 +3316,31 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 1 <mikael>,
 
 :: Main Characters
-Elim Garak, Odo, Benjamin Sisko,
+Elim Garak [object], Odo, Benjamin Sisko,
 
 :: Supporting Cast
 Julian Bashir, Kira Nerys, Miles O'Brien, Jadzia Dax, Enabran Tain, Michael Eddington, Toddman, Lovok,
 
 :: Choice Themes
+preemptive strike in self-defense [Cardassians and Romulans united in a preemptive strike against the Dominion],
+choosing between conflicting loyalties [Garak between Cardassians and Federation; Odo revealed he had a desire to return to live among the Founders under pain of torture],
 
 :: Major Themes
 mentor and protégé [Garak reunited with his former mentor Tain],
 betrayal [Garak felt betrayed by his former mentor Tain once Garak discovered that Tain had plotted to assassinate him; Tain insinuated that Odo betrayed his shapeshifter brethren by turning his back on them],
-first strike tactic [Tain plotted a first strike against the Dominion],
-preemptive strike in self-defense [Cardassians and Romulans united in a preemptive strike against the Dominion],
-choosing between conflicting loyalties [Garak between Cardassians and Federation; Odo revealed he had a desire to return to live among the Founders under pain of torture],
 joining forces against a common enemy [Cardassians and Romulans united in a preemptive strike against the Dominion],
 a common enemy unites [Cardassians and Romulans united in a preemptive strike against the Dominion],
-totalitarianism [],
-duty vs. friendship [Garak wrt. Odo and Tain, ],
-conflict of duty [that grease monkey what sabotaged the cloaking gizmo],
+totalitarianism [Cardassian and Romulan systems of governance],
+duty vs. friendship [Garak had to choose between torturing Odo and disobeying his mentor Tain],
+duty vs. duty [Michael Eddington sabotaged the cloaking device under orders of Star Fleet Admiral],
 
 :: Minor Themes
+first strike tactic [Tain plotted a first strike against the Dominion],
 shapeshifter [Garak employed a device that prevented Odo from shapeshifting during an interrogation],
 the psychology of torture [Garak and Tain reminisced over Garak's abilities to extract information during interrogations],
 coping with being tortured [Odo was tortured in an interrogation presided over by Garak],
-attack from outer space by a genocidal enemy [the founders were about to be wiped out by such an enemy],
-loyalty to one's species [founders to founders, including Odo],
-
-:: Settings
+attack from outer space by a genocidal enemy [Founders were about to be wiped out by Cardassian and Romulan first strike],
+loyalty to one's species [Founders helped fellow shapeshifter Odo escape],
 
 :: Aliens
 Cardassian, Romulan, Jem'Hadar,
@@ -3364,8 +3363,8 @@ Cardassians.
 Directed by: Cliff Bole. Story by: Hilary J. Bader.
 
 :: Ratings
-9 <paul>,
-1 <mikael>,
+5 <paul>,
+4 <mikael>,
 
 :: Main Characters
 Benjamin Sisko [object], Jake Sisko, Julian Bashir,
@@ -3375,34 +3374,28 @@ Jadzia Dax, Quark, Miles O'Brien, Kira Nerys, Odo, Leeta, Dukat, Elizabeth Lense
 
 :: Choice Themes
 father and son [Benjamin and Jake build a solar sail spacecraft and fly it all the way to Cardassia],
-solar sail [https://en.wikipedia.org/wiki/Solar_sail],
+solar sail [Benjamin and Jake build a solar sail spacecraft and fly it all the way to Cardassia],
 passion for space exploration [Benjamin had a passion to explore space in imitation of the Bajorans of old],
 
 :: Major Themes
 beating one's self up [Bashir was self-conscious about having finished second to Elizabeth Lense in Star Fleet graduating class],
-male bonding [Benjamin and Jake bonded over talks about creative writing and women while on solar sail spacecraft voyage],
-lost knowledge of the ancients [there is something going on akin to the "How did the Ancient Egyptians build the pyramids" thing],
-competitiveness [Bashir and Lense, Cardassians vs. Bajorans over early space travel],
-transnational bickering over history [],
-inferiority complex [Bashir had a chip on his shoulder the size of a saucer section],
-leaving the nest [a coming of age story wrt. Jake],
-second guessing one's self [Jake about his literary talents],
-self-confidence [Jake in his talent],
+male bonding [Benjamin and Jake bonded over talks about creative writing and women while on solar sail spacecraft voyage; Bashir and Miles got drunk together],
+lost knowledge of the ancients [it was wondered how the ancient Bajorans flew all the way to Cardassia much as how people wonder "How did the Ancient Egyptians build the pyramids"],
+competitiveness [Bashir and Lense; Cardassians vs. Bajorans over early space travel],
+transnational conflict over historical revisionism [Cardassians wanted to suppress knowledge that Ancient Bajorans mastered space travel and flew to Cardassia Prime],
+inferiority complex [Bashir had a chip on his shoulder the size of a saucer section over having finished second in his class],
+leaving the nest [Jake was offered a scholarship to study creative writing in New Zealand],
+reminiscence [Bashir over his Star Fleet Academy days],
 
 :: Minor Themes
+second guessing one's self [Jake about his creative writing talent],
+self-confidence [Jake in his creative writing talent],
 beards [Benjamin thought it was time for a change and grew a goatee],
 fatherly disappointment in a son [Benjamin was initially disappointed in Jake for not wanting to accompany his dad on solar sail spacecraft voyage],
-space fireworks [],
-beards [Sisko in a goatee for the first time, discussed with Jake],
-teen romance [discussed?],
-romantic love [discussed?],
-
-:: Settings
+romantic love [Jake and Benjamin discussed Benjamin's future romantic plans; Jake planned to meet his ex-girlfriend who was visiting aboard the space station],
 
 :: Aliens
 Bajoran, Cardassian,
-
-:: Other Keywords
 
 
 ds93x23
