@@ -3621,6 +3621,7 @@ Wolfe.
 
 :: Ratings
 2 <mikael>,
+2 <paul>,
 
 :: Main Characters
 Benjamin Sisko, Worf, Jadzia Dax, Kira Nerys, Miles O'Brien,
@@ -3629,41 +3630,36 @@ Benjamin Sisko, Worf, Jadzia Dax, Kira Nerys, Miles O'Brien,
 Odo, Jake Sisko, Quark, Julian Bashir, Kasidy Yates, Dukat, Elim Garak, Gowron, Martok, Drex, Kaybok, Huraga,
 
 :: Choice Themes
-a common enemy unites [Cardassians and Federation against Klingon Empire; Alpha Quadrant powers agree to unite against The Dominion in the end],
-joining forces against a common enemy [Cardassians and Federation against Klingon Empire; Alpha Quadrant powers agree to unite against The Dominion in the end],
-cross cultural communication [Worf with Klingons],
-duty vs. patriotism [Worf torn between Klingons and Federation],
+cross cultural understanding [Worf was brought onto space station to deal with Klingon visitors],
+duty vs. duty [Worf torn between Klingons and Federation],
 choosing between conflicting loyalties [Worf torn between Klingons and Federation],
+über-belligerent alien [Klingons picked fight with Morn in quarks bar, beat tor out of Garak],
 
 :: Major Themes
+a common enemy unites [Cardassians and Federation against Klingon Empire; Alpha Quadrant powers agree to unite against The Dominion in the end],
+joining forces against a common enemy [Cardassians and Federation against Klingon Empire; Alpha Quadrant powers agree to unite against The Dominion in the end],
 facing an invading force [Cardassians invaded by Klingon Empire; Space station people braced for attack from Klingon armada],
-facing an overpowering adversary [Cardassians invaded by Klingon Empire; ; Space station people braced for attack from Klingon armada],
+facing an overpowering adversary [Cardassians invaded by Klingon Empire; Space station people braced for attack from Klingon armada],
 imperialism [Klingon Empire planned to conquer Cardassia and perhaps The Dominion],
-über-belligerent alien [Klingons picked fight with Morn in quarks bar, beat tor out of Garak],
 honor [Worf was stripped of all his Klingon accolades by Gowron except for his honor; Worf questioned the honor of the House of Martok; Gowron asserted Worf's Federation friends were without honor],
-career choice [Worf],
-figuring out what to do with one's life [Worf],
-privacy vs. security [MO don't recall why I wrote this],
-divide and conquer [it was said that the dominion played this game],
-the desire for glory [Klingons (do we need both?)],
-the desire for glory in battle [Klingons],
-long distance relationship [Sisko was contemplating],
-helping a stranger in need [Sisko ordered risky decloaking in order to scan for survivors],
-facing an overpowering adversary [Klingon army],
+career choice [Worf pondered resigning from Star Fleet],
+figuring out what to do with one's life [Worf pondered resigning from Star Fleet],
+divide and conquer [The Dominion tried to turn the Klingons against the Cardassians and Federation],
+the desire for glory [Martok sought glory in battle over the Cardassians and Dominion],
+the desire for glory in battle [Martok sought glory in battle over the Cardassians and Dominion],
 
 :: Minor Themes
-shapeshifter [],
+shapeshifter [Changelings thought to have infiltrated Cardassian government],
+helping a stranger in need [Benjamin ordered risky decloaking in order to scan Cardassian ship for survivors],
 passion for baseball [Benjamin and Kasidy contemplate taking a trip to Cestus III to watch a baseball game],
-romantic love [Banjamin and Kasidy take their dating to the next level],
+romantic love [Benjamin and Kasidy take their dating to the next level],
+long distance relationship [Benjamin and Kasidy contemplated having long distance relationship],
 virtual reality room [Kira felt silly about having a good time in the holosuite with Jadzia],
 the value of imagination [Jadzia tried to instill Kira with the value of having a good imagination in holosuite],
 passion for darts [Bashir and Miles tried to recruit Worf into their darts club],
-virtual reality sex [Jadzia with two hunks in vr suite],
-sticks and stones may break my bones but words can't hurt me [Garrick said],
+virtual reality sex [Jadzia with two hunks in holo suite],
 ingratitude [rescued Cardassians were not thankful enough],
-racism [MO don't recall why I wrote this],
-root beer [Quark and Garak correctly classified it as vile],
-the winners write history [MO don't recall but found towards the end],
+racism in society [Garak wondered why Klingons had become racist against the Cardassians after they assaulted him in Quark's bar],
 
 :: Settings
 cavern,
@@ -3732,19 +3728,18 @@ Worf, Jadzia Dax, Miles O'Brien, Kira Nerys, Odo, Quark, Julian Bashir, Korena, 
 
 :: Choice Themes
 father and son [future Jake told the story of how his father was lost in temporal displacement accident],
+obsession [Jake's obsession with figuring out how to get Benjamin out of subspace spelled the end of his marriage with Korena and writing career],
+carpe diem [Jake gave up living his life because of the obsession],
 
 :: Major Themes
-creative writing [Jake had grown up to be a famous writer PS: I'm surprised we don't have a passion for writing theme],
-coping with the death of a parent [Jake over Benjamin],
-grief [Jake over Benjamin],
-obsession [Jake's obsession with figuring out how to get Benjamin out of subspace spelled the end of his marriage with Korena],
-mentor and protégé [was Jake a mentor to Melanie wrt creative writing?],
-carpe diem [was in my notes - presumably because Jake gave up living his life because of the obsession],
-coping with a loved one being in peril [Jake with Sisko],
+creative writing [Jake had grown up to be a famous writer],
+coping with the death of a parent [Jake over taking Benjamin for dead],
+coping with a loved one being in peril [Jake over Benjamin being lost in time],
 
 :: Minor Themes
 husband and wife [adult Jake was happily married to Korena],
-literature appreciation [],
+mentor and protégé [was Jake a mentor to Melanie with respect to creative writing],
+literature appreciation [Melanie visited Jake to talk about his writing achievements],
 
 :: Settings
 white void,
@@ -3752,7 +3747,8 @@ white void,
 :: Aliens
 Bajoran,
 
-:: Other Keywords
+:: Associations
+tng5x25 [Picard],
 
 
 ds94x04
