@@ -1000,20 +1000,15 @@ earthquake machine
 ==================
 
 :: Description
-
-
-:: Parents
-nonsense
-
-
-global flood
-============
-
-:: Description
-merge "rising oceans" and "sinking land" into something like "land disappearing under water" IMHO
+A seismic event causing machine.
 
 :: Parents
-nonsense
+fictional apparatus
+
+:: References
+http://tvtropes.org/pmwiki/pmwiki.php/Main/Earthquakemachine
+
+
 
 
 
