@@ -2321,24 +2321,6 @@ aliens
 :: Related Themes
 
 
-attack from outer space by bug aliens
-=====================================
-
-:: Description
-Nefarious bug-like aliens from outer space come along, infiltrate and subjugate your civilization to their own ends.
-
-:: Example
-Starfleet Command was infiltrated by a race of parasitic bug aliens intent on the conquest of Earth in tng1x25 "Conspiracy".
-
-:: Parents
-extraterrestrial threat
-
-:: Other Parents
-aliens
-
-:: Related Themes
-
-
 attitude towards the dead
 =========================
 
@@ -26180,25 +26162,6 @@ crime and punishment
 
 
 
-tribble
-=======
-
-:: Description
-A very special fury creature, minute in size but enormous in appetite and promiscuity.
-
-:: Example
-
-
-:: Parents
-miscellaneous life form
-
-:: Other Parents
-aliens
-
-:: Related Themes
-
-
-
 true beauty comes from within
 =============================
 
@@ -29468,6 +29431,20 @@ crackpot theory
 
 :: References
 https://en.wikipedia.org/wiki/Ancient_astronauts
+
+
+
+subversive life form from outer space
+=====================================
+
+:: Description
+Aliens, creatures, or some other form of life from outer space, come along and (usually gradually) subvert the civilization on a target planet until the point where it is merely an extension of the invading life form's way of life.
+
+:: Example
+In tng1x25 "Conspiracy", bug-like aliens from outer space subvert the higher echelons of Starfleet by secretly attaching themselves to the brain stems of its key leaders.
+
+:: Parents
+extraterrestrial threat
 
 
 
