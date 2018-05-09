@@ -120,12 +120,11 @@ More Tribbles, More Troubles
 While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine stricken Sherman's Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them. The pilot turns out to be Cyrano Jones, an intergalactic trader well known to Kirk and crew from " The Trouble With Tribbles ". The Klingons desperately want Jones for introducing the tribble to Klingon planets where it has become a major pest, and for stealing a glommer, an animal the Klingons were breeding to prey on the tribble. Kirk expresses sympathy for the Klingons' plight but refuses to hand over Jones, a Federation citizen. Jones is now selling tribbles genetically engineered to omit their ordinarily unrestrained multiplicative proclivities. Dr. McCoy discovers that although Jones' "new" tribbles don't reproduce, they still have ravenous appetites. Instead of reproducing, they now grow hugely fat. Kirk and Spock manage to counter the Klingon weapon. Now at a disadvantage, the Klingons offer to settle for just the glommer. Kirk agrees and returns it—along with several well-fed (and huge) tribbles that scare it away. McCoy injects the remaining tribbles on the Enterprise with a serum to slow down their metabolic rate. They are finally "safe".
 
 :: Choice Themes
-tribble [the fluffy, furry creatures] <Tribble>
+invasive life form from outer space [Tribbles] <Tribble>,
 
 :: Major Themes
 military tactics [Federation and Klingon military stuff],
 genetic engineering [Tribbles were engineered to not reproduce and the glommer was to eat them],
-invasive life form from outer space [Tribbles] <Tribble>,
 man vs. beast [crew vs. Tribbles] <Tribble>,
 diplomatic negotiating [Federation negotiating with Klingons],
 facing a vermin infestation [Tribbles on Enterprise; Glommers on Klingon vessel],
@@ -1614,7 +1613,7 @@ The strange behavior of high-ranking officers—which earlier prompted the inves
 
 :: Choice Themes
 facing a conspiracy [Picard faces bug alien take over of Star Fleet] <Picard>,
-attack from outer space by bug aliens [Federation compromised by bug aliens],
+subversive life form from outer space [Federation compromised by bug aliens],
 insectoid [bug aliens] <Neural Parasite>,
 conspiracy theory [discussion on whether or not the conspiracy was real]
 
@@ -10117,7 +10116,6 @@ Tribbles – purring, limbless, and fertile – disrupt the exploitation of a di
 
 :: Choice Themes
 diplomatic negotiating [Federation and Klingons],
-tribble [fuzzy critters] <Tribble>
 
 :: Major Themes
 coping with an overbearing jerk [Lurry with Kirk] <Lurry>,
