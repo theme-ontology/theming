@@ -5746,15 +5746,12 @@ Someone shows bravery in the face of lethal danger.
 
 :: Example
 
-
 :: Parents
 agreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 courtesy
@@ -5765,15 +5762,15 @@ Someone is polite to a remarkable degree.
 
 :: Example
 
-
 :: Parents
 agreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Courtesy
 
 
 covert military program
@@ -5784,15 +5781,15 @@ A secret military project is featured.
 
 :: Example
 
-
 :: Parents
 war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Covert_operation
 
 
 cowardice
@@ -5809,9 +5806,10 @@ disagreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: REferences
+https://en.wikipedia.org/wiki/Cowardice
 
 
 cracking under pressure
@@ -5828,9 +5826,9 @@ coping with stress
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
 
 
 crackpot theory
@@ -5841,15 +5839,15 @@ The category of theories that are presented as scientific, but do not in fact ad
 
 :: Example
 
-
 :: Parents
 the domain of faith
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Pseudoscience
 
 
 creativity
@@ -5860,15 +5858,15 @@ Someone displays creativity and imagination.
 
 :: Example
 
-
 :: Parents
 agreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Creativity
 
 
 cross cultural romance
@@ -5879,15 +5877,12 @@ Two people with different cultural backgrounds engage in a romantic relationship
 
 :: Example
 
-
 :: Parents
 romantic relationship
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 cross cultural understanding
@@ -5898,7 +5893,6 @@ The category of themes that treat those social complications that arise when peo
 
 :: Example
 
-
 :: Parents
 intercultural relations
 
@@ -5907,6 +5901,8 @@ culture
 
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Cross-cultural_communication
 
 
 cruel and unusual punishment
@@ -5917,7 +5913,6 @@ We are made to ponder what kinds of acts of punishments are so cruel and unusual
 
 :: Example
 
-
 :: Parents
 human rights
 
@@ -5926,6 +5921,8 @@ crime and punishment
 
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Cruel_and_unusual_punishment
 
 
 cruelty
@@ -5942,9 +5939,11 @@ disagreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
 torture
+
+:: References
+https://en.wikipedia.org/wiki/Cruelty
 
 
 cryogenic technology
@@ -5955,15 +5954,16 @@ Technology that can freeze, e.g., a human body and thus stop it from aging or ch
 
 :: Example
 
-
 :: Parents
 human enhancement
 
 :: Other Parents
 
-
 :: Related Themes
 suspended animation
+
+:: References
+https://en.wikipedia.org/wiki/Cryobiology
 
 
 cryogenics
@@ -5974,15 +5974,15 @@ We are asked whether it is acceptable, or wise, to freeze one's self before deat
 
 :: Example
 
-
 :: Parents
 past and present moral controversy
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Cryobiology
 
 
 crystalline life form
@@ -6003,6 +6003,9 @@ aliens
 :: Related Themes
 space snowflake
 
+:: References
+https://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry#In_fiction
+
 
 cultural differences
 ====================
@@ -6012,7 +6015,6 @@ Differences between people from different cultures, including ways of looking at
 
 :: Example
 
-
 :: Parents
 cross cultural understanding
 
@@ -6020,7 +6022,6 @@ cross cultural understanding
 culture
 
 :: Related Themes
-
 
 
 cultural exchange
@@ -6041,7 +6042,6 @@ culture
 :: Related Themes
 
 
-
 cultural preservation
 =====================
 
@@ -6056,9 +6056,10 @@ contemporary social issue
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Cultural_heritage
 
 
 culturally distinguished life form
