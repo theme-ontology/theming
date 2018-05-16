@@ -601,7 +601,7 @@ pleasure in violence [Kira was guilty of secretly relishing in war],
 the fulfillment of prophesy [Kai Opaka felt she was brought to the prison moon to mediate healing process between Ennis and Nol-Ennis prisoners],
 grief [Kira over death of priestess Kai Opaka],
 the quest for immortality [Bashir was excited by the prospect of studying the prisoners revived from the dead],
-prison moon [shuttledcraft crash landed on Nol-Ennis penal colony moon],
+space prison [shuttledcraft crash landed on Nol-Ennis penal colony moon],
 
 :: Settings
 rocky landscape, cavern,
@@ -5473,40 +5473,33 @@ Odo, Kira Nerys, Mora Pol,
 Quark, Benjamin Sisko, Julian Bashir, Keiko O'Brien, Miles O'Brien, Worf, Shakaar Edon, Y'Pora, 
 
 :: Choice Themes
-the joys of parenthood [I don't know what else to say],
-parenting [],
-resenting one's upbringing [Odo v daddy],
-coming to terms with one's past [Odo v daddy; we have "coming to terms with things" and variations],
-father and son [Odo and daddy],
+parenting [Kira, Miles, and Keiko took joy in the arrival of their baby; Odo taking an infant Changeling under his wing],
+father and son rivalry [Mora Pol and Odo wangling over their past],
+coming to terms with one's past [Odo had resented his de facto father's treatment of him when he was young, but came to understand his father's actions],
+father and son [Mora Pol and Odo reconcile after years of resentment],
 
 :: Major Themes
 shapeshifter [Odo takes a baby Changeling under his wing and teaches it how to shapeshift],
 guardian and child [Odo takes a baby shapeshifter under his wing; Mola Pol fancied himself a guardian-like figure to Odo during Odo's formative period],
 giving birth [Kira gives birth to Keiko and Miles's baby],
-what if I were a specimen animal in a zoo [Odo resented Mora treating the infant Changeling like a laboratory specimen],
-mentor and protégé [Odo plays the role of mentor to infant Changeling; Odo meets his old mentor Mora Pol],
-expecting parents [Kira gives birth to Keiko and Miles's baby],
+mentor and protégé [Mora Pol advocated performing unethical experiments infant Changeling; Odo meets his old mentor Mora Pol],
 unethical human experimentation [put as starting point for thinking about experiments on infant Changeling],
 reconciliation [Odo and Mora Pol were brought closer together in the process of raising the infant Changeling],
-male stereotype [O'Brian and Kiras guy],
+awkward expectant father [Shakaar Edon rebuffed Miles over wanting to watch Kira's birthing process close up],
+working together in spite of disagreement [Odo and Mora Pol in raising infant changeling],
+cross cultural understanding [infant Changeling learning to understand the solids; Miles and Kieko participating in a Bajoran birthing],
 
 :: Minor Themes
-seeing the error of one's ways [Mora Pol admitted his was wrong to experiment on Odo with lordly indifference during Odo's formative period],
+what if I were a specimen animal in a zoo [Odo resented Mora treating the infant Changeling like a laboratory specimen; Odo was treated as a specimen by Mora when he was first discovered],
 coping with the death of a child [Odo with the tragic death of infant Changeling],
 grief [Odo with the tragic death of infant Changeling],
 boyfriend and girlfriend [Shakaar Edon comes to the space station to witness his girlfriend Kira give birth to Keiko and Miles's baby],
-hypochondria [Odo thought he had some arcane disease],
+hypochondria [Odo complained to Julian of having Alvanian spine mites but it turned out to be a pinched nerve],
 alien point of view [Odo about what it is like to have a human body],
-working together in spite of disagreement [Odo and daddy],
-coping with stress at work [Odo got under pressure to produce],
-cross cultural understanding [Shapeshifter and solids stuff],
-
-:: Settings
+coping with stress at work [Benjamin explained to Odo that if he doesn't make more progress with raising the infant Changeling that Starfleet would take it away],
 
 :: Aliens
 Changeling, Bajoran,
-
-:: Other Keywords
 
 
 ds95x13
@@ -5521,7 +5514,7 @@ Michael Eddington returns and Sisko becomes obsessed with catching him.
 Directed by: Victor Lobl. Story by: Peter Allan Fields.
 
 :: Ratings
-3 <paul>,
+1 <paul>,
 1 <mikael>,
 
 :: Main Characters
@@ -5531,20 +5524,19 @@ Benjamin Sisko [object], Kira Nerys, Jadzia Dax, Michael Eddington,
 Worf, Miles O'Brien, Odo, Sanders, Nog,
 
 :: Choice Themes
-the desire for vengeance [Benjamin was consumed by a personal grudge with Eddington],
 obsession [Benjamin obsessed with capturing Eddington and bring him to justice for his treason]
-tough decision [MO: Sisko did a number of tough and stupid decisions, I'm too disgusted to unravel them],
 
 :: Major Themes
-treason [Benjamin went on mission to capture Eddington and bring him back to be tried for treason],
-betrayal [Benjamin accused Eddington of having betrayed him and the Federation],
-terrorist or freedom fighter [],
-forced resettlement [],
-the end justifies the means [],
-annihilation by WMDs [two colonies were rendered uninhabitable],
+the desire for vengeance [Benjamin was possibly consumed by a personal grudge with Eddington],
+the desire for justice [Benjamin was possibly consumed by a desire to bring Eddington to justice],
+terrorist or freedom fighter [Eddington saw himself as a freedom fighter, but Benjamin saw him as leader of a terrorist organization; Benjamin wiped out Maquis colony],
+forced resettlement [Benjamin destroyed the atmosphere of Maquis planet to force inhabitants to leave],
+the end justifies the means [Benjamin destroys atmosphere of inhabited planet to capture Eddington],
+annihilation by WMDs [Benjamin rendered Maquis planet uninhabitable by destroying its atmosphere],
 
 :: Minor Themes
-space boxing [ :- ) ],
+treason [Benjamin went on mission to capture Eddington and bring him back to be tried for treason],
+betrayal [Benjamin accused Eddington of having betrayed him and the Federation],
 biological warfare [Eddington used biogenic weapons in an attack on the Cardassians],
 
 :: Settings
@@ -5552,8 +5544,6 @@ cavern,
 
 :: Aliens
 Bajoran,
-
-:: Other Keywords
 
 
 ds95x14
@@ -5583,26 +5573,21 @@ Odo, Jadzia Dax, Quark, Miles O'Brien, Tora Ziyal, Martok, Ikat'ika, Enabran Tai
 
 :: Major Themes
 mentor and protégé [Garak went on dangerous mission to rescue his old mentor Enabran Tain],
-facing an invading force [space station first line of defense against Dominion invasion of the Alpha Quadrant],
 father and daughter [Dukat came to space station to cehck up on his daughter Tora Ziyal],
-forbidden love [Tora Ziyal pursued Garak against her father Dukat's wishes],
-coping with being imprisoned [],
+man vs. captivity [Worf, Julian, Garak, and Martok held captive in Jem'Hadar asteroid prison],
 
 :: Minor Themes
+facing an invading force [space station first line of defense against Dominion invasion of the Alpha Quadrant],
 boyfriend and girlfriend [Jadzia was angry at Worf because he neglected to tell her that he was going out on dangerous mission],
 hollowed out asteroid habitat [Jem'Hadar were flying around in hollowed out asteroid],
 shapeshifter [Julian and Martok were abducted and replaced by shapeshifters],
 disapproving parent [Dukat disapproved of Tora Ziyal dating his rival Garak],
-man vs. captivity [Worf, Julian, Garak, and Martok held captive in Jem'Hadar asteroid prison],
 father and son [Garak made his peace with his father Tain on Tain's deathbed],
-the art of subterfuge [Garak explained the importance of practicing deceit],
-coping with a loved one being in peril [Jadzia worried about Worf],
-cross cultural romance [MO: we should add this to other episodes],
-prison moon [MO: generalize to "prison in space" (space prison)],
-coping with the death of a parent [Garak's daddy died],
-facing an invading force [Dominion invaded],
-
-:: Settings
+coping with a loved one being in peril [Jadzia worried about Worf going on dangerous mission into Gamma Quadrant; Tora Ziyal waiting on pins and needles for Garak to come back through the wormhole],
+cross cultural romance [Jadzia and Worf],
+space prison [Jem'Hadar held orf, Julian, Garak, and Martok in prison asteroid],
+coping with the death of a parent [Garak father Enabran Tain died in prison],
+grief [Garak over the death of his father Enabran Tain],
 
 :: Aliens
 Cardassian, Klingon, Jem'Hadar, Breen,
