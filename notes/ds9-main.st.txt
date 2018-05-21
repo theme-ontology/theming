@@ -5790,6 +5790,7 @@ Directed by: Siddig El Fadil. Story by: Bradley Thompson and David Weddle.
 
 :: Ratings
 1 <paul>,
+1 <mikael>,
 
 :: Main Characters
 Quark [object], Hagath, Gaila, Miles O'Brien, 
@@ -5801,16 +5802,23 @@ Jadzia Dax, Jake Sisko, Benjamin Sisko, Julian Bashir, Odo, Kira Nerys, Worf, Fa
 arms trade [Quark resorted to selling weapons on the black market after his financial ruin],
 TD [Quark about giving up his life to save the lives of 28 million],
 wrestling with one's conscience [Quark about taking the money and 28 million dying as a result],
+desire vs. conscience [sell guns to get gold],
+great need vs. breaking the law [Quark was over his head in debt so his arm was sort of twisted into the evil shenanigans],
+killing for personal advantage [would you kill 28 million people for X amount of gold?],
 
 :: Major Themes
 avarice [Hagath and Gaila were itching to profit from selling arms to opposing sides in a war],
 the lust for gold [Hagath and Gaila were itching to profit from selling arms to opposing sides in a war],
 coping with guilt [Quark felt guilty about selling arms],
+facing bankruptcy [],
 
 :: Minor Themes
 coping with a squawky baby [Miles taking care of Yoshi while Keiko was away for work],
 child rearing [],
-father and son [Miles and Yoshi?],
+father and son [Miles and Yoshi? MO: the baby is too young for its gender to be significant],
+falling out of friendship [Quark fell out with Jadzia over his unethical behavior],
+loyalty to a leader [Hagath expected unwavering loyalty from his associates],
+betrayal [Hagath ranted about betrayals],
 
 :: Settings
 
@@ -5878,6 +5886,7 @@ Directed by: René Auberjonois. Story by: Ira Steven Behr and Hans Beimler.
 
 :: Ratings
 1 <paul>,
+0 <mikael>,
 
 :: Main Characters
 Quark [object], Ishka, Zek, Rom, Leeta,
@@ -5886,6 +5895,8 @@ Quark [object], Ishka, Zek, Rom, Leeta,
 Jadzia Dax, Miles O'Brien, Odo, Worf, Benjamin Sisko, Kira Nerys, Julian Bashir, Maihar'du, Leck, Brunt,
 
 :: Choice Themes
+cross cultural romance [Rom and Leeta],
+the battle of the sexes [Rom vs. Leeta, Ferengi males vs. Moogie],
 
 :: Major Themes
 fiancée and fiancée [Rom and Leeta were engaged to be married],
@@ -5932,6 +5943,7 @@ Directed by: LeVar Burton. Story by: Ronald D. Moore.
 
 :: Ratings
 1 <paul>,
+3 <mikael>,
 
 :: Main Characters
 Jadzia Dax, Worf, Martok, 
@@ -5944,16 +5956,20 @@ the desire for glory in battle [Martok and Worf speak of glory that will come fr
 honor [Klingons aboard warbird desire to regain their honor in the wake of a number of consecutive losses in battle],
 morale [https://en.wikipedia.org/wiki/Morale],
 tough decision [Martok about whether or not to cross Cardassian border to rescue possible survivors aboard the B'moth],
+workplace morale [the point of the story was arguably the importance of good morale in a workplace or in the military],
+defeatism in the workplace [https://en.wikipedia.org/wiki/Defeatism, another group dynamics theme],
 
 :: Major Themes
 boyfriend and girlfriend [Jadzia and Worf go on dangerous mission together],
 chain of command [command hierarchy important part of interactions aboard Klingon warbird],
 the qualities of a good leader [Martok had to balance need to up crew morale with completing mission to find the B'moth],
 loyalty [Work to Martok],
+cross cultural understanding [the Klingons' alien morals were pointed out and Jadzia understood them],
+alien point of view [the Klingons' alien morals were pointed out and Jadzia understood them],
 
 :: Minor Themes
 coping with a disability [Martok refused an to get artificial eye to improve his battle skills],
-cowardice [Worf accused Martok of cowardice and challenged him for control of Klingon vessel],
+cowardice [Worf accused Martok of cowardice and challenged him for control of Klingon vessel MO: knock up],
 facing a fight to the death [Work fought Martok in fight to the death for command of Klingon vessel],
 what if I had to fight to the death [Work fought Martok in fight to the death for command of Klingon vessel],
 
@@ -5963,7 +5979,7 @@ what if I had to fight to the death [Work fought Martok in fight to the death fo
 Klingon,
 
 :: Other Keywords
-tactical alert <40:10<,
+tactical alert <40:10>,
 
 
 ds95x22
@@ -5980,6 +5996,7 @@ Directed by: Allan Kroeker. Story by: Gary Holland and Ethan H. Calk.
 
 :: Ratings
 2 <paul>,
+1 <mikael>,
 
 :: Main Characters
 Benjamin Sisko, Kira Nerys, Jadzia Dax, Odo, Miles O'Brien, Worf, Julian Bashir, Yedrin Dax,
@@ -5991,15 +6008,24 @@ Quark, Miranda O'Brien, Lisa, Molly, Brota, Parell, Gabriel,
 time travel [Defiant crew was poised to be tossed 200 years into the past],
 what if I was tossed into the past [Defiant crew was poised to be tossed 200 years into the past],
 what if I met my distant descendants [Defiant crew meet their distant descendants owing to a time travel incident],
+the calculus of human life [],
+time traveler's dilemma [not the standard one but perhaps the same kind of shit nonetheless],
+sacrifice for a loved one [Odo sacrificed 8000 friends for Kira we learn - others contemplated self-sacrifice],
 
 :: Major Themes
 romantic love [future Odo confessed to Kira that he had always loved her],
 the calculus of human life [if the Defiant went back to space station to save Kira's life, then 8000 people on the planet stood to wink out of existence],
-destiny [Kira argued that letting the colonists die would be cheating fate],
+destiny [Kira argued that letting the colonists die would be cheating fate MO: knock it up a notch?],
+expressing feelings [Odo's trouble with telling Kira his feelings came to a head],
 
 :: Minor Themes
 nomadic life [Worf's descendants chose to live as nomads],
 honor [Worf's descendants wished to be killed by Work so that they could die with honor instead of winking out of existence],
+the fulfillment of prophesy [Kira mentioned prophets and prophecy and destiny and all that shit],
+love conquers all [don't remember exactly who but this was more or less said at some point],
+romantic fidelity [O'Brian was shocked to learn that his alternate timeline self had eventually given up on Keiko],
+the desire for glory in battle [Klingon crap],
+euthanasia [Worf was asked to mercy kill his alternate timeline descendants],
 
 :: Settings
 town square, field, campfire,
