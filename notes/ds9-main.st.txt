@@ -5524,7 +5524,7 @@ Benjamin Sisko [object], Kira Nerys, Jadzia Dax, Michael Eddington,
 Worf, Miles O'Brien, Odo, Sanders, Nog,
 
 :: Choice Themes
-obsession [Benjamin obsessed with capturing Eddington and bring him to justice for his treason]
+obsession [Benjamin obsessed with capturing Eddington and bring him to justice for his treason],
 
 :: Major Themes
 the desire for vengeance [Benjamin was possibly consumed by a personal grudge with Eddington],
@@ -5585,7 +5585,7 @@ disapproving parent [Dukat disapproved of Tora Ziyal dating his rival Garak],
 father and son [Garak made his peace with his father Tain on Tain's deathbed],
 coping with a loved one being in peril [Jadzia worried about Worf going on dangerous mission into Gamma Quadrant; Tora Ziyal waiting on pins and needles for Garak to come back through the wormhole],
 cross cultural romance [Jadzia and Worf],
-space prison [Jem'Hadar held orf, Julian, Garak, and Martok in prison asteroid],
+space prison [Jem'Hadar held Worf, Julian, Garak, and Martok in prison asteroid],
 coping with the death of a parent [Garak father Enabran Tain died in prison],
 grief [Garak over the death of his father Enabran Tain],
 
@@ -5620,38 +5620,36 @@ Jadzia Dax, Kira Nerys, Miles O'Brien, Quark, Dukat, Tora Ziyal, Deyos, Ikat'ika
 
 :: Choice Themes
 a common enemy unites [Federation and Romulan and Klingon Empires unite to thwart Dominion invasion of the Alpha Quadrant; prisoners from hostile alien races join forces to escape],
-joining forces against a common enemy [Federation and Romulan and Klingon Empires unite to thwart Dominion invasion of the Alpha Quadrant],
-facing an invading force [space station first line of defense against Dominion invasion of the Alpha Quadrant],
+joining forces against a common enemy [Federation and Romulan and Klingon Empires unite to thwart Dominion invasion of the Alpha Quadrant; prisoners from hostile alien races join forces to escape],
 
 :: Major Themes
+facing an invading force [space station first line of defense against Dominion invasion of the Alpha Quadrant],
 man vs. captivity [Worf, Julian, Garak, and Martok held captive in Jem'Hadar asteroid prison],
 facing a fight to the death [Worf fought seven Jem'Hadar warriors to the death],
 what if I had to fight to the death [Worf defeated five Jem'Hadar warriors in fights to the death],
 honor [Vorta explained how Worf was motivated to fight to the death by archaic longing for honor and the Jem'Hadar displayed honor as well],
+the desire for glory [Vorta explained how Worf was motivated to fight to the death by archaic longing for honor],
 overcoming an inhibition [Garak had to overcome his claustrophobia],
-introspection [possibly something of this for Garak],
+taking control of one's fears [Garak had to overcome his claustrophobia],
 
 :: Minor Themes
 hollowed out asteroid habitat [Jem'Hadar were flying around in hollowed out asteroid],
 shapeshifter [Julian and Martok were abducted and replaced by shapeshifters],
 coping with a loved one being in peril [Tora Ziyal waiting on pins and needles for Garak to come back through the wormhole],
-claustrophobia [Garak's claustrophobia manifested itself when he was working in a confined space (Ref: https://en.wikipedia.org/wiki/Claustrophobia)],
-the desire for glory [Vorta explained how Worf was motivated to fight to the death by archaic longing for honor],
+claustrophobia [Garak's claustrophobia manifested itself when he was working in a confined space],
 respect for an enemy [Jem'Hadar warrior refused to kill Worf in fight to the death out of respect for Worf's never quit attitude],
 sun going supernova [Changeling impostor tried to trigger a supernova of Bajoran sun],
 father and daughter [Dukat renounced Ziyal as his daughter],
-the lust for power [Dukat wowed to "make Cardassia strong again"],
-prison in space [],
+space prison [Jem'Hadar held Worf, Julian, Garak, and Martok in prison asteroid],
 father and son [Garak ruminated about his daddy briefly],
-grief [Garak ruminated about his late daddy briefly],
+coping with the death of a parent [Garak father Enabran Tain died in prison],
+grief [Garak over the death of his father Enabran Tain],
 
 :: Settings
 prison cell,
 
 :: Aliens
 Cardassian, Klingon, Jem'Hadar, Vorta, Breen, Romulan, Changeling,
-
-:: Other Keywords
 
 
 ds95x16
@@ -5679,45 +5677,35 @@ Rom, Benjamin Sisko, Quark, Odo, Jake Sisko, Kira Nerys, Jadzia Dax, Worf, Leeta
 :: Choice Themes
 the use of genetic engineering [Julian's parents had his DNA illegally resequenced to enhance him both cognitively and physically],
 having a skeleton in the closet [Julian was hiding that his DNA was illegally resequenced to enhance him both cognitively and physically],
+father and son rivalry [Richard and Julian at one another's throats over years of pent up tensions],
 
 :: Major Themes
 father and son [Richard Bashir agrees to take responsibility for Julian being genetically engineered by accepting a two year prison sentence],
 mother and son [Amsha Bashir pays a visit to his son Julian],
-genetic engineering [Julian's parents had his DNA illegally resequenced to enhance him both cognitively and physically],
-father and son rivalry [Richard and Julian at one another's throats],
-clash of wills [Richard and Julian at one another's throats],
-TD [could use a TD for the parents decision to augment him],
+clash of wills [Richard and Julian at one another's throats over years of pent up tensions],
 reconciliation [Julian and Richard part on good terms after Richard agrees to take the fall for Julian],
-overcoming an inhibition [Rom overcame his shyness MO: we may not have used this in similar situations but it seems apt],
-brains vs. boobs [],
-sacrifice for a loved one [daddy went to prison for sonny MO: I'm once again disgusted by ds9 bigotry that has only the father sent to prison for something that the mother was clearly equally responsible for],
-resentment [Julian resented his parents],
-rearing a child with mental problems [],
-familial love [mommy and daddy loved Julian very much],
+overcoming an inhibition [Rom overcame his shyness with talking to Leeta],
+sacrifice for a loved one [Richard went to prison for Julian],
+resentment [Julian resented his parents for having genetically engineered him as a boy],
+rearing a child with a mental disorder [Richard and Amsha struggled with raising a mentally challenged Julian],
+familial love [Julian and his parents],
 
 :: Minor Themes
+great need vs. breaking the law [Richard and Amsha made the decision to illegally genetically augment their dimwitted son Julian],
+genetic engineering [Julian's parents had his DNA illegally resequenced to enhance him both cognitively and physically],
 the quest for immortality [Zimmerman fancied holographic simulation as a form of immortality],
 simulated personality [Zimmerman was constructing a holographic duplicate of Julian],
-what if I met my double [Julian meets his holographic duplicate],
 love triangle [Rom, Leeta, and Zimmerman],
 infatuation [Zimmerman at Leeta; Rom and Leeta; Rom and Zimmerman],
 meddling parent [Julian was mortified to host his parents aboard the space station],
 brother and brother [Quark consoled Rom when they thought he blew it with Leeta],
-prejudice in society [Julian worried people would be prejudiced against him because he has been genetically engineered],
-workers replaced by machines [would doctors be replaced by machines was discussed initially],
-coping with an arrogant jerk [Zimmerman was there],
-jealousy [Rom of Zimmerman],
-career choice [Leeta about becoming a cafe proprietor],
-love vs. career [Leeta appears to have picked love],
-being ashamed of who you are [possibly],
-mythomania [Julian's daddy appeared to be a compulsive liar though not much was made of it in the end],
-male competitiveness [],
-
-:: Settings
-
-:: Aliens
-
-:: Other Keywords
+workers replaced by machines [whether would doctors be replaced by machines was discussed initially],
+coping with an arrogant jerk [stations crew with Zimmerman],
+jealousy [Rom of Zimmerman over Leeta],
+career choice [Leeta about leaving job as a dabo girl to become a cafe proprietor],
+love vs. career [Leeta about leaving job as a dabo girl to become a cafe proprietor],
+pathological lying [Richard appeared to exaggerate his own accomplishments and future opportunities],
+male competitiveness [Julian and Richard],
 
 
 ds95x17
