@@ -17182,9 +17182,7 @@ human enhancement
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 poetry
@@ -17195,15 +17193,15 @@ The art of stringing words together is featured.
 
 :: Example
 
-
 :: Parents
 the fine arts and the humanities
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Poetry
 
 
 political assassination
@@ -17220,9 +17218,10 @@ the art of war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Assassination
 
 
 political asylum
@@ -17233,15 +17232,15 @@ A sovereign faction grants an individual safety in their own jurisdiction, typic
 
 :: Example
 
-
 :: Parents
 diplomacy
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Right_of_asylum
 
 
 polytheism
@@ -17252,34 +17251,29 @@ Religions that contain a pantheon of many gods, as opposed to the Abrahamic reli
 
 :: Example
 
-
 :: Parents
 organized religion
 
 :: Other Parents
 
-
-:: Related Themes
-Christianity
+:: References
+https://en.wikipedia.org/wiki/Polytheism
 
 
 postponing grief
 ================
 
 :: Description
-Someone delays mourning the death of another until after some more urgent practical matter has been attended to.
+A character delays mourning the death of another until after some more urgent practical matter has been attended to.
 
 :: Example
-
 
 :: Parents
 facing general adversity
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 power corrupts
@@ -17290,15 +17284,15 @@ Someone who was decent gains power and because of the power becomes nasty.
 
 :: Example
 
-
 :: Parents
 human nature
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+http://www.dictionary.com/browse/power-tends-to-corrupt-absolute-power-corrupts-absolutely
 
 
 powerful conquering alien race
@@ -17319,7 +17313,6 @@ aliens
 :: Related Themes
 
 
-
 preemptive strike in self-defense
 =================================
 
@@ -17334,28 +17327,30 @@ social ethical dilemma
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Preemptive_war
 
 
 prejudice
 =========
 
 :: Description
-Someone has a preconceived negative opinion about a category of people, typically an ethnic group. In the extreme this leads to fear and hatred of that group.
+A character has a preconceived negative opinion about a category of people, typically an ethnic group. In the extreme this leads to fear and hatred of that group.
 
 :: Example
-
 
 :: Parents
 antagonistic disposition
 
 :: Other Parents
 
-
 :: Related Themes
+prejudice in society
 
+:: References
+https://en.wikipedia.org/wiki/Prejudice
 
 
 prejudice against ex-convicts
@@ -17372,9 +17367,7 @@ prejudice in society
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 prejudice in society
@@ -17385,22 +17378,23 @@ The subject of prejudice against a group of people in society is explored.
 
 :: Example
 
-
 :: Parents
 contemporary social issue
 
 :: Other Parents
 
-
 :: Related Themes
 prejudice
+
+:: References
+https://en.wikipedia.org/wiki/Prejudice
 
 
 prickliness
 ===========
 
 :: Description
-Someone is easily irritated.
+A character is easily irritated.
 
 :: Example
 The strain of memorizing a complicated greeting in the Jaradan language left Captain Picard in a highly irritable mood in tng1x12 "The Big Goodbye".
@@ -17410,9 +17404,7 @@ disagreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 pride
@@ -17429,9 +17421,10 @@ deadly sin
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Pride
 
 
 prime numbers
@@ -17448,9 +17441,10 @@ topic in science
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Prime_number
 
 
 primitive point of view
@@ -17461,15 +17455,12 @@ We are shown what things might be like from the point of view of a person that c
 
 :: Example
 
-
 :: Parents
 views and customs
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 space prison
@@ -17481,15 +17472,12 @@ Typically it is on a moon, asteroid, spaceship or the like.
 
 :: Example
 
-
 :: Parents
 mastering space
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 prisoner rights
@@ -17506,9 +17494,10 @@ human rights
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Prisoners%27_rights
 
 
 prisoners of war
@@ -17525,35 +17514,33 @@ war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Prisoner_of_war
 
 
 problem of language and meaning
 ===============================
 
 :: Description
-The category of themes that treat the practical problems that arise when people who communicate differently, i.e. who use very different languages, have to interact.
+Featured is a practical problem that arises when people who communicate differently, i.e. who use very different languages, have to interact.
 
 :: Example
-
 
 :: Parents
 intercultural relations
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 prudishness
 ===========
 
 :: Description
-Someone is too easily offended or shocked by sexual matters.
+A character is too easily offended or shocked by sexual matters.
 
 :: Example
 Campio called off his wedding to Lwaxana when it became apparent that the ceremony was to be conducted in the nude, as was the Betazoid custom, in tng5x20 "Cost of Living".
@@ -17563,9 +17550,10 @@ disagreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Prude
 
 
 psychopathic criminal in society
@@ -17576,34 +17564,31 @@ The social ramifications of there being psychopathic criminals, and the treatmen
 
 :: Example
 
-
 :: Parents
 contemporary social issue
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 psychopathy
 ===========
 
 :: Description
-Someone exhibits persistent antisocial behaviour, impaired empathy, and abnormal egotism.
+A character exhibits persistent antisocial behavior, impaired empathy, and abnormal egotism.
 
 :: Example
-
 
 :: Parents
 pathological state of mind
 
 :: Other Parents
 
-
 :: Related Themes
 psychopathic criminal in society, treatment of the criminally insane
+
+:: References
 
 
 pulsar
@@ -17614,15 +17599,16 @@ A rotating neutron star that emits a beam of electromagnetic radiation, like a l
 
 :: Example
 
-
 :: Parents
 what's out there
 
 :: Other Parents
 
-
 :: Related Themes
 neutron star
+
+:: References
+https://en.wikipedia.org/wiki/Pulsar
 
 
 pure evil alien
@@ -17643,24 +17629,20 @@ aliens
 :: Related Themes
 
 
-
 purpose in life
 ===============
 
 :: Description
-The category of themes that are about what drives us and makes us act with what we perceive as “purpose”. These are themes about our aspirations and needs, pleasures and cherished beliefs.
+Featured is a topic about what drives us and makes us act with what we perceive as “purpose”. These are themes about our aspirations and needs, pleasures and cherished beliefs.
 
 :: Example
-
 
 :: Parents
 the human condition
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 pursuing one's dream vs. advancing one's career
@@ -17677,9 +17659,7 @@ life choice
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 pursuing one's dream vs. saving a friend
@@ -17696,9 +17676,7 @@ life choice
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 putting differences aside
@@ -17709,15 +17687,12 @@ Two characters agree to put past differences aside in order to pursue some more 
 
 :: Example
 
-
 :: Parents
 one-on-one interaction
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 quacksalvery
@@ -17728,22 +17703,22 @@ The fradulent practice of peddling unproven "medicines" that are highly unlikely
 
 :: Example
 
-
 :: Parents
 superstition
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Quackery
 
 
 quasar
 ======
 
 :: Description
-Essentially a supermassive black hole that emits enormous amounts of electromagnetic energy.
+Featured is an active galactic nucleus of very high luminosity.
 
 :: Example
 The Enterprise encountered Murasaki 312, a quasar-like phenomena, in tos1x13 "The Galileo Seven". Interestingly, “murasaki” means purple in Japanese, yet the quasar was plainly green.
@@ -17753,9 +17728,10 @@ what's out there
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Quasar
 
 
 queen and cache of eggs
@@ -17772,28 +17748,23 @@ familial relations
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 questioning one's sanity
 ========================
 
 :: Description
-Someone questions whether their beliefs are really rational.
+A character questions whether their beliefs are really rational.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 racism in society
@@ -17804,15 +17775,15 @@ The issue of a large portion of society having an irrational, hostile, prejudice
 
 :: Example
 
-
 :: Parents
 prejudice in society
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Racism
 
 
 radioactive space garbage scow
@@ -17833,12 +17804,11 @@ aliens
 :: Related Themes
 
 
-
 rage
 ====
 
 :: Description
-Someone is experiences "anger" to the extent that they are about to loose control and start smashing teeth or tables.
+A character is experiences "anger" to the extent that they are about to loose control and start smashing teeth or tables.
 
 :: Example
 Enraged, Worf smashed Geordi’s mandolin to smithereens in tng4x20 “Qpid”.
@@ -17851,6 +17821,9 @@ Plutchik-emotion
 
 :: Related Themes
 annoyance, anger
+
+:: References
+https://en.wikipedia.org/wiki/Rage_(emotion)
 
 
 randomization
@@ -17867,9 +17840,10 @@ topic in science
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Randomization
 
 
 rapid aging
@@ -17886,47 +17860,42 @@ human enhancement
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+http://tvtropes.org/pmwiki/pmwiki.php/Main/RapidAging
 
 
 rationalization of a belief
 ===========================
 
 :: Description
-Someone strains to find arguments to support a cherished belief while irrationally overlooking potential counterarguments.
+A character strains to find arguments to support a cherished belief while irrationally overlooking potential counterarguments.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 real gadget
 ===========
 
 :: Description
-Star Trek is more than half a century old; this is the category of themes that features technology which is now real though it was near enough sci-fi at the time of the making.
+Featured is a technology which is now real though it was near enough sci-fi at the time of the making.
 
 :: Example
-
 
 :: Parents
 novel sci-fi concept
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 recapitulation theory
@@ -17937,15 +17906,15 @@ A largely discredited hypothesis advanced by Ernst Haeckel that in developing fr
 
 :: Example
 
-
 :: Parents
 discredited scientific theory
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Recapitulation_theory
 
 
 reclusiveness
@@ -17962,16 +17931,18 @@ disagreeable characteristic
 
 :: Other Parents
 
-
 :: Related Themes
 xenophobic isolationist alien
+
+:: References
+https://en.wikipedia.org/wiki/Recluse
 
 
 reconciliation
 ==============
 
 :: Description
-Two people who have quarreled in the past come to a more or less amicable reconciliation.
+Two characters who have quarreled in the past come to a more or less amicable reconciliation.
 
 :: Example
 Riker and his father Kyle reconciled their differences over a heated anbo-jyutsu match in tng2x14 “The Icarus Factor”.
@@ -17986,6 +17957,9 @@ one-on-one interaction
 :: Aliases
 forgiveness
 
+:: References
+https://en.wiktionary.org/wiki/reconciliation
+
 
 reconciliation between two peoples
 ==================================
@@ -17995,15 +17969,12 @@ Two factions who have been at odds with each other decide to put their differenc
 
 :: Example
 
-
 :: Parents
 diplomacy
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 red giant
@@ -18020,9 +17991,10 @@ what's out there
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Red_giant
 
 
 relentless enemy
@@ -18033,15 +18005,12 @@ A people is threatened by an enemy who uncompromisingly wants them all dead and 
 
 :: Example
 
-
 :: Parents
 war
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 reliance on a central computer
@@ -18058,9 +18027,7 @@ man-made existential risk
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 reliance on a single point of failure is unwise
@@ -18071,15 +18038,12 @@ The reasons for why you shouldn’t put all your eggs in one basket is illustrat
 
 :: Example
 
-
 :: Parents
 life lesson
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 religion as a control mechanism
@@ -18090,15 +18054,12 @@ There is a society in which the ruling elite moulds religious doctrine to justif
 
 :: Example
 
-
 :: Parents
 social order
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 religious fundamentalism in society
@@ -18110,12 +18071,10 @@ doctrines of a religion are explored.
 
 :: Example
 
-
 :: Parents
 contemporary social issue
 
 :: Other Parents
-
 
 :: Related Themes
 
@@ -18127,7 +18086,7 @@ religious fervor
 ================
 
 :: Description
-Someone exhibits an obsessive enthusiasm related to their religion.
+A character exhibits an obsessive enthusiasm related to their religion.
 
 :: Example
 Worf encountered zealous Klingons who resurrected their Messiah in tng6x23 "Rightful Heir".
@@ -18137,47 +18096,39 @@ state of mind
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 remembrance
 ===========
 
 :: Description
-Someone reflects on memories of a departed loved one, friend, or colleague, etc.
+A character reflects on memories of a departed loved one, friend, or colleague, etc.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 reminiscence
 ============
 
 :: Description
-Someone looks back with emotion on previous experiences.
+A character looks back with emotion on previous experiences.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 remorse
