@@ -19126,22 +19126,19 @@ A subordinate questions the propriety of their superior’s decision.
 
 :: Example
 
-
 :: Parents
 one-on-one interaction
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 second guessing one's self
 ==========================
 
 :: Description
-Someone questions the propriety of their own previously held beliefs or past actions.
+a character questions the propriety of their own previously held beliefs or past actions.
 
 :: Example
 Kevin Uxbridge second guessed himself over having wiped the Husnock race clean out of existence in tng3x03 “The Survivors”.
@@ -19151,9 +19148,7 @@ introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 secret military base building
@@ -19170,9 +19165,10 @@ the art of war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Secrecy#Military_secrecy
 
 
 security vs. freedom
@@ -19189,35 +19185,30 @@ social dichotomy
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 seeing the error of one's ways
 ==============================
 
 :: Description
-Someone comes to realize that their previous actions and attitude were in fact bad.
+A character comes to realize that their previous actions and attitude were in fact bad.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 selective memory
 ================
 
 :: Description
-Someone seems to remember only those things that it suits their interests to remember.
+A character seems to remember only those things that it suits their interests to remember.
 
 :: Example
 Each person remembered events much as they preferred it to have been in the little murder drama of tng3x14 "A Matter of Perspective".
@@ -19227,35 +19218,30 @@ state of mind
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 self-analysis
 =============
 
 :: Description
-Someone tries to put pretension aside and sort out what they truly think and feel.
+A character tries to put pretension aside and sort out what they truly think and feel.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 self-confidence
 ===============
 
 :: Description
-Someone ponders whether they are really capable enough to do what they do, intend to do, are requested to do, etc.
+A character ponders whether they are really capable enough to do what they do, intend to do, are requested to do, etc.
 
 :: Example
 Wesley was assigned to lead a science team in an effort to help build his self-confidence in tng2x15 “Pen Pals”.
@@ -19265,9 +19251,10 @@ introspection
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Self-confidence
 
 
 self-deception
@@ -19278,15 +19265,15 @@ Someone refuses to face uncomfortable truths.
 
 :: Example
 
-
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Self-deception
 
 
 self-destruct tactic
@@ -19297,34 +19284,31 @@ Combatants decide to destroy themselves and their vessel rather than to surrende
 
 :: Example
 
-
 :: Parents
 the art of war
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 self-image
 ==========
 
 :: Description
-Someone thinks about how they see themselves in contrast with how other people may see them.
+A character thinks about how they see themselves in contrast with how other people may see them.
 
 :: Example
-
 
 :: Parents
 introspection
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Self-image
 
 
 self-replicating nano-devices
@@ -19341,28 +19325,26 @@ fictional apparatus
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Self-replicating_machine
 
 
 self-sacrifice
 ==============
 
 :: Description
-The category of themes that are about someone helping another at a significant cost or risk to themself.
+A character helps another character or cause at a significant cost or risk to themself.
 
 :: Example
-
 
 :: Parents
 facing adversity
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 selfless service
@@ -19373,15 +19355,12 @@ Someone does a self-sacrificial thing in the line of duty but above and beyond t
 
 :: Example
 
-
 :: Parents
 self-sacrifice
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 semantic progression
@@ -19398,9 +19377,10 @@ problem of language and meaning
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Semantic_change
 
 
 sentient computer
@@ -19411,7 +19391,6 @@ A computer-like machine that is self-aware an intelligent. This is used about st
 
 :: Example
 
-
 :: Parents
 AI technology
 
@@ -19419,7 +19398,6 @@ AI technology
 AI
 
 :: Related Themes
-
 
 
 sentient nanomachines
@@ -19449,12 +19427,10 @@ We are made to ponder what intrinsic rights we feel should be awarded all sentie
 
 :: Example
 
-
 :: Parents
 human rights
 
 :: Other Parents
-
 
 :: Related Themes
 AI rights
@@ -19478,7 +19454,6 @@ AI
 :: Related Themes
 
 
-
 serenity
 ========
 
@@ -19486,7 +19461,6 @@ serenity
 A character exhibits a feeling of calm and contentment without the pleasure or happiness that come with the experience of "joy".
 
 :: Example
-
 
 :: Parents
 pleasant emotion
@@ -19506,7 +19480,6 @@ A “fully functional” android of one gender or another, designed to please it
 
 :: Example
 
-
 :: Parents
 AI technology
 
@@ -19514,7 +19487,6 @@ AI technology
 AI
 
 :: Related Themes
-
 
 
 sexism in society
@@ -19525,19 +19497,18 @@ Prejudice against someone because of their gender is featured.
 
 :: Example
 
-
 :: Parents
 the battle of the sexes
 
-
 :: Other Parents
-
 
 :: Related Themes
 
-
 :: Aliases
 gender discrimination
+
+:: References
+https://en.wikipedia.org/wiki/Sexism
 
 
 sexual prejudice in society
@@ -19554,9 +19525,10 @@ prejudice in society
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Sexism
 
 
 shades of gray
@@ -19567,15 +19539,12 @@ We are shown that moral questions are often not black and white but have many co
 
 :: Example
 
-
 :: Parents
 views and customs
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 shamanism
@@ -19592,38 +19561,38 @@ superstition
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Shamanism
 
 
 shame
 =====
 
 :: Description
-Someone feels bad because of past actions of theirs that they have come to think were wrong, or because they have an unbecoming outwards appearance.
+A character feels bad because of past actions of theirs that they have come to think were wrong, or because they have an unbecoming outwards appearance.
 
 :: Example
-
 
 :: Parents
 unpleasant emotion
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Shame
 
 
 shapeshifter
 ============
 
 :: Description
-A creature that can radically change its shape, seemingly by magic.
+A being that can radically change its shape, seemingly by magic.
 
 :: Example
-
 
 :: Parents
 miscellaneous life form
@@ -19633,6 +19602,8 @@ aliens
 
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Shapeshifting
 
 
 shapeshifting
@@ -19643,15 +19614,15 @@ A hypothetical process by which a human or other biological creature can change 
 
 :: Example
 
-
 :: Parents
 human enhancement
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Shapeshifting
 
 
 shotgun wedding
@@ -19668,9 +19639,11 @@ parenting
 
 :: Other Parents
 
-
 :: Related Themes
 space rednecks
+
+:: References
+https://en.wikipedia.org/wiki/Shotgun_wedding
 
 
 sibling rivalry
@@ -19681,7 +19654,6 @@ There is conflict between brothers and sisters.
 
 :: Example
 
-
 :: Parents
 growing up
 
@@ -19690,6 +19662,8 @@ juvenile
 
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Sibling_rivalry
 
 
 signs from the heavens
@@ -19700,15 +19674,12 @@ Some seemingly miraculous event is interpreted as a sign of divine origin.
 
 :: Example
 
-
 :: Parents
 organized religion
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 silicon-based life form
@@ -19728,6 +19699,8 @@ aliens
 
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry#Silicon_biochemistry
 
 
 simulated personality
@@ -19738,7 +19711,6 @@ A personality that exists only as a program within some computer. It is self-awa
 
 :: Example
 
-
 :: Parents
 AI technology
 
@@ -19747,6 +19719,9 @@ AI
 
 :: Related Themes
 the universe is a simulation theory
+
+:: References
+https://en.wikipedia.org/wiki/Simulated_consciousness_in_fiction
 
 
 simulated reality
@@ -19757,15 +19732,15 @@ Technology that is like the virtual reality of today, but handles all the sense 
 
 :: Example
 
-
 :: Parents
 fictional apparatus
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Simulated_reality
 
 
 single fatherhood
@@ -19782,9 +19757,10 @@ parenting
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Single_parent
 
 
 single motherhood
@@ -19801,9 +19777,10 @@ parenting
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Single_parent
 
 
 catastrophic flood
@@ -19820,9 +19797,7 @@ force majeure existential risk
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 sins of the father
@@ -19839,9 +19814,10 @@ past and present moral controversy
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Sins_of_the_Father
 
 
 sister and sister
@@ -19852,15 +19828,12 @@ The relationship between two sisters is featured.
 
 :: Example
 
-
 :: Parents
 familial relations
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 slavery
@@ -19871,15 +19844,15 @@ We are asked to what extent practices like slavery, indentured servitude, etc. o
 
 :: Example
 
-
 :: Parents
 past and present moral controversy
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Slavery
 
 
 slaves to technology
@@ -19896,16 +19869,14 @@ man-made existential risk
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 sleep deprivation
 =================
 
 :: Description
-Someone exhibits the symptoms that come from not having been able to sleep adequately.
+A character exhibits the symptoms that come from not having been able to sleep adequately.
 
 :: Example
 Alien influences prevented the crew from being able to dream which made them angry and violent in tng4x17 "Night Terrors".
@@ -19915,9 +19886,10 @@ pathological state of mind
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Sleep_deprivation
 
 
 sleeper agents
@@ -19934,9 +19906,10 @@ the art of war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Sleeper_agent
 
 
 sleeper starship
@@ -19947,15 +19920,12 @@ A spaceship built to carry people in extended sleep (i.e. cryogenic stasis) on e
 
 :: Example
 
-
 :: Parents
 starship technology
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 slick of malevolent tar
@@ -19976,7 +19946,6 @@ aliens
 :: Related Themes
 
 
-
 sloth
 =====
 
@@ -19991,9 +19960,10 @@ deadly sin
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Sloth_(deadly_sin)
 
 
 slug-like alien
@@ -20014,7 +19984,6 @@ aliens
 :: Related Themes
 
 
-
 sneak attack tactic
 ===================
 
@@ -20023,15 +19992,15 @@ Combatants take advantage of concealment and the element of surprise to attack a
 
 :: Example
 
-
 :: Parents
 the art of war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Ambush
 
 
 social activism
@@ -20042,15 +20011,15 @@ Someone works to change society in a grassroots movement kind of way, i.e., thro
 
 :: Example
 
-
 :: Parents
 activism
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Activism
 
 
 social awkwardness
@@ -20061,15 +20030,15 @@ A socially awkward character has trouble interacting and communicating effective
 
 :: Example
 
-
 :: Parents
 group interaction
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Social_skills
 
 
 social dichotomy
