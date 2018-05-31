@@ -129,27 +129,14 @@ Anarchist usually means a distaste or disregard for rules.
 social dichotomy
 
 
-anger management
-================
-
-:: Description
-Someone struggles consciously to handle their inner anger.
-
-:: Parents
-introspection
-
-
 anger management issues
 =======================
 
 :: Description
-Someone struggles consciously to handle their inner anger.
+A character struggles consciously to handle their inner anger.
 
 :: Parents
 introspection
-
-:: Flag
-review: why do we have this and anger management??
 
 
 animal guide
@@ -3910,7 +3897,6 @@ the grit from your body.
 fictional apparatus
 
 
-
 developing one's social skills
 ==============================
 
@@ -3931,11 +3917,11 @@ The complex ins and outs (no pun intended) of human mating rituals are discussed
 human nature
 
 
-coping with drunken fool
-========================
+coping with a drunken fool
+==========================
 
 :: Description
-Someone suffers through being in the vicinity of an intoxicated person who is 
+A character suffers through being in the vicinity of an intoxicated person who is 
 acting obnoxiously, for example at a party.
 
 :: Parents
