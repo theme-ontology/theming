@@ -25090,26 +25090,23 @@ transnational social issue
 ==========================
 
 :: Description
-The category of themes that deal with issues that arise between two or more sovereign states, i.e., war and diplomacy.
+A social issue that arise between two or more sovereign states, i.e., war and diplomacy, is featured.
 
 :: Example
-
 
 :: Parents
 society
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 transporter phobia
 ==================
 
 :: Description
-Someone exhibits an irrational fear of being physically disintegrated and then reconstituted at a remote location.
+A character exhibits an irrational fear of being physically disintegrated and then reconstituted at a remote location.
 
 :: Example
 Barclay was diagnosed with this condition in tng6x02 “Realm of Fear”.
@@ -25119,9 +25116,7 @@ pathological state of mind
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 transsexualism
@@ -25138,9 +25133,10 @@ past and present moral controversy
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Transsexual
 
 
 treason
@@ -25151,15 +25147,15 @@ A member of a faction decides to take up the cause of an enemy faction against t
 
 :: Example
 
-
 :: Parents
 war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Treason
 
 
 treatment of prisoners
@@ -25170,15 +25166,15 @@ We are asked how prisons ought to be organized. Day-care centre for adults, or h
 
 :: Example
 
-
 :: Parents
 past and present moral controversy
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Prisoners%27_rights
 
 
 treatment of the criminally insane
@@ -25189,7 +25185,6 @@ We are asked how the criminally insane ought to be treated. Just like any other 
 
 :: Example
 
-
 :: Parents
 past and present moral controversy
 
@@ -25197,7 +25192,6 @@ past and present moral controversy
 crime and punishment
 
 :: Related Themes
-
 
 
 true beauty comes from within
@@ -25214,7 +25208,6 @@ life lesson
 
 :: Other Parents
 
-
 :: Related Themes
 what is beauty
 
@@ -25227,7 +25220,6 @@ A character exhibits a feeling of faith in the reliability of someone or, occasi
 
 :: Example
 
-
 :: Parents
 pleasant emotion
 
@@ -25237,24 +25229,24 @@ Plutchik-emotion
 :: Related Themes
 acceptance, admiration
 
+:: References
+https://en.wikipedia.org/wiki/Trust_(emotion)
+
 
 trust in a friend
 =================
 
 :: Description
-Someone supports a friend by showing unwavering trust in their honesty.
+A character supports a friend by showing unwavering trust in their honesty.
 
 :: Example
-
 
 :: Parents
 one-on-one interaction
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 trust in a leader
@@ -25265,60 +25257,51 @@ A leader inspires trust in their team members.
 
 :: Example
 
-
 :: Parents
 group interaction
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 trust in a potential foe
 ========================
 
 :: Description
-Someone must choose whether a potential foe is to be trusted.
+A character must choose whether a potential foe is to be trusted.
 
 :: Example
-
 
 :: Parents
 personal practical dilemma
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 trust in intentions vs. trust in judgement
 ==========================================
 
 :: Description
-Someone must choose whether another’s judgement can be trusted even though their intentions are above reproach.
+A character must choose whether another’s judgement can be trusted even though their intentions are above reproach.
 
 :: Example
-
 
 :: Parents
 personal practical dilemma
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 wrestling with one's conscience
 ===============================
 
 :: Description
-Someone questions the propriety of an intended action and decides to go with their own instincts about what is morally right and wrong.
+A character questions the propriety of an intended action and decides to go with their own instincts about what is morally right and wrong.
 
 :: Example
 Captain Picard and his crew finally rejected the fake orders they had received to kill defenceless aliens in tng5x14 "Conundrum", because the orders went against good conscience.
@@ -25328,16 +25311,14 @@ introspection
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 turn the other cheek
 ====================
 
 :: Description
-Someone endorses the ethic that we ought to refrain from retaliating when aggrieved. While this could be about physical attacks it is more often used in the context of insults.
+A character endorses the ethic that we ought to refrain from retaliating when aggrieved. While this could be about physical attacks it is more often used in the context of insults.
 
 :: Example
 The pacifist Dowd turned every cheek on his body in spite of insult and injury (then he ran out and wiped a species of 50 billions clean out existence) in tng3x03 "The Survivors".
@@ -25347,7 +25328,6 @@ way of life
 
 :: Other Parents
 
-
 :: Related Themes
 pascifism
 
@@ -25356,7 +25336,7 @@ twin earth
 ==========
 
 :: Description
-A hypothetical planet that is an exact duplicate of Earth.
+A hypothetical planet that is a near duplicate of Earth.
 
 :: Example
 Earth Two was discovered in tos1x11 "Miri" and found to be populated only by children.
@@ -25366,9 +25346,11 @@ what's out there
 
 :: Other Parents
 
-
 :: Related Themes
 parallel earth
+
+:: References
+https://en.wikipedia.org/wiki/Earth_analog
 
 
 two heads are better than one
@@ -25385,9 +25367,7 @@ group interaction
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 tyranny vs. freedom
@@ -25398,15 +25378,12 @@ A society in which a tyrant rules with absolute authority is contrasted with one
 
 :: Example
 
-
 :: Parents
 social dichotomy
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 ultra-rational alien
@@ -25417,7 +25394,6 @@ Aliens that are logical to a fault, usually with a corresponding lack of emotion
 
 :: Example
 
-
 :: Parents
 mentally distinguished life form
 
@@ -25425,7 +25401,6 @@ mentally distinguished life form
 aliens
 
 :: Related Themes
-
 
 
 uncle and nephew
@@ -25436,15 +25411,12 @@ The relationship between an uncle and his nephew is featured.
 
 :: Example
 
-
 :: Parents
 familial relations
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 resistance movement
@@ -25455,15 +25427,15 @@ There is a group of people that engages in organized resistance against an occup
 
 :: Example
 
-
 :: Parents
 activism
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Resistance_movement
 
 
 unethical psychological experimentation
@@ -25480,9 +25452,10 @@ medical ethics
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Unethical_human_experimentation
 
 
 universal space suffrage
@@ -25503,7 +25476,6 @@ fictional issue
 :: Related Themes
 
 
-
 universal translator
 ====================
 
@@ -25512,15 +25484,15 @@ A device used to seamlessly translate speech between any languages.
 
 :: Example
 
-
 :: Parents
 fictional apparatus
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Universal_translator
 
 
 university entrance exams
@@ -25540,6 +25512,8 @@ juvenile
 
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Educational_entrance_examination
 
 
 unplanned pregnancy
@@ -25556,19 +25530,19 @@ parenting
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Unintended_pregnancy
 
 
 unpleasant emotion
 ==================
 
 :: Description
-The category of themes that illustrate those emotions that we typically do not enjoy having.
+A base human emotion that we typically do not enjoy having is featured.
 
 :: Example
-
 
 :: Parents
 human emotion
@@ -25588,15 +25562,12 @@ People create weapons systems (killer robots etc.) that can function all on thei
 
 :: Example
 
-
 :: Parents
 man-made existential risk
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 unrequited love
@@ -25613,9 +25584,11 @@ romantic love
 
 :: Other Parents
 
-
 :: Related Themes
 coping with rejection
+
+:: References
+https://en.wikipedia.org/wiki/Unrequited_love
 
 
 untranslatable words
@@ -25626,15 +25599,15 @@ The way that a word in one language may lack a direct counterpart in another, th
 
 :: Example
 
-
 :: Parents
 problem of language and meaning
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Untranslatability
 
 
 utopia
@@ -25645,15 +25618,15 @@ Notions about how society could be made “perfect”. Note that such notions ar
 
 :: Example
 
-
 :: Parents
 alternate society
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Utopia
 
 
 utopia on the back of android labor
@@ -25674,7 +25647,6 @@ AI
 :: Related Themes
 
 
-
 utopia on the back of slave labor
 =================================
 
@@ -25683,34 +25655,28 @@ Society is perfect thanks to an army of slaves that just take care of every dist
 
 :: Example
 
-
 :: Parents
 utopia
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 values and ethics in society
 ============================
 
 :: Description
-The category of themes that deal with ideas about abstract social values, such as “human rights” and forms of government.
+Abstract social values, such as “human rights” and forms of government are featured.
 
 :: Example
-
 
 :: Parents
 society
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 vandalism
@@ -25727,9 +25693,10 @@ contemporary social issue
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Vandalism
 
 
 vanity
@@ -25746,9 +25713,10 @@ deadly sin
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Vanity
 
 
 vegetarianism
@@ -25759,15 +25727,15 @@ Someone abstains from eating meat and other animal products on moral grounds.
 
 :: Example
 
-
 :: Parents
 way of life
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Vegetarianism
 
 
 vendetta
@@ -25784,9 +25752,10 @@ contemporary social issue
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Feud
 
 
 victimization
@@ -25797,15 +25766,15 @@ The social ramifications of some people in a conflict (rightly or wrongly) exagg
 
 :: Example
 
-
 :: Parents
 contemporary social issue
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Victimisation
 
 
 video game addiction
@@ -25816,34 +25785,31 @@ Someone exhibits an addiction to a video game.
 
 :: Example
 
-
 :: Parents
 pathological state of mind
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Video_game_addiction
 
 
 views and customs
 =================
 
 :: Description
-The category of themes that explore the many different ways people from different cultures have of doing things and thinking about moral questions, etc.
+The many different ways people from different cultures have of doing things and thinking about moral questions, etc are explored.
 
 :: Example
-
 
 :: Parents
 intercultural relations
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 vigilance
@@ -25854,7 +25820,6 @@ A character exhibits a strong feeling of having to be alert to a significant eve
 
 :: Example
 
-
 :: Parents
 pleasant emotion
 
@@ -25863,6 +25828,9 @@ Plutchik-emotion
 
 :: Related Themes
 anticipation, interest
+
+:: References
+https://en.wikipedia.org/wiki/Vigilance_(psychology)
 
 
 virgin birth
@@ -25879,9 +25847,10 @@ organized religion
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Miraculous_births
 
 
 virtual reality room
@@ -25892,15 +25861,15 @@ A programmable room that can produce virtually any imaginable setting, including
 
 :: Example
 
-
 :: Parents
 fictional apparatus
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Virtual_reality
 
 
 virtual reality suit
@@ -25917,9 +25886,10 @@ fictional apparatus
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Virtual_reality
 
 
 vision beyond the visible spectrum
@@ -25930,15 +25900,12 @@ Technology that can make the brain perceive and interpret electromagnetic waves 
 
 :: Example
 
-
 :: Parents
 human enhancement
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 vision quest
@@ -25955,9 +25922,10 @@ superstition
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Vision_quest
 
 
 vivisection
@@ -25974,9 +25942,10 @@ medical ethics
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Vivisection
 
 
 voice duplicator
@@ -25993,9 +25962,7 @@ fictional apparatus
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 voice identification
@@ -26012,9 +25979,10 @@ real gadget
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/Speaker_recognition
 
 
 volcanic cataclysm
@@ -26031,9 +25999,7 @@ force majeure existential risk
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 wacky dream interpretation
@@ -26044,12 +26010,10 @@ Dreams are interpreted in a highly metaphorical or otherwise esoteric way.
 
 :: Example
 
-
 :: Parents
 superstition
 
 :: Other Parents
-
 
 :: Related Themes
 Freudian psychoanalysis
@@ -26059,19 +26023,19 @@ war
 ===
 
 :: Description
-The category of themes that centre on sovereign factions, usually state-like entities but sometimes armed rebels etc., taking up arms against each other for one reason or another.
+Sovereign factions, usually state-like entities but sometimes armed rebels etc., taking up arms against each other for one reason or another is featured.
 
 :: Example
-
 
 :: Parents
 transnational social issue
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/War
 
 
 war is petty
@@ -26082,15 +26046,12 @@ The outlandish idea is put forth that war is an immature and undignified way of 
 
 :: Example
 
-
 :: Parents
 war
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 war is sometimes justified
@@ -26107,9 +26068,7 @@ war
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 war of mutual annihilation
@@ -26120,15 +26079,12 @@ People wage war on each other and (often with the help of WMDs) wipe each other 
 
 :: Example
 
-
 :: Parents
 man-made existential risk
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 war of succession
@@ -26139,34 +26095,31 @@ War (typically civil war) breaks out over who is to become the new leader after 
 
 :: Example
 
-
 :: Parents
 war
 
 :: Other Parents
 
-
 :: Related Themes
 
+:: References
+https://en.wikipedia.org/wiki/War_of_succession
 
 
 way of life
 ===========
 
 :: Description
-The category of themes that treat the various ideas people may have about how they want to lead their lives. This sometimes includes ideas about how other people should lead their lives as well.
+The various ideas people may have about how they want to lead their lives. This sometimes includes ideas about how other people should lead their lives as well.
 
 :: Example
-
 
 :: Parents
 purpose in life
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 we need our darker emotions in moderation
@@ -26183,9 +26136,7 @@ life lesson
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 we're not so different after all
@@ -26202,9 +26153,7 @@ views and customs
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 what if I aged backwards
@@ -26221,9 +26170,7 @@ what if I faced an incredible situation
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 what if I could do anything I wanted without repercussions
@@ -26240,9 +26187,7 @@ what if my life were different
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 what if I could hear thoughts
@@ -26259,9 +26204,7 @@ what if my life were different
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 what if I could life in a fantasy world
@@ -26278,9 +26221,7 @@ what if my life were different
 
 :: Other Parents
 
-
 :: Related Themes
-
 
 
 what if I could move faster in time than everyone else
