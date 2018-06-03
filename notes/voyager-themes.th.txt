@@ -8,6 +8,9 @@ Isaac Asimov's three laws of robotics are a popular example.
 :: Parents
 AI technology
 
+:: References
+https://en.wikipedia.org/wiki/Artificial_intelligence
+
 
 DNA testing
 ===========
@@ -18,6 +21,9 @@ compare people or identify genetic predispositions.
 
 :: Parents
 topic in technology
+
+:: References
+https://en.wikipedia.org/wiki/Genetic_testing
 
 
 Leonardo da Vinci
@@ -30,6 +36,9 @@ through his works.
 :: Parents
 history
 
+:: References
+https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+
 
 Morse code
 ==========
@@ -41,6 +50,9 @@ often audible beeps.
 :: Parents
 topic in technology
 
+:: References
+https://en.wikipedia.org/wiki/Morse_code
+
 
 SETI
 ====
@@ -51,6 +63,9 @@ powerful telescopes of different kinds and analyzing the received signals.
 
 :: Parents
 topic in science
+
+:: References
+https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
 
 
 a common enemy unites
@@ -85,6 +100,9 @@ inborn, is featured.
 :: Parents
 human nature
 
+:: References
+https://www.merriam-webster.com/dictionary/a%20leopard%20can't%20change%20its%20spots
+
 
 accidental alien destruction of planetary ecosystem
 ===================================================
@@ -117,6 +135,9 @@ Society is perfect when there are no pesky laws and governments to prevent us fr
 :: Parents
 utopia
 
+:: References
+https://en.wikipedia.org/wiki/Anarchism
+
 
 anarchy vs. rule of law
 =======================
@@ -138,6 +159,9 @@ A character struggles consciously to handle their inner anger.
 :: Parents
 introspection
 
+:: References
+https://en.wikipedia.org/wiki/Anger_management
+
 
 animal guide
 ============
@@ -148,6 +172,9 @@ The shamanistic belief in spirit animal guides is featured.
 :: Parents
 superstition
 
+:: References
+https://en.wikipedia.org/wiki/Totem
+
 
 ankle bracelet
 ==============
@@ -157,6 +184,9 @@ A device used to control prisoners.
 
 :: Parents
 real gadget
+
+:: References
+https://en.wikipedia.org/wiki/Ankle_monitor
 
 
 anti-science in society
@@ -169,6 +199,9 @@ feel threatened by it is discussed.
 :: Parents
 past and present moral controversy
 
+:: References
+https://en.wikipedia.org/wiki/Antiscience
+
 
 antigovernment militia movement
 ===============================
@@ -178,6 +211,9 @@ A militant rebel movement that strives to overthrow the sitting government is fe
 
 :: Parents
 contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/Militia_organizations_in_the_United_States
 
 
 artificial lungs
@@ -189,6 +225,9 @@ Artificially created human lungs.
 :: Parents
 human enhancement
 
+:: References
+https://en.wikipedia.org/wiki/Artificial_lung
+
 
 astronomy
 =========
@@ -198,6 +237,9 @@ The scientific discipline of astronomy, the study of celestial objects and pheno
 
 :: Parents
 scientific discipline
+
+:: References
+https://en.wikipedia.org/wiki/Astronomy
 
 
 autonomous sentient coworker
@@ -227,7 +269,7 @@ being ashamed of who you are
 ============================
 
 :: Description
-Someone thinks about why the feel ashamed for who they are.
+A character thinks about why the feel ashamed for who they are.
 
 :: Parents
 introspection
@@ -237,7 +279,7 @@ bellicosity
 ===========
 
 :: Description
-Someone is aggressive and hostile.
+A character is aggressive and hostile.
 
 :: Parents
 disagreeable characteristic
@@ -273,6 +315,9 @@ A spaceship made up of biological components, i.e., cells and such.
 :: Parents
 starship technology
 
+:: References
+https://en.wikipedia.org/wiki/Bioship
+
 
 brain memory virus
 ==================
@@ -293,22 +338,28 @@ The social problem of people taking bribes is discussed.
 :: Parents
 contemporary social issue
 
+:: References
+https://en.wikipedia.org/wiki/Bribery
+
 
 burning the candle at both ends
 ===============================
 
 :: Description
-Someone is working longer and harder than what they can really cope with.
+A character is working longer and harder than what they can really cope with.
 
 :: Parents
 group interaction
+
+:: References
+https://en.wiktionary.org/wiki/burn_one%27s_candle_at_both_ends
 
 
 career choice
 =============
 
 :: Description
-Someone is confronted with the consequential tough decision of which path to pursue in the 
+A character is confronted with the consequential tough decision of which path to pursue in the 
 development of their career.
 
 :: Parents
@@ -360,7 +411,7 @@ coming to terms with one's impending death
 ==========================================
 
 :: Description
-Someone is about to die, perhaps from a natural illness, comes to accept the fact and
+A character is about to die, perhaps from a natural illness, comes to accept the fact and
 become at peace with themselves over it.
 
 :: Parents
@@ -371,7 +422,7 @@ confronting one's latent sexual feelings
 ========================================
 
 :: Description
-Someone has unacknowledged, perhaps socially improper, feelings relating to sex that they
+A character has unacknowledged, perhaps socially improper, feelings relating to sex that they
 start thinking about consciously.
 
 :: Parents
@@ -404,7 +455,7 @@ coping with a psychological illness
 ===================================
 
 :: Description
-Someone has a psychological illness and has to learn to live with it.
+A character has a psychological illness and has to learn to live with it.
 
 :: Parents
 coping with an affliction
@@ -414,7 +465,7 @@ coping with a suicidal lover
 ============================
 
 :: Description
-Someone has to live with a lover of their's carrying notions of suicide around.
+A character has to live with a lover of their's carrying notions of suicide around.
 
 :: Parents
 coping with problematic people
@@ -424,7 +475,7 @@ coping with an envious lover
 ============================
 
 :: Description
-Someone has to deal with the fact that their lover is inordinately jealous of perceived and potential rivals.
+A character has to deal with the fact that their lover is inordinately jealous of perceived and potential rivals.
 
 :: Parents
 coping with problematic people
@@ -434,7 +485,7 @@ coping with an excessively solicitous subordinate
 =================================================
 
 :: Description
-Someone who is in charge has to deal with a subordinate that is making numerous and/or extravagant requests.
+A character who is in charge has to deal with a subordinate that is making numerous and/or extravagant requests.
 
 :: Parents
 coping with problematic people
@@ -444,7 +495,7 @@ coping with an insubordinate subordinate
 ========================================
 
 :: Description
-Someone who is in charge has to deal with a subordinate that is disinclined to obey properly.
+A character who is in charge has to deal with a subordinate that is disinclined to obey properly.
 
 :: Parents
 coping with problematic people
@@ -454,7 +505,7 @@ coping with bad cooking
 =======================
 
 :: Description
-Someone is subjected to lousily prepared food.
+A character is subjected to lousily prepared food.
 
 :: Parents
 coping with having to do something
@@ -475,7 +526,7 @@ coping with being ill on the job
 ================================
 
 :: Description
-Someone experiences symptoms of some illness while at work.
+A character experiences symptoms of some illness while at work.
 
 :: Parents
 coping with an affliction
@@ -528,7 +579,7 @@ coping with puberty
 ===================
 
 :: Description
-A kid struggles with the normal hallmarks of puberty, such as a variety of bodily changes
+An adolescent character struggles with the normal hallmarks of puberty, such as a variety of bodily changes
 and sexual urges.
 
 :: Parents
@@ -560,7 +611,7 @@ coping with the death of a new-born
 ===================================
 
 :: Description
-Someone, typically a parent, struggles with the emotions that can come when a
+A character, typically a parent, struggles with the emotions that can come when a
 new-born child to which they are beholden expires soon after delivery.
 
 :: Parents
@@ -598,6 +649,9 @@ such nonsense?
 :: Parents
 contemporary social issue
 
+:: References
+https://en.wikipedia.org/wiki/Creationism
+
 
 creative writing
 ================
@@ -609,6 +663,9 @@ to be constrained by objective facts to a much greater extent.
 
 :: Parents
 the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Creative_writing
 
 
 cryogenic suspension punishment
@@ -625,7 +682,7 @@ deciding whether to be a parent
 ===============================
 
 :: Description
-Someone wrestles with themselves over whether or not they are ready and willing to axle the mantle 
+A character wrestles with themselves over whether or not they are ready and willing to axle the mantle 
 of being a parent.
 
 :: Parents
@@ -653,12 +710,15 @@ than one gigantic desert.
 :: Parents
 what's out there
 
+:: References
+https://en.wikipedia.org/wiki/Desert_planet
+
 
 destroying one's own creation
 =============================
 
 :: Description
-Someone struggles with the tough decision of whether or not they should destroy something they 
+A character struggles with the tough decision of whether or not they should destroy something they 
 have created, perhaps because it is causing some kind of mischief.
 
 :: Example
@@ -721,12 +781,15 @@ Two characters who were formally married go through a divorce.
 :: Parents
 family affairs
 
+:: References
+https://en.wikipedia.org/wiki/Divorce
+
 
 donating an organ to save a life
 ================================
 
 :: Description
-Someone chooses to donate an organ of their own in order to save someone else's life.
+A character chooses to donate an organ of their own in order to save someone else's life.
 
 :: Parents
 self-sacrifice
@@ -753,6 +816,9 @@ among scientists.
 :: Parents
 topic in science
 
+:: References
+https://en.wikipedia.org/wiki/Eidetic_memory
+
 
 erotic romance novels
 =====================
@@ -762,6 +828,9 @@ This naughty literary subgenre is featured.
 
 :: Parents
 the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Erotic_romance_novels
 
 
 event horizon
@@ -774,6 +843,9 @@ distance of them not even light can escape, let alone matter irrespective of its
 
 :: Parents
 topic in science
+
+:: References
+https://en.wikipedia.org/wiki/Event_horizon
 
 
 exceedingly avaricious alien
@@ -790,18 +862,21 @@ extramarital affair
 ===================
 
 :: Description
-Someone who is married engages in a sexual encounter or relationship outside the marriage, and deals with
+A character who is married engages in a sexual encounter or relationship outside the marriage, and deals with
 the consequences.
 
 :: Parents
 romantic relationship
+
+:: References
+https://en.wikipedia.org/wiki/Affair#Extramarital_affair
 
 
 facing a vehicular disaster
 ===========================
 
 :: Description
-Someone is in sinking ship, disintegrating space craft etc. and tries to survive as best they can.
+A character is in sinking ship, disintegrating space craft etc. and tries to survive as best they can.
 
 :: Parents
 facing general adversity
@@ -811,7 +886,7 @@ facing being stranded
 =====================
 
 :: Description
-Someone is stranded, for example shipwrecked, more or less alone and away from their civilization.
+A character is stranded, for example shipwrecked, more or less alone and away from their civilization.
 They try to survive and be rescued.
 
 :: Parents
@@ -822,7 +897,7 @@ facing one's own death
 ======================
 
 :: Description
-Someone is confronted with the fact that they are about to die, perhaps because of a terminal illness,
+A character is confronted with the fact that they are about to die, perhaps because of a terminal illness,
 and has to come to terms with the fact.
 
 :: Parents
@@ -860,7 +935,7 @@ fantasy romance
 ===============
 
 :: Description
-Someone imagines their own ideal romantic adventure.
+A character imagines their own ideal romantic adventure.
 
 :: Parents
 introspection
@@ -875,12 +950,15 @@ The sexual urges of a female character are notably featured.
 :: Parents
 human nature
 
+:: References
+https://en.wikipedia.org/wiki/Human_female_sexuality
+
 
 fighting one's inner demons
 ===========================
 
 :: Description
-Someone is haunted by past memories or fictive notions with which they seek to come to grips 
+A character is haunted by past memories or fictive notions with which they seek to come to grips 
 in order to function normally.
 
 :: Parents
@@ -891,7 +969,7 @@ figuring out what to do with one's life
 =======================================
 
 :: Description
-Someone lacks a particular sense of purpose and tries to decide what they really want to do
+A character lacks a particular sense of purpose and tries to decide what they really want to do
 in the long term, e.g., choosing a career, a life of adventure, or settling down etc.
 
 :: Parents
@@ -902,7 +980,7 @@ fitting in at work
 ==================
 
 :: Description
-Some has troubles getting along smoothly in day-to-day life with their coworkers.
+A character has troubles getting along smoothly in day-to-day life with their coworkers.
 
 :: Parents
 group interaction
@@ -912,7 +990,7 @@ focusing on the present vs. thinking about the future
 =====================================================
 
 :: Description
-Someone is focusing on the future at the expense of the present or vice versa and struggles
+A character is focusing on the future at the expense of the present or vice versa and struggles
 with finding a reasonable balance between the two.
 
 :: Parents
@@ -944,6 +1022,9 @@ write and say whatever they choose in public forums?
 
 :: Parents
 contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/Freedom_of_the_press
 
 
 gestural language
