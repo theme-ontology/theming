@@ -3026,14 +3026,13 @@ Determined to avert a war, a Romulan officer defects to warn Picard of his Empir
 
 :: Choice Themes
 patriotism [Jarok] <Alidar Jarok>,
-treason [Jarok to Romulan Empire] <Alidar Jarok>,
+treason [Jarok was accused of committing treason by the Romulans] <Alidar Jarok>,
 loyalty to one's species [Jarok betrayed Romulans and vice versa] <Alidar Jarok>,
 struggling with a life-changing decision [Jarok about defecting to Federation] <Alidar Jarok>
 
 :: Major Themes
 trust in a potential foe [Picard in Jarok] <Picard>,
 preemptive strike in self-defense [Picard must choose] <Picard>,
-treason [Jarok was accused of committing treason by the Romulans],
 exceedingly devious alien [Romulan] <Romulan>,
 desperation [Jarok felt he had no alternative but to defect to Federation] <Alidar Jarok>,
 espionage [Jarok suspected of being a spy],
@@ -5142,7 +5141,6 @@ coping with a bad boss [Ro under Troi's command] <Ro Laren>,
 man vs. space anomaly [quantum filament],
 annoyance [Picard at Picard Day] <Picard>,
 boredom [Picard about children before accident] <Picard>,
-kids' science project [children held science fair on Picard Day],
 fear [children on elevator],
 fortitude [all three isolated groups],
 kids' science project [Enterprise children presented science projects at Captain Picard Day],
