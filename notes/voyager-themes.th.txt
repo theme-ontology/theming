@@ -1657,7 +1657,7 @@ out-of-body experience
 ======================
 
 :: Description
-Someone experiences a feeling being outside of their own physical body.
+A character experiences a feeling being outside of their own physical body.
 
 :: Parents
 superstition
@@ -1676,7 +1676,7 @@ passion for antique cars
 ========================
 
 :: Description
-Someone is enthusiastic about old vintage cars and the like.
+A character is enthusiastic about old vintage cars and the like.
 
 :: Parents
 human pleasure
@@ -1686,7 +1686,7 @@ passion for astronomy
 =====================
 
 :: Description
-Someone is enthusiastic about the stargazing science and profession.
+A character is enthusiastic about the stargazing science and profession.
 
 :: Parents
 human aspiration
@@ -1696,7 +1696,7 @@ passion for classic films
 =========================
 
 :: Description
-Someone is enthusiastic about old movies of cultural significance.
+A character is enthusiastic about old movies of cultural significance.
 
 :: Parents
 human pleasure
@@ -1706,7 +1706,7 @@ passion for event management
 ============================
 
 :: Description
-Someone is enthusiastic about the hobby or profession of organizing large get-togethers and the like.
+A character is enthusiastic about the hobby or profession of organizing large get-togethers and the like.
 
 :: Parents
 human aspiration
@@ -1716,7 +1716,7 @@ passion for flying
 ==================
 
 :: Description
-Someone is enthusiastic about the hobby and profession of piloting aircrafts, spaceships, or the like.
+A character is enthusiastic about the hobby and profession of piloting aircrafts, spaceships, or the like.
 
 :: Parents
 human aspiration
@@ -1726,7 +1726,7 @@ passion for journalism
 ======================
 
 :: Description
-Someone is enthusiastic about the news-reporting profession - tabloid, investigative or otherwise.
+A character is enthusiastic about the news-reporting profession - tabloid, investigative or otherwise.
 
 :: Parents
 human aspiration
@@ -1750,6 +1750,9 @@ The social issue of organized religious bodies tracking down and punishing indiv
 
 :: Parents
 contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/Heresy
 
 
 personal invisibility cloak
@@ -1777,7 +1780,7 @@ pleasure in carpentry
 =====================
 
 :: Description
-Someone takes great pleasure in working with wood and the like.
+A character takes great pleasure in working with wood and the like.
 
 :: Parents
 human pleasure
@@ -1787,7 +1790,7 @@ pleasure in coffee
 ==================
 
 :: Description
-Someone takes great pleasure in preparing or imbuing the black heavenly nectar colloquially known as "coffee".
+A character takes great pleasure in preparing or imbuing the black heavenly nectar colloquially known as "coffee".
 
 :: Parents
 human pleasure
@@ -1797,7 +1800,7 @@ pleasure in floriculture
 ========================
 
 :: Description
-Someone takes great pleasure in working with flowers and the like.
+A character takes great pleasure in working with flowers and the like.
 
 :: Parents
 human pleasure
@@ -1810,7 +1813,7 @@ pleasure in gambling
 ====================
 
 :: Description
-Someone takes great pleasure in engaging in games of chance with money or other valuables at stake.
+A character takes great pleasure in engaging in games of chance with money or other valuables at stake.
 
 :: Parents
 human pleasure
@@ -1820,7 +1823,7 @@ pleasure in horticulture
 ========================
 
 :: Description
-Someone takes great pleasure in bringing up vegetables, flowers, and other plants.
+A character takes great pleasure in bringing up vegetables, flowers, and other plants.
 
 :: Parents
 human pleasure
@@ -1833,7 +1836,7 @@ pleasure in meeting new cultures
 ================================
 
 :: Description
-Someone takes great pleasure in fraternizing with people from other cultures.
+A character takes great pleasure in fraternizing with people from other cultures.
 
 :: Parents
 human pleasure
@@ -1843,7 +1846,7 @@ pleasure in shooting pool
 =========================
 
 :: Description
-Someone takes great pleasure in playing cue sports such as the game of pool.
+A character takes great pleasure in playing cue sports such as the game of pool.
 
 :: Parents
 human pleasure
@@ -1853,7 +1856,7 @@ pleasure in singing opera
 =========================
 
 :: Description
-Someone takes great pleasure in singing the kind of singing known as opera singing.
+A character takes great pleasure in singing the kind of singing known as opera singing.
 
 :: Parents
 human pleasure
@@ -1868,6 +1871,9 @@ The contentious social question of whether or to what extent a man or woman shou
 :: Parents
 past and present moral controversy
 
+:: References
+https://en.wikipedia.org/wiki/Polygamy
+
 
 precognition
 ============
@@ -1877,6 +1883,9 @@ The idea that someone can sense what will happen in the future.
 
 :: Parents
 superstition
+
+:: References
+https://en.wikipedia.org/wiki/Precognition
 
 
 pride in ones own creation
@@ -1898,6 +1907,9 @@ The experiences of someone who takes a psychedelic drug (or the like) are featur
 :: Parents
 state of mind
 
+:: References
+https://en.wikipedia.org/wiki/Psychedelic_experience
+
 
 psychokinesis
 =============
@@ -1905,11 +1917,11 @@ psychokinesis
 :: Description
 The idea that some individuals may be able to use only their mind to influence physical objects at a distance, is featured.
 
-:: References
-https://en.wikipedia.org/wiki/Psychokinesis
-
 :: Parents
 superstition
+
+:: References
+https://en.wikipedia.org/wiki/Psychokinesis
 
 
 punishment as a deterrent to crime
@@ -1971,6 +1983,9 @@ The military tactic of retreating is described.
 :: Parents
 the art of war
 
+:: References
+https://en.wikipedia.org/wiki/Withdrawal_(military)
+
 
 reverse aging alien
 ===================
@@ -1986,7 +2001,7 @@ rise to prominence from humble beginnings
 =========================================
 
 :: Description
-Someone who has little or no particular social status at birth rises to a prominent position, usually due to their talents and hard work.
+A character who has little or no particular social status at birth rises to a prominent position, usually due to their talents and hard work.
 
 :: Parents
 human aspiration
@@ -2011,6 +2026,9 @@ The question of monogamatic faithfulness arises between two characters in a roma
 :: Parents
 romantic relationship
 
+:: References
+https://en.wikipedia.org/wiki/Infidelity
+
 
 sacred ground
 =============
@@ -2021,12 +2039,15 @@ There is a religious faith that for one reason or another considers a particular
 :: Parents
 organized religion
 
+:: References
+https://en.wikipedia.org/wiki/Sacred#Sacred_ground
+
 
 sacrifice for a child
 =====================
 
 :: Description
-Someone endangers themself in order to save or otherwise benefit a child.
+A character endangers themself in order to save or otherwise benefit a child.
 
 :: Parents
 self-sacrifice
@@ -2036,7 +2057,7 @@ sacrifice for a mad stranger
 ============================
 
 :: Description
-Someone endangers themself in order to save or otherwise benefit a crazy person with whom they are not really acquainted.
+A character endangers themself in order to save or otherwise benefit a crazy person with whom they are not really acquainted.
 
 :: Parents
 self-sacrifice
