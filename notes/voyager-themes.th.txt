@@ -2067,7 +2067,7 @@ secret toenail compartment
 ==========================
 
 :: Description
-
+A character has a fake toenail that conceals a secret compartment.
 
 :: Parents
 human enhancement
@@ -2087,7 +2087,7 @@ short and sweet life vs. long and miserable life
 ================================================
 
 :: Description
-Someone chooses or rejects living by the age old doctrine of "live fast and die young".
+A character chooses or rejects living by the age old doctrine of "live fast and die young".
 
 :: Parents
 life choice
@@ -2099,11 +2099,11 @@ soap opera
 :: Description
 The art of creating episodic works of fiction presented in serial format on television, radio and in novels, featuring the lives of many characters and focusing on emotional relationships to the point of melodrama, is featured.
 
-:: References
-https://en.wikipedia.org/wiki/Soap_opera
-
 :: Parents
 the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Soap_opera
 
 
 sophistry
@@ -2114,6 +2114,9 @@ The use of plausible and clever but misleading and fallacious arguments, is disc
 
 :: Parents
 group interaction
+
+:: References
+https://en.wikipedia.org/wiki/Sophist#Modern_usage
 
 
 space cesarean section
@@ -2130,7 +2133,7 @@ space cloud life form
 =====================
 
 :: Description
-
+An alien life form that exists as a gaseous cloud in outer space.
 
 :: Parents
 spaceborne life form
@@ -2140,7 +2143,7 @@ space folding travel technology
 ===============================
 
 :: Description
-
+A spaceship, or the technology that enables a spaceship, to travel possibly vast distances by folding space is featured.
 
 :: Parents
 fictional apparatus
@@ -2150,7 +2153,7 @@ space protozoa
 ==============
 
 :: Description
-
+A spaceborne alien life form with protozoan-like characteristics, such as flagella, is featured.
 
 :: Parents
 spaceborne life form
@@ -2170,40 +2173,52 @@ special relativity
 ==================
 
 :: Description
-
+Albert Einstein's theory regarding the relationship between space and time is featured.
 
 :: Parents
 topic in science
+
+:: References
+https://en.wikipedia.org/wiki/Special_relativity
 
 
 stage fright
 ============
 
 :: Description
-
+A character experiences anxiety stemming from the requirement to perform in front of an audience.
 
 :: Parents
 state of mind
+
+:: References
+https://en.wikipedia.org/wiki/Stage_fright
 
 
 star-crossed lovers
 ===================
 
 :: Description
-
+A pair of lovers whose relationship is often thwarted by outside forces is featured.
 
 :: Parents
 romantic love
+
+:: References
+https://en.wikipedia.org/wiki/Star-crossed
 
 
 status symbols in society
 =========================
 
 :: Description
-
+The ramifications of status symbols in society are explored.
 
 :: Parents
 domestic social issue
+
+:: References
+https://en.wikipedia.org/wiki/Status_symbol
 
 
 super accelerated Darwinian evolution
