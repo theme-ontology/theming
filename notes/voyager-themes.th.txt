@@ -2307,7 +2307,7 @@ the decision to have a child
 ============================
 
 :: Description
-
+A character deliberates over whether or not to bring a child into the world.
 
 :: Parents
 parenting
@@ -2317,7 +2317,7 @@ the desire for fame
 ===================
 
 :: Description
-
+A character manifests a strong desire to become famous.
 
 :: Parents
 human aspiration
@@ -2327,7 +2327,7 @@ the desire for glory in battle
 ==============================
 
 :: Description
-
+A character manifests a strong desire to become famous for having performed great feats in battle.
 
 :: Parents
 human aspiration
@@ -2337,7 +2337,7 @@ the desire to have followers
 ============================
 
 :: Description
-
+A character manifests a strong desire to have a following to call their own.
 
 :: Parents
 human aspiration
@@ -2347,7 +2347,7 @@ the difficulty of picking a name
 ================================
 
 :: Description
-
+A character experiences the trials and tribulations that come with choosing a name for either themself or another.
 
 :: Parents
 life choice
@@ -2357,7 +2357,7 @@ the enemy of my enemy is my friend
 ==================================
 
 :: Description
-
+A character comes to learn that the enemy of their enemy is their friend - or perhaps not.
 
 :: Parents
 life lesson
@@ -2377,7 +2377,7 @@ the function of a surprise party
 ================================
 
 :: Description
-
+The reasons why surprise parties constitute an important part of social life are explored.
 
 :: Parents
 human nature
@@ -2387,7 +2387,7 @@ the genius was really a time traveler
 =====================================
 
 :: Description
-
+The crackpot theory that genius is attributable to time travelers returning to the past equipped with future ideas. 
 
 :: Parents
 crackpot theory
@@ -2397,30 +2397,23 @@ the importance of remembering history
 =====================================
 
 :: Description
-
+The importance to a well-functioning society of remembering history is featured.
 
 :: Parents
 contemporary social issue
-
-
-the importance of sticking to ones moral principles
-===================================================
-
-:: Description
-
-
-:: Parents
-life lesson
 
 
 the limits of science
 =====================
 
 :: Description
-
+The empirical limits of science in regard to limits of human ability to inquire and answer questions about phenomena.
 
 :: Parents
 metaphysics
+
+:: References
+https://en.wikipedia.org/wiki/Empirical_limits_in_science
 
 
 the meaning of life
