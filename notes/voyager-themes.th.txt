@@ -5036,6 +5036,9 @@ A male character in a relationship is inattentive to their partner's emotional n
 :: Parents
 male stereotype
 
+:: References
+http://tvtropes.org/pmwiki/pmwiki.php/Main/UnderstandingBoyfriend
+
 
 clingy girlfriend
 =================
@@ -5046,6 +5049,9 @@ of time and attention.
 
 :: Parents
 female stereotype
+
+:: References
+http://tvtropes.org/pmwiki/pmwiki.php/Main/ClingyJealousGirl
 
 
 feeling neglected in a relationship
@@ -5069,6 +5075,8 @@ conscious perception.
 :: Parents
 topic in science
 
+:: References
+https://en.wikipedia.org/wiki/Subliminal_stimuli
 
 
 data privacy
@@ -5082,6 +5090,9 @@ potential terrorist threats?
 
 :: Parents
 contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/Information_privacy
 
 
 bureaucratic dystopia
@@ -5116,12 +5127,15 @@ status are explored.
 :: Parents
 social inequality
 
+:: References
+https://en.wikipedia.org/wiki/Health_equity
+
 
 be vary of fraudsters
 =====================
 
 :: Description
-Someone learns to be careful with whom they trust because there are many clever scoundrels around.
+A character learns to be careful with whom they trust because there are many clever scoundrels around.
 
 :: Parents
 life lesson
@@ -5136,6 +5150,9 @@ homosexual people ought to be treated.
 
 :: Parents
 past and present moral controversy
+
+:: References
+https://en.wikipedia.org/wiki/Homosexuality
 
 
 choosing between murderous regimes
@@ -5153,7 +5170,8 @@ Messiah complex
 ===============
 
 :: Description
-Someone believes themselves to be a divinely chosen leader and savior of their people.
+A character believes themselves to be a divinely chosen leader and savior of their people.
+
 :: Parents
 pathological state of mind
 
@@ -5162,22 +5180,28 @@ coping with being of mixed race
 ===============================
 
 :: Description
-Someone has parents or grandparents of mixed ethnicity and must cope with the various social
+A character has parents or grandparents of mixed ethnicity and must cope with the various social
 issues that can come from being physically or culturally with one foot each in two
 different worlds.
 
 :: Parents
 coping with social issues
 
+:: References
+https://en.wikipedia.org/wiki/Messiah_complex
+
 
 fear of abandonment
 ===================
 
 :: Description
-Someone exhibits a fear that someone they love (for example a husband or a dad) will leave them.
+A character exhibits a fear that someone they love (for example a husband or a dad) will leave them.
 
 :: Parents
 fear
+
+:: References
+https://en.wikipedia.org/wiki/Abandonment_(emotional)
 
 
 what if perpetrators were sentenced by their victims
@@ -5201,24 +5225,30 @@ behavior is discussed.
 :: Parents
 topic in science
 
+:: References
+https://en.wikipedia.org/wiki/Neuromorality
+
 
 inequality in the justice system
 ================================
 
 :: Description
-People of different social classes are treated differently in the legal system when
+People of different classes are treated differently in the legal system when
 they commit the same type of crimes. For example, a rich man may get away with murder while
 a poor man of an ethnic minority is sent to the gallows.
 
 :: Parents
 social inequality
 
+:: References
+https://en.wikipedia.org/wiki/Race_in_the_United_States_criminal_justice_system
+
 
 casuistry in interpretation of scripture
 ========================================
 
 :: Description
-Someone irreverently makes a clever interpretation of religious texts so as to fit 
+A character irreverently makes a clever interpretation of religious texts so as to fit 
 their own agenda.
 
 :: Parents
@@ -5239,7 +5269,7 @@ coping with food poisoning
 ==========================
 
 :: Description
-Someone ate something bad and now has an upset stomach.
+A character ate something bad and now has an upset stomach.
 
 :: Parents
 coping with an affliction
@@ -5270,7 +5300,7 @@ fear of letting loose
 =====================
 
 :: Description
-Someone is afraid of expressing or acting out their feelings and innermost desires.
+A character is afraid of expressing or acting out their feelings and innermost desires.
 
 :: Parents
 introspection
@@ -5280,7 +5310,7 @@ coping with having a chronic condition
 ======================================
 
 :: Description
-Someone has an intractable, constantly recurring disease or other medical condition that they just
+A character has an intractable, constantly recurring disease or other medical condition that they just
 have to live with. This may involve regular visits to the doctor and onerous treatment procedures.
 
 :: Parents
@@ -5291,11 +5321,14 @@ work-life balance
 =================
 
 :: Description
-Someone has to decide how they want to weight the amount of time they spend on work against the 
+A character has to decide how they want to weight the amount of time they spend on work against the 
 amount of time they spend on other pursuits in life.
 
 :: Parents
 life choice
+
+:: References
+https://en.wikipedia.org/wiki/Work%E2%80%93life_balance
 
 
 deferring to unappealing laws in a foreign society
@@ -5351,6 +5384,9 @@ An unmanned spacecraft that has been dispatch outside the solar system.
 :: Parents
 topic in science
 
+:: References
+https://en.wikipedia.org/wiki/Interstellar_probe
+
 
 justifications for foreign intervention
 =======================================
@@ -5364,6 +5400,9 @@ feel a collective duty to intervene.
 :: Parents
 social ethical dilemma
 
+:: References
+https://en.wikipedia.org/wiki/Humanitarian_intervention
+
 
 the ethics of interfering with lost tribes
 ==========================================
@@ -5376,16 +5415,21 @@ irrevocably change their societies, but it may not be right to force isolation u
 :: Parents
 social ethical dilemma
 
+:: References
+https://en.wikipedia.org/wiki/First_contact_(anthropology)
+
 
 the white man's burden
 ======================
 
 :: Description
-The abhorrent and antediluvian notion that one ethnicity is superior and therefore a moral duty to
-assert their authority over "lesser" peoples is featured.
+The idea that the white man has a moral obligation to rule the non-white peoples of the Earth, whilst encouraging their economic, cultural, and social progress through colonialism.
 
 :: Parents
 past and present moral controversy
+
+:: References
+https://en.wikipedia.org/wiki/The_White_Man%27s_Burden
 
 
 coping with a pedantic authority figure
@@ -5408,6 +5452,9 @@ their own are discussed.
 :: Parents
 contemporary social issue
 
+:: References
+https://en.wikipedia.org/wiki/Lethal_autonomous_weapon
+
 
 autonomous weapons system
 =========================
@@ -5418,6 +5465,9 @@ to select targets and operate entirely on its own, once unleashed.
 
 :: Parents
 AI technology
+
+:: References
+https://en.wikipedia.org/wiki/Lethal_autonomous_weapon
 
 
 hollowed out asteroid habitat
@@ -5439,12 +5489,15 @@ Interesting minerals are extracted from an asteroid.
 :: Parents
 mastering space
 
+:: References
+https://en.wikipedia.org/wiki/Asteroid_mining
+
 
 obeying the rules vs. acting for a just cause
 =============================================
 
 :: Description
-Someone weighs whether to break with rules in order do a perceived good deed. 
+A character weighs whether to break with rules in order do a perceived good deed. 
 
 :: Example
 In tng5x07 "Unification I", Spock disobeys his government by traveling to Romulus and
@@ -5463,11 +5516,14 @@ gender bending
 ==============
 
 :: Description
-Someone challenges our typical preconceptions of gender roles and attitudes, for example by 
+A character challenges our typical preconceptions of gender roles and attitudes, for example by 
 behaving like the opposite sex that they are.
 
 :: Parents
 the battle of the sexes
+
+:: References
+https://en.wikipedia.org/wiki/Gender_bender
 
 
 rebuilding society after war
@@ -5491,6 +5547,9 @@ to live together under a common law.
 :: Parents
 social order
 
+:: References
+https://en.wikipedia.org/wiki/Multiculturalism
+
 
 bioengineered human pathogen
 ============================
@@ -5506,18 +5565,21 @@ bioengineering technology
 =========================
 
 :: Description
-The category of as-yet fictional things that may conceivably be done with bioengineering 
+An as-yet fictional thing that may conceivably be done with bioengineering 
 techniques in the future.
 
 :: Parents
 novel sci-fi concept
+
+:: References
+https://en.wikipedia.org/wiki/Biological_engineering
 
 
 what it is like to work as tech support
 =======================================
 
 :: Description
-Someone is employed to tend to the machines that other people are using; this persons' 
+A character is employed to tend to the machines that other people are using; this persons' 
 experiences with their work are featured. Typically, the idea is that the users are ignorant,
 impatient, and arrogant.
 
@@ -5534,6 +5596,9 @@ brain regions.
 
 :: Parents
 topic in medicine
+
+:: References
+https://en.wikipedia.org/wiki/Aphasia
 
 
 topic in medicine
@@ -5556,12 +5621,15 @@ rewards in exchange for sexual favors.
 :: Parents
 the battle of the sexes
 
+:: References
+https://en.wikipedia.org/wiki/Sexual_harassment
+
 
 pleasure in blood sports
 ========================
 
 :: Description
-The embarrassingly human enthusiasm for arranging and watching deadly fights between animals
+The human enthusiasm for arranging and watching deadly fights between animals
 or other humans is featured.
 
 :: Parents
