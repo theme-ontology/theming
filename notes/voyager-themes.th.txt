@@ -2149,16 +2149,6 @@ A spaceborne alien life form with protozoan-like characteristics, such as flagel
 spaceborne life form
 
 
-sparing someone an ethical dilemma
-==================================
-
-:: Description
-
-
-:: Parents
-self-sacrifice
-
-
 special relativity
 ==================
 
@@ -2503,16 +2493,6 @@ It is pointed out that eavesdropping on others can be rude.
 group interaction
 
 
-the sadism of an unfinished story
-=================================
-
-:: Description
-
-
-:: Parents
-state of mind
-
-
 the science of cheese
 =====================
 
@@ -2534,16 +2514,6 @@ the science of heat
 
 :: Parents
 topic in science
-
-
-the smugness of intellectuals in society
-========================================
-
-:: Description
-
-
-:: Parents
-contemporary social issue
 
 
 the trial of Galileo
@@ -2686,16 +2656,6 @@ We are shown that people use a balance of rationality and emotionality in their 
 
 :: Parents
 life lesson
-
-
-wet dreams
-==========
-
-:: Description
-
-
-:: Parents
-introspection
 
 
 what if I became a simulation
@@ -5705,16 +5665,6 @@ A character is stranded in outer space.
 what if I faced an incredible situation
 
 
-the ethics of spying
-====================
-
-:: Description
-
-
-:: Parents
-social ethical dilemma
-
-
 war crimes
 ==========
 
@@ -5755,17 +5705,20 @@ man vs. self
 ============
 
 :: Description
-
+A character must overcome an internal struggle within themself.
 
 :: Parents
 survival
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_self
 
 
 orchestrated asteroid bombardment
 =================================
 
 :: Description
-
+Civilization on a planet is threatened when asteroids are directed on a collision course with the planet.
 
 :: Parents
 man-made existential risk
@@ -5775,7 +5728,7 @@ what if there was a a huge robotic war
 ======================================
 
 :: Description
-
+A war between rival factions of robots is featured.
 
 :: Parents
 what if society were different
@@ -5785,20 +5738,26 @@ fear of intimacy
 ================
 
 :: Description
-
+A character manifests anxiety from having difficulty forming a romantic relationship with another person.
 
 :: Parents
 introspection
+
+:: References
+https://en.wikipedia.org/wiki/Fear_of_intimacy
 
 
 sentient spaceship
 ==================
 
 :: Description
-
+A space ship that can think intelligently is featured.
 
 :: Parents
 spacecraft
+
+:: References
+http://tvtropes.org/pmwiki/pmwiki.php/Main/SapientShip
 
 
 man vs. distant enemy
@@ -5815,10 +5774,13 @@ facing oxygen deprivation
 =========================
 
 :: Description
-
+A character is faced with figuring out how to survive when oxygen is in short supply.
 
 :: Parents
 facing general adversity
+
+:: References
+https://en.wikipedia.org/wiki/Cerebral_hypoxia
 
 
 wave parrying at sea
@@ -5835,7 +5797,7 @@ intelligent dinosaurs
 =====================
 
 :: Description
-
+The theory that some dinosaurs had intelligence comparable to that of modern humans is featured.
 
 :: Parents
 crackpot theory
@@ -5845,17 +5807,20 @@ planetary weather control system
 ================================
 
 :: Description
-
+A system capable of modifying and controlling weather on a planetary scale is featured.
 
 :: Parents
 fictional apparatus
+
+:: References
+https://en.wikipedia.org/wiki/Weather_modification
 
 
 time traveler secretly living among us
 ======================================
 
 :: Description
-
+The notion that a time traveler is living secretly among normal people is featured.
 
 :: Parents
 crackpot theory
@@ -5871,14 +5836,11 @@ coping with losing a special ability
 coping with an affliction
 
 
-:: Parents
-organized religion
-
 what if I was stuck on a planet populated by horny people of the opposite sex
 =============================================================================
 
 :: Description
-
+A character experiences that fantastical situation of being stuck on a planet populated by horny people of the opposite sex.
 
 :: Parents
 what if I faced an incredible situation
@@ -6109,15 +6071,6 @@ what if I was at the mercy of a mad doctor
 
 :: Parents
 what if I faced an incredible situation
-
-
-the importance of sticking to one's moral principles
-====================================================
-
-:: Description
-
-:: Parents
-life lesson
 
 
 what if I were trapped in a nightmare
