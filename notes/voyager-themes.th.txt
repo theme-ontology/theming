@@ -2205,7 +2205,7 @@ super accelerated Darwinian evolution
 =====================================
 
 :: Description
-
+We imagine what the world would be like if some beings in it "evolved" at a much accelerated rate.
 
 :: Parents
 alternate laws of nature
@@ -2357,10 +2357,16 @@ Flatland communication problem
 ==============================
 
 :: Description
+The idea that beings who for all intents and purposes inhabit a x-dimensional world will have trouble communicating with beings that inhabit a y-dimensional world (whenever x is different from y) because they perceive things in such a radically different way is illustrated. Since we normally perceive three dimension, that common case in stories is to have 3D beings face 2D or 4D beings.
 
+:: Examples
+In the freely available book "Flatland" (1884) Edwin A. Abbott imagines the memoirs of a 2-dimensional being who was moved into the world of 3-dimensional beings.
 
 :: Parents
 problem of language and meaning
+
+:: References
+https://en.wikipedia.org/wiki/Flatland
 
 
 the function of a surprise party
@@ -2543,7 +2549,12 @@ the wish to live
 ================
 
 :: Description
+The basic instinct in humans to fight for self-preservation is discussed more or less explicitly.
 
+Note: Since many if not most stories feature some sort of struggle for survival, this theme should be used only when the psychological force is more or less explicitly made topical.
+
+:: References
+https://en.wikipedia.org/wiki/Will_to_live
 
 :: Parents
 human nature
@@ -5760,16 +5771,6 @@ spacecraft
 http://tvtropes.org/pmwiki/pmwiki.php/Main/SapientShip
 
 
-man vs. distant enemy
-=====================
-
-:: Description
-
-
-:: Parents
-survival
-
-
 facing oxygen deprivation
 =========================
 
@@ -5781,16 +5782,6 @@ facing general adversity
 
 :: References
 https://en.wikipedia.org/wiki/Cerebral_hypoxia
-
-
-wave parrying at sea
-====================
-
-:: Description
-
-
-:: Parents
-topic in technology
 
 
 intelligent dinosaurs
@@ -5830,7 +5821,10 @@ coping with losing a special ability
 ====================================
 
 :: Description
+A character had an ability that made them somewhat special but then looses that ability and must cope with the associated feelings and potential loss of status.
 
+:: Example
+In tng4x10 "The Loss" Counselor Deanna Troi looses her emphatic/telepathic powers and can no longer sense minds and emotions. Frustrated by this comparative handicap in her work and with a feeling that she has become useless to her fellow crew-members, she becomes distraught and attempts to resign.
 
 :: Parents
 coping with an affliction
@@ -5873,9 +5867,10 @@ love kindled by danger
 ======================
 
 :: Description
+The idea that a shared danger can kindle peoples' passions for each other is illustrated.
 
 :: Parents
-love
+romantic love
 
 
 what if I lived backwards in time but kept my present memories
@@ -5962,15 +5957,6 @@ superstition
 
 :: References
 https://en.wikipedia.org/wiki/Spirit_guide
-
-
-triple moon system
-==================
-
-:: Description
-
-:: Parents
-what's out there
 
 
 woman's right to sleep with whomsoever she pleases
@@ -6084,15 +6070,6 @@ A civilization that lives underground is featured.
 what if society were different
 
 
-lifesaving treatment against patient's will
-===========================================
-
-:: Description
-
-:: Parents
-medical ethics
-
-
 what if I was at the mercy of a mad doctor
 ==========================================
 
@@ -6144,15 +6121,6 @@ The relationship between a grandfather and his grandson is featured.
 
 :: Parents
 familial relations
-
-
-freedom vs. unity
-=================
-
-:: Description
-
-:: Parents
-social dichotomy
 
 
 if it ain't broke don't fix it
