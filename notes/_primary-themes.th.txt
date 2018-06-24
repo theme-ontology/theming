@@ -8851,7 +8851,7 @@ A son is not all that his father wishes him to be.
 :: Example
 
 :: Parents
-parenting
+parental disappointment in child
 
 :: Other Parents
 
@@ -14773,7 +14773,7 @@ A son is not all that his mother wishes him to be.
 Beverly was disappointed in Wesley for covering up the now infamous Nova Squadron Incident in tng5x18 "The First Duty".
 
 :: Parents
-parenting
+parental disappointment in child
 
 :: Other Parents
 
@@ -16204,7 +16204,7 @@ passion for gambling
 ====================
 
 :: Description
-A character gets a kick out of betting on the outcome of physical processes such as dice throws.
+A character takes great pleasure in engaging in games of chance with money or other valuables at stake.
 
 :: Example
 The Providers, a trio of disembodied brains, had a gambling problem to say the least in tos2x17 "The Gamesters of Triskelion".
@@ -17461,8 +17461,8 @@ views and customs
 :: Related Themes
 
 
-space prison
-============
+off-world prison colony
+=======================
 
 :: Description
 There is a prison somewhere away from any inhabited planet.
@@ -28330,4 +28330,14 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Good_and_evil
+
+
+parental disappointment in child
+================================
+
+:: Description
+A child is not all that a parent wishes them to be.
+
+:: Parents
+parenting
 
