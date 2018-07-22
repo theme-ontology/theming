@@ -8434,7 +8434,7 @@ Directed by: Michael Dorn. Story by: René Echevarria & Spike Steingasser.
 Benjamin Sisko, Julian Bashir, Kira Nerys, Miles O'Brien, Garak, Odo, Winn Adami, Dukat, Damar,
 
 :: Supporting Cast
-Worf, Ezri Dax, Ross, Gowron, Martok, Rusot,
+Worf, Ezri Dax, Quark, Ross, Gowron, Martok, Rusot,
 
 :: Choice Themes
 
@@ -8475,30 +8475,41 @@ Directed by: Mike Vejar. Story by: Ronald D. Moore.
 
 :: Ratings
 1 <mikael>,
+1 <paul>,
 
 :: Main Characters
+Benjamin Sisko, Julian Bashir, Kira Nerys, Miles O'Brien, Worf, Garak, Odo, Winn Adami, Dukat, Damar, Gowron, Martok,
 
 :: Supporting Cast
+Ezri Dax, Ross, Rusot, Luaran, Vornar,
 
 :: Choice Themes
 
 :: Major Themes
-shapeshifter [Odo],
-coping with a loved one being terminally ill [Kira with Odo slowly dying],
-coping with a terminal illness [Odo with Odo slowly dying],
-facing one's own death [Odo with illness, Weyoun with death threat],
+shapeshifter [Odo shapeshifted into a pair of handcuffs and another changeling.],
+coping with a loved one being terminally ill [Kira with Odo slowly dying.],
+coping with a terminal illness [Odo with Odo slowly deteriorating.],
+facing one's own death [Odo with illness. Weyoun with death threat from Female Changeling.],
+facing an invading force [Damar led resistance against Dominion occupation of Cardassia.],
 
 :: Minor Themes
 coping with an incompetent coworker [Cardassians were incompetent thought Kira and Breen alike],
 facing a fight to the death [Worf ridiculously killed the Klingon emperor in a one-on-one],
-human shields in war [],
+what if I had to fight to the death [Worf faced off against Gowron in a fight to the death.],
+human shields in war [Female Changeling used Cardassians as human shields in an effort to turn the population against Damar and his resistance movement.],
+guerrilla tactics [Kira was sent to teach Damar guerrilla tactics to fight the Dominion.],
 conspiracy theory [section 31 - it is perhaps also "secret government project" and "government concealing information"],
+honor [Martok initially thought it dishonorable to cast his oath of loyalty aside and challenge the leadership of his emperor, Gowron.],
+loyalty to a leader [Martok refused Worf's idea for him to cast his oath of loyalty aside and challenge the leadership of his emperor, Gowron.],
 
 :: Settings
+cavern,
 
 :: Aliens
+Cardassian, Bajoran, Changeling, Klingon, Breen, Vorta, Jem'Hadar,
 
 :: Other Keywords
+find a cure [Julian for Odo's condition],
 
 
 ds97x23
