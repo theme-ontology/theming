@@ -8186,7 +8186,7 @@ Directed by: David Livingston. Story by: Ronald D. Moore.
 1 <paul>,
 
 :: Main Characters
-Julian Bashir [object], Sloan, Cretak, Koval, Ross,
+Julian Bashir [object], Sloan, Cretak, Koval, William Ross,
 
 :: Supporting Cast
 Kira Nerys, Odo, Worf, Miles O'Brien, Benjamin Sisko, Elim Garak, Ezri Dax, Neral, Wheeler, Hickam,
@@ -8282,7 +8282,7 @@ Directed by: Winrich Kolbe. Story by: Bradley Thompson & David Weddle.
 Benjamin Sisko, Kasidy Yates, Ezri Dax, Kai Winn, Dukat,
 
 :: Supporting Cast
-Odo, Kira Nerys, Worf, Jake Sisko, Miles O'Brien, Nog, Quark, Julian Bashir, Weyoun 7, Damar, Sarah, Ross, Solbor, Female Changeling,
+Odo, Kira Nerys, Worf, Jake Sisko, Miles O'Brien, Nog, Quark, Julian Bashir, Weyoun 7, Damar, Sarah, William Ross, Solbor, Female Changeling,
 
 :: Choice Themes
 romantic love [Ezri and Worf; Sisko and Kasidy],
@@ -8386,7 +8386,7 @@ Directed by: Mike Vejar. Story by: Ira Steven Behr & Hans Beimler.
 Benjamin Sisko, Ezri Dax, Worf, Winn Adami, Dukat, Weyoun, Damar,
 
 :: Supporting Cast
-Miles O'Brien, Quark, Julian Bashir, Kira Nerys, Kasidy Yates, Martok, Nog, Ross, Solbor, Rusot, Female Changeling,
+Miles O'Brien, Quark, Julian Bashir, Kira Nerys, Kasidy Yates, Martok, Nog, William Ross, Solbor, Rusot, Female Changeling,
 
 :: Choice Themes
 
@@ -8434,7 +8434,7 @@ Directed by: Michael Dorn. Story by: René Echevarria & Spike Steingasser.
 Benjamin Sisko, Julian Bashir, Kira Nerys, Miles O'Brien, Garak, Odo, Winn Adami, Dukat, Damar,
 
 :: Supporting Cast
-Worf, Ezri Dax, Quark, Ross, Gowron, Martok, Rusot,
+Worf, Ezri Dax, Quark, William Ross, Gowron, Martok, Rusot,
 
 :: Choice Themes
 
@@ -8481,7 +8481,7 @@ Directed by: Mike Vejar. Story by: Ronald D. Moore.
 Benjamin Sisko, Julian Bashir, Kira Nerys, Miles O'Brien, Worf, Garak, Odo, Winn Adami, Dukat, Damar, Gowron, Martok,
 
 :: Supporting Cast
-Ezri Dax, Ross, Rusot, Luaran, Vornar,
+Ezri Dax, William Ross, Rusot, Luaran, Vornar,
 
 :: Choice Themes
 
@@ -8638,36 +8638,48 @@ Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
 
 :: Ratings
 1 <mikael>,
+1 <paul>,
 
 :: Main Characters
+Julian Bashir, Ezri Dax, Benjamin Sisko, Miles O'Brien, Odo, Worf, Nog, Kasidy Yates, Kira Nerys, Damar, Elim Garak, Winn Adami, Dukat, Female Changeling, Quark,
 
 :: Supporting Cast
+Keiko O'Brien, Molly O'Brien, Jake Sisko, Ekoor, Borca, Ginger, Sarah, Mila, William Ross, Vic Fontaine, Weyoun, Martok,
 
 :: Choice Themes
 
 :: Major Themes
-infatuation [Ezri and Julian],
-resistance movement [Cardassian resistance to Dominion domination],
-romantic love [],
+infatuation [Ezri and Julian; Winn Adami and Dukat],
+resistance movement [Cardassian resistance to Dominion domination.],
+romantic love [Julian and Ezri; Miles and Keiko; Benjamin and Kasidy; Kira and Odo],
 
 :: Minor Themes
-husband and wife [the Sisko and the Kasidy],
-coping with discomfort during pregnancy [Kasidy was sick],
-expecting parents [Sisko finds out Kassidy is pregnant],
+husband and wife [the Sisko and the Kasidy; Miles and Keiko],
+coping with discomfort during pregnancy [Kasidy was experiencing morning sickness.],
+expecting parents [Benjamin finds out that Kasidy is pregnant.],
 coping with the death of a lover [],
-coping with the death of a parent [],
-grief [],
-reminiscence about one's childhood [Garak reminisced in his childhood home],
+coping with the death of a parent [Garak with the death of his childhood housekeeper Mila.],
+grief [Garak with the death of his childhood housekeeper Mila.],
+reminiscence about one's childhood [Garak reminisced in his childhood home.],
 religious prophet [the Sisko saved the day],
 the fulfillment of prophesy [the Sisko was foretold],
 DESTINY [the Sisko met his destiny],
 good and evil in religion [],
 coping with saying goodbye forever [Kira and Odo],
 sacrificing one's self for the universe [the Sisko sacrificed himself to defeat the pah'wraiths and save the galaxy from their wicked influence],
+friendship [Miles was reluctant to tell his good friend Julian that he was planning to return to Earth after the war.],
+virtual reality room [Quark was consoled by Vic Fontaine in the holo suites.],
+the desire for vengeance [Garak expressed a wish to avenge the death of his childhood housekeeper Mila.],
+genocide [The Dominion began executing a genocide on the Caradassian people.],
+belonging [Odo decides to leave Kira and return to his shapeshifter people.],
+apotheosis [Benjamin becomes a kind of god upon joining the prophets in the wormhole.],
+father and son [Jake reminisces over his time on space station with Benjamin.],
 
 :: Settings
+futuristic cityscape, cavern, pool of ooze,
 
 :: Aliens
+Cardassian, Jem'Hadar, Breen, Bajoran, Vorta, wormhole aliens, Changeling, Klingon,
 
 :: Other Keywords
 
