@@ -18,8 +18,6 @@ galaxy.
 :: Date
 2001-2005
 
-:: Choice Themes
-
 :: Major Themes
 
 :: Minor Themes
@@ -46,13 +44,25 @@ Directed by: James L. Conway. Story by: Rick Berman & Brannon Braga.
 :: Date
 2001-09-26
 
+:: Ratings
+3 <paul>,
+
+:: Main Characters
+Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Silik, Sarin, Klaang, Maxwell Forrest, Daniel Leonard, Henry Archer, Soval, Tos, Williams,
+
 :: Choice Themes
 aliens [],
 interplanetary spaceflight [],
-passion for space exploration [],
+interstellar space travel [Archer commanded the newly christened Enterprise on its first interstellar flight.],
+passion for space exploration [Archer and crew were eager to take the Enterprise out and explore space.],
 establishing diplomatic relations [or some other kind of diplomacy themes],
+the need to get there on one's own merits [Archer was determined to complete his mission without the help of the Vulcans.],
+the ethics of interfering in less advanced societies [Vulcans in Human affairs.],
+the ethics of interfering in less developed cultures [],
+the ethics of interfering in the internal affairs of other powers [],
 
 :: Major Themes
+cross cultural understanding [Cultural tensions emerged between T'Pol and the crew on their voyage to the Klingon homeworld.],
 alien point of view [Klingons, Vulcans, Flox, all had their idiosyncrasies taken somewhat seriously for once],
 risk taking vs. playing it safe [gallivanting around in a hostile galaxy before we are ready? should perhaps invent a social eth dil],
 pride [T'Pol accused humans of with some justification],
@@ -65,10 +75,25 @@ putting differences aside [T'Pol and Tucker especially (a sinister foreshadowing
 artificial gravity technology [],
 particle deflector [probably not worth adding but was there],
 time travel [some alien from the future was up to mischief],
+father and son [Henry Archer and a young Jonathan Archer],
+honor [Vulcan ambassador explained that it was better to let Klang die rather than return him home because he would face dishonor as a result.],
+transporter [Transporter technology was still in an experimental stage.],
+passion for learning languages [Hoshi was lured away from her teaching duties by the prospect of being the first person to learn Klingonese.],
+master and pet [Archer and Porthos.],
+what it is like in zero-g [Mayweather and Tucker found a place in the Enterprise where there was zero gravity.],
+vegetarianism [T'Pol was vegetarian and considered Humans to be impulsive carnivores.],
+personal invisibility cloak [Suliban wore garment that allowed it to blend in with its immediate environment.],
+the use of genetic engineering [Suliban were genetically engineered.],
+genetic engineering [Suliban were genetically engineered.],
+loyalty to a leader [T'Pol helped Archer complete his mission against her better judgement when she took command of the Enterprise when Archer was injured.],
+modular starship [Suliban spaceships merged into one big structure.],
+DNA encoded message [Klang had a secret message encoded in his DNA.],
 
-:: Collections
+:: Settings
+corn field,
 
-:: References
+:: Aliens
+Vulcan, Klingon, Suliban,
 
 
 ent1x02
@@ -100,18 +125,32 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 :: Date
 2001-10-03
 
+:: Ratings
+3 <paul>,
+
+:: Main Characters
+Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Alien Captain, 
+
 :: Choice Themes
-,
+risk taking vs. playing it safe [Archer must decide whether to risk helping alien crew and put his crew in potential danger as a result.],
+passion for space exploration [Archer and crew on mission of peaceful exploration, looking to discover new life.],
+helping a stranger in need [Archer decides to help Axanar crew that may have needed help in spite of the risks.],
 
 :: Major Themes
-,
+self-confidence [Hoshi lacked confidence in her abilities and considered returning to the university where she felt more in her comfort zone.],
+first contact [Enterprise crew make first contact with the androgynous Axanar.],
+organ harvesting alien [Aliens had harvested organs from Axanar crew.],
+organ harvesting [Aliens had harvested organs from Axanar crew.],
 
 :: Minor Themes
-,
+master and pet [Archer and Porthos.],
+passion for learning languages [Hoshi spoke in gleeful terms about the prospect of visiting alien worlds and learning their languages.],
 
-:: Collections
+:: Settings
+rocky landscape,
 
-:: References
+:: Aliens
+Axanar,
 
 
 ent1x04
