@@ -2435,20 +2435,6 @@ https://en.wikipedia.org/wiki/Life_extension
 :: Other Parents
 
 
-anti-gravity technology
-=======================
-
-:: Description
-Technology by which gravity can be locally counteracted, for example in a
-room.
-
-:: Parents
-fictional apparatus
-
-:: Example
-In tos3x18 "The Lights of Zetar" Mira was put into a pressurized anti-gravity chamber in order to expel alien influences from her mind.
-
-
 anti-intellectualism
 ====================
 
@@ -2893,6 +2879,9 @@ fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_gravity
+
+:: Example
+In tos3x18 "The Lights of Zetar" Mira was put into a pressurized anti-gravity chamber in order to expel alien influences from her mind.
 
 
 artificial heart
@@ -32536,7 +32525,7 @@ for an advanced society to interfere in the everyday life and development of a
 less advanced society is discussed.
 
 :: Parents
-social ethical dilemma
+the ethics of interfering in the internal affairs of other powers
 
 :: References
 https://en.wikipedia.org/wiki/Prime_Directive
@@ -32546,18 +32535,6 @@ https://en.wikipedia.org/wiki/Prime_Directive
 :: Related Themes
 
 :: Other Parents
-
-
-the ethics of interfering in less developed cultures
-====================================================
-
-:: Description
-The question of whether and to what extent it is morally acceptable for an
-advanced society to interfere in the everyday life and development of a less
-advanced society.
-
-:: Parents
-contemporary social issue
 
 
 the ethics of interfering in the internal affairs of other powers
@@ -32585,7 +32562,7 @@ any outside contact. Interaction would irrevocably change their societies, but
 it may not be right to force isolation upon them either.
 
 :: Parents
-social ethical dilemma
+the ethics of interfering in less advanced societies
 
 :: References
 https://en.wikipedia.org/wiki/First_contact_(anthropology)
@@ -36131,8 +36108,8 @@ society
 :: Other Parents
 
 
-transporter
-===========
+teleportation device
+====================
 
 :: Description
 A fictional teleportation machine that convert a person or object into an
