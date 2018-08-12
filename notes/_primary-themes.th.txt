@@ -129,6 +129,19 @@ novel sci-fi concept
 AI
 
 
+Amelia Earhart
+==============
+
+:: Description
+The life and legend of this historical figure is discussed.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Amelia_Earhart
+
+
 American Civil War
 ==================
 
@@ -1027,15 +1040,15 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Abiogenesis
 
-:: Aliases
-the origin of life,
-
 :: Example
 Q brought Captain Picard back in time and showed him the bubbling pool of ooze from which the first complex organic molecules on Earth would emerge in tng7x25 "All Good Things...".
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+the origin of life,
 
 
 abortion
@@ -1405,6 +1418,17 @@ Talarians adopted the human boy Jono after having savagely massacred his family 
 juvenile
 
 
+ads everywhere dystopia
+=======================
+
+:: Description
+We imagine what life might be like as ads become evermore ubiquitous and
+intrusive.
+
+:: Parents
+dystopia
+
+
 aerial bombing of cities
 ========================
 
@@ -1633,6 +1657,16 @@ The plant-like Phylosians were brought to the brink of extinction by an alien br
 
 :: Other Parents
 aliens
+
+
+alien civilization
+==================
+
+:: Description
+Human civilization encounters an alien civilization. Note: This theme is not used when any mere alien is featured unless that alien's whole civilization is referenced and discussed vis-à-vis human civilization.
+
+:: Parents
+what's out there
 
 
 alien composed of autonomous parts
@@ -2796,14 +2830,14 @@ war
 :: References
 https://en.wikipedia.org/wiki/Arms_industry
 
-:: Aliases
-arms industry
-
 :: Example
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+arms industry
 
 
 arranged marriage
@@ -2864,6 +2898,20 @@ Data found evidence of "unsettling overtones of proto-Vulcan influences" in Pica
 :: Related Themes
 
 :: Other Parents
+
+
+artificial blood
+================
+
+:: Description
+A substance used to mimic and fulfill some functions of biological blood is
+featured in a science fictional context.
+
+:: Parents
+human enhancement
+
+:: References
+https://en.wikipedia.org/wiki/Blood_substitute
 
 
 artificial gravity technology
@@ -3128,6 +3176,19 @@ Worf's unruly brother Nikolai save a group of Boraalan villagers from certain de
 :: Related Themes
 
 :: Other Parents
+
+
+atomic warfare
+==============
+
+:: Description
+Nuclear weapons are used in war.
+
+:: Parents
+war
+
+:: References
+https://en.wikipedia.org/wiki/Nuclear_warfare
 
 
 atrocities of war
@@ -4074,6 +4135,17 @@ biological components of a biological computer.
 what's out there
 
 
+biological machinery
+====================
+
+:: Description
+There is an artificial device with components that are biological in nature.
+Note: This theme is not used for sentient objects such as androids.
+
+:: Parents
+bioengineering technology
+
+
 biological spaceship
 ====================
 
@@ -4491,6 +4563,20 @@ effects of a narcotic drug.
 
 :: Parents
 fictional apparatus
+
+
+brain transplant
+================
+
+:: Description
+A surgical procedure to transplant a hand from one human to another is
+featured in a science fictional context.
+
+:: Parents
+human enhancement
+
+:: References
+https://en.wikipedia.org/wiki/Brain_transplant
 
 
 brains vs. brawn
@@ -6018,6 +6104,20 @@ https://en.wikipedia.org/wiki/Compassion
 :: Other Parents
 
 
+compassion vs. public safety
+============================
+
+:: Description
+Someone must chose between risking danger to many other on one hand, or
+helping someone in need on the other.
+
+:: Parents
+personal ethical dilemma
+
+:: Example
+In the movie "Alien (1979)", Ripley tries to follow standard quarantine procedures and denies the distressed landing party access to the ship after Kane has come in contact with alien life.
+
+
 compassion vs. self-preservation
 ================================
 
@@ -6586,6 +6686,19 @@ Family members struggle through a dysfunctional marriage.
 coping with social issues
 
 
+coping with a friend who has an addiction
+=========================================
+
+:: Description
+Someone must watch as a near and dear struggles with an addiction.
+
+:: Parents
+coping with an affliction
+
+:: References
+https://en.wikipedia.org/wiki/Addiction
+
+
 coping with a friend who is losing his mind
 ===========================================
 
@@ -6628,6 +6741,17 @@ depressed.
 
 :: Parents
 coping with an affliction
+
+
+coping with a greedy heir
+=========================
+
+:: Description
+Someone, usually an aging or sick character, is bothered by a potential
+beneficiary who is overly concerned about their future inheritance.
+
+:: Parents
+coping with problematic people
 
 
 coping with a life-changing event
@@ -6716,6 +6840,17 @@ coping with an affliction
 :: Related Themes
 
 :: Other Parents
+
+
+coping with a maniacal leader
+=============================
+
+:: Description
+A subordinate must find ways to cope with a leader who is acting irrationally
+to a great extent.
+
+:: Parents
+coping with social issues
 
 
 coping with a panicky relative
@@ -7232,6 +7367,18 @@ they are dirty, injured, thorned and impoverished.
 coping with danger
 
 
+coping with being different
+===========================
+
+:: Description
+Someone who is notably different from people around them in some way struggles
+to come to term with this and, usually, tries to fit in in spite of their
+difference.
+
+:: Parents
+coping with social issues
+
+
 coping with being famous
 ========================
 
@@ -7694,6 +7841,16 @@ Salia was reluctant to be the predetermined ruler of Daled IV in tng2x10 "The Da
 :: Related Themes
 
 :: Other Parents
+
+
+coping with having a shitty job
+===============================
+
+:: Description
+Someone is stuck in a very low status job and must come to terms with it.
+
+:: Parents
+coping with life issues
 
 
 coping with having been raped
@@ -8301,6 +8458,16 @@ Beverly attended the funeral of her grandmother Felisa Howard on Caldos II in tn
 :: Other Parents
 
 
+coping with the death of a loved one
+====================================
+
+:: Description
+A character must come to terms with having lost a loved one.
+
+:: Parents
+coping with the death of someone
+
+
 coping with the death of a lover
 ================================
 
@@ -8516,6 +8683,16 @@ reason.
 coping with life issues
 
 
+coping with the murder of a loved one
+=====================================
+
+:: Description
+A character must come to terms with a loved one having been murdered.
+
+:: Parents
+coping with the death of a loved one
+
+
 coping with the rigors of command
 =================================
 
@@ -8595,6 +8772,21 @@ Captain Picard was mortified to have his former lover Vash aboard the Enterprise
 :: Related Themes
 
 :: Other Parents
+
+
+corruption in society
+=====================
+
+:: Description
+Discussed is the social problem that arises when officials or other people
+that have been entrusted with authority, to a wide extent abuses their
+position to acquire illicit benefits for themselves.
+
+:: Parents
+contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/Corruption
 
 
 counterfactuals
@@ -8842,6 +9034,17 @@ https://en.wikipedia.org/wiki/Creativity
 :: Related Themes
 
 :: Other Parents
+
+
+crime and punishment
+====================
+
+:: Description
+What acts are to be criminal, how they should be punished and otherwise
+handled, and their impact on society in general are discussed.
+
+:: Parents
+contemporary social issue
 
 
 criminal gang in society
@@ -9783,13 +9986,13 @@ contemporary social issue
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/SlowlySlippingIntoEvil
 
-:: Aliases
-descent into evil
-
 :: Example
 In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be involved in drug smuggling. After covering up some minor transgressions Neelix eventually found himself an accomplice to serious crime.
 
 In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed an alien and discovered that its body made excellent fuel. Driven by exceptional need they procured another alien which they murdered for fuel, then another and so on.
+
+:: Aliases
+descent into evil
 
 
 descent into madness
@@ -10994,11 +11197,11 @@ psychological problems.
 :: Parents
 growing up
 
-:: Aliases
-troubled childhood
-
 :: Example
 Beverly in "It" (1990) had a physically abusive father and later in life find herself drawn to other abusive men against her better judgment.
+
+:: Aliases
+troubled childhood
 
 
 dystopia
@@ -12492,6 +12695,17 @@ facing general adversity
 https://en.wikipedia.org/wiki/Loan_shark
 
 
+facing muggers
+==============
+
+:: Description
+A character is confronted by other characters who threaten them with violence
+should they fail to hand over various possessions.
+
+:: Parents
+survival
+
+
 facing mysterious adversity
 ===========================
 
@@ -12588,6 +12802,17 @@ facing general adversity
 
 :: References
 https://en.wikipedia.org/wiki/Cerebral_hypoxia
+
+
+facing persecution by the government
+====================================
+
+:: Description
+A character is being chased by the governing body in the region, for whatever
+reason.
+
+:: Parents
+survival
 
 
 facing the demise of a personal enterprise
@@ -12704,6 +12929,20 @@ https://en.wikipedia.org/wiki/Faith_and_rationality
 :: Other Parents
 
 
+fall from grace
+===============
+
+:: Description
+A previously honored character finds themself out of favor, with a loss of
+status and prestige, for one reason or another.
+
+:: Parents
+survival
+
+:: References
+https://en.wikipedia.org/wiki/Fall_from_grace
+
+
 fall out from a one night stand
 ===============================
 
@@ -12759,6 +12998,19 @@ The Enterprise-D nearly destroyed a Lysian space station in revenge but then it 
 :: Related Themes
 
 :: Other Parents
+
+
+false rape accusations
+======================
+
+:: Description
+The social issue that accusation of rape are sometimes false is discussed.
+
+:: Parents
+contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/False_accusation_of_rape
 
 
 familial love
@@ -12820,6 +13072,21 @@ over some material family matter, for example family honor.
 
 :: Parents
 family affairs
+
+
+family honor
+============
+
+:: Description
+Members of a family contemplate their collective honor. This often happens
+because the actions of a family member threatens to put a stain on the
+family's reputability.
+
+:: Parents
+family affairs
+
+:: References
+https://en.wikipedia.org/wiki/Family_honor
 
 
 family life
@@ -13548,6 +13815,17 @@ personal practical dilemma
 :: Other Parents
 
 
+fighting evil with evil
+=======================
+
+:: Description
+A character contemplates whether to use evil means, such as extra-judicial
+murder, in order to fight other evils, such as crime.
+
+:: Parents
+personal ethical dilemma
+
+
 fighting one's inner demons
 ===========================
 
@@ -13982,6 +14260,21 @@ existential risk
 :: Related Themes
 
 :: Other Parents
+
+
+forced confession
+=================
+
+:: Description
+Whether and to what extent society should consider confessions of crime that
+were acquired from the defendant while under any form of duress (whether
+extended isolation or outright torture) is considered.
+
+:: Parents
+past and present moral controversy
+
+:: References
+https://en.wikipedia.org/wiki/Forced_confession
 
 
 forced fatherhood
@@ -15157,10 +15450,10 @@ good and evil in religion
 =========================
 
 :: Description
-Good and evil as concepts in religion are discussed. The meaning of the
-words often itself becomes the topic of discussion but they relate to moral
-preference: Good is typically that which is morally preferable while evil
-is the exact opposite.
+Good and evil as concepts in religion are discussed. The meaning of the words
+often itself becomes the topic of discussion but they relate to moral
+preference: Good is typically that which is morally preferable while evil is
+the exact opposite.
 
 :: Parents
 organized religion
@@ -15727,15 +16020,15 @@ vicious self-reinforcing cycle. The same goes for violence.
 :: Parents
 life lesson
 
-:: Aliases
-if you live by the sword you will die by the sword
-
 :: Example
 Areel Shaw argued that it was basic human nature to hate a person who hates you in tos1x14 "Court Martial".
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+if you live by the sword you will die by the sword
 
 
 hatred between nations
@@ -16204,20 +16497,6 @@ Alexander was very much swayed by Lwaxana's arguments for choosing play over hom
 :: Other Parents
 
 
-homosexuality
-=============
-
-:: Description
-We are asked to what extent, if any, homosexuality should be tolerated in
-society and how homosexual people ought to be treated.
-
-:: Parents
-past and present moral controversy
-
-:: References
-https://en.wikipedia.org/wiki/Homosexuality
-
-
 hominid evolution
 =================
 
@@ -16236,6 +16515,20 @@ https://en.wikipedia.org/wiki/Human_evolution
 :: Related Themes
 
 :: Other Parents
+
+
+homosexuality
+=============
+
+:: Description
+We are asked to what extent, if any, homosexuality should be tolerated in
+society and how homosexual people ought to be treated.
+
+:: Parents
+past and present moral controversy
+
+:: References
+https://en.wikipedia.org/wiki/Homosexuality
 
 
 honesty
@@ -16277,6 +16570,20 @@ Worf, being a true man of honor, implored the Klingon authorities to grant honor
 :: Related Themes
 
 :: Other Parents
+
+
+honorable suicide
+=================
+
+:: Description
+A character contemplates committing suicide because doing otherwise would lead
+to some form of dishonor for themself and possibly their family.
+
+:: Parents
+life choice
+
+:: References
+https://en.wikipedia.org/wiki/Honor_suicide
 
 
 hope
@@ -17143,6 +17450,20 @@ male stereotype
 http://tvtropes.org/pmwiki/pmwiki.php/Main/UnderstandingBoyfriend
 
 
+incest in society
+=================
+
+:: Description
+Whether and to what extent people who are closely related should be allowed to
+have sex and procreate together is discussed.
+
+:: Parents
+past and present moral controversy
+
+:: References
+https://en.wikipedia.org/wiki/Incest
+
+
 incompatible modes of communication
 ===================================
 
@@ -17776,6 +18097,37 @@ https://en.wikipedia.org/wiki/International_relations
 :: Related Themes
 
 :: Other Parents
+
+
+international sanction
+======================
+
+:: Description
+One or more states seek to punish another state by by preventing activities
+like trade and travel.
+
+:: Parents
+diplomacy
+
+:: References
+https://en.wikipedia.org/wiki/International_sanctions
+
+
+international sanctions
+=======================
+
+:: Description
+Political and economic decisions that are part of diplomatic efforts by
+countries, multilateral or regional organizations against states or
+organizations either to protect national security interests, or to protect
+international law, and defend against threats to international peace and
+security.
+
+:: Parents
+diplomacy
+
+:: References
+https://en.wikipedia.org/wiki/International_sanctions
 
 
 interplanetary spaceflight
@@ -19194,6 +19546,17 @@ https://en.wikipedia.org/wiki/Loneliness
 :: Other Parents
 
 
+lonewolf way of life
+====================
+
+:: Description
+Someone deliberately shuns contact with others and prefers to live alone as
+much as they can.
+
+:: Parents
+way of life
+
+
 long distance relationship
 ==========================
 
@@ -19638,14 +20001,14 @@ about optimizing everybody’s well-being in the best way possible.
 :: Parents
 utopia
 
-:: Aliases
-computer controlled society
-
 :: Example
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+computer controlled society
 
 
 machine dictation
@@ -20288,6 +20651,20 @@ There is a wedding.
 romantic relationship
 
 
+mass consumerism
+================
+
+:: Description
+We are made to ponder the pros and cons of a society in which happiness is
+linked to the acquisition of goods and services in ever-increasing amounts.
+
+:: Parents
+past and present moral controversy
+
+:: References
+https://en.wikipedia.org/wiki/Consumerism
+
+
 mass hysteria
 =============
 
@@ -20306,6 +20683,17 @@ https://en.wikipedia.org/wiki/Mass_hysteria
 :: Related Themes
 
 :: Other Parents
+
+
+mass infertility
+================
+
+:: Description
+For one reason or another people become infertile and civilization gradually
+die out.
+
+:: Parents
+force majeure existential risk
 
 
 mass mind control
@@ -20378,6 +20766,16 @@ Data replicated feline supplement 74 for his beloved pet Spot the cat in tng4x11
 :: Related Themes
 
 :: Other Parents
+
+
+master and slave
+================
+
+:: Description
+The relationship between a master (or mistress) and their slave is featured.
+
+:: Parents
+familial relations
 
 
 master race controlled society
@@ -21018,21 +21416,6 @@ An entire moon has been conditioned for the sole purpose of military training.
 mastering space
 
 
-miniaturization technology
-==========================
-
-:: Description
-Technology by which material objects (such as people) can be made smaller in
-size compared to their surrounding without changing their characteristics
-otherwise.
-
-:: Parents
-fictional apparatus
-
-:: References
-https://en.wikipedia.org/wiki/Size_change_in_fiction
-
-
 mind control technology
 =======================
 
@@ -21183,6 +21566,21 @@ war
 
 :: References
 https://en.wikipedia.org/wiki/Land_mine
+
+
+miniaturization technology
+==========================
+
+:: Description
+Technology by which material objects (such as people) can be made smaller in
+size compared to their surrounding without changing their characteristics
+otherwise.
+
+:: Parents
+fictional apparatus
+
+:: References
+https://en.wikipedia.org/wiki/Size_change_in_fiction
 
 
 mining a planet from orbit
@@ -21404,6 +21802,16 @@ https://en.wikipedia.org/wiki/Science
 :: Related Themes
 
 :: Other Parents
+
+
+modular starship
+================
+
+:: Description
+There is a starship that is composed of many more-or-less autonomous modules that can detach and re-attach to reconfigure the whole thing.
+
+:: Parents
+starship technology
 
 
 monasticism
@@ -22008,14 +22416,14 @@ evil has been made away with: machinery.
 :: Parents
 utopia
 
-:: Aliases
-hippie commune utopia,
-
 :: Example
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+hippie commune utopia,
 
 
 nepotism
@@ -22277,6 +22685,20 @@ alternate reality
 :: Related Themes
 
 :: Other Parents
+
+
+nuclear holocaust
+=================
+
+:: Description
+Nuclear weapons are widely employed to an extent that destruction and
+radioactive fallout causes the collapse of civilization.
+
+:: Parents
+annihilation by WMDs
+
+:: References
+https://en.wikipedia.org/wiki/Nuclear_holocaust
 
 
 nuclear power safety
@@ -22691,6 +23113,20 @@ contemporary social issue
 
 :: References
 https://en.wikipedia.org/wiki/Opium
+
+
+opium in 19th century China
+===========================
+
+:: Description
+The historically important role of opium (and the opium wars) in 19th century
+China is discussed.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/History_of_opium_in_China https://en.wikipedia.org/wiki/First_Opium_War https://en.wikipedia.org/wiki/Second_Opium_War
 
 
 opposition to authority
@@ -23624,6 +24060,16 @@ investigative or otherwise.
 human aspiration
 
 
+passion for languages
+=====================
+
+:: Description
+A character takes unusual pleasure in the study of languages.
+
+:: Parents
+human passion
+
+
 passion for martial arts
 ========================
 
@@ -23915,6 +24361,19 @@ https://en.wikipedia.org/wiki/Patriarchy
 :: Related Themes
 
 :: Other Parents
+
+
+patricide
+=========
+
+:: Description
+The crime of killing ones own father is discussed.
+
+:: Parents
+crime and punishment
+
+:: References
+https://en.wikipedia.org/wiki/List_of_patricides
 
 
 patriotism
@@ -25027,6 +25486,19 @@ https://en.wikipedia.org/wiki/Poetry
 :: Other Parents
 
 
+poison murder in society
+========================
+
+:: Description
+The crime of murdering someone using poison is discussed.
+
+:: Parents
+crime and punishment
+
+:: References
+https://en.wikipedia.org/wiki/List_of_poisonings
+
+
 police brutality in society
 ===========================
 
@@ -25108,6 +25580,20 @@ contemporary social issue
 
 :: References
 https://en.wikipedia.org/wiki/Polarization_(politics)
+
+
+political purge
+===============
+
+:: Description
+The ruling body in a state institute a program aimed at killing or otherwise
+neutralizing potential political opponents.
+
+:: Parents
+contemporary social issue
+
+:: References
+https://en.wikipedia.org/wiki/Purge
 
 
 polygamy
@@ -26005,6 +26491,17 @@ annoyance, anger
 Plutchik-emotion
 
 
+raising a physically disabled child
+===================================
+
+:: Description
+The struggle of a parent to raise a child that has a significant physical
+disability of some sort, is featured.
+
+:: Parents
+parenting
+
+
 randomization
 =============
 
@@ -26208,15 +26705,15 @@ one-on-one interaction
 :: References
 https://en.wiktionary.org/wiki/reconciliation
 
-:: Aliases
-forgiveness
-
 :: Example
 Riker and his father Kyle reconciled their differences over a heated anbo-jyutsu match in tng2x14 "The Icarus Factor".
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+forgiveness
 
 
 reconciliation between two peoples
@@ -26641,6 +27138,19 @@ Captain Kirk was pitted in a fight to the death against a reptilian alien in tos
 
 :: Other Parents
 aliens
+
+
+republic vs. empire
+===================
+
+:: Description
+These two modes of government are contrasted and compared.
+
+:: Parents
+social dichotomy
+
+:: References
+https://en.wikipedia.org/wiki/Roman_Republic
 
 
 resentment
@@ -27611,6 +28121,19 @@ pensiveness, grief
 Plutchik-emotion
 
 
+sadomasochism
+=============
+
+:: Description
+
+
+:: Parents
+romantic love
+
+:: References
+https://en.wikipedia.org/wiki/Sadomasochism
+
+
 saving a friend vs. self-preservation
 =====================================
 
@@ -28414,14 +28937,14 @@ the battle of the sexes
 :: References
 https://en.wikipedia.org/wiki/Sexism
 
-:: Aliases
-gender discrimination
-
 :: Example
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+gender discrimination
 
 
 sexual awakening
@@ -28621,6 +29144,19 @@ https://en.wikipedia.org/wiki/Sibling_rivalry
 
 :: Other Parents
 juvenile
+
+
+siege warfare
+=============
+
+:: Description
+When and how to attacked a fortified enemy position in war is discussed.
+
+:: Parents
+the art of war
+
+:: References
+https://en.wikipedia.org/wiki/Siege#Siege_warfare
 
 
 signs from the heavens
@@ -29799,6 +30335,21 @@ Lore summoned such a creature to destroy the Enterprise-D in tng1x13 "Datalore".
 :: Related Themes
 
 :: Other Parents
+
+
+space station
+=============
+
+:: Description
+A spacecraft capable of supporting crewmembers, which is designed to remain in
+space for an extended period of time and for other spacecraft to dock is
+featured in a science fictional context.
+
+:: Parents
+mastering space
+
+:: References
+https://en.wikipedia.org/wiki/Space_station
 
 
 space stereotype
@@ -31493,6 +32044,19 @@ history
 
 :: References
 https://en.wikipedia.org/wiki/American_Civil_War
+
+
+the Christ story
+================
+
+:: Description
+The story of Jesus is discussed from a historical point of view.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Jesus
 
 
 the Cold War
@@ -34157,14 +34721,14 @@ by their own merits, rather than having it handed to them on a silver plate.
 :: Parents
 human need
 
-:: Aliases
-the desire to be independent,
-
 :: Example
 
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+the desire to be independent,
 
 
 the need to know one's roots
@@ -34760,7 +35324,8 @@ the science of heat
 ===================
 
 :: Description
-What "heat" is and how it works according to modern science is discussed. Loosely, heat is the random motion of atoms and molecules within an object.
+What "heat" is and how it works according to modern science is discussed.
+Loosely, heat is the random motion of atoms and molecules within an object.
 
 :: Parents
 topic in science
@@ -36106,21 +36671,6 @@ society
 :: Related Themes
 
 :: Other Parents
-
-
-teleportation device
-====================
-
-:: Description
-A fictional teleportation machine that convert a person or object into an
-energy pattern, and then beams it to a target, where it is reconverted into
-matter.
-
-:: Parents
-fictional apparatus
-
-:: References
-https://en.wikipedia.org/wiki/Transporter_(Star_Trek)
 
 
 transporter phobia
@@ -37835,6 +38385,17 @@ Captain Kirk and Spock became water breathers and froliced like fish in the ocea
 :: Other Parents
 
 
+what if I could travel around inside a human body
+=================================================
+
+:: Description
+We imagine what it would be like to be tiny and move around inside a human
+body.
+
+:: Parents
+what if I faced an incredible situation
+
+
 what if I couldn't trust the veracity of my senses
 ==================================================
 
@@ -38123,6 +38684,16 @@ what if I faced an incredible situation
 http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilHand
 
 
+what if I had extraordinary abilities
+=====================================
+
+:: Description
+We imagine what it'd be like to have a superpower or some such ability.
+
+:: Parents
+what if my life were different
+
+
 what if I had magical powers
 ============================
 
@@ -38164,6 +38735,17 @@ what if I faced an incredible situation
 https://tvtropes.org/pmwiki/pmwiki.php/Main/LastDayToLive
 
 
+what if I had psychic powers
+============================
+
+:: Description
+We imagine what it would be like to, for example, move objects or make others
+do our bidding with our thoughts.
+
+:: Parents
+what if I had extraordinary abilities
+
+
 what if I had super intelligence
 ================================
 
@@ -38179,6 +38761,16 @@ Barclay became so smart in tng4x19 "The Nth Degree" that he was able to teach ho
 :: Related Themes
 
 :: Other Parents
+
+
+what if I had super strength
+============================
+
+:: Description
+We imagine what it would be like to be extraordinarily strong.
+
+:: Parents
+what if I had extraordinary abilities
 
 
 what if I had the touch of death
@@ -38244,6 +38836,17 @@ To save their species the Scalosians had to mate with any strangers that happene
 :: Related Themes
 
 :: Other Parents
+
+
+what if I had to operate on myself
+==================================
+
+:: Description
+We imagine what it would be like to have to perform surgery or the like on
+ourself.
+
+:: Parents
+what if I faced an incredible situation
 
 
 what if I had to rely on a madman
@@ -38711,6 +39314,17 @@ A character is trapped in a void.
 what if I faced an incredible situation
 
 
+what if I was unkillable
+========================
+
+:: Description
+We imagine what it would be like to be more or less unkillable by ordinary
+means.
+
+:: Parents
+what if I had extraordinary abilities
+
+
 what if I was yanked out of my normal routine and sent on an important mission
 ==============================================================================
 
@@ -39015,6 +39629,16 @@ suddenly switched gender for some reason.
 
 :: Parents
 what if I faced an incredible situation
+
+
+what if my touch was deadly
+===========================
+
+:: Description
+We imagine what it would be like if anyone we touched died.
+
+:: Parents
+what if my life were different
 
 
 what if our fantasies become reality
@@ -39790,7 +40414,8 @@ woman's right to sleep with whomsoever she pleases
 ==================================================
 
 :: Description
-The liberal idea that women have an innate right to choose freely with whom they care to sleep (or not) is featured.
+The liberal idea that women have an innate right to choose freely with whom
+they care to sleep (or not) is featured.
 
 :: Parents
 the battle of the sexes
@@ -39994,6 +40619,17 @@ group interaction
 
 :: Other Parents
 the workplace
+
+
+workplace disgruntlement
+========================
+
+:: Description
+A character is angry or dissatisfied with their work to the extent that it
+begins to interfere with the normal operation of the workplace.
+
+:: Parents
+group interaction
 
 
 workplace relations
@@ -40293,6 +40929,17 @@ romantic relationship
 :: Other Parents
 
 
+young girl infatuation
+======================
+
+:: Description
+A young girl is infatuated with someone in a stereotypically young-girl kind
+of way.
+
+:: Parents
+infatuation
+
+
 young lovers
 ============
 
@@ -40362,6 +41009,5 @@ The Klingon Worf smashed Geordi's mandolin to smithereens in tng4x20 "Qpid".
 
 :: Other Parents
 aliens
-
 
 
