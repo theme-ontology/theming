@@ -36,8 +36,8 @@ There are a few rules of thumb:
 - Look mostly for central themes.
 - Prefer to use themes that are already defined.
 - Don't waste time including uninteresting minor themes but feel free to include what interests you.
-- Good themes are topics that are featured significantly in various different stories.
 - Don't introduce themes that are specific to a particular fictional universe; generalize them instead.
+- Good themes are topics that are featured significantly in various different stories.
 - Look for themes that are obvious and seem uncontroversial.
 - Look for themes that expose our human nature through the stories we tell.
 
