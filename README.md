@@ -6,29 +6,57 @@ http://www.themeontology.org/
 ## What is a Story?
 
 Any publicly known narrative that can be referenced and analyzed may be a "story" in this project.
+To be admissible, a story entry must merely:
 
+- Be unambiguously identifiable from the data entered, chiefly its date and title.
+- Be obtainable to anyone who wishes to review the themes of it.
+- Carry a reasonable expectation that the previous conditions will continue to hold for a very long time.
+
+Conventional published sources such as books and movies are nearly always acceptable.
+Any determined themer can purchase their copy from one vendor or another.
+Some examples of works that are not admissible have emerged:
+Lost works (commentary may exist that ellucidate themes but we have no way of reviewing the work for ourselves) are not accepted. 
+Works, such as many school essays, which may only be obtainable via some url online are generally not acceptable since urls frequently become broken.
 
 
 ## What is a Theme?
 
-A theme is any topic that is featured in a story.
-A central theme is a theme that is topical throughout most of the story, either because it is featured explicitly or because it is revealed as the "moral of the story" towards the end.
+A theme is any topic of interest that is featured in a story.
+A central theme is a theme that is topical throughout most of the story, either because it is featured continously or because it pertains to the main storyline in its entirity. 
+For example a "moral of the story" may be revealed only towards the end, yet is considered central because it is what most of the story was leading up to.
+
 A peripheral theme is any theme of interest that is featured briefly.
 In the notes, peripheral themes are called "minor". 
 Central themes are called "major" or "choice".
-Choice themes are whatever seems to be at the essence of the story.
+Choice themes are whatever the themer (a person actively engaged in assigning themes to stories) may care to consider truly important in the story.
 
 There are no strict rules for what makes a good theme to include.
-There are a few rules of thumb.
-Look mostly for major/choice themes.
-Prefer to use themes that are already defined.
-Don't waste time including uninteresting minor themes but feel free to include what interests you.
-Good themes are topics that are featured significantly in various different stories.
-Don't introduce themes that are specific to a particular fictional universe; generalize them instead.
-Look for themes that are obvious and seem uncontroversial.
-Look for themes that expose our human nature through the stories we tell.
+There are a few rules of thumb:
+
+- Look mostly for central themes.
+- Prefer to use themes that are already defined.
+- Don't waste time including uninteresting minor themes but feel free to include what interests you.
+- Good themes are topics that are featured significantly in various different stories.
+- Don't introduce themes that are specific to a particular fictional universe; generalize them instead.
+- Look for themes that are obvious and seem uncontroversial.
+- Look for themes that expose our human nature through the stories we tell.
 
 "The desire for vengeance", "the horrors of war", "faith vs. reason", "what if I had magical powers", are examples of good themes that we find in many different stories.
+
+
+## What is The Ontology?
+
+The ontology is a hierarhical ordering of a large number of themes such that:
+Theme A is "a parent" of theme B if whenever B is topical in a story, then A is also topical in that story.
+Thus if theme B is found in a story, theme A is there implicitly.
+Theme A is not explicitly added but many statistical analyses infer it from the presence of B to come up with interesting results.
+
+For example, "arms race" is a child of "war", which in turn is a child of "transnational social issues". 
+Whenever two large factions engage in an arms race in a story, all three of these themes become topical.
+
+The parentage (along with the longer written description) is part of the definition of a theme.
+So if the words "arms race" are interpreted in a way that does not imply "transnational social issue", then that interpretation is not in the scope for what this theme expresses.
+While it is hoped that the short sequence of words representing a theme should intuitively make matters clear, this is not always the case and the real definition of a theme is both its long description as well as its parentage and the long descriptions for all the parents.
 
 
 ## Why?
@@ -50,14 +78,6 @@ Use themes that are already defined in the first hand.
 Use the search tools on the "themes" page at the url above.
 Invent new themes when needed.
 
-### /canon
+### other subdirectories
 
-Any data on which there is broad consensus from the main contributors may be uploaded here.
-The idea is to keep this more or less in sync with the data on http://www.themeontology.org.
-
-### /auto
-
-Data committed into /notes will be automatically parsed and collated into tables here.
-Files ending in "st.txt" will be parsed.
-The idea is that any errors in formatting or undefined stories/themes should show up here.
-
+Are presently not in use in any important way.
