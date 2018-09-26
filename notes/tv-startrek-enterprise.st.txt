@@ -422,6 +422,7 @@ infatuation [Archer and Riaan.],
 :: Minor Themes
 appearance altering technology [Phlox made landing party look Akaali in facial appearance. The Malurians wore a form fitting masks to appear like an Akaali.],
 universal translator [Archer's universal translator broke down and he was unable to communicate with Riaan.],
+communicating with someone who speaks a different language [Archer's universal translator broke down and he was unable to communicate with Riaan.],
 
 :: Settings
 laboratory, woodland, town square,
@@ -1518,23 +1519,22 @@ Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Char
 the ethics of interfering in less advanced societies [The crew needed to retrieve a communicator that Malcolm lost on a pre-warp world in order to not contaminate their culture.],
 
 :: Major Themes
-past point of view [look at all these fancy gadgets],
-alien secretly living among us [Archer and Malcolm were discovered to be aliens by the inhabitants of a pre-warp civilization.],
 man vs. captivity [Archer and Malcolm were detained by soldiers who accused them of being enemy spies.],
 selfless service [Archer and Malcolm were prepared to be executed rather than reveal they were aliens to the inhabitants of a pre-warp world and risk contaminating their culture.],
 
 :: Minor Themes
+alien secretly living among us [Archer and Malcolm were discovered to be aliens by the inhabitants of a pre-warp civilization.],
+past point of view [The pre-warp aliens were impressed by all the communicator left by Malcolm.],
 appearance altering technology [Archer and Malcolm surgically altered to look like the pre-warp aliens.],
 beating one's self up [Malcolm was disappointed in himself over having lost a communicator on a pre-warp world.],
-what if I were invisible [Tucker's arm was turned invisible.],
-personal invisibility cloak [Tucker's arm was turned invisible.],
+what if I were invisible [Tucker's arm became invisible to everyone's amusement except for Tucker.],
 starship invisibility cloak [Tucker was studying a cloaked Suliban cell ship.],
 genetically engineered supersoldier [Archer and Malcolm pretended to be genetically engineered super soldiers while under interrogation.],
 facing one's own execution [Archer and Malcolm were sentenced to the gallows.],
-personal invisibility cloak [Tucker's arm became invisible to everyone's amusement except Tucker],
+coping with being tortured [Archer was beaten back and blue in the course of an interrogation.],
 
 :: Aliens
-Gosis' species
+Gosis' species,
 
 
 ent2x09
@@ -1562,22 +1562,18 @@ Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Char
 
 :: Choice Themes
 obsession [Everyone became really obsessed with one thing they were doing, including Archer with writing his speech, Tucker with modifying the captain's chair, Hoshi with cooking for the crew, Phlox with treating Mayweather for a headache, and Malcolm with his alert system.],
-obsessive-compulsive disorder [not really, but mooted for discussion PS: ipho nay],
-what if people around me started acting all weird [Everyone around T'Pol became strangely obsessed with the particular tasks they were working on. MO: not sure how to categorize the what-if question in a useful way PS we already have it],
-reed alert [],
+what if people around me started acting all weird [Everyone around T'Pol became strangely obsessed with the particular tasks they were working on.],
 
 :: Major Themes
 man vs. space anomaly [A trinary star system with a black hole was emitting radiation that made the Enterprise crew members become obsessed with trivial matters.],
 
 :: Minor Themes
-habitable planet in a trinary star system [A good chance to rename this theme "trinary star system"],
 black hole [The Enterprise crew were curious to investigate a black hole inside a trinary star system.],
 pleasure in cooking [Hoshi took became obsessed with cooking for the crew when she took over for Chef.],
 disciplined leadership vs. flexible leadership [Malcolm called Archer's comparatively lax command style into question and took matters into his own hands to improve discipline aboard Enterprise.],
 
-:: Collections
-
-:: References
+:: Other Keywords
+Reed alert {alert},
 
 
 ent2x10
@@ -1603,14 +1599,15 @@ Directed by: David Straiton. Story by: Rick Berman & Brannon Braga.
 Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato [object], Charles Tucker, Hoshi's Father,
 
 :: Choice Themes
-what if I were a ghost [Hoshi became invisible, much like a ghost, in the aftermath of her first trip through the transporter. Sato virtually became a ghost just like Ro and Geordi and a TNG episode],
-overcoming an inhibition [Hoshi overcame her fear of teleportation by stepping on to the alien transporter in order to save Enterprise.],
+what if I were a ghost [Hoshi became invisible, much like a ghost, in the aftermath of her first trip through the transporter.],
 facing one's darkest fear [Hoshi overcame her fear of teleportation by stepping on to the alien transporter in order to save Enterprise.],
 
 :: Major Themes
-teleportation device [Hoshi became invisible, much like a ghost, in the aftermath of her first trip through the transporter. A transporter malfunction rendered Hoshi the transporter was the source of all trouble in this story],
+teleportation device [A transporter malfunction rendered Hoshi the transporter was the source of all trouble in this story.],
+transporter phobia [Hoshi was fearful of using the transporter.],
 
 :: Minor Themes
+questioning one's sanity [Hoshi about whether she was really turning into a ghost.],
 survivor guilt [Tucker felt guilty over having let Hoshi go first thought the transporter.],
 remorse [Tucker felt guilty over having let Hoshi go first thought the transporter.],
 grief [Crew grieved over Hoshi.],
@@ -1618,9 +1615,9 @@ coping with the death of a colleague [Crew grieved over Hoshi.],
 father and daughter [Archer contacted Hoshi's father to deliver the bad news that she had died in a transporter mishap.],
 Morse code [Hoshi used Morse code to communicate with Archer when she was turned invisible.],
 
-
 :: Settings
 ancient ruin,
+
 
 ent2x11
 =======
@@ -1648,12 +1645,12 @@ Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Char
 
 :: Major Themes
 infatuation [Tucker and Princess Kaitaama became besotted with each other.],
-coping with a spoiled brat [Princess Kaitaama treated Tucker like one of her subjects. PS: major?],
+coping with a spoiled brat [Princess Kaitaama treated Tucker like one of her subjects.],
 
 :: Minor Themes
 helping a stranger in need [Archer went out of his way to help the Retellians repair their malfunctioning stasis pod.],
 hospitality [Archer showed exceptional hospitality by inviting the Retellians to dinner at his table and this was commented upon.],
-communicating with someone who speaks a different language [would perhaps be a useful theme? PS: i think that's could be productive. it's come up one several occasions in enterprise. could take a look back at the "universal translator" episodes.],
+communicating with someone who speaks a different language [Tucker and Princess Kaitaama were unable to understand one another because of a language barrier until he got his universal translator working.],
 cross cultural understanding [Tucker was taken aback by the regal condescending manner of Princess Kaitaama.],
 universal translator [Tucker needed the universal translator to communicate with Princess Kaitaama. rename to universal translation device? PS: sounds good],
 biological stasis technology [Princess Kaitaama was kept in stasis while she was being transported by the Retellians.],
@@ -1665,6 +1662,9 @@ swamp,
 
 :: Aliens
 Kriosian, Retellian,
+
+:: Other Keywords
+transport a dignitary [The Retellians were pretending to transport a Kriosian princess.],
 
 
 ent2x12
