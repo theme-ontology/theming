@@ -1536,8 +1536,7 @@ agreeable characteristic
 ========================
 
 :: Description
-The category of themes that illustrates character traits that are generally
-admirable and typically considered beneficial to society.
+A character trait that is generally admirable and typically considered beneficial to society is featured.
 
 :: Parents
 human characteristic
@@ -2132,8 +2131,7 @@ amicable disposition
 ====================
 
 :: Description
-The category of themes that illustrate positive attitudes we may have towards
-one another.
+A positive attitudes we may have towards one another is featured.
 
 :: Parents
 human disposition
@@ -2446,8 +2444,7 @@ antagonistic disposition
 ========================
 
 :: Description
-The category of themes that illustrate negative attitudes we may have towards
-one another.
+A negative attitudes we may have towards one another is featured.
 
 :: Parents
 human disposition
@@ -10556,8 +10553,7 @@ disagreeable characteristic
 ===========================
 
 :: Description
-The category of themes that illustrates character traits that are generally
-disagreeable and typically considered bad for society.
+A character traits that is generally disagreeable and typically considered bad for society is featured.
 
 :: Parents
 human characteristic
@@ -13194,7 +13190,7 @@ familial love
 =============
 
 :: Description
-The category of themes that pertain to love among family and friends.
+Featured is the sort of love shared among family and friends.
 
 :: Parents
 love
@@ -16369,8 +16365,7 @@ heavenly virtue
 ===============
 
 :: Description
-The category of themes that illustrate the traditional "heavenly virtues" of
-Christian theology.
+One of the traditional "heavenly virtues" of Christian theology is featured.
 
 :: Parents
 human emotion
@@ -16930,8 +16925,7 @@ human aspiration
 ================
 
 :: Description
-The category of themes that deal with our human hopes and dreams, and the
-question of what we want out of life.
+A basic human hope, dream, or the question of what we want out of life is featured.
 
 :: Parents
 purpose in life
@@ -17098,8 +17092,7 @@ human need
 ==========
 
 :: Description
-The category of themes that deal with the things we humans tend to need in
-order to consider ourselves healthy, content, and fulfilled in life.
+The things we humans tend to need in order to consider ourselves healthy, content, and fulfilled in life.
 
 :: Parents
 purpose in life
@@ -17133,7 +17126,7 @@ human pleasure
 ==============
 
 :: Description
-The category of themes that deal with human passions and pleasures.
+A character takes marked pleasure in an activity such as a hobby.
 
 :: Parents
 purpose in life
@@ -25513,7 +25506,7 @@ pleasant emotion
 ================
 
 :: Description
-Featured is an emotion that we typically enjoy having.
+A base human emotion that we typically enjoy having is featured.
 
 :: Parents
 human emotion
@@ -31322,7 +31315,7 @@ state of mind
 =============
 
 :: Description
-A complicated internal mental states that are not described as simple
+A complicated internal mental state that is not described as simple
 emotions, i.e., disorders and the like, is featured. "Depression" and
 "obsession" are illustrative examples.
 
