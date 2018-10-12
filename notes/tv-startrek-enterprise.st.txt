@@ -2079,7 +2079,7 @@ Directed by: Robert Duncan McNeill. Story by: Daniel McCarthy.
 3 <mikael>,
 
 :: Main Characters
-Jonathan Archer, Phlox [object], T'Pol, Malcolm Reed, Travis Mayweather [object], Hoshi Sato, Charles Tucker, Yolen, Trevix, Zepht, Hudak,
+Jonathan Archer, Phlox [object], T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Yolen, Trevix, Zepht, Hudak,
 
 :: Choice Themes
 racism in society [Phlox must treat a patient with racist views against his people.],
@@ -2127,12 +2127,12 @@ Directed by: LeVar Burton. Story by: Rick Berman & Brannon Braga.
 2003-04-30
 
 :: Ratings
+5 <paul>,
 
 :: Main Characters
-Jonathan Archer, Phlox [object], T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Drennik, Cogenitor, Veylo, Calla, Traistana,
+Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Drennik, Cogenitor, Veylo, Calla, Traistana,
 
 :: Choice Themes
-5 <paul>,
 
 :: Major Themes
 three-sexed species [Tucker was troubled by the fact that the Vissians were a three gender species.],
@@ -2164,8 +2164,7 @@ ent2x23
 Regeneration
 
 :: Description
-A group of Borg (from Star Trek: First Contact) are revived after a century
-frozen in the Arctic ice.
+A group of Borg drones are revived after a century frozen in the Arctic ice.
 
 Directed by: David Livingston. Story by: Mike Sussman & Phyllis Strong.
 
@@ -2173,16 +2172,33 @@ Directed by: David Livingston. Story by: Mike Sussman & Phyllis Strong.
 2003-05-07
 
 :: Ratings
+3 <paul>,
+
+:: Main Characters
+Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Maxwell Forrest, Williams, Drake, Rooney, Foster, Moninger,
 
 :: Choice Themes
 
 :: Major Themes
+cyborg [A team of archaeologists discovered some Borg drones frozen in ice inside the Arctic Circle.],
+revival long after death [Borg drones frozen in ice revived because of nanotechnology inside them.],
+attack from outer space by a powerful conquering alien race [Borg drones were sent to Earth over a century ago to conquer it and enslave the Human race, but ended up getting frozen in Arctic ice. Archer thought another invasion was coming in the future.],
 
 :: Minor Themes
+nanotechnology [The team of archaeologists observed nanotechnology working inside frozen Borg drones.],
+self-replicating nano-devices [Phlox and others were infected with Borg self-replicating nanoprobes that were transforming them into Borg drones.],
+tough decision [Should Archer attempt to rescue the Humans held on the Borg ship or destroy it with all aboard? T'Pol advised him to destroy the ship, but Archer attempted the rescue.],
+species transmutation [Archer mentioned that the Humans Borg captives were were no longer Human, as they had been transformed into Borg drones.],
+collective intelligence [Phlox described entering into the Borg collective mind.],
 
-:: Collections
+:: Settings
+glacier, futuristic cityscape,
 
-:: References
+:: Aliens
+Tarkalean, Borg,
+
+:: Other Keywords
+tactical alert <11:30>, find a cure [Phlox for his own Borg nanoprobe "infection".],
 
 
 ent2x24
