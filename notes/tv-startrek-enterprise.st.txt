@@ -1868,14 +1868,13 @@ Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Char
 
 :: Choice Themes
 time travel [The crew finds a derelict ship, which was bigger on the inside than on the outside, that was conjectured to be from the future.],
-stupid action shit [],
 
 :: Major Themes
-device bigger inside than outside [The crew discovered a tiny derelict ship that was bigger on the inside than on the outside, also it contained an enormous cistern.],
-time loop [People were re-experiencing events withe their memories partially, inexplicably, intact. Fro example, Tucker and Malcolm repeated variations of the same conversation over and over again.],
-time machine [The derelict ship discovered by the crew was conjectured to be a time machine that had traveled back from the future.],
 
 :: Minor Themes
+device bigger inside than outside [The crew discovered a tiny derelict ship that was bigger on the inside than on the outside, also it contained an enormous cistern.],
+time loop [People were re-experiencing events withe their memories partially, inexplicably, intact. For example, Tucker and Malcolm repeated variations of the same conversation over and over again.],
+time machine [The derelict ship discovered by the crew was conjectured to be a time machine that had traveled back from the future.],
 xenophobic isolationist alien [T'Pol warned Archer about the Tholians are an extremely xenophobic race.],
 
 :: Aliens
@@ -1883,6 +1882,7 @@ Tholian, Suliban, Vulcan,
 
 :: Other Keywords
 tactical alert <29:20>,
+
 
 ent2x17
 =======
@@ -1907,7 +1907,7 @@ Directed by: Allan Kroeker. Story by: John Shiban.
 Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kuroda Lor-ehn, Zoumas,
 
 :: Choice Themes
-man vs. captivity [Archer and Tucker were taken into custody by the Enolians on the charge of smuggling, and were being transferred to a penal colony where their vessel was taken over by a few of the prisoners. people were shackled in a slave ship of some sort],
+man vs. captivity [Archer and Tucker were taken into custody by the Enolians on the charge of smuggling, and were being transferred to a penal colony where their vessel was taken over by a few of the prisoners.],
 
 :: Major Themes
 the right to a fair trial [The prisoners were taken to a penal colony without much in the way of a fair treatment and there were complaints to this effect throughout.],
@@ -1945,18 +1945,15 @@ Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Char
 
 :: Choice Themes
 incorporeal alien [An incorporeal alien inhabited the body of Tucker and experienced the physical through his senses.],
-incorporeal point of view [An incorporeal alien inhabited the body of Tucker and experienced the physical through his senses.],
-body snatching [],
-body swapping alien [we already have this one],
-body swap [for discussion],
+body swapping alien [Incorporeal aliens entered the bodies of Enterprise crew members.],
 
 :: Major Themes
+incorporeal point of view [An incorporeal alien inhabited the body of Tucker and experienced the physical through his senses.],
 facing a ship takeover [Incorporeal aliens attempted to take over the Enterprise. it turned out that the wasps were in fact trying to take the ship over],
-alien with alien values [PS: We used this the the Imaginary Friend episode.],
-what if people around me started acting all weird [for discussion],
-tough decision [Archer was faced with deciding whether to escape leaving one third of the crew dead or stay and find a way for everyone to survive.],
 
 :: Minor Themes
+the calculus of human life [Archer was faced with deciding whether to escape leaving one third of the crew dead or stay and find a way for everyone to survive.],
+the good of the many vs. the needs of the few [Archer was faced with deciding whether to escape leaving one third of the crew dead or stay and find a way for everyone to survive.],
 out-of-body experience [Tucker had a series of out-of-body experiences in which he visited Florida.],
 the thirst for knowledge [The incorporeal aliens claimed to be curious about learning about what it is like to be corporeal and wished to learn about their own evolutionary past when they were corporeal.],
 
@@ -1988,23 +1985,23 @@ Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather [object]
 
 :: Choice Themes
 guilt and evidence [Archer was about to be convicted on flimsy evidence in a sham trial.],
-sham trials [placeholder: not sure how to capture it when a dysfunctional court is being clearly political, note: much as I'd like this was not quite a "show trial"],
-honor [Kolos openly questioned the honor of the Klingon tribunal, and wished to restore honor to his people. it turned out that Archer was honorable after all, and his lawyer found some honor as well],
+dysfunctional court system [The Klingon court system had become corrupted over time and Archer convinced his lawyer that it was in need of reform.],
 duty vs. conscience [Archer's lawyer Kolos was convinced by Archer to follow his conscience and uphold the traditional laws of the Klingon Empire.],
 sacrifice for one's beliefs [Archer risked getting into a conflict with the Klingon Empire by aiding the Arin'Sen refugees. Archer's lawyer Kolos took risks for Archer at his tribunal, and choose to stay in the mines in order to reform society in the end.],
 
 :: Major Themes
-oppression [Arin'Sen colonists were stripped of their resources and left with nothing by the Klingon Empire. PS: minor?],
-compassion vs. self-preservation [Archer chose to aid Arin'Sen refugees at the risk of getting into a conflict with the Klingon Empire.],
+honor [Kolos openly questioned the honor of the Klingon tribunal, and wished to restore honor to his people.],
 integrity [Archer's lawyer Kolos stood up for his beliefs at Archer's tribunal.],
 courage in the face of death [Archer's lawyer Kolos stayed in the mines knowing he might die.],
 man vs. captivity [Archer was held captive and put on trial by the Klingons.],
 legal proceedings [Archer was about to be convicted on flimsy evidence in a sham trial.],
 
 :: Minor Themes
+oppression [Arin'Sen colonists were stripped of their resources and left with nothing by the Klingon Empire.],
+compassion vs. self-preservation [Archer chose to aid Arin'Sen refugees at the risk of getting into a conflict with the Klingon Empire. Kolos might have felt compassion for Archer and that is why he risked his career to help him.],
 the presumption of innocence [Archer was told he must demonstrate his innocence at his tribunal.],
 social activism [Archer and his lawyer Kolos discussed how Kolos would stay behind in the mines and reforming the Klingon justice system.],
-coping with bad food [Archer was not a big fan of the food he was given in Klingon prison.],
+coping with bad cooking [Archer was not a big fan of the food he was given in Klingon prison.],
 off-world prison colony [Archer was sentenced to life working the mines on a moon in the Klingon Empire.],
 
 :: Aliens
@@ -2012,6 +2009,7 @@ Klingon, Arin'Sen,
 
 :: Other Keywords
 tactical alert <21:50>, courtroom drama [Archer was about to be convicted on flimsy evidence in a sham trial.],
+
 
 ent2x20
 =======
@@ -2048,7 +2046,7 @@ reunion with a loved one [Mayweather visited his mother and crew on his old fami
 stepping up to the task [Paul Mayweather had to step up to the task of being captain of his family cargo freighter after the untimely passing of his father.],
 
 :: Minor Themes
-what it is lie in zero g [Mayweather and Archer were conversing a zero gravity environment.],
+what it is lie in zero-g [Mayweather and Archer were conversing a zero gravity environment.],
 passion for classic films [Tucker was excited at the prospect of watching three classic Frankenstein horror films at ship movie night.],
 beating one's self up [Mayweather over not having said goodbye to his father before he passed away.],
 coping with the death of a spouse [Mayweather's mother over the death of her husband.],
