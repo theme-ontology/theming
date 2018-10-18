@@ -2360,6 +2360,7 @@ Suliban, Vulcan, Klingon,
 :: Other Keywords
 tactical alert <6:25>,
 
+
 ent3x01
 =======
 
@@ -2376,16 +2377,34 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 2003-09-10
 
 :: Ratings
+1 <paul>,
+
+:: Main Characters
+Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kessick, Jannar, Degra, Dolim, M. Romero, N. Kemper, J. Hayes,
 
 :: Choice Themes
 
 :: Major Themes
+multi-species alien [It was revealed that the Xindi are an alliance of five species that evolved on the same planet. Note: ent1x13 has two humnanoid species that evolved on the same planet.],
+man vs. captivity [Archer and Tucker were held prisoner by Kessick on an ice world.],
 
 :: Minor Themes
+insectoid [There was an insectoid sitting on the Xindi council.],
+group bonding [Hoshi made an effort to bond with the new military unit members stationed aboard Enterprise.],
+reptilian [Phlox uncovered that the crashed Xindi pilot was a reptilian.],
+coping with the death of a family member [Tucker coped with the death of his sister.],
+grief [Tucker coped with the death of his sister.],
+chain of command [Malcolm and the military unit commander came into conflict over who had authority over tactical operations.],
+man-made existential risk [crew came upon a planet that had been blown to bits. good chance to replace "attack from outer space by a world eating machine" with whatever theme we would use for the death star. also applied to the tos nomad episode.],
 
-:: Collections
+:: Settings
+cavern, sewer,
 
-:: References
+:: Aliens
+Xindi,
+
+:: Other Keywords
+tactical alert <19:35, 38:45>,
 
 
 ent3x02
