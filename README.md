@@ -8,9 +8,9 @@ http://www.themeontology.org/
 Any publicly known narrative that can be referenced and analyzed may be a "story" in this project.
 To be admissible, a story entry must merely:
 
-- Be unambiguously identifiable from the data entered, chiefly its date and title.
-- Be obtainable to anyone who wishes to review the themes of it.
-- Carry a reasonable expectation that the previous conditions will continue to hold for a very long time.
+- Unambiguously identify a story from the data entered, chiefly by date and title.
+- Indicate a story that's obtainable to anyone who wishes to review the themes of it.
+- Come with a reasonable expectation that the previous conditions will continue to hold for a very long time.
 
 Conventional published sources such as books and movies are nearly always acceptable.
 Any determined themer can purchase their copy from one vendor or another.
@@ -24,8 +24,8 @@ Works, such as many school essays, which may only be obtainable via some url onl
 A theme is any topic of interest that is featured in a story.
 A central theme is a theme that is topical throughout most of the story, either because it is featured continously or because it pertains to the main storyline in its entirity. 
 For example a "moral of the story" may be revealed only towards the end, yet is considered central because it is what most of the story was leading up to.
-
 A peripheral theme is any theme of interest that is featured briefly.
+
 In the notes, peripheral themes are called "minor". 
 Central themes are called "major" or "choice".
 Choice themes are whatever the themer (a person actively engaged in assigning themes to stories) may care to consider truly important in the story.
