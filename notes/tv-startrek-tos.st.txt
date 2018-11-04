@@ -4155,7 +4155,7 @@ McCoy, Scotty
 
 :: Choice Themes
 obsession [Decker with destroying the space worm] <Matt Decker>,
-attack from outer space by a world eating machine [],
+attack from outer space by a world eating machine [world eater] <Planet Eater Makers, Planet Eater, Planet Eater>,
 coping with the death of one's entire crew [Decker] <Matt Decker>,
 world eating machine [] <Planet Eater Makers, Planet Eater, Planet Eater>,
 
@@ -4164,7 +4164,6 @@ grief [Decker] <Matt Decker>,
 sacrifice for an obsession [Decker] <Matt Decker>,
 captain and crew's attachment to their ship [Kirk] <Kirk>,
 the desire for redemption [Decker] <Matt Decker>,
-annihilation by a doomsday device [world eater] <Planet Eater Makers, Planet Eater, Planet Eater>,
 descent into madness [Decker] <Matt Decker>,
 man vs. machine [space worm],
 
