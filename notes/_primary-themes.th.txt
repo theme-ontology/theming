@@ -4171,27 +4171,6 @@ spacecraft
 https://en.wikipedia.org/wiki/Bioship
 
 
-biological stasis technology
-============================
-
-:: Description
-Technology that can stop, e.g., a human body from aging or changing in any way
-for an extended amount of time.
-
-:: Parents
-human enhancement
-
-:: References
-https://en.wikipedia.org/wiki/Stasis_(fiction)
-
-:: Example
-Kamala the Metamorph was kept in a stasis device so that she wouldn’t upset the crew with her erotic powers in tng5x21 "The Perfect Mate".
-
-:: Related Themes
-
-:: Other Parents
-
-
 biological warfare
 ==================
 
@@ -9261,6 +9240,9 @@ https://en.wikipedia.org/wiki/Cryobiology
 :: Related Themes
 
 :: Other Parents
+
+:: Aliases
+biological stasis technology
 
 
 cryptid
@@ -31685,8 +31667,10 @@ human enhancement
 
 :: References
 https://en.wikipedia.org/wiki/Suspended_animation
+https://en.wikipedia.org/wiki/Stasis_(fiction)
 
 :: Example
+Kamala the Metamorph was kept in a stasis device so that she wouldn’t upset the crew with her erotic powers in tng5x21 "The Perfect Mate".
 
 :: Related Themes
 cryogenic technology
