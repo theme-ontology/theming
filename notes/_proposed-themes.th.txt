@@ -572,14 +572,14 @@ The seven (or thereabouts) deadly sins from Christian mythology are featured mor
 organized religion
 
 
-sub-orbital human spaceflight
-=============================
+sub-orbital spaceflight
+=======================
 
 :: Description
-A manned spacecraft reaches outer space, but its trajectory intersects the atmosphere or surface of the gravitating body from which it was launched, so that it will not complete one orbital revolution.
+A crewed or uncrewed spacecraft reaches outer space, but its trajectory intersects the atmosphere or surface of the gravitating body from which it was launched, so that it will not complete one orbital revolution.
 
 :: Parents
-mastering space
+space travel
 
 :: References
 https://en.wikipedia.org/wiki/Sub-orbital_spaceflight
@@ -1085,4 +1085,30 @@ space colonization
 
 :: References
 https://en.wikipedia.org/wiki/Colonization_of_Mars
+
+
+space travel
+============
+
+:: Description
+There is crewed or uncrewed travel in a spacecraft in outer space.
+
+:: Parents
+mastering space
+
+:: References
+https://en.wikipedia.org/wiki/Space_exploration
+
+
+orbital spaceflight
+===================
+
+:: Description
+A spaceflight in which a spacecraft is placed on a trajectory where it could remain in space for at least one orbit.
+
+:: Parents
+space travel
+
+:: References
+https://en.wikipedia.org/wiki/Orbital_spaceflight References
 
