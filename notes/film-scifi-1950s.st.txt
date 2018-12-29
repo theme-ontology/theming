@@ -5251,6 +5251,40 @@ giant lizard,
 extemporaneous song and verse,
 
 
+movie: The Head (1959)
+======================
+
+:: Title
+The Head
+
+:: Description
+After a professor suffers a fatal heart attack, the professor's assistant keeps his severed head alive using a special serum.
+
+:: Date
+1959-07-24
+
+:: References
+https://en.wikipedia.org/wiki/The_Head_(film)
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi, horror,
+
+:: Major Themes
+head in a jar [Dr. Ood kept Professor Abel's severed head alive using a special serum.],
+head transplant [Dr. Ood transplanted the head of Irene Sander onto the body of the dancer Lilly's beautiful body.],
+coping with being disfigured [Irene Sander was a hunchback.],
+
+:: Minor Themes
+romantic love [Paul and Lilly. Paul and Irene.],
+unrequited love [Dr. Ood at Irene.],
+having a skeleton in the closet [Stella was living under the alias Lilly as a stripper because she was wanted for having poisoned her husband.],
+jealousy [Dr. Ood was jealous of Paul over Irene.],
+
+
+
 movie: Have Rocket Will Travel (1959)
 =====================================
 
@@ -5536,6 +5570,7 @@ Aliens from the planet Natal launch a full scale invasion of Earth.
 https://en.wikipedia.org/wiki/Battle_in_Outer_Space
 
 :: Ratings
+2 <paul>,
 
 :: Genre
 sci-fi
@@ -5543,12 +5578,17 @@ sci-fi
 :: Major Themes
 attack from outer space by a powerful conquering alien race [Aliens from the planet Natal launch a full scale invasion of Earth.],
 transnational institution for peace [The nations of the world united against the alien invasion under the aegis of the United Nations.],
-romantic love [ and Etsuko.],
 
 :: Minor Themes
 space station [There was a manned space station in orbit around the Earth.],
 anti-gravity technology [The aliens were able to levitate objects using a ray that lowered temperature to absolute zero - it was alleged that objects at absolute zero were not affected by the force of gravity.],
 interplanetary space travel [Two manned rocket ships blasted off from Earth and touched down on the Moon.],
+mind control technology [The aliens used a cranial implant to mind control Iwamura.],
+romantic love [Katsumiya and Etsuko.],
+sacrifice for a friend [Iwamura gave his live on the Moon fighting the aliens so that his crew mates could blast off in their rocket ship and return to Earth.],
+
+:: Settings
+lunar regolith,
 
 :: Other Keywords
 flying saucer [The aliens flew around in flying saucers.],
