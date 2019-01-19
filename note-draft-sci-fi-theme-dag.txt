@@ -1,85 +1,85 @@
 1   literary theme                                                       
 2    °--science fictional theme                                          
 3        ¦--science fictional technology                                 
-4        ¦   ¦--miniaturization technology                               
-5        ¦   ¦--self-replicating machine                                 
-6        ¦   ¦--artificial intelligence                                  
-7        ¦   ¦   ¦--AI safeguards                                        
-8        ¦   ¦   ¦--android::1                                           
-9        ¦   ¦   ¦--archailect::1                                        
-10       ¦   ¦   ¦--cyborg::1                                            
-11       ¦   ¦   ¦--robot::1                                             
-12       ¦   ¦   ¦--replicant::1                                         
-13       ¦   ¦   ¦--virtual person::1                                    
-14       ¦   ¦   ¦--collective intelligence                              
-15       ¦   ¦   ¦--computer simulated war                               
-16       ¦   ¦   ¦--emergent intelligence                                
-17       ¦   ¦   ¦--sentient machine                                     
-18       ¦   ¦   ¦   ¦--sentient bomb::1                                 
-19       ¦   ¦   ¦   ¦--sentient space probe                             
-20       ¦   ¦   ¦   ¦--sentient computer                                
-21       ¦   ¦   ¦   ¦--sentient nanomachines                            
-22       ¦   ¦   ¦   ¦--autonomous sentient coworker                     
-23       ¦   ¦   ¦   °--autonomous sentient tool                         
-24       ¦   ¦   °--autonomous system                                    
-25       ¦   ¦       °--autonomous weapons system::1                     
-26       ¦   ¦--biological technology                                    
-27       ¦   ¦   ¦--biological machinery                                 
-28       ¦   ¦   ¦--biological computer                                  
-29       ¦   ¦   ¦--bioengineered pathogen                               
-30       ¦   ¦   °--biological spaceship                                 
-31       ¦   ¦--nanotechnology                                           
-32       ¦   ¦   °--self-replicating nano-machine                        
-33       ¦   ¦--brain-computer interface                                 
-34       ¦   ¦   ¦--plug-in learning                                     
-35       ¦   ¦   °--brain implant                                        
-36       ¦   ¦       ¦--brain stimulating implant::1                     
-37       ¦   ¦       °--cranial aggression implant::1                    
-38       ¦   ¦--spacetime changing technology                            
-39       ¦   ¦   ¦--time machine::1                                      
-40       ¦   ¦   ¦--space folding technology                             
-41       ¦   ¦   ¦--device bigger inside than outside                    
-42       ¦   ¦   ¦--time freezing machine                                
-43       ¦   ¦   °--history altering technology                          
-44       ¦   ¦--gravitation technology                                   
-45       ¦   ¦   ¦--anti-gravity technology                              
-46       ¦   ¦   °--artificial gravity technology                        
-47       ¦   ¦--vehicle                                                  
-48       ¦   ¦   ¦--self-driving car                                     
-49       ¦   ¦   ¦--flying car                                           
-50       ¦   ¦   ¦--flying boat                                          
-51       ¦   ¦   ¦--subterrene                                           
-52       ¦   ¦   ¦--submarine                                            
-53       ¦   ¦   ¦--airliner                                             
-54       ¦   ¦   ¦--airship                                              
-55       ¦   ¦   ¦--mobile life support box                              
-56       ¦   ¦   ¦--time machine::2                                      
-57       ¦   ¦   ¦--mind-controlled vehicle                              
-58       ¦   ¦   ¦--jet pack::1                                          
-59       ¦   ¦   °--spaceship                                            
-60       ¦   ¦       ¦--Bussard ramjet                                   
-61       ¦   ¦       ¦--modular spaceship                                
-62       ¦   ¦       ¦--multi-generational spaceship                     
-63       ¦   ¦       ¦--solar sail spaceship                             
-64       ¦   ¦       ¦--invisible spaceship::1                           
-65       ¦   ¦       ¦--unmanned spaceship                               
-66       ¦   ¦       ¦--ion drive spaceship                              
-67       ¦   ¦       ¦--intangible spaceship                             
-68       ¦   ¦       ¦--flying saucer                                    
-69       ¦   ¦       ¦--sleeper spaceship                                
-70       ¦   ¦       °--rocket ship                                      
-71       ¦   ¦           °--multistage rocket ship                       
-72       ¦   ¦--simulated reality                                        
-73       ¦   ¦   ¦--virtual reality choose your own adventure            
-74       ¦   ¦   ¦--virtual reality room                                 
-75       ¦   ¦   ¦--virtual reality sex                                  
-76       ¦   ¦   °--virtual reality suit::1                              
-77       ¦   ¦--matter manipulation technology                           
-78       ¦   ¦   ¦--matter duplicator                                    
-79       ¦   ¦   ¦--matter replicator                                    
-80       ¦   ¦   ¦--matter transmuter                                    
-81       ¦   ¦   ¦--food synthesizer                                     
-82       ¦   ¦   °--give-you-anything scanner                            
+4        ¦   ¦--self-replicating machine                                 
+5        ¦   ¦--artificial intelligence                                  
+6        ¦   ¦   ¦--AI safeguards                                        
+7        ¦   ¦   ¦--android::1                                           
+8        ¦   ¦   ¦--archailect::1                                        
+9        ¦   ¦   ¦--cyborg::1                                            
+10       ¦   ¦   ¦--robot::1                                             
+11       ¦   ¦   ¦--replicant::1                                         
+12       ¦   ¦   ¦--virtual person::1                                    
+13       ¦   ¦   ¦--collective intelligence                              
+14       ¦   ¦   ¦--computer simulated war                               
+15       ¦   ¦   ¦--emergent intelligence                                
+16       ¦   ¦   ¦--sentient machine                                     
+17       ¦   ¦   ¦   ¦--sentient bomb::1                                 
+18       ¦   ¦   ¦   ¦--sentient space probe                             
+19       ¦   ¦   ¦   ¦--sentient computer                                
+20       ¦   ¦   ¦   ¦--sentient nanomachines                            
+21       ¦   ¦   ¦   ¦--autonomous sentient coworker                     
+22       ¦   ¦   ¦   °--autonomous sentient tool                         
+23       ¦   ¦   °--autonomous system                                    
+24       ¦   ¦       °--autonomous weapons system::1                     
+25       ¦   ¦--biological technology                                    
+26       ¦   ¦   ¦--biological machinery                                 
+27       ¦   ¦   ¦--biological computer                                  
+28       ¦   ¦   ¦--bioengineered pathogen                               
+29       ¦   ¦   °--biological spaceship                                 
+30       ¦   ¦--nanotechnology                                           
+31       ¦   ¦   °--self-replicating nano-machine                        
+32       ¦   ¦--brain-computer interface                                 
+33       ¦   ¦   ¦--plug-in learning                                     
+34       ¦   ¦   °--brain implant                                        
+35       ¦   ¦       ¦--brain stimulating implant::1                     
+36       ¦   ¦       °--cranial aggression implant::1                    
+37       ¦   ¦--spacetime changing technology                            
+38       ¦   ¦   ¦--time machine::1                                      
+39       ¦   ¦   ¦--space folding technology                             
+40       ¦   ¦   ¦--device bigger inside than outside                    
+41       ¦   ¦   ¦--time freezing machine                                
+42       ¦   ¦   °--history altering technology                          
+43       ¦   ¦--gravitation technology                                   
+44       ¦   ¦   ¦--anti-gravity technology                              
+45       ¦   ¦   °--artificial gravity technology                        
+46       ¦   ¦--vehicle                                                  
+47       ¦   ¦   ¦--self-driving car                                     
+48       ¦   ¦   ¦--flying car                                           
+49       ¦   ¦   ¦--flying boat                                          
+50       ¦   ¦   ¦--subterrene                                           
+51       ¦   ¦   ¦--submarine                                            
+52       ¦   ¦   ¦--airliner                                             
+53       ¦   ¦   ¦--airship                                              
+54       ¦   ¦   ¦--mobile life support box                              
+55       ¦   ¦   ¦--time machine::2                                      
+56       ¦   ¦   ¦--mind-controlled vehicle                              
+57       ¦   ¦   ¦--jet pack::1                                          
+58       ¦   ¦   °--spaceship                                            
+59       ¦   ¦       ¦--Bussard ramjet                                   
+60       ¦   ¦       ¦--modular spaceship                                
+61       ¦   ¦       ¦--multi-generational spaceship                     
+62       ¦   ¦       ¦--solar sail spaceship                             
+63       ¦   ¦       ¦--invisible spaceship::1                           
+64       ¦   ¦       ¦--unmanned spaceship                               
+65       ¦   ¦       ¦--ion drive spaceship                              
+66       ¦   ¦       ¦--intangible spaceship                             
+67       ¦   ¦       ¦--flying saucer                                    
+68       ¦   ¦       ¦--sleeper spaceship                                
+69       ¦   ¦       °--rocket ship                                      
+70       ¦   ¦           °--multistage rocket ship                       
+71       ¦   ¦--simulated reality                                        
+72       ¦   ¦   ¦--virtual reality choose your own adventure            
+73       ¦   ¦   ¦--virtual reality room                                 
+74       ¦   ¦   ¦--virtual reality sex                                  
+75       ¦   ¦   °--virtual reality suit::1                              
+76       ¦   ¦--matter manipulation technology                           
+77       ¦   ¦   ¦--matter duplicator                                    
+78       ¦   ¦   ¦--matter replicator                                    
+79       ¦   ¦   ¦--matter transmuter                                    
+80       ¦   ¦   ¦--food synthesizer                                     
+81       ¦   ¦   ¦--give-you-anything scanner                            
+82       ¦   ¦   °--miniaturization technology                           
 83       ¦   ¦--weapon                                                   
 84       ¦   ¦   ¦--autonomous weapons system::2                         
 85       ¦   ¦   ¦--sentient bomb::2                                     
@@ -148,347 +148,299 @@
 148      ¦   ¦--body alteration                                          
 149      ¦   ¦   ¦--body swap                                            
 150      ¦   ¦   ¦--remote controlled person                             
-151      ¦   ¦   ¦--drug enhanced supersoldier                           
-152      ¦   ¦   ¦--species transmutation                                
-153      ¦   ¦   ¦--super growth serum                                                                         
-155      ¦   ¦   ¦--cloning                                              
-156      ¦   ¦   ¦--duplicate of a person                                
-157      ¦   ¦   ¦--accelerated growth rate                              
-158      ¦   ¦   ¦--rapid aging                                          
-159      ¦   ¦   ¦--devolution                                           
-160      ¦   ¦   ¦--external immune system                               
-161      ¦   ¦   ¦--super accelerated Darwinian evolution                
-162      ¦   ¦   ¦--appearance altering technology                       
-163      ¦   ¦   ¦--food pill                                            
-164      ¦   ¦   ¦--artificial organ                                     
-165      ¦   ¦   ¦   ¦--artificial blood                                 
-166      ¦   ¦   ¦   ¦--artificial gland                                 
-167      ¦   ¦   ¦   ¦--artificial heart                                 
-168      ¦   ¦   ¦   ¦--artificial human body                            
-169      ¦   ¦   ¦   °--artificial lungs                                 
-170      ¦   ¦   ¦--implanted device                                     
-171      ¦   ¦   ¦   ¦--brain stimulating implant::2                     
-172      ¦   ¦   ¦   ¦--cranial aggression implant::2                    
-173      ¦   ¦   ¦   ¦--pain implant                                     
-174      ¦   ¦   ¦   °--human implanted suicide weapon::2                
-175      ¦   ¦   ¦--body part transplant                                 
-176      ¦   ¦   ¦   ¦--brain transplant                                 
-177      ¦   ¦   ¦   ¦--eye transplant                                   
-178      ¦   ¦   ¦   ¦--fetal transplant                                 
-179      ¦   ¦   ¦   ¦--hand transplant                                  
-180      ¦   ¦   ¦   °--head transplant                                  
-181      ¦   ¦   ¦--disembodiment                                        
-182      ¦   ¦   ¦   ¦--disembodied brain                                
-183      ¦   ¦   ¦   °--disembodied head                                 
-184      ¦   ¦   ¦--life extension technology                            
-185      ¦   ¦   ¦   ¦--anti-aging technology                            
-186      ¦   ¦   ¦   ¦--retarded aging technology                        
-187      ¦   ¦   ¦   °--revival long after death                         
-188      ¦   ¦   ¦--disease cure                                         
-189      ¦   ¦   ¦   ¦--cure for acromegaly                              
-190      ¦   ¦   ¦   ¦--cure for Alzheimer's disease                     
-191      ¦   ¦   ¦   ¦--cure for cancer                                  
-192      ¦   ¦   ¦   ¦--cure for polio                                   
-193      ¦   ¦   ¦   ¦--cure for the common cold                         
-194      ¦   ¦   ¦   °--cure for tuberculosis                            
-195      ¦   ¦   ¦--prosthetic                                           
-196      ¦   ¦   ¦   ¦--face patch::2                                    
-197      ¦   ¦   ¦   °--perfect prosthetics::2                           
-198      ¦   ¦   °--genetic engineering                                  
-199      ¦   ¦       °--genetically enhanced person                      
-200      ¦   ¦           ¦--genetically engineered super person          
-201      ¦   ¦           °--genetically enhanced soldier                 
-202      ¦   ¦--mind alteration                                          
-203      ¦   ¦   ¦--mind reading                                         
-204      ¦   ¦   ¦--mind transfer                                        
-205      ¦   ¦   ¦--mind swap                                            
-206      ¦   ¦   ¦--mind uploading                                       
-207      ¦   ¦   ¦--mind-computer merging                                
-208      ¦   ¦   ¦--memory implantation                                  
-209      ¦   ¦   ¦   °--implanted memory punishment                      
-210      ¦   ¦   ¦--mind control technology                              
-211      ¦   ¦   ¦   °--mass mind control                                
-212      ¦   ¦   ¦--memory wipe                                          
-213      ¦   ¦   ¦   °--mind wipe punishment                             
-214      ¦   ¦   ¦--group mind                                           
-215      ¦   ¦   ¦   °--mind linking                                     
-216      ¦   ¦   °--psionic power                                        
-217      ¦   ¦       ¦--telepathic memory transfer                       
-218      ¦   ¦       ¦--telepathy                                        
-219      ¦   ¦       ¦--telekinesis                                      
-220      ¦   ¦       °--precognition                                     
-221      ¦   ¦--unclassified contraption                                 
-222      ¦   ¦   ¦--dream recorder                                       
-223      ¦   ¦   ¦--aging machine                                        
-224      ¦   ¦   ¦--automatic butchering machine                         
-225      ¦   ¦   ¦--automatic surgery machine                            
-226      ¦   ¦   ¦--rapid healing device                                 
-227      ¦   ¦   ¦--camera doorbell                                      
-228      ¦   ¦   ¦--flatscreen television                                
-229      ¦   ¦   ¦--flying drone                                         
-230      ¦   ¦   ¦--lie detector                                         
-231      ¦   ¦   ¦--machine dictation                                    
-232      ¦   ¦   ¦--sound masking                                        
-233      ¦   ¦   ¦--video phone                                          
-234      ¦   ¦   ¦--voice identification                                 
-235      ¦   ¦   ¦--X-ray machine                                        
-236      ¦   ¦   ¦--good luck machine                                    
-237      ¦   ¦   ¦--musical machine interface                            
-238      ¦   ¦   ¦--radiation neutralizer                                
-239      ¦   ¦   ¦--voice duplicator                                     
-240      ¦   ¦   °--super high-yield grain                               
-241      ¦   ¦--fields and beams                                         
-242      ¦   ¦   ¦--force field                                          
-243      ¦   ¦   ¦--paralysis field::2                                   
-244      ¦   ¦   °--tractor beam                                         
-245      ¦   °--engineering                                              
-246      ¦       ¦--large-scale engineering project                      
-247      ¦       ¦   ¦--artificial island::1                             
-248      ¦       ¦   ¦--asteroid deflector                               
-249      ¦       ¦   ¦--mining a planet from orbit                       
-250      ¦       ¦   ¦--space elevator                                   
-251      ¦       ¦   ¦--space library                                    
-252      ¦       ¦   ¦--space monument                                   
-253      ¦       ¦   ¦--space station                                    
-254      ¦       ¦   ¦--space telescope                                  
-255      ¦       ¦   ¦--sun gun::2                                       
-256      ¦       ¦   ¦--undersea tunnel                                  
-257      ¦       ¦   ¦--earthquake machine                               
-258      ¦       ¦   °--artificial city                                  
-259      ¦       ¦       ¦--domed city::1                                
-260      ¦       ¦       ¦--floating city::1                             
-261      ¦       ¦       ¦--underwater city::1                           
-262      ¦       ¦       °--arcology::1                                  
-263      ¦       ¦--planetary-scale engineering project                  
-264      ¦       ¦   ¦--artificial planet::1                             
-265      ¦       ¦   ¦--asteroid mining                                  
-266      ¦       ¦   ¦--geoengineered planet                             
-267      ¦       ¦   ¦--hollowed out asteroid habitat                    
-268      ¦       ¦   ¦--magical amusement planet                         
-269      ¦       ¦   ¦--military training moon                           
-270      ¦       ¦   ¦--off-world prison colony                          
-271      ¦       ¦   ¦--planetary invisibility cloak::2                  
-272      ¦       ¦   ¦--planet killing weapon                            
-273      ¦       ¦   ¦--planetary-scale machine                          
-274      ¦       ¦   ¦--terraformed planet::1                            
-275      ¦       ¦   ¦--world eating machine                             
-276      ¦       ¦   °--planetary weather control system                 
-277      ¦       ¦       °--planetary engineering                        
-278      ¦       °--astronomical-scale engineering project               
-279      ¦           ¦--galactic communication network                   
-280      ¦           ¦--stellar rejuvenation                             
-281      ¦           °--Dyson sphere                                     
-282      ¦--space colonization                                           
-283      ¦   ¦--society living in space                                  
-284      ¦   ¦--colonization of the Moon                                 
-285      ¦   ¦--colonization of Mars                                     
-286      ¦   °--terraformed planet::2                                    
-287      ¦--habitat                                                      
-288      ¦   ¦--arcology::2                                              
-289      ¦   ¦--desert planet                                            
-290      ¦   ¦--habitable asteroid                                       
-291      ¦   ¦--habitable moon                                           
-292      ¦   ¦--habitable planet in a binary star system                 
-293      ¦   ¦--habitable planet in a trinary star system                
-294      ¦   ¦--ice planet                                               
-295      ¦   ¦--ocean planet                                             
-296      ¦   ¦--parallel earth                                           
-297      ¦   ¦--twin earth                                               
-298      ¦   ¦--water planet to the core                                 
-299      ¦   ¦--domed city::2                                            
-300      ¦   ¦--floating city::2                                         
-301      ¦   ¦--underwater city::2                                       
-302      ¦   ¦--walking city                                             
-303      ¦   °--artificial world                                         
-304      ¦       ¦--artificial island::2                                 
-305      ¦       °--artificial planet::2                                 
-306      ¦--space region                                                 
-307      ¦   ¦--collapsing bubble universe                               
-308      ¦   ¦--edge of the universe                                     
-309      ¦   ¦--galactic barrier                                         
-310      ¦   ¦--multiverse                                               
-311      ¦   ¦--reverse universe                                         
-312      ¦   ¦--universe-in-a-box                                        
-313      ¦   °--parallel universe                                        
-314      ¦       °--parallel antimatter universe                         
-315      ¦--being                                                        
-316      ¦   ¦--dinosaur                                                 
-317      ¦   ¦--stock character                                          
-318      ¦   ¦   ¦--pirate character                                     
-319      ¦   ¦   ¦--super soldier                                        
-320      ¦   ¦   ¦--mad scientist                                        
-321      ¦   ¦   ¦--Nazi character                                       
-322      ¦   ¦   ¦   °--space Nazi                                       
-323      ¦   ¦   ¦--Ancient Roman character                              
-324      ¦   ¦   ¦   °--space Roman                                      
-325      ¦   ¦   °--Ancient Greek character                              
-326      ¦   ¦       °--space Greek                                      
-327      ¦   ¦--locationally distinguished being                         
-328      ¦   ¦   ¦--ooze dwelling being                                  
-329      ¦   ¦   ¦--thermophilic being                                   
-330      ¦   ¦   ¦--two-dimensional being::2                             
-331      ¦   ¦   ¦--extra-dimensional being::2                           
-332      ¦   ¦   ¦--dream walking being                                  
-333      ¦   ¦   ¦--extraterrestrial being                               
-334      ¦   ¦   ¦   ¦--Martian                                          
-335      ¦   ¦   ¦   ¦--Moon people                                      
-336      ¦   ¦   ¦   ¦--Neptunian extraterrestrial                       
-337      ¦   ¦   ¦   ¦--Venusian                                         
-338      ¦   ¦   ¦   ¦--Jovian extraterrestrial                          
-339      ¦   ¦   ¦   ¦--human-alien hybrid::1                            
-340      ¦   ¦   ¦   ¦--black hole being                                 
-341      ¦   ¦   ¦   ¦--gas giant being                                  
-342      ¦   ¦   ¦   ¦--two-dimensional being::1                         
-343      ¦   ¦   ¦   ¦--powerful conquering alien race                   
-344      ¦   ¦   ¦   ¦--xenophobic isolationist alien                    
-345      ¦   ¦   ¦   ¦--zoo making alien race                            
-346      ¦   ¦   ¦   ¦--multiple alien species evolved on the same planet
-347      ¦   ¦   ¦   ¦--extinct interstellar alien civilization          
-348      ¦   ¦   ¦   ¦--assimilating alien civilization                  
-349      ¦   ¦   ¦   ¦--culturally symbiotic alien races                 
-350      ¦   ¦   ¦   ¦--alien overseers                                  
-351      ¦   ¦   ¦   ¦--covert alien observers                           
-352      ¦   ¦   ¦   ¦--extra-dimensional being::1                       
-353      ¦   ¦   ¦   ¦--galactic being                                   
-354      ¦   ¦   ¦   ¦--mysterious maker alien race                      
-355      ¦   ¦   ¦   °--spacefaring aliens with primitive minds          
-356      ¦   ¦   ¦--subterranean being                                   
-357      ¦   ¦   ¦   ¦--mole men                                         
-358      ¦   ¦   ¦   °--bedrock dwelling being                           
-359      ¦   ¦   °--spaceborne being                                     
-360      ¦   ¦       ¦--giant space amoeba::1                            
-361      ¦   ¦       ¦--living spaceship                                 
-362      ¦   ¦       ¦--living space cloud::1                            
-363      ¦   ¦       ¦--space jellyfish                                  
-364      ¦   ¦       ¦--space protozoa                                   
-365      ¦   ¦       °--spacefaring plant                                
-366      ¦   ¦--biologically distinguished being                         
-367      ¦   ¦   ¦--bilaterally colored being                            
-368      ¦   ¦   ¦--childless reproducing being                          
-369      ¦   ¦   ¦--reverse aging being                                  
-370      ¦   ¦   ¦--symbiotic being                                      
-371      ¦   ¦   ¦--being composed of autonomous parts                   
-372      ¦   ¦   ¦--being that feeds on radiation                        
-373      ¦   ¦   ¦--sexually distinguished being                         
-374      ¦   ¦   ¦   ¦--cyclical mating cycle being                      
-375      ¦   ¦   ¦   ¦--lethal mating practice being                     
-376      ¦   ¦   ¦   ¦--gender neutral being                             
-377      ¦   ¦   ¦   °--multi-gendered being                             
-378      ¦   ¦   ¦--hybrid being                                         
-379      ¦   ¦   ¦   ¦--human-alien hybrid::2                            
-380      ¦   ¦   ¦   °--human-insect hybrid                              
-381      ¦   ¦   ¦--parasitic being                                      
-382      ¦   ¦   ¦   ¦--being that feeds on emotions                     
-383      ¦   ¦   ¦   ¦--invisible parasite                               
-384      ¦   ¦   ¦   ¦--life force draining being                        
-385      ¦   ¦   ¦   ¦--parasitic bug                                    
-386      ¦   ¦   ¦   °--neural parasite                                  
-387      ¦   ¦   ¦       °--brain memory virus                           
-388      ¦   ¦   °--inorganic being                                      
-389      ¦   ¦       ¦--crystalline being                                
-390      ¦   ¦       ¦--dark matter being                                
-391      ¦   ¦       ¦--electromagnetic being                            
-392      ¦   ¦       ¦--gaseous being                                   
-393      ¦   ¦       °--silicon-based being                              
-394      ¦   ¦--animal and plant patterned being                         
-395      ¦   ¦   ¦--avian being                                          
-396      ¦   ¦   ¦--canine being                                         
-397      ¦   ¦   ¦--chameleon-like being                                 
-398      ¦   ¦   ¦--crustacean-like being                                
-399      ¦   ¦   ¦--felinoid being                                       
-400      ¦   ¦   ¦--fish-like being                                      
-401      ¦   ¦   ¦--humanoid being                                       
-402      ¦   ¦   ¦--insectoid being                                      
-403      ¦   ¦   ¦--plant-like being                                     
-404      ¦   ¦   ¦--reptilian being                                      
-405      ¦   ¦   ¦--simian being                                         
-406      ¦   ¦   ¦--slug-like being                                      
-407      ¦   ¦   °--starfish-like being                                  
-408      ¦   ¦--artificial being                                         
-409      ¦   ¦   ¦--archailect::2                                        
-410      ¦   ¦   ¦--cyborg::2                                            
-411      ¦   ¦   ¦--replicant::2                                         
-412      ¦   ¦   ¦--android::2                                           
-413      ¦   ¦   ¦--robot::2                                             
-414      ¦   ¦   °--virtual person::2                                    
-415      ¦   ¦--shape distinguished being                                
-416      ¦   ¦   ¦--shapeshifter                                         
-417      ¦   ¦   ¦--blobform                                             
-418      ¦   ¦   ¦--brain-shaped being                                   
-419      ¦   ¦   °--incorporeal being                                    
-420      ¦   ¦--size distinguished being                                 
-421      ¦   ¦   ¦--Lilliputian                                          
-422      ¦   ¦   ¦--microscopic being                                    
-423      ¦   ¦   ¦   ¦--microscopic sentient being                       
-424      ¦   ¦   ¦   ¦--metal eating microscopic organism                
-425      ¦   ¦   ¦   °--subatomic bacteria                               
-426      ¦   ¦   °--large being                                          
-427      ¦   ¦       ¦--giant space amoeba::2                            
-428      ¦   ¦       ¦--living space cloud::2                            
-429      ¦   ¦       °--giant                                            
-430      ¦   ¦           ¦--giant woman                                  
-431      ¦   ¦           ¦--giant crab                                   
-432      ¦   ¦           °--giant mantis                                 
-433      ¦   ¦--god-like being                                           
-434      ¦   ¦   °--transcendental being                                 
-435      ¦   °--mentally distinguished being                             
-436      ¦       ¦--binary thinking being                                
-437      ¦       ¦--collectively intelligent being                       
-438      ¦       ¦--emergently intelligent being                         
-439      ¦       ¦--emotionless emotion craving being                    
-440      ¦       ¦--telepathic being                                     
-441      ¦       °--telepathically linked beings                         
-442      °--travel                                                       
-443          ¦--time travel                                              
-444          ¦   ¦--time loop                                            
-445          ¦   ¦--time portal                                          
-446          ¦   ¦--time speed up                                        
-447          ¦   ¦--reversed time                                        
-448          ¦   °--localized time distortion                            
-449          °--space travel                                             
-450              ¦--interplanetary space travel                          
-451              ¦--interstellar space travel                            
-452              ¦--orbital spaceflight                                  
-453              ¦--sub-orbital spaceflight                              
-454              ¦--wormhole                                             
-455              ¦--teleportation device::2                              
-456              ¦--take-you-anywhere gateway::2                         
-457              °--inter-dimensional travel                             
-458                  ¦--accessible extra dimension                       
-459                  ¦--2D space                                         
-460                  °--non-Euclidean space 
+151      ¦   ¦   ¦--species transmutation                                
+152      ¦   ¦   ¦--super growth serum                                   
+153      ¦   ¦   ¦--cloning                                              
+154      ¦   ¦   ¦--duplicate of a person                                
+155      ¦   ¦   ¦--accelerated growth rate                              
+156      ¦   ¦   ¦--rapid aging                                          
+157      ¦   ¦   ¦--devolution                                           
+158      ¦   ¦   ¦--external immune system                               
+159      ¦   ¦   ¦--super accelerated Darwinian evolution                
+160      ¦   ¦   ¦--genetic engineering                                  
+161      ¦   ¦   ¦--appearance altering technology                       
+162      ¦   ¦   ¦--food pill                                            
+163      ¦   ¦   ¦--artificial organ                                     
+164      ¦   ¦   ¦   ¦--artificial blood                                 
+165      ¦   ¦   ¦   ¦--artificial gland                                 
+166      ¦   ¦   ¦   ¦--artificial heart                                 
+167      ¦   ¦   ¦   ¦--artificial human body                            
+168      ¦   ¦   ¦   °--artificial lungs                                 
+169      ¦   ¦   ¦--implanted device                                     
+170      ¦   ¦   ¦   ¦--brain stimulating implant::2                     
+171      ¦   ¦   ¦   ¦--cranial aggression implant::2                    
+172      ¦   ¦   ¦   ¦--pain implant                                     
+173      ¦   ¦   ¦   °--human implanted suicide weapon::2                
+174      ¦   ¦   ¦--body part transplant                                 
+175      ¦   ¦   ¦   ¦--brain transplant                                 
+176      ¦   ¦   ¦   ¦--eye transplant                                   
+177      ¦   ¦   ¦   ¦--fetal transplant                                 
+178      ¦   ¦   ¦   ¦--hand transplant                                  
+179      ¦   ¦   ¦   °--head transplant                                  
+180      ¦   ¦   ¦--disembodiment                                        
+181      ¦   ¦   ¦   ¦--disembodied brain                                
+182      ¦   ¦   ¦   °--disembodied head                                 
+183      ¦   ¦   ¦--life extension technology                            
+184      ¦   ¦   ¦   ¦--anti-aging technology                            
+185      ¦   ¦   ¦   ¦--retarded aging technology                        
+186      ¦   ¦   ¦   °--revival long after death                         
+187      ¦   ¦   ¦--disease cure                                         
+188      ¦   ¦   ¦   ¦--cure for acromegaly                              
+189      ¦   ¦   ¦   ¦--cure for Alzheimer's disease                     
+190      ¦   ¦   ¦   ¦--cure for cancer                                  
+191      ¦   ¦   ¦   ¦--cure for polio                                   
+192      ¦   ¦   ¦   ¦--cure for the common cold                         
+193      ¦   ¦   ¦   °--cure for tuberculosis                            
+194      ¦   ¦   °--prosthetic                                           
+195      ¦   ¦       ¦--face patch::2                                    
+196      ¦   ¦       °--perfect prosthetics::2                           
+197      ¦   ¦--mind alteration                                          
+198      ¦   ¦   ¦--mind reading                                         
+199      ¦   ¦   ¦--mind transfer                                        
+200      ¦   ¦   ¦--mind swap                                            
+201      ¦   ¦   ¦--mind uploading                                       
+202      ¦   ¦   ¦--mind-computer merging                                
+203      ¦   ¦   ¦--memory implantation                                  
+204      ¦   ¦   ¦   °--implanted memory punishment                      
+205      ¦   ¦   ¦--mind control technology                              
+206      ¦   ¦   ¦   °--mass mind control                                
+207      ¦   ¦   ¦--memory wipe                                          
+208      ¦   ¦   ¦   °--mind wipe punishment                             
+209      ¦   ¦   ¦--group mind                                           
+210      ¦   ¦   ¦   °--mind linking                                     
+211      ¦   ¦   °--psionic power                                        
+212      ¦   ¦       ¦--telepathic memory transfer                       
+213      ¦   ¦       ¦--telepathy                                        
+214      ¦   ¦       ¦--telekinesis                                      
+215      ¦   ¦       °--precognition                                     
+216      ¦   ¦--fields and beams                                         
+217      ¦   ¦   ¦--force field                                          
+218      ¦   ¦   ¦--paralysis field::2                                   
+219      ¦   ¦   °--tractor beam                                         
+220      ¦   °--engineering                                              
+221      ¦       ¦--large-scale engineering project                      
+222      ¦       ¦   ¦--artificial island::1                             
+223      ¦       ¦   ¦--asteroid deflector                               
+224      ¦       ¦   ¦--mining a planet from orbit                       
+225      ¦       ¦   ¦--space elevator                                   
+226      ¦       ¦   ¦--space library                                    
+227      ¦       ¦   ¦--space monument                                   
+228      ¦       ¦   ¦--space station                                    
+229      ¦       ¦   ¦--space telescope                                  
+230      ¦       ¦   ¦--sun gun::2                                       
+231      ¦       ¦   ¦--undersea tunnel                                  
+232      ¦       ¦   ¦--earthquake machine                               
+233      ¦       ¦   °--artificial city                                  
+234      ¦       ¦       ¦--domed city::1                                
+235      ¦       ¦       ¦--floating city::1                             
+236      ¦       ¦       ¦--underwater city::1                           
+237      ¦       ¦       °--arcology::1                                  
+238      ¦       ¦--planetary-scale engineering project                  
+239      ¦       ¦   ¦--artificial planet::1                             
+240      ¦       ¦   ¦--asteroid mining                                  
+241      ¦       ¦   ¦--geoengineered planet                             
+242      ¦       ¦   ¦--hollowed out asteroid habitat                    
+243      ¦       ¦   ¦--magical amusement planet                         
+244      ¦       ¦   ¦--military training moon                           
+245      ¦       ¦   ¦--off-world prison colony                          
+246      ¦       ¦   ¦--planetary invisibility cloak::2                  
+247      ¦       ¦   ¦--planet killing weapon                            
+248      ¦       ¦   ¦--planetary-scale machine                          
+249      ¦       ¦   ¦--terraformed planet::1                            
+250      ¦       ¦   ¦--world eating machine                             
+251      ¦       ¦   °--planetary weather control system                 
+252      ¦       ¦       °--planetary engineering                        
+253      ¦       °--astronomical-scale engineering project               
+254      ¦           ¦--galactic communication network                   
+255      ¦           ¦--stellar rejuvenation                             
+256      ¦           °--Dyson sphere                                     
+257      ¦--space colonization                                           
+258      ¦   ¦--society living in space                                  
+259      ¦   ¦--colonization of the Moon                                 
+260      ¦   ¦--colonization of Mars                                     
+261      ¦   °--terraformed planet::2                                    
+262      ¦--habitat                                                      
+263      ¦   ¦--arcology::2                                              
+264      ¦   ¦--desert planet                                            
+265      ¦   ¦--habitable asteroid                                       
+266      ¦   ¦--habitable moon                                           
+267      ¦   ¦--habitable planet in a binary star system                 
+268      ¦   ¦--habitable planet in a trinary star system                
+269      ¦   ¦--ice planet                                               
+270      ¦   ¦--ocean planet                                             
+271      ¦   ¦--parallel earth                                           
+272      ¦   ¦--twin earth                                               
+273      ¦   ¦--water planet to the core                                 
+274      ¦   ¦--domed city::2                                            
+275      ¦   ¦--floating city::2                                         
+276      ¦   ¦--underwater city::2                                       
+277      ¦   ¦--walking city                                             
+278      ¦   °--artificial world                                         
+279      ¦       ¦--artificial island::2                                 
+280      ¦       °--artificial planet::2                                 
+281      ¦--space region                                                 
+282      ¦   ¦--collapsing bubble universe                               
+283      ¦   ¦--edge of the universe                                     
+284      ¦   ¦--galactic barrier                                         
+285      ¦   ¦--multiverse                                               
+286      ¦   ¦--reverse universe                                         
+287      ¦   ¦--universe-in-a-box                                        
+288      ¦   °--parallel universe                                        
+289      ¦       °--parallel antimatter universe                         
+290      ¦--being                                                        
+291      ¦   ¦--dinosaur                                                 
+292      ¦   ¦--stock character                                          
+293      ¦   ¦   ¦--pirate character                                     
+294      ¦   ¦   ¦--mad scientist                                        
+295      ¦   ¦   ¦--Nazi character                                       
+296      ¦   ¦   ¦   °--space Nazi                                       
+297      ¦   ¦   ¦--Ancient Roman character                              
+298      ¦   ¦   ¦   °--space Roman                                      
+299      ¦   ¦   ¦--Ancient Greek character                              
+300      ¦   ¦   ¦   °--space Greek                                      
+301      ¦   ¦   ¦--supersoldier                                         
+302      ¦   ¦   ¦   ¦--drug enhanced supersoldier                       
+303      ¦   ¦   ¦   °--genetically enhanced soldier::1                  
+304      ¦   ¦   °--genetically enhanced person                          
+305      ¦   ¦       ¦--genetically engineered super person              
+306      ¦   ¦       °--genetically enhanced soldier::2                  
+307      ¦   ¦--locationally distinguished being                         
+308      ¦   ¦   ¦--ooze dwelling being                                  
+309      ¦   ¦   ¦--thermophilic being                                   
+310      ¦   ¦   ¦--two-dimensional being::2                             
+311      ¦   ¦   ¦--extra-dimensional being::2                           
+312      ¦   ¦   ¦--dream walking being                                  
+313      ¦   ¦   ¦--extraterrestrial being                               
+314      ¦   ¦   ¦   ¦--Martian                                          
+315      ¦   ¦   ¦   ¦--Moon people                                      
+316      ¦   ¦   ¦   ¦--Neptunian extraterrestrial                       
+317      ¦   ¦   ¦   ¦--Venusian                                         
+318      ¦   ¦   ¦   ¦--Jovian extraterrestrial                          
+319      ¦   ¦   ¦   ¦--human-alien hybrid::1                            
+320      ¦   ¦   ¦   ¦--black hole being                                 
+321      ¦   ¦   ¦   ¦--gas giant being                                  
+322      ¦   ¦   ¦   ¦--two-dimensional being::1                         
+323      ¦   ¦   ¦   ¦--powerful conquering alien race                   
+324      ¦   ¦   ¦   ¦--xenophobic isolationist alien                    
+325      ¦   ¦   ¦   ¦--zoo making alien race                            
+326      ¦   ¦   ¦   ¦--multiple alien species evolved on the same planet
+327      ¦   ¦   ¦   ¦--alien civilization                               
+328      ¦   ¦   ¦   ¦--extinct interstellar alien civilization          
+329      ¦   ¦   ¦   ¦--assimilating alien civilization                  
+330      ¦   ¦   ¦   ¦--culturally symbiotic alien races                 
+331      ¦   ¦   ¦   ¦--alien overseers                                  
+332      ¦   ¦   ¦   ¦--covert alien observers                           
+333      ¦   ¦   ¦   ¦--extra-dimensional being::1                       
+334      ¦   ¦   ¦   ¦--galactic being                                   
+335      ¦   ¦   ¦   ¦--mysterious maker alien race                      
+336      ¦   ¦   ¦   °--spacefaring aliens with primitive minds          
+337      ¦   ¦   ¦--subterranean being                                   
+338      ¦   ¦   ¦   ¦--mole men                                         
+339      ¦   ¦   ¦   °--bedrock dwelling being                           
+340      ¦   ¦   °--spaceborne being                                     
+341      ¦   ¦       ¦--giant space amoeba::1                            
+342      ¦   ¦       ¦--living spaceship                                 
+343      ¦   ¦       ¦--living space cloud::1                            
+344      ¦   ¦       ¦--space jellyfish                                  
+345      ¦   ¦       ¦--space protozoa                                   
+346      ¦   ¦       °--spacefaring plant                                
+347      ¦   ¦--biologically distinguished being                         
+348      ¦   ¦   ¦--bilaterally colored being                            
+349      ¦   ¦   ¦--childless reproducing being                          
+350      ¦   ¦   ¦--reverse aging being                                  
+351      ¦   ¦   ¦--symbiotic being                                      
+352      ¦   ¦   ¦--being composed of autonomous parts                   
+353      ¦   ¦   ¦--being that feeds on radiation                        
+354      ¦   ¦   ¦--sexually distinguished being                         
+355      ¦   ¦   ¦   ¦--cyclical mating cycle being                      
+356      ¦   ¦   ¦   ¦--lethal mating practice being                     
+357      ¦   ¦   ¦   ¦--gender neutral being                             
+358      ¦   ¦   ¦   °--multi-gendered being                             
+359      ¦   ¦   ¦--hybrid being                                         
+360      ¦   ¦   ¦   ¦--human-alien hybrid::2                            
+361      ¦   ¦   ¦   °--human-insect hybrid                              
+362      ¦   ¦   ¦--parasitic being                                      
+363      ¦   ¦   ¦   ¦--being that feeds on emotions                     
+364      ¦   ¦   ¦   ¦--invisible parasite                               
+365      ¦   ¦   ¦   ¦--life force draining being                        
+366      ¦   ¦   ¦   ¦--parasitic bug                                    
+367      ¦   ¦   ¦   °--neural parasite                                  
+368      ¦   ¦   ¦       °--brain memory virus                           
+369      ¦   ¦   °--inorganic being                                      
+370      ¦   ¦       ¦--crystalline being                                
+371      ¦   ¦       ¦--dark matter being                                
+372      ¦   ¦       ¦--electromagnetic being                            
+373      ¦   ¦       ¦--gaseous being                                    
+374      ¦   ¦       °--silicon-based being                              
+375      ¦   ¦--animal and plant patterned being                         
+376      ¦   ¦   ¦--avian being                                          
+377      ¦   ¦   ¦--canine being                                         
+378      ¦   ¦   ¦--chameleon-like being                                 
+379      ¦   ¦   ¦--crustacean-like being                                
+380      ¦   ¦   ¦--felinoid being                                       
+381      ¦   ¦   ¦--fish-like being                                      
+382      ¦   ¦   ¦--humanoid being                                       
+383      ¦   ¦   ¦--insectoid being                                      
+384      ¦   ¦   ¦--plant-like being                                     
+385      ¦   ¦   ¦--reptilian being                                      
+386      ¦   ¦   ¦--simian being                                         
+387      ¦   ¦   ¦--slug-like being                                      
+388      ¦   ¦   °--starfish-like being                                  
+389      ¦   ¦--artificial being                                         
+390      ¦   ¦   ¦--archailect::2                                        
+391      ¦   ¦   ¦--cyborg::2                                            
+392      ¦   ¦   ¦--replicant::2                                         
+393      ¦   ¦   ¦--android::2                                           
+394      ¦   ¦   ¦--robot::2                                             
+395      ¦   ¦   °--virtual person::2                                    
+396      ¦   ¦--shape distinguished being                                
+397      ¦   ¦   ¦--shapeshifter                                         
+398      ¦   ¦   ¦--blobform                                             
+399      ¦   ¦   ¦--brain-shaped being                                   
+400      ¦   ¦   °--incorporeal being                                    
+401      ¦   ¦--size distinguished being                                 
+402      ¦   ¦   ¦--Lilliputian                                          
+403      ¦   ¦   ¦--microscopic being                                    
+404      ¦   ¦   ¦   ¦--microscopic sentient being                       
+405      ¦   ¦   ¦   ¦--metal eating microscopic organism                
+406      ¦   ¦   ¦   °--subatomic bacteria                               
+407      ¦   ¦   °--large being                                          
+408      ¦   ¦       ¦--giant space amoeba::2                            
+409      ¦   ¦       ¦--living space cloud::2                            
+410      ¦   ¦       °--giant                                            
+411      ¦   ¦           ¦--giant woman                                  
+412      ¦   ¦           ¦--giant crab                                   
+413      ¦   ¦           °--giant mantis                                 
+414      ¦   ¦--god-like being                                           
+415      ¦   ¦   °--transcendental being                                 
+416      ¦   °--mentally distinguished being                             
+417      ¦       ¦--binary thinking being                                
+418      ¦       ¦--collectively intelligent being                       
+419      ¦       ¦--emergently intelligent being                         
+420      ¦       ¦--emotionless emotion craving being                    
+421      ¦       ¦--telepathic being                                     
+422      ¦       °--telepathically linked beings                         
+423      °--travel                                                       
+424          ¦--time travel                                              
+425          ¦   ¦--time loop                                            
+426          ¦   ¦--time portal                                          
+427          ¦   ¦--time speed up                                        
+428          ¦   ¦--reversed time                                        
+429          ¦   °--localized time distortion                            
+430          °--space travel                                             
+431              ¦--interplanetary space travel                          
+432              ¦--interstellar space travel                            
+433              ¦--orbital spaceflight                                  
+434              ¦--sub-orbital spaceflight                              
+435              ¦--wormhole                                             
+436              ¦--teleportation device::2                              
+437              ¦--take-you-anywhere gateway::2                         
+438              °--inter-dimensional travel                             
+439                  ¦--accessible extra dimension                       
+440                  ¦--2D space                                         
+441                  °--non-Euclidean space
 
 
-
-
-UNCATEGORIZED NOVEL SCI-FI CONCEPT THEMES
-	reversed Newtonian mechanics
-	anti-time phenomenon
-	world with deja vu
-	biological computer virus
-	alien civilization
-	asteroid belt
-	binary pulsar
-	binary star system
-	black hole
-	comet
-	dark matter nebula
-	gas giant collision
-	globular cluster
-	intergalactic void
-	micro black hole
-	nebula
-	neutron star
-	pulsar
-	quasar
-	red giant
-	rogue comet
-	rogue planet
-	star desert
-	stellar nursery
-	supernova
-	tidally locked planet
-	wormhole
 
 NOVEL ALIEN CONCEPT THEMES TO DISCUSS FOR DELETION
 	alien with the body of a toddler
@@ -520,6 +472,56 @@ NOVEL ALIEN CONCEPT THEMES TO DISCUSS FOR DELETION
 	ultra-rational alien
 	pure evil alien
 	unrememberable alien
+	
+
+UNCATEGORIZED NOVEL SCI-FI CONCEPT THEMES
+	dream recorder                                       
+	aging machine                                        
+	automatic butchering machine                         
+	automatic surgery machine                            
+	rapid healing device                                 
+	camera doorbell                                      
+	flatscreen television                                
+	flying drone                                         
+	lie detector                                         
+	machine dictation                                    
+	sound masking                                        
+	video phone                                          
+	voice identification                                 
+	X-ray machine                                        
+	good luck machine                                    
+	musical machine interface                            
+	radiation neutralizer                                
+	voice duplicator                                     
+	super high-yield grain
+	reversed Newtonian mechanics
+	anti-time phenomenon
+	world with deja vu
+	biological computer virus
+	asteroid belt
+	binary pulsar
+	binary star system
+	black hole
+	comet
+	dark matter nebula
+	gas giant collision
+	globular cluster
+	intergalactic void
+	micro black hole
+	nebula
+	neutron star
+	pulsar
+	quasar
+	red giant
+	rogue comet
+	rogue planet
+	star desert
+	stellar nursery
+	supernova
+	tidally locked planet
+	wormhole
+
+
 
  
 
