@@ -99,7 +99,6 @@ blackmail [Quark nearly blackmailed Harry Kim into buying trinkets],
 coping with having a bad reputation [Tom],
 coping with the rigors of command [Janeway about getting crew home],
 desert planet [],
-exceedingly avaricious alien [Quark the Ferengi],
 gluttony [Neelix feasted using food replicator],
 heroism [Tom and Neelix stay behind to rescue Janeway team],
 husband and wife [Janeway and hers],
@@ -363,7 +362,6 @@ The Doctor, Janeway, B'Elanna, Chakotay, Harry Kim, Tom Paris, Tuvok
 :: Choice Themes
 coping with a terminal illness [Neelix with lungitis],
 killing to survive [Vidiians had to harvest organs to survive],
-organ harvesting alien [Vidiian],
 
 :: Major Themes
 coping with a loved one being terminally ill [Kes about Neelix],
@@ -446,7 +444,8 @@ Janeway [object], Chakotay, Tom Paris, Harry Kim
 Neelix, B'Elanna, The Doctor, Tuvok, Kes, Gaunt Gary
 
 :: Choice Themes
-space cloud life form [],
+space cloud life form [There was a living nebula.],
+gaseous life form [There was a living nebula.],
 taking responsibility for one's actions [Janeway tries to make amends for accidentally hurting the nebula alien, like space whale episode],
 
 :: Major Themes
@@ -1133,7 +1132,6 @@ we need our darker emotions in moderation [B'Elanna discovered],
 :: Major Themes
 being ashamed of who you are [B'Elanna of being half Klingon as a child],
 killing to survive [Viidians about needing to harvest organs to survive],
-organ harvesting alien [],
 what if I met my double [B'Elanna],
 
 :: Minor Themes
@@ -1482,7 +1480,6 @@ peer pressure [Kar pressured to kill Chakotay],
 rite of passage into manhood [Kar must kill a man to be recognized as an adult],
 sacrifice for an adversary [Chakotay refuses to kill Kar at his own peril],
 the desire for glory in battle [Kar],
-über-belligerent alien [Kazon],
 
 :: Minor Themes
 anarchy vs. rule of law [Chakotay debates values with Kazon],
@@ -2394,7 +2391,6 @@ Tuvok, Harry Kim, Neelix, The Doctor, Automated Unit 6263, Chakotay, Tom Paris, 
 :: Choice Themes
 the ethics of interfering in the internal affairs of other powers [Janeway would not give technology to mechanical men],
 helping a stranger in need [B'Elanna helped the mechanical man but the conclusion was that sometimes you get burned],
-race of mechanical men [a race of mechanical men turned on their makers],
 mechanical man [a race of mechanical men turned on their makers],
 rise of the machines [the mechanical men],
 autonomous weapons system [the mechanical men],
@@ -3102,7 +3098,6 @@ what if I met my double [Janeway],
 :: Minor Themes
 amazement [Janeway meets Janeway],
 handheld organ extractor [Vidiian gizmo],
-organ harvesting alien [Vidiian],
 stubbornness [both Janeways],
 
 :: Notes
@@ -3171,7 +3166,6 @@ dealing with children [Tuvok with children],
 
 :: Major Themes
 coming to terms with one's impending death [the children come to understand they must die],
-ultra-rational alien [Vulcan],
 facing being stranded [Tuvok on moon],
 facing one's darkest fear [children over the beast],
 man vs. beast [Tuvok and children vs. morrok],
@@ -3523,7 +3517,6 @@ coping with being a cuckold [Culluh],
 decoy tactic [Voyager used holographic double of ship],
 facing being stranded [crew marooned on planet by Kazon],
 man vs. nature [surviving on the planet],
-patriarchal alien [Kazon],
 patriarchy [Kazon],
 pleasure in floriculture [Tuvok with their orchids],
 pleasure in horticulture [Lon Suder],
@@ -4513,8 +4506,7 @@ Janeway [object], Neelix, The Doctor
 B'Elanna, Tom Paris, Harry Kim, Chakotay, Kes, Tak Tak consul, Garan miner
 
 :: Choice Themes
-facing a pandemic [],
-virus that grows into large creature [the macroscopic virus],
+facing a pandemic [There was a viral outbreak on Voyager.],
 
 :: Major Themes
 man vs. beast [Doctor vs. macroscopic virus],
@@ -5386,7 +5378,6 @@ mother and son [Charlene and Jeffrey],
 parental pride [The Doctor of his holo-children],
 tardiness [Jeffrey],
 teenage angst [Jeffrey rebelled by embracing Klingon culture],
-über-belligerent alien [holo-Klingons],
 
 :: Notes
 
@@ -5538,7 +5529,6 @@ Tom Paris, B'Elanna, Janeway
 Tuvok, Harry Kim, Jarlath, Rislan, Taleen, Ensign Lang, Neelix, Kes, Dammar, Chakotay
 
 :: Choice Themes
-imperialistic conscientious alien [the Nyrians kept their conquered enemies in nice habitats],
 
 :: Major Themes
 bird in a gilded cage [Voyager crew and Jarleth],
@@ -5709,8 +5699,7 @@ biological spaceship [Species 8472 ships biologically regenerated],
 coping with a loved one being terminally ill [all and sundry with Harry],
 creativity [Janeway with do Vinci],
 cyborg [the Borg],
-exceedingly ruthless alien [Species 8472 wishes to exterminate humanoid infestation],
-nanotechnology [],
+nanotechnology [There were Borg nano-probes.],
 planet killing weapon [used by Species 8472],
 precognition [Kes had premonitions that were confirmed by Chakotay on Borg cube],
 the nature of creativity [Janeway with da Vincy],
@@ -6870,7 +6859,6 @@ clash of wills [The Doctor and Mark II, B'Elanna and Seven],
 
 :: Minor Themes
 manners [B'Elanna lectured Seven; Mark II was keen about manners],
-exceedingly devious alien [Romulans],
 prickliness [Mark II],
 rudeness [Seven in B'Elanna's view],
 coping with bad cooking [Neelix gave two crewmemebrs heartburn],
@@ -6943,7 +6931,6 @@ coping with being separated from someone you love [Janeway from her boyfriend an
 hope [rekindled hope in case of people back home],
 coping with the defeat of one's people [The Maquis and B'Elanna in particular],
 coping with the death of a fellow compatriot [B'Elanna about fallen Maquis comrades],
-trophy hunting alien [Hirogen],
 galactic communication network [Hirogen relay network],
 
 :: Minor Themes
@@ -7024,7 +7011,6 @@ compassion vs. self-preservation [helping species 8472 at great risk to crew],
 
 :: Major Themes
 pleasure in hunting [Hirogen],
-trophy hunting alien [Hirogen],
 chain of command [Seven ignored],
 order vs. freedom [Seven becomes too individualistic for Janeway's hierarchy],
 a common enemy unites [Species 8472 united humans and Hirogen in a common cause],
@@ -7190,7 +7176,6 @@ what it is like to live through a military occupation [Voyager crew members live
 space Nazis [Hirogen for all intents and purposes],
 pleasure in hunting [Karr took pleasure in hunting down the French Resistance],
 facing a ship takeover [Harry and The Doctor face Hirogen takeover of Voyager],
-trophy hunting alien [Hirogen],
 simulated hunting [Karr had master plan to use holodeck technology to save his civilization],
 predator vs. prey [Hirogen preyed on Voyager crew],
 World War II [German occupation of France reenacted on holodeck],
@@ -7275,7 +7260,6 @@ pleasure in hunting [Karr took pleasure in hunting down the French Resistance],
 facing a ship takeover [Hirogen takeover of Voyager],
 the French Resistance [history theme],
 what it is like to live through a military occupation [Voyager crew members lived in France during Nazi occupation],
-trophy hunting alien [Hirogen],
 space Nazis [Hirogen for all intents and purposes],
 simulated hunting [Karr had masterplan to use holodeck technology to save his civilization],
 virtual reality room [German occupation of France reenacted on holodeck],
@@ -7287,7 +7271,6 @@ World War II [German occupation of France reenacted on holodeck],
 romantic love [Tom and B'Elanna],
 trust in a potential foe [Tuvok suspected Seven was a German spy],
 love triangle [B'Elanna/Tom/the Kapitan],
-über-belligerent alien [simulated Klingons],
 Nazism [the Kapitan laid into the German supremacy pretty hard],
 gluttony [Klingon feasting],
 mind-computer merging [the neural interface to connect people to holodeck],
@@ -7362,7 +7345,6 @@ feeling tied down in a relationship [Tom by B'Elanna],
 figuring out what to do with one's life [Tom was trying to, also hints that Steth couldn't figure out what to do with his life],
 
 :: Major Themes
-body swapping alien [Steth],
 body swap [Tom and Steth swapped bodies],
 male fear of commitment [Tom in relationship with B'Elanna],
 
@@ -7519,7 +7501,6 @@ romantic love [Kellin and Chakotay],
 what if my lover suddenly couldn't remember me [happened first to Kellin and then to Chakotay],
 
 :: Major Themes
-unrememberable alien [Ramuran used pheromones to make people forget about them],
 xenophobic isolationist alien [Ramuran],
 trust in a potential foe [Chakotay tried to decide whether Kellin could be trusted],
 
@@ -8905,7 +8886,6 @@ forbidden love [young Tuvok and Tarrelian and Tuvok and Noss since Tuvok was mar
 facing being stranded [Tom, Tuvok, and The Doctor on desert planet],
 man vs. nature [shuttlecraft crew on desert planet],
 what if I were stranded without food and water [Tom, Tuvok, and The Doctor on desert planet],
-ultra-rational alien [Vulcans],
 coping with rejection [Noss rejected by Tuvok],
 self-control [young Tuvok learns to control his feelings of love],
 repressing one's desires [young Tuvok learns to control his feelings of love],
@@ -10994,7 +10974,6 @@ hubris [Doctor not as good as he thought he was],
 choosing between job opportunities [The Doctor about leaving Voyager to pursue musical career on Qomar homeworld],
 
 :: Major Themes
-musicless alien race [the Qomar were shocked to hear The Doctor sing and he became a famous singer on their planet],
 passion for music [The Doctor fancied himself an eponymous virtuoso],
 coping with being famous [The Doctor among the Qomar],
 being famous is not all it's cracked up to be [The Doctor learned this valuable life lesson the hard way],
@@ -11821,7 +11800,6 @@ coping with opposing a friend [Janeway with Kes],
 :: Minor Themes
 what if I met my double [future Kes meets past Kes],
 questioning one's sanity [Tuvok about making sense of temporal inconsistencies],
-organ harvesting alien [Vidiians],
 precognition [Tuvok interpreted his experience of temporal inconsistencies as a kind of premonition],
 what if my enemy and my ally looked exactly alike and I had to choose between them [Janeway encounters good Kes and bad Kes and shot bad Kes],
 seeing the error of one's ways [Kes changed her plan to take vengeance on Voyager crew at end],
@@ -12781,7 +12759,6 @@ belonging [The Doctor between organics and his holographic people],
 :: Major Themes
 trust in a potential foe [Voyager crew in Hirogen and vice versa; holograms refrained from trusting in Janeway; The Doctor in trusting Iden with the Voyager weapon codes],
 becoming like what you oppose [Iden became a murdered just like the Hirogen he opposed],
-trophy hunting alien [Hirogen],
 pleasure in hunting [Hirogen],
 simulated hunting [Hirogen set up elaborate simulated hunting ground],
 predator vs. prey [Hirogen hunted holographic prey and vice versa],
@@ -13121,7 +13098,6 @@ casuistry in interpretation of scripture [Kohlar disingenuously interpreted sacr
 
 :: Major Themes
 coping with an unwelcome house guest [Tuvok with Neelix],
-über-belligerent alien [Voyager crew stumble on old school Klingons in Delta Quadrant],
 coping with being famous [B'Elanna stressed from all the attention she was getting from Klingon religious fanatics],
 honor [Klingon religious fanatics; it was written in the sacred scrolls that the kuvah'magh would be a man of honor],
 
