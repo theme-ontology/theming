@@ -287,165 +287,215 @@
 287      ¦   ¦--universe-in-a-box                                        
 288      ¦   °--parallel universe                                        
 289      ¦       °--parallel antimatter universe                         
-290      ¦--being                                                        
+290      ¦--science fictional being                                      
 291      ¦   ¦--dinosaur                                                 
-292      ¦   ¦--stock character                                          
-293      ¦   ¦   ¦--pirate character                                     
-294      ¦   ¦   ¦--mad scientist                                        
-295      ¦   ¦   ¦--Nazi character                                       
-296      ¦   ¦   ¦   °--space Nazi                                       
-297      ¦   ¦   ¦--Ancient Roman character                              
-298      ¦   ¦   ¦   °--space Roman                                      
-299      ¦   ¦   ¦--Ancient Greek character                              
-300      ¦   ¦   ¦   °--space Greek                                      
-301      ¦   ¦   ¦--supersoldier                                         
-302      ¦   ¦   ¦   ¦--drug enhanced supersoldier                       
-303      ¦   ¦   ¦   °--genetically enhanced soldier::1                  
-304      ¦   ¦   °--genetically enhanced person                          
-305      ¦   ¦       ¦--genetically engineered super person              
-306      ¦   ¦       °--genetically enhanced soldier::2                  
-307      ¦   ¦--locationally distinguished being                         
-308      ¦   ¦   ¦--ooze dwelling being                                  
-309      ¦   ¦   ¦--thermophilic being                                   
-310      ¦   ¦   ¦--two-dimensional being::2                             
-311      ¦   ¦   ¦--extra-dimensional being::2                           
-312      ¦   ¦   ¦--dream walking being                                  
-313      ¦   ¦   ¦--extraterrestrial being                               
-314      ¦   ¦   ¦   ¦--Martian                                          
-315      ¦   ¦   ¦   ¦--Moon people                                      
-316      ¦   ¦   ¦   ¦--Neptunian extraterrestrial                       
-317      ¦   ¦   ¦   ¦--Venusian                                         
-318      ¦   ¦   ¦   ¦--Jovian extraterrestrial                          
-319      ¦   ¦   ¦   ¦--human-alien hybrid::1                            
-320      ¦   ¦   ¦   ¦--black hole being                                 
-321      ¦   ¦   ¦   ¦--gas giant being                                  
-322      ¦   ¦   ¦   ¦--two-dimensional being::1                         
-323      ¦   ¦   ¦   ¦--powerful conquering alien race                   
-324      ¦   ¦   ¦   ¦--xenophobic isolationist alien                    
-325      ¦   ¦   ¦   ¦--zoo making alien race                            
-326      ¦   ¦   ¦   ¦--multiple alien species evolved on the same planet
-327      ¦   ¦   ¦   ¦--alien civilization                               
-328      ¦   ¦   ¦   ¦--extinct interstellar alien civilization          
-329      ¦   ¦   ¦   ¦--assimilating alien civilization                  
-330      ¦   ¦   ¦   ¦--culturally symbiotic alien races                 
-331      ¦   ¦   ¦   ¦--alien overseers                                  
-332      ¦   ¦   ¦   ¦--covert alien observers                           
-333      ¦   ¦   ¦   ¦--extra-dimensional being::1                       
-334      ¦   ¦   ¦   ¦--galactic being                                   
-335      ¦   ¦   ¦   ¦--mysterious maker alien race                      
-336      ¦   ¦   ¦   °--spacefaring aliens with primitive minds          
-337      ¦   ¦   ¦--subterranean being                                   
-338      ¦   ¦   ¦   ¦--mole men                                         
-339      ¦   ¦   ¦   °--bedrock dwelling being                           
-340      ¦   ¦   °--spaceborne being                                     
-341      ¦   ¦       ¦--giant space amoeba::1                            
-342      ¦   ¦       ¦--living spaceship                                 
-343      ¦   ¦       ¦--living space cloud::1                            
-344      ¦   ¦       ¦--space jellyfish                                  
-345      ¦   ¦       ¦--space protozoa                                   
-346      ¦   ¦       °--spacefaring plant                                
-347      ¦   ¦--biologically distinguished being                         
-348      ¦   ¦   ¦--bilaterally colored being                            
-349      ¦   ¦   ¦--childless reproducing being                          
-350      ¦   ¦   ¦--reverse aging being                                  
-351      ¦   ¦   ¦--symbiotic being                                      
-352      ¦   ¦   ¦--being composed of autonomous parts                   
-353      ¦   ¦   ¦--being that feeds on radiation                        
-354      ¦   ¦   ¦--sexually distinguished being                         
-355      ¦   ¦   ¦   ¦--cyclical mating cycle being                      
-356      ¦   ¦   ¦   ¦--lethal mating practice being                     
-357      ¦   ¦   ¦   ¦--gender neutral being                             
-358      ¦   ¦   ¦   °--multi-gendered being                             
-359      ¦   ¦   ¦--hybrid being                                         
-360      ¦   ¦   ¦   ¦--human-alien hybrid::2                            
-361      ¦   ¦   ¦   °--human-insect hybrid                              
-362      ¦   ¦   ¦--parasitic being                                      
-363      ¦   ¦   ¦   ¦--being that feeds on emotions                     
-364      ¦   ¦   ¦   ¦--invisible parasite                               
-365      ¦   ¦   ¦   ¦--life force draining being                        
-366      ¦   ¦   ¦   ¦--parasitic bug                                    
-367      ¦   ¦   ¦   °--neural parasite                                  
-368      ¦   ¦   ¦       °--brain memory virus                           
-369      ¦   ¦   °--inorganic being                                      
-370      ¦   ¦       ¦--crystalline being                                
-371      ¦   ¦       ¦--dark matter being                                
-372      ¦   ¦       ¦--electromagnetic being                            
-373      ¦   ¦       ¦--gaseous being                                    
-374      ¦   ¦       °--silicon-based being                              
-375      ¦   ¦--animal and plant patterned being                         
-376      ¦   ¦   ¦--avian being                                          
-377      ¦   ¦   ¦--canine being                                         
-378      ¦   ¦   ¦--chameleon-like being                                 
-379      ¦   ¦   ¦--crustacean-like being                                
-380      ¦   ¦   ¦--felinoid being                                       
-381      ¦   ¦   ¦--fish-like being                                      
-382      ¦   ¦   ¦--humanoid being                                       
-383      ¦   ¦   ¦--insectoid being                                      
-384      ¦   ¦   ¦--plant-like being                                     
-385      ¦   ¦   ¦--reptilian being                                      
-386      ¦   ¦   ¦--simian being                                         
-387      ¦   ¦   ¦--slug-like being                                      
-388      ¦   ¦   °--starfish-like being                                  
-389      ¦   ¦--artificial being                                         
-390      ¦   ¦   ¦--archailect::2                                        
-391      ¦   ¦   ¦--cyborg::2                                            
-392      ¦   ¦   ¦--replicant::2                                         
-393      ¦   ¦   ¦--android::2                                           
-394      ¦   ¦   ¦--robot::2                                             
-395      ¦   ¦   °--virtual person::2                                    
-396      ¦   ¦--shape distinguished being                                
-397      ¦   ¦   ¦--shapeshifter                                         
-398      ¦   ¦   ¦--blobform                                             
-399      ¦   ¦   ¦--brain-shaped being                                   
-400      ¦   ¦   °--incorporeal being                                    
-401      ¦   ¦--size distinguished being                                 
-402      ¦   ¦   ¦--Lilliputian                                          
-403      ¦   ¦   ¦--microscopic being                                    
-404      ¦   ¦   ¦   ¦--microscopic sentient being                       
-405      ¦   ¦   ¦   ¦--metal eating microscopic organism                
-406      ¦   ¦   ¦   °--subatomic bacteria                               
-407      ¦   ¦   °--large being                                          
-408      ¦   ¦       ¦--giant space amoeba::2                            
-409      ¦   ¦       ¦--living space cloud::2                            
-410      ¦   ¦       °--giant                                            
-411      ¦   ¦           ¦--giant woman                                  
-412      ¦   ¦           ¦--giant crab                                   
-413      ¦   ¦           °--giant mantis                                 
-414      ¦   ¦--god-like being                                           
-415      ¦   ¦   °--transcendental being                                 
-416      ¦   °--mentally distinguished being                             
-417      ¦       ¦--binary thinking being                                
-418      ¦       ¦--collectively intelligent being                       
-419      ¦       ¦--emergently intelligent being                         
-420      ¦       ¦--emotionless emotion craving being                    
-421      ¦       ¦--telepathic being                                     
-422      ¦       °--telepathically linked beings                         
-423      °--travel                                                       
-424          ¦--time travel                                              
-425          ¦   ¦--time loop                                            
-426          ¦   ¦--time portal                                          
-427          ¦   ¦--time speed up                                        
-428          ¦   ¦--reversed time                                        
-429          ¦   °--localized time distortion                            
-430          °--space travel                                             
-431              ¦--interplanetary space travel                          
-432              ¦--interstellar space travel                            
-433              ¦--orbital spaceflight                                  
-434              ¦--sub-orbital spaceflight                              
-435              ¦--wormhole                                             
-436              ¦--teleportation device::2                              
-437              ¦--take-you-anywhere gateway::2                         
-438              °--inter-dimensional travel                             
-439                  ¦--accessible extra dimension                       
-440                  ¦--2D space                                         
-441                  °--non-Euclidean space
+292      ¦   ¦--science fictional stock character                        
+293      ¦   ¦   ¦--mad scientist                                        
+294      ¦   ¦   ¦--space character                                      
+295      ¦   ¦   ¦   ¦--space Nazi                                       
+296      ¦   ¦   ¦   ¦--space Roman                                      
+297      ¦   ¦   ¦   °--space Greek                                      
+298      ¦   ¦   °--supersoldier                                         
+299      ¦   ¦       ¦--drug enhanced supersoldier                       
+300      ¦   ¦       °--genetically enhanced soldier::1                  
+301      ¦   ¦--locationally distinguished being                         
+302      ¦   ¦   ¦--ooze dwelling being                                  
+303      ¦   ¦   ¦--thermophilic being                                   
+304      ¦   ¦   ¦--two-dimensional being::2                             
+305      ¦   ¦   ¦--extra-dimensional being::2                           
+306      ¦   ¦   ¦--dream walking being                                  
+307      ¦   ¦   ¦--extraterrestrial being                               
+308      ¦   ¦   ¦   ¦--Martian                                          
+309      ¦   ¦   ¦   ¦--Moon people                                      
+310      ¦   ¦   ¦   ¦--Neptunian extraterrestrial                       
+311      ¦   ¦   ¦   ¦--Venusian                                         
+312      ¦   ¦   ¦   ¦--Jovian extraterrestrial                          
+313      ¦   ¦   ¦   ¦--human-alien hybrid::1                            
+314      ¦   ¦   ¦   ¦--black hole being                                 
+315      ¦   ¦   ¦   ¦--gas giant being                                  
+316      ¦   ¦   ¦   ¦--two-dimensional being::1                         
+317      ¦   ¦   ¦   ¦--powerful conquering alien race                   
+318      ¦   ¦   ¦   ¦--xenophobic isolationist alien                    
+319      ¦   ¦   ¦   ¦--zoo making alien race                            
+320      ¦   ¦   ¦   ¦--multiple alien species evolved on the same planet
+321      ¦   ¦   ¦   ¦--extinct interstellar alien civilization          
+322      ¦   ¦   ¦   ¦--assimilating alien civilization                  
+323      ¦   ¦   ¦   ¦--culturally symbiotic alien races                 
+324      ¦   ¦   ¦   ¦--alien overseers                                  
+325      ¦   ¦   ¦   ¦--covert alien observers                           
+326      ¦   ¦   ¦   ¦--extra-dimensional being::1                       
+327      ¦   ¦   ¦   ¦--galactic being                                   
+328      ¦   ¦   ¦   ¦--mysterious maker alien race                      
+329      ¦   ¦   ¦   °--spacefaring aliens with primitive minds          
+330      ¦   ¦   ¦--subterranean being                                   
+331      ¦   ¦   ¦   ¦--mole men                                         
+332      ¦   ¦   ¦   °--bedrock dwelling being                           
+333      ¦   ¦   °--spaceborne being                                     
+334      ¦   ¦       ¦--giant space amoeba::1                            
+335      ¦   ¦       ¦--living spaceship                                 
+336      ¦   ¦       ¦--living space cloud::1                            
+337      ¦   ¦       ¦--space jellyfish                                  
+338      ¦   ¦       ¦--space protozoa                                   
+339      ¦   ¦       °--spacefaring plant                                
+340      ¦   ¦--biologically distinguished being                         
+341      ¦   ¦   ¦--bilaterally colored being                            
+342      ¦   ¦   ¦--childless reproducing being                          
+343      ¦   ¦   ¦--reverse aging being                                  
+344      ¦   ¦   ¦--symbiotic being                                      
+345      ¦   ¦   ¦--being composed of autonomous parts                   
+346      ¦   ¦   ¦--being that feeds on radiation                        
+347      ¦   ¦   ¦--sexually distinguished being                         
+348      ¦   ¦   ¦   ¦--cyclical mating cycle being                      
+349      ¦   ¦   ¦   ¦--lethal mating practice being                     
+350      ¦   ¦   ¦   ¦--gender neutral being                             
+351      ¦   ¦   ¦   °--multi-gendered being                             
+352      ¦   ¦   ¦--hybrid being                                         
+353      ¦   ¦   ¦   ¦--human-alien hybrid::2                            
+354      ¦   ¦   ¦   °--human-insect hybrid                              
+355      ¦   ¦   ¦--parasitic being                                      
+356      ¦   ¦   ¦   ¦--being that feeds on emotions                     
+357      ¦   ¦   ¦   ¦--invisible parasite                               
+358      ¦   ¦   ¦   ¦--life force draining being                        
+359      ¦   ¦   ¦   ¦--parasitic bug                                    
+360      ¦   ¦   ¦   °--neural parasite                                  
+361      ¦   ¦   ¦       °--brain memory virus                           
+362      ¦   ¦   ¦--animal and plant patterned being                     
+363      ¦   ¦   ¦   ¦--avian being                                      
+364      ¦   ¦   ¦   ¦--canine being                                     
+365      ¦   ¦   ¦   ¦--chameleon-like being                             
+366      ¦   ¦   ¦   ¦--crustacean-like being                            
+367      ¦   ¦   ¦   ¦--felinoid being                                   
+368      ¦   ¦   ¦   ¦--fish-like being                                  
+369      ¦   ¦   ¦   ¦--humanoid being                                   
+370      ¦   ¦   ¦   ¦--insectoid being                                  
+371      ¦   ¦   ¦   ¦--plant-like being                                 
+372      ¦   ¦   ¦   ¦--reptilian being                                  
+373      ¦   ¦   ¦   ¦--simian being                                     
+374      ¦   ¦   ¦   ¦--slug-like being                                  
+375      ¦   ¦   ¦   °--starfish-like being                              
+376      ¦   ¦   °--inorganic being                                      
+377      ¦   ¦       ¦--crystalline being                                
+378      ¦   ¦       ¦--dark matter being                                
+379      ¦   ¦       ¦--electromagnetic being                            
+380      ¦   ¦       ¦--gaseous being                                    
+381      ¦   ¦       °--silicon-based being                              
+382      ¦   ¦--artificial being                                         
+383      ¦   ¦   ¦--archailect::2                                        
+384      ¦   ¦   ¦--cyborg::2                                            
+385      ¦   ¦   ¦--replicant::2                                         
+386      ¦   ¦   ¦--android::2                                           
+387      ¦   ¦   ¦--robot::2                                             
+388      ¦   ¦   °--virtual person::2                                    
+389      ¦   ¦--shape distinguished being                                
+390      ¦   ¦   ¦--shapeshifter                                         
+391      ¦   ¦   ¦--blobform                                             
+392      ¦   ¦   ¦--brain-shaped being                                   
+393      ¦   ¦   °--incorporeal being                                    
+394      ¦   ¦--size distinguished being                                 
+395      ¦   ¦   ¦--Lilliputian                                          
+396      ¦   ¦   ¦--microscopic being                                    
+397      ¦   ¦   ¦   ¦--microscopic sentient being                       
+398      ¦   ¦   ¦   ¦--metal eating microscopic organism                
+399      ¦   ¦   ¦   °--subatomic bacteria                               
+400      ¦   ¦   °--large being                                          
+401      ¦   ¦       ¦--giant space amoeba::2                            
+402      ¦   ¦       ¦--living space cloud::2                            
+403      ¦   ¦       °--giant                                            
+404      ¦   ¦           ¦--giant woman                                  
+405      ¦   ¦           ¦--giant crab                                   
+406      ¦   ¦           °--giant mantis                                 
+407      ¦   ¦--god-like being                                           
+408      ¦   ¦   °--transcendental being                                 
+409      ¦   °--mentally distinguished being                             
+410      ¦       ¦--binary thinking being                                
+411      ¦       ¦--collectively intelligent being                       
+412      ¦       ¦--emergently intelligent being                         
+413      ¦       ¦--emotionless emotion craving being                    
+414      ¦       ¦--telepathic being                                     
+415      ¦       °--telepathically linked beings                         
+416      ¦--science fictional society                                    
+417      ¦   ¦--alien civilization                                       
+418      ¦   ¦--subterranean civilization                                
+419      ¦   ¦--thoughtcrime society                                     
+420      ¦   ¦--multi-species civilization                               
+421      ¦   ¦--civilization of only children                            
+422      ¦   ¦--science fictional dystopia                               
+423      ¦   ¦   ¦--kill all humans dystopia                             
+424      ¦   ¦   ¦--ads everywhere dystopia                              
+425      ¦   ¦   ¦--bureaucratic dystopia                                
+426      ¦   ¦   ¦--consumerist dystopia                                 
+427      ¦   ¦   ¦--drugged up dystopia                                  
+428      ¦   ¦   ¦--lawless anarchy dystopia                             
+429      ¦   ¦   ¦--overpopulated dystopia                               
+430      ¦   ¦   °--totalitarian dystopia                                
+431      ¦   ¦--alternate historical society                             
+432      ¦   ¦   ¦--what if the Nazis had won                            
+433      ¦   ¦   °--what if the Roman Empire never fell                  
+434      ¦   °--science fictional utopia                                 
+435      ¦       ¦--ruling elite utopia                                  
+436      ¦       ¦   ¦--council of wise-men utopia                       
+437      ¦       ¦   ¦--machine controlled society::1                    
+438      ¦       ¦   ¦--master race controlled society                   
+439      ¦       ¦   °--mind controlled society                          
+440      ¦       ¦--utopia based on exploitation of a group              
+441      ¦       ¦   ¦--utopia on the back of android labor::1           
+442      ¦       ¦   ¦--utopia on the back of human clone labor::1       
+443      ¦       ¦   °--utopia on the back of slave labor                
+444      ¦       ¦--utopia based on the rejection of technology          
+445      ¦       ¦   ¦--neo-luddist utopia                               
+446      ¦       ¦   °--noble savage utopia                              
+447      ¦       ¦--technologically enabled utopia                       
+448      ¦       ¦   ¦--genetic engineering utopia                       
+449      ¦       ¦   ¦--hive mind utopia                                 
+450      ¦       ¦   ¦--post-scarcity economy utopia                     
+451      ¦       ¦   ¦--machine controlled society::2                    
+452      ¦       ¦   ¦--transhumanist utopia                             
+453      ¦       ¦   ¦--utopia on the back of android labor::2           
+454      ¦       ¦   °--utopia on the back of human clone labor::2       
+455      ¦       °--utopia based on a view of human nature               
+456      ¦           ¦--free love utopia                                 
+457      ¦           ¦--kumbayah utopia                                  
+458      ¦           °--telepathic peaceful utopia                       
+459      °--travel                                                       
+460          ¦--time travel                                              
+461          ¦   ¦--time loop                                            
+462          ¦   ¦--time portal                                          
+463          ¦   ¦--time speed up                                        
+464          ¦   ¦--reversed time                                        
+465          ¦   °--localized time distortion                            
+466          °--space travel                                             
+467              ¦--interplanetary space travel                          
+468              ¦--interstellar space travel                            
+469              ¦--orbital spaceflight                                  
+470              ¦--sub-orbital spaceflight                              
+471              ¦--wormhole                                             
+472              ¦--teleportation device::2                              
+473              ¦--take-you-anywhere gateway::2                         
+474              °--inter-dimensional travel                             
+475                  ¦--accessible extra dimension                       
+476                  ¦--2D space                                         
+477                  °--non-Euclidean space         
+
+
+UNCATEGORIZED WHAT IF SOCIETY WERE DIFFERENT THEMES
+Rephrase and move to what if I faced an incredible situation:
+	what if everyone lost control of their inhibitions
+	what if everyone turned into zombies
+	what if our fantasies become reality
+	what if we all lost our memories
+
+Probably fine but do we really want it:
+what if perpetrators were sentenced by their victims
+
+Delete:
+what if the devil was merely misunderstood
+what if there was a huge robotic war
+what if there were people with out of control psychokinetic powers
+
+Replace "what if society split into more than one distinct race" with "multi-species civilization" and delete "	multiple alien species evolved on the same planet" while we're at it
 
 
 
-NOVEL ALIEN CONCEPT THEMES TO DISCUSS FOR DELETION
-	jellyfish-like being
-	pure evil alien
-	
 
 UNCATEGORIZED NOVEL SCI-FI CONCEPT THEMES
 	dream recorder                                       
