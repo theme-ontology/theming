@@ -532,6 +532,16 @@ There is a half-human, half arachnid being (e.g. spider-like or scorpion-like be
 miscellaneous life form
 
 
+human-insect hybrid
+===================
+
+:: Description
+There is a half-human, half insect being.
+
+:: Parents
+human-arthropod hybrid
+
+
 human-arthropod hybrid
 ======================
 
@@ -539,7 +549,7 @@ human-arthropod hybrid
 There is a half-human, half arthropod being (i.e. an invertebrate having an exoskeleton, a segmented body, and jointed appendages).
 
 :: Parents
-miscellaneous life form
+human-arthropod hybrid
 
 
 Jack the Ripper was really an alien
