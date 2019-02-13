@@ -65,3 +65,33 @@ generate_dag <- function(infile) {
   tree <- as.Node(subdata)
   return(tree)
 }
+
+## convert a brainstorming table in csv format to a Cytoscape readable file
+table_to_cytoscape <- function(infile) {
+  mydata <- read.delim(file = infile, sep = ",", header = TRUE, stringsAsFactors = FALSE)
+  duplicate_themes <- mydata[duplicated(mydata[, "Theme"]), "Theme"]
+  no_of_duplicate_themes <- length(duplicate_themes)
+
+  for (i in 1:no_of_duplicate_themes) {
+    mytheme <- duplicate_themes[i]
+    theme_indices <- which(mydata[, "Theme"] == mytheme)
+    no_of_duplicates <- length(theme_indices)
+    mydata[theme_indices, "Theme"] <- paste0(mytheme, "::", 1:no_of_duplicates)
+  }
+
+  out <- data.frame(
+    source <- mydata[-1, 3],
+    target <- mydata[-1, 1],
+    stringsAsFactors = FALSE
+  )
+
+  colnames(out) <- c("source", "target")
+
+  write.csv(out, file = "test.csv", row.names = FALSE, quote = FALSE)
+}
+
+
+
+
+
+

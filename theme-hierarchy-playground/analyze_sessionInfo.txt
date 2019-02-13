@@ -13,11 +13,12 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 other attached packages:
-[1] listviewer_2.1.0 data.tree_0.7.6 
+[1] listviewer_2.1.0 data.tree_0.7.8  magicaxis_2.0.4 
 
 loaded via a namespace (and not attached):
- [1] Rcpp_0.12.17       pillar_1.2.3       compiler_3.5.0     RColorBrewer_1.1-2 influenceR_0.1.0   plyr_1.8.4         bindr_0.1.1        viridis_0.5.1      tools_3.5.0        digest_0.6.15     
-[11] jsonlite_1.5       viridisLite_0.3.0  gtable_0.2.0       tibble_1.4.2       rgexf_0.15.3       pkgconfig_2.0.1    rlang_0.2.1        igraph_1.2.2       rstudioapi_0.8     bindrcpp_0.2.2    
-[21] gridExtra_2.3      downloader_0.4     DiagrammeR_1.0.0   dplyr_0.7.5        stringr_1.3.1      htmlwidgets_1.2    hms_0.4.2          grid_3.5.0         tidyselect_0.2.4   glue_1.2.0        
-[31] R6_2.2.2           Rook_1.1-1         XML_3.98-1.11      readr_1.1.1        purrr_0.2.5        tidyr_0.8.1        ggplot2_3.1.0      magrittr_1.5       scales_0.5.0       htmltools_0.3.6   
-[41] assertthat_0.2.0   colorspace_1.3-2   brew_1.0-6         stringi_1.2.3      visNetwork_2.0.4   lazyeval_0.2.1     munsell_0.5.0     
+ [1] tidyselect_0.2.5   Rook_1.1-1         purrr_0.3.0        colorspace_1.4-0   viridisLite_0.3.0  htmltools_0.3.6    XML_3.98-1.17      rlang_0.3.1        pracma_2.2.2       celestial_1.4.6   
+[11] sm_2.2-5.4         pillar_1.3.1       glue_1.3.0         RColorBrewer_1.1-2 bindrcpp_0.2.2     bindr_0.1.1        plyr_1.8.4         stringr_1.3.1      munsell_0.5.0      gtable_0.2.0      
+[21] visNetwork_2.0.5   htmlwidgets_1.3    mapproj_1.2.6      DiagrammeR_1.0.0   Rcpp_1.0.0         readr_1.3.1        scales_1.0.0       plotrix_3.7-4      jsonlite_1.6       rgexf_0.15.3      
+[31] gridExtra_2.3      brew_1.0-6         RANN_2.6.1         ggplot2_3.1.0      hms_0.4.2          digest_0.6.18      stringi_1.2.4      dplyr_0.7.8        grid_3.5.0         influenceR_0.1.0  
+[41] tools_3.5.0        magrittr_1.5       maps_3.3.0         lazyeval_0.2.1     tibble_2.0.1       crayon_1.3.4       tidyr_0.8.2        pkgconfig_2.0.2    MASS_7.3-51.1      downloader_0.4    
+[51] assertthat_0.2.0   rstudioapi_0.9.0   viridis_0.5.1      R6_2.3.0           NISTunits_1.0.1    igraph_1.2.2       compiler_3.5.0    
