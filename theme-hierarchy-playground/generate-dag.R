@@ -6,7 +6,7 @@ working_dir <- paste0("/Users/Paul/Dropbox/theming/theme-hierarchy-playground/")
 setwd(working_dir)
 source("functions.R")
 set.seed(12345)
-writeLines(capture.output(sessionInfo()), con = "analyze_sessionInfo.txt")
+writeLines(capture.output(sessionInfo()), con = "analyze-sessionInfo.txt")
 
 ## generate dag
 infile <- "my-theme-table-sci-fi.csv"
@@ -19,7 +19,9 @@ jsonedit(l)
 
 
 
-
-table_to_cytoscape(infile)
+## generate dot file
+infile <- "my-theme-table-sci-fi2.csv"
+outfile <- "sci-fi-theme.dot"
+table_to_dot(infile, outfile)
 
 

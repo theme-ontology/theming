@@ -1,0 +1,24 @@
+R version 3.5.0 (2018-04-23)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: macOS  10.14.2
+
+Matrix products: default
+BLAS: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRblas.0.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] data.tree_0.7.8
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.19       plyr_1.8.4         pillar_1.3.0       compiler_3.5.0     RColorBrewer_1.1-2 influenceR_0.1.0   bindr_0.1.1        viridis_0.5.1     
+ [9] tools_3.5.0        digest_0.6.17      jsonlite_1.5       viridisLite_0.3.0  gtable_0.2.0       tibble_1.4.2       rgexf_0.15.3       pkgconfig_2.0.2   
+[17] rlang_0.2.2        igraph_1.2.2       rstudioapi_0.8     bindrcpp_0.2.2     gridExtra_2.3      downloader_0.4     DiagrammeR_1.0.0   dplyr_0.7.6       
+[25] stringr_1.3.1      htmlwidgets_1.3    hms_0.4.2          grid_3.5.0         tidyselect_0.2.4   glue_1.3.0         R6_2.3.0           Rook_1.1-1        
+[33] XML_3.98-1.16      readr_1.1.1        purrr_0.2.5        tidyr_0.8.1        ggplot2_3.0.0      magrittr_1.5       scales_1.0.0       htmltools_0.3.6   
+[41] assertthat_0.2.0   colorspace_1.3-2   brew_1.0-6         stringi_1.2.4      visNetwork_2.0.4   lazyeval_0.2.1     munsell_0.5.0      crayon_1.3.4      

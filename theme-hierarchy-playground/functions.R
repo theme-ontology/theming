@@ -67,7 +67,7 @@ generate_dag <- function(infile) {
 }
 
 ## convert a brainstorming table in csv format to a Cytoscape readable file
-table_to_cytoscape <- function(infile) {
+table_to_dot_2 <- function(infile, outfile) {
   mydata <- read.delim(file = infile, sep = ",", header = TRUE, stringsAsFactors = FALSE)
   duplicate_themes <- mydata[duplicated(mydata[, "Theme"]), "Theme"]
   no_of_duplicate_themes <- length(duplicate_themes)
@@ -86,9 +86,45 @@ table_to_cytoscape <- function(infile) {
   )
 
   colnames(out) <- c("source", "target")
+  no_of_edges <- nrow(out)
 
-  write.csv(out, file = "test.csv", row.names = FALSE, quote = FALSE)
+  write("digraph MultiStep {\n\n  rankdir=LR;\n", file = outfile)
+
+  for (i in 1:no_of_edges) {
+    source <- out[i, 1]
+    target <- out[i, 2]
+    write(paste0(c("  \"", source, "\" -> \"", target, "\";"), collapse = ""), file = outfile, append = TRUE)
+  }
+
+  write("\n}", file = outfile, append = TRUE)
 }
+
+## convert a brainstorming table in csv format to a dot file
+table_to_dot <- function(infile, outfile) {
+  # preliminaries
+  mydata <- read.delim(file = infile, sep = ",", header = TRUE, stringsAsFactors = FALSE)
+  no_of_edges <- nrow(mydata)
+  duplicate_themes <- mydata[duplicated(mydata[, "Child"]), "Child"]
+  no_of_duplicate_themes <- length(duplicate_themes)
+
+  if (no_of_duplicate_themes > 0) {
+    stop("duplicate theme")
+  }
+
+  write("digraph MultiStep {\n\n  rankdir=LR;\n", file = outfile)
+
+  for (i in 1:no_of_edges) {
+    parent <- mydata[i, "Parent"]
+    child <- mydata[i, "Child"]
+    write(paste0(c("  \"", parent, "\" -> \"", child, "\";"), collapse = ""), file = outfile, append = TRUE)
+  }
+
+  write("\n}", file = outfile, append = TRUE)
+}
+
+
+
+
 
 
 
