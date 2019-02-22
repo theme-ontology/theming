@@ -2877,7 +2877,7 @@ designed to lessen the impact of human habitation on any given ecosystem. It
 could be self-sustainable, for example.
 
 :: Parents
-habitat, mastering space
+speculative habitat, mastering space
 
 :: References
 https://en.wikipedia.org/wiki/Arcology
@@ -3079,7 +3079,7 @@ An island that has been constructed by people rather than formed by natural
 means.
 
 :: Parents
-habitat, mastering space
+speculative habitat, mastering space
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_island
@@ -3105,7 +3105,7 @@ artificial planet
 An entire planet designed and constructed by some sentient race.
 
 :: Parents
-habitat, mastering space
+speculative habitat, mastering space
 
 :: Example
 A mysterious planetoid turned out to be a wholly artificial artifact of a long gone alien civilization in tos3x14 "That Which Survives".
@@ -10417,7 +10417,7 @@ There is a planet where nearly all land is arid, hot and sandy so that it
 resembles nothing more than one gigantic desert.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: References
 https://en.wikipedia.org/wiki/Desert_planet
@@ -11240,7 +11240,7 @@ domed city
 A city protected by some manner of a dome-shaped barrier.
 
 :: Parents
-habitat, mastering space
+speculative habitat, mastering space
 
 :: References
 https://en.wikipedia.org/wiki/Domed_city
@@ -14395,7 +14395,7 @@ floating city
 A city suspended in air by means of anti-gravitational technology.
 
 :: Parents
-habitat, mastering space
+speculative habitat, mastering space
 
 :: References
 https://en.wikipedia.org/wiki/Floating_cities_and_islands_in_fiction
@@ -16192,7 +16192,7 @@ habitable asteroid
 An asteroid that is hypothetically amenable to human life.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: Example
 Zefram Cochrane, the inventor of warp drive, was found living on a habitable asteroid in tos2x02 "Metamorphosis".
@@ -16205,7 +16205,7 @@ habitable moon
 A moon that is hypothetically amenable to human life.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: References
 https://en.wikipedia.org/wiki/Habitability_of_natural_satellites
@@ -16221,7 +16221,7 @@ habitable planet in a binary star system
 A planet in a binary star system, that is hospitable to humanoid life.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: Example
 Harry Mudd fled the Enterprise in an absconded shuttlecraft to planet in a binary star system inhabited by a giant, menacing worm in tas1x10 "Mudd's Passion".
@@ -16234,7 +16234,7 @@ habitable planet in a trinary star system
 A planet in a trinary star system, that is hospitable to humanoid life.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: Example
 A trio of disembodied brain aliens ran a humanoid fighting ring on just such a planet in tos2x17 "The Gamesters of Triskellion".
@@ -16787,7 +16787,7 @@ hollowed out asteroid habitat
 An asteroid has been turned into a living space suitable for humans.
 
 :: Parents
-mastering space
+speculative habitat, mastering space
 
 
 homework shirking
@@ -17469,7 +17469,7 @@ There is a planet that is more or less entirely covered in ice so that the
 whole of it resembles nothing so much as an arctic wasteland.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: References
 https://en.wikipedia.org/wiki/Ice_planet
@@ -23456,7 +23456,7 @@ A hypothetical type of exoplanet wherein the surface is completely covered by
 water.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: References
 https://en.wikipedia.org/wiki/Ocean_planet
@@ -24387,7 +24387,7 @@ A hypothetical planet that has paralleled Earth closely in its biological and
 social development, absurd as the notion may sound.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: Example
 Hodgkin's Law of Parallel Planetary Development was illustrated in tos2x14 "Bread and Circuses" when Captain Kirk and team came upon the planet of the space Romans, 892-IV.
@@ -37908,7 +37908,7 @@ twin earth
 A hypothetical planet that is a near duplicate of Earth.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 :: References
 https://en.wikipedia.org/wiki/Earth_analog
@@ -38028,7 +38028,7 @@ A large settlement under water. It might be adapted for air-breathing people
 somehow, or it may be inhabited by water breathers.
 
 :: Parents
-habitat, mastering space
+speculative habitat, mastering space
 
 
 unemployment in society
@@ -39031,7 +39031,7 @@ water planet to the core
 There is a planet that is almost 100% water through and through.
 
 :: Parents
-habitat, what's out there
+speculative habitat, what's out there
 
 
 way of life
