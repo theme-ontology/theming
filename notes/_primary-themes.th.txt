@@ -2075,7 +2075,7 @@ could (potentially, hypothetically or in our wildest imagination) befall an
 individual.
 
 :: Parents
-science fiction and fantasy theme
+speculative fiction theme
 
 :: Example
 
@@ -2100,21 +2100,19 @@ views and customs
 :: Other Parents
 
 
-science fiction and fantasy theme
-=================================
+speculative fiction theme
+=========================
 
 :: Description
 Themes related to subject matter falling outside of reality as it is presently 
-understood. These are classical science fiction and fantasy themes, such as 
-ideas about the future, futuristic science and technology, as well as just plain old nonsense of some kind or another.
+understood. This includes, but is not limited to, science fiction, fantasy, 
+superhero fiction, science fantasy, horror, utopian and dystopian fiction, 
+supernatural fiction as well as combinations thereof.
 
 :: Parents
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+:: References
+https://en.wikipedia.org/wiki/Speculative_fiction
 
 
 alternate society
@@ -2125,13 +2123,7 @@ The category of themes that are about how society could be different - either
 in the future, in an alien population, or in a different universe altogether.
 
 :: Parents
-science fiction and fantasy theme
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+speculative fiction theme
 
 
 alternative medicine
@@ -2289,19 +2281,14 @@ ancient artificial custodian
 ============================
 
 :: Description
-An intelligent machine is left by a long gone civilization on a planet  and
+An intelligent machine is left by a long gone civilization on a planet and
 becomes its guardian or caretaker.
 
 :: Parents
-AI technology
+virtual person, AI technology
 
 :: Example
 A landing party encountered the artificial custodian Portal 6-3 on a planet formerly belonging to the long disappeared Tkon Empire in tng1x05 "The Last Outpost".
-
-:: Related Themes
-
-:: Other Parents
-AI
 
 
 ancient astronauts
@@ -2325,17 +2312,10 @@ android
 A robot designed to look and act like a human.
 
 :: Parents
-AI technology
+artificial being, AI technology
 
 :: References
 https://en.wikipedia.org/wiki/Android_(robot)
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
 
 
 anger
@@ -9816,15 +9796,10 @@ cyborg
 Am alien whose body is part biological and part mechanical.
 
 :: Parents
-inorganic life form
+artificial being, inorganic life form
 
 :: Example
 Q acquainted the Enterprise-D crew with that enigmatic race of cyborgs known as the Borg in tng2x16 "Q Who".
-
-:: Related Themes
-
-:: Other Parents
-aliens
 
 :: Reference
 https://en.wikipedia.org/wiki/Cyborg
@@ -21476,7 +21451,7 @@ mechanical man
 An automaton that resembles a human being is featured.
 
 :: Parents
-AI technology
+artificial being, AI technology
 
 
 meddling parent
@@ -23234,22 +23209,15 @@ novel alien concept
 ===================
 
 :: Description
-The category of themes that are about what kind of sentient beings there could
-be out there in the universe. Aliens that range from bacteria-like organisms
+The category of themes that are about what kind of beings there could be out 
+there in the universe. Aliens that range from bacteria-like organisms
 all the way to transcendental beings are posited.
 
 :: Parents
-science fiction and fantasy theme
+speculative fiction theme
 
 :: References
 https://en.wikipedia.org/wiki/List_of_fictional_extraterrestrials_by_form
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-aliens
 
 
 novel sci-fi concept
@@ -23261,13 +23229,7 @@ themes explore futuristic technologies and the implications of alternate laws
 of nature.
 
 :: Parents
-science fiction and fantasy theme
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+speculative fiction theme
 
 
 nuclear holocaust
@@ -28380,15 +28342,10 @@ A sophisticated but not quite sentient mobile machine that serves man as his
 helper.
 
 :: Parents
-AI technology
+artificial being, AI technology
 
 :: Example
 The immortal Mr. Flint had a hovering robot helped named M-4 in tos3x21 "Requiem for Methuselah".
-
-:: Related Themes
-
-:: Other Parents
-AI
 
 
 rogue comet
@@ -29694,14 +29651,7 @@ A "fully functional" android of one gender or another, designed to please its
 masters in matters of the flesh.
 
 :: Parents
-AI technology
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
+artificial being, AI technology
 
 
 sexism in society
@@ -29976,8 +29926,8 @@ the real thing.
 speculative lands and worlds, simulated reality
 
 
-simulated person
-================
+virtual person
+==============
 
 :: Description
 A personality that exists only as a program within some computer. It is self-
@@ -29985,18 +29935,13 @@ aware but may or may not be cognizent of its status as a simulation. Perhaps
 we all are such.
 
 :: Parents
-AI technology
+artificial being, AI technology
 
 :: References
 https://en.wikipedia.org/wiki/Simulated_consciousness_in_fiction
 
-:: Example
-
-:: Related Themes
-the universe is a simulation theory
-
-:: Other Parents
-AI
+:: Aliases
+simulated person
 
 
 simulated reality
@@ -30893,7 +30838,7 @@ space colonization
 A sentient race spreads its civilization to other worlds.
 
 :: Parents
-science fiction and fantasy theme
+speculative fiction theme
 
 :: References
 https://en.wikipedia.org/wiki/Space_colonization
@@ -38576,7 +38521,7 @@ virtual lover
 There is a virtual personality with which someone corporeal has a love affair.
 
 :: Parents
-AI technology
+virtual person, AI technology
 
 
 virtual reality choose your own adventure
