@@ -801,14 +801,15 @@ human-canine hybrid
 There is a part human, part dog being.
 
 :: Parents
-miscellaneous life form
+hybrid being
 
 
 cold fusion device
 ==================
 
 :: Description
-There is a device capable of generating copious amount of energy through the fusing of atomic nuclei at room temperature.
+There is a device capable of generating copious amount of energy through the 
+fusing of atomic nuclei at room temperature.
 
 :: Parents
 fictional apparatus
@@ -950,17 +951,17 @@ human-amphibian hybrid
 There is a part human, part amphibian being.
 
 :: Parents
-miscellaneous life form
+hybrid being
 
 
 amphibian-like being
 ====================
 
 :: Description
-A life form patterned after amphibians.
+A being patterned after amphibians.
 
 :: Parents
-earth-life inspired life form
+animal and plant patterned being, earth-life inspired life form
 
 
 worm-like being
@@ -970,7 +971,7 @@ worm-like being
 A sentient being patterned on worms.
 
 :: Parents
-earth-life inspired life form
+animal and plant patterned being, earth-life inspired life form
 
 :: References
 https://en.wikipedia.org/wiki/Worm
@@ -1006,7 +1007,9 @@ werewolves
 ==========
 
 :: Description
-There is a human with a transmittable condition that makes them occasionally transform in to a vicious creature, typically a wolf, or a human-creature hybrid.
+There is a human with a transmittable condition that makes them occasionally 
+transform in to a vicious creature, typically a wolf, or a human-creature 
+hybrid.
 
 :: Parents
 superstition, shapeshifter
@@ -1020,7 +1023,10 @@ post-apocalyptic dystopia
 =========================
 
 :: Description
-There is a society in which something extraordinary bad has happened to civilization and the survivors must now cope as best they can. Usually this happens because society had a brush with one existential risk or another (cf. theme "existential risk").
+There is a society in which something extraordinary bad has happened to 
+civilization and the survivors must now cope as best they can. Usually this 
+happens because society had a brush with one existential risk or another (cf. 
+theme "existential risk").
 
 :: Parents
 dystopia
@@ -1030,10 +1036,13 @@ test of love
 ============
 
 :: Description
-One character is concerned about whether their romantic partner really loves them and does something in order to test this.
+One character is concerned about whether their romantic partner really loves 
+them and does something in order to test this.
 
 :: Example
-In futurama3x06 "Bendless Love", Bender wonders whether Angelyne is really in love with him. To find this out he seduces her in the guise of her ex-husband, Flexo, and is upset to find that she falls for him.
+In futurama3x06 "Bendless Love", Bender wonders whether Angelyne is really in 
+love with him. To find this out he seduces her in the guise of her ex-husband, 
+Flexo, and is upset to find that she falls for him.
 
 :: Parents
 romantic relationship
@@ -1043,7 +1052,8 @@ what if I had super regenerative powers
 =======================================
 
 :: Description
-We imagine what it would be like if our body recovered from wounds, i.e. healed, with extraordinary rapidity.
+We imagine what it would be like if our body recovered from wounds, i.e. 
+healed, with extraordinary rapidity.
 
 :: Parents
 what if I had an extraordinary ability
@@ -1059,7 +1069,7 @@ Uranian extraterrestrial
 There is an alien race that is native to the planet Uranus in our solar system.
 
 :: Parents
-miscellaneous life form
+extraterrestrial being
 
 :: References
 https://en.wikipedia.org/wiki/Uranus
@@ -1085,7 +1095,7 @@ centaur
 This mythological half-man half-horse being is featured.
 
 :: Parents
-miscellaneous life form
+hybrid being
 
 :: References
 https://en.wikipedia.org/wiki/Centaur
@@ -1268,6 +1278,76 @@ There is a being that is too small to see with the naked eye.
 
 :: Parents
 size distinguished being
+
+
+locationally distinguished being
+================================
+
+:: Description
+There is a being that is novel by virtue of where it comes from, e.g., 
+underground, outer space, an ethereal realm, etc.
+
+:: Parents
+speculative being
+
+
+subterranean being
+==================
+
+:: Description
+There is a being whose natural habitat lies underground.
+
+:: Parents
+speculative being
+
+
+extraterrestrial being
+======================
+
+:: Description
+There is a being from outer space.
+
+:: Parents
+speculative being
+
+
+sexually distinguished being
+============================
+
+:: Description
+There is a being that is novel by virtue of how it reproduces, e.g., 
+a being that that reproduces according to a cyclical mating cycle.
+
+:: Parents
+biologically distinguished being
+
+
+hybrid being
+============
+
+:: Description
+A being that incorporates elements from both humans and non-humans.
+
+:: Parents
+biologically distinguished being
+
+:: References
+https://en.wikipedia.org/wiki/Human%E2%80%93animal_hybrid
+
+
+animal and plant patterned being
+================================
+
+:: Description
+A being inspired by Earth animal and plant wildlife.
+
+:: Parents
+biologically distinguished being
+
+
+
+
+
 
 
 
