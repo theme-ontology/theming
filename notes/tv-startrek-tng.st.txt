@@ -459,7 +459,7 @@ Data, Worf, Geordi, Tasha, Portal 6-3
 :: Genre
 
 :: Choice Themes
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 civilization vs. savagery [civilized Federation vs. savage Ferengi],
 
 :: Major Themes
@@ -911,7 +911,7 @@ mind control technology [Bok used the Thought Maker on Picard] <Thought Maker>,
 tractor beam [Enterprise tows Stargazer with tractor beam],
 coping with excruciating pain [Picard with headache] <Picard>,
 questioning one's sanity [Picard] <Picard>,
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 sexism in society [Ferengi are astonished the females wear clothes],
 future point of view [common cold is cured],
 android [Data performed various android feats] <Data, Soong Type Android>,
@@ -1103,7 +1103,7 @@ the desire to pursue one's dream [Wyatt] <Wyatt Miller>,
 destiny [Wyatt's destiny to meet space plague woman],
 mother and daughter [Lwaxana and Troi] <Lwaxana/Troi>,
 arranged marriage [Troi arranged to marry Wyatt],
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 space lepers [Tarellians] <Tarellian>,
 the good of the many vs. the needs of the few [the safety of the people of Haven vs. founding a space leper colony on the planet],
 fiancée and fiancée [Troi and Wyatt] <Troi/Wyatt Miller>,
@@ -1522,7 +1522,7 @@ tng1x15
 =======
 
 :: Title
-11001001.0
+11001001
 
 :: Description
 Bynars upgrade the Enterprise ' s computers in spacedock . Riker and Picard
@@ -1546,12 +1546,12 @@ romance
 :: Choice Themes
 desperation [Bynars] <One Zero, Zero One>,
 great need vs. breaking the law [Bynars hijacked the Enterprise to save their planetary central computer] <One Zero, Zero One>,
-telepathically linked aliens [Bynars] <Bynar>,
+telepathically linked beings [Bynars] <Bynar>,
 the nature of sentience [was Minuet sentient?],
 virtual person [Minuet was Riker's ideal woman],
 
 :: Major Themes
-binary thinking alien [Bynars] <Bynar>,
+binary thinking being [Bynars] <Bynar>,
 machines in society [should we have a planetary central computer to mediate our every personal interaction?],
 reliance on a central computer [Bynars on their planetary central computer],
 AI point of view [Bynars] <One Zero, Zero One, Bynar>,
@@ -2382,7 +2382,7 @@ the human capacity for good and evil [Armus was an embodiment of pure evil],
 the making of a monster to society [the titans created Armus],
 
 :: Major Themes
-pure evil alien [Armus] <Slick of Malevolent Tar>,
+pure evil being [Armus] <Slick of Malevolent Tar>,
 malevolence [Armus] <Armus>,
 blobform [Armus] <Slick of Malevolent Tar>,
 pity [Troi for Armus] <Troi>,
@@ -3233,7 +3233,7 @@ overcoming a limitation [Riva overcoming the loss of his chorus] <Rive>,
 mediation [Riva between warring factions],
 
 :: Major Themes
-telepathically linked aliens [Riva and his chorus] <Ramatian>,
+telepathically linked beings [Riva and his chorus] <Ramatian>,
 diplomatic compromising [Riva was a diplomat for the ages],
 compromising [Riva instilled the spirit of compromise in the warring alien parties],
 reconciliation between two peoples [warring alien factions],
@@ -4340,7 +4340,7 @@ Geordi, Sonya Gomez, Guinan, Riker
 action, adventure
 
 :: Choice Themes
-collectively intelligent aliens [Borg] <Borg>,
+collectively intelligent beings [Borg] <Borg>,
 alien point of view [Borg] <Borg>,
 desperation [Enterprise under pursuit by Borg],
 
@@ -4449,7 +4449,7 @@ Riker, Pulaski
 medical drama
 
 :: Choice Themes
-spacefaring aliens with primitive minds [Pakled] <Pakled>,
+primitive-minded spacefaring alien [Pakled] <Pakled>,
 self-image [Picard didn't want to crew to know he suffered from a heart condition] <Picard>,
 
 :: Major Themes
@@ -4660,7 +4660,7 @@ looking for a lover [Lwaxana visited the Enterprise on the hunt for a husband.],
 :: Major Themes
 lust [Lwaxana for Picard and Rex] <Lwaxana>,
 future point of view [Picard about 20th century] <Picard>,
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 obsession [Lwaxana with finding a husband] <Lwaxana>,
 
 :: Minor Themes
@@ -4868,7 +4868,7 @@ contempt [Kolrami of Riker as said by Picard] <Sirna Kolrami>,
 the calculus of human life [Kolrami advocates abandoning the Hathaway crew to save the Enterprise],
 frustration [Kolrami at Data] <Sirna Kolrami>,
 ingenuity [Riker at battle and Data at the game] <Riker>,
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 android [Data plays strategema] <Data, Soong Type Android>,
 coping with an overbearing jerk [Everyone with Kolrami, but Riker especially] <Riker>,
 the ethics of valuing human lives [Kolrami advocates abandoning the Hathaway crew to save the Enterprise],
@@ -5831,7 +5831,7 @@ the nature of persuasion [Ral puts on a clinic in the art of persuasion at the n
 traversable wormhole [everyone vying for right to Barzan wormhole] <Barzan wormhole>,
 the desire to advance one's career [Ral had careerist motives] <Devinoni Ral>,
 fairness [was it fair for Troi to use her empathic powers at the negotiating table? how about Ral using every dirty trick in the book?],
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 avarice [Ferengi captain] <Goss>,
 the lust for gold [Ferengi captain] <Goss>,
 rivalry [Riker and Ral] <Riker/Devinoni Ral>,
@@ -5846,7 +5846,7 @@ bluffing [Riker tries to bluff Ral] <Riker>,
 trust in a potential foe [Geordi and Data urge Ferengi to trust them that the wormhole was unstable] <Geordi, Data>,
 love triangle [Riker/Troi/Ral] <Riker/Troi/Devinoni Ral>,
 diplomatic maneuvering [diplomatic maneuvering abounded at the negotiating table],
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 friendship [Riker and Troi] <Riker/Troi>,
 lesson in humility [Ral by Troi] <Devinoni Ral>,
 admiration [Riker for Ral] <Riker>,
@@ -7052,7 +7052,7 @@ the lust for gold [Ferengi and Vash] <Vash, Sovak>,
 love triangle [Picard and Vash and Sovak] <Picard/Vash/Sovak>,
 unrequited love [Ferengi at Vash] <Sovak>,
 betrayal [Vash at Picard and Ferengi] <Vash>,
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 the lust for power [time traveling aliens] <Ajur, Boratus>,
 the thirst for knowledge [Picard about the archaeology stuff] <Picard>,
 annoyance [Picard at Ferengi] <Picard>,
@@ -7153,7 +7153,7 @@ the need for companionship [Tam and Gomtuu] <Tam Elbrun>,
 desperation [Tam to get away from society] <Tam Elbrun>,
 world with telepathy [Tam was living in a telepathic hell],
 loneliness [Tam and Gomtuu] <Tam Elbrun>,
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 
 :: Minor Themes
 depression [Tam’s clinical background] <Tam Elbrun>,
@@ -7623,7 +7623,7 @@ avarice [Tog] <Tog>,
 obsessive infatuation [Tog at Lwaxana] <Tog>,
 struggling with a life-changing decision [Wesley about leaving Enterprise for Starfleet Academy] <Wesley>,
 pursuing one's dream vs. saving a friend [Wesley about leaving Enterprise for Starfleet Academy] <Wesley>,
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 sacrifice for a loved one [Lwaxana offers to stay if Troi can go free] <Lwaxana>,
 lust [Tog at Lwaxana] <Tog>,
 
@@ -7839,7 +7839,7 @@ facing an invading force [Humanity face down the Borg],
 :: Major Themes
 choosing between job opportunities [Riker] <Riker>,
 collective intelligence [Borg],
-collectively intelligent aliens [Borg] <Borg>,
+collectively intelligent beings [Borg] <Borg>,
 risk taking vs. playing it safe [Picard must weigh Shelby's risky strategy and Riker cautious strategy for dealing with Borg] <Picard>,
 rivalry [Shelby and Riker] <Riker/Shelby>,
 desperation [everyone in the face of imminent Borg invasion],
@@ -8932,7 +8932,7 @@ coping with losing a special ability [Troi loses empathic powers and the 2D bein
 :: Major Themes
 self-confidence [Troi loses confidence in her ability to be ship counsellor after losing her empathic powers] <Troi>,
 2D space [2D beings never had the pleasure of experiencing a third dimension],
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 man vs. space anomaly [crew vs. cosmic string],
 self-analysis [Troi about overcoming her loss of empathic ability] <Troi>,
 Flatland communication problem [the idea that 2D beings and 3D being perceive the world so differently that communication becomes difficullt was illustrated],
@@ -10145,7 +10145,7 @@ having a preconception challenged [Timicin about that ritual suicide is not the 
 coping with personal failure [Timicin's life work to revive a star unfulfillled] <Timicin>,
 coping with aging [Lwaxana and Timicin] <Lwaxana, Timicin>,
 stellar rejuvenation [Timicin tried to rejuvenate his home star],
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 cross cultural romance [Lwaxana and Timicin] <Lwaxana/Timicin>,
 struggling with a life-changing decision [Timicin with committing suicide] <Timicin>,
 alien morals [Kaelon ritual suicide],
@@ -11759,7 +11759,7 @@ psychopathic criminal in society [Jev],
 the right to privacy of thoughts [Jev violated Troi's privacy of thoughts, body],
 father and son [Tarmin and Jev] <Tarmin/Jev>,
 psychopathy [Jev] <Jev>,
-telepathic alien [Ullians] <Ullian>,
+telepathic being [Ullians] <Ullian>,
 coping with post-traumatic stress [Troi about the psionic rape] <Troi>,
 man vs. the occult [crew vs. psionic rapist],
 
@@ -12602,7 +12602,7 @@ mother and daughter [Lwaxana and Troi] <Lwaxana/Troi>,
 asteroid impact [the Enterprise stopped an asteroid from hitting Tessen III],
 fiancée and fiancée [Lwaxana and Campio] <Lwaxana/Campio>,
 prudishness [Campio] <Campio>,
-telepathic alien [Betazoid] <Betazoid>,
+telepathic being [Betazoid] <Betazoid>,
 putting differences aside [Worf and Alexander] <Worf/Alexander Rozhenko>,
 coping with unwelcome romantic attention [Picard at Lwaxana] <Picard>,
 alien customs [wedding customs],
@@ -12920,7 +12920,7 @@ having a preconception challenged [Picard challenged Guinan about the ethics of 
 alien point of view [Hugh and his non-individuality] <Hugh, Borg>,
 annihilation by WMDs [there is an opportunity to annihilate the Borg using a Trojan Horse attack],
 collective intelligence [Borg] <Borg>,
-collectively intelligent aliens [Borg] <Borg>,
+collectively intelligent beings [Borg] <Borg>,
 shades of gray [Hugh's life weighed against the the preservation of humanity],
 diversity vs. unity [diversity through individuality vs. unity through collective consciousness],
 cyborg [The Borg] <Borg>,
@@ -13528,7 +13528,7 @@ malevolence [Alkar's mother is described as malevolent by Troi] <Ves Alkar>,
 doctor vs. next of kin [Picard authorizes the autopsy against Alkar's wishes] <Picard>,
 coping with a friend who is losing his mind [Riker at Troi] <Riker>,
 lust [Troi slept with a crewman] <Troi>,
-telepathic alien [Alkar's race] <Lumerian>,
+telepathic being [Alkar's race] <Lumerian>,
 coping with aging [Troi rapidly aged because Alkar projected his negative emotions into her] <Troi>,
 guilt and evidence [how can the crew prove Alkar was guilty of using Troi as a receptacle for his negative emotions],
 flirtation [Troi and Alkar] <Troi/Ves Alkar>,
@@ -13973,7 +13973,7 @@ coping with losing a special ability [Picard with being in a child's body],
 for better or for worse [Keiko being in the body of a little girl and husband Miles quietly asking himself if this counts as for the better, or for the worse] <Miles O'Brien/Keiko O'Brien>,
 husband and wife [Miles and Keiko] <Miles O'Brien/Keiko O'Brien>,
 carpe diem [Guinan's advice to Ro],
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 the need for play [Ro encourages Guinan to partake in the jumping on of beds and pilow fighting] <Ro Laren>,
 leadership [Picard not quite the same in the eyes of the crew when he is in the body of a child] <Picard>,
 loyalty to a leader [crew to young Picard],
@@ -14572,7 +14572,7 @@ sister and sister [Aquiel and sister] <Aquiel Uhnari/Shianna>,
 sororal love [Aquiel for her sister] <Aquiel Uhnari>,
 the desire to advance one's career [Aquiel] <Aquiel Uhnari>,
 world with telepathy [Aquiel telepathically connected with Geordi in the traditional Hallian fashion],
-telepathic alien [Hallians] <Hallian>,
+telepathic being [Hallians] <Hallian>,
 diplomatic maneuvering [crew with Klingons],
 ennui [Aquiel on space station] <Aquiel Uhnari>,
 annoyance [Klingon for being detained on Enterprise] <Morag>,
@@ -16570,7 +16570,7 @@ incompatible modes of communication [telepathy vs. speech],
 alien point of view [Cairn use nonverbal communication] <Cairn>,
 remorse [Lwaxana over being a negligent parent] <Lwaxana>,
 catharsis [Lwaxana] <Lwaxana>,
-telepathic alien [Cairn, Betazoid] <Cairn, Betazoid>,
+telepathic being [Cairn, Betazoid] <Cairn, Betazoid>,
 world with telepathy [Cairn and Betazoid telepath fest] <Cairn, Betazoid>,
 conflict of privacy preferences [Humans not comfortable sharing unfiltered thoughts],
 maternal love [Lwaxana to Troi and Kestra] <Lwaxana>,
@@ -18141,7 +18141,7 @@ loathing [Bok for Picard] <Bok>,
 
 :: Major Themes
 reunion with a long lost child [Picard at Jason] <Picard>,
-spacefaring aliens with primitive minds [Ferengi] <Ferengi>,
+primitive-minded spacefaring alien [Ferengi] <Ferengi>,
 taking responsibility for one's actions [Picard for having knocked up Miranda] <Picard>,
 facing a mortal enemy [Picard faces Bok] <Picard>,
 paternal love [Picard at Jason] <Picard>,
