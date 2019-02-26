@@ -22592,25 +22592,23 @@ A mysterious maker alien race left an asteroid deflecting obelisk on the planet 
 aliens
 
 
-nanotechnology
-==============
+speculative nanotechnology
+==========================
 
 :: Description
-The branch of technology that concerns the control of matter on the atomic and
-molecular scale.
+A technology that concerns the control of matter on the atomic and molecular 
+scale that goes beyond our current capabilities.
 
 :: Parents
-scientific discipline
+speculative technology
 
 :: References
 https://en.wikipedia.org/wiki/Nanotechnology
+https://en.wikipedia.org/wiki/Nanotechnology_in_fiction
 
 :: Example
-Wesley made nano-machines work together and evolve in tng3x01 "Evolution" and things got a bit out of hand.
-
-:: Related Themes
-
-:: Other Parents
+Wesley Crusher made nano-machines work together and evolve in tng3x01 
+"Evolution" and things got a bit out of hand.
 
 
 narcissism
@@ -29140,7 +29138,7 @@ fictional apparatus
 https://en.wikipedia.org/wiki/Self-replicating_machine
 
 
-self-replicating nano-devices
+self-replicating nanomachines
 =============================
 
 :: Description
@@ -29148,17 +29146,13 @@ The potential consequences of introducing small man-made self-replicating
 devices is explored.
 
 :: Parents
-fictional apparatus
+fictional apparatus, speculative nanotechnology
 
 :: References
 https://en.wikipedia.org/wiki/Self-replicating_machine
 
 :: Example
 Wesley created such things in tng3x01 "Evolution".
-
-:: Related Themes
-
-:: Other Parents
 
 
 self-sacrifice
@@ -29281,7 +29275,7 @@ sentient nanomachines
 Tiny artificial machines that are somehow sentient.
 
 :: Parents
-microscopic being, artificial being
+microscopic being, artificial being, speculative nanotechnology
 
 :: Example
 Wesley experimented with self replicating nanomachines that got loose aboard 
