@@ -4111,21 +4111,21 @@ bioengineered human pathogen
 
 :: Description
 A virus, bacterium or equivalent type of infectious substance has been
-engineered by human hand.
+engineered by a person.
 
 :: Parents
-bioengineering technology
+biological technology
 
 
-bioengineering technology
-=========================
+biological technology
+=====================
 
 :: Description
 An as-yet fictional thing that may conceivably be done with bioengineering
 techniques in the future.
 
 :: Parents
-novel sci-fi concept
+novel sci-fi concept, speculative technology
 
 :: References
 https://en.wikipedia.org/wiki/Biological_engineering
@@ -4139,16 +4139,10 @@ A machine that works much like a classical computer but is grown out of
 organic materials.
 
 :: Parents
-fictional apparatus
+fictional apparatus, biological technology
 
 :: References
 https://en.wikipedia.org/wiki/Biological_computing
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 biological computer virus
@@ -4170,7 +4164,7 @@ There is an artificial device with components that are biological in nature.
 Note: This theme is not used for sentient objects such as androids.
 
 :: Parents
-bioengineering technology
+biological technology
 
 
 biological spaceship
@@ -4180,7 +4174,7 @@ biological spaceship
 A spaceship made up of biological components, i.e., cells and such.
 
 :: Parents
-spacecraft
+spacecraft, biological technology
 
 :: References
 https://en.wikipedia.org/wiki/Bioship
@@ -4197,12 +4191,6 @@ war
 
 :: References
 https://en.wikipedia.org/wiki/Biological_warfare
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 biologically distinguished being
