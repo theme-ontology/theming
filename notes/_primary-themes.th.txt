@@ -66,12 +66,6 @@ artificial intelligences (or their forerunners) is discussed.
 :: Parents
 prejudice in society
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 AI rights
 =========
@@ -98,31 +92,27 @@ AI safeguards
 
 :: Description
 Ways in which AI can be made safe from becoming kill-all-human machines are
-discussed. Isaac Asimov's three laws of robotics are a popular example.
+discussed. Isaac Asimov's three laws of robotics is a popular example.
 
 :: Parents
-AI technology
+artificial intelligence
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_intelligence
 
 
-AI technology
-=============
+artificial intelligence
+=======================
 
 :: Description
-The contemporarily popular category of themes that features Artificial
-Intelligence (AI) in different ways: androids, sentient computers, etc.
+There is a machine with human-like intelligence, such as androids, sentient 
+computers, etc.
 
 :: Parents
-novel sci-fi concept
+novel sci-fi concept, speculative technology,
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
+:: References
+https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction
 
 
 Adolf Hitler
@@ -2243,7 +2233,7 @@ An intelligent machine is left by a long gone civilization on a planet and
 becomes its guardian or caretaker.
 
 :: Parents
-virtual person, AI technology
+virtual person, artificial intelligence
 
 :: Example
 A landing party encountered the artificial custodian Portal 6-3 on a planet formerly belonging to the long disappeared Tkon Empire in tng1x05 "The Last Outpost".
@@ -2270,7 +2260,7 @@ android
 A robot designed to look and act like a human.
 
 :: Parents
-artificial being, AI technology
+artificial being, artificial intelligence
 
 :: References
 https://en.wikipedia.org/wiki/Android_(robot)
@@ -3486,17 +3476,14 @@ https://en.wikipedia.org/wiki/Robot-assisted_surgery
 In Prometheus (2012) Shaw used such a machine to remove a squid-like alien that was growing inside of her.
 
 
-autonomous sentient coworker
-============================
+artificial autonomous sentient coworker
+=======================================
 
 :: Description
 An artificial co-worker, for example a robot, that is autonomous and sentient.
 
 :: Parents
-AI technology
-
-:: Flag
-review: should be artificial autonomous sentient co-worker I guess
+virtual person
 
 
 autonomous sentient tool
@@ -3507,14 +3494,7 @@ A sentient robot that functions essentially as a multi-purpose tool with a
 high degree of problem-solving ability.
 
 :: Parents
-AI technology
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
+artificial intelligence
 
 
 autonomous weapon systems in society
@@ -3542,7 +3522,7 @@ intelligence so as to select targets and operate entirely on its own, once
 unleashed.
 
 :: Parents
-AI technology
+artificial intelligence
 
 :: References
 https://en.wikipedia.org/wiki/Lethal_autonomous_weapon
@@ -5923,17 +5903,10 @@ A shared or group intelligence that emerges from the collective efforts of
 many individuals.
 
 :: Parents
-AI technology
+artificial intelligence
 
 :: References
 https://en.wikipedia.org/wiki/Collective_intelligence
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
 
 
 collective punishment
@@ -6374,15 +6347,10 @@ orderly manner. The outcome is reported to the combatants on whom the verdict
 is binding, i.e., losers must commit suicide.
 
 :: Parents
-AI technology
+artificial intelligence
 
 :: Example
 Captain Kirk pulled the plug on a 500 year long computer simulated war between the Eminain Union and the People of Vendikar in tos1x23 "A Taste of Armageddon".
-
-:: Related Themes
-
-:: Other Parents
-AI
 
 
 computer-aided mathematical model simulation
@@ -11808,17 +11776,10 @@ An intelligence forms through some natural process akin to evolution. This is
 as opposed to it being designed by some other intelligence.
 
 :: Parents
-AI technology
+artificial intelligence
 
 :: References
 https://en.wikipedia.org/wiki/Noogenesis
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
 
 
 emotional overwhelm
@@ -21261,7 +21222,7 @@ mechanical man
 An automaton that resembles a human being is featured.
 
 :: Parents
-artificial being, AI technology
+artificial being
 
 
 meddling parent
@@ -28106,7 +28067,7 @@ A sophisticated but not quite sentient mobile machine that serves man as his
 helper.
 
 :: Parents
-artificial being, AI technology
+artificial being, artificial intelligence
 
 :: Example
 The immortal Mr. Flint had a hovering robot helped named M-4 in tos3x21 "Requiem for Methuselah".
@@ -29288,7 +29249,7 @@ There is an explosive device with a built in artificial intelligence that is
 self-aware and able to make complex strategical decisions on pair with humans.
 
 :: Parents
-AI technology
+artificial intelligence
 
 
 sentient computer
@@ -29299,14 +29260,7 @@ A computer-like machine that is self-aware an intelligent. This is used about
 stationary devices.
 
 :: Parents
-AI technology
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-AI
+artificial intelligence
 
 
 sentient machine
@@ -29317,7 +29271,7 @@ There is a machine, artificial by definition, imbued with intelligence to the
 level that it is considered sentient.
 
 :: Parents
-AI technology
+artificial intelligence
 
 
 sentient nanomachines
@@ -29359,15 +29313,11 @@ sentient space probe
 An artificial self-aware object designed to explore space.
 
 :: Parents
-AI technology
+artificial intelligence
 
 :: Example
-Nomad was such an object in tos2x08 "The Changeling", and hellbent on cleansing the universe of imperfect beings.
-
-:: Related Themes
-
-:: Other Parents
-AI
+Nomad was such an object in tos2x08 "The Changeling", and hellbent on 
+cleansing the universe of imperfect beings.
 
 
 sentient spaceship
@@ -29410,7 +29360,7 @@ A "fully functional" android of one gender or another, designed to please its
 masters in matters of the flesh.
 
 :: Parents
-artificial being, AI technology
+artificial being, artificial intelligence
 
 
 sexism in society
@@ -29678,7 +29628,7 @@ aware but may or may not be cognizent of its status as a simulation. Perhaps
 we all are such.
 
 :: Parents
-artificial being, AI technology
+artificial being, artificial intelligence
 
 :: References
 https://en.wikipedia.org/wiki/Simulated_consciousness_in_fiction
@@ -38207,7 +38157,7 @@ virtual lover
 There is a virtual personality with which someone corporeal has a love affair.
 
 :: Parents
-virtual person, AI technology
+virtual person
 
 
 virtual reality choose your own adventure
