@@ -1487,8 +1487,8 @@ brain-computer interface
 https://en.wikipedia.org/wiki/Brain_implant#In_fiction_and_philosophy
 
 
-gravitation technology
-======================
+gravity manipulating technology
+===============================
 
 :: Description
 Technology that allows us to simulate or control the force of gravity.
@@ -1618,4 +1618,16 @@ speculative technology
 
 :: References
 http://www.sf-encyclopedia.com/entry/power_sources
+
+
+spacetime altering technology
+=============================
+
+:: Description
+A technology used to somehow manipulate space and/or time, such as a space 
+folding engine used for space travel or a time machine.
+
+:: Parents
+speculative technology
+
 
