@@ -1620,8 +1620,8 @@ speculative technology
 http://www.sf-encyclopedia.com/entry/power_sources
 
 
-spacetime altering technology
-=============================
+spacetime manipulating technology
+=================================
 
 :: Description
 A technology used to somehow manipulate space and/or time, such as a space 
@@ -1631,3 +1631,43 @@ folding engine used for space travel or a time machine.
 speculative technology
 
 
+body and mind altering technology
+=================================
+
+:: Description
+A novel technology is used to enhance (or diminish depending on one's point of 
+view) a person's physical and/or mental ability.
+
+:: Parents
+speculative technology
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
+
+
+body altering technology
+========================
+
+:: Description
+A novel technology is used to enhance (or diminish depending on one's point of 
+view) a person's physical ability.
+
+:: Parents
+body and mind altering technology
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
+
+
+mind altering technology
+========================
+
+:: Description
+A novel technology is used to enhance (or diminish depending on one's point of 
+view) a person's mental ability.
+
+:: Parents
+body and mind altering technology
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
