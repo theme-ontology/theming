@@ -1521,10 +1521,11 @@ stellar engineering
 ===================
 
 :: Description
-There is technology by which matter on the scale of stars can be moved about at will.
+There is technology by which matter on the scale of stars can be manipulated 
+and even moved about at will.
 
 :: Parents
-mastering space
+astronomical-scale engineering, mastering space
 
 :: References
 https://en.wikipedia.org/wiki/Stellar_engineering
@@ -1558,6 +1559,7 @@ speculative fiction theme
 
 :: References
 https://en.wikipedia.org/wiki/Technology_in_science_fiction
+https://en.wikipedia.org/wiki/Category:Fictional_technology
 
 
 brain implant
@@ -1821,7 +1823,8 @@ lost continent of Mu
 ====================
 
 :: Description
-An advanced ancient civilization on a lost continent that was once located in the Pacific Ocean.
+An advanced ancient civilization on a lost continent that was once located in 
+the Pacific Ocean.
 
 :: Parents
 crackpot theory
@@ -1834,9 +1837,115 @@ attack by a powerful conquering race
 ====================================
 
 :: Description
-A big, powerful outside force come along and subjugates your civlization to their own ends.
+A big, powerful outside force come along and subjugates your civlization to 
+their own ends.
 
 :: Parents
 extraterrestrial threat
+
+
+controlling family member
+=========================
+
+:: Description
+One family member is excessively controlling of the life of another family
+member. For example, an older brother controlling whom his younger sister 
+dates.
+
+:: Parents
+family affairs
+
+
+speculative engineering
+=======================
+
+:: Description
+There is an application of technology that goes above and beyond present 
+capabilities.
+
+:: Parents
+speculative technology
+
+
+sub-planetary-scale engineering
+===============================
+
+:: Description
+There is an application of technology for the purpose of influencing a
+local environment of a planet at a level beyond our present capabilities.
+These are constructions such as underwater cities and arcologies. 
+
+:: Parents
+speculative engineering
+
+:: References
+https://en.wikipedia.org/wiki/Macro-engineering
+
+
+planetary-scale engineering
+===========================
+
+:: Description
+There is an application of technology for the purpose of influencing the 
+global environments of a planet.
+
+:: Parents
+speculative engineering
+
+:: References
+https://en.wikipedia.org/wiki/Planetary_engineering
+
+
+astronomical-scale engineering
+==============================
+
+:: Description
+There is an application of technology for the purpose of influencing the 
+environment of something beyond the scale of even a planet, like a star or
+galaxy.
+
+:: Parents
+speculative engineering
+
+:: References
+https://en.wikipedia.org/wiki/Megastructure
+
+
+speculative city
+================
+
+:: Description
+There is a futuristic city requiring a degree of engineering ability beyond our
+present capabilities, such as an arcology or a floating city.
+
+:: Parents
+sub-planetary-scale engineering
+
+
+orbital structure
+=================
+
+:: Description
+There is a technological construction in orbit around an astronomical body.
+
+:: Parents
+speculative engineering
+
+:: References
+https://en.wikipedia.org/wiki/Megastructure#Orbital_structures
+
+
+trans-orbital structure
+=======================
+
+:: Description
+There is a technological construction connects (perhaps not physically) a
+planet with things orbiting it.
+
+:: Parents
+speculative engineering
+
+:: References
+https://en.wikipedia.org/wiki/Megastructure#Trans-orbital_structures
 
 
