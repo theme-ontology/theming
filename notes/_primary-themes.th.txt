@@ -196,15 +196,15 @@ human nature
 https://en.wikipedia.org/wiki/Buridan%27s_ass
 
 
-Bussard collector
-=================
+Bussard ramjet
+==============
 
 :: Description
 A spaceship propulsion technology the idea of which is to use electromagnetic
 fields to collect hydrogen from space and fuel a fusion process.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 :: References
 https://en.wikipedia.org/wiki/Bussard_ramjet
@@ -1585,7 +1585,7 @@ A type of aircraft for transporting passengers and air cargo is featured in a
 science fictional context.
 
 :: Parents
-mastering space
+speculative vehicle
 
 :: References
 https://en.wikipedia.org/wiki/Airliner
@@ -1599,7 +1599,7 @@ A type of lighter-than-air aircraft that can navigate through the air under
 its own power is featured in a science fictional context.
 
 :: Parents
-mastering space
+speculative vehicle
 
 :: References
 https://en.wikipedia.org/wiki/Airship
@@ -2336,7 +2336,7 @@ ankle bracelet
 A device used to control prisoners.
 
 :: Parents
-real gadget
+speculative wearable device, real gadget
 
 :: References
 https://en.wikipedia.org/wiki/Ankle_monitor
@@ -3517,7 +3517,7 @@ A device for maintaining the growing a baby from conception to the point where
 they can enter the world is featured.
 
 :: Parents
-fictional apparatus
+pod or booth-like device, fictional apparatus
 
 
 bad government exports while the people are starving
@@ -4066,7 +4066,7 @@ biological spaceship
 A spaceship made up of biological components, i.e., cells and such.
 
 :: Parents
-spacecraft, biological technology
+spaceship, biological technology
 
 :: References
 https://en.wikipedia.org/wiki/Bioship
@@ -10518,13 +10518,7 @@ A chamber with the capability to make its contents, for all intents and
 purposes, vanish into thin air.
 
 :: Parents
-fictional apparatus
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+pod or booth-like device, fictional apparatus
 
 
 distaste for attention
@@ -10657,7 +10651,7 @@ environment is featured in a manner that makes it clear it is a future
 technological achievement.
 
 :: Parents
-real gadget
+speculative suit, real gadget
 
 :: References
 https://en.wikipedia.org/wiki/Diving_suit
@@ -11711,14 +11705,14 @@ topic in science
 https://en.wikipedia.org/wiki/Event_horizon
 
 
-everlasting fabric
-==================
+suit of everlasting fabric
+==========================
 
 :: Description
-A fabric that never gets dirty and never wears out is featured.
+A suit made of fabric that never gets dirty and never wears out is featured.
 
 :: Parents
-fictional apparatus
+speculative suit, fictional apparatus
 
 :: Example
 Sidney Stratton makes a brilliantly white suit from an everlasting fabric made 
@@ -12053,7 +12047,7 @@ face patch
 Like an eye patch, but covering half of the face.
 
 :: Parents
-prosthetic device, human enhancement
+speculative wearable device, prosthetic device, human enhancement
 
 :: Example
 The "steady, reputable, and occasionally brilliant" Dr. Thomas Leighton 
@@ -12070,12 +12064,8 @@ Someone faces a secret conspiracy that aims to produce some nefarious outcome.
 facing general adversity
 
 :: Example
-Ensign Ro got herself mixed up in an elaborate conspiracy to eradicate a Bajoran terrorist cell in the eponymous episode tng5x03 "Ensign Ro".
-
-:: Related Themes
-conspiracy theory
-
-:: Other Parents
+Ensign Ro got herself mixed up in an elaborate conspiracy to eradicate a 
+Bajoran terrorist cell in the eponymous episode tng5x03 "Ensign Ro".
 
 
 facing a ferocious beast
@@ -13710,7 +13700,7 @@ flying boat
 A boat that can fly is featured in a science fictional context.
 
 :: Parents
-fictional apparatus
+speculative vehicle, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Flying_boat
@@ -13723,7 +13713,7 @@ flying car
 This classical sci-fi vehicle is featured.
 
 :: Parents
-fictional apparatus
+speculative vehicle, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Flying_car_(aircraft)
@@ -15436,7 +15426,9 @@ A planet in a binary star system, that is hospitable to humanoid life.
 speculative habitat, what's out there
 
 :: Example
-Harry Mudd fled the Enterprise in an absconded shuttlecraft to planet in a binary star system inhabited by a giant, menacing worm in tas1x10 "Mudd's Passion".
+Harry Mudd fled the Enterprise in an absconded shuttlecraft to planet in a 
+binary star system inhabited by a giant, menacing worm in tas1x10 "Mudd's 
+Passion".
 
 
 habitable planet in a trinary star system
@@ -15449,7 +15441,8 @@ A planet in a trinary star system, that is hospitable to humanoid life.
 speculative habitat, what's out there
 
 :: Example
-A trio of disembodied brain aliens ran a humanoid fighting ring on just such a planet in tos2x17 "The Gamesters of Triskellion".
+A trio of disembodied brain aliens ran a humanoid fighting ring on just such a 
+planet in tos2x17 "The Gamesters of Triskellion".
 
 
 hand transplant
@@ -15474,7 +15467,7 @@ A hand-held multifunction device used for sensor scanning, data analysis, and
 recording data. In other words: the tricorder from Star Trek.
 
 :: Parents
-fictional apparatus
+speculative handheld device, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Tricorder
@@ -15488,7 +15481,7 @@ A gun-like device used for all sorts of purposes, including as laser weapon,
 telescope, pocket calculator, and rocket motor.
 
 :: Parents
-fictional apparatus, speculative weapon
+speculative handheld device, fictional apparatus, speculative weapon
 
 :: Example
 An ancient slaver weapon of that kind was uncovered in a stasis box in tas1x14 
@@ -15502,7 +15495,7 @@ handheld organ extractor
 A relatively small device by which organs can be extracted from a human body.
 
 :: Parents
-fictional apparatus
+speculative handheld device, fictional apparatus
 
 
 handing over the mantle before retirement
@@ -17359,13 +17352,14 @@ There is a device which confers upon its target the ability to pass unscathed
 through solid matter.
 
 :: Parents
-fictional apparatus
+speculative handheld device, fictional apparatus
 
 :: References
 https://tvtropes.org/pmwiki/pmwiki.php/Main/Intangibility?from=Main.IntangibleMan
 
 :: Example
-Captain Archer was able to walk through walls using a handheld device in "Star Trek: Enterprise" Cold Front (ent1x11).
+Captain Archer was able to walk through walls using a handheld device in "Star 
+Trek: Enterprise" Cold Front (ent1x11).
 
 
 integrity
@@ -17858,7 +17852,7 @@ A device worn on the back which uses jets of gas or liquid to propel the
 wearer through the air.
 
 :: Parents
-fictional apparatus
+speculative wearable device, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Jet_pack
@@ -18596,14 +18590,11 @@ A headband-shaped device used to transfer the wearer’s life-force somewhere
 else.
 
 :: Parents
-fictional apparatus
+speculative wearable device, fictional apparatus
 
 :: Example
-Taurean women put such devices on men in tas1x04 "The Lorelei Signal", until Captain Kirk and his crew put a stop to it all.
-
-:: Related Themes
-
-:: Other Parents
+Taurean women put such devices on men in tas1x04 "The Lorelei Signal", until 
+Captain Kirk and his crew put a stop to it all.
 
 
 life in 1950s America
@@ -18810,13 +18801,7 @@ A simple belt-like device that can be worn in lieu of a clumsy space suit but
 that offers the same protection.
 
 :: Parents
-fictional apparatus
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+speculative wearable device, fictional apparatus
 
 
 light refraction
@@ -19620,7 +19605,7 @@ hulls of a spacecraft during weightlessness, and presumably would allow
 someone to walk around the cabin of a spacecraft, are featured.
 
 :: Parents
-real gadget
+speculative wearable device, real gadget
 
 :: References
 https://en.wikipedia.org/wiki/Magnetic_boots
@@ -20736,20 +20721,6 @@ Kahless the Unforgettable, the Klingon messiah, was resurrected by cloning by
 Klingon monks in tng6x23 "Rightful Heir".
 
 
-metal detector
-==============
-
-:: Description
-An electronic instrument which detects the presence of metal nearby is
-featured.
-
-:: Parents
-real gadget
-
-:: References
-https://en.wikipedia.org/wiki/Metal_detector
-
-
 metal eating microscopic organism
 =================================
 
@@ -20994,7 +20965,7 @@ There is a vehicle that is controlled simply by thinking, without using knobs,
 wheels, levers, etc.
 
 :: Parents
-mind technology
+speculative vehicle, mind technology
 
 
 minefields in war
@@ -21189,7 +21160,7 @@ A bewheeled box-like device that keeps you alive and mobile even after the
 most crippling of catastrophic accidents.
 
 :: Parents
-human enhancement
+speculative vehicle, human enhancement
 
 :: Example
 Captain Pike was confined to just such a device in tos1x15 "The Menagerie, Part I" and tos1x16  "The Menagerie, Part II".
@@ -21219,15 +21190,15 @@ https://en.wikipedia.org/wiki/Science
 :: Other Parents
 
 
-modular starship
-================
+modular spaceship
+=================
 
 :: Description
-There is a starship that is composed of many more-or-less autonomous modules
+There is a spaceship that is composed of many more-or-less autonomous modules
 that can detach and re-attach to reconfigure the whole thing.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 
 mole people
@@ -21494,16 +21465,10 @@ A spaceship built for voyages longer than an individual’s lifespan and with a
 view to let the crew procreate and live out their lives on-board.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 :: References
 https://en.wikipedia.org/wiki/Generation_ship
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 multicultural upbringing
@@ -21586,7 +21551,7 @@ A rocket that uses two or more stages, each of which contains its own engines
 and propellant is featured.
 
 :: Parents
-spacecraft
+spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Multistage_rocket
@@ -22127,7 +22092,7 @@ nuclear submarine
 A submarine powered by a nuclear reactor is featured.
 
 :: Parents
-submarine
+speculative vehicle, submarine
 
 :: References
 https://en.wikipedia.org/wiki/Nuclear_submarine
@@ -22974,14 +22939,11 @@ A belt-like device used to induce unbearable pain in its wearer without
 causing physical injury.
 
 :: Parents
-futuristic torture device
+speculative wearable device, futuristic torture device
 
 :: Example
-The Eymorg outfitted Captain Kirk, McCoy, and Scotty with pain belts in tos3x06 "Spock's Brain".
-
-:: Related Themes
-
-:: Other Parents
+The Eymorg outfitted Captain Kirk, McCoy, and Scotty with pain belts in 
+tos3x06 "Spock's Brain".
 
 
 pain booth
@@ -23010,14 +22972,12 @@ A handy device that when attached to a person can be used to induce unbearable
 pain without causing physical injury.
 
 :: Parents
-futuristic torture device
+speculative wearable device, futuristic torture device
 
 :: Example
-Spock with a goatee disciplined Kyle (mirror) using an agonizer, i.e. a pain buzzer, for his carelessness at the transporter controls in tos2x10 "Mirror, Mirror"
-
-:: Related Themes
-
-:: Other Parents
+Spock with a goatee disciplined Kyle (mirror) using an agonizer, i.e. a pain 
+buzzer, for his carelessness at the transporter controls in tos2x10 "Mirror, 
+Mirror"
 
 
 pain collar
@@ -23028,14 +22988,11 @@ A collar-like device used to induce unbearable pain in its wearer without
 causing physical injury.
 
 :: Parents
-futuristic torture device
+speculative wearable device, futuristic torture device
 
 :: Example
-A trio of disembodied brains employed "collars of obedience" to maintain control over their thrall gladiators in tos2x17 "The Gamesters of Triskelion".
-
-:: Related Themes
-
-:: Other Parents
+A trio of disembodied brains employed "collars of obedience" to maintain 
+control over their thrall gladiators in tos2x17 "The Gamesters of Triskelion".
 
 
 pain implant
@@ -23064,14 +23021,11 @@ A stick-like device used to induce unbearable pain in its target without
 causing physical injury.
 
 :: Parents
-futuristic torture device
+speculative handheld device, futuristic torture device
 
 :: Example
-The "painstick" is the Klingon equivalent of cattle prod. It was usedto inflict pain on Worf in tng2x14 "The Icarus Factor" for ritualistic purposes.
-
-:: Related Themes
-
-:: Other Parents
+The "painstick" is the Klingon equivalent of cattle prod. It was used to 
+inflict pain on Worf in tng2x14 "The Icarus Factor" for ritualistic purposes.
 
 
 painting
@@ -23085,12 +23039,6 @@ the fine arts and the humanities
 
 :: References
 https://en.wikipedia.org/wiki/Painting
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 pandemic
@@ -24112,12 +24060,6 @@ metaphysics
 :: References
 https://en.wikipedia.org/wiki/Personal_identity
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 personal invisibility cloak
 ===========================
@@ -24127,7 +24069,7 @@ There is technology by which a person can render their own body practically
 invisible.
 
 :: Parents
-fictional apparatus, invisibility technology
+speculative wearable device, fictional apparatus, invisibility technology
 
 
 personal practical dilemma
@@ -25018,7 +24960,7 @@ powered exoskeleton
 A machine that surrounds you and enhances your normal human movements.
 
 :: Parents
-real gadget
+speculative suit, real gadget
 
 :: References
 https://en.wikipedia.org/wiki/Powered_exoskeleton
@@ -28126,7 +28068,7 @@ sentient spaceship
 A space ship that can think intelligently is featured.
 
 :: Parents
-spacecraft
+spaceship
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/SapientShip
@@ -28610,7 +28552,7 @@ A spaceship built to carry people in extended sleep (i.e. cryogenic stasis) on
 extended journeys.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 
 slick of malevolent tar
@@ -28904,8 +28846,8 @@ topic in science
 https://en.wikipedia.org/wiki/Solar_eclipse
 
 
-solar sail
-==========
+solar sail spaceship
+====================
 
 :: Description
 Massive sail-like sheets that can be folded an unfolded are used to harness
@@ -28913,7 +28855,7 @@ energy from the sun. The energy can be used directly as propulsion or
 indirectly by being stored as electricity.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 :: References
 https://en.wikipedia.org/wiki/Solar_sail
@@ -28972,11 +28914,9 @@ eyesight.
 human enhancement
 
 :: Example
-The blind telepath Miranda Jones wore a sonar-based sensor web dress that helped her to compensate for her disability in tos3x07 "Is There in Truth No Beauty?".
-
-:: Related Themes
-
-:: Other Parents
+The blind telepath Miranda Jones wore a sonar-based sensor web dress that 
+helped her to compensate for her disability in tos3x07 "Is There in Truth No 
+Beauty?".
 
 
 sonic gun
@@ -29001,14 +28941,10 @@ A device that removes unwanted body hair with sonic vibrations: the shave of
 tomorrow.
 
 :: Parents
-fictional apparatus
+speculative handheld device, fictional apparatus
 
 :: Example
 Geordi whipped out his sonic razor in front of Data in tng1x04 "Code of Honor".
-
-:: Related Themes
-
-:: Other Parents
 
 
 sonic shower
@@ -29019,7 +28955,7 @@ A shower-like device that uses sound vibrations instead of water to dislodge
 the grit from your body.
 
 :: Parents
-fictional apparatus
+pod or booth-like device, fictional apparatus
 
 
 sophistry
@@ -29559,14 +29495,14 @@ enormous in size what with not being slaves to gravity and all.
 extraterrestrial being, novel alien concept
 
 
-spacecraft
-==========
+spaceship
+=========
 
 :: Description
 A vehicle or machine designed to fly in outer space is featured.
 
 :: Parents
-starship technology
+speculative vehicle, starship technology
 
 :: References
 https://en.wikipedia.org/wiki/Spacecraft
@@ -29609,7 +29545,7 @@ spacesuit
 A garment worn to keep a human alive in the harsh environment of outer space.
 
 :: Parents
-real gadget
+speculative suit, real gadget
 
 :: References
 https://en.wikipedia.org/wiki/Space_suit
@@ -29888,7 +29824,7 @@ starship invisibility cloak
 Technology that renders a spaceship invisible.
 
 :: Parents
-starship technology, invisibility technology
+spaceship, starship technology, invisibility technology
 
 
 starship technology
@@ -29918,15 +29854,15 @@ to fly safely through the star Vaytan’s dense and unstable Corona in tng6x22
 "Suspicions".
 
 
-starship that can fly within solid matter
-=========================================
+intangible spaceship
+====================
 
 :: Description
-Technology that makes it possible for a space ship to somehow fly intact
+Technology that makes it possible for a spaceship to somehow fly intact
 through solid matter.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 :: Example
 Rear Admiral Erik Pressman, Riker’s old captain, violated the Treaty of 
@@ -30189,7 +30125,7 @@ submarine travels underwater, either by mechanical drilling or by melting its
 way forward, is featured in a science fictional context.
 
 :: Parents
-fictional apparatus
+speculative vehicle, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Subterrene
@@ -30374,14 +30310,11 @@ A pen-like device used to make all sorts of things happen at the push of a
 button.
 
 :: Parents
-fictional apparatus
+speculative handheld device, fictional apparatus
 
 :: Example
-Agent Gary Seven used such a pen to save the Earth from nuclear holocaust in tos2x26 "Assignment: Earth".
-
-:: Related Themes
-
-:: Other Parents
+Agent Gary Seven used such a pen to save the Earth from nuclear holocaust in 
+tos2x26 "Assignment: Earth".
 
 
 superior life form
@@ -30732,7 +30665,7 @@ A portal-like device which can let you pass through it in order to appear
 anywhere else in the universe.
 
 :: Parents
-space travel, fictional apparatus
+pod or booth-like device, space travel, fictional apparatus
 
 
 taking control of one's fears
@@ -30911,7 +30844,7 @@ A device used to move people and objects over vast distances by transforming
 matter into energy and the reconstituting the matter at the destination.
 
 :: Parents
-space travel, fictional apparatus
+pod or booth-like device, space travel, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Teleportation http://tvtropes.org/pmwiki/pmwiki.php/Main/Teleportation?from=Main.TeleportersAndTransporters
@@ -35157,7 +35090,7 @@ later time, without the need for the time-traveling body to experience the
 intervening period in the usual sense.
 
 :: Parents
-time travel, spacetime manipulating technology, fictional apparatus
+speculative vehicle, time travel, spacetime manipulating technology, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Time_travel http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeMachine
@@ -36117,7 +36050,7 @@ universal translation device
 A device used to seamlessly translate speech between any languages.
 
 :: Parents
-fictional apparatus
+speculative handheld device, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Universal_translator
@@ -36176,7 +36109,7 @@ A spaceship that can fly around in outer space without people on board is
 featured in a science fictional context.
 
 :: Parents
-starship technology
+spaceship, starship technology
 
 :: References
 https://en.wikipedia.org/wiki/Unmanned_spacecraft
@@ -36616,7 +36549,7 @@ A wearable suit that makes it seem as if you were somewhere else, encompassing
 all the senses.
 
 :: Parents
-fictional apparatus, simulated reality
+speculative suit, fictional apparatus, simulated reality
 
 :: References
 https://en.wikipedia.org/wiki/Virtual_reality
@@ -36626,22 +36559,17 @@ Geordi used a virtual reality suit to explore a wrecked spaceship in the
 inhospitable environment of a gas giant planet in tng7x03 "Interface".
 
 
-vision beyond the visible spectrum
-==================================
+vision beyond the visible spectrum glasses
+==========================================
 
 :: Description
-Technology that can make the brain perceive and interpret electromagnetic
-waves (light) beyond what is normal, i.e., into the infrared or ultraviolet
-regions and possibly beyond. This is used to describe Geordi's iconic VISOR.
+Glasses-like technology that can make the brain perceive and interpret 
+electromagnetic waves (light) beyond what is normal, i.e., into the infrared 
+or ultraviolet regions and possibly beyond. This is used to describe Geordi's 
+iconic VISOR. Note: this includes X-ray glasses as a special case.
 
 :: Parents
-human enhancement
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+speculative glasses, human enhancement
 
 
 vision quest

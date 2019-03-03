@@ -111,7 +111,7 @@ flying saucer
 A spaceship having a disc or saucer-shaped body,
 
 :: Parents
-spacecraft
+spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Flying_saucer
@@ -233,7 +233,7 @@ self-driving car
 There is a car-like vehicle that does not require a driver in order to operate.
 
 :: Parents
-fictional apparatus
+speculative vehicle, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Self-driving_car
@@ -1441,7 +1441,7 @@ A personal vehicle that flies at a constant altitude of up to some feet above
 the ground and used for personal transportation.
 
 :: Parents
-fictional apparatus
+speculative vehicle, fictional apparatus
 
 :: References
 https://en.wikipedia.org/wiki/Hovercar
@@ -1947,5 +1947,81 @@ speculative engineering
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure#Trans-orbital_structures
+
+
+speculative device
+==================
+
+:: Description
+There is a futuristic device, machine, or gizmo of some sort or another. 
+
+:: Parents
+speculative technology
+
+
+speculative handheld device
+===========================
+
+:: Description
+There is a futuristic device, like a sonic razor, designed to be held in the 
+hand.
+
+:: Parents
+speculative device
+
+
+speculative wearable device
+===========================
+
+:: Description
+There is a futuristic device, like a jet pack, designed to be worn on the body.
+
+:: Parents
+speculative device
+
+
+speculative suit
+================
+
+:: Description
+There is a futuristic suit of some sort, like a spacesuit or a powered 
+exoskeleton.
+
+:: Parents
+speculative wearable device
+
+
+speculative glasses
+===================
+
+:: Description
+There are futuristic glasses of some sort, like a glasses that allow you to see
+electromagnetic radiation beyond the visible spectrum.
+
+:: Parents
+speculative wearable device
+
+
+pod or booth-like device
+========================
+
+:: Description
+There is a futuristic stationary device with a particular function that 
+requires you to step inside to use.
+
+:: Parents
+speculative device
+
+
+speculative vehicle
+===================
+
+:: Description
+There is a futuristic vehicle, like a flying car.
+
+:: Parents
+speculative device
+
+
 
 
