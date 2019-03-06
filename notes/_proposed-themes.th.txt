@@ -2272,7 +2272,9 @@ overpopulation
 ==============
 
 :: Description
-The social and environmental ramifications of an ever increasing human population are discussed. Perhaps we will multiply beyond Earth's capability to sustain our present way of life.
+The social and environmental ramifications of an ever increasing human 
+population are discussed. Perhaps we will multiply beyond Earth's capability 
+to sustain our present way of life.
 
 :: Parents
 contemporary social issue
@@ -2285,7 +2287,8 @@ life extension leading to overpopulation
 ========================================
 
 :: Description
-The idea that extended life-spans, or even immortality, may lead to undesirable overpopulation is featured.
+The idea that extended life-spans, or even immortality, may lead to 
+undesirable overpopulation is featured.
 
 :: Parents
 overpopulation
@@ -2309,7 +2312,10 @@ indoctrination in society
 =========================
 
 :: Description
-An institution (for example the government, the church, or the military) uses its powers to indoctrinate individuals into a way of thinking. For "indoctrination" to apply a certain amount of coercion and intolerance towards contrarian views is required.
+An institution (for example the government, the church, or the military) uses 
+its powers to indoctrinate individuals into a way of thinking. For 
+"indoctrination" to apply a certain amount of coercion and intolerance towards 
+contrarian views is required.
 
 :: Parents
 political issue
@@ -2322,7 +2328,9 @@ military indoctrination
 =======================
 
 :: Description
-The military uses its powers to indoctrinate individuals into a way of thinking. For example, a militia may be indoctrinated with the idea that the enemy is evil.
+The military uses its powers to indoctrinate individuals into a way of 
+thinking. For example, a militia may be indoctrinated with the idea that the 
+enemy is evil.
 
 :: Parents
 indoctrination in society
@@ -2335,7 +2343,9 @@ government indoctrination
 =========================
 
 :: Description
-The government uses its powers to indoctrinate individuals into a way of thinking. For example it may design school curricula so as to indoctrinate students into the virtue of the present governments pet ideology of the day.
+The government uses its powers to indoctrinate individuals into a way of 
+thinking. For example it may design school curricula so as to indoctrinate 
+students into the virtue of the present governments pet ideology of the day.
 
 :: Parents
 indoctrination in society
@@ -2343,4 +2353,16 @@ indoctrination in society
 :: References
 https://en.wikipedia.org/wiki/Indoctrination
 
+
+political issue
+===============
+
+:: Description
+There is a... 
+
+:: Parents
+society
+
+:: References
+https://en.wikipedia.org/wiki/Category:Politics_by_issue
 
