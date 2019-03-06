@@ -1238,7 +1238,7 @@ A planetary civilization collapses as a result of some unintended consequence
 of another civilization's activity.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, hostile extraterrestrial life
 
 :: Example
 An errand, radioactive space garbage scow orbited the planet Gamelan V in tng4x09 "Final Mission" and subjected the inhabitants to critical levels of radiation.
@@ -1253,7 +1253,7 @@ very negative way, for example by introducing alien pathogens that it cannot
 cope with, and civilization collapses.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, accidental alien destruction of planetary civilization
 
 
 accumulation of wealth vs. personal development
@@ -1659,7 +1659,7 @@ Aliens from outer space bring with then an infectious disease that threatens
 life on your planet.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, hostile extraterrestrial life
 
 :: References
 http://bigthink.com/paul-ratner/could-alien-diseases-wipe-out-humanity
@@ -2338,13 +2338,15 @@ annihilation by a device that stops fusion in a star
 A single device capable of stopping the fusion process in a star is featured.
 
 :: Parents
-man-made existential risk
+man-made existential risk, hostile extraterrestrial life
 
 :: References
 https://en.wikipedia.org/wiki/Doomsday_device
 
 :: Example
-Captain Picard destroyed the Tox Uthat, a devise capable of stopping nuclear fusion in a star, rather than risk letting it fall into the hands of the Vorgons in tng3x19 "Captain's Holiday".
+Captain Picard destroyed the Tox Uthat, a devise capable of stopping nuclear 
+fusion in a star, rather than risk letting it fall into the hands of the 
+Vorgons in tng3x19 "Captain's Holiday".
 
 :: Related Themes
 annihilation by WMDs
@@ -2357,7 +2359,7 @@ annihilation by a planet busting device
 A device capable of utterly destroying a planet (or worse) is featured.
 
 :: Parents
-man-made existential risk
+man-made existential risk, hostile extraterrestrial life
 
 :: References
 https://en.wikipedia.org/wiki/Doomsday_device
@@ -3003,7 +3005,7 @@ Life on a planet is threatened by an asteroid that is on a collision course
 with it.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, approaching astronomical object event
 
 :: References
 https://en.wikipedia.org/wiki/Impact_event
@@ -3057,7 +3059,7 @@ atmospheric dissipation
 The atmosphere on a planet disappears and civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: References
 http://memory-alpha.wikia.com/wiki/Atmospheric_dissipation
@@ -3150,11 +3152,8 @@ for a long time is featured. This is perhaps a nicer way of referring to
 human need
 
 :: Example
-Ro Larren decided to betray the Federation and side with her own people in tng7x24 "Preemptive Strike".
-
-:: Related Themes
-
-:: Other Parents
+Ro Larren decided to betray the Federation and side with her own people in 
+tng7x24 "Preemptive Strike".
 
 
 attack from outer space by a genocidal enemy
@@ -3165,18 +3164,14 @@ Homicidal aliens from outer space come to your home planet and massacre
 everyone.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, attack from outer space
 
 :: References
 https://en.wikipedia.org/wiki/Alien_invasion
 
 :: Example
-The colonists of Tau Cygna V were slated for extermination by the genocidal Sheliak in tng3x02 "The Ensigns of Command".
-
-:: Related Themes
-
-:: Other Parents
-aliens
+The colonists of Tau Cygna V were slated for extermination by the genocidal 
+Sheliak in tng3x02 "The Ensigns of Command".
 
 
 attack from outer space by a giant space amoeba
@@ -3188,15 +3183,11 @@ characteristics engulfs your whole planet and consumes every last thing living
 on it as well as the planet itself.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, attack from outer space
 
 :: Example
-The Gamma 7A system, with its billions of inhabitants, was utterly destroyed by a giant space amoeba in tos2x19 "The Immunity Syndrome".
-
-:: Related Themes
-
-:: Other Parents
-aliens
+The Gamma 7A system, with its billions of inhabitants, was utterly destroyed 
+by a giant space amoeba in tos2x19 "The Immunity Syndrome".
 
 
 attack from outer space by a powerful conquering alien race
@@ -3207,18 +3198,14 @@ Imperialistic aliens from outer space come along and subjugate your
 civlization to their own ends.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, attack from outer space
 
 :: References
 https://en.wikipedia.org/wiki/Alien_invasion
 
 :: Example
-The mirror universe Halkan homeworld  was under threat of being conquered or destroyed by the savage Terran Empire in tos2x10 "Mirror, Mirror".
-
-:: Related Themes
-
-:: Other Parents
-aliens
+The mirror universe Halkan homeworld  was under threat of being conquered or 
+destroyed by the savage Terran Empire in tos2x10 "Mirror, Mirror".
 
 
 attack from outer space by a world eating machine
@@ -3229,15 +3216,11 @@ An enormous world eating machine gobbles up your whole planet for food or
 fuel.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, attack from outer space
 
 :: Example
-All the planets in systems L-370 and L-374 were reduced to rubble by a world eating machine in tos2x06 "The Doomsday Machine".
-
-:: Related Themes
-
-:: Other Parents
-aliens
+All the planets in systems L-370 and L-374 were reduced to rubble by a world 
+eating machine in tos2x06 "The Doomsday Machine".
 
 
 attack from outer space by a world eating space cloud
@@ -3248,15 +3231,11 @@ An enormous world eating cloud from outer space gobbles up your whole planet
 for food or fuel.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, attack from outer space
 
 :: Example
-The planet Mantiles, with its 82 million colonists, was very nearly consumed by a giant space cloud in tas1x03 "One of our Planets is Missing".
-
-:: Related Themes
-
-:: Other Parents
-aliens
+The planet Mantiles, with its 82 million colonists, was very nearly consumed 
+by a giant space cloud in tas1x03 "One of our Planets is Missing".
 
 
 attitude towards the dead
@@ -3742,7 +3721,7 @@ A civilization is destroyed, perhaps perhaps intentionally, by the actions of
 comparatively more advanced aliens.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, hostile extraterrestrial life
 
 :: Example
 A Douwd wiped the Husnock clean out of existence in tng3x03 "The Survivors".
@@ -4303,7 +4282,7 @@ A biological agent or pathogen wipes out a significant amount of plant-life on
 a planet and the dependent civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Example
 Captain Kirk had to pick up zenite consignment in order to stop such a plague 
@@ -4812,12 +4791,6 @@ social order
 :: References
 https://en.wikipedia.org/wiki/Caste
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 casuistry in interpretation of scripture
 ========================================
@@ -4838,7 +4811,7 @@ Large-scale flooding, or the rising oceans, sends civilization to a watery
 grave.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Example
 After seismic disturbances the planet Argo had become almost wholly covered 
@@ -5715,7 +5688,7 @@ collision with a parallel universe
 Our universe somehow collides with another one and is completely destroyed.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Example
 Lazarus-A sacrificed himself to stop our universe from colliding with its 
@@ -10978,7 +10951,7 @@ dying sun
 The sun to a planet becomes colder and civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, catastrophic solar event
 
 :: References
 https://en.wikipedia.org/wiki/Stellar_evolution
@@ -14155,11 +14128,8 @@ unpleasant emotion
 https://en.wikipedia.org/wiki/Frustration
 
 :: Example
-Sirna Kolrami forfeited a game of Strategema against Data in frustration in tng2x21 "Peak Performance".
-
-:: Related Themes
-
-:: Other Parents
+Sirna Kolrami forfeited a game of Strategema against Data in frustration in 
+tng2x21 "Peak Performance".
 
 
 funeral rite
@@ -14182,7 +14152,7 @@ fungus proliferating over the entire world
 A fungus overruns the world and everybody dies.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Examples
 The Cave of the Dead contained a fast growing fungus that, if ever ever got 
@@ -14797,11 +14767,11 @@ global warming
 ==============
 
 :: Description
-The greenhouse effect and/or other processes cause the temperature on a planet
-to rise and civilization collapses.
+People's activities cause a greenhouse effect and/or other processes cause the 
+temperature on a planet to rise and civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, institutional risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Global_warming
@@ -16439,7 +16409,7 @@ ice age
 A planet becomes so cold that glaciers advance and civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Ice_age
@@ -17547,15 +17517,11 @@ The ecosystem, or a vital resource (food), on your planet is destroyed by an
 invasive life form from outer space and you all die.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, hostile extraterrestrial life
 
 :: Example
-The grain supply designated for Sherman's Planet was entirely consumed by Tribbles in tos2x13 "The Trouble with Tribbles".
-
-:: Related Themes
-
-:: Other Parents
-aliens
+The grain supply designated for Sherman's Planet was entirely consumed by 
+Tribbles in tos2x13 "The Trouble with Tribbles".
 
 
 investigative journalism
@@ -20041,15 +20007,18 @@ group interaction
 https://en.wikipedia.org/wiki/Mass_hysteria
 
 
-mass infertility
-================
+sub-replacement fertility
+=========================
 
 :: Description
 For one reason or another people become infertile and civilization gradually
 die out.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
+
+:: References
+https://en.wikipedia.org/wiki/Societal_collapse#Sub-replacement_fertility
 
 
 mass mind control
@@ -20077,7 +20046,7 @@ mass radiation poisoning
 Radiation from some unspecified source wipes out life on a planet.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Acute_radiation_syndrome
@@ -21144,7 +21113,7 @@ Monsters or beasts of some kind ravage a world and put an end to civilized
 life.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 
 monsters in distant lands
@@ -21183,7 +21152,7 @@ The moon to a planet drops out of its normal orbit for some reason and starts
 on a slow, spiraling collision course with the planet.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, approaching astronomical object event
 
 :: Example
 The Enterprise-D saved the Natives of Bre'el IV from this fate in tng3x13 
@@ -22419,7 +22388,7 @@ Civilization on a planet is threatened when asteroids are directed on a
 collision course with the planet.
 
 :: Parents
-man-made existential risk
+man-made existential risk, hostile extraterrestrial life
 
 
 order vs. freedom
@@ -22854,14 +22823,15 @@ the fine arts and the humanities
 https://en.wikipedia.org/wiki/Painting
 
 
-pandemic
-========
+natural pandemic
+================
 
 :: Description
-A biological agent or pathogen wipes out civilization on a planet.
+A naturally occurring biological agent or pathogen wipes out civilization on a 
+world.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Pandemic
@@ -24010,7 +23980,7 @@ Civilization on a planet is threatened by an the planet somehow being flung
 out of its natural orbit.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, approaching astronomical object event
 
 
 planet hunting
@@ -24053,7 +24023,7 @@ planet scorching atmospheric conflagration
 The whole atmosphere on a planet ignites and civilization goes up in flames.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 
 planet scorching solar flare
@@ -24064,7 +24034,7 @@ An abnormally strong solar flare roasts the surface of a planet like so many
 coffee beans, and civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, catastrophic solar event
 
 :: Example
 The Irish colonists on Bringloidi V had to be evacuated as their sun began to 
@@ -26503,7 +26473,7 @@ The ever-present background radiation in a galaxy suddenly rises and everyone
 dies of radiation poisoning.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Example
 The Kelvan Empire was imperiled by a rise in ambient radiation across the 
@@ -26518,7 +26488,7 @@ A new species evolves, or otherwise appears, and overthrows the civilization
 of the current dominant species on a world.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Examples
 Dr. Otto Hasslein was convinced that apes were destined to become intelligent 
@@ -27092,11 +27062,9 @@ infectious disease.
 self-sacrifice
 
 :: Example
-Spock sacrificed his eyesight in order to defeat the neural parasites in tos1x29 "Operation -- Annihilate!", though it turned out he had second eyelids that in fact saved him.
-
-:: Related Themes
-
-:: Other Parents
+Spock sacrificed his eyesight in order to defeat the neural parasites in 
+tos1x29 "Operation -- Annihilate!", though it turned out he had second eyelids 
+that in fact saved him.
 
 
 sadism
@@ -29454,7 +29422,7 @@ spontaneous planetary break up
 A planet suddenly breaks apart and becomes rubble for no particular reason.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Example
 Planets in the Selcundi Drema sector were spontaneously breaking up as a 
@@ -29756,7 +29724,7 @@ An astronomical object comes into close proximity with a populated planet and
 poses a threat to continued civilization.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, approaching astronomical object event
 
 :: Example
 The genetically engineered colonist utopia on Moab IV was threatened by a 
@@ -29914,10 +29882,12 @@ Aliens, creatures, or some other form of life from outer space, come along and
 point where it is merely an extension of the invading life form's way of life.
 
 :: Parents
-extraterrestrial threat
+extraterrestrial threat, hostile extraterrestrial life
 
 :: Example
-In tng1x25 "Conspiracy", bug-like aliens from outer space subvert the higher echelons of Starfleet by secretly attaching themselves to the brain stems of its key leaders.
+In tng1x25 "Conspiracy", bug-like aliens from outer space subvert the higher 
+echelons of Starfleet by secretly attaching themselves to the brain stems of 
+its key leaders.
 
 
 succumbing to dark emotions
@@ -30009,7 +29979,7 @@ The sun to a planet enters its supernova state and civilization is fried like
 so many chickens.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, catastrophic solar event
 
 
 sun gun
@@ -36389,11 +36359,8 @@ real gadget
 https://en.wikipedia.org/wiki/Speaker_recognition
 
 :: Example
-Gary Seven’s computer in tos2x26 "Assignment: Earth" recognized its owner’s voice.
-
-:: Related Themes
-
-:: Other Parents
+Gary Seven’s computer in tos2x26 "Assignment: Earth" recognized its owner’s 
+voice.
 
 
 volcanic cataclysm
@@ -36403,7 +36370,7 @@ volcanic cataclysm
 Volcanic activity increases and civilization bites the dust. Pardon the pun.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 :: Example
 Terratin civilization on Terra Ten was threatened by volcanic activity in 
@@ -39287,7 +39254,7 @@ A plague of locust, or other crop eating species of insect, sweeps the globe
 and civilization collapses.
 
 :: Parents
-force majeure existential risk
+force majeure existential risk, non-anthropogenic existential risk to civilization
 
 
 traversable wormhole
