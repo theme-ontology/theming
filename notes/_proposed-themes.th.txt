@@ -2139,5 +2139,87 @@ particular view of human nature.
 utopia
 
 
+anthropogenic existential risk to civilization
+==============================================
+
+:: Description
+There is a way in which life on Earth (or some inhabited planet) could end as 
+a consequence of what the inhabitants on the planet choose to do. When will 
+the self-replicating, self-aware killer robots be unleashed?
+
+:: Parents
+existential risk to civilization
+
+:: References
+https://en.wikipedia.org/wiki/Global_catastrophic_risk
+
+
+non-anthropogenic existential risk to civilization
+==================================================
+
+:: Description
+There is a way in which life on Earth (or some inhabited planet) could end 
+because of essentially natural events that we do not control and may have 
+little hope of preventing. When will the sun explode?
+
+:: Parents
+existential risk to civilization
+
+:: References
+https://en.wikipedia.org/wiki/Global_catastrophic_risk
+
+
+technological risk to civilization
+==================================
+
+:: Description
+People rely a technology but it has unforeseen consequences and
+civilization collapses.
+
+:: Parents
+anthropogenic existential risk to civilization
+
+:: References
+https://www.nytimes.com/2014/05/12/upshot/a-discussion-of-the-danger-and-promise-of-tech.html
+
+
+institutional risk to civilization
+==================================
+
+:: Description
+People rely on a particular form of organizing their civilization but they are
+either trapper in it or it has unforeseen consequences and civilization
+collapses. 
+
+:: Parents
+anthropogenic existential risk to civilization
+
+
+AI takeover
+===========
+
+:: Description
+Artificial intelligence becomes the dominant form of intelligence on a world, 
+with computers or robots effectively taking control of the world away from 
+its native inhabitants.
+
+:: Parents
+technological risk to civilization
+
+:: References
+https://en.wikipedia.org/wiki/AI_takeover
+
+
+destructive biotechnology
+=========================
+
+:: Description
+People come up with a nifty way to modify living organisms using technology, 
+but there are consequences, unforeseen or otherwise, and everybody dies. 
+
+:: Parents
+technological risk to civilization
+
+
 
 
