@@ -2250,7 +2250,7 @@ People employ weapons of mass destruction, a.k.a. WMDs, and threaten planetary
 civilization.
 
 :: Parents
-man-made existential risk, institutional risk to civilization
+institutional risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction, https://en.wikipedia.org/wiki/Global_catastrophic_risk
@@ -3275,7 +3275,7 @@ People create weapons systems (killer robots etc.) that can function all on
 their own but things get out of hand and the weapons kill everyone.
 
 :: Parents
-man-made existential risk, technological risk to civilization
+technological risk to civilization
 
 
 avarice
@@ -5479,7 +5479,7 @@ People use cloning instead of natural methods to reproduce, but minute errors
 in the repeated copying compound until further replication becomes impossible.
 
 :: Parents
-man-made existential risk, destructive biotechnology
+destructive biotechnology
 
 :: Example
 The colonist of scientists on Mariposa could not propagate their race further 
@@ -9628,7 +9628,7 @@ People over-exploit a vital resource on which they depend and civilization
 collapses.
 
 :: Parents
-man-made existential risk, ecological destruction
+ecological destruction
 
 :: References
 https://en.wikipedia.org/wiki/Natural_resource_management
@@ -10900,7 +10900,7 @@ People pollute the environment upon which they depend to the point of total
 collapse and everyone dies from starvation etc.
 
 :: Parents
-man-made existential risk, institutional risk to civilization
+institutional risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Environmental_degradation
@@ -19653,19 +19653,6 @@ There is a struggle between man and zombie.
 survival
 
 
-man-made existential risk
-=========================
-
-:: Description
-The category of themes that suggest ways in which life on Earth (or some
-inhabited planet) could end as a consequence of what the inhabitants on the
-planet choose to do. When will the self-replicating, self-aware killer robots
-be unleashed?
-
-:: Parents
-existential risk to civilization
-
-
 human-made pandemic
 ===================
 
@@ -19674,7 +19661,7 @@ People create a dangerous pathogen, typically for the purpose of war, but it
 gets out of control and kills everyone.
 
 :: Parents
-man-made existential risk, destructive biotechnology
+destructive biotechnology
 
 :: Example
 The inhabitants of Earth Two sought to increase their lifespan but instead 
@@ -22435,7 +22422,7 @@ People just keep on reproducing until all the planets resources are depleted
 and everyone dies from starvation etc.
 
 :: Parents
-man-made existential risk, institutional risk to civilization
+institutional risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Human_overpopulation
@@ -22455,7 +22442,7 @@ A severely depleted ozone layer leaves civilization exposed to deadly UV
 radiation.
 
 :: Parents
-man-made existential risk, ecological destruction
+ecological destruction
 
 :: References
 https://en.wikipedia.org/wiki/Ozone_depletion
@@ -25556,7 +25543,7 @@ People come to rely on a single central computer, but it crashes and everyone
 dies. That’s a real "blue screen of death".
 
 :: Parents
-man-made existential risk, technological risk to civilization
+technological risk to civilization
 
 :: Example
 The Bynar’s central computer was knocked out by an electromagnetic pulse in 
@@ -26219,7 +26206,7 @@ People construct clever machines but the machines become too clever and decide
 to kill everyone. They won’t be back.
 
 :: Parents
-man-made existential risk, technological risk to civilization
+technological risk to civilization
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar
@@ -27954,7 +27941,7 @@ cope creatively with novel problems that may arise in the future. When
 something does, everybody dies.
 
 :: Parents
-man-made existential risk, technological risk to civilization
+technological risk to civilization
 
 :: Example
 The Aldeans of tng1x17 "When The Bough Breaks" had remarkable technology, 
@@ -30453,7 +30440,7 @@ infinitum. The result will be completely unpredictable and may make humans
 obsolete in the wink of an eye, goes the thinking.
 
 :: Parents
-man-made existential risk, technological risk to civilization
+technological risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Technological_singularity
@@ -36147,11 +36134,8 @@ be, may sometimes be justified.
 war
 
 :: Example
-Spock argued that war against Nazi Germany was warranted in the lead up to World War II in tos1x28 "The City on the Edge of Forever".
-
-:: Related Themes
-
-:: Other Parents
+Spock argued that war against Nazi Germany was warranted in the lead up to 
+World War II in tos1x28 "The City on the Edge of Forever".
 
 
 war of mutual annihilation
@@ -36162,7 +36146,7 @@ People wage war on each other and (often with the help of WMDs) wipe each
 other out in a mutual apocalypse.
 
 :: Parents
-man-made existential risk, institutional risk to civilization
+institutional risk to civilization
 
 
 war of religion
