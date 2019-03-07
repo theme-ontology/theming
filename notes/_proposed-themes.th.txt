@@ -843,7 +843,7 @@ An originally humanoid being has been rendered grotesque relative to the norm
 of its species owing to genetic mutation.
 
 :: Parents
-miscellaneous life form
+biologically distinguished being
 
 :: References
 https://en.wikipedia.org/wiki/Mutants_in_fiction
@@ -905,7 +905,7 @@ yarn-like being
 A being made from yarn or other spun thread.
 
 :: Parents
-miscellaneous life form
+inorganic being
 
 
 microbe-like being
@@ -915,7 +915,7 @@ microbe-like being
 A macroscopic single celled being.
 
 :: Parents
-miscellaneous life form
+animal and plant patterned being
 
 
 heart transplant
@@ -963,7 +963,7 @@ ball-shaped being
 A being that is basically a bouncing ball.
 
 :: Parents
-shape distinguished being, miscellaneous life form
+shape distinguished being
 
 
 sloppy character vs. tidy character
@@ -996,7 +996,7 @@ There is a race of mermaids and mermen, i.e., beings that share fish-like
 characteristics and that live under water.
 
 :: Parents
-miscellaneous life form
+legendary being
 
 
 commercial made-up holidays in society
@@ -1092,8 +1092,8 @@ way of life
 https://en.wikipedia.org/wiki/Human_cannibalism
 
 
-werewolves
-==========
+werewolf
+========
 
 :: Description
 There is a human with a transmittable condition that makes them occasionally 
@@ -1101,7 +1101,7 @@ transform in to a vicious creature, typically a wolf, or a human-creature
 hybrid.
 
 :: Parents
-superstition, shapeshifter
+superstition, legendary being, shapeshifter 
 
 :: References
 https://en.wikipedia.org/wiki/Werewolf
@@ -2438,6 +2438,19 @@ fantastical way.
 
 :: Parents
 fantastical experience
+
+
+legendary being
+===============
+
+:: Description
+There is a fictitious being from Earth mythology.
+
+:: Parents
+speculative being
+
+:: References
+https://en.wikipedia.org/wiki/Legendary_creature
 
 
 political issue
