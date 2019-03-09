@@ -297,7 +297,7 @@ A truly enormous, hollow sphere constructed around a star to capture its
 entire energy output.
 
 :: Parents
-astronomical-scale engineering, mastering space
+astronomical-scale engineering
 
 :: References
 https://en.wikipedia.org/wiki/Dyson_sphere
@@ -2573,7 +2573,7 @@ designed to lessen the impact of human habitation on any given ecosystem. It
 could be self-sustainable, for example.
 
 :: Parents
-speculative city, speculative habitat, mastering space
+speculative city, speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Arcology
@@ -2761,7 +2761,7 @@ An island that has been constructed by people rather than formed by natural
 means.
 
 :: Parents
-sub-planetary-scale engineering, speculative habitat, mastering space
+sub-planetary-scale engineering, speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_island
@@ -2787,7 +2787,7 @@ artificial planet
 An entire planet designed and constructed by some sentient race.
 
 :: Parents
-planetary-scale engineering, speculative habitat, mastering space
+planetary-scale engineering, speculative habitat
 
 :: Example
 A mysterious planetoid turned out to be a wholly artificial artifact of a long 
@@ -2862,7 +2862,7 @@ A device capable of protecting its host planet by deflecting incoming
 asteroids.
 
 :: Parents
-mastering space
+speculative device
 
 :: References
 https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
@@ -2894,7 +2894,7 @@ asteroid mining
 Interesting minerals are extracted from an asteroid.
 
 :: Parents
-planetary-scale engineering, mastering space
+planetary-scale engineering
 
 :: References
 https://en.wikipedia.org/wiki/Asteroid_mining
@@ -10329,7 +10329,7 @@ domed city
 A city protected by some manner of a dome-shaped barrier.
 
 :: Parents
-speculative city, speculative habitat, mastering space
+speculative city, speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Domed_city
@@ -13143,7 +13143,7 @@ floating city
 A city suspended in air by means of anti-gravitational technology.
 
 :: Parents
-speculative city, speculative habitat, mastering space
+speculative city, speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Floating_cities_and_islands_in_fiction
@@ -13781,7 +13781,7 @@ A way of communicating in some kind of real-time across the vast distances of
 the galaxy.
 
 :: Parents
-astronomical-scale engineering, mastering space
+astronomical-scale engineering
 
 
 galactic master race
@@ -14090,9 +14090,6 @@ A planet that has been consciously modified in some grand way, for example by
 ways of interfering with its climate or volcanic activity.
 
 :: Parents
-mastering space
-
-:: Related Themes
 planetary-scale engineering, terraformed planet
 
 
@@ -15350,7 +15347,7 @@ hollowed out asteroid habitat
 An asteroid has been turned into a living space suitable for humans.
 
 :: Parents
-planetary-scale engineering, speculative habitat, mastering space
+planetary-scale engineering, speculative habitat
 
 
 homework shirking
@@ -18793,7 +18790,7 @@ magical amusement planet
 An entire planet designed and constructed as an oversized amusement park.
 
 :: Parents
-planetary-scale engineering, mastering space
+planetary-scale engineering
 
 :: Example
 The sole purpose of the Shore Leave Planet of tos1x17 "Shore Leave" and 
@@ -19471,17 +19468,6 @@ control of the galaxy for its own good, we were told, in tas1x07 "The Infinite
 Vulcan". The attempt was abortive.
 
 
-mastering space
-===============
-
-:: Description
-The category of themes that revolve around space: artificial planets, space
-colonization and the like.
-
-:: Parents
-novel sci-fi concept
-
-
 match fixing in society
 =======================
 
@@ -20010,7 +19996,7 @@ military training moon
 An entire moon has been conditioned for the sole purpose of military training.
 
 :: Parents
-speculative habitat, mastering space
+speculative habitat
 
 
 mind control technology
@@ -20157,7 +20143,7 @@ Hitherto unknown technology is used from a spaceship in orbit in order to
 extract minerals out of a planet.
 
 :: Parents
-trans-orbital structure, mastering space
+trans-orbital structure
 
 :: Example
 Dr. Farallon developed a technology called the Particle Fountain to achieve 
@@ -21272,7 +21258,7 @@ There is a prison somewhere away from any inhabited planet. Typically it is on
 a moon, asteroid, spaceship or the like.
 
 :: Parents
-speculative habitat, speculative world, mastering space
+speculative habitat, speculative world
 
 
 office politics
@@ -23209,11 +23195,8 @@ topic in science
 https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets
 
 :: Example
-Such methods were employed in tos3x20 "The Way to Eden" to search for the mythical planet Eden.
-
-:: Related Themes
-
-:: Other Parents
+Such methods were employed in tos3x20 "The Way to Eden" to search for the 
+mythical planet Eden.
 
 
 planet killing weapon
@@ -23224,7 +23207,7 @@ A device that is capable of physically destroying an entire planet. This goes
 beyond making the surface uninhabitable.
 
 :: Parents
-mastering space
+speculative device
 
 
 planet scorching atmospheric conflagration
@@ -23259,7 +23242,7 @@ planetary invisibility cloak
 A device capable of rendering a whole planet invisible.
 
 :: Parents
-planetary-scale engineering, mastering space, invisibility technology
+planetary-scale engineering, invisibility technology
 
 :: Example
 The Aldeans had such a device in tng1x17 "When The Bough Breaks" and it had 
@@ -23288,7 +23271,7 @@ There is an interconnected system of machinery or a monolithic machine that is
 at least the size of a small planet.
 
 :: Parents
-planetary-scale engineering, mastering space
+planetary-scale engineering
 
 :: Example
 In bbf1x18 "A Voice in the Wilderness (Part 1)" it was revealed that Epsilon 3 
@@ -27671,7 +27654,7 @@ There is a society of people that live, more or less exclusively, away from
 any planet and normal gravity over many generations.
 
 :: Parents
-mastering space
+speculative society
 
 
 solar eclipse
@@ -28044,7 +28027,7 @@ A proposed type of planet-to-space transportation system using a cable
 anchored to the a planetary surface that extends into space
 
 :: Parents
-trans-orbital structure, mastering space
+trans-orbital structure
 
 :: References
 https://en.wikipedia.org/wiki/Space_elevator
@@ -28156,21 +28139,11 @@ A library placed in space to keep it safe from the various dangers, social and
 environmental, that constantly threaten it on a planet.
 
 :: Parents
-mastering space
+space structure
 
 :: Example
 The Federation central library was located on a planetoid somewhere out in 
 space. It was destroyed by the Zetarians in tos3x18 "The Lights of Zetar".
-
-
-space monument
-==============
-
-:: Description
-A monument, such as a large sculpture, in space is featured.
-
-:: Parents
-mastering space
 
 
 space paupers
@@ -28235,7 +28208,7 @@ space for an extended period of time and for other spacecraft to dock is
 featured in a science fictional context.
 
 :: Parents
-orbital structure, mastering space
+orbital structure
 
 :: References
 https://en.wikipedia.org/wiki/Space_station
@@ -28260,7 +28233,7 @@ A powerful telescope in space, far away from atmospheric interference and
 other obstacles found on or around a planet.
 
 :: Parents
-mastering space
+orbital structure
 
 :: References
 https://en.wikipedia.org/wiki/Space_telescope
@@ -28732,7 +28705,7 @@ A dying star is somehow rekindled and brought back to a more agreeable state
 of activity.
 
 :: Parents
-stellar engineering, mastering space
+stellar engineering
 
 :: Example
 The Enterprise-D helped a scientist from Kaelon II to put new life into their 
@@ -29018,7 +28991,7 @@ satellite, to concentrate rays from the sun on to a small area of the Earth's
 surface, destroying targets or killing through heat.
 
 :: Parents
-mastering space, speculative weapon
+space structure, speculative weapon
 
 :: References
 https://en.wikipedia.org/wiki/Sun_gun
@@ -29635,12 +29608,6 @@ scientific discipline
 
 :: References
 https://en.wikipedia.org/wiki/Terraforming
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 terror
@@ -34591,7 +34558,7 @@ featured in a manner that makes it clear it is a future technological
 achievement.
 
 :: Parents
-sub-planetary-scale engineering, mastering space
+sub-planetary-scale engineering
 
 :: References
 https://en.wikipedia.org/wiki/Undersea_tunnel
@@ -34615,7 +34582,7 @@ A large settlement under water. It might be adapted for air-breathing people
 somehow, or it may be inhabited by water breathers.
 
 :: Parents
-speculative city, speculative habitat, mastering space
+speculative city, speculative habitat
 
 
 unemployment in society
@@ -37917,10 +37884,6 @@ workplace.
 :: Parents
 group interaction
 
-:: Example
-
-:: Related Themes
-
 :: Other Parents
 the workplace
 
@@ -37943,7 +37906,7 @@ world eating machine
 An enormous machine that gobbles up entire planets for fuel.
 
 :: Parents
-mastering space
+space structure
 
 :: Example
 An autonomous but not sentient machine nicknamed "The Planet Eater" from 

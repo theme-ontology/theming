@@ -1073,7 +1073,7 @@ changing the orbit of a planet around its star
 There is a technology used to alter the orbit of a planet around its star.
 
 :: Parents
-mastering space
+planetary-scale engineering
 
 :: References
 https://en.wikipedia.org/wiki/Moving_the_Earth
@@ -1537,7 +1537,7 @@ There is technology by which matter on the scale of stars can be manipulated
 and even moved about at will.
 
 :: Parents
-astronomical-scale engineering, mastering space
+astronomical-scale engineering
 
 :: References
 https://en.wikipedia.org/wiki/Stellar_engineering
@@ -1939,6 +1939,16 @@ speculative engineering
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure#Orbital_structures
+
+
+space structure
+===============
+
+:: Description
+There is a technological construction in outer space.
+
+:: Parents
+speculative engineering
 
 
 trans-orbital structure
