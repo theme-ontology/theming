@@ -24,7 +24,7 @@ two-dimensional space
 A world confined to two spatial dimensions.
 
 :: Parents
-speculative world, alternate laws of nature
+speculative world, speculative natural phenomenon
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/TwoDSpace
@@ -1214,7 +1214,7 @@ There appears to be a fourth spatial dimension into which movement is somewhat
 and somehow possible.
 
 :: Parents
-speculative world, alternate laws of nature
+speculative world, speculative natural phenomenon
 
 
 accidental alien destruction of planetary civilization
@@ -1879,18 +1879,6 @@ crackpot theory
 :: Example
 Troi was contacted in her dreams by telepathic aliens trapped in Tykan's Rift 
 in tng4x17 "Night Terrors".
-
-
-alternate laws of nature
-========================
-
-:: Description
-The category of themes that posit worlds or universes where the laws of nature
-are different from what we know. These worlds may allow time travel or even
-magic.
-
-:: Parents
-novel sci-fi concept
 
 
 alternate points of view
@@ -18421,30 +18409,20 @@ past and present moral controversy
 :: References
 https://en.wikipedia.org/wiki/Lobotomy
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 localized time distortion
 =========================
 
 :: Description
-A small-scale distortion in spacetime causing anything within it to travel in
+A small-scale distortion in spacetime causing anything within it to travel in 
 time.
 
 :: Parents
-time travel, alternate laws of nature
+time travel, speculative natural phenomenon
 
 :: Example
-Small localized time distortions wrought havoc aboard the Enterprise-D and made Captain Picard’s finger nails grow rapidly in tng6x25 "Timescape".
-
-:: Related Themes
-
-:: Other Parents
-physics, temporal mechanics, wacky
+Small localized time distortions wrought havoc aboard the Enterprise-D and 
+made Captain Picard’s finger nails grow rapidly in tng6x25 "Timescape".
 
 
 logarithmic scale
@@ -21307,7 +21285,7 @@ Space as it would be if the rules and axioms of geometry were suddenly
 different from what we know.
 
 :: Parents
-alternate laws of nature
+speculative natural phenomenon
 
 :: References
 https://en.wikipedia.org/wiki/Non-Euclidean_geometry
@@ -25840,11 +25818,8 @@ one-on-one interaction
 https://en.wikipedia.org/wiki/Reverse_psychology
 
 :: Example
-Data attempted a clever bit of reverse psychology on the stubborn colonists of Tau Cygna V in tng3x02 "The Ensigns of Command" but to no avail.
-
-:: Related Themes
-
-:: Other Parents
+Data attempted a clever bit of reverse psychology on the stubborn colonists of 
+Tau Cygna V in tng3x02 "The Ensigns of Command" but to no avail.
 
 
 reverse universe
@@ -25857,7 +25832,8 @@ A hypothetical universe where black stars shine in a white void, etc.
 speculative world, what's out there
 
 :: Example
-The Enterprise got sucked into just such a universe in tas2x06 "The Counter-Clock Incident".
+The Enterprise got sucked into just such a universe in tas2x06 "The 
+Counter-Clock Incident".
 
 
 reversed time
@@ -25868,10 +25844,11 @@ A fantasy world where time runs in reverse, e.g., people are born old and die
 young.
 
 :: Parents
-time travel, alternate laws of nature
+speculative natural phenomenon
 
 :: Example
-The Enterprise got sucked into just such a universe in tas2x06 "The Counter-Clock Incident".
+The Enterprise got sucked into just such a universe in tas2x06 "The 
+Counter-Clock Incident".
 
 
 revival long after death
@@ -29433,7 +29410,7 @@ We imagine what the world would be like if some beings in it "evolved" at a
 much accelerated rate.
 
 :: Parents
-alternate laws of nature
+speculative natural phenomenon
 
 
 super growth therapy
@@ -29963,7 +29940,7 @@ Memories are transferred from mind to mind via telepathy instead of, say,
 spoken communication.
 
 :: Parents
-alternate laws of nature
+speculative natural phenomenon
 
 
 telepathically linked beings
@@ -34134,11 +34111,8 @@ what's out there
 https://en.wikipedia.org/wiki/Tidal_locking
 
 :: Example
-Captain Picard secretly met various Federation starship captains on the tidally locked planet Dytallix B in tng1x15 "Conspiracy".
-
-:: Related Themes
-
-:: Other Parents
+Captain Picard secretly met various Federation starship captains on the 
+tidally locked planet Dytallix B in tng1x15 "Conspiracy".
 
 
 time freezing machine
@@ -34158,17 +34132,10 @@ time loop
 A repeated period of time that is typically re-experienced by those within it.
 
 :: Parents
-time travel, alternate laws of nature
+time travel, speculative natural phenomenon
 
 :: References
 https://en.wikipedia.org/wiki/Time_loop
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-physics, temporal mechanics, wacky
 
 
 time machine
@@ -34194,7 +34161,7 @@ time portal
 A doorway in time.
 
 :: Parents
-time travel, alternate laws of nature
+time travel
 
 :: References
 https://en.wikipedia.org/wiki/Time_portal
@@ -34207,7 +34174,7 @@ time speed up
 Time moves faster for some.
 
 :: Parents
-time travel, alternate laws of nature
+time travel, speculative natural phenomenon
 
 :: Example
 The Scalosians had been subjected to radiation that made them speed up in time 
@@ -38401,11 +38368,9 @@ An enormous machine that gobbles up entire planets for fuel.
 mastering space
 
 :: Example
-An autonomous but not sentient machine nicknamed "The Planet Eater" from another galaxy came and gobbled up some planets and a Federation starship in tos2x06 "The Doomsday Machine".
-
-:: Related Themes
-
-:: Other Parents
+An autonomous but not sentient machine nicknamed "The Planet Eater" from 
+another galaxy came and gobbled up some planets and a Federation starship in 
+tos2x06 "The Doomsday Machine".
 
 
 world with déjà vu
@@ -38416,18 +38381,14 @@ A world where the naïve interpretation of the experience of déjà vu is the
 correct one.
 
 :: Parents
-alternate laws of nature
+speculative society
 
 :: References
 https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu
 
 :: Example
-Senior officers experienced déjà vu because the ship was stuck in a time loop in tng5x18 "Cause and Effect".
-
-:: Related Themes
-
-:: Other Parents
-wacky
+Senior officers experienced déjà vu because the ship was stuck in a time loop 
+in tng5x18 "Cause and Effect".
 
 
 world with telepathy
@@ -38438,7 +38399,7 @@ A world where telepathy constitutes a part of the ordinary operation of
 natural laws.
 
 :: Parents
-alternate laws of nature
+speculative society
 
 :: References
 https://en.wikipedia.org/wiki/Telepathy
