@@ -10561,7 +10561,7 @@ duplicate of a person
 The technology to duplicate a person, or at least a person’s mind.
 
 :: Parents
-mind technology
+mind altering technology
 
 
 duty to disobey illegal orders
@@ -15712,12 +15712,6 @@ featured.
 :: Parents
 purpose in life
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 human body composition
 ======================
@@ -15731,12 +15725,6 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Composition_of_the_human_body
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 human characteristic
@@ -15755,11 +15743,11 @@ human cloning
 =============
 
 :: Description
-The technology to create new individuals that have the same dna as an
+The technology to create new individuals that have the same DNA as an
 original, but not necessarily have anything else in common.
 
 :: Parents
-body altering technology, mind technology
+body altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Human_cloning
@@ -15779,12 +15767,8 @@ human personality
 :: References
 https://en.wikipedia.org/wiki/Disposition
 
-:: Example
-
 :: Related Themes
 human characteristic, human emotion
-
-:: Other Parents
 
 
 human emotion
@@ -15800,12 +15784,8 @@ human personality
 :: References
 https://en.wikipedia.org/wiki/Emotion
 
-:: Example
-
 :: Related Themes
 human characteristic, human disposition
-
-:: Other Parents
 
 
 human empathy for babies
@@ -16246,12 +16226,6 @@ war
 :: References
 https://en.wikipedia.org/wiki/Imperialism
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 imperialism vs. modus vivendi
 =============================
@@ -16277,12 +16251,6 @@ social order
 :: References
 https://en.wikipedia.org/wiki/Imperialism
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 implanted memory punishment
 ===========================
@@ -16293,7 +16261,7 @@ memories into the brain of the convict, for example to let them experience
 what their victim may have felt.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 
 implosion vs. explosion
@@ -19598,7 +19566,7 @@ The technology to, more or less directly and with some degree of precision,
 control the minds and actions of entire populations of people.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Brainwashing
@@ -20014,7 +19982,7 @@ memory implantation technology
 There is technology by which memories may be implanted into someone's brain.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 
 memory wipe
@@ -20024,7 +19992,7 @@ memory wipe
 The technology to remove segments of someone’s memories.
 
 :: Parents
-mind technology
+mind altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Memory_erasure
@@ -20240,7 +20208,7 @@ Technology that can be employed to shape someone’s mental states, thoughts,
 and opinions.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Mind_control_in_popular_culture
@@ -20264,7 +20232,7 @@ Technology that links two or more people’s minds so that they can sense each
 other’s emotions and perhaps even hear each other’s thoughts.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychicLink
@@ -20281,21 +20249,10 @@ mind reading technology
 Technology that can be employed by one person to read another person’s mind.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Thought_identification
-
-
-mind technology
-===============
-
-:: Description
-The category of themes that posit technology to manipulate the human mind by
-cloning it, wiping it, moving it, controlling it, etc.
-
-:: Parents
-novel sci-fi concept
 
 
 mind transfer technology
@@ -20306,7 +20263,7 @@ Technology used to transfer someone’s mind from one body to another, or to a
 computer or some sort of artificial brain.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Mind_uploading
@@ -20319,7 +20276,7 @@ mind wipe punishment
 As a punishment for crime, someone has their mind and memories wiped clean.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 
 mind-computer merging
@@ -20330,7 +20287,7 @@ Technology that provides a low-latency interface between a brain and a
 computer, thus blurring the boundaries between man and machine.
 
 :: Parents
-mind altering technology, mind technology
+mind altering technology
 
 :: Example
 Barclay got tired of the slow old interfaces and connected his brain directly 
@@ -20346,7 +20303,7 @@ There is a vehicle that is controlled simply by thinking, without using knobs,
 wheels, levers, etc.
 
 :: Parents
-speculative vehicle, mind technology
+speculative vehicle
 
 
 minefields in war
@@ -23938,11 +23895,9 @@ it is contemplated.
 human pleasure
 
 :: Example
-Harry Mudd kept an android replica of his nagging wife Stella for the expressed purpose of being able, finally, to get the last word in tos2x12 "I, Mudd".
-
-:: Related Themes
-
-:: Other Parents
+Harry Mudd kept an android replica of his nagging wife Stella for the 
+expressed purpose of being able, finally, to get the last word in tos2x12 "I, 
+Mudd".
 
 
 pleasure in violence
@@ -23955,11 +23910,8 @@ The embarrassingly human predilection for battle and bloodshed is featured.
 human pleasure
 
 :: Example
-Data confessed that he had taken pleasure in chocking a Borg drone to death in tng6x26 "Descent, Part I".
-
-:: Related Themes
-
-:: Other Parents
+Data confessed that he had taken pleasure in chocking a Borg drone to death in 
+tng6x26 "Descent, Part I".
 
 
 plug-in learning
@@ -23970,10 +23922,12 @@ Technology by which you can inject your brain with knowledge and skill in an
 instant.
 
 :: Parents
-human enhancement, brain-computer interface
+brain-computer interface
 
 :: Example
-McCoy plugged himself into "The Great Teacher" in order to acquire the knowledge necessary to surgically restore Spock's brain to the Vulcan's body in tos3x06 "Spock's Brain".
+McCoy plugged himself into "The Great Teacher" in order to acquire the 
+knowledge necessary to surgically restore Spock's brain to the Vulcan's body 
+in tos3x06 "Spock's Brain".
 
 
 poetry
@@ -23987,12 +23941,6 @@ the fine arts and the humanities
 
 :: References
 https://en.wikipedia.org/wiki/Poetry
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 poison murder in society
