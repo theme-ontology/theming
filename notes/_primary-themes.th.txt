@@ -1138,12 +1138,8 @@ private goals.
 :: Parents
 contemporary social issue
 
-:: Example
-
 :: Related Themes
 https://en.wikipedia.org/wiki/Abuse_of_authority
-
-:: Other Parents
 
 
 abuse of real power
@@ -1168,7 +1164,7 @@ Technology, for example genetic engineering, is employed to make a person grow
 and develop faster than normal human development.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 
 acceptance
@@ -2265,7 +2261,8 @@ unpleasant emotion
 https://en.wikipedia.org/wiki/Annoyance, https://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions#Plutchik.27s_wheel_of_emotions
 
 :: Example
-Captain Picard was rather annoyed with Mot the barber for giving his two cents on Federation-Romulan relations in tng5x03 "Ensign Ro".
+Captain Picard was rather annoyed with Mot the barber for giving his two cents 
+on Federation-Romulan relations in tng5x03 "Ensign Ro".
 
 :: Related Themes
 anger, rage
@@ -2291,7 +2288,7 @@ anti-aging technology
 Technology that undoes aging and takes years of your face!
 
 :: Parents
-life extension technology, human enhancement
+life extension technology
 
 :: References
 https://en.wikipedia.org/wiki/Life_extension
@@ -2470,7 +2467,7 @@ different. Typically this means that the shape of their face is changed.
 Application of makeup does not count.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 
 appearances can be deceiving
@@ -2483,13 +2480,8 @@ We are shown that people may not always be quite what they appear to be.
 life lesson
 
 :: References
-https://www.merriam-webster.com/dictionary/looks%20can%20be%20deceiving/deceptive, https://idioms.thefreedictionary.com/appearances+can+be+deceiving
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+https://www.merriam-webster.com/dictionary/looks%20can%20be%20deceiving/deceptive
+https://idioms.thefreedictionary.com/appearances+can+be+deceiving
 
 
 appeasement policy
@@ -2690,7 +2682,7 @@ A substance used to mimic and fulfill some functions of biological blood is
 featured in a science fictional context.
 
 :: Parents
-artificial organ, human enhancement
+artificial organ
 
 :: References
 https://en.wikipedia.org/wiki/Blood_substitute
@@ -2703,7 +2695,7 @@ artificial gland
 A device that can replace a gland in the body.
 
 :: Parents
-artificial organ, human enhancement
+artificial organ
 
 :: References
 https://en.wikipedia.org/wiki/Gland
@@ -2740,7 +2732,7 @@ artificial heart
 A a device that replaces the heart is featured in a science fictional context.
 
 :: Parents
-artificial organ, human enhancement
+artificial organ
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_heart
@@ -2782,7 +2774,7 @@ artificial lungs
 Artificially created human lungs.
 
 :: Parents
-artificial organ, human enhancement
+artificial organ
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_lung
@@ -4057,7 +4049,7 @@ preclude the possibility that there are three or more bodies that each end up
 with a different consciousness than it began with.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 :: References
 http://tvtropes.org/pmwiki/discussion.php?id=p3hoqy13q6z8nvnyru6zc5xi
@@ -4150,7 +4142,7 @@ Technology by which a brain can be taken out of the body and maintained in a
 functioning state for an extended amount of time.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 :: References
 https://en.wikipedia.org/wiki/Brain_in_a_vat
@@ -4191,7 +4183,7 @@ A procedure to transplant a brain from one person to another is featured in a
 science fictional context.
 
 :: Parents
-body implant, human enhancement
+body implant
 
 :: References
 https://en.wikipedia.org/wiki/Brain_transplant
@@ -8778,7 +8770,7 @@ People convicted of crimes are frozen by means of cryogenic technology for
 some time and as a punishment.
 
 :: Parents
-human enhancement, cryogenic technology
+cryogenic technology
 
 
 cryogenic technology
@@ -8789,7 +8781,7 @@ Technology that can freeze, e.g., a human body and thus stop it from aging or
 changing in any major way for an extended amount of time.
 
 :: Parents
-human enhancement, suspended animation
+suspended animation
 
 :: References
 https://en.wikipedia.org/wiki/Cryobiology
@@ -8956,7 +8948,7 @@ cure for Alzheimer's disease
 A scientifically derived cure for Alzheimer's disease is featured.
 
 :: Parents
-human enhancement
+cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Alzheimer%27s_disease
@@ -8969,7 +8961,7 @@ cure for acromegaly
 A scientifically derived cure for acromegaly is featured.
 
 :: Parents
-human enhancement
+cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Acromegaly
@@ -8982,13 +8974,14 @@ cure for cancer
 A scientifically derived cure for cancer is featured.
 
 :: Parents
-human enhancement
+cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Treatment_of_cancer
 
 :: Example
-Dr. Bradshaw sought an electricity-based cure for cancer in the film Indestructible Man (1956).
+Dr. Bradshaw sought an electricity-based cure for cancer in the film 
+Indestructible Man (1956).
 
 
 cure for polio
@@ -8998,7 +8991,7 @@ cure for polio
 A scientifically derived cure for polio is featured.
 
 :: Parents
-human enhancement
+cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Poliomyelitis
@@ -9011,7 +9004,7 @@ cure for the common cold
 A scientifically derived cure for the common cold is featured.
 
 :: Parents
-human enhancement
+cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Common_cold
@@ -9024,7 +9017,7 @@ cure for tuberculosis
 A scientifically derived cure for tuberculosis is featured.
 
 :: Parents
-human enhancement
+cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Tuberculosis
@@ -9785,12 +9778,12 @@ disagreeable characteristic
 https://www.merriam-webster.com/thesaurus/deviousness
 
 :: Example
-Colonel Green tried every dirty trick in the book to gain an advantage in a battle to the death with Captain Kirk and Abraham Lincoln in tos3x22 "The Savage Curtain".
+Colonel Green tried every dirty trick in the book to gain an advantage in a 
+battle to the death with Captain Kirk and Abraham Lincoln in tos3x22 "The 
+Savage Curtain".
 
 :: Related Themes
 cunning, exceedingly devious alien
-
-:: Other Parents
 
 
 devolution
@@ -9802,16 +9795,10 @@ creature of an earlier stage in its evolutionary history. E.g., a human could
 become an ape-like "australopithecus", or a rat-like "repenomamus", etc.
 
 :: Parents
-human enhancement
+speculative natural phenomenon
 
 :: References
 https://en.wikipedia.org/wiki/Devolution_(biology)
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 diligence
@@ -9827,13 +9814,6 @@ heavenly virtue
 
 :: References
 https://en.wikipedia.org/wiki/Diligence
-
-:: Example
-
-:: Related Themes
-fortitude
-
-:: Other Parents
 
 
 diplomacy
@@ -10028,12 +10008,6 @@ modern science
 :: References
 https://en.wikipedia.org/wiki/Superseded_scientific_theories
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 discrimination
 ==============
@@ -10060,7 +10034,7 @@ disembodied head
 A severed head is kept alive, and perhaps placed inside a jar.
 
 :: Parents
-artificial being, human enhancement
+artificial being
 
 
 disgust
@@ -10485,7 +10459,7 @@ Drugs have been used to enhance the fighting capabilities of military
 personnel.
 
 :: Parents
-human enhancement
+speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Supersoldier
@@ -11414,12 +11388,6 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Exponential_growth
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 expressing feelings
 ===================
@@ -11432,11 +11400,8 @@ featured.
 one-on-one interaction
 
 :: Example
-Data expressed his affection for Spot the cat in characteristic android fashion by reciting "Ode to Spot" in tng6x05 "Schisms".
-
-:: Related Themes
-
-:: Other Parents
+Data expressed his affection for Spot the cat in characteristic android 
+fashion by reciting "Ode to Spot" in tng6x05 "Schisms".
 
 
 external immune system
@@ -11447,7 +11412,7 @@ A hypothetical immune system that extends outside the body, attacking
 potential diseases before they can even come close.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 :: Example
 Sara Kingsley’s genetically engineered super-children had such an effective 
@@ -11561,7 +11526,7 @@ eye transplant
 A procedure to transplant eyes from one person to another is featured.
 
 :: Parents
-body part transplant, human enhancement
+body part transplant
 
 :: Examples
 Baron Victor von Frankenstein attempted to transplant the eyes of a murdered 
@@ -11575,7 +11540,7 @@ face patch
 Like an eye patch, but covering half of the face.
 
 :: Parents
-speculative wearable device, prosthetic device, human enhancement
+speculative wearable device, prosthetic device
 
 :: Example
 The "steady, reputable, and occasionally brilliant" Dr. Thomas Leighton 
@@ -12850,7 +12815,7 @@ There is technology by which an unborn human baby can be safely moved from one
 woman's womb to another's and still be viable.
 
 :: Parents
-body part transplant, human enhancement
+body part transplant
 
 :: References
 https://en.wikipedia.org/wiki/Fetal_tissue_implant
@@ -14071,7 +14036,7 @@ A person that has been genetically engineered to be capable of feats (physical
 or mental) well beyond normal human limits or abilities.
 
 :: Parents
-body altering technology, human enhancement
+artificial being
 
 
 genetically engineered soldier
@@ -14862,7 +14827,7 @@ A surgical procedure to transplant a hand from one person to another is
 featured.
 
 :: Parents
-body part transplant, human enhancement
+body part transplant
 
 :: References
 https://en.wikipedia.org/wiki/Hand_transplantation
@@ -15053,7 +15018,7 @@ A surgical procedure to transplant a head from one person to another is
 featured.
 
 :: Parents
-body part transplant, human enhancement
+body part transplant
 
 :: References
 https://en.wikipedia.org/wiki/Head_transplant
@@ -15724,18 +15689,6 @@ The way humans tend to feel particular empathy for babies is noted.
 human nature
 
 
-human enhancement
-=================
-
-:: Description
-The category of themes that suggest future technology which will enhances the
-minds and bodies of men and women: plug-in learning adn rejuvenation
-technology, for example.
-
-:: Parents
-novel sci-fi concept
-
-
 human implanted suicide-weapon
 ==============================
 
@@ -15743,7 +15696,7 @@ human implanted suicide-weapon
 Technology used to turn someone into a living walking bomb, for example.
 
 :: Parents
-human enhancement, speculative weapon, body implant
+speculative weapon, body implant
 
 
 human nature
@@ -16770,7 +16723,7 @@ There is technology by which an ordinary person can be transformed into a
 genius.
 
 :: Parents
-human enhancement
+mind altering technology
 
 
 intelligent dinosaurs
@@ -20332,12 +20285,6 @@ past and present moral controversy
 :: References
 https://en.wikipedia.org/wiki/Interethnic_marriage
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 mobile life support box
 =======================
@@ -20347,7 +20294,7 @@ A bewheeled box-like device that keeps you alive and mobile even after the
 most crippling of catastrophic accidents.
 
 :: Parents
-speculative vehicle, human enhancement
+speculative vehicle
 
 :: Example
 Captain Pike was confined to just such a device in tos1x15 "The Menagerie, 
@@ -22987,7 +22934,7 @@ Replacement limbs and body parts, such as eyes, that work just as well or
 better than the original thing.
 
 :: Parents
-prosthetic device, human enhancement
+prosthetic device
 
 :: References
 https://en.wikipedia.org/wiki/Prosthesis, https://en.wikipedia.org/wiki/Neuroprosthetics
@@ -24762,7 +24709,7 @@ A hypothetical process that makes you age significantly faster than normal and
 faster than natural.
 
 :: Parents
-human enhancement
+speculative natural phenomenon
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/RapidAging
@@ -25237,12 +25184,6 @@ A character looks back with emotion on previous experiences.
 :: Parents
 introspection
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 reminiscence about one's childhood
 ==================================
@@ -25267,12 +25208,6 @@ unpleasant emotion
 :: References
 https://en.wikipedia.org/wiki/Remorse
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 remote controlled person
 ========================
@@ -25282,7 +25217,7 @@ Technology by which, e.g., one person can be controlled by another person at a
 distance.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 :: Example
 McCoy jury-rigged a brainless Spock so that he could be operated by remote 
@@ -25451,12 +25386,6 @@ abilities or achievements.
 :: Parents
 amicable disposition
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 resurrection of the dead
 ========================
@@ -25483,7 +25412,7 @@ retarded aging process
 A hypothetical process that makes you age much slower than normal.
 
 :: Parents
-human enhancement
+speculative natural phenomenon
 
 :: Example
 McCoy's tricorder scans of the Vaalians in tos2x09 "The Apple" revealed them 
@@ -25511,12 +25440,6 @@ A parent is reunited with their child after a very long time apart.
 
 :: Parents
 parenting
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 reunion with a loved one
@@ -25599,7 +25522,7 @@ Technology that can bring someone back from death many hours after they are
 technically dead.
 
 :: Parents
-life extension technology, human enhancement
+life extension technology
 
 
 revolution in society
@@ -26623,11 +26546,8 @@ the art of war
 https://en.wikipedia.org/wiki/Secrecy#Military_secrecy
 
 :: Example
-Captain Maxwell did not take well to Cardassian attempts at building a secret base near Federation territory in tng4x12 "The Wounded".
-
-:: Related Themes
-
-:: Other Parents
+Captain Maxwell did not take well to Cardassian attempts at building a secret 
+base near Federation territory in tng4x12 "The Wounded".
 
 
 secret toenail compartment
@@ -26637,7 +26557,7 @@ secret toenail compartment
 A character has a fake toenail that conceals a secret compartment.
 
 :: Parents
-human enhancement
+speculative wearable device
 
 
 security vs. freedom
@@ -26652,11 +26572,8 @@ we, for example, limit freedom of the press in order not to provoke terrorism?
 social dichotomy
 
 :: Example
-The Rutians had given up much liberty to gain but little security for the sake of fighting terrorism in tng3x12 "The High Ground".
-
-:: Related Themes
-
-:: Other Parents
+The Rutians had given up much liberty to gain but little security for the sake 
+of fighting terrorism in tng3x12 "The High Ground".
 
 
 seeing something through to the end
@@ -27170,16 +27087,10 @@ change shape to a seemingly different kind of creature. This is often featured
 as an inate ability.
 
 :: Parents
-human enhancement
+speculative natural phenomenon
 
 :: References
 https://en.wikipedia.org/wiki/Shapeshifting
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 short and sweet life vs. long and miserable life
@@ -27827,11 +27738,8 @@ topic in science
 https://en.wikipedia.org/wiki/Soliton
 
 :: Example
-Dr. Ja'Dar developed a soliton wave method of propulsion in tng5x10 "New Ground".
-
-:: Related Themes
-
-:: Other Parents
+Dr. Ja'Dar developed a soliton wave method of propulsion in tng5x10 "New 
+Ground".
 
 
 sonar-based artificial vision
@@ -27843,7 +27751,7 @@ something that the brain can use to understand its surroundings in lieu of
 eyesight.
 
 :: Parents
-human enhancement
+speculative device
 
 :: Example
 The blind telepath Miranda Jones wore a sonar-based sensor web dress that 
@@ -28463,7 +28371,7 @@ species transmutation
 The practice of altering one species to become another using scientific means.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 
 speciesism
@@ -29135,7 +29043,7 @@ A serum that when administered to living organisms makes them grow to much
 larger than their ordinary proportions.
 
 :: Parents
-body altering technology, human enhancement
+body altering technology
 
 
 super high-yield grain
@@ -29353,7 +29261,7 @@ Technology that can considerably slow basic life processes, e.g., breathing or
 a heartbeat, in a manner that allows for subjects to be later revived.
 
 :: Parents
-human enhancement, stasis technology
+stasis technology
 
 :: References
 https://en.wikipedia.org/wiki/Suspended_animation https://en.wikipedia.org/wiki/Stasis_(fiction)
@@ -35269,7 +35177,7 @@ or ultraviolet regions and possibly beyond. This is used to describe Geordi's
 iconic VISOR. Note: this includes X-ray glasses as a special case.
 
 :: Parents
-speculative glasses, human enhancement
+speculative glasses
 
 
 vision quest
