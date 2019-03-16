@@ -13,7 +13,6 @@ Collection: Giant monster films
 :: Description
 Films featuring giant monsters, known in Japan as kaiju.
 
-
 :: References
 https://en.wikipedia.org/wiki/List_of_films_featuring_giant_monsters
 
@@ -27,7 +26,6 @@ King Kong
 :: Description
 A huge, ape-like creature dubbed Kong perishes in an attempt to possess a
 beautiful young woman.
-
 
 :: Date
 1933-03-02
@@ -70,7 +68,6 @@ A young woman, Jill Young, living on her father's ranch in Africa, who has
 raised the title character, a large gorilla, from an infant and years later
 brings him to Hollywood seeking her fortune so that she can save the family
 homestead.
-
 
 :: Date
 1949-07-27
@@ -115,7 +112,6 @@ hibernating state by an atomic bomb test in the Arctic Circle. The beast
 begins to wreak a path of destruction as it travels southward, eventually
 arriving at its ancient spawning grounds, which includes New York City.
 
-
 :: Date
 1953-06-13
 
@@ -141,7 +137,7 @@ grief [Lee Hunter grieved over the death of her mentor Dr. Thurgood Elson after 
 coping with the death of a colleague [Lee Hunter grieved over the death of her mentor Dr. Thurgood Elson after he was lost at sea.],
 
 :: Other Keywords
-dinosaur,
+dinosaur [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -156,7 +152,6 @@ Killers from Space
 :: Description
 A nuclear scientist claims he was abducted by aliens after being injured in a
 plane crash.
-
 
 :: Date
 1954-01-23
@@ -203,7 +198,6 @@ Godzilla
 American nuclear tests in the Pacific stirs up a dinosaur-like monster that
 makes a B-line for Tokyo.
 
-
 :: Date
 1954-07-10
 
@@ -235,7 +229,7 @@ choosing between lovers [Emiko Yamane had to choose between marrying her fiancé
 sacrifice for one's people [Daisuke Serizawa sacrificed himself to ensure Godzila's destruction.],
 
 :: Other Keywords
-dinosaur,
+dinosaur [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -251,7 +245,6 @@ Them!
 A nest of gigantic irradiated ants is discovered in the New Mexico desert;
 they quickly become a national threat when it is discovered that two young
 queen ants and their consorts have escaped to establish new nests.
-
 
 :: Date
 1954-06-16
@@ -291,7 +284,6 @@ Godzilla Raids Again
 A ferocious battle between Godzilla and a radioactive Ankylosaur leaves Osaka
 ravaged.
 
-
 :: Date
 1955-04-24
 
@@ -313,7 +305,7 @@ man vs. beast [Godzilla and a radioactive Ankylosaur wreak havoc in Osaka.],
 romantic love [Shoichi Tsukioka and Hidemi Yamaji.],
 
 :: Other Keywords
-dinosaur,
+dinosaur [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -327,7 +319,6 @@ It Came from Beneath the Sea
 
 :: Description
 A gigantic atomic octopus attacks the San Fransisco Bay Area.
-
 
 :: Date
 1955-07
@@ -353,10 +344,11 @@ female independence [Lesley Joyce was an independent minded scientist who stood 
 sacrifice to prevent mass death [Pete Mathews volunteered to go on a perilous dive to place explosives on the giant octopus in an attempt to save his submarine and San Fransisco from destruction.],
 
 :: Other Keywords
-nuclear submarine [A Navy crew explored the sea in a nuclear powered submarine.], giant octopus [A giant octopus was discovered in the Pacific Ocean.],
+nuclear submarine [A Navy crew explored the sea in a nuclear powered submarine.],
+giant octopus [A giant octopus was discovered in the Pacific Ocean.],
 
 :: Other Keywords
-giant octopus,
+giant octopus [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -370,7 +362,6 @@ Tarantula
 
 :: Description
 A giant tarantula wreaks havoc in the Arizona desert.
-
 
 :: Date
 1955-11-23
@@ -394,7 +385,8 @@ the dangers of radioactivity [Prof. Gerald Deemer developed a radiation-based gr
 the dangers of unfettered scientific advancement [Prof. Gerald Deemer developed a radiation-based growth serum that had adverse effects on Humans.],
 
 :: Other Keywords
-radiation [Prof. Gerald Deemer developed a radiation-based super growth serum.], giant tarantula,
+radiation [Prof. Gerald Deemer developed a radiation-based super growth serum.],
+giant tarantula [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -409,7 +401,6 @@ Godzilla, King of the Monsters!
 :: Description
 American nuclear tests in the Pacific stirs up a dinosaur-like monster that
 makes a B-line for Tokyo.
-
 
 :: Date
 1956-04-27
@@ -441,7 +432,7 @@ choosing between lovers [Emiko Yamane had to choose between marrying her fiancé
 sacrifice for one's people [Daisuke Serizawa sacrificed himself to ensure Godzila's destruction.],
 
 :: Other Keywords
-dinosaur,
+dinosaur [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -456,7 +447,6 @@ The Beast of Hollow Mountain
 :: Description
 An American cowboy living in Mexico discovers his missing cattle are being
 preyed upon by dinosaurs.
-
 
 :: Date
 1956-08
@@ -482,7 +472,7 @@ alcoholism [Pancho promised his child Panchito that he would quit drinking and t
 jealousy [Enrique Rios of Jimmy Ryan over Sarita.],
 
 :: Other Keywords
-dinosaur,
+dinosaur [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -496,7 +486,6 @@ Rodan
 
 :: Description
 Giant insects and two flying dinosaurs attack Japan.
-
 
 :: Date
 1956-12-26
@@ -525,7 +514,8 @@ coping with amnesia [Shigeru Kawamura suffered total amnesia for a time after su
 flying saucers [A jet pilot was attacked by UFO. The UFO, or perhaps multiple UFOs, was/were later sighted across the Asia Pacific region.],
 
 :: Other Keywords
-giant insect, dinosaur,
+giant insect [],
+dinosaur [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -543,7 +533,6 @@ spaceship is somehow accelerated to incredible velocities, and they are
 knocked unconscious. Their ship crash lands on a snow-covered mountain. When
 they venture out, they discover that they have become victims of time dilation
 and are now in the future.
-
 
 :: Date
 1956-03-25
@@ -573,11 +562,11 @@ the dangers of radioactivity [Lingering radiation from a nuclear conflagration i
 father and daughter [Timmek and Garnet.],
 jealousy [Mories was jealous of Borden over Garnet.],
 slavery [The Humans living underground enslaved children of the mutants that were born Human.],
-facing a fight to the death [John Borden accepted a challenge from the mutant chief to fight to the death and won.],
 what if I had to fight to the death [John Borden accepted a challenge from the mutant chief to fight to the death and won.],
 
 :: Other Keywords
-rocket ship, giant spider,
+rocket ship [],
+giant spider [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -595,7 +584,6 @@ discover what happened to the scientists of the first. Unknown to them when
 they arrive, the island is inhabited by a pair of radiation-mutated giant
 crabs that consumed the first expeditioners, absorbed their intelligences, and
 plan to reproduce their kind in numbers.
-
 
 :: Date
 1957-02-10
@@ -630,7 +618,6 @@ movie: 20 Million Miles to Earth (1957)
 
 :: Description
 A reptile-like creature from the planet Venus wreaks havoc on the Earth.
-
 
 :: Date
 1957-06
@@ -670,7 +657,6 @@ The Monster That Challenged the World
 :: Description
 Giant mollusks from the ocean depths attack the California coast.
 
-
 :: Date
 1957-06
 
@@ -699,7 +685,7 @@ disapproving parent [Mrs. Simms disapproved of her daughter Jody Simms running a
 open ocean, pear, beach, undersea, canal,
 
 :: Other Keywords
-giant mollusk,
+giant mollusk [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -716,7 +702,6 @@ An agricultural scientist who has successfully grown gigantic vegetables using
 radiation. Unfortunately, the vegetables are eaten by locusts (the swarming
 phase of short-horned grasshoppers), which quickly grow to a gigantic size and
 attack the nearby city of Chicago.
-
 
 :: Date
 1957-06-28
@@ -744,7 +729,8 @@ passion for journalism [Audrey Aimes was an enthusiastic photo journalist.],
 the end of the world [Comparisons were drawn between Biblical locust plagues and the current predicament of the Earth and possible end of the world.],
 
 :: Other Keywords
-giant locust, atom bomb,
+giant locust [],
+atom bomb [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -758,7 +744,6 @@ The Deadly Mantis
 
 :: Description
 A 200-foot-long praying mantis attacks Washington DC.
-
 
 :: Date
 1957-05-01
@@ -784,7 +769,7 @@ passion for journalism [Marge Blaine would admittedly do almost anything to brea
 North Pole, snowy wasteland, airfield, cockpit,
 
 :: Other Keywords
-giant preying mantis,
+giant preying mantis [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -798,7 +783,6 @@ The Giant Claw
 
 :: Description
 A UFO turns out to be a battleship-sized, city attacking bird.
-
 
 :: Date
 1957-06
@@ -827,7 +811,7 @@ mass hysteria [Mass hysteria gripped the Earth once news of the giant bird creat
 cockpit, airfield,
 
 :: Other Keywords
-giant bird,
+giant bird [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -842,7 +826,6 @@ The Cyclops
 :: Description
 An expedition to Mexico encounters a monster with one eye that was created as
 a result of radioactivity.
-
 
 :: Date
 1957-07-28
@@ -868,7 +851,13 @@ man vs. nature [The expedition party in the Mexican jungle.],
 Mexico, jungle,
 
 :: Other Keywords
-cyclops, giant, mutant, giant lizard, giant mouse, giant bird, giant spider,
+cyclops [],
+giant [],
+mutant [],
+giant lizard [],
+giant mouse [],
+giant bird [],
+giant spider [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -883,7 +872,6 @@ The Black Scorpion
 :: Description
 A volcanic eruption in Mexico releases a number of giant scorpions that
 endanger the residents of Mexico City.
-
 
 :: Date
 1957-10-11
@@ -909,7 +897,7 @@ scientific experimentation [Dr. Delacruz studying bacteria in his test tube and 
 Mexican countryside, nightclub, stadium,
 
 :: Other Keywords
-giant scorpion,
+giant scorpion [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -924,7 +912,6 @@ The Amazing Colossal Man
 :: Description
 A U.S. Army Lt. Colonel grows to be more than 60 feet tall following his
 accidental exposure to an atomic bomb test blast in Nevada.
-
 
 :: Date
 1957-10-25
@@ -950,7 +937,8 @@ the dangers of unfettered scientific advancement [Lt. Colonel Glenn Manning grew
 scientific experimentation [A scientist and Dr. Paul Linstrom experimented on with using radiation to grow animals to enormous proportions in a laboratory.],
 
 :: Other Keywords
-giant [Glenn Manning became a giant], find a cure [Two scientists sought to find a cure that would shrink Glenn Manning back to ordinary size.],
+giant [Glenn Manning became a giant],
+find a cure [Two scientists sought to find a cure that would shrink Glenn Manning back to ordinary size.],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -969,7 +957,6 @@ robot, who is then destroyed by the military. The remains are analyzed and
 discovered to be of alien origin. Shortly after, an alien race known as the
 Mysterians arrive, declaring they have taken some Earth women captive and that
 they demand both land and the right to marry women of Earth.
-
 
 :: Date
 1957-12-28
@@ -998,7 +985,7 @@ Phaeton hypothesis [The Mysterians came from a planet that used to exist between
 flying saucer [The Mysterians flew in a flying saucer.],
 
 :: Other Keywords
-giant robot,
+giant robot [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1014,7 +1001,6 @@ Attack of the 50 Foot Woman
 A wealthy heiress has close encounter with an enormous alien in his round
 spacecraft that causes her to grow into a giantess, complicating her marriage
 already troubled by a philandering husband.
-
 
 :: Date
 1958-05-19
@@ -1036,7 +1022,6 @@ disintegrating romantic relationship [Nancy Archer wouldn't stand for Harry Arch
 love triangle [Harry Archer was involved in an extramarital affair with Honey Parker.],
 unrequited love [Nancy Archer loved Harry Archer in spite of his only being married to her for her money.],
 romantic love [Harry Archer and Honey Parker.],
-avarice [Harry Archer and Honey Parker plotted to knock off his wealthy wife Nancy Archer and collect the inheritance.],
 the lust for gold [Harry Archer and Honey Parker plotted to knock off his wealthy wife Nancy Archer and collect the inheritance.],
 jealousy [A 50 foot tall Nancy Archer became jealous of Honey Parker and went looking for her.],
 
@@ -1045,7 +1030,7 @@ flying saucers [After reports of a red fireball in the sky come in from around t
 what if I told the truth and nobody would believe me [Nobody would believe Nancy Archer's story about her encounter with a spherical flying saucer.],
 
 :: Other Keywords
-giant,
+giant [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1066,7 +1051,6 @@ Amazing Colossal Man (1957) and was distributed theatrically by American
 International Pictures as the top half of a double feature with Attack of the
 Puppet People. The film's story picks up where The Amazing Colossal Man left
 off, although it was not marketed as a sequel and features a different cast.
-
 
 :: Date
 1958-06-30
@@ -1105,7 +1089,6 @@ Earth vs. the Spider
 :: Description
 A giant mutant spider attacks a small American town.
 
-
 :: Date
 1958-09
 
@@ -1137,7 +1120,7 @@ beating one's self up [Carol Flynn blamed herself for her father's apparent deat
 cavern,
 
 :: Other Keywords
-giant tarantula,
+giant tarantula [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1152,7 +1135,6 @@ Monster from Green Hell
 :: Description
 Wasps, made giant after being exposed to massive amounts of cosmic radiation
 in outer space, cause turmoil in Central Africa.
-
 
 :: Date
 1958-12
@@ -1180,7 +1162,7 @@ man vs. nature [Dr. Quent Brady and his expedition party tracked through the woo
 woodland, African village, campfire, cavern,
 
 :: Other Keywords
-giant wasp,
+giant wasp [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1195,7 +1177,6 @@ The Killer Shrews
 :: Description
 Two or three hundred giant shrews besiege a group of people on a remote island
 in the middle of a hurricane.
-
 
 :: Date
 1959-06-25
@@ -1220,7 +1201,7 @@ romantic love [Captain Thorne Sherman and Ann Cragis.],
 fiancée and fiancée [Ann Cragis broke off her engagement with Jerry Farrell.],
 
 :: Other Keywords
-giant shrew,
+giant shrew [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1240,7 +1221,6 @@ Artie nervously explains to his betrothed's rich uncle that she has gotten
 "big", the uncle misunderstands "big" as "pregnant", and insists that Artie
 marry her immediately. Artie eventually manages to restore her to her normal
 size.
-
 
 :: Date
 1959-08-06
@@ -1273,7 +1253,7 @@ what if I shrank in size [Emmy Lou Raven was briefly shrunken down in size to su
 attack from outer space by a powerful conquering alien race [The army assumed the presence of giantess Emmy Lou Raven was a prelude to an invasion by Martians.],
 
 :: Other Keywords
-giant woman,
+giant woman [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1287,7 +1267,6 @@ Space Invasion of Lapland
 
 :: Description
 Aliens land in Lapland and unleash a large creature on the local people.
-
 
 :: Date
 1959-08-19
@@ -1311,7 +1290,8 @@ man vs. beast [The people versus an enormously tall, hairy biped creature, with 
 snowy mountain, snow covered plain,
 
 :: Other Keywords
-meteor, giant beast,
+meteor [],
+giant beast [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1327,7 +1307,6 @@ Attack of the Giant Leeches
 In the Florida Everglades, a pair of larger-than-human, intelligent leeches
 live in an underwater cave. They begin dragging locals down to their cave,
 where they slowly feed on them, draining their victims of blood.
-
 
 :: Date
 1959-10
@@ -1354,7 +1333,7 @@ jealousy [Dave Walker was murderously jealous of Cal Moulton over his having an 
 father and daughter [Doc Greyson and Nan Greyson.],
 
 :: Other Keywords
-giant leech,
+giant leech [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1368,7 +1347,6 @@ The Giant Gila Monster
 
 :: Description
 A giant lizard terrorizes the residents of a small American town.
-
 
 :: Date
 1959-06-25
@@ -1398,7 +1376,8 @@ coping with a disability [Missy Winstead needed braces n her legs in order to wa
 brother and sister [Chase Winstead and Missy Winstead.],
 
 :: Other Keywords
-giant lizard, extemporaneous song and verse,
+giant lizard [],
+extemporaneous song and verse [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1415,7 +1394,6 @@ Alien teenager Derek abandons his crew to search for a new life on Earth,
 while one of his crewmates is sent to kill him while they attempt to eradicate
 human life in order to farm Earth with giant lobster-like livestock they call
 Gargons.
-
 
 :: Date
 1959-06
@@ -1445,7 +1423,7 @@ father and son [Derek was the son of the alien leader.],
 flying saucer [The aliens used flying saucers.],
 
 :: Other Keywords
-giant lobster,
+giant lobster [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1460,7 +1438,6 @@ Gorgo
 :: Description
 Gorgo, a young sea monster brought back to London for exploitation, and Ogra,
 his even larger mother, who rampages across London to search for him.
-
 
 :: Date
 1961-03-29
@@ -1484,7 +1461,7 @@ mother and son [Ogra came to break its son Gorgo out of the circus and they both
 the end of the world [A man was running around with a placard urging people to repent as Ogra was in the midst of destroying London.],
 
 :: Other Keywords
-sea monster,
+sea monster [],
 
 :: Collections
 Collection: Science fiction films of the 1960s
@@ -1498,7 +1475,6 @@ Mothra
 
 :: Description
 A giant moth wreaks havoc on Tokyo.
-
 
 :: Date
 1961-07-30
@@ -1525,7 +1501,9 @@ first contact [First contact was made with a native tribes-people living on a re
 telepathic being [The two tiny girls communicated telepathically.],
 
 :: Other Keywords
-nuclear test, giant larva [Mothra], giant moth [Mothra],
+nuclear test [],
+giant larva [Mothra],
+giant moth [Mothra],
 
 :: Collections
 Collection: Science fiction films of the 1960s
@@ -1540,7 +1518,6 @@ Gorath
 :: Description
 The story concerns mankind's efforts to move Earth out of its orbit to avoid
 it from colliding with the runaway star Gorath.
-
 
 :: Date
 1962-03-21
@@ -1569,7 +1546,9 @@ romantic love [Takiko Nomura and cadet astronaut Tatsuma Kanai.],
 cryptid [The backlash of incredible heat this created caused a gigantic, 30-meter-long walrus to emerge from its home deep below the frozen tundra.],
 
 :: Other Keywords
-rocket ship [A rocket ship was launched from Mount Fuji on an interstellar mission.], giant walrus [The backlash of incredible heat this created caused a gigantic, 30-meter-long walrus to emerge from its home deep below the frozen tundra.], amnesia [Tatsuma Kanai had amnesia.],
+rocket ship [A rocket ship was launched from Mount Fuji on an interstellar mission.],
+giant walrus [The backlash of incredible heat this created caused a gigantic, 30-meter-long walrus to emerge from its home deep below the frozen tundra.],
+amnesia [Tatsuma Kanai had amnesia.],
 
 :: Collections
 Collection: Science fiction films of the 1960s
@@ -1590,7 +1569,6 @@ their objections, the villagers are evacuated and the experiment goes on as
 scheduled. As they feared, the chemical reawakens their god, a giant
 prehistoric monster. The creature destroys the local village and then heads to
 the city of Oneida.
-
 
 :: Date
 1962-12-17
@@ -1630,7 +1608,6 @@ King Kong vs. Godzilla
 The film concerns a showdown between King Kong and Godzilla. Also there was a
 giant octopus.
 
-
 :: Date
 1962-08-11
 
@@ -1654,7 +1631,10 @@ boyfriend and girlfriend [Kazuo Fujita and Fumiko Sakurai.],
 brother and sister [Osamu Sakurai and Fumiko Sakurai.],
 
 :: Other Keywords
-nuclear submarine, giant ape [King Kong.], dinosaur [Godzilla.], giant octopus [A giant octopus attacked the Faro Island natives.],
+nuclear submarine [],
+giant ape [King Kong.],
+dinosaur [Godzilla.],
+giant octopus [A giant octopus attacked the Faro Island natives.],
 
 :: Collections
 Collection: Science fiction films of the 1960s
@@ -1668,7 +1648,6 @@ Atragon
 
 :: Description
 The Mu Empire of legend makes a bid for world domination.
-
 
 :: Date
 1963-12-22
@@ -1686,7 +1665,6 @@ sci-fi
 lost continent of Mu [The legendary empire of the lost continent of Mu threatened to take over the world.],
 attack from outer space by a powerful conquering alien race [The legendary empire of the lost continent of Mu threatened to take over the world.],
 patriotism [Captain Hachiro Jinguji built the Atragon battleship to restore the Japanese Empire after its defeat in World War II],
-pride [The defeat of the Japanese Empire in World War II was a real blow to Captain Hachiro Jinguji's pride.],
 father and daughter [Captain Hachiro Jinguji and Makoto Jinguji.],
 submarine [There was a super high-tech underwater battleship, called the Atragon.],
 subterranean civilization [The people of Mu lived deep underground beneath the sea.],
@@ -1715,7 +1693,6 @@ Mothra vs. Godzilla (モスラ対ゴジラ, Mosura tai Gojira) is a 1964 Japanes
 fiction film directed by Ishirō Honda and stars Akira Takarada, Kenji Sahara
 and Hiroshi Koizumi. It is the fourth film in the Godzilla franchise
 
-
 :: Date
 1964-04-29
 
@@ -1729,7 +1706,6 @@ https://en.wikipedia.org/wiki/Mothra_vs._Godzilla
 sci-fi, kaiju,
 
 :: Major Themes
-avarice [Happy Enterprises owner, Kumayama, refused to return a Mothra egg to its native island, because he had plans to get rich from exhibiting it.],
 the lust for gold [Happy Enterprises owner, Kumayama, refused to return a Mothra egg to its native island, because he had plans to get rich from exhibiting it.],
 living dinosaur [Godzilla.],
 man vs. beast [Godzilla attacked Japan again.],
@@ -1741,7 +1717,7 @@ the dangers of radioactivity [Ichiro Sakai and Junko Nakanishi were decontaminat
 noble savage utopia [The natives on Mothra's island lived in peace and harmony and were disappointed to find out that people fought one another in other parts of the world.],
 
 :: Other Keywords
-giant moth,
+giant moth [],
 
 :: Collections
 Collection: Science fiction films of the 1960s
@@ -1761,7 +1737,6 @@ recurring antagonist of the Godzilla franchise. The film was released in Japan
 on December 20, 1964 and was given a theatrical release in the United States
 in September 1965 by Continental Distributing as Ghidrah, the Three-Headed
 Monster.
-
 
 :: Date
 1964-12-20
@@ -1788,7 +1763,7 @@ Lilliputian being [Two tiny, fairy-like women were brought to Japan from a remot
 telepathic being [Two tiny, fairy-like girls communicated telepathically.],
 
 :: Other Keywords
-meteor,
+meteor [],
 
 :: Collections
 Collection: Science fiction films of the 1960s

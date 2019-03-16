@@ -17,7 +17,6 @@ revival, led to The Animated Series from 1973–1974, as the source of new
 adventures of the Enterprise crew, the next being the live-action feature film
 Star Trek: The Motion Picture (1979).
 
-
 :: Date
 1973-1974
 
@@ -48,12 +47,12 @@ malevolent entity to other worlds. The entity is still alive and it beams
 aboard the Enterprise. Captain Kirk must find a way to get rid of the invader,
 without destroying his ship in the process.
 
-
 :: Date
 1973-09-08
 
 :: Ratings
-3 <Paul>, 3 <Mikael>
+3 <Paul>
+3 <Mikael>
 
 :: Main Characters
 Kirk, Spock, unnamed tas1x01 alien
@@ -116,7 +115,13 @@ ship to ship transport [Kirk, Spock, Scotty, McCoy; Kirk, Spock, Scotty, McCoy, 
 star charting mission, space encounter [Enterprise and insectoid starship], phaser energy absorbed {mechanical complication}, impending ship self-destruct {ship crisis}, life-support malfunction {ship crisis}, rescue a man pinned under a heavy object [Scotty], ship takeover {ship crisis}, captain's log <1:10-1:25, 7:28-7:42, 22:48-22:58>
 
 :: Other Keywords
-red alert [3x]<1:28, 15:26, 21:27>, reverse course {space maneuver}<2:00>, full reverse thrust {space maneuver}<3:00>, flank speed ahead {space maneuver}<3:20>, away team [Kirk, Spock, Scotty, McCoy], gravitational slingshot {space maneuver}, astonishing mental computation {feat of mind}[Spock]
+red alert [3x] <1:28, 15:26, 21:27>,
+reverse course [] {space maneuver} <2:00>,
+full reverse thrust [] {space maneuver} <3:00>,
+flank speed ahead [] {space maneuver} <3:20>,
+away team [Kirk, Spock, Scotty, McCoy],
+gravitational slingshot [] {space maneuver},
+astonishing mental computation [Spock] {feat of mind},
 
 :: Errors
 Making this series
@@ -133,12 +138,12 @@ Yesteryear
 :: Description
 Spock must travel to the past to rescue his younger self from danger.
 
-
 :: Date
 1973-09-15
 
 :: Ratings
-1 <Mikael>, 2 <Paul>
+1 <Mikael>
+2 <Paul>
 
 :: Main Characters
 Spock [object, Selek], Spock (young)
@@ -206,7 +211,10 @@ beam up [Kirk, Spock, McCoy, redshirt; Kirk, Spock]<2:18, 22:12>, beam down [tri
 visit a planet, Kahs-wan Ordeal {test of courage and strength}, desert crossing, captain's log <1:10-1:30>, captain's log supplemental <2:58-3:10>, personal log <8:12-8:26, 12:17-12:48, 13:45-14:00, 16:46-17:00>
 
 :: Other Keywords
-away team [Kirk, Spock, McCoy, redshirt], Vulcan salute [Spock&Thelin, Spock&Sarek], annual crew medical, physical altercation time <14:30-14:50>
+away team [Kirk, Spock, McCoy, redshirt],
+Vulcan salute [Spock&Thelin, Spock&Sarek],
+annual crew medical [],
+physical altercation time [] <14:30-14:50>,
 
 :: Errors
 
@@ -225,12 +233,12 @@ the planets that lie in its path. They determine it is heading for Mantilles,
 home to a Federation colony governed by former Starfleet officer Bob Wesley
 (featured in the ST/TOS episode " The Ultimate Computer )".
 
-
 :: Date
 1973-09-22
 
 :: Ratings
-3 <Mikael>, 3 <Paul>
+3 <Mikael>
+3 <Paul>
 
 :: Main Characters
 Kirk, Spock, Scott
@@ -251,7 +259,6 @@ the ethics of valuing human lives [save the children],
 the calculus of human life [save the planet or the Enterprise],
 saving a people vs. self-preservation [sacrifice enterprise],
 alien point of view [big vs. Small],
-surviving an existential risk [colony from cosmic cloud],
 
 :: Minor Themes
 human body composition [featured in comparison to constituents of cosmic cloud],
@@ -295,7 +302,10 @@ Pallas 14 system <in situ>
 impending ship digestion by giant cloud creature {ship crisis}, ship-wide power drain {ship crisis}, race against time, creative solution [Scotty uses the anti-matter from the villi to power the ship], impending catastrophe, captain's log <1:07-1:30, 14:45-14:56, 17:32-17:51>, captain's log supplemental <2:48-3:02, 11:07-11:15>
 
 :: Other Keywords
-priority one call, evasive maneuver {space maneuver}<4:32>, full reverse {space maneuver}<4:34>, Vulcan mind meld [Spock&cloud creature]
+priority one call [],
+evasive maneuver [] {space maneuver} <4:32>,
+full reverse [] {space maneuver} <4:34>,
+Vulcan mind meld [Spock&cloud creature],
 
 :: Errors
 
@@ -320,12 +330,12 @@ to wear. On board the Enterprise, Uhura has taken command due to Scotty's
 irrational behavior. Uhura orders an all-female landing party to transport
 down to rescue the men.
 
-
 :: Date
 1973-09-29
 
 :: Ratings
-2 <Mikael>, 3 <Paul>
+2 <Mikael>
+3 <Paul>
 
 :: Main Characters
 Kirk, Spock, McCoy, Theela
@@ -340,7 +350,6 @@ man vs. woman [landing party visits planet dominated by women],
 the flip side of immortality [women needed to steal other lifeforces to keep on living],
 
 :: Major Themes
-lust [landing party for women] <Kirk, McCoy>,
 killing to survive [women must kill to keep living],
 life force draining being [the women] <Taurean>,
 woman in charge [Uhura in command of the ship] <Uhura>,
@@ -391,7 +400,8 @@ beam down [Uhura, Christine, redskirt x4; Kirk, Spock, McCoy, Scotty]<16:28, 21:
 distress call, siren song, escape from captivity, foot chase, rescue, thunder and lightening storm, impending drowing by rising water level in an urn, transporter trick [they used to transporter to become young again], captain's log <1:14-1:38, 8:02-8:30>, ship's log supplemental <11:45-12:03, 16:15-16:23>, ship's log <5:10-5:24>
 
 :: Other Keywords
-yellow alert [1x]<1:50>, deliberate destruction of an urn {act of deliberate destruction}[Uhura]
+yellow alert [1x] <1:50>,
+deliberate destruction of an urn [Uhura] {act of deliberate destruction},
 
 :: Errors
 
@@ -425,12 +435,12 @@ it—along with several well-fed (and huge) tribbles that scare it away. McCoy
 injects the remaining tribbles on the Enterprise with a serum to slow down
 their metabolic rate. They are finally "safe".
 
-
 :: Date
 1973-10-06
 
 :: Ratings
-2 <Paul>, 2 <Mikael>
+2 <Paul>
+2 <Mikael>
 
 :: Main Characters
 Kirk [object], Cyrano Jones
@@ -492,7 +502,10 @@ ship to ship transport [Cyrano Jones, tribbles; glommer]<7:40, 20:59>, last seco
 space chase [Enterprise@Klingon battle cruiser], last second transport [Cyrano Jones], man stuck in transporter beam {transporter complication}, captain's log <1:25-1:55>, captain's log supplemental <8:09-8:20, 17:30-17:40>
 
 :: Other Keywords
-red alert [1x]<3:45>, Emergency Defense Plan B {plan}, evasive maneuver {space maneuver}<13:32>, Boarding Plan C {plan}
+red alert [1x] <3:45>,
+Emergency Defense Plan B [] {plan},
+evasive maneuver [] {space maneuver} <13:32>,
+Boarding Plan C [] {plan},
 
 :: Errors
 
@@ -510,12 +523,12 @@ Patrolling near the Romulan Neutral Zone , the USS Enterprise finds a ship
 manned by Carter Winston, a Federation citizen and philanthropist who has been
 missing for five years.
 
-
 :: Date
 1973-10-13
 
 :: Ratings
-3 <Mikael>, 3 <Paul>
+3 <Mikael>
+3 <Paul>
 
 :: Main Characters
 Carter Winston [object], Anne Nored [object], Kirk
@@ -579,7 +592,12 @@ ship to ship transport [Carter Winston]<1:44>
 patrol mission [the Neutral Zone], finding Amelia Earhart scenario, foreshadow [Winston's anomalous medical exam], impostor scenario, heart to heart talk [Winston as McCoy&Anne], dead give away [Winston as McCoy says that he could have made a mistake, which is not like McCoy at all], manhunt, space confrontation [Enterprise&three Romulan battle cruisers], space fight, end joke, captain's log <1:12-1:28>, captain's log supplemental <14:36-14:53>, ship's log <8:00-8:12>
 
 :: Other Keywords
-red alert [1x]<10:00>, yellow alert [1x]<9:13>, intruder alert [1x]<13:12>, medical examination [McCoy@Winston], complete medical examination [Kirk], physical altercation time <5:58-6:02, 9:37, 11:55-12:04, 16:48>
+red alert [1x] <10:00>,
+yellow alert [1x] <9:13>,
+intruder alert [1x] <13:12>,
+medical examination [McCoy@Winston],
+complete medical examination [Kirk],
+physical altercation time [] <5:58-6:02, 9:37, 11:55-12:04, 16:48>,
 
 :: Errors
 
@@ -604,12 +622,12 @@ expense of the original Spock's life. (Although Kirk never actually says "Beam
 me up, Scotty" in the series, in this episode he does say "Beam us up,
 Scotty.")
 
-
 :: Date
 1973-10-20
 
 :: Ratings
-2 <Paul>, 1 <Mikael>
+2 <Paul>
+1 <Mikael>
 
 :: Main Characters
 Spock [object], Kirk, Stavos Keniclius 5
@@ -672,7 +690,13 @@ beam down [Kirk, McCoy, Sulu]<11:10>
 visit a planet [Phylos], kidnapping [Spock], nefarious plot, footchase, impending death [Spock], Kirkologue, captain's log <1:10-1:20, 7:50-8:14>
 
 :: Other Keywords
-landing party [Kirk, Sulu, Spock, McCoy&Kirk, Sulu, McCoy], mad scientist {character}, Vulcan mind meld [giant Spock@Spock], Vulcan salute [giant Spock&Spock], farewell [giant Spock&Spock], Diogenes {fictional historical character}, physical altercation time <6:15-6:35, 20:50-21:05>
+landing party [Kirk, Sulu, Spock, McCoy&Kirk, Sulu, McCoy],
+mad scientist [] {character},
+Vulcan mind meld [giant Spock@Spock],
+Vulcan salute [giant Spock&Spock],
+farewell [giant Spock&Spock],
+Diogenes [] {fictional historical character},
+physical altercation time [] <6:15-6:35, 20:50-21:05>,
 
 :: Errors
 
@@ -694,12 +718,12 @@ quite normal. The Megans are an ageless species that had, at one time, lived
 on Earth, and were responsible for the legends about witches. Lucien, their
 guide, is in reality the Lucifer of Earth mythology.
 
-
 :: Date
 1973-10-27
 
 :: Ratings
-1 <Paul>, 3 <Mikael>
+1 <Paul>
+3 <Mikael>
 
 :: Main Characters
 Kirk, Lucien [object]
@@ -770,7 +794,13 @@ center of the galaxy <in situ>, Megas-tu <in vicinity>
 scientific observation mission, ship-wide life support failure {ship crisis}, trial, flashback, captain's log <1:10-1:28>, captain's log supplemental <13:00-13:10>
 
 :: Other Keywords
-red alert [1x]<14:10>, yellow alert [1x]<1:43>, energy-matter whirlwind {astronomical phenomena}, captain in a pillory, test of integrity {test}[Kirk], toast to a new friendship {formal toast}[Lucien], landing party [Kirk, Spock, McCoy]
+red alert [1x] <14:10>,
+yellow alert [1x] <1:43>,
+energy-matter whirlwind [] {astronomical phenomena},
+captain in a pillory [],
+test of integrity [Kirk] {test},
+toast to a new friendship [Lucien] {formal toast},
+landing party [Kirk, Spock, McCoy],
 
 :: Errors
 
@@ -796,12 +826,12 @@ as it will be rewarded with social contact by the many guests attracted by the
 planet's facilities and can, in time, learn everything it could possibly want
 to without even being put to the inconvenience of leaving its home planet.
 
-
 :: Date
 1973-11-03
 
 :: Ratings
-2 <Paul>, 2 <Mikael>
+2 <Paul>
+2 <Mikael>
 
 :: Main Characters
 Kirk, Uhura, Shore Leave Planet Computer
@@ -864,7 +894,10 @@ beam down [Kirk, Mccoy, Sulu, Uhura]<1:43>
 footchase, shore leave, search and rescue a person [Uhura], heavy interference {communication complication}, plot twist [the Keeper is dead], ship takeover {ship crisis}, gravity control computer malfunction {computer complication}, ship-wide zero gravity {ship crisis}, end joke, captain's log <1:10-1:33>, captain's log supplemental <6:52-7:04, 14:39-14:49>
 
 :: Other Keywords
-Alice Through the Looking Glass {literary reference}, landing party [McCoy, Sulu, Uhura&Kirk, Sulu, McCoy, Spock], Lewis Carol {historical character}, hypospray [McCoy to Spock]<16:36>
+Alice Through the Looking Glass [] {literary reference},
+landing party [McCoy, Sulu, Uhura&Kirk, Sulu, McCoy, Spock],
+Lewis Carol [] {historical character},
+hypospray [McCoy to Spock] <16:36>,
 
 :: Errors
 
@@ -882,12 +915,12 @@ The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd ,
 who is accused of selling fake love crystals. Intercepting Harry on the mining
 colony of Motherlode, they bring him aboard the Enterprise .
 
-
 :: Date
 1973-11-10
 
 :: Ratings
-2 <Paul>, 1 <Mikael>
+2 <Paul>
+1 <Mikael>
 
 :: Main Characters
 Spock [object], Christine [object], Harry Mudd [object]
@@ -905,7 +938,6 @@ unrequited love [Christine at Spock] <Christine>,
 resisting a temptation [Christine with using love potion on Spock] <Christine>,
 quacksalvery [Mudd peddling his snake oil],
 the lust for gold [Mudd peddling his snake oil],
-avarice [Mudd peddling his snake oil],
 
 :: Minor Themes
 man vs. beast [Kirk and friends battle giant desert worm] <Kirk, Spock, Christine, Harry Mudd>,
@@ -953,7 +985,15 @@ beam down [Kirk, Spock; Kirk, Spock]<2:02, 16:27>, beam up [Kirk, Spock, Mudd; K
 love potion, dig a ditch with a phaser {phaser trick}, jailbreak [Mudd], man at phaser point [Mudd], absconded shuttlecraft [Mudd], kidnapping [Mudd@Christine], ship-wide love fest {ship crisis}, footchase [rock monster@Kirk, Spock], creative solution [use the love crystals on the giant rock monsters], captain's log <1:10-1:21>, captain's log supplemental <14:17-14:28>
 
 :: Other Keywords
-red alert [1x]<12:27>, arrest report {report}, snake oil salesman {character}, landing party [Kirk, Spock], binary star system {astronomical feature}, rock monster {creature}, hanky panky [Scotty&M'Ress], wanton destruction of a shuttlecraft {act of wanton destruction}[rock monster], physical altercation time <11:10>
+red alert [1x] <12:27>,
+arrest report [] {report},
+snake oil salesman [] {character},
+landing party [Kirk, Spock],
+binary star system [] {astronomical feature},
+rock monster [] {creature},
+hanky panky [Scotty&M'Ress],
+wanton destruction of a shuttlecraft [rock monster] {act of wanton destruction},
+physical altercation time [] <11:10>,
 
 :: Errors
 
@@ -970,12 +1010,12 @@ The Terratin Incident
 While observing a burnt-out supernova, the USS Enterprise picks up a strange
 message transmitted in a two-hundred-year-old code.
 
-
 :: Date
 1973-11-17
 
 :: Ratings
-4 <Paul>, 3 <Mikael>
+4 <Paul>
+3 <Mikael>
 
 :: Main Characters
 Kirk
@@ -991,8 +1031,6 @@ Lilliputian being [Terratins] <Terratin>,
 :: Major Themes
 what if I shrank in size [Enterprise crew],
 desperation [Terratins],
-surviving an existential risk [Terratins] <Terratin>,
-facing mysterious adversity [crew shrinking in size],
 
 :: Minor Themes
 the value of testing a hypothesis [Kirk about getting the signal twice means it cant be random noise],
@@ -1036,7 +1074,11 @@ beam down [Kirk]<15:07>, beam up [Kirk; Spock, McCoy, Uhura, Sulu, Christine, Ar
 science mission, message in a bottle scenario, investigate a planet [Terra 10], crew wide shrinkage {ship crisis}, every dilithium crystal connection's smashed in the warm engine circuitry {mechanical complication}, danzel in distress [Christine in the aquarium], save a planet, end joke, captain's log <1:10-1:24, 7:13-7:28, 10:19-10:32>, captain's log supplemental <13:59-14:21, 22:48-23:00>
 
 :: Other Keywords
-intersat code {antiquated code}, Gulliver's Travels {literary reference}[Lilliputian], supernova, volcano, earthquake
+intersat code [] {antiquated code},
+Gulliver's Travels [Lilliputian] {literary reference},
+supernova [],
+volcano [],
+earthquake [],
 
 :: Errors
 
@@ -1055,12 +1097,12 @@ USS Enterprise is attacked by several Klingon vessels. During the battle they
 are caught in an ion storm. The Enterprise and one Klingon battlecruiser are
 drawn into a spacetime vortex and end up in a timeless dimension.
 
-
 :: Date
 1973-11-24
 
 :: Ratings
-2 <Paul>, 2 <Mikael>
+2 <Paul>
+2 <Mikael>
 
 :: Main Characters
 Kirk, Kor, Xerius
@@ -1077,7 +1119,6 @@ kumbayah utopia [Delta Triangle aliens],
 :: Major Themes
 cooperation vs. competition [Enterprise and Klingons must work together to escape Delta Triangle; Delta Triangle aliens generally cooperative with one another],
 cooperation [Enterprise and Klingons must work together to escape Delta Triangle; Delta Triangle aliens generally cooperative with one another],
-complacency [Delta Triangle aliens gave up on trying to escape],
 what if I could never go home [Enterprise crew trapped in Delta Triangle],
 man vs. space anomaly [crew vs. Bermuda space triangle],
 
@@ -1120,7 +1161,12 @@ Delta Triangle <in situ>, Elysia <in situ>
 space chase [Klingon vessels@Enterprise], spaceship graveyard, race against time [dilithium power drain], double cross, sabotage, Kirkologue, captain's log <1:10-1:34, 16:04-16:18>, captain's log supplemental <8:38-8:56>
 
 :: Other Keywords
-red alert [3x]<5:26, 6:00, 8:02>, yellow alert [1x]<2:55>, Interpreter of Laws {character}, ion storm {astronomical phenomena}, class 2 signal {signal}, alternate universe
+red alert [3x] <5:26, 6:00, 8:02>,
+yellow alert [1x] <2:55>,
+Interpreter of Laws [] {character},
+ion storm [] {astronomical phenomena},
+class 2 signal [] {signal},
+alternate universe [],
 
 :: Errors
 
@@ -1139,12 +1185,12 @@ transformed into water breathers by the planet's undersea inhabitants, the
 Aquans. In order to return to their normal selves, they must enlist the help
 of the Aquans to capture a giant sur-snake, whose venom holds the antidote.
 
-
 :: Date
 1973-12-01
 
 :: Ratings
-3 <Paul>, 1 <Mikael>
+3 <Paul>
+1 <Mikael>
 
 :: Main Characters
 Kirk, Spock, Rila
@@ -1209,7 +1255,11 @@ emergency transport [McCoy, redshirt]
 find a cure, visit a planet [Argo], search and rescue mission, science mission, missing person [Kirk, spock], race against time [seaquake in four hours], chase [monster@Kirk, Spock], labor of Hercules [obtain venom from sea-snake], captain's log <1:10-1:48>, ship's log <4:06-4:20>, medical log <5:15-5:58>
 
 :: Other Keywords
-aqua-shuttle, high tribune {character}, seaquake {impending catastrophe}, away team [Kirk, Spock, McCoy, redshirt & McCoy, Scotty, redshirt], hypospray [McCoy to Kirk; McCoy to Kirk]<19:49, 20:27>
+aqua-shuttle [],
+high tribune [] {character},
+seaquake [] {impending catastrophe},
+away team [Kirk, Spock, McCoy, redshirt & McCoy, Scotty, redshirt],
+hypospray [McCoy to Kirk; McCoy to Kirk] <19:49, 20:27>,
 
 :: Errors
 evolution misconeption
@@ -1228,12 +1278,12 @@ In the shuttlecraft Copernicus , Mr. Spock, Uhura, and Sulu are en-route to
 Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when
 the Kzinti intervene.
 
-
 :: Date
 1973-12-15
 
 :: Ratings
-4 <Paul>, 3 <Mikael>
+4 <Paul>
+3 <Mikael>
 
 :: Main Characters
 Spock, Uhura, Sulu, Chuft Captain
@@ -1259,7 +1309,6 @@ second guessing one's self [Spock about finding the second stasis box] <Spock>,
 immobilization web [Kzinti used to catch landing party],
 felinoid being [Kzinti] <Kzinti>,
 sexism in society [Kzinti men assumed Uhura was a mindless female],
-pride [captain humiliated by Spock] <Chuft Captain>,
 vegetarianism [Spock's vegetarianism featured] <Spock>,
 the killing of animals [Spock's vegetarianism featured],
 
@@ -1300,7 +1349,9 @@ Starbase 25 <en route>, Beta Lyrae <in vicinity>
 failed escape attempt [Uhura], solve a puzzle [understand of the spy gun], hostage situation, first officer's log <1:21-1:48>, first officer's log supplemental <9:21-9:33>
 
 :: Other Keywords
-disruptor bomb {weapon}, Earth-Kzin Wars, physical altercation time <13:55>
+disruptor bomb [] {weapon},
+Earth-Kzin Wars [],
+physical altercation time [] <13:55>,
 
 :: Errors
 
@@ -1322,12 +1373,12 @@ meets the Lactrans, a group of twenty foot slugs with intelligent capacities
 far beyond their own. The team is captured by the Lactrans to be made part of
 a zoo collection.
 
-
 :: Date
 1974-01-05
 
 :: Ratings
-4 <Paul>, 4 <Mikael>
+4 <Paul>
+4 <Mikael>
 
 :: Main Characters
 Kirk, Spock, McCoy
@@ -1393,7 +1444,7 @@ beam down [Kirk, Spock, McCoy; Scotty, super intelligent slug]<3:28, 20:40>, bea
 search and rescue mission, investigate a planet, cross a desert, escape objective, subterfuge [fake being sick to get the communicator], captain's log <1:10-1:30>
 
 :: Other Keywords
-landing party [Kirk, Spock, McCoy]
+landing party [Kirk, Spock, McCoy],
 
 :: Errors
 
@@ -1411,12 +1462,12 @@ The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr.
 Spock have been summoned to learn about a stolen religious artifact, the "Soul
 of the Skorr", whose theft could ignite a galactic holy war.
 
-
 :: Date
 1974-01-12
 
 :: Ratings
-1 <Paul>, 0 <Mikael>
+1 <Paul>
+0 <Mikael>
 
 :: Main Characters
 Kirk [object], Spock [object], Tchar
@@ -1477,7 +1528,14 @@ beam down [Kirk, Spock]<1:50>, beam up [Kirk, Spock]<22:27>
 space rendezvous, quest, outdrive a lava flow, plot twist [Tchar is a traitor], MacGuffin [Soul of Skorr], captain's log <1:10-1:35>
 
 :: Other Keywords
-holography, landing party [Kirk, Spock], console explosion, volcano, earthquake, rockslide, blizzard, physical altercation time <21:00-21:15>
+holography [],
+landing party [Kirk, Spock],
+console explosion [],
+volcano [],
+earthquake [],
+rockslide [],
+blizzard [],
+physical altercation time [] <21:00-21:15>,
 
 :: Errors
 
@@ -1494,12 +1552,12 @@ The Pirates of Orion
 Spock contracts a fatal illness, and the cure can only be found with dangerous
 Orion pirates .
 
-
 :: Date
 1974-09-07
 
 :: Ratings
-2 <Paul>, 2 <Mikael>
+2 <Paul>
+2 <Mikael>
 
 :: Main Characters
 Spock [object], Kirk
@@ -1558,7 +1616,17 @@ ship to ship transport [Kirk, Scotty, Uhura, Christine]<10:37>, beam down [Kirk]
 find a cure, medical emergency [Spock], rendezvous mission [Enterprise&Huron], space jacking, space confrontation [Huron and Orion ship, Enterprise and Orion ship], follow a trail of bread crumbs [Enterprise@Orion ship], end joke, captain's log <1:10-1:33, 11:45-12:01, 21:29-21:42>, captain's log supplemental <3:35-3:46>
 
 :: Other Keywords
-yello alert [1x]<13:33>, Academy of Science, asteroid belt {what's out there}, choriocytosis {disease}, dedication ceremony, intercept course {space maneuver}[Orion ship@Huron], evasive maneuver {space maneuver}[Huron], emergency beacon {beacon}, away team [Kirk, Scotty, Uhura, Chrinstine], Babel Conference, physical altercation time <20:00-20:28>
+yello alert [1x] <13:33>,
+Academy of Science [],
+asteroid belt [] {what's out there},
+choriocytosis [] {disease},
+dedication ceremony [],
+intercept course [Orion ship@Huron] {space maneuver},
+evasive maneuver [Huron] {space maneuver},
+emergency beacon [] {beacon},
+away team [Kirk, Scotty, Uhura, Chrinstine],
+Babel Conference [],
+physical altercation time [] <20:00-20:28>,
 
 :: Errors
 
@@ -1575,12 +1643,12 @@ Bem
 The Enterprise crew is taken captive by a race of primitives on a newly
 discovered planet.
 
-
 :: Date
 1974-09-14
 
 :: Ratings
-4 <Paul>, 1 <Mikael>
+4 <Paul>
+1 <Mikael>
 
 :: Main Characters
 Ari bn Bem [object], Kirk, Spock
@@ -1640,7 +1708,12 @@ beam down [Kirk, Scotty, Spock, Sulu, Bem; Scotty, redshirt x3]<3:47, 18:00>, be
 investigate a planet, materialization a few meters over water {transporter complication}, footchase [Kirk&Spock@Bem], fake communicator {communication complication}, captain behind bars, connect two communicators in series {communication trick}, captain's log <1:10-1:48>, captain's log supplemental <>
 
 :: Other Keywords
-yellow alert [1x]<5:30>, electrical storm {space weather phenomena}, librarian {character}, Loch Ness monster, landing party [Kirk, Scotty, Spock, Sulu, Bem], physical altercation time <18:30-18:40>
+yellow alert [1x] <5:30>,
+electrical storm [] {space weather phenomena},
+librarian [] {character},
+Loch Ness monster [],
+landing party [Kirk, Scotty, Spock, Sulu, Bem],
+physical altercation time [] <18:30-18:40>,
 
 :: Errors
 
@@ -1657,12 +1730,12 @@ The Practical Joker
 A strange energy field causes the Enterprise computer to play practical jokes
 on the crew, but the humor soon turns to danger.
 
-
 :: Date
 1974-09-21
 
 :: Ratings
-2 <Paul>, 2 <Mikael>
+2 <Paul>
+2 <Mikael>
 
 :: Main Characters
 Kirk, Spock, Enterprise computer
@@ -1678,7 +1751,6 @@ emergently intelligent being [Enterprise became sentient],
 
 :: Major Themes
 man vs. machine [crew vs. Enterprise computer],
-facing mysterious adversity [crew initially don't know the computer is playing practical jokes],
 
 :: Minor Themes
 virtual reality room [holodeck employed for the first time] <holodeck>,
@@ -1720,7 +1792,14 @@ Neutral Zone <en route, in vicinity>, unnamed asteroid <in vicinity>
 practical joking ship computer {computer complication}, geological survey mission, ambush, space confrontation [Enterprise and three Romulan vessels], space chase [Romulans@Enterprise], question the computer, space fight [Romulan ships&balloon Enterprise], trick the trickster {creative solution}, end joke, captain's log <1:14-1:30>, captain's log supplemental <5:09-5:18, 16:27-16:42>
 
 :: Other Keywords
-general alert {alert}[1x]<8:27>, audio tape, fog, Henry IV {literary reference}, type 4 asteroid {space object}, a toast to our narrow escape {formal toast}[McCoy], booby trap [open pit covered with branches], holography
+general alert [1x] {alert} <8:27>,
+audio tape [],
+fog [],
+Henry IV [] {literary reference},
+type 4 asteroid [] {space object},
+a toast to our narrow escape [McCoy] {formal toast},
+booby trap [open pit covered with branches],
+holography [],
 
 :: Errors
 
@@ -1737,12 +1816,12 @@ Albatross
 Doctor McCoy is arrested for allegedly causing a deadly plague which once
 ravaged the planet Dramia.
 
-
 :: Date
 1974-09-28
 
 :: Ratings
-3 <Paul>, 1 <Mikael>
+3 <Paul>
+1 <Mikael>
 
 :: Main Characters
 McCoy [object], Kirk
@@ -1806,7 +1885,15 @@ beam down [Kirk, Spock, Demos; Spock]<8:41, 16:58>, beam up [Kirk, Spock, Demos,
 medical delivery mission, prove a friend's innocence, kangaroo court, visit a planet [Dramia], race against time [get evidence before trial ends], stoaway, footchase [landing party@Dramian], ship-wide plague {ship crisis}, find a cure [auroral plague], rescue [Spock@McCoy], jail break [McCoy, Spock], captain's log <1:14-1:30, 5:10-5:24, 7:40-7:55, 14:43-14:55, 20:27-20:40>
 
 :: Other Keywords
-auroral plague {plague}, General Order 6, Hippocrates {historical character}, meteor shower {space weather phenomena}, quarantine, Saurian virus {virus}, space aurora {what's out there}, landing party [Kirk, Spock, Demos], physical altercation time <10:20-10:30, 17:10>
+auroral plague [] {plague},
+General Order 6 [],
+Hippocrates [] {historical character},
+meteor shower [] {space weather phenomena},
+quarantine [],
+Saurian virus [] {virus},
+space aurora [] {what's out there},
+landing party [Kirk, Spock, Demos],
+physical altercation time [] <10:20-10:30, 17:10>,
 
 :: Errors
 
@@ -1823,12 +1910,12 @@ How Sharper Than a Serpent's Tooth
 A mysterious being threatens to destroy the Enterprise if the crew is unable
 to solve an ancient puzzle.
 
-
 :: Date
 1974-10-05
 
 :: Ratings
-1 <Paul>, 1 <Mikael>
+1 <Paul>
+1 <Mikael>
 
 :: Main Characters
 Kukulkan [object], Kirk
@@ -1892,7 +1979,12 @@ Starbase 21 <en route>
 follow the bread crumbs [the alien probe trail], space confrontation [Enterprise&alien ship], anser a riddle or die scenario, abduction, ship surrounded by energy field {enemy complication}, bull in a china shop [Capellan fire cat], Chekov's gun variant [Mr. Walkingbear], captain's log <1:10-1:40, 7:27-7:44>
 
 :: Other Keywords
-red alert [2x]<4:29, 16:56>, yellow alert [1x]<2:13>, King Lear {literary reference}, mysterious alien probe {probe}, spiral evasive course {space maneuver}[Enterprise], hypospray [Kirk to Capellan power cat]<19:39>
+red alert [2x] <4:29, 16:56>,
+yellow alert [1x] <2:13>,
+King Lear [] {literary reference},
+mysterious alien probe [] {probe},
+spiral evasive course [Enterprise] {space maneuver},
+hypospray [Kirk to Capellan power cat] <19:39>,
 
 :: Errors
 
@@ -1910,12 +2002,12 @@ The Counter-Clock Incident
 An unusual spaceship pulls the Enterprise into a "negative universe " where
 time seems to flow backwards.
 
-
 :: Date
 1974-10-12
 
 :: Ratings
-1 <Paul>, 2 <Mikael>
+1 <Paul>
+2 <Mikael>
 
 :: Main Characters
 Kirk, Robert April, Karla Five
@@ -1976,7 +2068,14 @@ beam down [Kirk, Spock, Robert April]<13:41>
 transport a dignitary mission [Robert April to Babel], countdown, collision course with supernova {ship crisis}, re-aging {transporter trick}, captain's log <1:10-1:38, 9:33-9:51, 16:33-16:55>, captain's log supplemental <12:22-12:28, 18:41-18:51>
 
 :: Other Keywords
-red alert [1x]<3:28>, commodore, supernova, collision course {space maneuver}[@supernova], hard about {space maneuver}[Enterprise]<4:02>, full breaking power {space maneuver}[Enterprise]<7:12>, landing party [Kirk, Spock, Robert April], supernova
+red alert [1x] <3:28>,
+commodore [],
+supernova [],
+collision course [@supernova] {space maneuver},
+hard about [Enterprise] {space maneuver} <4:02>,
+full breaking power [Enterprise] {space maneuver} <7:12>,
+landing party [Kirk, Spock, Robert April],
+supernova [],
 
 :: Errors
 

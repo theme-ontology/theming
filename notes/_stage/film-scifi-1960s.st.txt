@@ -14,7 +14,6 @@ Collection: Science fiction films of the 1960s
 Science fiction films that premiered between 1 January 1960 and 31 December
 1969.
 
-
 :: References
 https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1960s
 
@@ -28,7 +27,6 @@ The Amazing Transparent Man
 :: Description
 An insane ex–U.S. Army major uses an escaped criminal to steal materials to
 improve the invisibility machine his scientist prisoner made.
-
 
 :: Date
 1960-02
@@ -62,7 +60,6 @@ Visit to a Small Planet
 
 :: Description
 An alien from the planet X-47 who is fascinated by human beings visits Earth.
-
 
 :: Date
 1960-02-04
@@ -104,7 +101,6 @@ crew discovers a long-dead Venusian civilization that had constructed a device
 intended to destroy all life on the Earth prior to invasion. Before they could
 execute their plan, they perished in a global nuclear war.
 
-
 :: Date
 1960-02-26
 
@@ -132,7 +128,8 @@ robot helper [The Cosmostrator crew brought along a small robot helper, called O
 spacesuit [A Cosmostrator crew member complained about how heavy his spacesuit was while on the Venusian surface.],
 
 :: Other Keywords
-rocket ship [The Soviet spaceship Cosmostrator was flown to Venus.], meteor,
+rocket ship [The Soviet spaceship Cosmostrator was flown to Venus.],
+meteor [],
 
 
 movie: The Secret of the Telegian (1960)
@@ -144,7 +141,6 @@ The Secret of the Telegian
 :: Description
 A murderous madman seeking vengeance over a past misdeed kills his victims
 with the aid of a teleportation device.
-
 
 :: Date
 1960-04-10
@@ -161,7 +157,6 @@ sci-fi
 :: Major Themes
 the desire for vengeance [Corporal Tsudo was hellbent on murdering the members of a group of former military men who had betrayed and stabbed him 14 years prior.],
 teleportation device [Corporal Tsudo used a teleportation device, invented by Dr. Kajuro Nikki, to help him hunt down his victims.],
-avarice [The three conspirators been assigned to help protect Dr. Kajuro Nikki's top secret experiments in creating electronic weaponry, but they decided to throw out the doctor's experiment and fill the crates with stolen gold bars.],
 the lust for gold [The three conspirators been assigned to help protect Dr. Kajuro Nikki's top secret experiments in creating electronic weaponry, but they decided to throw out the doctor's experiment and fill the crates with stolen gold bars.],
 
 
@@ -177,7 +172,6 @@ ride ends abruptly when they crash-land into the ocean. The agent and the
 women make their way to an island where they find a larger spider web. A giant
 spider sinks its teeth in the agent which turns him into a mutant.
 
-
 :: Date
 1960-04-16
 
@@ -192,7 +186,6 @@ sci-fi
 
 :: Major Themes
 man vs. nature [Gary Webster and the dancing girls ended up stranded on an island in the middle of the ocean after a plane crash.],
-facing being stranded [Gary Webster and the dancing girls ended up stranded on an island in the middle of the ocean after a plane crash.],
 romantic love [Joe and Alice fell in love on the island. Gladys and Bobby fell in love.],
 
 :: Minor Themes
@@ -202,7 +195,8 @@ what if I underwent a physical metamorphosis [A radioactive spider bit Gary and 
 jealousy [Some of the dancing girls became jealous of one another over Gary until such time as he was transformed into a hideous mutant.],
 
 :: Other Keywords
-giant spider, mutant,
+giant spider [],
+mutant [],
 
 
 movie: 12 to the Moon (1960)
@@ -214,7 +208,6 @@ movie: 12 to the Moon (1960)
 :: Description
 A team of twelve astronauts from countries all over the world embark on a
 mission to the Moon.
-
 
 :: Date
 1960-06
@@ -249,7 +242,8 @@ suspended animation [The Moon inhabitants put the people of Earth into suspended
 lunar regolith, cavern,
 
 :: Other Keywords
-rocket ship, meteor,
+rocket ship [],
+meteor [],
 
 
 movie: The Lost World (1960)
@@ -264,7 +258,6 @@ film loosely based on the novel of the same name by Arthur Conan Doyle and
 directed by Irwin Allen. The plot of the film revolves around the exploration
 of a plateau in Venezuela inhabited by cannibals, dinosaurs, carnivorous
 plants, and giant spiders.
-
 
 :: Date
 1960-07-13
@@ -291,7 +284,6 @@ father and daughter [David Holmes and Jennifer Holmes.],
 rivalry [Professor Summerlee was a rival of Professor Challenger who joined the expedition.],
 female independence [Jennifer Holmes insisted that she be allowed to join the expedition in the face of some male expedition members asserting that such an undertaking was not for women.],
 master and pet [Jennifer Holmes and her pet dog Frosty.],
-avarice [Manuel Gomez and Costa were preoccupied with getting off the plateau with a hoard of diamonds.],
 the lust for gold [Manuel Gomez and Costa were preoccupied with getting off the plateau with a hoard of diamonds.],
 the desire for vengeance [It became apparent near the film's conclusion that Manuel Gomez had been motivated all along by a desire to take vengeance on Lord John Roxton over the death of his brother.],
 
@@ -299,7 +291,9 @@ the desire for vengeance [It became apparent near the film's conclusion that Man
 jungle, cavern,
 
 :: Other Keywords
-dinosaur, giant spider, cannibal,
+dinosaur [],
+giant spider [],
+cannibal [],
 
 
 movie: The Time Machine (1960)
@@ -313,7 +307,6 @@ An inventor in Victorian England constructs a machine that enables him to
 travel into the distant future; once there, he discovers that mankind's
 descendants have divided into two species, the passive, childlike, and
 vegetarian Eloi and the underground-dwelling Morlocks, who feed on the Eloi.
-
 
 :: Date
 1960-07-22
@@ -352,7 +345,6 @@ Atomic War Bride
 At a church in the country, eternally optimistic John marries Maria, his
 Atomic War Bride, unaware that a nuclear war is about to begin.
 
-
 :: Date
 1960-07-23
 
@@ -376,7 +368,7 @@ anti-war activism [The people in the air-raid shelter organized a march to stop 
 the dangers of radioactivity [Rubber radiation suits were distributed in the streets before the nuclear war.],
 
 :: Other Keywords
-atom bomb,
+atom bomb [],
 
 
 movie: Space Men (1960)
@@ -389,7 +381,6 @@ Space Men
 A mission in the 22nd century aboard an orbiting space station. The mission
 involves a risky effort by its crew to redirect a malfunctioning spaceship
 that threatens to destroy the Earth.
-
 
 :: Date
 1960-08
@@ -420,7 +411,9 @@ spacesuit [Astronauts floated around in space and walked on the surface of Mars 
 sacrifice for one's people [Sullivan and space station pilot Al sacrificed themselves in separate but futile attempts to destroy the dangerous spaceship with missiles.],
 
 :: Other Keywords
-asteroid, meteor, rocket ship [The rocket ship Bravo Zulu 88 went to Mars. The was also an "old" atomic powered rocket ship.],
+asteroid [],
+meteor [],
+rocket ship [The rocket ship Bravo Zulu 88 went to Mars. The was also an "old" atomic powered rocket ship.],
 
 
 movie: Last Woman on Earth (1960)
@@ -432,7 +425,6 @@ Last Woman on Earth
 :: Description
 The film concerns three survivors of a mysterious apocalypse, which appears to
 have wiped out all human life on Earth.
-
 
 :: Date
 1960-08-05
@@ -469,7 +461,6 @@ Dinosaurus!
 American men building a harbour on a Caribbean island accidentally uncover two
 dinosaurs that have been frozen in suspended animation for millions of years.
 
-
 :: Date
 1960-08-10
 
@@ -486,7 +477,6 @@ sci-fi
 cryptid [A team building a harbor accidentally uncover two dinosaurs that have been frozen in suspended animation for millions of years. They also found a caveman.],
 living dinosaur [A team building a harbor accidentally uncover two dinosaurs that have been frozen in suspended animation for millions of years.],
 man vs. beast [The people were terrorized by a tyrannosaurus.],
-avarice [Mike Hacker was motivated by a desire to use the tyrannosaurus and the caveman to get rich and was wiling to stoop to any level to get control of them.],
 the lust for gold [Mike Hacker was motivated by a desire to use the tyrannosaurus and the caveman to get rich and was wiling to stoop to any level to get control of them.],
 
 :: Minor Themes
@@ -497,7 +487,9 @@ sacrifice for a friend [The caveman sacrificed himself to hold up a beam in a co
 jungle, cavern, beach,
 
 :: Other Keywords
-dinosaur, caveman, suspended animation,
+dinosaur [],
+caveman [],
+suspended animation [],
 
 
 movie: Atom Age Vampire (1960)
@@ -509,7 +501,6 @@ Atom Age Vampire
 :: Description
 A scientist finds a way to restore the beauty to a singer who had been
 horribly disfigured in an automobile accident.
-
 
 :: Date
 1960-08-16
@@ -547,7 +538,6 @@ aircraft to sub-orbital spaceflight successfully, though losing radio contact
 in flight. When Major Allison returns to the airbase it appears abandoned, old
 and deserted. Mystified, he sees a futuristic city on the horizon and heads
 toward it. The major is rendered unconscious and captured.
-
 
 :: Date
 1960-09
@@ -588,7 +578,6 @@ Man in the Moon
 A man immune to worry and disease is selected to be the first man to travel to
 the Moon.
 
-
 :: Date
 1960-10-31
 
@@ -619,7 +608,7 @@ spacesuit [William Blood ventured around on what he thought to be the Moon in a 
 lunar regolith,
 
 :: Other Keywords
-rocket ship,
+rocket ship [],
 
 
 movie: The Cape Canaveral Monsters (1960)
@@ -632,7 +621,6 @@ The Cape Canaveral Monsters
 Two extraterrestrials come to earth to "transmit" healthy, living humans,
 especially women, back to their home planet and to disrupt rockets launched
 from Cape Canaveral.
-
 
 :: Date
 1960-12
@@ -663,7 +651,6 @@ Village of the Damned
 
 :: Description
 The women in an English village become pregnant by brood parasitic aliens.
-
 
 :: Date
 1960-12-07
@@ -702,7 +689,6 @@ The Human Vapor
 The film concerns a librarian and his love for a dancer and his ability to
 transform into a gaseous state.
 
-
 :: Date
 1960-12-11
 
@@ -734,7 +720,6 @@ Battle of the Worlds
 A romantically involved pair of scientists learn they must deal with a rogue
 planet, dubbed the "The Outsider", that has entered the solar system and is on
 a collision course with Earth.
-
 
 :: Date
 1961
@@ -780,7 +765,6 @@ Young biochemist Dr Peter Blood returns to his hometown in Cornwall with the
 belief that he can selectively restore life by transplanting the living hearts
 of 'undeserving' people into dead people who 'deserve' to live.
 
-
 :: Date
 1961
 
@@ -819,7 +803,6 @@ Master of the World
 A science fiction film based upon the Jules Verne novels Robur the Conqueror
 and its sequel, Master of the World.
 
-
 :: Date
 1961
 
@@ -856,7 +839,6 @@ Professor Brainard is an absent-minded professor of physical chemistry at
 Medfield College who invents a substance that gains energy when it strikes a
 hard surface.
 
-
 :: Date
 1961-03-16
 
@@ -873,7 +855,6 @@ sci-fi, comedy,
 parody on life in academia [The story follows the life of an absent minded college professor.],
 perpetual energy machine [Professor Brainard invented a substance, he called Flubber, gained energy when it strikes a hard surface.],
 fiancée and fiancée [Professor Brainard missed his wedding ceremony with Betsy Carlisle three times.],
-avarice [Alonzo P. Hawk schemed to gain wealth by means of Flubber. He also bet against his own college basketball team when he had inside information that their star player would miss the game.],
 the lust for gold [Alonzo P. Hawk schemed to gain wealth by means of Flubber. He also bet against his own college basketball team when he had inside information that their star player would miss the game.],
 love triangle [Betsy Carlisle lost hope in Professor Brainard after he missed their wedding three times and gave his rival Professor Shelby Ashton a chance.],
 romantic love [Professor Brainard and Betsy Carlisle.],
@@ -894,7 +875,6 @@ A Bomb Was Stolen
 :: Description
 A dialog-free science fiction comedy in which an innocent young man finds
 himself in possession of an atomic bomb.
-
 
 :: Date
 1961-05
@@ -917,7 +897,7 @@ romantic love [The young man in the film fell in love with a young woman with an
 brain disembodiment technology [A disembodied brain, placed in a glass jar, was used to power a primitive computer.],
 
 :: Other Keywords
-atom bomb,
+atom bomb [],
 
 
 movie: The Beast of Yucca Flats (1961)
@@ -930,7 +910,6 @@ The Beast of Yucca Flats
 A Soviet scientist named Joseph Jaworsky defects and flees to a Nevada Test
 Site called Yucca Flats, only to be turned into a mindless monster by atomic
 radiation, stalking the desert.
-
 
 :: Date
 1961-05-02
@@ -954,7 +933,7 @@ mother and son [A mother and father were vacationing with their two sons.],
 father and son [A mother and father were vacationing with their two sons.],
 
 :: Other Keywords
-atom bomb,
+atom bomb [],
 
 
 movie: Atlantis the Lost Continent (1961)
@@ -966,7 +945,6 @@ Atlantis, the Lost Continent
 :: Description
 The film concerns the events leading up to the total destruction of the
 mythical continent of Atlantis during the time of Ancient Greece.
-
 
 :: Date
 1961-05-03
@@ -996,7 +974,6 @@ science as magic to the primitive [Demetrius wondered whether the compass Antill
 submarine [The Atlanteans had a submarine that looked like a fish.],
 astrology [Sonoy the Astrologer was much into star signs and so on.],
 what if I had to fight to the death [Demetrius had to fight a gladiator to the death to gain his freedom.],
-facing a fight to the death [Demetrius had to fight a gladiator to the death to gain his freedom.],
 the fulfillment of prophesy [Sonoy the Astrologer explained how it was prophesied that a fisherman being granted his freedom spelled the downfall of Atlantis.],
 death ray [Zaren build a cannon-sized death ray using a giant crystal and used it to disintegrate ships at sea.],
 
@@ -1011,7 +988,6 @@ Voyage to the Bottom of the Sea
 An experimental nuclear submarine comes to the rescue when a meteor shower
 causes the Van Allen radiation belt to catch fire, resulting in a world-
 threatening increase in heat all across the Earth.
-
 
 :: Date
 1961-07-12
@@ -1042,7 +1018,6 @@ Invasion of the Neptune Men
 
 :: Description
 The world is attacked by a race of metallic aliens from the planet Neptune.
-
 
 :: Date
 1961-07-19
@@ -1084,7 +1059,6 @@ The Flight That Disappeared
 When his flight disappears, a rocket scientist finds himself on trial in the
 future for his part in designing a bomb that has destroyed all life on Earth.
 
-
 :: Date
 1961-09-13
 
@@ -1117,7 +1091,7 @@ what if I had to spend eternity in limbo [Three scientists were were frozen in t
 airplane,
 
 :: Other Keywords
-airplane disappearance,
+airplane disappearance [],
 
 
 movie: The Last War (1961)
@@ -1129,7 +1103,6 @@ The Last War
 :: Description
 The Federation and the Alliance (fictional stand-ins for the US/NATO and the
 USSR/Warsaw Pact, respectively) enter into a nuclear war.
-
 
 :: Date
 1961-10-08
@@ -1166,7 +1139,6 @@ contaminated by radiation and his body begins to transform in remarkable ways.
 In his new mental and physical condition, he sets out to gain revenge against
 all those who betrayed him.
 
-
 :: Date
 1961-11-16
 
@@ -1192,7 +1164,8 @@ what if I was accused of a crime that I didn't commit [Eddie Candell was framed 
 what if I was unkillable [Eddie Candell was impervious to bullets after getting fused with steel.],
 
 :: Other Keywords
-nuclear test [Eddie Candell stumbled onto a nuclear testing site.], giant vegetable [A nuclear scientist produced gigantic fruits and vegetables using radiation.],
+nuclear test [Eddie Candell stumbled onto a nuclear testing site.],
+giant vegetable [A nuclear scientist produced gigantic fruits and vegetables using radiation.],
 
 
 movie: The Day the Earth Caught Fire (1961)
@@ -1204,7 +1177,6 @@ The Day the Earth Caught Fire
 :: Description
 The Earth off is knocked its normal axis of rotation after the Soviet Union
 and the United States accidentally detonate simultaneous nuclear bomb tests.
-
 
 :: Date
 1961-11-23
@@ -1231,7 +1203,6 @@ alcoholism [Peter Stenning was known for having a drinking problem.],
 the end of the world [A pastor was running around urging everyone to repent before the end came.],
 escape from reality [People tried to go as normal on with their lives even though the climate around them had suddenly altered dramatically. Young people threw a wild street party after it was announced that the Earth was spiraling into the sun.],
 mass hysteria [People were shown panicking in the streets after news that the Earth was spiraling into the sun spread around the world.],
-apocalypse anarchy [Young people threw a wild street party after it was announced that the Earth was spiraling into the sun.],
 
 
 movie: The Phantom Planet (1961)
@@ -1243,7 +1214,6 @@ The Phantom Planet
 :: Description
 In 1980, an astronaut is shrunken down in size after on an asteroid populated
 by a race of tiny people.
-
 
 :: Date
 1961-12-13
@@ -1276,7 +1246,8 @@ unrequited love [Herron at Liara.],
 father and daughter [Sessom and Liara.],
 
 :: Other Keywords
-rocket ship [A rocket ship flying around in space with a two-man crew mysteriously disappeared.], asteroid,
+rocket ship [A rocket ship flying around in space with a two-man crew mysteriously disappeared.],
+asteroid [],
 
 
 movie: Mysterious Island (1961)
@@ -1289,7 +1260,6 @@ Mysterious Island
 A science fiction adventure film about Civil War prisoners who escape in a
 balloon and then find themselves stranded on a remote island populated by
 giant mutated animals.
-
 
 :: Date
 1961-12-20
@@ -1304,7 +1274,6 @@ https://en.wikipedia.org/wiki/Mysterious_Island_(1961_film)
 sci-fi
 
 :: Major Themes
-facing being stranded [Civil War prisoners became stranded on an island.],
 transnational institution for peace [Nemo advocated the need for world peace via a combination of social organization and technology.],
 science for war or peace [Nemo argued that science must be used for peace and not war.],
 chain of command [The Civil War prisoners establish pecking order after becoming stranded on the island.],
@@ -1323,7 +1292,10 @@ post-scarcity economy utopia [Nemo dreamed of a future where a post-scarcity eco
 romantic love [Herbert and Lady Mary Fairchild.],
 
 :: Other Keywords
-giant crab, giant chicken, giant bees, giant nautilus,
+giant crab [],
+giant chicken [],
+giant bees [],
+giant nautilus [],
 
 
 movie: Battle Beyond the Sun (1962)
@@ -1337,7 +1309,6 @@ Battle Beyond the Sun is the English-dubbed and re-edited U.S. version of Nebo
 Zovyot, a 1959 Soviet science fiction film directed by Mikhail Karyukov and
 Aleksandr Kozyr. It tells of the "space race" of two future nations competing
 to become the first to land a spacecraft on the planet Mars.
-
 
 :: Date
 1962
@@ -1380,7 +1351,6 @@ Planeta Bur
 Three Soviet spaceships, Sirius, Vega, and Capella, go on a mission to the
 planet Venus.
 
-
 :: Date
 1962
 
@@ -1422,7 +1392,6 @@ The Planets Against Us
 :: Description
 Aliens send cyborgs to Earth as a prelude to invasion.
 
-
 :: Date
 1962
 
@@ -1462,7 +1431,6 @@ Constructed almost entirely from still photos, the film tells the story of a
 post-nuclear war experiment in time travel. It is 28 minutes long and shot in
 black and white.
 
-
 :: Date
 1962-02-16
 
@@ -1490,7 +1458,6 @@ Journey to the Seventh Planet
 :: Description
 In the year 2001, a crew is dispatched to Uranus (i.e. the seventh planet) by
 the United Nations on a mission of space exploration.
-
 
 :: Date
 1962-03
@@ -1521,7 +1488,9 @@ facing one's darkest fear [The gigantic one-eyed brain found the deepest, darkes
 fear [The gigantic one-eyed brain found the deepest, darkest fears inside the astronauts' minds and conjured them up for the astronauts to face.],
 
 :: Other Keywords
-rocket ship [A crew of astronauts flew a rocket ship to Uranus.], spacesuit [The astronauts sported nifty blue spacesuits with yellow helmets.], giant spider,
+rocket ship [A crew of astronauts flew a rocket ship to Uranus.],
+spacesuit [The astronauts sported nifty blue spacesuits with yellow helmets.],
+giant spider [],
 
 
 movie: Moon Pilot (1962)
@@ -1535,7 +1504,6 @@ Moon Pilot is based on Robert Buckner's 1960 novel Starfire and reflects
 Disney's interest in America's space program during John F. Kennedy's
 presidential era in the early 1960s. It was notably the first science-fiction
 movie produced by Disney.
-
 
 :: Date
 1962-04-05
@@ -1572,7 +1540,6 @@ Invasion of the Star Creatures
 A trio of beautiful female aliens set seven-foot-tall vegetable-like creatures
 loose in an attempt to conquer the world.
 
-
 :: Date
 1962-05-03
 
@@ -1599,7 +1566,8 @@ man vs. captivity [The aliens held two army privates captive in a cave.],
 romantic love [The beautiful alien women married the army privates after it became apparent to them that they could not return to their home world.],
 
 :: Other Keywords
-atomic bomb test, Native American stereotype,
+atomic bomb test [],
+Native American stereotype [],
 
 
 movie: The Day of the Triffids (1962)
@@ -1611,7 +1579,6 @@ The Day of the Triffids
 :: Description
 Tall, carnivorous, mobile plants, called Triffids, capable of aggressive and
 seemingly intelligent behavior arrive on Earth as spores from a meteor shower.
-
 
 :: Date
 1962-07
@@ -1652,7 +1619,6 @@ decreasing birth rate and has grown dependent on their assistance. A fanatical
 organization tries to prevent the robots from becoming too human, fearing that
 they will take over. Meanwhile, a scientist experiments with creating human
 replicas that have genuine emotions and memories.
-
 
 :: Date
 1962-07-03
@@ -1696,7 +1662,6 @@ Panic in Year Zero!
 A Baldwin family leaves Los Angeles on camping trip just in time to miss the
 city getting hit by an atomic bomb.
 
-
 :: Date
 1962-07-05
 
@@ -1712,7 +1677,6 @@ sci-fi
 :: Major Themes
 nuclear holocaust [There was an atomic war which led to a post-apocalyptic state of affairs in Los Angeles.],
 mass hysteria [There was panic and social breakdown in the aftermath of Los Angeles being hit by an atomic bomb.],
-surviving an existential risk [The Baldwin family was faced with having to survive when society broke down in the aftermath of a nuclear war.],
 post-apocalyptic dystopia [The Baldwin family was faced with having to survive when society broke down in the aftermath of a nuclear war.],
 father and son [Harry Baldwin and Rick Baldwin.],
 
@@ -1734,7 +1698,6 @@ Amphibian Man
 :: Description
 A youth named Ichthyander, who is surgically altered to survive under the sea,
 falls in love with the beautiful daughter of a pearl-fisherman.
-
 
 :: Date
 1962-12-19
@@ -1761,7 +1724,6 @@ father and daughter [The pearl fisherman and his beautiful daughter.],
 father and son [Dr. Salvator and his adoptive son the amphibian man.],
 fiancée and fiancée [Guttiere agreed to marry Pedro Zurita so that he would pay off her father's debts.],
 man vs. captivity [The amphibian man was held captive by Pedro Zurita and made to gather pearls.],
-avarice [Pedro Zurita held the amphibian man captive and commercially exploited by forcing him to gather pearls.],
 the lust for gold [Pedro Zurita held the amphibian man captive and commercially exploited by forcing him to gather pearls.],
 
 
@@ -1773,7 +1735,6 @@ In Search of the Castaways
 
 :: Description
 A tale about a worldwide search for a shipwrecked sea captain.
-
 
 :: Date
 1962-12-21
@@ -1795,7 +1756,6 @@ father and son [Mary Grant embarked on a mission to find her father who was pres
 man vs. nature [The rescue party survived an earthquake, a lightning storm, a tidal wave, a volcano, and an avalanche.],
 
 :: Minor Themes
-cannibalism [The rescue party escaped from Maori cannibals.],
 
 
 movie: The Yesterday Machine (1963)
@@ -1807,7 +1767,6 @@ The Yesterday Machine
 :: Description
 A Nazi scientist invents a time machine to go back to alter the outcome of
 World War II.
-
 
 :: Date
 1963
@@ -1846,7 +1805,6 @@ top secret and the IRS has slapped him with a huge tax bill, even if he has
 yet to receive a cent. He thinks he may have found the solution in the form of
 "Flubbergas," (the "son" of Flubber) which can change the weather.
 
-
 :: Date
 1963-01-16
 
@@ -1873,7 +1831,6 @@ master and pet [Professor Brainard and his dog Charlie.],
 old flames [Professor Brainard and Desiree de la Roche. Betsy Brainard and Shelby Ashton.],
 jealousy [Betsy Brainard was jealous of Desiree de la Roche over her interest in Ned Brainard.],
 unrequited love [Shelby Ashton at Betsy Brainard.],
-avarice [Alonzo P. Hawk schemed to close down Medfield College and put up a housing development.],
 the lust for gold [Alonzo P. Hawk schemed to close down Medfield College and put up a housing development.],
 legal proceedings [Professor Brainard was put on trial for something to do with a damage lawsuit.],
 
@@ -1887,7 +1844,6 @@ The Day Mars Invaded Earth
 :: Description
 Energy-being Martians duplicate a scientist and his family as a first step
 toward their invasion of Earth to stop humanity's space programs.
-
 
 :: Date
 1963-02-14
@@ -1923,7 +1879,7 @@ grief [Judi Fielding mourned the death of her boyfriend Frank, who died in a mys
 coping with the death of a lover [Judi Fielding mourned the death of her boyfriend Frank, who died in a mysterious automobile accident.],
 
 :: Other Keywords
-Christmas,
+Christmas [],
 
 
 movie: The Damned (1963)
@@ -1937,7 +1893,6 @@ The Damned (released as These Are the Damned in the USA) is a 1963 British
 science fiction film directed by Joseph Losey and starring Macdonald Carey,
 Shirley Anne Field, Viveca Lindfors and Oliver Reed. Based on H.L. Lawrence's
 novel The Children of Light, it was a Hammer Film production.
-
 
 :: Date
 1963-05-20
@@ -1974,7 +1929,6 @@ Matango: Attack of the Mushroom People
 A group of castaways on an island are unwittingly altered by a local species
 of mutagenic mushrooms.
 
-
 :: Date
 1963-08-11
 
@@ -1988,7 +1942,6 @@ https://en.wikipedia.org/wiki/Matango
 sci-fi, horror,
 
 :: Major Themes
-facing being stranded [A group of castaways were stranded on a remote island.],
 what if I were stranded without food and water [A group of castaways were stranded on a remote island and struggled to find enough food to survive.],
 man vs. nature [A group of castaways had to survive on an unpopulated island.],
 mushroom-like being [A group of castaways, stranded on a remote island, were transformed into mushroom creatures.],
@@ -1996,7 +1949,6 @@ mushroom-like being [A group of castaways, stranded on a remote island, were tra
 :: Minor Themes
 the dangers of radioactivity [People transformed into mushroom creatures after eating special mutagenic mushrooms.],
 jealousy [The men were jealous of one another over the two women.],
-psychedelic drug trip [The castaways experienced psychedelic effects after eating the local mushrooms on a remote island.],
 romantic love [Masafumi Kasai and Akiko Soma.],
 
 
@@ -2010,7 +1962,6 @@ Monstrosity
 An elderly woman uses her vast fortune to convince an eccentric yet brilliant
 scientist to transplant her brain into a new, youthful body. It is perhaps
 better known under its alternate TV release title, The Atomic Brain.
-
 
 :: Date
 1963-09
@@ -2047,7 +1998,6 @@ possessed by a strange, murderous alien who gradually begins to take over the
 hapless med student. One by one, townsfolk are found mysteriously strangled to
 death. In the end, a heroic and hungry cat saves the rest of the town.
 
-
 :: Date
 1963-09-04
 
@@ -2083,7 +2033,6 @@ X: The Man with the X-ray Eyes
 :: Description
 A world-renowned scientist's experiments with X-ray vision go badly awry.
 
-
 :: Date
 1963-09-18
 
@@ -2101,7 +2050,6 @@ what if I had X-ray vision [Dr. Xavier used special eyedrops to increase the ran
 vision beyond the visible spectrum glasses [Dr. Xavier developed eyedrops intended to increase the range of human vision, allowing one to see beyond the visible spectrum into the ultraviolet and x-ray wavelengths and beyond.],
 
 :: Minor Themes
-coping with excruciating pain [Dr. Xavier had recurring headaches.],
 
 
 movie: The Flesh Eaters (1964)
@@ -2113,7 +2061,6 @@ The Flesh Eaters
 :: Description
 A flesh-eating creature terrorizes a group of people trapped on a desert
 island.
-
 
 :: Date
 1964-03-18
@@ -2128,7 +2075,6 @@ https://en.wikipedia.org/wiki/The_Flesh_Eaters_(film)
 sci-fi
 
 :: Major Themes
-facing being stranded [There was a group of people stranded on a desert island.],
 man vs. nature [There was a group of people stranded on a desert island.],
 man vs. beast [The castaways versus the flesh eating microbes.],
 romantic love [Grant Murdoch and Jan Letterman.],
@@ -2137,7 +2083,6 @@ romantic love [Grant Murdoch and Jan Letterman.],
 alcoholism [Laura Winters was a raging alcoholic.],
 coping with a bad hangover [Laura Winters woke up on the beach one morning with an awful hangover.],
 unethical human experimentation [It turned out that Prof. Peter Bartell was a defender of the macabre experiments Nazi scientists performed on people during the war.],
-avarice [Prof. Peter Bartell was developing a flesh eating microorganism that he planned to sell to the highest bidder as a biological weapon.],
 the lust for gold [Prof. Peter Bartell was developing a flesh eating microorganism that he planned to sell to the highest bidder as a biological weapon.],
 
 
@@ -2150,7 +2095,6 @@ Unearthly Stranger
 :: Description
 A government scientist discovers that his wife is an alien who is determined
 to put a stop to his research.
-
 
 :: Date
 1964-04
@@ -2186,7 +2130,6 @@ Robinson Crusoe on Mars
 A science fiction retelling of the classic novel Robinson Crusoe by Daniel
 Defoe.
 
-
 :: Date
 1964-06-17
 
@@ -2201,7 +2144,6 @@ sci-fi
 :: Major Themes
 man vs. nature [Commander Kit Draper and Colonel Dan McReady were unceremoniously dumped off on Mars and had to try and survive there. Colonel McReady died on the first night, leaving Commander Draper and his pet monkey Mona to find a way to survive there on the Red Planet.],
 what if I were stranded without food and water [Commander Kit Draper was stranded on Mars with minimal provisions.],
-facing being stranded [Commander Kit Draper was stranded on Mars with minimal provisions.],
 Martian extraterrestrial [Kit Draper encountered Martians while stranded on the Red Planet.],
 male bonding [Kit Draper and Friday had to cooperate to survive on Mars.],
 
@@ -2222,7 +2164,6 @@ First Men in the Moon
 
 :: Description
 A film adaptation of H. G. Wells' 1901 novel The First Men in the Moon.
-
 
 :: Date
 1964-08-06
@@ -2260,7 +2201,6 @@ Dogora
 :: Description
 Carbon eating space spores threaten to devour the Earth.
 
-
 :: Date
 1964-08-11
 
@@ -2275,7 +2215,6 @@ sci-fi
 
 :: Major Themes
 invasive life form from outer space [Spores drift to Earth from outer space and begin consuming anything made from carbon. The spores later somehow coalesced into a jellyfish-like creature that descended upon the island of Kyushu.],
-avarice [The Ginza Gang criminals hatched a plot to steal a diamond shipment.],
 the lust for gold [The Ginza Gang criminals hatched a plot to steal a diamond shipment.],
 
 :: Minor Themes
@@ -2292,7 +2231,6 @@ The Time Travelers
 :: Description
 A group of scientists find their time-viewing screen allows them to travel
 through time.
-
 
 :: Date
 1964-10-29
@@ -2324,7 +2262,7 @@ what if I could move faster in time than everyone else [The scientists returned 
 time loop [The film concluded by showing the scientists repeating the same series of events over and over again.],
 
 :: Other Keywords
-rocketship,
+rocketship [],
 
 
 movie: Pajama Party (1964)
@@ -2336,7 +2274,6 @@ Pajama Party
 :: Description
 Teen aged Martian intelligence officer is sent to Earth to prepare the way for
 an invasion, but ends up falling in love with an Earth girl.
-
 
 :: Date
 1964-11-11
@@ -2369,7 +2306,6 @@ Santa Claus Conquers the Martians
 :: Description
 Santa Claus is abducted by Martians in order to bring Christmas to the Red
 Planet.
-
 
 :: Date
 1964-11-14
@@ -2409,7 +2345,6 @@ The Creeping Terror
 A slug-like monster terrorizes an American town after escaping from a crashed
 spaceship.
 
-
 :: Date
 1964-11-20
 
@@ -2442,7 +2377,6 @@ Crack in the World
 A team of scientists launch a rocket in the Earth's core to research its
 geothermal energy but accidentally unleash a cataclysmic destruction that
 threatens to sever the earth in two.
-
 
 :: Date
 1965-02-24
@@ -2482,7 +2416,6 @@ Alphaville
 A secret agent is sent on a mission to destroy the sentient computer which is
 completely controlling the city of Alphavilla.
 
-
 :: Date
 1965-05-05
 
@@ -2507,7 +2440,7 @@ romantic love [Natacha von Braun experienced love for the first time with Lemmy 
 fear [People were fearful of thinking for themselves. There was also ample discussion about being afraid of death.],
 
 :: Other Keywords
-mainframe computer,
+mainframe computer [],
 
 
 movie: The 10th Victim (1965)
@@ -2522,7 +2455,6 @@ tendencies a chance to kill in the "Big Hunt". The Hunt is the most popular
 form of entertainment in the world and also attracts participants who are
 looking for fame and fortune. It includes ten rounds for each competitor, five
 as the hunters and five as the victims.
-
 
 :: Date
 1965-12-03
@@ -2557,7 +2489,6 @@ To save a scientist who has important information from dying, a medical task
 team enters a submarine which is shrunk to microscopic size and injected into
 the patient's blood. They must now make their way past various obstacles and
 immune defenses to reach the damaged part of his brain.
-
 
 :: Date
 1966-10-14
@@ -2596,7 +2527,6 @@ The film follows a voyage to Jupiter with the sentient computer HAL after the
 discovery of a mysterious black monolith affecting human evolution, deals with
 themes of existentialism, human evolution, technology, artificial
 intelligence, and the possibility of extraterrestrial life.
-
 
 :: Date
 1968-04-02
