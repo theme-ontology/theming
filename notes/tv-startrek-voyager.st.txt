@@ -64,7 +64,8 @@ Taylor.
 1995-01-16
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 Chakotay, Janeway, Tom Paris
@@ -102,13 +103,12 @@ desert planet [],
 gluttony [Neelix feasted using food replicator],
 heroism [Tom and Neelix stay behind to rescue Janeway team],
 husband and wife [Janeway and hers],
-interest [Neelix aboard Voyager],
 loyalty to a cause [to Maquis],
 subterranean civilization [Ocampans],
 taking responsibility for one's actions [Caretaker to Ocampa],
 teleportation device [Neelix astonished by transporter technology],
 woman in charge [Janeway],
-womanizing [Tom and Betazoid],
+womanizing man [Tom and Betazoid],
 
 :: Aliens
 Ocampa, Nacene, Ferrengi [Quark], Talaxian [Neelix], Cardassian [in the beginning], Betazoid [briefly featured pilot], Kazon [or Kazon-Ogla]
@@ -123,7 +123,15 @@ Badlands, Ocampa Homeworld <standard orbit>
 space fight [Maquis and Cardassian ships, Voyager and Kazar], captain's log supplemental <43:40-43:50>
 
 :: Other Keywords
-red alert <19:22>, hypospray <12:00, 23:40>, plasma storm, console explosion, hoedown, tricorder, medical tricorder, banjo, last second transport [Chakotay]<1:21:45>
+red alert [] <19:22>,
+hypospray [] <12:00, 23:40>,
+plasma storm [],
+console explosion [],
+hoedown [],
+tricorder [],
+medical tricorder [],
+banjo [],
+last second transport [Chakotay] <1:21:45>,
 
 
 voy1x02
@@ -156,7 +164,8 @@ Directed by: Kim Friedman. Story by: Jim Trombetta.
 1995-01-23
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 B'Elanna [object], Janeway, Chakotay
@@ -171,11 +180,9 @@ working together in spite of disagreement [Federation and Maquis crews],
 :: Major Themes
 anger management issues [B'Elanna],
 clash of wills [Chakotay vs. Janeway],
-facing mysterious adversity [space time distortion],
 female bonding [Janeway and B'Elanna],
 inflexible education system [B'Elanna's great talent got lost in the system],
 man vs. space anomaly [space time distortion],
-pride [B'Ellana and the Doctor in particular],
 stepping up to the task [B'Elanna shows she can be Chief Engineer],
 workplace rivalry [B'Elanna and Carey],
 
@@ -186,9 +193,8 @@ decision making in the face of uncertainty [Janeway and B'Elanna must infer whic
 event horizon [a topic in science],
 self-control [B'Elanna reflects on her anger management issues] <B'Elanna>,
 office politics [who will get the promotion to be chief engineer],
-rage [B'Elanna broke a guy's nose in three places],
+anger [B'Elanna broke a guy's nose in three places],
 the need to be treated with respect [The Doctor was treated like crap by the crew],
-wrath [B'Elanna],
 
 :: Locations
 Ilidaria system <en route>
@@ -197,7 +203,8 @@ Ilidaria system <en route>
 captain's log <6:24-6:36>, shuttle craft for two [Janeway and B'Elanna]
 
 :: Other Keywords
-red alert <9:45>, Hippocrates {historical character}
+red alert [] <9:45>,
+Hippocrates [] {historical character},
 
 
 voy1x04
@@ -217,7 +224,8 @@ Directed by: Les Landau. Story by: David Kemper.
 1995-01-30
 
 :: Ratings
-3 <paul>, 1 <mikael>
+3 <paul>
+1 <mikael>
 
 :: Main Characters
 Tom Paris, Janeway
@@ -236,7 +244,6 @@ eco-terrorism [],
 time travel [],
 
 :: Minor Themes
-annoyance [The Doctor at not being informed about basic crew information],
 chastity [Harry refuses to go on double date],
 dealing with children [Tom threatened to eat one],
 heroism [Tom takes a bullet in the gut to save kid's life],
@@ -264,7 +271,7 @@ crying [Kes]
 visit a planet [unnamed M class planet], first officer's log supplemental <13:00-13:07>
 
 :: Other Keywords
-tricorder
+tricorder [],
 
 
 voy1x05
@@ -283,7 +290,8 @@ Directed by: Winrich Kolbe. Story by: Timothy DeHaas.
 1995-02-06
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 Neelix [object], Kes
@@ -326,7 +334,9 @@ rogue planetoid <en route, standard orbit>
 red alert <25:36>, race against time [find Neelix's lungs], find a cure [The Doctor creates holographic lungs for Neelix], captain's log supplemental[Janeway, Janeway]<19:25-19:35, 43:10-43:20>
 
 :: Other Keywords
-rogue planetoid, tricorder, hypospray [The Doctor to Neelix, The Doctor to Neelix, The Doctor to Neelix]<9:30, 11:38, 29:13>
+rogue planetoid [],
+tricorder [],
+hypospray [The Doctor to Neelix, The Doctor to Neelix, The Doctor to Neelix] <9:30, 11:38, 29:13>,
 
 
 voy1x06
@@ -345,7 +355,8 @@ Directed by: David Livingston. Story by: Brannon Braga.
 1995-02-13
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway [object], Chakotay, Tom Paris, Harry Kim
@@ -374,7 +385,6 @@ flattery [Neelix to Janeway about new lipstick],
 male bonding [Tom and Harry],
 pleasure in coffee [Janeway says there is coffee in that nebula],
 pleasure in cooking [Neelix],
-prickliness [The Doctor],
 romantic love [Kes and Neelix],
 shamanism [Chakotay's animal guide],
 
@@ -393,7 +403,13 @@ kiss [Kes and Neelix, Tome and holodeck bimbo]<12:55, 19:00>
 personal log [Janeway]<0:01-1:10>, captain's log supplemental <41:15-41:34>, turbolift chat [Janeway and Harry]
 
 :: Other Keywords
-red alert <12:28, 32:10>, yellow alert <29:30>, Carl Jung {historical character}, holodeck, French stereotyping, Willie Musconi {fictional historical character}, Johna and the Whale {historical reference}
+red alert [] <12:28, 32:10>,
+yellow alert [] <29:30>,
+Carl Jung [] {historical character},
+holodeck [],
+French stereotyping [],
+Willie Musconi [] {fictional historical character},
+Johna and the Whale [] {historical reference},
 
 
 voy1x07
@@ -412,7 +428,8 @@ Directed by: Winrich Kolbe. Story by: Hilary J. Bader.
 1995-02-20
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway, The Doctor
@@ -447,7 +464,7 @@ Romulan <appeared>
 captain's log <0:01-0:16>, captain's log supplemental <13:30-13:42>
 
 :: Other Keywords
-tricorder
+tricorder [],
 
 
 voy1x08
@@ -466,7 +483,8 @@ Directed by: LeVar Burton. Story by: Evan Carlos Somers.
 1995-02-27
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 Tom Paris [object], Tuvok, Janeway
@@ -485,7 +503,6 @@ extramarital affair [Tom and Liddell Ren],
 husband and wife [scientist and Liddell Ren],
 implanted memory punishment [Tom made to relive crimes through eyes of victim],
 infatuation [Liddell Ren and Tom],
-lust [Liddell Ren and Tom],
 young and old romance [Liddell Ren and her old crotchety husband],
 
 :: Minor Themes
@@ -493,7 +510,6 @@ boredom [Tom with calculations, Lidell Ren with her husband],
 capital punishment [],
 hospitality [Tolen Ren hosts Tom and Harry for dinner],
 lie detector [Tuvok used],
-lover caught in flagrante [husband catches Liddell Ren with Tom],
 master and pet [Lidell Ren and Neeka],
 mentor and protégé [The Doctor and Kes],
 playing dead tactic [crap against the Numiri],
@@ -510,7 +526,11 @@ Banean homeworld <en route, standard orbit>
 kiss [Tom Paris and Lidell Ren]<27:00>
 
 :: Other Keywords
-red alert <36:50>, Galen {historical character}, Johnas Salk {historical character}, mind meld [Tuvok and Tom Paris], hypospray [The Doctor to Tuvok]<34:42>
+red alert [] <36:50>,
+Galen [] {historical character},
+Johnas Salk [] {historical character},
+mind meld [Tuvok and Tom Paris],
+hypospray [The Doctor to Tuvok] <34:42>,
 
 
 voy1x09
@@ -529,7 +549,8 @@ Directed by: David Livingston. Story by: Brannon Braga.
 1995-03-13
 
 :: Ratings
-1 <mikael>, 5 <paul>
+1 <mikael>
+5 <paul>
 
 :: Main Characters
 Harry Kim [object], Janeway, Ptera
@@ -550,12 +571,10 @@ man vs. captivity [Harry held by aliens],
 :: Minor Themes
 the ethics of interfering in less advanced societies [Harry couldn't tell Vhnori about what he saw in afterlife],
 contemplating suicide [Hatil],
-ingenuity [B'Elanna has clever idea to return Ptera and rescue Harry in one fell swoop],
 man vs. space anomaly [space vacuole appeared in Engineering],
 shamanism [Chakotay],
 struggling with a life-changing decision [Hatil about suicide],
-surprise [Harry wakes up inside cenotaph],
-terror [Ptera upon waking up in the afterlife, i.e., sickbay],
+fear [Ptera upon waking up in the afterlife, i.e., sickbay],
 
 :: Aliens
 Vhnori
@@ -570,7 +589,9 @@ crying [Ptera]<31:00>
 captain's log [Janeway]<0:00-0:18>, captain's log supplemental [Janeway]<32:12-32:28>
 
 :: Other Keywords
-tricorder, hypospray [The Doctor to Ptera, The Doctor to Ptera, The Doctor to Harry]<15:29, 16:24, 40:48>, stargazing [Kes, Harry]
+tricorder [],
+hypospray [The Doctor to Ptera, The Doctor to Ptera, The Doctor to Harry] <15:29, 16:24, 40:48>,
+stargazing [Kes, Harry],
 
 
 voy1x10
@@ -589,7 +610,8 @@ Directed by: Les Landau. Story by: David R. George III and Eric A. Stillwell.
 1995-03-20
 
 :: Ratings
-4 <mikael>, 5 <paul>
+4 <mikael>
+5 <paul>
 
 :: Main Characters
 Janeway [object], Gathorel Labin
@@ -606,7 +628,7 @@ great need vs. compromising one's ethical principles [Janeway],
 hedonism [],
 hospitality [aliens to crew],
 interstellar teleportation [this is notably different from federation teleportation tech],
-man vs. institution [Janeway in conflict with alien government over acquiring transporter technology],
+human vs. institution [Janeway in conflict with alien government over acquiring transporter technology],
 pleasure in storytelling [the Sikarians],
 resisting a temptation [Janeway with being tempted by alien leader and Harry to a lesser degree with sexual temptation],
 selfless service [Tuvok risks court martial to achieve Janeway's goal of getting Voyager home],
@@ -615,11 +637,9 @@ taking responsibility for one's actions [B'Elanna and Tuvok  takes responsibilit
 :: Minor Themes
 betrayal [something with Tuvok betraying Janeway's trust],
 chastity [Harry denies Eudana],
-distraction [Seska was distracted by memories of her brother],
 group bonding [marquis and Starfleet in teaser],
 habitable planet in a binary star system [Alastria],
 infatuation [Janeway and Gath],
-joy [Harry and alien woman in woods],
 literature appreciation [the aliens],
 musical machine interface [that atmospheric reader],
 space folding travel technology [crew wanted from aliens],
@@ -639,7 +659,7 @@ Sikaris <standard orbit>
 captain's log [Janeway]<9:37-9:48>
 
 :: Other Keywords
-yellow alert <2:25>
+yellow alert [] <2:25>,
 
 
 voy1x11
@@ -658,7 +678,8 @@ Directed by: Robert Scheerer. Story by: Paul Robert Coyle.
 1995-04-10
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Seska [object], Chakotay
@@ -679,7 +700,6 @@ romantic love [Chakotay and Seska],
 
 :: Minor Themes
 brinkmanship [Janeway in dealing with Kazon],
-deviousness [Seska about stealing the bowl of mushroom soup and technical equipment],
 helping a stranger in need [Kazon distress call],
 infatuation [Chakotay about Seska],
 matter replicator [the amzingness of this technology was briefly the topic],
@@ -687,8 +707,6 @@ misery loves company [Chakotay informed Tuvok of this],
 pleasure in eating [Neelix looking for ingredients],
 ruthlessness [Seska about doing anything to get home],
 second guessing one's self [Chakotay at end about being naïve],
-surprise [Chakotay that Seska is a Cardassian!],
-vigilance [command crew in uncovering traitor],
 
 :: Aliens
 Kazon, Cardassian [Seska]
@@ -716,7 +734,8 @@ Directed by: Les Landau. Story by: Naren Shankar.
 1995-04-24
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor [object, Albert Schweitzer], Janeway
@@ -733,18 +752,15 @@ virtual reality room [Beowulf],
 :: Major Themes
 facing a ferocious beast [The Doctor faces Graendel],
 incorporeal being [photonic life form],
-man vs. beast [The Doctor faces Graendel],
+human vs. beast [The Doctor faces Graendel],
 romantic love [The Doctor and Freya],
 what if I met a Viking [or something about what the Vikings were like],
 
 :: Minor Themes
-anxiety [the Doctor about helping],
-apprehension [The Doctor about going on mission],
 fear [photonics of Graendel],
 gluttony [the Viking feasting],
 literature appreciation [Harry of Beowulf],
 passion for exploration [Janeway waxed lyrical about meeting new species],
-pride [Vikings],
 
 :: Aliens
 Vok'sha [mentioned], photonic protostar aliens
@@ -756,7 +772,12 @@ woodland <holodeck>, great hall
 captain's log [Janeway, Janeway]<0:00-0:17, 42:18-42:30>
 
 :: Other Keywords
-Beowulf {literary reference}, holodeck, tricorder, holonovel, Albert Schweitzer {historical character}, feast
+Beowulf [] {literary reference},
+holodeck [],
+tricorder [],
+holonovel [],
+Albert Schweitzer [] {historical character},
+feast [],
 
 
 voy1x13
@@ -776,7 +797,8 @@ Directed by: Kim Friedman. Story by: Brannon Braga and Joe Menosky.
 1995-05-01
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway [Luclile Davenport], Tuvok
@@ -790,7 +812,6 @@ mistrust leading to group dysfunction [nobody could know which crew member the e
 :: Major Themes
 coping with being suspected of something [Tom, then B'Ellana, then Tuvok to some extent about harboring entity],
 facing a ship takeover [],
-facing mysterious adversity [],
 incorporeal being [],
 life force draining being [the entity],
 
@@ -803,7 +824,6 @@ nostalgia [Tom about Dr. Brown],
 out-of-body experience [Chakotay describes at end],
 shamanism [Chakotay's medicine wheel],
 the need for rest and recreation [Janeway enjoying holonovel],
-vigilance [suspicious over who is inhabited by incorporeal entity],
 virtual reality room [Janeway on holodeck],
 what if I couldn't trust the veracity of my senses [Tom],
 world with telepathy [Kes and Neelix discuss extensively],
@@ -818,7 +838,13 @@ English manor
 captain's log [Janeway]<0:00-0:17, 42:16-42:30>, dark and stormy night, captain's log supplemental [Janeway]<23:18-23:28>
 
 :: Other Keywords
-holodeck, holonovel, British stereotyping, hypospray [The Doctor to Chakotay, Tom Paris to Janeway]<4:40, 31:18>, full diagnostic, intruder alert <20:12>, mind meld [Tuvok to Kes]
+holodeck [],
+holonovel [],
+British stereotyping [],
+hypospray [The Doctor to Chakotay, Tom Paris to Janeway] <4:40, 31:18>,
+full diagnostic [],
+intruder alert [] <20:12>,
+mind meld [Tuvok to Kes],
 
 
 voy1x14
@@ -836,7 +862,8 @@ Directed by: Winrich Kolbe. Story by: Jonathan Glassner and Kenneth Biller.
 1995-05-08
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 B'Elanna [object], Tom Paris, Sulan
@@ -858,15 +885,13 @@ what if I met my double [B'Elanna],
 :: Minor Themes
 childhood as an outsider [B'Elanna],
 coping with bad cooking [Tuvok with spicy plomeek soup],
-disgust [B'Elanna at being touched by gross alien],
 facing life in captivity [B'Elanna],
 fear [B'Elanna human-half],
 handheld organ extractor [],
 pleasure in cooking [Neelix],
 pleasure in eating [Neelix],
-rage [Klingon B'Elanna],
+anger [Klingon B'Elanna],
 unrequited love [Sulan at B'Elanna],
-wrath [Klingon B'Elanna],
 
 :: Aliens
 Vidiian, Talaxian, Klingon
@@ -878,7 +903,7 @@ cavern
 captain's log [Janeway]<2:20-2:36>, follow the bread crumbs, heart to heart talk [B'Elanna and Tom Paris]
 
 :: Other Keywords
-Vulcan plomeek soup
+Vulcan plomeek soup [],
 
 
 voy1x15
@@ -898,7 +923,8 @@ Directed by: Kim Friedman. Story by: James Thomton and Scott Nimerfro.
 1995-05-15
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Neelix [object], Janeway, Jetrel
@@ -923,8 +949,6 @@ beating one's self up [Neelix],
 
 :: Minor Themes
 anger [Neelix],
-interest [Jetrel in science],
-moral outrage [Neelix],
 pleasure in shooting pool [teaser],
 risk taking vs. playing it safe [Tuvok bit off more than he could chew in pool],
 romantic love [Neelix and Kes],
@@ -940,7 +964,10 @@ pool hall <holodeck>
 find a cure, captain's log [Janeway, Janeway]<20:20-20:35, 43:00-43:12>
 
 :: Other Keywords
-stargazing [Janeway], holodeck, billiards, surreptitious hypospray [Jetrel to Neelix]<36:18>
+stargazing [Janeway],
+holodeck [],
+billiards [],
+surreptitious hypospray [Jetrel to Neelix] <36:18>,
 
 
 voy1x16
@@ -960,7 +987,8 @@ Matthias.
 1995-05-22
 
 :: Ratings
-2 <mikael>, 4 <paul>
+2 <mikael>
+4 <paul>
 
 :: Main Characters
 Tuvok [object], Kenneth Dalby, Janeway [Luclile Davenport]
@@ -984,10 +1012,8 @@ biological computer [the bio gel packs],
 biological computer virus [virus infected ship bio gel packs],
 chain of command [],
 dealing with children [how Janeway spends her time on the holodeck],
-frustration [Dalby],
-ingenuity [The Doctor and Kes cure disease],
 male bonding [Tuvok made failed attempt to bond with Dalby over billiards],
-man vs. technology [biocomputer failures],
+human vs. technology [biocomputer failures],
 retreat tactic [Tuvok explains the tactical advantages of retreating],
 sacrifice for a subordinate [Tuvok goes back to save Gerron],
 selfless service [Tuvok goes back to save Gerron],
@@ -1001,7 +1027,11 @@ Bolian, Bajoran, Ferengi [mentioned], Romulan [mentioned], Cardassian [mentioned
 captain's log [Janeway, Janeway]<6:12-6:28, 31:14-31:28>, security log supplemental [Tuvok]<23:34-23:48>
 
 :: Other Keywords
-red alert <25:15>, holodeck, English stereotyping, holonovel, stargazing [Tuvok]
+red alert [] <25:15>,
+holodeck [],
+English stereotyping [],
+holonovel [],
+stargazing [Tuvok],
 
 
 voy2x01
@@ -1020,7 +1050,8 @@ Directed by: James L. Conway. Story by: Jeri Taylor and Brannon Braga.
 1995-08-28
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway, Amelia Earhart
@@ -1042,14 +1073,11 @@ Amelia Earhart [Crew met Amelia Earhart on planet surface.],
 
 :: Minor Themes
 Morse code [SOS signal send by the 37s],
-admiration [Janeway to Earhart],
-apprehension [crew at prospect of landing Voyager on planet],
 belonging [the 37s on the planet],
 loyalty to a leader [crew to Janeway about staying on Voyager],
 passion for antique cars [Tom],
 past point of view [cryogenic people waking up in future],
 space colonization [Mars colonization discussed],
-surprise [frozen people at waking up in future],
 trust [frozen people and crew],
 universal translation device [mentioned briefly],
 
@@ -1063,7 +1091,12 @@ xeric scrubland, cavern, crypt
 captain's log [Janeway]<35:14-35:28>
 
 :: Other Keywords
-blue alert <8:10>, Amelia Earhart {historical character}, hypospray [Tom Paris to Nogami , Harry Kim to Amelia Earhart, Kes to Fred Noonan, Kes to Jack Hayes]<18:04, 18:05, 18:07, 18:08>, J. Edgar Hoover {historical character}, H. G. Wells {historical character}, Jules Verne {historical character}
+blue alert [] <8:10>,
+Amelia Earhart [] {historical character},
+hypospray [Tom Paris to Nogami , Harry Kim to Amelia Earhart, Kes to Fred Noonan, Kes to Jack Hayes] <18:04, 18:05, 18:07, 18:08>,
+J. Edgar Hoover [] {historical character},
+H. G. Wells [] {historical character},
+Jules Verne [] {historical character},
 
 
 voy2x02
@@ -1082,7 +1115,8 @@ Directed by: Winrich Kolbe. Story by: Kenneth Biller.
 1995-09-04
 
 :: Ratings
--1 <mikael>, 2 <paul>
+-1 <mikael>
+2 <paul>
 
 :: Main Characters
 Chakotay [object], Janeway, Kar
@@ -1094,11 +1128,8 @@ Razik, Haliz, Ayala, Culhane, Neelix, Tukov, Tom Paris, Harry Kim, B'Elanna, The
 cross cultural understanding [],
 
 :: Major Themes
-a wider world [Kar],
 adolescence [Kar],
 courage [Kar proved courageous by the end],
-live and let die [Kar],
-live and let live [Chakotay],
 peer pressure [Kar pressured to kill Chakotay],
 rite of passage into manhood [Kar must kill a man to be recognized as an adult],
 sacrifice for an adversary [Chakotay refuses to kill Kar at his own peril],
@@ -1108,7 +1139,7 @@ the desire for glory in battle [Kar],
 anarchy vs. rule of law [Chakotay debates values with Kazon],
 coping with being separated from one's family [Ayala],
 cowardice [Kar accused of even though he was brave],
-man vs. nature [Chakotay and Kar on the moon],
+human vs. nature [Chakotay and Kar on the moon],
 military training moon [Chakotay and Kar crashed on such a moon],
 shamanism [Chakotay with his medicine bundle],
 the need for a challenge in life [Neelix wanted more responsibility on the ship],
@@ -1123,7 +1154,7 @@ xeric scrubland, cavern
 first officer's personal log [Chakotay]<0:00-0:15>
 
 :: Other Keywords
-shuttlecraft for one
+shuttlecraft for one [],
 
 
 voy2x03
@@ -1143,7 +1174,8 @@ Directed by: Jonathan Frakes. Story by: Brannon Braga.
 1995-09-11
 
 :: Ratings
-4 <mikael>, 5 <paul>
+4 <mikael>
+5 <paul>
 
 :: Main Characters
 The Doctor [object], Barclay
@@ -1169,7 +1201,6 @@ what if I couldn't trust the veracity of my senses [everything was going crazy w
 AI rights [it was asserted that Doc was as valuable as a human],
 jealousy [Neelix],
 romantic love [The Doctor and Kes],
-surprise [The Doctor at bleeding],
 the meaning of life [Kes muses over to The Doctor at episode conclusion],
 trust [The Doctor],
 what if everyone vanished and I was all alone [Doctor was all alon for a while],
@@ -1181,7 +1212,7 @@ Kazon [depicted]
 chief medical officer's log [The Doctor]<4:10-4:40>
 
 :: Other Keywords
-hypospray [The Doctor to Janeway]<9:30>
+hypospray [The Doctor to Janeway] <9:30>,
 
 
 voy2x04
@@ -1201,7 +1232,8 @@ Directed by: Winrich Kolbe. Story by: Jimmy Diggs and Steve J. Kay.
 1995-09-18
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Kes [object], Neelix [object], Janeway, Chakotay
@@ -1226,7 +1258,6 @@ gluttony [Kes with beetles],
 man vs. space anomaly [sent Kes into heat],
 mating strategies [space protozoa to Voyager],
 multi-generational spaceship [Voyager described iin terms of being such astarship],
-pensiveness [Neelix at end],
 coping with discomfort during pregnancy [Kes had them about eating the beetles],
 
 :: Aliens
@@ -1239,7 +1270,7 @@ kiss [crewmembers; Kes and Neelix]<0:03, 43:15>
 captain's log [Janeway]<43:30-43:45>
 
 :: Other Keywords
-heart to heart talk [Neelix and Tuvok, Kes and The Doctor]
+heart to heart talk [Neelix and Tuvok, Kes and The Doctor],
 
 
 voy2x05
@@ -1258,7 +1289,8 @@ Directed by: David Livingston. Story by: Brannon Braga.
 1995-09-25
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Harry Kim [object], Libby, Tom Paris
@@ -1291,7 +1323,8 @@ temporal inversion fold alien, Peliar Zellian, Yridian, Bolian, Ferengi [mention
 kiss [Harry and Libby]<15:55>
 
 :: Other Keywords
-intruder alert <39:28>, Italian stereotyping
+intruder alert [] <39:28>,
+Italian stereotyping [],
 
 
 voy2x06
@@ -1309,7 +1342,8 @@ Directed by: Kim Friedman. Story by: Arnold Rudnick and Rich Hosek.
 1995-10-02
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Tuvok, Chakotay, Janeway, Tom Paris, Harry Kim, B'Elanna, Kes, The Doctor
@@ -1322,11 +1356,9 @@ what if the world was continually rearranging itself around me [space anomaly wa
 
 :: Major Themes
 alien point of view [Kes about surprise party, Neelix about jealousy, then that alien being upsetting the ship],
-facing mysterious adversity [],
 man vs. space anomaly [inversion field alien],
 
 :: Minor Themes
-annoyance [Tuvok and Chakotay],
 chastity [The Doctor at holodeck bimbo, B'Elanna about half-dressed hunk],
 clash of wills [Tuvok and Chakotay],
 coping with unwelcome romantic attention [The Doctor of French bimbo],
@@ -1336,7 +1368,6 @@ inaction vs. futile action [discussion in the holodeck],
 jealousy [Neelix],
 resentment [Tuvok and Chakotay],
 spirit guide [Chakotay tries to contact his spirit guide],
-surprise [Kes at surprise party],
 the function of a surprise party [Kes asked about the reasons for surprise parties],
 
 :: Aliens
@@ -1352,7 +1383,9 @@ kiss [The Doctor and French bimbo; Neelix and Kes]<12:35, 44:40>
 heart to heart talk [Neelix and Chakotay], race against time [deck six to implode in 68 minutes]
 
 :: Other Keywords
-holodeck, surprise party, French stereotyping
+holodeck [],
+surprise party [],
+French stereotyping [],
 
 
 voy2x07
@@ -1370,7 +1403,8 @@ Directed by: Jonathan Frakes. Story by: Tom Szollosi.
 1995-10-09
 
 :: Ratings
--1 <mikael>, 2 <paul>
+-1 <mikael>
+2 <paul>
 
 :: Main Characters
 Neelix [object], Tom [object], Kes [object], Janeway
@@ -1394,13 +1428,11 @@ unrequited love [Tom and Kes],
 :: Minor Themes
 flirtation [Tom with Kes in opening],
 human empathy for babies [Tom and Neelix fawning over disgusting reptile infant],
-man vs. nature [Tom and Neelix on Planet Hell],
+human vs. nature [Tom and Neelix on Planet Hell],
 passion for music [Harry and the clarinet],
-pensiveness [Tom was sad],
 reptilian being [reptohumanoid],
 seeing the error of one's ways [Neelix about being jealous],
 taking responsibility for one's actions [Neelix about taking care of hatchling],
-the rudeness of eavesdropping [The Doctor scolded by Janeway],
 
 :: Aliens
 Reptohumanoid
@@ -1418,7 +1450,9 @@ crying [Kes]<23:00>, kiss [Neelix and Kes]<44:10>
 dinner for two [Neelix and Kes], shuttlecraft for two [Tom and Neelix]
 
 :: Other Keywords
-red alert <30:10>, heat a rock with a phaser {phaser trick}, hypospray [Tom Paris to reptilian hatchling]<37:10>
+red alert [] <30:10>,
+heat a rock with a phaser [] {phaser trick},
+hypospray [Tom Paris to reptilian hatchling] <37:10>,
 
 
 voy2x08
@@ -1437,7 +1471,8 @@ Directed by: James L. Conway. Story by: Jeri Taylor.
 1995-10-30
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Kes, The Doctor, Janeway [Lucille Davenport, object]
@@ -1452,7 +1487,7 @@ coming to terms with one's own sexuality [crew experiences intense memories of s
 coping with stress [Janeway],
 fantasy romance [Janeway],
 female sexuality [Janeway on the holodeck, Kes with Neelix, B'Ellana about Chakotay],
-man vs. technology [holodeck goes haywire],
+human vs. technology [holodeck goes haywire],
 romantic fidelity [Janeway about that holohunk and her husband, maybe other characters had similar things],
 stepping up to the task [Kes and the Doctor when the other crew was immobilized],
 telepathic being [],
@@ -1460,10 +1495,6 @@ the need for rest and recreation [The Doctor orders Janeway to play on holodeck]
 virtual reality room [A telepathic alien put Voyager crew members into a trance-like state.],
 
 :: Minor Themes
-annoyance [Janeway at everyone wanting her time and attention],
-coping with excruciating pain [Kes with oozing sores],
-distraction [crew distracted by visions],
-ecstasy [B'Elanna with fake Chakotay],
 father and son [Tom and his dad],
 husband and wife [Janeway and hers],
 male protectiveness [Neelix over Kes],
@@ -1483,7 +1514,8 @@ kiss [Janeway and Lord Burleigh, Chakotay and B'Elanna, Janeway and Mark]<4:20, 
 space confrontation
 
 :: Other Keywords
-intruder alert <22:12>, holodeck
+intruder alert [] <22:12>,
+holodeck [],
 
 
 voy2x09
@@ -1502,7 +1534,8 @@ Directed by: Alexander Singer. Story by: Larry Brody.
 1995-11-06
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Chakotay [object], Janeway, Kolopak, The Doctor
@@ -1527,7 +1560,6 @@ reminiscence about one's childhood [Chakotay],
 the nature of being sick [The Doctor learned first hand],
 
 :: Minor Themes
-facing mysterious adversity [mysterious happenings on planet and the transporter thing],
 getting a taste of one's own medicine [The Doctor],
 planetary weather control system [Sky Spirit people used],
 the art of blowing one's nose [The Doctor],
@@ -1544,7 +1576,8 @@ jungle, cavern
 flashback
 
 :: Other Keywords
-red alert <34:18>, American Indian stereotyping
+red alert [] <34:18>,
+American Indian stereotyping [],
 
 
 voy2x10
@@ -1563,7 +1596,8 @@ Directed by: Cliff Bole. Story by: Anthony Williams.
 1995-11-13
 
 :: Ratings
-0 <mikael>, 1 <paul>
+0 <mikael>
+1 <paul>
 
 :: Main Characters
 Kes [object], Tuvok, Janeway, Tanis
@@ -1585,16 +1619,14 @@ transcendental being [Nacene],
 
 :: Minor Themes
 coping with having a bad reputation [Voyager had according to Ocampa],
-interest [Kes in mental abilities of Ocampa on array],
 magnanimity in victory [Janeway in besting Suspiria],
 mercy [Janeway grants to Suspiria],
 psychokinesis [Kes moves cup and makes contents boil],
 remorse [Kes over almost killing Tuvok],
-tardiness [Kes late for work in sickbay],
+laziness [Kes late for work in sickbay],
 the nature of meditation [Tuvok taught Kes to meditate to control her mental powers],
 the science of heat [they almost got it right with vibrating molecules, but then the molecules caught fire],
 the desire for vengeance [Suspiria to Janeway for murdering the other Caretaker],
-vigilance [Tuvok insists they make toxin to defend themselves from caretaker],
 world with telepathy [],
 
 :: Aliens
@@ -1604,7 +1636,9 @@ Ocampa, Ocampa Caretaker Alien, Nacene
 Captain's log supplemental <25:30-25:38, 43:30-43:44>
 
 :: Other Keywords
-yellow alert <35:36>, red alert <40:45>, Vulcan mind meld [Tuvok to Kes]
+yellow alert [] <35:36>,
+red alert [] <40:45>,
+Vulcan mind meld [Tuvok to Kes],
 
 
 voy2x11
@@ -1623,7 +1657,8 @@ Directed by: David Livingston. Story by: Kenneth Biller.
 1995-11-20
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Chakotay [object], Seska [object], Janeway
@@ -1646,7 +1681,6 @@ the desire for vengeance [Seska],
 a common interest unites [Kazon sects to get technology],
 coping with being tortured [Chakotay],
 forced fatherhood [Seska claimed to have impregnated herself with Chakotay's DNA against his will],
-ingenuity [B'Elanna transports Chakotay while traveling at warp speed],
 logic vs. gut feeling [Janeway trusts gut and pursues Chakotay],
 shame [Chakotay over Seska defection],
 the lust for power [Cullah fantasized about being the most powerful Magh in the quadrant],
@@ -1659,7 +1693,8 @@ Kazon, Cardassian [Seska]
 turbolift chat [Chakotay and B'Elanna], space fight [Voyager and Kazon Raider], captain's log [Janeway, Janeway]<15:56-16:10, 42:05-42:18>
 
 :: Other Keywords
-intruder alert <5:45>, red alert <38:40>
+intruder alert [] <5:45>,
+red alert [] <38:40>,
 
 
 voy2x12
@@ -1678,7 +1713,8 @@ Directed by: Winrich Kolbe. Story by: Michael Jan Friedman and Kevin J. Ryan.
 1995-11-27
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway [object, Ralkana], Chakotay, Caylem
@@ -1704,7 +1740,6 @@ coping with being tortured [Tuvok and B'Elana],
 courage [Caylem proved he was not a coward],
 diplomatic negotiating [Voyager with Mokra Order about prisoner release],
 facing organized pursuit [Janeway and Caylem the lam],
-serenity [Caylem remembering his wife],
 to tell the truth vs. offering a comforting lie [Janeway to Caylem about his wife being dead],
 
 :: Aliens
@@ -1723,7 +1758,7 @@ crying [Caylem]<43:25>
 prison break scenario
 
 :: Other Keywords
-Vulcan neck pinch [Tukov to guard]<37:30>
+Vulcan neck pinch [Tukov to guard] <37:30>,
 
 
 voy2x13
@@ -1742,7 +1777,8 @@ Directed by: Jonathan Frakes. Story by: Nicholas Corea.
 1996-01-15
 
 :: Ratings
-3 <mikael>, 4 <paul>
+3 <mikael>
+4 <paul>
 
 :: Main Characters
 B'Elanna [object], Automate Unit 3947, Janeway
@@ -1763,9 +1799,8 @@ robotic civilization [mechanical men in war with other mechanical men],
 :: Major Themes
 AI rights [the mechanical men's right to exist],
 betrayal [Pralor betrayed B'Elanna],
-destroying one's own creation [B'Elanna rued destroying Pralor],
-man vs. machine [],
-survival of one's species [the robots kidnapped to survive, granted they did not have ethical principles but that was not understood at the time],
+coping with having to destroy one's own creation [B'Elanna rued destroying Pralor],
+human vs. machine [],
 the need for procreation [mechanical men to continue war],
 
 :: Minor Themes
@@ -1774,9 +1809,6 @@ burning the candle at both ends [B'Elanna to get mechanical man working],
 carrot vs. stick [something about how to get B'Elana to assist],
 compassion [B'Elanna for mechanical men reproductive rights],
 determination [B'Elanna at getting mechanical man working],
-distraction [B'Elanna],
-ingenuity [B'Elanna],
-ingratitude [robots],
 the need for sleep [B'Elanna],
 
 :: Aliens
@@ -1786,7 +1818,7 @@ Automated Personnel Unit, Pralor, Cravic
 chief engineer's log supplemental [B'Elanna, B'Elanna]<6:48-7:01, 14:00-14:12>
 
 :: Other Keywords
-yellow alert <20:08>
+yellow alert [] <20:08>,
 
 
 voy2x14
@@ -1805,7 +1837,8 @@ Directed by: Les Landau. Story by: Jeri Taylor.
 1996-01-22
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway [object], Chakotay, Mabus
@@ -1821,7 +1854,7 @@ compromising one's ethical principles vs. self-preservation [Janeway about decid
 
 :: Major Themes
 the ethics of interfering in less advanced societies [Janeway about handing over technology in exchange for alliance],
-deal with the devil [alliance with the Kazon was discussed at length],
+Faustian bargain [alliance with the Kazon was discussed at length],
 diplomatic negotiating [],
 oppression [Trabe of Kazon],
 the desire for vengeance [Cullah to Trabe],
@@ -1846,7 +1879,11 @@ alien bar, cavern
 captain's log [Janeway]<14:45-14:56, 34:54-35:06>, captain's log supplemental [Janeway]<22:32-22:40>, space fight [Voyager and Kazon], turbolift chat [Janeway and Chakotay]
 
 :: Other Keywords
-yellow alert <25:58>, red alert <26:18, 41:32>, hypospray [Kes to Kurt Bendera]<1:50>, Vulcan spice tea, hypospray [The Doctor to Trabe boy]<31:22>
+yellow alert [] <25:58>,
+red alert [] <26:18, 41:32>,
+hypospray [Kes to Kurt Bendera] <1:50>,
+Vulcan spice tea [],
+hypospray [The Doctor to Trabe boy] <31:22>,
 
 
 voy2x15
@@ -1865,7 +1902,8 @@ Directed by: Alexander Singer. Story by: Michael De Luca.
 1996-01-29
 
 :: Ratings
-1 <mikael>, 0 <paul> [this episode was monumentally awful]
+1 <mikael>
+0 <paul> [this episode was monumentally awful]
 
 :: Main Characters
 Tom Paris [object], Janeway, The Doctor
@@ -1906,7 +1944,10 @@ kiss [Tom and Kes]<25:40>
 first officer's log [Chakotay]<39:15-39:28>, first officer's log supplemental [Chakotay]<42:15-42:26>, Maltuvis device [Orville Wright, Neil Armstrong, Zephram Cochrane, Tom Paris]
 
 :: Other Keywords
-level three security alert {security alert}<36:35>, Orville Wright {historical character}, Neil Armstrong {historical character}, Zephram Cochrane {fictional historical character}
+level three security alert [] {security alert} <36:35>,
+Orville Wright [] {historical character},
+Neil Armstrong [] {historical character},
+Zephram Cochrane [] {fictional historical character},
 
 
 voy2x16
@@ -1925,7 +1966,8 @@ Directed by: Cliff Bole. Story by: Mike Sussman.
 1996-02-05
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 Tuvok [object], Janeway, Lon Suter
@@ -1943,18 +1985,14 @@ anger management issues [Lon],
 facing one's darker side [Tuvok],
 self-control [Lon and Tuvok],
 loss of emotional equilibrium [Lan and Tuvok],
-rage [Lon],
+anger [Lon],
 the instinct for violence [The Doctor attributes murder to this],
-the need to understand someone's motives [Tuvok about Lon killing a man],
 the unforeseen consequences of supernatural powers [Tuvok with his unfettered mind-melding],
 treatment of prisoners [],
-wrath [Lon],
 
 :: Minor Themes
 DNA testing [The Doctor tested DNA to find the murderer],
-annoyance [Tuvok at Neelix over Vulcan holiday talk],
 catharsis [Tuvok],
-interest [Tuvok about Lon],
 passion for gambling [Harry and other crew members],
 the desire for vengeance [vigilante Tuvok wanting to kill Lon],
 vigilante justice [Tuvok resolved to execute Suter],
@@ -1969,7 +2007,8 @@ poll hall <holodeck>
 captain's log supplemental [Janeway]<43:17-43:27>
 
 :: Other Keywords
-holodeck, Vulcan mind-meld [Tuvok and Lon Suter]
+holodeck [],
+Vulcan mind-meld [Tuvok and Lon Suter],
 
 
 voy2x17
@@ -1988,7 +2027,8 @@ Directed by: LeVar Burton. Story by: Gary Holland.
 1996-02-12
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 B'Elanna [object], Tom Paris, Janeway, Chakotay
@@ -2003,9 +2043,8 @@ autonomous weapons system killing everyone [sentient bomb could not be diverted 
 autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems],
 
 :: Major Themes
-hoist by one's own petard [sentient bomb turns on makers],
 maker and machine [B'Elanna and weapon],
-man vs. technology [],
+human vs. technology [],
 out of control AI [the misprogrammed sentient bomb; PS uses this theme under protest, wants to use the dangers of unfettered scientific advancement],
 remorse [B'Elanna over role in creating bomb],
 selfless service [B'Elanna, Tuvok, Janeway],
@@ -2015,8 +2054,8 @@ sentient bomb [Cardassian made bomb],
 betrayal [Michael Jonas],
 clash of wills [Chakotay and Tom],
 expecting parents [Ensign Wildman about naming baby],
-tardiness [Tom],
-the difficulty of picking a name [Doctor and expecting mother both],
+laziness [Tom],
+the difficulty of picking a name for a baby [Doctor and expecting mother both],
 treason [traitor appeared],
 
 :: Aliens
@@ -2026,7 +2065,7 @@ Rakosan, Cardassian [mentioned], Bolian [mentioned], Maquis [mentioned]
 heart to heart talk [B'Elanna and Tom], race against time
 
 :: Other Keywords
-red alert <20:06, 30:00>
+red alert [] <20:06, 30:00>,
 
 
 voy2x18
@@ -2045,7 +2084,8 @@ Directed by: James L. Conway. Story by: Shawn Piller.
 1996-02-19
 
 :: Ratings
-2 <mikael>, 4 <paul>
+2 <mikael>
+4 <paul>
 
 :: Main Characters
 Janeway [object], Q, Quinn, Tuvok
@@ -2069,11 +2109,8 @@ political asylum [Quinn sought aboard Voyager],
 transcendental being [Q],
 
 :: Minor Themes
-amazement [Ginsberg and Newton on Voyager],
 the battle of the sexes [Q versus Janeway],
 bribery in society [Q bribes Janeway],
-joy [Quinn at newfound mortality and he took hemlock],
-surprise [Janeway with Q in bed],
 the big bang [Quinn tried to hide in the big bang],
 the hippie movement [Ginsberg was a hippie],
 understanding by metaphor [Q Continuum only comprehensible to human through metaphor],
@@ -2089,7 +2126,9 @@ wasteland, xeric scrubland
 captain's log supplemental [Janeway]<28:05-28:14>, captain's log [Janeway]<42:28-42:43>
 
 :: Other Keywords
-red alert <3:10>, Isaac Newton {historical character}, Thadius Riker {fictional historical character}
+red alert [] <3:10>,
+Isaac Newton [] {historical character},
+Thadius Riker [] {fictional historical character},
 
 
 voy2x19
@@ -2107,7 +2146,8 @@ Directed by: Cliff Bole. Story by: Kenneth Biller.
 1996-02-26
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor [object, Shmullus], Tom Paris, Chakotay, Danara Pel
@@ -2136,17 +2176,14 @@ anger [B'Elanna at having piece of brain taken],
 betrayal [Michael Jonas],
 coping with a bad boss [Tom with Chakotay],
 coping with an insubordinate subordinate [Chakotay discussed Tom with Janeway],
-coping with rejection [The Doctor by Danada],
-distraction [The Doctor by being in love],
+coping with romantic rejection [The Doctor by Danada],
 donating an organ to save a life [B'Elanna donated part of her brain to save Danara],
 expressing feelings [The Doctor about his love for Danara],
-frustration [Tom at Chakotay's command style],
-joy [Danara Pel at being beautiful again],
 passion for antique cars [Tom],
 self-confidence [Danara],
-sloth [Tom],
+laziness [Tom],
 social awkwardness [The Doctor in professing his love to Danara],
-tardiness [Tom],
+laziness [Tom],
 treason [traitor featured],
 
 :: Aliens
@@ -2164,7 +2201,10 @@ crying [Danara Pel]<8:55>, kiss [The Doctor and Danara Pel]<34:45>
 chief medical officer's log [The Doctor]<7:10-7:25>, heart to heart talk [The Doctor and Kes, The Doctor and Tom Paris, Kes and Danara Pel], doctor's personal log [The Doctor, The Doctor]<31:58-32:18, 37:37-37:43>, find a cure [The Doctor for Danara Pel's disease]
 
 :: Other Keywords
-hypospray [The Doctor to Danara Pel]<1:37>, holography, Hippocrates {historical character}, I Only Have Eyes for You {song}
+hypospray [The Doctor to Danara Pel] <1:37>,
+holography [],
+Hippocrates [] {historical character},
+I Only Have Eyes for You [] {song},
 
 
 voy2x20
@@ -2183,7 +2223,8 @@ Directed by: Les Landau. Story by: Jeff Schnaufer and Ed Bond.
 1996-03-13
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Neelix [object], Tom Paris [object], Michael Jonas, Janeway
@@ -2207,7 +2248,6 @@ the need for freedom [Tom],
 treason [Michael Jonas],
 
 :: Minor Themes
-annoyance [The Doctor at Neelix giving him second billing],
 freedom of the press [Janeway tried to discourage Neelix from pursuing the traitor and reporting on it],
 medical triage [The Doctor explicitly discussed the issue],
 passion for journalism [Harry and Neelix],
@@ -2236,7 +2276,8 @@ Directed by: David Livingston. Story by: Brannon Braga.
 1996-03-18
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway [object], The Doctor, Samantha Wildman
@@ -2254,7 +2295,6 @@ coping with the death of a colleague [crew with Harry],
 coping with the death of a friend [crew with Harry],
 coping with the death of a new-born [Ensign Wildman],
 coping with the death of a subordinate [Janeway with her crew],
-facing a vehicular disaster [crew in ship crisis],
 giving birth [Ensign Wildman had a baby],
 man vs. space anomaly [],
 personal identity [who was the real Harry at conclusion of episode],
@@ -2262,9 +2302,7 @@ sacrifice self and crew to foil an enemy [Janeway destroys Voyager to foil the V
 what if I met my double [Janeway],
 
 :: Minor Themes
-amazement [Janeway meets Janeway],
 handheld organ extractor [Vidiian gizmo],
-stubbornness [both Janeways],
 
 :: Notes
 
@@ -2298,7 +2336,9 @@ crying [Samantha Wildman]<12:18>
 captain's log [Janeway]<42:41-42:54>
 
 :: Other Keywords
-red alert <5:57, 34:57>, perimeter alert <34:48>, all stop
+red alert [] <5:57, 34:57>,
+perimeter alert [] <34:48>,
+all stop [],
 
 :: Errors
 
@@ -2318,7 +2358,8 @@ Directed by: James L. Conway. Story by: Anthony Williams.
 1996-04-08
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Tuvok [object], Alcia, Tressa, Elani, Corin, Janeway
@@ -2332,16 +2373,13 @@ dealing with children [Tuvok with children],
 
 :: Major Themes
 coming to terms with one's impending death [the children come to understand they must die],
-facing being stranded [Tuvok on moon],
 facing one's darkest fear [children over the beast],
-man vs. beast [Tuvok and children vs. morrok],
-neo-luddism [Drayans said they were in spite of having spaceships],
+human vs. beast [Tuvok and children vs. morrok],
+anti-technology way of life [Drayans said they were in spite of having spaceships],
 reverse aging being [Drayan],
 self-control [Tuvok educating the children in Vulcan self-control of emotions],
 
 :: Minor Themes
-annoyance [Tuvok at children],
-apprehension [Tressa at being left alone in shuttlecraft and children generally],
 childhood terrors [the children about the boogeyman, i.e., the morrok],
 coping with a spoiled brat [Tuvok with children at some points in story],
 diplomatic negotiating [Voyager crew with Drayans],
@@ -2364,7 +2402,7 @@ woodland, campfire, cavern
 turbolift chat [Janeway and Chakotay], shuttlecraft for two [Janeway and Tom]
 
 :: Other Keywords
-Plato {historical character}
+Plato [] {historical character},
 
 
 voy2x23
@@ -2394,7 +2432,7 @@ Chakotay, Tuvok, Neelix, Kes, Viorsa, The Specter, Little Woman, Tom Paris, B'El
 :: Choice Themes
 facing one's darkest fear [],
 simulated reality [],
-terror [],
+fear [],
 the nature of fear [],
 what if I were trapped in a nightmare [],
 
@@ -2402,7 +2440,7 @@ what if I were trapped in a nightmare [],
 facing a hostage situation [],
 fear [],
 killing an artificial person [Janeway kills clown guy],
-man vs. technology [],
+human vs. technology [],
 virtual person [clown guy],
 the wish to live [the simulated characters],
 
@@ -2410,7 +2448,7 @@ the wish to live [the simulated characters],
 neighbor and neighbor [man banging the roof when Harry played Oboe],
 passion for music [Harry on the clarinet],
 planet scorching solar flare [Kohl settlement destroyed by solar flare],
-womanizing [Tom and Harry],
+womanizing man [Tom and Harry],
 
 :: Setting
 clown house
@@ -2419,7 +2457,9 @@ clown house
 Maltuvis device {Napoleon, Chulak}
 
 :: Other Keywords
-red alert <34:40>, Napoleon {historical character}, Chulak {fictional historical character}
+red alert [] <34:40>,
+Napoleon [] {historical character},
+Chulak [] {fictional historical character},
 
 
 voy2x24
@@ -2437,7 +2477,8 @@ Directed by: Cliff Bole. Story by: Andrew Shepard Price and Mark Gaberman.
 1996-05-06
 
 :: Ratings
-4 <mikael>, 5 <paul>
+4 <mikael>
+5 <paul>
 
 :: Main Characters
 Tuvix [object], Janeway, Kes
@@ -2459,12 +2500,11 @@ love triangle [Kes Neelix Tuvix and to a small extend Tuvok's wife],
 
 :: Minor Themes
 The Hippocratic Oath [The Doctor refused to kill Tuvix],
-annoyance [Tuvok at Neelix],
 desperation [Tuvix at end],
 passion for music [Harry and the clarinet],
 pleasure in floriculture [Tuvok with his orchids],
 symbiogenesis [Tuvok and Neelix were like two prokaryotes merging in the night],
-the beauty of nature [Neelix and Tuvok talking in the beginning],
+pleasure in nature [Neelix and Tuvok talking in the beginning],
 
 :: Notes
 despicable action by Janeway, pink nightgown
@@ -2482,7 +2522,8 @@ crying [Kes]<39:00>
 captain's log [Janeway]<0:00-0:18, 28:30-29:26>, transporter complication, chief medical officer's log supplemental [The Doctor]<10:13-10:22>, heart to heart talk [Janeway and Kes]
 
 :: Other Keywords
-intruder alert <15:16>, stargazing [Janeway]
+intruder alert [] <15:16>,
+stargazing [Janeway],
 
 
 voy2x25
@@ -2501,7 +2542,8 @@ Directed by: Alexander Singer. Story by: Jeri Taylor.
 1996-05-13
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway [object], Chakotay [object], Tuvok
@@ -2518,7 +2560,7 @@ sacrifice for a friend [crew did to save Janeway],
 :: Major Themes
 clash of wills [Harry and crew vs Tuvok],
 loyalty to a leader [crew to Janeway and less to Tuvok],
-man vs. nature [Janeway and Chakotay on the planet; the virus and the storm],
+human vs. nature [Janeway and Chakotay on the planet; the virus and the storm],
 risk taking vs. playing it safe [contact Vidiians or go on their merry way],
 romantic love [Janeway and Chakotay],
 selfless service [Janeway and Chakotay orders the ship away],
@@ -2526,13 +2568,9 @@ stepping up to the task [Tuvok in command],
 coping with the rigors of command [Tuvok],
 
 :: Minor Themes
-acceptance [Chakotay favors accepting disease],
 determination [Janeway to find cure, crew to persuade Tuvok],
-distraction [crew especially Swinn by no Janeway and Chakotay around],
-focusing on the present vs. thinking about the future [Chakotay vs. Janeway],
 pleasure in carpentry [Chakotay],
 pleasure in horticulture [Janeway gardening],
-sophistry [Harry accused of by Tuvok],
 
 :: Aliens
 Vidiian
@@ -2544,7 +2582,8 @@ glade, woodland
 Katherine Janeway's persona log [Janeway]{log}<11:32-11:48>, acting captain's log supplemental [Tuvok]{log}<14:58-15:05>, captain's log [Tuvok]<29:01-29:15>, space fight [Voyager and Vidiian vessels]
 
 :: Other Keywords
-red alert <34:47>, hypospray [The Doctor to redshirt]<38:16>
+red alert [] <34:47>,
+hypospray [The Doctor to redshirt] <38:16>,
 
 
 voy2x26
@@ -2563,7 +2602,8 @@ Directed by: Winrich Kolbe. Story by: Michael Piller.
 1996-05-20
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Janeway, Tuvok, Lon Suder, Tierna
@@ -2582,13 +2622,11 @@ treatment of prisoners [rehabilitate Suter or punish him],
 trust in a potential foe [Chakotay in Seska],
 
 :: Minor Themes
-admiration [Lon of Tuvok for all the mind melding],
 anger management issues [Lon Suter],
 human implanted suicide-weapon [Kazon had one],
 coping with being a cuckold [Culluh],
 decoy tactic [Voyager used holographic double of ship],
-facing being stranded [crew marooned on planet by Kazon],
-man vs. nature [surviving on the planet],
+human vs. nature [surviving on the planet],
 patriarchy [Kazon],
 pleasure in floriculture [Tuvok with their orchids],
 pleasure in horticulture [Lon Suder],
@@ -2607,7 +2645,8 @@ xeric scrubland
 captain's log supplemental [Janeway]<22:06-22:19>, space fight [Voyager and Kazon vessels]
 
 :: Other Keywords
-red alert <13:28, 18:32, 26:02>, intruder alert <33:48>
+red alert [] <13:28, 18:32, 26:02>,
+intruder alert [] <33:48>,
 
 
 voy3x01
@@ -2626,7 +2665,8 @@ Directed by: Winrich Kolbe. Story by: Michael Piller.
 1996-09-04
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 The Doctor [object], Lon Suder [object], Seska, Chakotay
@@ -2642,7 +2682,7 @@ selfless service [Suder and briefly Chakotay and The Doctor to some extent],
 :: Major Themes
 facing a ship takeover [Suder and The Doctor on Voyager],
 fighting one's inner demons [Lon Suder],
-man vs. nature [Voyager crew surviving on the planet],
+human vs. nature [Voyager crew surviving on the planet],
 primitive point of view [primitive aliens perplexed],
 stepping up to the task [Suder],
 
@@ -2651,7 +2691,7 @@ AI point of view [The Doctor doesn't care what they do to him],
 facing a ferocious beast [betentacled cave slug],
 helping a stranger in need [Chakotay jumped over lava to save alien],
 how to start a fire [Chakotay rubbed two sticks together],
-man vs. beast [betentacled cave slug],
+human vs. beast [betentacled cave slug],
 psychopathic criminal in society [Lon Suter makes amends for his misdeeds],
 psychopathy [Lon Suter],
 unknown parent [Chakotay is in fact not the father],
@@ -2666,7 +2706,9 @@ xeric scrubland, cavern, campfire
 medical log [The Doctor]<10:38-10:45>
 
 :: Other Keywords
-Che Guevara {historical character}, Nathan Hale {historical character}, caveman stereotyping
+Che Guevara [] {historical character},
+Nathan Hale [] {historical character},
+caveman stereotyping [],
 
 
 voy3x02
@@ -2686,7 +2728,8 @@ Directed by: David Livingston. Story by: Brannon Braga.
 1996-09-11
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 Tuvok [object], Janeway, The Doctor
@@ -2700,8 +2743,8 @@ confronting an old ghost [Tuvok about letting child drop from cliff],
 coping with a psychological illness [Tuvok with symptoms of brain memory virus],
 
 :: Major Themes
-man vs. affliction [the virus],
-man vs. self [Tuvok vs. old ghost],
+human vs. affliction [the virus],
+human vs. self [Tuvok vs. old ghost],
 rationality vs. emotionality [young Tuvok was overly rational aboard Sulu's ship],
 reminiscence [Tuvok and Janeway about childhood memories],
 the nature of human emotions [young Tuvok pondered],
@@ -2725,7 +2768,10 @@ cliff
 captain's log [Janeway]<2:30-2:43>
 
 :: Other Keywords
-red alert <33:24>, intruder alert <38:18>, Vulcan mind meld [Tuvok to Janeway], Vulcan nerve pinch [Tuvok to Janice Rand]<39:20>
+red alert [] <33:24>,
+intruder alert [] <38:18>,
+Vulcan mind meld [Tuvok to Janeway],
+Vulcan nerve pinch [Tuvok to Janice Rand] <39:20>,
 
 
 voy3x03
@@ -2745,7 +2791,8 @@ Directed by: Les Landau. Story by: Clayvon C. Harris.
 1996-09-18
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Harry Kim [object], Tom Paris [object], Janeway, Zio
@@ -2765,14 +2812,12 @@ facing life in captivity [Tom and Harry in dungeon],
 friendship [Harry and Tom],
 loss of emotional equilibrium [Harry struggled to maintain control of himself],
 man vs. captivity [prisoners in dungeon],
-the desire to have followers [Zio],
 
 :: Minor Themes
 brother and sister [Vel and Piri],
 coping with a friend who is losing his mind [Harry with Tom],
 coping with starvation [Harry; prisoners fighting for food],
 cranial aggression implant [the clamp],
-distraction [Harry and Tom distracted from escape efforts by aggression implants],
 off-world prison colony [Tom and Harry tossed in deep space dungeon],
 terrorist or freedom fighter [Voyager captured two terrorists fighting for some just cause],
 
@@ -2803,7 +2848,8 @@ Directed by: Alexander Singer. Story by: Mike Sussman.
 1996-09-25
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor [object], Kes, Janeway, B'Elanna
@@ -2820,7 +2866,6 @@ incompatible modes of communication [Voyager with swarm aliens],
 selfless service [first The Doctor offered to reboot, then Zimmerman-tech sacrificed his matrix],
 
 :: Minor Themes
-anxiety [The Doctor over losing his mind],
 coping with amnesia [The Doctor],
 freezing up in a critical moment [Doc lost his memories just before an important operation],
 friendship [Kes and The Doctor],
@@ -2828,7 +2873,6 @@ infatuation [some idiot for B'Elanna],
 maker and machine [Zimmerman and The Doctor],
 opera [The Doctor sang opera and opera history was featured],
 pleasure in singing opera [The Doctor],
-prickliness [Lewis Zimmerman],
 
 :: Aliens
 Swarm Alien, Mislenite
@@ -2843,7 +2887,8 @@ level four memory fragmentation [The Doctor]
 helmsman's log [Tom Paris]<0:00-0:18>, shuttlecraft for two [Tom and B'Elanna], Maltuvis device [Enrico Caruso, Delacorchi and Amelita Galli-Curci, Luciano Pavarotti and Mirella Freni, Sural and T'Pena of Vulcan], space fight [Voyager and swarm]
 
 :: Other Keywords
-red alert <32:06>, battle stations <36:10>
+red alert [] <32:06>,
+battle stations [] <36:10>,
 
 
 voy3x05
@@ -2862,7 +2907,8 @@ Directed by: Cliff Bole. Story by: George Brozak.
 1996-10-02
 
 :: Ratings
-1 <mikael>, 4 <paul>
+1 <mikael>
+4 <paul>
 
 :: Main Characters
 Janeway, Arridor, Kol, Neelix [Grand Proxy], Chakotay, Tom Paris
@@ -2871,7 +2917,6 @@ Janeway, Arridor, Kol, Neelix [Grand Proxy], Chakotay, Tom Paris
 B'Elanna, Harry Kim, Tuvok, the bard, Kafar, the sandal maker, the merchant
 
 :: Choice Themes
-avarice [Arridor and Kol exploit a Bronze Age people for economic gain],
 exploitation of sentient beings [Arridor and Kol exploit a Bronze Age people for economic gain],
 religion as a control mechanism [Arridor and Kol use religion as a means of exploiting a lesser advanced people],
 the lust for gold [Arridor and Kol exploit a Bronze Age people for economic gain],
@@ -2898,7 +2943,8 @@ town square
 captain's log [Janeway, Janeway]<0:00-0:15, 3:53-4:05>, captain's log supplemental [Janeway, Janeway]<7:30-7:40, 12:40-12:47>
 
 :: Other Keywords
-all stop, hypospray [The Doctor to Murphy]<41:32>
+all stop [],
+hypospray [The Doctor to Murphy] <41:32>,
 
 
 voy3x06
@@ -2916,7 +2962,8 @@ Directed by: Winrich Kolbe. Story by: Brannon Braga and Joe Menosky.
 1996-10-09
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 B'Elanna [object, Korenna Mirell], Janeway
@@ -2944,15 +2991,13 @@ telepathic memory transfer [old man taught Janeway to play musical instrument],
 
 :: Minor Themes
 anger [B'Elanna in confronting genocidal killer of the Regressives],
-distraction [B'Elanna distracted from her work by vivid dreams],
-ecstasy [B'Elanna in her dreams],
 flirtation [Harry and Jessen],
 government concealing information [goverment covered up the genocide],
-neo-luddism [regressives were said to be],
+anti-technology way of life [regressives were said to be],
 passion for event management [Neelix],
 passion for music [Janeway and alien],
 peer pressure [dream B'Elanna started cheering with the crowd],
-tardiness [B'Elanna],
+laziness [B'Elanna],
 
 :: Aliens
 Enaran
@@ -2982,7 +3027,8 @@ Directed by: Robert Duncan McNeill. Story by: Geo Cameron.
 1996-10-30
 
 :: Ratings
-2 <mikael>, 1 <paul>
+2 <mikael>
+1 <paul>
 
 :: Main Characters
 Janeway [object], Kes, The Doctor, Neelix, Guide
@@ -2997,13 +3043,11 @@ the limits of science [Janeway taught a lesson she won't soon forget in the limi
 
 :: Major Themes
 coping with a loved one being terminally ill [Neelix with Kes],
-man vs. self [Janeway in monastic challenge],
+human vs. self [Janeway in monastic challenge],
 sacrifice for a subordinate [Janeway risks life for Kes],
 
 :: Minor Themes
-anxiety [Neelix],
 determination [Janeway to complete quest],
-psychedelic drug trip [Janeway with snakebite],
 shamanism [Chakotay talked about his vision quests],
 
 :: Aliens
@@ -3019,7 +3063,8 @@ Nechani homeworld <standard orbit>
 captain's log [Janeway]<0:00-0:15>
 
 :: Other Keywords
-shore leave, hypospray [The Doctor to Kes]<33:32>
+shore leave [],
+hypospray [The Doctor to Kes] <33:32>,
 
 
 voy3x08
@@ -3038,7 +3083,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1996-11-06
 
 :: Ratings
-0 <mikael>, 1 <paul>
+0 <mikael>
+1 <paul>
 
 :: Main Characters
 Janeway, Tom Paris, Henry Starling, Tuvok, Chakotay, Rain Robinson
@@ -3056,14 +3102,12 @@ flying saucers [Voyager was one],
 
 :: Minor Themes
 SETI [Rain was searching for aliens for the SETI institute],
-avarice [Henry Starlin],
 facing an evil genius [Voyager crew vs. Henry Starling],
 film appreciation [Tom and Rain about cheesy sci-fi movies],
-man vs. evil genius [Voyager crew vs. Henry Starling],
+human vs. evil genius [Voyager crew vs. Henry Starling],
 passion for classic films [Tom and Rain for cheesy sci-fi films],
 soap opera [Harry and B'Elanna were picking up a soap opera transmission from Earth],
 stepping up to the task [Harry in the captain's chair for the first time],
-surprise [Rain finds UFO],
 the genius was really a time traveler [Herny Starling],
 the lust for gold [Henry Starlin],
 the lust for power [Henry Starling],
@@ -3083,7 +3127,7 @@ Earth <standard orbit>
 operations officer's log supplemental [Harry Kim]{log}<31:48-32:00>
 
 :: Other Keywords
-red alert <3:33, 30:47>
+red alert [] <3:33, 30:47>,
 
 
 voy3x09
@@ -3102,7 +3146,8 @@ Directed by: Cliff Bole. Story by: Brannon Braga and Joe Menosky.
 1996-11-13
 
 :: Ratings
-0 <mikael>, 1 <paul>
+0 <mikael>
+1 <paul>
 
 :: Main Characters
 B'Elanna, Janeway, Chakotay, Tuvok, Tom Paris, Henry Starlin, Rain Robinson
@@ -3112,7 +3157,7 @@ Harry Kim, B'Elanna, Neelix, Kes, The Doctor [Mister Leisuresuit], Dunbar, Butch
 
 :: Choice Themes
 facing an evil genius [starling was always a step ahead because he so smart],
-man vs. evil genius [Voyager crew vs. Henry Starlin],
+human vs. evil genius [Voyager crew vs. Henry Starlin],
 the dangers of unchecked ambition [Henry Starlin about being so greedy to risk destroying the solar system],
 time travel [],
 
@@ -3121,10 +3166,8 @@ star-crossed lovers [Tom and Rain not meant to be],
 time traveler secretly living among us [Henry Starlin],
 
 :: Minor Themes
-amazement [The Doctor at being outside],
 antigovernment militia movement [Chakotay and Tom held captive by such guys],
 astronomy [],
-avarice [Henry Starlin],
 coping with being tortured [The Doctor],
 flirtation [Tom and Rain],
 flying saucers [video footage of Voyager flying above Los Angeles declared a hoax by news organizations],
@@ -3162,7 +3205,8 @@ Gaberman.
 1996-11-20
 
 :: Ratings
-0 <mikael>, 4 <paul>
+0 <mikael>
+4 <paul>
 
 :: Main Characters
 Kes [object, Tieran], Janeway, Neelix, Tuvok, Demmas
@@ -3211,7 +3255,7 @@ kiss [Kes and Tuvok]<31:10>
 space encounter, captain's log [Janeway, Janeway, Janeway]<10:53-11:06, 14:38-14:37, 31:42-31:54>, captain's log supplemental [Janeway]<22:50-23:00>
 
 :: Other Keywords
-hypospray [Kes to Tieran, Kes to Tieran]<6:00, 6:20>
+hypospray [Kes to Tieran, Kes to Tieran] <6:00, 6:20>,
 
 
 voy3x11
@@ -3230,7 +3274,8 @@ Directed by: Cliff Bole. Story by: Shawn Piller.
 1996-11-27
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway [object], Q [object], Chakotay, Female Q
@@ -3250,8 +3295,6 @@ love triangle [Janeway, Q, Female Q],
 understanding by metaphor [Janeway understood Q cosmic war through Civil War metaphor],
 
 :: Minor Themes
-amazement [bridge crew at chain of supernova explosions],
-pride [Female Q],
 hedonism [Tom and Harry on holodeck],
 hubris [Q and Female Q],
 loneliness [Q],
@@ -3268,7 +3311,8 @@ tropical resort <holodeck>, 19th century American manor, campfire, woodland
 captain's log [Janeway]<8:25-8:40>, first officer's log [Chakotay]<27:58-27:11>, first officer's log supplemental [Chakotay]<33:45-33:55>
 
 :: Other Keywords
-intruder alert <1:55, 2:05>, red alert <16:10>
+intruder alert [] <1:55, 2:05>,
+red alert [] <16:10>,
 
 
 voy3x12
@@ -3288,7 +3332,8 @@ Directed by: Alexander Singer. Story by: Brannon Braga.
 1996-12-11
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Janeway [object], Neelix, The Doctor
@@ -3300,12 +3345,11 @@ B'Elanna, Tom Paris, Harry Kim, Chakotay, Kes, Tak Tak consul, Garan miner
 facing a pandemic [There was a viral outbreak on Voyager.],
 
 :: Major Themes
-man vs. beast [Doctor vs. macroscopic virus],
+human vs. beast [Doctor vs. macroscopic virus],
 
 :: Minor Themes
 biological computer virus [there was another episode where a gel pack got infected],
 gestural language [Tak Tak language],
-joy [The Doctor at discovery of macrovirus],
 
 :: Aliens
 Tak Tak, Macrovirus, Garan, Ktarian [mentioned]
@@ -3317,7 +3361,11 @@ cavern, tropical resort <holodeck>
 shuttlecraft for two [Janeway and Neelix], find a cure [macroviral infection],
 
 :: Other Keywords
-captain's log [Janeway]<0:39-0:53>, hypospray [The Doctor to Janeway, The Doctor to macrovirus]<31:30, 34:50>, red alert <32:05>, ship-wide epidemic, intruder alert <35:40>
+captain's log [Janeway] <0:39-0:53>,
+hypospray [The Doctor to Janeway, The Doctor to macrovirus] <31:30, 34:50>,
+red alert [] <32:05>,
+ship-wide epidemic [],
+intruder alert [] <35:40>,
 
 
 voy3x13
@@ -3336,7 +3384,8 @@ Louise Matthias.
 1997-01-08
 
 :: Ratings
-0 <mikael>, 2 <paul>
+0 <mikael>
+2 <paul>
 
 :: Main Characters
 Neelix [object], Janeway,  Wixiban
@@ -3354,13 +3403,12 @@ drug trade [],
 duty vs. friendship [Neelix choosing between Voyage crew and Wixiban],
 friendship [Neelix and Wixiban],
 great need vs. compromising one's ethical principles [Neelix wants to stay on the ship with friends],
-man vs. self [Neelix],
+human vs. self [Neelix],
 taking responsibility for one's actions [Neelix coming clean about his role in the drug killing],
 the need to feel useful to society [Neelix],
 what if I became accessory to a friend's crime [Wixiban dragged Neelix into it],
 
 :: Minor Themes
-apprehension [Neelix],
 cryogenic suspension punishment [50 years in cryo for you!],
 guilt and evidence [Janeway vs. station master about arresting Chakotay and Tom on flimsy evidence],
 having a skeleton in the closet [Neelix was a drug smuggler],
@@ -3399,7 +3447,8 @@ Directed by: Robert Picardo. Story by: Joe Menosky.
 1997-01-15
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Tuvok [object], Harry Kim, Janeway, Maryana
@@ -3420,17 +3469,15 @@ virtual person [Marayan on holodeck],
 unrequited love [Tuvok denied Marayan],
 
 :: Minor Themes
-distraction [Harry by holowoman],
 facing a ship takeover [],
 jealousy [Harry at Tuvok],
 loneliness [Marayna],
 love triangle [Harry, Marayan, and Tuvok],
 man vs. space anomaly [inversion nebula causes ship trouble],
-man vs. technology [],
-pensiveness [Harry],
+human vs. technology [],
 reconciliation [Tuvok and Harry],
 sentient computer [],
-the beauty of nature [holodeck beach scenes],
+pleasure in nature [holodeck beach scenes],
 the nature of love [Tuvok discussed with Harry],
 
 :: Aliens
@@ -3449,7 +3496,7 @@ kiss [The Doctor and Holowoman]<15:55>
 captain's log [Janeway]<0:00-0:17>, captain's log supplemental [Janeway]<22:56-23:08>, heart to heart talk [Harry and Tuvok], turbolift chat [Harry and Tuvok], security officer's log [Tuvok]<43:15-43:30>
 
 :: Other Keywords
-intruder alert <29:20>
+intruder alert [] <29:20>,
 
 
 voy3x15
@@ -3468,7 +3515,8 @@ Directed by: Nancy Malone. Story by: Jeri Taylor.
 1997-01-29
 
 :: Ratings
-0 <mikael>, 3 <paul>
+0 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway [object], Chakotay, Admiral Janeway
@@ -3515,7 +3563,8 @@ crying [Chakotay, Janeway]<21:05, 34:15>
 tactical officer's log supplemental [Tuvok]{log}<31:05-31:20>, shuttlecraft for two [Janeway and Chakotay], space fight, captain's log [Janeway]<43:30:43-41>
 
 :: Other Keywords
-hypospray [Chakotay to Janeway, The Doctor to Janeway, The Doctor to Janewa, The Doctor to Janeway, The Doctor to Janeway]<6:34, 16:15, 21:24, 21:49, 38:10>, Vulcan mind meld [Tuvok to Kes]
+hypospray [Chakotay to Janeway, The Doctor to Janeway, The Doctor to Janewa, The Doctor to Janeway, The Doctor to Janeway] <6:34, 16:15, 21:24, 21:49, 38:10>,
+Vulcan mind meld [Tuvok to Kes],
 
 
 voy3x16
@@ -3533,7 +3582,8 @@ Directed by: Andrew Robinson. Story by: Lisa Klink.
 1997-02-05
 
 :: Ratings
-2 <mikael>, 4 <paul>
+2 <mikael>
+4 <paul>
 
 :: Main Characters
 Vorik [object], B'Elanna [object], Tuvok, Tom Paris
@@ -3545,17 +3595,14 @@ Tuvok, Kes, Chakotay, Ishan, The Doctor, Janeway
 coping with unwanted sexual urges [B'Elanna and Vorik],
 cyclical mating cycle being [Vulcans],
 love triangle [B'Elanna/Tom/Vorik],
-lust [Vorik for B'Elanna and B'Elanna for Tom],
 unrequited love [Vorik at B'Elanna and B'Elanna at Tom],
 
 :: Major Themes
-coping with rejection [Vorik],
+coping with romantic rejection [Vorik],
 embarrassment [Vorik about the ponn far],
-facing a fight to the death [B'Elanna and Vorik],
-having sex to save a life [Tom needed to have sex with B'Elanna to save her life],
 self-control [B'Elanna and Vorik],
 loss of emotional equilibrium [B'Elanna and Vorik],
-man vs. self [B'Elanna and Vorik struggle with pon farr],
+human vs. self [B'Elanna and Vorik struggle with pon farr],
 shame [Vorik],
 teenage angst [Vorik was just like a teen with his first ponfar],
 virtual reality sex [The Doctor recommended to Vorik to cure his pon farr],
@@ -3585,7 +3632,7 @@ kiss [B'Elanna and Tom]<35:00>
 captain's log [Janeway, Janeway]<0:00-0:14, 42:43-43:05>, find a cure [The Doctor for ponn far], turbolift chat [B'Elanna and Tom]
 
 :: Other Keywords
-hypospray [The Doctor to Vorik]<25:00>
+hypospray [The Doctor to Vorik] <25:00>,
 
 
 voy3x17
@@ -3605,7 +3652,8 @@ Directed by: Robert Duncan McNeill. Story by: Kenneth Biller.
 1997-02-12
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Chakotay [object], Janeway, Riley Frazier
@@ -3624,9 +3672,7 @@ collectively intelligent beings [Chakotay in Borg collective.],
 
 :: Minor Themes
 anarchy [liberated Borg besieged by bad guy Borg],
-apprehension [crew with Borg lurking around],
 coping with the death of a subordinate [Chakotay],
-serenity [Chakotay in collective],
 
 :: Aliens
 Borg, Klingon, Cardassian, misc rouge aliens, Parein [mentioned], Bolian, Romulan
@@ -3638,7 +3684,8 @@ shanty town, bedroom
 first officer's log [Chakotay]<0:00-0:13>, shuttlecraft for two [Chakotay and Marie Kaplan, Chakotay and B'Elanna], captain's log [Janeway]<9:04-9:15>, captain's log supplemental [Janeway]<20:20-20:27>
 
 :: Other Keywords
-red alert <10:07>, stargazing [Janeway, Chakotay]
+red alert [] <10:07>,
+stargazing [Janeway, Chakotay],
 
 
 voy3x18
@@ -3657,7 +3704,8 @@ Directed by: Alexander Singer. Story by: Brannon Braga and Joe Menosky.
 1997-02-19
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor [object], Kes [object], Janeway
@@ -3676,20 +3724,17 @@ out of control AI [The Doctor accidentally created an evil version of himself],
 facing one's darker side [The Doctor faced his evil self],
 infatuation [Kes and Zahir],
 self-analysis [The Doctor],
-man vs. self [The Doctor faced his evil self],
+human vs. self [The Doctor faced his evil self],
 
 :: Minor Themes
 belonging [Kes about leaving Voyager],
 coping with being tortured [B'Elanna being tortured b The Doctor],
 cruelty [The Doctor in torturing B'Elanna in sickbay],
-distraction [Kes neglected her duties because of her infatuation],
-moodiness [Kes],
 The Hippocratic Oath [episode ended with The Doctor reciting the oath],
 virtual reality room [Tropical Resort holo-program],
-wanderlust [attribute of those Mikhal aliens],
+the need to travel [attribute of those Mikhal aliens],
 what if I met an historical figure [Gandhi and Lord Byron on holodeck],
 what if I was at the mercy of a mad doctor [B'Elanna facing torture in sickbay],
-wrath [The evil Doctor],
 
 :: Aliens
 Mikhal
@@ -3701,7 +3746,7 @@ lodge, woodland
 captain's log [Janeway]<0:01-1:10>
 
 :: Other Keywords
-hypospray [The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elann]<9:14, 24:42, 25:48, 26:54, 27:30, 28:35>
+hypospray [The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elann] <9:14, 24:42, 25:48, 26:54, 27:30, 28:35>,
 
 
 voy3x19
@@ -3720,7 +3765,8 @@ Directed by: Robert Scheerer. Story by: Jimmy Diggs.
 1997-02-26
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Tuvok, Neelix, Lilias, Sklar, Hanjuan
@@ -3737,14 +3783,12 @@ the qualities of a good leader [Tuvok in command on space elevator],
 
 :: Major Themes
 asteroid impact [Etanians believed the asteroid bombardment was natural, stepping up to the task Neelix operated space elevator in effort to impress Tuvok],
-being uptight vs. loosening up [Tuvok on space elevator],
+uptight character vs. laid back character [Tuvok on space elevator],
 contempt [Tuvok at Neelix],
 inferiority complex [Neelix],
-man vs. technology [landing party trying to get space elevator working],
+human vs. technology [landing party trying to get space elevator working],
 
 :: Minor Themes
-admiration [Neelix at Tuvok],
-facing oxygen deprivation [in the space elevator],
 flattery [Neelix to Tuvok],
 helping a stranger in need [Janeway was in for a penny and a pound to help the aliens who were being bombarded by asteroids],
 leadership [Tuvok vs. jerk],
@@ -3776,7 +3820,8 @@ Directed by: Marvin V. Rush. Story by: Lisa Klink.
 1997-03-19
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Harry [object], Janeway, Lyris
@@ -3795,16 +3840,14 @@ chastity [Harry],
 hedonism [the alien women],
 hospitality [women to Harry],
 love vs. career [Harry],
-lust [women],
 man vs. captivity [Harry by Siren vampires],
 polygamy [alien women polygamous],
 resisting a temptation [Harry on planet of horny women],
 
 :: Minor Themes
 bondage sex [woman was ready for with Harry],
-coping with guilt [Harry over being responsible for B'Elanna being injured],
+remorse [Harry over being responsible for B'Elanna being injured],
 déjà vu [Harry had],
-ecstasy [Harry and Taymon with polygamous Amazonian aliens],
 fight vs. flee [in space before Harry saved the day],
 second guessing one's self [Harry about attacking the Nasari ship],
 the power of intuition [Harry's intuitions followed by crew],
@@ -3814,7 +3857,7 @@ what if I underwent a physical metamorphosis [Harry transformed into an alien],
 Nasari, Taresian
 
 :: Other Keywords
-red alert <1:22>
+red alert [] <1:22>,
 
 
 voy3x21
@@ -3833,7 +3876,8 @@ Directed by: Allan Kroeker. Story by: Kenneth Biller.
 1997-04-09
 
 :: Ratings
-0 <mikael>, 1 <paul>
+0 <mikael>
+1 <paul>
 
 :: Main Characters
 Kes [object], The Doctor [Doctor Van Gogh], Tom Paris
@@ -3853,7 +3897,6 @@ husband and wife [Tom and Kes],
 precognition [Kes had],
 
 :: Minor Themes
-pride [The Doctor several times raised eyebrows],
 coping with the death of a friend [Janeway and B'Elanna died],
 coping with the death of a colleague [various about Janeway],
 giving birth [Kes gave birth on the shuttlecraft],
@@ -3861,7 +3904,6 @@ grandmother and grandson [Kes and Andrew],
 grief [Tom over B'Elanna],
 matrimonial love [Harry and Linnis, Kes and Tom],
 mother and daughter [Kes and Linnis],
-postponing grief [Chakotay says everyone will have a lot of grieving to do after the triage is finished],
 virtual reality room [Tropical lounge briefly featured],
 
 :: Aliens
@@ -3883,7 +3925,8 @@ Directed by: Anson Williams. Story by: Harry 'Doc' Kloor.
 1997-04-23
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor Kenneth, [object], Tom Paris, Charlene, Jeffrey, Belle
@@ -3892,7 +3935,7 @@ The Doctor Kenneth, [object], Tom Paris, Charlene, Jeffrey, Belle
 B'Elanna, Kes, Larg, K'Kath, Chakotay, Harry Kim, Tuvok, Neelix, Janeway
 
 :: Choice Themes
-child rearing [The Doctor with his holo-family],
+human parenting [The Doctor with his holo-family],
 family affairs [The Doctor with his holo-family],
 family life [The Doctor with his holo-family],
 misfortune unites [someone made the point to get Doc back on the holodeck in the end],
@@ -3910,7 +3953,7 @@ virtual reality room [The Doctor programmed a holo-family],
 
 :: Minor Themes
 adolescence [Jeffrey],
-bad influence on children [Klingons on Jeffrey],
+protecting kids from bad influence on children [Klingons on Jeffrey],
 brother and sister [Jeffrey and Belle],
 coping with a loved one being terminally ill [The Doctor and holo-family with Belle],
 coping with a terminal illness [Belle with brain injury],
@@ -3921,7 +3964,7 @@ man vs. space anomaly [the astral eddies],
 mother and daughter [Charlene and Belle],
 mother and son [Charlene and Jeffrey],
 parental pride [The Doctor of his holo-children],
-tardiness [Jeffrey],
+laziness [Jeffrey],
 teenage angst [Jeffrey rebelled by embracing Klingon culture],
 
 :: Aliens
@@ -3948,7 +3991,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1997-04-30
 
 :: Ratings
-3 <mikael>, 4 <paul>
+3 <mikael>
+4 <paul>
 
 :: Main Characters
 Chakotay, Janeway, Forra Gegen [object], Tova Veer
@@ -3968,7 +4012,7 @@ alien point of view [they saw us as disgusting mammals],
 conservative vs. liberal [the establishment vs. the scientist],
 creationism [reptilian establishment advocated a creationist interpretation of the origin of reptilians],
 hominid evolution [reptilian evolved from mammals],
-man vs. institution [],
+human vs. institution [],
 persecution of heretics in society [],
 personal conviction [Forra Gegen],
 reptilian being [the Voth],
@@ -3993,7 +4037,8 @@ Voth
 cavern
 
 :: Other Keywords
-intruder alert <17:20>, red alert <23:07>
+intruder alert [] <17:20>,
+red alert [] <23:07>,
 
 
 voy3x24
@@ -4011,7 +4056,8 @@ Directed by: Allan Kroeker. Story by: Lisa Klink.
 1997-05-07
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Tom Paris, B'Elanna, Janeway
@@ -4025,21 +4071,17 @@ Tuvok, Harry Kim, Jarlath, Rislan, Taleen, Ensign Lang, Neelix, Kes, Dammar, Cha
 bird in a gilded cage [Voyager crew and Jarleth],
 facing a ship takeover [Nyrians of Voyager],
 facing life in captivity [Voyager crew in Nyrian habitat],
-facing mysterious adversity [crewmembers disappear one by one from Voyager and replaced by Nyrians],
 lovers' quarrel [Tom and B'Elanna repeatedly],
 what if people around me started disappearing one by one [crew members from Voyager],
 
 :: Minor Themes
 anger [B'Elanna flipped out at Tom after Bathelt practice],
-bellicosity [B'Elanna bit the head of anyone who thought her aggressive],
-don't sleep in snow [Tom to B'Elanna, was also featured in Wiesel's book],
-prickliness [B'Elanna],
 
 :: Aliens
 Jarleth's species
 
 :: Other Keywords
-red alert <5:34>
+red alert [] <5:34>,
 
 
 voy3x25
@@ -4058,7 +4100,8 @@ Directed by: Alexander Singer. Story by: Kenneth Biller.
 1997-05-14
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 Seska, Chakotay, Tom Paris, B'Elanna
@@ -4074,7 +4117,7 @@ virtual reality room [],
 betrayal [Chakotay at Janeway and Seska at all],
 creative writing [Tom and Tuvok argue over how to write a crappy novel],
 facing a ship takeover [Chakotay led mutiny on holodeck],
-man vs. technology [Tuvok and Tom in Seska's holo fantasy],
+human vs. technology [Tuvok and Tom in Seska's holo fantasy],
 out of control technology [Seska hologram reprogrammed holo-novel for nefarious purposes],
 
 :: Minor Themes
@@ -4087,7 +4130,7 @@ the need for rest and recreation [Janeway prescribed],
 Rukani
 
 :: Other Keywords
-intruder alert <21:24>
+intruder alert [] <21:24>,
 
 
 voy3x26
@@ -4106,7 +4149,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1997-05-21
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Janeway, Kes
@@ -4127,11 +4171,8 @@ trust in a potential foe [crew in Borg],
 :: Minor Themes
 Leonardo da Vinci [Janeway in da Vinci's workshop],
 a leopard can't change its spots [Chakotay told scorpion and fox fable],
-admiration [Janeway to da Vinci],
-apprehension [crew upon entering Borg space],
 biological spaceship [Species 8472 ships biologically regenerated],
 coping with a loved one being terminally ill [all and sundry with Harry],
-creativity [Janeway with do Vinci],
 cyborg [the Borg],
 self-replicating nanomachines [There were Borg nano-probes.],
 planet killing weapon [used by Species 8472],
@@ -4144,7 +4185,7 @@ what if I met an historical figure [Janeway and da Vinci],
 Borg, Species 8472
 
 :: Other Keywords
-red alert <10:10>
+red alert [] <10:10>,
 
 
 voy4x01
@@ -4164,7 +4205,8 @@ Directed by: Winrich Kolbe. Story by: Brannon Braga and Joe Menosky.
 1997-09-03
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway, Chakotay, Seven of Nine
@@ -4209,7 +4251,8 @@ Directed by: Anson Williams. Story by: Joe Menosky.
 1997-09-10
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Seven of Nine [object], Kes [object], Janeway, The Doctor
@@ -4238,7 +4281,7 @@ doctor’s opinion vs. patient preference [The Doctor's ethical dilemma about re
 the need to feel useful to society [Seven],
 
 :: Other Keywords
-intruder alert <23:10>
+intruder alert [] <23:10>,
 
 
 voy4x03
@@ -4257,7 +4300,8 @@ Directed by: Jesús Salvador Treviño. Story by: Jeri Taylor.
 1997-09-17
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 B'Elanna [object], Tom Paris, Seven of Nine
@@ -4285,7 +4329,6 @@ what if I were stranded in outer space [happened to B'Elanna and Tom],
 :: Minor Themes
 alien customs [],
 attack from outer space by a powerful conquering alien race [Borg destroyed pauper homeworld],
-bellicosity [B'Elanna to Seven],
 cultural differences [Klingon vs Human culture],
 facing one's own death [B'Elanna and Tom expected to die],
 friendship [Neelix and Tom to B'Elanna],
@@ -4316,7 +4359,8 @@ Directed by: Alexander Singer. Story by: Kenneth Biller.
 1997-09-24
 
 :: Ratings
-3 <mikael>, 4 <paul>
+3 <mikael>
+4 <paul>
 
 :: Main Characters
 Chakotay [object], Tuvok, Brone
@@ -4369,7 +4413,8 @@ Directed by: Kenneth Biller. Story by: Lisa Klink.
 1997-10-01
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 The Doctor, B'Elanna, Harry Kim, Seven of Nine, Dejaren
@@ -4396,7 +4441,6 @@ ethnic hatred [holo vs. human],
 :: Minor Themes
 helping a stranger in need [efforts made to help holographic guy get his ship in order],
 chastity [Harry does NOT want to copulate thank you very much],
-inquisitiveness [The Doctor at the prospect of contacting another holographic being],
 distaste for attention [Tuvok at his promotion ceremony],
 fear of intimacy [Tom and B'Elanna then Harry and Seven],
 germophobia [Dejaren was fastidious about keeping the ship free of germs],
@@ -4425,7 +4469,8 @@ Directed by: LeVar Burton. Story by: Bryan Fuller.
 1997-10-08
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Seven of Nine [object], Tuvok, Janeway
@@ -4479,7 +4524,8 @@ Directed by: David Livingston. Story by: Sherry Klein and Harry 'Doc' Kloor.
 1997-10-29
 
 :: Ratings
-4 <mikael>, 3 <paul>
+4 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor, Seven of Nine, Janeway, Tuvok
@@ -4504,8 +4550,6 @@ sacrifice self and crew to foil an enemy [Janeway flies into binary pulsar to fo
 :: Minor Themes
 binary pulsar [Voyager stumbled on a binary pulsar system],
 chain of command [B'Elanna dressing down Seven],
-coping with an overly vigorous massage [Janeway],
-diligence [Tuvok],
 what if I underwent a physical metamorphosis [Neelix underwent],
 what if I aged rapidly [Chakotay],
 working together in spite of disagreement [B'Elanna vs. Seven],
@@ -4520,7 +4564,8 @@ unnamed experimenting aliens
 Four Yorkshiremen [Chakotay vs. Neelix]
 
 :: Other Keywords
-red alert <38:14>, the sinking of the Titanic [Tom’s Voyager hull modifications inspired by the Titanic]
+red alert [] <38:14>,
+the sinking of the Titanic [Tom’s Voyager hull modifications inspired by the Titanic],
 
 
 voy4x08
@@ -4540,7 +4585,8 @@ Directed by: Allan Kroeker. Story by: Brannon Braga and Joe Menosky.
 1997-11-05
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway, The Doctor
@@ -4561,7 +4607,6 @@ desperation [Janeway among others aboard Voyager],
 
 :: Minor Themes
 coping with a disability [Tuvok with blindness],
-pride [The Doctor gives self-aggrandizing speech],
 coping with a loved one being in peril [Tom when B'Elanna was critically injured],
 coping with an obnoxious chatterbox [The Doctor's speech],
 coping with the death of a spouse [Annorax with his departed wife],
@@ -4575,7 +4620,10 @@ there is strength in unity [Janeway refuses to split up],
 Kramin, Zahl
 
 :: Other Keywords
-yellow alert <6:53>, tactical alert <11:04>, red alert <19:53>, Twenty Thousand Leagues Under the Sea [Nemo reference]
+yellow alert [] <6:53>,
+tactical alert [] <11:04>,
+red alert [] <19:53>,
+Twenty Thousand Leagues Under the Sea [Nemo reference],
 
 
 voy4x09
@@ -4595,7 +4643,8 @@ Directed by: Mike Vejar. Story by: Brannon Braga and Joe Menosky.
 1997-11-12
 
 :: Ratings
-1 <mikael>, 4 <paul>
+1 <mikael>
+4 <paul>
 
 :: Main Characters
 Janeway, Chakotay, Tom Paris, Annorax
@@ -4621,7 +4670,7 @@ coping with the death of a spouse [Anorax about departed wife],
 :: Minor Themes
 clash of wills [The Doctor unsuccessfully relieving Janeway of duty],
 coping with a disability [Tuvok],
-captain and crew's attachment to their ship [Janeway expressed forcefully],
+crew's attachment to their ship [Janeway expressed forcefully],
 computer-aided mathematical model simulation [Chakotay conducted history altering simulations],
 remorse [Annorax about erasing wife from history],
 acute anxiety [Annorax was accused of when he said time itself was against him],
@@ -4646,7 +4695,8 @@ Directed by: Alexander Singer. Story by: Kenneth Biller.
 1997-11-19
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 B'Elanna, Janeway, Tuvok, Nimira
@@ -4665,8 +4715,7 @@ guilt and evidence [Janeway thought the evidence against B'Elanna was rather fli
 telepathic being [the Mari],
 pleasure in violence [Guill and his black market of violent thoughts],
 world with telepathy [Mari society],
-wrath [B'Elanna and others reveled in violent thoughts],
-rage [B'Elanna and others reveled in violent thoughts],
+anger [B'Elanna and others reveled in violent thoughts],
 the right to privacy of thoughts [Humans assumed they had the right to privacy of thoughts on the planet],
 facing one's darker side [Tuvok and that guy],
 
@@ -4704,7 +4753,8 @@ Directed by: Jesús Salvador Treviño. Story by: Jimmy Diggs and Joe Menosky.
 1997-11-26
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway, Leonardo da Vinci [object], Tuvok, Tau
@@ -4727,9 +4777,7 @@ the thirst for knowledge [Leonardo],
 
 :: Minor Themes
 virtual reality room [da Vinci's workshop simulation],
-admiration [Janeway and Tuvok of da Vinci],
 boredom [The Doctor when confined to sickbay without his mobile emitter],
-amazement [da Vinci at flying machines, lightning shooting devices, and mechanical women in boxes],
 the principles of flight [da Vinci and Janeway built a flying contraption],
 anti-intellectualism in society [Leonardo da Vinci complained about the people of Florence],
 
@@ -4737,7 +4785,7 @@ anti-intellectualism in society [Leonardo da Vinci complained about the people o
 workshop, town square, futuristic cityscape, hillside
 
 :: Other Keywords
-red alert <39:21>
+red alert [] <39:21>,
 
 
 voy4x12
@@ -4757,7 +4805,8 @@ Directed by: Allan Kroeker. Story by: Bryan Fuller.
 1997-12-17
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Neelix [object], Seven of Nine, Chakotay
@@ -4788,7 +4837,6 @@ the need to feel useful to society [Chakotay had to convince Neelix that he was 
 coping with bad cooking [Seven with Neelix's pungent foods],
 godparent and godchild [Neelix and Naomi],
 mother and daughter [Samantha and Naomi],
-amazement [Neelix upon being resurrected from the dead],
 the boogeyman [Neelix rooting out monsters in Naomi's bedroom],
 shamanism [Chakotay requested that Neelix prepare a medicine bundle],
 remembrance [Neelix about his sister],
@@ -4816,7 +4864,8 @@ Directed by: Alexander Singer. Story by: André Bormanis.
 1998-01-14
 
 :: Ratings
-2 <Mikael>, 3 <paul>,
+2 <Mikael>
+3 <paul>,
 
 :: Main Characters
 Chakotay [object], The Doctor, Janeway, dream species alien
@@ -4839,8 +4888,8 @@ collective dreaming [crew were existing in the same dream together],
 :: Minor Themes
 lucid dreaming [Chakotay explained the principles of lucid dreaming],
 embarrassment [Tuvok upon showing up to work naked],
-terror [crew inside their nightmares],
-tardiness [Tom late for breakfast with B'Elanna; Tom and Harry both late for duty],
+fear [crew inside their nightmares],
+laziness [Tom late for breakfast with B'Elanna; Tom and Harry both late for duty],
 sleep deprivation [Chakotay],
 coping with insomnia [crew at end],
 
@@ -4851,7 +4900,7 @@ dream species alien
 cavern
 
 :: Other Keywords
-red alert <24:54>
+red alert [] <24:54>,
 
 
 voy4x14
@@ -4872,7 +4921,8 @@ Directed by: Nancy Malone. Story by: Rick Williams.
 1998-01-21
 
 :: Ratings
-3 <Mikael>, 3 <paul>,
+3 <Mikael>
+3 <paul>,
 
 :: Main Characters
 The Doctor [object], EMH Mark II, Janeway
@@ -4896,8 +4946,6 @@ clash of wills [The Doctor and Mark II, B'Elanna and Seven],
 
 :: Minor Themes
 manners [B'Elanna lectured Seven; Mark II was keen about manners],
-prickliness [Mark II],
-rudeness [Seven in B'Elanna's view],
 coping with bad cooking [Neelix gave two crewmemebrs heartburn],
 galactic communication network [Hirogen relay network],
 hope [Voyager crew at contacting Starfleet at episode conclusion],
@@ -4922,7 +4970,8 @@ Directed by: David Livingston. Story by: Jeri Taylor.
 1998-02-11
 
 :: Ratings
-2 <Mikael>, 2 <paul>,
+2 <Mikael>
+2 <paul>,
 
 :: Main Characters
 Harry Kim, Janeway
@@ -4941,20 +4990,18 @@ coping with the death of a fellow compatriot [B'Elanna about fallen Maquis comra
 galactic communication network [Hirogen relay network],
 
 :: Minor Themes
-pride [Doc about being welcomed as a hero in the Alpha Quadrant],
 black hole [there was in the relay station if that makes any sense],
 father and son [Tom, sadly without anbojutsu],
 coping with getting dumped [Janeway's boyfriend moved on],
 pleasure in coffee [Janeway explained to Chakotay about black coffee],
 burning the candle at both ends [Seven was working to the point of exhaustion],
-anticipation [Harry at the prospect of getting a letter from his family],
 the desire for prestige [Hirogen captain wanted Seven's intestines to impress his fellow men and women],
 
 :: Aliens
 Hirogen
 
 :: Other Keywords
-red alert <35:42>
+red alert [] <35:42>,
 
 
 voy4x16
@@ -4973,7 +5020,8 @@ Directed by: Allan Eastman. Story by: Brannon Braga.
 1998-02-18
 
 :: Ratings
-1 <Mikael>, 3 <Paul> [Holy crap! There's a head in that helmet!],
+1 <Mikael>
+3 <Paul> [Holy crap! There's a head in that helmet!],
 
 :: Main Characters
 Seven of Nine, Janeway, Alpha-Hirogen, Chakotay
@@ -4993,7 +5041,7 @@ pleasure in hunting [Hirogen],
 chain of command [Seven ignored],
 order vs. freedom [Seven becomes too individualistic for Janeway's hierarchy],
 a common enemy unites [Species 8472 united humans and Hirogen in a common cause],
-predator vs. prey [Hirogen vs. Species 8472],
+facing being hunted like an animal [Hirogen vs. Species 8472],
 
 :: Minor Themes
 fitting in at work [The Doctor was mentoring Seven on how to fit in with the crew],
@@ -5005,7 +5053,8 @@ Hirogen, Species 8472
 cavern, chamber of horrors
 
 :: Other Keywords
-red alert <4:47>, intruder alert <17:40>
+red alert [] <4:47>,
+intruder alert [] <17:40>,
 
 
 voy4x17
@@ -5026,7 +5075,8 @@ Gaberman.
 1998-02-25
 
 :: Ratings
-2 <paul>, 4 <Mikael> [there was an interesting ethical dilemma treated reasonably well],
+2 <paul>
+4 <Mikael> [there was an interesting ethical dilemma treated reasonably well],
 
 :: Main Characters
 Seven of Nine [object], Janeway, Kovin, The Doctor
@@ -5048,12 +5098,11 @@ betrayal [Seven thought of Kovin, Kovin thought of Janeway, Janeway thought of S
 the importance of reputation [Kovin was concerned about losing his reputation in the eyes of his customers because of the sex accusations],
 resentment [Seven to Kovin and discussed with Doctor repeatedly],
 anger [Seven at Kovin and discussed with Doctor repeatedly],
-loathing [Seven toward Kovin],
+hatred [Seven toward Kovin],
 unethical psychological experimentation [the Doctor's guilt in influencing Seven],
 
 :: Minor Themes
 arms trade [Kovin was such a trader],
-anxiety [Seven in sickbay],
 hypnotic regression [The Doctor used on Seven to uncover false suppressed memories],
 the importance of firepower [Kovin's selling point],
 negotiation [Janeway and Kovin engaged in some tough bargaining],
@@ -5083,7 +5132,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1998-03-04
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway, Karr, Seven of Nine
@@ -5102,7 +5152,7 @@ space Nazis [Hirogen for all intents and purposes],
 pleasure in hunting [Karr took pleasure in hunting down the French Resistance],
 facing a ship takeover [Harry and The Doctor face Hirogen takeover of Voyager],
 simulated hunting ground [Karr had master plan to use holodeck technology to save his civilization],
-predator vs. prey [Hirogen preyed on Voyager crew],
+facing being hunted like an animal [Hirogen preyed on Voyager crew],
 World War II [German occupation of France reenacted on holodeck],
 virtual reality room [German occupation of France reenacted on holodeck],
 
@@ -5112,7 +5162,6 @@ cipher codes [featured and discussed briefly],
 social stagnation [Hirogen captain complained thereof],
 mind-computer merging [the neural interface to connect people to holodeck],
 what if I had to fight to the death [Janeway as Klingon],
-facing a fight to the death [Janeway as Klingon],
 
 :: Aliens
 Klingon, Hirogen
@@ -5138,7 +5187,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1998-03-04
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway [Katrine], Seven of Nine, Chakotay [Captain Miller], Karr
@@ -5160,7 +5210,7 @@ what it is like to live through a military occupation [Voyager crew members live
 space Nazis [Hirogen for all intents and purposes],
 simulated hunting ground [Karr had masterplan to use holodeck technology to save his civilization],
 virtual reality room [German occupation of France reenacted on holodeck],
-predator vs. prey [Hirogen preyed on Voyager crew],
+facing being hunted like an animal [Hirogen preyed on Voyager crew],
 racism in society [both Hirogen and Nazis],
 World War II [German occupation of France reenacted on holodeck],
 
@@ -5198,7 +5248,8 @@ Directed by: Jesús Salvador Treviño. Story by: Robert J. Doherty.
 1998-04-08
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Tom Paris [object], Janeway, Steth
@@ -5220,10 +5271,8 @@ fear of commitment [Tom in relationship with B'Elanna],
 :: Minor Themes
 passion for antique cars [Tom with his muscle car],
 lovers' quarrel [B'Elanna and Tom],
-pride [The Doctor when he felt Tom was trying to live up to his abilities],
-lust [Steth in the body of Tom toward B'Elanna],
 gluttony [Tom intoxicated on Trakian ale],
-sloth [Tom is shirking his duties],
+laziness [Tom is shirking his duties],
 
 :: Aliens
 Steth's species, Daelan's species
@@ -5232,7 +5281,7 @@ Steth's species, Daelan's species
 garage,
 
 :: Other Keywords
-red alert <3:36>
+red alert [] <3:36>,
 
 
 voy4x21
@@ -5251,7 +5300,9 @@ Directed by: Victor Lobl. Story by: Jimmy Diggs and Steve J. Kay.
 1998-04-15
 
 :: Ratings
-1 <paul>, 0 <mikael> [ugh, the science misconceptions in this one were just too much to bear],
+1 <paul>
+0 <mikael> [ugh
+the science misconceptions in this one were just too much to bear],
 
 :: Main Characters
 Janeway, Seven of Nine, Chakotay
@@ -5273,9 +5324,7 @@ duty vs. conscience [Seven when ordered to destroy the molecule],
 coping with a loose cannon [Janeway with Seven],
 
 :: Minor Themes
-interest [everyone all agog to know about omega directive],
 the ethics of interfering in less advanced societies [Janeway summarily recinded it],
-amazement [Seven upon seeing her god face to face],
 what if I had super intelligence [Harry and Seven discussion],
 science for war or peace [the molecule could have been made a weapon it was said],
 keeping secrets [Janeway tried to keep Omega Directive secret and the crew gossiped],
@@ -5301,7 +5350,8 @@ Directed by: Andrew Robinson. Story by: Greg Elliot and Michael Perricone.
 1998-04-22
 
 :: Ratings
-1 <paul>, 1 <mikael>,
+1 <paul>
+1 <mikael>,
 
 :: Main Characters
 Chakotay [object], Janeway, Kellin
@@ -5318,7 +5368,6 @@ xenophobic isolationist beings [Ramuran],
 trust in a potential foe [Chakotay tried to decide whether Kellin could be trusted],
 
 :: Minor Themes
-vigilance [Chakotay about vetting Kellin's story],
 memory wipe [alien device],
 future point of view [Chakotay was using ancient writing implements],
 political asylum [Kellin aboard Voyager],
@@ -5327,7 +5376,8 @@ political asylum [Kellin aboard Voyager],
 Ramuran
 
 :: Other Keywords
-red alert <1:07>, intruder alert <34:58>
+red alert [] <1:07>,
+intruder alert [] <34:58>,
 
 
 voy4x23
@@ -5346,7 +5396,8 @@ Directed by: Tim Russ. Story by: Brannon Braga.
 1998-04-29
 
 :: Ratings
-4 <paul>, 4 <mikael>,
+4 <paul>
+4 <mikael>,
 
 :: Main Characters
 The Doctor [object], Janeway, Quarren
@@ -5369,7 +5420,6 @@ the thirst for knowledge [Quarren wanted to find out the ugly truth],
 :: Minor Themes
 cruelty [holo-Janeway oversees genocide without a second thought],
 ruthlessness [holo-Janeway],
-surprise [The Doctor upon waking up in the future],
 coping with being tortured [guy was tortured],
 historiography [the academic discipline and evidence like primary sources was discussed],
 coping with being separated from someone you love [The Doctor on waking up in the future, he later went off towards Earth],
@@ -5382,7 +5432,8 @@ Vaskan, Kyrian
 museum, futuristic cityscape
 
 :: Other Keywords
-intruder alert <19:30>, red alert <32:43>
+intruder alert [] <19:30>,
+red alert [] <32:43>,
 
 
 voy4x24
@@ -5401,7 +5452,8 @@ Directed by: Anson Williams. Story by: André Bormanis.
 1998-05-06
 
 :: Ratings
-3 <paul>, 2 <mikael>,
+3 <paul>
+2 <mikael>,
 
 :: Main Characters
 Janeway, Harry Kim [object], Tom Paris [object],  Chakotay
@@ -5414,7 +5466,7 @@ bio-mimicking life form [the Sliver Blood life form copied Voyager crew],
 
 :: Major Themes
 desperation [crew risks going to demon planet to acquire fuel],
-man vs. nature [crew vs. demon planet],
+human vs. nature [crew vs. demon planet],
 the desire for personal development [Harry was trying to be a more assertive person],
 self-confidence [Harry was trying to be a more assertive person],
 risk taking vs. playing it safe [going to the demon class planet was a great risk pondered at length],
@@ -5422,7 +5474,6 @@ risk taking vs. playing it safe [going to the demon class planet was a great ris
 :: Minor Themes
 coping with a loved one being in peril [B'Elanna urged Chakotay to let her go on the away mission to search for her lover Tom],
 coping with an unwelcome house guest [The Doctor with squatters in his sickbay],
-coping with an unwilling host [The Doctor made unnecessary commotion while his guests were trying to sleep in sickbay],
 male bonding [Tom and Harry],
 what if I met my double [bioformed Tom and Harry met real Tom and Harry],
 force field generator [there were an unusual number of them],
@@ -5435,7 +5486,9 @@ alternate points of view [Harry sees beauty in the barren planet],
 volcanic wasteland, cavern
 
 :: Other Keywords
-gray mode {alert}<0:57>, code blue {alert}<17:42, 44:52>, blue alert {alert}<17:44>
+gray mode [] {alert} <0:57>,
+code blue [] {alert} <17:42, 44:52>,
+blue alert [] {alert} <17:44>,
 
 :: Associations
 tng6x13 [coalescent organism],
@@ -5458,7 +5511,8 @@ Directed by: Kenneth Biller. Story by: Jeri Taylor.
 1998-05-13
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 seven of Nine [object], Janeway, The Doctor
@@ -5467,7 +5521,7 @@ seven of Nine [object], Janeway, The Doctor
 Harry Kim, B'Elanna, Tuvok, Tom Paris, Chakotay, Neelix, Trajis Lo-Tarik
 
 :: Choice Themes
-coping with being alone [Seven all alone aboard Voyager],
+loneliness [Seven all alone aboard Voyager],
 monophobia [Seven all alone aboard Voyager],
 fighting one's inner demons [Seven about flourishing alone outside The Collective],
 the need for companionship [Seven and that imaginary alien],
@@ -5482,11 +5536,9 @@ questioning one's sanity [Seven],
 loneliness [Seven and the imaginary alien],
 
 :: Minor Themes
-coping with excruciating pain [crew with splitting headaches and burns],
 claustrophobia [Tom in suspended animation chamber],
-terror [Seven alone on the ship and losing her mind],
 fear [Seven alone on the ship and losing her mind],
-apprehension [Seven alone one Voyager],
+fear [Seven alone on the ship and losing her mind],
 manners [Seven toward The Doctor],
 social awkwardness [The Doctor was mentoring Seven on how to socialize with the crew; Seven improves by conclusion of episode],
 
@@ -5515,7 +5567,8 @@ Menosky.
 1998-05-20
 
 :: Ratings
-0 <mikael>, 2 <paul>
+0 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway [object], Seven of Nine [object], Arturis
@@ -5534,14 +5587,11 @@ mentor and protégé [Janeway and Seven],
 coping with being separated from one's family [Voyager crew had newfound hope of getting home],
 hope [crew in getting back to Earth],
 belonging [Seven torn between Voyager and Borg Collective],
-too good to be true decision [Janeway worried that their new opportunity to go home was too good to be true],
 if it sounds too good to be true it probably isn't true [Janeway worried that their new opportunity to go home was too good to be true],
 
 :: Minor Themes
 brains vs. brawn [Jainway vs. Seven on the holodeck],
 burning the candle at both ends [Janeway with decoding Starfleet message],
-vigilance [Janeway suspicious of Arturis because of all the good fortune that has befallen the crew],
-apprehension [Seven about going back to Earth],
 
 :: Aliens
 Species 116, Borg
@@ -5563,7 +5613,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1998-10-14
 
 :: Ratings
-0 <mikael>, 1 <paul>
+0 <mikael>
+1 <paul>
 
 :: Main Characters
 Janeway, Chakotay
@@ -5577,7 +5628,7 @@ toxic waste management [the toxic waste aliens were polluting the space of the n
 
 :: Major Themes
 transnational conflict over environmental concern [the toxic waste aliens were polluting the space of the nocturnal aliens],
-xenocide vs. foregoing personal gain [Emck polluted the nocturnal aliens environment for financial profit],
+genocide vs. foregoing personal gain [Emck polluted the nocturnal aliens environment for financial profit],
 suppression of a technology to preserve an industry [Emck refused technology from Voyager that would cut toxic emissions because it hurt his profits],
 remorse [Janeway was feeling guilty about her decision to stay in the Delta quadrant],
 beating one's self up [Janeway],
@@ -5586,7 +5637,6 @@ beating one's self up [Janeway],
 passion for classic films [Tom and Harry in Captain Proton holo-novel],
 nihilophobia [fear of nothingness was mentioned],
 the desire for redemption [Janeway sought but was thwarted],
-apprehension [crew in the void],
 fear [Neelix in the dark],
 boredom [crew in the void],
 nature conservationism [toxic waste dumping],
@@ -5595,7 +5645,7 @@ nature conservationism [toxic waste dumping],
 Malon, Night Aliens
 
 :: Other Keywords
-red alert <40:10>
+red alert [] <40:10>,
 
 :: Associations
 tos1x26 [miners nearly killed Hort, ugly alien nearly killed pitiful aliens],
@@ -5618,7 +5668,8 @@ Directed by: Les Landau. Story by: Bryan Fuller and Harry 'Doc' Kloor.
 1998-10-21
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Seven of Nine [object], One [object], Janeway
@@ -5640,7 +5691,6 @@ facing an overpowering adversary [Borg],
 child's point of view [One was like a child],
 
 :: Minor Themes
-apprehension [One at prospect of engaging the Borg],
 coping with the death of a colleague [crew with One at end],
 grief [crew with One at the end],
 claustrophobia [B'Elanna mentioned on shuttlecraft],
@@ -5650,7 +5700,7 @@ inferiority complex [Seven seemed to feel a bit to One],
 Borg
 
 :: Other Keywords
-red alert <10:32, 40:00>
+red alert [] <10:32, 40:00>,
 
 :: Associations
 tng5x23 [Hugh like One wrt child point of view], tng2x01 [One like Ian wrt child point of view],
@@ -5672,7 +5722,8 @@ Directed by: Cliff Bole. Story by: Kenneth Biller.
 1998-10-28
 
 :: Ratings
-0 <mikael>, 2 <paul>
+0 <mikael>
+2 <paul>
 
 :: Main Characters
 B'Elanna [object], Tom Paris, Chakotay, Janeway
@@ -5698,7 +5749,6 @@ self-injurious behavior [B'Elanna with dangerous activities on the holodeck],
 suppressed emotion [B'Elanna had trouble with],
 catharsis [sort of what B'Elanna was doing],
 the thrill of danger [both B'Elanna and Tom in different ways and degrees Major candidate],
-distraction [B'Elanna distracted from her duties and obligations],
 belonging [Chakotay assured B'Elanna Voyager was her new family],
 the right to privacy [B'Elanna's holodeck activities spied on by command crew],
 
@@ -5727,7 +5777,8 @@ Directed by: David Livingston. Story by: Nick Sagan.
 1998-11-04
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Chakotay [object, Jason Hayek], Janeway, Valarie Archer
@@ -5750,9 +5801,7 @@ flirtation [Chakotay and Valarie in a strange way],
 
 :: Minor Themes
 chastity [Chakotay rebuffs Valarie's advances],
-lust [Valarie and Chakotay],
 logic vs. gut feeling [Janeway said something about faith and intuition to Seven],
-interest [Valarie in human culture],
 the thirst for knowledge [Valarie in human culture],
 annihilation by WMDs [Voyager crew threatened Species 8472 with Borg nanoprobes],
 
@@ -5763,7 +5812,9 @@ Species 8472
 quadrangle, living space
 
 :: Other Keywords
-security alert <10:35>, red alert <30:44>, tactical alert <32:47>
+security alert [] <10:35>,
+red alert [] <30:44>,
+tactical alert [] <32:47>,
 
 
 voy5x05
@@ -5782,7 +5833,8 @@ Directed by: John Kretchmer. Story by: Michael Taylor.
 1998-11-11
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Naomi Wildman [object], Neelix [object], Janeway
@@ -5804,8 +5856,7 @@ godparent and godchild [Neelix and Naomi],
 facing one's own death [Samantha, Tuvok, and Tom],
 
 :: Minor Themes
-the need to be remembered [trapped people leave last messages],
-apprehension [Naomi about her mother being missing],
+the desire to be remembered [trapped people leave last messages],
 symbiogenesis [The Doctor taught Naomi about this theory of how eukaryotic cells evolved in sickbay],
 
 :: Setting
@@ -5835,7 +5886,8 @@ Menosky.
 1998-11-18
 
 :: Ratings
-1 <paul>, 0 <mikael>
+1 <paul>
+0 <mikael>
 
 :: Main Characters
 Chakotay, Harry Kim [object], Janeway, The Doctor
@@ -5854,10 +5906,8 @@ time traveler's dilemma [Harry was trying to change the past against Federation 
 risk taking vs. playing it safe [use slipstream drive and get home vs. using conventional technology and getting home later],
 
 :: Minor Themes
-anticipation [crew at prospect of getting home with installation of slipstream drive],
 inebriated interaction [Seven getting drunk at social gathering],
 what if I woke up in the future [The Doctor woke up 15 years in the future buried inside a glacier],
-surprise [The Doctor at waking up 15 years in the future],
 romantic love [Chakotay and Tessa],
 grandfather paradox [episode closed with a message from Harry Kim to Harry Kim],
 
@@ -5865,7 +5915,7 @@ grandfather paradox [episode closed with a message from Harry Kim to Harry Kim],
 frozen wasteland
 
 :: Other Keywords
-tactical alert <27:32>
+tactical alert [] <27:32>,
 
 
 voy5x07
@@ -5885,7 +5935,8 @@ Directed by: David Livingston. Story by: Robert J. Doherty and Jimmy Diggs.
 1998-11-25
 
 :: Ratings
-0 <mikael, 3 <paul>,
+0 <mikael
+3 <paul>,
 
 :: Main Characters
 Seven of Nine [object], Janeway, The Doctor
@@ -5927,7 +5978,8 @@ Directed by: David Livingston. Story by: Jeri Taylor.
 1998-12-02
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor [object], B'Elanna, Janeway, Crell Moset
@@ -5951,7 +6003,6 @@ informed consent in medicine [The Doctor struggled with whether or not to treat 
 great need vs. compromising one's ethical principles [The Doctor struggled with decising whether or not to help Moset in his evil experiments],
 
 :: Minor Themes
-pride [The Doctor giving his slide show],
 vanity [The Doctor giving his slide show],
 the need to be treated with respect [The Doctor about being needed to be appreciated for one's accomplishments],
 vivisection [Moset callously vivisected a holographic alien],
@@ -5964,7 +6015,7 @@ incompatible modes of communication [Voyager crew and cytoplasmic life form alie
 Cardassian,
 
 :: Other Keywords
-red alert <14:00>
+red alert [] <14:00>,
 
 
 voy5x09
@@ -5983,7 +6034,8 @@ Directed by: Winrich Kolbe. Story by: Scott Miller.
 1998-12-09
 
 :: Ratings
-3 <paul>, 3 <mikael>
+3 <paul>
+3 <mikael>
 
 :: Main Characters
 Tom Paris [object], Janeway, Harry Kim
@@ -5999,7 +6051,6 @@ obeying the rules vs. acting for a just cause [Tom violated orders by helping Ri
 
 :: Major Themes
 confronting an old ghost [Tom introspecting about his relationship with his dad],
-coping with being imprisoned [Tom spends thirty days in the brig],
 father and son [Tom and his estranged father],
 fatherly disappointment in a son [Tom's father in Tom],
 water planet to the core [Moneans lived in huge ball of water floating in space],
@@ -6009,18 +6060,18 @@ the ethics of interfering in less advanced societies [Tom violated Prime Directi
 eco-terrorism [Tom and Riga committed acts of eco-terrorism by sabotaging refineries],
 solitary confinement as a punishment [Tom struggled in solitary confinement in the brig],
 loneliness [Tom in the brig],
-coping with being alone [Tom],
+loneliness [Tom],
 bureaucracy [Monean social problem],
 environmentalism [Riga's consciousness was raised about the importance of protecting the environment by the end of the episode],
 
 :: Minor Themes
 passion for classic films [Tom with Captain Proton],
 underwater city [Monean capital city],
-man vs. beast [Delta Flier crew vs. electric ell-like sea creature],
+human vs. beast [Delta Flier crew vs. electric ell-like sea creature],
 facing a ferocious beast [Delta Flier crew vs. electric ell-like sea creature],
 mysterious maker alien race [makers of the ocean planet],
 artificial planet [ocean planet was built by ancient aliens],
-man vs. institution [Riga and Tom vs. Monean government],
+human vs. institution [Riga and Tom vs. Monean government],
 unrequited love [Harry for wrong sister],
 delivering bad news [alien did not like],
 friendship [Tom and Harry],
@@ -6030,7 +6081,7 @@ ruthlessness [Janeway prepared to destroy Tom] <Janeway>,
 Monean
 
 :: Other Keywords
-red alert <10:46, 21:56>
+red alert [] <10:46, 21:56>,
 
 
 voy5x10
@@ -6049,7 +6100,8 @@ Directed by: Les Landau. Story by: Michael Taylor.
 1998-12-16
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway [object], Kashyk
@@ -6072,7 +6124,6 @@ infatuation [Janeway and Kashyk mutual],
 :: Minor Themes
 political asylum [Voyager granted to Kashyk],
 defection [Kashyk defected to Voyager],
-pride [Torat was textbook pompous scientist],
 pleasure in coffee [Janeway and Kashyk indulged in coffee while searching for the wormhole],
 suspended animation [telepaths suspended in transporter buffer],
 traversable wormhole [Voyager sought one with the help of Kashyk and Torat],
@@ -6084,7 +6135,7 @@ xenophobic isolationist beings [the Devore],
 Devore, Brenari, Torat's Species
 
 :: Other Keywords
-red alert <13:52>
+red alert [] <13:52>,
 
 
 voy5x11
@@ -6103,7 +6154,8 @@ Menosky.
 1999-01-20
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 The Doctor [object], Janeway, Seven of Nine
@@ -6113,8 +6165,8 @@ Neelix, B'Elanna, Tom Paris, Naomi Wildman, Harry Kim,, Tuvok, Chakotay, Ahni Je
 
 :: Choice Themes
 AI rights [The Doctor's right possibly violated in wiping his memory without his consent],
-Sophie's choice [The Doctor chose Harry's life over Ahni Jetal's],
-coping with guilt [The Doctor over choosing Harry's life over Ahni Jetal],
+choosing who dies and who lives [The Doctor chose Harry's life over Ahni Jetal's],
+remorse [The Doctor over choosing Harry's life over Ahni Jetal],
 informed consent in medicine [Janeway wiped The Doctor's memory without his consent],
 
 :: Major Themes
@@ -6127,7 +6179,6 @@ descent into madness [The Doctor after choosing Harry's life over Ahni Jetal],
 passion for photography [The Doctor's new pastime],
 historical determinism [The Doctor posited it was determined at the start of the universe that he would choose to save Harry],
 memory wipe [The Doctor's memory was repeatedly wiped on Janeway's orders],
-surprise [Ahni Jetal at her surprise party],
 Buridan's ass [The Doctor posed the question how to decide who to treat when two patients are equally likely to die],
 the nature of individuality [Janeway and Seven discussion],
 coping with a friend who is losing his mind [Janeway with the The Doctor],
@@ -6155,7 +6206,8 @@ Directed by: Allan Kroeker. Story by: Bryan Fuller.
 1999-01-27
 
 :: Ratings
-4 <paul>, 2 <mikael> [was this about anything???],
+4 <paul>
+2 <mikael> [was this about anything???],
 
 :: Main Characters
 Tom Paris [object, Captain Proton], Harry Kim, Janeway [Arachnia], Doctor Chaotica
@@ -6169,7 +6221,7 @@ alien point of view [the photonics didn't realize material beings were possible]
 :: Major Themes
 unrequited love [Doctor Chaotica at Arachnia],
 virtual reality room [Captain Proton simulation],
-man vs. technology [Captain Proton holodeck simulation gone haywire],
+human vs. technology [Captain Proton holodeck simulation gone haywire],
 extra-dimensional being [photonic life form],
 
 :: Minor Themes
@@ -6204,7 +6256,8 @@ Sagan.
 1999-02-03
 
 :: Ratings
-2 <paul>, 0 <mikael>,
+2 <paul>
+0 <mikael>,
 
 :: Main Characters
 Tuvok [object], Tom Paris, The Doctor, Noss, Janeway
@@ -6217,10 +6270,9 @@ unrequited love [young Tuvok at Jara and Noss at Tuvok],
 forbidden love [young Tuvok and Tarrelian and Tuvok and Noss since Tuvok was married],
 
 :: Major Themes
-facing being stranded [Tom, Tuvok, and The Doctor on desert planet],
-man vs. nature [shuttlecraft crew on desert planet],
+human vs. nature [shuttlecraft crew on desert planet],
 what if I were stranded without food and water [Tom, Tuvok, and The Doctor on desert planet],
-coping with rejection [Noss rejected by Tuvok],
+coping with romantic rejection [Noss rejected by Tuvok],
 self-control [young Tuvok learns to control his feelings of love],
 repressing one's desires [young Tuvok learns to control his feelings of love],
 teenage angst [young Tuvok],
@@ -6240,7 +6292,7 @@ Yost's species, Noss' species
 cavern, desert landscape
 
 :: Other Keywords
-red alert <24:12>
+red alert [] <24:12>,
 
 
 voy5x14
@@ -6259,7 +6311,8 @@ Directed by: Cliff Bole. Story by: Bill Prady.
 1999-02-10
 
 :: Ratings
-4 <paul>, 4 <mikael>,
+4 <paul>
+4 <mikael>,
 
 :: Main Characters
 Janeway, Seven of Nine [object], Naomi Wildman, The Doctor
@@ -6274,8 +6327,7 @@ the dangers of wishful thinking [crew quick to believe wormhole was real but it 
 
 :: Major Themes
 hope [crew of getting home using the wormhole],
-facing mysterious adversity [Seven when crew behave irrationally over the wormhole],
-man vs. beast [Qatai's stated his life mission to kill wormhole entity],
+human vs. beast [Qatai's stated his life mission to kill wormhole entity],
 dealing with children [Seven with Naomi],
 coping with being separated from someone you love [Voyager crew homesick],
 what if I told the truth and nobody would believe me [Seven's problem],
@@ -6284,7 +6336,6 @@ what if I couldn't trust the veracity of my senses [Qatai didn't trust his sense
 
 :: Minor Themes
 traversable wormhole [wormhole entity],
-anticipation [crew of of meeting their families and friends on other side of the wormhole],
 obsession [Qatai with killing the creature],
 obsession with a life-dedicated project [Qatai with killing the creature],
 fear of an unknown future [Seven was accused of worrying about returning to Earth],
@@ -6293,7 +6344,8 @@ fear of an unknown future [Seven was accused of worrying about returning to Eart
 Qatai's species, Wormhole entity
 
 :: Other Keywords
-yellow alert <3:12>, security alert <19:11>
+yellow alert [] <3:12>,
+security alert [] <19:11>,
 
 
 voy5x15
@@ -6318,7 +6370,8 @@ Terry Windell. Story by: Brannon Braga and Joe Menosky.
 1999-02-17
 
 :: Ratings
-1 <paul>, 0 <mikael>
+1 <paul>
+0 <mikael>
 
 :: Main Characters
 Seven of Nine [object], Janeway, Borg Queen
@@ -6346,10 +6399,8 @@ loyalty to a subordinate [Janeway goes through hell and high water for Voyager],
 :: Minor Themes
 attack from outer space by a powerful conquering alien race [Borg assimilated Species 10026 and plotted to assimilate all humanity],
 the thirst for knowledge [Seven's parents in the Borg],
-interest [Seven's parents in the Borg],
-distraction [Seven distracted from her duties by memories of her parents],
 the scientific method [Seven's parents pointedly conducted very scientific experiments],
-child rearing [Seven's childhood],
+human parenting [Seven's childhood],
 military tactics [Voyager carefully planned and executed an operation of some sort],
 husband and wife [Seven's parents],
 mother and daughter [Seven and Erin],
@@ -6359,7 +6410,7 @@ father and daughter [Seven and Magnus],
 Borg
 
 :: Other Keywords
-intruder alert <28:28>
+intruder alert [] <28:28>,
 
 
 voy5x16
@@ -6387,7 +6438,7 @@ Terry Windell. Story by: Brannon Braga and Joe Menosky.
 Borg, Species 10026
 
 :: Other Keywords
-red alert <1:33:10>
+red alert [] <1:33:10>,
 
 
 voy5x17
@@ -6406,7 +6457,8 @@ Directed by: David Livingston. Story by: Kenneth Biller.
 1999-02-24
 
 :: Ratings
-2 <paul>, 4 <mikael>,
+2 <paul>
+4 <mikael>,
 
 :: Main Characters
 Harry Kim [object], Derran Tal, Janeway
@@ -6428,13 +6480,11 @@ mutual trust [Voyager crew and Varro crew],
 multi-generational spaceship [Varro traveled in such a starship],
 xenophobic isolationist beings [Varro],
 isolationism [Varro],
-lust [Harry and Derran for one another],
 love at first sight [Harry and Derran],
 order vs. freedom [Varro dissidents wanted freedom],
 
 :: Minor Themes
 the nature of love [Seven compared love to a disease in a conversation with Harry],
-ecstasy [Harry in bed with Derran],
 political asylum [Varro stowaway was considered for political asylum],
 silicon-based being [silicon parasites caused micro fractures on Voyager and Varro starship],
 metal eating microscopic organism [silicon parasites],
@@ -6448,7 +6498,7 @@ resistance movement [Varro underground movement on generational starship],
 Varro
 
 :: Other Keywords
-bio alert {alert}<15:55>
+bio alert [] {alert} <15:55>,
 
 
 voy5x18
@@ -6467,7 +6517,8 @@ Directed by: Anson Williams. Story by: Bryan Fuller.
 1999-03-03
 
 :: Ratings
-5 <paul>, 5 <mikael>,
+5 <paul>
+5 <mikael>,
 
 :: Main Characters
 Janeway, Tom Paris, B'Elanna
@@ -6477,7 +6528,7 @@ Harry Kim, Neelix, The Doctor, Seven of Nine, Chakotay, Tuvok
 
 :: Choice Themes
 personal identity [which crew is the real Voyager crew?],
-the need to be remembered [Voyager crew prepared a time capsule to ensure they would be remembered],
+the desire to be remembered [Voyager crew prepared a time capsule to ensure they would be remembered],
 what if I discovered that I was a facsimile of someone else [Voyager crew discovered they were actually a biomimetic facsimile of the real Voyager crew],
 
 :: Major Themes
@@ -6491,13 +6542,12 @@ monogamy vs. single life [Seven and B'Elanna discussed the merits and demerits o
 coping with the death of a lover [Tom with B'Elanna],
 husband and wife [Tom and B'Elanna],
 matrimonial love [Tom and B'Elanna],
-facing mysterious adversity [Voyager crew at a loss to explain why everyone is decomposing],
 hope [Voyager crew excited at prospect of being only two years away from Earth],
 marriage ceremony [Tom and B'Elanna were married aboard Voyager],
 killing to survive [Janeway decided not to kill aliens to survive at that Y-class planet],
 
 :: Other Keywords
-red alert <29:02>
+red alert [] <29:02>,
 
 
 voy5x19
@@ -6516,7 +6566,8 @@ Directed by: Winrich Kolbe. Story by: Michael Taylor.
 1999-03-24
 
 :: Ratings
-3 <paul>, 3 <mikael>,
+3 <paul>
+3 <mikael>,
 
 :: Main Characters
 Chakotay [object, The Maquis Mauler], Janeway, The Doctor
@@ -6573,7 +6624,8 @@ Directed by: Terrence O'Hara. Story by: Rick Berman and Brannon Braga.
 1999-03-31
 
 :: Ratings
-4 <paul>, 2 <mikael>,
+4 <paul>
+2 <mikael>,
 
 :: Main Characters
 Janeway, Seven of Nine, Kurros
@@ -6582,24 +6634,23 @@ Janeway, Seven of Nine, Kurros
 Harry Kim, Tom Paris, Tuvok, Chakotay, Neelix, The Doctor, B'Elanna, Y'Sek, Saowin
 
 :: Choice Themes
-the life of a friend vs. the lives of many [Janeway could save Voyager by sending Seven to join the Think Tank aliens],
+the life of a loved one vs. the lives of many [Janeway could save Voyager by sending Seven to join the Think Tank aliens],
 pleasure in solving a puzzle [Kurros prided himself on his ability to solve problems; Voyager crew in puzzle game; Janeway in strategizing Hazari bounty hunters],
 
 :: Major Themes
 facing a genius adversary [Voyager crew and Hazari join forces to defeat Think Tank],
-deal with the devil [Aliens in teaser were done dirty by the Think Tank, suggested proposed in Seven bargain],
+Faustian bargain [Aliens in teaser were done dirty by the Think Tank, suggested proposed in Seven bargain],
 the need for a challenge in life [it was suggested Seven would get more of a challenge with the Think Tank],
 career choice [Seven had opportunity to leave Voyager to explore Delta Quadrant with the Think Tank],
 
 :: Minor Themes
 ruthlessness [Think Tank aliens were particularly merciless in their dealings with aliens in need],
-brainstorming [Think Tank exemplified in their approach to problem solving; Voyager crew likewise in the observation lounge],
 
 :: Aliens
 Saowin's species, Think Tanks aliens, Hazari
 
 :: Other Keywords
-intruder alert <12:32>
+intruder alert [] <12:32>,
 
 
 voy5x21
@@ -6618,7 +6669,8 @@ Directed by: Allan Kroeker. Story by: Bryan Fuller.
 1999-04-26
 
 :: Ratings
-3 <paul>, 0 <mikael> [garbage from start to end],
+3 <paul>
+0 <mikael> [garbage from start to end],
 
 :: Main Characters
 Janeway, Chakotay, B'Elanna, Fesek
@@ -6634,15 +6686,14 @@ eco-terrorism [the Malon bogeyman Dremk was in fact sabotaging the Malon freight
 environmentalism [polluting space is metaphor for destroying Earth],
 
 :: Major Themes
-man vs. technology [Voyager crew in preventing Malon freighter from spilling toxic waste],
+human vs. technology [Voyager crew in preventing Malon freighter from spilling toxic waste],
 selfless service [B'Elanna especially in efforts to prevent toxic waste skill],
 
 :: Minor Themes
 anger [B'Elanna],
-rage [B'Elanna],
-prickliness [B'Elanna],
+anger [B'Elanna],
 helping a stranger in need [Voyager stops to help Malon freighter],
-terror [Malon crewman upon seeing the creature],
+fear [Malon crewman upon seeing the creature],
 trust in a friend [Janeway refrained from beaming Tuvok over to the Malon freighter as an act of trust in B'Elanna being able to complete the mission],
 the desire for vengeance [Vihaar sabotaged Malon freighter to get revenge over mistreatment],
 what if I had to go on a suicide mission [Malon worker sent on suicide mission in teaser],
@@ -6672,7 +6723,8 @@ Directed by: Robert Duncan McNeill. Story by: Brannon Braga.
 1999-04-28
 
 :: Ratings
-3 <paul>, 2 <mikael>,
+3 <paul>
+2 <mikael>,
 
 :: Main Characters
 The Doctor, Janeway, Seven of Nine [object]
@@ -6695,8 +6747,6 @@ the need for companionship [Seven needed a boyfriend],
 :: Minor Themes
 the art of smalltalk [The Doctor instructed Seven on the finer points of small talk in a barroom holodeck simulation],
 gluttony [Tomin sampling Neelix's cooking],
-lust [Tomin drunk with the alien floozies in the holodeck bar],
-wrath [Tomin flipped out after being spurned by Seven],
 coping with a bad hangover [Tomin],
 passion for music [The Doctor enjoying Seven's singing lessons a little too much],
 coping with a drunken fool [Voyager partygoer with Tomin],
@@ -6726,7 +6776,8 @@ Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
 1999-05-05
 
 :: Ratings
-4 <paul>, 2 <mikael>,
+4 <paul>
+2 <mikael>,
 
 :: Main Characters
 Janeway [object], Shannon O'Donnel [object], Henry Janeway
@@ -6743,12 +6794,11 @@ romantic love [Shannon and Henry],
 :: Major Themes
 arcology [Millennium Gate self-contained biosphere],
 gentrification [conflict between the old man and the arcology developers],
-neo-luddism [Henry Janeway shunned computers and urban development alike],
+anti-technology way of life [Henry Janeway shunned computers and urban development alike],
 the need for cultural heritage [Henry Janeway opposed construction of arcology on ground that the city would lose its heritage],
 coping with being unemployed [Sharon O'Donnel],
-wanderlust [O'Donnel and Janeway's urge to move and explore],
+the need to travel [O'Donnel and Janeway's urge to move and explore],
 historiography [Janeway learned how easily the history books can be wrong],
-stubbornness [Henry wouldn't give up his bookshop],
 selling out for money [Henry about choosing between accepting the developers offer and keeping his bookshop],
 life in the late 20th century [O'Donnel and Henry lived at the turn of the millennium],
 
@@ -6780,7 +6830,8 @@ Directed by: Allan Eastman. Story by: Nick Sagan.
 1999-05-12
 
 :: Ratings
-1 <paul>, 0 <mikael>,
+1 <paul>
+0 <mikael>,
 
 :: Main Characters
 Seven of Nine [object, Anna Jameson], Janeway, Braxton
@@ -6798,15 +6849,14 @@ time traveler's dilemma [some garbed form of this dilemma was put forward in thi
 
 :: Minor Themes
 what if I met my double [psychotic Braxton meets normal Braxton; Seven and Seven],
-captain and crew's attachment to their ship [Janeway was very excited about checking out her new vessel],
+crew's attachment to their ship [Janeway was very excited about checking out her new vessel],
 hypochondria [Seven thought she had some rare disease],
-pride [Tom goaded Seven into ping pong],
 pre-crime responsibility [second in command on 29th century vessel arrested Braxton because of crime that future 29th century Braxton was destined to commit],
 the desire for vengeance [psychotic Braxton to some extent],
 resentment [psychotic Braxton],
 
 :: Other Keywords
-intruder alert <39:08>
+intruder alert [] <39:08>,
 
 
 voy5x25
@@ -6826,7 +6876,8 @@ Directed by: John Kretchmer. Story by: Brannon Braga.
 1999-05-19
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway, The Doctor, Harry Kim
@@ -6844,7 +6895,7 @@ autonomous weapons system killing everyone [alien missile system could not be di
 autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems],
 sentient bomb [sentient alien missile],
 out of control AI [sentient alien missile],
-man vs. technology [Voyager crew vs. sentient missile],
+human vs. technology [Voyager crew vs. sentient missile],
 facing a ship takeover [Voyager taken over by sentient alien missile],
 sacrifice to prevent mass death [sentient alien missile blew it self up along with other 32 other sentient missiles to prevent them from hitting their targets],
 
@@ -6882,7 +6933,8 @@ Menosky.
 1999-05-26
 
 :: Ratings
-3 <paul>, 3 <mikael>,
+3 <paul>
+3 <mikael>,
 
 :: Main Characters
 Janeway, Chakotay, Seven of Nine, Rudolph Ransom, Max Burke
@@ -6925,7 +6977,7 @@ Ankari, neurogenic life form
 cavern
 
 :: Other Keywords
-red alert <3:38>
+red alert [] <3:38>,
 
 
 voy6x01
@@ -6945,7 +6997,8 @@ Menosky.
 1999-09-22
 
 :: Ratings
-3 <paul>, 2 <mikael>,
+3 <paul>
+2 <mikael>,
 
 :: Main Characters
 Janeway, Chakotay, Seven of Nine, The Doctor, Rudolph Ransom, Max Burke
@@ -7006,7 +7059,8 @@ Directed by: Terry Windell. Story by: Ronald D. Moore.
 1999-09-29
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Seven of Nine [object], Janeway,
@@ -7053,7 +7107,8 @@ Directed by: Mike Vejar. Story by: Ronald D. Moore and Bryan Fuller.
 1999-10-06
 
 :: Ratings
-1 <paul>, 0 <mikael>,
+1 <paul>
+0 <mikael>,
 
 :: Main Characters
 B'Elanna [object], Janeway, Tom Paris, The Doctor
@@ -7105,7 +7160,8 @@ Directed by: John Bruno. Story by: Bill Vallely.
 1999-10-13
 
 :: Ratings
-4 <paul>, 4 <mikael>,
+4 <paul>
+4 <mikael>,
 
 :: Main Characters
 The Doctor [object], Janeway, Phlox
@@ -7126,10 +7182,8 @@ fantasy romance [The Doctor had romantic interactions with Seven, B'Elanna, and 
 :: Minor Themes
 descent into madness [The Doctor's daydreams got out of control and he lost his mind in the sickbay],
 passion for music [The Doctor for his singing in the teaser],
-distraction [The Doctor by his fantasies],
 jealousy [Janeway, B'Elanna, and Seven over The Doctor],
 embarrassment [The Doctor once he realized the crew became privy to his secret fantasies],
-admiration [Phlox admired The Doctor for his imaginativeness],
 the right to privacy of thoughts [The Doctor felt bad about people seeing his seedy fantasies],
 military bluffing [the avowed photonic canon saved the day],
 
@@ -7137,7 +7191,7 @@ military bluffing [the avowed photonic canon saved the day],
 Overlooker, Borg
 
 :: Other Keywords
-red alert <16:50>
+red alert [] <16:50>,
 
 :: Associations
 tng3x21 [both the Doctor and Barclay had naughty fantasies about their colleagues],
@@ -7159,7 +7213,8 @@ Directed by: David Livingston. Story by: Juliann deLayne.
 1999-10-20
 
 :: Ratings
-3 <mikael>, 3 <paul>,
+3 <mikael>
+3 <paul>,
 
 :: Main Characters
 Tom Paris [object], Alice, B'Elanna, Janeway
@@ -7182,8 +7237,6 @@ mind-controlled vehicle [the Alice ship had an interface that allowed its pilot 
 
 :: Minor Themes
 jealousy [Alice at B'Elanna over Tom],
-avarice [Abaddon would sell anything to make a quick buck],
-age sensitivity [the crew teased Tuvok about his age expecting him to be sensitive about being over 100 years old],
 boyfriend and girlfriend [Tom and B'Elanna],
 romantic love [Tom and B'Elanna],
 
@@ -7210,7 +7263,8 @@ Directed by: Roxann Dawson. Story by: André Bormanis.
 1999-11-03
 
 :: Ratings
-3 <paul>, 2 <mikael>,
+3 <paul>
+2 <mikael>,
 
 :: Main Characters
 Neelix [object], Tuvok [object], Janeway, Naroq,
@@ -7226,14 +7280,12 @@ what if I suffered total amnesia and had to relearn everything [Tuvok],
 coping with amnesia [Tuvok],
 
 :: Major Themes
-convalescence [Tuvok upon waking from coma],
 xenophobic isolationist beings [Ba'neth],
 ultra-rational being [Vulcans],
 coping with degrading mental faculties [Tuvok frustrated by being less smart after waking up from coma],
 
 :: Minor Themes
 self-control [Tuvok cowered net to chair during Ba'neth attack and had a temper tantrum in sickbay],
-annoyance [Tuvok at Neelix telling riddles in the shuttlecraft],
 fear [Tuvok cowered net to chair during Ba'neth attack],
 anger [Tuvok had a temper tantrum in sickbay],
 the thirst for knowledge [Naroq was curious to prove the existence of a mythical race of shadow people; The Doctor at Neelix playing Vulcan monastic chants in sickbay],
@@ -7261,7 +7313,8 @@ Directed by: Winrich Kolbe. Story by: Michael Taylor.
 1999-11-10
 
 :: Ratings
-1 <mikael>, 2 <paul>
+1 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway, Gedrin, Neelix
@@ -7281,7 +7334,6 @@ suspended animation [Gedrin was in suspended animation for 900 years],
 
 :: Minor Themes
 what if I woke up in the future [Gedrin woke up 900 years in the future],
-deviousness [Gedrin hatched a plot to betray Janeway and take control of Voyager],
 ruthlessness [Gedrin],
 courage in the face of death [Gedrin talked with B'Elanna of his admiration for the Klingon warrior spirit],
 duty vs. conscience [Gedrin helped Janeway after all],
@@ -7310,7 +7362,8 @@ Directed by: Robert Picardo. Story by: Mike Wollaeger and Jessica Scott.
 1999-11-17
 
 :: Ratings
-2 <mikael>, 3 <paul>
+2 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway, Chakotay, Seven of Nine, Tom Paris, Neelix, John Kelly
@@ -7331,10 +7384,9 @@ man vs. space anomaly [Delta Flyer crew trapped inside graviton ellipse],
 passion for collecting data [John Kelly collected as much data on the graviton ellipse as he could],
 celebrity worship [Seven was puzzled by the human instinct to celebritize our heroes],
 risk taking vs. playing it safe [Seven tried to convince Janeway that exploring the graviton ellipse was too risky, but Janeway was willing to take the risk; Chakotay took risk to recover module in the face of Seven's reservations],
-passion for baseball [John Kelly loved baseball],
 
 :: Other Keywords
-yellow alert <6:08>
+yellow alert [] <6:08>,
 
 
 voy6x09
@@ -7354,7 +7406,8 @@ Directed by: Terry Windell. Story by: Joe Menosky.
 1999-11-24
 
 :: Ratings
-2 <mikael>, 4 <paul>,
+2 <mikael>
+4 <paul>,
 
 :: Main Characters
 Seven of Eight [object], Janeway, Chakotay
@@ -7368,7 +7421,7 @@ the dangers of circumstantial evidence [Seven went wild with hatching conspiracy
 
 :: Major Themes
 plug-in learning [Seven downloaded ship data directly into her brain],
-quality vs. quantity [Seven learned that quality of information was more important then quantity in the end],
+quality is more important than quantity [Seven learned that quality of information was more important then quantity in the end],
 friendship [Janeway brings Seven back to her good senses with impassioned soliloquy on their friendship],
 mutual trust [Seven and Janeway in shuttle, Janeway and Chakotay],
 trust in a friend [Janeway and Chakotay in each other],
@@ -7397,7 +7450,8 @@ Directed by: Mike Vejar. Story by: David Zabel.
 1999-12-01
 
 :: Ratings
-2 <mikael>, 2 <paul>,
+2 <mikael>
+2 <paul>,
 
 :: Main Characters
 Reginald Barclay [object], Deanna Troi, Peter Harkins
@@ -7424,13 +7478,12 @@ escape from reality [Barclay on holodecks],
 virtual reality room [holodeck featured],
 master and pet [Barclay and his cat Neelix],
 burning the candle at both ends [The Doctor gave Barclay a therapeutic massage after he pulled an all-nighter in the lab],
-ingenuity [Barclay full of out-of-the-box technobabble solutions for solving the problem of getting the Voyager crew home],
 
 :: Setting
 apartment, office
 
 :: Other Keywords
-intruder alert <33:22>
+intruder alert [] <33:22>,
 
 
 voy6x11
@@ -7449,7 +7502,8 @@ Directed by: Allan Kroeker. Story by: Robin Burger.
 2000-01-12
 
 :: Ratings
-4 <mikael>, 4 <paul>
+4 <mikael>
+4 <paul>
 
 :: Main Characters
 Tom Paris, Janeway, Michael Sullivan,
@@ -7460,7 +7514,7 @@ Harry Kim, The Doctor, Seven of Nine, Chakotay, B'Elanna, Neelix, Tuvok, Seamus,
 :: Choice Themes
 virtual reality room [Tom's 19th century Ireland holodeck world],
 what if I could edit my lover [Janeway customized Michael Sullivan to her liking and struggled with the consequences],
-human and AI love [Janeway and Michael Sullivan],
+human AI relationship [Janeway and Michael Sullivan],
 
 :: Major Themes
 virtual lover [Michael Sullivan was Janeway's virtual lover],
@@ -7473,14 +7527,13 @@ the need for rest and recreation [Fair Haven holodeck simulation],
 :: Minor Themes
 letting go of a lover [Janeway broke up with Michael Sullivan],
 one night stand [Sullivan down in the dumps after Janeway left him after they spent a perfect day together at the lake],
-temperance [The Doctor refused a drink at the tavern in the name of temperance],
 man vs. space anomaly [Voyager traversed a neutronic wavefront],
 
 :: Setting
 town street, tavern, train station
 
 :: Other Keywords
-yellow alert <7:52>
+yellow alert [] <7:52>,
 
 
 voy6x12
@@ -7500,7 +7553,8 @@ Directed by: Gabrielle Beaumont. Story by: Michael Taylor.
 2000-01-19
 
 :: Ratings
-3 <paul>, 2 <mikael>,
+3 <paul>
+2 <mikael>,
 
 :: Main Characters
 Janeway, Chakotay, The Doctor, Gotana-Retz
@@ -7531,7 +7585,7 @@ Kelemane's species
 village,
 
 :: Other Keywords
-intruder alert <31:47>
+intruder alert [] <31:47>,
 
 :: Associations
 tos3x13 [there were aliens that moved significantly faster in time than the ship], tng5x25 [someone (Doctor/Picard) lived out a good portion of their life in an alien culture and then returned],
@@ -7554,7 +7608,8 @@ Directed by: Les Landau. Story by: Raf Green.
 2000-01-26
 
 :: Ratings
-5 <paul>, 4 <mikael>,
+5 <paul>
+4 <mikael>,
 
 :: Main Characters
 The Doctor [object], Janeway, Tincoo, Abarca
@@ -7609,7 +7664,8 @@ Directed by: Allan Kroeker. Story by: Brannon Braga.
 2000-02-02
 
 :: Ratings
-2 <paul>, 3 <mikael>,
+2 <paul>
+3 <mikael>,
 
 :: Main Characters
 Janeway, Chakotay, Tom Paris, Harry Kim, Neelix
@@ -7631,7 +7687,6 @@ shame [away team about massacre],
 memory implantation technology [the obelisk that induced vivid memory-like visions],
 
 :: Minor Themes
-annoyance [Harry at his wits end by the time away mission was over],
 boyfriend and girlfriend [B'Elanna helps Tom cope with his post-traumatic stress],
 mysterious maker alien race [Nakan memorial makers],
 the battle of the sexes [Tom watching TV while B'Elanna chats],
@@ -7645,7 +7700,7 @@ Nakan
 woodland, cavern
 
 :: Other Keywords
-red alert <29:43>
+red alert [] <29:43>,
 
 
 voy6x15
@@ -7665,7 +7720,8 @@ Directed by: Mike Vejar. Story by: Gannon Kenney.
 2000-02-09
 
 :: Ratings
-2 <mikael>, 2 <paul>,
+2 <mikael>
+2 <paul>,
 
 :: Main Characters
 Seven of Nine [object], Hirogen Fighter, Chakotay, Penk
@@ -7676,7 +7732,6 @@ Janeway, B'Elanna, Neelix, Tuvok, Tom Paris, The Doctor, Harry Kim, Pendari Cham
 :: Choice Themes
 combat sports in society [was the gladiatorial combat barbaric or healthy competition?],
 passion for martial arts [Chakotay plus billions of spectators],
-facing a fight to the death [Seven of Nine],
 what if I had to fight to the death [Seven of Nine],
 killing to survive [Seven struggled with the prospect that she would have to kill her opponent],
 
@@ -7692,7 +7747,6 @@ the need for rest and recreation [crew take shore leave on Norcadia Prime],
 coping with a bad sunburn [Neelix],
 remorse [Seven confided in Tuvok that she felt guilty for what she had become in the arena],
 mentor and protégé [Hirogen took on Seven and trained her in the ways of hand-to-hand combat],
-avarice [Penk],
 the desire for glory in battle [Hirogen wanted to die valorously],
 shame [Seven said she was],
 
@@ -7722,7 +7776,8 @@ Directed by: Allison Liddi. Story by: Andrew Shepard Price and Mark Gaberman.
 2000-02-16
 
 :: Ratings
-1 <paul>, 0 <mikael>,
+1 <paul>
+0 <mikael>,
 
 :: Main Characters
 Janeway, Seven of Nine, First
@@ -7745,7 +7800,7 @@ biological warfare [anti-Borg pathogen],
 cyborg [Borg children; especially Borg newborn],
 man vs. captivity [Chakotay, Tom, Neelix and Harry held captive on Borg cube],
 bluffing [Neelix in poker],
-coping with rejection [Borg children rejected by Borg collective who deemed them to be irrelevant],
+coping with romantic rejection [Borg children rejected by Borg collective who deemed them to be irrelevant],
 peer pressure [Borg child leader pressured children to follow his wishes],
 ruthlessness [Janeway reiterated that she would use the pathogen],
 
@@ -7753,7 +7808,7 @@ ruthlessness [Janeway reiterated that she would use the pathogen],
 Borg, Brunali, Norcadian
 
 :: Other Keywords
-red alert <6:37>
+red alert [] <6:37>,
 
 
 voy6x17
@@ -7773,7 +7828,8 @@ Directed by: David Livingston. Story by: Bryan Fuller.
 2000-02-23
 
 :: Ratings
-2 <paul>, 2 <mikael>,
+2 <paul>
+2 <mikael>,
 
 :: Main Characters
 Tom Paris, Janeway, Michael Sullivan
@@ -7790,7 +7846,7 @@ virtual person [Fair Haven holodeck characters come to question their reality],
 virtual lover [Michael Sullivan was Janeway's virtual lover],
 human and AI romance [Janeway and Michael Sullivan; Harry and Maggie O'Halloran],
 life in 19th century Ireland [Tom programmed an elaborate 19th century Ireland simulation on the holodeck],
-man vs. machine [Voyager crew vs. Fair Haven holodeck simulation],
+human vs. machine [Voyager crew vs. Fair Haven holodeck simulation],
 infatuation [Janeway and Michael Sullivan, and Harry and Maggie O'Halloran],
 the universe is a simulation theory [from Fair Haven point of view it indeed was],
 
@@ -7823,7 +7879,8 @@ Directed by: Terry Windell. Story by: Ronald Wilkerson.
 2000-03-01
 
 :: Ratings
-1 <paul>, 1 <mikael>,
+1 <paul>
+1 <mikael>,
 
 :: Main Characters
 Lyndsay Ballard [object], Janeway, Harry Kim
@@ -7858,7 +7915,7 @@ revival long after death [Lyndsay was revived from the dead by aliens],
 Kobali,
 
 :: Other Keywords
-red alert <31:40>
+red alert [] <31:40>,
 
 
 voy6x19
@@ -7878,7 +7935,8 @@ Directed by: Mike Vejar. Story by: Paul Brown.
 2000-03-08
 
 :: Ratings
-1 <paul>, 1 <mikael>,
+1 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway, Seven of Nine, Icheb [object]
@@ -7903,7 +7961,6 @@ biological warfare [Seven condemned and Icheb defended],
 the thirst for knowledge [Icheb was fascinated by astrophysics and was curious to explore the galaxy],
 
 :: Minor Themes
-apprehension [Icheb had butterflies over the prospect of meeting his estranged parents],
 remorse [Leucon appeared to blame himself for Icheb being assimilated by the Borg],
 kids' science project [Borg children held science fair],
 coping with saying goodbye forever [Seven at Icheb],
@@ -7916,7 +7973,7 @@ Brunali, Borg
 shanty town,
 
 :: Other Keywords
-red alert <37:38>,
+red alert [] <37:38>,
 
 
 voy6x20
@@ -7934,7 +7991,8 @@ Directed by: Winrich Kolbe. Story by: Dianna Gitto.
 2000-03-15
 
 :: Ratings
-2 <paul>, 4 <mikael>,
+2 <paul>
+4 <mikael>,
 
 :: Main Characters
 Janeway, Mortimer Harren, William Telfer, Tal Celes
@@ -7972,7 +8030,8 @@ heroism [Mortimer tried to be a hero by flying into the dark matter aliens],
 taking control of one's fears [Talfer with taking control of his raging hypochondria],
 
 :: Other Keywords
-red alert <21:49>, red alert in Telfer's brain {alert}
+red alert [] <21:49>,
+red alert in Telfer's brain [] {alert},
 
 
 voy6x21
@@ -7990,7 +8049,8 @@ Directed by: LeVar Burton. Story by: Robin Burger.
 2000-04-19
 
 :: Ratings
-1 <paul> [almost gave it a 2 because of that delightful scene with The Doctor and the nut], 0 <mikael> [knocked it up a notch because of that delightful scene with The Doctor and the nut],
+1 <paul> [almost gave it a 2 because of that delightful scene with The Doctor and the nut]
+0 <mikael> [knocked it up a notch because of that delightful scene with The Doctor and the nut],
 
 :: Main Characters
 Janeway, Orek, Dala
@@ -8009,7 +8069,6 @@ what if I was accused of a crime that I didn't commit [Voyager and Janeway by va
 :: Minor Themes
 trust in a potential foe [Orek worked together with VOyager crew to catch swindlers even though he was mistrustful of them],
 compassion [Neelix went out of his way to offer help and encouragement to Dela],
-admiration [fake Tuvok of real Tuvok],
 coping with a practical joker [Tuvok with Harry and Tom reprogramming his holodeck program],
 
 :: Aliens
@@ -8036,7 +8095,8 @@ Directed by: Mike Vejar. Story by: Joe Menosky.
 2000-04-26
 
 :: Ratings
-3 <paul>, 1 <mikael>,
+3 <paul>
+1 <mikael>,
 
 :: Main Characters
 B'Elanna [object], Kelis, Janeway, Harry Kim
@@ -8051,7 +8111,6 @@ acting [the production of Kelis' play],
 
 :: Major Themes
 coping with a loved one being in peril [Tom at his wits end with B'Elanna missing],
-facing being stranded [B'Elanna crash landed and stranded on space Greek planet],
 space Greeks [Kelis' people pattered on the Ancient Greeks],
 social activism [Kelis writes anti-war play in effort to stop an imminent war with a neighboring state],
 hate begets hate [the patron may have learned this life lesson from Kelis's play],
@@ -8090,7 +8149,8 @@ Directed by: John Bruno. Story by: Rick Berman and Brannon Braga.
 2000-05-03
 
 :: Ratings
-1 <paul>, 0 <mikael>,
+1 <paul>
+0 <mikael>,
 
 :: Main Characters
 Kes [object], Janeway, Tuvok,
@@ -8106,10 +8166,8 @@ the need to belong [Kes didn't fit in on Voyager or her on her homwworld among t
 :: Major Themes
 belonging [old Kes' problem was she now belonged nowhere],
 time travel [Kes caused energy surge in warp core and traveled back in time to Voyager's past],
-wrath [Kes],
 what if I had magical powers [Kes wielded formidable psionic powers],
 friendship [Kes with Janeway and other members of the crew],
-facing mysterious adversity [strange things going on the past Voyager],
 coping with opposing a friend [Janeway with Kes],
 
 :: Minor Themes
@@ -8123,7 +8181,9 @@ seeing the error of one's ways [Kes changed her plan to take vengeance on Voyage
 Viidian
 
 :: Other Keywords
-intruder alert <5:21>, tactical alert <12:20>, red alert <37:42>
+intruder alert [] <5:21>,
+tactical alert [] <12:20>,
+red alert [] <37:42>,
 
 
 voy6x24
@@ -8144,7 +8204,8 @@ Directed by: Terry Windell. Story by: John Bruno and Robert Picardo.
 2000-05-10
 
 :: Ratings
-3 <paul>, 3 <mikael> [glaring inconsistencies aside],
+3 <paul>
+3 <mikael> [glaring inconsistencies aside],
 
 :: Main Characters
 Barclay, Lewis Zimmerman, The Doctor [object], Janeway,
@@ -8163,14 +8224,12 @@ coping with an arrogant jerk [The Doctor with Zimmerman and vice versa],
 clash of wills [The Doctor and Lewis Zimmerman],
 male bonding [The Doctor and Lewis Zimmerman],
 sacrifice for a loved one [The Doctor traveled to Earth to treat Zimmerman at great risk to himself],
-pride [The Doctor and Zimmerman],
 virtual reality room [Zimmerman lived in holographic room],
 facing one's own death [Zimmerman wrote his will in preparation for death],
 coming to peace with one's self [Zimmerman with his death],
 
 :: Minor Themes
 AI rights [EMH1s scrubbing plasma conduits; Zimmerman requested to keep Hayley activated after his death],
-prickliness [Lewis Zimmerman],
 loneliness [Zimmerman in his holographic room],
 
 :: Plot Devices
@@ -8193,7 +8252,8 @@ Directed by: David Livingston. Story by: Mike Sussman.
 2000-05-17
 
 :: Ratings
-1 <paul>, 0 <mikael>,
+1 <paul>
+0 <mikael>,
 
 :: Main Characters
 Neelix [object], Janeway, Icheb, Mezoti, Azan, Rebi
@@ -8206,7 +8266,6 @@ fear [Neelix telling a space ghost story to the Borg children],
 the nature of fear [Neelix and the Borg children discussed the good and bad aspects of fear],
 
 :: Major Themes
-facing mysterious adversity [crew perplexed by mysterious ship-wide malfunctions in Neelix's story],
 facing a ship takeover [electromagnetic entity was taking over Voyager in Neelix's story],
 incorporeal being [electromagnetic space ghost],
 to tell the truth vs. offering a comforting lie [we were left to ponder whether Neelix had told the truth in the end after all],
@@ -8214,7 +8273,6 @@ ghosts [Neelix's space ghost story],
 pleasure in storytelling [Neelix telling ghost stories to Borg children],
 
 :: Minor Themes
-apprehension [crew during the power outage],
 problem of language and meaning [entity communicated with Janeway by using standard ship computer voice utterances],
 the ghost was really an alien [Neelix portrayed the electromagnetic entity as a ghost to the Borg children in his story],
 duty vs. compassion [Neelix stayed to help Tuvok in spite of Tuvok discarding this as irrational and ordering him to go],
@@ -8236,7 +8294,8 @@ Directed by: Allan Kroeker. Story by: Mike Sussman.
 2000-05-24
 
 :: Ratings
--1 <mikael>, 1 <paul>
+-1 <mikael>
+1 <paul>
 
 :: Main Characters
 Seven of Nine [object], Janeway, Borg Queen, Axum
@@ -8269,7 +8328,7 @@ Borg, Klingon
 woodland,
 
 :: Other Keywords
-yellow alert <8:43>
+yellow alert [] <8:43>,
 
 
 voy7x01
@@ -8289,7 +8348,8 @@ Menosky.
 2000-10-04
 
 :: Ratings
-1 <paul>, -1 <mikael>,
+1 <paul>
+-1 <mikael>,
 
 :: Main Characters
 Seven of Nine, Chakotay, Janeway, B'Elanna, Tuvok, Borg Queen, Axum
@@ -8338,7 +8398,8 @@ Directed by: David Livingston. Story by: André Bormanis.
 2000-10-11
 
 :: Ratings
-1 <paul>, 3 <mikael>,
+1 <paul>
+3 <mikael>,
 
 :: Main Characters
 Seven of Nine [object], Janeway, The Doctor, Icheb
@@ -8363,8 +8424,7 @@ accepting reliance on others [Seven learned to accept help from others in her ti
 
 :: Minor Themes
 pity [Neelix comforted Seven in her time of need],
-the need to be remembered [B'Elanna reassured Seven that she would be remembered after she died],
-acceptance [Seven accepted she was going to die],
+the desire to be remembered [B'Elanna reassured Seven that she would be remembered after she died],
 living up to expectations [Seven confided to Janeway that she felt she failed to live up to the captain's expectations],
 coping with saying goodbye forever [Seven vis-a-vis Borg children],
 doctor-patient confidentiality [Seven invokes with the Doctor],
@@ -8394,7 +8454,8 @@ Directed by: Winrich Kolbe. Story by: Michael Taylor.
 2000-10-18
 
 :: Ratings
-1 <mikael>, 1 <paul>
+1 <mikael>
+1 <paul>
 
 :: Main Characters
 Tom Paris [object], Harry Kim, B'Elanna, Irina
@@ -8442,7 +8503,8 @@ Directed by: Winrich Kolbe. Story by: Kenneth Biller.
 2000-10-25
 
 :: Ratings
-1 <mikael>, 2 <paul>,
+1 <mikael>
+2 <paul>,
 
 :: Main Characters
 Janeway, Tuvok [object], Teero Anaydis
@@ -8456,7 +8518,6 @@ mind control technology [Teero issued latent hypnotic commands to Tuvok and the 
 
 :: Major Themes
 facing a ship takeover [Voyager taken over by Maquis faction of the crew],
-facing mysterious adversity [a mysterious Maquis killer lurking aboard Voyager],
 extremism [Teero was a Maquis fanatic],
 
 :: Minor Themes
@@ -8478,7 +8539,7 @@ Bajoran
 cavern
 
 :: Other Keywords
-yellow alert <6:45>
+yellow alert [] <6:45>,
 
 :: Associations
 tng4x24 [Geordi was also mentally conditioned],
@@ -8500,7 +8561,8 @@ Directed by: Terry Windell. Story by: Kenneth Biller and Robert J. Doherty.
 2000-11-01
 
 :: Ratings
-2 <mikael> [it had potential but the conceits and hypocrisies were just too many to bear], 4 <paul>,
+2 <mikael> [it had potential but the conceits and hypocrisies were just too many to bear]
+4 <paul>,
 
 :: Main Characters
 The Doctor [object], Janeway, Voje, Chellick
@@ -8528,7 +8590,7 @@ justification for torture [Neelix and Tuvok psychologically tortured Gar in the 
 Dralian, Dinaali, Kipp's species
 
 :: Other Keywords
-red alert <12:33>
+red alert [] <12:33>,
 
 :: Associations
 tng5x09 [Rasmussen was a rogue cut of similar cloth],
@@ -8552,7 +8614,8 @@ Directed by: Allan Kroeker. Story by: Robert J. Doherty.
 2000-11-08
 
 :: Ratings
-1 <mikael>, 2 <paul>,
+1 <mikael>
+2 <paul>,
 
 :: Main Characters
 Janeway, Reginald Barclay, Deanna Troi, The Doctor,
@@ -8568,7 +8631,6 @@ betrayal [holo-Barclay betrayed the trust of Voyager crew; Dabo girl betrayed po
 trust [Barclay, and Voyager crew, and Harry at the end],
 trust in a potential foe [all but the Doctor were seduced by holo-Barclay],
 obsession [Barclay with getting Voyager back to Earth],
-avarice [Ferengi hatched nefarious plot to steal and sell Borg nanoprobes],
 the lust for gold [Ferengi hatched nefarious plot to steal and sell Borg nanoprobes],
 coping with stress at work [Barclay forced to take vacation again],
 
@@ -8605,7 +8667,8 @@ Directed by: Robert Duncan McNeill. Story by: Michael Taylor.
 2000-11-15
 
 :: Ratings
-3 <mikael> [+1 only because Jeri Ryan acted the Doctor rather well], 4 <paul>,
+3 <mikael> [+1 only because Jeri Ryan acted the Doctor rather well]
+4 <paul>,
 
 :: Main Characters
 The Doctor, Seven of Nine [object], Harry Kim, Tuvok, Janeway
@@ -8625,7 +8688,6 @@ Spartan asceticism [The Doctor berated Seven for not enjoying the sensory world 
 coping with unwanted sexual urges [Tuvok in a Vulcan heat],
 loss of emotional equilibrium [Tuvok in the pon farr],
 self-control [Tuvok in the pon farr],
-pride [The Doctor wallowed in his own accomplishments in the body of Seven],
 vanity [The Doctor wallowed in his own accomplishments in the body of Seven],
 AI prejudice in society [Lokirrim against photonics],
 the nature of the senses [The Doctor was astonished by the experience of tastes, smells, emotions, etc.],
@@ -8638,7 +8700,7 @@ the thirst for knowledge [The Doctor studying the origins of life],
 coping with unwelcome romantic attention [The Doctor in the body of Seven with Ranek],
 flirtation [Ranek with The Doctor as Seven],
 virtual reality sex [Tuvok mated with a holographic replica of his wife on the holodeck],
-homosexuality [The Doctor in the body of Seven having romantic moments with the captain and alien nurse],
+homosexuality in society [The Doctor in the body of Seven having romantic moments with the captain and alien nurse],
 
 :: Aliens
 Lokirrim, Vulcan
@@ -8660,7 +8722,8 @@ Directed by: LeVar Burton. Story by: Robert Lederman and Dave Long.
 2000-11-22
 
 :: Ratings
-1 <mikael>, 2 <paul>,
+1 <mikael>
+2 <paul>,
 
 :: Main Characters
 Harry Kim [object], Seven of Nine, Janeway, Icheb, B'Elanna, Terek
@@ -8711,7 +8774,8 @@ David Livingston. Story by: Jack Monaco, Bryan Fuller and Raf Green.
 2000-11-29
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway, The Doctor, Donik, Iden
@@ -8730,7 +8794,7 @@ trust in a potential foe [Voyager crew in Hirogen and vice versa; holograms refr
 becoming like what you oppose [Iden became a murdered just like the Hirogen he opposed],
 pleasure in hunting [Hirogen],
 simulated hunting ground [Hirogen set up elaborate simulated hunting ground],
-predator vs. prey [Hirogen hunted holographic prey and vice versa],
+facing being hunted like an animal [Hirogen hunted holographic prey and vice versa],
 oppression [the holograms felt that holograms the Delta Quadrant over were being oppressed by their alien masters],
 man vs. captivity [The Doctor and B'Elanna held captive by his holographic brethren],
 what if I were hunted for sport [Hirogen chased holograms and vice versa],
@@ -8740,10 +8804,9 @@ choosing between murderous regimes [Janeway had to choose between the murderous 
 the art of war [Hirogen teaching how to hunt in the field],
 Messiah complex [hologram leader Iden fancied himself the hologram messiah],
 hubris [hologram leader Iden fancied himself the hologram messiah but in the end he failed in his mission],
-terror [Hirogen in sickbay was terrified of being treated by The Doctor],
+fear [Hirogen in sickbay was terrified of being treated by The Doctor],
 betrayal [The Doctor betrayed Voyager crew by giving Iden the codes],
 remorse [Donik regretted creating the holograms],
-the desire to be worshiped [Iden as hologram messiah; The Doctor explicitly stated that he had no desire to be worshiped],
 ruthlessness [Iden toward organics],
 
 :: Aliens
@@ -8753,7 +8816,7 @@ Hirogen, Cardassian [hologram], Klingon [hologram], Bajoran [hologram],
 woodland, cavern
 
 :: Other Keywords
-red alert <36:24>
+red alert [] <36:24>,
 
 
 voy7x10
@@ -8786,7 +8849,8 @@ Directed by: Terry Windell. Story by: Mike Sussman and Michael Taylor.
 2001-01-17
 
 :: Ratings
-0 <mikael>, 1 <paul>,
+0 <mikael>
+1 <paul>,
 
 :: Main Characters
 Chakotay [object], Janeway,
@@ -8830,7 +8894,8 @@ Directed by: Peter Lauritson. Story by: James Kahn.
 2001-01-24
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 B'Elanna [object], Tom Paris [object], The Doctor
@@ -8852,10 +8917,10 @@ divorce [B'Elanna's father and she worried about Tom],
 fear of abandonment [revealed as perhaps the underlying reason for B'Elanna's behavior],
 
 :: Minor Themes
-child rearing [Tom discussed with Tuvok],
+human parenting [Tom discussed with Tuvok],
 genetic engineering [The Doctor discussed about genetically engineering B'Elanna's child],
 bullying [B'Elanna was bullied],
-coping with guilt [apparently B'Elanna felt guilty about making her father leave],
+remorse [apparently B'Elanna felt guilty about making her father leave],
 AI rights [B'Elanna violated The Doctor's right by secretly reprogramming him],
 anger [B'Elanna had angry outburst when she was pregnant; young B'Elanna flipped out when Dean put a worm in her sandwich],
 
@@ -8879,7 +8944,8 @@ Directed by: Mike Vejar. Story by: Mike Sussman and Robert J. Doherty.
 2001-01-31
 
 :: Ratings
-3 <mikael>, 3 <paul>
+3 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway, The Doctor, Seven of Nine, Neelix, Iko, Joleg, Yediq
@@ -8933,7 +8999,8 @@ Green and Kenneth Biller.
 2001-02-07
 
 :: Ratings
-0 <mikael> [groan], 2 <paul>
+0 <mikael> [groan]
+2 <paul>
 
 :: Main Characters
 Janeway, Kohlar, B'Elanna
@@ -8956,8 +9023,6 @@ honor [Klingon religious fanatics; it was written in the sacred scrolls that the
 :: Minor Themes
 coping with unwelcome romantic attention [Harry with Klingon warrioress],
 coping with a loss of faith [some Klingons disappointed the savior was not to be],
-wrath [Klingon warroiress was outraged that culinary etiquette was violated in the mess hall],
-facing a fight to the death [Tom accepted a fight to the death],
 what if I had to fight to the death [Tom accepted a fight to the death],
 
 :: Aliens
@@ -8970,7 +9035,7 @@ cavern
 find a cure [The Doctor synthesized an antivirus to cure the nehret]
 
 :: Other Keywords
-red alert <6:50>
+red alert [] <6:50>,
 
 
 voy7x15
@@ -8989,7 +9054,8 @@ Directed by: Mike Vejar. Story by: Raf Green and Kenneth Biller.
 2001-02-14
 
 :: Ratings
-2 <mikael>, 2 <paul>
+2 <mikael>
+2 <paul>
 
 :: Main Characters
 Janeway, Chakotay, Seven of Nine, Tom Paris, Valen
@@ -9020,7 +9086,7 @@ pleasure in cooking [Seven began preparing her own daily meals and cooked dinner
 Annari, Overlooker, Nygean, Fantome's species, Bosaal's species
 
 :: Other Keywords
-intruder alert <14:05>
+intruder alert [] <14:05>,
 
 :: Associations
 tas1x12 [the Delta Triangle themed episode]
@@ -9044,7 +9110,8 @@ Directed by: Allan Kroeker. Story by: Kenneth Biller and Bryan Fuller.
 2001-02-21
 
 :: Ratings
-1 <paul>, 1 <mikael>,
+1 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway, Jaffen, Chakotay, The Doctor, Neelix, Harry Kim, Tom Paris, B'Elanna, Tuvok
@@ -9077,7 +9144,7 @@ Norvalen, Quarren, Umali's Species
 futuristic cityscape, industrial complex, bar, living room
 
 :: Other Keywords
-intruder alert <15:47>,
+intruder alert [] <15:47>,
 
 
 voy7x17
@@ -9096,7 +9163,8 @@ Directed by: Roxann Dawson. Story by: Kenneth Biller and Bryan Fuller.
 2001-02-28
 
 :: Ratings
-1 <paul>, 1 <mikael>,
+1 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway, Jaffen, Chakotay, The Doctor, B'Elanna, Tuvok, Seven of Nine
@@ -9147,7 +9215,8 @@ Directed by: Allan Kroeker. Story by: André Bormanis and Kenneth Biller.
 2001-03-07
 
 :: Ratings
-2 <mikael>, 3 <paul>,
+2 <mikael>
+3 <paul>,
 
 :: Main Characters
 Seven of Nine [object], Janeway, Chakotay, The Doctor
@@ -9176,14 +9245,13 @@ coping with getting dumped [virtual Chakotay],
 pleasure in cooking [Seven and holographic Chakotay enjoyed preparing dinner together on their date],
 expecting parents [Seven simulates baby shower for B'Elanna and Tom on holodeck],
 flirtation [Seven and holographic Chakotay],
-tardiness [Seven was late for a duty shift],
-distraction [Seven was distracted from her duties by her holodeck pursuits],
+laziness [Seven was late for a duty shift],
 
 :: Setting
 parlor,
 
 :: Other Keywords
-red alert <37:55>,
+red alert [] <37:55>,
 
 
 voy7x19
@@ -9201,7 +9269,8 @@ Directed by: LeVar Burton. Story by: Kenneth Biller.
 2001-04-11
 
 :: Ratings
-2 <paul>, 2 <mikael>,
+2 <paul>
+2 <mikael>,
 
 :: Main Characters
 Q Junior [object], Q, Janeway, Icheb
@@ -9211,7 +9280,7 @@ Tuvok, Chakotay, B'Elanna, Seven of Nine, Neelix, The Doctor, Tom Paris, Q Judge
 
 :: Choice Themes
 adolescence [Q Junior],
-child rearing [Janeway instructed Q in how to raise his son Q Junior],
+human parenting [Janeway instructed Q in how to raise his son Q Junior],
 father and son [Q and Q Junior],
 taking responsibility for one's actions [Q Junior learns the importance of taking responsibility for his actions when his actions put Icheb's life into jeopardy],
 transcendental being [The Q],
@@ -9224,7 +9293,7 @@ teenage angst [Q Junior],
 godparent and godchild [Janeway and Q Junior],
 lesson in humility [Q Junior stripped over his Q powers],
 parental pride [Q lacked confidence in Q Junior whereas Janeway believed in Q Junior's ability to reform],
-tough love [Q and Janeway to Q Junior],
+using tough love [Q and Janeway to Q Junior],
 friendship [Q Junior with Icheb],
 the need to get there on one's own merits [Q Junior took shortcuts to complete his designated tasks aboard Voyager; Q could have returned Voyager crew to Earth at end but purposely didn't in order that they might get their on their own],
 
@@ -9258,7 +9327,8 @@ Directed by: David Livingston. Story by: Brannon Braga.
 2001-04-18
 
 :: Ratings
-5 <mikael>, 5 <paul>
+5 <mikael>
+5 <paul>
 
 :: Main Characters
 The Doctor [object], Janeway, Tom Paris, Tuvok, Ardon Broht
@@ -9275,15 +9345,14 @@ AI prejudice in society [The Doctor wrote a holonovel conveying exaggerations of
 literature appreciation [Tom and The Doctor had conflicting ideas about what constitutes a good holonovel],
 what it is like to be different [The Doctor tried to show humans what it was like to be a hologram],
 friendship vs. career [The Doctor decided to publish his holonovel in spite of disapproval from his crewmates],
-reflecting on family ties [Seven learned the importance of family from Harry and others],
 seeing the error of one's ways [The Doctor agree to rewrite his holonovel],
 virtual reality room [The Doctor's holonovel played out on holodeck],
-facing wrongful accusations [The Doctor accused of not being a person],
+what if I were accused of a crime I didn’t commit [The Doctor accused of not being a person],
 AI point of view [The Doctor],
 
 :: Minor Themes
 medical triage [first chapter of holonovel],
-meddling parent [Harry's mother],
+coping with a meddling parent [Harry's mother],
 parental pride [Harry's parents proud of Harry having been put in charge of Voyager at one point],
 legal proceedings [some kind of courtroom was featured],
 vanity [The Doctor took pride in getting his holonovel published],
@@ -9314,7 +9383,8 @@ Directed by: Mike Vejar. Story by: Michael Taylor and Bryan Fuller.
 2001-04-25
 
 :: Ratings
-1 <mikael>, 3 <paul>
+1 <mikael>
+3 <paul>
 
 :: Main Characters
 Janeway, Tom Paris, Neelix, The Doctor, Verin, Otrin
@@ -9369,7 +9439,8 @@ Directed by: Terry Windell. Story by: Kenneth Biller and James Kahn.
 2001-05-02
 
 :: Ratings
-3 <paul>, 2 <mikael>,
+3 <paul>
+2 <mikael>,
 
 :: Main Characters
 Chakotay, Seven of Nine, Janeway, Tom Paris
@@ -9381,7 +9452,6 @@ Harry Kim, B'Elanna, Neelix, Tuvok, The Doctor, Healer, Ventu Girl, Ledosian Amb
 the ethics of interfering in less advanced societies [Chakotay and Seven worried about the consequences of getting help from the primitive aliens],
 
 :: Major Themes
-facing being stranded [Chakotay and Seven stranded on planet],
 problem of language and meaning [Chakotay and Seven learned the primitive aliens gestural language],
 deferring to unappealing laws in a foreign society [Tom taking the pilot test; Janeway later refusing to obey],
 primitive point of view [primitive aliens],
@@ -9390,7 +9460,7 @@ gestural language [primitives communicated gestural language],
 :: Minor Themes
 noble savage utopia [the primitive aliens lived in peace and harmony without the help of any real technology],
 coping with a pedantic authority figure [Tom with Kleg administering the piloting test],
-the beauty of nature [Seven learned to appreciate the beauties of nature when the Ventu girl takes her to see the triple waterfall],
+pleasure in nature [Seven learned to appreciate the beauties of nature when the Ventu girl takes her to see the triple waterfall],
 mysterious maker alien race [the protectors of the Ventu],
 lesson in humility [Tom received a protracted lesson in not being too cocky],
 
@@ -9420,7 +9490,8 @@ Directed by: LeVar Burton. Story by: Raf Green.
 2001-05-09
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Neelix [object], Janeway, Dexa, Brax
@@ -9476,7 +9547,8 @@ Directed by: Mike Vejar. Story by: Andrew Shepard Price and Mark Gaberman.
 2001-05-16
 
 :: Ratings
-2 <paul>, 2 <mikael>,
+2 <paul>
+2 <mikael>,
 
 :: Main Characters
 The Doctor [object], Janeway, Chakotay, Tuvok, Tom Paris, Nar, Zet
@@ -9486,7 +9558,7 @@ B'Elanna, Harry Kim, Seven of Nine, Vorik
 
 :: Choice Themes
 duty vs. friendship [The Doctor must decide whether to obey Janeway's orders or save her life],
-man vs. machine [The Doctor outsmarted the Voyager crew again and again],
+human vs. machine [The Doctor outsmarted the Voyager crew again and again],
 
 :: Major Themes
 facing a hostage situation [The Doctor went through hell and high water to free Janeway],
@@ -9501,18 +9573,16 @@ standing up to a boss [Chakotay challenged Janeway; the Overlooker selling spare
 coping with unwelcome romantic attention [The Doctor disguised as B'Elanna from Tom],
 voice duplicator [The Doctor manifested the ability to duplicate the voices of various of his crew mates],
 embarrassment [The Doctor makes a fool of himself with death bed confession],
-pride [The Doctor was proud of being a hologram],
 patriotism [The Doctor in the cause of holograms],
 gender bending [The Doctor in B'Elanna's body kissing Tom],
 coping with a bad boss [the Overlooker assistant was treated disrespectfully by his superior],
 seeing the error of one's ways [The Doctor confessed all his regrets on his deathbed],
-avarice [the Overlookers were trying to steal technology and sell for profit],
 
 :: Aliens
 Overlooker,
 
 :: Other Keywords
-red alert <25:34>
+red alert [] <25:34>,
 
 
 voy7x25
@@ -9535,7 +9605,8 @@ Braga.
 2001-05-23
 
 :: Ratings
-2 <paul>, 1 <mikael>,
+2 <paul>
+1 <mikael>,
 
 :: Main Characters
 Janeway, The Doctor, Tom Paris, B'Elanna, Tuvok, Chakotay, Seven of Nine, Harry Kim
@@ -9577,7 +9648,8 @@ mind-computer merging [Admiral Janeway had a neural interface she used to interf
 coping with getting dumped [Chakotay by Seven again],
 
 :: Other Keywords
-red alert <41:55>, red alert chili
+red alert [] <41:55>,
+red alert chili [],
 
 
 voy7x26
@@ -9591,3 +9663,5 @@ Endgame
 
 :: Date
 2001-05-23
+
+
