@@ -2595,7 +2595,8 @@ committing a crime to save a life
 =================================
 
 :: Description
-A character struggles with the question of whether they should break the law in order the save the life of someone else.
+A character struggles with the question of whether they should break the law 
+in order the save the life of someone else.
 
 :: Parents
 personal ethical dilemma
@@ -2605,7 +2606,8 @@ transnational conflict over political ideology
 ==============================================
 
 :: Description
-Two or more factions squabble over which political ideology is the way of organizing society.
+Two or more factions squabble over which political ideology is the way of 
+organizing society.
 
 :: Parents
 international issue, political ideology
@@ -2615,7 +2617,8 @@ nudism
 ======
 
 :: Description
-Someone dislikes clothes to such an extent that they prefer to be naked in public.
+Someone dislikes clothes to such an extent that they prefer to be naked in 
+public.
 
 :: Parents
 human way of life   
@@ -2631,10 +2634,13 @@ space mirror
 ============
 
 :: Description
-There is an large artificial device in space that reflects some parts of the electromagnetic spectrum, most typically sunlight.
+There is an large artificial device in space that reflects some parts of the 
+electromagnetic spectrum, most typically sunlight.
 
 :: Example
-In futurama4x08 "Crimes of the Hot", Professor Wernstrom (Wernstrom!) constructed an enormous mirror outside Earth to reflect sunlight and thus to cool the planet.
+In futurama4x08 "Crimes of the Hot", Professor Wernstrom (Wernstrom!) 
+constructed an enormous mirror outside Earth to reflect sunlight and thus to 
+cool the planet.
 
 :: Parents
 space structure
@@ -2651,18 +2657,35 @@ There is a being of human appearance but of prodigious size and possibly
 strength.
 
 :: Parents
-legendary being
+legendary being, size-distinguished being
 
 :: References
 https://en.wikipedia.org/wiki/Giant
 
 
+speculative future event
+========================
+
+:: Description
+A hypothetical future event of major significance is depicted. "World War III" 
+and "the AI singularity" are illustrative examples.
+
+:: Parents
+speculative fiction theme
 
 
+World War III
+=============
 
+:: Description
+There is a hypothetical third worldwide large-scale military conflict 
+subsequent to World War I and World War II.
 
+:: Parents
+speculative future event
 
-
+:: References
+https://en.wikipedia.org/wiki/World_War_III
 
 
 
