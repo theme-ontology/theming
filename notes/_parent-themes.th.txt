@@ -678,8 +678,9 @@ human romantic relationship choice
 
 :: Description
 
+
 :: Parents
-human romantic relationship
+human romantic relationship issue
 
 :: References
 
@@ -762,5 +763,16 @@ to deal with for whatever reason.
 
 :: Parents
 human life issue
+
+
+human self-sacrifice for another
+================================
+
+:: Description
+Someone goes out of their way in order to help another person who appears to
+be in some need of help.
+
+:: Parents
+human self-sacrifice
 
 
