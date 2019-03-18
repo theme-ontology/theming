@@ -347,9 +347,6 @@ sacrifice to prevent mass death [Pete Mathews volunteered to go on a perilous di
 nuclear submarine [A Navy crew explored the sea in a nuclear powered submarine.],
 giant octopus [A giant octopus was discovered in the Pacific Ocean.],
 
-:: Other Keywords
-giant octopus [],
-
 :: Collections
 Collection: Science fiction films of the 1950s
 
@@ -846,13 +843,13 @@ romantic love [Susan Winter for Bruce Barton.],
 human vs. beast [The expedition party encountered various giant animals, including a giant lizard, field mouse, hawk, spider.],
 cryptid [The expedition party encountered a variety of giant animals deep in the Mexican jungle.],
 human vs. nature [The expedition party in the Mexican jungle.],
+giant person [Bruce Barton had transformed into a giant cyclops.],
 
 :: Settings
 Mexico, jungle,
 
 :: Other Keywords
 cyclops [],
-giant [],
 mutant [],
 giant lizard [],
 giant mouse [],
@@ -930,6 +927,7 @@ what if I grew in size [Lt. Colonel Glenn Manning grew to be more than 60 feet t
 romantic love [Glenn Manning and Carol Forrest.],
 coping with a loved one being in peril [Carol Forrest with her fiancée Glenn Manning who had grown enormously in size.],
 fiancée and fiancée [Glenn Manning and Carol Forrest.],
+giant person [Glenn Manning became a giant.],
 
 :: Minor Themes
 the dangers of radioactivity [Lt. Colonel Glenn Manning grew to be more than 60 feet tall following his accidental exposure to an atomic bomb test blast in Nevada.],
@@ -937,7 +935,6 @@ the dangers of unfettered scientific advancement [Lt. Colonel Glenn Manning grew
 scientific experimentation [A scientist and Dr. Paul Linstrom experimented on with using radiation to grow animals to enormous proportions in a laboratory.],
 
 :: Other Keywords
-giant [Glenn Manning became a giant],
 find a cure [Two scientists sought to find a cure that would shrink Glenn Manning back to ordinary size.],
 
 :: Collections
@@ -1024,13 +1021,11 @@ unrequited love [Nancy Archer loved Harry Archer in spite of his only being marr
 romantic love [Harry Archer and Honey Parker.],
 the lust for gold [Harry Archer and Honey Parker plotted to knock off his wealthy wife Nancy Archer and collect the inheritance.],
 jealousy [A 50 foot tall Nancy Archer became jealous of Honey Parker and went looking for her.],
+giant person [There was a 50 foot tall woman.],
 
 :: Minor Themes
 flying saucers [After reports of a red fireball in the sky come in from around the world, Nancy Archer is abducted by giant aliens and subsequently grows to gigantic proportions. People dismissed her story of an encounter with aliens as a tall tale.],
 what if I told the truth and nobody would believe me [Nobody would believe Nancy Archer's story about her encounter with a spherical flying saucer.],
-
-:: Other Keywords
-giant [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1068,13 +1063,11 @@ sci-fi
 what if I grew in size [The Colossal Man Lt. Colonel Glenn Manning grew to be more than 60 feet tall.],
 brother and sister [Joyce Manning was searching for her brother the Colossal Man Glenn Manning.],
 coping with a loved one being in peril [Joyce Manning with her brother Glenn Manning who had grown enormously in size.],
+giant [Glenn Manning became a giant.],
 
 :: Minor Themes
 the dangers of radioactivity [Lt. Colonel Glenn Manning grew to be more than 60 feet tall following his accidental exposure to an atomic bomb test blast in Nevada.],
 the dangers of unfettered scientific advancement [Lt. Colonel Glenn Manning grew to be more than 60 feet tall following his accidental exposure to an atomic bomb test blast in Nevada.],
-
-:: Other Keywords
-giant [Glenn Manning became a giant],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1238,6 +1231,7 @@ sci-fi
 what if I grew in size [Emmy Lou Raven grew into a thirty-foot giantess after being exposed to radiation.],
 husband and wife [Artie Pinsetter and Emmy Lou Raven.],
 forbidden love [Prospective governor Rossiter disapproved of his niece Emmy Lou Raven from marrying the lowly garbage man Artie Pinsetter.],
+giant person [Emmy Lou Raven became a giant.],
 
 :: Minor Themes
 scientific experimentation [Artie Pinsetter experimenting with chemicals in his laboratory.],
@@ -1251,9 +1245,6 @@ robot helper [Artie Pinsetter kept a mechanical contraption, named Max, that ans
 time travel [Artie Pinsetter was briefly sent back in time to the stone age by his robot helper Max.],
 what if I shrank in size [Emmy Lou Raven was briefly shrunken down in size to such a size that she could fit in the palm of one's hand.],
 attack from outer space by a powerful conquering alien race [The army assumed the presence of giantess Emmy Lou Raven was a prelude to an invasion by Martians.],
-
-:: Other Keywords
-giant woman [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1749,7 +1740,7 @@ https://en.wikipedia.org/wiki/Ghidorah,_the_Three-Headed_Monster
 2 <paul>,
 
 :: Genre
-sci-fi, kaiji,
+sci-fi, kaiju,
 
 :: Major Themes
 human vs. beast [Godzilla and Rodan attacked Japan.],
@@ -1765,6 +1756,45 @@ telepathic being [Two tiny, fairy-like girls communicated telepathically.],
 
 :: Other Keywords
 meteor [],
+
+:: Collections
+Collection: Science fiction films of the 1960s
+
+
+movie: Frankenstein Conquers the World (1965)
+=============================================
+
+:: Title
+Frankenstein Conquers the World
+
+:: Description
+Frankenstein monster's heart is transported from Germany to Japan in the closing months of World War II.
+
+:: Date
+1965-08-08
+
+:: References
+https://en.wikipedia.org/wiki/Frankenstein_Conquers_the_World
+
+:: Ratings
+2 <paul>,
+
+:: Genre
+sci-fi, kaiju, 
+
+:: Major Themes
+giant person [There was a 20 foot tall Frankenstein monster.],
+the dangers of radioactivity [Fallout from the atomic bombing of Hirosaki mutated Frankenstein's heart and it eventually transformed into a giant monster.],
+man vs. beast [A giant reptile came out of nowhere and started to terrorize the countryside of Japan.],
+cryptid [An ancient subterranean, burrowing reptile-like creature reemerged from underground to terrorize Japan.],
+
+:: Minor Themes
+World War II [Frankenstein monster's heart was transported from Germany to Japan in the closing months of the Second World War.],
+atomic warfare [The atomic bombing of Hiroshima was featured.],
+feral children in society [Frankenstein monster's heart was exposed to radiation in the atomic bombing of Hiroshima. It took on a live of its own and escaped. By fifteen years later, the heart had grown into a boy and was discovered and an attempt was made to raise him as a feral child.],
+
+:: Other Keywords
+subterranean creature [A subterranean, burrowing reptile-like creature terrorized Japan.],
 
 :: Collections
 Collection: Science fiction films of the 1960s
