@@ -17135,6 +17135,15 @@ human vs. affliction
 human vs. beast
 ===============
 
+:: Description
+A struggle between human and animal is featured.
+
+:: Parents
+human vs. nature
+
+:: Example
+Captain Kirk was mauled by a Mugato tos2x16 "A Private Little War".
+
 
 man vs. captivity
 =================
@@ -17146,11 +17155,8 @@ A struggle between captive and captor is featured.
 human vs. human
 
 :: Example
-Butthead aliens held Captain Pike captive with the intention to use him as breeding stock in tos0x01 "The Cage".
-
-:: Related Themes
-
-:: Other Parents
+Butthead aliens held Captain Pike captive with the intention to use him as 
+breeding stock in tos0x01 "The Cage".
 
 
 human vs. evil genius
@@ -17159,6 +17165,13 @@ human vs. evil genius
 
 human vs. institution
 =====================
+
+:: Description
+A character experiences what it is like to face an entire institution, like
+the secret police, that is out to get them.
+
+:: Parents
+survival
 
 
 human vs. machine
