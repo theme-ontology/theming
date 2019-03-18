@@ -5919,17 +5919,6 @@ client who refuses to be content.
 coping with problematic people
 
 
-coping with adversity
-=====================
-
-:: Description
-Themes that center around someone carrying on in the face of a pervasive
-difficulty that they can do nothing about.
-
-:: Parents
-human challenge in life
-
-
 coping with aging
 =================
 
@@ -6222,12 +6211,6 @@ human emotion
 
 :: References
 https://en.wikipedia.org/wiki/Loneliness
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 coping with being an outcast
@@ -7007,11 +6990,9 @@ with age.
 human health condition
 
 :: Example
-In tng3x23 "Sarek", Sarek coped with having Bendii Syndrome, which is a rare degenerative neurological disorder that sometimes affects Vulcans over the age of two hundred.
-
-:: Related Themes
-
-:: Other Parents
+In tng3x23 "Sarek", Sarek coped with having Bendii Syndrome, which is a rare 
+degenerative neurological disorder that sometimes affects Vulcans over the age 
+of two hundred.
 
 
 human interpersonal issue
@@ -7041,12 +7022,6 @@ themself at work.
 
 :: Parents
 human interpersonal relationship
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 coping with someone who refuses to take care of their health
@@ -7078,7 +7053,7 @@ coping with stress
 A character is experiences a stressful situation.
 
 :: Parents
-human challenge in life
+coping with life issues
 
 :: References
 https://en.wikipedia.org/wiki/Psychological_stress
@@ -7508,11 +7483,8 @@ A character copes with unwelcome amorous advances.
 romantic relationship issue
 
 :: Example
-Captain Picard was mortified to have his former lover Vash aboard the Enterprise-D in tng4x20 "Qpid".
-
-:: Related Themes
-
-:: Other Parents
+Captain Picard was mortified to have his former lover Vash aboard the 
+Enterprise-D in tng4x20 "Qpid".
 
 
 corruption in society
@@ -8518,15 +8490,20 @@ The way that someone can, step by step and without particular premeditation,
 get drawn into evermore serious crime is featured.
 
 :: Parents
-facing general adversity
+what life is like
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/SlowlySlippingIntoEvil
 
 :: Example
-In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be involved in drug smuggling. After covering up some minor transgressions Neelix eventually found himself an accomplice to serious crime.
+In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be 
+involved in drug smuggling. After covering up some minor transgressions Neelix 
+eventually found himself an accomplice to serious crime.
 
-In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed an alien and discovered that its body made excellent fuel. Driven by exceptional need they procured another alien which they murdered for fuel, then another and so on.
+In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed 
+an alien and discovered that its body made excellent fuel. Driven by 
+exceptional need they procured another alien which they murdered for fuel, 
+then another and so on.
 
 :: Aliases
 descent into evil
@@ -9696,12 +9673,6 @@ socioeconomic issue
 :: References
 https://en.wikipedia.org/wiki/Elitism
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 embarrassing family member
 ==========================
@@ -9728,11 +9699,8 @@ human emotion
 https://en.wikipedia.org/wiki/Embarrassment
 
 :: Example
-Spock was mortified at the prospect of having to explain the nature of his secret Vulcan mating urges to Captain Kirk in tos2x05 "Amok Time".
-
-:: Related Themes
-
-:: Other Parents
+Spock was mortified at the prospect of having to explain the nature of his 
+secret Vulcan mating urges to Captain Kirk in tos2x05 "Amok Time".
 
 
 emergently intelligent being
@@ -10518,18 +10486,6 @@ human vs. human
 https://en.wikipedia.org/wiki/Eviction
 
 
-facing general adversity
-========================
-
-:: Description
-The category of themes that involve someone confronting something difficult
-that they actively endeavor to overcome, but that is not a matter or survival
-and does not require a self-sacrifice.
-
-:: Parents
-facing adversity
-
-
 facing judgment from one's peers
 ================================
 
@@ -10548,7 +10504,7 @@ what it is like in an insane asylum
 Someone experiences living as a patient in an insane asylum.
 
 :: Parents
-facing general adversity
+what life is like
 
 :: Example
 Nefarious aliens made Riker believe he might live out his life in an insane
@@ -10674,7 +10630,7 @@ invested much of their energy in, for example a career pursuit, private
 company, etc.
 
 :: Parents
-facing general adversity
+what life is like
 
 
 what if I were accused of a crime I didn’t commit
@@ -10911,12 +10867,6 @@ The relationship between a father and his daughter is featured.
 :: Parents
 parent and child
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 father and son
 ==============
@@ -10926,12 +10876,6 @@ The relationship between a father and his son is featured.
 
 :: Parents
 parent and child
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 father and son rivalry
@@ -10945,9 +10889,8 @@ tradition.
 human childhood, father and son
 
 :: Example
-Riker settled his long-standing rivalry with his father Kyle in the anbo-jtytsu dohyo tng2x14 "The Icarus Factor".
-
-:: Related Themes
+Riker settled his long-standing rivalry with his father Kyle in the 
+anbo-jtytsu dohyo tng2x14 "The Icarus Factor".
 
 :: Other Parents
 juvenile
@@ -11180,12 +11123,6 @@ form of government
 
 :: References
 https://en.wikipedia.org/wiki/Federalism
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 feeling neglected in a relationship
@@ -13075,7 +13012,9 @@ that is ethically unsavory to them.
 personal ethical dilemma
 
 :: Example
-In voy5x26 "Equinox, Part I" it is revealed that the Equinox crew choose to exploit and kill aliens in order to be able to get back to Earth, a voyage that would have taken more than a lifetime otherwise.
+In voy5x26 "Equinox, Part I" it is revealed that the Equinox crew choose to 
+exploit and kill aliens in order to be able to get back to Earth, a voyage 
+that would have taken more than a lifetime otherwise.
 
 
 great need vs. human rights
@@ -13088,12 +13027,6 @@ only way to protect your own people?
 
 :: Parents
 social ethical dilemma
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 grief
@@ -13111,13 +13044,8 @@ human emotion
 https://en.wikipedia.org/wiki/Grief
 
 :: Example
-Captain Kirk both rued and lamented the loss crewman Hendorff in tos2x09 "The Apple". Hendorff, a token redshirt, was shot with poison darts by a pod plant.
-
-:: Related Themes
-pensiveness, sadness
-
-:: Other Parents
-Plutchik-emotion
+Captain Kirk both rued and lamented the loss crewman Hendorff in tos2x09 "The 
+Apple". Hendorff, a token redshirt, was shot with poison darts by a pod plant.
 
 
 group bonding
@@ -13769,7 +13697,7 @@ A child must choose what is more important to them: boring homework or
 frivolous play.
 
 :: Parents
-choosing what kind of person one wants to be
+human life choice
 
 :: Example
 Alexander was very much swayed by Lwaxana's arguments for choosing play over
@@ -13818,11 +13746,9 @@ human character
 https://en.wikipedia.org/wiki/Honour
 
 :: Example
-Worf, being a true man of honor, implored the Klingon authorities to grant honorable deaths to three Klingon renegades whom he had come to respect in tng1x20 "Heart of Glory".
-
-:: Related Themes
-
-:: Other Parents
+Worf, being a true man of honor, implored the Klingon authorities to grant 
+honorable deaths to three Klingon renegades whom he had come to respect in 
+tng1x20 "Heart of Glory".
 
 
 honorable suicide
@@ -13851,12 +13777,6 @@ human emotion
 :: References
 https://en.wikipedia.org/wiki/Hope
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 hopeless search vs. to abandon hope
 ===================================
@@ -13869,11 +13789,8 @@ better course of action becomes to give up hope.
 inaction vs. futile action
 
 :: Example
-Captain Kirk and Commissioner Ferris debated whether to keep up the search for the Galileo shuttlecraft in tos1x13 "The Galileo Seven".
-
-:: Related Themes
-
-:: Other Parents
+Captain Kirk and Commissioner Ferris debated whether to keep up the search for 
+the Galileo shuttlecraft in tos1x13 "The Galileo Seven".
 
 
 hospitality
@@ -13997,23 +13914,6 @@ body altering technology
 https://en.wikipedia.org/wiki/Human_cloning
 
 
-human emotion
-=============
-
-:: Description
-The category of themes that center on those conscious inner mental states that
-we call emotions. "Rage" and "happiness" are illustrative examples.
-
-:: Parents
-human personality
-
-:: References
-https://en.wikipedia.org/wiki/Emotion
-
-:: Related Themes
-human characteristic, human disposition
-
-
 human empathy for babies
 ========================
 
@@ -14057,18 +13957,6 @@ content, and fulfilled in life.
 
 :: Parents
 purpose in life
-
-
-human personality
-=================
-
-:: Description
-The category of themes that are about individual mental states. They are
-further subdivided into those that deal with plain dispositions to others,
-individual emotions, general states of mind, and broader characteristics.
-
-:: Parents
-the human condition
 
 
 human pleasure
@@ -19618,7 +19506,7 @@ pacifist may feel that violence should not even be used in self-defence
 against violence.
 
 :: Parents
-personal ideology
+human way of life
 
 :: References
 https://en.wikipedia.org/wiki/Pacifism
@@ -20296,7 +20184,7 @@ patriotism
 A character believes fervently in the causes of their homeland.
 
 :: Parents
-personal ideology
+human way of life
 
 :: References
 https://en.wikipedia.org/wiki/Patriotism
@@ -21606,7 +21494,10 @@ law and order issue
 https://www.investopedia.com/terms/p/price_rigging.asp
 
 :: Example
-Adam Smith in "The Wealth of Nations" wrote that: People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
+Adam Smith in "The Wealth of Nations" wrote that: People of the same trade 
+seldom meet together, even for merriment and diversion, but the conversation 
+ends in a conspiracy against the public, or in some contrivance to raise 
+prices.
 
 
 pride in one's own creation
@@ -21632,11 +21523,8 @@ topic in science
 https://en.wikipedia.org/wiki/Prime_number
 
 :: Example
-Captain Picard tapped the first six prime numbers into a door panel in tng3x18 "Allegiance".
-
-:: Related Themes
-
-:: Other Parents
+Captain Picard tapped the first six prime numbers into a door panel in tng3x18 
+"Allegiance".
 
 
 primitive point of view
@@ -21648,12 +21536,6 @@ comes from a technologically less advanced culture than our own.
 
 :: Parents
 cross cultural issue
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 prisoner rights
@@ -21670,11 +21552,8 @@ human rights issue
 https://en.wikipedia.org/wiki/Prisoners%27_rights
 
 :: Example
-The Angosians kept their super-soldiers imprisoned without any right to appeal on a shabby little moon in tng3x11 "The Hunted".
-
-:: Related Themes
-
-:: Other Parents
+The Angosians kept their super-soldiers imprisoned without any right to appeal 
+on a shabby little moon in tng3x11 "The Hunted".
 
 
 prisoners of war
@@ -21692,11 +21571,9 @@ military issue
 https://en.wikipedia.org/wiki/Prisoner_of_war
 
 :: Example
-It was unclear whether Captain Picard was technically a prisoner of war thus protected by a treaty against mistreatment in tng6x11 "Chain of Command, Part II".
-
-:: Related Themes
-
-:: Other Parents
+It was unclear whether Captain Picard was technically a prisoner of war thus
+protected by a treaty against mistreatment in tng6x11 "Chain of Command, Part 
+II".
 
 
 problem of language and meaning
@@ -21708,12 +21585,6 @@ differently, i.e. who use very different languages, have to interact.
 
 :: Parents
 society
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 prohibition leads to black markets
@@ -21833,24 +21704,6 @@ mentally distinguished being
 The slick of malevolent tar Armus was such a being in tng1x23 "Skin of Evil".
 
 
-purpose in life
-===============
-
-:: Description
-Featured is a topic about what drives us and makes us act with what we
-perceive as "purpose". These are themes about our aspirations and needs,
-pleasures and cherished beliefs.
-
-:: Parents
-the human condition
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
-
 pursuing one's dream vs. advancing one's career
 ===============================================
 
@@ -21862,11 +21715,9 @@ other personal ambition such as galavanting around the universe.
 career choice
 
 :: Example
-Picard was mightily tempted to leave his post as captain of the Enterprise-D in tng6x20 "The Chase" to do space archaeology with his old mentor Professor Richard Galen.
-
-:: Related Themes
-
-:: Other Parents
+Picard was mightily tempted to leave his post as captain of the Enterprise-D 
+in tng6x20 "The Chase" to do space archaeology with his old mentor Professor 
+Richard Galen.
 
 
 putting differences aside
@@ -21878,12 +21729,6 @@ more important joint purpose.
 
 :: Parents
 humans interacting
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 putting yourself in someone else's shoes
@@ -22056,13 +21901,8 @@ https://en.wikipedia.org/wiki/Anger
 https://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions#Plutchik.27s_wheel_of_emotions
 
 :: Example
-Leah Brahms was aghast to find that Geordi had simulated her on the holodeck in tng4x16 "Galaxy’s Child".
-
-:: Related Themes
-annoyance, rage
-
-:: Other Parents
-Plutchik-emotion
+Leah Brahms was aghast to find that Geordi had simulated her on the holodeck 
+in tng4x16 "Galaxy’s Child".
 
 
 parenting a disabled child
@@ -23246,12 +23086,6 @@ A character does a self-sacrificial thing for the sake of a friend.
 :: Parents
 human self-sacrifice for another
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 sacrifice for a loved one
 =========================
@@ -23262,13 +23096,6 @@ i.e., a family member or a lover.
 
 :: Parents
 human self-sacrifice for another
-
-:: Example
-
-:: Related Themes
-sacrifice for a friend
-
-:: Other Parents
 
 
 sacrifice for a mad stranger
@@ -23293,11 +23120,9 @@ under their command at work or in the military.
 human self-sacrifice for another
 
 :: Example
-Captain Kirk saved Uhura from a savage whipping by taking her place in tos2x17 "The Gamesters of Triskelion", perhaps anticipating the chance to pose bloodied and defiant in a savagely torn shirt.
-
-:: Related Themes
-
-:: Other Parents
+Captain Kirk saved Uhura from a savage whipping by taking her place in tos2x17 
+"The Gamesters of Triskelion", perhaps anticipating the chance to pose 
+bloodied and defiant in a savagely torn shirt.
 
 
 sacrifice for an adversary
@@ -23309,12 +23134,6 @@ opponent or even an enemy.
 
 :: Parents
 human self-sacrifice for another
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 sacrifice for an idea
@@ -23331,12 +23150,6 @@ in.
 :: Parents
 human self-sacrifice
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 sacrifice for one's people
 ==========================
@@ -23347,12 +23160,6 @@ belong to, i.e., their tribe, country, ethnic group, etc.
 
 :: Parents
 human self-sacrifice for another
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 sacrifice self and crew to foil an enemy
@@ -23385,7 +23192,9 @@ people from death.
 human self-sacrifice for another
 
 :: Example
-In voy5x25 "Warhead" the eponymous warhead (a sentient bomb) decides to detonate to destroy a number of other bombs instead of letting them complete their missing, thereby saving countless innocent lives.
+In voy5x25 "Warhead" the eponymous warhead (a sentient bomb) decides to 
+detonate to destroy a number of other bombs instead of letting them complete 
+their missing, thereby saving countless innocent lives.
 
 
 sacrificing a friend to save one's self
@@ -23399,11 +23208,9 @@ capture, or whether to callously sacrifice a friend to save themself.
 personal ethical dilemma
 
 :: Example
-Captain Kirk decided to maroon his old friend Gary on an uninhabited planet after Gary developed dangerous psychic abilities in tos1x01 "Where No Man Has Gone Before".
-
-:: Related Themes
-
-:: Other Parents
+Captain Kirk decided to maroon his old friend Gary on an uninhabited planet 
+after Gary developed dangerous psychic abilities in tos1x01 "Where No Man Has 
+Gone Before".
 
 
 sacrificing a loved one to defeat an enemy
@@ -23443,11 +23250,8 @@ Someone enjoys inflicting physical pain.
 human character
 
 :: Example
-Gul Madred subjected Captain Picard to a host of  sadistic tortures in tng6x11 "Chain of Command, Part II".
-
-:: Related Themes
-
-:: Other Parents
+Gul Madred subjected Captain Picard to a host of  sadistic tortures in tng6x11 
+"Chain of Command, Part II".
 
 
 sadness
@@ -23464,13 +23268,9 @@ human emotion
 https://en.wikipedia.org/wiki/Sadness
 
 :: Example
-The Enteprise crew was saddened to learn that McCoy had been diagnosed with xenopolycythemia, a rare and terminal illness, in tos3x10 "For the World is Hollow and I Have Touched the Sky".
-
-:: Related Themes
-pensiveness, grief
-
-:: Other Parents
-Plutchik-emotion
+The Enteprise crew was saddened to learn that McCoy had been diagnosed with 
+xenopolycythemia, a rare and terminal illness, in tos3x10 "For the World is 
+Hollow and I Have Touched the Sky".
 
 
 sadomasochism
@@ -23961,17 +23761,6 @@ https://en.wikipedia.org/wiki/Self-replicating_machine
 
 :: Example
 Wesley created such things in tng3x01 "Evolution".
-
-
-self-sacrifice
-==============
-
-:: Description
-A character helps another character or cause at a significant cost or risk to
-themself.
-
-:: Parents
-facing adversity
 
 
 selfishness
@@ -28519,12 +28308,6 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Emotion
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 the nature of human perception of time
 ======================================
@@ -28536,11 +28319,8 @@ How we sense and think of time is discussed.
 human nature
 
 :: Example
-Data put the aphorism "a watched pot never boils" to the test in tng6x25 "Timescape".
-
-:: Related Themes
-
-:: Other Parents
+Data put the aphorism "a watched pot never boils" to the test in tng6x25 
+"Timescape".
 
 
 the nature of humor
@@ -28554,12 +28334,6 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Humour
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 the nature of individuality
@@ -28929,13 +28703,7 @@ other need tended to by a benevolent guardian might leave us with little
 capability to control our own lives.
 
 :: Parents
-human need
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+human self-actualization need
 
 
 the need for self-vindication
@@ -29746,12 +29514,6 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Theory_of_evolution
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 the thirst for knowledge
 ========================
@@ -29761,12 +29523,6 @@ A character wants ever more information, understanding, and knowledge.
 
 :: Parents
 human self-actualization need
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 the thrill of danger
@@ -30491,13 +30247,7 @@ Someone emphasizes tradition and doing things "the good old way" as opposed to
 embracing new ways of going about it.
 
 :: Parents
-personal ideology
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+human way of life
 
 
 traditionalist conservatism
@@ -30676,11 +30426,8 @@ sexual norms in society
 https://en.wikipedia.org/wiki/Transsexual
 
 :: Example
-Captain Kirk and Janice Lester switched genders on account of switching bodies in tos3x24 "Turnabout Intruder".
-
-:: Related Themes
-
-:: Other Parents
+Captain Kirk and Janice Lester switched genders on account of switching bodies 
+in tos3x24 "Turnabout Intruder".
 
 
 treason
@@ -30696,12 +30443,6 @@ military issue
 :: References
 https://en.wikipedia.org/wiki/Treason
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 treatment of prisoners
 ======================
@@ -30716,12 +30457,6 @@ law and order issue
 :: References
 https://en.wikipedia.org/wiki/Prisoners%27_rights
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 treatment of the criminally insane
 ==================================
@@ -30732,10 +30467,6 @@ other prisoner, or with more compassion?
 
 :: Parents
 law and order issue
-
-:: Example
-
-:: Related Themes
 
 :: Other Parents
 crime and punishment
@@ -30795,12 +30526,9 @@ mundane trappings, but is a thing of the soul.
 human idea about life
 
 :: Example
-Ruth, Magda and Eve found that they didn’t need the Venus drug to be beautiful because their beauty stemmed from increased self-confidence and not the drug in tos1x03 "Mudd's Women".
-
-:: Related Themes
-what is beauty
-
-:: Other Parents
+Ruth, Magda and Eve found that they didn’t need the Venus drug to be beautiful 
+because their beauty stemmed from increased self-confidence and not the drug 
+in tos1x03 "Mudd's Women".
 
 
 trust
@@ -30817,14 +30545,6 @@ human interpersonal relationship
 :: References
 https://en.wikipedia.org/wiki/Trust_(emotion)
 
-:: Example
-
-:: Related Themes
-acceptance, admiration
-
-:: Other Parents
-Plutchik-emotion
-
 
 trust in a friend
 =================
@@ -30835,12 +30555,6 @@ A character supports a friend by showing unwavering trust in their honesty.
 :: Parents
 friendship
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 trust in a leader
 =================
@@ -30850,12 +30564,6 @@ A leader inspires trust in their team members.
 
 :: Parents
 humans in hierarchy
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 trust in a potential foe
@@ -31299,7 +31007,7 @@ vegetarianism
 Someone abstains from eating meat and other animal products on moral grounds.
 
 :: Parents
-personal ideology
+human way of life
 
 :: References
 https://en.wikipedia.org/wiki/Vegetarianism
@@ -31319,11 +31027,9 @@ law and order issue
 https://en.wikipedia.org/wiki/Feud
 
 :: Example
-Yuta of the vanquished clan Tralesta was genetically altered and spent 100 years tracking down members of the Lornak clan in a vendetta in tng3x09 "The Vengeance Factor".
-
-:: Related Themes
-
-:: Other Parents
+Yuta of the vanquished clan Tralesta was genetically altered and spent 100 
+years tracking down members of the Lornak clan in a vendetta in tng3x09 "The 
+Vengeance Factor".
 
 
 victimization

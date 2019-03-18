@@ -1,14 +1,24 @@
-
-human social position
-=====================
+individual human experience
+===========================
 
 :: Description
-There is an issue pertaining to someone's social position in a group of people.
 
 :: Parents
-humans in group
+the human condition
 
 :: References
+
+
+humans in pairs
+===============
+
+:: Description
+
+:: Parents
+the human condition
+
+:: References
+
 
 
 humans in group
@@ -24,13 +34,25 @@ the human condition
 :: References
 
 
+human social position
+=====================
+
+:: Description
+There is an issue pertaining to someone's social position in a group of people.
+
+:: Parents
+humans in group
+
+:: References
+
+
 human character
 ===============
 
 :: Description
 
 :: Parents
-the human condition
+individual human experience
 
 :: References
 
@@ -66,7 +88,7 @@ This sometimes includes ideas about how other people should lead their lives
 as well.
 
 :: Parents
-the human condition
+individual human experience
 
 :: References
 
@@ -108,6 +130,8 @@ human self-sacrifice
 ====================
 
 :: Description
+A character helps another character or cause at a significant cost or risk to
+themself.
 
 :: Parents
 human tough decision
@@ -156,17 +180,6 @@ public health issue
 
 :: Parents
 national social issue
-
-:: References
-
-
-personal ideology
-=================
-
-:: Description
-
-:: Parents
-the human condition
 
 :: References
 
@@ -255,7 +268,7 @@ human thinking about self
 :: Description
 
 :: Parents
-the human condition
+individual human experience
 
 :: References
 
@@ -288,7 +301,7 @@ human interpersonal relationship
 :: Description
 
 :: Parents
-the human condition
+humans in pairs
 
 :: References
 
@@ -541,7 +554,7 @@ human dreaming
 :: Description
 
 :: Parents
-the human condition
+individual human experience
 
 :: References
 
@@ -574,7 +587,7 @@ human life choice
 :: Description
 
 :: Parents
-the human condition
+human tough decision
 
 :: References
 
@@ -629,7 +642,7 @@ humans in hierarchy
 :: Description
 
 :: Parents
-human interpersonal relationship
+humans in group
 
 :: References
 
@@ -783,7 +796,7 @@ human tough decision
 Someone is faced with making a tough decision.
 
 :: Parents
-human challenge in life
+individual human experience
 
 
 suicide
@@ -807,7 +820,7 @@ Someone is faced with a problem that we might plausible face in the course of
 a typical human lifetime.
 
 :: Parents
-the human condition
+individual human experience
 
 
 homosexuality in society
@@ -834,4 +847,29 @@ people in the common course of life.
 :: Parents
 human worrying about self
 
+
+human emotion
+=============
+
+:: Description
+Someone experiences an intense one of those conscious inner mental states that
+we call emotions. "Hope" and "jealousy" are illustrative examples.
+
+:: Parents
+individual human experience
+
+:: References
+https://en.wikipedia.org/wiki/Emotion
+
+
+purpose in life
+===============
+
+:: Description
+Featured is a topic about what drives us and makes us act with what we
+perceive as "purpose". These are themes about our aspirations and needs,
+pleasures and cherished beliefs.
+
+:: Parents
+individual human experience
 
