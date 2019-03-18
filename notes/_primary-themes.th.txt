@@ -5992,14 +5992,7 @@ Themes that center around someone carrying on in the face of a pervasive
 difficulty that they can do nothing about.
 
 :: Parents
-challenges in life
-
-:: Example
-
-:: Related Themes
-facing adversity
-
-:: Other Parents
+human challenge in life
 
 
 coping with aging
@@ -6032,17 +6025,6 @@ http://tvtropes.org/pmwiki/pmwiki.php/Main/IdentityAmnesia
 :: Example
 John Doe struggled with a bad case of amnesia in tng3x25 "Transfigurations",
 not even remembering his own name.
-
-
-coping with an affliction
-=========================
-
-:: Description
-A character is coping with a physical or mental condition that causes him or
-her a lot of pain or anxiety.
-
-:: Parents
-challenges in life
 
 
 coping with an arrogant jerk
@@ -6570,16 +6552,6 @@ Keiko O'Brien, née Ishikawa, experienced some last minute jitters over
 marrying Miles O'Brien in tng4x11 "Data's Day".
 
 
-coping with danger
-==================
-
-:: Description
-A character experiences a dangerous situation.
-
-:: Parents
-challenges in life
-
-
 coping with degrading mental faculties
 ======================================
 
@@ -6833,28 +6805,8 @@ an obligation or promise.
 human interpersonal relationship
 
 :: Example
-Ro Laren let down Captain Picard in tng7x24 "Preemptive Strike" by defecting the the Maquis.
-
-:: Related Themes
-
-:: Other Parents
-
-
-coping with having to do something
-==================================
-
-:: Description
-A character has to do something they know they must do but that is
-nevertheless psychologically very difficult.
-
-:: Parents
-challenges in life
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+Ro Laren let down Captain Picard in tng7x24 "Preemptive Strike" by defecting 
+the the Maquis.
 
 
 coping with humiliation
@@ -7040,28 +6992,8 @@ human health condition
 https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder
 
 :: Example
-Super soldier Roga Danar suffered from post-traumatic stress disorder after having served in the Angosian military in tng3x11 "The Hunted".
-
-:: Related Themes
-
-:: Other Parents
-
-
-coping with problematic people
-==============================
-
-:: Description
-A character puts up with a person who they cannot avoid but find if difficult
-to deal with for whatever reason.
-
-:: Parents
-challenges in life
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
+Super soldier Roga Danar suffered from post-traumatic stress disorder after 
+having served in the Angosian military in tng3x11 "The Hunted".
 
 
 coping with puberty
@@ -7088,7 +7020,8 @@ human health condition
 https://en.wikipedia.org/wiki/Acute_radiation_syndrome
 
 :: Example
-Little Willie Harding succumbed of radiation poisoning after spending a night in the hospital in "X the Unknown" (1956).
+Little Willie Harding succumbed of radiation poisoning after spending a night 
+in the hospital in "X the Unknown" (1956).
 
 
 coping with reentering society
@@ -7108,6 +7041,13 @@ https://en.wikipedia.org/wiki/Prisoner_reentry
 
 coping with romantic rejection
 ==============================
+
+:: Description
+Someone copes with being rejected by a person they are romantically interested
+in.
+
+:: Parents
+romantic relationship issue
 
 
 coping with saying goodbye forever
@@ -20191,12 +20131,6 @@ A parent shows pride in their offspring.
 :: Parents
 human parenting
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 parental right to refuse medical treatment for their child
 ==========================================================
@@ -20206,7 +20140,7 @@ We are made to think about whose will shoudl prevail when a doctor and a
 child's parents disagree about the child’s medical treatment.
 
 :: Parents
-contemporary social issue
+public health issue
 
 
 parenting
@@ -20221,12 +20155,6 @@ family affairs
 
 :: References
 https://en.wikipedia.org/wiki/Parenting
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 parody on life in academia
@@ -25944,7 +25872,7 @@ standing up to a boss
 A character confronts their boss over perceived unfair treatment.
 
 :: Parents
-human workplace
+humans at work
 
 
 standing up to a bully
@@ -26519,7 +26447,7 @@ Someone has strong feelings of guilt associated with surviving an event in
 which others perished.
 
 :: Parents
-coping with guilt
+human mental condition
 
 :: References
 https://en.wikipedia.org/wiki/Survivor_guilt

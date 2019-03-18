@@ -3,6 +3,7 @@ human social position
 =====================
 
 :: Description
+There is an issue pertaining to someone's social position in a group of people.
 
 :: Parents
 humans in group
@@ -14,6 +15,8 @@ humans in group
 ===============
 
 :: Description
+There is a conflict surrounding people interacting in a group in which 
+everyone more or less knows everyone else.
 
 :: Parents
 the human condition
