@@ -13,6 +13,7 @@ humans in pairs
 ===============
 
 :: Description
+A relationship between two individuals.
 
 :: Parents
 the human condition
@@ -145,7 +146,7 @@ human worrying about self
 :: Description
 
 :: Parents
-the human condition
+individual human experience
 
 :: References
 
@@ -168,7 +169,7 @@ human in danger
 :: Description
 
 :: Parents
-the human condition
+human challenge in life
 
 :: References
 
@@ -565,7 +566,7 @@ human health condition
 :: Description
 
 :: Parents
-the human condition
+human challenge in life
 
 :: References
 
@@ -872,4 +873,16 @@ pleasures and cherished beliefs.
 
 :: Parents
 individual human experience
+
+
+family affairs
+==============
+
+:: Description
+The category of themes that are about interpersonal relations and interaction
+within a family.
+
+:: Parents
+humans in group
+
 
