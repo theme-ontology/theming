@@ -9951,12 +9951,6 @@ classical philosophy
 :: References
 https://en.wikipedia.org/wiki/Ethics
 
-:: Example
-
-:: Related Themes
-
-:: Other Parents
-
 
 ethnic hatred
 =============
@@ -9969,12 +9963,6 @@ political issue
 
 :: References
 https://en.wikipedia.org/wiki/Ethnic_hatred
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 eugenics
@@ -13326,11 +13314,8 @@ vicious self-reinforcing cycle. The same goes for violence.
 human idea about life
 
 :: Example
-Areel Shaw argued that it was basic human nature to hate a person who hates you in tos1x14 "Court Martial".
-
-:: Related Themes
-
-:: Other Parents
+Areel Shaw argued that it was basic human nature to hate a person who hates 
+you in tos1x14 "Court Martial".
 
 :: Aliases
 if you live by the sword you will die by the sword
@@ -16063,15 +16048,23 @@ Someone struggles with the pressure of meeting the expectations of others.
 human social position
 
 :: Example
-Wesley, the wunderkind, failed to meet expectations that he would pass the Starfleet Academy entrance exam in in tng1x19 "Coming of Age".
-
-:: Related Themes
-
-:: Other Parents
+Wesley, the wunderkind, failed to meet expectations that he would pass the 
+Starfleet Academy entrance exam in in tng1x19 "Coming of Age".
 
 
 hatred
 ======
+
+:: Description
+A character is overcome with inordinate and uncontrolled feelings of hatred
+and anger. In practice, this is used for hot-blooded fighting when it is
+featured as part of the story.
+
+:: Parents
+human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Hatred
 
 
 lobotomization
@@ -21396,6 +21389,12 @@ https://en.wikipedia.org/wiki/Precognition
 
 facing being hunted like an animal
 ==================================
+
+:: Description
+Someone struggles to survive while being hunted.
+
+:: Parents
+human vs. human
 
 
 preemptive strike in self-defense
@@ -29148,10 +29147,6 @@ them? Is there room for doubt?
 :: Parents
 social ethical dilemma
 
-:: Example
-
-:: Related Themes
-
 :: Other Parents
 fictional issue
 
@@ -33874,6 +33869,20 @@ against good conscience.
 
 genocide vs. foregoing personal gain
 ====================================
+
+:: Description
+Someone must choose whether or not to kill people, or perhaps even an entire 
+species of sentient beings, to acquire wealth. Outlandish as this may sound, 
+mankind has a long history of engaging in intellectual sophistry for the sake 
+of personal gain; remember the North American slave trade.
+
+:: Parents
+personal ethical dilemma
+
+:: Example
+The miners on Janus VI were faced with that eternal human ethical dilemma: to 
+give up a lucrative source of wealth or kill off a race of intelligent beings, 
+in tos1x26 "The Devil in the Dark".
 
 
 xenophobia in society
