@@ -350,11 +350,10 @@ desperation [crew when seems Balok will destroy the Enterprise],
 leadership [Kirk in getting out of the crisis] <Kirk>,
 magnanimity in victory [Kirk to Balok] <Kirk>,
 boredom [Bailey complains they have been star-mapping for three days] <Dave Bailey>,
-fear [crew of impending destruction],
 hospitality [Balok offers Tranya hospitality] <Balok>,
 kindness [Balok rescued by Kirk] <Kirk>,
 anger [Bailey] <Dave Bailey>,
-fear [Bailey] <Dave Bailey>,
+fear [Crew was in fear of impending destruction the enterprise, especially Bailey.] <Dave Bailey>,
 
 :: Source ID
 tos1x02
@@ -573,10 +572,6 @@ masters license [],
 atmosphere ionization [] {transporter complication},
 double jack [] {card game},
 
-:: Errors
-
-:: Notes
-
 
 tos1x04
 =======
@@ -638,7 +633,6 @@ mercy [good-Kirk] <Good Kirk>,
 patience [good-Kirk] <Good Kirk>,
 ruthlessness [evil-Kirk] <Evil Kirk>,
 laziness [evil-Kirk drunken escape] <Evil Kirk>,
-fear [Janice during attempted rape] <Janice Rand>,
 trust in a potential foe [good-Kirk and evil-Kirk ultimately trusted one another] <Good Kirk, Evil Kirk>,
 
 :: Source ID
@@ -1639,7 +1633,6 @@ statute of limitations [Kodos],
 the need for self-vindication [Kodos] <Kodos the Executioner>,
 confronting an old ghost [Kodos] <Kodos the Executioner>,
 remorse [Kodos] <Kodos the Executioner>,
-remorse [Kodos] <Kodos the Executioner>,
 
 :: Minor Themes
 the desire for justice [Kirk desired justice for Kodos] <Kirk>,
@@ -2423,11 +2416,10 @@ the desire for vengeance [Trelane to Kirk] <Trelane>,
 selfless service [Kirk beams down and instructs the crew to get away] <Kirk>,
 what if I had to fight to the death [Kirk and Trelane] <Kirk>,
 adolescence [Trelane] <Trelane>,
-anger [Squire sought to experience] <Trelane>,
+anger [Squire sought to experience the emotion of anger.] <Trelane>,
 ennui [squire] <Trelane>,
 cruelty [squire] <Trelane>,
 hospitality [squire to landing party] <Trelane>,
-anger [squire temper tantrums] <Trelane>,
 ruthlessness [squire] <Trelane>,
 sadism [squire] <Trelane>,
 vanity [squire] <Trelane>,
@@ -3389,12 +3381,10 @@ friendship [Kirk and Spock] <Kirk/Spock>,
 coping with unwelcome romantic attention [Spock from Leila] <Spock>,
 old flames [Spock and Leila] <Spock/Leila Kalomi>,
 cross cultural romance [Spock and Leila] <Spock/Leila Kalomi>,
-anger [colonists and crew after Kirk and Spock shower the planet kind] <Spock>,
+anger [Kirk made Spock get angry at him.] <Spock>,
 chastity [Spock in the past] <Spock>,
 fortitude [Kirk not giving in] <Kirk>,
 gluttony [McCoy and his drink] <McCoy>,
-anger [barnyard brawl; Kirk vs. Spock] <Spock>,
-laziness [Spock playing in tree instead of showing up for meeting] <Spock>,
 
 :: Source ID
 tos1x25
@@ -3953,7 +3943,6 @@ neural parasite [the creatures] <Neural Collective Parasites>,
 :: Minor Themes
 brother and brother [Kirk/Sam] <Kirk/George Samuel Kirk>,
 uncle and nephew [Kirk/Peter] <Kirk/Peter Kirk>,
-remorse [McCoy for letting Spock go blind] <McCoy>,
 second guessing one's self [McCoy and possibly Kirk] <McCoy>,
 coping with having injured a friend [McCoy with having blinded Spock] <McCoy>,
 the value of testing a hypothesis [Spock going blind saved the colonists from a similar fate],
@@ -3962,8 +3951,7 @@ fraternal love [Kirk and his brother] <Kirk, George Samuel Kirk>,
 coping with the death of a sibling [Kirk at his brother] <Kirk>,
 fortitude [Spock going back in spite of weakness] <Spock>,
 grief [Kirk for brother] <Kirk>,
-anger [Spock in scuffle] <Spock>,
-remorse [McCoy for having blinded Spock] <McCoy>,
+remorse [McCoy for having blinded Spock.] <McCoy>,
 
 :: Source ID
 tos1x29
@@ -5860,14 +5848,13 @@ civilization vs. savagery [horrors of the colleaseum],
 :: Minor Themes
 parallel earth [Roman world planet] <planet 892-IV>,
 freedom of religion [worship of the sun],
-slavery [the children of the sun were enslaved],
+slavery [The children of the sun were enslaved by the Space Romans.],
 male bonding [McCoy and Spock] <McCoy/Spock>,
 order vs. freedom [order under Roman rule vs. freedom under the sun?],
 diplomacy vs. force [Scotty] <Scotty>,
 pacifism [Septimus abhors violence] <Septimus>,
 cowardice [Merik] <R.M. Merik>,
 respect for an enemy [Proconsul at Kirk] <Claudius Marcus>,
-slavery [the children of the sun were enslaved],
 Christianity [the children of the sun were christians],
 the Roman gods [there was a car named after Jupiter],
 polytheism [Roman god stuff],
@@ -7709,7 +7696,6 @@ war of mutual annihilation [threat of war loomed between Elasian and Troyian civ
 anger [Petri to Elaan after stabbing and Elaan was generally an angry person] <Petri, Elaan>,
 hospitality [Kirk to aliens] <Kirk>,
 kindness [Kirk to Elaan at first] <Kirk>,
-anger [Elaan temper tantrum] <Elaan>,
 vanity [Elaan] <Elaan>,
 
 :: Source ID
@@ -8122,7 +8108,6 @@ cruelty [Gorgon] <Gorgon>,
 kindness [Christine for children] <Christine>,
 patience [Kirk with children] <Kirk>,
 ruthlessness [Gorgon] <Gorgon>,
-fear [Sulu with space knives] <Sulu>,
 
 :: Source ID
 tos3x05
@@ -9033,14 +9018,13 @@ honor [Alexander] <Alexander>,
 ruthlessness [Platonian nobles] <Parmen>,
 the desire for vengeance [Alexander] <Alexander>,
 the need for freedom [Alexander] <Alexander>,
-anger [Alexander at Platonians] <Alexander>,
+anger [Alexander felt angry and resentful toward the Platonians.] <Alexander>,
 cruelty [Platonians towards Alexander] <Parmen>,
 distaste for attention [Alexander] <Alexander>,
 generosity [gifts bestowed on McCoy by Parmen] <Parmen>,
 hedonism [Platonians],
 humility [Alexander] <Alexander>,
 kindness [Alexander] <Alexander>,
-anger [Parmen flew into a feverish rage] <Parmen>,
 laziness [Platonians],
 
 :: Source ID
@@ -9435,7 +9419,6 @@ crew's attachment to their ship [Kirk] <Kirk>,
 self-destruct tactic [Kirk threatened to destroy the ship],
 indoctrination of the young [Locai to the crew],
 guilt and evidence [should Lokai be granted assylum or not],
-anger [Lokai and Bele at Kirk] <Bele, Lokai>,
 hospitality [Kirk to aliens] <Kirk>,
 kindness [Kirk to aliens] <Kirk>,
 patience [Kirk with aliens] <Kirk>,
@@ -9934,7 +9917,7 @@ oppression [Troglytes systematically oppressed by Stratos city dwellers],
 exploitation of sentient beings [Troglytes exploited in the mines],
 utopia on the back of slave labor [city dwellers luxuriate in the clouds while Troglytes toil in the mines],
 class prejudice in society [city dwellers thought the troglytes biologically inferior],
-slavery [Trogyltes were enslaved],
+slavery [The Trogyltes were enslaved by the Cloud City dwellers.],
 ethnic hatred [Troglytes and Stratos city dwellers],
 
 :: Major Themes
@@ -9946,7 +9929,6 @@ civilization vs. savagery [who is really the monster here?],
 terrorist or freedom fighter [Troglyte point of view],
 choosing between just causes [Kirk between Troglyte and city dweller interests] <Kirk>,
 dealing with terrorists [Kirk and Plasus with Troglytes] <Kirk, Plasus>,
-slavery [Troglytes were to the cloud dwellers],
 
 :: Minor Themes
 anti-intellectualism in society [Troglytes vandalised work of art on Floating City],
@@ -9964,8 +9946,6 @@ caste system [Troglytes were the low cast],
 vandalism [Troglyte destroyed work of art],
 clash of wills [Kirk/Plasus] <Kirk/Plasus>,
 what if I had to fight to the death [Kirk and Plasus] <Kirk>,
-anger [Plasus at Kirk] <Plasus>,
-anger [Kirk and Plasus] <Kirk, Plasus>,
 enlightened dictatorship [Plasus],
 
 :: Source ID
