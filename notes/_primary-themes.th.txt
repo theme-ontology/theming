@@ -10641,7 +10641,7 @@ facing persecution by the government
 ====================================
 
 :: Description
-A character is being chased by the governing body in the region, for whatever
+A character is being pursued by the governing body in the region, for whatever
 reason.
 
 :: Parents
@@ -16895,8 +16895,7 @@ A character experiences what it is like to face an entire institution, like
 the secret police, that is out to get them.
 
 :: Parents
-human vs. technology
-
+survival
 
 human vs. machine
 =================
@@ -16935,19 +16934,34 @@ A human struggles to survive contact with a space anomaly of some kind.
 human vs. nature
 
 :: Example
-Beverly became trapped in a collapsing warp bubble universe in tng4x05 "Remember Me".
-
-:: Related Themes
-
-:: Other Parents
+Beverly became trapped in a collapsing warp bubble universe in tng4x05 
+"Remember Me".
 
 
 human vs. technology
 ====================
 
+:: Description
+A conflict between a person and technology is featured.
+
+:: Parents
+survival
+
+:: References
+https://en.wikipedia.org/wiki/Man_vs._Technology
+
 
 human vs. the occult
 ====================
+
+:: Description
+A human fights supernatural forces, e.g., ghosts.
+
+:: Parents
+survival
+
+:: Example
+All manner of hocus-pocus abounded in tos2x01 "Catspaw".
 
 
 man vs. woman
@@ -16966,6 +16980,12 @@ http://tvtropes.org/pmwiki/pmwiki.php/Main/Conflict
 
 human vs. zombie
 ================
+
+:: Description
+There is a struggle between man and zombie.
+
+:: Parents
+human vs. the occult
 
 
 human-made pandemic
