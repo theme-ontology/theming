@@ -13869,10 +13869,6 @@ https://en.wikipedia.org/wiki/Outline_of_human_anatomy
 human AI relationship
 =====================
 
-
-human and AI romance
-====================
-
 :: Description
 A romantic relationship between a real person and an artificial person is
 featured.
@@ -16842,6 +16838,13 @@ tribulation during which they come to much better understand each other.
 human vs. affliction
 ====================
 
+:: Description
+A character struggles to overcome an affliction, like a disease, a disorder,
+or something else that causes pain and suffering.
+
+:: Parents
+human vs. nature
+
 
 human vs. beast
 ===============
@@ -16873,6 +16876,16 @@ breeding stock in tos0x01 "The Cage".
 human vs. evil genius
 =====================
 
+:: Description
+A struggle between a protagonist and a stock mad scientist type character is
+featured.
+
+:: Parents
+survival
+
+:: References
+https://en.wikipedia.org/wiki/Mad_scientist
+
 
 human vs. institution
 =====================
@@ -16882,11 +16895,24 @@ A character experiences what it is like to face an entire institution, like
 the secret police, that is out to get them.
 
 :: Parents
-survival
+human vs. technology
 
 
 human vs. machine
 =================
+
+:: Description
+A struggle between human and machine is featured.
+
+:: Parents
+survival
+
+:: References
+http://tvtropes.org/pmwiki/pmwiki.php/Main/ManVersusMachine
+
+:: Example
+The Enterprise-D crew were almost overwhelmed by the autonomous planetary 
+defense system of Minosian design in tng1x21 "The Arsenal of Freedom".
 
 
 human vs. self
