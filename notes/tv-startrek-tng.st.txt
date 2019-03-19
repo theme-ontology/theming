@@ -672,7 +672,6 @@ fear [crew facing their fears at edge of universe],
 generosity [Traveler] <The Traveler>,
 humility [Traveler] <The Traveler>,
 kindness [Traveler] <The Traveler>,
-fear [crewman behind wall of flames],
 filial love [Picard to mother] <Picard>,
 
 :: Source ID
@@ -5595,9 +5594,6 @@ sleeper agents [Klingon sleeper vessel agents],
 lovers' quarrel [Worf and K'Ehleyr] <Worf/K'Ehleyr>,
 chastity [Worf insists KEhleyr follow Klingon mating customs] <Worf>,
 personal conviction [Picard about not killing rogue Klingons] <Picard>,
-anger [Worf and K'Ehleyr] <Worf, K'Ehleyr>,
-laziness [K'Elyhr late to her duty] <K'Ehleyr>,
-laziness [K'Ehleyr was late for duty] <K'Ehleyr>,
 
 :: Source ID
 tng2x20
@@ -5955,8 +5951,6 @@ red giant [Stubbs was on the Enterprise to study a supernova involving a red gia
 neutron star [Stubbs was on the Enterprise to study a supernova involving a neutron star],
 remorse [Stubbs] <Paul Stubbs>,
 chastity [Troi when Stubbs put the moves on her] <Troi>,
-laziness [Wesley asleep on the job] <Wesley>,
-laziness [Wesley late for duty] <Wesley>,
 
 :: Source ID
 tng3x01
@@ -6473,7 +6467,6 @@ human parenting [Worf raising Jeremy] <Worf>,
 :: Major Themes
 cultural differences [Worf and Jeremy don't quite see eye to eye],
 grief [Jeremy over his mother] <Jeremy Aster>,
-remorse [Worf and the entity] <Worf, Koinonian entity>,
 orphanhood [Jeremy was orphaned],
 to tell the truth vs. offering a comforting lie [Picard come clean with Jeremy about the death of his mother],
 mother and son [Marla and Jeremy] <Marla Aster/Jeremy Aster>,
@@ -7701,12 +7694,10 @@ art appreciation [Data and Picard] <Data, Picard>,
 arms trade [Nel sold his gizmo as a weapon],
 persecution complex [Nel felt Riker was unfair to him] <Nel Apgar>,
 the desire for vengeance [Nel tried to kill Riker] <Nel Apgar>,
-anger [Nel Apgar at Riker] <Nel Apgar>,
 chastity [Manua Apgar in her own mind] <Manua Apgar>,
 grief [Manua Apgar over her husband] <Manua Apgar>,
 hospitality [Riker welcomed on space station by Manua] <Manua Apgar>,
 jealousy [Nel of Riker over Manua] <Nel Apgar>,
-anger [Nel Apgar] <Nel Apgar>,
 trust [Troi in Riker] <Troi>,
 trust in a friend [Troi in Riker] <Troi>,
 hatred [Apgar for Riker] <Nel Apgar>,
@@ -8104,7 +8095,6 @@ anger [Worf flips out at Kurn and Klingons more generally] <Worf>,
 fortitude [Worf fighting for his honour] <Worf>,
 hatred [Worf for Duras] <Worf>,
 personal conviction [Worf] <Worf>,
-anger [Worf in Kurn's quarters] <Worf>,
 what it is like in a legal proceeding [Worf stands trial to prove his father's innocence],
 guilt and evidence [what evidence was necessary to exonerate Worf's father],
 
@@ -8614,10 +8604,8 @@ coping with stress at work [Barclay] <Barclay>,
 friendship [Barclay and Geordi] <Barclay/Geordi>,
 putting differences aside [Barclay and Geordi] <Barclay/Geordi>,
 patience [Geordi toward Barclay] <Geordi>,
-laziness [Barclay neglects his duties] <Barclay>,
 
 :: Minor Themes
-laziness [Barclay was late for a meeting] <Barclay>,
 reclusiveness [Barclay] <Barclay>,
 overcoming an inhibition [Barclay] <Barclay>,
 the right to one's own likeness [Barclay using crew-members on the holodeck],
@@ -8915,7 +8903,6 @@ distaste for attention [Sarek] <Sarek>,
 hospitality [Picard hold recital for Sarek] <Picard>,
 humility [Vulcans],
 kindness [Picard] <Picard>,
-anger [Sarek outburst] <Sarek>,
 reclusiveness [Sarek] <Sarek>,
 sadness [Sarek cries at concert] <Sarek>,
 Spartan asceticism [Vulcans],
@@ -10492,8 +10479,6 @@ coping with an incompetent coworker [Picard and Wesley with Dirgo] <Picard, Wesl
 gluttony [Dirgo and hooch] <Dirgo>,
 humility [Picard] <Picard>,
 patience [Picard with Dirgo] <Picard>,
-laziness [Wesley 10 mins late for meeting] <Wesley>,
-laziness [Wesley 10 mins late for meeting] <Wesley>,
 habitable moon [Picard and friends crash landed on a barely habitable moon] <Lambda Paz>,
 
 :: Source ID
@@ -10993,7 +10978,6 @@ ecological destruction [ancient Ventaxians nearly polluted their planet to death
 android [Data about being impartial judge at trial] <Data, Soong Type Android>,
 signs from the heavens [Ardra rains down signs from the heavens on Ventaxians],
 chastity [Picard denies Ardra] <Picard>,
-fear [Ventaxians] <Acost Jared>,
 global unification under a central authority [Vextaxian society emerged under a central authority from disorder] <Ventaxian>,
 fear [Ardra instilled the fear of the lord in Jared among others] <Acost Jared>,
 
@@ -11484,7 +11468,6 @@ mystery
 coping with insomnia [everyone but with emphasis on Picard, Riker, and Beverly] <Picard, Riker, Beverly>,
 sleep deprivation [everyone but with emphasis on Picard, Riker, and Beverly] <Picard, Riker, Beverly>,
 acute anxiety [crew paranoid from lack of REM sleep],
-fear [crew fearful from lack of REM sleep],
 fear [crew terrified from lack of REM sleep],
 
 :: Major Themes
@@ -14070,7 +14053,6 @@ role models [Data as a role model to Timothy] <Data>,
 remorse [Timothy thought he was responsible for destroying the Vico] <Timothy>,
 
 :: Major Themes
-remorse [Timothy though he caused the accident] <Timothy>,
 male bonding [Data and Timothy] <Data/Timothy>,
 belonging [Timothy] <Timothy>,
 escape from reality [Timothy pretends to be an android to escape from his guilt] <Timothy>,
@@ -15097,7 +15079,6 @@ taking responsibility for one's actions [Wesley] <Wesley>,
 betrayal [Wesley betrayed Locarno] <Wesley>,
 seeing the error of one's ways [Wesley] <Wesley>,
 guilt and evidence [Picard and Brand suspect the kids but can't prove it in court],
-remorse [Wesley] <Wesley>,
 trust in a friend [Wesley and other students in Locarno] <Wesley>,
 
 :: Minor Themes
@@ -18827,8 +18808,6 @@ leadership [Kahless lacked the leadership qualities that were expected of him] <
 the qualities of a good leader [Kahless lacked the leadership qualities that were expected of him] <Kahless (clone)>,
 mercy [Worf stayed Gowrons hand] <Worf>,
 patience [Worf stayed Gowrons hand] <Worf>,
-laziness [Worf neglected duties] <Worf>,
-laziness [Worf late for duty] <Worf>,
 theocracy [Kahless briefly wanted to rule over Klingons] <Klingon>,
 
 :: Source ID
@@ -19164,7 +19143,6 @@ Alynna Nechayev, Troi, Riker, Worf, Geordi, Beverly, Albert Einstein (hologram),
 action
 
 :: Choice Themes
-anger [Data experiences the emotion of blind rage] <Data>,
 anger [Data experiences the emotion of blind rage] <Data>,
 the desire for vengeance [Data took vengeance out on Borg drone and enjoyed it] <Data>,
 hatred [Data learning hatred and loathing] <Data>,
@@ -21440,10 +21418,8 @@ ghosts [Walter Pierce was really a ghost],
 :: Major Themes
 coping with suicide [crew with the suicide of Daniel Kwan; especially Riker] <Riker>,
 despair [Troi] <Troi>,
-anger [Troi flipped out and shot Worf] <Troi>,
 contemplating suicide [Daniel Kwon] <Daniel Kwon>,
 suicide in society [Picard and the crew were shocked by Daniel Kwon's suicide],
-anger [Troi flipped out and shot Worf] <Troi>,
 coping with romantic rejection [Pierce rejected by Marla Finn] <Walter Pierce>,
 
 :: Minor Themes
@@ -21566,7 +21542,6 @@ expecting parents [Ogawa's pregnancy] <Alyssa Ogawa>,
 fear for one's life [Picard with Klingon targ running around] <Picard>,
 recapitulation theory [Haeckel's theory],
 android [Data immune to the effects of de-evolution] <Data, Soong Type Android>,
-fear [Picard with Klingon targ running around] <Picard>,
 human vs. beast [Picard and Data vs. Worf] <Picard, Data>,
 anger [caveman-Riker] <Riker>,
 fortitude [Picard carries on in spite of his fears] <Picard>,
@@ -21711,7 +21686,6 @@ space colonization [Native Americans left Earth to found a colony],
 resettlement vs. fighting for one's homeland [space Native Americans],
 putting differences aside [Picard and admiral] <Picard/Alyanna Nechayev>,
 sins of the father [Picard's ancestor Javier Maribona Picard fought the Native Americans],
-remorse [Picard over the actions of Javier Maribona Picard] <Picard>,
 mentor and protégé [The Traveler and Wesley] <The Traveler/Wesley>,
 cultural differences [Humans and space Native Americans],
 confronting an old ghost [Picard about his ancestor] <Picard>,
