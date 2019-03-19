@@ -764,6 +764,16 @@ https://en.wikipedia.org/wiki/Sexually_transmitted_infection
 choosing who dies and who lives
 ===============================
 
+:: Description
+A character faces a choice where every alternative has significant negative
+consequences.
+
+:: Parents
+personal ethical dilemma
+
+:: References
+https://en.wiktionary.org/wiki/Sophie%27s_choice
+
 
 Spartan asceticism
 ==================
@@ -6539,6 +6549,16 @@ coping with problematic people
 coping with a family issue
 ==========================
 
+:: Description
+Someone is troubled by the obligations and other troubles that stem from one's
+family connection, for example spending time taking care of children.
+
+:: Parents
+family affairs
+
+:: References
+https://en.wikipedia.org/wiki/Dysfunctional_family
+
 
 coping with food poisoning
 ==========================
@@ -8152,6 +8172,22 @@ https://en.wikipedia.org/wiki/Information_privacy
 
 Faustian bargain
 ================
+
+:: Description
+A character chooses to make an agreement that gets them immediate
+gratification of some sort but leaves a terrible price to be paid down the
+road.
+
+:: Parents
+human life choice
+
+:: References
+https://en.wikipedia.org/wiki/Deal_with_the_Devil
+
+:: Example
+The Ventaxians had made a literal deal with the devil to provide a thousand 
+years of paradise on their homeworld in return for future enslavement in 
+tng4x13 "Devil's Due".
 
 
 dealing with children
@@ -16802,7 +16838,8 @@ is not used if the nature of the relationship is predominantly romantic.
 friendship
 
 :: Example
-In ent1x15 "Shadows of P'Jem", Archer and T'Pol are held hostage together, a tribulation during which they come to much better understand each other.
+In ent1x15 "Shadows of P'Jem", Archer and T'Pol are held hostage together, a 
+tribulation during which they come to much better understand each other.
 
 
 human vs. affliction
@@ -17270,6 +17307,17 @@ artificial being
 coping with a meddling parent
 =============================
 
+:: Description
+The life of a child or adult whose parent or parents interfere more than is
+desired is explored.
+
+:: Parents
+human parenting
+
+:: Example
+Worf's adoptive, Human parents embarrassed the Klingon during their visit 
+aboard the Enterprise-D in tng4x02 "Family".
+
 
 interfactional mediation
 ========================
@@ -17284,12 +17332,6 @@ diplomacy
 
 :: References
 https://en.wikipedia.org/wiki/Mediation
-
-:: Example
-
-:: Related Themes
-
-:: Other Parents
 
 
 medical assistance to the enemy
