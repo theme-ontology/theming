@@ -102,7 +102,7 @@ There is a device, often torch like, that can be held in one hand and used in
 order to see through various kinds of solid matter.
 
 :: Parents
-speculative device
+speculative handheld device
 
 
 flying saucer
@@ -684,7 +684,7 @@ There is military type person whose thought processes and perceptions have
 been directly enhanced using some type of technology.
 
 :: Parents
-speculative being
+artificial being
 
 
 sex to control soldiers
@@ -1905,21 +1905,21 @@ our present capabilities, such as an arcology or a floating city.
 sub-planetary-scale engineering
 
 
-orbital structure
-=================
+engineered orbital structure
+============================
 
 :: Description
 There is a technological construction in orbit around an astronomical body.
 
 :: Parents
-speculative engineering
+engineered space structure
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure#Orbital_structures
 
 
-space structure
-===============
+engineered space structure
+==========================
 
 :: Description
 There is a technological construction in outer space.
@@ -1936,7 +1936,7 @@ There is a technological construction connects (perhaps not physically) a
 planet with things orbiting it.
 
 :: Parents
-speculative engineering
+engineered space structure
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure#Trans-orbital_structures
@@ -2643,7 +2643,7 @@ constructed an enormous mirror outside Earth to reflect sunlight and thus to
 cool the planet.
 
 :: Parents
-space structure
+engineered space structure
 
 :: References
 https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering)
