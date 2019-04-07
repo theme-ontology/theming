@@ -2624,11 +2624,11 @@ death in a rapid atmospheric dissipation event on their homeworld in tng7x13
 "Homeward".
 
 
-atomic warfare
-==============
+nuclear weapons
+===============
 
 :: Description
-Nuclear weapons are used in war.
+The use of nuclear technology for war is featured.
 
 :: Parents
 weapons of mass destruction
@@ -3464,10 +3464,10 @@ biological warfare
 ==================
 
 :: Description
-Biological weapons, i.e., man-made diseases, are used in warfare.
+The use of biological agents, i.e., man-made diseases, to indiscriminantly kill people is featured.
 
 :: Parents
-war
+weapons of mass destruction
 
 :: References
 https://en.wikipedia.org/wiki/Biological_warfare
@@ -4363,11 +4363,11 @@ Captain Picard declined Ardra's amorous advances when she materialized in his qu
 :: Other Parents
 
 
-chemical warfare
+chemical weapons
 ================
 
 :: Description
-Chemical weapons, i.e., poison gas, are used in warfare.
+The use of chemicals, i.e., poison gas, to indiscriminantly kill people is featured.  
 
 :: Parents
 weapons of mass destruction
@@ -19153,7 +19153,7 @@ Nuclear weapons are strategically placed in space, in orbit around a planet,
 from where they can easily be deployed against any desired target.
 
 :: Parents
-weapons of mass destruction
+engineered orbital structure
 
 :: References
 https://en.wikipedia.org/wiki/Space_weapon
