@@ -1,0 +1,32 @@
+TOOLS
+=====
+
+Clone https://github.com/odinlake/tstp and make sure tstp/scripts is on your path.
+On Windows, double clicking tstp/scripts/run.bat will start a useful CMD window
+in which the environment is set up.
+
+Clone https://github.com/odinlake/theming. Using the environment described above,
+navigate to themeing/notes. You can now use python tools exemplified below to
+make batch changes to the themeing repository of themes and stories.
+
+
+merge proposed themes and primary themes
+========================================
+
+> pyrun util.mergetxt _proposed-themes.th.txt _primary-themes.th.txt >> _new_themes.th.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
