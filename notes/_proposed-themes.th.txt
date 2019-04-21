@@ -1017,7 +1017,7 @@ animal rights
 =============
 
 :: Description
-We are made to ponder what rights, if any, various animals should have in
+We are made to ponder what rights, if any, various animals should have
 vis-à-vis human society.
 
 :: Parents
@@ -1049,7 +1049,7 @@ amphibian-like being
 ====================
 
 :: Description
-A being patterned after amphibians.
+There is a being patterned after amphibians.
 
 :: Parents
 animal and plant patterned being
@@ -1059,7 +1059,7 @@ worm-like being
 ===============
 
 :: Description
-A sentient being patterned on worms.
+There is a sentient being patterned on worms.
 
 :: Parents
 animal and plant patterned being
@@ -1236,7 +1236,8 @@ what if I could control minds
 =============================
 
 :: Description
-Someone uses their mind to control someone to do things against their will.
+We imagine what it would be like to be able to control others' minds so as to make 
+people do things against their will.
 
 :: Parents
 what if I had an extraordinary ability
@@ -1273,7 +1274,7 @@ speculative world
 =================
 
 :: Description
-There is a science fictional or fantasy world.
+There is a fictional world of some sort.
 
 :: Parents
 speculative fiction theme
@@ -1286,7 +1287,7 @@ speculative habitat
 ===================
 
 :: Description
-Speculative places on and off the Earth humans might one day call home.
+Speculative places (on and off Earth) that humans might one day call home.
 
 :: Parents
 speculative world
@@ -1296,7 +1297,7 @@ speculative being
 =================
 
 :: Description
-A novel being not found in the real world as it is presently understood.
+There is a novel being not found in the real world as it is presently understood.
 
 :: Parents
 speculative fiction theme
@@ -1311,7 +1312,7 @@ artificial being
 ================
 
 :: Description
-A being that was produced using technology as opposed to the old fashioned
+There is a being that was produced using technology as opposed to the old fashioned
 way.
 
 :: Parents
@@ -1396,7 +1397,7 @@ hybrid being
 ============
 
 :: Description
-A being that incorporates elements from both humans and non-humans.
+There is a being that incorporates elements from both humans and non-humans.
 
 :: Parents
 biologically distinguished being
@@ -1409,7 +1410,7 @@ animal and plant patterned being
 ================================
 
 :: Description
-A being inspired by Earth animal and plant wildlife. These include cat-like
+There is a being inspired by Earth animal and plant wildlife. These include cat-like
 being, dog-like beings, fish-like beings and other mind-boggling hybrids of
 humans with well known Earth wildlife.
 
@@ -1421,7 +1422,7 @@ hovercar
 ========
 
 :: Description
-A personal vehicle that flies at a constant altitude of up to some feet above
+There is a personal vehicle that flies at a constant altitude of up to some feet above
 the ground and used for personal transportation.
 
 :: Parents
@@ -1456,7 +1457,7 @@ Native American stereotype
 
 :: Description
 There is a stereotypical depiction of a Native American, i.e. with feather
-headgear, tomahawks, peace pipes etc.
+headgear, tomahawks, peace pipes, etc.
 
 :: Parents
 history
@@ -1482,7 +1483,7 @@ alcohol in society
 ==================
 
 :: Description
-Prohibition or some other societal reaction to the pervasive use of alcohol is
+Prohibition, or some other societal reaction to the pervasive use of alcohol, is
 featured.
 
 :: Parents
@@ -1520,22 +1521,18 @@ astronomical-scale engineering
 https://en.wikipedia.org/wiki/Stellar_engineering
 
 
-speculative technology
-======================
+mindwipe
+========
 
 :: Description
-A technology falling somewhere on the spectrum from being a realistic
-elaboration on a currently existing technology (e.g. a self-driving care), to
-a scientifically plausible portrayal of a technology far beyond our current
-capabilities (e.g. a Dyson sphere), to a technology that is unsupported by
-science as we know it (e.g. a time machine).
+A fictional memory erasure procedure in which the subject's memories and 
+sometimes personality are erased.
 
 :: Parents
-speculative fiction theme
+mind altering technology
 
 :: References
-https://en.wikipedia.org/wiki/Technology_in_science_fiction
-https://en.wikipedia.org/wiki/Category:Fictional_technology
+https://en.wikipedia.org/wiki/Mindwipe
 
 
 brain implant
