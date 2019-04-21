@@ -2153,7 +2153,7 @@ technological risk to civilization
 ==================================
 
 :: Description
-People rely a technology but it has unforeseen consequences and civilization
+People rely on some technology but it has unforeseen consequences and civilization
 collapses.
 
 :: Parents
@@ -2167,7 +2167,7 @@ institutional risk to civilization
 ==================================
 
 :: Description
-People rely on a particular form of organizing their civilization but they are
+People rely on a particular way of organizing their civilization but they are
 either trapper in it or it has unforeseen consequences and civilization
 collapses.
 
@@ -2217,8 +2217,7 @@ attack from outer space
 =======================
 
 :: Description
-There is a potentially civilization ending attack of your planet from outer
-space.
+Civilization as we know it is under threat because of an invader from outer space.
 
 :: Parents
 hostile extraterrestrial life
@@ -2310,7 +2309,8 @@ military indoctrination
 :: Description
 The military uses its powers to indoctrinate individuals into a way of
 thinking. For example, a militia may be indoctrinated with the idea that the
-enemy is evil.
+enemy is evil. For "indoctrination" to apply a certain amount of coercion 
+(possibly clandestine) is required.
 
 :: Parents
 indoctrination in society
@@ -2338,7 +2338,7 @@ what if I found myself in a strange place
 =========================================
 
 :: Description
-It is imagined what it would be like for someone to find themself in an
+We imagine what it would be like to suddenly find ourself in an
 unfamiliar place.
 
 :: Parents
@@ -2349,7 +2349,7 @@ what if I found myself in a different time
 ==========================================
 
 :: Description
-It is imagined what it would be like for someone to find themself in a
+We imagine what it would be like to suddenly find ourself in a
 different time than the one they are from.
 
 :: Parents
@@ -2361,7 +2361,7 @@ what if I met an extraordinary person
 
 :: Description
 We imagine what it would be like to meet someone, like a person from history,
-that you would think well nigh impossible to meet in real life.
+who you would think it well nigh impossible to meet in real life.
 
 :: Parents
 extraordinary experience
@@ -2371,7 +2371,7 @@ what if my personal identity came into question
 ===============================================
 
 :: Description
-Someone experiences a situation that challenges common sense notions of
+Someone experiences a situation that challenges their common sense notions of
 personhood. Examples include someone discovering they are a digital copy of
 somebody else and two people getting somehow combined into one person.
 
@@ -2386,7 +2386,7 @@ what if I were not subject to the normal process of aging
 =========================================================
 
 :: Description
-We imagine what it would be like for someone to not be subject to the normal
+We imagine what it would be like to not be subject to the normal
 aging process.
 
 :: Parents
@@ -2397,7 +2397,7 @@ what if I were in a tight spot
 ==============================
 
 :: Description
-We imagine what it is like for someone to find themselves if a predicament
+We imagine what it would be like find ourself if a predicament
 that goes above and beyond what would be normal to experience in real life.
 
 :: Parents
@@ -2408,7 +2408,7 @@ what if the people around me changed
 ====================================
 
 :: Description
-We imagine what it is like for someone to find themselves in a situation where
+We imagine what it would be like to find ourself in a situation where
 the people around them have changed dramatically.
 
 :: Parents
@@ -2419,8 +2419,8 @@ what if someone around me changed
 =================================
 
 :: Description
-We imagine what it is like for someone if somebody around them was different
-from who the person thought they were or is changed in a fantastical way.
+We imagine what it would be like if somebody around us was found to be different
+from who the person we thought they were, or was changed in a fantastical way.
 
 :: Parents
 extraordinary experience
@@ -2443,7 +2443,7 @@ speculative natural phenomenon
 ==============================
 
 :: Description
-As yet unobserved phenomenon of nature. These are themes that posit realms
+There is an as yet unobserved phenomenon of nature. These are themes that posit realms
 where the laws of nature are different from what we know. These worlds may
 allow time travel or even magic.
 
@@ -2455,7 +2455,7 @@ cure for an as yet uncurable disease
 ====================================
 
 :: Description
-There is a scientific-based cure for a disease, like cancer or the common
+There is a scientific-based cure for a disease, such as cancer or the common
 cold, that is considered uncurable by modern medicine.
 
 :: Parents
@@ -2518,7 +2518,7 @@ elf
 ===
 
 :: Description
-A diminutive, humanoid being with long pointy ears that is friendly with
+There is a diminutive, humanoid being with long pointy ears that is friendly with
 nature and animals.
 
 :: Parents
@@ -2580,7 +2580,7 @@ committing a crime to save a life
 
 :: Description
 A character struggles with the question of whether they should break the law 
-in order the save the life of someone else.
+in order to save the life of someone else.
 
 :: Parents
 personal ethical dilemma
@@ -2619,7 +2619,7 @@ space mirror
 
 :: Description
 There is an large artificial device in space that reflects some parts of the 
-electromagnetic spectrum, most typically sunlight.
+electromagnetic spectrum, most typically visible light from the Sun.
 
 :: Example
 In futurama4x08 "Crimes of the Hot", Professor Wernstrom (Wernstrom!) 
@@ -2892,7 +2892,8 @@ deal with the devil
 ===================
 
 :: Description
-Someone literally strikes a bargain with the Christian devil, one of his minions, or a closely comparable mythological being from some other creed.
+Someone literally strikes a bargain with the Christian devil, one of his minions, or a 
+closely comparable mythological being from some other creed.
 
 :: Parents
 organized religion
@@ -2910,7 +2911,10 @@ Faustian bargain
 ================
 
 :: Description
-A character chooses to make an agreement that gains them immense power, wealth, or knowledge in return for a terrible spiritual or moral price. For example, this could apply if a character strikes a deal to betray and sacrifice their allies to the enemy in return for being handed political power.
+A character chooses to make an agreement that gains them immense power, wealth, or 
+knowledge in return for a terrible spiritual or moral price. For example, this could apply if a 
+character strikes a deal to betray and sacrifice their allies to the enemy in return for being 
+handed political power.
 
 :: Parents
 human life choice
@@ -2957,7 +2961,8 @@ secret society conspiracy theory
 ================================
 
 :: Description
-There is a clandestine organization that exerts significant influence on society for good or bad. Alternatively, someone expresses the belief in the existence of such an organization.
+There is a clandestine organization that exerts significant influence on society for good or bad. 
+Alternatively, someone expresses the belief in the existence of such an organization.
 
 :: Parents
 crackpot theory
@@ -2970,11 +2975,12 @@ kill all humans utopia
 ======================
 
 :: Description
-Society is made perfect by the removal of its one failing component:
-human.
+Society is made perfect by the removal of its one failing component: human.
 
 :: Notes
-This  may not seem like a utopia since the destructions of all humans is usually not in the best interest of said humans. Nevertheless, in some stories there are individuals (sometimes human, sometimes robotic) who seems to imagine a society bereft of humans as an idyllic one.
+This  may not seem like a utopia since the destructions of all humans is usually not in the best 
+interest of said humans. Nevertheless, in some stories there are individuals (sometimes human, 
+sometimes robot) who seems to imagine a society bereft of humans as an idyllic one.
 
 :: Parents
 utopia
@@ -3082,7 +3088,7 @@ human vs. monster
 =================
 
 :: Description
-A struggle between human an monster is featured. Monster in this case is a grotesque version of man or animal of a sort typically only exists in stories.
+A struggle between human an monster is featured. Monster, in this case, means a grotesque version of man or animal of a sort typically only exists in stories.
 
 :: Notes
 Use man vs. animal if the struggle is with a relatively ordinary animal.
@@ -3140,7 +3146,7 @@ coping with being washed up
 ===========================
 
 :: Description
-Someone copes with having once been successful at what they did but could not keep it up. 
+Someone copes with having once been successful at what they did but then failed to keep up with. 
 
 :: Parents
 coping with life issues
