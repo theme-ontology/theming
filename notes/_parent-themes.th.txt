@@ -72,7 +72,12 @@ human social position
 =====================
 
 :: Description
-There is an issue pertaining to someone's social position in a group of people.
+This is the category of themes that examine a character's status within a society of which 
+they are part. 
+
+:: Example
+"coping with being a laughing stock" is a "human social position" theme because it deals with an 
+event of which the main feature is that a character's status in a group is lowered.
 
 :: Parents
 humans in group
@@ -84,6 +89,11 @@ human character
 ===============
 
 :: Description
+This is the category of themes that examine character types and personal character traits.
+
+:: Example
+"courage", "cowardice", "misanthropy", and "chivalry" are all "human character" themes because
+they refer to personal character traits such as we may variously admire or abhor in people.
 
 :: Parents
 individual human experience
@@ -92,20 +102,34 @@ individual human experience
 
 
 human self-actualization need
-==============================
+=============================
 
 :: Description
+This is the category of themes about human needs that specifically deal with an individual's 
+desire to grow as a person and to realize their full potential.
+
+:: Example
+"the need for a challenge in life" is a "human self-actualization need" theme because the reason 
+people seek out things that challenge them is, generally, that through challenges we learn and 
+grow as people.
 
 :: Parents
 human need
 
 :: References
+https://en.wikipedia.org/wiki/Self-actualization
 
 
 human professional aspiration
 =============================
 
 :: Description
+This is the category of themes that deal with those human hopes and dreams that relate to
+achievements within those types of activities we call "professions".
+
+:: Example
+"passion for medicine" is a "human professional aspiration" theme because it deals with
+a person's desire to excel in a career.
 
 :: Parents
 human aspiration
@@ -117,9 +141,17 @@ human way of life
 =================
 
 :: Description
-The various ideas people may have about how they want to lead their lives.
-This sometimes includes ideas about how other people should lead their lives
-as well.
+This is the category of themes that deal with the various ideas people may have about how 
+they want to lead their lives. 
+
+:: Note
+Sometimes a person's idea about how they should lead their life involves ideas about how 
+other people ought to lead their lives as well. This category may overlap with that of
+political ideologies.
+
+:: Example
+"carpe diem", "pacifism", and "vegetarianism" are all "human way of life" themes because
+they imply lifestyles such as we may choose to lead for one reason or another.
 
 :: Parents
 individual human experience
@@ -131,11 +163,21 @@ human safety need
 =================
 
 :: Description
+This is the category of themes that relate to human's need to feel safe from danger of all
+kinds, including physical, financial, and health risks.
+
+:: Example
+"attachment to one's livelihood" is a "human safety need" because loosing one's job may
+(at least historically) lead to poverty, then starvation and death. "the need for privacy" is
+also a "human safety need" because a lack of privacy could lead to the publication of facts
+about us that jeopardize our social standing which might (historically) lead to ostracization,
+then death in any number of ways.
 
 :: Parents
 human need
 
 :: References
+https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Safety_needs
 
 
 educating a child
