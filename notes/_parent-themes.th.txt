@@ -248,6 +248,12 @@ human phobia
 ============
 
 :: Description
+A character displays a persistent and excessive fear to a specific object or situation.
+
+:: Example
+"arachnophobia", the fear of spiders, and "fear of doctors" are both "human phobia" themes
+that may be used when a character portrays an excessive and persistent fear of the subject
+in question.
 
 :: Parents
 human mental condition, fear
@@ -260,6 +266,12 @@ human in danger
 ===============
 
 :: Description
+This is the category of themes that relate to what it is like for a human to find themselves
+in a dangerous situation of one sort or another.
+
+:: Example
+"coping with being injured" is a "human in danger" theme as it describes what it is like for 
+someone to be in a certain risky situation.
 
 :: Parents
 human challenge in life
@@ -271,48 +283,61 @@ public health issue
 ===================
 
 :: Description
+This is the category of social issue themes that relate to the mental and physiological 
+well-being of humans in a community.
+
+:: Example
+"opium addiction in society" and "suicide in society" are both "public health issue"
+themes. In both cases we typically contemplate what sort of policies may be implemented
+in order to improve the situation for the population at large. In the first case, opium
+tends to be a proscribed substance. In the second case, the government is often required
+to provide support to people we think may be at risk of committing suicide.
 
 :: Parents
 national social issue
 
 :: References
-
-
-human vs. captivity
-===================
-
-:: Description
-A struggle between captive and captor is featured.
-
-:: Parents
-human vs. human
-
-:: Example
-Butthead aliens held Captain Pike captive with the intention to use him as 
-breeding stock in tos0x01 "The Cage".
+https://en.wikipedia.org/wiki/Well-being
 
 
 romantic relationship issue
 ===========================
 
 :: Description
-There is a conflict between romantically involved individuals.
+This is the category of themes that relate to the relationship between two (or more) 
+individuals who are, or may become, intimately and sexually involved with each other.
+
+:: Example
+The literature abounds with this sort of themes. "disintegrating romantic relationship",
+"romantic fidelity", and "lovers' quarrel" all imply situations that involve a romantic
+relationship and that are often portrayed in fiction.
 
 :: Parents
 human interpersonal relationship
 
 :: References
+https://en.wikipedia.org/wiki/Intimate_relationship
 
 
 sociotechnological issue
 ========================
 
 :: Description
+This is the category of social issue themes that relate to how society handles innovation
+and the impact of new technologies. 
+
+:: Example
+"workers replaced by machines" is perhaps the most typical "sociotechnological issue" as some
+members of society may be concerned about loosing their jobs when a new technology emerges.
+Similarly, "playing God with nature" discusses whether and to what extent we should let 
+ourselves interfere with nature, for example by the use of gene modification, breeding 
+programs, forestry, or any other interference with the biosphere.
 
 :: Parents
 national social issue
 
 :: References
+https://en.wikipedia.org/wiki/Sociotechnology
 
 
 human physiological need
