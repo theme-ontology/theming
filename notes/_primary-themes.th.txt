@@ -4990,8 +4990,8 @@ choosing who dies and who lives
 ===============================
 
 :: Description
-A character faces a choice where every alternative has significant negative
-consequences.
+A character faces a choice where every alternative leads to someone or 
+other (at least two different people) dying.
 
 :: Parents
 personal ethical dilemma
@@ -14079,8 +14079,7 @@ having a skeleton in the closet
 ===============================
 
 :: Description
-A character thinks about a secret they are keeping from everyone else, or at
-least form the general public.
+A character thinks about a dark and old, possibly incriminating, secret they are keeping from everyone else, or at least from the general public.
 
 :: Parents
 human worrying about self
@@ -16391,14 +16390,15 @@ Sarek and the good guys debated the morality of killing artificial villains in t
 fictional issue
 
 
-killing an injured pet
-======================
+putting down a pet
+==================
 
 :: Description
-Someone has to euthanize a beloved but incurably injured pet.
+Someone has to euthanize a beloved pet for one reason or another. Typically it is 
+either sick, injured, or a danger to the public.
 
 :: Parents
-human interpersonal relationship
+coping with life issues
 
 :: Example
 Spock made the tough decision to put his pet sehlat out of its misery in tas1x02 "Yesteryear".
