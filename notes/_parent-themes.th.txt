@@ -347,44 +347,92 @@ human physiological need
 ========================
 
 :: Description
+This is the category of themes that relate to a person's physiological needs. I.e., the need for
+things like food, water, sleep, and (in some sense) sex.
+
+:: Example
+"the need for rest and recreation" is a "human physiological need" because a character who is
+sufficiently overworked and tired becomes incapable of considering higher order needs such
+as staying out of harm's way.
 
 :: Parents
 human need
 
 :: References
+https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Physiological_needs
 
 
 socioeconomic issue
 ===================
 
 :: Description
+This is the category of social issue themes that relate to how society behaves vis-a-vis 
+economic activity, i.e. broadly, the use of labor, capital, and land, for the production of goods
+and services. In particular, this is the category of themes that discuss how corporations
+fit and function within society, and the creation of markets. Additionally, this category involves
+themes that relate to how capital (wealth and money) is distributed.
+
+:: Example
+"monopolies in society", "slavery", and "adds in society" are themes that all relate to economic 
+activity and the distribution of wealth.
 
 :: Parents
 national social issue
 
 :: References
+https://en.wikipedia.org/wiki/Socioeconomics
 
 
 human familial relationship
 ===========================
 
 :: Description
+This is the category of themes that deal with the interpersonal relationship between two
+somewhat closely related characters, i.e., "family". 
+
+:: Note
+Any defined character relationship can be familial if it is clearly considered as such in a 
+story and if it is sufficiently relevant to the plot. It may be noted that while there are many
+stories in which parental, sibling, half-sibling, step-parent, sibling-in-law, or even
+adoptive relationships are important, there are few stories in which consanguinity relations
+beyond first cousinage is relevant to the plot.
+
+:: Example
+"guardian and child" is a "human familial relationship" because the guardian is typically
+expected to take on the role of a parent even if they are not related to the child by blood.
 
 :: Parents
 human interpersonal relationship
 
 :: References
+https://en.wikipedia.org/wiki/Family
 
 
 human rights issue
 ==================
 
 :: Description
+This is the category of themes that discusses issues that relate to whatever people typically like
+to label as human rights. It may, for example, involve practical concerns around safeguarding such 
+rights, discuss ethical questions around what counts as a right, or weight two conflicting human 
+rights considerations in a particular situation.
+
+Examples of rights and freedoms which are often thought of as human rights include civil and 
+political rights, such as the right to life, liberty, and property, freedom of expression, 
+pursuit of happiness and equality before the law; and social, cultural and economic rights,
+including the right to participate in science and culture, the right to work, and the right to 
+education. 
+
+:: Example
+"homosexuality in society" is a "human rights issue" because an overwhelming number of 
+people now believe that systematically discriminated against someone on account of their sexuality 
+would be an infringement on that person's rights.
 
 :: Parents
 social ethical issue
 
 :: References
+https://en.wikipedia.org/wiki/Human_rights
 
 
 human thinking about self
