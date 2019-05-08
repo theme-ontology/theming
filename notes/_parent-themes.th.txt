@@ -439,6 +439,10 @@ human thinking about self
 =========================
 
 :: Description
+This is the category of themes that deal with introspection, i.e., a character pondering their own person.
+
+:: Examples
+"human self improvement" is the main sub-category of "human thinking about self" because most often when a character is considering themself it seems they do so with a desire to improve on themself.
 
 :: Parents
 individual human experience
@@ -450,33 +454,48 @@ human addiction
 ===============
 
 :: Description
+Despite adverse consequences to themself, a character compulsively engages in an activity that results in rewarding stimuli. In medical terms, addiction is disorder of the brain's reward system. 
 
+:: Examples
+Typically "human addiction" is connected to substance abuse, such as the case with "alcoholism" and "drug addiction". Other forms of addiction include "video game addiction", or "workaholism",  although these examples may not be addictions in the clinical sense.
+ 
 :: Parents
 human health condition
 
 :: References
+https://en.wikipedia.org/wiki/Addiction
 
 
 coping with a problematic family member
 =======================================
 
 :: Description
+A character struggles to get along with, control, or abide, a family member that, for one reason or another, causes them trouble.
+
+:: Examples
+"embarrassing family member" is an example of "coping with a problematic family member" as it implies the presence of someone who is struggling to abide a family member that they find embarrassing. 
 
 :: Parents
 family affairs
 
 :: References
+https://en.wikipedia.org/wiki/Dysfunctional_family
 
 
 human interpersonal relationship
 ================================
 
 :: Description
+This is the category of themes that relate to the relationship between two or (occasionally) more people at a time. 
+
+:: Examples
+"romantic relationship", "friendship", "neighbor and noeighbor", and "human familial relationship" are all examples of "human interpersonal relationship" themes.
 
 :: Parents
 humans in pairs
 
 :: References
+https://en.wikipedia.org/wiki/Interpersonal_relationship
 
 
 facing death
