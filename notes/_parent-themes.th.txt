@@ -502,6 +502,8 @@ facing death
 ============
 
 :: Description
+A character is confronted with the fact of their own (mor or less) impending expiration. This typically
+happens when a character learns that they have a terminall illness or is about to be executed.
 
 :: Parents
 human challenge in life
@@ -513,11 +515,24 @@ contraposed political ideologies
 ================================
 
 :: Description
+This is the category of themes that contrast two or more reasonably well-defined political ideologies.
+
+:: Notes
+The goal of this project is in no way to provoke political or philosophical controversies. When 
+using a word that references a political stance it is advisable to consult, for example, Wikipedia and 
+use the word only in ways that appear mainstream and are relatively uncontroversial.
+
+:: Examples
+"conservative vs. liberal" is a theme of this kind that is often featured in contemporary stories.
+We have a reasonably clear understanding of what conservative and liberal values are respectively, in a broad sense,
+even though we may disagree about many of the details.
 
 :: Parents
 political ideology
 
 :: References
+https://en.wikipedia.org/wiki/Political_philosophy
+https://en.wikipedia.org/wiki/Ideology#Political_ideologies
 
 
 psychological stress
