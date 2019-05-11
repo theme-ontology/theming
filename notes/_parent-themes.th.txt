@@ -439,10 +439,13 @@ human thinking about self
 =========================
 
 :: Description
-This is the category of themes that deal with introspection, i.e., a character pondering their own person.
+This is the category of themes that deal with introspection, i.e., a character pondering their 
+own person.
 
 :: Examples
-"human self improvement" is the main sub-category of "human thinking about self" because most often when a character is considering themself it seems they do so with a desire to improve on themself.
+"human self improvement" is the main sub-category of "human thinking about self" because most 
+often when a character is considering themself it seems they do so with a desire to improve on 
+themself.
 
 :: Parents
 individual human experience
@@ -454,10 +457,13 @@ human addiction
 ===============
 
 :: Description
-Despite adverse consequences to themself, a character compulsively engages in an activity that results in rewarding stimuli. In medical terms, addiction is disorder of the brain's reward system. 
+Despite adverse consequences to themself, a character compulsively engages in an activity that 
+results in rewarding stimuli. In medical terms, addiction is disorder of the brain's reward system. 
 
 :: Examples
-Typically "human addiction" is connected to substance abuse, such as the case with "alcoholism" and "drug addiction". Other forms of addiction include "video game addiction", or "workaholism",  although these examples may not be addictions in the clinical sense.
+Typically "human addiction" is connected to substance abuse, such as the case with "alcoholism" 
+and "drug addiction". Other forms of addiction include "video game addiction", or "workaholism",  
+although these examples may not be addictions in the clinical sense.
  
 :: Parents
 human health condition
@@ -470,10 +476,13 @@ coping with a problematic family member
 =======================================
 
 :: Description
-A character struggles to get along with, control, or abide, a family member that, for one reason or another, causes them trouble.
+A character struggles to get along with, control, or abide, a family member that, for one reason or 
+another, causes them trouble.
 
 :: Examples
-"embarrassing family member" is an example of "coping with a problematic family member" as it implies the presence of someone who is struggling to abide a family member that they find embarrassing. 
+"embarrassing family member" is an example of "coping with a problematic family member" as it 
+implies the presence of someone who is struggling to abide a family member that they find 
+embarrassing. 
 
 :: Parents
 family affairs
@@ -486,10 +495,12 @@ human interpersonal relationship
 ================================
 
 :: Description
-This is the category of themes that relate to the relationship between two or (occasionally) more people at a time. 
+This is the category of themes that relate to the relationship between two or (occasionally) more
+people at a time. 
 
 :: Examples
-"romantic relationship", "friendship", "neighbor and noeighbor", and "human familial relationship" are all examples of "human interpersonal relationship" themes.
+"romantic relationship", "friendship", "neighbor and noeighbor", and "human familial relationship" 
+are all examples of "human interpersonal relationship" themes.
 
 :: Parents
 humans in pairs
@@ -515,17 +526,18 @@ contraposed political ideologies
 ================================
 
 :: Description
-This is the category of themes that contrast two or more reasonably well-defined political ideologies.
+This is the category of themes that contrast two or more reasonably well-defined political 
+ideologies.
 
 :: Notes
-The goal of this project is in no way to provoke political or philosophical controversies. When 
-using a word that references a political stance it is advisable to consult, for example, Wikipedia and 
-use the word only in ways that appear mainstream and are relatively uncontroversial.
+The goal of this project is in no way to provoke political controversy. When 
+using a word that references a political stance it is advisable to consult, for example, Wikipedia 
+and use the word only in ways that appear mainstream and are relatively uncontroversial.
 
 :: Examples
 "conservative vs. liberal" is a theme of this kind that is often featured in contemporary stories.
-We have a reasonably clear understanding of what conservative and liberal values are respectively, in a broad sense,
-even though we may disagree about many of the details.
+We have a reasonably clear understanding of what conservative and liberal values are respectively, 
+in a broad sense, even though we may disagree about many of the details.
 
 :: Parents
 political ideology
@@ -539,22 +551,48 @@ psychological stress
 ====================
 
 :: Description
+A character experiences an unhealthy amount of mental strain and pressure due to some situation 
+they are in. 
+
+:: Notes
+We generally do not use this theme in violent, action filled, scenarios where we assume that 
+adrenaline and stress would be a relatively natural (and arguably healthy) response to a 
+life-and-death situation.
+
+:: Examples
+"coping with the rigors of command" is a "psychological stress" theme as it implies that a 
+character experiences unusual amounts of mental strain due to having a burden of responsibility.
 
 :: Parents
 human mental condition
 
 :: References
+https://en.wikipedia.org/wiki/Psychological_stress
 
 
 form of government
 ==================
 
 :: Description
+This is the category of themes that center around one or another of the many organizing principles 
+for a system of state government that have been proposed, and expressed in a way that makes it 
+reasonably well-defined.
+
+:: Notes
+The goal of this project is in no way to provoke political controversy. When 
+using a word that references a political stance it is advisable to consult, for example, Wikipedia 
+and use the word only in ways that appear mainstream and are relatively uncontroversial.
+
+:: Example
+"anarchy", "democracy", "despotism", "federalism", "military dictatorship", and "totalitarianism"
+are examples of "form of government" themes that are sometimes featured explicitly and the 
+definition of which seem, for the most part, unproblematic when a few dictionaries are consulted.
 
 :: Parents
 national social issue
 
 :: References
+https://en.wikipedia.org/wiki/Government
 
 
 humans interacting
@@ -565,40 +603,66 @@ humans interacting
 :: Parents
 humans in group
 
-:: References
-
 
 environmental issue
 ===================
 
 :: Description
+This is the category of social issue themes that examine the effects human activity may have at 
+large on the biophysical environment, i.e., on nature.
+
+:: Examples
+"climate change and bureaucratic inaction" may arguably be the most important "environmental issue"
+theme of our times. The issue is that human activity since the industrial revolution has produced 
+evermore greenhouse gases; this leads to an unrelenting heating of the whole of the Earth, which in 
+turn has varied but significant effects on the climate. As these changes are expected to be widely
+detrimental to human well being, many believe that the response from policy makers has been 
+lackluster and negligent in the extreme.
 
 :: Parents
 national social issue
 
 :: References
+https://en.wikipedia.org/wiki/Environmental_issue
 
 
 special interest group issue
 ============================
 
 :: Description
+This is the category of themes that examine the situation of one sub-group of people or another, 
+often called a "minority group", in society.
+
+:: Examples
+"child's point of view", "orphans in society", "the role of the disabled in society",
+"the role of the elderly in society", and "the role of war veterans in society" are 
+"special interest group issue" themes that examine the situation in society for children, orphans, 
+the disabled, the elderly, and war veterans, respectively.
 
 :: Parents
 national social issue
 
 :: References
+https://en.wikipedia.org/wiki/Minority_group
+https://en.wikipedia.org/wiki/Special_Interest_Group#Political_Interest_Groups
 
 
 human self-esteem need
 ======================
 
 :: Description
+This is the category of themes that examine a person's ego needs, i.e., the need 
+for things like recognition, status, importance, and respect from others. 
+
+:: Examples
+"the desire for fame" and "the need to feel useful to society" are "human self-esteem need"
+themes as they express a human's need or desire for some form of recognition from others.
 
 :: Parents
 human need
 
 :: References
+https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Self-esteem
 
 
 educational issue
