@@ -68,8 +68,6 @@ the human condition
 :: Aliases
 community
 
-:: References
-http://www.infobasepublishing.com/Bookdetail.aspx?ISBN=0816071616
 
 human social position
 =====================
@@ -669,31 +667,64 @@ educational issue
 =================
 
 :: Description
+This is the category of social issues that examine how we, collectively through policy making,
+instruct people in how they should think and act. Notably, this is the category that contains
+themes about the schooling of young people.
+
+:: Examples
+"religion in public education" is an "educational issue" as it discusses whether and to what
+extent religious notions ought to be presented to young people as part of their formal
+education.
 
 :: Parents
 national social issue
+
+:: References
+https://en.wikipedia.org/wiki/Education
 
 
 international issue
 ===================
 
 :: Description
+This is the category of themes that examine how sovereign states interact. This is where themes
+about war, peace, diplomacy, international trade, and globalization belong.
+
+:: Examples
+"transnational institution for peace" is an "international issue" theme as it is used when an 
+organization like the UN, a forum for sovereign states to discuss common concerns, is featured.
 
 :: Parents
 society
 
 :: References
+https://en.wikipedia.org/wiki/State_(polity)
+https://en.wikipedia.org/wiki/Transnationality
+https://en.wikipedia.org/wiki/International_relations
+https://en.wikipedia.org/wiki/Global_issue
 
 
 personal life and death dilemma
 ===============================
 
 :: Description
+A character must make a difficult choice regarding whether someone else lives or dies.
+
+:: Examples
+"cannibalism to survive" refers to any of a number of gruesome scenarios in which a character 
+deprived of other food must decide whether they will accept killing and eating another human
+in order to survive.
+
+:: Notes
+When a character is contemplating sacrificing their own life for one reason or another, the
+theme category "human self-sacrifice" is used.
 
 :: Parents
-human challenge in life
+tough decision
 
 :: References
+https://en.wikipedia.org/wiki/Trolley_problem
+https://en.wikipedia.org/wiki/Ethical_dilemma
 
 
 human emotional issue
