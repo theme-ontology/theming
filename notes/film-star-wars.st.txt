@@ -24,7 +24,7 @@ movie: Star Wars (1977)
 Star Wars
 
 :: Description
-The Rebel Alliance, led by Princess Leia, and its attempt to destroy the Galactic Empire's space station, the Death Star.
+The Rebel Alliance, led by Princess Leia, attempts to destroy the Galactic Empire's space station, the Death Star.
 
 :: Date
 1977-05-25
@@ -44,6 +44,7 @@ artificial planet [The Death Star.],
 imperialism [The Empire used the Death Star to maintain galactic hegemony.],
 supernatural forces [The Force seemed to be a mystical energy field that pervaded the universe and could be learned to be controlled with proper training.],
 resistance movement [The Rebel Alliance was in open rebellion against the Empire.],
+good vs. evil [Some used the Force for good, awhile others, like Darth Vader, used it for evil.],
 
 :: Minor Themes
 mechanical man [The protocol droid C-3PO.],
@@ -60,6 +61,55 @@ father and son [Luke wished to follow in the footsteps of his apparently decease
 :: Collections
 Collection: Science fiction films of the 1970s
 
+
+movie: The Empire Strikes Back (1980)
+=====================================
+
+:: Title
+The Empire Strikes Back
+
+:: Description
+The film is set three years after Star Wars. The Galactic Empire, under the leadership of the villainous Darth Vader and the mysterious Emperor, is in pursuit of Luke Skywalker and the rest of the Rebel Alliance. While Vader relentlessly pursues the small band of Luke's friends—Han Solo, Princess Leia Organa, and others—across the galaxy, Luke studies the Force under Jedi Master Yoda. When Vader captures Luke's friends, Luke must decide whether to complete his training and become a Jedi Knight or to confront Vader and save them.
+
+:: Date
+1980-05-17
+
+:: References
+https://en.wikipedia.org/wiki/The_Empire_Strikes_Back
+
+:: Ratings
+5 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+resistance movement [The Rebel Alliance continued their struggle against the Empire.],
+imperialism [The Empire was fighting for galactic hegemony.],
+supernatural forces [The Force.],
+discovering a hidden talent [Luke mastered using the Force under Yoda's guidance.],
+growing as a person [Luke training under Yoda to become a Jedi Knight.],
+good vs. evil [Some used the Force for good, awhile others, like Darth Vader, used it for evil.],
+resisting a temptation [Luke may have been tempted by the dark side of the Force and rule the galaxy together with Darth Vader as father and son.],
+romantic love [Princess Leia and Hans.],
+father and son [Darth Vader to Luke: No I am your father.],
+
+:: Minor Themes
+ice planet [The ice planet Hoth.],
+mechanical man [The protocol droid C-3PO.],
+human vs. nature [Luke nearly froze to death after getting lost on the ice planet Hoth.],
+telekinesis [Luke learned how to levitate metal objects by using his mind to control the power of the Force.],
+floating city [Lando's cloud city.],
+trust in a potential foe [Hans and Princess Leia were unsure about whether they could trust Hans' old friend Lando.],
+betrayal [Lando made a deal with Darth Vader to hand over his old friend Hans along with the others.],
+friendship [Hans paid a visit to his old friend Lando.],
+coping with being tortured [Hans was tortured by Darth Vader.],
+what if criminals were after me [Hans was evading Jaba the Hutt's bounty hunter.],
+cryogenic technology [Hans was frozen solid, encased in carbonite, and later revived.],
+bionic hand [Luke got an artificial hand at the end of the film.],
+
+:: Collections
+Collection: Science fiction films of the 1980s
 
 
 
