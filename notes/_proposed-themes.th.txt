@@ -873,6 +873,8 @@ hysterical woman stereotype
 ===========================
 
 :: Description
+A female character exhibits a stereotypical prolonged outburst of excessive 
+emotionality, typically by screaming.
 
 :: Parents
 female stereotype
@@ -885,6 +887,9 @@ black magic
 ===========
 
 :: Description
+Someone uses supernatural powers of the evil variety for selfish ends. This may involve
+things like hexes and curses, dead bodies, and blood. There is often a connection to
+quasi-religious entities such as evil spirits, demons, and Satan.
 
 :: Parents
 the supernatural
@@ -985,6 +990,11 @@ smart tools
 ===========
 
 :: Description
+There is a tool of some sort that, without being intelligent in the traditional sense, 
+performs complex tasks that would be beyond the cognitive ability of an ordinary human.
+
+:: Notes
+This is generally not used when full fledged, sentient, AI is involved.
 
 :: Parents
 speculative device
@@ -992,63 +1002,92 @@ speculative device
 :: References
 
 :: Examples
+In nightgallery1x02b "The Little Black Bag", former MD William Fall comes across a medical
+kit from the distant future. In this kit there is a device that diagnoses ailments and
+suggests remedies, as well as a smart scalpel that cuts only to the precise depth that
+is required of it and that can steer its wielders hand to some extent.
 
 
 what if I had miraculous healing abilities
 ==========================================
 
 :: Description
+We are made to imagine what it would be like to be able to heal people in miraculous 
+ways. For example, we might be able to mend injuries simply by laying our hands
+on them.
 
 :: Parents
 what if I had an extraordinary ability
 
 :: References
-
-:: Examples
+https://en.wikipedia.org/wiki/Faith_healing
 
 
 haunted house
 =============
 
 :: Description
+There is an otherwise ordinary house which is surreptitiously inhabited by a 
+supernatural being. Typically the being is the spirit of someone who has died.
+
+:: Examples
+In nightgallery1x03b "Certain Shadows on the Wall" the spirit of Emma Brigham lingered
+in order to haunt her brother and murdered, Dr. Stephen Brigham.
 
 :: Parents
 superstition
 
 :: References
+https://en.wikipedia.org/wiki/Haunted_house
 
 
 coping with having no talent
 ============================
 
 :: Description
+A character struggles to achieve something but finds that they have insufficient
+talent for it, and they must now come to terms with this fact.
 
 :: Parents
 coping with life issues
 
 :: References
+https://en.wikipedia.org/wiki/Aptitude
 
 
 miracle working
 ===============
 
 :: Description
+There is a character that is able to work miracles at will.
+
+:: Examples
+In nightgallery1x04a "Make Me Laugh", a miracle working Indian swami helps Jackie 
+Slater by making it so that he effortlessly inspires laughter in anyone who listens 
+to him. 
+
+:: Notes
+Miracle working typically has a connection with religion and deities. It is 
+generally not used to describe situations in which a character is able to immediately
+manipulate the world with his mind or through spells etc. In particular, telekinetics, fire conjuring sourcery, and suchlike wizardry is not miracle working.
+This may be a matter of interpretation in some cases.
 
 :: Parents
 superstition
 
 :: References
+https://en.wikipedia.org/wiki/Thaumaturgy
+https://en.wikipedia.org/wiki/Miracle
 
 
 compromising one's ethical principles for personal advantage
 ============================================================
 
 :: Description
+Someone must choose between what they believe is right on the one hand, and what would profit them personally on the other.
 
 :: Parents
 personal ethical dilemma
-
-:: References
 
 
 
