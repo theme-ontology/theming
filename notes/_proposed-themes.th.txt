@@ -1113,7 +1113,7 @@ manipulate the world with his mind or through spells etc. In particular, telekin
 This may be a matter of interpretation in some cases.
 
 :: Parents
-superstition
+supernatural ability
 
 :: References
 https://en.wikipedia.org/wiki/Thaumaturgy
@@ -1198,96 +1198,134 @@ personal haunting
 =================
 
 :: Description
+A person is followed by a ghost or suchlike supernatural creature.
 
 :: Parents
-superstition
+ghost
 
 :: References
-
-:: Examples
+https://en.wikipedia.org/wiki/Ghost
 
 
 punishment in the afterlife
 ===========================
 
 :: Description
+A character (or their soul) is posthumously tortured because of wicked things 
+that they did while alive.
 
 :: Parents
-superstition
+the afterlife
 
 :: References
-
-:: Examples
+https://en.wikipedia.org/wiki/Judgement_(afterlife)
 
 
 ghost ship
 ==========
 
 :: Description
+A ship from the afterlife is featured, typically with no crew or with an undead crew.
 
 :: Parents
-superstition
+legendary being
 
 :: References
-
-:: Examples
+https://en.wikipedia.org/wiki/Ghost_ship
+https://en.wikipedia.org/wiki/Flying_Dutchman
 
 
 evil doll
 =========
 
 :: Description
+There is a doll that is somehow alive or possessed, and that wants to do evil 
+deeds like murdering people.
 
 :: Parents
-superstition
+legendary being
 
 :: References
-
-:: Examples
+https://en.wikipedia.org/wiki/Haunted_doll
+https://en.wikipedia.org/wiki/Killer_toy
 
 
 boss and employee
 =================
 
 :: Description
+The relationship between a manager and a person they manage is featured at a workplace.
 
 :: Parents
 human interpersonal relationship
 
 :: References
-
-:: Examples
-
-
-mind control magic
-==================
-
-:: Description
-
-:: Parents
-magic powers
-
-:: References
-
-
-magic powers
-============
-
-:: Description
-
-:: Parents
-what if I had an extraordinary ability
-
-:: References
+https://en.wikipedia.org/wiki/Management
 
 
 city planet
 ===========
 
 :: Description
+There is a planet the surface of which is one enormous city.
 
 :: Parents
 speculative habitat
 
 :: References
+https://en.wikipedia.org/wiki/Ecumenopolis
+
+
+supernatural ability
+====================
+
+:: Description
+A character has an ability is not explainable by science and not (primarily) enabled 
+by technology.
+
+:: Parents
+speculative fiction theme
+
+
+mind control ability
+====================
+
+:: Description
+A character, by simply using their mind, is able to control other people's thoughts 
+and actions.
+
+:: Parents
+supernatural ability
+
+:: References
+https://tvtropes.org/pmwiki/pmwiki.php/Main/MindManipulation
+
+
+telekinesis
+===========
+
+:: Description
+A character is thought to be able to manipulate objects at a distance, using
+only the power of their mind.
+
+:: Parents
+supernatural ability
+
+:: References
+https://en.wikipedia.org/wiki/Psychokinesis
+http://www.sf-encyclopedia.com/entry/telekinesis
+
+
+precognition
+============
+
+:: Description
+The idea that someone can sense what will happen in the future.
+
+:: Parents
+supernatural ability
+
+:: References
+https://en.wikipedia.org/wiki/Precognition
+http://www.sf-encyclopedia.com/entry/precognition
 
