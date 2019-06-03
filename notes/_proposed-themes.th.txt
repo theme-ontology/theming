@@ -1334,17 +1334,18 @@ male-male rivalry
 =================
 
 :: Description
+Two or more male characters compete with each other in a stereotypically male way, for
+example through posturing or by trying to intimidate each other.
 
 :: Parents
-rivalry
-
-:: References
+rivalry, male stereotype
 
 
 aunt and niece
 ==============
 
 :: Description
+The relationship between an aunt and her niece is featured.
 
 :: Parents
 human familial relationship
@@ -1354,15 +1355,22 @@ witchcraft
 ==========
 
 :: Description
+A character uses magical abilities of a type that witches and warlocks tend to use 
+in folklore, especially the Western variety.
 
 :: Parents
 superstition
+
+:: References
+https://en.wikipedia.org/wiki/Witchcraft
 
 
 wicked witch stereotype
 =======================
 
 :: Description
+There is a character that fits the Western folklore stereotype of a wicked witch. 
+This may, for example, involve pointy black hats and foul concoctions.
 
 :: Parents
 human character
@@ -1372,6 +1380,8 @@ mad scientist stereotype
 ========================
 
 :: Description
+There is a character that fits the stereotype of a mad scientist. This typically
+involves lab coats and crazy experiments.
 
 :: Parents
 human character
