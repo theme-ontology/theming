@@ -14,7 +14,9 @@
 - Coined "speculative natural object"
 - Deleted "gas giant collision"
 - Renamed "what if the devil was merely misunderstood" to "society in which the devil turned out to be not so bad after all" and moved to be a child of "speculative society"
-
+- Deleted "speculative world"
+- Made "space colonization" a child theme of "speculative fiction theme"
+- Made "speculative habitat" a child theme of "speculative fiction theme"
 
 
 
@@ -35,3 +37,17 @@ speculative natural process
 
 :: Example
 The collision of Detria II with Detria VI was a spectacular process that culminated in the formation of a new star in tng6x12 "Ship in a Bottle".
+
+
+speculative world
+=================
+
+:: Description
+There is a fictional world of some sort.
+
+:: Parents
+speculative fiction theme
+
+:: References
+https://en.wikipedia.org/wiki/Parallel_universes_in_fiction
+http://www.sf-encyclopedia.com/entry/alternate_cosmos
