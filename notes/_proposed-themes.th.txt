@@ -113,7 +113,7 @@ monster
 =======
 
 :: Description
-A monster is often a type of grotesque creature, whose appearance frightens
+There is a type of grotesque creature, whose appearance frightens
 and whose powers of destruction threaten the human world's social or moral
 order.
 
@@ -141,6 +141,7 @@ magic word
 ==========
 
 :: Description
+The use of spoken words to invoke magical energies is featured. Note: A stage magician uttering "Abracadabra" before performing a trick does not count.
 
 :: Parents
 superstition
@@ -153,6 +154,7 @@ true name
 =========
 
 :: Description
+
 
 :: Parents
 magic word
