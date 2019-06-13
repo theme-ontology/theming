@@ -1729,6 +1729,11 @@ A grotesque-looking teenager lives at the turn of the century.
 
 :: Ratings
 4 <paul>,
+4 <mikael>,
+
+:: Choice Themes
+beauty is in the eye of the beholder [Victor was hideous on Earth, but on a far away planet he was an attractive hunk],
+lookism in society [Victor was so hideous to behold that he had to wear a bag over his head and children teased him],
 
 :: Major Themes
 coping with being disfigured [Victor Koch was so grotesquely disfigured that he woke a hood over his head.],
@@ -1738,7 +1743,9 @@ belonging [The story concluded with Victor finding a place where he fit in.],
 :: Minor Themes
 videophone [Paul called a government agency on a video phone of sorts.],
 putting someone out of their misery [How to capture Paul being pressured to mercy kill his son?],
+euthanasia [MO good enough?],
 interstellar space travel [Victor took a rocket to another planet.],
+coping with saying goodbye forever [da said bye bye to ugly sonny],
 
 :: Other Keywords
 rocketship [Victor went aboard an Apollo Program era rocketship.],
@@ -1761,18 +1768,25 @@ Directed by: Jeannot Szwarc. Story by: Robert Bloch.
 
 :: Ratings
 4 <paul>,
+4 <mikael>,
+
+:: Choice Themes
+jealousy [Ann Bolt was consumed with jealousy.],
 
 :: Major Themes
 husband and wife [Tony and Ann Bolt. David and Pat Blessington.],
-jealousy [Ann Bolt was consumed with jealousy.],
 what if I woke up in the future [Ann jumped 20 years into the future.],
-mother and son [Ann Bolt and David Blessington.],
+mother and son [Ann Bolt and David Blessington. MO: minor as they barely knew each other and not really as m&s even then],
 time travel [Ann jumped 20 years into the future.],
 romantic infidelity [Tony was cheating on Ann with their housekeeper.],
+obsessive infatuation [Ann appears to have been obsessively besotted with David],
+questioning one's sanity [Ann came to question her own senses what with the mysterious timetravel and all],
 
 :: Minor Themes
 videophone [Yvonne was surprised to find a video phone in the Blessington's house.],
 grandfather paradox [something about the pack of cigarettes],
+coping with a nag [Tony accused Ann of being a nag by pantomiming her behavior],
+suicide [Ann was destined to commit suicide after dispatching her faithless spouse],
 
 
 nightgallery2x14c
@@ -1792,13 +1806,18 @@ Directed by: John Badham. Story by: Rod Serling.
 
 :: Ratings
 3 <paul>,
+4 <mikael>,
 
 :: Major Themes
 black magic [Logoda was a witch doctor in possession of magical shrunken heads. Kyro's magic was even stronger than Logoda's.],
 hexes and curses [Logoda threatened to put a curse on Kyro, if she told the truth about Henry's brother.],
+shamanism [FD],
+witch doctor [prop FD],
 
 :: Minor Themes
 the need for adventure [Henry went to Africa looking for an adventure.],
+colonialism [there were references to western colonialist practices],
+
 
 nightgallery2x15a
 =================
@@ -1810,15 +1829,23 @@ Green Fingers
 1972-01-05
 
 :: Description
+A tycoon (Cameron Mitchell) takes drastic steps to force a widow (Elsa
+Lanchester) off her land, only to discover her strange gardening talent.
+Note: Based on a short story by R. C. Cook
 
 
 :: Ratings
-
-:: Choice Themes
+4 <mikael>,
 
 :: Major Themes
+the lust for gold [a north american robber baron lusted after an old lady's land to expand his empire],
+stubbornness [old lady just wouldn't sell even at five times the real value],
+attachment to one's land [old lady was so attached to the land she had tended for many years that she would not sell at any price],
+zombie [old woman came back in a manner reminiscent of the undead],
 
 :: Minor Themes
+compromising one's ethical principles for personal advantage [the robber baron had brief confrontations with his conscience regarding bullying, and later having murdered, the old woman],
+man vs. zombie [robber baron faced the undead old woman and had a heart attack],
 
 
 nightgallery2x15b
@@ -1831,19 +1858,24 @@ The Funeral
 1972-01-05
 
 :: Description
-A tycoon (Cameron Mitchell) takes drastic steps to force a widow (Elsa
-Lanchester) off her land, only to discover her strange gardening talent.
-Note: Based on a short story by R. C. Cook
+A funeral is held for a vampire.  Note: Based on the short story of the same
+name by Richard Matheson
 
 Directed by: John Meredyth Lucas. Story by: Richard Matheson.
 
 :: Ratings
-
-:: Choice Themes
+5 <mikael>,
 
 :: Major Themes
+vampire [there were several vampires, one at the center],
+funeral rite [we saw a casket and a funeral service],
 
 :: Minor Themes
+the lust for gold [the funeral director licked his lips when the vampire customer said money was no object],
+werewolf [a wolfman was present],
+wicked witch [a witch was there and committed mischief],
+wicked witch stereotype [a witch was there and committed mischief MO: we needn't have two of these],
+demon [some sort of demonic creature appeared at the end],
 
 
 nightgallery2x15c
@@ -1856,16 +1888,20 @@ The Tune in Dan's Café
 1972-01-05
 
 :: Description
-A funeral is held for a vampire.  Note: Based on the short story of the same
-name by Richard Matheson
+A song linked to a tragic romance gives a bickering couple (Pernell Roberts,
+Susan Oliver) a second chance.  Note: Based on a short story by Shamus Frazier
 
 Directed by: David Rawlins. Story by: Gerald Sanford, Garrie Bateson.
 
 :: Ratings
-
-:: Choice Themes
+4 <mikael>,
 
 :: Major Themes
+disintegrating romantic relationship [wife wanted a divorce after 15 odd years],
+husband and wife [bickering couple in restaurant],
+boyfriend and girlfriend [criminal couple in the past],
+bonny and clyde [],
+magic object [there was something magic about the jukebox - we need a category for suchlike],
 
 :: Minor Themes
 
@@ -1880,8 +1916,6 @@ Lindemann's Catch
 1972-01-12
 
 :: Description
-A song linked to a tragic romance gives a bickering couple (Pernell Roberts,
-Susan Oliver) a second chance.  Note: Based on a short story by Shamus Frazier
 
 Directed by: Jeff Corey. Story by: Rod Serling.
 
