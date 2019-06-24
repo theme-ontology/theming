@@ -916,6 +916,9 @@ A weapon of mass destruction (WMD) is a nuclear, radiological, chemical, biologi
 :: Notes
 We consider that the mere existence of a WMD implies its potential use in war as these devices really have no other credible purpose.
 
+:: Examples
+
+
 :: Parents
 war
 
@@ -923,21 +926,14 @@ war
 https://en.wikipedia.org/wiki/Weapon_of_mass_destruction
 
 
-anxiety
-=======
-
-:: Description
-
-:: Parents
-human mental condition
-
-:: References
-
-
 human dreaming
 ==============
 
 :: Description
+This is the category of themes that present a human reflecting on what was, what could have been, what might be, what could never be, and so on and so forth.
+
+:: Examples
+
 
 :: Parents
 individual human experience
@@ -949,15 +945,16 @@ human health condition
 ======================
 
 :: Description
+This is the category of themes that discuss human mental and physiological well-being. This is usually done with respect to some factor, such as disease or infirmity, that is seen as detrimental to a human's well-being.
+
+:: Examples
+
 
 :: Parents
 human challenge in life
 
-:: Aliases
-illness
-
 :: References
-http://www.infobasepublishing.com/Bookdetail.aspx?ISBN=0816071616
+https://en.wikipedia.org/wiki/Health
 
 
 human social need
@@ -979,6 +976,9 @@ A character is made to reflect on a tough decision that involve choices that
 are hard, not because of ethical issues or uncertainty regarding the outcome,
 but because the decision that will have a major impact on the course of their
 life. A typical example is "career choice".
+
+:: Examples
+
 
 :: Parents
 human tough decision
