@@ -41,7 +41,6 @@ sci-fi
 :: Major Themes
 cyborg [The Terminator was a cyborg.],
 rise of the machines [In the near future, actually in 2029, robots were in the process of exterminating humans from the face of the Earth.],
-kill all humans utopia [In the near future, actually in 2029, robots were in the process of exterminating humans from the face of the Earth.],
 time travel [Reese and the Terminator traveled back in time from the year 2029.],
 what if a killer was after me [Sarah Connor was being hunted down by the Terminator.],
 human vs. machine [Sarah Connor and Reese versus the Terminator.],
@@ -83,7 +82,6 @@ sci-fi
 cyborg [The Terminator was a cyborg.],
 shapeshifter [There was a shapeshifting T-1000 Terminator.],
 rise of the machines [In the near future, actually in 2029, robots were in the process of exterminating humans from the face of the Earth.],
-kill all humans utopia [In the near future, actually in 2029, robots were in the process of exterminating humans from the face of the Earth.],
 time travel [John Connor sent the Terminator back in time from the year 2029 to protect his child self from a T-1000 Terminator, which had also been sent back in time.],
 what if a killer was after me [John Connor was being hunted down by the T-1000 model Terminator.],
 human vs. machine [John and Sarah Connor versus the T-1000 model Terminator.],
@@ -102,6 +100,7 @@ father and son [Sarah contemplated how good a father the Terminator was to John.
 the ethics of valuing human lives [John was teaching the Terminator the importance of not killing so many people.],
 voice duplicator [Both Terminators had the ability to mimic voices.],
 sacrifice to prevent mass death [The Terminator had himself lowered into a vat of molten steel in order to prevent his components from being used to build Skynet.],
+sentient computer [Skynet.],
 
 :: Collections
 Collection: Science fiction films of the 1990s
@@ -132,8 +131,7 @@ sci-fi
 shapeshifter [The bad terminator could take the form of mostly anything it touched.],
 cyborg [The good terminator was a built with living tissue over a robotic skeleton.],
 time travel [A female terminator was sent back in time to kill members of a future human resistance movement. A reprogrammed male terminator was sent back in time to protect them.],
-rise of the machines [The film was premised on an autonomous weapons system becoming sentient and leading a take over of Earth by robots..],
-kill all humans utopia [In the near future, actually in 2029, robots were in the process of exterminating humans from the face of the Earth.],
+rise of the machines [The film was premised on an autonomous weapons system becoming sentient and leading a take over of Earth by robots.],
 what if a killer was after me [John Connor and his fellow resistors were being hunted down by the a shapeshifting terminator.],
 from zero to hero [John Connor was a drug addict living on the streets, and a reluctant here, but he eventually came around to accepting his role as the savior of humanity.],
 what if the fate of the world was in my hands [The fate of humanity rested on John Connor not getting killed and leading a resistance movement against robot exterminators of humans.],
@@ -185,17 +183,68 @@ rise of the machines [John Conner led the resistance against the Skynet computer
 cyborg [Resistance fighters discovered that the executed man Marcus was actually a cyborg with a mechanical endoskeleton and a partially artificial cerebral cortex.],
 human vs. machine [The Resistance fighters versus Skynet and its robotic minions.],
 personal identity [Marcus struggled with the reality that he was a cyborg who felt like he was a flesh and blood human being.],
+what if the fate of the world was in my hands [John Connor was destined to be the leader of a resistance movement against a robot extermination of humans.],
 
 :: Minor Themes
 facing one's own execution [The film begins with death row inmate Marcus Wright putting on a brave face before being executed by lethal injection.],
 what it is like on a battlefield [We saw soldiers engaged in firefights on the battlefield so on.],
 nuclear holocaust [The film took up not long after the Skynet system had initiated a nuclear holocaust.],
-autonomous weapons system killing everyone [The Skynet automated defence system had initiated a nuclear war.],
+autonomous weapons system killing everyone [The Skynet automated defense system had initiated a nuclear war.],
 autonomous weapons system [The Skynet autonomous computer defense system.],
 trust in a potential foe [John Connor was reluctant to trust the cyborg Marcus, but they needed to work with each other to rescue John's father Kyle.],
 father and son [Kyle Reese and John Connor.],
+sentient computer [Skynet.],
 
 :: Collections
 Collection: Science fiction films of the 2000s
+
+
+movie: Terminator Genisys (2015)
+================================
+
+:: Title
+Terminator Genisys
+
+:: Description
+The film follows Kyle Reese, a soldier in a post-apocalyptic future with a war against the machines led by Skynet, who is sent from 2029 to 1984 by John Connor, leader of the Human Resistance, to protect his mother Sarah. When Kyle arrives in the past, he discovers that the timeline has been altered and Sarah has been raised by a reprogrammed Terminator.
+
+:: Date
+2015-06-22
+
+:: References
+https://en.wikipedia.org/wiki/Terminator_Genisys
+
+:: Ratings
+2 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+rise of the machines [In the year 2029, humans were in a desperate war for survival against robots led by the Skynet automated defense system.],
+time travel [The Terminator and Kyle Reese were send back in time from 2029 to 1984. It turned out that another Terminator had arrived 10 years prior and prepared Sarah for the war that was to come. Sarah and Kyle traveled from 1984 to 2017.],
+cyborg [The old but not obsolete Terminator was a cyborg whose fleshy parts had aged at a normal rate.],
+coping with aging [The T-100 Terminator coped with being old, but he was adamant about not being obsolete.],
+human vs. machine [Sarah and Kyle versus Skynet and the John Connor cyborg thing with the help of an old, but not obsolete Terminator.],
+father and daughter [The Terminator was like a father to Sarah. Note she called him "pops".],
+mother and son [Sarah Connor and John Connor.],
+mind-computer merging [Skynet transformed John Connor into a super human cyborg thing.],
+shapeshifter [The protagonists dispatched a shapeshifting T-1000 model Terminator. The John Connor entity also had shapeshifting abilities.],
+sentient computer [Skynet.],
+
+:: Minor Themes
+post-apocalyptic dystopia [Los Angeles of 2029 was a post atomic horror wasteland in which humans were in a desperate war for survival against machines.],
+nuclear holocaust [It was explained that the Skynet system had initiated a nuclear holocaust that resulted in 3 billion people being killed.],
+autonomous weapons system killing everyone [The Skynet automated defense system decided humanity was a threat to its existence had initiated a nuclear war.],
+autonomous weapons system [The Skynet autonomous computer defense system.],
+what if my enemy and my ally looked exactly alike and I had to choose between them [Sarah had to choose between shooting Kyle and a T-1000 shapeshifting model who looked exactly like Kyle.],
+father and son [Kyle was shocked to find out that he was John's father.],
+trust in a potential foe [Kyle Reese was initially reluctant to trust the old but not obsolete Terminator.],
+sacrifice to prevent mass death [The old but not obsolete Terminator sacrificed himself in the end to prevent Skynet from taking over the world.],
+romantic love [Sarah Connor and Kyle Reese kissed at the film's conclusion.],
+what if I met by double [Adult Kyle passed along a message to his child self.],
+
+:: Collections
+Collection: Science fiction films of the 2010s
 
 
