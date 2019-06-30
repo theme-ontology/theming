@@ -1190,7 +1190,7 @@ to deal with for whatever reason.
 Examples of problematic people that others have coped with in stories include panicky relatives, practical jokers, jealous lovers, enamoured groupies, and obnoxious jerks.
 
 :: Parents
-human life issue
+human challenge in life
 
 
 human self-sacrifice for another
@@ -1231,70 +1231,41 @@ human tough decision
 ====================
 
 :: Description
+A character struggles with a decision that must made.
+
+:: Examples
+This category of themes, so common in fiction, is further subdivided into:
+"human life choice" (a character struggles with a decision regarding how to live their life), 
+"human self-sacrifice" (a character must choose or not to risk themselfs for the sake of another), 
+"personal ethical dilemma" (a struggle with morals), and
+"personal practical dilemma " (the choice is hard more because of uncertainty than for moral or personal considerations).
 
 :: Parents
 individual human experience
-
-
-suicide
-=======
-
-:: Description
-
-
-:: Parents
-human challenge in life
-
-:: References
-https://en.wikipedia.org/wiki/Suicide
 
 
 human challenge in life
 =======================
 
 :: Description
-Someone is faced with a problem that we might plausible face in the course of 
-a typical human lifetime.
+Someone is faced with a problem or adversity such as we might plausible face in the course of a typical human life.
+
+:: Examples
+"human challenge in life" often revolve around "facing death" or "facing adversity", but may also involve any of a mishmash of troubles categorized under "coping with life issues".
 
 :: Parents
 individual human experience
-
-
-homosexuality in society
-========================
-
-:: Description
-We are asked to what extent, if any, homosexuality should be tolerated in
-society and how homosexual people ought to be treated.
-
-:: Parents
-human rights issue
-
-:: Aliases
-homosexuality
-
-:: References
-https://en.wikipedia.org/wiki/Homosexuality
-https://books.google.cz/books/about/Dictionary_of_Literary_Themes_and_Motifs.html?id=OCHXr3RIETQC&redir_esc=y
-
-
-human life issue
-================
-
-:: Description
-A character comes to terms with some common problem that happens to common
-people in the common course of life.
-
-:: Parents
-human worrying about self
 
 
 human emotion
 =============
 
 :: Description
-Someone experiences an intense one of those conscious inner mental states that
-we call emotions. "Hope" and "jealousy" are illustrative examples.
+Someone experiences, intensely, one of those conscious inner mental states that
+we call emotions. 
+
+:: Examples
+"hope" and "jealousy" are illustrative examples of "human emotion" themes.
 
 :: Parents
 individual human experience
@@ -1307,20 +1278,32 @@ purpose in life
 ===============
 
 :: Description
-Featured is a topic about what drives us and makes us act with what we
+Featured is one of those topics about what drives us and makes us act with what we
 perceive as "purpose". These are themes about our aspirations and needs,
 pleasures and cherished beliefs.
 
+:: Examples
+The category is further subdivided into:
+human aspiration (hopes, dreams, and questions of what we want out of life),
+human need (things we need in order to consider ourselves fulfilled in life),
+human pleasure (things we may simply enjoy).
+
 :: Parents
 individual human experience
+
+:: References
+https://en.wikipedia.org/wiki/Meaning_of_life
 
 
 family affairs
 ==============
 
 :: Description
-The category of themes that are about interpersonal relations and interaction
+This is the category of themes that are about interpersonal relations and interaction
 within a family.
+
+:: Examples
+"divorce", "family honor", "inheritance fight", and "human parenting", are examples of some "family affairs" themes that are summed up succinctly in a couple of words.
 
 :: Parents
 humans in group
@@ -1329,7 +1312,7 @@ humans in group
 family
 
 :: References
-https://books.google.cz/books/about/Dictionary_of_Literary_Themes_and_Motifs.html?id=OCHXr3RIETQC&redir_esc=y
+https://en.wikipedia.org/wiki/Family
 
 
 speculative technology
@@ -1337,10 +1320,12 @@ speculative technology
 
 :: Description
 A technology falling somewhere on the spectrum from being a realistic
-elaboration on a currently existing technology (e.g. a self-driving care), to
-a scientifically plausible portrayal of a technology far beyond our current
+elaboration on a currently existing technology (e.g. a fully developed self-driving care), to a scientifically plausible portrayal of a technology far beyond our current
 capabilities (e.g. a Dyson sphere), to a technology that is unsupported by
 science as we know it (e.g. a time machine).
+
+:: Examples
+"speculative technology" themes come in great numbers in science fiction, and also great variety. It is convenient to further sub-categorize them according to function, for example "artificial intelligence", "biological technology", "mind altering technology", "speculative engineering", and "speculative weapon".
 
 :: Parents
 speculative fiction theme
