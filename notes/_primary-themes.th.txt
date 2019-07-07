@@ -12,6 +12,21 @@ artificial intelligence
 https://en.wikipedia.org/wiki/Virtual_assistant
 
 
+AI companion
+============
+
+:: Description
+There is an artifact imbued with artificial intelligence, to some extent, that
+serves as a friend and companion to some human character, perhaps in lieu of
+flesh-and-blood friends.
+
+:: Parents
+artificial intelligence
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_human_companion
+
+
 AI point of view
 ================
 
@@ -371,10 +386,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
 
+:: Related Themes
+
 :: Example
 Captain Picard took a crack at proving this theorem in his readyroom in tng2x12 "The Royale".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -413,10 +428,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Fourier_series
 
+:: Related Themes
+
 :: Example
 Data revealed that the blinking patterns of some Soong-type androids, although seemingly random, were in fact governed by Fourier series, in tng7x10 "Inheritance".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -434,11 +449,11 @@ discredited scientific theory
 :: References
 https://en.wikipedia.org/wiki/Psychoanalysis
 
-:: Example
-A virtual Sigmund Freud psychoanalyzed Data on the holodeck in tng7x06 "Phantasms".
-
 :: Related Themes
 wacky dream interpretation
+
+:: Example
+A virtual Sigmund Freud psychoanalyzed Data on the holodeck in tng7x06 "Phantasms".
 
 :: Other Parents
 
@@ -831,10 +846,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Asceticism
 
-:: Example
-
 :: Related Themes
 temperance
+
+:: Example
 
 :: Other Parents
 
@@ -868,10 +883,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Copernican_principle
 
+:: Related Themes
+
 :: Example
 Mark Twain explained in tng5x26 "Time's Arrow" how British naturalist Alfred Russell Wallace had "revived the theory that Earth is at the center of the stellar universe".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1029,10 +1044,10 @@ humans in group, human idea about life
 :: References
 https://www.scientificamerican.com/article/how-the-stress-of-disaster-brings-people-together/
 
+:: Related Themes
+
 :: Example
 By facing a ferocious electromagnetic beast together, Captain Picard and the Tamarian Captain Dathon finally figured out how to communicate in tng5x02 "Darmok".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1046,9 +1061,9 @@ The relationship between a god his, her, or its people is investigated.
 :: Parents
 organized religion
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -1076,10 +1091,10 @@ The relationship between a person and a clone of the same person is featured.
 :: Parents
 human interpersonal relationship
 
+:: Related Themes
+
 :: Example
 Riker learned first hand that he was not wholly easy to get along with in tng6x24 "Second Chances" when he came across his own exact duplicate.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1114,10 +1129,10 @@ sexual norms in society
 :: References
 https://en.wikipedia.org/wiki/Abortion
 
+:: Related Themes
+
 :: Example
 Troi was quite taken aback when Worf indelicately suggested that she should terminate her pregnancy in tng2x01 "The Child".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1136,9 +1151,9 @@ human parenting
 :: References
 https://en.wikipedia.org/wiki/Father_absence
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -1258,10 +1273,10 @@ wealth on one hand, and pursuing personal development on the other.
 :: Parents
 career choice
 
+:: Related Themes
+
 :: Example
 Captain Picard explained to Ralph Offenhouse that people of the 24th century no longer cared about accumulating wealth but rather sought personal development in tng1x26 "The Neutral Zone".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1278,10 +1293,10 @@ the fine arts and the humanities
 :: References
 https://en.wikipedia.org/wiki/Acting
 
+:: Related Themes
+
 :: Example
 Data played Henry V in Shakespeare's play of the same name on the holodeck in tng3x10 "The Defector".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1311,9 +1326,9 @@ political issue
 :: References
 https://en.wikipedia.org/wiki/Activism
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -1344,12 +1359,12 @@ human mental condition
 :: References
 https://en.wikipedia.org/wiki/Panic_attack
 
-:: Example
+:: Related Themes
 
 :: Aliases
 anxiety
 
-:: Related Themes
+:: Example
 
 :: Other Parents
 
@@ -1389,9 +1404,9 @@ human childhood
 :: References
 https://en.wikipedia.org/wiki/Adolescence
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -1452,9 +1467,9 @@ classical philosophy
 :: References
 https://en.wikipedia.org/wiki/Aesthetics
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -1472,11 +1487,11 @@ the art of war
 :: References
 http://tvtropes.org/pmwiki/discussion.php?id=1aq3z3atystdgmfhsuk0efx9
 
-:: Example
-Captain Kirk was pitted in an epic battle of agility and brains vs. strength against a Gorn captain in tos1x19 "The Arena".
-
 :: Related Themes
 brains vs. brawn
+
+:: Example
+Captain Kirk was pitted in an epic battle of agility and brains vs. strength against a Gorn captain in tos1x19 "The Arena".
 
 
 aging machine
@@ -1518,6 +1533,21 @@ https://en.wikipedia.org/wiki/Airship
 http://www.sf-encyclopedia.com/entry/airships
 
 
+alchemy
+=======
+
+:: Description
+Alchemy was an ancient branch of natural philosophy with the aim of purifying
+or perfecting various materials. In particular, the transmutation of base
+metals into gold is a hallmark of alchemist endeavors.
+
+:: Parents
+discredited scientific theory
+
+:: References
+https://en.wikipedia.org/wiki/Alchemy
+
+
 alcohol in society
 ==================
 
@@ -1542,10 +1572,10 @@ time it takes to "sober up".
 :: Parents
 topic in science
 
+:: Related Themes
+
 :: Example
 Captain Picard explained to Dirgo that alcohol would not quench their thirst but would rather aggravate it in tng4x09 "Final Mission".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1607,9 +1637,9 @@ take our own convictions less for granted.
 :: Parents
 cross cultural issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 culture, aliens
@@ -1814,10 +1844,10 @@ discredited scientific theory
 :: References
 https://en.wikipedia.org/wiki/Alternative_medicine
 
+:: Related Themes
+
 :: Example
 The Kahn-ut-to woman Nona cured Captain Kirk of the poisonous effects of a Mugato bite by rubbing a mahko root over his chest in tos2x16 "A Private Little War".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -1913,6 +1943,21 @@ crackpot theory
 
 :: References
 https://en.wikipedia.org/wiki/Ancient_astronauts
+
+
+ancient puzzle
+==============
+
+:: Description
+An ancient civilization has constructed an large, ingenious, and elaborate
+puzzle that has lasted for thousands of years. Typically, this is featured
+when we see complicated machinery protecting an ancient tomb.
+
+:: Parents
+crackpot theory
+
+:: References
+https://en.wikipedia.org/wiki/Open_relationship
 
 
 android
@@ -2192,11 +2237,11 @@ prejudice in society
 :: References
 https://en.wikipedia.org/wiki/Anti-intellectualism
 
-:: Example
-Daystrom was harassed by philistines like Captain Kirk who didn’t understand is his great achievements in duotronic computing in tos2x24 "The Ultimate Computer".
-
 :: Related Themes
 anti-intellectualism
+
+:: Example
+Daystrom was harassed by philistines like Captain Kirk who didn’t understand is his great achievements in duotronic computing in tos2x24 "The Ultimate Computer".
 
 :: Other Parents
 
@@ -3158,6 +3203,19 @@ https://en.wikipedia.org/wiki/List_of_avian_humanoids
 The historian Aleek-Om, a bird-like alien of the race Aurelian, took tricorder readings in the vicinity of the Guardian of Forever in tas1x02 "Yesteryear".
 
 
+avunculicide
+============
+
+:: Description
+A character murders their own uncle.
+
+:: Parents
+murder in society
+
+:: References
+https://en.wikipedia.org/wiki/Avunculicide
+
+
 awkward expecting father
 ========================
 
@@ -3221,10 +3279,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Calculus
 
+:: Related Themes
+
 :: Example
 Young Harry did not understand why he had to study calculus in tng1x17 "When The Bough Breaks". He would much rather have spent his time sculpting dolphins.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -3239,10 +3297,10 @@ desired it in the first place.
 :: Parents
 human idea about life
 
-:: Example
-
 :: Related Themes
 https://en.wiktionary.org/wiki/be_careful_what_you_wish_for
+
+:: Example
 
 :: Other Parents
 
@@ -3260,10 +3318,10 @@ human idea about life
 :: References
 https://en.wikipedia.org/wiki/First_impression_(psychology)
 
+:: Related Themes
+
 :: Example
 Sonya Gomez made a terrible first impression when she spilled hot chocolate all over Captain Picard on her first day in tng2x16 "Q Who".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -3309,9 +3367,9 @@ human worrying about self
 :: References
 https://dictionary.cambridge.org/dictionary/english/beat-yourself-up
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -3339,10 +3397,10 @@ human idea about life
 :: References
 https://en.wiktionary.org/wiki/beauty_is_in_the_eye_of_the_beholder
 
+:: Related Themes
+
 :: Example
 The grotesque looking Horta alien thought that it was the humans that should be pitied for their unsightly appearance in tos1x26 "The Devil in the Dark".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -3488,9 +3546,9 @@ humans in group
 :: References
 https://en.wikipedia.org/wiki/Belongingness
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -3550,9 +3608,9 @@ humans interacting
 :: References
 https://en.wikipedia.org/wiki/Betrayal
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -3570,10 +3628,10 @@ human idea about life
 :: References
 https://en.wikipedia.org/wiki/In_Memoriam_A.H.H.
 
+:: Related Themes
+
 :: Example
 When star-crossed lovers Nella Daren and Captain Picard opted to part ways after a passionate but turbulent dalliance in tng6x19 "Lessons", both seemed decidedly happier for the experience they had shared.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -3929,22 +3987,6 @@ shape distinguished being
 https://aliens.wikia.com/wiki/Blob
 
 
-dumb blonde stereotype
-======================
-
-:: Description
-There is a pretty, young woman is profoundly ignorant and shows no interest in intellectual pursuits.
-
-:: Parents
-female stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Blonde_stereotype
-
-:: Example
-Gary Seven’s secretary, Roberta Lincoln, epitomized the ditsy blonde stereotype in tos2x26 "Assignment: Earth".
-
-
 bluffing
 ========
 
@@ -3954,20 +3996,6 @@ not do, thereby deceiving someone else.
 
 :: Parents
 humans interacting
-
-
-human enhancement technology
-============================
-
-:: Description
-A novel technology is used to enhance (or diminish depending on one's point of
-view) a person's physical ability.
-
-:: Parents
-speculative technology
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
 
 
 body implant
@@ -3997,6 +4025,24 @@ human enhancement technology
 
 :: References
 https://en.wikipedia.org/wiki/Organ_transplantation_in_fiction
+
+
+body snatching in society
+=========================
+
+:: Description
+Body snatching is the secret removal of corpses from burial sites for the
+purpose of dissection and anatomy studies.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Body_snatching
+https://en.wikipedia.org/wiki/Burke_and_Hare_murders
+
+:: Note
+The Wikipedia definition is slightly broader. We restrict the usage here to body snatching for the purpose of medical studies, as there are a number of mostly 19:th century stories that feature this distinctive social issue.
 
 
 body swap
@@ -4044,10 +4090,10 @@ the art of war
 :: References
 https://en.wikipedia.org/wiki/Booby_trap
 
+:: Related Themes
+
 :: Example
 The Enterprise-D fell afoul of a leftover booby trap from some ancient alien war in tng3x06 "Booby Trap". It filled much the same function as a naval mine, but in space.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -4247,10 +4293,10 @@ the art of war
 :: References
 https://idioms.thefreedictionary.com/brains+versus+brawn
 
+:: Related Themes
+
 :: Example
 Captain Kirk was pitted in an epic battle of agility and brains vs. brawn against a Gorn captain in tos1x19 "The Arena".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -4364,9 +4410,9 @@ the art of war
 :: References
 https://en.wikipedia.org/wiki/Brinkmanship
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -4380,9 +4426,9 @@ The relationship between two brothers is featured.
 :: Parents
 human familial relationship
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -4476,11 +4522,11 @@ Decorative hadwriting is featured.
 :: Parents
 the fine arts and the humanities
 
-:: Example
-Keiko O'Brien fondly recalled having helped her grandmother to create Japanese calligraphic writings in tng5x12 "Violations".
-
 :: Related Themes
 https://en.wikipedia.org/wiki/Calligraphy
+
+:: Example
+Keiko O'Brien fondly recalled having helped her grandmother to create Japanese calligraphic writings in tng5x12 "Violations".
 
 :: Other Parents
 
@@ -4529,6 +4575,19 @@ https://en.wikipedia.org/wiki/List_of_mammalian_alien_species
 Natasha Yar was appalled to learn that the dog-like Anticans like to eat their food alive in tng1x07 "Lonely Among Us".
 
 
+cannibalism
+===========
+
+:: Description
+A person consumes the flesh of another person.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Human_cannibalism
+
+
 cannibalism to survive
 ======================
 
@@ -4554,9 +4613,9 @@ law and order issue
 :: References
 https://en.wikipedia.org/wiki/Capital_punishment
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 crime and punishment
@@ -4626,9 +4685,9 @@ personal practical dilemma
 :: References
 https://en.wikipedia.org/wiki/Carrot_and_stick
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -4695,9 +4754,9 @@ human mental condition
 :: References
 https://en.wikipedia.org/wiki/Catharsis
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -4744,10 +4803,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Cell_division
 
+:: Related Themes
+
 :: Example
 The giant space amoeba was poised to divide into two giant space amoebas in tos2x19 "The Immunity Syndrome".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -4778,9 +4837,9 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -4863,10 +4922,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Chastity
 
+:: Related Themes
+
 :: Example
 Captain Picard declined Ardra's amorous advances when she materialized in his quarters in the middle of the night in tng4x13 "Devil's Due".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -4897,9 +4956,9 @@ law and order issue
 :: References
 https://en.wikipedia.org/wiki/Child_abuse
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -4969,11 +5028,11 @@ perhaps because they are a freaky alien with devilishly pointed ears.
 :: Parents
 human childhood
 
-:: Example
-Spock's trials and tribulations as a half-Human child growing up on conservative planet Vulcan were featured in tas1x02 "Yesteryear".
-
 :: Related Themes
 orphanhood
+
+:: Example
+Spock's trials and tribulations as a half-Human child growing up on conservative planet Vulcan were featured in tas1x02 "Yesteryear".
 
 :: Other Parents
 juvenile
@@ -4988,9 +5047,9 @@ A child’s typically ephemeral life ambitions are featured.
 :: Parents
 human childhood
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -5044,11 +5103,11 @@ human character
 :: References
 https://www.merriam-webster.com/dictionary/childish
 
-:: Example
-Captain Kirk coped with Elaan the Dohlman of Elas and her childish behavior in tos3x02 "Elaan of Troyius".
-
 :: Related Themes
 coping with a spoiled brat
+
+:: Example
+Captain Kirk coped with Elaan the Dohlman of Elas and her childish behavior in tos3x02 "Elaan of Troyius".
 
 :: Other Parents
 
@@ -5165,10 +5224,10 @@ A character faces that major life decision of which career path to go down.
 :: Parents
 career choice
 
+:: Related Themes
+
 :: Example
 Riker was torn between accepting an offer to command the starship Aries and continuing as first officer on his beloved Enterprise-D in tng2x14 "The Icarus Factor".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -5183,11 +5242,30 @@ equally just.
 :: Parents
 personal ethical dilemma
 
-:: Example
-
 :: Related Themes
 
+:: Example
+
 :: Other Parents
+
+
+choosing between love and family
+================================
+
+:: Description
+A character must choose between someone they love on one hand, and obligations
+to their family on the other.
+
+:: Parents
+human life choice
+
+:: References
+https://en.wikipedia.org/wiki/Romeo_and_Juliet
+
+:: Examples
+Romeo Montageu and Juliet Capulet, famously, are both torn between family loyalty and
+love as their two clans are feuding while they themselves become enamored with each other,
+in the play "Rome and Juliet" by William Shakespeare.
 
 
 choosing between lovers
@@ -5224,6 +5302,24 @@ human life choice
 
 :: Example
 In voy6x06 "Riddles", Tuvok has amnesia but learns to enjoy life as his new and now emotional self. When a cure is found, he contemplates whether or not he really wants to go back to being the cold emotionless Vulcan automaton he had been before.
+
+
+choosing whether to kill someone to spare them suffering
+========================================================
+
+:: Description
+A character must choose whether or not to kill another character in order to
+spare them from some perceived or anticipated suffering. The intended victim-
+cum-benefactor may or may not be consenting to the act.
+
+:: Parents
+personal ethical dilemma
+
+:: References
+https://en.wikipedia.org/wiki/Euthanasia
+
+:: Related Themes
+euthanasia
 
 
 choosing who dies and who lives
@@ -5297,9 +5393,9 @@ war
 :: References
 https://en.wikipedia.org/wiki/Civil_war
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -5333,9 +5429,9 @@ ethics
 :: References
 http://www.william-golding.co.uk/explore-search/civilisation-vs-savagery https://www.gradesaver.com/lord-of-the-flies/study-guide/themes
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -5353,10 +5449,10 @@ humans interacting
 :: References
 http://memory-alpha.wikia.com/wiki/Second_Chances_(episode)
 
+:: Related Themes
+
 :: Example
 There was some serious Riker on Riker action going on in tng6x24 "Second Chances".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -5373,10 +5469,10 @@ humans interacting
 :: References
 https://www.merriam-webster.com/dictionary/battle/clash%20of%20wills
 
+:: Related Themes
+
 :: Example
 Spock and McCoy butted heads in no fewer than five episodes. In tos2x19 "The Immunity Syndrome", a rivalry ensued when they both volunteer to commandeer a specially equipped shuttlecraft into the giant space amoeba.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -5560,6 +5656,17 @@ https://en.wikipedia.org/wiki/Collective_intelligence
 http://www.sf-encyclopedia.com/entry/hive_minds
 
 
+college life
+============
+
+:: Description
+We are shown what life might be like for university students. Stereotypically
+this might involve fraternities, pranks on the Dean, spring breaks, etc.
+
+:: Parents
+what life is like
+
+
 collision with a parallel universe
 ==================================
 
@@ -5637,6 +5744,19 @@ space colonization
 
 :: References
 https://en.wikipedia.org/wiki/Colonization_of_trans-Neptunian_objects
+
+
+colonization of Venus
+=====================
+
+:: Description
+A permanent human settlement is established on the planet Venus.
+
+:: Parents
+space colonization
+
+:: References
+https://en.wikipedia.org/wiki/Colonization_of_Venus
 
 
 colonization of the Moon
@@ -5887,10 +6007,10 @@ descend into chaos) by themselves.
 :: Parents
 socioeconomic issue
 
+:: Related Themes
+
 :: Example
 A band of abandoned brats tried to "bonk bonk" Captain Kirk on the noggin in tos1x11 "Miri".
-
-:: Related Themes
 
 :: Other Parents
 juvenile
@@ -5923,9 +6043,9 @@ human emotion
 :: References
 https://en.wikipedia.org/wiki/Compassion
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -5954,9 +6074,9 @@ saving his or her own skin.
 :: Parents
 personal ethical dilemma
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -5971,10 +6091,10 @@ and hard feelings.
 :: Parents
 humans in group
 
+:: Related Themes
+
 :: Example
 Junior officer competed amicably for a promotion in tng7x15 "Lower Decks".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -6090,9 +6210,9 @@ personal ethical dilemma
 :: References
 https://en.wikipedia.org/wiki/Conflict_of_interest
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -6107,10 +6227,10 @@ understood in different cultures is featured.
 :: Parents
 cross cultural issue
 
+:: Related Themes
+
 :: Example
 Conflict arose between the Federation and the People of Angel One regarding the treatment of a rogue band of fugitives in tng1x14 "Angel One".
-
-:: Related Themes
 
 :: Other Parents
 culture
@@ -6130,9 +6250,9 @@ cross cultural issue
 :: References
 https://en.wikipedia.org/wiki/Privacy
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 culture
@@ -6322,9 +6442,9 @@ humans interacting
 :: References
 https://en.wikipedia.org/wiki/Cooperation#Among_humans
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -6523,10 +6643,10 @@ who is likely to cause unintentional harm.
 :: Parents
 coping with problematic people
 
+:: Related Themes
+
 :: Example
 Captain Picard and Wesley found themselves stranded on a desert moon with the cantankerous mining shuttle captain Dirgo in tng4x09 "Final Mission".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -6791,10 +6911,10 @@ A character is burdened by an incompetent coworker.
 :: Parents
 coping with problematic people
 
+:: Related Themes
+
 :: Example
 The Delta Theta III landing party was generally bemused by the erratic actions of Ari bn Bem in tas2x02 "Bem".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -6885,10 +7005,10 @@ an jerk.
 :: Parents
 coping with problematic people
 
+:: Related Themes
+
 :: Example
 Mr. Lurry, manager of Deep Space Station K-7, coped with verbal abuse at the hands of Captain Kirk after having issued an unnecessary Code One alert in tos2x13 "The Trouble with Tribbles".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -6949,10 +7069,10 @@ coping with problematic people
 :: References
 https://en.wikipedia.org/wiki/Helicopter_parent
 
+:: Related Themes
+
 :: Example
 Salia was excessively protected by her appointed guardian Anya in tng2x10 "The Dauphin".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7149,10 +7269,10 @@ space.
 :: Parents
 human in danger
 
+:: Related Themes
+
 :: Example
 The sentient space probe Nomad coped briefly with being lost in space, parted from its maker Jackson Roykirk, in tos2x08 "The Changeling".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7209,10 +7329,10 @@ human interpersonal relationship
 :: References
 https://en.wikipedia.org/wiki/Family_estrangement
 
+:: Related Themes
+
 :: Example
 Jono was separated from his adoptive father the Endar in tng4x04 "Suddenly Human".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7253,10 +7373,10 @@ human in danger
 :: References
 https://en.wikipedia.org/wiki/Torture
 
+:: Related Themes
+
 :: Example
 Captain Picard coped with extreme physical and psychological torture in tng6x11 "Chain of Command, Part II".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7350,6 +7470,22 @@ human health condition
 
 :: References
 https://en.wikipedia.org/wiki/Symptoms_and_discomforts_of_pregnancy
+
+
+coping with excruciating pain
+=============================
+
+:: Description
+A character must endure extreme levels of physical pain.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Pain
+
+:: Examples
+In nightgallery2x22a "The Caterpillar", the character Macy was in utter agony while an earwig burrowed its way through his brain from one ear to the other.
 
 
 coping with food poisoning
@@ -7504,10 +7640,10 @@ Someone feels guilty at having been responsible for injuring a friend.
 :: Parents
 human interpersonal relationship
 
+:: Related Themes
+
 :: Example
 McCoy unintentionally blinded Spock in tos1x29 "Operation – Annihilate!".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7610,11 +7746,11 @@ accustomed to.
 :: Parents
 human social position
 
-:: Example
-Worf struggled to maintain his Klingon identity while serving aboard the Enterprise-D in tng2x14 "The Icarus Factor".
-
 :: Aliases
 coping with living abroad
+
+:: Example
+Worf struggled to maintain his Klingon identity while serving aboard the Enterprise-D in tng2x14 "The Icarus Factor".
 
 
 coping with losing a special ability
@@ -7682,10 +7818,10 @@ A character struggles with the realization that they will one day die.
 :: Parents
 coping with life issues
 
+:: Related Themes
+
 :: Example
 Q was stripped of his transcendental powers, including immortality, by the Q Continuum in tng3x13 "Deja Q".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7700,10 +7836,10 @@ with someone who is acting badly.
 :: Parents
 human interpersonal relationship
 
+:: Related Themes
+
 :: Example
 Captain Kirk coped with opposing his longtime friend Gary Mitchell, who became an imminent danger to the crew after acquiring super powers, in tos1x01 "Where No Man Has Gone Before".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7718,10 +7854,10 @@ in life.
 :: Parents
 coping with life issues
 
+:: Related Themes
+
 :: Example
 Wesley needed some words of encouragement from Captain Picard after he failed the Starfleet Academy entrance exam in tng1x19 "Coming of Age".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7906,10 +8042,10 @@ psychological stress
 :: References
 http://www.apa.org/helpcenter/work-stress.aspx https://en.wikipedia.org/wiki/Occupational_stress
 
+:: Related Themes
+
 :: Example
 Barclay retreated to a holodeck powered fantasy world to escape his on the job problems in tng3x21 "Hollow Pursuits".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7925,10 +8061,10 @@ their own suicide.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 The crew was shocked and bereaved at the suicide of their fellow crewman Daniel Kwan in tng7x18 "Eye of the Beholder".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7945,10 +8081,10 @@ human mental condition
 :: References
 https://en.wikipedia.org/wiki/Test_anxiety
 
+:: Related Themes
+
 :: Example
 Wesley was racked with anxiety in anticipation of taking the Starfleet Academy entrance exam in tng1x19 "Coming of Age".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7962,10 +8098,10 @@ A character grieves over the loss of their child.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Lwaxana mourned the death of her daughter Kestra in tng7x07 "Dark Page".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -7979,9 +8115,9 @@ A character grieves after a colleague has passed away.
 :: Parents
 coping with the death of someone
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -7996,10 +8132,10 @@ example, share nationality or common cause with.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Worf coped with the death of a renegade Klingon compatriot by unleashing a thunderous death howl in tng1x20 "Heart of Glory".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8013,10 +8149,10 @@ A character grieves over the loss of their fiancée.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Angela Martine's fiancée Robert Tomlinson died after inhaling lethal quantities of phaser coolant in tos1x08 "Balance of Terror".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8030,10 +8166,10 @@ A character grieves over the death of a friend.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 McCoy mourned Captain Kirk after he was pulled into interspace in tos3x09 "The Tholian Web".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8047,10 +8183,10 @@ A character grieves over the death of a grandparent.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Beverly attended the funeral of her grandmother Felisa Howard on Caldos II in tng7x14 "Sub Rosa".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8074,10 +8210,10 @@ A character grieves over the death of a lover.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Captain Kirk cried on Spock’s shoulder, after he had knowingly allowed his lover Edith Keeler to die, in tos1x28 "The City on the Edge of Forever".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8102,10 +8238,10 @@ A character (typically a child) grieves over the loss of a parent.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Jeremy Aster was racked with guilt in tng3x05 "The Bonding" for falsely thinking that he was responsible for the death of his parents.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8119,11 +8255,11 @@ A character grieves over the loss of their pet.
 :: Parents
 coping with the death of someone
 
-:: Example
-Spock mourned the loss of his pet sehlat in tas1x02 "Yesteryear".
-
 :: Related Themes
 kiling an injured pet
+
+:: Example
+Spock mourned the loss of his pet sehlat in tas1x02 "Yesteryear".
 
 :: Other Parents
 
@@ -8137,10 +8273,10 @@ A character grieves over the death of a sibling.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Rabal mourned the loss of his sister, and fellow environmental activist, Serova in tng7x09 "Forces of Nature".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8154,10 +8290,10 @@ A character grieves over the loss of their spouse.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Worf howled over the body of his murdered spouse K'Ehleyr in tng4x07 "Reunion".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8172,10 +8308,10 @@ subordinates.
 :: Parents
 coping with the death of someone
 
+:: Related Themes
+
 :: Example
 Captain Kirk mourned for crewman Hendorff, who was shot and killed by a pod plant on Gamma Trianguli VI in tos2x09 "The Apple" whilst wearing a red shirt.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8271,10 +8407,10 @@ people.
 :: Parents
 psychological stress
 
+:: Related Themes
+
 :: Example
 Captain Pike pondered going into business on Regulus or on the Orion colony in the aftermath of a hard fought battle on Rigel VII in tos0x01 "The Cage".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8288,10 +8424,10 @@ A character copes with not being able to keep up with an ever-changing world.
 :: Parents
 coping with life issues
 
+:: Related Themes
+
 :: Example
 Scotty coped with time having passed him by after Geordi found him suspended in a transporter pattern-buffer in tng6x05 "Relics".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8362,9 +8498,9 @@ example: If I had only brought along an umbrella, then I would be dry.
 :: Parents
 topic in science
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -8394,9 +8530,9 @@ Someone shows bravery in the face of lethal danger.
 :: Parents
 courage
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -8438,9 +8574,9 @@ war
 :: References
 https://en.wikipedia.org/wiki/Covert_operation
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -8454,10 +8590,10 @@ Someone exhibits a marked lack of courage when the situation demands it.
 :: Parents
 human character
 
+:: Related Themes
+
 :: Example
 Marplon lost his nerve in the lead up to Captain Kirk confronting Landru in the Hall of Audiences in tos1x22 "The Return of the Archons".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -8568,6 +8704,23 @@ handled, and their impact on society in general are discussed.
 
 :: Parents
 law and order issue
+
+
+crime in society
+================
+
+:: Description
+This is the category of themes that relate to prescribed actions that are
+normally punishable by contemporary states.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Crime
+
+:: Notes
+Because of their notoriety, we consider that a "crime in society" theme is topical to the story when a character unambiguously commits such a crime. For example "murder in society" becomes topical if a murder is committed. Common sense is required here: For example, Action movies frequently feature actions that would arguably be "crimes" yet are not treated as such in the story for one reason or another (action heroes often appear to be above the law). It is not the purpose of this category to catalog such things.
 
 
 criminal gang in society
@@ -8724,9 +8877,9 @@ at things, dressing, and personal expression are featured.
 :: Parents
 cross cultural issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 culture
@@ -8836,6 +8989,22 @@ cold, that is considered uncurable by modern medicine.
 human enhancement technology
 
 
+cure for baldness
+=================
+
+:: Description
+
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Hair_loss
+
+:: Examples
+Prof. Emil Glinka invented a magical hair-growing formula that Mr. Winterbottom marketed as a cure for baldness in "Her Husband's Affairs" (1947).
+
+
 cure for cancer
 ===============
 
@@ -8930,9 +9099,9 @@ human parenting, divorce
 :: References
 https://en.wikipedia.org/wiki/Child_custody
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -9043,6 +9212,22 @@ sociotechnological issue
 
 :: References
 https://en.wikipedia.org/wiki/Information_privacy
+
+
+de-extinction technology
+========================
+
+:: Description
+Genetic engineering is used to reintroduce an extinct organism.
+
+:: Parents
+biological technology
+
+:: References
+https://en.wikipedia.org/wiki/De-extinction
+
+:: Examples
+Scientists used dinosaur DNA recovered from inside amber to genetically engineer real, living dinosaurs in "Jurassic Park" (1993).
 
 
 deadbeat parent
@@ -9180,9 +9365,9 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Deductive_reasoning
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9225,9 +9410,9 @@ the art of war
 :: References
 https://en.wikipedia.org/wiki/Defection
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9258,9 +9443,9 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/Dehumanization
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9275,10 +9460,10 @@ the death of kin.
 :: Parents
 human interpersonal relationship
 
+:: Related Themes
+
 :: Example
 Captain Picard had the unpleasant duty of informing Jeremy Aster that his mother Marla had died on an away mission in tng3x05 "The Bonding".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -9339,6 +9524,35 @@ https://en.wikipedia.org/wiki/Democracy
 
 :: Example
 Babylon 5, bbf1x01, involved an election on earth as well as voting on the station itself.
+
+
+demon
+=====
+
+:: Description
+There is a pure evil spirit.
+
+:: Parents
+legendary being
+
+:: References
+https://en.wikipedia.org/wiki/Demon
+
+
+demonic possession
+==================
+
+:: Description
+A demon or devil enters into a person and takes control of them.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Demonic_possession
+
+:: Examples
+Dana Barrett was possessed by the demon Zuul in "Ghostbusters" (1984).
 
 
 demonization of the enemy
@@ -9413,13 +9627,13 @@ what life is like
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/SlowlySlippingIntoEvil
 
+:: Aliases
+descent into evil
+
 :: Example
 In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be involved in drug smuggling. After covering up some minor transgressions Neelix eventually found himself an accomplice to serious crime.
 
 In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed an alien and discovered that its body made excellent fuel. Driven by exceptional need they procured another alien which they murdered for fuel, then another and so on.
-
-:: Aliases
-descent into evil
 
 
 descent into madness
@@ -9694,9 +9908,9 @@ force is featured.
 :: Parents
 international issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9711,9 +9925,9 @@ they want in order to reach an agreement.
 :: Parents
 diplomacy
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9728,9 +9942,9 @@ featured.
 :: Parents
 diplomacy
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9744,9 +9958,9 @@ The art of negotiating effectively between sovereign factions is featured.
 :: Parents
 diplomacy
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9814,9 +10028,9 @@ as a skill in their posession.
 :: Parents
 human self improvement
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9937,9 +10151,9 @@ be a weakness.
 :: Parents
 contraposed political ideologies
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -9976,6 +10190,20 @@ https://en.wikipedia.org/wiki/Maat
 The moon God Korgano followed the Sun Goddess Masaka in a neverending chase in tng7x17 "Masks".
 
 
+divine retribution
+==================
+
+:: Description
+It is suggested that a misfortune befalling someone, a group, or a society, is
+in fact a punishment from God for something that was done.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Divine_retribution
+
+
 diving suit
 ===========
 
@@ -10002,6 +10230,22 @@ family affairs
 
 :: References
 https://en.wikipedia.org/wiki/Divorce
+
+
+doctor and patient
+==================
+
+:: Description
+The interpersonal relationship between a doctor and their patient is examined.
+
+:: Parents
+human interpersonal relationship
+
+:: References
+https://en.wikipedia.org/wiki/Doctor%E2%80%93patient_relationship
+
+:: Note
+As doctors and patients are rather common occurrences in stories, this theme should only be used if the relationship in question has a notable and lasting quality. Usually, the doctor is expected to be self-conscious of the relationship.
 
 
 doctor and patient relationship
@@ -10031,6 +10275,19 @@ https://en.wikipedia.org/wiki/Assisted_suicide
 
 :: Example
 Worf longed for somebody to pull the plug on him after he was paralyzed as the result of a freak accident in tng5x16 "Ethics".
+
+
+doctor lying to comfort a patient
+=================================
+
+:: Description
+The following question is raised: Is it ever ethically justifiable for a
+doctor to lie to a patient about the patient's condition? Doing so might
+comfort the patient but may lead to a lowering of peoples' faith in the
+medical profession in the long run.
+
+:: Parents
+medical ethical issue
 
 
 doctor vs. next of kin
@@ -10102,6 +10359,23 @@ law and order issue
 
 :: References
 https://en.wikipedia.org/wiki/Domestic_violence
+
+
+dominicide
+==========
+
+:: Description
+A character murders a person to whom they are formally subordinate and ought
+in principle be loyal to.
+
+:: Parents
+murder in society
+
+:: References
+https://en.wikipedia.org/wiki/List_of_types_of_killing#Killing_of_superiors
+
+:: Example
+In "Throne of Blood" (1957), Washizu and Asaji murdered their liege lord Tsuzuki in order to usurp his position.
 
 
 donating an organ to save a life
@@ -10265,6 +10539,41 @@ law and order issue
 https://en.wikipedia.org/wiki/Driving_under_the_influence
 
 
+dumb blonde stereotype
+======================
+
+:: Description
+There is a pretty, young woman is profoundly ignorant and shows no interest in
+intellectual pursuits.
+
+:: Parents
+female stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Blonde_stereotype
+
+:: Example
+Gary Seven’s secretary, Roberta Lincoln, epitomized the ditsy blonde stereotype in tos2x26 "Assignment: Earth".
+
+
+dumb jock stereotype
+====================
+
+:: Description
+Someone is primarily interested in sports and sports culture, and does not
+take much interest in intellectual culture. This is the male equivalent of the
+ditzy blond blond stereotype.
+
+:: Parents
+male stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Jock_(stereotype)
+
+:: Examples
+The Ghostbusters' secretary Kevin Beckman exemplified the male equivalent of a stereotypical dumb blond in "Ghostbusters" (2016).
+
+
 duplicate of a person
 =====================
 
@@ -10311,9 +10620,9 @@ acting in accord with their conscience.
 :: Parents
 conflict of duty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -10338,9 +10647,9 @@ Someone is forced to choose between opposing groups.
 :: Parents
 conflict of duty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -10355,10 +10664,10 @@ friend.
 :: Parents
 conflict of duty
 
+:: Related Themes
+
 :: Example
 In tos1x13 "The Galileo Seven", Captain Kirk was torn between his duty to the Federation to deliver medicine on the one hand, and his duty to continue his search for Spock on the other.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -10429,11 +10738,11 @@ psychological problems.
 :: Parents
 human childhood
 
-:: Example
-Beverly in "It" (1990) had a physically abusive father and later in life find herself drawn to other abusive men against her better judgment.
-
 :: Aliases
 troubled childhood
+
+:: Example
+Beverly in "It" (1990) had a physically abusive father and later in life find herself drawn to other abusive men against her better judgment.
 
 
 dystopia
@@ -10538,10 +10847,10 @@ scientific discipline
 :: References
 https://en.wikipedia.org/wiki/Ecology
 
+:: Related Themes
+
 :: Example
 Invasive species’ such as the Tribbles could have a profound impact on ecology as we are shown in tas1x05 "More Tribbles, More Troubles".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -10558,10 +10867,10 @@ socioeconomic issue
 :: References
 https://en.wikipedia.org/wiki/Depression_(economics)
 
+:: Related Themes
+
 :: Example
 Captain Kirk and Spock followed McCoy back to the 1930s and got to experience the American Great Depression first hand in tos1x28 "The City on the Edge of Forever".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -10751,6 +11060,19 @@ emotions with the help of others.
 mentally distinguished being
 
 
+empathic being
+==============
+
+:: Description
+There is a being that is able to transmit its feelings directly to others.
+
+:: Parents
+mentally distinguished being
+
+:: Examples
+Elliot was able to feel what E.T. felt in "E.T. the Extra-Terrestrial" (1984).
+
+
 endangered species
 ==================
 
@@ -10880,10 +11202,10 @@ gender issue
 :: References
 https://en.wikipedia.org/wiki/Women_in_the_workforce
 
+:: Related Themes
+
 :: Example
 Dr. Janice Lester was convinced that Captain Kirk had had the career she had not, only because of their respective genders in tos3x24 "Turnabout Intruder".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -10975,14 +11297,14 @@ Ethology is the scientific and objective study of animal behaviour, usually
 with a focus on behaviour under natural conditions, and viewing behavior as an
 evolutionarily adaptive trait.
 
-:: Notes
-This theme is used in, for example, nature documentaries that explain how various animals act and why.
-
 :: Parents
 scientific discipline
 
 :: References
 https://en.wikipedia.org/wiki/Ethology
+
+:: Notes
+This theme is used in, for example, nature documentaries that explain how various animals act and why.
 
 
 eugenics
@@ -11110,9 +11432,9 @@ instead of this theme.
 :: Parents
 human parenting
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -11573,6 +11895,28 @@ Someone struggles to survive while being hunted.
 human vs. human
 
 
+facing financial ruin
+=====================
+
+:: Description
+A character runs low on money to such an extent that a radical change in life
+style will imminently be forced upon them.
+
+Typically, a previously poor character faces financial ruin when they loose
+their source of income and must starve or become a charity case. A formerly
+rich character may face financial ruin when their due debts exceed their
+liquid assets, and bankruptcy proceedings are imminent.
+
+:: Parents
+coping with life issues
+
+:: References
+https://en.wikipedia.org/wiki/Bankruptcy
+
+:: Examples
+In nightgallery2x13b "The Painted Mirror", old lady Ellen was desperately pawning her last prized possessions in order to pay her day-to-day expenses. Meanwhile, Frank was bough out by his unscrupulous partner and faced the prospect of unemployment in an apparently harsh economy.
+
+
 facing life in captivity
 ========================
 
@@ -11739,10 +12083,10 @@ Someone supports a friend by showing unwavering trust in their abilities.
 :: Parents
 friendship
 
+:: Related Themes
+
 :: Example
 Captain Picard decided to trust Guinan implicitly, albeit after been on the receiving end of  a stern talking to from the Ten Forward bartender, in tng3x15 "Yesterday's Enterprise".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -12006,11 +12350,11 @@ human emotion
 :: References
 https://en.wikipedia.org/wiki/Fear
 
-:: Example
-Beverly revealed her fear of heights to Captain Picard in tng7x08 "Attached".
-
 :: Related Themes
 apprehension, terror
+
+:: Example
+Beverly revealed her fear of heights to Captain Picard in tng7x08 "Attached".
 
 :: Other Parents
 Plutchik-emotion
@@ -12164,9 +12508,9 @@ The believers sense of respect, awe and submission in front of their god.
 :: Parents
 organized religion
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -12181,9 +12525,9 @@ foreboding but unknown.
 :: Parents
 fear
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -12312,10 +12656,10 @@ T. Riker.
 :: Parents
 friendship
 
+:: Related Themes
+
 :: Example
 Ro found her confidant in Guinan in tng5x03 "Ensign Ro".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -12329,9 +12673,9 @@ A woman pursues a potential mate because of his wealth and power.
 :: Parents
 female stereotype
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -12391,9 +12735,9 @@ considered sexist today.
 :: Parents
 gender issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -12407,9 +12751,9 @@ A woman shows excessive concern for her appearance.
 :: Parents
 female stereotype
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -12442,9 +12786,9 @@ female stereotype
 :: References
 https://en.wikipedia.org/wiki/Femininity
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -12601,10 +12945,10 @@ the fine arts and the humanities
 :: References
 https://en.wikipedia.org/wiki/Film_criticism
 
+:: Related Themes
+
 :: Example
 Edith Keeler wanted to catch a Clark Gable film with Captain Kirk in tos1x28 "The City on the Edge of Forever", but she got herself hit by a car instead.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -12672,10 +13016,10 @@ infatuation
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstLove
 
-:: Example
-
 :: Related Themes
 teen romance
+
+:: Example
 
 :: Other Parents
 
@@ -12779,9 +13123,9 @@ fight again later.
 :: Parents
 the art of war
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -13041,10 +13385,10 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/Forced_displacement
 
+:: Related Themes
+
 :: Example
 The Federation sough to resettle the Native Americans of Dorvan V in order to honor a treaty in tng7x20 "Journey's End".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -13064,6 +13408,21 @@ social ethical dilemma
 https://en.wikipedia.org/wiki/Forced_displacement
 
 
+fortification tactic
+====================
+
+:: Description
+Various military methods by which a location can be made difficult and
+perilous to assault, are featured. Walls, moats, ditches, and traps are
+perhaps the most obvious examples.
+
+:: Parents
+the art of war
+
+:: References
+https://en.wikipedia.org/wiki/Fortification
+
+
 fortitude
 =========
 
@@ -13074,10 +13433,10 @@ spite of it.
 :: Parents
 human character
 
-:: Example
-
 :: Related Themes
 diligence
+
+:: Example
 
 :: Other Parents
 
@@ -13094,6 +13453,23 @@ human idea about life
 
 :: References
 https://en.wikipedia.org/wiki/Fortune_favours_the_bold
+
+
+fortune telling
+===============
+
+:: Description
+There is a character that purports to be able to divine other characters'
+future fates, through mysterious means.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Fortune-telling
+
+:: Examples
+Fortune teller Abner Suggs assailed Captain Lindemann with with a number of unsolicited soothsayings in the "Night Gallery" story "Lindemann's Catch" (1972).
 
 
 four-dimensional space
@@ -13121,12 +13497,25 @@ The love of brother for brother is featured.
 :: Parents
 familial love
 
-:: Example
-
 :: Related Themes
 sororal love
 
+:: Example
+
 :: Other Parents
+
+
+fratricide
+==========
+
+:: Description
+A character murders their own brother or sister.
+
+:: Parents
+murder in society
+
+:: References
+https://en.wikipedia.org/wiki/Fratricide
 
 
 fraud in society
@@ -13233,9 +13622,9 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture https://en.wikipedia.org/wiki/Torture#Laws_against_torture
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -13251,10 +13640,10 @@ things like patents and copyright.
 :: Parents
 socioeconomic issue
 
+:: Related Themes
+
 :: Example
 Harry Mudd discussed such legalisms with Kirk in tos2x12 "I, Mudd".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -13272,10 +13661,10 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/Freedom_of_movement
 
+:: Related Themes
+
 :: Example
 The colonists on Moab IV wrestled with the dilemma of whether people were allowed to leave in tng5x13 "The Masterpiece Society" since it would upset their fragile social order.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -13294,10 +13683,10 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/Freedom_of_religion
 
+:: Related Themes
+
 :: Example
 Alternative religions were frowned upon in ancient space Rome in tos2x14 "Bread and Circuses".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -13328,10 +13717,10 @@ critical moment when they should have acted.
 :: Parents
 psychological stress
 
+:: Related Themes
+
 :: Example
 Dave Bailey froze up at the conn when Captain Kirk ordered him to fire the main phasers at a menacing space cube in tos1x02 "The Corbomite Maneuver".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -13348,9 +13737,9 @@ human interpersonal relationship
 :: References
 https://en.wikipedia.org/wiki/Friendship
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -13375,10 +13764,10 @@ Combatants take some action to scare and demoralize an enemy.
 :: Parents
 the art of war
 
+:: Related Themes
+
 :: Example
 Giant ape creatures were scared off with technological wizardry in tos1x13 "The Galileo Seven", albeit without lasting success.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -13420,6 +13809,23 @@ force of nature existential risk to civilization
 
 :: Examples
 The Cave of the Dead contained a fast growing fungus that, if ever ever got outside of the cave, would destroy the entire world in The Unknown Terror (1957).
+
+
+fusion power
+============
+
+:: Description
+There is a device capable of generating electricity by using heat from nuclear
+fusion reactions.
+
+:: Parents
+speculative energy generation technology
+
+:: References
+https://en.wikipedia.org/wiki/Fusion_power
+
+:: Examples
+Doc Brown's iconic DeLorean in "Back to the Future Part II" (1989) ran on fusion energy.
 
 
 future point of view
@@ -13630,11 +14036,11 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Generosity
 
-:: Example
-The philosopher king Parmen bestowed gifts upon Captain Kirk, Spock, and McCoy in tos3x12 "Plato's Stepchildren".
-
 :: Related Themes
 kindness
+
+:: Example
+The philosopher king Parmen bestowed gifts upon Captain Kirk, Spock, and McCoy in tos3x12 "Plato's Stepchildren".
 
 :: Other Parents
 
@@ -13858,9 +14264,9 @@ and starts thinking about the experience.
 :: Parents
 human self improvement
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -13891,6 +14297,22 @@ incorporeal spirit
 
 :: References
 https://en.wikipedia.org/wiki/Ghost
+
+
+ghost hunting
+=============
+
+:: Description
+Someone investigating locations that are reported to be haunted by ghosts.
+
+:: Parents
+the supernatural
+
+:: References
+https://en.wikipedia.org/wiki/Ghost_hunting
+
+:: Examples
+Three parapsychology researchers formed a ghost hunting team in "Ghostbusters" (1984).
 
 
 ghost ship
@@ -14123,6 +14545,21 @@ survival
 https://en.wikipedia.org/wiki/Good_and_evil
 
 
+government censorship in society
+================================
+
+:: Description
+A government suppress speech, public communication, or other information, on
+the basis that such material is considered objectionable, harmful, sensitive,
+or "inconvenient".
+
+:: Parents
+political issue
+
+:: References
+https://en.wikipedia.org/wiki/Censorship
+
+
 government concealing information
 =================================
 
@@ -14181,11 +14618,11 @@ Someone accepts a defeat with dignity.
 :: Parents
 human interpersonal relationship
 
-:: Example
-Dr. James Moriarty conceded defeat with impeccable Victorian poise in tng2x03 "Elementary, Dear Data".
-
 :: Related Themes
 magnanimity in victory
+
+:: Example
+Dr. James Moriarty conceded defeat with impeccable Victorian poise in tng2x03 "Elementary, Dear Data".
 
 
 grandfather and granddaughter
@@ -14233,10 +14670,10 @@ The relationship between a grandmother and her granddaughter is featured.
 :: Parents
 human familial relationship
 
+:: Related Themes
+
 :: Example
 Beverly mourned her late grandmother and reminisced in tng7x14 "Sub Rosa".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -14566,11 +15003,11 @@ vicious self-reinforcing cycle. The same goes for violence.
 :: Parents
 human idea about life
 
-:: Example
-Areel Shaw argued that it was basic human nature to hate a person who hates you in tos1x14 "Court Martial".
-
 :: Aliases
 if you live by the sword you will die by the sword
+
+:: Example
+Areel Shaw argued that it was basic human nature to hate a person who hates you in tos1x14 "Court Martial".
 
 
 hatred
@@ -14623,10 +15060,10 @@ share the same hated enemy.
 :: Parents
 human nature
 
+:: Related Themes
+
 :: Example
 It was their hatred of the Zeons that united the Ekosians in tos2x23 "Patterns of Force".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -14649,6 +15086,31 @@ In nightgallery1x03b "Certain Shadows on the Wall" the spirit of Emma Brigham li
 in order to haunt her brother and murdered, Dr. Stephen Brigham.
 
 
+haunted object
+==============
+
+:: Description
+There is an object to which a ghost, or suchlike spirit, is attached.
+
+:: Parents
+superstition
+
+
+haunted painting
+================
+
+:: Description
+There is an otherwise ordinary painting which is surreptitiously inhabited by
+a supernatural being. Typically the being is the spirit of someone who has
+died.
+
+:: Parents
+haunted object
+
+:: Examples
+Vigo the Carpathian haunted an eerie painting of himself in "Ghostbusters II" (1989).
+
+
 having a baby out of wedlock
 ============================
 
@@ -14669,9 +15131,9 @@ Someone is made to question beliefs they had previously taken for granted.
 :: Parents
 human self improvement
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -14699,6 +15161,19 @@ body part transplant
 
 :: References
 https://en.wikipedia.org/wiki/Head_transplant
+
+
+healing ability
+===============
+
+:: Description
+A character manifests the innate ability to heal others.
+
+:: Parents
+supernatural ability
+
+:: Examples
+E.T. healed Elliot's finger after he cut it on a saw blade in "E.T. the Extra-Terrestrial" (1984).
 
 
 healing after social upheaval
@@ -14765,11 +15240,11 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Hedonism
 
-:: Example
-The Edo were quickly revealed to be full-blown sexual hedonists in tng1x08 "Justice".
-
 :: Related Themes
 lust
+
+:: Example
+The Edo were quickly revealed to be full-blown sexual hedonists in tng1x08 "Justice".
 
 :: Other Parents
 
@@ -14811,6 +15286,23 @@ be in some need of help.
 human self-sacrifice for another
 
 
+heresy
+======
+
+:: Description
+A church or religious organization clamps down on people who hold a belief or
+theory that is strongly at variance with established beliefs or customs.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Heresy
+
+:: Examples
+The EMCOM mainframe computer master program coerced its programs to renounce their belief in the the existence "Users" (i.e. the humans software engineers who coded them) in "Tron" (1982).
+
+
 hero worship
 ============
 
@@ -14850,9 +15342,9 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Hero
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -15046,6 +15538,24 @@ topic in science
 https://en.wikipedia.org/wiki/Human_evolution
 
 
+homosexuality in society
+========================
+
+:: Description
+We are asked to what extent, if any, homosexuality should be tolerated in
+society and how homosexual people ought to be treated.
+
+:: Parents
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Homosexuality
+https://books.google.cz/books/about/Dictionary_of_Literary_Themes_and_Motifs.html?id=OCHXr3RIETQC&redir_esc=y
+
+:: Aliases
+homosexuality
+
+
 honesty
 =======
 
@@ -15130,10 +15640,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Hospitality
 
+:: Related Themes
+
 :: Example
 Captain Kirk held a banquet for Khan Singh to welcome the former dictator of Earth to the 23rd century in tos1x24 "Space Seed".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -15151,6 +15661,24 @@ existential risk to civilization
 
 :: References
 http://www.sf-encyclopedia.com/entry/invasion
+
+
+hoverboard
+==========
+
+:: Description
+There is a skateboard-like device without wheels that hovers at a constant
+altitude of up to some feet above the ground and used for personal
+transportation.
+
+:: Parents
+speculative vehicle
+
+:: References
+https://en.wikipedia.org/wiki/Hoverboard
+
+:: Examples
+Marty McFly got into a hoverboard chase in the year 2015 in "Back to the Future Part II" (1989).
 
 
 hovercar
@@ -15195,11 +15723,11 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Hubris
 
-:: Example
-Riker was riding on his high horse after having been granted Q powers in tng1x10 "Hide and Q".
-
 :: Related Themes
 pride, lesson in humility
+
+:: Example
+Riker was riding on his high horse after having been granted Q powers in tng1x10 "Hide and Q".
 
 :: Other Parents
 
@@ -15275,6 +15803,20 @@ The way humans tend to feel particular empathy for babies is noted.
 
 :: Parents
 human nature
+
+
+human enhancement technology
+============================
+
+:: Description
+A novel technology is used to enhance (or diminish depending on one's point of
+view) a person's physical ability.
+
+:: Parents
+speculative technology
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
 
 
 human implanted suicide-weapon
@@ -15484,9 +16026,6 @@ A struggle between human an monster is featured. Monster, in this case, means
 a grotesque version of man or animal of a sort typically only exists in
 stories.
 
-:: Notes
-Use man vs. animal if the struggle is with a relatively ordinary animal.
-
 :: Parents
 survival
 
@@ -15495,6 +16034,9 @@ https://en.wikipedia.org/wiki/Monster
 
 :: Related Themes
 man vs. animal
+
+:: Notes
+Use man vs. animal if the struggle is with a relatively ordinary animal.
 
 
 human vs. self
@@ -15564,6 +16106,19 @@ There is a part human, part amphibian being.
 
 :: Parents
 hybrid being
+
+
+human-ape hybrid
+================
+
+:: Description
+There is a part human, part ape being.
+
+:: Parents
+hybrid being
+
+:: Examples
+Julio Krallman was transformed into a human-ape hybrid after being transplanted with a gorilla's heart in "Night of the Bloody Apes" (1969).
 
 
 human-arachnid hybrid
@@ -15651,10 +16206,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Humility
 
-:: Example
-
 :: Related Themes
 lesson in humility, pride
+
+:: Example
 
 :: Other Parents
 
@@ -15686,10 +16241,10 @@ The relationship between husband and wife is featured.
 :: Parents
 human familial relationship
 
+:: Related Themes
+
 :: Example
 Harry Mudd bickered with an android replica of his wife, Stella, in tos2x11 "I, Mudd".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -15828,10 +16383,10 @@ even if the enemy does not, because otherwise the fight is for nothing.
 :: Parents
 the art of war
 
+:: Related Themes
+
 :: Example
 This piece of wisdom was vocalized by the Zeon Isak in tos2x23 "Patterns of Force".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -15848,9 +16403,9 @@ human idea about life
 :: References
 https://en.wiktionary.org/wiki/ignorance_is_bliss
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -15912,10 +16467,10 @@ mill mortals.
 :: Parents
 crackpot theory
 
+:: Related Themes
+
 :: Example
 Flint was revealed to be an immortal human who had lived on Earth under various aliases for thousands of years in tos3x21 "Requiem for Methuselah".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -16012,10 +16567,10 @@ order to deprive someone of their freedom.
 :: Parents
 human rights issue
 
-:: Example
-
 :: Related Themes
 the right to a fair trial
+
+:: Example
 
 :: Other Parents
 crime and punishment
@@ -16114,12 +16669,26 @@ that does not itself have a material body.
 :: Parents
 cross cultural issue
 
+:: Related Themes
+
 :: Example
 Ian, the embodiment of a benign incorporeal entity, saw life on the Enterprise-D through incorporeal eyes in tng2x01 "The Child". Note that Ian literally had eyes, but he viewed through them in a figurative manner.
 
-:: Related Themes
-
 :: Other Parents
+
+
+incorporeal spirit
+==================
+
+:: Description
+There is a being that is deceased but interacts with the world in the form of
+a bodiless spirit.
+
+:: Parents
+undead being
+
+:: References
+https://en.wikipedia.org/wiki/Spirit
 
 
 indefinite detention
@@ -16210,10 +16779,10 @@ educational issue
 :: References
 https://en.wikipedia.org/wiki/Indoctrination
 
+:: Related Themes
+
 :: Example
 Spock was unsettled to have stumbled on the fugitive Lokai indoctrinating some younger members of the crew in tos3x15 "Let That Be Your Last Battlefield".
-
-:: Related Themes
 
 :: Other Parents
 juvenile
@@ -16277,11 +16846,11 @@ romantic love
 :: References
 https://en.wikipedia.org/wiki/Infatuation
 
-:: Example
-Riker and Minuet enjoyed a short, but memorable, infatuation on the holodeck in tng1x15 "11001001".
-
 :: Related Themes
 love at first sight
+
+:: Example
+Riker and Minuet enjoyed a short, but memorable, infatuation on the holodeck in tng1x15 "11001001".
 
 
 inferiority complex
@@ -16602,9 +17171,9 @@ international issue
 :: References
 https://en.wikipedia.org/wiki/International_relations
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -16816,10 +17385,10 @@ expected to be taken seriously.
 :: Parents
 human character
 
+:: Related Themes
+
 :: Example
 Thadiun Okona comported himself with a attitude of flagrant disregard toward authority aboard the Enterprise-C in tng2x04 "The Outrageous Okona".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -16834,10 +17403,10 @@ entity at work in the universe?
 :: Parents
 metaphysics
 
+:: Related Themes
+
 :: Example
 Captain Picard soliloquized on the possible existence of a higher power at work in the cosmos in tng2x02 "Where Silence Has Lease".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -16861,9 +17430,6 @@ There is a geographical region, or location of significant size, which is
 remote and isolated to such an extent that many features from prehistoric
 times are still extant in present time.
 
-:: Notes
-"Prehistoric" indicates time from before there were written records. These fictional lands may for example contain cave men form the Stone Age, Neanderthals, woolly mammoths, and dinosaurs.
-
 :: Parents
 speculative habitat
 
@@ -16872,6 +17438,9 @@ https://en.wikipedia.org/wiki/Prehistory
 
 :: Examples
 In futurama7x08 "Fun on a Bun", Fry falls through a hole in a glacier into a land filled with mammoths and Neanderthals. This land had been shut off from the rest of the world by the ice since around the time Homo sapiens first emerged and replaced Neanderthals.
+
+:: Notes
+"Prehistoric" indicates time from before there were written records. These fictional lands may for example contain cave men form the Stone Age, Neanderthals, woolly mammoths, and dinosaurs.
 
 
 isolationism
@@ -16913,11 +17482,11 @@ human emotion
 :: References
 https://en.wikipedia.org/wiki/Jealousy
 
-:: Example
-Janice Lester went insane with jealousy over the achievements of her one time lover Captain Kirk in tos3x24 "Turnabout Intruder".
-
 :: Related Themes
 female jealousy
+
+:: Example
+Janice Lester went insane with jealousy over the achievements of her one time lover Captain Kirk in tos3x24 "Turnabout Intruder".
 
 
 jellyfish-like being
@@ -16990,9 +17559,9 @@ social ethical dilemma
 :: References
 https://en.wikipedia.org/wiki/Torture
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -17067,11 +17636,11 @@ kill all humans utopia
 :: Description
 Society is made perfect by the removal of its one failing component: human.
 
-:: Notes
-This  may not seem like a utopia since the destructions of all humans is usually not in the best interest of said humans. Nevertheless, in some stories there are individuals (sometimes human, sometimes robot) who seems to imagine a society bereft of humans as an idyllic one.
-
 :: Parents
 utopia
+
+:: Notes
+This  may not seem like a utopia since the destructions of all humans is usually not in the best interest of said humans. Nevertheless, in some stories there are individuals (sometimes human, sometimes robot) who seems to imagine a society bereft of humans as an idyllic one.
 
 :: Example
 Lore and his loyal Borg minions wanted to wipe out the human scourge and make the universe a perfect place in tng7x01 "Descent, Part II".
@@ -17181,10 +17750,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Kindness
 
-:: Example
-
 :: Related Themes
 generosity
+
+:: Example
 
 :: Other Parents
 
@@ -17269,9 +17838,9 @@ Someone sadly ponders a love affair that has long since ended.
 :: Parents
 human dreaming
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -17285,10 +17854,10 @@ The (very real) idea of a language composed of musical sounds is illustrated.
 :: Parents
 problem of language and meaning
 
+:: Related Themes
+
 :: Example
 The myseterious space obelisk on Amerind featured such a language in tos3x03 "The Paradise Syndrome".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -17426,10 +17995,10 @@ conscious of their own limitations.
 :: Parents
 human self improvement
 
-:: Example
-
 :: Related Themes
 humility, pride
+
+:: Example
 
 :: Other Parents
 
@@ -17455,9 +18024,9 @@ on.
 :: Parents
 romantic relationship issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -17685,17 +18254,6 @@ and suchlike creatures.
 what life is like
 
 
-college life
-============
-
-:: Description
-We are shown what life might be like for university students. Stereotypically
-this might involve fraternities, pranks on the Dean, spring breaks, etc.
-
-:: Parents
-what life is like
-
-
 life in the Age of Sail
 =======================
 
@@ -17813,12 +18371,39 @@ the fine arts and the humanities
 :: References
 https://en.wikipedia.org/wiki/Literary_criticism
 
+:: Related Themes
+
 :: Example
 Spock was most impressed with Mr. Flint's taste in literature in tos3x21 "Requiem for Methuselah".
 
-:: Related Themes
-
 :: Other Parents
+
+
+live by the sword die by the sword
+==================================
+
+:: Description
+The idea is held forth that people who choose to live lives of violence are
+likely to die violent deaths.
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wikipedia.org/wiki/Live_by_the_sword,_die_by_the_sword
+
+
+living corpse
+=============
+
+:: Description
+There is a corpse that has been re-animated by some or another means.
+
+:: Parents
+undead being
+
+:: Examples
+Dr. Juan Munos used refrigeration to keep his dead body somehow alive in "Night Gallery" tale "Cool Air" (1971).
 
 
 living dinosaur
@@ -17970,10 +18555,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Logarithmic_scale
 
+:: Related Themes
+
 :: Example
 Data and Geordi used a logarithmic scale in tng5x04 "Silicon Avatar" to improve image resolution.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -18028,10 +18613,10 @@ romantic relationship
 :: References
 https://en.wikipedia.org/wiki/Long-distance_relationship
 
+:: Related Themes
+
 :: Example
 Captain Picard recalled that he and Miranda Vrgo had broken up because their long distance relationship didn’t work out in tng7x22 "Bloodlines".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -18127,11 +18712,11 @@ surprisingly difficult obstacles, e.g., years of separation.
 :: Parents
 human nature
 
-:: Example
-Anne Nored remained as deeply in love as ever with Carter Winston even after it came to light that he was a betentacled alien spy in tas1x06 "The Survivor".
-
 :: Related Themes
 love does not transcend all bounds
+
+:: Example
+Anne Nored remained as deeply in love as ever with Carter Winston even after it came to light that he was a betentacled alien spy in tas1x06 "The Survivor".
 
 
 love does not transcend all bounds
@@ -18251,9 +18836,9 @@ Two lovers quarrel as lovers will.
 :: Parents
 romantic relationship issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18271,9 +18856,9 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Loyalty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18287,9 +18872,9 @@ Someone shows constant support to a movement they feel strongly about.
 :: Parents
 loyalty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18303,9 +18888,9 @@ Someone shows constant support to a friend.
 :: Parents
 loyalty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18319,9 +18904,9 @@ Someone shows constant support to a group to which they belong.
 :: Parents
 loyalty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18335,10 +18920,10 @@ A subordinate shows constant support to their leader.
 :: Parents
 loyalty
 
+:: Related Themes
+
 :: Example
 Kirk's senior officers remained loyal to their captain at his court martial in tos1x24 "Court Martial".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -18352,9 +18937,9 @@ A leader shows constant support to a subordinate.
 :: Parents
 loyalty
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18466,6 +19051,49 @@ typically involves lab coats and crazy experiments.
 human character
 
 
+magic object
+============
+
+:: Description
+There is an object with some fantastical property that cannot be explained by
+science.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Category:Magic_objects
+
+
+magic portal
+============
+
+:: Description
+There is an opening, usually framed in a portal, mirror, or suchlike object,
+through which objects and people may pass and appear instantaneously in remote
+places.
+
+:: Parents
+magic object
+
+:: References
+https://en.wikipedia.org/wiki/Portals_in_fiction
+
+
+magic word
+==========
+
+:: Description
+The use of spoken words to invoke magical energies is featured. Note: A stage
+magician uttering "Abracadabra" before performing a trick does not count.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Magic_word
+
+
 magical amusement planet
 ========================
 
@@ -18485,14 +19113,14 @@ magical land in the sky
 :: Description
 There is a land, a kingdom perhaps, above the clouds.
 
-:: Notes
-This kind of theme is common fare for fairy tales and religions, and the exact details are generally left vague.
-
 :: Parents
 speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Heaven
+
+:: Notes
+This kind of theme is common fare for fairy tales and religions, and the exact details are generally left vague.
 
 
 magnanimity in victory
@@ -18504,11 +19132,11 @@ Someone is forgiving to a rival they have bested.
 :: Parents
 human interpersonal relationship
 
-:: Example
-Riker graciously declined Portal 6-3's offer to destroy a party of conniving Ferengi in tng1x05 "The Last Outpost".
-
 :: Related Themes
 graciousness in defeat
+
+:: Example
+Riker graciously declined Portal 6-3's offer to destroy a party of conniving Ferengi in tng1x05 "The Last Outpost".
 
 
 magnetic boots
@@ -18640,15 +19268,15 @@ The sterotypical idea of a male midlife crisis is featured. It might, for
 example, make the male in question buy fast cars and hookers, revert to
 teenage attitudes, or do some other silly things.
 
-:: Notes
-A midlife crisis is a transition of identity and self-confidence that can occur
-in middle-aged individuals, typically 45–64 years old.
-
 :: Parents
 male stereotype
 
 :: References
 https://en.wikipedia.org/wiki/Midlife_crisis
+
+:: Notes
+A midlife crisis is a transition of identity and self-confidence that can occur
+in middle-aged individuals, typically 45–64 years old.
 
 
 male posturing
@@ -18686,10 +19314,10 @@ The tendency of some males to be protective of females is illustrated.
 :: Parents
 male stereotype
 
+:: Related Themes
+
 :: Example
 Scotty had a crush on Carolyn Palamas and tried awkwardly to be her knight in shining armor in tos2x04 "Who Mourns for Adonais?".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -18705,9 +19333,9 @@ considered sexist today.
 :: Parents
 gender issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -18791,10 +19419,10 @@ sociocultural issue
 :: References
 https://en.wikipedia.org/wiki/Mandatory_retirement
 
+:: Related Themes
+
 :: Example
 The Federation decided to review the mandatory retirement age of 75 in the case of Commodore April after his heroic actions in tas2x06 "The Counter-Clock Incident".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -19042,10 +19670,10 @@ familial love
 :: References
 https://en.wikipedia.org/wiki/Maternal_bond
 
+:: Related Themes
+
 :: Example
 Beverly expressed her love for Wesley in tng1x03 "The Naked Now" by slapping him clear across the face.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -19076,9 +19704,9 @@ form of government
 :: References
 https://en.wikipedia.org/wiki/Matriarchy
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -19210,9 +19838,9 @@ scientific discipline
 :: References
 https://en.wikipedia.org/wiki/Cause_(medicine)
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -19227,9 +19855,9 @@ another in planning medical treatments.
 :: Parents
 medical ethical issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -19796,17 +20424,28 @@ human rights issue
 https://en.wikipedia.org/wiki/Minority_rights
 
 
+miracle
+=======
+
+:: Description
+There is a supernatural event, beneficial for the faithful, that is attributed
+to divine agency.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Miracle
+
+:: Examples
+A blind boy miraculously regained his sight upon visiting a Mexican shrine in the "Night Gallery" story "The Miracle at Camafeo" (1972).
+
+
 miracle working
 ===============
 
 :: Description
 There is a character that is able to work miracles at will.
-
-:: Notes
-Miracle working typically has a connection with religion and deities. It is
-generally not used to describe situations in which a character is able to immediately
-manipulate the world with his mind or through spells etc. In particular, telekinetics, fire conjuring sourcery, and suchlike wizardry is not miracle working.
-This may be a matter of interpretation in some cases.
 
 :: Parents
 supernatural ability
@@ -19819,6 +20458,12 @@ https://en.wikipedia.org/wiki/Miracle
 In nightgallery1x04a "Make Me Laugh", a miracle working Indian swami helps Jackie
 Slater by making it so that he effortlessly inspires laughter in anyone who listens
 to him.
+
+:: Notes
+Miracle working typically has a connection with religion and deities. It is
+generally not used to describe situations in which a character is able to immediately
+manipulate the world with his mind or through spells etc. In particular, telekinetics, fire conjuring sourcery, and suchlike wizardry is not miracle working.
+This may be a matter of interpretation in some cases.
 
 
 misandry
@@ -19859,19 +20504,6 @@ be unhappy as well, is featured.
 
 :: Parents
 human nature
-
-
-divine retribution
-==================
-
-:: Description
-It is suggested that a misfortune befalling someone, a group, or a society, is in fact a punishment from God for something that was done.
-
-:: Parents
-organized religion
-
-:: References
-https://en.wikipedia.org/wiki/Divine_retribution
 
 
 misfortune unites
@@ -20082,6 +20714,20 @@ organized religion
 https://en.wikipedia.org/wiki/Monotheism
 
 
+monster
+=======
+
+:: Description
+There is a type of grotesque creature, whose appearance frightens and whose
+powers of destruction threaten the human world's social or moral order.
+
+:: Parents
+speculative being
+
+:: References
+https://en.wikipedia.org/wiki/Monster
+
+
 monster apocalypse
 ==================
 
@@ -20153,10 +20799,10 @@ whether or not she will carry a pregnancy to term is featured.
 :: Parents
 gender issue
 
+:: Related Themes
+
 :: Example
 The senior officers discussed what to do about Troi’s mysterious pregnancy and Worf suggested an abortion in tng2x01 "The Child", but Troi would have none of it.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -20253,10 +20899,10 @@ and dad have different heritages.
 :: Parents
 human childhood
 
+:: Related Themes
+
 :: Example
 Worf and his mate K'Ehleyr discussed the troubles of growing up with a foot each in two different cultures in tng2x20 "The Emissary".
-
-:: Related Themes
 
 :: Other Parents
 juvenile
@@ -20332,6 +20978,19 @@ speculative natural object
 :: References
 https://en.wikipedia.org/wiki/Multiverse
 http://www.sf-encyclopedia.com/entry/multiverse
+
+
+murder in society
+=================
+
+:: Description
+The crime of unlawful and intentional homicide is featured.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/List_of_types_of_killing
 
 
 mushroom-like being
@@ -20475,6 +21134,23 @@ environmental issue
 https://en.wikipedia.org/wiki/Conservation_(ethic)
 
 
+nature's revenge
+================
+
+:: Description
+Nature somehow runs amok and takes vengeance on its abusers.
+
+:: Parents
+human vs. nature
+
+:: Examples
+Nuclear weapons tests in the Pacific stirred up a prehistoric dinosaur-like monster that make a B-line for Tokyo in "Godzilla" (1954),
+
+A green brain arises from nature's resistance to human efforts eradicate all insect life on Earth in "The Green Brain" (1966).
+
+An unspecified cosmic event results in ant colonies evolving collective intelligence and challenging humans for dominion over the Earth in "Phase IV" (1974).
+
+
 nebula
 ======
 
@@ -20489,6 +21165,23 @@ https://en.wikipedia.org/wiki/Nebula
 
 :: Example
 The Enterprise-D hid from a Borg cube inside the Paulson Nebula in tng3x26 "The Best of Both Worlds".
+
+
+necrophilia
+===========
+
+:: Description
+There is a character who is sexually attracted to a corpse, or to corpses in
+general.
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Necrophilia
+
+:: Examples
+A Scottish widow had a thing for her deceased husband in the "Night Gallery" story "The Ghost of Sorworth Place" (1972).
 
 
 neglectful parent
@@ -20964,10 +21657,10 @@ humans at work
 :: References
 https://en.wikipedia.org/wiki/Workplace_politics
 
+:: Related Themes
+
 :: Example
 Younglings on the Enterprise pondered how to get ahead in their careers in tng7x15 "Lower Decks".
-
-:: Related Themes
 
 :: Other Parents
 the workplace
@@ -20985,9 +21678,9 @@ romantic relationship
 :: References
 https://en.wikipedia.org/wiki/Workplace_relationships#Romantic
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -21034,10 +21727,10 @@ romantic relationship
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/OldFlame
 
+:: Related Themes
+
 :: Example
 McCoy met whom he assumed to be his old flame Nancy Crater on planet M-113 in tos1x05 "The Man Trap", but she turned out to be a ravenous salt vampire.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -21052,9 +21745,9 @@ well familiar with each other’s kinks and flaws.
 :: Parents
 romantic love
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -21069,9 +21762,9 @@ considerable life experience.
 :: Parents
 romantic relationship
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -21170,6 +21863,20 @@ locationally distinguished being, inhospitable environment dwelling being
 
 :: Example
 Wesley could not believe the smell of the slime pit that Geordi constructed for a visiting delegation of Legarans in the observation lounge in tng3x23 "Sarek".
+
+
+open romantic relationship
+==========================
+
+:: Description
+Two or more people engage in an intimate relationship that is sexually non-
+monogamous.
+
+:: Parents
+romantic relationship
+
+:: References
+https://en.wikipedia.org/wiki/Open_relationship
 
 
 open sexuality in society
@@ -21287,10 +21994,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Orbital_decay
 
+:: Related Themes
+
 :: Example
 The Enterprise experienced orbital decay around 20th century Earth in tos1x21 "Tomorrow is Yesterday".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -21308,10 +22015,10 @@ engineered orbital structure
 :: References
 https://en.wikipedia.org/wiki/Space_weapon
 
+:: Related Themes
+
 :: Example
 The Enterprise visited the 20th century and found that Earth was about to go down the path of self-obliteration by putting nukes in orbit in tos2x26 "Assignment: Earth".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -21352,9 +22059,9 @@ can move about in order to avoid potential chaos?
 :: Parents
 contraposed political ideologies
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -21384,10 +22091,10 @@ law and order issue
 :: References
 https://en.wikipedia.org/wiki/Organ_procurement
 
+:: Related Themes
+
 :: Example
 Spock’s brain was harvested by aliens who wanted it as a computer in tos3x06 "Spock's Brain".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -21435,9 +22142,9 @@ the domain of faith
 :: References
 https://en.wikipedia.org/wiki/Religion https://en.wikipedia.org/wiki/Organized_religion
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -21454,10 +22161,10 @@ human childhood
 :: References
 https://en.wikipedia.org/wiki/Orphan
 
-:: Example
-
 :: Related Themes
 childhood as an outsider
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -21475,10 +22182,10 @@ special interest group issue
 :: References
 https://en.wikipedia.org/wiki/Orphan
 
-:: Example
-
 :: Related Themes
 orphanhood
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -21545,9 +22252,9 @@ Someone strives to overcome a limitation of theirs.
 :: Parents
 human self improvement
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -21562,10 +22269,10 @@ a drug or gambling.
 :: Parents
 human self improvement
 
+:: Related Themes
+
 :: Example
 Barclay struggled with getting his holodeck addiction under control in tng3x21 "Hollow Pursuits".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -22006,10 +22713,10 @@ places.
 :: Parents
 human professional aspiration
 
+:: Related Themes
+
 :: Example
 Captain Picard's much anticipated lecture on archaeological ruins of Tagus III was rudely cut short by Q in tng4x20 "Qpid".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -22033,10 +22740,10 @@ A character gets a kick out of trying to make the universe a better place.
 :: Parents
 human professional aspiration
 
+:: Related Themes
+
 :: Example
 It was revealed that Miranda Vigo had cared for orphans on Camor V in tng7x22 "Bloodlines".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -22049,6 +22756,19 @@ A character is enthusiastic about old movies of cultural significance.
 
 :: Parents
 human pleasure
+
+
+passion for collecting Data
+===========================
+
+:: Description
+A person is enthusiastic about collecting and curating at least one character
+named "Data".
+
+:: Parents
+human professional aspiration
+
+:: Examples
 
 
 passion for collecting data
@@ -22064,6 +22784,20 @@ human professional aspiration
 https://en.wikipedia.org/wiki/Data
 
 :: Example
+
+
+passion for collecting rare objects
+===================================
+
+:: Description
+A character displays an enthusiasm for finding unusual items to make their
+property, typically as part of a collection of one sort or another.
+
+:: Parents
+human pleasure
+
+:: References
+https://en.wikipedia.org/wiki/Psychology_of_collecting
 
 
 passion for event management
@@ -22119,10 +22853,10 @@ other valuables at stake.
 :: Parents
 human pleasure
 
+:: Related Themes
+
 :: Example
 The Providers, a trio of disembodied brains, had a gambling problem to say the least in tos2x17 "The Gamesters of Triskelion".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -22493,9 +23227,9 @@ humans in group
 :: References
 https://en.wikipedia.org/wiki/Peer_pressure
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -22522,10 +23256,10 @@ delinquent reforms their wicked ways to become a veritable saint.
 :: Parents
 human nature
 
+:: Related Themes
+
 :: Example
 Returning defector Stefan DeSeve had really seen the error of his ways in tng6x14 "Face of the Enemy".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -22792,10 +23526,10 @@ problem of language and meaning
 :: References
 https://en.wikipedia.org/wiki/Pictogram
 
+:: Related Themes
+
 :: Example
 The ancient Iconians had left such writing behind in tng2x11 "Contagion".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -22812,9 +23546,9 @@ human interpersonal relationship
 :: References
 https://en.wikipedia.org/wiki/Pity
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -22828,10 +23562,10 @@ A character has sex with an infatuated devotee solely out of pity for them.
 :: Parents
 romantic relationship issue
 
+:: Related Themes
+
 :: Example
 Janet Wallace offered intimate comforting to Captain Kirk in tos2x11 "The Deadly Years" when he started aging rapidly.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -23308,10 +24042,10 @@ The human predilection for taking on riddles and enigmas is illustrated.
 :: Parents
 human pleasure
 
+:: Related Themes
+
 :: Example
 Data and Geordi amused themselves solving Sherlock Holmes mysteries on the holodeck in tng2x03 "Elementary, Dear Data".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -23337,10 +24071,10 @@ exertion is examined.
 :: Parents
 human pleasure
 
+:: Related Themes
+
 :: Example
 Shirtless Sulu galavanted around the Enterprise wielding a rapier in tos1x06 "The Naked Time".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -23395,6 +24129,23 @@ requires you to step inside to use.
 
 :: Parents
 speculative device
+
+
+poetic justice
+==============
+
+:: Description
+An evildoer ironically becomes a victim of the very wickedness that they
+intended for others.
+
+:: Parents
+ethics
+
+:: References
+https://en.wikipedia.org/wiki/Poetic_justice
+
+:: Examples
+In nightgallery2x19a "Deliveries in the Rear", Dr. Fletcher is perfectly content to look the other way while innocent people are murdered in order to provide cadavers for dissection in his anatomy class. Eventually, in an ironic twist of fate, he uncovers a new corpse only to find that it is his own beloved fiancée that has become the victim.
 
 
 poetry
@@ -23581,6 +24332,20 @@ organized religion
 https://en.wikipedia.org/wiki/Polytheism
 
 
+pornography addiction
+=====================
+
+:: Description
+Someone compulsively spends an inordinate amount of time taking in
+pornographic material.
+
+:: Parents
+human addiction
+
+:: References
+https://en.wikipedia.org/wiki/Pornography_addiction
+
+
 post-apocalyptic dystopia
 =========================
 
@@ -23695,6 +24460,25 @@ https://en.wikipedia.org/wiki/Precognition
 http://www.sf-encyclopedia.com/entry/precognition
 
 
+predatory financial practices in society
+========================================
+
+:: Description
+Predatory lending refers to unethical practices conducted by lending
+organizations during a loan origination process that are unfair, deceptive, or
+fraudulent. The story ask us to ponder how such and suchlike practices affect
+a society.
+
+:: Parents
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Predatory_lending
+
+:: Examples
+In nightgallery2x12b "Camera Obscura", the successful money lender Mr. Sharsted is transported into some sort of bleak Limbo wherein he is confronted with the various victims of his callous, perhaps usurious, business practices.
+
+
 preemptive strike in self-defense
 =================================
 
@@ -23708,10 +24492,10 @@ social ethical dilemma
 :: References
 https://en.wikipedia.org/wiki/Preemptive_war
 
+:: Related Themes
+
 :: Example
 Picard was urged to attack the Romulans before they could strike at the Federation in tng3x10 "The Defector".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -23730,10 +24514,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Prejudice
 
-:: Example
-
 :: Related Themes
 prejudice in society
+
+:: Example
 
 :: Other Parents
 
@@ -23748,10 +24532,10 @@ convicts even though the latter have atoned for their crimes is discussed.
 :: Parents
 prejudice in society
 
+:: Related Themes
+
 :: Example
 Nobody trusted Ro Laren after she got out of the penal stockade on Jaros II and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took pity on her.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -23768,10 +24552,10 @@ sociocultural issue
 :: References
 https://en.wikipedia.org/wiki/Prejudice
 
-:: Example
-
 :: Related Themes
 prejudice
+
+:: Example
 
 :: Other Parents
 
@@ -24089,6 +24873,23 @@ public safety may be in danger? Where would the line be drawn?
 social ethical dilemma
 
 
+pulling the plug on a loved one
+===============================
+
+:: Description
+Someone is faced with deciding whether or not to authorize the suspension of
+life support procedures on a loved one.
+
+:: Parents
+personal life and death dilemma
+
+:: References
+https://en.wikipedia.org/wiki/Life_support
+
+:: Examples
+It fell to Clara Murphy to decide in whether to let her mortally wounded husband Alex die or let a team of scientists turn what was left of him into a cyborg "RoboCop" (2014). She went cyborg route.
+
+
 pulsar
 ======
 
@@ -24176,11 +24977,11 @@ is either sick, injured, or a danger to the public.
 :: Parents
 coping with life issues
 
-:: Example
-Spock made the tough decision to put his pet sehlat out of its misery in tas1x02 "Yesteryear".
-
 :: Related Themes
 coping with the death of a pet
+
+:: Example
+Spock made the tough decision to put his pet sehlat out of its misery in tas1x02 "Yesteryear".
 
 :: Other Parents
 
@@ -24269,10 +25070,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/Cult
 
+:: Related Themes
+
 :: Example
 The Children of Landru in tos1x22 "The Return of the Archons" Landru lead a cult-like following.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -24339,6 +25140,23 @@ speculative device
 
 :: Example
 Dr. Adam Royston invented an anti-radiation container that could neutralize any radioactive material put inside it in "X the Unknown" (1956).
+
+
+rags to riches
+==============
+
+:: Description
+A character rises from poverty to wealth, and in some cases from absolute
+obscurity to heights of fame.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Rags_to_riches
+
+:: Examples
+Bill and Margaret Weldon spent a giddy night imagining all the things they would buy after having signed a big contract to market a razor-less shaving cream in "Her Husband's Affairs" (1947).
 
 
 randomization
@@ -24410,6 +25228,20 @@ irrationally overlooking potential counterarguments.
 human thinking about self
 
 
+realist vs. idealist
+====================
+
+:: Description
+A pragmatic down to Earth character is contrasted with a visionary in pursuit
+of (some sort of) perfection.
+
+:: Parents
+human characters in contrast
+
+:: Notes
+The wikipedia articles discussing "realism" and "idealism" refer to abstract philosophical concepts that are not very helpful in explaining what the present theme is about. We choose to omit these as references.
+
+
 realpolitik vs. idealism
 ========================
 
@@ -24473,9 +25305,9 @@ discredited scientific theory
 :: References
 https://en.wikipedia.org/wiki/Recapitulation_theory
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -24493,11 +25325,11 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Recluse
 
-:: Example
-It was revealed that Tam Elbrun lived among the non-humanoid, telepathic Chandrans in order to avoid contact with other humanoids in tng3x20 "Tin Man".
-
 :: Related Themes
 xenophobic isolationist alien
+
+:: Example
+It was revealed that Tam Elbrun lived among the non-humanoid, telepathic Chandrans in order to avoid contact with other humanoids in tng3x20 "Tin Man".
 
 :: Other Parents
 
@@ -24515,11 +25347,11 @@ humans interacting
 :: References
 https://en.wiktionary.org/wiki/reconciliation
 
-:: Example
-Riker and his father Kyle reconciled their differences over a heated anbo-jyutsu match in tng2x14 "The Icarus Factor".
-
 :: Aliases
 forgiveness
+
+:: Example
+Riker and his father Kyle reconciled their differences over a heated anbo-jyutsu match in tng2x14 "The Icarus Factor".
 
 
 reconciliation between two peoples
@@ -24589,6 +25421,22 @@ human enhancement technology
 https://en.wikipedia.org/wiki/Regenerative_medicine
 
 
+regicide
+========
+
+:: Description
+A character murders a crowned king, queen, or comparable sovereign ruler.
+
+:: Parents
+murder in society
+
+:: References
+https://en.wikipedia.org/wiki/Regicide
+
+:: Example
+In "Macbeth" (1606), the Macbeth couple slew King Duncan in order to usurp his powers.
+
+
 reincarnation
 =============
 
@@ -24638,9 +25486,9 @@ illustrated.
 :: Parents
 human idea about life
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -24655,9 +25503,9 @@ justify their own position and exert control.
 :: Parents
 form of government
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -24780,9 +25628,9 @@ colleague, etc.
 :: Parents
 human dreaming
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -25113,10 +25961,10 @@ the fine arts and the humanities
 :: References
 https://en.wikipedia.org/wiki/Rhetoric
 
+:: Related Themes
+
 :: Example
 Data tried every rhetorical trick in the book on the stubborn colonists of Tau Cygna V the in tng3x02 "The Ensigns of Command", but they insisted they’d rather stay and die fighting the Sheliak.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -25231,9 +26079,9 @@ that has but small reward.
 :: Parents
 personal practical dilemma
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -25272,10 +26120,10 @@ is illustrated.
 :: Parents
 problem of language and meaning
 
+:: Related Themes
+
 :: Example
 To communicate with the Jarada in tng1x12 "The Big Goodbye", Captain Picard had to memorize a long and complicated ritual greeting.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -25406,9 +26254,9 @@ love
 :: References
 https://en.wikipedia.org/wiki/Romance_(love)
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -25425,9 +26273,9 @@ human interpersonal relationship
 :: References
 https://en.wikipedia.org/wiki/Romance_(love)
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -25783,10 +26631,10 @@ save innocent people.
 :: Parents
 personal ethical dilemma
 
+:: Related Themes
+
 :: Example
 Riker could have saved mining colonists and a dead child with his new Q-powers in tng1x10 "Hide and Q" if he had broken his word to Picard.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -25835,9 +26683,9 @@ cross cultural issue
 :: References
 https://en.wikipedia.org/wiki/Clarke%27s_three_laws
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -25853,10 +26701,10 @@ potentially devastating military applications (nuclear weapons)?
 :: Parents
 social ethical dilemma
 
+:: Related Themes
+
 :: Example
 The pros and cons of science that creates super soldiers was discussed in tos1x24 "Space Seed".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -25871,9 +26719,9 @@ Featured is a common contemporary scientific disciplines such as, for example,
 :: Parents
 modern science
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -26065,6 +26913,25 @@ contraposed political ideologies
 The Rutians had given up much liberty to gain but little security for the sake of fighting terrorism in tng3x12 "The High Ground".
 
 
+see-anywhere device
+===================
+
+:: Description
+There is a device, perhaps a mirror, a font of water, or a good old orbuculum,
+that lets its user see hidden faraway places without having an apparent
+physical connection to the place in question.
+
+:: Parents
+magic object
+
+:: References
+https://en.wikipedia.org/wiki/Crystal_ball
+https://en.wikipedia.org/wiki/Scrying
+
+:: Note
+This theme generally does not apply to devices that operate according to presently understood principles. I.e., it does not apply to telescopes that require a line of vision (the place is not hidden) and it does not apply to transmitted camera recordings (a physical camera is required at the remote location).
+
+
 seeing something through to the end
 ===================================
 
@@ -26111,10 +26978,10 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Self-confidence
 
+:: Related Themes
+
 :: Example
 Wesley was assigned to lead a science team in an effort to help build his self-confidence in tng2x15 "Pen Pals".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -26161,9 +27028,9 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Self-deception
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -26228,16 +27095,16 @@ People create a substance that consumes all sorts of matter in order to expand
 itself indefinitely, thus threatening civilization as well as the physical
 planet it is on.
 
-:: Notes
-The famous original, well known under the moniker "gray goo", is goo-like and gray, but that is
-not strictly a requirement for this theme. It may certainly be any color.
-
 :: Parents
 anthropogenic existential risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Grey_goo
 http://www.sf-encyclopedia.com/entry/grey_goo
+
+:: Notes
+The famous original, well known under the moniker "gray goo", is goo-like and gray, but that is
+not strictly a requirement for this theme. It may certainly be any color.
 
 
 self-replicating machine
@@ -26286,6 +27153,21 @@ human character
 https://en.wikipedia.org/wiki/Selfishness
 
 
+selfless character vs. selfish character
+========================================
+
+:: Description
+The story contrasts and compares two characters whereof one is notably
+egotistic, and the other notably altruistic.
+
+:: Parents
+human characters in contrast
+
+:: References
+https://en.wikipedia.org/wiki/Selfishness
+https://en.wikipedia.org/wiki/Altruism
+
+
 selfless service
 ================
 
@@ -26323,6 +27205,26 @@ https://en.wikipedia.org/wiki/Semantic_change
 
 :: Example
 An Abraham Lincoln replica asked forgiveness for calling Uhura  "a charming negress" in tos3x22 "The Savage Curtain" upon recalling that the term was used by some in his time as a description of property.
+
+
+sending a child to military school
+==================================
+
+:: Description
+The practice of some parents in some places to send their child of to stay at
+a military like educational institution for an extended period of time is
+examined. In stories, this is often done either to imbue discipline in an
+unruly child, or because the parents want to rid themselves of the burden of
+caring for the child.
+
+:: Parents
+human parenting
+
+:: References
+https://en.wikipedia.org/wiki/Military_high_school
+
+:: Examples
+Mr. Holston visited an unusually strict military school to assess whether or not it was the right place to send his son in "Night Gallery" story "The Academy" (1971).
 
 
 sentient bomb
@@ -26594,11 +27496,11 @@ romantic relationship
 :: References
 https://en.wikipedia.org/wiki/Shotgun_wedding
 
-:: Example
-Debin of the planet Altec compelled Benzan of the planet Straleb to marry his daughter Yanar in tng2x04 "The Outrageous Okona", when it became apparent that the Stralebian had impregnated Yanar.
-
 :: Related Themes
 space rednecks
+
+:: Example
+Debin of the planet Altec compelled Benzan of the planet Straleb to marry his daughter Yanar in tng2x04 "The Outrageous Okona", when it became apparent that the Stralebian had impregnated Yanar.
 
 :: Other Parents
 
@@ -26629,9 +27531,9 @@ human childhood, sibling and sibling
 :: References
 https://en.wikipedia.org/wiki/Sibling_rivalry
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 juvenile
@@ -26659,9 +27561,9 @@ Some seemingly miraculous event is interpreted as a sign of divine origin.
 :: Parents
 organized religion
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -26708,6 +27610,22 @@ speculative technology
 :: References
 https://en.wikipedia.org/wiki/Simulated_reality
 http://www.sf-encyclopedia.com/entry/virtual_reality
+
+
+sin
+===
+
+:: Description
+The religious idea of transgression against divine law is discussed.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Sin
+
+:: Examples
+In nightgallery2x21a "The Sins of the Fathers", Ian consumed a meal in front of his late father's corpse in order to take on his sins and save him from damnation.
 
 
 single fatherhood
@@ -26922,9 +27840,6 @@ There is a tool of some sort that, without being intelligent in the
 traditional sense, performs complex tasks that would be beyond the cognitive
 ability of an ordinary human.
 
-:: Notes
-This is generally not used when full fledged, sentient, AI is involved.
-
 :: Parents
 speculative device
 
@@ -26935,6 +27850,9 @@ In nightgallery1x02b "The Little Black Bag", former MD William Fall comes across
 kit from the distant future. In this kit there is a device that diagnoses ailments and
 suggests remedies, as well as a smart scalpel that cuts only to the precise depth that
 is required of it and that can steer its wielders hand to some extent.
+
+:: Notes
+This is generally not used when full fledged, sentient, AI is involved.
 
 
 sneak attack tactic
@@ -26979,9 +27897,9 @@ political issue
 :: References
 https://en.wikipedia.org/wiki/Activism
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -26999,9 +27917,9 @@ human character
 :: References
 https://en.wikipedia.org/wiki/Social_skills
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -27045,6 +27963,20 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Social_inequality https://en.wikipedia.org/wiki/Social_privilege
+
+
+social media addiction
+======================
+
+:: Description
+Someone compulsively spends an inordinate amount of time interacting with
+things like Facebook, Instagram, Twitter, and other social media networks.
+
+:: Parents
+human addiction
+
+:: References
+https://en.wikipedia.org/wiki/Social_media_addiction
 
 
 social media in society
@@ -27098,6 +28030,20 @@ speculative society
 
 :: Example
 Captain Kirk and his team found a planet on which all the adults had died from a mysterious disease while the children stayed children for hundreds of years in tos1x11 "Miri".
+
+
+society in which the devil turned out to be not so bad after all
+================================================================
+
+:: Description
+We imagine what the world would be like if the much despised Devil of
+Christian mythology was real yet not, in fact, evil but merely misunderstood.
+
+:: Parents
+speculative society
+
+:: Example
+The Devil was revealed to be  a well-intending but misunderstood alien in tas1x08 "The Magicks of Megas-Tu".
 
 
 society in which victims sentence their own assailants
@@ -27293,11 +28239,11 @@ The love of sister for sister is featured.
 :: Parents
 familial love
 
-:: Example
-Aquiel and her sister Shianna Uhnari where very close indeed in tng6x13 "Aquiel".
-
 :: Related Themes
 fraternal love
+
+:: Example
+Aquiel and her sister Shianna Uhnari where very close indeed in tng6x13 "Aquiel".
 
 
 sound masking device
@@ -27935,6 +28881,30 @@ http://www.sf-encyclopedia.com/entry/nanotechnology
 Wesley Crusher made nano-machines work together and evolve in tng3x01 "Evolution" and things got a bit out of hand.
 
 
+speculative natural object
+==========================
+
+:: Description
+There is a hypothetical material objected of natural origin, such as a a dark
+matter nebula or even a universe that fits inside a box.
+
+:: Parents
+speculative fiction theme
+
+
+speculative natural process
+===========================
+
+:: Description
+There is a hypothetical, and perhaps highly speculative, regularity imposed by
+nature according to which objects in the world interact. These are fanciful
+natural processes, such as a form of super accelerated evolution or time
+running backwards, rather than objects or events.
+
+:: Parents
+speculative fiction theme
+
+
 speculative society
 ===================
 
@@ -28099,6 +29069,24 @@ etc.) can be valuable in promoting peace between nations is featured. The
 
 :: Parents
 international issue
+
+
+spouse murder
+=============
+
+:: Description
+One spouse in a married couple seeks to bring about the death of their
+partner.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Mariticide
+https://en.wikipedia.org/wiki/Uxoricide
+
+:: Examples
+In nightgallery2x19b "Stop Killing Me", Francis Turchin arrives at the local police station to explain that her husband is actively murdering her by a most unusual method: By making frequent remarks about killing her he is instilling in her such anxiety that she will, within a week no less, fail to pay attention to her surroundings and suffer a deadly accident.
 
 
 stage fright
@@ -28301,6 +29289,19 @@ stellar engineering
 The Enterprise-D helped a scientist from Kaelon II to put new life into their fading sun in tng4x22 "Half a Life".
 
 
+stepmother and stepdaughter
+===========================
+
+:: Description
+The relationship between a stepmother and her adopted daughter is featured.
+
+:: Parents
+mother and daughter
+
+:: References
+https://en.wikipedia.org/wiki/Stepmother
+
+
 stepping up to the task
 =======================
 
@@ -28337,6 +29338,33 @@ human life choice
 
 :: Example
 Wesley struggled with whether or not to quit Starfleet Academy to go galavanting around the galaxy with his friend the Traveler in tng7x20 "Journey's End".
+
+
+stubbornness
+============
+
+:: Description
+A character is conspicuously persistent in doing something, or obstinate in
+their opinions, despite exhortations or other incentives to change.
+
+:: Parents
+humans interacting
+
+
+student and teacher romance
+===========================
+
+:: Description
+A teacher becomes romantically involved with one of their students.
+
+:: Parents
+romantic relationship
+
+:: References
+https://en.wikipedia.org/wiki/Sexual_harassment_in_education_in_the_United_States#Sexual_relationships_between_students_and_teachers
+
+:: Examples
+Benjamin made out with his music teacher in "Toomorrow" (1970).
 
 
 sub-orbital spaceflight
@@ -28500,6 +29528,19 @@ Someone cannot cease eating or drinking sugary things to unhealthy excess.
 human addiction
 
 
+suicide
+=======
+
+:: Description
+A character takes, tries to take, or considers taking their own life.
+
+:: Parents
+human challenge in life
+
+:: References
+https://en.wikipedia.org/wiki/Suicide
+
+
 suicide booth
 =============
 
@@ -28528,6 +29569,17 @@ https://en.wikipedia.org/wiki/Suicide
 
 :: Example
 Troi investigated the suicide of Lt. Daniel Kwan, learned about another suicide long ago, and ended up nearly taking her own life in tng7x18 "Eye of the Beholder".
+
+
+suicide vs. slow death
+======================
+
+:: Description
+A character must choose between making a quick end of themself on one hand, or
+suffering a drawn out dying process on the other.
+
+:: Parents
+human life choice
 
 
 suit of everlasting fabric
@@ -28801,9 +29853,9 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Symbiosis
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -28835,9 +29887,9 @@ problem of language and meaning
 :: References
 https://en.wikipedia.org/wiki/Symbolism_(arts)
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29075,6 +30127,23 @@ Beings that link with each other in semi-permanent telepathic communication.
 mentally distinguished being
 
 
+telepathy
+=========
+
+:: Description
+A character is able to transmit information from to another person without
+using any known human sensory channels,  physical interaction, or technology.
+
+:: Parents
+supernatural ability
+
+:: References
+https://en.wikipedia.org/wiki/Telepathy
+
+:: Examples
+Dr. Luther Stringfellow endowed several young volunteers with telepathic abilities which they are encouraged to develop through sexual exploration in "Streo" (1969).
+
+
 teleportation device
 ====================
 
@@ -29115,11 +30184,11 @@ down and keep them from questioning authority.
 :: Parents
 form of government
 
-:: Related Themes
-religion as a control mechanism
-
 :: Examples
 A totalitarian government used television to dumb people down in order to prevent revolution and thinking in "Fahrenheit 451" (1966).
+
+:: Related Themes
+religion as a control mechanism
 
 
 terraformed planet
@@ -29166,9 +30235,9 @@ international issue
 :: References
 https://en.wikipedia.org/wiki/Terrorism
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29200,9 +30269,9 @@ social ethical dilemma
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTerroristsAreOurFreedomFighters
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29359,10 +30428,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/Ancient_Egyptian_deities
 
+:: Related Themes
+
 :: Example
 Though not known to be connected, the culture and mythology of the D’Arsay was just like that of ancient Egypt in tng7x17 "Masks".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -29391,10 +30460,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures
 
+:: Related Themes
+
 :: Example
 Greek God Apollo appeared in tos2x04 "Who Mourns for Adonais?".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -29409,11 +30478,11 @@ Ancient Greece, but that they were aliens.
 :: Parents
 crackpot theory
 
-:: Example
-The alien Apollo revealed himself to have been the Apollo of the Ancient Greeks to the Enterprise crew in tos2x04 "Who Mourns for Adonis?".
-
 :: Related Themes
 Chariots of the Gods
+
+:: Example
+The alien Apollo revealed himself to have been the Apollo of the Ancient Greeks to the Enterprise crew in tos2x04 "Who Mourns for Adonis?".
 
 :: Other Parents
 aliens
@@ -29476,10 +30545,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/List_of_Maya_gods_and_supernatural_beings
 
+:: Related Themes
+
 :: Example
 Mayan God Kulkulkan appeared in tas2x05 "How Sharper Than a Serpent's Tooth".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -29494,11 +30563,11 @@ Ancient Mayans, but they were aliens.
 :: Parents
 crackpot theory
 
-:: Example
-Kulkulkan revealed itself to have been the Ancient Mayan god of the same name to the Enterprise crew in tas2x05 "How Sharper Than a Serpant's Tooth".
-
 :: Related Themes
 Chariots of the Gods
+
+:: Example
+Kulkulkan revealed itself to have been the Ancient Mayan god of the same name to the Enterprise crew in tas2x05 "How Sharper Than a Serpant's Tooth".
 
 :: Other Parents
 aliens
@@ -29558,10 +30627,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/List_of_Roman_deities
 
+:: Related Themes
+
 :: Example
 Unsurprisingly in light of Hodkin’s Law of Parallel Planetary Development, these gods were also worshiped by the Space Romans of planet 892-IV in tos2x14 "Bread and Circuses".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -29620,9 +30689,9 @@ featured.
 :: Parents
 human nature
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29640,8 +30709,8 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/Afterlife
 
-:: Example
-Ro and Geordi thought they might have died and become wandering spirits in tng5x24 "The Next Phase", before finding out that they had merely been phase shifted.
+:: Related Themes
+the soul
 
 :: Notes
 We consider this theme to be topical (among other things) when it is featured that a living person dies and transitions to being a ghost. However we do otherwise apply this theme in a story where there appears to be a ghost.
@@ -29649,8 +30718,8 @@ We consider this theme to be topical (among other things) when it is featured th
 :: Aliases
 afterlife
 
-:: Related Themes
-the soul
+:: Example
+Ro and Geordi thought they might have died and become wandering spirits in tng5x24 "The Next Phase", before finding out that they had merely been phase shifted.
 
 :: Other Parents
 
@@ -29704,9 +30773,9 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Flattery
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29749,10 +30818,10 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Small_talk
 
+:: Related Themes
+
 :: Example
 Data studied the master of smalltalk Calvin "Hutch" Hutchinson in tng6x18 "Starship Mine".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -29767,10 +30836,10 @@ embarrassed that this is such a large theme group.
 :: Parents
 the domain of reason
 
-:: Example
-
 :: Related Themes
 https://en.wikipedia.org/wiki/Military_tactics
+
+:: Example
 
 :: Other Parents
 
@@ -29855,9 +30924,9 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Butterfly_effect
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29874,9 +30943,9 @@ are typically left ambiguous in real stories.
 :: Parents
 personal life and death dilemma
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -29895,10 +30964,10 @@ topic in technology
 :: References
 https://en.wikipedia.org/wiki/Gunpowder
 
+:: Related Themes
+
 :: Example
 Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in the legendary fight to the death in tos1x19 "Arena".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30005,9 +31074,9 @@ for mass destruction, are explored.
 :: Parents
 sociotechnological issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 science
@@ -30087,10 +31156,10 @@ miscreant.
 :: Parents
 human social need
 
+:: Related Themes
+
 :: Example
 Riker and his team wanted to bring Captain Picard’s presumed murderers to justice in tng7x04 "Gambit, Part I".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30108,9 +31177,9 @@ human self-actualization need
 :: References
 https://en.wikipedia.org/wiki/Personal_development
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30128,9 +31197,9 @@ human self-esteem need
 :: References
 https://en.wikipedia.org/wiki/Reputation
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30144,10 +31213,10 @@ A character seeks to make up for past misdeeds and gain forgiveness.
 :: Parents
 human self-esteem need
 
+:: Related Themes
+
 :: Example
 Worf and his brother Kurn together sought redemption for the father's soiled reputation in tng4x26 "Redemption" and again in tng5x01 "Redemption, Part II".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30174,9 +31243,9 @@ A character seeks ever further promotion, influence, rank, and salary at work.
 :: Parents
 human self-actualization need
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30190,9 +31259,9 @@ A character wants nothing less than to look good.
 :: Parents
 human self-esteem need
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30228,9 +31297,9 @@ people typically do not spend their lives persuing.
 :: Parents
 human self-actualization need
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30339,10 +31408,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/End_time
 
+:: Related Themes
+
 :: Example
 The people of Ventax II thought the prophesied end was neigh when their devil seemed to appear in the flesh in tng4x13 "Devil's Due".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30389,9 +31458,9 @@ the ethics of interfering in the internal affairs of other powers
 https://en.wikipedia.org/wiki/Prime_Directive
 http://www.sf-encyclopedia.com/entry/prime_directive
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30424,11 +31493,22 @@ ethics
 :: References
 https://en.wikipedia.org/wiki/Justifiable_homicide
 
-:: Example
-
 :: Related Themes
 
+:: Example
+
 :: Other Parents
+
+
+the ethics of saving a murderer
+===============================
+
+:: Description
+We are asked to ponder the ethics of giving medical aid to a person who we
+think, if they recover, is most likely to go on an murder other people.
+
+:: Parents
+medical ethical issue
 
 
 the ethics of valuing human lives
@@ -30441,9 +31521,9 @@ be more important to preserve than others’ is discussed.
 :: Parents
 ethics
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30462,9 +31542,9 @@ the domain of reason
 :: References
 https://en.wikipedia.org/wiki/Fine_art https://en.wikipedia.org/wiki/Humanities
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30507,9 +31587,9 @@ human idea about life
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/WhoWantsToLiveForever https://en.wikipedia.org/wiki/Immortality_in_fiction
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30587,10 +31667,10 @@ The crackpot speculation that ghosts are actually aliens.
 :: Parents
 crackpot theory
 
+:: Related Themes
+
 :: Example
 Beverly’s ghost-like lover Ronin turned out to be just another nefarious alien in tng7x04 "Sub Rosa".
-
-:: Related Themes
 
 :: Other Parents
 aliens
@@ -30608,9 +31688,9 @@ people, how do we decide which is morally preferable?
 :: Parents
 social ethical dilemma
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30626,10 +31706,10 @@ stands out all that much from the rest.
 :: Parents
 human idea about life
 
+:: Related Themes
+
 :: Example
 Captain Kirk and his crew were harassed by an alien with unimaginable powers until its parents appeared in tos1x18 "The Squire of Gothos".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30664,9 +31744,9 @@ sociocultural issue
 :: References
 https://en.wikipedia.org/wiki/History_of_the_hippie_movement
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30708,9 +31788,9 @@ The terrible impact war has on ordinary people is featured.
 :: Parents
 war
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30789,10 +31869,10 @@ The ramifications of displaying weakness in front of one’s enemy is featured.
 :: Parents
 the art of war
 
+:: Related Themes
+
 :: Example
 Spcok argued rationally for attack in tos1x08 "Balance of Terror", because anything else would be a sign of weakness.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30806,10 +31886,10 @@ It is illustrated that impatience can be an impediment to good communication.
 :: Parents
 humans interacting
 
+:: Related Themes
+
 :: Example
 Thanks to the patient persistence of Captain Dathon in tng5x02 "Darmok", Captain Picard finally gained the ability to communicate with the Children of Tama.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30856,10 +31936,10 @@ The all too familiar human penchant for violence is discussed.
 :: Parents
 human nature
 
+:: Related Themes
+
 :: Example
 The Melkotians deplored the human instinct for violence and sought to turn it against the Enterprise crew in tos3x01 "Spectre of the Gun".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30877,9 +31957,9 @@ animal rights
 :: References
 http://www.bbc.co.uk/ethics/animals/using/eating_1.shtml
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30958,10 +32038,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Reverse_psychology
 
+:: Related Themes
+
 :: Example
 Data contemplated the use of reverse psychology to persuade the colonists of Tau Cygna V to evacuate before the Sheliak arrived in tng3x02 "The Ensigns of Command".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -30978,9 +32058,9 @@ human self-actualization need
 :: References
 https://en.wikipedia.org/wiki/Greed
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -30998,9 +32078,9 @@ human self-actualization need
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbitionIsEvil
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31015,10 +32095,10 @@ explored.
 :: Parents
 law and order issue
 
+:: Related Themes
+
 :: Example
 Armus became a being of pure evil when the Titans left him behind in tng1x23 "Skin of Evil".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31052,10 +32132,10 @@ topic in technology
 :: References
 https://en.wikipedia.org/wiki/Firearm
 
+:: Related Themes
+
 :: Example
 The Klingons supplied primitive townspeople on planet Neural with increasingly advanced firearms with which to wage war against the local hill people in tos2x16 "A Private Little War".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31115,10 +32195,10 @@ reproduction.
 :: Parents
 human nature
 
+:: Related Themes
+
 :: Example
 Suppressed animal instincts come to the surface as the crew begins to de-evolve in tng7x19 "Genesis".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31146,10 +32226,10 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Child
 
+:: Related Themes
+
 :: Example
 Earth Two was populated wholly by child Onlies in tos1x11 "Miri" as all the adults had succumbed to a disease.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31166,9 +32246,9 @@ metaphysics
 :: References
 https://en.wikipedia.org/wiki/Creativity
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31183,10 +32263,10 @@ things "cute"?
 :: Parents
 aesthetics
 
+:: Related Themes
+
 :: Example
 McCoy pondered what it is that attracts us to cute little Tribbles in tos2x13 "The Trouble with Tribbles".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31203,10 +32283,10 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Cuteness
 
+:: Related Themes
+
 :: Example
 The immortal alien being Nagilum killed Enterprise-D crew in order to understand the nature of this whole dying business in tng2x02 "Where Silence Has Lease".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31347,9 +32427,9 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Individual
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31366,9 +32446,9 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Love
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31395,10 +32475,10 @@ metaphysics
 :: References
 https://en.wikipedia.org/wiki/Memory
 
+:: Related Themes
+
 :: Example
 Telepathic aliens studied memory and the subconscious in tng5x12 "Violations".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31428,10 +32508,10 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Persuasion
 
+:: Related Themes
+
 :: Example
 Expert negotiator Ral soliloquize about this in tng3x08 "The Price".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31450,10 +32530,10 @@ metaphysics
 :: References
 https://en.wikipedia.org/wiki/Reality
 
+:: Related Themes
+
 :: Example
 Living out a life as a villager named Karmin on the planet Kataan felt very real to Captain Picard in tng5x25 "The Inner Light", but in reality it was all an elaborate fiction produced by an alien probe.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31472,10 +32552,10 @@ metaphysics
 :: References
 https://en.wikipedia.org/wiki/Sentience
 
+:: Related Themes
+
 :: Example
 how could Picard tell whether he was transported to an alternate world or whether he was just crazy
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31492,10 +32572,10 @@ human nature
 :: References
 https://en.wikipedia.org/wiki/Sneeze
 
+:: Related Themes
+
 :: Example
 Wesley stumbled on Data practicing his artificial sneezing in tng1x13 "Datalore".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31590,10 +32670,10 @@ human social need
 :: References
 https://en.wikipedia.org/wiki/Closure_(psychology)
 
+:: Related Themes
+
 :: Example
 Geordi found closure in accepting the death of his mother in tng7x03 "Interface" by speaking with an alien entity that had taken on her identity.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31608,9 +32688,9 @@ order to feel fulfilled.
 :: Parents
 human social need
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31759,9 +32839,9 @@ meaningful place in society.
 :: Parents
 human social need, human self-esteem need
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31776,12 +32856,12 @@ by their own merits, rather than having it handed to them on a silver plate.
 :: Parents
 human self-esteem need
 
-:: Example
+:: Related Themes
 
 :: Aliases
 the desire to be independent,
 
-:: Related Themes
+:: Example
 
 :: Other Parents
 
@@ -31808,10 +32888,10 @@ inner selves.
 :: Parents
 human self-esteem need, human social need
 
+:: Related Themes
+
 :: Example
 Captain Picard took elaborate measured to prevent the crew from learning that he suffered from a heart condition in order to maintain his image in tng2x17 "Samaritan Snare".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31827,9 +32907,9 @@ others.
 :: Parents
 human social need, human self-actualization need
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -31875,10 +32955,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Placebo
 
+:: Related Themes
+
 :: Example
 In the end the Mudd's women found that it was the confidence a drug had inspired that made them beautiful rather than the drug itself in tos1x03 "Mudd's Women".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -31904,10 +32984,10 @@ world merely through looking inwards to our intuitions.
 :: Parents
 superstition
 
-:: Example
-
 :: Related Themes
 the power of thought
+
+:: Example
 
 :: Other Parents
 
@@ -31922,10 +33002,10 @@ the mere manipulation of our own bodies.
 :: Parents
 superstition
 
-:: Example
-
 :: Related Themes
 the power of intuition
+
+:: Example
 
 :: Other Parents
 
@@ -32098,11 +33178,11 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/Right_to_a_fair_trial
 
-:: Example
-Admiral Norah Satie’s investigation of Simon Tarses turned into a witch-hunt because of her racial prejudice against Romulans in tng4x21 "The Drumhead".
-
 :: Related Themes
 imprisonment without a lawful cause
+
+:: Example
+Admiral Norah Satie’s investigation of Simon Tarses turned into a witch-hunt because of her racial prejudice against Romulans in tng4x21 "The Drumhead".
 
 :: Other Parents
 crime and punishment
@@ -32167,9 +33247,9 @@ human rights issue
 :: References
 https://en.wikipedia.org/wiki/Personality_rights
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32256,9 +33336,9 @@ The role of the elderly in society is explored.
 :: Parents
 special interest group issue
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32272,10 +33352,10 @@ The role of war veterans in society is explored.
 :: Parents
 special interest group issue
 
+:: Related Themes
+
 :: Example
 The Angosians tucked their genetically engineered war veterans safely away on a shabby little moon in tng3x11 "The Hunted".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32354,10 +33434,10 @@ topic in technology
 :: References
 https://en.wikipedia.org/wiki/Oil_lamp
 
+:: Related Themes
+
 :: Example
 Kirk impressed the space Native Americans of planet Amerind by inventing an oil lamp in tos3x03 "The Paradise Syndrome" while suffering from amnesia.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32375,9 +33455,9 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Scientific_method
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32396,9 +33476,9 @@ topic in science
 https://en.wikipedia.org/wiki/Panspermia
 http://www.sf-encyclopedia.com/entry/panspermia
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32428,10 +33508,10 @@ organized religion
 :: References
 https://en.wikipedia.org/wiki/Soul
 
+:: Related Themes
+
 :: Example
 Captain Pike balked at the notion that having free reign in an Orion den of sin was worth a man's soul in tos0x01 "The Cage".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32450,10 +33530,10 @@ superstition
 :: References
 https://en.wikipedia.org/wiki/Supernatural
 
+:: Related Themes
+
 :: Example
 Two extradimensional aliens used their mysterious abilities to conjure up a haunted castle and other things from the dark depths of human imagination in tos2x01 "Catspaw".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32470,9 +33550,9 @@ the fine arts and the humanities
 :: References
 https://en.wikipedia.org/wiki/Theatre
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32490,10 +33570,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Theory_of_everything
 
+:: Related Themes
+
 :: Example
 Barclay had a heated discussion with a virtual Albert Einstein about this theory on the holodeck in tng4x19 "The Nth Degree".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32630,10 +33710,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Pi
 
+:: Related Themes
+
 :: Example
 Wily Spock ordered the computer to compute pi to the last digit in tos2x07 "Wolf in the Fold".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32651,9 +33731,9 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Product_testing
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32671,9 +33751,9 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Scientific_method
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32691,10 +33771,10 @@ Kirk."
 :: Parents
 topic in science
 
+:: Related Themes
+
 :: Example
 MyCoy waxed lyrical in tos1x08 "Balance of Terror" on the likelihood of three million Earth-like planets in the Milky Way, and three million million galaxies like it in all the universe, but only one Captain Kirk.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32710,9 +33790,9 @@ different if such conflicts had ended differently.
 :: Parents
 human nature
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -32747,10 +33827,10 @@ topic in technology
 :: References
 https://en.wikipedia.org/wiki/Computer
 
+:: Related Themes
+
 :: Example
 Duotronic computer technology had supplanted conventional transistor based computing in the Federation by the 23rd century in tos2x24 "The Ultimate Computer".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32768,10 +33848,10 @@ topic in technology
 :: References
 https://en.wikipedia.org/wiki/Irrigation
 
+:: Related Themes
+
 :: Example
 Captain Kirk, while suffering from amnesia, had plans to irrigate Amerind in tos3x03 "The Paradise Syndrome".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32790,10 +33870,10 @@ the fine arts and the humanities
 :: References
 https://en.wikipedia.org/wiki/Theatre_of_the_Absurd
 
+:: Related Themes
+
 :: Example
 Kirk and his team in tos2x12 "I, Mudd" found that such theater does not compute and is therefore an excellent weapon against androids.
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32863,10 +33943,10 @@ illustrated.
 :: Parents
 humans in group
 
+:: Related Themes
+
 :: Example
 Kor explained that the Klingons are united and therefore strong in tos1x27 "Errand of Mercy".
-
-:: Related Themes
 
 :: Other Parents
 
@@ -32881,9 +33961,9 @@ group of people is featured.
 :: Parents
 humans in group
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -33150,9 +34230,9 @@ The understanding of reality through use of the scientific method is featured.
 :: Parents
 modern science
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -33166,9 +34246,9 @@ The application of scientific knowledge in building contraptions is featured.
 :: Parents
 modern science
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -33292,11 +34372,11 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Transcendental_number
 
-:: Example
-Spock explained that pi is a transcendental number in tos2x07 "Wolf in the Fold".
-
 :: Related Themes
 the value of pi
+
+:: Example
+Spock explained that pi is a transcendental number in tos2x07 "Wolf in the Fold".
 
 
 transcendental point of view
@@ -33552,6 +34632,22 @@ human idea about life
 Ruth, Magda and Eve found that they didn’t need the Venus drug to be beautiful because their beauty stemmed from increased self-confidence and not the drug in tos1x03 "Mudd's Women".
 
 
+true name
+=========
+
+:: Description
+The idea that beings can have true name, and that speaking said names can have
+some sort of supernatural effects, is featured. For example, speaking the true
+name of a demon might perhaps summon said demon.
+
+:: Parents
+magic word
+
+:: References
+https://en.wikipedia.org/wiki/True_name
+https://en.wikipedia.org/wiki/Bloody_Mary_(folklore)
+
+
 trust
 =====
 
@@ -33596,9 +34692,9 @@ A character must choose whether a potential foe is to be trusted.
 :: Parents
 personal practical dilemma
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 
@@ -33625,11 +34721,24 @@ the context of insults.
 :: Parents
 human way of life
 
+:: Related Themes
+pascifism
+
 :: Example
 The pacifist Dowd turned every cheek on his body in spite of insult and injury (then he ran out and wiped a species of 50 billions clean out existence) in tng3x03 "The Survivors".
 
-:: Related Themes
-pascifism
+
+twin and twin
+=============
+
+:: Description
+The relationship between two siblings born of a single pregnancy, is featured.
+
+:: Parents
+human familial relationship
+
+:: References
+https://en.wikipedia.org/wiki/Twin
 
 
 twin earth
@@ -33738,6 +34847,35 @@ The relationship between an uncle and his niece is featured.
 human familial relationship
 
 
+undead being
+============
+
+:: Description
+There is a being that is deceased but behaves as if they were alive.
+
+:: Parents
+monster
+
+:: References
+https://en.wikipedia.org/wiki/Undead
+
+
+undead skeleton
+===============
+
+:: Description
+There is a living (typically human) skeleton.
+
+:: Parents
+living corpse
+
+:: References
+https://en.wikipedia.org/wiki/Skeleton_(undead)
+
+:: Examples
+A living skeleton received a lesson in elevator manners in the "Night Gallery" tale "An Act of Chivalry" (1971).
+
+
 undersea tunnel
 ===============
 
@@ -33761,6 +34899,20 @@ Communicating by metaphorical language is featured.
 
 :: Parents
 problem of language and meaning
+
+
+underwater breathing gill
+=========================
+
+:: Description
+A small, air-tankless device that fits in the mouth used to breathe
+underwater.
+
+:: Parents
+speculative device
+
+:: Examples
+Obi-Wan Kenobi and Qui-Gon Jinn used just such devices to swim to the underwater city Otoh Gunga in "Star Wars: Episode I - The Phantom Menace" (1999).
 
 
 underwater city
@@ -33935,11 +35087,11 @@ romantic love
 :: References
 https://en.wikipedia.org/wiki/Unrequited_love
 
-:: Example
-Geordi was devastated to find that the real Leah Brahms didn't much fancy him in tng4x16 "Galaxy's Child".
-
 :: Related Themes
 coping with rejection
+
+:: Example
+Geordi was devastated to find that the real Leah Brahms didn't much fancy him in tng4x16 "Galaxy's Child".
 
 
 untranslatable words
@@ -34057,7 +35209,8 @@ vampire
 =======
 
 :: Description
-There is a being, typically undead and sentient, that subsists by feeding on the blood of the living.
+There is a being, typically undead and sentient, that subsists by feeding on
+the blood of the living.
 
 :: Parents
 living corpse, parasitic being
@@ -34272,6 +35425,24 @@ https://en.wikipedia.org/wiki/Simulated_consciousness_in_fiction
 simulated person
 
 
+virtual reality
+===============
+
+:: Description
+There is technology that places people within simulated and immersive
+environments that can be similar to or completely different from the real
+world.
+
+:: Parents
+simulated reality
+
+:: References
+https://en.wikipedia.org/wiki/Virtual_reality
+
+:: Examples
+Chewbacca's father Itchy used a VR headset to watch a quasi adult, fantasy program in the "Star Wars Holiday Special" (1978).
+
+
 virtual reality choose your own adventure
 =========================================
 
@@ -34422,6 +35593,21 @@ force of nature existential risk to civilization
 
 :: Example
 Terratin civilization on Terra Ten was threatened by volcanic activity in tas1x11 "The Terratin Incident" so Captain Kirk moved them all to Verdanis.
+
+
+voodoo doll
+===========
+
+:: Description
+There is an effigy of a person that can mysteriously be used to affect that
+person in various way. A person may, for example, be subjected to various
+afflictions when needles are inserted into relevant parts of their effigy.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Voodoo_doll
 
 
 voyage at sea
@@ -34611,6 +35797,19 @@ war
 
 :: References
 https://en.wikipedia.org/wiki/Propaganda#Wartime
+
+
+warlock
+=======
+
+:: Description
+There is a man who practices witchcraft.
+
+:: Parents
+legendary being
+
+:: References
+https://en.wikipedia.org/wiki/Warlock
 
 
 wartime comfort women
@@ -34803,6 +36002,20 @@ every game of chance one engaged in.
 
 :: Parents
 what if my life were different
+
+
+what if I became separated from my parents
+==========================================
+
+:: Description
+There is a child who gets separated from their parents and must try to reunite
+with them. This is used when the story is told from the child's point of view.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+Mace and Cindel Towani became separated from their parents after the family crash landed on the Ewok homeworldl in "Caravan of Courage: An Ewok Adventure" (1984).
 
 
 what if I could be young again
@@ -35025,11 +36238,11 @@ gender.
 :: Parents
 what if I found myself in the body of another person
 
-:: Example
-An old flame took revenge on Captain Kirk by using an alien device to swap bodies with him in tos3x24 "Turnabout Intruder".
-
 :: Related Themes
 what if I found myself in the body of a child
+
+:: Example
+An old flame took revenge on Captain Kirk by using an alien device to swap bodies with him in tos3x24 "Turnabout Intruder".
 
 
 what if I found myself in a different time
@@ -35126,11 +36339,11 @@ We imagine what it would be like if our mind moved into a the body of a child.
 :: Parents
 what if I found myself in the body of another person
 
-:: Example
-A transporter malfunction turned Captain Picard and some of his crew back into children physically but not mentally in tng6x07 "Rascals".
-
 :: Related Themes
 what if I found myself in a body of the opposite sex
+
+:: Example
+A transporter malfunction turned Captain Picard and some of his crew back into children physically but not mentally in tng6x07 "Rascals".
 
 
 what if I found myself in the body of an alien
@@ -35264,11 +36477,11 @@ experiences intact.
 :: Parents
 what if my life were different
 
-:: Example
-Q granted Captain Picard the opportunity to relive his time as a Starfleet cadet in tng6x15 "Tapestry".
-
 :: Related Themes
 what if I had a second childhood
+
+:: Example
+Q granted Captain Picard the opportunity to relive his time as a Starfleet cadet in tng6x15 "Tapestry".
 
 
 what if I had a second childhood
@@ -35281,11 +36494,11 @@ relive our childhood.
 :: Parents
 what if my life were different
 
-:: Example
-Ro and Guinan, to their delight, got the chance to be children again in tng6x07 "Rascals".
-
 :: Related Themes
 what if I had a second chance at life
+
+:: Example
+Ro and Guinan, to their delight, got the chance to be children again in tng6x07 "Rascals".
 
 
 what if I had an evil hand
@@ -35691,6 +36904,23 @@ what if I met an extraordinary person
 Captain Kirk found his perfect mate in the android Rayna in tos3x21 "Requiem for Methuselah".
 
 
+what if I ran away from home
+============================
+
+:: Description
+A child character struggles to survive on their own after running away from
+home.
+
+:: Parents
+what if I were in a tight spot
+
+:: References
+https://en.wikipedia.org/wiki/Runaway_(dependent)
+
+:: Examples
+John Soames, a man with the mind of a child, ran away from the institute where he was being cared for and had to fend for himself on the streets of England in "The Mind of Mr. Soames" (1970).
+
+
 what if I repeated a portion of my life over and over again
 ===========================================================
 
@@ -35870,11 +37100,25 @@ be moved into an entirely different kind of reality.
 :: Parents
 what if I found myself in a strange place
 
+:: Related Themes
+what if I was tossed into the past
+
 :: Example
 Worf suddenly found himself shifting between strangely different alternate realities in tng7x11 "Parallels".
 
-:: Related Themes
-what if I was tossed into the past
+
+what if I was held captive and made an exhibition object
+========================================================
+
+:: Description
+We imagine what it would be like to be made a prisoner and put on display as
+if in a collection or in a zoo.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+In nightgallery3x03 "Rare Objects", the notorious gangster August Kolodney meets with Dr. Glendon. Glendon drugs Kolodney to extend his life, and puts him in a cell as part of a large exhibition of notorious individuals from history.
 
 
 what if I was impervious to heat
@@ -35916,6 +37160,17 @@ What would a normal person do with virtually unlimited money?
 what if my life were different
 
 
+what if I was taken captive and exploited
+=========================================
+
+:: Description
+We imagine what it would be like to be imprisoned by someone who wishes to
+take advantage of one or other of our abilities.
+
+:: Parents
+what if I were in a tight spot
+
+
 what if I was tossed into the past
 ==================================
 
@@ -35926,11 +37181,11 @@ be moved into the past.
 :: Parents
 what if I found myself in a different time
 
-:: Example
-Captain Kirk, Spock, and McCoy were tossed right back into the Great Depression of the 1930s in tos1x28 "The City on the Edge of Forever".
-
 :: Related Themes
 what if I was flung into an alternate reality
+
+:: Example
+Captain Kirk, Spock, and McCoy were tossed right back into the Great Depression of the 1930s in tos1x28 "The City on the Edge of Forever".
 
 
 what if I was trapped in a story
@@ -36620,20 +37875,6 @@ alternate history
 Our protagonists came across a planet which was virtually a parallel of Earth up until the 20th century, except that the Roman Empire had somehow survived in tos2x14 "Bread and Circuses".
 
 
-society in which the devil turned out to be not so bad after all
-================================================================
-
-:: Description
-We imagine what the world would be like if the much despised Devil of
-Christian mythology was real yet not, in fact, evil but merely misunderstood.
-
-:: Parents
-speculative society
-
-:: Example
-The Devil was revealed to be  a well-intending but misunderstood alien in tas1x08 "The Magicks of Megas-Tu".
-
-
 what if the fate of the world was in my hands
 =============================================
 
@@ -36828,6 +38069,17 @@ what life is like
 
 :: Example
 Nefarious aliens made Riker believe he might live out his life in an insane asylum on Tilonus IV in tng6x21 "Frame of Mind"
+
+
+what it is like in prison
+=========================
+
+:: Description
+We are shown a reasonable vision of what life might be light for an
+incarcerated person in some type of prison.
+
+:: Parents
+what life is like
 
 
 what it is like in showbiz
@@ -37346,9 +38598,9 @@ People must try to work amicably and efficiently together under heavy stress.
 :: Parents
 humans in group
 
-:: Example
-
 :: Related Themes
+
+:: Example
 
 :: Other Parents
 the workplace
@@ -37429,6 +38681,22 @@ force of nature existential risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Drought
+
+
+worldwide famine
+================
+
+:: Description
+A severe and prolonged food shortage imperils civilization on a world.
+
+:: Parents
+force of nature existential risk to civilization
+
+:: References
+https://en.wikipedia.org/wiki/Famine
+
+:: Examples
+World civilization collapsed in the wake of virus destroying most of the worlds crops in "No Blade of Grass" (1970).
 
 
 worldwide locust plague
