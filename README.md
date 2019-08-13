@@ -1,6 +1,6 @@
 # Theming
 
-http://www.themeontology.org/  
+https://www.themeontology.org/  
 
 
 ## What is a Story?
