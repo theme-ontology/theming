@@ -50,7 +50,7 @@ what it is like in a medical facility
 =====================================
 
 :: Description
-We are shown what it might be like to work in a hospital or comparable health care institution.
+We are shown what it might be like to work in a hospital or comparable healthcare institution.
 
 :: Parents
 what life is like
@@ -60,7 +60,7 @@ prostitution in society
 =======================
 
 :: Description
-There is a person who sell sex for money, or an institution (such as a brothel) set up for the purpose, and we are made to ponder the way in which such practices shape society.
+There is a person who sells sex for money, or an institution (such as a brothel) set up for the purpose, and we are made to ponder the way in which such practices shape society.
 
 :: Parents
 law and order issue
@@ -193,7 +193,10 @@ nuclear radioactivity
 =====================
 
 :: Description
-Radioactive decay is harnessed for some scientific purpose. Applications may border on the fantastical.
+Radioactive decay is harnessed for some scientific purpose.
+
+:: Notes
+Applications may border on the fantastical.
 
 :: Parents
 topic in science
@@ -264,7 +267,10 @@ electricity
 ===========
 
 :: Description
-Electricity is harnessed for some scientific purpose. Applications may border on the fantastical, like when electricity is used as an animating force.
+Electricity is harnessed for some scientific purpose.
+
+:: Notes
+Applications may border on the fantastical, like when electricity is used as an animating force.
 
 :: Parents
 topic in science
@@ -342,7 +348,7 @@ snobbishness
 ============
 
 :: Description
-A character behaves as if their social status makes them  more important and valuable than other people.
+A character behaves as if their social status makes them more important and valuable than other people.
 
 :: Notes
 Like other character themes, this theme should be applied only if the behavior is explicitly discussed or made pantomimically obvious.
@@ -384,7 +390,7 @@ caring for a baby
 =================
 
 :: Description
-One or more characters go through the trials and tribulations associated with taking care of an infant human.
+One or more characters go through the trials and tribulations associated with taking care of an infant.
 
 :: Parents
 human parenting
@@ -411,7 +417,7 @@ weaponization of animals
 ========================
 
 :: Description
-Animals are used in warfare and other combat related activities.
+The use of animals in warfare and other combat related activities is featured.
 
 :: Parents
 war
@@ -548,8 +554,13 @@ The issue of people sometimes choosing to drive their vehicles in a way that pos
 :: Parents
 law and order issue
 
+:: Aliases
+reckless driving in society
+
 :: References
 https://en.wikipedia.org/wiki/Dangerous_driving
+https://en.wikipedia.org/wiki/Reckless_driving
+
 
 
 what if I couldn't move because of a poisonous animal
