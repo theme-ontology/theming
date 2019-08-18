@@ -50,7 +50,7 @@ what it is like in a medical facility
 =====================================
 
 :: Description
-We are shown what it might be like to work in a hospital or comparable health care institution.
+We are shown what it might be like to work in a hospital or comparable healthcare institution.
 
 :: Parents
 what life is like
@@ -60,7 +60,7 @@ prostitution in society
 =======================
 
 :: Description
-There is a person who sell sex for money, or an institution (such as a brothel) set up for the purpose, and we are made to ponder the way in which such practices shape society.
+There is a person who sells sex for money, or an institution (such as a brothel) set up for the purpose, and we are made to ponder the way in which such practices shape society.
 
 :: Parents
 law and order issue
@@ -174,7 +174,7 @@ passion for amateur radio
 =========================
 
 :: Description
-A character is enthusiastic about for the use of radio for non-commercial purposes.
+A character is enthusiastic about the use of radio frequency spectrum transmission for non-commercial purposes.
 
 :: Parents
 human pleasure
@@ -185,12 +185,18 @@ https://en.wikipedia.org/wiki/Amateur_radio
 :: Examples
 Neighbors Bromley Cranston and Howard Marsden shared an interest in amateur radio in "Radio Mates" (1927).
 
+:: Aliases
+passion for ham radio
+
 
 nuclear radioactivity
 =====================
 
 :: Description
-Radioactive decay is harnessed for some scientific purpose. Applications may border on the fantastical.
+Radioactive decay is harnessed for some scientific purpose.
+
+:: Notes
+Applications may border on the fantastical.
 
 :: Parents
 topic in science
@@ -261,7 +267,10 @@ electricity
 ===========
 
 :: Description
-Electricity is harnessed for some scientific purpose. Applications may border on the fantastical, like when electricity is used as an animating force.
+Electricity is harnessed for some scientific purpose.
+
+:: Notes
+Applications may border on the fantastical, like when electricity is used as an animating force.
 
 :: Parents
 topic in science
@@ -297,7 +306,7 @@ being that feeds on electricity
 ===============================
 
 :: Description
-A being that somehow derives nourishment directly from electricity, perhaps from plugging themselves into an electrical socket.
+There is a being that somehow derives nourishment directly from electricity, perhaps by plugging themselves into an electrical socket.
 
 :: Parents
 biologically distinguished being
@@ -339,7 +348,7 @@ snobbishness
 ============
 
 :: Description
-A character behaves as if their social status makes them  more important and valuable than other people.
+A character behaves as if their social status makes them more important and valuable than other people.
 
 :: Notes
 Like other character themes, this theme should be applied only if the behavior is explicitly discussed or made pantomimically obvious.
@@ -373,7 +382,7 @@ A character exhibits acute anxiety at the prospect of arriving late to an appoin
 :: Parents
 human phobia
 
-:: Alias
+:: Aliases
 allegrophobia
 
 
@@ -381,7 +390,7 @@ caring for a baby
 =================
 
 :: Description
-One or more characters go through the trials and tribulations associated with taking care of an infant human.
+One or more characters go through the trials and tribulations associated with taking care of an infant.
 
 :: Parents
 human parenting
@@ -408,7 +417,7 @@ weaponization of animals
 ========================
 
 :: Description
-Animals are used in warfare and other combat related activities.
+The use of animals in warfare and other combat related activities is featured.
 
 :: Parents
 war
@@ -527,7 +536,7 @@ corporal punishment
 The once accepted, but now usually proscribed, practice of letting authority figures correct the behavior of their subordinates by inflicting physical pain, is discussed.
 
 :: Examples
-In talesoftheunexpected2x03 "", young Perkins was regularly caned by the older boy called Galloping Foxley, a prefect, (who would sometimes cane at a gallop) to whom he had been assigned as a slave.
+In talesoftheunexpected2x03 "Galloping Foxley", young Perkins was regularly caned by the older boy called Galloping Foxley, a prefect, (who would sometimes cane at a gallop) to whom he had been assigned as a slave.
 
 :: Parents
 law and order issue
@@ -545,8 +554,13 @@ The issue of people sometimes choosing to drive their vehicles in a way that pos
 :: Parents
 law and order issue
 
+:: Aliases
+reckless driving in society
+
 :: References
 https://en.wikipedia.org/wiki/Dangerous_driving
+https://en.wikipedia.org/wiki/Reckless_driving
+
 
 
 what if I couldn't move because of a poisonous animal
@@ -944,7 +958,7 @@ superstition
 :: References
 https://en.wikipedia.org/wiki/Laying_on_of_hands
 
-:: Example
+:: Examples
 In the film "There Will Be Blood" (2007), we saw Eli mesmerize his flock with a display of faith healing during his sermon.
 
 :: Aliases
@@ -971,6 +985,10 @@ early computer
 ==============
 
 :: Description
+A computer, i.e. a machine that is programmed to carry out sequences of arithmetic operations, of the sort that was used by large organizations and was around before PCs and The Internet began becoming commonplace in households, is featured.
+
+:: Notes
+As a general rule of thumb, this category includes machines made before the 1990s and excludes such machines that may be called "PCs".
 
 :: Parents
 topic in technology
@@ -986,6 +1004,7 @@ aircraft hijacking in society
 =============================
 
 :: Description
+One or more people unlawfully seize control of an aircraft, typically for the purpose of extortion or terrorism.
 
 :: Parents
 crime in society
@@ -994,12 +1013,14 @@ crime in society
 https://en.wikipedia.org/wiki/Aircraft_hijacking
 
 :: Examples
+In talesoftheunexpected4x17 "Hijack", a lone aircraft passenger barricades himself mid-flight with a stewardess in the lavatory and threatens to set off an explosive unless he gets a million dollars and leave to parachute to safety at a suitable location. 
 
 
 how to crack a safe
 ===================
 
 :: Description
+We are shown how one may, credibly, gain access to the contents of a safe without having the key or combination required to legitimately open it.
 
 :: Parents
 how to commit a crime and get away with it
@@ -1008,17 +1029,20 @@ how to commit a crime and get away with it
 https://en.wikipedia.org/wiki/Safe-cracking
 
 :: Examples
+In talesoftheunexpected5x03 "Operation Safecrack", the (in)famous safe-cracker Sam Morrissey takes on a PR stunt challenge by an advertising company to break into the latest model of their safe. Sam attempts to do so using a variety of strategies, heavy machines, and explosives.
 
 
 coping with an overly hard handshake
 ====================================
 
 :: Description
+A character is subjected by another character to a grasping of hands that is uncomfortably firm. Typically this is done for the purpose of intimidation and to assert dominance.
 
 :: Parents
 coping with problematic people
 
-:: Examples
+:: References
+https://en.wikipedia.org/wiki/Handshake
 
 
 
