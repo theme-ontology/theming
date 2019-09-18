@@ -340,32 +340,59 @@ movie: X-Men: Apocalypse (2016)
 :: Title
 X-Men: Apocalypse
 
-:: Date
-2016
-
 :: Description
 Set after X-Men: Days of Future Past, En Sabah Nur, the first mutant, awakens
 after thousands of years. Disillusioned with the world as he finds it, he
 recruits a team of mutants to cleanse mankind and create a new world order,
 over which he will reign. Raven, with the help of Professor X, must lead the
-X-Men to stop Apocalypse and save mankind from destruction.
+X-Men to stop Apocalypse and save mankind from destruction. It is the ninth installment in the X-Men film series.
+
+:: Date
+2016-05-09
+
+:: References
+https://en.wikipedia.org/wiki/X-Men:_Apocalypse
 
 :: Ratings
-0 <Mikael>
+0 <Mikael>,
+1 <paul>,
+
+:: Genre
+sci-fi, action,
 
 :: Choice Themes
-xenophobia in society [],
-ethnic hatred [],
-facing an overpowering adversary [],
+xenophobia in society [People were prejudiced against mutants and persecuted them.],
+ethnic hatred [People were prejudiced against mutants and persecuted them.],
+facing an overpowering adversary [The X-men took on a god-like primordial mutant and his henchmen.],
 
 :: Major Themes
-coping with the murder of a loved one [Magneto lost his family and went nuts],
-grief [Magneto],
-what if I could move faster in time than everyone else [quicksilver],
+coping with the murder of a loved one [Magneto went nuts after losing his wife and daughter.],
+grief [Magneto was devastated over his wife and daughter being accidentally killed in an altercation with the authorities. Scott mourned the death of his brother Alex who died in an explosion.],
+the making of a monster to society [We saw run of the mill factory worker Magneto go crazy and try to destroy the world after his wife and daughter were killed in an altercation with the authorities.],
+coping with the death of a child [Magneto was devastated over his wife and daughter being accidentally killed in an altercation with the authorities.],
+coping with the death of a spouse [Magneto was devastated over his wife and daughter being accidentally killed in an altercation with the authorities.],
+humanoid mutant [A big deal was made out of the X-men being mutants.],
+what if I had an extraordinary ability [Each mutant had a unique super powers.],
+heroism [The X-men superheroes saved the world.],
 
 :: Minor Themes
-annihilation by WMDs [nuclear weapons were shot into space],
-ancient aliens [there was alien tech in the pyramids],
+what if I could move faster in time than everyone else [Quicksilver had this ability.],
+what if I had super speed [Quicksilver could move faster in time than other people which effectively made him to be able to move around super quickly.],
+annihilation by WMDs [All the world's nuclear weapons were shot into outer space.],
+nuclear weapons [All the world's nuclear weapons were shot into outer space.],
+ancient aliens [We saw alien technology in the pyramids in a flashback scene to Ancient Egypt.],
+father and daughter [Magneto (a.k.a Henryk) comforted his young daughter Nina by assuring her that nobody would ever take him away from her. She was subsequently killed in the chaos of Magneto getting hauled off by the authorities for being a mutant.],
+what if I could read minds [Jean Gray was telepathic and could read minds. For example, she knew Scott's name without him even telling her.],
+coping with a disability [Xavier was confined to a wheelchair. Scott experienced what it was like to be blind until he was given special glasses that contained laser beams emanating from his eyes when open.],
+telekinesis [Jean Gray had the ability to move objects around using the power of his mind. Magneto too had the power to move matter with his mind.],
+the desire for vengeance [Magneto killed the factory workers who turned him into the authorities.],
+the Holocaust [Magneto was taken to visit the Aushwitz concentration camp.],
+brother and brother [Scott and Alex.],
+father and son [Magneto was Quicksilver's father.],
+what if I had super regenerative powers [Wolverine's wounds automatically healed after he would get injured.],
+shapeshifter [Mystique demonstrated the ability to transform herself to look like other people at will.],
+what if I could shapeshift [Mystique demonstrated the ability to transform herself to look like other people at will.],
+hope [Xavier's hope in the future of humanity was contraposed with Magneto's cynicism.],
 
 :: Collections
 Collection: Science fiction films of the 2010s
