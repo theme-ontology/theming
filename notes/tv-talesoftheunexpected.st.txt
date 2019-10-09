@@ -1256,7 +1256,7 @@ Directed by: Philip Dudley. Story by: Donald Honig.
 3 <mikael>,
 
 :: Major Themes
-theft in society [Mrs. Grady walked in on Rex Tobin trying to break into her flat. It turned out that Mrs. Grady had herself stolen a bunch of jewelery from a wealthy family whom she used to serve.],
+burglary in society [Mrs. Grady walked in on Rex Tobin trying to break into her flat. It turned out that Mrs. Grady had herself stolen a bunch of jewelery from a wealthy family whom she used to serve.],
 kindness [Mrs. Grady helped a man who injured his ankle while trying to burgle her flat.],
 helping a stranger in need [Mrs. Grady helped a man who injured his ankle while trying to burgle her flat.],
 young character vs. old character [The young man Rex discussed about reforming his delinquent ways with the elderly Mrs. Grady.],
@@ -2278,7 +2278,7 @@ Directed by: Bert Salzman. Story by: Robert L. Fish.
 
 :: Major Themes
 how to crack a safe [We saw the professional safe cracker Sam Crawford at work.],
-theft in society [Cara hired a professional safe cracker to steal back her family jewels.],
+burglary in society [Cara hired a professional safe cracker to steal back her family jewels.],
 working together under stress [Sam working to crack the safe with Cara acting as lookout.],
 the lust for gold [Sam wanted to get his hands on all the money in a rich man's safe.],
 
@@ -3257,12 +3257,12 @@ actually rich but they underestimate him.
 Directed by: TBA. Story by: Denis Cannan.
 
 :: Ratings
-3 <paul*>,
+3 <paul>,
 3 <mikael>,
 
 :: Major Themes
 boyfriend and girlfriend [Petty criminals Steve and Jane were endeavoring to burgle enough valuables to make off to Australia.],
-crime in society [Steve and Jane came to an English village posing as market researchers in order to case local houses for later robbery.],
+burglary in society [Steve and Jane came to an English village posing as market researchers in order to case local houses for later robbery.],
 ironic twist of fate [A shotgun toting Percy slipped on a banana peal and accidentally shot Steve upon stumbling in on Steve and Jane burgling his house. Percy died instantly from the fall. But as fate would have it Percy was the only person in town with the blood type to match Steve, who was at the hospital in need of a massive blood transfusion.],
 
 :: Minor Themes
@@ -3325,27 +3325,22 @@ Directed by: TBA. Story by: Miriam Bienstock.
 
 :: Ratings
 4 <mikael>,
-5 <paul>,
+4 <paul>,
 
 :: Major Themes
 husband and wife [Gerald and his beloved wife Jenny.],
 the desire to advance one's career [Gerald was mighty please with himself as he had all but won some sort of minister post.],
 crime in society [Gerald was so set on fighting crime that he was compared to a fascist - ironically he ended up committing a crime albeit by mistake.],
-facing muggers [Gerald faced what he thought was a mugger],
-hubris [Gerald had boasted of his fitness and clearly relished chasing down the supposed mugger but, alas, ended up being the criminal himself],
-ironic twist of fate [FD: Gerald was so set on fighting crime that he was compared to a fascist - ironically he ended up committing a crime albeit by mistake.],
-getting a taste of one's own medicine [FD: something like Geral was being tough on crime, but then he got to experience what it was like for the law to be strict on him],
-poetic justice [FD: something like Geral was being tough on crime, but then he got to experience what it was like for the law to be strict on him],
+facing muggers [Gerald faced what he thought was a mugger.],
+ironic twist of fate [Gerald was so set on fighting crime that he was compared to a fascist - ironically he ended up committing a crime albeit by mistake. Gerald was being tough on crime, but then he got to experience what it was like for the law to be strict on him.],
 
 :: Minor Themes
-nuptial love [Gerald told the seductress Mary that he loved his wife.],
+matrimonial love [Gerald told the seductress Mary that he loved his wife.],
 father and son [Gerald played with his son and put him to bed.],
-electioneering in society [unclear but there was talk about politicians and PR...],
-resisting a temptation [Gerald rejected la femme fatale that threw herself on him],
+resisting a temptation [Gerald rejected la femme fatale that threw herself on him.],
 coping with unwelcome romantic attention [It unfolded that Gerald did not at all relish the attention the seductress Mary lavished on him - in the car she started touching him inappropriately and he alighted to walk home.],
 romantic infidelity [The seductress Mary tempted Gerald to be unfaithful to his wife with her.],
-vigilante justice [FD: Gerald punched the supposed mugger even though the latter had done no violence and little resistance, so it seems like an act of extrajudicial vengeance],
-resisting a temptation [Gerald resisted Mary's amorous advances in the car.],
+vigilante justice [Gerald punched the supposed mugger even though the latter had done no violence and little resistance, so it seems like an act of extrajudicial vengeance.],
 mother and son [Jimmy went to visit his mother in her bedroom when he was sick with a cold.],
 
 
@@ -3373,13 +3368,12 @@ Directed by: TBA. Story by: Hector Hugh Munro.
 mother and daughter [Jane had a strained relationship with her mother.],
 infatuation [Gregory fell for Jane and asked her to run away with him.],
 coping with the death of someone [We were made to think the mother had gone crazy with grief over the death of her husband and son.],
-compulsively lying young girl [FD],
 pathological lying [Jane told Gregory an completely untrue story about how her step-father and his son had bother died tragically. When Gregory ran away in a panic after the father and son returned, Jane told her family that he had run away because he was afraid of dogs, and then began to tell them an elaborate fiction about Gregory.],
 cracking under pressure [We heard how Gregory had had a nervous breakdown and spent time in a sanatorium in Switzerland.],
 coping with stress [We learned the stress of being a schoolteacher had led Gregory to have a nervous breakdown. He was also on the verge of cracking while in the house with what he thought was Jane's crazy mother.],
 
 :: Minor Themes
-poetry [young man was a poetry teacher and young girl expressed a liking for poetry],
+poetry [Gregory was a poetry teacher and young girl expressed a liking for poetry.],
 suicide [Jane's step-father had allegedly shot himself after he accidentally killed his son.],
 father and son [A father and son were depicted hunting in the woods in a flashback scene.],
 
@@ -3410,20 +3404,17 @@ male lasciviousness [Reeve regaled the Terrence's about his many past romances.]
 unrequited love [Various women with Reeve, especially Gwen.],
 love triangle [Reeve came between Terrance and his wife Gwen.],
 coping with getting dumped [Baker dumped the young girl like a sack of potatoes, then Gwen, then Gwen dumped Terrance],
-cruelty [Reeve had a very cruel approach to dumping his partners. In particular, he cold heartedly dumped his girlfriend Melania at the dinner table in front of Terrence and Gwen.],
-friendship [Reeve befriended his accountant Terrence.],
 extramarital affair [Terrence uncovered that Gwen had been carrying on an affair with Reeve for a few months.],
-female attraction to bad men [Gwen left her borning, bean counter husband Terrence for bad boy written Reeve.],
+female attraction to bad men [Gwen left her boring, bean counter husband Terrence for bad boy written Reeve.],
+the need for adventure [Gwen expressed a desire to do something exciting and not be so stuffy.],
 
 :: Minor Themes
-white-collar crime in society [the legal gray zone of tax-avoidance was broached],
-the need for adventure [Gwen expressed a desire to do something exciting and not be so stuffy],
-denial [Gwen had explosive denial when it became apparent that Reeve tried to dump her],
-hoarding disorder [both Reeve and Gwen never threw anything away, we learned],
-spouse murder [Terrance killed his two-timing wife in the end],
-how to murder someone and get away with it [Terrance contrived to frame Reeve for the murder of Gwen],
-creative writing [We learned that Reeve Baker was the author of no less than 13 romance novels.],
-passion for writing [],
+cruelty [Reeve had a very cruel approach to dumping his partners. In particular, he cold heartedly dumped his girlfriend Melania at the dinner table in front of Terrence and Gwen.],
+friendship [Reeve befriended his accountant Terrence.],
+white-collar crime in society [The legal gray zone of tax-avoidance was broached.],
+denial [Gwen had explosive denial when it became apparent that Reeve tried to dump her.],
+spouse murder [Terrance killed his two-timing wife in the end.],
+how to murder someone and get away with it [Terrance contrived to frame Reeve for the murder of Gwen.],
 risk taking vs. playing it safe [The bean counter Terence told Gwen that prudent people try to minimize risk, but Gwen evidently felt bored with that way of life and risked to get involved with the playboy writer Reeve.],
 
 
@@ -3437,7 +3428,7 @@ In the Cards
 1985-07-14
 
 :: Description
-Madame Myra is a fortuneteller with a lacklustre career and dim future. A man
+Madame Myra is a fortuneteller with a lack lustre career and dim future. A man
 shows up eventually who is eager to guide her to a better life, but he has an
 ulterior motive.
 
@@ -3448,14 +3439,13 @@ Directed by: John Peyser. Story by: John Collier.
 4 <mikael>,
 
 :: Major Themes
-fortune telling [Struggling fortune teller Madame Myra gave a tarot card reading to Charlie. She saw in his future that he was going to inherit a lot of money and then die, so she duped him into marrying her.],
+fortune telling [Struggling fortune teller Madame Myra gave a card reading to Charlie. She saw in his future that he was going to inherit a lot of money and then die, so she duped him into marrying her.],
 husband and wife [Charlie and Myra married after she told his fortune.],
-spouse murder [Charlie beat Myra shoved Myra into a pit in the yard, beat her with a shovel, and buried her for dead as part of a plan to get his hand on a large sum of money she had recently inherited.],
-inheritance fight [FD MO: generalize this or find something else fitting stories that center on the fallout of a substantial inheritance],
+spouse murder [Charlie shoved Myra into a pit in the yard, beat her to death with a shovel, and presumably buried as part of a plan to get his hands on a large sum of money she had recently inherited.],
+inheritance fight [Myra received a large inheritance and got into a fight with her husband over it.],
 
 :: Minor Themes
-lovers' quarrel [Myra and Charlie had a blow up while Charlie was watching football on TV.],
-what if I was super rich [Myra spoke briefly about what she'd do now that she was sort-of rich],
+what if I was super rich [Myra spoke briefly about what she'd do now that she was sort-of rich.],
 
 
 talesoftheunexpected8x03
