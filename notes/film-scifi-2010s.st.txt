@@ -330,16 +330,12 @@ movie: Ready Player One (2018)
 Ready Player One
 
 :: Description
-Ready Player One is a 2018 American science fiction adventure film produced
-and directed by Steven Spielberg, and written by Zak Penn and Ernest Cline,
-based on Cline's 2011 novel of the same name. The film stars Tye Sheridan,
-Olivia Cooke, Ben Mendelsohn, Lena Waithe, T.J. Miller, Simon Pegg, and Mark
-Rylance. The film takes place in 2045, when much of humanity uses the virtual
+The film takes place in 2045, when much of humanity uses the virtual
 reality software OASIS to escape the desolation of the real world. Orphaned
-teenager Wade Watts (Sheridan) discovers clues to a hidden game within the
+teenager Wade Watts discovers clues to a hidden game within the
 program that promises the winner full ownership of the OASIS, and joins
 several allies to try to complete the game before a large company run by
-businessman Nolan Sorrento (Mendelsohn) can do so.
+businessman Nolan Sorrento can do so.
 
 :: Date
 2018-03-11
@@ -348,26 +344,27 @@ businessman Nolan Sorrento (Mendelsohn) can do so.
 https://en.wikipedia.org/wiki/Ready_Player_One_(film)
 
 :: Ratings
-3 <Mikael>,
+3 <mikael>,
+3 <paul>,
 
 :: Genre
 sci-fi
 
 :: Choice Themes
-cooperation [to succeed people had to work together; being unclanned was in the end not good; the game creator regretted buying out his companion.],
+cooperation [People had to work together to succeed in solving James Halliday's puzzle. OASIS creator James Halliday regretted buying out his companion.],
 
 :: Major Themes
-virtual reality suit [people were using them to escape reality],
-escape from reality [people escaped their crappy reality by going to the OASIS],
-pleasure in playing games [the joy we take in playing games was commented on],
-the reasons for playing games [this was probably also what it was about],
-overpopulated dystopia [it is a little unclear what the abysmal conditions in the future were due to but since we saw enormous slums this seems like a good guess],
-atrophied civilization [civilization stagnated because people preferred to spend time in the game; thus at the end two game-free days per week were mandated],
-video game addiction in society [gaming wasn't bad but it could clearly be taken to excess, hence two game-free days per week at the end],
-romantic love [Wade and Samantha],
+virtual reality suit [People were using them to escape reality.],
+escape from reality [People escaped their crappy reality by going to the OASIS virtual reality world.],
+pleasure in playing games [The joy we take in playing video games was commented on.],
+the reasons for playing games [We saw in the end that the point of playing video games was not necessarily to win, but rather to explore and have fun, by finding Easter eggs, for example.],
+overpopulated dystopia [It is a little unclear what the abysmal conditions in the future were due to but since we saw enormous slums this seems like a good guess.],
+atrophied civilization [Civilization stagnated because people preferred to spend time in the game, thus at the end two game-free days per week were mandated.],
+video game addiction in society [Gaming wasn't bad but it could clearly be taken to excess, hence two game-free days per week at the end.],
+romantic love [Wade and Samantha.],
 
 :: Minor Themes
-flying drone [the bad guys had tons of flying drones],
+flying drone [The 101 corporation used flying drones for monitoring people.],
 
 
 movie: 20 (2018)
