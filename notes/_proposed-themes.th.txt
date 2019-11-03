@@ -781,6 +781,10 @@ relationships or unrequited romantic aspirations in a so called "love
 triangle" ("love mesh" more generally). For example: A loves B loves C loves
 A, or A and B are friends and both lovers of C, etc.
 
+:: Notes
+To be applicable, some sort of interpersonal relationship should be present
+for all pairs of people in the triangle.
+
 :: Parents
 romantic relationship
 
@@ -793,7 +797,8 @@ bank robbery in society
 =======================
 
 :: Description
-The crime of stealing from a bank (or comparable venue) by physically gaining entry to its facilities and unlawfully removing large amounts of money or valuables, is featured.
+The crime of stealing from a bank (or comparable venue) by physically gaining entry to its facilities and unlawfully removing large amounts of money or valuables, is featured. Bank-like outfits in this case include other venues
+that may have vaults, for example casinos and Fort Knox.
 
 :: Notes
 In real life most bank robberies are made at gunpoint, i.e., by threatening bank employees with violence. In fiction there are often clever schemes to gain entry clandestinely, for example by tunneling in during off-hours, or using deception.
@@ -809,42 +814,31 @@ https://en.wikipedia.org/wiki/List_of_bank_robbers_and_robberies
 In talesoftheunexpected5x06 "The Moles", two old friends whose business faced financial ruin hatched a clever plan to tunnel their way into a certain bank vault from an antique shop adjacent to it.
 
 
-
-coping with stress
-==================
-
-:: Description
-A character is experiences a stressful situation.
-
-:: Parents
-coping with life issues
-
-:: References
-https://en.wikipedia.org/wiki/Psychological_stress
-
-
-
 man vs. woman
 =============
 
 :: Description
-There is competition between a man and a woman, and emphasis on the different
-advantages and disadvantages associated with their respective genders.
+There is conflict between a male character and a female character, featured in 
+such a way that the gender difference is significant to the situation.
+
+:: Related Themes
+the battle of the sexes
 
 :: Parents
-gender issue
+human vs. human
 
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/Conflict
-
 
 
 the battle of the sexes
 =======================
 
 :: Description
-A debate and struggle for supremacy between the male gender and the female
-gender is featured.
+The respective male and female gender roles in society are contrasted.
+
+:: Related Themes
+man vs. woman
 
 :: Parents
 gender issue
@@ -861,8 +855,7 @@ There is a character who plays an elaborate confidence trick of some sort on
 another character.
 
 :: Parents
-law and order issue
-
+crime in society
 
 
 the need for privacy
@@ -886,7 +879,9 @@ the right to privacy
 ====================
 
 :: Description
-The putative human right to keep some affairs and doings private is discussed.
+The putative human right to keep some affairs and doings private is discussed. I.e., 
+the government or other institutions in society should not excessively intrude on this
+right using mass surveillance etc.
 
 :: Parents
 human rights issue
@@ -900,17 +895,22 @@ the right to privacy of thoughts
 
 :: Description
 We are made to ponder to what extent and in what way it might be acceptable to
-figure out what someone is thinking. Is it okay to use technology (or inante
-ability) to read someone's mind?
+figure out what someone is thinking, or to covertly manipulate their thought
+processes. Is it okay to use technology (or innate ability) to read someone's mind?
 
 :: Parents
-human rights issue
+the right to privacy
 
 :: Examples
 Telepathic aliens visiting the Enterprise-D claimed to respect peoples’ right to privacy of thought but one of them turns out to be a psychopath in tng5x12 "Violations".
 
 :: Other Parents
 fictional issue
+
+
+
+
+
 
 
 wicked witch
