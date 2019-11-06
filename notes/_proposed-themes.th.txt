@@ -529,7 +529,13 @@ alcohol abuse
 =============
 
 :: Description
+A character imbues alcohol to such and extent and frequency that it
+becomes a problem for them and others.
 
+:: Notes
+This theme is not applied just because a character on screen is seen
+to have a drink or two, unless the drinking is commented on or it is
+somehow obvious that it causes a problem.
 
 :: Parents
 drug abuse
@@ -542,31 +548,40 @@ divorce procedures
 ==================
 
 :: Description
-
+The legal niceties required in order for a married couple to be formally
+divorced, are featured.
 
 :: Parents
 law and order issue
 
 :: References
+https://en.wikipedia.org/wiki/Divorce
+
+:: Examples
+In talesoftheunexpected7x13 "The Reconciliation", various complications involved
+in obtaining a divorce in the UK were explained to James by his lawyer.
 
 
 burglary in society
 ===================
 
 :: Description
-
+Burglary, here, is the unlawful entry into a building or other location for the 
+purposes of stealing from there.
 
 :: Parents
 theft in society
 
 :: References
+https://en.wikipedia.org/wiki/Burglary
 
 
 drug abuse
 ==========
 
 :: Description
-Someone exhibits an addiction to a chemical substance.
+Someone exhibits an addiction to a chemical substance, for example alcohol,
+tobacco, hallucinogens, or narcotics.
 
 :: Parents
 human addiction
@@ -582,19 +597,36 @@ coping with being eclipsed by a family member
 =============================================
 
 :: Description
+A character feels diminished because of a family members success at something
+in particular, and must come to terms with this.
 
 :: Parents
 coping with a family issue
+
+:: Examples
+In talesoftheunexpected9x02 "The Colonels Lady", George, who had had a distinguished 
+career in the military, resented his wife's sudden and smashing success as a poetry 
+writer.
 
 
 mimetic desire
 ==============
 
 :: Description
+The peculiar human habit of occasionally wanting something only because we
+became cognizant of someone else wanting it, is explicitly featured.
 
+:: Notes
+The story must make it clear that the desire arose primarily for mimetic reasons,
+if this theme is to be used.
 
 :: Parents
 human emotion
+
+:: Examples
+In talesoftheunexpected7x13 "The Reconciliation", we learn that James' interest in 
+his estranged wife was rekindled only because he came to believe someone else had 
+taken her as a lover.
 
 
 what it is like as a private investigator
@@ -775,17 +807,6 @@ organized religion
 https://en.wikipedia.org/wiki/Vow_of_silence
 
 
-
-
-
-
-
-
-
-
-
-
-
 love triangle
 =============
 
@@ -922,17 +943,13 @@ Telepathic aliens visiting the Enterprise-D claimed to respect peoples’ right 
 fictional issue
 
 
-
-
-
-
-
 wicked witch
 ============
 
 :: Description
-There is a female character who uses magic to attain evil ends. She is
-typically old and ugly, i.e. an old hag, but this is not necessarily so.
+There is a female-looking being (possibly but not necessarily a normal human woman) who 
+uses magic to attain evil ends. She must either fit a stereotype of a wicked witch or 
+be describe as such in the story.
 
 :: Parents
 legendary being
@@ -941,32 +958,23 @@ legendary being
 https://en.wikipedia.org/wiki/Witchcraft
 
 :: Examples
-The elderly aunt Ada used black magic in an effort to transfer her soul into the body of her niece in the "Night Gallery: Since Aunt Ada Came to Stay" (1971).
+The elderly aunt Ada used black magic in an effort to transfer her soul into the 
+body of her niece in the "Night Gallery: Since Aunt Ada Came to Stay" (1971).
 
 
-wicked witch stereotype
-=======================
-
-:: Description
-There is a character that fits the Western folklore stereotype of a wicked
-witch. This may, for example, involve pointy black hats and foul concoctions.
-
-:: Parents
-human character
-
-
-determination
-=============
+old woman as a witch stereotype
+===============================
 
 :: Description
-A character exhibits a feeling of resolve, i.e., that one will remain firm in
-one’s purpose.
+There is a character that fits the Western folklore stereotype of a witch. 
+This may, for example, involve pointy black hats, foul concoctions,
+or a knowledge of herbs, etc.
 
 :: Parents
 human character
 
 :: References
-https://en.wikipedia.org/wiki/Determination
+https://en.wikipedia.org/wiki/Witchcraft
 
 
 fortitude
@@ -984,7 +992,8 @@ human character
 :: Related Themes
 diligence
 
-:: Other Parents
+:: Aliases
+determination
 
 
 acute anxiety
@@ -1001,15 +1010,11 @@ https://en.wikipedia.org/wiki/Panic_attack
 
 :: Examples
 
-:: Related Themes
-
-:: Other Parents
-
 :: Aliases
 anxiety
 
 
-great need vs. compromising one's ethical principles
+compromising one's ethical principles vs. great need
 ====================================================
 
 :: Description
@@ -1031,7 +1036,19 @@ Someone must choose whether or not to commit unsavory acts in order to save
 their own skin.
 
 :: Parents
-personal ethical dilemma
+compromising one's ethical principles vs. great need
+
+:: Examples
+In blackmirror1x01 "The National Anthem", the Prime minister had to decide whether to
+copulate with a pig on national television in order to save his political career,
+as well as the life of beloved Royal Family member Princess Susannah.
+
+
+
+
+
+
+
 
 
 female gold digging
@@ -1044,10 +1061,6 @@ A woman pursues a potential mate because of his wealth and power.
 female stereotype
 
 :: Examples
-
-:: Related Themes
-
-:: Other Parents
 
 
 male gold digging
@@ -1143,10 +1156,6 @@ diplomacy
 
 :: Examples
 
-:: Related Themes
-
-:: Other Parents
-
 
 diplomatic compromising
 =======================
@@ -1160,10 +1169,6 @@ diplomacy
 
 :: Examples
 
-:: Related Themes
-
-:: Other Parents
-
 
 diplomatic maneuvering
 ======================
@@ -1176,10 +1181,6 @@ featured.
 diplomacy
 
 :: Examples
-
-:: Related Themes
-
-:: Other Parents
 
 
 tyranny vs. freedom
@@ -1269,8 +1270,6 @@ https://en.wikipedia.org/wiki/Asceticism
 :: Related Themes
 temperance
 
-:: Other Parents
-
 
 taking the law into one's own hands
 ===================================
@@ -1308,10 +1307,6 @@ https://en.wikipedia.org/wiki/Catharsis
 
 :: Examples
 
-:: Related Themes
-
-:: Other Parents
-
 
 friendship
 ==========
@@ -1326,10 +1321,6 @@ human interpersonal relationship
 https://en.wikipedia.org/wiki/Friendship
 
 :: Examples
-
-:: Related Themes
-
-:: Other Parents
 
 
 hopeless search vs. to abandon hope
@@ -1446,10 +1437,6 @@ https://en.wikipedia.org/wiki/Chastity
 
 :: Examples
 Captain Picard declined Ardra's amorous advances when she materialized in his quarters in the middle of the night in tng4x13 "Devil's Due".
-
-:: Related Themes
-
-:: Other Parents
 
 
 coming to terms with things
