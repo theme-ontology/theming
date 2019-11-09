@@ -295,7 +295,7 @@ nature vs. nurture
 ==================
 
 :: Description
-It is featured whether human behavior is determined more by the environment, either prenatal or during a person's life, or more by a person's genes.
+Discussed is whether human behavior is determined more by the environment, either prenatal or during a person's life, or more by a person's genes.
 
 :: Parents
 human nature
@@ -350,7 +350,10 @@ underground city
 ================
 
 :: Description
-There is a large underground settlement that does not sprawl out onto the surface. This does not apply to a small community of people living inside caverns or a underground complex, as is sometimes depicted in post-apocalyptic dystopian films.
+There is a large underground settlement that does not sprawl out onto the surface. 
+
+:: Notes
+This theme does not apply when a small community of people living inside caverns or a underground complex, as is sometimes depicted in post-apocalyptic dystopian films.
 
 :: Parents
 speculative city
@@ -439,10 +442,14 @@ inheritance fight
 =================
 
 :: Description
+Putative beneficiaries (usually family members) of a departed person's estate
+squabble over how to divide the inheritance. 
 
 :: Notes
-Putative beneficiaries (usually family members) of a departed person's estate
-squabble over how to divide the inheritance.
+Stories often feature such squabbling beginning well before the benefactor of the 
+heirs apparent has had the decency to depart. This theme is applicable, for example,
+when children argue with their parents over how their future bequest is to be 
+allotted.
 
 :: Parents
 family affairs
@@ -597,7 +604,7 @@ coping with being eclipsed by a family member
 =============================================
 
 :: Description
-A character feels diminished because of a family members success at something
+A character feels diminished because of a family member's success at something
 in particular, and must come to terms with this.
 
 :: Parents
@@ -614,7 +621,7 @@ mimetic desire
 
 :: Description
 The peculiar human habit of occasionally wanting something only because we
-became cognizant of someone else wanting it, is explicitly featured.
+became cognizant of someone else wanting the same thing, is explicitly featured.
 
 :: Notes
 The story must make it clear that the desire arose primarily for mimetic reasons,
@@ -647,7 +654,8 @@ what if I was super rich
 ========================
 
 :: Description
-What would a normal person do with a very large amount of money. 
+We, as a more or less normal person, imagine what we would do with a very 
+large amount of money if it suddenly came into our possession. 
 
 :: Notes
 The threshold for this theme is that the amount of money is so large 
@@ -683,7 +691,7 @@ hardship makes you stronger
 ===========================
 
 :: Description
-The time tested adage that adversity can be good for strengthening our character, 
+The time tested adage that adversity can be good for strengthening one's character, 
 is explicitly featured.
 
 :: Notes
@@ -798,7 +806,7 @@ vow of silence
 ==============
 
 :: Description
-The religious practice of forswearing speech not to speak is featured.
+The occasional religious practice of forswearing speech is featured.
 
 :: Parents
 organized religion
@@ -818,7 +826,9 @@ A, or A and B are friends and both lovers of C, etc.
 
 :: Notes
 To be applicable, some sort of interpersonal relationship should be present
-for all pairs of people in the triangle.
+for all pairs of people in the triangle. In particular, the theme is not 
+applicable when a spouse takes a lover unless the other spouse is also
+well acquainted, for example friends, with the lover in question.
 
 :: Parents
 romantic relationship
@@ -827,13 +837,13 @@ romantic relationship
 https://en.wikipedia.org/wiki/Love_triangle
 
 
-
 bank robbery in society
 =======================
 
 :: Description
-The crime of stealing from a bank (or comparable venue) by physically gaining entry to its facilities and unlawfully removing large amounts of money or valuables, is featured. Bank-like outfits in this case include other venues
-that may have vaults, for example casinos and Fort Knox.
+The crime of stealing from a bank (or comparable venue) by physically gaining entry to its facilities and unlawfully removing large amounts of money or valuables, is featured. 
+Bank-like outfits in this case include other venues that may have vaults, for example 
+casinos or Fort Knox.
 
 :: Notes
 In real life most bank robberies are made at gunpoint, i.e., by threatening bank employees with violence. In fiction there are often clever schemes to gain entry clandestinely, for example by tunneling in during off-hours, or using deception.
@@ -948,8 +958,11 @@ wicked witch
 
 :: Description
 There is a female-looking being (possibly but not necessarily a normal human woman) who 
-uses magic to attain evil ends. She must either fit a stereotype of a wicked witch or 
-be describe as such in the story.
+uses magic to attain evil ends. She must either fit the stereotype of a wicked witch or 
+be describe as such in the story. 
+
+:: Notes
+It should be clear that she uses magic, and is not merely some old woman with a knowledge of herbs (cf. "old woman as a witch stereotype").
 
 :: Parents
 legendary being
@@ -960,6 +973,9 @@ https://en.wikipedia.org/wiki/Witchcraft
 :: Examples
 The elderly aunt Ada used black magic in an effort to transfer her soul into the 
 body of her niece in the "Night Gallery: Since Aunt Ada Came to Stay" (1971).
+
+:: Related Themes
+old woman as a witch stereotype
 
 
 old woman as a witch stereotype
@@ -975,6 +991,9 @@ human character
 
 :: References
 https://en.wikipedia.org/wiki/Witchcraft
+
+:: Related Themes
+wicked witch
 
 
 fortitude
@@ -1009,6 +1028,9 @@ human mental condition
 https://en.wikipedia.org/wiki/Panic_attack
 
 :: Examples
+In ent3x16 "Doctor's Orders", due to a trans-dimensional disturbance Doctor Phlox 
+becomes paranoid and suffers from various delusions and hallucinations, while the 
+remaining Enterprise crew lies in hibernation.
 
 :: Aliases
 anxiety
@@ -1018,7 +1040,7 @@ compromising one's ethical principles vs. great need
 ====================================================
 
 :: Description
-Someone is torn up over doing something they feel they greatly need to do but
+Someone is torn up over doing something they feel they greatly need to do, but
 that is ethically unsavory to them.
 
 :: Parents
@@ -1055,7 +1077,7 @@ female gold digging
 ===================
 
 :: Description
-A woman pursues a potential mate because of his wealth and power.
+A woman pursues a potential mate primarily because of his wealth and power.
 
 :: Parents
 female stereotype
