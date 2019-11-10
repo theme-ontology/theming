@@ -1,27 +1,87 @@
+what if I could freeze time
+===========================
+
+:: Description
+We are made to imagine what it would be like to have the ability to freeze 
+time somehow. Typically the person with the ability can still move, breathe, and
+even interact with otherwise frozen objects and persons.
+
+:: Parents
+what if I had an extraordinary ability
+
+
+human character stereotype
+==========================
+
+:: Description
+There is a person whose character fits a recognizable, well-defined, stereotype 
+to a remarkable degree.
+
+:: Parents
+human character
+
+
 female gold digging
 ===================
 
 :: Description
-A woman pursues a potential mate primarily because of his wealth and power.
+A woman pursues a potential mate primarily because of his wealth and power,
+and with little concern for love.
 
 :: Parents
-female stereotype
+human character stereotype
 
 :: Examples
+In futurama4x13 "Bend Her", Bender became female (bodily and mentally) and then 
+engaged to Calculon only because he was after Calculon's fortunes.
+
+:: References
+https://en.wikipedia.org/wiki/Gold_digging
 
 
 male gold digging
 =================
 
 :: Description
-A male character engages stereotypically in a romantic relationship with the
-objective of acquiring money and with little concern about actual love.
+A male character engages in a romantic relationship with the primary
+objective of acquiring money, and with little concern for love.
 
 :: Parents
-male stereotype
+human character stereotype
 
 :: References
 https://en.wikipedia.org/wiki/Gold_digging
+
+:: Examples
+In talesoftheunexpected2x15 "The Orderly World of Mr Appleby", we learn that 
+Mr. Appleby serially married older women for their money and then sought to 
+bring about their premature demise.
+
+
+human vs. sentient machine
+==========================
+
+:: Description
+A struggle between human and a (more or less) sentient machine is featured.
+
+:: Notes
+There is no clear definition for what machines are to be considered sentient. As
+a rule of thumb, this theme applies if
+the machine takes complex actions with high-level motivations such as
+self-preservation, or vengeance. It certainly applies if the machine exhibits
+any sort of human-like personality.
+
+:: Parents
+human vs. technology
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Classification
+
+:: Examples
+The Enterprise-D crew were almost overwhelmed by the autonomous planetary defense system of Minosian design in tng1x21 "The Arsenal of Freedom".
+
+
+
 
 
 pride
@@ -38,17 +98,6 @@ human character
 https://en.wikipedia.org/wiki/Pride
 
 
-war is petty
-============
-
-:: Description
-The outlandish idea is put forth that war is an immature and undignified way
-of resolving problems.
-
-:: Parents
-war
-
-
 oppression
 ==========
 
@@ -63,20 +112,12 @@ political issue
 https://en.wikipedia.org/wiki/Oppression
 
 
-human vs. machine
-=================
 
-:: Description
-A struggle between human and machine is featured.
 
-:: Parents
-survival
 
-:: References
-http://tvtropes.org/pmwiki/pmwiki.php/Main/ManVersusMachine
 
-:: Examples
-The Enterprise-D crew were almost overwhelmed by the autonomous planetary defense system of Minosian design in tng1x21 "The Arsenal of Freedom".
+
+
 
 
 human vs. technology
