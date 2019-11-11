@@ -19652,7 +19652,7 @@ There is a character that fits the stereotype of a mad scientist. This
 typically involves lab coats and crazy experiments.
 
 :: Parents
-human character
+human character stereotype
 
 
 magic object
@@ -22531,7 +22531,7 @@ This may, for example, involve pointy black hats, foul concoctions, or a
 knowledge of herbs, etc.
 
 :: Parents
-human character
+human character stereotype
 
 :: References
 https://en.wikipedia.org/wiki/Witchcraft
@@ -31741,8 +31741,9 @@ the Vietnam War
 ===============
 
 :: Description
-The conflict in Vietnam, Laos, and Cambodia that lasted from November 1955 to
-the fall of Saigon on 30 April 1975, is featured.
+The historical event known as the Vietnam War is featured. 
+The Vietnam War was conflict in Vietnam, Laos, and Cambodia that lasted from
+November 1955 to the fall of Saigon on 30 April 1975.
 
 :: Parents
 history
@@ -34865,8 +34866,8 @@ tidally locked planet Dytallix B in tng1x15 "Conspiracy".
 https://en.wikipedia.org/wiki/Tidal_locking
 
 
-time freezing machine
-=====================
+time freezing device
+====================
 
 :: Description
 There is a machine that can be used to freeze time itself.
@@ -36546,6 +36547,17 @@ war due to diplomatic miscalculation
 :: Description
 Neither faction in a diplomatic negotiation really wants war but fluke and
 miscalculation threaten to pull them into a military confrontation anyway.
+
+:: Parents
+war
+
+
+war is petty
+============
+
+:: Description
+The outlandish idea is put forth that war is an immature and undignified way
+of resolving problems.
 
 :: Parents
 war
