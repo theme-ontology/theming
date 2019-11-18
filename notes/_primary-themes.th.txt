@@ -8374,7 +8374,7 @@ coping with the death of a child
 A character grieves over the loss of their child.
 
 :: Parents
-coping with the death of someone
+coping with the death of a family member
 
 :: Examples
 Lwaxana mourned the death of her daughter Kestra in tng7x07 "Dark Page".
@@ -8405,20 +8405,6 @@ Worf coped with the death of a renegade Klingon compatriot by unleashing a
 thunderous death howl in tng1x20 "Heart of Glory".
 
 
-coping with the death of a fiancée
-==================================
-
-:: Description
-A character grieves over the loss of their fiancée.
-
-:: Parents
-coping with the death of someone
-
-:: Examples
-Angela Martine's fiancée Robert Tomlinson died after inhaling lethal
-quantities of phaser coolant in tos1x08 "Balance of Terror".
-
-
 coping with the death of a friend
 =================================
 
@@ -8433,25 +8419,11 @@ McCoy mourned Captain Kirk after he was pulled into interspace in tos3x09 "The
 Tholian Web".
 
 
-coping with the death of a grandparent
-======================================
+coping with the death of a family member
+========================================
 
 :: Description
-A character grieves over the death of a grandparent.
-
-:: Parents
-coping with the death of someone
-
-:: Examples
-Beverly attended the funeral of her grandmother Felisa Howard on Caldos II in
-tng7x14 "Sub Rosa".
-
-
-coping with the death of a loved one
-====================================
-
-:: Description
-A character must come to terms with having lost a loved one.
+A character must come to terms with having lost a family member.
 
 :: Parents
 coping with the death of someone
@@ -8471,17 +8443,6 @@ Captain Kirk cried on Spock’s shoulder, after he had knowingly allowed his
 lover Edith Keeler to die, in tos1x28 "The City on the Edge of Forever".
 
 
-coping with the death of a new-born
-===================================
-
-:: Description
-A character, typically a parent, struggles with the emotions that can come
-when a new-born child to which they are beholden expires soon after delivery.
-
-:: Parents
-coping with the death of someone
-
-
 coping with the death of a parent
 =================================
 
@@ -8489,7 +8450,7 @@ coping with the death of a parent
 A character (typically a child) grieves over the loss of a parent.
 
 :: Parents
-coping with the death of someone
+coping with the death of a family member
 
 :: Examples
 Jeremy Aster was racked with guilt in tng3x05 "The Bonding" for falsely
@@ -8519,7 +8480,7 @@ coping with the death of a sibling
 A character grieves over the death of a sibling.
 
 :: Parents
-coping with the death of someone
+coping with the death of a family member
 
 :: Examples
 Rabal mourned the loss of his sister, and fellow environmental activist,
@@ -8533,7 +8494,7 @@ coping with the death of a spouse
 A character grieves over the loss of their spouse.
 
 :: Parents
-coping with the death of someone
+coping with the death of a family member, coping with the death of a lover
 
 :: Examples
 Worf howled over the body of his murdered spouse K'Ehleyr in tng4x07
@@ -8548,7 +8509,7 @@ A character in a position of command grieves over the death one of their
 subordinates.
 
 :: Parents
-coping with the death of someone
+coping with the death of a colleague
 
 :: Examples
 Captain Kirk mourned for crewman Hendorff, who was shot and killed by a pod
@@ -8627,16 +8588,6 @@ reason.
 
 :: Parents
 coping with life issues
-
-
-coping with the murder of a loved one
-=====================================
-
-:: Description
-A character must come to terms with a loved one having been murdered.
-
-:: Parents
-coping with the death of someone
 
 
 coping with the rigors of command
