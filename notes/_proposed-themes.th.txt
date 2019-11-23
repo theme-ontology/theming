@@ -428,17 +428,6 @@ A ship of Tarellians was shunned and feared by all because they were carriers
 of an infectious plague in tng1x11 "Haven".
 
 
-coping with having a cold
-=========================
-
-:: Description
-
-:: Examples
-
-:: Parents
-human health condition
-
-
 fortitude
 =========
 
@@ -455,11 +444,19 @@ not really developed as a theme.
 :: Parents
 human character
 
-:: Related Themes
-diligence
-
 :: Aliases
 determination
+
+
+coping with having a cold
+=========================
+
+:: Description
+
+:: Examples
+
+:: Parents
+human health condition
 
 
 human vs. Kafkaesque institution
@@ -501,6 +498,85 @@ bipolar personality disorder
 human mental condition
 
 
+fear of open waters
+===================
+
+:: Description
+
+:: Parents
+fear
+
+:: References 
+https://en.wikipedia.org/wiki/Thalassophobia
+
+
+life in the Napoleonic era
+==========================
+
+:: Description
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Napoleonic_era
+
+
+civic pride
+===========
+
+:: Description
+Someone is patriotic about their town.
+
+:: Parents
+human way of life
+
+
+life in medieval Russia
+=======================
+
+:: Description
+
+:: Parents
+history
+
+
+skipping school
+===============
+
+:: Description
+
+:: Parents
+human childhood
+
+
+matricide
+=========
+
+:: Description
+
+:: Parents
+murder in society
+
+
+honest character vs. deceitful character
+========================================
+
+:: Description
+
+:: Parents
+human characters in contrast
+
+
+mother-in-law and son-in-law
+============================
+
+:: Description
+
+:: Parents
+in-law relationship
+
+
 
 
 
@@ -516,12 +592,6 @@ human character
 
 :: References
 https://en.wikipedia.org/wiki/Pride
-
-
-
-
-
-
 
 
 human vs. technology
