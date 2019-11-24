@@ -350,7 +350,7 @@ the Ancient Roman stereotype
 ============================
 
 :: Description
-A stereotypical Ancient Roman character is featured. This typically involves togas, feasting, and conquering.
+A stereotypical Ancient Roman character is featured. This typically involves togas, feasting, and imperialistic conquest.
 
 :: Parents
 human character stereotype
@@ -387,7 +387,7 @@ epidemics in society
 :: Description
 Discussed is how society deals with the rapid spread of some infectious disease,
 or of such diseases in general. We may, for example, see preventive measures taken, 
-or efforts to get the epidemic under control when it is at it's apogee.
+or efforts to get the epidemic under control when it is at its apogee.
 
 :: Examples
 In "Nosferatu: A Symphony of Horror" (1922), people believed that the many victims
@@ -396,6 +396,12 @@ Prague and thought it had now reached the shores of England.
 
 :: Parents
 public health issue
+
+:: References
+https://en.wikipedia.org/wiki/Epidemic
+
+:: Related Themes
+facing a pandemic
 
 
 natural resource sustainability
@@ -423,8 +429,8 @@ spite of it.
 
 :: Notes
 This theme is applied only if the character attribute (fortitude) is more
-or less directly commented upon. It is typically not used in run-of-the-mill 
-action films where protagonists are generally determined but the fact is
+or less directly commented upon. It is typically not used in those run-of-the-mill 
+action films where protagonists are generally determined and courageous but the fact is
 not really developed as a theme.
 
 :: Parents
@@ -454,31 +460,40 @@ space refugee beings
 ====================
 
 :: Description
-
+There is a whole race itinerant homeless beings that travel space because they lost their home planet in war, to a natural disaster, or the like.
 
 :: Parents
 culturally distinguished being
 
 :: Examples
 A ship of Tarellians was shunned and feared by all because they were carriers
-of an infectious plague in tng1x11 "Haven".
+of an infectious plague in tng1x11 "Haven". The Tarellian people remnants had to travel space
+because they were hunted down and destroyed by those who feared the plague Tarellians carried.
 
 
 coping with having a cold
 =========================
 
 :: Description
-
-:: Examples
+A character struggles to endure a bout with the rhinovirus, or another of the two hundred
+odd strains that cause the common cold.
 
 :: Parents
 human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Common_cold
 
 
 human vs. Kafkaesque institution
 ================================
 
 :: Description
+A character encounters a labyrinthine and overpowering bureaucracy so extreme
+that it beggars belief.
+
+:: Examples
+Eponymous Franz Kafka describes such a bureaucracy in "The Trial" (1925), wherein Josef K struggles to descry what crime he has been charged with, and to meet the various impossible demands made on him by a remote and faceless judiciary. 
 
 :: Parents
 human vs. institution
@@ -486,38 +501,73 @@ human vs. institution
 :: Aliases
 human vs. bureaucracy
 
+:: References
+https://en.wikipedia.org/wiki/Franz_Kafka#%22Kafkaesque%22
+
 
 magic lamp with genie
 =====================
 
 :: Description
+There is an object akin to Aladdin's magic oil lamp that hosts a Genie which, 
+if one rubs the lamp, appears to grant three wishes.
 
 :: Parents
 magic object
+
+:: References
+https://en.wikipedia.org/wiki/Aladdin
 
 
 coping with headache
 ====================
 
 :: Description
+A character struggles to endure pain located internally inside the skull.
 
 :: Parents
 human health condition
 
+:: Aliases
+coping with migraine
 
-bipolar personality disorder
-============================
+:: References
+https://en.wikipedia.org/wiki/Headache
+
+
+bipolar disorder
+================
 
 :: Description
+A character is prone to suffer bouts of abnormally intensive emotion which, typically,
+causes them to make poorly thought out decisions with little regard to the consequences.
 
 :: Parents
 human mental condition
+
+:: Aliases
+manic syndrome
+
+:: References
+https://en.wikipedia.org/wiki/Bipolar_disorder
 
 
 fear of open waters
 ===================
 
 :: Description
+A character exhibits an intense and persistent fear of the sea or other large
+bodies of water that appear vast, dark, deep, and dangerous. 
+
+:: Notes
+A fear of sea travel is indicative of this phobia, although other factors could 
+be behind the feeling. This theme should not be applied if a character simply fears
+sea sickness, or separation from home.
+
+:: Examples
+In "The Truman Show" (1998), Truman became paralyzed with fear when confronted
+with the idea of embarking on a boat because in his youth he had lost his father
+in a boating accident caused by a sudden storm.
 
 :: Parents
 fear
@@ -530,6 +580,12 @@ life in the Napoleonic era
 ==========================
 
 :: Description
+We are shown an idea of what life might have been like in Western Europe during or around
+the days of Napoleon Bonaparte, 1799-1815.
+
+:: Examples
+In "Barry Lyndon" (1975), we saw images of life military, aristocratic, and common in 
+various places in Western Europe during the Napoleonic wars.
 
 :: Parents
 history
@@ -538,47 +594,73 @@ history
 https://en.wikipedia.org/wiki/Napoleonic_era
 
 
-civic pride
-===========
-
-:: Description
-Someone is patriotic about their town.
-
-:: Parents
-human way of life
-
-
 life in medieval Russia
 =======================
 
 :: Description
+We are shown an idea of what life might have been like in Russia during or around its
+Medieval era, ca. 980–1584.
+
+:: Examples
+In "Andrei Rublev" (1966), we followed the lives of three monks, some peasants, and
+other low birth characters around the year 1400.
 
 :: Parents
 history
+
+:: References
+https://en.wikipedia.org/wiki/History_of_Russia#Early_history
 
 
 skipping school
 ===============
 
 :: Description
+A young character plays truant from compulsory education.
+
+:: Examples
+In "The 400 Blows" (1959), Antoine got into much trouble with his teacher and parents
+after he played truant together with a friend and then forged a note from his mother.
 
 :: Parents
 human childhood
+
+:: References
+https://en.wikipedia.org/wiki/Truancy
+
+:: Aliases
+playing hooky,
+skipping class
 
 
 matricide
 =========
 
 :: Description
+A son or daughter kills their own mother.
+
+:: Examples
+In "Psycho" (1960), we learn that young Norman Bates had murdered his widowed mother 
+and her new fiancé out of jealousy when Mrs. Bates planned to remarry.
 
 :: Parents
 murder in society
+
+:: References
+https://en.wikipedia.org/wiki/Matricide
 
 
 honest character vs. deceitful character
 ========================================
 
 :: Description
+A stereotypically truthful and sincere character is contrasted with a stereotypically
+mendacious and false character.
+
+:: Examples
+In "His Girl Friday" (1940), the blue eyed and sincere insurance salesman Bruce Baldwin
+is contrasted with his fiancé's ex-husband Walter Burns, who is a scrupulous, lying
+rogue working as news paper editor.
 
 :: Parents
 human characters in contrast
@@ -588,9 +670,42 @@ mother-in-law and son-in-law
 ============================
 
 :: Description
+The interpersonal relationship between a married man and his wife's mother is featured.
+
+:: Examples
+In "A Woman Under the Influence" (1974), Nick handled Mabel's hapless mother with
+remarkable ease and affection.
 
 :: Parents
 in-law relationship
+
+:: References
+https://en.wikipedia.org/wiki/Parent-in-law#Mothers-in-law
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -608,6 +723,26 @@ human character
 
 :: References
 https://en.wikipedia.org/wiki/Pride
+
+
+civic pride
+===========
+
+:: Description
+Someone is patriotic about their town.
+
+:: Parents
+human way of life
+
+
+
+
+
+
+
+
+
+
 
 
 human vs. technology
