@@ -877,16 +877,6 @@ their own hand by, e.g., tracking down and killing criminals.
 personal ethical dilemma
 
 
-what if I was at the mercy of a mad doctor
-==========================================
-
-:: Description
-A character is held captive by a mad man and is at their mercy.
-
-:: Parents
-what if I were in a tight spot
-
-
 catharsis
 =========
 
@@ -1011,6 +1001,45 @@ https://en.wikipedia.org/wiki/Chastity
 :: Examples
 Captain Picard declined Ardra's amorous advances when she materialized in his quarters in the middle of the night in tng4x13 "Devil's Due".
 
+
+what if I was at the mercy of a mad person
+==========================================
+
+:: Description
+A character is held captive by a mad man and is at their mercy.
+
+:: Parents
+what if I were in a tight spot
+
+
+the Enigma cipher machine
+=========================
+
+:: Description
+A series of electro-mechanical rotor cipher machines developed and used in the
+early- to mid-20th century to protect commercial, diplomatic and military
+communication. The system was famously used by Germany during WW2 and cracked
+by Alan Turing and others, with resounding military implications.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Enigma_machine
+
+
+The Holocaust
+=============
+
+:: Description
+The systematic murder of six million Jews perpetrated by Adolf Hitler of
+Germany in the early 1940s is discussed.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/The_Holocaust
 
 
 
@@ -1167,36 +1196,6 @@ environmental issue
 
 :: Examples
 Little Willie Harding passed away from radiation poisoning after having been exposed to a natural source of radioactivity on the Scottish mores in "X the Unknown" (1956).
-
-
-the enigma cipher
-=================
-
-:: Description
-A series of electro-mechanical rotor cipher machines developed and used in the
-early- to mid-20th century to protect commercial, diplomatic and military
-communication. The system was famously used by Germany during WW2 and cracked
-by Alan Turing and others, with resounding military implications.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/Enigma_machine
-
-
-the Holocaust
-=============
-
-:: Description
-The systematic murder of six million Jews perpetrated by Adolf Hitler of
-Germany in the early 1940s is discussed.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/The_Holocaust
 
 
 chain of command
