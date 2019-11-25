@@ -687,22 +687,59 @@ hallucination of a non-existing person
 ======================================
 
 :: Description
+A character suffers from the delusion that they perceive a person that is in 
+fact not there. 
+
+:: Notes
+This theme is not used when the situation is explained by something other than
+a malfunction in the perceiver's brain. I.e., if they are merely tricked by lights 
+and shadows, or by supernatural phenomena, it is not generally a case of "human 
+mental condition" being topical. 
+
+:: Examples
+In nightgallery2x22b "Little Girl Lost", Professor Putman was so distraught 
+by the violent death of his daughter in a hit-and-run incident, that he began to
+imagine that she was still alive. He had conversations with the non-existing
+daughter, brushed her hair, tucked her in, etc.
 
 :: Parents
 human mental condition
 
+:: Related Themes
+childhood imaginary friend
+
 :: References
-https://en.wikipedia.org/wiki/Bipolar_disorder
+https://en.wikipedia.org/wiki/Psychosis#Hallucinations
 
 
 coming to terms with an uncomfortable reality
 =============================================
 
 :: Description
+A character's situation has changed in some adverse way that they can do 
+nothing about, and they must now come to accept it.
+
+:: Examples
+In voy2x25 "Resolutions", Janeway and Chakotay got stranded on a deserted planet. 
+They were eventually resigned to the fact that they would live out the rest of 
+their lives there.
 
 :: Parents
 coming to terms with things
 
+
+coming to terms with things
+===========================
+
+:: Description
+A character must come to accept something specific that has happened, or
+some changes in their situation, because there is nothing they can do about it.
+
+:: Parents
+human worrying about self
+
+:: References
+https://en.wiktionary.org/wiki/come_to_terms_with
 
 
 
@@ -1059,19 +1096,6 @@ https://en.wikipedia.org/wiki/Command_hierarchy
 
 
 
-
-
-coming to terms with things
-===========================
-
-:: Description
-A character comes to accept some emotionally painful circumstance.
-
-:: Parents
-human worrying about self
-
-:: References
-https://en.wiktionary.org/wiki/come_to_terms_with
 
 
 growing as a person
