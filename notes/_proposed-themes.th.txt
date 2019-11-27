@@ -683,16 +683,76 @@ in-law relationship
 https://en.wikipedia.org/wiki/Parent-in-law#Mothers-in-law
 
 
+hallucination of a non-existing person
+======================================
+
+:: Description
+A character suffers from the delusion that they perceive a person that is in 
+fact not there. 
+
+:: Notes
+This theme is not used when the situation is explained by something other than
+a malfunction in the perceiver's brain. I.e., if they are merely tricked by lights 
+and shadows, or by supernatural phenomena, it is not generally a case of "human 
+mental condition" being topical. 
+
+:: Examples
+In nightgallery2x22b "Little Girl Lost", Professor Putman was so distraught 
+by the violent death of his daughter in a hit-and-run incident, that he began to
+imagine that she was still alive. He had conversations with the non-existing
+daughter, brushed her hair, tucked her in, etc.
+
+:: Parents
+human mental condition
+
+:: Related Themes
+childhood imaginary friend
+
+:: References
+https://en.wikipedia.org/wiki/Psychosis#Hallucinations
 
 
+coming to terms with an uncomfortable reality
+=============================================
+
+:: Description
+A character's situation has changed in some adverse way that they can do 
+nothing about, and they must now come to accept it.
+
+:: Examples
+In voy2x25 "Resolutions", Janeway and Chakotay got stranded on a deserted planet. 
+They were eventually resigned to the fact that they would live out the rest of 
+their lives there.
+
+:: Parents
+coming to terms with things
 
 
+coming to terms with things
+===========================
+
+:: Description
+A character must come to accept something specific that has happened, or
+some changes in their situation, because there is nothing they can do about it.
+
+:: Parents
+human worrying about self
+
+:: References
+https://en.wiktionary.org/wiki/come_to_terms_with
 
 
+meddling government regulator stereotype
+========================================
 
+:: Description
+There is a pesky state official who will go to fanatical measures to ensure that such-and-such government regulation is followed to the letter.
 
+:: Parents
+human character
 
-
+:: Examples
+The Ghostbuster's small business was obstructed by incompetent government regulator William Atherton in "Ghostbusters" (1984).
 
 
 
@@ -807,9 +867,6 @@ one that is organised around some flavour of liberal democratic principles.
 contraposed political ideologies
 
 
-
-
-
 flying saucer
 =============
 
@@ -854,24 +911,6 @@ human pleasure
 https://en.wikipedia.org/wiki/Spectator_sport
 
 
-Spartan asceticism
-==================
-
-:: Description
-Someone declines luxury and comfort.
-
-:: Parents
-human character
-
-:: References
-https://en.wikipedia.org/wiki/Asceticism
-
-:: Examples
-
-:: Related Themes
-temperance
-
-
 taking the law into one's own hands
 ===================================
 
@@ -880,17 +919,7 @@ A character can’t wait for law-enforcement and instead takes matters into
 their own hand by, e.g., tracking down and killing criminals.
 
 :: Parents
-conflict of duty
-
-
-what if I was at the mercy of a mad doctor
-==========================================
-
-:: Description
-A character is held captive by a mad man and is at their mercy.
-
-:: Parents
-what if I were in a tight spot
+personal ethical dilemma
 
 
 catharsis
@@ -921,21 +950,10 @@ human interpersonal relationship
 :: References
 https://en.wikipedia.org/wiki/Friendship
 
-:: Examples
-
-
-hopeless search vs. to abandon hope
-===================================
-
-:: Description
-Someone must choose in a search-and-rescue situation, whether and when the
-better course of action becomes to give up hope.
-
-:: Parents
-inaction vs. futile action
+:: Aliases
+friend and friend
 
 :: Examples
-Captain Kirk and Commissioner Ferris debated whether to keep up the search for the Galileo shuttlecraft in tos1x13 "The Galileo Seven".
 
 
 kill all humans utopia
@@ -951,7 +969,7 @@ utopia
 Lore and his loyal Borg minions wanted to wipe out the human scourge and make the universe a perfect place in tng7x01 "Descent, Part II".
 
 :: Notes
-This  may not seem like a utopia since the destructions of all humans is usually not in the best interest of said humans. Nevertheless, in some stories there are individuals (sometimes human, sometimes robot) who seems to imagine a society bereft of humans as an idyllic one.
+This  may not seem like a utopia since the destructions of all humans is usually not in the best interest of said humans. Nevertheless, in some stories there are individuals (sometimes human, sometimes robot) who seem to imagine a society bereft of humans as an idyllic one.
 
 
 coping with bad cooking
@@ -968,8 +986,7 @@ struggling with a life-changing decision
 ========================================
 
 :: Description
-A character copes with the stress and pressure that comes with making a life-
-changing decision.
+A character copes with the stress and pressure that comes with making a life-changing decision.
 
 :: Parents
 human life choice
@@ -1010,18 +1027,8 @@ https://en.wikipedia.org/wiki/Vanity
 :: Examples
 Mudd's women took the "Venus drug" in order to maintain youthful appearances in the eponymous episode tos1x03 "Mudd's Women".
 
-
+:: Aliases
 narcissism
-==========
-
-:: Description
-A character exhibits excessive vanity and admiration of their own attributes.
-
-:: Parents
-human character
-
-:: References
-https://en.wikipedia.org/wiki/Narcissism
 
 
 chastity
@@ -1040,17 +1047,63 @@ https://en.wikipedia.org/wiki/Chastity
 Captain Picard declined Ardra's amorous advances when she materialized in his quarters in the middle of the night in tng4x13 "Devil's Due".
 
 
-coming to terms with things
-===========================
+what if I was at the mercy of a mad person
+==========================================
 
 :: Description
-A character comes to accept some emotionally painful circumstance.
+A character is held captive by a mad man and is at their mercy.
 
 :: Parents
-human worrying about self
+what if I were in a tight spot
+
+
+the Enigma cipher machine
+=========================
+
+:: Description
+A series of electro-mechanical rotor cipher machines developed and used in the
+early- to mid-20th century to protect commercial, diplomatic and military
+communication. The system was famously used by Germany during WW2 and cracked
+by Alan Turing and others, with resounding military implications.
+
+:: Parents
+history
 
 :: References
-https://en.wiktionary.org/wiki/come_to_terms_with
+https://en.wikipedia.org/wiki/Enigma_machine
+
+
+The Holocaust
+=============
+
+:: Description
+The systematic murder of six million Jews perpetrated by Adolf Hitler of
+Germany in the early 1940s is discussed.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/The_Holocaust
+
+
+going over someone's head
+=========================
+
+:: Description
+Someone takes up an issue with another person's boss or other superior rather than taking up the issue with the original person.
+
+:: Parents
+humans in hierarchy
+
+:: References
+https://en.wikipedia.org/wiki/Command_hierarchy
+
+
+
+
+
+
 
 
 growing as a person
@@ -1189,49 +1242,6 @@ environmental issue
 
 :: Examples
 Little Willie Harding passed away from radiation poisoning after having been exposed to a natural source of radioactivity on the Scottish mores in "X the Unknown" (1956).
-
-
-the enigma cipher
-=================
-
-:: Description
-A series of electro-mechanical rotor cipher machines developed and used in the
-early- to mid-20th century to protect commercial, diplomatic and military
-communication. The system was famously used by Germany during WW2 and cracked
-by Alan Turing and others, with resounding military implications.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/Enigma_machine
-
-
-the Holocaust
-=============
-
-:: Description
-The systematic murder of six million Jews perpetrated by Adolf Hitler of
-Germany in the early 1940s is discussed.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/The_Holocaust
-
-
-chain of command
-================
-
-:: Description
-The command hierarchy of an institution is featured.
-
-:: Parents
-humans in hierarchy
-
-:: References
-https://en.wikipedia.org/wiki/Command_hierarchy
 
 
 climate change and bureaucratic inaction
