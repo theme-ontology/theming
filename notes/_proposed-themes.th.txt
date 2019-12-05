@@ -893,7 +893,10 @@ social responsibility
 =====================
 
 :: Description
-
+A character displays a notable sense of responsibility towards society at large.
+Typically, this theme applies when someone goes out of their way to do a selfless
+thing that benefits everyone, for example cleaning up garbage and pollution.
+ 
 :: Parents
 human character
 
@@ -905,12 +908,19 @@ wish-granting magic object
 ==========================
 
 :: Description
+There is a fantastical object which can be used in order to get one or more
+wishes granted. 
+
+:: Notes
+Classically, a genie may appear from such an object to grant its summoner three 
+wishes that may end up having unpleasant side effects if the wording is not
+made with the utmost care.
 
 :: Parents
 magic object
 
 :: References
-
+https://en.wikipedia.org/wiki/Aladdin
 
 
 
