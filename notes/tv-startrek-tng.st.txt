@@ -96,7 +96,7 @@ mother and son [Beverly and Wesley] <Beverly/Wesley>,
 the need for freedom [humankind],
 the need for self-determination [humankind],
 killing to survive [Q urges Picard to kill space jellyfish],
-the ethics of killing in self-defense [Q urges Picard to kill space jellyfish],
+killing in self-defense [Q urged Picard to kill the space jellyfish to save the Enterprise and its crew.],
 cruelty [Q] <Q>,
 hospitality [Gropler Zorn tries to make Riker feel welcome] <Groppler Zorn>,
 jealousy [Data at Riker for having emotions] <Data>,
@@ -185,12 +185,6 @@ Shakespeare [] {historical character},
 Pinocchio [] {fictional character},
 holography [],
 
-:: Errors
-Complexity misconception [Riker says the rocks and vegetation have much simpler patterns than humans. He's right about the rocks.]
-
-:: Notes
-Picard: “now hear this!” Imagine if Riker had totaled the Enterprise attempting manual docking. No technobabble whatsoever. So the VISOR can detect electromagnetic radiation from heat to gamma rays but skips the visible past of the spectrum? Physical altercation at 22:001:21:10
-
 
 tng1x02
 =======
@@ -243,10 +237,6 @@ Encounter at Farpoint
 
 :: Other Keywords
 
-:: Errors
-
-:: Notes
-
 
 tng1x03
 =======
@@ -284,6 +274,7 @@ intoxication [crew suffered polywater intoxication],
 adolescence [Wesley] <Wesley>,
 exercising self-restraint [Picard about his desires for Beverly] <Picard>,
 laziness [crew neglected duties, especially Jim Shimoda] <Jim Shimoda>,
+facing an epidemic [Polywater intoxication was spreading uncontrollably on the Enterprise.],
 
 :: Minor Themes
 handheld lab [Wesley jury-rigged a tricorder to function as a tractor beam] <tricorder>,
@@ -367,11 +358,6 @@ ship-wide search [Geordi],
 rape gang [] <mentioned>,
 hypospray [Beverly to Geordi, Beverly to Geordi, Beverly to Geordi, Beverly to Picard, Beverly to self, Picard to Data, Picard to Riker, Beverly to crewman, Picard to Wesley] <13:45, 27:40, 40:40, 41:00, 41:03, 41:35, 41:37, 42:35, 43:15>,
 odd behavior [],
-
-:: Errors
-
-:: Notes
-They really could have used Google to do that search. That thing Data said about outrunning the star explosion at half impulse power was the only sensible thing they've ever said about impulse power and warp drive.
 
 
 tng1x04
@@ -493,13 +479,6 @@ kick up [holodeck combatant] {feat of agility},
 holography [],
 physical altercation time [] <1:20-1:25, 8:30-9:37, 38:00-41:05>,
 
-:: Errors
-
-:: Notes
-Looked like a lot higher than 1000 meters above the planet surface. Physical altercation at 2:30,8:45,11:11,38:00
-
-what if I had to fight to the death [Tasha], primitive point of view, tough decision [Picard on whether or not to allow Tasha to fight], sexism in society
-
 
 tng1x05
 =======
@@ -610,12 +589,6 @@ surprise warp [] {space maneuver},
 Uncle Sam [] {fictional character},
 senior staff meeting [Picard, Worf, Tasha, Troi, Geordi, Riker] <12:50-14:30>,
 physical altercation time [] <31:10-33:53>,
-
-:: Errors
-energy misconception
-
-:: Notes
-What's it called when either opponent thinks he's been had by the other? Physical altercation at 29:00,31:40,38:40
 
 
 tng1x06
@@ -730,12 +703,6 @@ hallucination [],
 retroactive course [] {space maneuver} <39:28>,
 all stop [] {space maneuver} <11:57, 19:55>,
 hypospray [Beverly to The Traveler x2] <30:10, 34:05>,
-
-:: Errors
-the power of thought fallacy, the universe may have no edge
-
-:: Notes
-What was the Mozart piece? Sometimes everyone could see the illusions and other times they were only seen by a single individual.
 
 
 tng1x07
@@ -862,11 +829,6 @@ physical altercation time [] <6:05-6:15, 29:00-30:00, 33:40-33:45>,
 senior staff meeting [Picard, Riker, Mr. Singh, Data] <13:30-14:35>,
 ready room chat [Picard, Beverly] <34:35-35:08>,
 
-:: Errors
-mind-energy misconception, the energy fallacy
-
-:: Notes
-
 
 tng1x08
 =======
@@ -970,8 +932,6 @@ visit a planet, shore leave {R&R}, social complication, blocked communication {c
 :: Other Keywords
 red alert [2x] <10:10, 30:00>,
 intruder alert [1x] <11:54>,
-boobs [],
-babe [],
 hunk [],
 white orb of light [] {light effect},
 shore leave [],
@@ -987,11 +947,6 @@ emotional outburst [Beverly],
 death sentence [],
 landing party [Riker, Tasha, Worf, Troi, Wesley] <4:30-43:20>,
 physical altercation time [] <21:50-22:10>,
-
-:: Errors
-
-:: Notes
-Picard actually says the PD was not intended for this. R.I.P. Roddenberry.
 
 
 tng1x09
@@ -1106,12 +1061,6 @@ delusion [],
 explosion [],
 The Picard Maneuver [] {space maneuver},
 senior staff meeting [Picard, Beverly, Troi, Riker, Tasha, Data] <13:30-15:27>,
-
-:: Errors
-medical misconception [what the hell is a "cloaked pain"?]
-
-:: Notes
-excessive cursing. the conservation of tractor-beam power. A theme for the relationship between the two first officers?
 
 
 tng1x10
@@ -1233,11 +1182,6 @@ David Hartley [Nothing reveals humanity so well as the games it plays?] {histori
 full stop [] {space maneuver} <1:11>,
 physical altercation time [] <20:13-22:30, 27:15-28-15, 41:35-41:45>,
 
-:: Errors
-
-:: Notes
-goddamn it why is that Tasha woman always breaking into tears. I like the vicious animal-things. Animal-things? What? Animal-things. Or were they soldier-things? This episode is reminiscent of the first episode of TOS.
-
 
 tng1x11
 =======
@@ -1246,8 +1190,8 @@ tng1x11
 Haven
 
 :: Description
-Lwaxana Troi visits her daughter, Counselor Troi , and prepares her for an
-arranged marriage .
+Lwaxana Troi visits her daughter, Counselor Troi, and prepares her for an
+arranged marriage.
 
 :: Date
 1987-11-30
@@ -1290,7 +1234,7 @@ annihilation by WMDs [biological weapons],
 letting go of a lover [Riker at Troi] <Riker>,
 biological weapons [biological warfare led to space plague],
 telepathic society [Lwaxana and Troi communicate telepathically],
-facing a pandemic [Haven people] <Haven>,
+facing an epidemic [The Haven people refused to let a plague ship land on their planet out of fear the disease would spread uncontrollably were they do to so.] <Haven>,
 fear [Haven people],
 vanity [Lwaxana] <Lwaxana>,
 
@@ -1359,11 +1303,6 @@ stargazing [Steven Miller],
 imzadi [],
 tractor beam [],
 space legend [],
-
-:: Errors
-
-:: Notes
-meddling parent [Lwaxana], fiancée and fiancee [Troi and Wyatt]
 
 
 tng1x12
@@ -1464,7 +1403,6 @@ police officer [] {character},
 detective [] {character},
 babe [in the holodeck, in red] {character},
 interrogation [],
-nanpa [officer at Beverly],
 crybaby [] {character},
 gangster [Redblock] {character},
 boy genius [],
@@ -1485,12 +1423,6 @@ round of applause [],
 violet beam of light [] {light effect},
 kiss [Picard and holodeck woman] <7:00>,
 senior staff meeting [Picard, Worf, Data, Geordi, Wesley, Troi, Beverly, Riker] <9:02-11:23>,
-
-:: Errors
-Cantor dust fallacy [Jaradan probe inadvertently did that to the holodeck?], plot oversight [Picard left the holodeck with lipstick on his cheek, yet the holodeck characters themselves can't leave?]
-
-:: Notes
-why not just record the so important introduction?
 
 
 tng1x13
@@ -1607,14 +1539,6 @@ a toast to the crystalline entity [Lore] {formal toast},
 senior staff meeting [Picard, Riker, Data, Geordi] <14:50-16:19>,
 physical altercation time [] <36:20-36:30, 39:30-39:54, 42:40-43:10>,
 the common cold [Wesley mentions to Data],
-
-:: Errors
-lone genius fallacy, the life force misconception
-
-:: Notes
-Several nice instances of the subtlety that was later lost with Gene Roddenberry. Shut up Wesley.
-
-THE HUMAN CONDITION
 
 
 tng1x14
@@ -1753,12 +1677,6 @@ sneeze [Worf],
 stay of execution [],
 hypospray [Riker, Troi] <43:44, 43:46>,
 
-:: Errors
-Spontaneous generation misconception [Beverly concludes the virus generates spontaneously from a sweet scent in the lungs]
-
-:: Notes
-stupid Riker
-
 
 tng1x15
 =======
@@ -1852,8 +1770,6 @@ nefarious plot, ship maintenance {objective, scenario}, holodeck character becom
 red alert [1x] <22:42>,
 cybernetics [],
 legendary scientist [Terence Epstein] {fictional character, cyberneticist},
-babe [],
-nanpa [],
 seduction [],
 trombone [],
 jazz [],
@@ -1873,12 +1789,6 @@ odd behavior [Bynars],
 kiss [Riker and Minuet] <19:20-19:35>,
 brinkmanship [],
 automatic departure [] {space maneuver} <1:25>,
-
-:: Errors
-computer misconception, complexity misconception [Picard states the Bynars are as close to binary thinkers as possible; impossible to interact in our world without higher level concepts]
-
-:: Notes
-So they had all the planet's data stored in one enormous file?
 
 
 tng1x16
@@ -2001,10 +1911,6 @@ hypospray [Beverly to Mark Jameson] <38:30>,
 senior staff meeting [Picard, Data, Troi, Mark Jameson] <7:45-8:50>,
 readyroom chat [Picard, Beverly; Picard, Beverly] <10:38-11:36, 13:20-13:47>,
 physical altercation time [] <33:10-34:10>,
-
-:: Errors
-
-:: Notes
 
 
 tng1x17
@@ -2132,11 +2038,6 @@ all stop [] {space maneuver} <2:26>,
 space legend [],
 senior staff meeting [Picard, Beverly, Troi, six parents] <14:20-15:25>,
 
-:: Errors
-network vulnerability misconception
-
-:: Notes
-
 
 tng1x18
 =======
@@ -2244,11 +2145,6 @@ photoelectric effect [] <mentioned>,
 planetary quarantine [],
 terraforming station [],
 physical altercation time [] <13:25-14:00>,
-
-:: Errors
-the scale misconception [The Pleiades Cluster is not an object as we think of one], reasoning error [competence does not imply comprehension], complexity misconception [a microbrain is too small to me smart]
-
-:: Notes
 
 
 tng1x19
@@ -2376,10 +2272,6 @@ dynamic relationship test [] {scholarly test},
 stargazing [Picard],
 hard pull up [] {space maneuver} <20:42>,
 
-:: Errors
-
-:: Notes
-
 
 tng1x20
 =======
@@ -2491,10 +2383,6 @@ escape [],
 hypospray [Beverly to Klingon],
 dinner together [Worf, Korris, Kommel],
 battle bridge [],
-
-:: Errors
-
-:: Notes
 
 
 tng1x21
@@ -2613,11 +2501,6 @@ advanced navigation test [] {scholarly test},
 stargazing [Geordi],
 physical altercation time [] <11:00-11:20, 14:10-14:30, 15:10-15:32, 21:34-22:23, 40:50-42:00>,
 
-:: Errors
-
-:: Notes
-space timing fallacy [why would they appear in intervals of exactly 12 minutes? minutes have no meaning away from earth! - Yeah, they must meant Minosian minutes.]
-
 
 tng1x22
 =======
@@ -2730,12 +2613,6 @@ sun spots [] {astronomical phenomena},
 possible plague outbreak [] <medical emergency>,
 readyroom chat [Picard and Beverly],
 physical altercation time [] <15:10-15:30, 34:50-35:47>,
-
-:: Errors
-the tiny population misconception [a condition affecting an entire, intelligent, people for 200 years is pretty ridiculous]
-
-:: Notes
-Picard described the Prime directive quite nicely., cowardly resolution though.
 
 
 tng1x23
@@ -2857,11 +2734,6 @@ dilithium crystal realignment [],
 physical altercation time [] <11:30-11:50, 25:45-26:00>,
 senior staff meeting [Picard, Riker, Beverly, Data, Geordi, Worf] <17:00-18:58>,
 
-:: Errors
-matter anti-matter ratio fallacy [matter anti-matter ratio of 25 to 1!!]
-
-:: Notes
-
 
 tng1x24
 =======
@@ -2975,12 +2847,6 @@ kiss [Picard and Jenice, Paul and Jenice] <20:00, 41:33>,
 senior staff meeting [Picard, Data, Worf, Riker] <27:05-27:50>,
 physical altercation time [] <36:00-36:20>,
 farewell [Picard and Jenice],
-
-:: Errors
-Einstein fallacy
-
-:: Notes
-how the hell can a time loop occur in real time? They ought to have stuck with the second Picard, Riker, Data trio in the turbolift
 
 
 tng1x25
@@ -3100,11 +2966,6 @@ Andorian tea [] {beverage},
 hypospray [Beverly to Quinn] <34:22>,
 physical altercation time [] <30:00-30:52, 32:30-33:35, 40:20->,
 
-:: Errors
-general inconsistency [the bugs move around in the body, but the body remains unharmed]
-
-:: Notes
-
 
 tng1x26
 =======
@@ -3221,12 +3082,6 @@ QEII [] {20th century},
 Khitomer Massacre [] {fictional historical event},
 senior staff meeting [Picard, Riker, Worf, Troi, Data; Picard, Riker, Worf, Data, Geordi] <6:53-8:43, 21:20-23:30>,
 hypospray [Beverly to Clare; Beverly to Ralph, Beverly to Sonny] <11:27, 11:45, 12:00>,
-
-:: Errors
-what is natural fallacy [Picard thinks we should be content to die at our allotted age]
-
-:: Notes
-Picard was “summoned”.Romulan: “we are back”, sort of self-referential.
 
 
 tng2x01
@@ -3479,12 +3334,6 @@ hypospray [Pulaski to Haskell] <33:50>,
 senior staff meeting [Picard, Troi, Worf, Riker, Data, Pulaski] <35:00-36:10>,
 physical altercation time [] <1:55-4:04>,
 
-:: Errors
-philosophical nonsense [could the lack of a dimension be a dimension in itself?], sensor misconception [no readings from the sensors, but everyone can see the phenomena in questions]
-
-:: Notes
-if it has an outer boundary, then it has width and height in a natural sense of the words – Weasley and Data is somewhat contradicting each other.
-
 
 tng2x03
 =======
@@ -3587,10 +3436,6 @@ Whitaker's Almanack [] {literary reference},
 Wilhelm Gottsreich Sigismond von Ornstein [] {fictional character},
 senior staff meeting [Picard, Geordi, Data, Riker, Troi, Worf] <28:20-31:50>,
 farewell [Picard and Moriarty],
-
-:: Errors
-
-:: Notes
 
 
 tng2x04
@@ -3701,7 +3546,6 @@ farmers-daughter [],
 jurisdiction [],
 social complication [],
 rescue [],
-nanpa [],
 comedian [] {character},
 Jerry Lewis [] {20th century, historical character},
 Jewel of Thesia [],
@@ -3713,10 +3557,6 @@ kiss [Okona and crew-woman] <24:10>,
 holography [],
 George Burns [] {historical character, 20th century},
 Gracie Allen [] {historical character, 20th century},
-
-:: Errors
-
-:: Notes
 
 
 tng2x05
@@ -3825,12 +3665,6 @@ dinner for two [Riva and Troi],
 House of Hanover [] {18th century},
 stand off [],
 senior staff meeting [Picard, Riker, Data, Riva, three chorus members] <16:20-18:35>,
-
-:: Errors
-Genotype-phenotype bijection fallacy [there is a gene for hearing]
-
-:: Notes
-the gene for hearing... data definitely signed before Picard spoke while translating.
 
 
 tng2x06
@@ -3950,12 +3784,6 @@ Sonnet 18 [] {literary reference},
 Shakespeare [],
 psychotronic stability examination [] {test},
 physical altercation time [] <41:45-41:50>,
-
-:: Errors
-Einstein fallacy
-
-:: Notes
-The near warp transport was obviously unnecessary.
 
 
 tng2x07
@@ -4079,12 +3907,6 @@ intercept course [] {space maneuver} <4:55>,
 parallel course [] {space maneuver} <5:17>,
 senior staff meeting [Picard, Riker, Pulaski, Worf, Troi; Picard, Pulaski, Troi, Riker; Picard, Riker, Troi, O'Brien, Geordi] <8:35-10:20, 13:35-14:50, 27:50-29:36>,
 
-:: Errors
-DNA misconception [aging is not programmed into our DNA], transporter trace fallacy [assumes memories are encoded in DNA since Pulaski was reconstituted from a single strand of hair]
-
-:: Notes
-they risked data without a blink; even if he was immune how can they know he is not a carrier when they don't understand what it is
-
 
 tng2x08
 =======
@@ -4199,12 +4021,6 @@ stun by phaser [],
 intercept course [] {space maneuver} <27:35>,
 physical altercation time [] <17:30-17:50, 42:45-42:50>,
 
-:: Errors
-complexity fallacy [subatomic bacteria?]
-
-:: Notes
-Riker should have gotten his ass whooped by the huge Klingon.
-
 
 tng2x09
 =======
@@ -4317,13 +4133,6 @@ Sonnet XXIX [] {literary reference},
 Webster's 24th Century Dictionary [] {literary reference},
 Pinocchio [] {fictional character},
 
-:: Errors
-
-:: Notes
-Picard used Data's human bonds to motivate his argument, but that's no more to the point than Riker's arguments. Riker's arguments were idiotic.
-
-The good of the many vs. the needs  of the few [they could make many datas], android {novel sci-fi concept}, AI prejudice
-
 
 tng2x10
 =======
@@ -4428,10 +4237,6 @@ bodyguard [Anya] {character},
 farewell [Wesley and Salia],
 ship tour [Anya by Worf],
 physical altercation time [] <20:27-20:47>,
-
-:: Errors
-
-:: Notes
 
 
 tng2x11
@@ -4552,11 +4357,6 @@ space legend [Iconia],
 senior staff meeting [Geordi, Picard, Riker, Data, Troi; Picard, Geordi, Data, Riker] <7:55-9:40, 20:45->,
 deliberate destruction of a tricorder [Worf to tricorder that had information on Iconian civilization] {act of deliberate destruction},
 
-:: Errors
-Picasso fallacy [Captain Donal Varley is suddenly an expert archaeologist]
-
-:: Notes
-
 
 tng2x12
 =======
@@ -4667,11 +4467,6 @@ Todd Matthews [] {fictional historical character, 20th century},
 senior staff meeting [Picard, Data, Troi, Riker] <4:55-5:32>,
 Hotel Royale [] {fictional literary reference},
 
-:: Errors
-
-:: Notes
-It's ironic that Fermat's last theorem was proven soon there after.
-
 
 tng2x13
 =======
@@ -4772,10 +4567,6 @@ intercept course [] {space maneuver} <3:23>,
 full stop [] {space maneuver} <33:05>,
 hypospray [Pulaski to pseudo-Picard] <13:15>,
 senior staff meeting [Picard, Geordi, Data, Troi, Riker, Worf] <18:20-22:30>,
-
-:: Errors
-
-:: Notes
 
 
 tng2x14
@@ -4899,10 +4690,6 @@ emotional outburst [Worf],
 hypospray [Pulaski to crewman] <16:53>,
 physical altercation time [] <38:10-41:35>,
 
-:: Errors
-
-:: Notes
-
 
 tng2x15
 =======
@@ -5021,10 +4808,6 @@ Earl Grey tea [],
 senior staff meeting [Picard, Riker, Pulaski, Troi, Geordi, Wesley; Picard, Worf, Pulaski, Data, Troi, Riker, Geordi; Picard, Riker, Wesley, three crew-members] <6:03-9:11, 22:10-26:28, 26:48-27:53>,
 hypospray [Pulaski to Sarjenka] <40:28>,
 
-:: Errors
-
-:: Notes
-
 
 tng2x16
 =======
@@ -5069,6 +4852,7 @@ the thirst for knowledge [Picard stays to explore new sector of galaxy in which 
 facing a mortal enemy [Enterprise crew face the Borg],
 human vs. sentient machine [Enterprise crew vs. Borg],
 facing an overpowering adversary [Enterprise crew face the Borg],
+assimilating beings [It was revealed that the Borg were going about capturing humanoids, turning them into cyborgs, and assimilating them into their collective consciousness.],
 
 :: Minor Themes
 passion for exploration [Picard stays to explore new sector of galaxy in which Q has placed them] <Picard>,
@@ -5155,11 +4939,6 @@ all stop [] {space maneuver} <9:18, 17:10>,
 intercept course [] {space maneuver} <18:55>,
 senior staff meeting [Picard, Guinan, Riker, Data, Troi; Picard, Guinan, Riker, Data, Troi, Q] <24:10-26:18, 29:10-31:10>,
 physical altercation time [] <22:45-24:00>,
-
-:: Errors
-
-:: Notes
-facing the unknown, lesson in humility [Picard]
 
 
 tng2x17
@@ -5272,10 +5051,6 @@ awkward situation [Picard and Wesley in shuttlecraft],
 stun by phaser [Geordi],
 William James [] {historical character},
 senior staff meeting [Riker, Worf, Data, Pulaski, Troi] <29:56-30:30>,
-
-:: Errors
-
-:: Notes
 
 
 tng2x18
@@ -5408,12 +5183,6 @@ hypospray [Pulaski to self] <10:40>,
 senior staff meeting [Picard, Riker, Pulaski, Mariposan prime minister] <29:20-32:36>,
 stargazing [Picard],
 
-:: Errors
-complex civilization with small population fallacy
-
-:: Notes
-The is a subtle point here about the Star Trek series where they take an issue they dislike and make it go against nature. In this case human cloning. Pulaski can find a cure for everything else, so why not replicative fading?
-
 
 tng2x19
 =======
@@ -5528,10 +5297,6 @@ Hitler [] {historical character},
 Stalin [] {historical character},
 Let's Get Away From it All [] {old song},
 farewell [Picard and Lwaxana],
-
-:: Errors
-
-:: Notes
 
 
 tng2x20
@@ -5652,11 +5417,6 @@ senior staff meeting [Picard, Riker, Data, Troi, Worf, K'Ehleyr; Picard, Riker, 
 stargazing [Picard],
 physical altercation time [] <23:50-24:45, 25:20-26:15>,
 
-:: Errors
-
-:: Notes
-SPECIFY TOUGH DECISION
-
 
 tng2x21
 =======
@@ -5771,12 +5531,6 @@ Kumeh maneuver [] {space maneuver} <32:28>,
 Talupian maneuver [] {space maneuver} <32:45>,
 space fight [Enterprise and Hathaway; Enterprise, Hathaway, Ferengi vessel],
 
-:: Errors
-anthropomorphic bias [Data can play perfectly but is bested by Kolrami presumably because of some intangible quality that may not be scrutinized]
-
-:: Notes
-“in the game of  military brinkmanship”, “formulate a premise”, “your order is nullified!” good old Picard. With all those hourly progress reports, I don't suppose the Hathaway crew will have much time to ready the ship.
-
 
 tng2x22
 =======
@@ -5867,15 +5621,8 @@ super fast reflexes [Data catching the vine] {feat of speed},
 imzadi [],
 vision of the past [] {vision},
 flirting [],
-nanpa [],
 babe [Riker's in extreme plural],
 hypospray [Pulaski to Riker, Pulaski to Riker] <14:05, 39:00>,
-
-:: Errors
-factual error [Data claimed that true fossilization requires several millennia]
-
-:: Notes
-why the hell are the idiots splashing around in unknown ankle high marsh water, no boots??? creepy scene with probes penetrating Riker's skull.
 
 
 tng3x01
@@ -6007,12 +5754,6 @@ full reverse [] {space maneuver},
 manual restart [] {space maneuver} <20:38>,
 senior staff meeting [Picard, Riker, Data, Troi, Paul Stubbs; Picard, Beverly, Data, Wesley, Riker, Paul Stubbs] <14:07-16:36, 26:05-28:59>,
 physical altercation time [] <35:40-36:00>,
-
-:: Errors
-lone genius fallacy
-
-:: Notes
-check the picture on the book in the ready room at 10:48. Data essentially mind melded with the nanites
 
 
 tng3x02
@@ -6184,8 +5925,8 @@ mystery
 :: Choice Themes
 pacifism [Kevin] <Kevin Uxbridge>,
 transcendental being [Kevin in Douwd form] <Douwd>,
-killing to survive [Kevin refused to defend the colony even in self-defence],
-the ethics of killing in self-defense [Kevin refused to defend the colony even in self-defence],
+killing to survive [Kevin refused to defend the colony even in self-defense.],
+killing in self-defense [Kevin refused to defend the colony even in self-defense.],
 the right to exist of a xenocidal species [Kevin exterminated the entire Husnock race],
 
 :: Major Themes
@@ -8712,7 +8453,7 @@ AI point of view [Data] <Data>,
 AI rights [Kivas did not treat Data as a perosn],
 the need for freedom [Data not happy being kept inside a gilded cage] <Data>,
 killing to survive [Data tried to kill Fajo] <Data>,
-the ethics of killing in self-defense [Data may have tried to kill Fajo in self-defense] <Data>,
+killing in self-defense [Data may have tried to kill Fajo in self-defense, but it was left open.] <Data>,
 coping with the death of a colleague [crew at Data] <Geordi, Wesley>,
 human vs. captivity [Data] <Data>,
 passion for collecting rare objects [Kivas Fajo.],
@@ -9232,7 +8973,7 @@ tng3x26
 The Best of Both Worlds
 
 :: Description
-Picard is kidnapped by the Borg , who begin their invasion of Federation
+Picard is kidnapped by the Borg, who begin their invasion of Federation
 space.
 
 :: Date
@@ -9262,6 +9003,7 @@ facing an invading force [Humanity face down the Borg],
 :: Major Themes
 choosing between job opportunities [Riker] <Riker>,
 collectively intelligent beings [Borg] <Borg>,
+assimilating beings [The Borg turned Picard into a cyborg and assimilated him into their collective consciousness.],
 risk taking vs. playing it safe [Picard must weigh Shelby's risky strategy and Riker cautious strategy for dealing with Borg] <Picard>,
 rivalry [Shelby and Riker] <Riker/Shelby>,
 desperation [everyone in the face of imminent Borg invasion],
@@ -9401,6 +9143,7 @@ working together under stress [crew preparing for Borg assault],
 leadership [Riker fills Picard's shoes on the Enterprise] <Riker>,
 collectively intelligent beings [Borg] <Borg>,
 grief [crew for Picard] <Riker>,
+assimilating beings [The Borg turned Picard into a cyborg and assimilated him into their collective consciousness.],
 
 :: Minor Themes
 magnanimity in victory [Riker at Shelby] <Riker>,
@@ -9480,11 +9223,6 @@ stargazing [Picard],
 senior staff meeting [Riker, Worf, Shelby, Beverly, Troi, Haftel; Riker, Data, Worf, Shelby, Troi, Beverly, Geordi] <5:10-7:25, 11:30-13:40>,
 hypospray [Beverly to Locutus, Beverly to Locutus] <26:33, 30:00>,
 physical altercation time [] <24:15-24:30>,
-
-:: Errors
-system vulnerability fallacy [how the hell could the Borg have overlooked that?], DNA misconception [Beverly says the DNA in Picard is mutating back to normal]
-
-:: Notes
 
 
 tng4x02
@@ -11324,8 +11062,8 @@ Data, Riker, Beverly, Guinan
 romance
 
 :: Choice Themes
-killing to survive [space whale fired on in self-defence],
-the ethics of killing in self-defense [space whale fired on in self-defence],
+killing to survive [The space whale was fired on in self-defense.],
+killing in self-defense [The space whale was fired on in self-defense.],
 unrequited love [Geordi at Leah] <Geordi>,
 the right to one's own likeness [Leah],
 
@@ -13076,15 +12814,15 @@ Picard, Riker, Renny, Carmen Davila
 tragedy
 
 :: Choice Themes
-the desire for vengeance [Kila against Crystalline Entity for klling her son] <Kila Marr>,
+the desire for vengeance [Kila against Crystalline Entity for killing her son] <Kila Marr>,
 
 :: Major Themes
 life force draining being [Crystalline Entity] <Crystalline Entity>,
 spaceborne being [Crystalline Entity] <Crystalline Entity>,
 crystalline being [Crystalline Entity] <Crystalline Entity>,
 resentment [Kila Marr at Crystalline entity] <Kila Marr>,
-killing to survive [Picard faced with the prospect of having to kill the Crystalline Entity in self-defense],
-the ethics of killing in self-defense [Picard faced with the prospect of having to kill the Crystalline Entity in self-defense],
+killing to survive [Picard was faced with the prospect of having to kill the Crystalline Entity in to save the Enterprise and its crew.],
+killing in self-defense [Picard was faced with the prospect of having to kill the Crystalline Entity in to save the Enterprise and its crew.],
 obsession [Kila with killing Crystalline Entity] <Kila Marr>,
 obsession with a life-dedicated project [Kila with killing Crystalline Entity] <Kila Marr>,
 the right to exist of a xenocidal species [Crystalline Entity],
@@ -15570,6 +15308,7 @@ compassion [Picard and Geordi about treatment of Hugh] <Picard, Geordi>,
 human vs. sentient machine [Humans vs. Borg],
 kindness [Geordi to Hugh] <Geordi>,
 patience [Geordi with Hugh] <Geordi>,
+assimilating beings [Picard plotted to annihilate the Borg to prevent them from assimilating the people of the Federation into their collective consciousness.],
 
 :: Minor Themes
 loneliness [Hugh doesn't know how to handle his newly found individuality] <Hugh>,
@@ -19054,7 +18793,6 @@ psychology conference [] {conference},
 ship-wide diagnostic [] {diagnostic},
 ship evacuation [],
 researcher [] {character},
-nanpa [],
 old professor stereotype [],
 mind awing experience [touch plasma field],
 ship explosion [Enterprise] <29:40>,
@@ -19082,7 +18820,7 @@ Descent
 
 :: Description
 The crew encounter a group of Borg acting individually, and Data briefly
-experiences emotions. Professor Stephen Hawkings makes a guest appearance.
+experiences emotions. Professor Stephen Hawking makes a guest appearance.
 
 :: Date
 1993-06-21
@@ -19123,6 +18861,7 @@ friendship [Data and Geordi] <Data/Geordi>,
 general relativity [Einstein discussed],
 pleasure in violence [Data] <Data>,
 collectively intelligent beings [Borg] <Borg>,
+assimilating beings [The Borg's penchant for turning people into cyborgs and assimilating them into their collective consciousness was discussed.],
 
 :: Source ID
 tng6x26
@@ -19252,6 +18991,7 @@ facing a mortal enemy [Data and landing party face Lore] <Data>,
 collectively intelligent beings [Borg] <Borg>,
 ruthlessness [Lore] <Lore>,
 sadism [Lore] <Lore>,
+assimilating beings [The Borg's penchant for turning people into cyborgs and assimilating them into their collective consciousness was discussed.],
 
 :: Minor Themes
 unethical human experimentation [Lore experimented on Geordi and Borg drones.],
@@ -19330,14 +19070,6 @@ emergency deceleration [Enterprise] {space maneuver} <25:25>,
 evasive maneuvers [Enterprise] {space maneuver} <26:10>,
 fly inside a star's corona [Enterprise] {space maneuver},
 physical altercation time [] <37:10-38:00>,
-
-:: Errors
-sense emotion in data nonsense, outrageous coincident error [Lore accidentally landing on the Borg planet],
-
-:: Notes
-Picard found an answer to his self-doubt from the first episode in this one. Physical altercation at 37:00
-
-PURPOSE IN LIFE
 
 
 tng7x02
@@ -21611,6 +21343,7 @@ social awareness, political drama, fantasy
 
 :: Choice Themes
 forced resettlement [Federation must resettled the space Native Americans],
+forced resettlement for peoples' own good [We are made to ponder whether it is right for Picard to forcible resettle the Space Native Americans.],
 duty vs. compassion [Picard ordered to move colonists by force, but feels torn by compassion to let them stay],
 the good of the many vs. the needs of the few [Picard about resettling the natives] <Picard>,
 the desire to pursue one's dream [Wesley flunks out of Starfleet to go on a hippie adventure with The Traveler] <Wesley>,
@@ -21985,7 +21718,6 @@ Earl Gray tea [],
 botanist [] {character},
 knave [],
 rock [],
-nanpa [],
 cloaked probe [],
 petty theft [] {crime},
 criminal [] {character},
