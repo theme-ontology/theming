@@ -746,25 +746,6 @@ topic in technology
 https://en.wikipedia.org/wiki/Morse_code
 
 
-the Native American stereotype
-==============================
-
-:: Description
-There is a stereotypical depiction of a Native American, i.e. with feather
-headgear, tomahawks, peace pipes, etc.
-
-:: Parents
-human character stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Hollywood_Indian
-
-:: Examples
-On the planet Amerind there were people who were just like a 20th century
-stereotype of pre-colonial Native Americans in tos3x03 "The Paradise
-Syndrome".
-
-
 Nazism
 ======
 
@@ -908,6 +889,20 @@ medical ethical issue
 
 :: References
 https://en.wikipedia.org/wiki/Hippocratic_Oath
+
+
+The Holocaust
+=============
+
+:: Description
+The systematic murder of six million Jews perpetrated by Adolf Hitler of
+Germany in the early 1940s is discussed.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/The_Holocaust
 
 
 Uranian extraterrestrial
@@ -2826,6 +2821,20 @@ A mysterious planetoid turned out to be a wholly artificial artifact of a long
 gone alien civilization in tos3x14 "That Which Survives".
 
 
+assimilating beings
+===================
+
+:: Description
+There is an species-like faction that propagates itself not by conventional
+reproduction but by assimilating members of other alien races. Note:
+terminology becomes problematic in this case as there is typically something
+very much like an alien race, yet biologically it is not in strictly speaking
+a race or a species.
+
+:: Parents
+culturally distinguished being
+
+
 assisting in suicide
 ====================
 
@@ -3134,6 +3143,24 @@ attack from outer space
 :: Examples
 The Gamma 7A system, with its billions of inhabitants, was utterly destroyed
 by a giant space amoeba in tos2x19 "The Immunity Syndrome".
+
+
+attack from outer space by a powerful conquering alien race
+===========================================================
+
+:: Description
+Imperialistic aliens from outer space come along and subjugate your
+civlization to their own ends.
+
+:: Parents
+attack from outer space
+
+:: Examples
+The mirror universe Halkan homeworld  was under threat of being conquered or
+destroyed by the savage Terran Empire in tos2x10 "Mirror, Mirror".
+
+:: References
+https://en.wikipedia.org/wiki/Alien_invasion
 
 
 attack from outer space by a world eating machine
@@ -4039,6 +4066,24 @@ Million Dollar Man" (1973).
 https://tvtropes.org/pmwiki/pmwiki.php/Main/ArtificialLimbs
 
 
+bipolar disorder
+================
+
+:: Description
+A character is prone to suffer bouts of abnormally intensive emotion which,
+typically, causes them to make poorly thought out decisions with little regard
+to the consequences.
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Bipolar_disorder
+
+:: Aliases
+manic syndrome
+
+
 bird in a gilded cage
 =====================
 
@@ -4357,6 +4402,22 @@ human interpersonal relationship
 
 :: References
 https://en.wikipedia.org/wiki/Management
+
+
+boyfriend and boyfriend
+=======================
+
+:: Description
+There is an informal but extended, presumed monogamous, romantic relationship
+between two male characters.
+
+:: Parents
+romantic relationship
+
+:: Examples
+A flamboyantly gay man moved to an idyllic Connecticut town with his boyfriend
+in a last ditched effort to salvage their relationship in "The Stepford Wives"
+(2004).
 
 
 boyfriend and girlfriend
@@ -4957,6 +5018,23 @@ Something goes wrong with a planet's sun and everybody dies.
 force of nature existential risk to civilization
 
 
+catharsis
+=========
+
+:: Description
+Someone releases passionate emotions they have previously kept bottled up
+inside in a way that results in renewal and restoration.
+
+:: Parents
+human mental condition
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Catharsis
+
+
 celebrity culture in society
 ============================
 
@@ -5085,6 +5163,23 @@ exploration.
 human vs. nature
 
 
+chastity
+========
+
+:: Description
+Someone refrains from engaging in sexual activity.
+
+:: Parents
+human character
+
+:: Examples
+Captain Picard declined Ardra's amorous advances when she materialized in his
+quarters in the middle of the night in tng4x13 "Devil's Due".
+
+:: References
+https://en.wikipedia.org/wiki/Chastity
+
+
 chemical weapons
 ================
 
@@ -5198,6 +5293,26 @@ A child’s typically ephemeral life ambitions are featured.
 
 :: Parents
 human childhood
+
+:: Other Parents
+juvenile
+
+
+childhood imaginary friend
+==========================
+
+:: Description
+A child has a friend who is entirely a figment of their imagination.
+
+:: Parents
+human childhood
+
+:: Examples
+Clara’s imaginary friend Isabelle became real thanks to a mischievous
+incorporeal alien in tng5x22 "Imaginary Friend".
+
+:: References
+https://en.wikipedia.org/wiki/Imaginary_friend
 
 :: Other Parents
 juvenile
@@ -5684,6 +5799,17 @@ human phobia
 https://en.wikipedia.org/wiki/Claustrophobia
 
 
+climate change and bureaucratic inaction
+========================================
+
+:: Description
+The sadly familiar social issue of people around the worlds not being able to
+agree on what to do about climate change is featured.
+
+:: Parents
+environmental issue
+
+
 clingy girlfriend
 =================
 
@@ -6061,6 +6187,57 @@ In voy1x14 "Faces", B'Elanna learns to accept the Klingon side of herself even
 though she grew up resenting it.
 
 
+coming to terms with having to give up on a dream
+=================================================
+
+:: Description
+A character has had to give up on something they wanted, for example a career,
+and struggles to accept the reality of this.
+
+:: Parents
+coming to terms with things
+
+:: Examples
+In ds93x18 "Distant Voices", we hear of how Dr. Bashir had once dreamed of
+becoming a professional tennis player, but had to give up that dream and
+settle for medical school instead.
+
+
+coming to terms with living in a new environment
+================================================
+
+:: Description
+A character's general living environment has suddenly changed in some way that
+they can do nothing about, and they must now come to accept it. They may for
+example be stranded in a foreign land, or have woken up in a distant future.
+
+:: Parents
+coming to terms with things
+
+:: Examples
+In voy2x25 "Resolutions", Janeway and Chakotay got stranded on an uninhabited
+planet. They were eventually resigned to the fact that they would live out the
+rest of their lives there.
+
+
+coming to terms with one's own death
+====================================
+
+:: Description
+A character is about to die, perhaps from a natural illness, comes to accept
+the fact and become at peace with themselves over it. In fantastic stories, a
+character may even have died and must now come to terms with the fact.
+
+:: Parents
+coming to terms with things
+
+:: Examples
+In tng5x24 "The Next Phase", Ro Laren and Geordi La Forge apparently perish in
+a freak engineering accident and become ghosts. Geordi implores Ro to accept
+the reality of their demise, but she will have none of it. As it transpires,
+they had merely been phase shifted and could be brought back later.
+
+
 coming to terms with one's own sexuality
 ========================================
 
@@ -6080,6 +6257,20 @@ to some event in their past, but then comes to peace with all of that.
 
 :: Parents
 coming to terms with things
+
+
+coming to terms with things
+===========================
+
+:: Description
+A character must come to accept something specific that has happened, or some
+changes in their situation, because there is nothing they can do about it.
+
+:: Parents
+human worrying about self
+
+:: References
+https://en.wiktionary.org/wiki/come_to_terms_with
 
 
 commercial made-up holidays in society
@@ -7372,6 +7563,16 @@ not have.
 coping with problematic people
 
 
+coping with bad cooking
+=======================
+
+:: Description
+A character is subjected to lousily prepared food.
+
+:: Parents
+human interpersonal relationship
+
+
 coping with being a cuckold
 ===========================
 
@@ -7854,6 +8055,36 @@ the doctor and onerous treatment procedures.
 human health condition
 
 
+coping with having a cold
+=========================
+
+:: Description
+A character struggles to endure a bout with the rhinovirus, or another of the
+two hundred odd strains that cause the common cold.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Common_cold
+
+
+coping with having a headache
+=============================
+
+:: Description
+A character struggles to endure pain located internally inside the skull.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Headache
+
+:: Aliases
+coping with migraine
+
+
 coping with having a predetermined life
 =======================================
 
@@ -8188,6 +8419,23 @@ as a variety of bodily changes and sexual urges.
 coping with life issues
 
 
+coping with radiation sickness
+==============================
+
+:: Description
+A character experiences radiation sickness.
+
+:: Parents
+human health condition
+
+:: Examples
+Little Willie Harding succumbed of radiation poisoning after spending a night
+in the hospital in "X the Unknown" (1956).
+
+:: References
+https://en.wikipedia.org/wiki/Acute_radiation_syndrome
+
+
 coping with reentering society
 ==============================
 
@@ -8375,6 +8623,16 @@ A character grieves after a colleague has passed away.
 coping with the death of someone
 
 
+coping with the death of a family member
+========================================
+
+:: Description
+A character must come to terms with having lost a family member.
+
+:: Parents
+coping with the death of someone
+
+
 coping with the death of a fellow compatriot
 ============================================
 
@@ -8402,16 +8660,6 @@ coping with the death of someone
 :: Examples
 McCoy mourned Captain Kirk after he was pulled into interspace in tos3x09 "The
 Tholian Web".
-
-
-coping with the death of a family member
-========================================
-
-:: Description
-A character must come to terms with having lost a family member.
-
-:: Parents
-coping with the death of someone
 
 
 coping with the death of a lover
@@ -9032,6 +9280,23 @@ https://en.wikipedia.org/wiki/Cryobiology
 biological stasis technology
 
 
+cryogenics in society
+=====================
+
+:: Description
+We are asked whether it is acceptable, or wise, to freeze one's self before
+death in the expectation of being revived in a possibly distant future where
+medical science is more advanced. Should society allow this practice?
+
+:: Parents
+sociotechnological issue
+
+:: References
+https://en.wikipedia.org/wiki/Cryobiology
+http://www.sf-encyclopedia.com/entry/cryogenics
+http://www.sf-encyclopedia.com/entry/cryonics
+
+
 cryptid
 =======
 
@@ -9504,6 +9769,20 @@ awards and otherwise encourage youngsters in tng7x12 "The Pegasus".
 
 :: Other Parents
 juvenile
+
+
+dealing with terrorists
+=======================
+
+:: Description
+The art of negotiating effectively with hated enemy terrorists is featured.
+
+:: Parents
+law and order issue
+
+:: Examples
+Captain Picard negotiated to free Beverly from the clutches of terrorists in
+tng3x12 "The High Ground", but ended up himself a hostage.
 
 
 death ray
@@ -10098,6 +10377,47 @@ force is featured.
 
 :: Parents
 international issue
+
+
+diplomatic compromising
+=======================
+
+:: Description
+One or both sides in the diplomatic negotiation accept less than everything
+they want in order to reach an agreement.
+
+:: Parents
+diplomacy
+
+:: Examples
+
+
+
+diplomatic maneuvering
+======================
+
+:: Description
+The various tricks and strategies used to gain the upper hand in diplomacy are
+featured.
+
+:: Parents
+diplomatic negotiating
+
+:: Examples
+
+
+
+diplomatic negotiating
+======================
+
+:: Description
+The art of negotiating effectively between sovereign factions is featured.
+
+:: Parents
+diplomacy
+
+:: Examples
+
 
 
 disapproving parent
@@ -11451,6 +11771,30 @@ Troy.
 romantic love
 
 
+epidemics in society
+====================
+
+:: Description
+Discussed is how society deals with the rapid spread of some infectious
+disease, or of such diseases in general. We may, for example, see preventive
+measures taken, or efforts to get the epidemic under control when it is at its
+apogee.
+
+:: Parents
+public health issue
+
+:: Examples
+In "Nosferatu: A Symphony of Horror" (1922), people believed that the many
+victims of the Vampire in fact died of the plague. They had heard of a plague
+outbreak in Prague and thought it had now reached the shores of England.
+
+:: References
+https://en.wikipedia.org/wiki/Epidemic
+
+:: Related Themes
+facing a pandemic
+
+
 equal career opportunities for women
 ====================================
 
@@ -12109,6 +12453,28 @@ overcome. This includes matters of survival and making a self-sacrifice.
 
 :: Parents
 human challenge in life
+
+
+facing an epidemic
+==================
+
+:: Description
+Someone tries to deal with a highly infectious disease running rampant through
+a population.
+
+:: Parents
+human vs. nature
+
+:: Examples
+A weary band of space lepers had their sights set on bringing themselves, and
+possibly their disease, to planet Haven in tng1x11 "Haven".
+
+:: References
+https://en.wikipedia.org/wiki/Epidemic
+https://en.wikipedia.org/wiki/Pandemic
+
+:: Aliases
+facing a pandemic
 
 
 facing an evil genius
@@ -12829,6 +13195,30 @@ desires.
 human worrying about self
 
 
+fear of open waters
+===================
+
+:: Description
+A character exhibits an intense and persistent fear of the sea or other large
+bodies of water that appear vast, dark, deep, and dangerous.
+
+:: Parents
+fear
+
+:: Notes
+A fear of sea travel is indicative of this phobia, although other factors
+could be behind the feeling. This theme should not be applied if a character
+simply fears sea sickness, or separation from home.
+
+:: Examples
+In "The Truman Show" (1998), Truman became paralyzed with fear when confronted
+with the idea of embarking on a boat because in his youth he had lost his
+father in a boating accident caused by a sudden storm.
+
+:: References
+https://en.wikipedia.org/wiki/Thalassophobia
+
+
 fear of strangers
 =================
 
@@ -13019,6 +13409,24 @@ friendship
 
 :: Examples
 Ro found her confidant in Guinan in tng5x03 "Ensign Ro".
+
+
+female gold digging
+===================
+
+:: Description
+A woman pursues a potential mate primarily because of his wealth and power,
+and with little concern for love.
+
+:: Parents
+female stereotype
+
+:: Examples
+In futurama4x13 "Bend Her", Bender became female (bodily and mentally) and
+then engaged to Calculon only because he was after Calculon's fortunes.
+
+:: References
+https://en.wikipedia.org/wiki/Gold_digging
 
 
 female independence
@@ -13551,6 +13959,39 @@ once speculative device
 https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle
 
 
+flying saucer
+=============
+
+:: Description
+There is a spaceship with a disc- or saucer-shaped body.
+
+:: Parents
+spaceship
+
+:: References
+https://en.wikipedia.org/wiki/Flying_saucer
+
+
+flying saucer theory of UFOs
+============================
+
+:: Description
+The theory that some unidentified flying objects are in fact spacecraft of
+extraterrestrial origin is featured.
+
+:: Parents
+crackpot theory
+
+:: Examples
+Scientists incorrectly attributed a spate of authentic flying saucers sighting
+to a variety of mundane phenomenon, including Saint Elmo's fire, in "Earth vs.
+the Flying Saucers" (1956).
+
+:: References
+https://en.wikipedia.org/wiki/Unidentified_flying_object
+http://www.sf-encyclopedia.com/entry/ufos
+
+
 food crop pandemic
 ==================
 
@@ -13738,6 +14179,26 @@ the art of war
 
 :: References
 https://en.wikipedia.org/wiki/Fortification
+
+
+fortitude
+=========
+
+:: Description
+Someone shows a capacity for putting up with hardship and pulling through in
+spite of it.
+
+:: Parents
+human character
+
+:: Notes
+This theme is applied only if the character attribute (fortitude) is more or
+less directly commented upon. It is typically not used in those run-of-the-
+mill action films where protagonists are generally determined and courageous
+but the fact is not really developed as a theme.
+
+:: Aliases
+determination
 
 
 fortune favors the bold
@@ -14006,6 +14467,25 @@ psychological stress
 :: Examples
 Dave Bailey froze up at the conn when Captain Kirk ordered him to fire the
 main phasers at a menacing space cube in tos1x02 "The Corbomite Maneuver".
+
+
+friendship
+==========
+
+:: Description
+The friendship between two characters is featured.
+
+:: Parents
+human interpersonal relationship
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Friendship
+
+:: Aliases
+friend and friend
 
 
 friendship vs. career
@@ -14800,6 +15280,23 @@ cluster, in tng6x05 "Schisms".
 https://en.wikipedia.org/wiki/Globular_cluster
 
 
+gluttony
+========
+
+:: Description
+A character indulgences in food and drink to the point of excess.
+
+:: Parents
+human character
+
+:: Examples
+Troi enjoyed her chocolate cake just a little bit too much in tng3x08 "The
+Price".
+
+:: References
+https://en.wikipedia.org/wiki/Gluttony
+
+
 godparent and godchild
 ======================
 
@@ -14818,6 +15315,20 @@ A character becomes a godfather or godmother.
 
 :: Parents
 human parenting
+
+
+going over someone's head
+=========================
+
+:: Description
+Someone takes up an issue with another person's boss or other superior rather
+than taking up the issue with the original person.
+
+:: Parents
+humans in hierarchy
+
+:: References
+https://en.wikipedia.org/wiki/Command_hierarchy
 
 
 good and evil in religion
@@ -15092,6 +15603,20 @@ https://en.wikipedia.org/wiki/Morale
 esprit de corps
 
 
+growing as a person
+===================
+
+:: Description
+A character realizes that they've learned something important that made them
+develop as a person, making them more mature and sophisticated as a result.
+
+:: Parents
+human self improvement
+
+:: Aliases
+personal development
+
+
 guardian and child
 ==================
 
@@ -15200,6 +15725,35 @@ speculative habitat
 :: Examples
 A trio of disembodied brain aliens ran a humanoid fighting ring on just such a
 planet in tos2x17 "The Gamesters of Triskellion".
+
+
+hallucination of a non-existing person
+======================================
+
+:: Description
+A character suffers from the delusion that they perceive a person that is in
+fact not there.
+
+:: Parents
+human mental condition
+
+:: Notes
+This theme is not used when the situation is explained by something other than
+a malfunction in the perceiver's brain. I.e., if they are merely tricked by
+lights and shadows, or by supernatural phenomena, it is not generally a case
+of "human mental condition" being topical.
+
+:: Examples
+In nightgallery2x22b "Little Girl Lost", Professor Putman was so distraught by
+the violent death of his daughter in a hit-and-run incident, that he began to
+imagine that she was still alive. He had conversations with the non-existing
+daughter, brushed her hair, tucked her in, etc.
+
+:: References
+https://en.wikipedia.org/wiki/Psychosis#Hallucinations
+
+:: Related Themes
+childhood imaginary friend
 
 
 hand transplant
@@ -15759,6 +16313,22 @@ itself, usually while leaving the operator safe from the resulting changes.
 spacetime manipulating technology
 
 
+hive mind utopia
+================
+
+:: Description
+There is a seemingly perfect society (from someone's point of view) based on
+everyone in it being mentally connected to everyone else in a way that forms a
+single shared consciousness.
+
+:: Parents
+technologically enabled utopia
+
+:: Examples
+In voy3x17 "Unity" a group of liberated Borg drones defend the benefits of
+living as a hive mind.
+
+
 hoarder girlfriend
 ==================
 
@@ -15863,6 +16433,22 @@ https://en.wikipedia.org/wiki/Homosexuality
 
 :: Aliases
 homosexuality
+
+
+honest character vs. deceitful character
+========================================
+
+:: Description
+A stereotypically truthful and sincere character is contrasted with a
+stereotypically mendacious and false character.
+
+:: Parents
+human characters in contrast
+
+:: Examples
+In "His Girl Friday" (1940), the blue eyed and sincere insurance salesman
+Bruce Baldwin is contrasted with his fiancée's ex-husband Walter Burns, who is
+a scrupulous, lying rogue working as news paper editor.
 
 
 honesty
@@ -16162,6 +16748,17 @@ topic in science
 https://en.wikipedia.org/wiki/Composition_of_the_human_body
 
 
+human character stereotype
+==========================
+
+:: Description
+There is a person whose character fits a recognizable, well-defined,
+stereotype to a remarkable degree.
+
+:: Parents
+human character
+
+
 human cloning
 =============
 
@@ -16332,6 +16929,29 @@ military target without causing casualties among said civilians.
 war
 
 
+human vs. Kafkaesque institution
+================================
+
+:: Description
+A character encounters a labyrinthine and overpowering bureaucracy so extreme
+that it beggars belief.
+
+:: Parents
+human vs. institution
+
+:: Examples
+Eponymous Franz Kafka describes such a bureaucracy in "The Trial" (1925),
+wherein Josef K struggles to descry what crime he has been charged with, and
+to meet the various impossible demands made on him by a remote and faceless
+judiciary.
+
+:: References
+https://en.wikipedia.org/wiki/Franz_Kafka#%22Kafkaesque%22
+
+:: Aliases
+human vs. bureaucracy
+
+
 human vs. affliction
 ====================
 
@@ -16432,6 +17052,30 @@ human vs. human
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_self
 
 
+human vs. sentient machine
+==========================
+
+:: Description
+There is a struggle between a human and a (more or less) sentient machine.
+
+:: Parents
+human vs. technology
+
+:: Notes
+There is no clear definition for what machines are to be considered sentient.
+As a rule of thumb, this theme applies if the machine takes complex actions
+with high-level motivations such as self-preservation, or vengeance. It
+certainly applies if the machine exhibits any sort of human-like personality.
+
+:: Examples
+The Enterprise-D crew members were almost overwhelmed by the autonomous
+planetary defense system of Minosian design in tng1x21 "The Arsenal of
+Freedom".
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Classification
+
+
 human vs. space anomaly
 =======================
 
@@ -16444,6 +17088,19 @@ human vs. nature
 :: Examples
 Beverly became trapped in a collapsing warp bubble universe in tng4x05
 "Remember Me".
+
+
+human vs. technology
+====================
+
+:: Description
+A conflict between a person and technology is featured.
+
+:: Parents
+survival
+
+:: References
+https://en.wikipedia.org/wiki/Man_vs._Technology
 
 
 human vs. the occult
@@ -16823,26 +17480,6 @@ literacy program at the local university.
 https://en.wikipedia.org/wiki/Literacy
 
 
-childhood imaginary friend
-==========================
-
-:: Description
-A child has a friend who is entirely a figment of their imagination.
-
-:: Parents
-human childhood
-
-:: Examples
-Clara’s imaginary friend Isabelle became real thanks to a mischievous
-incorporeal alien in tng5x22 "Imaginary Friend".
-
-:: References
-https://en.wikipedia.org/wiki/Imaginary_friend
-
-:: Other Parents
-juvenile
-
-
 immigration in society
 ======================
 
@@ -17008,12 +17645,13 @@ inaction vs. futile action
 Someone has no good options but must choose between doing nothing, or waste
 effort doing something that is most certainly pointless.
 
-:: Examples
-Captain Kirk and Commissioner Ferris debated whether to keep up the search for the Galileo shuttlecraft in tos1x13 "The Galileo Seven", even though it was almost
-certainly hopeless.
-
 :: Parents
 personal practical dilemma
+
+:: Examples
+Captain Kirk and Commissioner Ferris debated whether to keep up the search for
+the Galileo shuttlecraft in tos1x13 "The Galileo Seven", even though it was
+almost certainly hopeless.
 
 
 inattentive male partner
@@ -18110,6 +18748,26 @@ some equivalent scenario.
 human childhood
 
 
+kill all humans utopia
+======================
+
+:: Description
+Society is made perfect by the removal of its one failing component: human.
+
+:: Parents
+utopia
+
+:: Notes
+This  may not seem like a utopia since the destructions of all humans is
+usually not in the best interest of said humans. Nevertheless, in some stories
+there are individuals (sometimes human, sometimes robot) who seem to imagine a
+society bereft of humans as an idyllic one.
+
+:: Examples
+Lore and his loyal Borg minions wanted to wipe out the human scourge and make
+the universe a perfect place in tng7x01 "Descent, Part II".
+
+
 kill button
 ===========
 
@@ -18744,6 +19402,24 @@ and suchlike creatures.
 what life is like
 
 
+life in medieval Russia
+=======================
+
+:: Description
+We are shown an idea of what life might have been like in Russia during or
+around its Medieval era, ca. 980–1584.
+
+:: Parents
+history
+
+:: Examples
+In "Andrei Rublev" (1966), we followed the lives of three monks, some
+peasants, and other low birth characters around the year 1400.
+
+:: References
+https://en.wikipedia.org/wiki/History_of_Russia#Early_history
+
+
 life in the Age of Sail
 =======================
 
@@ -18773,6 +19449,24 @@ history
 
 :: References
 https://en.wikipedia.org/wiki/American_frontier
+
+
+life in the Napoleonic era
+==========================
+
+:: Description
+We are shown an idea of what life might have been like in Western Europe
+during or around the days of Napoleon Bonaparte, 1799-1815.
+
+:: Parents
+history
+
+:: Examples
+In "Barry Lyndon" (1975), we saw images of life military, aristocratic, and
+common in various places in Western Europe during the Napoleonic wars.
+
+:: References
+https://en.wikipedia.org/wiki/Napoleonic_era
 
 
 life in the corporate world
@@ -19529,6 +20223,31 @@ typically involves lab coats and crazy experiments.
 human character stereotype
 
 
+magic healing object
+====================
+
+:: Description
+There is an object which can be used to heal a person of their ailments, with
+supernatural efficacy.
+
+:: Parents
+magic object
+
+
+magic lamp with genie
+=====================
+
+:: Description
+There is an object akin to Aladdin's magic oil lamp that hosts a genie who, if
+one rubs the lamp, is obligated to grant some wishes.
+
+:: Parents
+wish-granting magic object
+
+:: References
+https://en.wikipedia.org/wiki/Aladdin
+
+
 magic object
 ============
 
@@ -19727,6 +20446,25 @@ male stereotype
 
 :: References
 https://www.ncbi.nlm.nih.gov/pubmed/9639863
+
+
+male gold digging
+=================
+
+:: Description
+A male character engages in a romantic relationship with the primary objective
+of acquiring money, and with little concern for love.
+
+:: Parents
+male stereotype
+
+:: Examples
+In talesoftheunexpected2x15 "The Orderly World of Mr Appleby", we learn that
+Mr. Appleby serially married older women for their money and then sought to
+bring about their premature demises.
+
+:: References
+https://en.wikipedia.org/wiki/Gold_digging
 
 
 male homosexuality
@@ -20217,6 +20955,23 @@ a social order where mainly men wield political power.
 contraposed political ideologies
 
 
+matricide
+=========
+
+:: Description
+A son or daughter murders their own mother.
+
+:: Parents
+murder in society
+
+:: Examples
+In "Psycho" (1960), we learn that young Norman Bates had murdered his widowed
+mother and her new fiancée out of jealousy when Mrs. Bates planned to remarry.
+
+:: References
+https://en.wikipedia.org/wiki/Matricide
+
+
 matrimonial love
 ================
 
@@ -20310,6 +21065,21 @@ An automaton that resembles a human being is featured.
 
 :: Parents
 artificial intelligence
+
+
+meddling government regulator stereotype
+========================================
+
+:: Description
+There is a pesky state official who will go to fanatical measures to ensure
+this or that government regulation is followed to the letter.
+
+:: Parents
+human character
+
+:: Examples
+The Ghostbuster's small business was obstructed by incompetent government
+regulator William Atherton in "Ghostbusters" (1984).
 
 
 medical assistance to the enemy
@@ -20729,6 +21499,21 @@ reasons, if this theme is to be used.
 In talesoftheunexpected7x13 "The Reconciliation", we learn that James'
 interest in his estranged wife was rekindled only because he came to believe
 someone else had taken her as a lover.
+
+
+mind altering technology
+========================
+
+:: Description
+A novel technology is used to alter (enhance or diminish perhaps) a person's
+mental ability. These are themes that posit technology to manipulate the human
+mind by cloning it, wiping it, moving it, controlling it, etc.
+
+:: Parents
+speculative technology
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
 
 
 mind control ability
@@ -21173,6 +21958,26 @@ organized religion
 https://en.wikipedia.org/wiki/Monasticism
 
 
+money can't buy happiness
+=========================
+
+:: Description
+This old adage is illustrated. The idea is that no amount of money or other
+external things can guarantee a person's happiness.
+
+:: Parents
+human idea about life
+
+:: Examples
+In "Citizen Kane" (1941), we see how the exceedingly rich and powerful Mr.
+Kane dies miserable without friends while reminiscing on the last time,
+perhaps, that he was truly happy: when he was eight and had a sled named
+"Rosebud".
+
+:: References
+https://en.wiktionary.org/wiki/money_can%27t_buy_happiness
+
+
 money can't buy love
 ====================
 
@@ -21350,6 +22155,24 @@ The relationship between a mother-in-law and her daughter-in-law is featured.
 
 :: Parents
 in-law relationship
+
+
+mother-in-law and son-in-law
+============================
+
+:: Description
+The interpersonal relationship between a married man and his wife's mother is
+featured.
+
+:: Parents
+in-law relationship
+
+:: Examples
+In "A Woman Under the Influence" (1974), Nick handled Mabel's hapless mother
+with remarkable ease and affection.
+
+:: References
+https://en.wikipedia.org/wiki/Parent-in-law#Mothers-in-law
 
 
 motherly disappointment in a son
@@ -21713,6 +22536,27 @@ force of nature existential risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Pandemic
+
+
+natural resource sustainability
+===============================
+
+:: Description
+The importance of managing natural resources in a manner that safeguards their
+availability to future generations is explored.
+
+:: Parents
+environmental issue
+
+:: Examples
+Mark the merman wondered aloud about what humans would do once they used up
+all the raw materials that could be obtained from mining the sea floor in "Man
+from Atlantis IV: The Disappearances" (1977). The feasibility of undersea
+mining was being researched on account that humans were quickly using up all
+the materials on the surface.
+
+:: References
+https://en.wikipedia.org/wiki/Sustainability
 
 
 nature conservationism
@@ -23618,6 +24462,20 @@ Old Mose Harper in "The Searchers" (1956), required no further inducement to
 risk his very life, than the promise of a rocking chair at Jorgensen's ranch.
 
 
+passion for spectator sports
+============================
+
+:: Description
+A character is an enthusiastic fan of a sport (but not typically a player
+themself).
+
+:: Parents
+human pleasure
+
+:: References
+https://en.wikipedia.org/wiki/Spectator_sport
+
+
 passion for teaching
 ====================
 
@@ -23801,6 +24659,17 @@ stopping the violence.
 diplomacy
 
 
+peaceful telepathic utopia
+==========================
+
+:: Description
+Society is peaceful and amicable because people can hear each others' thoughts
+and have learned to control their anti-social instincts.
+
+:: Parents
+utopia based on a view of human nature
+
+
 pecking order
 =============
 
@@ -23919,6 +24788,29 @@ public health issue
 
 :: References
 https://en.wikipedia.org/wiki/Escapism
+
+
+people forced to be average dystopia
+====================================
+
+:: Description
+There is a dystopian society in which people who are exceptional, in one way
+or another, are censored. They may for example be killed, or have some form of
+handicap imposed on them.
+
+:: Parents
+dystopia
+
+:: Examples
+In tz1985e1x06a "Examination Day", a 12 year old boy was lawfully disposed of
+after he failed his intelligence test with an above acceptable performance.
+His dimwitted parents were, naturally, distraught.
+
+:: References
+https://en.wikipedia.org/wiki/Law_of_Jante
+
+:: Aliases
+Scandinavian Jante dystopia
 
 
 people may not always live up to their reputations
@@ -25271,6 +26163,20 @@ prices.
 
 :: References
 https://www.investopedia.com/terms/p/price_rigging.asp
+
+
+pride
+=====
+
+:: Description
+A person expresses pride in something they have done or some aspect of who
+they are.
+
+:: Parents
+human character
+
+:: References
+https://en.wikipedia.org/wiki/Pride
 
 
 pride in one's own creation
@@ -27018,6 +27924,25 @@ sociocultural issue
 https://en.wikipedia.org/wiki/Rumor_spread_in_social_network
 
 
+running away from home
+======================
+
+:: Description
+A young character leaves their legal guardians, perhaps parents, without
+permission and with the intention of never returning.
+
+:: Parents
+human childhood
+
+:: Examples
+In "The 400 Blows" (1959), Antoine thought he could no longer live with his
+unloving parents so left them with the intention of making his own way in the
+world.
+
+:: References
+https://en.wikipedia.org/wiki/Runaway_(dependent)
+
+
 rural character vs. urban character
 ===================================
 
@@ -28185,6 +29110,28 @@ alien or a being shaped like a brain.
 speculative being
 
 
+shapeshifter
+============
+
+:: Description
+There is a corporeal being that can radically change its shape to such an
+extent that it seems to become something entirely different.
+
+:: Parents
+shape distinguished being
+
+:: Notes
+This theme applies only if the ability is, more or less, intrinsic to the
+being's species. I.e., it does not apply if technology is used. Nor does it
+typically apply to "transcendental beings" (beings who are so advanced that
+their capabilities seem like magic to us), or incorporeal beings, unless an
+innate shapeshifting ability is explicitly explained as such.
+
+:: References
+https://en.wikipedia.org/wiki/Shapeshifting
+http://www.sf-encyclopedia.com/entry/shapeshifters
+
+
 short and sweet life vs. long and miserable life
 ================================================
 
@@ -28407,6 +29354,28 @@ small or very large.
 
 :: Parents
 speculative being
+
+
+skipping school
+===============
+
+:: Description
+A young character plays truant from compulsory education.
+
+:: Parents
+human childhood
+
+:: Examples
+In "The 400 Blows" (1959), Antoine got into much trouble with his teacher and
+parents after he played truant together with a friend and then forged a note
+from his mother.
+
+:: References
+https://en.wikipedia.org/wiki/Truancy
+
+:: Aliases
+playing hooky,
+skipping class,
 
 
 slavery
@@ -28720,6 +29689,37 @@ the Internet in society
 
 :: References
 https://en.wikipedia.org/wiki/Social_media
+
+
+social oppression
+=================
+
+:: Description
+Social oppression is when a single group in society takes advantage of, and
+exercises power over, another group using dominance and subordination. This
+theme is used whenever such a situation is featured in the story.
+
+:: Parents
+political issue
+
+:: References
+https://en.wikipedia.org/wiki/Oppression
+
+
+social responsibility
+=====================
+
+:: Description
+A character displays a notable sense of responsibility towards society at
+large. Typically, this theme applies when someone goes out of their way to do
+a selfless thing that benefits everyone, for example cleaning up garbage on
+the street.
+
+:: Parents
+human character
+
+:: References
+https://en.wikipedia.org/wiki/Social_responsibility
 
 
 social stagnation
@@ -29158,6 +30158,23 @@ flagella, is featured.
 
 :: Parents
 spaceborne being
+
+
+space refugee beings
+====================
+
+:: Description
+There is a whole race itinerant homeless beings that travel space because they
+lost their home planet in war, to a natural disaster, or the like.
+
+:: Parents
+culturally distinguished being
+
+:: Examples
+A ship of Tarellians was shunned and feared by all because they were carriers
+of an infectious plague in tng1x11 "Haven". The Tarellian people remnants had
+to travel space because they were hunted down and destroyed by those who
+feared the plague Tarellians carried.
 
 
 space station
@@ -29903,16 +30920,18 @@ stepmother and stepdaughter
 ===========================
 
 :: Description
-The sometimes contentious relationship between a non-biological mother figure and a female child under her protection is featured.
+The sometimes contentious relationship between a non-biological mother figure
+and a female child under her protection is featured.
 
 :: Parents
 human familial relationship
 
+:: Examples
+Margaret Griffith tried to knock off her heiress stepdaughter Julie and
+inherit her fortune in "The Incredible Hulk: Death in the Family" (1977).
+
 :: References
 https://en.wikipedia.org/wiki/Stepmother
-
-:: Examples
-Margaret Griffith tried to knock off her heiress stepdaughter Julie and inherit her fortune in "The Incredible Hulk: Death in the Family" (1977).
 
 
 stepping up to the task
@@ -29956,6 +30975,22 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Strike_action
+
+
+struggling with a life-changing decision
+========================================
+
+:: Description
+A character copes with the stress and pressure that comes with making a life-
+changing decision.
+
+:: Parents
+human life choice
+
+:: Examples
+Wesley struggled with whether or not to quit Starfleet Academy to go
+galavanting around the galaxy with his friend the Traveler in tng7x20
+"Journey's End".
 
 
 stubbornness
@@ -30645,6 +31680,17 @@ to engaging in self-deception.
 self-control
 
 
+taking the law into one's own hands
+===================================
+
+:: Description
+A character can’t wait for law-enforcement and instead takes matters into
+their own hand by, e.g., tracking down and killing criminals.
+
+:: Parents
+personal ethical dilemma
+
+
 talking someone out of suicide
 ==============================
 
@@ -31003,6 +32049,62 @@ history
 https://en.wikipedia.org/wiki/American_Revolution
 
 
+the Ancient Egyptian stereotype
+===============================
+
+:: Description
+A stereotypical Ancient Egyptian character is featured. This may involve
+people with dog's heads, cracking whips, slave labor, a fetish for oversized
+pyramids and depthless portraiture.
+
+:: Parents
+human character stereotype
+
+:: Examples
+The D’Arsay shared some remarkable similarities with the ancient Egyptians in
+tng7x17 "Masks".
+
+:: References
+https://en.wikipedia.org/wiki/Ancient_Egypt
+
+
+the Ancient Greek stereotype
+============================
+
+:: Description
+A stereotypical Ancient Greek character is featured. This typically involves
+togas, laurel wreaths, and lengthy philosophical discourses.
+
+:: Parents
+human character stereotype
+
+:: Examples
+The Platonians of tos3x12 "Plato's Stepchildren" cavorted with the Greeks of
+old in ancient times.
+
+References https://en.wikipedia.org/wiki/Ancient_Greece
+https://en.wikipedia.org/wiki/Greco-Roman_world
+
+
+the Ancient Roman stereotype
+============================
+
+:: Description
+A stereotypical Ancient Roman character is featured. This typically involves
+togas, feasting, and imperialistic conquest.
+
+:: Parents
+human character stereotype
+
+:: Examples
+The natives of planet 892-IV were just like the ancient Romans would have been
+if they had had 20th century technology in tos2x14 "Bread and Circuses".
+
+:: References
+https://en.wikipedia.org/wiki/Ancient_Greece
+https://en.wikipedia.org/wiki/Greco-Roman_world
+
+
 the Aztec gods
 ==============
 
@@ -31085,6 +32187,20 @@ https://en.wikipedia.org/wiki/Cold_War
 http://www.sf-encyclopedia.com/entry/cold_war
 
 
+the Devil
+=========
+
+:: Description
+A being of pure evil that is posited by some religions, i.e., the antithesis
+of the Christian God.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Devil
+
+
 the Egyptian gods
 =================
 
@@ -31100,6 +32216,22 @@ just like that of ancient Egypt in tng7x17 "Masks".
 
 :: References
 https://en.wikipedia.org/wiki/Ancient_Egyptian_deities
+
+
+the Enigma cipher machine
+=========================
+
+:: Description
+A series of electro-mechanical rotor cipher machines developed and used in the
+early- to mid-20th century to protect commercial, diplomatic and military
+communication. The system was famously used by Germany during WW2 and cracked
+by Alan Turing and others, with resounding military implications.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Enigma_machine
 
 
 the French Resistance
@@ -31181,6 +32313,42 @@ https://en.wikipedia.org/wiki/Internet
 http://www.sf-encyclopedia.com/entry/internet
 
 
+the Irish stereotype
+====================
+
+:: Description
+A stereotypical Irish character is featured. This typically involves heavy
+drinking, lots of green, and whimsical, singsongy accents.
+
+:: Parents
+human character stereotype
+
+:: Examples
+The Enterprise-D transported a group of technophobic space-colonists of Irish
+descent, the Bringloidi, in tng2x18 "Up The Long Ladder".
+
+:: References
+https://en.wikipedia.org/wiki/Culture_of_Ireland
+
+
+the Jewish stereotype
+=====================
+
+:: Description
+A stereotypical Jewish character is featured in what is a sometimes prejudiced
+and antisemitic nature.
+
+:: Parents
+human character stereotype
+
+:: Examples
+The Zeons were persecuted by Ekosians dressed in full Nazi regalia in tos2x23
+"Patterns of Force".
+
+:: References
+https://en.wikipedia.org/wiki/Stereotypes_of_Jews
+
+
 the Mayan gods
 ==============
 
@@ -31232,6 +32400,25 @@ organized religion
 https://en.wikipedia.org/wiki/Sumerian_religion
 
 
+the Native American stereotype
+==============================
+
+:: Description
+There is a stereotypical depiction of a Native American, i.e. with feather
+headgear, tomahawks, peace pipes, etc.
+
+:: Parents
+human character stereotype
+
+:: Examples
+On the planet Amerind there were people who were just like a 20th century
+stereotype of pre-colonial Native Americans in tos3x03 "The Paradise
+Syndrome".
+
+:: References
+https://en.wikipedia.org/wiki/Hollywood_Indian
+
+
 the Nazi stereotype
 ===================
 
@@ -31243,13 +32430,28 @@ leader, glorification of violence, sadism, etc.
 :: Parents
 human character stereotype
 
+:: Examples
+
+
 :: References
 https://en.wikipedia.org/wiki/Nazism
 
+
+the Norse gods
+==============
+
+:: Description
+The gods of Ancient Norse mythology are featured.
+
+:: Parents
+organized religion
+
 :: Examples
-:: Examples
-The Ekosians had all the attributes and trappings of Nazis down to the
-persecuting of a people called the Zeons in tos2x23 "Patterns of Force".
+Donald Blake could summon the Norse god Thor at will by using a magical hammer
+in "The Incredible Hulk Returns" (1988).
+
+:: References
+https://en.wikipedia.org/wiki/Norse_mythology
 
 
 the October Revolution
@@ -31282,6 +32484,41 @@ these gods were also worshiped by the Space Romans of planet 892-IV in tos2x14
 
 :: References
 https://en.wikipedia.org/wiki/List_of_Roman_deities
+
+
+the Salem witch trials
+======================
+
+:: Description
+The Salem witch trials were a series of hearings and prosecutions of people
+accused of witchcraft in colonial Massachusetts between February 1692 and May
+1693. This theme is used whenever this event is featured in the story.
+
+:: Parents
+history
+
+:: Notes
+For the intents and purposes of thematic annotation we shall assume that any
+witch trials referenced as taking place in colonial Massachusetts, in fact the
+Salem Witch trials, unless otherwise is said explicitly.
+
+
+the Scottish stereotype
+=======================
+
+:: Description
+A stereotypical Scottish character is featured. This typically involves kilts,
+haggis, and bagpipes.
+
+:: Parents
+human character stereotype
+
+:: Examples
+Beverly Crusher attended her grandmother's funeral on a planet colonized by
+Scottish admirers in tng7x14 "Sub Rosa".
+
+:: References
+https://en.wikipedia.org/wiki/Culture_of_Scotland
 
 
 the Star Trek franchise
@@ -31322,9 +32559,9 @@ the Vietnam War
 ===============
 
 :: Description
-The historical event known as the Vietnam War is featured. 
-The Vietnam War was conflict in Vietnam, Laos, and Cambodia that lasted from
-November 1955 to the fall of Saigon on 30 April 1975.
+The historical event known as the Vietnam War is featured. The Vietnam War was
+conflict in Vietnam, Laos, and Cambodia that lasted from November 1955 to the
+fall of Saigon on 30 April 1975.
 
 :: Parents
 history
@@ -31643,6 +32880,21 @@ law and order issue
 https://en.wikipedia.org/wiki/Circumstantial_evidence
 
 
+the dangers of radioactivity
+============================
+
+:: Description
+The adverse health effects of exposure to radiation are featured.
+
+:: Parents
+environmental issue
+
+:: Examples
+Little Willie Harding passed away from radiation poisoning after having been
+exposed to a natural source of radioactivity on the Scottish mores in "X the
+Unknown" (1956).
+
+
 the dangers of sending information out into space
 =================================================
 
@@ -31894,20 +33146,6 @@ favor, that they feel they own to someone else.
 
 :: Parents
 human character
-
-
-the Devil
-=========
-
-:: Description
-A being of pure evil that is posited by some religions, i.e., the antithesis
-of the Christian God.
-
-:: Parents
-organized religion
-
-:: References
-https://en.wikipedia.org/wiki/Devil
 
 
 the devil was really an alien
@@ -32182,6 +33420,25 @@ A time traveler was surprised to find that the human race had diverged into
 two distinct species by the year 802,701 in "The Time Machine" (1960).
 
 
+the gangster stereotype
+=======================
+
+:: Description
+A stereotypical mobster character is featured. This typically involves Tommy
+guns, fedoras, and Italian accents.
+
+:: Parents
+human character stereotype
+
+:: Examples
+The imitable natives of Sigma Iotia II had gotten hold of a 20th century Earth
+book about Chicago Mobs and promptly became stereotypical gangsters in tos2x20
+"A Piece of the Action".
+
+:: References
+https://en.wikipedia.org/wiki/Gangster
+
+
 the genius was really a time traveler
 =====================================
 
@@ -32270,6 +33527,26 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/History_of_the_hippie_movement
+
+
+the hippie stereotype
+=====================
+
+:: Description
+A stereotypical member of the counterculture of the 1960s is featured. This
+typically involves tie dye shirts, psychedelic drugs, and a "make love not
+war" philosophy of life.
+
+:: Parents
+human character stereotype
+
+:: Examples
+Dr. Severin and his loyal disciples displayed all the ideologies and
+mannerisms of hippies and scolded Captain Kirk for being a rigid narrow-minded
+"Herbert" in tos3x20 "The Way to Eden".
+
+:: References
+https://en.wikipedia.org/wiki/Hippie
 
 
 the historical figure was really an alien
@@ -33368,6 +34645,26 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Neuromorality
+
+
+the pirate stereotype
+=====================
+
+:: Description
+A stereotypical pirate is featured. This typically involves the flying of
+skull and crossbones flags, the wearing of eye patches, plundering, and lots
+of "hardy har har" talk.
+
+:: Parents
+human character stereotype
+
+:: Examples
+Orion space pirates hijacked a Federation cargo freighter in tas2x01 "The
+Pirates of Orion". Contrary to popular belief they did not appear to wield
+space cutlasses.
+
+:: References
+https://en.wikipedia.org/wiki/Pirates_in_popular_culture
 
 
 the placebo effect
@@ -35071,6 +36368,24 @@ their intentions are above reproach.
 personal practical dilemma
 
 
+truth inducing technology
+=========================
+
+:: Description
+There is technology, perhaps a serum or other kind of drug, by which people
+can be made to speak the truth and nothing but the truth, to some extent or
+another.
+
+:: Parents
+mind altering technology
+
+:: References
+https://en.wikipedia.org/wiki/Truth_serum
+
+:: Aliases
+truth serum
+
+
 turn the other cheek
 ====================
 
@@ -35170,6 +36485,17 @@ The Enterprise-D got stuck in a plane of two-dimensional beings in tng4x10
 :: References
 http://tvtropes.org/pmwiki/pmwiki.php/Main/TwoDSpace
 http://www.sf-encyclopedia.com/entry/dimensions
+
+
+tyranny vs. freedom
+===================
+
+:: Description
+A society in which a tyrant rules with absolute authority is contrasted with
+one that is organised around some flavour of liberal democratic principles.
+
+:: Parents
+contraposed political ideologies
 
 
 ultra-rational being
@@ -35640,6 +36966,27 @@ and used vandalism to voice their displeasure in tos3x19 "The Cloud Minders".
 
 :: References
 https://en.wikipedia.org/wiki/Vandalism
+
+
+vanity
+======
+
+:: Description
+A character exhibits excessive admiration of their own appearance or
+achievements.
+
+:: Parents
+human character
+
+:: Examples
+Mudd's women took the "Venus drug" in order to maintain youthful appearances
+in the eponymous episode tos1x03 "Mudd's Women".
+
+:: References
+https://en.wikipedia.org/wiki/Vanity
+
+:: Aliases
+narcissism
 
 
 vegetarianism
@@ -36470,6 +37817,22 @@ crash landed on the Ewok homeworldl in "Caravan of Courage: An Ewok Adventure"
 (1984).
 
 
+what if I became telepathically linked with someone else
+========================================================
+
+:: Description
+We are made to imagine what it'd be like to become mentally linked with
+someone in such a way that we could talk to them telepathically or even share
+sensory experiences directly (i.e., see through their eyes).
+
+:: Parents
+extraordinary experience
+
+:: Notes
+This theme is not used, e.g., for when there is an alien race of beings that
+are innately linked in a hive mind or the like.
+
+
 what if I could be young again
 ==============================
 
@@ -36538,6 +37901,18 @@ what if I could fly
 
 :: Description
 We imagined what it would be like to be able to fly under one's own power.
+
+:: Parents
+what if I had an extraordinary ability
+
+
+what if I could freeze time
+===========================
+
+:: Description
+We are made to imagine what it would be like to have the ability to freeze
+time somehow. Typically the person with the ability can still move, breathe,
+and even interact with otherwise frozen objects and persons.
 
 :: Parents
 what if I had an extraordinary ability
@@ -36688,6 +38063,24 @@ In talesoftheunexpected4x07 "The Sound Machine", botanist Klausner invented a
 machine that translates the high frequency waves plants (supposedly) make into
 human audible sound, and found that they scream in recognizable anguish when
 assaulted.
+
+
+what if I could trade in a family member for someone else
+=========================================================
+
+:: Description
+We imagine what it'd be like if we had the option of changing one pesky family
+member or another for a more agreeable person.
+
+:: Parents
+what if my life were different
+
+:: Examples
+In tz1985e1x03b "Children's Zoo", four year old Debby was fed up with her
+parents' incessant fighting and yelling. She therefore took them to a special
+"zoo" where they were put in a display cell to work out their differences over
+the years to come, while Debby herself selected a pair of parents who seemed
+to have learned their lesson already.
 
 
 what if I could travel around inside a human body
@@ -37109,12 +38502,12 @@ laying our hands on them.
 :: Parents
 what if I had an extraordinary ability
 
+:: Examples
+E.T. healed Elliot's finger after Elliot cut it on a saw blade in "E.T. the
+Extra-Terrestrial" (1984).
+
 :: References
 https://en.wikipedia.org/wiki/Faith_healing
-
-:: Examples
-E.T. healed Elliot's finger after Elliot cut it on a saw blade in 
-"E.T. the Extra-Terrestrial" (1984).
 
 
 what if I had only one day to live
@@ -37646,6 +39039,16 @@ what if I were in a tight spot
 :: Examples
 Riker was cleared of killing Nel Apgar in a dramatic holo-hearing in tng3x14
 "A Matter of Perspective".
+
+
+what if I was at the mercy of a mad person
+==========================================
+
+:: Description
+A character is held captive by a mad man and is at their mercy.
+
+:: Parents
+what if I were in a tight spot
 
 
 what if I was brought back to life long after my death
@@ -38189,6 +39592,22 @@ their life.
 what if I were in a tight spot
 
 
+what if a loved one became possessed by a malevolent entity
+===========================================================
+
+:: Description
+We imagine what it would be like if a loved one suddenly became possessed by a
+demon or some other malevolent entity and started doing evil demon things,
+like hitting us.
+
+:: Parents
+what if someone around me changed
+
+:: Examples
+Keiko O'Brien's husband Miles became possessed by a malevolent, disembodied
+prisoner alien in tng5x15 "Power Play".
+
+
 what if an aspect of my personality was slightly different
 ==========================================================
 
@@ -38256,6 +39675,31 @@ In tos1x06 "The Naked Time" everyone got intoxicated on polywater and did
 whatever they wanted. The Enterprise would have spiraled into the atmosphere
 of Psi 2000 were it not for the Captain Kirk’s willpower and Dr. McCoy’s
 ingenuity.
+
+
+what if everyone suddenly started to communicate differently
+============================================================
+
+:: Description
+We imagine what it would be like to find that everyone changed how they
+communicate, i.e., it'd be like everyone suddenly spoke a foreign language.
+
+:: Parents
+what if the people around me changed
+
+:: Notes
+Normally, one may reasonably think, it is not everyone else that have changed
+but a single observer's brain that has. This theme applies if the vantage
+point of such an observer is featured.
+
+:: Examples
+In tz1985e1x02a "Wordplay", Bill found that he could no longer understand
+anyone else because they seemed to use the wrong words for the things they
+were talking about. In the end he had to re-learn English.
+
+In the Bible story of the "Tower of Babel", Genesis 11:1-9, God made people
+speak different languages as a punishment for their audacious contrivance to
+reach the heavens by erecting an enormous tower.
 
 
 what if everyone suddenly turned stupid
@@ -38333,22 +39777,6 @@ A character suddenly finds that their lover has lost all memories of them.
 
 :: Parents
 what if someone around me changed
-
-
-what if a loved one became possessed by a malevolent entity
-===========================================================
-
-:: Description
-We imagine what it would be like if a loved one suddenly became possessed by a
-demon or some other malevolent entity and started doing evil demon things,
-like hitting us.
-
-:: Parents
-what if someone around me changed
-
-:: Examples
-Keiko O'Brien's husband Miles became possessed by a malevolent, disembodied
-prisoner alien in tng5x15 "Power Play".
 
 
 what if my partner switched gender
@@ -38767,6 +40195,17 @@ what life is like
 https://en.wikipedia.org/wiki/Boarding_school
 
 
+what it is like in high school
+==============================
+
+:: Description
+We are shown an idea of what things might be like for people (both student and
+staff) in a high school, or comparable institution.
+
+:: Parents
+what life is like
+
+
 what it is like in prison
 =========================
 
@@ -38817,6 +40256,18 @@ what it is like on a battlefield
 
 :: Description
 The experiences a ground soldier may face on a field of battle are featured.
+
+:: Parents
+what life is like
+
+
+what it is like to be a loser
+=============================
+
+:: Description
+There is a stereotypical loser-like character with attributes like a dead-end
+job, no useful education, poor social relations etc. We are made to reflect on
+what that must be like.
 
 :: Parents
 what life is like
@@ -39124,6 +40575,25 @@ https://en.wikipedia.org/wiki/Witchcraft
 
 :: Related Themes
 old woman as a witch stereotype
+
+
+wish-granting magic object
+==========================
+
+:: Description
+There is a fantastical object which can be used in order to get one or more
+wishes granted.
+
+:: Parents
+magic object
+
+:: Notes
+Classically, a genie may appear from such an object to grant its summoner
+three wishes that may end up having unpleasant side effects if the wording is
+not made with the utmost care.
+
+:: References
+https://en.wikipedia.org/wiki/Aladdin
 
 
 witch hunt
