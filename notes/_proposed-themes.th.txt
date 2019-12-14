@@ -79,10 +79,18 @@ A libertarian space colony lived in an O'Neil cylinder in "Libra" (1978).
 
 
 
+
 killing in self-defense
 =======================
 
 :: Description
+A character must choose whether to kill another person in order to save 
+their own hide.
+
+:: Examples
+In tng3x03 "The Survivors", we heard that the immensely powerful alien being 
+Kevin refused to kill even the murderous Husnock when they arrived to eradicate Kevin,
+Kevin's family, friends and entire community.
 
 :: Parents
 compromising one's ethical principles vs. great need
@@ -95,6 +103,8 @@ shadow monster
 ==============
 
 :: Description
+There is a monster, possibly human-like, perceivable mostly as 
+patches of shadow. 
 
 :: Parents
 monster
@@ -102,29 +112,47 @@ monster
 :: References
 https://en.wikipedia.org/wiki/Shadow_person
 
+:: Aliases
+shadow person
+
 
 what if I had a secret guardian
 ===============================
 
 :: Description
+We imagine what it would be like to have a powerful secret guardian that
+intervenes as and when required to protect us from any harm.
+
+:: Examples
+In tz1985e1x10a	"The Shadow Man", a mysterious shadowy person lived under
+Danny's bed and appeared from nowhere to chase down bullies that dared prey
+on Danny.
 
 :: Parents
 extraordinary experience
 
-civic pride
-===========
+:: References
+https://en.wikipedia.org/wiki/Guardian_angel
 
-:: Description
-Someone is patriotic about their town.
-
-:: Parents
-human way of life
+:: Aliases
+guardian angel
 
 
 friendship vs. personal gain
 ============================
 
 :: Description
+A character faces the starch choice between maintaining a friendship on one hand,
+and doing something that is personally profitable on the other.
+
+:: Notes
+Personal gain and profit in this context may be about power, prestige, or any other
+think that a character happens to desire, not limited to wealth.
+
+:: Examples
+In tz1985e1x08a "Act Break", Maury turned his back on his recently expired friend 
+and partner when, instead of bringing the friend back, Maury used his one wish in
+an attempt to grant himself literary fame.
 
 :: Parents
 personal ethical dilemma
@@ -134,6 +162,12 @@ life in 20th century America
 ============================
 
 :: Description
+We are shown an idea of what ordinary life might have been for some category
+of people in and around USA, years 1900 to 1999.
+
+:: Examples
+In "Do the Right Thing" (1989), we saw everyday life for a motley collection of mostly
+poor people in the borough of Brooklyn, New York City.
 
 :: Parents
 personal ethical dilemma
@@ -143,6 +177,13 @@ superstition in society
 =======================
 
 :: Description
+Discussed is how superstitious beliefs can permeate and shape everyday society.
+
+:: Examples
+In tz1985e1x11a "The Beacon", we saw a community of backwards people that for 
+hundreds of years had shut themselves away from civilization and progress in 
+order to practice human sacrifice and appease a perceived ghost they thought 
+inhabited the lighthouse.
 
 :: Parents
 sociocultural issue
@@ -152,10 +193,31 @@ what if I met myself from a different time
 ==========================================
 
 :: Description
+We imagine what it would be like to encounter our own self from an earlier
+or later time of our life.
+
+:: Examples
+In tz1985e1x11b "One Life, Furnished in Early Poverty", Gus was somehow 
+transported back the to 1940s where he became a confidant of his childhood
+self in order to persuade him to choose a different path in life. Alas, instead 
+he became the very progenitor of the problems he sought to remedy.
 
 :: Parents
 what if I met an extraordinary person
 
+
+
+
+
+
+civic pride
+===========
+
+:: Description
+Someone is patriotic about their local community.
+
+:: Parents
+human way of life
 
 
 
