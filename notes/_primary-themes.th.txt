@@ -11,6 +11,9 @@ artificial intelligence
 :: References
 https://en.wikipedia.org/wiki/Virtual_assistant
 
+:: Aliases
+virtual assistant
+
 
 AI companion
 ============
@@ -313,6 +316,9 @@ topic in technology
 
 :: References
 https://en.wikipedia.org/wiki/Genetic_testing
+
+:: Aliases
+genetic testing
 
 
 Dungeons and Dragons
@@ -3970,6 +3976,9 @@ spaceship, biological technology
 
 :: References
 https://en.wikipedia.org/wiki/Bioship
+
+:: Aliases
+bioship
 
 
 biological technology
@@ -7835,17 +7844,6 @@ extended period of time.
 
 :: Parents
 human interpersonal relationship
-
-
-coping with being suspected of something
-========================================
-
-:: Description
-A character struggles with the feelings and social complications that can come
-with being suspected of a misdemeanor even without firm evidence.
-
-:: Parents
-human social position
 
 
 coping with being tortured
@@ -12702,6 +12700,9 @@ Someone must deal with being falsely accused of a misdeed.
 :: Parents
 human social position
 
+:: Aliases
+coping with being suspected of something
+
 
 factions joining forces against a common enemy
 ==============================================
@@ -15229,6 +15230,9 @@ human parenting
 :: References
 https://en.wikipedia.org/wiki/Childbirth
 
+:: Aliases
+childbirth
+
 
 global unification under a central authority
 ============================================
@@ -17574,18 +17578,6 @@ what their victim may have felt.
 
 :: Parents
 memory implantation technology
-
-
-implosion vs. explosion
-=======================
-
-:: Description
-The distinction between an implosion (matter being violently sucked in towards
-a point) and an explosion (matter being violently pushed out and away from a
-point) is described.
-
-:: Parents
-topic in science
 
 
 imprisonment as a punishment
@@ -34453,8 +34445,8 @@ voices out.
 https://en.wikipedia.org/wiki/Privacy
 
 
-the need for procreation
-========================
+the desire to have children
+===========================
 
 :: Description
 That humans typically need to reproduce and sire offspring in order to feel
@@ -34465,6 +34457,9 @@ human physiological need
 
 :: References
 https://en.wikipedia.org/wiki/Reproduction
+
+:: Aliases
+the need for procreation
 
 
 the need for rest and recreation
