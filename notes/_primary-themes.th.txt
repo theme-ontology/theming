@@ -21995,6 +21995,9 @@ Someone exhibits a fear of being alone.
 :: Parents
 human phobia
 
+:: Aliases
+autophobia
+
 :: Examples
 Aquiel Uhnari did not much like being all alone on Relay Station 47 in tng6x13
 "Aquiel".
@@ -22222,6 +22225,9 @@ view to let the crew procreate and live out their lives on-board.
 
 :: Parents
 spaceship
+
+:: Aliases
+generation ship
 
 :: References
 https://en.wikipedia.org/wiki/Generation_ship
@@ -22670,7 +22676,7 @@ The relationship between two people who live next to each other is featured.
 human interpersonal relationship
 
 
-neo-luddist utopia
+neo-Luddist utopia
 ==================
 
 :: Description
@@ -22681,7 +22687,10 @@ evil has been made away with: machinery.
 technology-free utopia
 
 :: Aliases
-hippie commune utopia,
+hippie commune utopia
+
+:: References
+https://en.wikipedia.org/wiki/Neo-Luddism
 
 
 nepotism
@@ -22824,8 +22833,8 @@ https://en.wikipedia.org/wiki/Non-Euclidean_geometry
 mathematics, physics
 
 
-nonlinear systems
-=================
+nonlinear system
+================
 
 :: Description
 A comparatively complex system in which the output is not directly
@@ -24832,7 +24841,7 @@ prosthetic device
 https://en.wikipedia.org/wiki/Prosthesis https://en.wikipedia.org/wiki/Neuroprosthetics
 
 
-performance enhancing drugs
+performance-enhancing drugs
 ===========================
 
 :: Description
