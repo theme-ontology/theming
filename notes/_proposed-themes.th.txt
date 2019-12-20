@@ -312,48 +312,74 @@ its board rooms.
 dystopia
 
 
-Jedi powers
-===========
-
-:: Description
-
-:: Parents
-supernatural ability
-
-
 poverty in society
 ==================
 
 :: Description
+Social issues relating to there being large numbers of poor people in
+a society are explored.
 
 :: Notes
+This theme is typically used in relation to absolute poverty, i.e.,
+when the poor have trouble providing for their most basic needs such
+as food, clothing, sanitation, and shelter.
 
 :: Parents
 socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Poverty
+
+:: Examples
+In "Red Beard" (1965), we saw vividly how society treated the poor in 
+19th century Japan.
 
 
 Santa Claus
 ===========
 
 :: Description
+This legendary figure from relatively modern Western culture
+is present or otherwise topical.
 
 :: Parents
 legendary being
+
+:: References
+https://en.wikipedia.org/wiki/Santa_Claus
+
+:: Examples
+In tz1985e1x13a "Night of the Meek", Henry's seemed to metamorphose into 
+Santa Claus himself.
 
 
 generous character vs. mean character
 =====================================
 
 :: Description
+A notably munificent and kind character is contrasted with a notably 
+miserly and unkind character.
 
 :: Parents
 human characters in contrast
+
+:: Examples
+In tz1985e1x13a "Night of the Meek", Henry's lavish doling out of
+Christmas presents was nearly thwarted by the surly and mean Mr. Dundee.
 
 
 magic bag
 =========
 
 :: Description
+There is a bag from which one can procure far more items, possibly an 
+unlimited number, than the bag by its external appearance could possibly
+hold.
+
+:: Examples
+In tz1985e1x13a "Night of the Meek", Henry suddenly found that his garbage 
+bag was filled with Christmas presents and continued to be so however many
+were removed, near enough.
 
 :: Parents
 magic object
@@ -363,6 +389,15 @@ the problem of evil
 ===================
 
 :: Description
+Discussed is the ancient problem of how to reconcile the existence of 
+evil with the existence of an omnipotent, omnibenevolent, and omniscient God.
+
+:: Examples
+"The Epicurian paradox" famously goes as follows:
+Is God willing to prevent evil, but not able? Then he is not omnipotent.
+Is he able, but not willing? Then he is malevolent.
+Is he both able and willing? Then whence cometh evil?
+Is he neither able nor willing? Then why call him God?
 
 :: Parents
 organized religion
@@ -370,11 +405,18 @@ organized religion
 :: Aliases
 whence cometh evil
 
+:: References
+https://en.wikipedia.org/wiki/Problem_of_evil
+
+
+
 
 sports
 ======
 
 :: Description
+A competitive physical activity or game of the kind to which we have given 
+specific names and call "sports", is featured.
 
 :: Parents
 the pursuit of knowledge
@@ -384,5 +426,22 @@ https://en.wikipedia.org/wiki/Sport
 
 :: Examples
 Goldine's adoptive father injected her with growth hormones from childhood and carefully managed her life to ensure she would win three races at the 1980 Summer Olympics in Moscow in "Goldengirl" (1979).
+
+
+Jedi powers
+===========
+
+:: Description
+
+:: Notes
+Although Jedi is a concept specific to George Lukas' Star wars
+universe, we consider that the idea of Jedi powers has made it into
+popular culture to ..
+
+:: References
+https://en.wikipedia.org/wiki/The_Force
+
+:: Parents
+supernatural ability
 
 
