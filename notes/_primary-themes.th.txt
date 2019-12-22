@@ -819,36 +819,22 @@ history
 https://en.wikipedia.org/wiki/Roswell_UFO_incident
 
 
-search for extraterrestrial intelligence
-========================================
+Santa Claus
+===========
 
 :: Description
-A contemporary scientific endeavor to search for extraterrestrial
-intelligence, primarily by employing powerful telescopes of different kinds
-and analyzing the received signals.
+This legendary figure from relatively modern Western culture is present or
+otherwise topical.
 
 :: Parents
-topic in science
+legendary being
+
+:: Examples
+In tz1985e1x13a "Night of the Meek", Henry seemed to metamorphose into Santa
+Claus himself.
 
 :: References
-https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
-http://www.sf-encyclopedia.com/entry/seti
-
-
-sexually transmitted disease in society
-=======================================
-
-:: Description
-The social problem of sexually transmitted diseases is discussed.
-
-:: Parents
-public health issue
-
-:: References
-https://en.wikipedia.org/wiki/Sexually_transmitted_infection
-
-:: Aliases
-STDs in society
+https://en.wikipedia.org/wiki/Santa_Claus
 
 
 Stockholm syndrome
@@ -2271,20 +2257,6 @@ https://en.wikipedia.org/wiki/Anti-intellectualism
 anti-intellectualism
 
 
-antiscience in society
-======================
-
-:: Description
-The opposition between adherents of a scientific way of thinking with people
-who feel threatened by it is discussed.
-
-:: Parents
-sociocultural issue
-
-:: References
-https://en.wikipedia.org/wiki/Antiscience
-
-
 anti-technology way of life
 ===========================
 
@@ -2343,6 +2315,20 @@ The cyborg Alita had an antimatter powered heart in "Alita: Battle Angel"
 
 :: References
 https://en.wikipedia.org/wiki/Antimatter
+
+
+antiscience in society
+======================
+
+:: Description
+The opposition between adherents of a scientific way of thinking with people
+who feel threatened by it is discussed.
+
+:: Parents
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Antiscience
 
 
 apartheid
@@ -5656,6 +5642,16 @@ speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Ecumenopolis
+
+
+civic pride
+===========
+
+:: Description
+Someone is patriotic about their local community.
+
+:: Parents
+human way of life
 
 
 civil rights
@@ -11668,6 +11664,26 @@ viewpoints of two factions that see each other as enemies.
 cross cultural issue
 
 
+energy crisis in society
+========================
+
+:: Description
+A society systemically fails to provide enough energy to cover basic demands.
+Energy means electricity as well as oil and other kinds of fuel that are used
+to perform work.
+
+:: Parents
+socioeconomic issue
+
+:: Examples
+In the short film "Libra" (1978), we see a freewheeling frontier space colony
+design fantastic solar power plants in space that may potentially save the
+corrupt and over-regulated Earth from its ongoing energy crisis.
+
+:: References
+https://en.wikipedia.org/wiki/Energy_crisis
+
+
 engineered orbital structure
 ============================
 
@@ -13410,6 +13426,25 @@ friendship
 Ro found her confidant in Guinan in tng5x03 "Ensign Ro".
 
 
+female education
+================
+
+:: Description
+The at-times controversial topic of whether and how humans of the female
+gender should receive education, is discussed.
+
+:: Parents
+gender issue
+
+:: Examples
+In tz1985e1x12a "Her Pilgrim Soul", we heard that Nola's 19th century
+patriarch of a father had objected vehemently to her, a girl, attending
+university.
+
+:: References
+https://en.wikipedia.org/wiki/Female_education
+
+
 female gold digging
 ===================
 
@@ -14343,6 +14378,43 @@ tng1x08 "Justice".
 https://en.wikipedia.org/wiki/Free_love
 
 
+free market utopia
+==================
+
+:: Description
+Society is made perfect by overthrowing the yolk of government regulation and
+letting the free market take control.
+
+:: Parents
+utopia
+
+:: Examples
+Life was all rainbows and sunshine for the Libra libertarian space colony in
+"Libra" (1978).
+
+:: References
+https://en.wikipedia.org/wiki/Free_market
+
+
+free market vs. regulated market
+================================
+
+:: Description
+We are asked to what extend the government should be allowed to intervene in
+private economic transactions. For example, should the government be able to
+say that elevators must be inspected once a year or make antitrust laws?
+
+:: Parents
+contraposed political ideologies
+
+:: Examples
+The free market utopian space colony Libra was contrasted with a world that
+was stagnating because of over-regulation in "Libra" (1978).
+
+:: References
+https://en.wikipedia.org/wiki/Free_market
+
+
 free trade
 ==========
 
@@ -14496,6 +14568,26 @@ career.
 
 :: Parents
 career choice
+
+
+friendship vs. personal gain
+============================
+
+:: Description
+A character faces the stark choice between maintaining a friendship on one
+hand, and doing something that is personally profitable on the other.
+
+:: Parents
+personal ethical dilemma
+
+:: Notes
+Personal gain and profit in this context may be about power, prestige, or any
+other thing that a character happens to desire, not limited to wealth.
+
+:: Examples
+In tz1985e1x08a "Act Break", Maury turned his back on his recently expired
+friend and partner when, instead of bringing the friend back, Maury used his
+one wish in an attempt to grant himself literary fame.
 
 
 fright tactic
@@ -14852,6 +14944,21 @@ https://en.wikipedia.org/wiki/Generosity
 
 :: Related Themes
 kindness
+
+
+generous character vs. mean character
+=====================================
+
+:: Description
+A notably munificent and kind character is contrasted with a notably miserly
+and unkind character.
+
+:: Parents
+human characters in contrast
+
+:: Examples
+In tz1985e1x13a "Night of the Meek", Henry's lavish doling out of Christmas
+presents was nearly thwarted by the surly and mean Mr. Dundee.
 
 
 genetic engineering
@@ -15437,6 +15544,28 @@ indoctrination in society
 
 :: References
 https://en.wikipedia.org/wiki/Indoctrination
+
+
+government regulation in society
+================================
+
+:: Description
+Featured is the extent to which the government should use its power to alter
+firms' pricing, entry, production, investment, and product choice decisions.
+
+:: Parents
+political issue
+
+:: Examples
+World government regulation was preventing the deployment of a game changing
+form of space-beamed solar power from solving Earth's energy crisis in "Libra"
+(1978).
+
+The Ghostbuster's small business was obstructed by incompetent government
+regulator William Atherton in "Ghostbusters" (1984).
+
+:: References
+https://en.wikipedia.org/wiki/Regulation
 
 
 graciousness in defeat
@@ -18814,6 +18943,25 @@ killing is otherwise primarily done to save lives.
 personal life and death dilemma
 
 
+killing in self-defense
+=======================
+
+:: Description
+A character must choose whether to kill another person in order to save their
+own hide.
+
+:: Parents
+compromising one's ethical principles vs. great need
+
+:: Examples
+In tng3x03 "The Survivors", we heard that the immensely powerful alien being
+Kevin refused to kill even the murderous Husnock when they arrived to
+eradicate Kevin, Kevin's family, friends and entire community.
+
+:: References
+https://en.wikipedia.org/wiki/Justifiable_homicide
+
+
 killing innocent but dangerous people
 =====================================
 
@@ -18926,6 +19074,24 @@ political issue
 
 :: References
 https://en.wikipedia.org/wiki/Labour_revolt
+
+
+labor strikes in society
+========================
+
+:: Description
+The feature of strike action among organized worker groups in society is
+discussed.
+
+:: Parents
+socioeconomic issue
+
+:: Notes
+Not to be confused with "bowling strikes", which rarely appear as social
+issues in stories.
+
+:: References
+https://en.wikipedia.org/wiki/Strike_action
 
 
 labor unionism
@@ -19479,6 +19645,17 @@ century.
 
 :: Parents
 history
+
+
+life in the military
+====================
+
+:: Description
+The general living conditions and experiences of a normal grunt in some part
+of the military is demonstrated.
+
+:: Parents
+what life is like
 
 
 life in the stone age
@@ -20211,6 +20388,22 @@ typically involves lab coats and crazy experiments.
 
 :: Parents
 human character stereotype
+
+
+magic bag
+=========
+
+:: Description
+There is a bag from which one can procure far more items, possibly an
+unlimited number, than the bag by its external appearance could possibly hold.
+
+:: Parents
+magic object
+
+:: Examples
+In tz1985e1x13a "Night of the Meek", Henry suddenly found that his garbage bag
+was filled with Christmas presents and continued to be so however many were
+removed, near enough.
 
 
 magic healing object
@@ -21997,15 +22190,15 @@ Someone exhibits a fear of being alone.
 :: Parents
 human phobia
 
-:: Aliases
-autophobia
-
 :: Examples
 Aquiel Uhnari did not much like being all alone on Relay Station 47 in tng6x13
 "Aquiel".
 
 :: References
 https://en.wikipedia.org/wiki/Autophobia
+
+:: Aliases
+autophobia
 
 
 monopolies in society
@@ -22228,11 +22421,11 @@ view to let the crew procreate and live out their lives on-board.
 :: Parents
 spaceship
 
-:: Aliases
-generation ship
-
 :: References
 https://en.wikipedia.org/wiki/Generation_ship
+
+:: Aliases
+generation ship
 
 
 multi-species civilization
@@ -22688,11 +22881,11 @@ evil has been made away with: machinery.
 :: Parents
 technology-free utopia
 
-:: Aliases
-hippie commune utopia
-
 :: References
 https://en.wikipedia.org/wiki/Neo-Luddism
+
+:: Aliases
+hippie commune utopia
 
 
 nepotism
@@ -23800,6 +23993,25 @@ environmental issue
 :: References
 https://en.wikipedia.org/wiki/Human_overpopulation
 http://www.sf-encyclopedia.com/entry/overpopulation
+
+
+overregulated dystopia
+======================
+
+:: Description
+There is a world that is severely dysfunctional because its society is
+overburdened by onerous and ill-considered regulations that hinder people from
+effectively producing the goods and services they require to be happy.
+
+:: Parents
+dystopia
+
+:: Examples
+In the short film "Libra" (1978), life on an overregulated Earth seems bleak
+as the international planning commission imposes variously silly and corrupt
+regulations that stifle productivity. The whole planet suffers from rolling
+black-outs as it can no longer even produce the electricity it needs to light
+up its board rooms.
 
 
 ozone layer depletion
@@ -25012,6 +25224,25 @@ reward.
 human tough decision
 
 
+personality rights
+==================
+
+:: Description
+We are made to ponder to what extent or for what purposes it might be wrong to
+use someone elses’ physical appearance. Would it be ok to make a film in which
+it looked like a famous actor appeared even if they didn’t nor had permitted
+it?
+
+:: Parents
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Personality_rights
+
+:: Aliases
+the right to one's own likeness
+
+
 pesticides in society
 =====================
 
@@ -25945,6 +26176,29 @@ technologically enabled utopia
 https://en.wikipedia.org/wiki/Post-scarcity_economy
 
 
+poverty in society
+==================
+
+:: Description
+Social issues relating to there being large numbers of poor people in a
+society are explored.
+
+:: Parents
+socioeconomic issue
+
+:: Notes
+This theme is typically used in relation to absolute poverty, i.e., when the
+poor have trouble providing for their most basic needs such as food, clothing,
+sanitation, and shelter.
+
+:: Examples
+In "Red Beard" (1965), we saw vividly how society treated the poor in 19th
+century Japan.
+
+:: References
+https://en.wikipedia.org/wiki/Poverty
+
+
 power corrupts
 ==============
 
@@ -26382,6 +26636,25 @@ tng5x20 "Cost of Living".
 
 :: References
 https://en.wikipedia.org/wiki/Prude
+
+
+psychedelic experience
+======================
+
+:: Description
+A character experiences a temporary altered state of consciousness induced by
+the consumption of psychedelic drugs (the best known of which are LSD and
+psilocybin 'magic' mushrooms).
+
+:: Parents
+extraordinary experience
+
+:: Examples
+A group of castaways started tripping out after eating the local mushrooms on
+a remote island in "Matango: Attack of the Mushroom People" (1963).
+
+:: References
+https://en.wikipedia.org/wiki/Psychedelic_experience
 
 
 psychokinesis
@@ -27875,6 +28148,24 @@ The theme does for example normally not apply to people who are incarcerated
 together, or who are so impoverished that they lack any meaningful choice.
 
 
+rotating space habitat
+======================
+
+:: Description
+Featured is a rotating structure in outer space that is habitable on its inner
+surface.
+
+:: Parents
+speculative habitat
+
+:: Examples
+A libertarian space colony lived in a rotating space habitat, possibly an
+O'Neil cylinder, in "Libra" (1978).
+
+:: References
+https://en.wikipedia.org/wiki/O%27Neill_cylinder
+
+
 rule by strength of arm
 =======================
 
@@ -28389,21 +28680,20 @@ Data sculpted a treble clef at breakneck speed in tng7x17 "Masks".
 https://en.wikipedia.org/wiki/Sculpture
 
 
-séance
-======
+search for extraterrestrial intelligence
+========================================
 
 :: Description
-The idea that a trained mystic can help us communicate with the dead.
+A contemporary scientific endeavor to search for extraterrestrial
+intelligence, primarily by employing powerful telescopes of different kinds
+and analyzing the received signals.
 
 :: Parents
-communicating with the dead
-
-:: Examples
-Prefect Jaris of Argelius II figured that this with be a good way to resolve
-the murder case brought against Scotty in tos2x07 "Wolf in the Fold".
+topic in science
 
 :: References
-https://en.wikipedia.org/wiki/S%C3%A9ance
+https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
+http://www.sf-encyclopedia.com/entry/seti
 
 
 searchable electronic database
@@ -29054,6 +29344,39 @@ that that reproduces according to a cyclical mating cycle.
 
 :: Parents
 biologically distinguished being
+
+
+sexually transmitted disease in society
+=======================================
+
+:: Description
+The social problem of sexually transmitted diseases is discussed.
+
+:: Parents
+public health issue
+
+:: References
+https://en.wikipedia.org/wiki/Sexually_transmitted_infection
+
+:: Aliases
+STDs in society
+
+
+shadow monster
+==============
+
+:: Description
+There is a monster, possibly human-like, perceivable mostly as patches of
+shadow.
+
+:: Parents
+monster
+
+:: References
+https://en.wikipedia.org/wiki/Shadow_person
+
+:: Aliases
+shadow person
 
 
 shamanism
@@ -30214,6 +30537,28 @@ https://en.wikipedia.org/wiki/Space_exploration
 http://www.sf-encyclopedia.com/entry/space_travel
 
 
+space-based solar power
+=======================
+
+:: Description
+Technology is used in outer space to collect solar energy.
+
+:: Parents
+solar power
+
+:: Notes
+The upshot of doing it in space is, typically, that there is less interference
+from the atmosphere and longer exposure times to the sun.
+
+:: Examples
+In the short film "Libra" (1978), the overly regulated and mismanaged Earth
+society is unable to generate enough energy to meet its own needs, so suffers
+from rolling blackouts.
+
+:: References
+https://en.wikipedia.org/wiki/Space-based_solar_power
+
+
 spaceborne being
 ================
 
@@ -30653,6 +30998,25 @@ etc.) can be valuable in promoting peace between nations is featured. The
 international issue
 
 
+sports
+======
+
+:: Description
+A competitive physical activity or game of the kind to which we have given
+specific names and call "sports", is featured.
+
+:: Parents
+the pursuit of knowledge
+
+:: Examples
+Goldine's adoptive father injected her with growth hormones from childhood and
+carefully managed her life to ensure she would win three races at the 1980
+Summer Olympics in Moscow in "Goldengirl" (1979).
+
+:: References
+https://en.wikipedia.org/wiki/Sport
+
+
 spouse murder
 =============
 
@@ -30951,24 +31315,6 @@ industry in "The Resurrection of Zachary Wheeler" (1971).
 
 :: References
 https://en.wikipedia.org/wiki/Intestine_transplantation
-
-
-labor strikes in society
-========================
-
-:: Description
-The feature of strike action among organized worker groups in society is
-discussed.
-
-:: Notes
-Not to be confused with "bowling strikes", which rarely appear
-as social issues in stories.
-
-:: Parents
-socioeconomic issue
-
-:: References
-https://en.wikipedia.org/wiki/Strike_action
 
 
 struggling with a life-changing decision
@@ -31378,6 +31724,23 @@ the domain of faith
 https://en.wikipedia.org/wiki/Superstition
 
 
+superstition in society
+=======================
+
+:: Description
+Discussed is how superstitious beliefs can permeate and shape everyday
+society.
+
+:: Parents
+sociocultural issue
+
+:: Examples
+In tz1985e1x11a "The Beacon", we saw a community of backwards people that for
+hundreds of years had shut themselves away from civilization and progress in
+order to practice human sacrifice and appease a perceived ghost they thought
+inhabited the lighthouse.
+
+
 suppressed emotion
 ==================
 
@@ -31605,6 +31968,23 @@ organism in "Escape" (1971).
 
 :: References
 https://en.wikipedia.org/wiki/Synthetic_biology#Synthetic_life
+
+
+séance
+======
+
+:: Description
+The idea that a trained mystic can help us communicate with the dead.
+
+:: Parents
+communicating with the dead
+
+:: Examples
+Prefect Jaris of Argelius II figured that this with be a good way to resolve
+the murder case brought against Scotty in tos2x07 "Wolf in the Fold".
+
+:: References
+https://en.wikipedia.org/wiki/S%C3%A9ance
 
 
 table manners
@@ -32013,22 +32393,6 @@ the Federation in tng3x10 "The Defector". Jarok was so upset he ingested a
 felodesine chip to kill himself.
 
 
-the technological singularity
-=============================
-
-:: Description
-The idea that at some point AI will become more advanced than humans. Then
-they will accelerate the development of even more advanced AI, and so on ad
-infinitum. The result will be completely unpredictable and may make humans
-obsolete in the wink of an eye, goes the thinking.
-
-:: Parents
-technological risk to civilization, speculative future event
-
-:: References
-https://en.wikipedia.org/wiki/Technological_singularity
-
-
 the American Revolution
 =======================
 
@@ -32136,6 +32500,20 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Future_of_an_expanding_universe
+
+
+the Bogeyman
+============
+
+:: Description
+A mythical creature used by adults to frighten children into good behavior is
+featured.
+
+:: Parents
+monster
+
+:: References
+https://en.wikipedia.org/wiki/Bogeyman
 
 
 the British Raj
@@ -32275,6 +32653,20 @@ Chariots of the Gods
 
 :: Other Parents
 aliens
+
+
+the Holy Chalice
+================
+
+:: Description
+A mythological artifact within the Christian religion that has been at the
+center of countless stories over the centuries.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Holy_Chalice
 
 
 the Internet
@@ -32611,11 +33003,11 @@ shifted.
 :: References
 https://en.wikipedia.org/wiki/Afterlife
 
-:: Related Themes
-the soul
-
 :: Aliases
 afterlife
+
+:: Related Themes
+the soul
 
 
 the art of boxing
@@ -32770,20 +33162,6 @@ educating a child
 
 :: References
 https://en.wikipedia.org/wiki/The_birds_and_the_bees http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk
-
-
-the Bogeyman
-============
-
-:: Description
-A mythical creature used by adults to frighten children into good behavior is
-featured.
-
-:: Parents
-monster
-
-:: References
-https://en.wikipedia.org/wiki/Bogeyman
 
 
 the butterfly effect
@@ -33118,6 +33496,23 @@ is worth remembering at least for someone.
 
 :: Parents
 human social need
+
+
+the desire to have children
+===========================
+
+:: Description
+That humans typically need to reproduce and sire offspring in order to feel
+self-fulfilled is illustrated.
+
+:: Parents
+human physiological need
+
+:: References
+https://en.wikipedia.org/wiki/Reproduction
+
+:: Aliases
+the need for procreation
 
 
 the desire to pursue one's dream
@@ -33546,20 +33941,6 @@ crackpot theory
 In futurama6x05 "The Duh-Vinci Code" we learn that Leonardo da Vinci was in
 fact a fantastically long lived extraterrestrial from the planet "Vinci",
 where he was the dumbest of his kind.
-
-
-the Holy Chalice
-================
-
-:: Description
-A mythological artifact within the Christian religion that has been at the
-center of countless stories over the centuries.
-
-:: Parents
-organized religion
-
-:: References
-https://en.wikipedia.org/wiki/Holy_Chalice
 
 
 the horrors of war
@@ -34434,23 +34815,6 @@ voices out.
 https://en.wikipedia.org/wiki/Privacy
 
 
-the desire to have children
-===========================
-
-:: Description
-That humans typically need to reproduce and sire offspring in order to feel
-self-fulfilled is illustrated.
-
-:: Parents
-human physiological need
-
-:: References
-https://en.wikipedia.org/wiki/Reproduction
-
-:: Aliases
-the need for procreation
-
-
 the need for rest and recreation
 ================================
 
@@ -34742,6 +35106,29 @@ topic in technology
 https://en.wikipedia.org/wiki/Flight
 
 
+the problem of evil
+===================
+
+:: Description
+Discussed is the ancient problem of how to reconcile the existence of evil
+with the existence of an omnipotent, omnibenevolent, and omniscient God.
+
+:: Parents
+organized religion
+
+:: Examples
+"The Epicurian paradox" famously goes as follows: Is God willing to prevent
+evil, but not able? Then he is not omnipotent. Is he able, but not willing?
+Then he is malevolent. Is he both able and willing? Then whence cometh evil?
+Is he neither able nor willing? Then why call him God?
+
+:: References
+https://en.wikipedia.org/wiki/Problem_of_evil
+
+:: Aliases
+whence cometh evil
+
+
 the promised land
 =================
 
@@ -34924,25 +35311,6 @@ social ethical dilemma
 
 :: Other Parents
 fictional issue
-
-
-personality rights
-==================
-
-:: Description
-We are made to ponder to what extent or for what purposes it might be wrong to
-use someone elses’ physical appearance. Would it be ok to make a film in which
-it looked like a famous actor appeared even if they didn’t nor had permitted
-it?
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/Personality_rights
-
-:: Aliases
-the right to one's own likeness
 
 
 the right to privacy
@@ -35208,6 +35576,22 @@ tos2x01 "Catspaw".
 
 :: References
 https://en.wikipedia.org/wiki/Supernatural
+
+
+the technological singularity
+=============================
+
+:: Description
+The idea that at some point AI will become more advanced than humans. Then
+they will accelerate the development of even more advanced AI, and so on ad
+infinitum. The result will be completely unpredictable and may make humans
+obsolete in the wink of an eye, goes the thinking.
+
+:: Parents
+technological risk to civilization, speculative future event
+
+:: References
+https://en.wikipedia.org/wiki/Technological_singularity
 
 
 the theater
@@ -38421,6 +38805,28 @@ tng6x07 "Rascals".
 what if I had a second chance at life
 
 
+what if I had a secret guardian
+===============================
+
+:: Description
+We imagine what it would be like to have a powerful secret guardian that
+intervenes as and when required to protect us from any harm.
+
+:: Parents
+extraordinary experience
+
+:: Examples
+In tz1985e1x10a "The Shadow Man", a mysterious shadowy person lived under
+Danny's bed and appeared from nowhere to chase down bullies that dared prey on
+Danny.
+
+:: References
+https://en.wikipedia.org/wiki/Guardian_angel
+
+:: Aliases
+guardian angel
+
+
 what if I had an evil hand
 ==========================
 
@@ -38843,6 +39249,23 @@ Are Little Girls Made Of?".
 
 :: References
 http://www.sf-encyclopedia.com/entry/doppelgangers
+
+
+what if I met myself from a different time
+==========================================
+
+:: Description
+We imagine what it would be like to encounter our own self from an earlier or
+later time of our life.
+
+:: Parents
+what if I met an extraordinary person
+
+:: Examples
+In tz1985e1x11b "One Life, Furnished in Early Poverty", Gus was somehow
+transported back the to 1940s where he became a confidant of his childhood
+self in order to persuade him to choose a different path in life. Alas,
+instead he became the very progenitor of the problems he sought to remedy.
 
 
 what if I met the perfect mate
@@ -40378,17 +40801,6 @@ particular situation (for example in high school).
 
 :: Parents
 the human condition
-
-
-life in the military
-====================
-
-:: Description
-The general living conditions and experiences of a normal grunt in some part
-of the military is demonstrated.
-
-:: Parents
-what life is like
 
 
 what life is like in the police force
