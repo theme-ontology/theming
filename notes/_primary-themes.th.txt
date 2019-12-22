@@ -7310,25 +7310,6 @@ Lwaxana coped with aging once in tng4x22 "Half a Life" and again in tng5x20
 "Cost of Living".
 
 
-coping with amnesia
-===================
-
-:: Description
-A character copes with the life altering effects of suddenly loosing much of
-their memory.
-
-:: Parents
-human health condition
-
-:: Examples
-John Doe struggled with a bad case of amnesia in tng3x25 "Transfigurations",
-not even remembering his own name.
-
-:: References
-http://tvtropes.org/pmwiki/pmwiki.php/Main/IdentityAmnesia
-http://www.sf-encyclopedia.com/category/themes/theme
-
-
 coping with an arrogant jerk
 ============================
 
@@ -14247,25 +14228,6 @@ human idea about life
 
 :: References
 https://en.wikipedia.org/wiki/Fortune_favours_the_bold
-
-
-fortune telling
-===============
-
-:: Description
-There is a character that purports to be able to divine other characters'
-future fates, through mysterious means.
-
-:: Parents
-superstition
-
-:: Examples
-Fortune teller Abner Suggs assailed Captain Lindemann with with a number of
-unsolicited soothsayings in the "Night Gallery" story "Lindemann's Catch"
-(1972).
-
-:: References
-https://en.wikipedia.org/wiki/Fortune-telling
 
 
 four-dimensional space
@@ -22045,6 +22007,9 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Interethnic_marriage
+
+:: Aliases
+interethnic marriage
 
 
 mobile life support box
@@ -31006,7 +30971,7 @@ A competitive physical activity or game of the kind to which we have given
 specific names and call "sports", is featured.
 
 :: Parents
-the pursuit of knowledge
+human professional activity
 
 :: Examples
 Goldine's adoptive father injected her with growth hormones from childhood and
@@ -31682,19 +31647,6 @@ enabled by technology.
 
 :: Parents
 speculative fiction theme
-
-
-supernatural forces
-===================
-
-:: Description
-The idea that magic is literally possible is broached.
-
-:: Parents
-superstition
-
-:: References
-https://en.wikipedia.org/wiki/Supernatural
 
 
 supernova
@@ -37692,6 +37644,9 @@ voice.
 :: References
 https://en.wikipedia.org/wiki/Speaker_recognition
 
+:: Aliases
+speaker recognition device
+
 
 volcanic cataclysm
 ==================
@@ -38585,23 +38540,6 @@ compared with Earth, such as on the surface of the Moon or on that of Mars.
 
 :: Parents
 what if I found myself in a strange place
-
-
-what if I found myself in a savage mirror universe
-==================================================
-
-:: Description
-We imagine what it would be like to suddenly move into a mirror image of our
-universe where the good people are instead wicked, the kind vicious, and so
-on.
-
-:: Parents
-what if I found myself in a strange place
-
-:: Examples
-After transporting back to the Enterprise, Captain Kirk and his team found
-themselves in a mirror universe where the normally good people were all jerks
-in tos2x10 "Mirror, Mirror".
 
 
 what if I found myself in a strange place
