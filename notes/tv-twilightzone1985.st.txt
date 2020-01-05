@@ -1294,16 +1294,14 @@ Two brothers searching for their father discover a factory full of giant animal 
 Directed by: R. L. Thomas. Story by: Ray Bradbury.
 
 :: Ratings
-2 <mikael*>,
+2 <mikael>,
 3 <paul>,
-
-:: Choice Themes
 
 :: Major Themes
 brother and brother [Brothers Will and Roger went searching around for their father in a dark facility.],
-father and son [FD],
+father and son [Brothers Will and Roger went searching around for their father in a dark facility.],
 mad scientist stereotype [The brothers described their father as someone that sounds much like a stereotypical mad scientist.],
-mutant monster [FD],
+monster [There was a huge man-eating spider that has grown in size due to the effects of their father's experiment.],
 
 :: Other Keywords
 giant spider [The brothers were killed by a giant spider.],
@@ -1325,25 +1323,25 @@ Directed by: Noel Black. Story by: Robert Silverberg, Steven Barnes.
 
 :: Ratings
 4 <mikael>,
-5 <apul>
+5 <paul>
 
 :: Major Themes
 coping with being an outcast [Mitchell was sentenced to being treated as invisible by the whole society for a year.],
 the need to belong [Mitchell was cocky at first but then found that being isolated and ignored was really no fun at all.],
-what if I were invisible [Mitchell explored all that he could do as being invisible. PS: Would this be here save for the title?],
 compassion [It seems Mitchell learned a lesson of compassion somewhat too well as he ended up breaking the law by comforting another punishee.],
 human self-sacrifice for another [Mitchell in the end took pity on the invisible woman knowing he'd be punished severely.],
 belonging [Mitchell was cocky at first but then found that being isolated and ignored was really no fun at all.].
 loneliness [Mitchell was forced to live without human contact for a year and it took its tole on his psyche.],
-what if I could do anything I wanted without repercussions [Mitchell could basically do anything he wanted for the space of a year.],
 
 :: Minor Themes
+what if I could do anything I wanted without repercussions [Mitchell could basically do anything he wanted for the space of a year.],
 mass surveillance [Flying camera drones implied that the society we saw had extreme amounts of surveillance.],
 theft in society [We saw two young men steal a car.],
 videophone [Mitchell spoke with an emergency service responder over just such a device.],
 
 :: Not Themes
 invisibility technology [It turned out no such technology was in fact used and invisibility was just a matter of social protocol.],
+what if I were invisible [Mitchell explored all that he could do as being invisible, but he wasn't actually invisible.],
 
 
 tz1985e1x16c
@@ -1362,21 +1360,22 @@ Directed by: Robert Downey. Story by: Haskell Barkin.
 
 :: Ratings
 3 <paul>,
+2 <mikael>,
 
 :: Choice Themes
 be careful what you wish for [Myron wished for fame, love, and adoration and ended up getting more than he bargained for.],
 
 :: Major Themes
 the Tooth Fairy [A big ugly man introduced himself to Myron as the tooth fairy and granted his wishes.],
-what it is like to work in the hospitality industry [we saw the ungratified thankless work of a dentist. PS: Is dentistry in this class of work?],
+wish-granting being [A big ugly man introduced himself to Myron as the tooth fairy and granted his wishes.],
+what it is like in a medical facility [We saw the ungratified thankless work of a dentist.],
 infatuation [Myron and Lydia became besotted with each other.],
-coping with an enamored groupie [FD Myron went into voluntary exile to escaping his adoring clientele],
-coping with being a loser [Myron was dealing with self-esteem issues and considered himself a big loser.],
 coping with being famous [Myron wished for fame and got it in spades.],
 
 :: Minor Themes
 coping with romantic rejection [Myron's offer to Lydia of going on a dinner date was summarily rejected.],
 suicide [Lydia Bixby walked in on Myron trying to hang himself.],
+coping with an enamored groupie [Myron went into voluntary exile in part to escape his adoring female admirers.],
 
 
 tz1985e1x17a
@@ -1394,7 +1393,7 @@ Two people fleeing an agent of Death end up in an old west town.
 Directed by: Bruce Bilson. Story by: Les Enloe.
 
 :: Ratings
-3 <mikael>,
+3 <mikael*>,
 3 <paul>,
 
 :: Major Themes
