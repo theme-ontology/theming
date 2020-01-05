@@ -6224,7 +6224,7 @@ the fact and become at peace with themselves over it. In fantastic stories, a
 character may even have died and must now come to terms with the fact.
 
 :: Parents
-coming to terms with things
+coming to terms with things, facing death
 
 :: Examples
 In tng5x24 "The Next Phase", Ro Laren and Geordi La Forge apparently perish in
@@ -12631,17 +12631,6 @@ fear
 :: Examples
 Barclay mustered the courage to face his darkest fear of going through the
 transporter in tng6x02 "Realm of Fear".
-
-
-facing one's own death
-======================
-
-:: Description
-A character is confronted with the fact that they are about to die, perhaps
-because of a terminal illness, and has to come to terms with the fact.
-
-:: Parents
-facing death
 
 
 facing one's own execution
@@ -22451,23 +22440,6 @@ socioeconomic issue
 https://en.wikipedia.org/wiki/Multinational_corporation
 
 
-multiple personality disorder
-=============================
-
-:: Description
-A mental disorder characterized by at least two distinct and relatively
-enduring identities or dissociated personality states.
-
-:: Parents
-human mental condition
-
-:: References
-https://en.wikipedia.org/wiki/Dissociative_identity_disorder
-
-:: Aliases
-dissociative identity disorder
-
-
 multistage rocket
 =================
 
@@ -27788,21 +27760,6 @@ human rights issue
 https://www.britannica.com/topic/rights-of-accused https://en.wikipedia.org/wiki/Right_to_a_fair_trial
 
 
-rise in ambient galactic radiation level
-========================================
-
-:: Description
-The ever-present background radiation in a galaxy suddenly rises and everyone
-dies of radiation poisoning.
-
-:: Parents
-force of nature existential risk to civilization
-
-:: Examples
-The Kelvan Empire was imperiled by a rise in ambient radiation across the
-Andromeda galaxy in tos2x21 "By Any Other Name".
-
-
 rise of a new species
 =====================
 
@@ -27899,7 +27856,7 @@ A young male performs a feat that according to his culture (in part or wholly)
 qualifies him for status as adult.
 
 :: Parents
-human childhood
+coming of age
 
 
 ritualistic communication
@@ -35674,7 +35631,7 @@ are?
 https://en.wikipedia.org/wiki/Simulation_hypothesis
 
 
-the use of genetic engineering
+genetic engineering in society
 ==============================
 
 :: Description
@@ -35685,7 +35642,8 @@ interfere with our own genes and, by extension, our evolution as a species.
 sociotechnological issue
 
 :: References
-https://en.wikipedia.org/wiki/Genetic_engineering#Controversy, https://en.wikipedia.org/wiki/Genetically_modified_food_controversies
+https://en.wikipedia.org/wiki/Genetic_engineering#Controversy
+https://en.wikipedia.org/wiki/Genetically_modified_food_controversies
 
 
 the use of personality altering medication
@@ -35749,20 +35707,6 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Product_testing
-
-
-the value of testing a hypothesis
-=================================
-
-:: Description
-The testing of a hypothesis, i.e., a proposed explanation for a phenomena, has
-proved essential to science and the search for truth.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Scientific_method
 
 
 the vastness of the universe
@@ -35841,7 +35785,7 @@ around existentialism and the idea that human existence has no particular
 meaning.
 
 :: Parents
-the fine arts and the humanities
+the theater
 
 :: Examples
 Kirk and his team in tos2x12 "I, Mudd" found that such theater does not
@@ -36332,27 +36276,6 @@ may be either good or evil as judged by human standards.
 
 :: Parents
 speculative being
-
-
-transcendental numbers
-======================
-
-:: Description
-A number that is not a root of a non-zero polynomial equation with rational
-coefficients.
-
-:: Parents
-topic in science
-
-:: Examples
-Spock explained that pi is a transcendental number in tos2x07 "Wolf in the
-Fold".
-
-:: References
-https://en.wikipedia.org/wiki/Transcendental_number
-
-:: Related Themes
-the value of pi
 
 
 transcendental point of view
@@ -37001,7 +36924,7 @@ unethical psychological experimentation
 It is discussed whether a psychological experiment can be considered ethical.
 
 :: Parents
-medical ethical issue
+unethical human experimentation
 
 :: Examples
 Dr. Tristan Adams used a device to break people’s minds and turn them into
