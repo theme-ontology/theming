@@ -2857,8 +2857,8 @@ astronomy
 https://en.wikipedia.org/wiki/Asteroid_belt
 
 
-asteroid deflection
-===================
+asteroid impact avoidance
+=========================
 
 :: Description
 A collection of methods by which an asteroid could be diverted from colliding
@@ -23606,25 +23606,6 @@ The Enterprise experienced orbital decay around 20th century Earth in tos1x21
 https://en.wikipedia.org/wiki/Orbital_decay
 
 
-orbital nuclear weapons platform
-================================
-
-:: Description
-Nuclear weapons are strategically placed in space, in orbit around a planet,
-from where they can easily be deployed against any desired target.
-
-:: Parents
-engineered orbital structure
-
-:: Examples
-The Enterprise visited the 20th century and found that Earth was about to go
-down the path of self-obliteration by putting nukes in orbit in tos2x26
-"Assignment: Earth".
-
-:: References
-https://en.wikipedia.org/wiki/Space_weapon
-
-
 orbital spaceflight
 ===================
 
@@ -26413,8 +26394,8 @@ Geordi was held hostage by a couple of dimwitted but nevertheless spacefaring
 Pakled in tng2x17 "Samaritan Snare".
 
 
-prisoner rights
-===============
+prisoners' rights
+=================
 
 :: Description
 We are made to ponder what conditions in prisons should be like and what may
@@ -27379,16 +27360,6 @@ reminiscence
 
 :: Description
 A character looks back with emotion on previous experiences.
-
-:: Parents
-human dreaming
-
-
-reminiscence about one's childhood
-==================================
-
-:: Description
-A character thinks back to their childhood years.
 
 :: Parents
 human dreaming
@@ -33667,6 +33638,9 @@ Data debunked this theory in front of a classroom of Barkonian kids in tng7x16
 :: References
 https://en.wikipedia.org/wiki/Classical_element
 
+:: Aliases
+classical element
+
 
 religious prophesy
 ==================
@@ -34214,8 +34188,8 @@ of life.
 https://en.wikipedia.org/wiki/Colonization
 
 
-the morality of human cloning
-=============================
+human cloning in society
+========================
 
 :: Description
 We are asked to what extent, if any, the cloning of human beings is
@@ -34569,23 +34543,6 @@ Wesley stumbled on Data practicing his artificial sneezing in tng1x13
 
 :: References
 https://en.wikipedia.org/wiki/Sneeze
-
-
-the nature of taste
-===================
-
-:: Description
-The nature of gustatory taste is discussed (as opposed to, for example, taste
-in art).
-
-:: Parents
-aesthetics
-
-:: Examples
-Q and Data discussed that human habit of eating in tng3x13 "Deja Q".
-
-:: References
-https://en.wikipedia.org/wiki/Taste
 
 
 the nature of the senses
@@ -35216,7 +35173,7 @@ the right to exist? Would we be morally justified in visiting genocide on
 them? Is there room for doubt?
 
 :: Parents
-social ethical dilemma
+ethics
 
 :: Other Parents
 fictional issue
@@ -35612,8 +35569,8 @@ metaphysics
 https://en.wikipedia.org/wiki/Dream_argument
 
 
-the universe is a simulation theory
-===================================
+the universe is a simulation hypothesis
+=======================================
 
 :: Description
 The notion that all we are and all we know is just a simulation within a
@@ -40514,16 +40471,6 @@ his novel.
 
 :: References
 https://en.wikipedia.org/wiki/Publishing
-
-
-what it is like on a battlefield
-================================
-
-:: Description
-The experiences a ground soldier may face on a field of battle are featured.
-
-:: Parents
-what life is like
 
 
 what it is like to be a loser
