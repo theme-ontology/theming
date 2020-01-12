@@ -5348,6 +5348,7 @@ virtual reality room [Worf's calisthenics program] <holodeck>,
 sleeper agents [Klingon sleeper vessel agents],
 lovers' quarrel [Worf and K'Ehleyr] <Worf/K'Ehleyr>,
 personal conviction [Picard about not killing rogue Klingons] <Picard>,
+tardiness [K'Ehleyr was conspicuously late for duty.],
 
 :: Source ID
 tng2x20
@@ -5685,6 +5686,7 @@ supernova [Stubbs was on the Enterprise to study a supernova],
 red giant [Stubbs was on the Enterprise to study a supernova involving a red giant],
 neutron star [Stubbs was on the Enterprise to study a supernova involving a neutron star],
 remorse [Stubbs] <Paul Stubbs>,
+tardiness [Wesley dozed off in the science lab and was subsequently late for duty.],
 
 :: Source ID
 tng3x01
@@ -8345,6 +8347,7 @@ fortitude [Barclay stayed on in spite of adversity] <Barclay>,
 hedonism [Barclay in holodeck] <Barclay>,
 kindness [Geordi toward Barclay] <Geordi>,
 artificial gravity technology [Barclay was trying to find the problem with an anti-gravitational device of some kind],
+tardiness [Barclay was late for a meeting because he had been tooling around on the holodeck.],
 
 :: Source ID
 tng3x21
@@ -10202,6 +10205,7 @@ coping with an incompetent coworker [Picard and Wesley with Dirgo] <Picard, Wesl
 humility [Picard] <Picard>,
 patience [Picard with Dirgo] <Picard>,
 habitable moon [Picard and friends crash landed on a barely habitable moon] <Lambda Paz>,
+tardiness [Barclay late for meeting because he lost track of time while conversing with a holographic Einstein.],
 
 :: Source ID
 tng4x09
@@ -13655,6 +13659,7 @@ patience [Worf for Alexander] <Worf>,
 laziness [Worf late for meeting with Picard] <Worf>,
 nature conservationism [the endangered species],
 reminiscence [about Worf's childhood] <Worf>,
+tardiness [Worf late for meeting with Picard because of parenting issues.],
 
 :: Source ID
 tng5x10
@@ -14943,6 +14948,7 @@ boredom [Alexander] <Alexander Rozhenko>,
 patience [Worf with Alexander] <Worf>,
 laziness [Alexander late] <Alexander Rozhenko>,
 looking for a lover [Lwaxana thought she had found someone to settle down with in Campio.],
+tardiness [Alexander was late.],
 
 :: Source ID
 tng5x20
@@ -16282,7 +16288,7 @@ fear [Riker and others reliving the alien experiments] <Riker>,
 :: Minor Themes
 vivisection [Riker had his arm severed and reattached in course of bizarre alien experiment],
 expressing feelings [Data with poetry] <Data>,
-suppressed memories [crew stir up repressed memories of alien abductions with the help of a holodeck simulation],
+repressed memories [crew stir up repressed memories of alien abductions with the help of a holodeck simulation],
 virtual reality room [table reconstruction] <holodeck>,
 laziness [Riker overslept and missed meeting] <Riker>,
 poetry [Data's Ode to Spot],
@@ -16290,6 +16296,7 @@ globular cluster [Enterprise was exploring globular cluster] <Amargosa Diaspora>
 cooperation [crew in reconstructing table on holodeck],
 love of a pet [Data at Spot] <Data>,
 master and pet [Data and Spot] <Data/Spot>,
+tardiness [Riker overslept and missed a meeting.],
 
 :: Source ID
 tng6x05
@@ -18518,6 +18525,7 @@ the qualities of a good leader [Kahless lacked the leadership qualities that wer
 mercy [Worf stayed Gowrons hand] <Worf>,
 patience [Worf stayed Gowrons hand] <Worf>,
 theocracy [Kahless briefly wanted to rule over Klingons] <Klingon>,
+tardiness [Worf was late for duty.],
 
 :: Source ID
 tng6x23
@@ -21396,6 +21404,7 @@ compassion [Traveler] <The Traveler>,
 kindness [Traveler] <The Traveler>,
 patience [Anthwara in negotiating with Picard] <Anthwara>,
 laziness [Wesley late for party] <Wesley>,
+tardiness [Wesley showed up late for his own welcome party.],
 
 :: Source ID
 tng7x20
