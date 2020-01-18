@@ -235,11 +235,7 @@ movie: Prometheus (2012)
 Prometheus
 
 :: Description
-Set in the late 21st century, the film centers on the crew of the spaceship Prometheus as it follows a star map discovered among the artifacts of several ancient Earth cultures. Seeking the origins of humanity, the crew arrives on a distant world and discovers a threat that could cause the extinction of the human species.
-
-Prequel goes some way towards showing that the "aliens" of the previous movies
-were genetically engineered by a humanoid alien people who also created humans
-a long time ago for reasons unknown.
+Set in the late 21st century, the film centers on the crew of the spaceship Prometheus as it follows a star map discovered among the artifacts of several ancient Earth cultures. Seeking the origins of humanity, the crew arrives on a distant world and discovers a threat that could cause the extinction of the human species. It is the first installment in the Alien prequel series and the fifth installment overall in the Alien film franchise.
 
 :: Date
 2012-06-01
@@ -252,7 +248,7 @@ https://en.wikipedia.org/wiki/Prometheus_(2012_film)
 2 <paul>,
 
 :: Genre
-sci-fi
+sci-fi, horror,
 
 :: Choice Themes
 alien origin of the human race [The grand revelation of the film was exactly that the human race was created by aliens.],
@@ -261,7 +257,7 @@ genetic engineering in society [The humanoid aliens engineered a biological agen
 :: Major Themes
 ancient aliens [Elizabeth and Charlie presented evidence that numerous ancient civilizations represented aliens in their written and pictorial records.],
 the thirst for knowledge [Archaeologists Elizabeth and Charlie went voyaged to the distant exomoon LV-223 in search of the origins of human civilization.],
-android [The misanthropic android David was present throughout the film.],
+android [The android David was present throughout the film.],
 extraterrestrial being [The Prometheus crew found incontrovertible evidence of humanoid life having been on the distant exomoon LV-223.],
 romantic love [The archaeologists couple Elizabeth and Charlie.],
 parasitic being [The Aliens.],
@@ -301,9 +297,7 @@ movie: Alien: Covenant (2017)
 Alien: Covenant
 
 :: Description
-The second prequel after Prometheus to the original Alien movies, this
-describes how the android David genetically engineered the Alien into it's
-familiar deadly form.
+The film follows the crew of a colony ship that lands on an uncharted planet and makes a terrifying discovery. It is a sequel to Prometheus (2012) and is the second installment in the Alien prequel series and the sixth installment overall in the Alien film franchise.
 
 :: Date
 2017-05-04
@@ -312,40 +306,45 @@ familiar deadly form.
 https://en.wikipedia.org/wiki/Alien:_Covenant
 
 :: Ratings
-4 <Mikael>,
+4 <mikael>,
+4 <paul>,
 
 :: Genre
 sci-fi, horror
 
 :: Choice Themes
-human vs. beast [woman vs. Alien with capital A],
-out of control AI [David decided to kill all humans],
-kill all humans utopia [David wanted],
-facing a ferocious beast [various vs. Alien],
-parasitic being [Alien],
+parasitic being [The Aliens.],
+human vs. beast [The Covenant crew versus the Aliens.],
+facing a ferocious beast [The Covenant crew versus the Aliens.],
+out of control AI [The android David wiped out a civilization of giant humanoids using a deadly genetically engineered a pathogen.],
+kill all humans utopia [The android David wanted to wipe out all animal life, especially ],
 
 :: Major Themes
-space colonization [the whole premise was to colonize something or another],
-sleeper spaceship [a few thousand colonists in cryogenic sleep],
-coping with the death of a lover [various],
-grief [various],
-risk taking vs. playing it safe [they decide to investigate the planet, then to save the team, ...],
-the calculus of human life [many stupid decision were made, like taking the whole ship down],
-android [David and Walter],
-annihilation by WMDs [the Engineers by David],
-romantic love [various],
-genetic engineering in society [was obviously a bad thing here],
-rise of the machines [David],
+android [David and Walter.],
+space colonization [The whole premise was to colonize the a distant planet.],
+sleeper spaceship [Two-thousand colonists were put into cryogenic sleep for the duration of their voyage to the distant planet Origae-6.],
+extraterrestrial being [David wiped out a civilization of giant humanoids with his genetically engineered pathogen.],
+misanthropy [The android David despised humankind.],
+risk taking vs. playing it safe [Should the Covenant crew divert could to a seemingly perfectly habitable planet or stay on their course to the planet they planned to terraform in the first place? The Covenant crew weighed the risks involved in attempting to rescue the landing party.],
+rise of the machines [David wished to use his genetically engineered to rid the world of animal, especially human, life so that the androids could rule.],
+annihilation by WMDs [David wiped out the civilization of giant humanoids by unleashing their own genetically engineered pathogen on them.],
+genetic engineering in society [David improved on the Engineer's genetically engineered pathogen and wished to use it to wipe out humankind.],
+the calculus of human life [Many stupid decision were made, like taking the whole ship colony ship down to the surface of the Alien infested planet.],
 
 :: Minor Themes
 maker and machine [Weyland and David],
-the meaning of life [Weyland and David discussed their respective origins],
-solar sail spaceship [used to power starship],
-stepping up to the task [the new Captain, Oram],
-remorse [Oram over going to the planet],
-human AI relationship [David and Walter discussed],
-genetic engineering [sort of featured as a science but not that much],
-the nature of creativity [David and Walter discussed],
+the meaning of life [Weyland and David discussed the question of where they came from. Weyland though there must be more to the origin of humanity than random chance.],
+solar sail spaceship [The Covenant colony ship used solar sails for charging purposes.],
+terraforming [Daniels was in charge of a team whose goal was to terraform the distant planet Origae-6.],
+husband and wife [Some of the crew members were married to one another.],
+coping with a loved one being in peril [Tennessee was worried about the status of his wife down on the planet after the landing party lost contact with the ship under dire circumstances.],
+beating one's self up [Captain Oram beat himself up over his deadly decision to depart from their predetermined course to Origae-6 in favor of going to the Alien infested planet.],
+remorse [Captain Oram would come to regret his deadly decision to go to the Alien infested planet.],
+stepping up to the task [Oram had big shoes to fill in taking the place of the beloved captain who perished in stasis.],
+the nature of creativity [David and Walter discussed this in regard to creating new tunes on a flute.],
+grief [Daniels grieved when her husband got burned to death in his stasis pod. Tennessee later mourned the loss of his wife Maggie to the Aliens.],
+coping with the death of a lover [Daniels grieved when her husband got burned to death in his stasis pod. Tennessee later mourned the loss of his wife Maggie to the Aliens.],
+romantic love [Tennessee and Maggie. Ricks and Upworth.],
 
 :: Collections
 Collection: Science fiction films of the 2010s
