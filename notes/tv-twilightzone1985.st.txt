@@ -1727,11 +1727,11 @@ Directed by: Jeannot Szwarc. Story by: Michael Cassutt.
 :: Major Themes
 vampire [Some of the townspeople turned out to be immortal vampires.],
 murder in society [Colonel Ilyanov was sent by train to a Siberian town to investigate the deaths of two local Soviet Communist Party officials.],
-life in the Soviet Union [We saw some people living in a dreary arctic settlement of Soviet design. Also a political dissident was sent to the gulag on the charge of being a contact for Western agents..],
 
 :: Minor Themes
-autocracy [We saw the stereotypical workings of an autocratic regime, such as persecution of dissidents and banned art.],
+political repression in society [We saw KGB agents hauling off a political dissident in the streets.],
 corruption in society [There was dialog about having contacts or being sent to Siberia seemed to imply corruption.],
+life in the Soviet Union [We saw some people living in a dreary arctic settlement of Soviet design. Also a political dissident was sent to the gulag on the charge of being a contact for Western agents.],
 
 
 tz1985e1x22a
@@ -1750,17 +1750,14 @@ comedian ends up paying a high price.
 Directed by: Gus Trikonis. Story by: Gordon Mitchell.
 
 :: Ratings
-3 <paul*>,
+3 <paul>,
 4 <mikael>,
-
-:: Choice Themes
 
 :: Major Themes
 stand-up comedy [America's hottest comedian Billy Diamond paid a heavy price for stealing the "Gorilla Banana" routine from another comedian.],
 punishment in the afterlife [After dying in a traffic accident, Billy was doomed to go on stage every night in the afterlife and tell his audience about all the rotten things he had done in life.],
-ironic twist of fate [],
-remorse [it seemed the purpose of the exercise was to evoke remorse in Billy, and partially achieved],
-facing one's darker side [Billy was forced to confront the wicked things he had done in his career],
+remorse [It seemed the purpose of the exercise was to evoke remorse in Billy, and partially achieved.],
+facing one's darker side [Billy was forced to confront the wicked things he had done in his career.],
 
 :: Minor Themes
 transsexualism [Billy made a couple of self-deprecating transsexual jokes that were par for the course in 1980s stand-up comedy.],
@@ -1788,18 +1785,14 @@ Directed by: Ben Bolt. Story by: Arthur Gray, Robert Hunter.
 3 <paul>,
 4 <mikael>,
 
-:: Choice Themes
-
 :: Major Themes
 life in Victorian Britain [The story followed a group of young Cambridge students in Victorian England form a group called The Devil's Alphabet Society.],
 ghost [Each deceased member of The Devil's Alphabet Society returned to their yearly meeting in ghostly form.],
-the afterlife [The ghosts all voted to end the pact, resulting in the freeing of the trapped spirits from Purgatory.],
-secret society conspiracy theory [for discussion],
-honor [keeping to the oaths was seen as a matter of honor],
-suicide [We saw two The Devil's Alphabet Society members shoot themselves dead in the head. Two other members seemingly hanged themselves from high ceilings with no chair.],
+honor [The Victorian gentlemen considered themselves honor-bound to keep their oath to attend their yearly meeting.],
 
 :: Minor Themes
-honor [The Victorian gentlemen considered themselves honor-bound to attend their yearly meeting.],
+suicide [We saw two The Devil's Alphabet Society members shoot themselves dead in the head. Two other members seemingly hanged themselves from high ceilings with no chair.],
+the afterlife [The ghosts all voted to end the pact, resulting in the freeing of the trapped spirits from Purgatory.],
 
 
 tz1985e1x22c
@@ -1822,15 +1815,11 @@ Directed by: John Hancock. Story by: Anne Collins.
 3 <paul>,
 4 <mikael>,
 
-:: Choice Themes
-
 :: Major Themes
-what if I could see into the future [for discussion. Ellen could rewrite the future.],
-be careful what you wish for [Ellen tried to fix her friend's problems by rewriting their futures, but it always worked out badly, owing to unforeseen complications.],
+people meddling in history [Ellen got a job a a special library which contained books documenting the lives of everyone alive. When Ellen rewrote the books, they people present lives changed.],
 sister and sister [Ellen was rooming with her younger sister Lori.],
-the butterfly effect [FD this is not right but maybe something else about unintended consequences],
-death incarnate [FD],
-resisting a temptation [Ellen succumbed to the temptation to meddle with destiny],
+death incarnate [Gloria implied that she was the assistant to the Grim Reaper.],
+resisting a temptation [Ellen succumbed to the temptation to meddle with people's destiny.],
 
 :: Minor Themes
 first day on the job [We saw Ellen on her first day working at a most curious private library.],
@@ -1838,7 +1827,8 @@ what it is like to be a struggling artist [Aspiring writer Ellen took on a part 
 loneliness [Lori's friend was depressed and lonely because she was 37 years old without kids.],
 the desire to have children [Lori's friend was depressed and lonely because she was 37 years old without kids.],
 suicide [Doug talked of suicide in advance of filing for bankruptcy.],
-
+facing financial ruin [Doug talked of suicide in advance of filing for bankruptcy.],
+ 
 
 tz1985e1x23a
 ============
@@ -1866,9 +1856,9 @@ the universe is a dream theory [Adam was convinced that his execution won't matt
 :: Major Themes
 facing one's own execution [Adam was put on death row to await his hanging.],
 capital punishment [Adam experiences on death row combined with his vivid description of what is like to be walked to the gallows and be hanged make ask us to question the morality of executing prisoners.],
-what if I told the truth and nobody would believe me [nobody believed Adam],
-personal ethical dilemma [FD district attorney],
-solipsism syndrome [Adam is thought to have this delusion https://en.wikipedia.org/wiki/Solipsism_syndrome],
+what if I told the truth and nobody would believe me [Nobody believed Adam when he told them they were figments of his imagination.],
+to kill or to spare [Should the judge call the judge to stay Adam's execution?],
+solipsism syndrome [Adam was thought to have this delusion.],
 
 :: Minor Themes
 what it is like in a legal proceeding [Adam was found guilty of murder in the first degree in and sentenced to death by hanging.],
@@ -1877,8 +1867,8 @@ murder in society [Adam was convicted of first degree murder in a court of law.]
 hatred [Adam insisted that Carol was his sister and moreover that she harbored some deep resentment of him and that's why she wanted him to hang.],
 father and son [Adam insisted that Father Grant was his biological father.],
 Catholicism [Adam was visited by a Catholic priest prior to his execution.],
-beating one's self up [Adam suggested that his dreams stemmed from shame for something he had done],
-brother and sister [],
+beating one's self up [Adam suggested that his dreams stemmed from shame for something he had done.],
+brother and sister [Adam believed that Carol was his sister.],
 
 
 tz1985e1x23b
@@ -1899,23 +1889,21 @@ Directed by: Peter Medak. Story by: Patrice Messina.
 4 <paul>,
 3 <mikael>,
 
-:: Choice Themes
-
 :: Major Themes
 coping with a loved one being terminally ill [Rosemarie's younger sister Mary was terminally ill with leukemia.],
-coping with a terminal illness [Mary had leukemia.],
 sister and sister [Rosemarie and her younger, terminally ill sister Mary.],
 what if I woke up in the future [Rosemarie was toss 20 years in the future to the year 1986 to find out that she had become a famous opera singer.],
 opera [Rosemarie became a famous opera singer.],
-sororal love [],
+sororal love [Rosemarie and her younger sister Mary formed a deep bond before Mary's demise from leukemia.],
 
 :: Minor Themes
+coping with a terminal illness [Mary had leukemia.],
 mother and daughter [Rosemarie and Mary had some cursory interactions with their mother.],
 father and daughter [Rosemarie and Mary had some cursory interactions with their mother.],
-what if I met myself from a different time [for discussion],
+what if I met myself from a different time [Rosemarie went to the future and saw her future opera star self.],
 grief [Rosemarie and her family mourned the death of Mary.],
-wish-granting magic object [FD shooting star?],
-what it is like in showbiz [we saw the backstage of an opera],
+wish-granting shooting star [Mary wished upon a shooting star that her older sister would become a great opera singer.],
+what it is like in showbiz [We saw the backstage of an opera house.],
 
 
 tz1985e1x24a
@@ -1933,7 +1921,7 @@ After witnessing the landing of a flying saucer, a young couple find themselves 
 Directed by: Philip DeGuere. Story by: David Gerrold.
 
 :: Ratings
-2 <paul>,
+2 <paul*>,
 3 <mikael>,
 
 :: Choice Themes
@@ -1972,8 +1960,6 @@ Directed by: Jeannot Szwarc. Story by: Roger Zelazny, George R. R. Martin.
 :: Ratings
 2 <paul>,
 4 <mikael>,
-
-:: Choice Themes
 
 :: Major Themes
 what if I were immortal [Sir Lancelot was cursed to live forever.],
