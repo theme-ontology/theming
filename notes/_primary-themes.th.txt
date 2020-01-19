@@ -1759,7 +1759,7 @@ suggested that the outcome of some pivotal event, say Germany's defeat in WW2,
 was orchestrated by extraterrestrials.
 
 :: Parents
-crackpot theory
+crackpot theory, people meddling in history
 
 :: References
 https://en.wikipedia.org/wiki/Ancient_astronauts
@@ -15433,8 +15433,8 @@ political issue
 https://en.wikipedia.org/wiki/Censorship
 
 
-government concealing information
-=================================
+government secrecy
+==================
 
 :: Description
 The pros and cons of government secrecy to society are explored.
@@ -15448,6 +15448,9 @@ doom of their civilization in tng5x25 "The Inner Light".
 
 :: References
 https://en.wikipedia.org/wiki/Secrecy#Government_secrecy
+
+:: Aliases
+government concealing information
 
 
 government expropriation of land
@@ -22914,23 +22917,6 @@ nature etc., never mind antibiotics and such pointless luxeries.
 technology-free utopia
 
 
-non-Euclidean geometry
-======================
-
-:: Description
-One of two geometries that arise by relaxing Euclid’s postulate that the
-angles of a triangle sum to 180 degrees.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Non-Euclidean_geometry
-
-:: Other Parents
-mathematics
-
-
 non-Euclidean space
 ===================
 
@@ -23191,8 +23177,8 @@ that it could replace Kirk as the captain aboard the Enterprise in tos2x24
 https://www.merriam-webster.com/dictionary/obsessed
 
 
-obsessive infatuation
-=====================
+obsessive love
+==============
 
 :: Description
 An infatuation that is so intense and obsessive that one’s self-control and
@@ -23208,6 +23194,9 @@ when she encountered an attractive bartender on the holodeck.
 
 :: References
 https://en.wikipedia.org/wiki/Obsessive_love
+
+:: Aliases
+obsessive infatuation
 
 
 obsessive-compulsive disorder
@@ -23271,6 +23260,9 @@ https://en.wikipedia.org/wiki/Workplace_politics
 
 :: Other Parents
 the workplace
+
+:: Aliases
+workplace politics
 
 
 office romance
@@ -23886,8 +23878,8 @@ Gideon".
 https://en.wikipedia.org/wiki/Human_overpopulation
 
 
-overpopulation
-==============
+human overpopulation
+====================
 
 :: Description
 The social and environmental ramifications of an ever increasing human
@@ -23919,24 +23911,6 @@ as the international planning commission imposes variously silly and corrupt
 regulations that stifle productivity. The whole planet suffers from rolling
 black-outs as it can no longer even produce the electricity it needs to light
 up its board rooms.
-
-
-ozone layer depletion
-=====================
-
-:: Description
-A severely depleted ozone layer leaves civilization exposed to deadly UV
-radiation.
-
-:: Parents
-ecological destruction
-
-:: Examples
-The Aldeans had gone sterile in tng1x17 "When The Bough Breaks" as a result of
-their planet’s ozone layer having become depleted.
-
-:: References
-https://en.wikipedia.org/wiki/Ozone_depletion
 
 
 pacifism
@@ -26744,8 +26718,8 @@ human self improvement
 https://en.wiktionary.org/wiki/put_oneself_in_someone%27s_shoes
 
 
-quacksalvery
-============
+quackery
+========
 
 :: Description
 The fradulent practice of peddling unproven "medicines" that are highly
@@ -26756,6 +26730,9 @@ superstition
 
 :: References
 https://en.wikipedia.org/wiki/Quackery
+
+:: Aliases
+quacksalvery
 
 
 quality is more important than quantity
@@ -31240,20 +31217,6 @@ speculative engineering
 
 :: References
 https://en.wikipedia.org/wiki/Macro-engineering
-
-
-sub-replacement fertility
-=========================
-
-:: Description
-For one reason or another people become infertile and civilization gradually
-die out.
-
-:: Parents
-force of nature existential risk to civilization
-
-:: References
-https://en.wikipedia.org/wiki/Societal_collapse#Sub-replacement_fertility
 
 
 subatomic bacteria
@@ -40437,6 +40400,10 @@ what it is like to be a struggling artist
 We are shown what it might be like for an aspiring painter, musician, or other
 performer of the fine arts who has not (yet) acquired sufficient patronage to
 sustain themselves in their chosen profession.
+
+:: Notes
+This theme does not apply to kids who live with their family and are not yet
+expected to sustain themselves.
 
 :: Parents
 what life is like
