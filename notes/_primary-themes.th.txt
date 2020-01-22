@@ -582,19 +582,6 @@ organized religion
 https://en.wikipedia.org/wiki/Judaism
 
 
-King Arthur
-===========
-
-:: Description
-The legend of King Arthur and his round table is featured.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/King_Arthur
-
-
 Lagrange point
 ==============
 
@@ -9800,8 +9787,8 @@ own machination, for example into a trap.
 the art of war
 
 
-deductive logic
-===============
+deductive reasoning
+===================
 
 :: Description
 The top-down process of reasoning from one or more general laws to reach a
@@ -9812,6 +9799,9 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Deductive_reasoning
+
+:: Aliases
+deductive logic
 
 
 defamation of character vs. freedom of speech
@@ -10453,8 +10443,8 @@ modern science
 https://en.wikipedia.org/wiki/Superseded_scientific_theories
 
 
-discrimination
-==============
+discrimination in society
+=========================
 
 :: Description
 The ramifications of discrimination in society are explored.
@@ -12093,6 +12083,9 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Exponential_growth
+
+:: Aliases
+geometric growth
 
 
 exported pollution
@@ -15053,6 +15046,9 @@ scientific discipline
 :: References
 https://en.wikipedia.org/wiki/Climate_engineering
 
+:: Aliases
+climate engineering
+
 
 geometric growth
 ================
@@ -15221,7 +15217,11 @@ themselves give them credit for.
 gender issue
 
 :: References
-https://en.wikipedia.org/wiki/Girl_power https://en.wikipedia.org/wiki/Women%27s_empowerment
+https://en.wikipedia.org/wiki/Girl_power
+https://en.wikipedia.org/wiki/Women%27s_empowerment
+
+:: Aliases
+women's empowerment
 
 
 girlfriend and girlfriend
@@ -15706,7 +15706,7 @@ to Jono in tng4x04 "Suddenly Human".
 juvenile
 
 
-guerrilla tactics
+guerrilla warfare
 =================
 
 :: Description
@@ -18409,8 +18409,8 @@ humans interacting
 https://en.wikipedia.org/wiki/Intimidation
 
 
-intoxication
-============
+substance intoxication
+======================
 
 :: Description
 Someone becomes or acts as if they have become intoxicated by, e.g., alcohol.
@@ -20787,8 +20787,8 @@ superstition
 https://en.wikipedia.org/wiki/Alraune#Legend https://en.wikipedia.org/wiki/Mandrake#Magic_and_witchcraft
 
 
-manliness
-=========
+masculinity
+===========
 
 :: Description
 What it means to be a real man is at stake.
@@ -20798,6 +20798,9 @@ male stereotype
 
 :: References
 https://en.wikipedia.org/wiki/Masculinity
+
+:: Aliases
+manliness
 
 
 manners
@@ -21271,15 +21274,15 @@ A paramour meets the parents of their lover for the first time.
 romantic relationship issue
 
 
-megalomania
-===========
+narcissism
+==========
 
 :: Description
 Someone is obsessed with (and normally deluded about) their own grandeur,
 powers, and abilities.
 
 :: Parents
-human character
+human character, human mental condition
 
 :: Examples
 Garth of Izar suffered from delusions of grandeur in tos3x16 "Whom Gods
@@ -21287,6 +21290,10 @@ Destroy".
 
 :: References
 https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
+
+:: Aliases
+narcissistic personality disorder,
+megalomania
 
 
 memory implantation technology
@@ -39229,7 +39236,7 @@ Worf suddenly found himself shifting between strangely different alternate
 realities in tng7x11 "Parallels".
 
 :: Related Themes
-what if I was tossed into the past
+what if I found myself in the past
 
 
 what if I was held captive and made an exhibition object
@@ -39340,7 +39347,7 @@ take advantage of one or other of our abilities.
 what if I were in a tight spot
 
 
-what if I was tossed into the past
+what if I found myself in the past
 ==================================
 
 :: Description
@@ -39697,11 +39704,12 @@ strange place with no recollection of the recent past.
 what if I found myself in a strange place
 
 
-what if I woke up in the future
-===============================
+what if I found myself in the future
+====================================
 
 :: Description
-We imagine what it would be like to suddenly move into the future.
+We imagine what it would be like to more or less suddenly and unexpectedly move 
+into the future.
 
 :: Parents
 what if I found myself in a different time
