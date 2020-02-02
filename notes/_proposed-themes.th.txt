@@ -2,7 +2,13 @@ people being exploited for entertainment
 ========================================
 
 :: Description
-People are humiliated or exploited in the name of public entertainment.
+People are humiliated or otherwise exploited for the sake of 
+public entertainment.
+
+:: Notes
+This theme does not apply when people who have a reasonable choice in the
+matter freely choose to participate in what may look like humiliation or 
+exploitation.
 
 :: Parents
 sociocultural issue
@@ -18,6 +24,10 @@ political repression in society
 ===============================
 
 :: Description
+A state entity uses force to control its citizens in order to restrict or 
+prevent their ability to participate in political life. Typically, this happens
+when people are punished by officialdom for voicing the wrong opinions or
+being part of the wrong groups.
 
 :: Parents
 political issue
@@ -25,11 +35,19 @@ political issue
 :: References
 https://en.wikipedia.org/wiki/Political_repression
 
+:: Examples
+In tz1985e1x21b "Red Snow", we saw how Soviet officials grabbed a political 
+dissident carrying a forbidden book, off the streets to send him to a Gulag
+like camp in the freezing north.
+
 
 life in Victorian Britain
 =========================
 
 :: Description
+We are shown a reasonable idea of what life might have been like for some category 
+of people living in Britain (or in areas suffused with British culture) in or
+around the reign of queen Victoria, i.e., 1837 to 1901.
 
 :: Parents
 history
@@ -37,11 +55,20 @@ history
 :: References
 https://en.wikipedia.org/wiki/Victorian_era
 
+:: Examples
+In tz1985e1x22b "Devil's Alphabet", we followed the lives of a friend group of 
+Cambridge students for a few years after their graduation, some time in 
+Victorian England.
+
 
 people meddling in history
 ==========================
 
 :: Description
+The idea is presented that a sentient entity has more or less deliberately 
+intervened to shape that history in a way that is not normal. This typically
+necessitates some form of time travel or clandestine visit by someone who is 
+not supposed to be part of our history.
 
 :: Parents
 crackpot theory
@@ -51,18 +78,36 @@ solipsism syndrome
 ==================
 
 :: Description
+There is a person who thinks that all of reality is merely a construction in
+their own mind.
 
 :: Parents
 human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Solipsism_syndrome
+
+:: Examples
+In tz1985e1x23a "Shadow Play", Adam was thought to suffer from this condition
+when he stated that everyone else was merely an actor in his recurring dream.
+Alas, it transpired that Adam was quite correct.
 
 
 wish-granting shooting star
 ===========================
 
 :: Description
+Someone sees a shooting star, makes a wish, and has the wish granted.
 
 :: Parents
 wish-granting magic object
+
+:: References
+https://en.wikipedia.org/wiki/Shooting_Star
+
+:: Examples
+In tz1985e1x23b "Grace Note", Mary wished upon a shooting star that her older sister 
+would become a great opera singer, and so she did.
 
 
 the legend of King Arthur
@@ -82,15 +127,24 @@ magic powers
 ============
 
 :: Description
+A character is able to do at will some fantastical things that can 
+only be described as "magic".
+
+:: Notes
+This theme is used when the story itself implies magic, rather than for
+example speculative technology or other categorized speculative ability.
 
 :: Parents
-superstition
+supernatural ability
 
 
 ozone layer depletion
 =====================
 
 :: Description
+The environmental issue of human activity causing the ozone layer to weaken
+is featured. This leads to increased ultraviolet radiation which is thought
+to be harmful to life in general.
 
 :: Parents
 environmental issue
