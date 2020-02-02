@@ -3156,22 +3156,6 @@ Sheliak in tng3x02 "The Ensigns of Command".
 https://en.wikipedia.org/wiki/Alien_invasion
 
 
-attack from outer space by a giant space amoeba
-===============================================
-
-:: Description
-An enormous space-dwelling, single-celled organism with amoeba-like
-characteristics engulfs your whole planet and consumes every last thing living
-on it as well as the planet itself.
-
-:: Parents
-attack from outer space
-
-:: Examples
-The Gamma 7A system, with its billions of inhabitants, was utterly destroyed
-by a giant space amoeba in tos2x19 "The Immunity Syndrome".
-
-
 attack from outer space by a powerful conquering alien race
 ===========================================================
 
@@ -3203,21 +3187,6 @@ attack from outer space
 :: Examples
 All the planets in systems L-370 and L-374 were reduced to rubble by a world
 eating machine in tos2x06 "The Doomsday Machine".
-
-
-attack from outer space by a world eating space cloud
-=====================================================
-
-:: Description
-An enormous world eating cloud from outer space gobbles up your whole planet
-for food or fuel.
-
-:: Parents
-attack from outer space
-
-:: Examples
-The planet Mantiles, with its 82 million colonists, was very nearly consumed
-by a giant space cloud in tas1x03 "One of our Planets is Missing".
 
 
 attitude towards the dead
@@ -8953,17 +8922,6 @@ society on the principles laid out in Plato's Republic.
 https://en.wikipedia.org/wiki/Republic_(Plato)
 
 
-counterfactuals
-===============
-
-:: Description
-A conditional statement containing an if-clause which is contrary to fact. For
-example: If I had only brought along an umbrella, then I would be dry.
-
-:: Parents
-topic in science
-
-
 courage
 =======
 
@@ -9033,8 +8991,8 @@ conducting an experiment or two in the process.
 extraterrestrial being
 
 
-covert military program
-=======================
+covert military operation
+=========================
 
 :: Description
 A secret military project is featured.
@@ -9044,6 +9002,9 @@ military secrecy
 
 :: References
 https://en.wikipedia.org/wiki/Covert_operation
+
+:: Aliases
+covert military program
 
 
 cowardice
@@ -10530,8 +10491,8 @@ as a skill in their posession.
 human self improvement
 
 
-discredited scientific theory
-=============================
+superseded scientific theory
+============================
 
 :: Description
 The category of scientific theories that were once widely accepted but have
@@ -10542,6 +10503,9 @@ modern science
 
 :: References
 https://en.wikipedia.org/wiki/Superseded_scientific_theories
+
+:: Aliases
+discredited scientific theory
 
 
 discrete time
@@ -15323,9 +15287,6 @@ a difference of strongly held beliefs or preferences.
 :: Parents
 humans interacting
 
-:: References
-http://tvtropes.org/pmwiki/pmwiki.php/Main/OddCouple
-
 
 ghost
 =====
@@ -15408,7 +15369,7 @@ An amoeba-like being of enormous proportions but with internal components
 analogous those of living cells, i.e., organelles.
 
 :: Parents
-locationally distinguished being, size distinguished being, spaceborne being
+size distinguished being, spaceborne being
 
 :: Examples
 Such a being was encountered in tos2x19 "The Immunity Syndrome".
@@ -41354,7 +41315,7 @@ People who disagree and dislike each other must seek to work together in spite
 of their differences.
 
 :: Parents
-humans at work
+humans at work, getting along in spite of disagreement
 
 :: Other Parents
 the workplace
