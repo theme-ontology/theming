@@ -1,5 +1,3 @@
-
-
 human life in history
 =====================
 
@@ -49,6 +47,10 @@ human life in history
 
 :: References
 https://en.wikipedia.org/wiki/Prehistory
+https://en.wikipedia.org/wiki/Stone_Age
+
+:: Aliases
+human life in the stone age,
 
 
 human life in ancient times
@@ -118,6 +120,10 @@ human life in history
 
 :: References
 https://en.wikipedia.org/wiki/Early_modern_period
+https://en.wikipedia.org/wiki/Age_of_Sail
+
+:: Aliases
+life in the Age of Sail
 
 
 human life in late modern times
@@ -157,10 +163,6 @@ human life in history
 
 :: References
 https://en.wikipedia.org/wiki/History_of_the_world#Late_modern_period
-
-
-
-
 
 
 human life in historical Europe
@@ -240,9 +242,6 @@ category of people somewhere in Britain in the past.
 human life in historical Europe
 
 
-
-
-
 life in Victorian Britain
 =========================
 
@@ -313,21 +312,6 @@ family living in the Bengali city Varanasi around 1920.
 
 :: References
 https://en.wikipedia.org/wiki/Colonial_India
-
-
-life in Edwardian Britain
-=========================
-
-:: Description
-It is shown what life might have been like in Britain from the start of the
-brief reign of King Edward VII in 1901 until the start of the First World War.
-
-:: Parents
-human life in late modern times, 
-human life in historical Britain,
-
-:: References
-https://en.wikipedia.org/wiki/Edwardian_era
 
 
 life in inner city America
@@ -428,8 +412,8 @@ life in the Soviet Union
 ========================
 
 :: Description
-We are shown an idea of what more-or-less normal life might have been like in
-the USSR while it existed, i.e., between 1922 and 1991.
+We are shown an idea of what more-or-less normal life might have been 
+like in the USSR while it existed, i.e., between 1922 and 1991.
 
 :: Parents
 human life in historical Asia,
@@ -442,44 +426,98 @@ In tz1985e1x21b "Red Snow", we saw some people living in a dreary arctic
 Gulag-like settlement of Soviet design.
 
 
-
-
-
-
-life in the late 20th century
-=============================
+life in Crow law era America
+============================
 
 :: Description
-We are shown what life was like for people in the second half of the 20th
-century.
+We are shown a reasonable idea of what life might have been like for ordinary people
+in American (especially the South) during the time when Jim Crow laws mandated 
+various kinds of racial segregation, i.e., roughly 1877 to 1954.
 
 :: Parents
-human life in post-war times,
+human life in late modern times,
+human life in historical North America,
 
-
-life in the stone age
-=====================
-
-:: Description
-It is described what life might have been in the stone age.
-
-:: Parents
-human life in pre-historical times,
+:: Examples
+In "Daughters of the Dust" (1991), we saw the lives of an extended black family on a 
+former slave plantation island off the coast of Georgia in 1902.
 
 :: References
-https://www.universiteitleiden.nl/en/research/research-projects/archaeology/daily-life-in-the-stone-age
+https://en.wikipedia.org/wiki/Jim_Crow_laws
+
+
+life in revolution era America
+==============================
+
+:: Description
+We are shown what life might have been like for people in USA in and around
+the time when they declared independence from England, i.e., 1765 to 1783.
+
+:: Parents
+human life in early modern times,
+human life in historical North America,
+
+:: References
+https://en.wikipedia.org/wiki/18th_century_in_the_United_States
+https://en.wikipedia.org/wiki/American_Revolution
+
+
+life in early modern Ireland
+============================
+
+:: Description
+It is described what life might have been in Ireland during 
+around 1500-1800, i.e., before industrialization.
+
+:: Parents
+human life in early modern times,
+human life in historical Europe,
+
+
+life in late modern Italy
+=========================
+
+:: Description
+The everyday life of people in this era and region of the world 
+are depicted.
+
+:: Parents
+human life in late modern times,
+human life in historical Europe,
+
+
+life in late modern Britain
+===========================
+
+:: Description
+It is described what life might have been in Britain 
+around 1750-1945, i.e., during the Industrial Age.
+
+:: Parents
+human life in late modern times,
+human life in historical Europe,
+
+
+life in late modern France
+==========================
+
+:: Description
+It is described what life might have been in France in and around
+1800 to 1945.
+
+:: Parents
+human life in late modern times,
+human life in historical Europe,
 
 
 life in Age of Enlightenment
 ============================
 
 :: Description
-It is conveyed what life might have been like in intellectual circles in
-Europe between the years of 1715 (the year that Louis XIV died) and 1789 (the
-beginning of the French Revolution).
 
 :: Parents
-human life in early modern times
+human life in late modern times,
+human life in historical Europe,
 
 :: Examples
 Peter Standish traveled back in time to 18th century London and met a number
@@ -488,106 +526,5 @@ of historical figures, including Samuel Johnson, in "I'll Never Forget You"
 
 :: References
 https://en.wikipedia.org/wiki/Age_of_Enlightenment
-
-
-life in the Age of Sail
-=======================
-
-:: Description
-It is conveyed what life might have been like on the high seas in the Age of
-Sail (usually dated as 1571–1862) - a period roughly corresponding to the
-early modern period in which international trade and naval warfare were
-dominated by sailing ships, lasting from the 16th to the mid-19th century.
-
-:: Parents
-human life in early modern times,
-
-:: References
-https://en.wikipedia.org/wiki/Age_of_Sail
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-life in 18th century America
-============================
-
-:: Description
-We are shown what life might have been like for people in USA in and around
-the time period 1701-1800.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/18th_century_in_the_United_States
-
-
-life in 19th century Ireland
-============================
-
-:: Description
-It is described what life might have been in Ireland during the 18-hundreds.
-
-:: Parents
-history
-
-
-life in 19th century Italy
-==========================
-
-:: Description
-The everyday life of people in this era and region of the world are depicted.
-
-:: Parents
-history
-
-
-life in 20th century England
-============================
-
-:: Description
-It is described what life might have been in England during the early 20th
-century.
-
-:: Parents
-history
-
-
-life in 20th century France
-===========================
-
-:: Description
-It is described what life might have been in France during the early 20th
-century.
-
-:: Parents
-history
-
-
-life in 21st century America
-============================
-
-:: Description
-We are shown what life in America in the early 21st century might have been
-like.
-
-:: Parents
-history
-
 
 
