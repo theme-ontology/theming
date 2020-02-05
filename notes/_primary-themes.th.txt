@@ -3450,25 +3450,6 @@ https://en.wikipedia.org/wiki/Bank_robbery
 https://en.wikipedia.org/wiki/List_of_bank_robbers_and_robberies
 
 
-basic calculus
-==============
-
-:: Description
-A large and important area of mathematics with applications in all fields of
-science and engineering.
-
-:: Parents
-topic in science
-
-:: Examples
-Young Harry did not understand why he had to study calculus in tng1x17 "When
-The Bough Breaks". He would much rather have spent his time sculpting
-dolphins.
-
-:: References
-https://en.wikipedia.org/wiki/Calculus
-
-
 be careful what you wish for
 ============================
 
@@ -4471,7 +4452,6 @@ The Morg of Sigma Draconis VI used such technology to steal Spock’s big and
 sexy brain in tos3x06 "Spock's Brain".
 
 :: References
-https://en.wikipedia.org/wiki/Brain_in_a_vat
 http://www.sf-encyclopedia.com/entry/brain_in_a_box
 
 
@@ -6605,24 +6585,6 @@ the Eminain Union and the People of Vendikar in tos1x23 "A Taste of
 Armageddon".
 
 
-computer-aided mathematical model simulation
-============================================
-
-:: Description
-The simulation of a system as represented by a mathematical model on computer
-that is usually too complicated to find analytical solutions.
-
-:: Parents
-topic in science
-
-:: Examples
-Geordi and Leah Brahms used such fancy maths to save the day in tng3x06 "Booby
-Trap".
-
-:: References
-https://en.wikipedia.org/wiki/Computer_simulation
-
-
 con artistry
 ============
 
@@ -6811,6 +6773,9 @@ according to Kaelonian culture to commit suicide at the age of 65 in tng4x22
 
 :: References
 https://en.wikipedia.org/wiki/Suicide_crisis
+
+:: Aliases
+suicide crisis
 
 
 contempt
@@ -7081,8 +7046,8 @@ Captain Picard and Wesley found themselves stranded on a desert moon with the
 cantankerous mining shuttle captain Dirgo in tng4x09 "Final Mission".
 
 
-coping with a loss of faith
-===========================
+coping with a crisis of faith
+=============================
 
 :: Description
 Someone struggles with a loss of faith in religious beliefs that they once
@@ -7092,7 +7057,7 @@ held dear.
 human mental condition
 
 :: References
-http://tvtropes.org/pmwiki/pmwiki.php/Main/CrisisOfFaith
+https://en.wikipedia.org/wiki/Spiritual_crisis
 
 
 coping with a loved one being in peril
@@ -8141,19 +8106,6 @@ other problems that can come in the aftermath of such a misfortune.
 coping with life issues
 
 
-coping with having injured a friend
-===================================
-
-:: Description
-Someone feels guilty at having been responsible for injuring a friend.
-
-:: Parents
-human interpersonal relationship
-
-:: Examples
-McCoy unintentionally blinded Spock in tos1x29 "Operation – Annihilate!".
-
-
 coping with having injured someone
 ==================================
 
@@ -8162,6 +8114,9 @@ Someone feels guilty at having been responsible for injuring another person.
 
 :: Parents
 human interpersonal relationship
+
+:: Examples
+McCoy unintentionally blinded Spock in tos1x29 "Operation – Annihilate!".
 
 
 coping with having let someone down
@@ -8302,11 +8257,14 @@ A character copes with heart-wrenching memories of a lover that they failed to
 entirely get over.
 
 :: Parents
-romantic relationship issue, human emotional issue
+romantic relationship issue, human emotional issue, human dreaming
 
 :: Examples
 McCoy found himself in a "romantic haze" at the prospect of meeting his long-
 lost love Nancy on Planet M-113 In tos1x05 "The Man Trap".
+
+:: Aliases
+lamentation over a lost love
 
 
 coping with menopause
@@ -8545,7 +8503,10 @@ Barclay retreated to a holodeck powered fantasy world to escape his on the job
 problems in tng3x21 "Hollow Pursuits".
 
 :: References
-http://www.apa.org/helpcenter/work-stress.aspx https://en.wikipedia.org/wiki/Occupational_stress
+https://en.wikipedia.org/wiki/Occupational_stress
+
+:: Aliases
+coping with occupational stress
 
 
 coping with suicide
@@ -19324,16 +19285,6 @@ political issue
 
 :: References
 https://en.wikipedia.org/wiki/Trade_union
-
-
-lamentation over a lost love
-============================
-
-:: Description
-Someone sadly ponders a love affair that has long since ended.
-
-:: Parents
-human dreaming
 
 
 language change
