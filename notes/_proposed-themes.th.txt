@@ -175,18 +175,16 @@ computer simulation
 ===================
 
 :: Description
-
-
-:: Old
-The simulation of a system as represented by a mathematical model on computer
-that is usually too complicated to find analytical solutions.
+A computer is used to simulate a complex system, for example the movement of
+planets in a solar system, the folding of a proteins, the trajectory of a 
+vehicle etc.
 
 :: Parents
 topic in science
 
 :: Examples
-Geordi and Leah Brahms used such fancy maths to save the day in tng3x06 "Booby
-Trap".
+Geordi and Leah Brahms used the holodeck to simulate the warp engine, and
+save the day in tng3x06 "Booby Trap".
 
 :: References
 https://en.wikipedia.org/wiki/Computer_simulation
