@@ -5,7 +5,7 @@ play: Hamlet (1602)
 :: Title
 Hamlet
 
-:: Author
+:: Authors
 William Shakespeare
 
 :: Description
@@ -53,7 +53,7 @@ play: Macbeth (1606)
 :: Title
 Macbeth
 
-:: Author
+:: Authors
 William Shakespeare
 
 :: Description
@@ -92,7 +92,7 @@ play: King Lear (1606)
 :: Title
 King Lear
 
-:: Author
+:: Authors
 William Shakespeare
 
 :: Description
@@ -121,7 +121,7 @@ play: Othello (1603)
 :: Title
 Othello
 
-:: Author
+:: Authors
 William Shakespeare
 
 :: Description

@@ -109,7 +109,7 @@ tng1x01
 :: Episode Title
 Encounter at Farpoint
 
-:: Setting
+:: Settings
 Enterprise-D engineering, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D battle bridge, courtroom, chamber, xeric scrubland, town square, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D observation lounge, Enterprise-D sickbay, Enterprise-D turbolift, chamber, Enterprise-D holodeck <woodland>, woodland, underground tunnel, Enterprise-D Beverly's office, Space Jellyfish corridor, Enterprise-D holodeck
 
 :: Deaths
@@ -124,7 +124,7 @@ teleportation phobia [McCoy], headache [Geordi]
 :: Mind Complications
 high on drug [soldier]
 
-:: Altercation
+:: Altercations
 hand to hand combat [Tasha and post-atomic horror soldier], planetary bombardment, machine gunning [soldier at soldier], mysterious freezing [Q at Tasha, Q at Torres], torture by forcefield [alien at Zorn]
 
 :: Technobabble
@@ -211,7 +211,7 @@ tng1x02
 :: Episode Title
 Encounter at Farpoint
 
-:: Setting
+:: Settings
 
 :: Deaths
 
@@ -221,7 +221,7 @@ Encounter at Farpoint
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -297,7 +297,7 @@ tng1x03
 :: Episode Title
 The Naked Now
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D Beverly's office, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D Beverly's quarters, Enterprise-D engineering, Enterprise-D Tasha's quarters <dimly lit room>, Enterprise-D Troi's quarters <bathroom>, Enterprise-D science lab, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, dimly lit room, bathroom
 
 :: Deaths
@@ -311,7 +311,7 @@ polywater intoxication [entire crew], heavy perspiration [Geordi, other crewmen]
 :: Mind Complications
 madness <mentioned>
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 isolinear chip [7x], sonic driver [1x]
@@ -431,7 +431,7 @@ tng1x04
 :: Episode Title
 Code of Honor
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <dojo>, dojo, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D transporter room, Enterprise-D turbolift, banquet room, living room, great hall, arena
 
 :: Deaths
@@ -444,7 +444,7 @@ prick to the chest [Ligonian spectator], lethal poisoning [Ligonian spectator, Y
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 fight to the death [Tasha and Yareena], physical altercation [Tasha and Hagon], sparring [Tasha and hologram, Hagon and hologram], abduction [Lutan at Tasha],
 
 :: Technobabble
@@ -534,7 +534,7 @@ tng1x05
 :: Episode Title
 The Last Outpost
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <emergency shelter; meeting room>, Enterprise-D briefing room, Enterprise-D transporter room, alien landscape, emergency shelter, meeting room
 
 :: Deaths
@@ -546,7 +546,7 @@ light whip stun [Riker,Geordi,Worf]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 ambush [Ferengi to away team], shoot out, melee
 
 :: Technobabble
@@ -652,7 +652,7 @@ tng1x06
 :: Episode Title
 Where No One Has Gone Before
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D sickbay, sewer
 
 :: Deaths
@@ -664,7 +664,7 @@ exhaustion [The Traveler], loss of consciousness [The Traveler]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 intermix formula [1x], Bessel functions [1x]
@@ -766,7 +766,7 @@ tng1x07
 :: Episode Title
 Lonely Among Us
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sensor maintenance room, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Badar NDD's quarters <dimly lit room>, Enterprise-D Beverly's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D Riker's quarters, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D transporter room, dimly lit room
 
 :: Deaths
@@ -781,7 +781,7 @@ shock by energy discharge
 :: Mind Complications
 memory loss [Worf], temporary mental aberration [Worf], memory blackout, aberrant behavior [Beverly, Picard]
 
-:: Altercation
+:: Altercations
 ambush [Selay at Riker], mysterious electrocution attack [possessed Picard at bridge crew], physical altercation [Worf&medics]
 
 :: Technobabble
@@ -897,7 +897,7 @@ tng1x08
 :: Episode Title
 Justice
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D starboard lounge, council chamber, garden
 
 :: Deaths
@@ -908,7 +908,7 @@ Enterprise-D bridge, Enterprise-D corridor, Enterprise-D starboard lounge, counc
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 physical altercation [Riker and mediator]
 
 :: Technobabble
@@ -1008,7 +1008,7 @@ tng1x09
 :: Episode Title
 The Battle
 
-:: Setting
+:: Settings
 Enterprise-D Picard's quarters <living room; bedroom>, Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, Stargazer bridge <smoke filled room>, Stargazer Picard's quarters, science lab, Stargazer derelict bridge, smoke filled room, living room, bedroom
 
 :: Deaths
@@ -1022,7 +1022,7 @@ headache [Picard], fatigue [Picard], mild headache [Picard]
 :: Mind Complications
 induced paranoia [Picard], auditory hallucination [Picard], multiple personalities
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -1119,7 +1119,7 @@ tng1x10
 :: Episode Title
 Hide and Q
 
-:: Setting
+:: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, rocky wasteland, wrecked room
 
 :: Deaths
@@ -1132,7 +1132,7 @@ impaling through the stomach [Worf], impaling through the back [wesley], third d
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shoot out [crew and monsters], brawl [Worf and monsters], physical altercation [Worf and Klingon woman, Worf and animal things]
 
 :: Technobabble
@@ -1245,7 +1245,7 @@ tng1x11
 :: Episode Title
 Haven
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Riker's quarters <dimly lit room>, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters, Enterprise-D Wyatt's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D banquet room, Enterprise-D holodeck <desert landscape>, desert landscape, Enterprise-D sickbay
 
 :: Deaths
@@ -1257,7 +1257,7 @@ plague infection [Terellian x7]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 responder echo [1x]
@@ -1361,7 +1361,7 @@ tng1x12
 :: Episode Title
 The Big Goodbye
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D holodeck <world of Dixon Hill; American 1940s era office; American 1940s era hallway; American 14940s era waiting room; American 1940s era police station interrogation room; American 1940s era city sidewalk; arctic wasteland>, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, American 1940s era office, American 1940s era hallway, American 14940s era waiting room, American 1940s era police station interrogation room, American 1940s era city sidewalk, Arctic wasteland, world of Dixon Hill
 
 :: Deaths
@@ -1375,7 +1375,7 @@ massive internal bleeding [Whalen]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 pistol whipping [gangster at Picard], gun shoot [gangster at Whalen], strike to the stomach [gangster at policeman], punch to the face [gangster at policeman], punch to the face [data at gagster]
 
 :: Technobabble
@@ -1485,7 +1485,7 @@ tng1x13
 :: Episode Title
 Datalore
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Data's quarters, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D cargo bay, subterranean complex, science lab, storage area, corridor, rocky wasteland, operating theater, badlands
 
 :: Deaths
@@ -1499,7 +1499,7 @@ poisoning <medical emergency>, muscle spasm [Lore]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 punch to the chest [Lore at Worf], punch to the face [Lore at Worf], phaser shot [Lore at Beverly], brawl [Lore and data], kick to face {physical altercation}[Lore to Data]
 
 :: Technobabble
@@ -1620,7 +1620,7 @@ tng1x14
 :: Episode Title
 Angel One
 
-:: Setting
+:: Settings
 campfire, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <snowy landscape>, snowy landscape, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D ready room, Enterprise-D Picard's quarters <bedroom>, executive office, great hall, cavern entrance, holding area, bedroom
 
 :: Deaths
@@ -1633,7 +1633,7 @@ hoarseness of voice, respiratory ailment [crew],
 :: Mind Complications
 delirium [Picard]
 
-:: Altercation
+:: Altercations
 snowballing [wesley at Picard]
 
 :: Technobabble
@@ -1737,7 +1737,7 @@ tng1x15
 :: Episode Title
 11001001
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <jazz club>, jazz club, Enterprise-D transporter room, passageway, Starbase 74 control room, Starbase 74 meeting room, Enterprise-D Data's quarters, Enterprise-D Beverly's office
 
 :: Deaths
@@ -1749,7 +1749,7 @@ disconnected from central computer [Bynars], loss of consciousness [Bynars]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -1857,7 +1857,7 @@ tng1x16
 :: Episode Title
 Too Short a Season
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D Jameson's quarters, Enterprise-D Beverly's office, tunnel, executive office
 
 :: Deaths
@@ -1871,7 +1871,7 @@ youthenization [Mark], convulsions <medical emergency>[Mark], skewed DNA [Mark],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shoot out [crew and soldiers]
 
 :: Technobabble
@@ -1987,7 +1987,7 @@ tng1x17
 :: Episode Title
 When The Bough Breaks
 
-:: Setting
+:: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D classroom, Enterprise-D family quarters <bedroom>, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D Beverly's office, Enterprise-D transporter room, chamber <dinner table>, Aldean control room, music room, shaft, bedroom, dinner table
 
 :: Deaths
@@ -2000,7 +2000,7 @@ chromosomal damage [Aldeans], sterility [Aldeans], heightened sensitivity to lig
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -2097,7 +2097,7 @@ tng1x18
 :: Episode Title
 Home Soil
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D medical lab, Enterprise-D Luisa's quarters, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D observation lounge <meeting room>, meeting room, corridor, hydraulics room, control room, desert wasteland
 
 :: Deaths
@@ -2110,7 +2110,7 @@ critical laser burns [Arthur Malencon]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 spectral analysis [1x]
@@ -2214,7 +2214,7 @@ tng1x19
 :: Episode Title
 Coming of Age
 
-:: Setting
+:: Settings
 Enterprise-D observation lounge <interrogation room; meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D bridge, Enterprise-D holodeck <black void>, black void, Enterprise-D Admiral Quinn's quarters, Enterprise-D engineering, classroom, corridor, exam room, environmental lab, shuttlecraft, interrogation room
 
 :: Deaths
@@ -2227,7 +2227,7 @@ crushed legs [crewman]<fake>
 :: Mind Complications
 paralyzing fear [crewman]<fake>
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 flux coordinating sensor [1x], dilithium {compound}[1x]
@@ -2329,7 +2329,7 @@ tng1x20
 :: Episode Title
 Heart of Glory
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Klingons' quarters <dimly lit room>, Enterprise-D brig, Enterprise-D engineering, Batris corridor <smoke filled room>, Batris engineering <smoke filled room>, Batris auxiliary control room <smoke filled room>, smoke filled room, dimly lit room
 
 :: Deaths
@@ -2343,7 +2343,7 @@ convulsions <medical emergency> [klingon]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shoot out [guards and klingons, Worf and klingon]
 
 :: Technobabble
@@ -2449,7 +2449,7 @@ tng1x21
 :: Episode Title
 The Arsenal of Freedom
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D battle bridge, tunnel, cavern, ancient ruins, jungle clearing, Enterprise-D transporter room, Enterprise-D corridor
 
 :: Deaths
@@ -2462,7 +2462,7 @@ patient going into shock <medical emergency>[Beverly]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shoot out [away team vs. drones x5], space shoot out [enterprise vs. arsenal]
 
 :: Technobabble
@@ -2562,7 +2562,7 @@ tng1x22
 :: Episode Title
 Symbiosis
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Brekkians' quarters, Enterprise-D engineering, Enterprise-D cargo bay, Enterprise-D Beverly's office, Enterprise-D Ornarans' quarters, Enterprise-D turbolift
 
 :: Deaths
@@ -2576,7 +2576,7 @@ mild electrocution [Ornaran, Brekkians], prolonged electrocution [Riker], inside
 :: Mind Complications
 withdrawal placebo symptoms [Ornarans]
 
-:: Altercation
+:: Altercations
 electrical touch fight [Ornaran and Brekkian]
 
 :: Technobabble
@@ -2682,7 +2682,7 @@ tng1x23
 :: Episode Title
 Skin of Evil
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D sickbay <operating theater>, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <countryside>, countryside, Enterprise-D shuttlecraft <dimly lit room>, rocky wasteland, dimly lit room, operating theater
 
 :: Deaths
@@ -2695,7 +2695,7 @@ life energy drain [Tasha], scratches and bruises [Troi]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 mysterious forcefield attack [Armus at Tasha], shoot out [away team at Armus]
 
 :: Technobabble
@@ -2795,7 +2795,7 @@ tng1x24
 :: Episode Title
 We'll Always Have Paris
 
-:: Setting
+:: Settings
 Enterprise-D gymnasium, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D holodeck <French café>, French café, Enterprise-D decontamination area, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Picard's quarters, Enterprise-D Beverly's office, science lab, storage area
 
 :: Deaths
@@ -2808,7 +2808,7 @@ spasms <medical emergency>[Paul], convulsions <medical emergency>[Paul]
 :: Mind Complications
 mind trapped between dimensions [Paul]
 
-:: Altercation
+:: Altercations
 friendly fencing [Picard and crewman]
 
 :: Technobabble
@@ -2905,7 +2905,7 @@ tng1x25
 :: Episode Title
 Conspiracy
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters <bedroom>, Enterprise-D sickbay, Starfleet HQ corridor, Starfleet HQ banquet room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Admiral Quinn's quarters, great hall, reception room, dining room, mining tunnel, Starfleet HQ control room, rocky wasteland, cavern
 
 :: Deaths
@@ -2918,7 +2918,7 @@ internal bug parasite [star fleet officers x4], knocked unconscious [Riker, Worf
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Riker and admiral], shoot out [Picard,Riker and star fleet officers], partial vulcan nerve pinch [admiral at Riker],
 
 :: Technobabble
@@ -3036,7 +3036,7 @@ tng1x26
 :: Episode Title
 The Neutral Zone
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D guest lounge, Enterprise-D Clare's quarters, Enterprise-D Sonny's quarters, Enterprise-D ready room, Enterprise-D corridor, conference room, Romulan cruiser control room, spaceship cryonic chamber
 
 :: Deaths
@@ -3048,7 +3048,7 @@ extensive liver damage [Sonny], advanced cardio myopathy [Ralph], emphysema [Cla
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -3147,7 +3147,7 @@ tng2x01
 :: Episode Title
 The Child
 
-:: Setting
+:: Settings
 Enterprise-D shuttle bay, Enterprise-D bridge, Enterprise-D ready room,  Enterprise-D engineering,  Enterprise-D corridor,  Enterprise-D crew quarters,  Enterprise-D Troi's quarters,  Enterprise-D cargo bay,  Enterprise-D observation lounge <meeting room>, Ten Forward <bar>,  Enterprise-D Pulaski's office,  Enterprise-D sickbay <maternity ward>,  Enterprise-D transporter room, meeting room, maternity ward, bar
 
 :: Deaths
@@ -3160,7 +3160,7 @@ rapid growth [Ian], plasma plague
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 radiation flux [1x], Eichner radiation {radiation}[3x], subspace phase inverter [1x]
@@ -3273,7 +3273,7 @@ tng2x02
 :: Episode Title
 Where Silence Has Lease
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D holodeck, Enterprise-D Geordi's office, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, Enterprise-D corridor, Enterprise-D computer room, Enterprise-D Picard's quarters, Enterprise-D ready room, Yamato corridor, Yamato bridge, Yamato auxiliary bridge, meeting room
 
 :: Deaths
@@ -3286,7 +3286,7 @@ death by head-bashing [holo-monster x2]<3:30>, death by sheer terror [Haskell, m
 :: Mind Complications
 sheer terror [crew-member]
 
-:: Altercation
+:: Altercations
 melee [Worf/Riker and holo-monsters], hand-to-hand combat
 
 :: Technobabble
@@ -3393,7 +3393,7 @@ tng2x03
 :: Episode Title
 Elementary, Dear Data
 
-:: Setting
+:: Settings
 Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D holodeck <Victorian parlor; Victorian foyer; Victorian London street; Victorian alleyway>, Victorian parlor, Victorian foyer, Victorian London street, Victorian alleyway, Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room
 
 :: Deaths
@@ -3405,7 +3405,7 @@ death by strangulation [holo-character]<20:20>
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 dilithium {compound}[1x], dilithium regulator [1x], waveguide [1x]
@@ -3502,7 +3502,7 @@ tng2x04
 :: Episode Title
 The Outrageous Okona
 
-:: Setting
+:: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D corridor, Enterprise-D holodeck <nightclub>, nightclub, Enterprise-D Lieutenant Robinson's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Debin ship bridge
 
 :: Deaths
@@ -3513,7 +3513,7 @@ Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D transporter room, Ente
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 zelebium {compound}[1x], tricellite {compound}[2x]
@@ -3618,7 +3618,7 @@ tng2x05
 :: Episode Title
 Loud As A Whisper
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D Riva's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, rocky landscape, antechamber, large chamber
 
 :: Deaths
@@ -3630,7 +3630,7 @@ death by phaser disintegration [Riva's chorus x3]<27:32>, death by phaser disint
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -3723,7 +3723,7 @@ tng2x06
 :: Episode Title
 The Schizoid Man
 
-:: Setting
+:: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Data's quarters, Enterprise-D Kareen's quarters, Enterprise-D turbolift, living room, science lab
 
 :: Deaths
@@ -3737,7 +3737,7 @@ severe hypoxy <medical emergency>[Ira Graves], Darnay's disease [Ira Graves],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one attack [ira as data at Picard,Geordi,Kareen], backhand across the face [Data to Picard], punch to the face
 
 :: Technobabble
@@ -3851,7 +3851,7 @@ tng2x07
 :: Episode Title
 Unnatural Selection
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay <science lab>, Enterprise-D conference room, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D Pulaski's quarters, Enterprise-D turbolift, shuttlecraft, Lantree bridge, Lantree corridor, Lantree sickbay, Lantree captain's quarters
 
 :: Deaths
@@ -3865,7 +3865,7 @@ transporter phobia [Pulaski], rapid aging [scientist x6, Pulaski], geriatric phe
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 transporter trace [6x], styrolite {medbabble}[4x], delta T [1x]
@@ -3974,7 +3974,7 @@ tng2x08
 :: Episode Title
 A Matter Of Honor
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D holodeck <shooting range>, shooting range, Enterprise-D corridor, Ten Forward <bar>, bar, Klingon vessel corridor, Klingon vessel bridge, Klingon vessel mess hall
 
 :: Deaths
@@ -3986,7 +3986,7 @@ large facial bruise [Riker]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one brawl [Riker and Klingon], slap across the face [Klingon at Riker], hand to hand combat [Riker and Klingon]
 
 :: Technobabble
@@ -4076,7 +4076,7 @@ tng2x09
 :: Episode Title
 The Measure Of A Man
 
-:: Setting
+:: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D Data's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D gymnasium, Enterprise-D computer room, Starbase 173 restaurant, Starbase 173 office, Starbase 173 courtroom, Starbase 173 lounge
 
 :: Deaths
@@ -4088,7 +4088,7 @@ severed arm [Data]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 neural net [1x]
@@ -4191,7 +4191,7 @@ tng2x10
 :: Episode Title
 The Dauphin
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D Salia's quarters, Enterprise-D engineering, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D holodeck <outer space>, outer space, Enterprise-D ready room, Enterprise-D Wesley's quarters
 
 :: Deaths
@@ -4202,7 +4202,7 @@ Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enter
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 wrestling [Worf and shapeshifter]
 
 :: Technobabble
@@ -4290,7 +4290,7 @@ tng2x11
 :: Episode Title
 Contagion
 
-:: Setting
+:: Settings
 Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Jefferies tube, Enterprise-D transporter room, Iconian control room, Romulan vessel bridge, rocky wasteland
 
 :: Deaths
@@ -4304,7 +4304,7 @@ loss of cognitive functions [Data], all functions going crazy [Data]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -4412,7 +4412,7 @@ tng2x12
 :: Episode Title
 The Royale
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, lobby, casino floor, hallway, hotel room, black void
 
 :: Deaths
@@ -4424,7 +4424,7 @@ death by old age [Colonel Richie]<24:14>, death by gunshot to the back [Portiere
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shot in the back [Mickey D at Portiere]
 
 :: Technobabble
@@ -4513,7 +4513,7 @@ tng2x13
 :: Episode Title
 Time Squared
 
-:: Setting
+:: Settings
 Enterprise-D Riker's quarters <dinner table>, dinner table, Enterprise-D bridge, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D engineering, shuttlecraft
 
 :: Deaths
@@ -4526,7 +4526,7 @@ brainwave time distortion [pseudo-Picard]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser shot [Picard at pseudo-Picard]
 
 :: Technobabble
@@ -4633,7 +4633,7 @@ tng2x14
 :: Episode Title
 The Icarus Factor
 
-:: Setting
+:: Settings
 Enterprise-D engineering, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D holodeck <chamber; arena>, chamber, arena, Ten Forward <bar>, bar, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, Enterprise-D sickbay, Enterprise-D Pulaski's office, Enterprise-D Troi's office, Enterprise-D gymnasium, Enterprise-D ready room
 
 :: Deaths
@@ -4646,7 +4646,7 @@ flue infection [patient]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 torture by painstick [Klingon at Worf], anbo jutsu match [Riker and Kyle Riker], hand to hand combat [Riker and Kyle Riker]
 
 :: Technobabble
@@ -4749,7 +4749,7 @@ tng2x15
 :: Episode Title
 Pen Pals
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <countryside>, countryside, Enterprise-D Data's quarters, Enterprise-D geophysical lab, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Pulaski's office, alien house, volcanic wasteland
 
 :: Deaths
@@ -4761,7 +4761,7 @@ erased memories [Sarjenka]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 dilithium matrix [1x], piezoelectric effect [1x], traker deposit [2x], ico-spectrogram [8x], dilithium {compound}[1x], illium 629 {compound}[1x]
@@ -4872,7 +4872,7 @@ tng2x16
 :: Episode Title
 Q Who
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D Guinan's office, shuttlecraft, Borg cube machine room
 
 :: Deaths
@@ -4884,7 +4884,7 @@ death by phaser blast [Borg drone]<23:36>, death by cutting beam [18 crewmen] <2
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 magic standoff [Guinan and Q], shoot out [crew and Borg], space shoot out [enterprise and Borg],
 
 :: Technobabble
@@ -4991,7 +4991,7 @@ tng2x17
 :: Episode Title
 Samaritan Snare
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Pulaski's office, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Mondor bridge, Mondor weapons bay, Starbase 515 operating theater, shuttlecraft
 
 :: Deaths
@@ -5004,7 +5004,7 @@ degraded artificial heart [Picard]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser shot [Pakled at Geordi x2]
 
 :: Technobabble
@@ -5114,7 +5114,7 @@ tng2x18
 :: Episode Title
 Up The Long Ladder
 
-:: Setting
+:: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D cargo bay, Enterprise-D Pulaski's office, Enterprise-D sickbay, Enterprise-D Riker's quarters, Enterprise-D ready room, Mariposa office, Mariposa science lab, Mariposa hall
 
 :: Deaths
@@ -5127,7 +5127,7 @@ replicative fading [smells of fallacy], fainting [Worf], Klingon measles [Worf]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -5244,7 +5244,7 @@ tng2x19
 :: Episode Title
 Manhunt
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters <dinner table>, dinner table, Enterprise-D holodeck <world of Dixon Hill; American 1940s era reception room; American 1940s era bar; American 1940s era hallway; American 1940s era detective office; American 1940s era city street>, Enterprise-D sickbay, American 1940s era reception room, American 1940s era bar, American 1940s era hallway, American 1940s era detective office, American 1940s era city street, world of Dixon Hill
 
 :: Deaths
@@ -5255,7 +5255,7 @@ Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enter
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 ultritium {compound}[3x]
@@ -5355,7 +5355,7 @@ tng2x20
 :: Episode Title
 The Emissary
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D tactical room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Data's quarters <poker table>, poker table, Enterprise-D K'Ehleyr's quarters, Enterprise-D corridor, Enterprise-D holodeck <jungle clearing>, jungle clearing, T'Ong bridge
 
 :: Deaths
@@ -5368,7 +5368,7 @@ cut in half [holomonster]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one melee [K'Ehleyr and holomonster], sword fight [Worf and holomonster], space shoot out [enterprise and klingons], hand to hand fight {physical altercation}[Worf and K'Ehleyr]
 
 :: Technobabble
@@ -5479,7 +5479,7 @@ tng2x21
 :: Episode Title
 Peak Performance
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D Worf's quarters <dimly lit room>, dimly lit room, Enterprise-D Data's quarters, Enterprise-D ready room, Ten Forward <bar>, bar, Hathaway bridge <dilapidated room>, dilapidated room, Hathaway engine room <dilapidated room>
 
 :: Deaths
@@ -5490,7 +5490,7 @@ Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting roo
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 dilithium {compound}[3x]
@@ -5585,7 +5585,7 @@ tng2x22
 :: Episode Title
 Shades of Gray
 
-:: Setting
+:: Settings
 Enterprise-D transporter room, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D Pulaski's office, swamp, rocky wasteland, Enterprise-D holodeck <woodland; jazz club>, woodland, jazz club, Ten Forward <bar>, bar, Enterprise-D Troi's office, council chamber, Klingon vessel bridge, Enterprise-D Quinn's quarters, Enterprise-D battle bridge
 
 :: Deaths
@@ -5599,7 +5599,7 @@ numbness in leg [Riker], microbial infection in great sciatic nerve [Riker], bas
 :: Mind Complications
 hallucination [Riker]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 vertex waves {radiation}[1x], differential current pattern [6x], tricordrazine {medbabble}[3x]
@@ -5693,7 +5693,7 @@ tng3x01
 :: Episode Title
 Evolution
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D medical lab, Enterprise-D sickbay <hospital waiting room>, hospital waiting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Wesley's quarters, Ten Forward <bar>, bar, Enterprise-D computer room, Enterprise-D Stubb's quarters
 
 :: Deaths
@@ -5705,7 +5705,7 @@ incapacitating back injury [Paul Stubbs], electrocution [Paul Stubbs],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 random subterfuge attacks [Stubbs and nanites], electrical discharge attack {unconventional attack}[nanites on Paul Stubbs]
 
 :: Technobabble
@@ -5829,7 +5829,7 @@ tng3x02
 :: Episode Title
 The Ensigns of Command
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Ten Forward <concert hall>, concert hall, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, living room, frontier town, town square, canyon
 
 :: Deaths
@@ -5841,7 +5841,7 @@ electrocution [Data], phaser stun [colonist x4],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser shoot out [data at colonist guard x4],
 
 :: Technobabble
@@ -5976,7 +5976,7 @@ tng3x03
 :: Episode Title
 The Survivors
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D Troi's quarters <bedroom>, bedroom, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, living room, lawn
 
 :: Deaths
@@ -5989,7 +5989,7 @@ death by planetary bombardment [10,999 Delta Rana IV colonists by Husnock], deat
 :: Mind Complications
 insanity from repetitive tune in head [Troi]
 
-:: Altercation
+:: Altercations
 snare trap [Douwd at Riker], space shoot out [Enterprise and Husnock warship x2], space chase [Enterprise at Husnock warship],
 
 :: Technobabble
@@ -6100,7 +6100,7 @@ tng3x04
 :: Episode Title
 Who Watches The Watchers
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D corridor, town square, mountain pass, rocky landscape, cavern <smoke filled room>, smoke filled room
 
 :: Deaths
@@ -6115,7 +6115,7 @@ convulsions {medical emergency}, fall {medical emergency}
 :: Mind Complications
 short term memory wipe [Mintakan]
 
-:: Altercation
+:: Altercations
 manhunt [Mintakans at Riker, Mintakans at Troi], arrow shot [Mintakan at Picard],
 
 :: Technobabble
@@ -6224,7 +6224,7 @@ tng3x05
 :: Episode Title
 The Bonding
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Worf's quarters, Enterprise-D Aster quarters <living room>, living room, Enterprise-D classroom, Enterprise-D Beverly's office, Enterprise-D computer room, Enterprise-D turbolift
 
 :: Deaths
@@ -6237,7 +6237,7 @@ surface burns [Worf], lacerations to the face [Marla Aster]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 ethereal push [alien at crew-member x2]
 
 :: Technobabble
@@ -6340,7 +6340,7 @@ tng3x06
 :: Episode Title
 Booby Trap
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D holodeck <drafting room; tropical beach>, drafting room, tropical beach, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Promellian battle cruiser derelict bridge
 
 :: Deaths
@@ -6351,7 +6351,7 @@ Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 aceton assimilator [3x], waveguide [1x], iso-linear optical chip [1x], dilithium {compound}[5x], drive coil [1x], vector processor [1x], power transfer tunnel [1x], subspace processor [1x], inertial dampener [1x]
@@ -6467,7 +6467,7 @@ tng3x07
 :: Episode Title
 The Enemy
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, pit, cavern, rocky wasteland
 
 :: Deaths
@@ -6481,7 +6481,7 @@ ribosome deficiency [Romulan], neural pathway degeneration [Geordi], cell damage
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 strike to the face [Worf at Romulan], scuffle, open palm to face [Worf and Romulan], sneak attack [well, chop to neck], karate chop to neck [Romulan to Geordi]
 
 :: Technobabble
@@ -6610,7 +6610,7 @@ tng3x08
 :: Episode Title
 The Price
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <reception room; bar>, reception room, bar, Enterprise-D sickbay, Enterprise-D gymnasium, Enterprise-D Troi's quarters <living room; bedroom>, living room, bedroom, Enterprise-D Ferengi quarters, shuttlecraft
 
 :: Deaths
@@ -6622,7 +6622,7 @@ poisoning induced severe allergic reaction [Seth], system wide histaminic reacti
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 trillium 323 {compound}[3x]
@@ -6748,7 +6748,7 @@ tng3x09
 :: Episode Title
 The Vengeance Factor
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Marouk's quarters, Enterprise-D Riker's quarters, Ten Forward <bar>, bar, Federation outpost control room <dilapidated room>, dilapidated room, junkyard, Gatherer ship conference room <meeting room>
 
 :: Deaths
@@ -6762,7 +6762,7 @@ cardiac arrest [old man]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shoot out [away team and Acamarian outcasts], phaser shot [Riker at Acamarian outcast]
 
 :: Technobabble
@@ -6887,7 +6887,7 @@ tng3x10
 :: Episode Title
 The Defector
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Jarok's quarters, Enterprise-D interrogation room, relaxation center, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <woodland; gridlines; rocky wasteland; campfire>, woodland, gridlines, rocky wasteland, campfire, Romulan warbird ready room
 
 :: Deaths
@@ -6900,7 +6900,7 @@ lacerations to the neck [Romulan], facial burns
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space standoff [enterprise and Romulan ship], space chase [Romulan and Romulan defector]
 
 :: Technobabble
@@ -7020,7 +7020,7 @@ tng3x11
 :: Episode Title
 The Hunted
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D cargo bay, Enterprise-D shuttle bay, Enterprise-D detention cell, Angosia III council chamber
 
 :: Deaths
@@ -7034,7 +7034,7 @@ cell structure significantly altered
 :: Mind Complications
 intense psychological manipulation
 
-:: Altercation
+:: Altercations
 phaser shot [crew-member at Roga, Roga at Worf], brawl [Roga and security guards, Roga and O'Brien], wrestling [Roga and Worf, Roga and Riker], hammer-fist to face [Roga at crew-member], manhunt [crew at Roga], hostage situation [prisoners at council], scuffle [Roga and security], one on one fight [Danar and Worf]
 
 :: Technobabble
@@ -7165,7 +7165,7 @@ tng3x12
 :: Episode Title
 The High Ground
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D corridor, police headquarters, cavern, restaurant patio, interrogation room
 
 :: Deaths
@@ -7179,7 +7179,7 @@ distorted cellular chemistry [Rutian terrorist x4]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shoot out [terrorists at police, terrorists at enterprise crew, terrorist and Worf], brawl [Picard and Kyril, enterprise crew and terrorists], shot to the back [Rutian police chief at Kyril], punch to face [Picard to Finn]
 
 :: Technobabble
@@ -7300,7 +7300,7 @@ tng3x13
 :: Episode Title
 Deja Q
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D brig, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D turbolift, shuttlecraft
 
 :: Deaths
@@ -7313,7 +7313,7 @@ muscle spasms [Q]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 stabbing of the hand [Guinan at Q], torture by mystic energy [Calamarain at Q x2]
 
 :: Technobabble
@@ -7432,7 +7432,7 @@ tng3x14
 :: Episode Title
 A Matter of Perspective
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D sickbay, Enterprise-D holodeck <gridlines; science lab; space station; living area>, Enterprise-D observation lounge <art studio>, art studio, gridlines, science lab, space station, living area
 
 :: Deaths
@@ -7444,7 +7444,7 @@ death by space station explosion [Nel Apgar by Nel Apgar]<3:02>
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 punch to the stomach [Riker at Apgar], backhand slap across the face [Nel Apgar to Manua Apgar], punch to face and gut [Nel Apgar to Riker]
 
 :: Technobabble
@@ -7568,7 +7568,7 @@ tng3x15
 :: Episode Title
 Yesterday's Enterprise
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Tasha's quarters, Enterprise-C main bridge <smoke filled room>, smoke filled room
 
 :: Deaths
@@ -7581,7 +7581,7 @@ bad fracture [Rachel], serious internal injuries [Rachel, Riker], bruised and ba
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 Kerr loop [1x], tricordrazine {medbabble}[1x]
@@ -7711,7 +7711,7 @@ tng3x16
 :: Episode Title
 The Offspring
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D principal's office, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D Data's quarters, Enterprise-D Troi's quarters, Enterprise-D Picard's quarters <bedroom>, bedroom, Enterprise-D Beverly's office, Enterprise-D science lab
 
 :: Deaths
@@ -7725,7 +7725,7 @@ cascade failure in positronic net [Lal]
 :: Mind Complications
 nervous breakdown [Lal]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 sub-micron matrix transfer [1x], positronic net [3x]
@@ -7828,7 +7828,7 @@ tng3x17
 :: Episode Title
 Sins of the Father
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Captain's quarters <dinner table>, dinner table, Enterprise-D Kurn's quarters, antechamber, great hall, pedestrian tunnel, Klingon living room, chamber, Klingon city street
 
 :: Deaths
@@ -7841,7 +7841,7 @@ lacerations to the face [Kurn], stab wound to the gut [Klingon conspirator], vic
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 ambush [Klingon conspirator at Kurn, Klingon conspirator at Picard], knife attack [Kurn], slap across the face [Duras to Worf, Worf to Duras]
 
 :: Technobabble
@@ -7957,7 +7957,7 @@ tng3x18
 :: Episode Title
 Allegiance
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D Picard's quarters <dinner table; living room>, dinner table, living room, Enterprise-D Riker's quarters <poker table; meeting room>, poker table, meeting room, Enterprise-D Data's quarters, Enterprise-D Beverly's office, holding cell
 
 :: Deaths
@@ -7969,7 +7969,7 @@ excruciating pain from green beam [Picard, alien x2]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 field coil [1x]
@@ -8076,7 +8076,7 @@ tng3x19
 :: Episode Title
 Captain's Holiday
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D Picard's quarters, Enterprise-D corridor, resort area, hotel lobby, hotel room, cavern
 
 :: Deaths
@@ -8087,7 +8087,7 @@ Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 punch to the face [Picard and Sovak]
 
 :: Technobabble
@@ -8218,7 +8218,7 @@ tng3x20
 :: Episode Title
 Tin Man
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Tam's quarters, Enterprise-D Data's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Tin Man control room, Tin Man corridor
 
 :: Deaths
@@ -8232,7 +8232,7 @@ seizure [Tam], general systemic stress [Tam]
 :: Mind Complications
 hyper telepathy
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 isolinear chip [1x], subspace wavefront [1x], structural integrity field [1x], warp coil [1x], lateral grid balance [1x], retro-sensor element [1x]
@@ -8354,7 +8354,7 @@ tng3x21
 :: Episode Title
 Hollow Pursuits
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D cargo bay, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D holodeck <Enterprise-D bridge; Ten Forward; Enterprise-D Troi's office; woodland glade; gridlines>, woodland glade, gridlines
 
 :: Deaths
@@ -8366,7 +8366,7 @@ Enterprise-D bridge, Enterprise-D ready room, Enterprise-D cargo bay, Ten Forwar
 :: Mind Complications
 holo-addiction [Barclay]
 
-:: Altercation
+:: Altercations
 sword fight [Barclay and holo-Data, holo-Picard, holo-Geordi], shove [Barclay to holo-Geordi]
 
 :: Technobabble
@@ -8492,7 +8492,7 @@ tng3x22
 :: Episode Title
 The Most Toys
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D Data's quarters, Enterprise-D Geordi's quarters <bedroom>, bedroom, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D brig, cavern, Jovis cargo bay, Jovis trophy room
 
 :: Deaths
@@ -8505,7 +8505,7 @@ knocked unconscious [guard x2]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 struggle [Varria and guard, data and guards], disruptor shot [Fajo at Varria], scuffle [Fajo and Data]
 
 :: Technobabble
@@ -8642,7 +8642,7 @@ tng3x23
 :: Episode Title
 Sarek
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D conference room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Ten Forward, Enterprise-D Beverly's office, Enterprise-D Picard's quarters, Enterprise-D Sarek's quarters, Enterprise-D theater
 
 :: Deaths
@@ -8654,7 +8654,7 @@ Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <m
 :: Mind Complications
 Bendii Syndrome [Sarek], induced emotional outburst [crew-member x400], insanity [Picard], inability to meditate [Sarek]
 
-:: Altercation
+:: Altercations
 bar brawl, slap across the face [Beverly to Wesley]
 
 :: Technobabble
@@ -8778,7 +8778,7 @@ tng3x24
 :: Episode Title
 Ménage à Troi
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Ten Forward <reception room>, Enterprise-D engineering, Enterprise-D Troi's quarters, Enterprise-D transporter room, Enterprise-D corridor, Krayton brig, Krayton laboratory, Krayton captain's quarters <bedroom>, bedroom, woodland glade, futuristic cityscape
 
 :: Deaths
@@ -8790,7 +8790,7 @@ mind probe induced brain pain [Lwaxana]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 warp field phase adjustment [1x], Cochrane distortion [1x], subcarrier pattern [1x]
@@ -8910,7 +8910,7 @@ tng3x25
 :: Episode Title
 Transfigurations
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D Beverly's quarters <dinner table>, dinner table, Enterprise-D turbolift, Enterprise-D shuttle bay, Enterprise-D shuttle bay control booth, Enterprise-D catwalk, xeric scrubland
 
 :: Deaths
@@ -8925,7 +8925,7 @@ brain damage [John Doe], massive infection [John Doe], major trauma to head and 
 :: Mind Complications
 amnesia [John Doe]
 
-:: Altercation
+:: Altercations
 mysterious choking effect {unconventional attack}
 
 :: Technobabble
@@ -9040,7 +9040,7 @@ tng3x26
 :: Episode Title
 The Best of Both Worlds
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Picard's quarters, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D Shelby's quarters, Borg cube interior, Borg cube corridor, crater
 
 :: Deaths
@@ -9053,7 +9053,7 @@ cybernetic implanting [Picard]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 struggle [Worf and Borg, Picard and Borg], tossed like a rag doll across the room
 
 :: Technobabble
@@ -9166,7 +9166,7 @@ tng4x01
 :: Episode Title
 The Best of Both Worlds, Part II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D battle bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D science lab, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Borg cube machine room, Admiral Hanson's ship ready room, Admiral Hanson's ship battle bridge
 
 :: Deaths
@@ -9181,7 +9181,7 @@ rewritten DNA [Picard], extensive infiltration of microcircuit fibers into the s
 :: Mind Complications
 mind complication [Data/Picard/Borg]
 
-:: Altercation
+:: Altercations
 struggle [Worf and Locutus], shootout [Worf,data and Borg]
 
 :: Technobabble
@@ -9317,7 +9317,7 @@ tng4x02
 :: Episode Title
 Family
 
-:: Setting
+:: Settings
 Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D Beverly's office, Enterprise-D Beverly's quarters, Enterprise-D Picard's quarters, Enterprise-D Riker's quarters, Enterprise-D Worf's quarters, Ten Forward <bar>, bar, dining room, countryside, vineyard, cemetery
 
 :: Deaths
@@ -9328,7 +9328,7 @@ Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <gri
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 mud wrestling [Picard and Robert Picard], fist fight [Picard and Robert Picard]
 
 :: Technobabble
@@ -9442,7 +9442,7 @@ tng4x03
 :: Episode Title
 Brothers
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D sickbay <quarantine area>, quarantine area, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D Jefferies tube, jungle clearing, workshop
 
 :: Deaths
@@ -9456,7 +9456,7 @@ parasite infection [Willie Potts]
 :: Mind Complications
 mind complication [Data]
 
-:: Altercation
+:: Altercations
 manhunt [crew at data], struggle [lore and Soong], toss through a glass table [Lore and Soong]
 
 :: Technobabble
@@ -9582,7 +9582,7 @@ tng4x04
 :: Episode Title
 Suddenly Human
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D corridor, Enterprise-D Jono's quarters, Enterprise-D holodeck <racquetball court>, racquetball count
 
 :: Deaths
@@ -9595,7 +9595,7 @@ radiation burns [Jono,Talarian x4], stab wound to the chest [Picard]
 :: Mind Complications
 reliving a traumatic experience [Jono]
 
-:: Altercation
+:: Altercations
 struggle [Jono and medical crew], attempted assassination [Jono at Picard], stabbing [Picard by Jono]
 
 :: Technobabble
@@ -9695,7 +9695,7 @@ tng4x05
 :: Episode Title
 Remember Me
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D turbolift, Enterprise-D Troi's office, Enterprise-D Dr. Quaice's quarters, Enterprise-D Wesley's quarters
 
 :: Deaths
@@ -9708,7 +9708,7 @@ elevated adrenaline level [Beverly]
 :: Mind Complications
 possible delusion [Beverly]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 transporter trace [2x], waveguide [1x]
@@ -9817,7 +9817,7 @@ tng4x06
 :: Episode Title
 Legacy
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D Picard's quarters, Ten Forward <bar>, bar, Enterprise-D sickbay, city ruins, tunnel, poker table, chamber, power generator, escape pod, conference room
 
 :: Deaths
@@ -9829,7 +9829,7 @@ phaser stun [Turkana soldier x3, Ishara], energy burn to the abdomen [Ishara], s
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 stand off [enterprise crew and Turkana soldiers], shoot out [Riker&guards]
 
 :: Technobabble
@@ -9951,7 +9951,7 @@ tng4x07
 :: Episode Title
 Reunion
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D K'Ehleyr's quarters, Enterprise-D Worf's quarters, Enterprise-D Duras' quarters, Enterprise-D daycare center, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Klingon vessel K'Mpec's quarters, chamber, Klingon vessel Duras' quarters
 
 :: Deaths
@@ -9964,7 +9964,7 @@ multiple stab wounds and cuts all over [K'Ehleyr]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 suicide bombing [klingon at klingons], sword fight [Worf and duras], close combat, bat'leth fight [Work and Duras], fight to the death [Worf and Duras]
 
 :: Technobabble
@@ -10080,7 +10080,7 @@ tng4x08
 :: Episode Title
 Future Imperfect
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D Riker's quarters, Enterprise-D Picard's quarters, Romulan holodeck <alien chamber; cavern; holding cell; tunnel>, antechamber, Romulan warbird ready room, alien chamber, cavern, holding cell, tunnel
 
 :: Deaths
@@ -10095,7 +10095,7 @@ coma [Riker]
 :: Mind Complications
 apparent amnesia [Riker]
 
-:: Altercation
+:: Altercations
 shoot out [Riker at Romulan], manhunt [Romulans at Riker and Ethan], hand to hand combat [Riker and Romulans]
 
 :: Technobabble
@@ -10211,7 +10211,7 @@ tng4x09
 :: Episode Title
 Final Mission
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D shuttle bay, mining shuttle, desert wasteland, cavern
 
 :: Deaths
@@ -10225,7 +10225,7 @@ blurred vision [Picard]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shootout [wesley and Dirgo at alien sentinel]
 
 :: Technobabble
@@ -10330,7 +10330,7 @@ tng4x10
 :: Episode Title
 The Loss
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters
 
 :: Deaths
@@ -10343,7 +10343,7 @@ brain damage [Troi]
 :: Mind Complications
 potent headache [Troi], dizziness [Troi]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 sensor echo [1x], internuncial series {medbabble}[1x], Bayesian functions [1x], virtual particle {particle}[1x], graviton field [3x]
@@ -10445,7 +10445,7 @@ tng4x11
 :: Episode Title
 Data's Day
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D arboretum, Enterprise-D barbershop, Ten Forward <bar>, bar, Enterprise-D T'Pel's quarters, Enterprise-D Keiko's quarters, Enterprise-D daycare center, Enterprise-D holodeck <dance studio>, dance studio, Enterprise-D Troi's office, Enterprise-D replicating center
 
 :: Deaths
@@ -10457,7 +10457,7 @@ two broken ribs [crew-member]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 transporter trace [2x], autosequencer [3x], transporter carrier wave [1x]
@@ -10587,7 +10587,7 @@ tng4x12
 :: Episode Title
 The Wounded
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D O'Brien's quarters, Phoenix ready room
 
 :: Deaths
@@ -10599,7 +10599,7 @@ death by ship explosion [600 Cardassian crew-members, 50 Cardassian crew-members
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shootout [enterprise and Cardassian ship],
 
 :: Technobabble
@@ -10711,7 +10711,7 @@ tng4x13
 :: Episode Title
 Devil's Due
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Picard's quarters, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D holodeck <Victorian bedroom>, Victorian bedroom, council chamber <courtroom>, courtroom, science lab
 
 :: Deaths
@@ -10723,7 +10723,7 @@ Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <m
 :: Mind Complications
 ghostly terror [Data]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 Z particle {particle}[2x], subspace damping field [1x], wavelength stretch out [1x]
@@ -10847,7 +10847,7 @@ tng4x14
 :: Episode Title
 Clues
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D sickbay <science lab>, science lab, Enterprise-D engineering, Ten Forward, Enterprise-D Troi's quarters, Enterprise-D Data's quarters, Enterprise-D holodeck <world of Dixon Hill; workout room; American 1940s era reception room; American 1940s era detective office>, world of Dixon Hill, workout room, American 1940s era reception room, American 1940s era detective office
 
 :: Deaths
@@ -10862,7 +10862,7 @@ adrenaline by-products higher than baseline [Troi]
 :: Mind Complications
 dizziness [Troi], signs of stress [Troi], worm hole stun effect [crew-member x400], mind wipe
 
-:: Altercation
+:: Altercations
 shove across a room {physical altercation}[Paxan&Worf]
 
 :: Technobabble
@@ -10972,7 +10972,7 @@ tng4x15
 :: Episode Title
 First Contact
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D corridor, hospital corridor, hospital room, executive office, science lab, Malcor III council chamber
 
 :: Deaths
@@ -10984,7 +10984,7 @@ black eye [Riker], beaten black and blue [Riker], knocked unconscious [Riker], i
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 manhunt [aliens at Riker], brawl {physical altercation}[Riker&hospital guards], head bashing {physical altercation}, backhand slap across the face {physical altercation}[Riker&hospital guard], hammer-fist to stomach {physical altercation}[hospital guard at Riker], hammer-fist to back {physical altercation}[hospital guard at Riker], power slam into table {physical altercation}[Riker at hospital guard], kick to stomach {physical altercation}[hospital guard at Riker]
 
 :: Technobabble
@@ -11098,7 +11098,7 @@ tng4x16
 :: Episode Title
 Galaxy's Child
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <science lab>, science lab, Enterprise-D shuttle bay, Enterprise-D Jefferies tube
 
 :: Deaths
@@ -11110,7 +11110,7 @@ death by phaser blast [space whale]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shootout [enterprise and creature]
 
 :: Technobabble
@@ -11221,7 +11221,7 @@ tng4x17
 :: Episode Title
 Night Terrors
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Troi's quarters, Enterprise-D Worf's quarters, Enterprise-D Riker's quarters, Enterprise-D Guinan's quarters, Enterprise-D O'Brien's quarters, Enterprise-D corridor, Enterprise-D cargo bay <morgue>, morgue, black void, Brattain bridge
 
 :: Deaths
@@ -11234,7 +11234,7 @@ death by phaser blast [USS Brittain crewman]<1:40>, death by knife to the chest 
 :: Mind Complications
 profound catatonic state [Andrus], hallucinations [Picard, Troi, Beverly, crew-member x400, Worf,], night terror [Troi], dream deprivation [Enterprise crew]
 
-:: Altercation
+:: Altercations
 attempted suicide [Worf], brawl [O'Brien and crew-member], bar brawl {physical altercation}[ at 40:00]
 
 :: Technobabble
@@ -11332,7 +11332,7 @@ tng4x18
 :: Episode Title
 Identity Crisis
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Beverly's office, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <woodland>, woodland
 
 :: Deaths
@@ -11346,7 +11346,7 @@ loss of consciousness, allergic reaction <medical emergency>, blood chemistry wa
 :: Mind Complications
 anxiety reaction [Leijten]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 bioscan {medbabble}[4x], T cell stimulator {medbabble}[3x], Z particle {particle}[2x], spectrographic analysis [1x], interferometric frequencies [1x], viral creche {medbabble}[1x], kayolane {medbabble}[1x], vector analysis [1x]
@@ -11457,7 +11457,7 @@ tng4x19
 :: Episode Title
 The Nth Degree
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D theater <French 17th century era dining room>, French 17th century era dining room, theater stage, shuttlecraft, Enterprise-D Jefferies tube
 
 :: Deaths
@@ -11469,7 +11469,7 @@ loss of consciousness [Barclay, medical emergency]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 neural scan interface [1x], subspace distortion [3x], sero-amino readout {medbabble}[1x], isolinear circuit [1x], isolinear chip [1x], frequency harmonic [1x], ODN bypass [1x], subspace flow matrix [1x]
@@ -11587,7 +11587,7 @@ tng4x20
 :: Episode Title
 Qpid
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D Picard's quarters, Enterprise-D Vash's quarters, Enterprise-D reception room, woodland, castle exterior, chamber, castle courtyard, castle exterior
 
 :: Deaths
@@ -11600,7 +11600,7 @@ laceration to the arm [Worf], arrow to artificial chest [data]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 sword fight [Worf and sheriff], hail of arrows [archers at crew], brawl [crew and sheriff's men], hand to hand combat, slap across the face {physical altercation}[Vash at Sir Guy]
 
 :: Technobabble
@@ -11712,7 +11712,7 @@ tng4x21
 :: Episode Title
 The Drumhead
 
-:: Setting
+:: Settings
 Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D interrogation room <courtroom>, Enterprise-D Picard's quarters, Enterprise-D J'Dan's quarters, Enterprise-D Satie's quarters, courtroom, chamber
 
 :: Deaths
@@ -11725,7 +11725,7 @@ radiation burns [engineer x2]
 :: Mind Complications
 mental fatigue [crewman]
 
-:: Altercation
+:: Altercations
 struggle [Worf and klingon]
 
 :: Technobabble
@@ -11861,7 +11861,7 @@ tng4x22
 :: Episode Title
 Half a Life
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D Lwaxana's quarters, Enterprise-D Timicin's quarters, office
 
 :: Deaths
@@ -11874,7 +11874,7 @@ suicide by ritual suicide [Timicin]
 :: Mind Complications
 mental break down [Lwaxana]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 pressure wave harmonics [1x], pattern buffers [1x]
@@ -11988,7 +11988,7 @@ tng4x23
 :: Episode Title
 The Host
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Beverly's quarters, Enterprise-D Data's quarters, Enterprise-D Odan's quarters, Enterprise-D shuttle bay, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D barbershop, shuttlecraft
 
 :: Deaths
@@ -12002,7 +12002,7 @@ state of shock [Odan], loss of a lot of blood [Odan], eosinophilia in the cerebr
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 metrazene {medbabble}[2x], metabolic booster {medbabble}[1x], magnetospheric energy tap [1x], colognite astringent {medbabble}[1x]
@@ -12102,7 +12102,7 @@ tng4x24
 :: Episode Title
 The Mind's Eye
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Romulan holodeck <Ten Forward>, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D cargo bay, Enterprise-D shuttle bay, Enterprise-D Geordi's quarters, Enterprise-D Kell's quarters, shuttlecraft, Romulan vessel procedure room, office
 
 :: Deaths
@@ -12116,7 +12116,7 @@ slight dilation of the blood vessels [Geordi]
 :: Mind Complications
 mental conditioning [Geordi], insomnia [Geordi]
 
-:: Altercation
+:: Altercations
 manhandling [Romulans at Geordi], torture [Romulans at Geordi], struggle [Worf and klingons], attempted assassination [Geordi at klingon]
 
 :: Technobabble
@@ -12228,7 +12228,7 @@ tng4x25
 :: Episode Title
 In Theory
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Data's quarters, Enterprise-D Jenna's quarters, Enterprise-D torpedo bay, Enterprise-D concert hall, shuttlecraft
 
 :: Deaths
@@ -12241,7 +12241,7 @@ mild electric shock [crewman]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 subspace distortion [1x], cryogenic control conduit [1x], L-U band [1x], krellide storage cells [1x], inertial damper [2x], dilithium {compound}[1x]
@@ -12356,7 +12356,7 @@ tng4x26
 :: Episode Title
 Redemption
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D holodeck <black void; shooting range>, black void, shooting range, Enterprise-D transporter room, Enterprise-D Worf's quarters, Klingon vessel bridge, Klingon vessel ready room, great hall, Klingon living room
 
 :: Deaths
@@ -12369,7 +12369,7 @@ cuts to the palm [Worf]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 backhand slap across the face {physical altercation}[Lursa at Toral]
 
 :: Technobabble
@@ -12483,7 +12483,7 @@ tng5x01
 :: Episode Title
 Redemption II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge, Excalibur bridge, Sutherland bridge, Romulan warbird bridge, Klingon bird of prey bridge, Qo'nos great hall, Klingon living room, alien bar
 
 :: Deaths
@@ -12496,7 +12496,7 @@ knife stab in the guts [Klingon]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space fight [klingons and klingons], knife duel [Gowron and klingon], brawl [Worf and klingons, Worf and Romulan], bombardment from orbit [klingon at klingon], fist fight {physical altercation}, bar fight
 
 :: Technobabble
@@ -12601,7 +12601,7 @@ tng5x02
 :: Episode Title
 Darmok
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, shuttlecraft, woodland, campfire
 
 :: Deaths
@@ -12615,7 +12615,7 @@ mauling [Dathon]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space phaser shot [Tamarian at shuttlecraft], pitted fight against a beast [Picard/Dathon at beast]
 
 :: Technobabble
@@ -12728,7 +12728,7 @@ tng5x03
 :: Episode Title
 Ensign Ro
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D barbershop, Enterprise-D transporter room, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Ro's quarters, cavern, shanty town
 
 :: Deaths
@@ -12739,7 +12739,7 @@ Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting roo
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space standoff [enterprise and Cardassians]
 
 :: Technobabble
@@ -12862,7 +12862,7 @@ tng5x04
 :: Episode Title
 Silicon Avatar
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D Data's quarters, Enterprise-D Marr's quarters, cavern, rocky wasteland, countryside
 
 :: Deaths
@@ -12876,7 +12876,7 @@ loss of consciousness [colonist], oxygen deprivation [colonist x10, Riker, Bever
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 energy beam bombardment from orbit [crystalline entity at colony], viciously tuned beep transmission [woman at entity]
 
 :: Technobabble
@@ -12988,7 +12988,7 @@ tng5x05
 :: Episode Title
 Disaster
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Ten Forward <makeshift hospital room>, Enterprise-D cargo bay, Enterprise-D Jefferies tube, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D crawlway, Enterprise-D turbolift shaft, makeshift hospital room
 
 :: Deaths
@@ -13002,7 +13002,7 @@ feeling a little foggy [Keiko], disorderly delivery [Keiko]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 spanking [Worf at baby]
 
 :: Technobabble
@@ -13113,7 +13113,7 @@ tng5x06
 :: Episode Title
 The Game
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Beverly's quarters, Enterprise-D Wesley's quarters, Enterprise-D turbolift, Enterprise-D Jefferies tube, hotel room, Ktarian vessel bridge
 
 :: Deaths
@@ -13125,7 +13125,7 @@ Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D
 :: Mind Complications
 addiction to device [crew-member x300], mind control
 
-:: Altercation
+:: Altercations
 manhunt [crew at wesley], manhandling [Riker and Worf at wesley]
 
 :: Technobabble
@@ -13241,7 +13241,7 @@ tng5x07
 :: Episode Title
 Unification I
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D cargo bay, Enterprise-D engineering, ceremonial chamber, Klingon vessel bridge, Klingon vessel crew quarters <Spartan quarters>, Spartan quarters, executive office, cavern, Romulan city street, restaurant, bathroom
 
 :: Deaths
@@ -13254,7 +13254,7 @@ Bendii syndrome [Sarek]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 dentarium {compound}[2x], molecular pattern trace [1x]
@@ -13373,7 +13373,7 @@ tng5x08
 :: Episode Title
 Unification II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, alien bar, office, cavern, tunnel, Romulan city street, restaurant, Klingon vessel bridge, Klingon vessel crew quarters
 
 :: Deaths
@@ -13385,7 +13385,7 @@ death by ship explosion [Romulan warbird crews x2000]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 held at gunpoint [Romulan at rebels], space fight [Romulan at Romulans], Vulcan nerve pinch {physical altercation}[Data at Sela], punch to face {physical altercation}[Picard at Romulan guard]
 
 :: Technobabble
@@ -13514,7 +13514,7 @@ tng5x09
 :: Episode Title
 A Matter of Time
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D turbolift, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Rasmussen's quarters, Enterprise-D shuttle bay, science lab, control room, shuttlecraft
 
 :: Deaths
@@ -13526,7 +13526,7 @@ multiple lacerations to the leg [crewman]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 plasticized tritanium {compound}[1x], warp coil [1x], neural stimulator {medbabble}[1x], berylite scan {medbabble}[1x], berylite {compound}[2x], phase reversal [1x], cascading exothermal inversion [1x], shield inverter [1x]
@@ -13664,7 +13664,7 @@ tng5x10
 :: Episode Title
 New Ground
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D Troi's office, Enterprise-D Worf's quarters, Enterprise-D teacher's office, Enterprise-D bio-lab <smoke filled room>, smoke filled room, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D holodeck <jungle clearing>, jungle clearing, Enterprise-D corridor, Enterprise-D Milan Helena's quarters, museum
 
 :: Deaths
@@ -13677,7 +13677,7 @@ hairline fracture of the tibia [Alexander], minor smoke inhalation [Alexander]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 melee duel [alexander and holo-monster]
 
 :: Technobabble
@@ -13791,7 +13791,7 @@ tng5x11
 :: Episode Title
 Hero Worship
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D classroom, Enterprise-D Data's quarters, Enterprise-D Timothy's quarters, Enterprise-D sickbay, Vico corridor <wrecked room>, wrecked room
 
 :: Deaths
@@ -13805,7 +13805,7 @@ bumps and bruises [Timothy]
 :: Mind Complications
 serious trauma [Timothy], enantiodromia condition [Timothy]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 black cluster {astrobabble}[8x], victurium {compound}[1x], magnetic residual analysis [1x], transporter trace [1x], electrostatic differential [1x], shield modulator [1x], graviton wavefront [8x], servo mechanism [1x], transfer circuits [1x], positron scan [1x], shield grid [1x], warp transfer pathways [1x], graviton {particle}[8x]
@@ -13917,7 +13917,7 @@ tng5x12
 :: Episode Title
 Violations
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D banquet room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters, Enterprise-D Ullian guest quarters, morgue
 
 :: Deaths
@@ -13931,7 +13931,7 @@ electropathic residue in the thalamus [Troi, Riker], unusual neurotransmitter re
 :: Mind Complications
 nightmarish visions [Troi, Riker, Beverly], memory flashes
 
-:: Altercation
+:: Altercations
 psionic rape [Jev at Troi], assault [Jev at Troi], punch to the face [Worf at Jev], slap across the face {physical altercation}[Troi at Jev]
 
 :: Technobabble
@@ -14048,7 +14048,7 @@ tng5x13
 :: Episode Title
 The Masterpiece Society
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D turbolift, laboratory, courtyard, garden, rocky wasteland, town square
 
 :: Deaths
@@ -14059,7 +14059,7 @@ Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <m
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 multiphase tractor beam [1x], subspace relay [1x], deep EM reading [1x], gravimetric potential [1x], pulse-compression routine [1x], tractor force rebounding [1x], tractor emitter [1x], EPS power level [1x], emitter circuit [3x], surge pulse [1x], pulse frequency [1x]
@@ -14161,7 +14161,7 @@ tng5x14
 :: Episode Title
 Conundrum
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters
 
 :: Deaths
@@ -14176,7 +14176,7 @@ seizure [MacDuff]
 :: Mind Complications
 malicious mind wipe [enterprise crew]
 
-:: Altercation
+:: Altercations
 space shoot out [Enterprise at Lysians], struggle [Worf and macduff], phaser shot [Worf and Riker at macduff], shove across a room {physical altercation}[MacDuff at Worf]
 
 :: Technobabble
@@ -14299,7 +14299,7 @@ tng5x15
 :: Episode Title
 Power Play
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D cargo bay, Enterprise-D corridor, Enterprise-D Jefferies tube, Enterprise-D ready room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D transporter room, shuttlecraft, rocky wasteland
 
 :: Deaths
@@ -14313,7 +14313,7 @@ plasma shock
 :: Mind Complications
 diabolical possession
 
-:: Altercation
+:: Altercations
 brawl [Troi and O'Brien at Worf and Ro and Riker], phaser shot out [Ro and O'Brien], hammer-fist to the back [Troi at Picard], plasma discharge attack [Ro and Geordi at Troi and O'Brien], strangulation [data at Picard], shoot out, lift by throat {physical altercation}[Data at Picard]
 
 :: Technobabble
@@ -14445,7 +14445,7 @@ tng5x16
 :: Episode Title
 Ethics
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D shuttle bay, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D Beverly's office, Enterprise-D medical lab
 
 :: Deaths
@@ -14459,7 +14459,7 @@ paralysis [Worf], neural metaphasic shock [Denver crew], complications during su
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 chlorinide {compound}[1x], dynoscanner [1x], CPK enzymatic therapy {medbabble}[1x], alkysine treatment {medbabble}[1x], genotronic replicator {medbabble}[5x], gravitic mine [1x], neural transducer [1x], neurogenics {medbabble}[1x], leporazine {medbabble}[3x], morathial {medbabble}[2x], rybotherapy {medbabble}[1x], borathium {compound}[2x], microtome {medbabble}[1x], exo-scalpel {medbabble}[1x], detronal scanner {medbabble}[1x], inoprovaline {medbabble}[1x], cordrazine {medbabble}[1x], polyadrenaline {medbabble}[1x]
@@ -14566,7 +14566,7 @@ tng5x17
 :: Episode Title
 The Outcast
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D Data's quarters <poker table>, poker table, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters, botanical garden, J'naii homeworld council chamber <courtroom>, courtroom, jungle clearing, science lab, shuttlecraft
 
 :: Deaths
@@ -14578,7 +14578,7 @@ knocked unconscious [Soren], oxygen deprivation [J'naii x2]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 brawl [Riker and Worf at aliens], scuffle
 
 :: Technobabble
@@ -14683,7 +14683,7 @@ tng5x18
 :: Episode Title
 Cause and Effect
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D Beverly's quarters <bedroom>, bedroom, Enterprise-D ready room
 
 :: Deaths
@@ -14696,7 +14696,7 @@ inner ear infection [Geordi], dizziness [Geordi], headache [Geordi]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 inertial damper [4x], temporal causality loop [3x], vertazine {medbabble}[1x], dekyon {particle}[10x], flux spectrometer [1x], gravitron polameter [1x], phase shift [4x], subspace scan [4x], narrow bandwidth analysis [1x], particle flux [1x]
@@ -14815,7 +14815,7 @@ tng5x19
 :: Episode Title
 The First Duty
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, dorm room, courtroom, university campus, courtyard garden
 
 :: Deaths
@@ -14827,7 +14827,7 @@ second degree burns to the chest [Wesley], multiple fractures of the right arm [
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 bicaridine {medbabble}[1x], power coupling [1x]
@@ -14953,7 +14953,7 @@ tng5x20
 :: Episode Title
 Cost of Living
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Troi's quarters <living room>, living room, Enterprise-D Lwaxana's quarters, Enterprise-D Worf's quarters, Enterprise-D holodeck <resort; courtyard garden>, resort, courtyard garden
 
 :: Deaths
@@ -14965,7 +14965,7 @@ suffocation [Riker,Picard,crewman x5]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 emitter beam [1x], nitrium {compound}[13x], chrondite {compound}[1x], intermitting EM field pattern [1x], datanet interface [2x], inertial damper [2x], mass spectrometer analysis [1x], dilithium {compound}[6x], power transfer conduit [2x], photonic trail [1x]
@@ -15082,7 +15082,7 @@ tng5x21
 :: Episode Title
 The Perfect Mate
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D sickbay, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Picard's quarters <dinner table>, dinner table, Enterprise-D Kamala's quarters <living room>, living room, Enterprise-D Ferengi quarters, Enterprise-D holodeck <temple; ceremonial chamber>, temple, ceremonial chamber
 
 :: Deaths
@@ -15095,7 +15095,7 @@ knocked unconscious [ambassador]
 :: Mind Complications
 pheromone influence [Picard, Riker, crew]
 
-:: Altercation
+:: Altercations
 struggle [Ferengi and ambassador],
 
 :: Technobabble
@@ -15215,7 +15215,7 @@ tng5x22
 :: Episode Title
 Imaginary Friend
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D Troi's quarters, Enterprise-D Clara's quarters <bedroom>, bedroom, Enterprise-D Sutter's quarters <living room>, living room, Enterprise-D arboretum, Enterprise-D daycare center, Enterprise-D turbolift
 
 :: Deaths
@@ -15228,7 +15228,7 @@ biomedical processes severely disrupted [Troi],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 trionium {compound}[2x], thermal interferometery scanner [1x], particle flux [1x], spectral analysis [1x], damping field [1x], magnetic coil [1x], shield frequency remodulation [1x], graviton {particle}[1x]
@@ -15338,7 +15338,7 @@ tng5x23
 :: Episode Title
 I Borg
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D science lab, Enterprise-D brig, Enterprise-D gymnasium, Enterprise-D Picard's quarters, rocky wasteland
 
 :: Deaths
@@ -15351,7 +15351,7 @@ cybernetic implant damage [Borg], laceration to the face [Hugh], massive interna
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 friendly fencing [Picard and Guinan]
 
 :: Technobabble
@@ -15446,7 +15446,7 @@ tng5x24
 :: Episode Title
 The Next Phase
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D shuttle bay, Romulan vessel engine room <wrecked room>, shuttlecraft, smoke filled room, wrecked room
 
 :: Deaths
@@ -15458,7 +15458,7 @@ death by engine explosion [Romulan x26], death by transporter mishap [Ro and Geo
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 manhunt [Romulan at Ro], struggle [Ro and Romulan, Geordi and Romulan],
 
 :: Technobabble
@@ -15564,7 +15564,7 @@ tng5x25
 :: Episode Title
 The Inner Light
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters, living room, courtyard, garden, town square, open field, mountainside
 
 :: Deaths
@@ -15577,7 +15577,7 @@ hyperactive fibrogenic activity [Picard], neurotransmitter production off the sc
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 paricium {compound}[1x], talgonite {compound}[1x], voice transit conductor [1x], emiristol {compound}[1x], delatovine {medbabble}[1x]
@@ -15675,7 +15675,7 @@ tng5x26
 :: Episode Title
 Time's Arrow
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Ten Forward <bar>, bar,  Enterprise-D observation lounge <meeting room>, meeting room, Wild West hotel room, cavern, poker table, banquet room, American 19th century era city street, American 19th century era alleyway
 
 :: Deaths
@@ -15688,7 +15688,7 @@ decapitation [Data]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 subspace field [3x], phase discriminator [2x], triolic waves {radiation}[8x], bitanium {compound}[1x], microcentrum {compound}[1x], temporal disturbance [1x], spectral analysis [1x], magnetic signature [1x], spectral field correlation analysis [1x], temporal analysis [1x], synchronic distortion [2x], positronic decompiler [1x], carbon 70 {compound}[1x]
@@ -15793,7 +15793,7 @@ tng6x01
 :: Episode Title
 Time's Arrow, Part II
 
-:: Setting
+:: Settings
 Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D medical lab, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D bridge, morgue, Victorian era boarding room, hospital room, American 19th century era city street, cavern
 
 :: Deaths
@@ -15807,7 +15807,7 @@ feverishness and coughing [patient]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 brawl [alien and Geordi, Riker and policeman, data and alien, ], sucker punch [Riker to constable]
 
 :: Technobabble
@@ -15903,7 +15903,7 @@ tng6x02
 :: Episode Title
 Realm of Fear
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Barclay's quarters <bedroom>, bedroom, Enterprise-D transporter room, Enterprise-D Troi's office, science ship science lab, science ship control room, blue void
 
 :: Deaths
@@ -15918,7 +15918,7 @@ quasi-energy microbe infection [barclay]
 :: Mind Complications
 transporter phobia [Barclay], paranoid delusion [Barclay], transporter psychosis [Barclay]
 
-:: Altercation
+:: Altercations
 brawl [barclay and transporter worm]
 
 :: Technobabble
@@ -16028,7 +16028,7 @@ tng6x03
 :: Episode Title
 Man of the People
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D gymnasium, Enterprise-D corridor, Enterprise-D Troi's office, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Troi's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Beverly's office, Enterprise-D sickbay, Enterprise-D Alkar's quarters, morgue, conference chamber anteroom
 
 :: Deaths
@@ -16043,7 +16043,7 @@ elevated readings to all of the systems of the body [Troi]
 :: Mind Complications
 paranoid jealousy [Sev, Troi]
 
-:: Altercation
+:: Altercations
 struggle [Troi and Picard, Ves and Liva]
 
 :: Technobabble
@@ -16175,7 +16175,7 @@ tng6x04
 :: Episode Title
 Relics
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D holodeck <Enterprise NCC-1701 bridge>, Enterprise bridge, Enterprise-D shuttle bay, Enterprise-D Scotty's quarters, Jenolan ops center <wrecked room>, wrecked room
 
 :: Deaths
@@ -16188,7 +16188,7 @@ hairline fracture of the humerus [Scotty], scratch to face [Scotty]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 phase inducer [2x], emitter array [1x],  spectrographic analysis [2x], resonance frequency [1x], dynamic mode converter [1x], deuterium {compound}[1x], gravimetric interference [2x], pattern buffer [5x], duotronic enhancer [1x], isolinear chip [1x], EPS power tab [1x], plasma conduit [1x], power coil [1x], multiphase autocontainment field [1x], phase lock [1x], dilithium {compound}[1x], power coupling [1x], deuterium {compound}[1x], carbon-neutronuim {compound}[1x], plasma intercooler [1x]
@@ -16301,7 +16301,7 @@ tng6x05
 :: Episode Title
 Schisms
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D observation lounge, Ten Forward <concert hall>, concert hall, Enterprise-D cargo bay, Enterprise-D holodeck <gridlines>, gridlines,  Enterprise-D corridor, Enterprise-D barbershop, Enterprise-D Riker's quarters <bedroom>, bedroom, alien lab
 
 :: Deaths
@@ -16316,7 +16316,7 @@ bacterial infection around neural input [Geordi]
 :: Mind Complications
 insomnia [Riker]
 
-:: Altercation
+:: Altercations
 phaser shot [Riker at alien]
 
 :: Technobabble
@@ -16432,7 +16432,7 @@ tng6x06
 :: Episode Title
 True Q
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D medical lab, Enterprise-D corridor, gazebo, spaceship outer hull
 
 :: Deaths
@@ -16446,7 +16446,7 @@ allergic reaction [Worf]
 :: Mind Complications
 mind control [Amanda at Riker]
 
-:: Altercation
+:: Altercations
 magical struggle [Amanda at q]
 
 :: Technobabble
@@ -16555,7 +16555,7 @@ tng6x07
 :: Episode Title
 Rascals
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D Jefferies tube, Enterprise-D O'Brien's quarters <living room; bedroom>, living room, bedroom, Enterprise-D Picard's quarters, Enterprise-D Ro's quarters, Enterprise-D classroom, shuttlecraft
 
 :: Deaths
@@ -16568,7 +16568,7 @@ youthenization [Picard, Guinan, Ro, Keiko]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shoot out [enterprise and Ferengi], shoot out [Worf and Ferengi], manhandling [Ferengi at Picard], sneak hypospraying [Keiko at Ferengi], bash to the back [Riker at Ferengi]
 
 :: Technobabble
@@ -16673,7 +16673,7 @@ tng6x08
 :: Episode Title
 A Fistful of Datas
 
-:: Setting
+:: Settings
 Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <rehearsal room>, rehearsal room, Enterprise-D corridor, Enterprise-D holodeck <world of the Wild West; Wild West saloon; Wild West sheriff's office; mine shaft; Wild West town street>, Enterprise-D Worf's quarters, Enterprise-D Picard's quarters, Enterprise-D Data's quarters, Wild West saloon, Wild West sheriff's office, mine shaft, Wild West town street
 
 :: Deaths
@@ -16685,7 +16685,7 @@ gunshot wound to arm [Worf]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 brawl [Worf and holo-bandits], shoot out [holo-bandits at Worf, Worf/Troi and holo-bandits], slap across the face {physical altercation}[Annie at Worf]
 
 :: Technobabble
@@ -16791,7 +16791,7 @@ tng6x09
 :: Episode Title
 The Quality of Life
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D ready room, Enterprise-D Data's quarters, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D observation lounge <poker table>, poker table, machine room
 
 :: Deaths
@@ -16804,7 +16804,7 @@ bruised arm [Beverly], laceration to the arm [Worf at Beverly]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 servo mechanism [1x], plasma cascade [1x], plasma conduit [4x], particle flux [2x], positronic network [2x], positronic links [1x], interlink sequencer [3x], boridium {compound}[2x], axionic chip [1x], anti-matter flow converter [2x], mode stabilizer [2x], circuit pathways [2x], ionic damper [1x], sub-harmonic resonance frequency [1x]
@@ -16898,7 +16898,7 @@ tng6x10
 :: Episode Title
 Chain of Command, Part I
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Picard's quarters, Enterprise-D ready room, shuttlecraft, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D holodeck <cavern>, cavern, lava tube, rocky landscape, chamber, alien bar, cliff face, rocky ledge
 
 :: Deaths
@@ -16910,7 +16910,7 @@ scratches to the cheek [Beverly]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shootout [Worf/Beverly and Cardassians], struggle [Worf and Cardassian, Picard and Cardassian], hand to hand combat
 
 :: Technobabble
@@ -17031,7 +17031,7 @@ tng6x11
 :: Episode Title
 Chain of Command, Part II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, Enterprise-D ready room, shuttlecraft, Enterprise-D shuttle bay, Enterprise-D sickbay, torture chamber, interrogation room
 
 :: Deaths
@@ -17043,7 +17043,7 @@ bruise to the cheek [Beverly], fat lip [Picard], bruised wrists [Picard], lacera
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 prolonged torture [Cardassian at Picard]
 
 :: Technobabble
@@ -17154,7 +17154,7 @@ tng6x12
 :: Episode Title
 Ship in a Bottle
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, shuttlecraft, Enterprise-D corridor, Enterprise-D holodeck <Victorian era drawing room; gridlines; Victorian era parlor>, Victorian era drawing room, Victorian era parlor, gridlines
 
 :: Deaths
@@ -17166,7 +17166,7 @@ death by strychnine poisoning [holodeck character]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 matrix diode [1x], phase variance [1x], pattern enhancers [3x], confinement beam [1x], Heisenberg compensator [3x], enhancement module [1x]
@@ -17272,7 +17272,7 @@ tng6x13
 :: Episode Title
 Aquiel
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Geordi's quarters, Enterprise-D Morag's quarters, Enterprise-D corridor, Enterprise-D Aquiel's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D shuttle bay, shuttlecraft, Relay Station 47 Aquiel's quarters, Relay Station 47 ops
 
 :: Deaths
@@ -17285,7 +17285,7 @@ laceration to the head [Aquiel], laceration to the arm [Aquiel],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 struggle [Geordi and organism]
 
 :: Technobabble
@@ -17397,7 +17397,7 @@ tng6x14
 :: Episode Title
 Face of the Enemy
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D Deseve's quarters, Enterprise-D ready room, Enterprise-D sickbay, Romulan warbird Troi's quarters <Spartan quarters>, Spartan quarters, Romulan warbird bridge, Romulan warbird cargo bay, Romulan warbird ward room <dinner table>, dinner table
 
 :: Deaths
@@ -17409,7 +17409,7 @@ death by ship explosion [Corvallen freighter crew by Romulans x18]<19:02>, death
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 gravitic sensor net [2x], nullifier core [1x], tachyon detection grid [1x], tachyon {particle}[1x], anti-proton {particle}[2x]
@@ -17522,7 +17522,7 @@ tng6x15
 :: Episode Title
 Tapestry
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D Beverly's quarters, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Starbase Earhart Picard's quarters, Starbase Earhart Marta's quarters, bar, white void
 
 :: Deaths
@@ -17536,7 +17536,7 @@ cardiac arrest <medical emergency>[Picard], activity in the isocortex falling [P
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 brawl [Picard and Nausicaans, Picard/ensign and Nausicaans], slap across the face [woman at Picard],
 
 :: Technobabble
@@ -17643,7 +17643,7 @@ tng6x16
 :: Episode Title
 Birthright, Part I
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Data's quarters, Enterprise-D ready room, Enterprise-D Worf's quarters, DS9 promenade, DS9 replimat, shuttlecraft, garden, meeting hall, jungle clearing
 
 :: Deaths
@@ -17657,7 +17657,7 @@ fused neural network [Data]
 :: Mind Complications
 hallucination induced by electrocution [Data], hallucination [Data]
 
-:: Altercation
+:: Altercations
 manhandling [Worf at alien]
 
 :: Technobabble
@@ -17771,7 +17771,7 @@ tng6x17
 :: Episode Title
 Birthright, Part II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, meeting hall, shuttlecraft, living room, jungle clearing, vegetable garden
 
 :: Deaths
@@ -17782,7 +17782,7 @@ Enterprise-D bridge, Enterprise-D ready room, meeting hall, shuttlecraft, living
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 brawl [Worf and klingon]
 
 :: Technobabble
@@ -17885,7 +17885,7 @@ tng6x18
 :: Episode Title
 Starship Mine
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Worf's quarters, Enterprise-D Jefferies tube, Ten Forward <bar>, bar, banquet room
 
 :: Deaths
@@ -17898,7 +17898,7 @@ crossbow bolt to the leg [Picard at Pomet], bloody lip [Riker], minor cut to the
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 struggle [Picard and thief], vulcan nerve pinch [Picard at thief], sneak hypospraying [Picard at thief], phaser shot [thief at Geordi, thief at hutch], tackle [Picard at thief], manhunt [thieves at Picard], struggle [Riker and thieves, Picard and thief], hand to hand combat {physical altercation}[Picard and Tuvok], one on one fight {physical altercation}[Picard&Kelsey]
 
 :: Technobabble
@@ -18018,7 +18018,7 @@ tng6x19
 :: Episode Title
 Lessons
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D stellar cartography lab, Enterprise-D Picard's quarters <dinner table>, dinner table, Ten Forward <concert hall>, concert hall, Enterprise-D Jefferies tube, Enterprise-D engineering, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D sickbay
 
 :: Deaths
@@ -18031,7 +18031,7 @@ mild strain to wrist [Nella], assorted bruises and scratches [crew-member x10, c
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 thermal deflector unit [3x], fractal particle motion [1x], gravimetric wave input [1x]
@@ -18138,7 +18138,7 @@ tng6x20
 :: Episode Title
 The Chase
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D Picard's quarters, Enterprise-D medical lab, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D ready room, mountain pass
 
 :: Deaths
@@ -18151,7 +18151,7 @@ fatal disruptor burns to the chest [Galen]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 head-butt [klingon at data], space shootout [Yridian and Enterprise, Cardassian and Enterprise]
 
 :: Technobabble
@@ -18281,7 +18281,7 @@ tng6x21
 :: Episode Title
 Frame of Mind
 
-:: Setting
+:: Settings
 Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D Riker's quarters, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D theater <asylum cell; asylum cafeteria>, asylum cell, asylum cafeteria, alien lab
 
 :: Deaths
@@ -18295,7 +18295,7 @@ severe state of neural shock [Riker], elevated heart rate [Riker], blood pressur
 :: Mind Complications
 mental breakdown [Riker], extreme stress [Riker], delusions [Riker], mind fucking [Riker]
 
-:: Altercation
+:: Altercations
 hypodermic sedation [alien at Riker], manhunt [aliens at Riker], struggle [Riker and alien], grab by throat {physical altercation}, brawl {physical altercation}
 
 :: Technobabble
@@ -18403,7 +18403,7 @@ tng6x22
 :: Episode Title
 Suspicions
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D shuttle bay, Enterprise-D science lab, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D Picard's quarters, Enterprise-D Beverly's quarters, Enterprise-D Christopher's quarters, shuttlecraft, morgue
 
 :: Deaths
@@ -18417,7 +18417,7 @@ baryon radiation exposure <medical emergency>[Jo'Bril], massive system wide fail
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 struggle [Beverly and Jo'Bril], shootout [Beverly at Reyga], shove {physical altercation}
 
 :: Technobabble
@@ -18530,7 +18530,7 @@ tng6x23
 :: Episode Title
 Rightful Heir
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Worf's quarters <dimly lit room>, dimly lit room, Enterprise-D Kahless's quarters, Enterprise-D holodeck <throne room>, cavern, throne room, chamber
 
 :: Deaths
@@ -18543,7 +18543,7 @@ unspecified minor injury [crewman]
 :: Mind Complications
 spiritual trance [Worf]
 
-:: Altercation
+:: Altercations
 bat'leth duel [Worf and Kahless], knife duel [Gowron and Kahless], sword fight {physical altercation}, duel {physical altercation}
 
 :: Technobabble
@@ -18651,7 +18651,7 @@ tng6x24
 :: Episode Title
 Second Chances
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D gymnasium, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D Troi's quarters, Enterprise-D Lt. Riker's quarters, cavern, Nirvala IV control room
 
 :: Deaths
@@ -18663,7 +18663,7 @@ fractured arm [Thomas]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 distortion field [12x], transport buffer [1x], containment beam [3x], phase differential [1x], phase distortion [1x], primary EPS system [1x], EPS coupling [2x], servo link [2x]
@@ -18764,7 +18764,7 @@ tng6x25
 :: Episode Title
 Timescape
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D Data's quarters, shuttlecraft, Romulan warbird engineering, dinner table
 
 :: Deaths
@@ -18779,7 +18779,7 @@ accelerated metabolism [Picard], rapid aging [Picard's hand], fainting [Troi], m
 :: Mind Complications
 temporal narcosis [Picard], dizziness [Picard],
 
-:: Altercation
+:: Altercations
 space shootout [enterprise and Romulan] <apparent>, shootout [Romulan at Beverly], mystical shock attack [2d being at Geordi, 2d being at data]r, electrocution touch {physical altercation}[Romulan at Geordi]
 
 :: Technobabble
@@ -18886,7 +18886,7 @@ tng6x26
 :: Episode Title
 Descent
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D holodeck <Enterprise-D Data's quarters; poker table>, poker table, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D brig, Enterprise-D Data's quarters, great hall, control room, countryside
 
 :: Deaths
@@ -18900,7 +18900,7 @@ heart rate and blood pressure up [Borg drone]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shootout [crew and Borg x2], space shootout [enterprise and Borg], struggle [data and Borg, data and holoBorg], hand to hand combat {physical altercation}[Data and Borg drone], ambush, shoot out
 
 :: Technobabble
@@ -19028,7 +19028,7 @@ tng7x01
 :: Episode Title
 Descent, Part II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D Data's quarters, great hall, futuristic jail cell, corridor, alien lab, countryside, cavern
 
 :: Deaths
@@ -19042,7 +19042,7 @@ phaser incapacitation [data at lore]
 :: Mind Complications
 dizziness [Geordi], severe brain damage
 
-:: Altercation
+:: Altercations
 struggle [hue and Borg], shootout [Riker/Worf and Borg], melee [Borg and Borg], ambush, ripped Borg cord {physical altercation}
 
 :: Technobabble
@@ -19144,7 +19144,7 @@ tng7x02
 :: Episode Title
 Liaisons
 
-:: Setting
+:: Settings
 Enterprise-D Worf's quarters, Enterprise-D shuttle bay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D observation lounge <reception room>, reception room, Enterprise-D Riker's quarters <poker table>, poker table, dilapidated alien shuttlecraft <dilapidated room>, dilapidated room, cargo freighter <makeshift home interior>, makeshift home interior, rocky wasteland, rocky ledge, cliff face
 
 :: Deaths
@@ -19156,7 +19156,7 @@ knocked unconscious [Picard, Voval], concussion [Voval], electrocution [Picard],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Worf and Byleth], struggle [Picard and Anna]
 
 :: Technobabble
@@ -19274,7 +19274,7 @@ tng7x03
 :: Episode Title
 Interface
 
-:: Setting
+:: Settings
 science ship <wrecked room; smoke filled room>, wrecked room, smoke filled room, Enterprise-D Jefferies tube, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D Beverly's office, Enterprise-D Data's quarters, Enterprise-D sickbay, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, science ship auxiliary control, science ship engineering
 
 :: Deaths
@@ -19289,7 +19289,7 @@ can't get left leg to work [Geordi], pulse gone up [Geordi], neural shock [Geord
 :: Mind Complications
 psychosomatic response [Geordi]
 
-:: Altercation
+:: Altercations
 mystic attack [alien at Geordi],
 
 :: Technobabble
@@ -19383,7 +19383,7 @@ tng7x04
 :: Episode Title
 Gambit, Part I
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D Riker's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Yranac's quarters, alien bar, woodland, alien lab, mercenary ship Riker's quarters, mercenary ship bridge
 
 :: Deaths
@@ -19396,7 +19396,7 @@ knocked unconscious [Riker], induced pain in the neck [Riker, bandit, Picard]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 manhandling [alien at alien, Riker at alien], shootout [bandits and away team], pain device torture [bandit at Riker, bandit at bandit, bandit at Picard], slap across the face [Picard at Riker], space shootout [bandits and enterprise], backhand slap {physical altercation}, shoot out, ambush
 
 :: Technobabble
@@ -19509,7 +19509,7 @@ tng7x05
 :: Episode Title
 Gambit, Part II
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Baran's quarters, mercenary ship cargo bay, mercenary ship Picard's quarters, mercenary ship cargo hold, cavern
 
 :: Deaths
@@ -19522,7 +19522,7 @@ energy weapon stun [Picard at Riker],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shootout [bandits and enterprise], shootout [Picard and Riker], mystic attack [Tallera at bandit x2, Tallera at Riker, Tallera at Worf], punched face {physical altercation}
 
 :: Technobabble
@@ -19628,7 +19628,7 @@ tng7x06
 :: Episode Title
 Phantasms
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Data's quarters <bedroom>, bedroom, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D holodeck <psychiatrist's office; gridlines>, psychiatrist's office, gridlines, Enterprise-D Troi's office, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay
 
 :: Deaths
@@ -19643,7 +19643,7 @@ rash [Troi], cat allergy [Worf], cellular decay [Troi], interphasic parasite inf
 :: Mind Complications
 neurosis [Data],
 
-:: Altercation
+:: Altercations
 assault [bums at data, data at Troi, data at Riker], gunshot [bum at freud], noise attack [data at bums], stabbing
 
 :: Technobabble
@@ -19762,7 +19762,7 @@ tng7x07
 :: Episode Title
 Dark Page
 
-:: Setting
+:: Settings
 Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Troi's office, Enterprise-D sickbay, Enterprise-D Maques' quarters, Enterprise-D Beverly's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D arboretum, living room
 
 :: Deaths
@@ -19776,7 +19776,7 @@ coma [Lwaxana], fainting [Lwaxana], psilosynine levels a little low [Troi], brai
 :: Mind Complications
 repressed memory [Lwaxana], psyche collapsed in on itself [Lwaxana],
 
-:: Altercation
+:: Altercations
 animal attack [wolf at Troi], accidental psionic attack
 
 :: Technobabble
@@ -19888,7 +19888,7 @@ tng7x08
 :: Episode Title
 Attached
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters <dinner table>, dinner table, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D Kes' quarters, detention cell, cavern, cavern entrance, mountainside, campfire
 
 :: Deaths
@@ -19901,7 +19901,7 @@ sudden nausea [Picard, Beverly]
 :: Mind Complications
 induced brainwave synchronization [Picard, Beverly]
 
-:: Altercation
+:: Altercations
 manhunt [Prytt at Picard/Beverly],
 
 :: Technobabble
@@ -20009,7 +20009,7 @@ tng7x09
 :: Episode Title
 Force of Nature
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Geordi's quarters <bedroom>, bedroom, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D Data's quarters, Enterprise-D stellar cartography lab, Enterprise-D ready room, Ten Forward <bar>, bar
 
 :: Deaths
@@ -20021,7 +20021,7 @@ death by ship explosion [Serova]<26:36>
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shootout [Ferengi and enterprise]
 
 :: Technobabble
@@ -20136,7 +20136,7 @@ tng7x10
 :: Episode Title
 Inheritance
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Ten Forward <concert hall>, concert hall, Enterprise-D corridor, Enterprise-D holodeck <black void>, black void, Enterprise-D Data's quarters, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, cavern, subterranean passageway
 
 :: Deaths
@@ -20149,7 +20149,7 @@ mild case of hypertension [Juliana], coma [Juliana]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 synaptic scan [1x], isobaric fissure [1x], positronic matrix [5x], phaser harmonics [1x], plasma induction coil [1x], plasma infusion [1x], transporter trace [1x], energy transfer matrix [1x], particle stream buffer [1x], pattern enhancers [1x]
@@ -20249,7 +20249,7 @@ tng7x11
 :: Episode Title
 Parallels
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Worf's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, Enterprise-D sickbay, shuttlecraft
 
 :: Deaths
@@ -20264,7 +20264,7 @@ dizziness [Worf], vertigo, quantum flux in cellular RNA [Worf]
 :: Mind Complications
 apparent memory loss [Worf]
 
-:: Altercation
+:: Altercations
 space shootout [enterprise and Cardassians],
 
 :: Technobabble
@@ -20382,7 +20382,7 @@ tng7x12
 :: Episode Title
 The Pegasus
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D Picard's quarters, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D brig, Pegasus engineering
 
 :: Deaths
@@ -20395,7 +20395,7 @@ broken rib [Riker], large bruise to the rib cage [Riker]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 subspace resonance signature [3x], verteron {particle}[2x], tachyon scan [2x], tachyon {particle}[2x], inertial damper [1x], ionization field pulse [1x], terakine {medbabble}[1x], plasma conduit [1x], plasma relay [1x]
@@ -20508,7 +20508,7 @@ tng7x13
 :: Episode Title
 Homeward
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D stellar cartography lab, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Vorin's quarters, cavern, xeric scrubland, Enterprise-D holodeck <cavern; mountain pass; campfire>, cavern, mountain pass, campfire
 
 :: Deaths
@@ -20520,7 +20520,7 @@ death by rapid atmospheric dissipation [50 million Boraalans], suicide by ritual
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 plasmonic energy [6x], EPS distribution net [1x], EPS transfer link [1x], EPS system [1x], power distribution matrix [1x]
@@ -20623,7 +20623,7 @@ tng7x14
 :: Episode Title
 Sub Rosa
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Beverly's quarters <bedroom>, bedroom, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D turbolift, haunted house, cemetery
 
 :: Deaths
@@ -20637,7 +20637,7 @@ anaphasic shock [Picard, Geordi, Data]
 :: Mind Complications
 mind fucking [ronin at Beverly],
 
-:: Altercation
+:: Altercations
 mystic anaphasic energy attack [ronin at Picard/Geordi/data], shooting [Beverly at ronin],
 
 :: Technobabble
@@ -20758,7 +20758,7 @@ tng7x15
 :: Episode Title
 Lower Decks
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D gymnasium, Enterprise-D observation lounge <meeting room>, meeting room, shuttlecraft, Enterprise-D Lavelle and Taurik's quarters <poker table>
 
 :: Deaths
@@ -20772,7 +20772,7 @@ coma [Cardassian], subdural hematoma [Cardassian]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 sparing match [Worf and crew-member],
 
 :: Technobabble
@@ -20903,7 +20903,7 @@ tng7x16
 :: Episode Title
 Thine Own Self
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D Riker's quarters, Enterprise-D Troi's quarters, Enterprise-D holodeck <Enterprise-D engineering>, town square, living room
 
 :: Deaths
@@ -20917,7 +20917,7 @@ hair loss [Garvin], radiation sickness [townspeople], fever [Garvin]
 :: Mind Complications
 amnesia [Data],
 
-:: Altercation
+:: Altercations
 head bashing [Data], lynching
 
 :: Technobabble
@@ -21021,7 +21021,7 @@ tng7x17
 :: Episode Title
 Masks
 
-:: Setting
+:: Settings
 Enterprise-D classroom, Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Data's quarters <dimly lit room>, dimly lit room, Enterprise-D corridor, temple
 
 :: Deaths
@@ -21033,7 +21033,7 @@ Enterprise-D classroom, Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-
 :: Mind Complications
 possession [Masaka at Data], multiple personalities [Data]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 carrier wave [1x], fortanium {compound}[1x], positronic net [3x], micrograph [1x], phase alignment [1x]
@@ -21140,7 +21140,7 @@ tng7x18
 :: Episode Title
 Eye of the Beholder
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D nacelle control, Enterprise-D Kwain's quarters, Enterprise-D Beverly's office, Enterprise-D sickbay, Enterprise-D Troi's quarters, Ten Forward <bar>, bar, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D Calloway's quarters, Enterprise-D corridor
 
 :: Deaths
@@ -21155,7 +21155,7 @@ elevated solacinium level
 :: Mind Complications
 influence by empathic imprint [Troi],
 
-:: Altercation
+:: Altercations
 phaser shot [Troi at Worf],
 
 :: Technobabble
@@ -21258,7 +21258,7 @@ tng7x19
 :: Episode Title
 Genesis
 
-:: Setting
+:: Settings
 Enterprise-D bridge <dimly lit room>, dimly lit room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D Data's quarters <living room>, living room, Enterprise-D Worf's quarters <bedroom>, bedroom, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D Troi's quarters <bathroom>, bathroom, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay <dimly lit room>, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, shuttlecraft
 
 :: Deaths
@@ -21273,7 +21273,7 @@ hyperactivity [Barclay], paralysis [Beverly], cells in ribocyatic flux, stinging
 :: Mind Complications
 absentmindedness [Riker], hypochondria [Barclay], memory loss [crewman x??],
 
-:: Altercation
+:: Altercations
 sexual assault [Worf at Troi], struggle [Riker and Picard], phaser shot [data at Riker], manhunt [Worf at Picard],
 
 :: Technobabble
@@ -21409,7 +21409,7 @@ tng7x20
 :: Episode Title
 Journey's End
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D Picard's quarters, Enterprise-D Wesley's quarters, town square
 
 :: Deaths
@@ -21420,7 +21420,7 @@ Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting roo
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 manhandling [indian at Cardassian], struggle [indian and Cardassian], shoot out [indians and Cardassians],
 
 :: Technobabble
@@ -21542,7 +21542,7 @@ tng7x21
 :: Episode Title
 Firstborn
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D Worf's quarters <bedroom>, bedroom, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Troi's quarters, Enterprise-D observation lounge <meeting room>, meeting room, rocky pit, mine, Enterprise-D holodeck <town square>, town square
 
 :: Deaths
@@ -21554,7 +21554,7 @@ death by disruptor [Klingon assassin by future Alexander]<11:25>
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 staged fight [klingon and klingon, alexander and klingon, Worf and klingon], ambush [klingon at Worf/alexander], shooting [alexander at klingon], brawl [Worf and klingon], one on one fight [alexander and holocharacter], struggle [alexander and Worf],
 
 :: Technobabble
@@ -21680,7 +21680,7 @@ tng7x22
 :: Episode Title
 Bloodlines
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Picard's quarters <bedroom>, bedroom, Enterprise-D Beverly's office, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <cavern>, cavern, Enterprise-D Daniel's quarters
 
 :: Deaths
@@ -21692,7 +21692,7 @@ seizure [Jason, medical emergency]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 stand off [Picard and Ferengi],
 
 :: Technobabble
@@ -21805,7 +21805,7 @@ tng7x23
 :: Episode Title
 Emergence
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D holodeck <woodland; train car; American 1950s era city street>, Enterprise-D cargo bay, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, woodland, train car, American 1950s era city street
 
 :: Deaths
@@ -21818,7 +21818,7 @@ multiple scrapes to the cheek [Picard], cut to the cheek [Troi]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 attempted hit and run [cab driver at Data], shooting [gunslinger at engineer]
 
 :: Technobabble
@@ -21936,7 +21936,7 @@ tng7x24
 :: Episode Title
 Preemptive Strike
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, alien bar, shuttlecraft, town square
 
 :: Deaths
@@ -21949,7 +21949,7 @@ phaser stun [maquis at Ro], directed energy wound [Macias],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shootout [Enterprise and Maquis], shooting [maquis at Ro], shoot out [Cardassian and Maquis], ambush,
 
 :: Technobabble
@@ -22062,7 +22062,7 @@ tng7x25
 :: Episode Title
 All Good Things...
 
-:: Setting
+:: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Troi's quarters, Enterprise-D sickbay, Enterprise-D Beverly's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D Riker's quarters <poker table>, poker table, vineyard, volcanic wasteland, Ten Forward <bar>, bar, Enterprise-D turbolift, shuttlecraft, Enterprise-D shuttle bay, drawing room, courtroom, Enterprise-D holodeck <gridlines>, gridlines, Pasteur bridge, Pasteur ready room, Pasteur turbolift
 
 :: Deaths
@@ -22076,7 +22076,7 @@ small structural defect in the parietal lobe [Picard], spontaneous regeneration 
 :: Mind Complications
 senility [Picard], hallucination [Picard], delusion [Picard],
 
-:: Altercation
+:: Altercations
 space shootout [klingon and Beverly's ship, enterprise and klingon], surreptitious hypospraying [Beverly at Picard],
 
 :: Technobabble
@@ -22177,7 +22177,7 @@ tng7x26
 :: Episode Title
 All Good Things...
 
-:: Setting
+:: Settings
 
 :: Deaths
 
@@ -22187,7 +22187,7 @@ All Good Things...
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 

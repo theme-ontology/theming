@@ -84,7 +84,7 @@ tas1x01
 :: Episode Title
 Beyond The Farthest Star
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Ancient Inscetoid spaceship exterior, Ancient Insectoid spaceship control room
 
 :: Deaths
@@ -95,7 +95,7 @@ Enterprise bridge, Enterprise transporter room, Ancient Inscetoid spaceship exte
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 elbow to back [Kirk@Kyle], stun beam to chest [alien@Kirk], stun beam to back [alien@Kirk], stun beam to chest [alien@Spock]
 
 :: Technobabble
@@ -180,7 +180,7 @@ tas1x02
 :: Episode Title
 Yesteryear
 
-:: Setting
+:: Settings
 Enterprise transporter room, Enterprise briefing room, desert landscape, Sarek's living room, courtyard, bedroom, rocky wasteland, ancient ruins
 
 :: Deaths
@@ -192,7 +192,7 @@ poisoning [wild beast at pet]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shove [bully@young Spock], animal fight, Vulcan neck pinch [Spock@wild beast], plant tentacle attack [plant@young Spock]
 
 :: Technobabble
@@ -274,7 +274,7 @@ tas1x03
 :: Episode Title
 One of our Planets is Missing
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise engineering, Enterprise Kirk's quarters, Enterprise transporter room
 
 :: Deaths
@@ -285,7 +285,7 @@ Enterprise bridge, Enterprise engineering, Enterprise Kirk's quarters, Enterpris
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space fight [Enterprise&cloud creature]
 
 :: Technobabble
@@ -368,7 +368,7 @@ tas1x04
 :: Episode Title
 The Lorelei Signal
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise McCoy's office, temple, slumber chamber, Enterprise sickbay, Enterprise transporter room, garden, urn interior
 
 :: Deaths
@@ -381,7 +381,7 @@ rapid aging
 :: Mind Complications
 euphoric state induced by siren call [210 men aboard Enterprise],
 
-:: Altercation
+:: Altercations
 phaser stun [crew women@alien babes x5], manhandling [alien babe@spock,kirk,mccoy], shove [alien babe@redshirt]
 
 :: Technobabble
@@ -473,7 +473,7 @@ tas1x05
 :: Episode Title
 More Trouble, More Tribbles
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise medical lab, Klingon vessel bridge, Enterprise corridor
 
 :: Deaths
@@ -484,7 +484,7 @@ Enterprise bridge, Enterprise transporter room, Enterprise medical lab, Klingon 
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shoot out [klingon@scout ship, x10, klingon@enterprise], devouring [glommer@tribble]
 
 :: Technobabble
@@ -562,7 +562,7 @@ tas1x06
 :: Episode Title
 The Survivor
 
-:: Setting
+:: Settings
 Enterprise transporter room, Enterprise briefing room, Enterprise sickbay, Enterprise Kirk's quarters, Enterprise bridge, Enterprise turbolift, Enterprise McCoy's office, Enterprise corridor, Enterprise medical lab, Enterprise engineering
 
 :: Deaths
@@ -574,7 +574,7 @@ death by injuries sustained in a crash [Carter Winston]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 psionic stun [carter@kirk, carter@mccoy], tentacle throw [vendorian@spock, vendorian@kirk], space disruptor fire [romulan@enterprise], disarming karate chop to hand [Winston@Anne], neck pinch [Winston@Scotty]
 
 :: Technobabble
@@ -660,7 +660,7 @@ tas1x07
 :: Episode Title
 The Infinite Vulcan
 
-:: Setting
+:: Settings
 alien landscape, building entrance, Enterprise bridge, Enterprise engineering, Enterprise transporter room, launch complex, tunnel, control room, alien lab
 
 :: Deaths
@@ -672,7 +672,7 @@ poisoining [Sulu]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 poison thorn attack to hand [plant@Sulu], bird dive attack [plant bird@Kirk], tentacle restraining [plant birds@Kirk, Spock, McCoy, Sulu], wide field phaser shot from orbit [Enterprise@plant compound], restraining from behind [Kirk@Agmar], pesticide attack [away team@flying plants]
 
 :: Technobabble
@@ -767,7 +767,7 @@ tas1x08
 :: Episode Title
 The Magicks of Megas-tu
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise engineering, woodland glade, Enterprise Spock's quarters, New England 18th century era town, netherworld, futuristic cityscape
 
 :: Deaths
@@ -780,7 +780,7 @@ face full of dust [McCoy]
 :: Mind Complications
 bewilderment [Kirk]
 
-:: Altercation
+:: Altercations
 magical lightening fight {one on one fight}[Kirk&Megan]
 
 :: Technobabble
@@ -866,7 +866,7 @@ tas1x09
 :: Episode Title
 Once Upon a Planet
 
-:: Setting
+:: Settings
 countryside, woodland, Enterprise transporter room, Enterprise bridge, control room, cavern, Enterprise engineering, Amusement Planet computer room, Enterprise shuttle bay, cavern entrance
 
 :: Deaths
@@ -878,7 +878,7 @@ light skin discoloring [Spock]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 axe toss [guard@McCoy], cat paw attack [giant cat@Spock], fire breath attack [dragon@McCoy, Sulu]
 
 :: Technobabble
@@ -955,7 +955,7 @@ tas1x10
 :: Episode Title
 Mudd's Passion
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise brig, Enterprise corridor, Enterprise Spock's quarters, Enterprise shuttle bay, Enterprise recreation room, rocky wasteland [Motherlode], outdoor stage
 
 :: Deaths
@@ -968,7 +968,7 @@ hangover [Scotty]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 stoning [miners@Mudd], karate chop to the collar bone [Christine@Mudd], phaser shot to the chest [Christine@Mudd], rock monster attack [rock monster@Kirk, Spock], phaser shot [Kirk@rock monster]
 
 :: Technobabble
@@ -1046,7 +1046,7 @@ tas1x11
 :: Episode Title
 The Terratin Incident
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise engineering, Enterprise medical lab, Enterprise sickbay, volcanic wasteland, futuristic cityscape, Enterprise transporter room, volcanic wasteland
 
 :: Deaths
@@ -1058,7 +1058,7 @@ broken leg [Sulu]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 dilithium {compound}[2x], spiroid epsilon waves {radiation}[1x], xenylon {compound}[2x]
@@ -1133,7 +1133,7 @@ tas1x12
 :: Episode Title
 The Time Trap
 
-:: Setting
+:: Settings
 Enterprise bridge, Klingon vessel bridge, council chamber, Enterprise briefing room, Klingon vessel briefing room, Enterprise recreation room
 
 :: Deaths
@@ -1145,7 +1145,7 @@ vertigo [Uhura, Sulu, and presumably the entire crew]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space fight [Enterprise&Klingon vessel], shove [Klingon@McCoy]
 
 :: Technobabble
@@ -1226,7 +1226,7 @@ tas1x13
 :: Episode Title
 The Ambergris Element
 
-:: Setting
+:: Settings
 shuttlecraft, Enterprise bridge, rocky wasteland, open ocean, aquarium, sea floor, council chamber, sunken ruins, shoreline, cavern
 
 :: Deaths
@@ -1238,7 +1238,7 @@ lung structure changed to gills [Kirk, Spock], pulse fading [Kirk], metabolism a
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 tentacle throw [monster@aqua-shuttle], phaser stun [aqua-shuttle@monster], tail slap [monster@aqua-shuttle], net capture [gruards@Kirk, Spock]
 
 :: Technobabble
@@ -1320,7 +1320,7 @@ tas1x14
 :: Episode Title
 The Slaver Weapon
 
-:: Setting
+:: Settings
 shuttlecraft, frozen wasteland, holding cell, cavern
 
 :: Deaths
@@ -1333,7 +1333,7 @@ two broken ribs [Churft Captain]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 ambush [Kzinti@party], phaser stun [Kzinti@Sulu, Uhura], dropkick [spock@Kzinti]
 
 :: Technobabble
@@ -1414,7 +1414,7 @@ tas1x15
 :: Episode Title
 The Eye of the Beholder
 
-:: Setting
+:: Settings
 Enterprise briefing room, Enterprise transporter room, desert landscape, woodland glade, futuristic cityscape, alien house, Enterprise bridge, shoreline, futuristic zoo, display cage
 
 :: Deaths
@@ -1426,7 +1426,7 @@ malarial type infection [Nancy Randolph]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser stun [landing party@sea monster], phaser stun [landing party@dinosaur], tentacle grab [slugs@Kirk, Spock, McCoy], psionic attack [slug@Kirk]
 
 :: Technobabble
@@ -1499,7 +1499,7 @@ tas1x16
 :: Episode Title
 The Jihad
 
-:: Setting
+:: Settings
 Enterprise transporter room, woodland glade, volcanic wasteland, temple, frozen wasteland
 
 :: Deaths
@@ -1510,7 +1510,7 @@ Enterprise transporter room, woodland glade, volcanic wasteland, temple, frozen 
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 indurite {compound}[2x]
@@ -1585,7 +1585,7 @@ tas2x01
 :: Episode Title
 The Pirates of Orion
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise briefing room, Huron bridge, Huron cargo bay, Enterprise McCoy's office, Orion vessel bridge, alien landscape, Enterprise transporter room
 
 :: Deaths
@@ -1597,7 +1597,7 @@ choriocytosis [Spock]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Kirk&Orion], kick to the chest [Orion@Kirk]
 
 :: Technobabble
@@ -1679,7 +1679,7 @@ tas2x02
 :: Episode Title
 Bem
 
-:: Setting
+:: Settings
 Enterprise briefing room, Enterprise transporter room, jungle clearing, stone age village
 
 :: Deaths
@@ -1691,7 +1691,7 @@ sudden loss of consciousness [Spock]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -1764,7 +1764,7 @@ tas2x03
 :: Episode Title
 The Practical Joker
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise engineering, Enterprise officer's mess, Enterprise corridor, Enterprise recreation room, Enterprise computer room, Romulan vessel bridge, Enterprise holodeck <woodland glade; lakeshore; frozen wasteland; hedge maze>, woodland glade, shoreline, frozen wasteland, hedge maze
 
 :: Deaths
@@ -1776,7 +1776,7 @@ electronic equivalent of a nervous breakdown [ship computer], both legs given ou
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 
@@ -1852,7 +1852,7 @@ tas2x04
 :: Episode Title
 Albatross
 
-:: Setting
+:: Settings
 futuristic cityscape, Enterprise bridge, hall of justice, holding cell, Enterprise engineering, Enterprise transporter room, cavern entrance, cavern, Enterprise sickbay, ancient ruins
 
 :: Deaths
@@ -1864,7 +1864,7 @@ blue in the face [Kol-tai, Kirk, Demos and the crew]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 flying leap attack [Dramian@Kirk], strangulation [Dramian@Kirk], two men restraining one man [Spock&Demos@Dramian], Vulcan neck pinch [Spock@Dramian guard]
 
 :: Technobabble
@@ -1949,7 +1949,7 @@ tas2x05
 :: Episode Title
 How Sharper Than a Serpant's Tooth
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise McCoy's office, Enterprise sickbay, blue void, ancient ruins, Aztec temple, alien lab, jungle clearing
 
 :: Deaths
@@ -1960,7 +1960,7 @@ Enterprise bridge, Enterprise McCoy's office, Enterprise sickbay, blue void, anc
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 hypospray attack [Kirk@fire cat], electrical attack [fire cat@Kirk]
 
 :: Technobabble
@@ -2038,7 +2038,7 @@ tas2x06
 :: Episode Title
 The Counter-Clock Incident
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise engineering, Enterprise briefing room, Enterprise transporter room, alien lab
 
 :: Deaths
@@ -2049,7 +2049,7 @@ Enterprise bridge, Enterprise engineering, Enterprise briefing room, Enterprise 
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 

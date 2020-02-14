@@ -96,7 +96,7 @@ tos0x01
 :: Episode Title
 The Cage
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise Pike's quarters, Enterprise transporter room, Enterprise briefing room, Talosian control room, castle exterior, countryside, poolside harem, shanty town, fiery pit, Enterprise corridor, rocky landscape
 
 :: Deaths
@@ -110,7 +110,7 @@ impaling [pike@barbarian], headache [Vina], gas wand stun [alien@pike], stab wou
 :: Mind Complications
 depression [pike]
 
-:: Altercation
+:: Altercations
 gas wand attack [keeper@pike]<16:20>, mace hit to shield [pike@barbarian]<26:19>, fight to the death [pike&barbarian]<26:05-27:55>, sand in the eyes [pike@barbarian]<27:04>, knife toss to liver [pike@barbarian]<27:32>, impaling [pike@barbarian]<27:46>, strangulation [pike@keeper]<51:10-52:06>, psionic attack [keeper@pike]<49:35>
 
 :: Technobabble
@@ -232,7 +232,7 @@ tos1x01
 :: Episode Title
 Where No Man Has Gone Before
 
-:: Setting
+:: Settings
 Enterprise briefing room, Enterprise transporter room, Enterprise turbolift, Enterprise bridge, Enterprise sickbay, Delta Vega control room, Delta Vega brig, Enterprise recreation room, rocky wasteland, alien landscape
 
 :: Deaths
@@ -246,7 +246,7 @@ circulatory shock [Gary],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 hypospray attack [Piper@Gary]<29:45>, magic fight [Gary/Elizabeth], brawl, punch to the face [Kirk@Gary, Gary@Kirk], struggle [Gary@Kirk/Spock], fight to the death [Kirk/Gary]<43:00-47:30>, electrification attack [Dehner@Gary, Gary@Dehner, Gary@Kirk-28:40, Gary@Spock-28:40], elbow to kidneys [Kirk@Gary], punch to the stomach [Spock@Gary, Kirk@Gary, Gary@Kirk], punch to the jaw [Kirk@Gary], phaser attack [Kirk@Gary, failed], magic pain infliction [Gary@Kirk], hammerfist to neck [Kirk@Gary], karate chop to the neck [Kirk@Gary], throw [Kirk@Gary], bombardment from orbit with neutron radiation {bombardment from orbit}<impending>, telekinetic strangulation [Gary@Kelso]<35:42-35:55>
 
 :: Technobabble
@@ -360,7 +360,7 @@ tos1x02
 :: Episode Title
 The Corbomite Maneuver
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise corridor, Enterprise turbolift, Enterprise Kirk's quarters, Enterprise briefing room, Balok's ship captain's quarters <bedroom>
 
 :: Deaths
@@ -371,7 +371,7 @@ Enterprise bridge, Enterprise sickbay, Enterprise corridor, Enterprise turbolift
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space phaser fire [enterprise@cube], communication noise attack [aliens@enterprise]
 
 :: Technobabble
@@ -507,7 +507,7 @@ tos1x03
 :: Episode Title
 Mudd's Women
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise corridor, Enterprise Kirk's quarters, Enterprise Mudd's quarters, miner's encampment, rocky wasteland, shack interior, Enterprise turbolift
 
 :: Deaths
@@ -521,7 +521,7 @@ rapid uglification [woman x3],
 :: Mind Complications
 Venus drug addiction {drug addiction} [the three women]
 
-:: Altercation
+:: Altercations
 scuffle [two miners]<36:25-36-35>, shove [miner@miner x2]
 
 :: Technobabble
@@ -640,7 +640,7 @@ tos1x04
 :: Episode Title
 The Enemy Within
 
-:: Setting
+:: Settings
 rocky wasteland, Enterprise transporter room, Enterprise corridor, Enterprise Kirk's quarters, Enterprise sickbay, Enterprise Janice's quarters, Enterprise turbolift, Enterprise bridge, Enterprise briefing room, Enterprise engineering
 
 :: Deaths
@@ -653,7 +653,7 @@ frostbite {medical complication}[Sulu]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 Vulcan neck pinch [Spock@evil Kirk]<25:10>, attempted rape [Kirk@Janice]<10:45-11:30>, one on one fight [good Kirk/evil Kirk]<42:10-42:25>, punch to the gut [evil kirk@wilson], karate chop to the neck [evil kirk@wilson]<20:40>, grab by the scruff of the neck [evil Kirk@McCoy], punch to face [evil Kirk@Fisher]
 
 :: Technobabble
@@ -754,7 +754,7 @@ tos1x05
 :: Episode Title
 The Man Trap
 
-:: Setting
+:: Settings
 desert landscape, Crater's living room, Enterprise bridge, Enterprise sickbay, Enterprise transporter room, Enterprise turbolift, Enterprise corridor, Enterprise arboretum, Enterprise McCoy's quarters, ancient desert ruins, Enterprise briefing room
 
 :: Deaths
@@ -768,7 +768,7 @@ sodium-chloride deficiency [the creature], space happiness <mentioned>[janice sp
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 stand off [Crater/landing party]<32:30-36:53>, repeated hammer fists to face [Spock@creature x7], contemptuous backhand slap [creature@Spock], struggle [Spock/creature, spock&mccoy], phaser shot [professor@kirk,spock], phaser stun [kirk@professor]<36:53>, disarmament attack [mccoy@kirk], shove [kirk@mccoy, spock@creature], mysterious paralyzation attack and subsequent salt draining [creature@kirk x2], phaser shot [mccoy@creature x2], fight [spock&creature]
 
 :: Technobabble
@@ -893,7 +893,7 @@ tos1x06
 :: Episode Title
 The Naked Time
 
-:: Setting
+:: Settings
 Psi 2000 control room, Enterprise transporter room, Enterprise bridge, Enterprise sickbay, Enterprise briefing room, Enterprise recreation room, Enterprise corridor, Enterprise engineering, Enterprise turbolift, frozen wasteland, Enterprise Jefferies tube
 
 :: Deaths
@@ -908,7 +908,7 @@ sweaty palms {medical complication}[Sulu]
 :: Mind Complications
 space madness, polywater intoxication
 
-:: Altercation
+:: Altercations
 Vulcan neck pinch [Spock@Sulu]<23:30>, fencing, slap across the face [Kirk@Spock], man being restrained [Tormalen/Riley/Sulu], backhand slap across the face [Spock@Kirk], physical altercation <10:25-11:50, 21:05-21:30, 22:55-23:30, 40:30-41:30>
 
 :: Technobabble
@@ -1033,7 +1033,7 @@ tos1x07
 :: Episode Title
 Charlie X
 
-:: Setting
+:: Settings
 Enterprise transporter room, Enterprise sickbay, Enterprise corridor, Enterprise bridge, Enterprise recreation room, Enterprise Kirk's quarters, Enterprise gymnasium, Enterprise briefing room, Enterprise Rand's quarters, Enterprise brig
 
 :: Deaths
@@ -1046,7 +1046,7 @@ transformation into an iguana [Lawton], broken legs [Spock], rapid aging [crewma
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 psionic disintegration [charlie@crewman x3], psionic hurl [charlie@kirk,spock]<36:50>, psionic transformation [charlie@crewman x4], slap across the face [Janice@Charlie], shove [kirk@charlie], psionic pain infliction [charlie@kirk x2],
 
 :: Technobabble
@@ -1162,7 +1162,7 @@ tos1x08
 :: Episode Title
 Balance of Terror
 
-:: Setting
+:: Settings
 Enterprise ship's chapel, Enterprise corridor, Enterprise bridge, Enterprise sickbay, Enterprise engineering, Enterprise phaser control, Romulan vessel bridge, Enterprise briefing room, Enterprise Kirk's quarters
 
 :: Deaths
@@ -1175,7 +1175,7 @@ suffocation by coolant fumes [Stiles], crushed under heavy object [Romulan], bru
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space bombardment [enterprise@romulan], space shoot out [enterprise and romulan], pulverization of iron asteroid with outpost on it [romulan@federation x5]
 
 :: Technobabble
@@ -1289,7 +1289,7 @@ tos1x09
 :: Episode Title
 What Are Little Girls Made Of?
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, cavern entrance, cavern, Korby's study, Korby's dining room, alien lab, bedroom, frozen wasteland, rocky ledge
 
 :: Deaths
@@ -1302,7 +1302,7 @@ severe epidermal damage to the hand [Korby], hypothermia <mentioned> [Korby], su
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 hurled across room [Ruk@Kirk], garotting <sneak attack> [Kirk@Korby], one on one fight [Kirk/Ruk], punch to face [Kirk@Korby], scuffle [Kirk/Korby], stand off [Kirk/Brown], slap across the face [Andrea@Kirk]
 
 :: Technobabble
@@ -1415,7 +1415,7 @@ tos1x10
 :: Episode Title
 Dagger of the Mind
 
-:: Setting
+:: Settings
 Enterprise transporter room, Enterprise bridge, Enterprise corridor, Enterprise sickbay, building entrance, Enterprise turbolift, Adams' study, treatment room, Tantalus penal colony Kirk's quarters, Enterprise Kirk's quarters, Tantalus penal colony Noel's quarters, control room, ventilation duct
 
 :: Deaths
@@ -1428,7 +1428,7 @@ tissue damage <mentioned>, electrocution [medic], neural synapse damage [Simon]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 shove against wall [red guy@medic], kick to hand [Kirk@Simon]<disarming>, Vulcan neck pinch [Spock@Simon]<8:20>, hypospray sedation [McCoy@Simon, x2]<11:00, 23:15>, karate chop to neck [Kirk@Adams, Simon@transporter chief, Simon@red guy], sneak choking [Simon@red guy], punch to face [Kirk@medic],
 
 :: Technobabble
@@ -1540,7 +1540,7 @@ tos1x11
 :: Episode Title
 Miri
 
-:: Setting
+:: Settings
 Enterprise bridge, American 1960s era city street, American 1960s era derelict house, American 1960s era alleyway, laboratory, derelict toy shop, schoolroom
 
 :: Deaths
@@ -1554,7 +1554,7 @@ seizure [zombie], fuzziness of vision, intense fever, unknown pandemic disease [
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 punch to the face [Kirk@zombie boy], restraining [Kirk/Spock@zombie boy], attack [zombie boy@blueshirt], phaser stun [Kirk@zombie girl], mobbing [kids@Kirk], physical altercation [landing party/zombie boy, kirk/zombie girl, kirk/kids]<4:45-5-10, 26:00-26:20, 43:00-43:30>
 
 :: Technobabble
@@ -1665,7 +1665,7 @@ tos1x12
 :: Episode Title
 The Conscience of the King
 
-:: Setting
+:: Settings
 theater, Leighton's living room, Leighton's banquet room, Enterprise briefing room, countryside, Enterprise transporter room, Enterprise sickbay, Enterprise observation deck, Enterprise corridor, Enterprise engineering, Enterprise recreation room, Enterprise McCoy's office, Enterprise Kirk's quarters, Enterprise Karidan's quarters, Enterprise theater, xeric scrubland
 
 :: Deaths
@@ -1679,7 +1679,7 @@ tetralubisol poisoning [lenora@Riley]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser shot [Lenora@Kodos], stand off
 
 :: Technobabble
@@ -1803,7 +1803,7 @@ tos1x13
 :: Episode Title
 The Galileo Seven
 
-:: Setting
+:: Settings
 Enterprise bridge, shuttlecraft, cliff face, Enterprise hangar deck, rocky wasteland
 
 :: Deaths
@@ -1816,7 +1816,7 @@ bloody node [Beaumont], minor bumps and bruises [tossed around in shuttlecraft],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 ambush, shoot out, electrification attack [Scotty@apes], physical altercation <14:55-15:20, 23:25-24:35, 27:35-28:20, 32:08-33:20, 34:50-35:25>
 
 :: Technobabble
@@ -1930,7 +1930,7 @@ tos1x14
 :: Episode Title
 Court Martial
 
-:: Setting
+:: Settings
 Starbase 11 office, Enterprise bridge, Starbase 11 bar, Starbase 11 Kirk's quarters, courtroom, Enterprise briefing room, Starbase 11 corridor, Enterprise engineering, Enterprise Jefferies tube, futuristic cityscape
 
 :: Deaths
@@ -1943,7 +1943,7 @@ mental lapse [Kirk accused of], paranoid delusion [Finney though all were out to
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Kirk/Finney]<44:52-45:45>, wrestle over weapon, strangulation, throwing, swing attack with wrench, punch to face [Kirk@Finney]
 
 :: Technobabble
@@ -2058,7 +2058,7 @@ tos1x15
 :: Episode Title
 The Menagerie, Part I
 
-:: Setting
+:: Settings
 Starbase 11 sickbay, Starbase 11 Pike's quarters, Starbase 11 Mendez' office, Starbase 11 computer center, Enterprise bridge, shuttlecraft, Enterprise transporter room, Enterprise hearing room, Enterprise Pike's quarters, futuristic cityscape, Enterprise Spock's quarters
 
 :: Deaths
@@ -2070,7 +2070,7 @@ exposure to delta rays [Pike]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 Vulcan neck pinch [2x Spock@Technician]<7:10, 10:18>, shove, struggle [Spock/technician]
 
 :: Technobabble
@@ -2188,7 +2188,7 @@ tos1x16
 :: Episode Title
 The Menagerie, Part II
 
-:: Setting
+:: Settings
 Enterprise hearing room, Enterprise briefing room, Talosian control room, castle exterior, holding cell, badlands, countryside, Enterprise transporter room, poolside harem, shanty town, fiery pit
 
 :: Deaths
@@ -2202,7 +2202,7 @@ hopelessly crippled by exposure to delta particle radiation [Pike]<mentioned>, f
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 wanton destruction of a door [the axeman]
 
 :: Technobabble
@@ -2302,7 +2302,7 @@ tos1x17
 :: Episode Title
 Shore Leave
 
-:: Setting
+:: Settings
 Enterprise bridge, jungle clearing, Enterprise Kirk's quarters, rocky outcrop, xeric scrubland
 
 :: Deaths
@@ -2317,7 +2317,7 @@ kink in the back [Kirk]
 :: Mind Complications
 persecution complex [Kirk@McCoy]
 
-:: Altercation
+:: Altercations
 punch to face [Kirk,Finnegan], one on one fight [Kirk&Finnegan]<13:50-14:35, 35:50-42:00>, punch to the stomach [Finnegan&Kirk], kick in the head [Kirk@Finnegan], tackle [Kirk&Spock@samurai], sword chase [samurai@Sulu]
 
 :: Technobabble
@@ -2430,7 +2430,7 @@ tos1x18
 :: Episode Title
 The Squire of Gothos
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, woodland, Trelane's drawing room, courtroom, castle exterior
 
 :: Deaths
@@ -2443,7 +2443,7 @@ tremors [McCoy]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 gloveslap across the face [Kirk@Squire], sword chase [Squire@Kirk], disarming kick [Kirk@Squire], duel [Kirk&Squire], slap across the face [Kirk@Squire], one on one fight [Kirk/Squire]<42:10-45:05>
 
 :: Technobabble
@@ -2575,7 +2575,7 @@ tos1x19
 :: Episode Title
 Arena
 
-:: Setting
+:: Settings
 Enterprise transporter room, Enterprise bridge, Enterprise sickbay, Enterprise Kirk's quarters, smoldering ruins, xeric scrubland
 
 :: Deaths
@@ -2589,7 +2589,7 @@ shell shock [Harold], exhaustion [Kirk]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 space shoot out, bombardment with space mortar, rock hurling, one on one fight [Kirk/Gorn]<23:45->, wrestling, trapping by snare, artelliary exchange, double axe handle to the back [Kirk@Gorn], karate chop to the back [Kirk@Gorn], kick to the stomach [Kirk@Gorn], boxing of the ears [Kirk@Gorn], rock hurled at chest [Kirk@Gorn], crushed by boulder [Kirk@Gorn], booby trap
 
 :: Technobabble
@@ -2699,7 +2699,7 @@ tos1x20
 :: Episode Title
 The Alternative Factor
 
-:: Setting
+:: Settings
 Enterprise bridge, xeric scrubland, Enterprise Kirk's quarters, Enterprise sickbay, Enterprise recreation room, Enterprise corridor, Enterprise engineering, Enterprise briefing room, Enterprise transporter room
 
 :: Deaths
@@ -2713,7 +2713,7 @@ exhaustion [Lazarus],
 :: Mind Complications
 paranoia [Lazarus],
 
-:: Altercation
+:: Altercations
 struggle [Lazarus@redshirts, Lazarus-A&Lazarus-B], incapacitation [Lazarus-B@Masters], headbutt [Lazarus-B@redshirt], elbow to back of the head [Lazarus-B@redshirt], one one one fight [Kirk/Lazarus-B], knee to the face [Lazarus@Lazarus], throw [Lazarus@Lazarus x2], strangulation [Lazarus@Lazarus x4, Lazarus@redshirt], nefarious anesthetization [Lazarus@redshirt, Lazarus@Masters], restraining [kirk,mccoy@lazarus], one on one fight [Kirk&Lazarus-B]<46:20-47:00>
 
 :: Technobabble
@@ -2826,7 +2826,7 @@ tos1x21
 :: Episode Title
 Tomorrow is Yesterday
 
-:: Setting
+:: Settings
 US Air Force base, US Air Force base radar room, Enterprise bridge, jet cockpit, Enterprise transporter room, Enterprise turbolift, Enterprise corridor, Enterprise Kirk's quarters, Enterprise engineering, Enterprise sickbay, Enterprise briefing room, US Air Force base photography lab, US Air Force base guard room, US Air Force base photographic darkroom
 
 :: Deaths
@@ -2838,7 +2838,7 @@ knocked unconscious [John@guard, Kirk@John]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 punch to jaw [Kirk@Fellini/guard], surreptitious Vulcan neck pinch [Spock@John]<40:05>, karate chop to the neck [Sulu@guard], Vulcan neck pinch [Spock@guard]<38:00>, punch to stomach, ambush, karate chop to wrist [Kirk@John], brawl [Kirk@3 guards], acrobatic attacks [Kirk@guards], altercation with redshirt [John&redshirt], altercation with captain [Kirk&John], hammerfist to back [Kirk@guard], hammerfist to stomach [Kirk@guard], disarming kick [Kirk@Fellini]
 
 :: Technobabble
@@ -2962,7 +2962,7 @@ tos1x22
 :: Episode Title
 The Return of the Archons
 
-:: Setting
+:: Settings
 American 19th century era city street, Enterprise bridge, Enterprise transporter room, boarding house corridor, boarding room, drawing room, derelict room, prison cell, absorption chamber, great hall
 
 :: Deaths
@@ -2976,7 +2976,7 @@ brainwashing, compulsive involuntary stimulus, absorption of mind, rendered unco
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 mass brawl [does even a mass brawl give justice to what happened there?], wide phaser stun [8], hypospray sedation, space heat beam [reverse bombardment], stun [Landru@4], strangulation [Kirk@McCoy, McCoy@Kirk], throw [Spock@?], karate chop to the neck [Kirk@archon], punch to the face [Spock@archon], Vulcan neck pinch [Spock@Rogers/Reger]<15:35, 40:15>, mind altering attack, riot
 
 :: Technobabble
@@ -3086,7 +3086,7 @@ tos1x23
 :: Episode Title
 A Taste of Armageddon
 
-:: Setting
+:: Settings
 Enterprise bridge, futuristic cityscape, corridor, Eminiar VII council chamber, Eminiar VII control room, guest quarters, Eminiar VII Anan's living room, Eminiar VII computer room
 
 :: Deaths
@@ -3099,7 +3099,7 @@ death by disintegration [female citizen, guard]<19:50, 20:00>, death by ship exp
 :: Mind Complications
 mind fucking [Spock@guard]
 
-:: Altercation
+:: Altercations
 disarm and render a man unconscious [Kirk/Spock@guard], karate chop to throat and neck [Kirk@guard], Vulcan neck pinch [Spock@guard]<20:50>, two against one fight [Kirk@two guards], kick to stomach [Kirk@guard], karate chop to back [Kirk@guard], throw [Kirk@guard], punch to face [guard@Kirk, Kirk@guard], pistol whip to back of head [guard@Kirk x2], disarming a man [Spock@guard], karate chop to forearm [Spock@guard], virtual fusion bomb attack [?@?], virtual tri-cobolt satellite explosion attack [?@enterprise], Vulcan mind meld attack [spock@guard], planetary sonic disruptor banks surface to space attack [eminar@enterprise], manhandling [kirk@mea, kirk@anan], neck throw [kirk@anan], show [kirk@guard, guard@fox], tripping [kirk@guard], shove [kirk@three guards simultanously],
 
 :: Technobabble
@@ -3241,7 +3241,7 @@ tos1x24
 :: Episode Title
 Space Seed
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise McGivers' quarters, Enterprise transporter room, Botany Bay cryonic chamber, Enterprise sickbay, Enterprise officer's mess, Enterprise Khan's quarters, Enterprise briefing room, Enterprise engineering, Enterprise decompression chamber, Enterprise corridor
 
 :: Deaths
@@ -3254,7 +3254,7 @@ sleep induced by anesthesia gas, fatigue [claimed Khan],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 Vulcan neck pinch [Spock@Eugene]<42:55>, sneak hypospray attack [McGivens@Eugene], two handed punch to jaw [Khan@red guy], two fingered Khan nerve pinch [Khan@transporter officer], karate chiop to the neck [Eugene@Scotty], manhandling [Eugene@Uhura], backhanded slap [Eugene@Uhura], throw [Khan@Kirk], flying kick [Kirk@Khan], kick to the back of the knee [Kirk@Khan], punch to the kidneys [Kirk@Khan], strangulation with legs [Kirk@Khan], punch to jaw [Kirk@Khan], karate chop to neck [Kirk@Khan], severe beating with a blunt instrument [Kirk@Khan], one on one showdown [Kirk&Khan]<44:25-45:55>, physical altercation [McCoy/Khan at bedside]
 
 :: Technobabble
@@ -3388,7 +3388,7 @@ tos1x25
 :: Episode Title
 This Side of Paradise
 
-:: Setting
+:: Settings
 Enterprise bridge, barn exterior, farmhouse interior, drawing room, countryside, Enterprise corridor, Enterprise Kirk's quarters, Enterprise transporter room, vegetable garden, lawn
 
 :: Deaths
@@ -3403,7 +3403,7 @@ regenerated appendix [Elias], regenerated tonsils [McCoy], lobar pneumonia [Sand
 :: Mind Complications
 mind subversion by nefarious space spores [kirk,spock,mccoy,sulu,uhura,chekov,crewman x400],
 
-:: Altercation
+:: Altercations
 one on one showdown [Kirk&Spock]<35:30-37:40>, punch to stomach [Kirk@Spock], karate chop to back [Spock@Kirk], hurl across a room [Spock@Kirk], shovel fight [Sulu&DeSalle], punch to face [yellowshirt@blueshirt], wrestling [blueshirt&yellowshirt], punch to stomach [McCoy@Elias], hook swing to the face [spock@kirk], throw [spock@kirk], tripping [blueshirt@yellowshirt], uncoordinated jump upon attack [sulu@blueshirt],
 
 :: Technobabble
@@ -3526,7 +3526,7 @@ tos1x26
 :: Episode Title
 The Devil in the Dark
 
-:: Setting
+:: Settings
 mining tunnel, Janus VI Vanderberg's office, Janus VI reactor room, Enterprise bridge, cavern
 
 :: Deaths
@@ -3539,7 +3539,7 @@ rocky body part cut off by phaser {severed limb, maiming}, beaten unconscious [r
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser attack [kirk&spock@horta], rock slide trap attack [horta@kirk], blunt object to the neck [miner@redshirt], severe beating with a blunt object [miner@redshirt], melee [redshirts and miners],
 
 :: Technobabble
@@ -3675,7 +3675,7 @@ tos1x27
 :: Episode Title
 Errand of Mercy
 
-:: Setting
+:: Settings
 Enterprise bridge, medieval village, council chamber, Organia Kor's office, town square, dungeon
 
 :: Deaths
@@ -3688,7 +3688,7 @@ death by ship explosion [klingon crew, 12 estimated]<1:50>
 :: Mind Complications
 mind-sifting [Spock]
 
-:: Altercation
+:: Altercations
 shove [Klingon@Spock], flying takedown [Kirk@Klingon], ground and pound [Kirk@Klingon], garroting [Kirk@Klingon], space phaser shootout [enterprise vs. klingon ship], phaser stun [kirk&spock@klingons x2], vulcan neck pinch [spock@klingon guard]<39:30>, magical heating of weapons and equipment [organians@all]
 
 :: Technobabble
@@ -3818,7 +3818,7 @@ tos1x28
 :: Episode Title
 The City on the Edge of Forever
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, American 1930s era city street, cellar, canteen, boarding room, soup kitchen back room, ancient ruins, rocky wasteland
 
 :: Deaths
@@ -3833,7 +3833,7 @@ cordrazine overdose [McCoy], facial mottling [McCoy], green in the face [McCoy],
 :: Mind Complications
 wild paranoia [McCoy], dementia <mentioned>[mention by McCoy], cordrazine induced hallucination [mccoy]
 
-:: Altercation
+:: Altercations
 Vulcan neck pinch [Spock@McCoy,policeman]<9:08, 17:08>, karate chop to side and neck [McCoy@transporter guy], shove [mccoy@guy in elevator]
 
 :: Technobabble
@@ -3956,7 +3956,7 @@ tos1x29
 :: Episode Title
 Operation -- Annihilate!
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, futuristic cityscape, laboratory, Enterprise sickbay, courtyard, Enterprise briefing room, Enterprise Kirk's quarters, Enterprise bio-lab
 
 :: Deaths
@@ -3971,7 +3971,7 @@ unconsciousness [Peter],
 :: Mind Complications
 mass insanity [1 million people on denevan], hysteria [Aurelan]
 
-:: Altercation
+:: Altercations
 scuffle [Spock&5 or 6 crewmen], Vulcan neck pinch [Spock@redshirt, Denevan colonist]<27:25, 30:37>, shove [Spock@Scotty], held at phaser point [Scotty@Spock], swinging club attack [Denevan colonist@Spock x3], phaser stun attack [crew@houligans x4], force 3 phaser attack [crew@parasite x4, spock@parasite], parasitic attachment [parasite@spock], shove [spock@mccoy, spock@kirk, spock@yellowshirt], throw [spock@sulu], restraining [crew@spock], hypospray sedation [mccoy@spock], ambush [denevan@spock], dodge&counter [spock@colonist]
 
 :: Technobabble
@@ -4077,7 +4077,7 @@ tos2x01
 :: Episode Title
 Catspaw
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, rocky wasteland, castle drawbridge, castle corridor, dungeon, Pyris VII throne room
 
 :: Deaths
@@ -4092,7 +4092,7 @@ drugged [Scotty&Sulu]<alleged>
 :: Mind Complications
 mind control [Scotty&Sulu]
 
-:: Altercation
+:: Altercations
 scuffle, jewels flung in face [Kirk@Scotty], disarming [Kirk@Scotty], shove [Kirk@Scotty], elbow to gut [Kirk@Scotty], shove [McCoy@Kirk], mace swing [McCoy@Kirk, Scotty@Spock], kick [Kirk@McCoy], throw [Kirk@McCoy], punch to the face [Kirk@McCoy], Vulcan neck pinch [Spock@Scotty]<45:00>, Karate acrobatics [Sulu@Kirk], throw [Kirk@Sulu], punch to the face [Kirk@McCoy], one on one fight [Kirk&McCoy, Spock&Scotty, Kirk&Sulu]
 
 :: Technobabble
@@ -4216,7 +4216,7 @@ tos2x02
 :: Episode Title
 Metamorphosis
 
-:: Setting
+:: Settings
 shuttlecraft, rocky wasteland, Cochrane's living room, Enterprise bridge
 
 :: Deaths
@@ -4229,7 +4229,7 @@ Sakuro's disease {disease}, high fever [Nancy],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 electrocution attack [companion@spock], scrambling of electric impulses [team@companion], electric strangulation [companion@spock,kirk], physical confrontation <18:30-18:40, 24:30-25:35>
 
 :: Technobabble
@@ -4346,7 +4346,7 @@ tos2x03
 :: Episode Title
 Friday's Child
 
-:: Setting
+:: Settings
 Enterprise briefing room, nomadic encampment, tent, Enterprise bridge, hillside, cavern, cavern entrance, xeric scrubland, mountainside
 
 :: Deaths
@@ -4361,7 +4361,7 @@ labour pains [Eleen]
 :: Mind Complications
 lack of motherly feelings [Eleen]
 
-:: Altercation
+:: Altercations
 skirmish [guessing 10-20 people suggested], kick disarm [Kirk@capellan], punch to face [kirk@capellan x3], knife thrust to abdomen [klingon@kirk], throw [kirk@klingon], knife to throat [kirk@klingon], kick to chest [Kirk@capellan, capellan@kirk], karate chop to neck [Spock@capellan x2, kirk@capellan], melee, wrestling [Kirk&capellan], knife swing [capellan@kirk], slap across the face [Eleen@McCoy x2, McCoy@Eleen], ambush by rockslide induced by sonic disruption, surreptitious rock to the head [Eleen@Bones sleeping], sneak bow and arrow attack [Kirk@klingon], kligat attack [capellan@everyone x5 or so, capellan@kras], bow and arrow attack [spock@capellan, kirk@capellan x2, ], cowardly phaser attack [klingon@crew, kras@capellan, kras@maab], stand off [landing party&caellans], big fight in tent [landing party&capellans], ambush [Kirk&Spock@capellans], physical altercation times <3:40-4:00, 13:15-14:27, 16:45-17:00, 20:30-20:55, 24:25-24:35, 38:15, 41:30-47:10>
 
 :: Technobabble
@@ -4477,7 +4477,7 @@ tos2x04
 :: Episode Title
 Who Mourns for Adonis?
 
-:: Setting
+:: Settings
 Enterprise bridge, temple garden, woodland, Greek temple
 
 :: Deaths
@@ -4491,7 +4491,7 @@ tingling all over [Scotty], draining from divine overexertion [Apollo], fainting
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 disarmament by lightning strike [apollo@scotty], contemptuous underarm strike to the head [Apollo@Scotty], divine lightning smiting [apollo@scotty], divine choking [apollo@kirk], lightning attack from surface to space [apollo@ship], physical altercation times <17:55, 19:02, 27:25-27:53, 33:00-33:55, 44:40-45:50>
 
 :: Technobabble
@@ -4620,7 +4620,7 @@ tos2x05
 :: Episode Title
 Amok Time
 
-:: Setting
+:: Settings
 Enterprise corridor, Enterprise Spock's quarters, Enterprise bridge, Enterprise Kirk's quarters, Enterprise turbolift, Enterprise sickbay, desert landscape
 
 :: Deaths
@@ -4635,7 +4635,7 @@ severe stress [Spock], nervous twitches in the hand [Spock], spacesickness [chek
 :: Mind Complications
 Vulcan heat [spock], blood fever [Spock], berserker rage [Spock]
 
-:: Altercation
+:: Altercations
 fight to the death [Kirk/Spock]<37:27-42:50>, lirpa swing [Spock@Kirk x8], lirpa bash [Kirk@spock x2, Spock@Kirk x1], strangulation with shaft of a weapon [Kirk@Spock], lirpa thrust [Spock@Kirk x4], throw [Kirk@Spock x2], punch to the face [spock@kirk, kirk@spock x2], kick to the chest [Kirk@Spock], snaring of the feet [spock@kirk], whip lash [spock@kirk x1], wrestling [kirk&spock], strangulation [kirk@spock, spock@kirk], physical altercation time <37:27-42:50>
 
 :: Technobabble
@@ -4754,7 +4754,7 @@ tos2x06
 :: Episode Title
 The Doomsday Machine
 
-:: Setting
+:: Settings
 Enterprise bridge, Constellation corridor, Constellation engineering, Constellation meeting room, Constellation auxiliary control, Enterprise transporter room, shuttlecraft, Enterprise Jefferies tube
 
 :: Deaths
@@ -4769,7 +4769,7 @@ state of shock [Decker]
 :: Mind Complications
 dazed [Decker], mental shock [Decker], mental breakdown [Decker]
 
-:: Altercation
+:: Altercations
 ship phaser fire [enterprise@monster x11, constallation@monster x3], punch to the face [decker@red guy, red guy@decker], punch disarmament [red  guy@decker], double overhead backwards karate chop to the neck [ decker@red guy], elbow to the gut [ decker@red guy], sneak punch to the gut [ decker@red guy], elbow to lower back [ decker@red guy], kick to back of knee [ decker@red guy], double axe handle to the back [decker@red guy], full nelson [redshirt@decker], one on one fight [decker&redshirt], physical altercation time <16:50-17:00, 24:25-31:20, 35:00-35:35, 38:00-39:40, 45:40-47:30>
 
 :: Technobabble
@@ -4908,7 +4908,7 @@ tos2x07
 :: Episode Title
 Wolf in the Fold
 
-:: Setting
+:: Settings
 Argelius II bar, Argelius II city alleyway, Argelius II Jaris' living room, séance room, Enterprise bridge, cellar, Enterprise briefing room <courtroom>, Enterprise corridor, Enterprise turbolift, Enterprise transporter room, courtroom
 
 :: Deaths
@@ -4922,7 +4922,7 @@ head injury [Scotty], knocked unconscious [kirk@hengeist]
 :: Mind Complications
 subconscious resentment toward women due to traumatic experience [alleged Scotty against women, perhaps a foreshadow!], amnesia [Scotty], repression of traumatic memory [Scotty], intoxication [~400 crew members], diabolical possession [Jaris by Hengist], partial memory loss [Scotty]
 
-:: Altercation
+:: Altercations
 shove [Hindgist@Spock], flying kick [Hindgist@kirk], punch to the face [kirk@hindgist], sneak hypospraying [McCoy@Sulu], Vulcan neck pinch [Spock@Jaris], shove [Hingist@red gal], knife thrust [Hindgist@kirk], throw [Kirk@Hindgist], hypospray attack [Spock@Hindgist], shove [Spock@Kyle], physical altercation time <4:38, 14:00, 21:26, 39:30-39:40, 46:30-46:55>
 
 :: Technobabble
@@ -5032,7 +5032,7 @@ tos2x08
 :: Episode Title
 The Changeling
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise auxiliary control, Enterprise corridor, Enterprise briefing room, Enterprise sickbay, Enterprise brig, Enterprise engineering
 
 :: Deaths
@@ -5047,7 +5047,7 @@ symboline bloodburn <mentioned>
 :: Mind Complications
 brainwashing [Nomad@Uhura], mental exhaustion [Spock after mindmeld], spacehappy [nomad because it thinks kirk is its mother], mental shock [nurse], stuck in logical paradox [nomad], total memory wipe [Uhura]
 
-:: Altercation
+:: Altercations
 space bombardment by mysterious pure energy [??@enterprise], photon torpedo [enterprise@??], mysterious pulse beam [Nomad@Scotty], unfriendly vulcan mind probe [Spock@nomad], phaser fire [red guys@nomad x4], mysterious pulse disintegration beam [nomad@red guys x4], logical paradox attack [kirk@nomad], explosion, physical altercation time <1:33-2:10, 3:30-8:00, 20:30-21:15, 37:00-37:20, 41:45-41:55>
 
 :: Technobabble
@@ -5167,7 +5167,7 @@ tos2x09
 :: Episode Title
 The Apple
 
-:: Setting
+:: Settings
 jungle clearing, Enterprise bridge, stone age village, cavern entrance, hut, Enterprise corridor, xeric scrubland
 
 :: Deaths
@@ -5182,7 +5182,7 @@ arteriosclerosis <mentioned>, poisoning [Spock]
 :: Mind Complications
 homesickness [Chekov]
 
-:: Altercation
+:: Altercations
 punch to face [Kirk to Akuta], ambush [crew@Akuta, primitives@crew], called lightning strike [val@red guy, spock], club bash [Akuta@Wiggles, primitive@kirk x2, primitive@Spock, primitive@Marta], throw [Marta@primitive], kick to face [Marta@primitive], acrobatic tripping [Kirk@primitive], kick to thigh [Chekov@primitive], karate chop to neck [Kirk@primitive], skirmish, phaser fire from orbit, physical altercation time <17:20-17:25, 40:50-41-10>
 
 :: Technobabble
@@ -5308,7 +5308,7 @@ tos2x10
 :: Episode Title
 Mirror, Mirror
 
-:: Setting
+:: Settings
 woodland glade [Halkan homeworld], Enterprise bridge, Enterprise transporter room, Enterprise corridor, Enterprise sickbay, Enterprise main phaser power control, Enterprise turbolift, Enterprise Kirk's quarters, Enterprise brig, Enterprise engineering, Enterprise Spock's quarters, Enterprise Jefferies tube
 
 :: Deaths
@@ -5321,7 +5321,7 @@ deep facial scar [Sulu], bloodied lip [Kirk], knocked unconscious [kirk@blue guy
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 Open palm punch to face [crewman to Kirk, Kirk to Wilson], backhand slap across the face [Uhura to Sulu with a scar], smash pot over head [Kirk to Spock], melee, phaser barrage from orbit [enterprise@planet], torture by agonizer [spock@... did he die?], shove, hammer-fist punch to shoulder [kirk@crewman], karate chop to arm [blue guy at chekov], throw [kirk@crewman], punch to face [kirk@blue guy], two people restraining one [red guys@evil Kirk], torture by agony booth [kirk@evil chekov], sneak hypospray attak [McCoy@red guy], slap across the face [uhura@sulu], disarmament punch [kirk@spock], punch to the face [kirk@spock], throw [spock@kirk x2, spock@uhura, spock@mccoy, spock@scotty], shove [spock@scotty, spock@kirk], acrobatic flying kick [kirk@spock], backhanded slap across the face [spock@kirk x4, kirk@spock], hammer fist punch [spock@kirk]<miss>, kick to stomach [kirk@spock], tackle [kirk@spock], headbutting [kirk@spock], bash over the head with china ware [kirk@spock], stabbing [sulu@kirk], disarmament karate chop [kirk@sulu], karate chop to neck [kirk@sulu], forced vulcan mind meld [Spock@McCoy], weapon disarm [uhura@marlena], logical paradox attack [kirk@spock], hypospray attack [McCoy@guard], physical altercation time <3:40-3:50, 10:10, 14:00-15:30, 19:10-19:25, 20:50-21:45, 37:05-39:10, 40:15-41:25>
 
 :: Technobabble
@@ -5436,7 +5436,7 @@ tos2x11
 :: Episode Title
 The Deadly Years
 
-:: Setting
+:: Settings
 settlement, building entrance, Enterprise sickbay, Enterprise briefing room, Enterprise bridge, Enterprise Kirk's quarters, Enterprise McCoy's office, Enterprise corridor, Enterprise bio-lab
 
 :: Deaths
@@ -5451,7 +5451,7 @@ poor hearing [weird girl in blue], radiation sickness [landing party], convulsio
 :: Mind Complications
 senility [all], distraughtness [Spock, trouble concentrating], failing eye sight [Spock], memory loss [Spock], memory lapse [Kirk]
 
-:: Altercation
+:: Altercations
 romulan disintegration space attack [6x]
 
 :: Technobabble
@@ -5601,7 +5601,7 @@ tos2x12
 :: Episode Title
 I, Mudd
 
-:: Setting
+:: Settings
 Enterprise corridor, Enterprise auxiliary control, Enterprise bridge, Enterprise engineering, cavern, throne room, living area, Planet Mudd computer room, science lab
 
 :: Deaths
@@ -5614,7 +5614,7 @@ knocked unconscious [norman@yellow guy, red guy x3], bruised upper arm [norman@k
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 disdainful karate chop to the neck [??@yellow guy], disdainful shove into a wall [norman@scotty], elbow to the torso [??@red guy], one against many bruce lee style [??@crew], tackle [red guy@??], karate chop to neck [??@scotty], upper cut to the jaw [??@red guy], dual hand break free [??@red guy], doub;e fisted upper cut to the jaw [??@red guy], throw [??@red guy x2], uncoordinated leap upon attack [red guy@??], show of strength [crushed communicator], wanton destruction of a communicator, thief, swindler, conman, entrepreneur, jail, royalties, theft of a space ship, throw [robo gal@scotty], strangulation [kirk@mudds], shove [Alice no. one@mudds], forced hypospraying [mccoy@mudds], backhanded slap across the face [uhura@chekov], Vulcan neck pinch [spock@210]<failed>, coordinated logical paradox assault [crew@androids], physical altercation time <1:30, 3:25-3:50, 23:00-23:30, 30:58-31:04>
 
 :: Technobabble
@@ -5727,7 +5727,7 @@ tos2x13
 :: Episode Title
 The Trouble with Tribbles
 
-:: Setting
+:: Settings
 Enterprise briefing room, Enterprise bridge, Deep Space Station K-7 office, Deep Space Station K-7 bar, Enterprise recreation room, Enterprise corridor, Enterprise sickbay, Enterprise transporter room, Deep Space Station storage room
 
 :: Deaths
@@ -5739,7 +5739,7 @@ bruise to the cheek [chekov], headache [kirk]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 bar brawl, hook swing to face [scotty@klingon, klingon@crewman], backhand punch to face [crewman@klingon], uncoordinated jump upon attack [crewman@klingon x3], tackle [crewman@klingon], punch to gut [crewman@klingon], swing and a miss [klingon@crewman], punch to the gut [chekov@brute klingon x6] <ineffective>, throw [brute klingon@chekov, crewman@klingon], punch to back of neck [klongon@crewman], tackle [scotty@klingon], attempted gay rape over bar table [crewman@klingon], punch to gut [klingon@scotty], punch to face [klingon@scotty], headbutt [klingon@crewman], punch to face [scotty@klingon x3], backhand punch to the face [scotty@klingon], hook swing to the face [scotty@klingon], punch to the gut [scotty@klingon], tackle [klingon@crewman], kick to the torso [crewman@klingon], physical altercation time <24:10-26:13>
 
 :: Technobabble
@@ -5866,7 +5866,7 @@ tos2x14
 :: Episode Title
 Bread and Circuses
 
-:: Setting
+:: Settings
 Enterprise bridge, hillside, cavern entrance, cavern, countryside, jail cell, Roman style chamber, arena
 
 :: Deaths
@@ -5879,7 +5879,7 @@ stab wound to the back [claudius@merik],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 gladiatorial combat, sword fight, sword swing [thief@thief], sword stab [thief@thief], net trapping [gladiator@gladiator], rifle shot from ambush [??@crew x2], ambush, machine gun barrage [police@slave and crew], but of gun to the back [police@maximus], Vulcan neck pinch [Spock@guard, Spock@Flavius]<21:20, 36:10>, stomped foot and subsequent karate chop to the neck [kirk@guard], punch to the face [mccoy@guard], karate chop to the shoulder [mccoy@guard], sword fight [gladiator&spock, gladiator&mccoy], shield bash [spock@gladiator], sword thrust [gladiator@spock x~30, gladiator@mccoy x~20, mccoy@gladiator x~10], whip lash [guard@gladiator x2], vulcan neck pinch [spock@gladiator], arena fight [x2], sword fight [maximus?&guard], sword swign [maximus@guard x5], machine gun barrage [guard@maximus, guard@kirk, guards@crew], restraining from behind [kirk@guard], kick to the face [kirk@guard], three unarmed agains many with swords [crew@guards], sword swing [guard@kirk], butt of gun to stomach [kirk@guard], beddings thrown at face [spock@guard], physical altercation time <16:45-16:50, 21:20-21:33, 31:40-36:15, 45:35-47:10>
 
 :: Technobabble
@@ -6011,7 +6011,7 @@ tos2x15
 :: Episode Title
 Journey to Babel
 
-:: Setting
+:: Settings
 Enterprise Kirk's quarters, Enterprise corridor, Enterprise hangar deck, Enterprise engineering, Enterprise reception room, Enterprise bridge, Enterprise Sarek's quarters, Enterprise sickbay, Enterprise McCoy's office, Enterprise brig, Enterprise Spock's quarters
 
 :: Deaths
@@ -6025,7 +6025,7 @@ stab wound to the side [andorian@kirk], broken fake antennae [andorian assassin]
 :: Mind Complications
 mental conditioning [andorian assassin]
 
-:: Altercation
+:: Altercations
 grabbing [tellarite@sarek]<failed>, disdainfull shove [sarek@tellarite ambassador], throw [kirk@andorian x2], disarmament [kirk@andorian] <failed>, hook swing to the face [andorian@kirk], knife stab [andorian@kirk], knife swing [andorian@kirk], knee to gut [kirk@andorian], hammerfist to kidneys [kirk@andorian], acrobatic flying attack with back to head [kirk@andorian], stabbing in the kidney region [andorian@kirk], kick to the face [kirk@andorian], slap across the face [mother@spock], shove [andorian assassin@red guy], green phaser stun [??red guy@andorian assassin], space fight [enterprise@mysterious ship], ship phaser fire [enterprise@mysterious ship]<miss>, photon torpedoes 2 4 and 6 [enterprisse@mysterious ship], physical altercation time <16:10-16:15, 28:10-28:46, 38:48-39:00>
 
 :: Technobabble
@@ -6144,7 +6144,7 @@ tos2x16
 :: Episode Title
 A Private Little War
 
-:: Setting
+:: Settings
 countryside [Neural], rocky outcrop, Enterprise transporter room, Enterprise bridge, Enterprise sickbay, tented encampment, cavern, mountainside, medieval village, building entrance, forge
 
 :: Deaths
@@ -6158,7 +6158,7 @@ intoxication [nona@tyree, nona@kirk], fatigue induced by exerting witchcraft [No
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 skirmish, melee, stone throw [kirk@villagers], rifle shot [villagers@kirk, @spock], mauling [beast@kirk], stone throw [mccoy@beast], flying kick [kirk@klingon], punch to the face [kirk@klingon], albow to the gut [kirk@villager], shove [kirk@villager], strike to the neck with a metal rod [mccoy@villager], flintlock rifle shot [villager@crew x3], slap across the face [Christine@Spock x5], manhandling [Scotty@Christine], backhanded slap across the face [black doctor@spock x4], slap across the face [black doc@spock x3], lunge with fangs and claws [mugato@nona x~5], disdainful backhanded strike [mugato@kirk], rock to the head [nona@kirk], backhanded slap across the face [nona@villager], manhandling [villagers@nona], disarmament [villager@nona], one against many [nona@villagers], knife thrust to the shoulder [villager@nona], gunshot [villager@mccoy, tyree@villager], skirmish [crew and villagers@villagers], throw [kirk@villager x2], punch to the face [kirk@villager], kick to the stomach [kirk@villager], kick to the face [kirk@villager], rock to the head [tyree@villager], flying kick [kirk@villager], skull bashing [Nona@Kirk], physical altercation time  <1:12-3:23, 10:12-10:36, 30:22-30:26, 33:10-34:10, 34:30-34:47, 41:52-42:40, 44:30-44:55, 45:10-46:45>
 
 :: Technobabble
@@ -6274,7 +6274,7 @@ tos2x17
 :: Episode Title
 The Gamesters of Triskellion
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, arena, holding cell, ancient ruins, cavern
 
 :: Deaths
@@ -6287,7 +6287,7 @@ multiple welts and lacerations to the upper body [Kloog@Kirk], pain induced by d
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 melee, one on one fight [Kirk vs. Kloog], strangulation [Kirk to Kloog], three on one fight [Kirk vs. Kloog Lars and Andorian thrall], arena fight [crew@fighters], punch to the gut [chekov@ogre]<ineffective>, kick to the face [kirk@fighter], knife swing [fighter@kirk x2], throw [kirk@fighter], kick to the head [kirk@fighter], punch to the face [kirk@fighter x3], strike with shaft of space halberd [shahna@kirk x2], punch to the gut [kirk@fighter, chekov@fighter], activation of pain necklace [overseer@kirk,chekov,uhura x3], sparing, whip lash [ogre@kirk x~20], kick to the stomach [kirk@ogre x2], tackle [kirk@ogre], headbutt [kirk@ogre], strangulation with leather thong [kirk@ogre], activation of pain collar [gamsters@shahna], surprise punch to the jaw [kirk@shahna], tripping [kirk@fighters x3, shahna at kirk], space halbard thrust [kirk@fighters x~10, shahna@kirk x2], one against many arena fight [kirk against three], spear throw [kirk@ogre], dagger lunge [kirk@andorian], dagger swing [andorian@kirk], throw [kirk@andorian], strike with butt of space halbard [shahna@kirk], disarmament kick [kirk@shahna], physical altercation time <2:10-3:20, 8:50-9:05, 11:40-12:08, 19:13-19:18, 20:50-23:25, 29:36-30:34, 44:32-46:43>
 
 :: Technobabble
@@ -6406,7 +6406,7 @@ tos2x18
 :: Episode Title
 Obsession
 
-:: Setting
+:: Settings
 rocky landscape, Enterprise McCoy's office, Enterprise bridge, Enterprise briefing room, Enterprise Kirk's quarters, Enterprise Garrovick's quarters, Enterprise corridor, Enterprise transporter room
 
 :: Deaths
@@ -6420,7 +6420,7 @@ Cygnian respiratory diseases <mentioned> [survey of], pulse and respiration far 
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser fire [Garrovick@creature], space phaser fire [enterprise@creature]<ineffective>, photon torpedo [minimum spread, enterprise@creature], sneak karate chop to the neck [garowick@kirk], punch to the gut [kirk@garowick], hook swing to the face [kirk@garowick]
 
 :: Technobabble
@@ -6519,7 +6519,7 @@ tos2x19
 :: Episode Title
 The Immunity Syndrome
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise engineering, Enterprise McCoy's office, Enterprise briefing room, Enterprise bio-lab, Enterprise Kirk's quarters, Enterprise corridor, shuttlecraft
 
 :: Deaths
@@ -6534,7 +6534,7 @@ dizziness [Uhura and half the crew], lethargy [crew]
 :: Mind Complications
 telepathic sensation of loss of life [spock, sensing 400 lost vulcans], nervous weak and irritable feelings [~266 crewmen, mostly women it looks like], fainting [redshirt on bridge], creeping paralysis [kirks words], nausea induced by stimulants [McCoy], martyr complex [McCoy]
 
-:: Altercation
+:: Altercations
 
 :: Technobabble
 fourth magnitude sun [1x], negative energy [2x], anti-power [1x], anti-life matter [1x], acetylcholine test {medbabble}[1x], acetylcholine {compound}[1x]
@@ -6631,7 +6631,7 @@ tos2x20
 :: Episode Title
 A Piece of the Action
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise turbolift, Enterprise transporter room, American 1920s era city street, office, warehouse, American 1920s era alleyway, radio station, boarding room
 
 :: Deaths
@@ -6644,7 +6644,7 @@ knocked unconscious [kirk@gangster x3], phaser stun [kirk&spock@gangster x2],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Kirk and guard], brawl [escape sequence], Vulcan nerve pinch [spock@gangster, spock@girl], karate chop to the neck [mccoy@gangster], punch to the stomach [kirk@gangster], punch to the jaw [kirk@gangster], trip wire tripping [kirk@gangster guard x2], kick to the face [kirk@gangster guard], blanket over the head [kirk@gangster guard], punch to the gut [kirk@gangster guard], punch to the face [kirk@guard x2], vulcan nerve pinch [spock@guard x2], sneak phaser stun from behind [kirk&spock@guard&guard], shoot out [gangsters on street], ship phaser stun from orbit {bombardment}, drive by shooting
 
 :: Technobabble
@@ -6768,7 +6768,7 @@ tos2x21
 :: Episode Title
 By Any Other Name
 
-:: Setting
+:: Settings
 alien landscape, Enterprise bridge, Enterprise life support, Enterprise engineering, cavern <holding cell>, Enterprise sickbay, Enterprise medical lab, Enterprise corridor, Enterprise turbolift, Enterprise recreation room, Enterprise Scotty's quarters, Enterprise Kelinda's quarters
 
 :: Deaths
@@ -6782,7 +6782,7 @@ alcohol induced blackout [purple alien, scotty]
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Kirk and Rojan], paralyzation by neural field [aliens@landing party x5, alien@engineering crew x5, yellow alien@yellow guy, brown alien guy@bridge crew x6, brown alien guy@kirk], vulcan mind meld attack [spock@blue alien], psionic throw [blue alien chick@spock], manhandling [kirk@blue alien chick], karate chop to the neck [kirk@blue alien chick], malign transformation [brown alien guy@two red guys, alien leader@uhura&chekov, yellow alien bitch@three crewmen, aliens@most of the crew ~396, 8 shown], slap across the face [kirk@alien leader x2], shove [alien leader@kirk x3], strangulation [alien leader@kirk], jump kick to the stomach [kirk@alien leader], gay humping attack over a table [kirk@alien leader], two handed break free attack [kirk@alien leader], restraining from behind [kirk@alien leader], strangulation [kirk@alien leader],
 
 :: Technobabble
@@ -6912,7 +6912,7 @@ tos2x22
 :: Episode Title
 Return to Tomorrow
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, subterranean chamber, Enterprise briefing room, Enterprise sickbay, Enterprise pharmacy, Enterprise bio-lab, Enterprise McCoy's office
 
 :: Deaths
@@ -6926,7 +6926,7 @@ dangerously elevated metabolic rate [sargon-kirk], heart elevated [Kirk-Sargon],
 :: Mind Complications
 false euphoria [Kirk]<mentioned>
 
-:: Altercation
+:: Altercations
 nefarious mental conditioning by vulcan mind meld [henoch@christine], mysterious purple field attack [thalassa@mccoy], psionic pain attack [henoch@uhura,kirk,mulhall], psionic immobilization [henoch@mccoy], surreptitious hypospray attack [christine@henoch], blocking of body takeover [sargon@henoch]
 
 :: Technobabble
@@ -7043,7 +7043,7 @@ tos2x23
 :: Episode Title
 Patterns of Force
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, German 1930s city street, building entrance, interrogation room, jail cell, corridor, laboratory, cavern hideout, cloakroom, broadcast booth, reception room, hallway, sewer
 
 :: Deaths
@@ -7057,7 +7057,7 @@ multiple welts to the upper body [Kirk, Spock], cut to the forearm [kirk,spock r
 :: Mind Complications
 psychosis [john gill, spockulated], drugged cataleptic state [john gill], alcohol intoxication [mccoy pretended]<fake>, comatose [john gill]
 
-:: Altercation
+:: Altercations
 space phaser fire [enterprise@warhead], warhead in unmanned probe [??@enterprise], kick in the face [nazi@guy], manhandling [nazi@guy], baton to the side [nazi@guy], karate chop to the neck [kirk@nazi], vulcan nerve pinch [spock@nazi], flailing [nazi@kirk,spock]<torture>, baton prod to the side [major@kirk], vulcan nerve pinch [spock@guard], hit to the neck with the butt end of a pistol [isak@nazi], gunshot to stomach [fake nazi babe@abrom], dexterous disarmament [spock,kirk@fake nazi babe], restraining from behind [kirk@fake nazi babe], vulcan nerve pinch [spock@guard], strangulation [isak@guard], slap across the face [kirk@gill], machine gunning [melakon@kirk,gill], pistol shot [isak@melakon], scorging [nazi@Kirk&Spock]
 
 :: Technobabble
@@ -7185,7 +7185,7 @@ tos2x24
 :: Episode Title
 The Ultimate Computer
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise turbolift, Enterprise corridor, Enterprise engineering, Enterprise Kirk's quarters, Enterprise briefing room, Enterprise Jefferies tube, Lexington bridge, Enterprise sickbay
 
 :: Deaths
@@ -7198,7 +7198,7 @@ death by high voltage power beam [redshirt by M-5, disintegration]<26:45>, death
 :: Mind Complications
 nervous breakdown [Daystrom], borderline insanity [daystrom],
 
-:: Altercation
+:: Altercations
 surreptitious force field trap [M-5@Kirk], sneak vulcan nerve pinch [Spock@Daystrom], space phaser fire [potemkin@enterprise, enterprise@freighter x5, enterprise@lexington x3, enterprise@excalibur x5, enterprise@potemkin x2], photon torpedo fire [enterprise@freighter x2], restraining [kirk@daystrom x2], surreptitious power beam attack [M-5@redshirt], logical paradox attack [kirk@M-5],
 
 :: Technobabble
@@ -7304,7 +7304,7 @@ tos2x25
 :: Episode Title
 The Omega Glory
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Exeter engineering, Enterprise corridor, Exeter bridge, medieval village, forge, storage room, meeting hall
 
 :: Deaths
@@ -7319,7 +7319,7 @@ massive infection [landing party x4, tracy],
 :: Mind Complications
 Vulcan mind probe [Spock@girl]
 
-:: Altercation
+:: Altercations
 braning [cloud@kirk], one on one fight [Kirk and Ron Tracy], three on one restraining [Kohms@Cloud William], sword butt to shoulder [Wu@Kirk], karate chop to shoulder [tracy@kirk], kick to stomach [kirk@tracy], punch to face [kirk@tracy], punch to face [tracy@kirk], punch to stomach [tracy@kirk], karate chop to shoulder [tracy@kirk], two on one fight [kirk&cloud,sirah], double hand lock [kirk&cloud], hip toss [kirk@cloud], strangulation [cloud@kirk], shove [kirk@sirah], punch to face [kirk@cloud], double leg kick push off wall to stomach [kirk@cloud], punch to stomach [kirk@cloud], battery of karate chops to the shoulders [kirk@cloud], strangulation [cloud@kirk], karate chop to shoulder [kirk@cloud], wrist lock and toss [kirk@cloud], Vulcan nerve pinch [Spock@sirah], Vulcan nerve pinch [Spock@Kohn guard], phaser stun [tracy@spock], one on one fight [kirk&tracy again], punch to face [kirk@tracy], takedown [kirk@tracy], axe attack [tracy@kirk], fight to the death [kirk&tracy, strap match], punch to face [kirk@tracy], punch to stomach [tracy@kirk], drag a man across a room [tracy@kirk], toss [kirk@tracy], stepping on of throat [kirk@tracy], toss [tracy@kirk], repeated kicks to back [tracy@kirk], manhandling [kohm@sirah], restraining [kohns@kirk], tripping [kirk@kohn guard], takedown [kirk@tracy], grappling [kirk&cloud], punch to the face [kirk@cloud], sneak disarmament strike to the hand [kirk@tracy], forceful disarmament [kirk@tracy],
 
 :: Technobabble
@@ -7422,7 +7422,7 @@ tos2x26
 :: Episode Title
 Assignment: Earth
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise McCoy's office, Enterprise briefing room, Enterprise brig, upscale 1960s era office, American 1960s era city street, military base, rocket gantry, launch control room, check point
 
 :: Deaths
@@ -7436,7 +7436,7 @@ bonk on the head [gary]
 :: Mind Complications
 induced giddiness [gary@redshirt, gary@guard],
 
-:: Altercation
+:: Altercations
 security apprehension [crew@gary], double shove [gary@redshirts x2], cat attack [cat@redshirt], karate chop to the neck [gary@spock], Vulcan nerve pinch [Spock@gary]<failed>, shove [gary@redshirt], phaser stun [kirk@gary], bonk to the head with blunt object [roberta@gary], Vulcan nerve pinch [spock@sergeant], alien device incapacitation [gary@redshirt x3], manhandling [kirk@roberta, spock@roberta], gagging with hand [spock@roberta], cat distraction and subsequent alien device incapacitation [gary&cat@sargent], dexterous disarmament [gary@roberta]
 
 :: Technobabble
@@ -7549,7 +7549,7 @@ tos3x01
 :: Episode Title
 Spectre of the Gun
 
-:: Setting
+:: Settings
 Enterprise bridge, Wild West town street, saloon, Wild West doctor's office, impenetrable fog, sheriff's office, corral
 
 :: Deaths
@@ -7562,7 +7562,7 @@ bloody nose [Chekov], gunshot wound to the gut [earp@chekov],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 punch to face [Morgan@Kirk, Morgan@Chekov], one on one fight [Kirk and Morgan Earp], revolver shot to the stomach [morgan@cowboy], hook swing to the face [Morgan@Kirk x2]<blocked>, restraining from behind [kirk@morgan], human shield [kirk used morgan], manhandling [morgan@bargirl], revolver shot to the stomach [morgan@chekov], shaken by collar of shirt [kirk@sherif], shootout [4 earps@4 crew], double jump kick to the chest [kirk@morgan], punch to the side [kirk@morgan], punch to the shoulder [kirk@morgan x2], punch to the neck [kirk@morgan],
 
 :: Technobabble
@@ -7695,7 +7695,7 @@ tos3x02
 :: Episode Title
 Elaan of Troyius
 
-:: Setting
+:: Settings
 Enterprise Uhura's quarters, Enterprise engineering, Enterprise sickbay, Enterprise bridge, Enterprise turbolift, Enterprise corridor, Enterprise medical lab
 
 :: Deaths
@@ -7709,7 +7709,7 @@ stab wound in the back [Petri], bite to the hand [Kirk]
 :: Mind Complications
 love tear potion influence [kirk],
 
-:: Altercation
+:: Altercations
 slap across the face [Elaan to Kirk, Kirk to Elaan], elbow to the chest [kirk@trosian], thrown dagger <miss>[Elaan@Kirk], head twist and neck breaking [trosian@redshirt], shove [trosian@kirk], phaser stun [spock@trosian x2], manhandling [kirk@elaan], disarming [kirk@elaan], bite to the hand [elaan@kirk], forced vulcan mind meld <threatened>, space shoot out [enterprise&klingon], space disruptor fire [klingon@enterprise x4], photon torpedo fire [enterprise@klingon x3]
 
 :: Technobabble
@@ -7842,7 +7842,7 @@ tos3x03
 :: Episode Title
 The Paradise Syndrome
 
-:: Setting
+:: Settings
 wigwam, Enterprise bridge, Enterprise engineering, woodland, obelisk control room, obelisk exterior, tepee encampment
 
 :: Deaths
@@ -7857,7 +7857,7 @@ exhaustion [Spock], drowning <medical emergency>[young boy]
 :: Mind Complications
 Tahiti syndrome [Kirk], amnesia [Kirk], overexertion [spock], stress [spock]
 
-:: Altercation
+:: Altercations
 one on one fight [Kirk and Salish], knife thrust [salish@kirk x2], acrobatic throw [salish@kirk], acrobatic jump kick [kirk@salish], hook swing [salish@kirk]<dodged>, punch to the kidney [kirk@salish], jump kick [kirk@salish], throw [kirk@salish], disarmament [kirk@salish, common martial art technique]
 
 :: Technobabble
@@ -7968,7 +7968,7 @@ tos3x04
 :: Episode Title
 The Enterprise Incident
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise briefing room, Enterprise transporter room, Romulan vessel ready room, Romulan vessel security room, Enterprise sickbay, Romulan vessel corridor, Romulan vessel captain's quarters, Romulan vessel bridge, Enterprise engineering, Enterprise turbolift
 
 :: Deaths
@@ -7983,7 +7983,7 @@ simulated death {paralysis} [spock@kirk],
 :: Mind Complications
 increased tension [kirk], emotional stress [kirk], mental depression [kirk], physical weakness [kirk], disorientation [kirk], displacement [kirk], feelings of persecution and rebellion [kirk, mccoy's diagnosis!]
 
-:: Altercation
+:: Altercations
 Vulcan nerve pinch [Spock to Kirk], karate chop to collar bone [Kirk to guard], slap across face [Romulan commander to spock], face off [Kirk and guard], restraining [romulan@kirk], throw [romulans@kirk], vulcan death grip [spock@kirk, is in fact a nerve pinch to simulate death], disarmament kick [kirk@eomulan], kick to the face [kirk@romulan]
 
 :: Technobabble
@@ -8108,7 +8108,7 @@ tos3x05
 :: Episode Title
 And the Children shall Lead
 
-:: Setting
+:: Settings
 rocky wasteland, cavern, Enterprise arboretum, Enterprise bridge, Enterprise Kirk's quarters, Enterprise engineering, Enterprise transporter room, Enterprise corridor, Enterprise auxiliary control
 
 :: Deaths
@@ -8122,7 +8122,7 @@ bruises all over [one of the dead women]
 :: Mind Complications
 anxiety [Kirk], suicidal anxiety [8 colonists], lacunar amnesia [mccoy diagnosis for children]<mentioned>, severe loss of confidence [kirk about losing command]
 
-:: Altercation
+:: Altercations
 scuffle [Scotty and two crewmen, Kirk and Scotty], melee [Kirk and Chekov], mind control attack {psionic attack} [tommy@sulu x2, tommy@chekov x2, tommy@uhura x2, don@redshirt x4, tommy@spock x2, tommy@redshirt x3, tommy@kirk, don@scotty x2], shove [scotty@redshirt], strangulation from behind [redshirt@scotty], elbow to the gut [scotty@redshirt], karate chop to the collar bone [redshirt@scotty], mind control attack [gorgon and children@explorers x8], restraining of jaw and head [kirk@sulu], brawl [redshirt x2, kirk, scotty, spock], disarmament karate chop to the hand [spock@chekov], shove [kirk@chekov, redshirt@kirk], hug restraining [redshirt@kirk, redshirt@spock], throw [kirk@redshirt], vulcan nerve pinch [spock@redshirt], tripping [kirk@redshirt], manhandling [kirk@tommy, kirk@mary], wild swing [tommy@kirk]
 
 :: Technobabble
@@ -8223,7 +8223,7 @@ tos3x06
 :: Episode Title
 Spock's Brain
 
-:: Setting
+:: Settings
 Enterprise bridge, snowy landscape, cavern, subterranean complex, detention cell, control room
 
 :: Deaths
@@ -8236,7 +8236,7 @@ dislocated brain [eymorg@spock], phaser stun [kirk@morg, kirk@eymorg], knocked u
 :: Mind Complications
 unconsciousness [eymorg@enterprise crew]
 
-:: Altercation
+:: Altercations
 shoot out, melee, mysterious stun incapacitation [eymorg@enterprise crew x400, eymorg@kirk/mccoy/scotty], rock hurling [cavemen@crew], phaser stun [kirkj@caveman, kirk@eymorg], shove [caveman@kirk], mysterious pain stun incapacitation [eymorg@kirk/mccoy/scotty x2], punch to the stomach [kirk@thrall], restraining [nccoy/scotty@thrall], throw [thrall@scotty x2, thrall@kirk], jump upon attack [kirk@thrall], elbow to chest [kirk@thrall], punch to the face [kirk@thrall], jump kick [kirk@thrall], kick to stomach [kirk@thrall], hammerfist to the back [kirk@thrall], manhandling [kirk@eymorg x2, controlled spock@eymorg leader, scotty@eymorg leader], disrmament [kirk@eymorg leader]
 
 :: Technobabble
@@ -8354,7 +8354,7 @@ tos3x07
 :: Episode Title
 Is there no Truth in Beauty?
 
-:: Setting
+:: Settings
 Enterprise transporter room, Enterprise corridor, Enterprise Kollos' quarters, Enterprise reception room, Enterprise turbolift, Enterprise auxiliary control, Enterprise bridge, Enterprise arboretum, Enterprise sickbay
 
 :: Deaths
@@ -8369,7 +8369,7 @@ brain activity stop [larry]
 :: Mind Complications
 dangerous insanity [larry], fit of madness [Larry]
 
-:: Altercation
+:: Altercations
 punch to face [Larry to redshirt], big fight [Larry and Scotty and redshirts], crazy man brought under control [Spock], medusan gaze [medusan@larry], shove [larry@scotty, larry@kirk], hammerfist to the jaw [larry@redshirt], uncoordinated jump upon [redshirt@larry], kick to the face [larry@redshirt], strangulation [larry@scotty], head bashed repeatedly agains the floor [larry@scotty], kick to the stomach [larry@redshirt], restraining hug [kirk@larry], restraining [kirk,redshirt@larry], strangulation [larry@miranda], manhandling [kirk@miranda x2], throw [spock@kirk], hammerfist to the shoulder [spock@mccoy x2, spock@redshirt x3], shove [spock@sulu, spock@chekov], phaser stun [kirk@spock]
 
 :: Technobabble
@@ -8482,7 +8482,7 @@ tos3x08
 :: Episode Title
 The Empath
 
-:: Setting
+:: Settings
 alien lab, cavern, rocky landscape, research facility, torture chamber, cavern entrance, Enterprise bridge, xeric scrubland
 
 :: Deaths
@@ -8496,7 +8496,7 @@ decompression sickness [kirk], pulse almost gone [mccoy], exhaustion [gem], drug
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 mysterious shove with device [vian@kirk], mysterious disarmament with device [vians@crew], mysterious forcefield encasement [vians@crew], vulcan nerve pinch [spock@vian], dexterous disarmament [spock@vian], mysterious time retardation [vian@kirk], torture by mysterious device [vians@kirk, vians@mccoy], sneak hypospray attack [mccoy@spock]
 
 :: Technobabble
@@ -8602,7 +8602,7 @@ tos3x09
 :: Episode Title
 The Tholian Web
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, Defiant bridge, Defiant engineering, Defiant sickbay, Enterprise medical lab, Enterprise sickbay, Enterprise auxiliary control, Enterprise memorial service room, Enterprise Kirk's quarters, Enterprise Uhura's quarters
 
 :: Deaths
@@ -8617,7 +8617,7 @@ fainting [mccoy], light headedness [Chekov] spasm of pain
 :: Mind Complications
 space madness induced by distorted brain tissue [chekov, blueshirt]
 
-:: Altercation
+:: Altercations
 hypospray attack [Medlab guy to McCoy], shove [chekov@spock], unccordinated grapling attack [chekov@sulu], restraining [mccoy@chekov, sulu@chekov, scotty@chekov, mccoy@blueshirt], vulcan nerve pinch [spock@chekov], struggle [chekov&crew, mccoy&blueshirt], blunt object swing [blueshirt@mccoy], throw [blueshirt@mccoy], sneak hypospray attack [christine@blueshirt], tholian space weapon fire [tholians@enterprise x2], space phaser fire [enterprise@tholians], space fight [tholian@enterprise], shove [redshirt@eulogy attendants], struggle [redshirt&eulogy attendants], restraining [eulogy attendants@redshirt], uncoordinated leap upon attack [redshirt@scotty], grappling [redshirt&scotty], restraining [2 redshirt@redshirt]
 
 :: Technobabble
@@ -8732,7 +8732,7 @@ tos3x10
 :: Episode Title
 For the World is Hollow and I have Touched the Sky
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise transporter room, rocky wasteland, oracle chamber, antechamber
 
 :: Deaths
@@ -8747,7 +8747,7 @@ xenopolycythemia [mccoy], coughing induced by xenopolycythemia [mccoy], electric
 :: Mind Complications
 agonizing pain induced by implant [old guy, mccoy, natira x2]
 
-:: Altercation
+:: Altercations
 ambush, volley of space missiles [??@enterprise], space phaser fire [enterprise@missiles], uncoordinated jump upon attack [yonadan@kirk], unarmed struggle [7 yonadan@3 crew], punch to the face [yonadan@kirk, kirk@yonadan, mccoy@yonadan], disarmament [spock@yonadan], karate chop to the hand [spock@yonadan], karate chop to the neck [spock@yonadan], kick in the back [kirk@yonadan], butt of a sword to the head [yonadan@mccoy], restraining [2 yonadan@kirk], electromagic stun attack [oracle@kirk x2, spock x2, mccoy x1], manhandling [kirk@natira x2], trap room heating [oracle@kirk,spock,mccoy,natira]
 
 :: Technobabble
@@ -8870,7 +8870,7 @@ tos3x11
 :: Episode Title
 Day of the Dove
 
-:: Setting
+:: Settings
 rocky wasteland, Enterprise bridge, Enterprise transporter room, Enterprise corridor, Enterprise turbolift, Enterprise auxiliary control, Enterprise Klingon quarters, Enterprise sickbay, Enterprise armory
 
 :: Deaths
@@ -8884,7 +8884,7 @@ stab wound to the heart [redshirt], sword wounds in the vital organs [redshirt],
 :: Mind Complications
 paranoid mania [chekov diagnosed by mccoy]
 
-:: Altercation
+:: Altercations
 punch to face [Kang to Krk, Kirk to Kang], sword fight, one on one sword fight [Kirk and Kang], backhanded pistol whipping across the face, restraining [2 klingons@checkov, 2 klingon@kirk], torture by pain device [klingon@chekov], shove [klingon@kirk], space phaser fire [enterprise@klingon ship x2], punch to the face [kirk@kang x2], sword strike [klingon@redshirt, kan@kirk x5, kirk@kang, klingon@scotty x6], sword thrust [klingon@kirk, kang@kirk x2, klingon@scotty x6], uncoordinated jump upon attack [klingon@2 redshirts], kick shove to the midsection [scotty@klingon], karate chop to the neck [redshirt@klingon, sulu@klingon], restraining [kirk@spock, cpock@kirk, kirk@kang], sneak sword cut to the back [chekov@klingon], manhandling [chekov@mara, kirk@mara], attempted rape [chekov@mara], open palm strike to the cheek [kirk@chekov], backhanded slap to the face [kirk@chekov], restraining [spock@kirk], swordstrike [redshirt@kirk, kang@kirk x12, kirk@kang x8, redshirt@klingon x4, scotty@klingon x3, klingon@scotty x3], vulcan nerve pinch [spock@redshirt, spock@klingon], sword thrust [spock@klingon x3, klingon@spock x2, klingon@mccoy, redshirt@klingon x3, scotty@klingon, klingon@scotty], sword by the throat [kirk@kang], sword throw [kirk@alien], aggressive laughing [humans&klingons@alien]
 
 :: Technobabble
@@ -9026,7 +9026,7 @@ tos3x12
 :: Episode Title
 Plato's Stepchildren
 
-:: Setting
+:: Settings
 Enterprise bridge, courtyard, throne room, palace chamber, theater
 
 :: Deaths
@@ -9040,7 +9040,7 @@ massively infected wound [Parmen], the common cold <mentioned>, massive infectio
 :: Mind Complications
 emotional barriers torn down [parmen@spock]
 
-:: Altercation
+:: Altercations
 psychokinetically induced self slapping across the face [parmen@kirk], psychokinetic manhandling [parmen@mccoy, parmen@alexander], psychokinetically induced self strangulation [parmen@alexander], psychokinetic disarmament [parmen@kirk], psychokinetic puppeteering [parmen@kirk x3, parmen@spock x2, parmen@mccoy, parmen@alexander x4, platonian@alexander, platonian@uhura, platonian@christine, kirk@alexander]
 
 :: Technobabble
@@ -9171,7 +9171,7 @@ tos3x13
 :: Episode Title
 Wink of an Eye
 
-:: Setting
+:: Settings
 Enterprise bridge, futuristic cityscape, Enterprise sickbay, Enterprise corridor, Enterprise environmental engineering, Enterprise medical lab, Enterprise transporter room, Enterprise Kirk's quarters
 
 :: Deaths
@@ -9184,7 +9184,7 @@ cut to the neck [Compton], almost frozen hands [Kirk], forcefield stun [redshirt
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 struggle [Kirk and Compton], one on one fight [Kirk and Rael], invisible disarmament [scalosian@kirk,spock], invisible shove [scalosian@kirk,spock], mysterious disarmament [deela@kirk], haser stun [kirk@deela]<miss>, disarmament kick [kirk@compton], punch to the face [kirk@compton], weapon stun [rael@kirk], punch to the back of the neck [rael@compton], swing with blunt instrument [rael@kirk x5], weapon stun [deela@rael x2], weapon stun [rael@kirk,spock]<miss>, weapon stun [kirk@rael]
 
 :: Technobabble
@@ -9295,7 +9295,7 @@ tos3x14
 :: Episode Title
 That which Survives
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, alien landscape, Enterprise sickbay, Enterprise auxiliary control, Enterprise Jefferies tube, Enterprise engineering, subterranean chamber
 
 :: Deaths
@@ -9308,7 +9308,7 @@ shoulder necrosis [Sulu], bump on the head [Spock], sprained ankle [sulu],
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 phaser fire [sulu@lorisa x5], shove [kirk@lorisa]
 
 :: Technobabble
@@ -9428,7 +9428,7 @@ tos3x15
 :: Episode Title
 Let that be your Last Battlefield
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise hangar deck, Enterprise turbolift, Enterprise corridor, Enterprise sickbay, Enterprise auxiliary control, Enterprise recreation room, Enterprise transporter room
 
 :: Deaths
@@ -9442,7 +9442,7 @@ suffocation {medical emergency}
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 electrical fight [Bele and Locai], electric shock repulsion [bele@redshirt, lokai@redshirt], phaser fire [redshirt@bele, redshirt@lokai], mutual strangulation [bele&loki x2], struggle [bele&loki x2], tackle <accidental> [bele@blueshirt], shove [loki@redshirt]
 
 :: Technobabble
@@ -9562,7 +9562,7 @@ tos3x16
 :: Episode Title
 Whom Gods Destroy
 
-:: Setting
+:: Settings
 holding cell, prison aisle, Elba II control room, Enterprise bridge, banquet room, bedroom, throne room, rocky landscape
 
 :: Deaths
@@ -9577,7 +9577,7 @@ artereo and brain damage [inmates, mccoy diagnosed at end], exhaustion from slee
 :: Mind Complications
 delusion of grandeur [garth], imaginary pain induced by torture machine [corey,kirk],
 
-:: Altercation
+:: Altercations
 stabbing [Marta to Kirk]<blocked>, hand-to-hand struggle [Kirk and Garth as Kirk], phaser stun [garth@spock, spock@tellarite, garth@kirk]<unseen>, torture by sonic waves in pain chair [garth@cory, garth@kirk], disarmament strike [kirk@martha],  restraining [spock@martha], vulcan nerve pinch [spock@martha], strike with butt end of phaser to the back [tellarite@kirk] {pistol whipping}, manhandling [2 inmates@martha], sneak vulcan nerve pinch [spock@tellurian,andorian], shove [garth as kirk@spock], karate chop to the shoulder [kirk@garth as kirk], elbow to the midsection [kirk@garth as kirk, gart as kirk@kirk], hook swing to the face [kirk@garth as kirk x2], throw [garth as kirk@kirk], uncoordinate jump upon attack [garth as kirk@kirk], kickthrow to the midsaection [garth as kirk@kirk], kick in the face [garth as kirk@kirk], phaser stun [spock@garth as kirk], King Solomon <mentioned>
 
 :: Technobabble
@@ -9696,7 +9696,7 @@ tos3x17
 :: Episode Title
 The Mark of Gideon
 
-:: Setting
+:: Settings
 council chamber, Enterprise corridor, Enterprise bridge, Enterprise transporter room, Enterprise engineering, Enterprise sickbay, Enterprise recreation room, bedroom
 
 :: Deaths
@@ -9710,7 +9710,7 @@ fainting [Odona], fever [Odona], vegan choriomeningitis [Odona]
 :: Mind Complications
 memory lapse [Kirk], madness <mentioned>
 
-:: Altercation
+:: Altercations
 scuffle [Kirk and guards], manhandling [kirk@odona x2], shove [kirk@guard x2], kick to the stomach [kirk@guard x2], hammerfist to the back [kirk@guard], throw [kirk@guard], punch to the face [kirk@guard], restraining from behind [guard@kirk], two on one restraining [guards@kirk], sneak vulcan nerve pinch [spock@guard], hook swing <blocked> [guard@spock], throw [spock@guard]
 
 :: Technobabble
@@ -9811,7 +9811,7 @@ tos3x18
 :: Episode Title
 The Lights of Zetar
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise briefing room, Enterprise auxiliary control, Enterprise sickbay, Memory Alpha control room, Enterprise transporter room, Enterprise corridor, Enterprise medical lab
 
 :: Deaths
@@ -9825,7 +9825,7 @@ fainting [mira x4], severe facial glowing [woman scholar], space sickness <menti
 :: Mind Complications
 brainwave pattern transformation [Mira], possession [zetars@mira], alien possession
 
-:: Altercation
+:: Altercations
 space neural brain pressure attack [cloud creature@enterprise, cloud creatur@mira], space phaser fire [enterprise@cloud creature] <warning shot>, space phaser fire [enterprise@cloud creature], friendly restraining [kirk@scotty], electrical repulsion attack [cloud creature@scotty], atmospheric pressure attack [kirk@cloud creature]
 
 :: Technobabble
@@ -9945,7 +9945,7 @@ tos3x19
 :: Episode Title
 The Cloud Minders
 
-:: Setting
+:: Settings
 Enterprise bridge, cavern entrance, cavern, rocky wasteland, council chamber, art gallery, Ardana Kirk's quarters, Enterprise transporter room, holding cell, torture chamber
 
 :: Deaths
@@ -9960,7 +9960,7 @@ mind numbing gas
 :: Mind Complications
 being shaken [kirk], temporary mental degradation from prolonged exposure to zenite [all troglytes, kirk], pain induced by torture device [vanna],
 
-:: Altercation
+:: Altercations
 melee [Kirk, Spock and Troglytes], fight to the death [Kirk and Plasus with Mortae], lassoing [troglyte@kirk,spock], jump kick attack [kirk@troglyte], throw [kirk@troglyte x2], knife stab [troglyte@spock x3], knife swing [troglyte@spock], karate chop to the neck [spock@troglyte], karate chop to the neck [kirk@troglyte x2], punch to the face [kirk@troglyte], uncoordinated jump from behind and riding atack [troglyte@kirk], hug from behind [troglyte@spock], double handed break free [spock@troglyte], uncoordinated jump upon attack [troglyte@kirk], strangulation [troglyte@kirk x2], shove [spock@troglyte], punch to the armpit [spock@troglyte], strangulation [troglyte@spock], double break free punch to the arms [spock@troglyte], throw [spock@troglyte], take down from behind [troglyte@kirk], wrestling [kirk&troglyte, kirk@vanna], energy weapon stun attack [cloud guard@troglyte], manhandling [2 cloud guards@troglyte], break free [troglytepcloud guard], attempted assassination [vanna@kirk], dexterous diisarmament [kirk@vanna x2], manhandling [kirk@vanna x2], disarmament strike to the hand [kirk@vanna], torture by rays [plasus@vanna], phaser stun [kirk@sentinel], two on one restraining [2 troglytes@kirk], threatening prod [troglyte@kirk], hug attack [kirk@vanna], backhanded slap across the face [kirk@plasus], uncoordinated double handed knife attack [plasus@kirk], knife swing [plasus@kirk x2], knife thrust [plasus@kirk x4], disarmament kick to the hand [kirk@plasus], struggle [kirk&plasus], wrestling disarmament [kirk@plasus], punch to the back of the neck [plasus@kirk], uncoordinated jump upon attack [plasus@kirk], wrestling [kirk&plasus], mutual strangulation [kirk&plasus], shove [kirk@vanna], restraining [spock@kirk], uncoordinated strangulation attack [plasus@kirk], double karate chop to the neck [kirk@plasus]
 
 :: Technobabble
@@ -10073,7 +10073,7 @@ tos3x20
 :: Episode Title
 The Way to Eden
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise auxiliary control, Enterprise hangar deck, Enterprise transporter room, Enterprise sickbay, Enterprise recreation room, Enterprise brig, Enterprise Spock's quarters, Enterprise corridor, woodland
 
 :: Deaths
@@ -10088,7 +10088,7 @@ synthococcus novi infection <mentioned> [Sevrin is a carrier but immune],
 :: Mind Complications
 insanity [sevrin]
 
-:: Altercation
+:: Altercations
 struggle [5 space hippies@2 redshirts,chekov,christine], hippie ear pinch [tongo@redshirt], high pitched noise attach [sevrin@crew]
 
 :: Technobabble
@@ -10224,7 +10224,7 @@ tos3x21
 :: Episode Title
 Requiem for Methuselah
 
-:: Setting
+:: Settings
 Enterprise bridge, xeric scrubland, Flint's drawing room, laboratory, Enterprise Kirk's quarters
 
 :: Deaths
@@ -10237,7 +10237,7 @@ Rigelian fever [26 crewmen, 3 died], bubonic plague <mentioned> [actually the bl
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 one on one fight [Kirk and Flint], unidentified energy beam attack [M-4 @kirk,mccoy,spock], shove [kirk@reyna], phaser disintegration [Spock@M-4], miniaturization [flint@enterprise], shove [flint@kirk x2], hook swing to the face [flint@kirk], throw [flint@kirk x2], elbow to the stomach [kirk@flint], punch to the face [kirk@flint]
 
 :: Technobabble
@@ -10363,7 +10363,7 @@ tos3x22
 :: Episode Title
 The Savage Curtain
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise transporter room, rocky landscape, Enterprise briefing room
 
 :: Deaths
@@ -10376,7 +10376,7 @@ slightly scalded hand [kirk], spear wound to the back [lincoln], knocked unconsc
 
 :: Mind Complications
 
-:: Altercation
+:: Altercations
 ambush, melee [x2], one on one fight [Kirk and Green], rock throw [khan@spock, khan@kirk x2, kirk@green, green@good guys], wrestling [green&kirk, spock&zora], elbow to the side [kirk@green], double kick [kirk@green], punch to neck [kirk@monster], spear throw [spock@evil guys x2, spock@green, kirk@green, ], shove [khan@spock], kick to the gut [kirk@khaless], wrestling [spock&khan], shove [khaless@kirk], kick to the back [khan@spock], spear thrust to the stomach [kirk@khaless], hug from behind attack [kirk@khan], throw [kirk@khan], take down from behind [kirk@green], wooden splinter swing [green@kirk x2], shoulder to torso [kirk@green], dexterous hand lock attack [kirk@green]
 
 :: Technobabble
@@ -10486,7 +10486,7 @@ tos3x23
 :: Episode Title
 All our Yesterdays
 
-:: Setting
+:: Settings
 futuristic library, English 17th century era city street, cavern, English 17th century era jail cell, frozen wasteland, cliff face
 
 :: Deaths
@@ -10500,7 +10500,7 @@ frostbite [McCoy]
 :: Mind Complications
 madness [zarabeth]<mentioned>
 
-:: Altercation
+:: Altercations
 scuffle [Kirk and Mr. Atoz, Spock and McCoy], one on one fencing [Kirk&musketeer], apprehending [soldiers@Kirk], manhandling [musketeers@woman x5], slap across the butt [musketeer@woman x3, kirk@musketeer], restraining and dexterous disarmament [kirk@musketeer], hook swing [musketeer@kirk]<blocked>, karate chop to the neck [kirk@musketeer], two on one restraining [2 musketeers@kirk], punch to the face [musketeer@kirk], manhandling [musketeer@kirk], shove [musketeer@kirk], manhandling [spock@zarabeth, kirk@guard], karate chop to the throat [kirk@guard, kirk@prosecutor], holding by the collar [spock@mccoy], grappling [kirk@atoz x2], karate chop to the neck [kirk@atoz], strangulation attempt [atoz@kirk], alien stun weapon [atoz@kirk], restraining [kirk@atoz], strangulation [spock@mccoy], holding by the head [mccoy@zarabeth]
 
 :: Technobabble
@@ -10623,7 +10623,7 @@ tos3x24
 :: Episode Title
 Turnabout Intruder
 
-:: Setting
+:: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise corridor, Enterprise brig, Enterprise transporter room, Enterprise Kirk's quarters, Enterprise McCoy's office, Enterprise courtroom, Enterprise medical lab, subterranean chamber
 
 :: Deaths
@@ -10637,7 +10637,7 @@ radiation sickness [janice, from exposure]
 :: Mind Complications
 emotional instability [janice as kirk], paranoia [kirk as janice diagnosed], hysteria [janice as kirk]
 
-:: Altercation
+:: Altercations
 struggle [kirk as Janice&Coleman], sneak entrapment by alien device [janice@kirk], sneak hypospraying [christine@kirk as janice], manhandling [coleman@kirk as janice], dexterous disarmament [janice as kirk@kirk as janice], karate chop to the neck [janice as kirk@kirk as janice], sneak vulcan nerve pinch [spock@redshirt x3 first attempt blocked!], manhandling [kirk@janice], disarmament [kirk@janice]
 
 :: Technobabble

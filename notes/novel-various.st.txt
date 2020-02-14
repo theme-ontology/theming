@@ -85,7 +85,7 @@ novel: Stoner (1965)
 :: Title
 Stoner
 
-:: Author
+:: Authors
 John Williams
 
 :: Description
@@ -132,7 +132,7 @@ novel: The Futurological Congress (1971)
 :: Title
 The Futurological Congress
 
-:: Author
+:: Authors
 Stanisław Lem
 
 :: Description
@@ -178,7 +178,7 @@ novel: Seveneves (2015)
 :: Title
 Seveneves
 
-:: Author
+:: Authors
 Neal Stephenson
 
 :: Description
@@ -223,7 +223,7 @@ novel: We (1920)
 :: Title
 We
 
-:: Author
+:: Authors
 Yevgeny Zamyatin
 
 :: Description
@@ -265,7 +265,7 @@ novel: The Driver's Seat (1970)
 :: Title
 The Driver's Seat
 
-:: Author
+:: Authors
 Muriel Spark
 
 :: Description
@@ -302,7 +302,7 @@ shortstory: The Celestial Omnibus (1911)
 :: Title
 The Celestial Omnibus
 
-:: Author
+:: Authors
 E. M. Forster
 
 :: Description
@@ -337,7 +337,7 @@ novel: Dragon's Egg (1980)
 :: Title
 Dragon's Egg
 
-:: Author
+:: Authors
 Robert L. Forward
 
 :: Description
@@ -368,7 +368,7 @@ novel: Never Let Me Go (2005)
 :: Title
 Never Let Me Go
 
-:: Author
+:: Authors
 Kazuo Ishiguro
 
 :: Description
@@ -408,7 +408,7 @@ novel: The Buried Giant (2015)
 :: Title
 The Buried Giant
 
-:: Author
+:: Authors
 Kazuo Ishiguro
 
 :: Description
@@ -453,7 +453,7 @@ novel: The Fall (1956)
 :: Title
 The Fall
 
-:: Author
+:: Authors
 Albert Camus
 
 :: Description
@@ -494,7 +494,7 @@ nonfiction: Down and Out in Paris and London (1933)
 :: Title
 Down and Out in Paris and London
 
-:: Author
+:: Authors
 George Orwell
 
 :: Description
@@ -540,7 +540,7 @@ novel: Children of Time (2015)
 :: Title
 Children of Time
 
-:: Author
+:: Authors
 Adrian Tchaikovsky
 
 :: Description
@@ -586,7 +586,7 @@ novel: A Passage to India (1924)
 :: Title
 A Passage to India
 
-:: Author
+:: Authors
 E.M. Forster
 
 :: Description
