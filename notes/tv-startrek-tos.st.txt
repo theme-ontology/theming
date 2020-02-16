@@ -90,12 +90,6 @@ what if I had to fight to the death [Pike and Mongol] <Pike>,
 cruelty [The Keeper tortures Pike] <The Keeper>,
 fortitude [Pike in efforts to escape] <Pike>,
 
-:: Source ID
-tos0x01
-
-:: Episode Title
-The Cage
-
 :: Settings
 Enterprise bridge, Enterprise Pike's quarters, Enterprise transporter room, Enterprise briefing room, Talosian control room, castle exterior, countryside, poolside harem, shanty town, fiery pit, Enterprise corridor, rocky landscape
 
@@ -226,12 +220,6 @@ tragic love [Gary and Elizabeth] <Gary Mitchell, Elizabeth Dehner>,
 galactic barrier [all hell breaks loose at the galactic barrier],
 loyalty to a leader [Gary's loyalty to Kirk called into question] <Gary Mitchell>,
 
-:: Source ID
-tos1x01
-
-:: Episode Title
-Where No Man Has Gone Before
-
 :: Settings
 Enterprise briefing room, Enterprise transporter room, Enterprise turbolift, Enterprise bridge, Enterprise sickbay, Delta Vega control room, Delta Vega brig, Enterprise recreation room, rocky wasteland, alien landscape
 
@@ -353,12 +341,6 @@ hospitality [Balok offers Tranya hospitality] <Balok>,
 kindness [Balok rescued by Kirk] <Kirk>,
 anger [Bailey] <Dave Bailey>,
 fear [Crew was in fear of impending destruction the enterprise, especially Bailey.] <Dave Bailey>,
-
-:: Source ID
-tos1x02
-
-:: Episode Title
-The Corbomite Maneuver
 
 :: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise corridor, Enterprise turbolift, Enterprise Kirk's quarters, Enterprise briefing room, Balok's ship captain's quarters <bedroom>
@@ -501,12 +483,6 @@ mental illness [Mudd was accused of having one] <Harry Mudd>,
 anger [miners] <Ben Childress>,
 jealousy [miners over Mudd's women] <Ben Childress>,
 
-:: Source ID
-tos1x03
-
-:: Episode Title
-Mudd's Women
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise corridor, Enterprise Kirk's quarters, Enterprise Mudd's quarters, miner's encampment, rocky wasteland, shack interior, Enterprise turbolift
 
@@ -634,12 +610,6 @@ ruthlessness [evil-Kirk] <Evil Kirk>,
 laziness [evil-Kirk drunken escape] <Evil Kirk>,
 trust in a potential foe [good-Kirk and evil-Kirk ultimately trusted one another] <Good Kirk, Evil Kirk>,
 
-:: Source ID
-tos1x04
-
-:: Episode Title
-The Enemy Within
-
 :: Settings
 rocky wasteland, Enterprise transporter room, Enterprise corridor, Enterprise Kirk's quarters, Enterprise sickbay, Enterprise Janice's quarters, Enterprise turbolift, Enterprise bridge, Enterprise briefing room, Enterprise engineering
 
@@ -747,12 +717,6 @@ choosing who dies and who lives [McCoy w.r.t. shooting salt monster or letting i
 the ethics of valuing human lives [McCoy w.r.t. shooting salt monster or letting it kill Kirk] <McCoy>,
 anger [Robert] <Robert Crater>,
 grief [Robert for Nancy] <Robert Crater>,
-
-:: Source ID
-tos1x05
-
-:: Episode Title
-The Man Trap
 
 :: Settings
 desert landscape, Crater's living room, Enterprise bridge, Enterprise sickbay, Enterprise transporter room, Enterprise turbolift, Enterprise corridor, Enterprise arboretum, Enterprise McCoy's quarters, ancient desert ruins, Enterprise briefing room
@@ -886,12 +850,6 @@ coping with unwelcome romantic attention [Spock from Christine] <Spock>,
 anger [Tormolen loses it in recroom] <Joe Tormolen>,
 fear [space madness],
 time travel [Enterprise traveled back in time seventy one hours],
-
-:: Source ID
-tos1x06
-
-:: Episode Title
-The Naked Time
 
 :: Settings
 Psi 2000 control room, Enterprise transporter room, Enterprise bridge, Enterprise sickbay, Enterprise briefing room, Enterprise recreation room, Enterprise corridor, Enterprise engineering, Enterprise turbolift, frozen wasteland, Enterprise Jefferies tube
@@ -1027,12 +985,6 @@ patience [all to Charlie],
 anger [Charlie outbursts] <Charlie Evans>,
 sadism [Charlie did some nasty things] <Charlie Evans>,
 
-:: Source ID
-tos1x07
-
-:: Episode Title
-Charlie X
-
 :: Settings
 Enterprise transporter room, Enterprise sickbay, Enterprise corridor, Enterprise bridge, Enterprise recreation room, Enterprise Kirk's quarters, Enterprise gymnasium, Enterprise briefing room, Enterprise Rand's quarters, Enterprise brig
 
@@ -1156,12 +1108,6 @@ humility [Romulan captain] <unnamed Romulan commander of tos1x08>,
 mercy [Kirk at the end] <Kirk>,
 imperialistic society [Romulans] <Romulan>,
 
-:: Source ID
-tos1x08
-
-:: Episode Title
-Balance of Terror
-
 :: Settings
 Enterprise ship's chapel, Enterprise corridor, Enterprise bridge, Enterprise sickbay, Enterprise engineering, Enterprise phaser control, Romulan vessel bridge, Enterprise briefing room, Enterprise Kirk's quarters
 
@@ -1283,12 +1229,6 @@ what if I met my double [Kirk] <Kirk>,
 mysterious maker alien race [Ruk's makers] <Old Ones of Exo III>,
 subterranean civilization [The Old Ones lived in caves after their star burned out.],
 
-:: Source ID
-tos1x09
-
-:: Episode Title
-What Are Little Girls Made Of?
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, cavern entrance, cavern, Korby's study, Korby's dining room, alien lab, bedroom, frozen wasteland, rocky ledge
 
@@ -1409,12 +1349,6 @@ trust in a potential foe [Kirk at Gelder about beaming down] <Kirk>,
 telepathy [Spock performed a mind meld on Simon van Gelder.],
 what if I could read minds [Spock performed a mind meld on Simon van Gelder.],
 
-:: Source ID
-tos1x10
-
-:: Episode Title
-Dagger of the Mind
-
 :: Settings
 Enterprise transporter room, Enterprise bridge, Enterprise corridor, Enterprise sickbay, building entrance, Enterprise turbolift, Adams' study, treatment room, Tantalus penal colony Kirk's quarters, Enterprise Kirk's quarters, Tantalus penal colony Noel's quarters, control room, ventilation duct
 
@@ -1534,12 +1468,6 @@ kindness [landing party for children],
 patience [Kirk with children] <Kirk>,
 trust [Miri in Kirk] <Miri>,
 
-:: Source ID
-tos1x11
-
-:: Episode Title
-Miri
-
 :: Settings
 Enterprise bridge, American 1960s era city street, American 1960s era derelict house, American 1960s era alleyway, laboratory, derelict toy shop, schoolroom
 
@@ -1658,12 +1586,6 @@ hatred [Kirk at Kodos] <Kirk>,
 reclusiveness [Kodos] <Kodos the Executioner>,
 military dictatorship [Kodos once ruled],
 filial love [Lenore to Kodos] <Lenore Karidian>,
-
-:: Source ID
-tos1x12
-
-:: Episode Title
-The Conscience of the King
 
 :: Settings
 theater, Leighton's living room, Leighton's banquet room, Enterprise briefing room, countryside, Enterprise transporter room, Enterprise sickbay, Enterprise observation deck, Enterprise corridor, Enterprise engineering, Enterprise recreation room, Enterprise McCoy's office, Enterprise Kirk's quarters, Enterprise Karidan's quarters, Enterprise theater, xeric scrubland
@@ -1797,12 +1719,6 @@ charting unknown territory [investigate a quasar],
 compassion [Spock for crewmen who wanted to bury Gaetano] <Spock>,
 fortitude [Spock in taking charge] <Spock>,
 
-:: Source ID
-tos1x13
-
-:: Episode Title
-The Galileo Seven
-
 :: Settings
 Enterprise bridge, shuttlecraft, cliff face, Enterprise hangar deck, rocky wasteland
 
@@ -1923,12 +1839,6 @@ grief [Jame for Finney] <Jame Finney>,
 kindness [Jame for Kirk] <Jame Finney>,
 the reliability of AI evidence in court [computer evidence disputed by Kirk's lawyer],
 what it is like in a legal proceeding [Kirk's court martial],
-
-:: Source ID
-tos1x14
-
-:: Episode Title
-Court Martial
 
 :: Settings
 Starbase 11 office, Enterprise bridge, Starbase 11 bar, Starbase 11 Kirk's quarters, courtroom, Enterprise briefing room, Starbase 11 corridor, Enterprise engineering, Enterprise Jefferies tube, futuristic cityscape
@@ -2051,12 +1961,6 @@ abuse of authority [Spock] <Spock>,
 coping with opposing a friend [Kirk at Spock] <Kirk>,
 sadness [landing party for Pike],
 the dangers of radioactivity [Pike was living in a mobile life-support box because he had been exposed to dangerous levels of radiation.],
-
-:: Source ID
-tos1x15
-
-:: Episode Title
-The Menagerie, Part I
 
 :: Settings
 Starbase 11 sickbay, Starbase 11 Pike's quarters, Starbase 11 Mendez' office, Starbase 11 computer center, Enterprise bridge, shuttlecraft, Enterprise transporter room, Enterprise hearing room, Enterprise Pike's quarters, futuristic cityscape, Enterprise Spock's quarters
@@ -2182,12 +2086,6 @@ generosity [butt-head aliens to Pike and Vina] <The Keeper>,
 kindness [butt-head aliens to Pike and Vina] <The Keeper>,
 the dangers of radioactivity [Pike was living in a mobile life-support box because he had been exposed to dangerous levels of radiation.],
 
-:: Source ID
-tos1x16
-
-:: Episode Title
-The Menagerie, Part II
-
 :: Settings
 Enterprise hearing room, Enterprise briefing room, Talosian control room, castle exterior, holding cell, badlands, countryside, Enterprise transporter room, poolside harem, shanty town, fiery pit
 
@@ -2295,12 +2193,6 @@ old flames [Kirk and Ruth] <Kirk/Ruth>,
 flirtation [McCoy and Tonia] <McCoy/Tonia Barrows>,
 grief [landing party for McCoy],
 hospitality [Caretaker] <Shore Leave Planet caretaker, Caretaker Aliens>,
-
-:: Source ID
-tos1x17
-
-:: Episode Title
-Shore Leave
 
 :: Settings
 Enterprise bridge, jungle clearing, Enterprise Kirk's quarters, rocky outcrop, xeric scrubland
@@ -2423,12 +2315,6 @@ ruthlessness [squire] <Trelane>,
 sadism [squire] <Trelane>,
 vanity [squire] <Trelane>,
 human parenting [Trelane's parents struggled to make him behave],
-
-:: Source ID
-tos1x18
-
-:: Episode Title
-The Squire of Gothos
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, woodland, Trelane's drawing room, courtroom, castle exterior
@@ -2569,12 +2455,6 @@ high ground advantage [Captain Kirk is climbing a mountain],
 alien morals [Metron thinking] <Metron>,
 compassion [Metrons allow crew to watch Kirk's imminent death] <the Metron>,
 
-:: Source ID
-tos1x19
-
-:: Episode Title
-Arena
-
 :: Settings
 Enterprise transporter room, Enterprise bridge, Enterprise sickbay, Enterprise Kirk's quarters, smoldering ruins, xeric scrubland
 
@@ -2692,12 +2572,6 @@ time travel [Lazarus-A was a time traveller],
 collision with a parallel universe [Lazarus-A was on a mission to prevent this from happening],
 anger [Lazarus-B for Lazarus-A] <Lazarus-B>,
 trust in a potential foe [Kirk in Lazarus-A] <Kirk>,
-
-:: Source ID
-tos1x20
-
-:: Episode Title
-The Alternative Factor
 
 :: Settings
 Enterprise bridge, xeric scrubland, Enterprise Kirk's quarters, Enterprise sickbay, Enterprise recreation room, Enterprise corridor, Enterprise engineering, Enterprise briefing room, Enterprise transporter room
@@ -2819,12 +2693,6 @@ coping with living in a foreign culture [Christopher aboard Enterprise] <John Ch
 patriotism [Christopher about USA] <John Christopher>,
 matriarchy [matriarchs of Cygnet XIV] <Matriarchs of Cygnet XIV>,
 orbital decay [Enterprise fell into Earth atmosphere and its orbit was decaying],
-
-:: Source ID
-tos1x21
-
-:: Episode Title
-Tomorrow is Yesterday
 
 :: Settings
 US Air Force base, US Air Force base radar room, Enterprise bridge, jet cockpit, Enterprise transporter room, Enterprise turbolift, Enterprise corridor, Enterprise Kirk's quarters, Enterprise engineering, Enterprise sickbay, Enterprise briefing room, US Air Force base photography lab, US Air Force base guard room, US Air Force base photographic darkroom
@@ -2956,12 +2824,6 @@ fear [Reger of Landru] <Reger>,
 anger [festival],
 what if I could read minds [Spock performed a mind meld on McCoy.],
 
-:: Source ID
-tos1x22
-
-:: Episode Title
-The Return of the Archons
-
 :: Settings
 American 19th century era city street, Enterprise bridge, Enterprise transporter room, boarding house corridor, boarding room, drawing room, derelict room, prison cell, absorption chamber, great hall
 
@@ -3079,12 +2941,6 @@ reconciliation between two peoples [Eminiars and Vendicars] <Eminian/People of V
 laziness [Eminians complacent about war],
 personal conviction [Eminians],
 isolationism [Eminians] <Eminian>,
-
-:: Source ID
-tos1x23
-
-:: Episode Title
-A Taste of Armageddon
 
 :: Settings
 Enterprise bridge, futuristic cityscape, corridor, Eminiar VII council chamber, Eminiar VII control room, guest quarters, Eminiar VII Anan's living room, Eminiar VII computer room
@@ -3235,12 +3091,6 @@ global unification under a central authority [unification of Earth under rule by
 rule by strength of arm [Khan],
 brains vs. brawn [Kirk outwitted Khan in a fight to the death] <Kirk/Khan Singh>,
 
-:: Source ID
-tos1x24
-
-:: Episode Title
-Space Seed
-
 :: Settings
 Enterprise bridge, Enterprise McGivers' quarters, Enterprise transporter room, Botany Bay cryonic chamber, Enterprise sickbay, Enterprise officer's mess, Enterprise Khan's quarters, Enterprise briefing room, Enterprise engineering, Enterprise decompression chamber, Enterprise corridor
 
@@ -3382,12 +3232,6 @@ anger [Kirk made Spock get angry at him.] <Spock>,
 fortitude [Kirk not giving in] <Kirk>,
 tardiness [Spock deliberately played in a tree instead of showing up for his meeting with Kirk.],
 
-:: Source ID
-tos1x25
-
-:: Episode Title
-This Side of Paradise
-
 :: Settings
 Enterprise bridge, barn exterior, farmhouse interior, drawing room, countryside, Enterprise corridor, Enterprise Kirk's quarters, Enterprise transporter room, vegetable garden, lawn
 
@@ -3519,12 +3363,6 @@ anger [miners],
 trust in a potential foe [Horta in Spock] <mother Horta>,
 telepathy [Spock performed a mind meld on the Mother Horta.],
 what if I could read minds [Spock performed a mind meld on the Mother Horta.],
-
-:: Source ID
-tos1x26
-
-:: Episode Title
-The Devil in the Dark
 
 :: Settings
 mining tunnel, Janus VI Vanderberg's office, Janus VI reactor room, Enterprise bridge, cavern
@@ -3669,12 +3507,6 @@ social stagnation [Organians were presumed so by landing party],
 cultural differences [Kirk puzzled by Organian attitudes toward their conquerors],
 the future of human evolution [The Organians had evolved beyond the need for bodies, and it was suggested that humans might one day share this fate.],
 
-:: Source ID
-tos1x27
-
-:: Episode Title
-Errand of Mercy
-
 :: Settings
 Enterprise bridge, medieval village, council chamber, Organia Kor's office, town square, dungeon
 
@@ -3812,12 +3644,6 @@ kindness [Edith toward hobos] <Edith Keeler>,
 personal conviction [Edith about pascifism] <Edith Keeler>,
 fascism [Nazis featured],
 
-:: Source ID
-tos1x28
-
-:: Episode Title
-The City on the Edge of Forever
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, American 1930s era city street, cellar, canteen, boarding room, soup kitchen back room, ancient ruins, rocky wasteland
 
@@ -3950,12 +3776,6 @@ fortitude [Spock going back in spite of weakness] <Spock>,
 grief [Kirk for brother] <Kirk>,
 remorse [McCoy for having blinded Spock.] <McCoy>,
 
-:: Source ID
-tos1x29
-
-:: Episode Title
-Operation -- Annihilate!
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, futuristic cityscape, laboratory, Enterprise sickbay, courtyard, Enterprise briefing room, Enterprise Kirk's quarters, Enterprise bio-lab
 
@@ -4070,12 +3890,6 @@ sympathetic magic [Sylvia used it on the Enterprise] <Ornithoid Aliens>,
 alien point of view [Sylvia and Korob about strange human ways of thinking] <Sylvia, Korob>,
 flirtation [Kirk and Sylvia] <Kirk/Sylvia>,
 hedonism [ornithoid aliens] <Korob, Slyvia>,
-
-:: Source ID
-tos2x01
-
-:: Episode Title
-Catspaw
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, rocky wasteland, castle drawbridge, castle corridor, dungeon, Pyris VII throne room
@@ -4210,12 +4024,6 @@ desperation [Nancy about getting her illness cured] <Nancy Hedford>,
 incorporeal point of view [companion] <Companion, Companion's Species>,
 woman in charge [Hedford] <Nancy Hedford>,
 
-:: Source ID
-tos2x02
-
-:: Episode Title
-Metamorphosis
-
 :: Settings
 shuttlecraft, rocky wasteland, Cochrane's living room, Enterprise bridge
 
@@ -4339,12 +4147,6 @@ kindness [McCoy] <McCoy>,
 hatred [Kirk for Klingons] <Kirk>,
 imperialistic society [Klingons] <Klingon>,
 high ground advantage [landing party takes mountain],
-
-:: Source ID
-tos2x03
-
-:: Episode Title
-Friday's Child
 
 :: Settings
 Enterprise briefing room, nomadic encampment, tent, Enterprise bridge, hillside, cavern, cavern entrance, xeric scrubland, mountainside
@@ -4470,12 +4272,6 @@ mercy [Apollo] <Apollo>,
 patience [Apollo] <Apollo>,
 anger [Apollo with the lightning bolts and whatnot] <Apollo>,
 vanity [Apollo and Carolyn with new dress] <Apollo, Carolyn Palamas>,
-
-:: Source ID
-tos2x04
-
-:: Episode Title
-Who Mourns for Adonis?
 
 :: Settings
 Enterprise bridge, temple garden, woodland, Greek temple
@@ -4614,12 +4410,6 @@ compassion [Kirk to Spock] <Kirk>,
 grief [Spock thinking Kirk dead] <Spock>,
 ruthlessness [T'Pring] <T'Pring>,
 
-:: Source ID
-tos2x05
-
-:: Episode Title
-Amok Time
-
 :: Settings
 Enterprise corridor, Enterprise Spock's quarters, Enterprise bridge, Enterprise Kirk's quarters, Enterprise turbolift, Enterprise sickbay, desert landscape
 
@@ -4747,12 +4537,6 @@ coping with a bad boss [crew at Decker],
 anger [Decker at Spock] <Matt Decker>,
 personal conviction [Decker] <Matt Decker>,
 fear [Decker said the doomsday machine something right out of hell] <Matt Decker>,
-
-:: Source ID
-tos2x06
-
-:: Episode Title
-The Doomsday Machine
 
 :: Settings
 Enterprise bridge, Constellation corridor, Constellation engineering, Constellation meeting room, Constellation auxiliary control, Enterprise transporter room, shuttlecraft, Enterprise Jefferies tube
@@ -4902,12 +4686,6 @@ laziness [Argelians],
 conflicting systems of jurisprudence [Argelians used the death penalty],
 what it is like in a legal proceeding [Scotty's extradition hearing],
 
-:: Source ID
-tos2x07
-
-:: Episode Title
-Wolf in the Fold
-
 :: Settings
 Argelius II bar, Argelius II city alleyway, Argelius II Jaris' living room, séance room, Enterprise bridge, cellar, Enterprise briefing room <courtroom>, Enterprise corridor, Enterprise turbolift, Enterprise transporter room, courtroom
 
@@ -5025,12 +4803,6 @@ facing a mortal enemy [crew facing Nomad],
 mysterious maker alien race [Tan Ru makers] <Tan Ru makers>,
 grief [crew for Scotty],
 anti-gravity technology [Nomad carried to the transporter room on an anti-grav trolley],
-
-:: Source ID
-tos2x08
-
-:: Episode Title
-The Changeling
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise auxiliary control, Enterprise corridor, Enterprise briefing room, Enterprise sickbay, Enterprise brig, Enterprise engineering
@@ -5160,12 +4932,6 @@ alien customs [Vaalians],
 flirtation [Chekov had his sights set on Landon.] <Chekov/Martha Landon>,
 kindness [Vaalians],
 free inquiry vs. obedience [Vaal suppressed free inquiry],
-
-:: Source ID
-tos2x09
-
-:: Episode Title
-The Apple
 
 :: Settings
 jungle clearing, Enterprise bridge, stone age village, cavern entrance, hut, Enterprise corridor, xeric scrubland
@@ -5302,12 +5068,6 @@ what if I met my double [good-Kirk and evil-Kirk] <Kirk>,
 telepathy [Mirror Universe Spock performed a mind meld on McCoy.],
 what if I could read minds [Mirror Universe Spock performed a mind meld on McCoy.], 
 
-:: Source ID
-tos2x10
-
-:: Episode Title
-Mirror, Mirror
-
 :: Settings
 woodland glade [Halkan homeworld], Enterprise bridge, Enterprise transporter room, Enterprise corridor, Enterprise sickbay, Enterprise main phaser power control, Enterprise turbolift, Enterprise Kirk's quarters, Enterprise brig, Enterprise engineering, Enterprise Spock's quarters, Enterprise Jefferies tube
 
@@ -5429,12 +5189,6 @@ young and old romance [Kirk and Janet] <Janet Wallace/Kirk>,
 anger [Kirk had rambling outburst] <Kirk>,
 grief [Kirk for Galway] <Kirk>,
 what it is like in a legal proceeding [Krik's competency hearing],
-
-:: Source ID
-tos2x11
-
-:: Episode Title
-The Deadly Years
 
 :: Settings
 settlement, building entrance, Enterprise sickbay, Enterprise briefing room, Enterprise bridge, Enterprise Kirk's quarters, Enterprise McCoy's office, Enterprise corridor, Enterprise bio-lab
@@ -5595,12 +5349,6 @@ mysterious maker alien race [android makers] <Mudd's Androids' Makers>,
 coping with a nag [Mudd with wife] <Harry Mudd>,
 ennui [Mudd on planet] <Harry Mudd>,
 
-:: Source ID
-tos2x12
-
-:: Episode Title
-I, Mudd
-
 :: Settings
 Enterprise corridor, Enterprise auxiliary control, Enterprise bridge, Enterprise engineering, cavern, throne room, living area, Planet Mudd computer room, science lab
 
@@ -5720,12 +5468,6 @@ love of a pet [Uhura and McCoy of tribbles] <Uhura, McCoy>,
 the nature of cuteness [McCoy discussed why he likes tribbles],
 laziness [Tribbles] <Tribble>,
 loyalty to a leader [Kirk was disappointed that Scotty did not defend his integrity in the bar] <Scotty>,
-
-:: Source ID
-tos2x13
-
-:: Episode Title
-The Trouble with Tribbles
 
 :: Settings
 Enterprise briefing room, Enterprise bridge, Deep Space Station K-7 office, Deep Space Station K-7 bar, Enterprise recreation room, Enterprise corridor, Enterprise sickbay, Enterprise transporter room, Deep Space Station storage room
@@ -5859,12 +5601,6 @@ cruelty [Claudius Marcus] <Claudius Marcus>,
 ruthlessness [Claudius Marcus] <Claudius Marcus>,
 sadism [Claudius Marcus] <Claudius Marcus>,
 imperialistic society [space Roman society],
-
-:: Source ID
-tos2x14
-
-:: Episode Title
-Bread and Circuses
 
 :: Settings
 Enterprise bridge, hillside, cavern entrance, cavern, countryside, jail cell, Roman style chamber, arena
@@ -6005,12 +5741,6 @@ coping with a loved one being in peril [Spock and Amanda at Sarek] <Spock, Amand
 anger [Tellarite at banquet] <Gav>,
 compassion [Spock donating blood to Sarek] <Spock>,
 
-:: Source ID
-tos2x15
-
-:: Episode Title
-Journey to Babel
-
 :: Settings
 Enterprise Kirk's quarters, Enterprise corridor, Enterprise hangar deck, Enterprise engineering, Enterprise reception room, Enterprise bridge, Enterprise Sarek's quarters, Enterprise sickbay, Enterprise McCoy's office, Enterprise brig, Enterprise Spock's quarters
 
@@ -6138,12 +5868,6 @@ grief [Tyree for Nona] <Tyree>,
 humility [Tyree] <Tyree>,
 kindness [Tyree] <Tyree>,
 
-:: Source ID
-tos2x16
-
-:: Episode Title
-A Private Little War
-
 :: Settings
 countryside [Neural], rocky outcrop, Enterprise transporter room, Enterprise bridge, Enterprise sickbay, tented encampment, cavern, mountainside, medieval village, building entrance, forge
 
@@ -6267,12 +5991,6 @@ cruelty [Gamesters] <Provider 1, Provider 2, Provider 3>,
 fortitude [Kirk in opposing Gamesters] <Kirk>,
 laziness [Gamesters] <Provider 1, Provider 2, Provider 3>,
 fear [Uhura at attempted rape] <Uhura>,
-
-:: Source ID
-tos2x17
-
-:: Episode Title
-The Gamesters of Triskellion
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, arena, holding cell, ancient ruins, cavern
@@ -6400,12 +6118,6 @@ trust [Spock and McCoy in Kirk] <Spock, McCoy>,
 trust in intentions vs. trust in judgement [Spock and McCoy in Kirk] <Spock, McCoy>,
 freezing up in a critical moment [Garrovick in confrontation with creature] <Garrovick (Ensign)>,
 
-:: Source ID
-tos2x18
-
-:: Episode Title
-Obsession
-
 :: Settings
 rocky landscape, Enterprise McCoy's office, Enterprise bridge, Enterprise briefing room, Enterprise Kirk's quarters, Enterprise Garrovick's quarters, Enterprise corridor, Enterprise transporter room
 
@@ -6513,12 +6225,6 @@ clash of wills [Spock and McCoy] <Spock/McCoy>,
 working together under stress [crew in the face of almost certain death at the hands of the giant space amoeba],
 fortitude [Spock for suicide mission] <Spock>,
 
-:: Source ID
-tos2x19
-
-:: Episode Title
-The Immunity Syndrome
-
 :: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise engineering, Enterprise McCoy's office, Enterprise briefing room, Enterprise bio-lab, Enterprise Kirk's quarters, Enterprise corridor, shuttlecraft
 
@@ -6624,12 +6330,6 @@ arms trade [mob bosses want heaters],
 ruthlessness [mob bosses] <Bela Okmyx, Jojo Krako>,
 anger [Krako] <Jojo Krako>,
 rule by strength of arm [Space Gangsters] <Sigma Iotian>,
-
-:: Source ID
-tos2x20
-
-:: Episode Title
-A Piece of the Action
 
 :: Settings
 Enterprise bridge, Enterprise turbolift, Enterprise transporter room, American 1920s era city street, office, warehouse, American 1920s era alleyway, radio station, boarding room
@@ -6761,12 +6461,6 @@ gluttony [Tomar, who had not know the joys of eating, pigged out on food from th
 hedonism [Andromedans wrt. food, sex and booze and violence] <Rojan, Kelinda, Hanar, Tomar>,
 anger [Rojan at Kirk] <Rojan>,
 inebriated interaction [Scotty and Tomar get hammered on scotch] <Scotty, Tomar>,
-
-:: Source ID
-tos2x21
-
-:: Episode Title
-By Any Other Name
 
 :: Settings
 alien landscape, Enterprise bridge, Enterprise life support, Enterprise engineering, cavern <holding cell>, Enterprise sickbay, Enterprise medical lab, Enterprise corridor, Enterprise turbolift, Enterprise recreation room, Enterprise Scotty's quarters, Enterprise Kelinda's quarters
@@ -6906,12 +6600,6 @@ vanity [Thalassa about desire for humanoid body] <Thalassa>,
 compassion vs. self-preservation [help the aliens by lending bodies],
 telepathy [The god-like aliens could communicate telepathically.],
 
-:: Source ID
-tos2x22
-
-:: Episode Title
-Return to Tomorrow
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, subterranean chamber, Enterprise briefing room, Enterprise sickbay, Enterprise pharmacy, Enterprise bio-lab, Enterprise McCoy's office
 
@@ -7036,12 +6724,6 @@ grief [Zeons for lost comrades],
 sadism [torture],
 tyranny vs. freedom [Zeon liberation movement],
 coping with wearing tight boots [McCoy complained that his Nazi boots we too tight fitting.] <McCoy>,
-
-:: Source ID
-tos2x23
-
-:: Episode Title
-Patterns of Force
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, German 1930s city street, building entrance, interrogation room, jail cell, corridor, laboratory, cavern hideout, cloakroom, broadcast booth, reception room, hallway, sewer
@@ -7179,12 +6861,6 @@ grief [lots of casualties] <Kirk>,
 personal conviction [Daystrom and Kirk] <Kirk, Richard Daystrom>,
 machine learning [Daystrom explains the M-5 learns like a child does],
 
-:: Source ID
-tos2x24
-
-:: Episode Title
-The Ultimate Computer
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise turbolift, Enterprise corridor, Enterprise engineering, Enterprise Kirk's quarters, Enterprise briefing room, Enterprise Jefferies tube, Lexington bridge, Enterprise sickbay
 
@@ -7298,12 +6974,6 @@ human body composition [McCoy states],
 annihilation by WMDs [Yang and Kohm ancestors nearly went extinct from WMDs] <Kohms of Omega IV, Yangs of Omega IV>,
 coping with the death of one's entire crew [Ron Tracy] <Ron Tracy>,
 
-:: Source ID
-tos2x25
-
-:: Episode Title
-The Omega Glory
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, Exeter engineering, Enterprise corridor, Exeter bridge, medieval village, forge, storage room, meeting hall
 
@@ -7415,12 +7085,6 @@ super spy pen [Gary had a cool pen],
 sentient computer [Gary's computer the Beta 5] <Beta 5 computer>,
 cooperation [landing party must cooperate with Gary],
 alien abduction [Gary Seven by providers] <Gary Seven's Providers>,
-
-:: Source ID
-tos2x26
-
-:: Episode Title
-Assignment: Earth
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise McCoy's office, Enterprise briefing room, Enterprise brig, upscale 1960s era office, American 1960s era city street, military base, rocket gantry, launch control room, check point
@@ -7542,12 +7206,6 @@ what if I met an historical figure [Kirk meets Earps and Doc Holliday] <Kirk, Do
 coping with the death of a subordinate [Kirk at Chekov] <Kirk>,
 coping with the death of a colleague [landing party with Chekov] <Kirk, Spock, McCoy, Scotty>,
 ruthlessness [Melkotians],
-
-:: Source ID
-tos3x01
-
-:: Episode Title
-Spectre of the Gun
 
 :: Settings
 Enterprise bridge, Wild West town street, saloon, Wild West doctor's office, impenetrable fog, sheriff's office, corral
@@ -7688,12 +7346,6 @@ anger [Petri to Elaan after stabbing and Elaan was generally an angry person] <P
 hospitality [Kirk to aliens] <Kirk>,
 kindness [Kirk to Elaan at first] <Kirk>,
 vanity [Elaan] <Elaan>,
-
-:: Source ID
-tos3x02
-
-:: Episode Title
-Elaan of Troyius
 
 :: Settings
 Enterprise Uhura's quarters, Enterprise engineering, Enterprise sickbay, Enterprise bridge, Enterprise turbolift, Enterprise corridor, Enterprise medical lab
@@ -7836,12 +7488,6 @@ pleasure in nature [Kirk with self-hug in the midst of Amerind nature],
 telepathy [Spock performed a mind meld on Kirk.],
 what if I could read minds [Spock performed a mind meld on Kirk.],
 
-:: Source ID
-tos3x03
-
-:: Episode Title
-The Paradise Syndrome
-
 :: Settings
 wigwam, Enterprise bridge, Enterprise engineering, woodland, obelisk control room, obelisk exterior, tepee encampment
 
@@ -7961,12 +7607,6 @@ military secrecy [The crew was not informed of secret mission into Neutral Zone.
 coping with a bad boss [crew at Kirk at the beginning],
 facing a mortal enemy [good guys face Romulans],
 appearance altering technology [Kirk surgically altered to look like a Romulan] <Kirk>,
-
-:: Source ID
-tos3x04
-
-:: Episode Title
-The Enterprise Incident
 
 :: Settings
 Enterprise bridge, Enterprise briefing room, Enterprise transporter room, Romulan vessel ready room, Romulan vessel security room, Enterprise sickbay, Romulan vessel corridor, Romulan vessel captain's quarters, Romulan vessel bridge, Enterprise engineering, Enterprise turbolift
@@ -8102,12 +7742,6 @@ kindness [Christine for children] <Christine>,
 patience [Kirk with children] <Kirk>,
 ruthlessness [Gorgon] <Gorgon>,
 
-:: Source ID
-tos3x05
-
-:: Episode Title
-And the Children shall Lead
-
 :: Settings
 rocky wasteland, cavern, Enterprise arboretum, Enterprise bridge, Enterprise Kirk's quarters, Enterprise engineering, Enterprise transporter room, Enterprise corridor, Enterprise auxiliary control
 
@@ -8216,12 +7850,6 @@ pain belt [Eymorg used on the cavemen],
 coping with a loved one being terminally ill [Kirk with a brainless Spock] <Kirk>,
 friendship [Kirk and Spock's friendship featured] <Kirk/Spock>,
 matriarchy vs. patriarchy [Eymorg vs. Morg],
-
-:: Source ID
-tos3x06
-
-:: Episode Title
-Spock's Brain
 
 :: Settings
 Enterprise bridge, snowy landscape, cavern, subterranean complex, detention cell, control room
@@ -8348,12 +7976,6 @@ anger [Marvick and Spock] <Spock, Larry Marvick>,
 reclusiveness [Miranda] <Miranda Jones>,
 facing a ship takeover [Enterprise taken over by Larry Marvick and commandeered out of the galaxy],
 
-:: Source ID
-tos3x07
-
-:: Episode Title
-Is there no Truth in Beauty?
-
 :: Settings
 Enterprise transporter room, Enterprise corridor, Enterprise Kollos' quarters, Enterprise reception room, Enterprise turbolift, Enterprise auxiliary control, Enterprise bridge, Enterprise arboretum, Enterprise sickbay
 
@@ -8476,12 +8098,6 @@ coping with being tortured [landing party] <Kirk, Spock, McCoy>,
 sadness [all for McCoy] <Gem, Kirk, Spock>,
 fear [all of torture chamber] <Gem, Kirk, Spock, McCoy>,
 
-:: Source ID
-tos3x08
-
-:: Episode Title
-The Empath
-
 :: Settings
 alien lab, cavern, rocky landscape, research facility, torture chamber, cavern entrance, Enterprise bridge, xeric scrubland
 
@@ -8595,12 +8211,6 @@ human vs. space anomaly [crew vs. interspace],
 charting unknown territory [Enterprise ventured into unknown space to rescue starship],
 anger [McCoy at Spock] <McCoy>,
 personal conviction [Spock in command] <Spock>,
-
-:: Source ID
-tos3x09
-
-:: Episode Title
-The Tholian Web
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, Defiant bridge, Defiant engineering, Defiant sickbay, Enterprise medical lab, Enterprise sickbay, Enterprise auxiliary control, Enterprise memorial service room, Enterprise Kirk's quarters, Enterprise Uhura's quarters
@@ -8725,12 +8335,6 @@ compassion [all for McCoy],
 kindness [just a tiny little pain implant and you are welcome],
 sadness [all for McCoy],
 the ethics of interfering in less advanced societies [Spock raised the possibility that interfering with the Yonadans by deflecting their asteroid ship from hitting planet would violate the Prime Directive],
-
-:: Source ID
-tos3x10
-
-:: Episode Title
-For the World is Hollow and I have Touched the Sky
 
 :: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise transporter room, rocky wasteland, oracle chamber, antechamber
@@ -8863,12 +8467,6 @@ hatred [Chekov for Klingons] <Chekov>,
 mercy [Kirk for Klingons] <Kirk>,
 patience [Kirk for Klingons] <Kirk>,
 pain buzzer [Klingon used on Chekov],
-
-:: Source ID
-tos3x11
-
-:: Episode Title
-Day of the Dove
 
 :: Settings
 rocky wasteland, Enterprise bridge, Enterprise transporter room, Enterprise corridor, Enterprise turbolift, Enterprise auxiliary control, Enterprise Klingon quarters, Enterprise sickbay, Enterprise armory
@@ -9020,12 +8618,6 @@ humility [Alexander] <Alexander>,
 kindness [Alexander] <Alexander>,
 laziness [Platonians],
 
-:: Source ID
-tos3x12
-
-:: Episode Title
-Plato's Stepchildren
-
 :: Settings
 Enterprise bridge, courtyard, throne room, palace chamber, theater
 
@@ -9165,12 +8757,6 @@ coping with the death of a subordinate [Kirk at redshirt] <Kirk>,
 grief [Kirk over redshirt] <Kirk>,
 anger [Rael] <Rael>,
 
-:: Source ID
-tos3x13
-
-:: Episode Title
-Wink of an Eye
-
 :: Settings
 Enterprise bridge, futuristic cityscape, Enterprise sickbay, Enterprise corridor, Enterprise environmental engineering, Enterprise medical lab, Enterprise transporter room, Enterprise Kirk's quarters
 
@@ -9288,12 +8874,6 @@ heroism [Scotty fixing the matter-antimatter integrator] <Scotty>,
 mysterious maker alien race [artificial planet makers] <Kalandan>,
 coping with the death of a subordinate [Kirk at D'Amato] <Kirk>,
 coping with the death of a colleague [Landing party at D'Amato] <Kirk, McCoy, Sulu>,
-
-:: Source ID
-tos3x14
-
-:: Episode Title
-That which Survives
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, alien landscape, Enterprise sickbay, Enterprise auxiliary control, Enterprise Jefferies tube, Enterprise engineering, subterranean chamber
@@ -9421,12 +9001,6 @@ anger [Lokai and Bele at each other] <Bela, Lokai>,
 extradition [Bele requests Lokai be extradited],
 demagoguery [Lokai] <Lokai>,
 facing a ship takeover [Enterprise taken over by Bele in an effort to return hoe with Lokai],
-
-:: Source ID
-tos3x15
-
-:: Episode Title
-Let that be your Last Battlefield
 
 :: Settings
 Enterprise bridge, Enterprise hangar deck, Enterprise turbolift, Enterprise corridor, Enterprise sickbay, Enterprise auxiliary control, Enterprise recreation room, Enterprise transporter room
@@ -9556,12 +9130,6 @@ anger [Garth temper tantrum] <Garth of Izar>,
 sadism [Garth executes Orion woman] <Garth of Izar>,
 sadness [Kirk for the man Garth once was] <Kirk>,
 
-:: Source ID
-tos3x16
-
-:: Episode Title
-Whom Gods Destroy
-
 :: Settings
 holding cell, prison aisle, Elba II control room, Enterprise bridge, banquet room, bedroom, throne room, rocky landscape
 
@@ -9690,12 +9258,6 @@ the lust for gold [Odona desired Kirk for his huge ... ship] <Odona>,
 exponential growth [the population growth],
 federalism [Gideon sought membership in Federation],
 
-:: Source ID
-tos3x17
-
-:: Episode Title
-The Mark of Gideon
-
 :: Settings
 council chamber, Enterprise corridor, Enterprise bridge, Enterprise transporter room, Enterprise engineering, Enterprise sickbay, Enterprise recreation room, bedroom
 
@@ -9804,12 +9366,6 @@ telepathy [The Zetarians were telepathic.],
 collectively intelligent beings [Zetarians] <Zetarian Cloud Entity>,
 laziness [Scotty for Mira disgustingly] <Scotty>,
 compassion [Scotty for Mira] <Scotty>,
-
-:: Source ID
-tos3x18
-
-:: Episode Title
-The Lights of Zetar
 
 :: Settings
 Enterprise bridge, Enterprise briefing room, Enterprise auxiliary control, Enterprise sickbay, Memory Alpha control room, Enterprise transporter room, Enterprise corridor, Enterprise medical lab
@@ -9939,12 +9495,6 @@ vandalism [Troglyte destroyed work of art],
 clash of wills [Kirk/Plasus] <Kirk/Plasus>,
 what if I had to fight to the death [Kirk and Plasus] <Kirk>,
 
-:: Source ID
-tos3x19
-
-:: Episode Title
-The Cloud Minders
-
 :: Settings
 Enterprise bridge, cavern entrance, cavern, rocky wasteland, council chamber, art gallery, Ardana Kirk's quarters, Enterprise transporter room, holding cell, torture chamber
 
@@ -10066,12 +9616,6 @@ personal conviction [space hippies],
 trust [space hippies in Severin],
 trust in a leader [space hippies in Severin],
 irreverence [space hippies],
-
-:: Source ID
-tos3x20
-
-:: Episode Title
-The Way to Eden
 
 :: Settings
 Enterprise bridge, Enterprise auxiliary control, Enterprise hangar deck, Enterprise transporter room, Enterprise sickbay, Enterprise recreation room, Enterprise brig, Enterprise Spock's quarters, Enterprise corridor, woodland
@@ -10218,12 +9762,6 @@ hospitality [Flint to landing party] <Flint>,
 autonomous sentient tool [M-4] <M-4>,
 telepathy [Spock sent a telepathic transmission to Kirk to make him forget his love for Rayna.],
 
-:: Source ID
-tos3x21
-
-:: Episode Title
-Requiem for Methuselah
-
 :: Settings
 Enterprise bridge, xeric scrubland, Flint's drawing room, laboratory, Enterprise Kirk's quarters
 
@@ -10357,12 +9895,6 @@ patience [Surak] <Surak>,
 personal conviction [Surak] <Surak>,
 sadism [Col. Green tortures Surak] <Philip Green>,
 
-:: Source ID
-tos3x22
-
-:: Episode Title
-The Savage Curtain
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, rocky landscape, Enterprise briefing room
 
@@ -10479,12 +10011,6 @@ the need for companionship [McCoy explained women need it],
 supernova [Sarpeidon on verge of being destroyed by supernova],
 the killing of animals [Spock consumed flesh and enjoyed it],
 anger [Spock at McCoy] <Spock>,
-
-:: Source ID
-tos3x23
-
-:: Episode Title
-All our Yesterdays
 
 :: Settings
 futuristic library, English 17th century era city street, cavern, English 17th century era jail cell, frozen wasteland, cliff face
@@ -10616,12 +10142,6 @@ anger [Janice has temper tantrum] <Janice Lester>,
 what it is like in a legal proceeding [Janice Lester in the body of Kirk at competency hearing],
 telepathy [Spock performed a mind meld on Janet Lester's body with Kirk's mind in it.],
 what if I could read minds [Spock performed a mind meld on Janet Lester's body with Kirk's mind in it.],
-
-:: Source ID
-tos3x24
-
-:: Episode Title
-Turnabout Intruder
 
 :: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise corridor, Enterprise brig, Enterprise transporter room, Enterprise Kirk's quarters, Enterprise McCoy's office, Enterprise courtroom, Enterprise medical lab, subterranean chamber

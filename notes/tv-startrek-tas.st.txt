@@ -78,12 +78,6 @@ extinct interstellar civilization [insectoid aliens] <Ancient Insectoid Species>
 insectoid being [insectoid aliens] <Ancient Insectoid Species>,
 incorporeal being [magnetic being] <Magnetic Organism>,
 
-:: Source ID
-tas1x01
-
-:: Episode Title
-Beyond The Farthest Star
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, Ancient Inscetoid spaceship exterior, Ancient Insectoid spaceship control room
 
@@ -174,12 +168,6 @@ father and son [Spock and Sarek] <Sarek/Spock>,
 paternal love [Spock's parents toward him] <Sarek, Amanda Grayson>,
 human vs. nature [young Spock in desert] <Spock (young)>,
 
-:: Source ID
-tas1x02
-
-:: Episode Title
-Yesteryear
-
 :: Settings
 Enterprise transporter room, Enterprise briefing room, desert landscape, Sarek's living room, courtyard, bedroom, rocky wasteland, ancient ruins
 
@@ -268,12 +256,6 @@ universal translation device [used to communicate with cosmic cloud],
 telepathy [Spock mind melded with the cloud entity.],
 what if I could read minds [Spock mind melded with the cloud entity.],
 
-:: Source ID
-tas1x03
-
-:: Episode Title
-One of our Planets is Missing
-
 :: Settings
 Enterprise bridge, Enterprise engineering, Enterprise Kirk's quarters, Enterprise transporter room
 
@@ -361,12 +343,6 @@ matriarchy [female dominated planet],
 :: Minor Themes
 telekinesis [women used telekinesis],
 life force draining headband [the women used a headband device to drain energy],
-
-:: Source ID
-tas1x04
-
-:: Episode Title
-The Lorelei Signal
 
 :: Settings
 Enterprise bridge, Enterprise McCoy's office, temple, slumber chamber, Enterprise sickbay, Enterprise transporter room, garden, urn interior
@@ -467,12 +443,6 @@ facing a vermin infestation [Tribbles on Enterprise; Glommers on Klingon vessel]
 ecology [Tribbles as invasive species],
 duty vs. self-preservation [save the ship vs. save the grain],
 
-:: Source ID
-tas1x05
-
-:: Episode Title
-More Trouble, More Tribbles
-
 :: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise medical lab, Klingon vessel bridge, Enterprise corridor
 
@@ -555,12 +525,6 @@ old flames [Winston and Anne Nored] <Carter Winston/Anne Nored>,
 coping with romantic rejection [Anne Nored by Carter Winston] <Anne Nored>,
 the scientific method [McCoy about Winston's medical tests],
 facing a mortal enemy [crew face Romulans],
-
-:: Source ID
-tas1x06
-
-:: Episode Title
-The Survivor
 
 :: Settings
 Enterprise transporter room, Enterprise briefing room, Enterprise sickbay, Enterprise Kirk's quarters, Enterprise bridge, Enterprise turbolift, Enterprise McCoy's office, Enterprise corridor, Enterprise medical lab, Enterprise engineering
@@ -653,12 +617,6 @@ obsession with a life-dedicated project [Keniclius] <Stavos Keniclius 5>,
 xenophobia in society [Phylosians paranoid of strangers],
 alien brought pandemic [pandemic almost wiped out phylosians],
 telepathy [Spock mind melded with the giant Spock.],
-
-:: Source ID
-tas1x07
-
-:: Episode Title
-The Infinite Vulcan
 
 :: Settings
 alien landscape, building entrance, Enterprise bridge, Enterprise engineering, Enterprise transporter room, launch complex, tunnel, control room, alien lab
@@ -761,12 +719,6 @@ alternate points of view [Devil and humans],
 the Salem witch trials [The Megans, we learned, were forced to leave Earth after they were persecuted as witches during these trials.],
 witch-hunt [The Megans, we learned, were forced to leave Earth after they were persecuted as witches during these trials.],
 
-:: Source ID
-tas1x08
-
-:: Episode Title
-The Magicks of Megas-tu
-
 :: Settings
 Enterprise bridge, Enterprise engineering, woodland glade, Enterprise Spock's quarters, New England 18th century era town, netherworld, futuristic cityscape
 
@@ -860,12 +812,6 @@ human vs. sentient machine [landing party vs. master computer],
 
 :: Minor Themes
 
-:: Source ID
-tas1x09
-
-:: Episode Title
-Once Upon a Planet
-
 :: Settings
 countryside, woodland, Enterprise transporter room, Enterprise bridge, control room, cavern, Enterprise engineering, Amusement Planet computer room, Enterprise shuttle bay, cavern entrance
 
@@ -948,12 +894,6 @@ human vs. beast [Kirk and friends battle giant desert worm] <Kirk, Spock, Christ
 desire vs. conscience [Christine with using love potion on Spock] <Christine>,
 habitable planet in a binary star system [some M class planet or another] <unnamed M class planet in binary star system>,
 coping with a bad hangover [Scotty] <Scotty>,
-
-:: Source ID
-tas1x10
-
-:: Episode Title
-Mudd's Passion
 
 :: Settings
 Enterprise bridge, Enterprise transporter room, Enterprise brig, Enterprise corridor, Enterprise Spock's quarters, Enterprise shuttle bay, Enterprise recreation room, rocky wasteland [Motherlode], outdoor stage
@@ -1040,12 +980,6 @@ desperation [Terratins],
 volcanic cataclysm [Terratin city was next to active volcano],
 supernova [Enterprise was investigating burnt out supernova],
 
-:: Source ID
-tas1x11
-
-:: Episode Title
-The Terratin Incident
-
 :: Settings
 Enterprise bridge, Enterprise engineering, Enterprise medical lab, Enterprise sickbay, volcanic wasteland, futuristic cityscape, Enterprise transporter room, volcanic wasteland
 
@@ -1126,12 +1060,6 @@ what if I could never go home [Enterprise crew trapped in Delta Triangle],
 human vs. space anomaly [crew vs. Bermuda space triangle],
 
 :: Minor Themes
-
-:: Source ID
-tas1x12
-
-:: Episode Title
-The Time Trap
 
 :: Settings
 Enterprise bridge, Klingon vessel bridge, council chamber, Enterprise briefing room, Klingon vessel briefing room, Enterprise recreation room
@@ -1219,12 +1147,6 @@ xenophobia in society [Aquan elders were paranoid about outsiders],
 alien point of view [Spoculation about how the sea-men find humans grotesque],
 genetic engineering [Genetic engineering used to give Kirk gills.],
 genetically engineered person [Genetic engineering used to give Kirk gills.],
-
-:: Source ID
-tas1x13
-
-:: Episode Title
-The Ambergris Element
 
 :: Settings
 shuttlecraft, Enterprise bridge, rocky wasteland, open ocean, aquarium, sea floor, council chamber, sunken ruins, shoreline, cavern
@@ -1314,12 +1236,6 @@ sexism in society [Kzinti men assumed Uhura was a mindless female],
 vegetarianism [Spock's vegetarianism featured] <Spock>,
 the killing of animals [Spock's vegetarianism featured],
 
-:: Source ID
-tas1x14
-
-:: Episode Title
-The Slaver Weapon
-
 :: Settings
 shuttlecraft, frozen wasteland, holding cell, cavern
 
@@ -1408,12 +1324,6 @@ terraforming [Lactrans terraformed their planet to have varied habitats],
 terraformed planet [Lactran homeworld] <Lactra VII>,
 telepathic society [slugs communicated using telepathy],
 
-:: Source ID
-tas1x15
-
-:: Episode Title
-The Eye of the Beholder
-
 :: Settings
 Enterprise briefing room, Enterprise transporter room, desert landscape, woodland glade, futuristic cityscape, alien house, Enterprise bridge, shoreline, futuristic zoo, display cage
 
@@ -1492,12 +1402,6 @@ clash of wills [Spock and Lara] <Spock/Lara>,
 leadership [Kirk chosen for mission because of his leadership skills] <Kirk>,
 coping with unwelcome romantic attention [Kirk with Lara] <Kirk>,
 flirtation [Kirk and Lara] <Kirk/Lara>,
-
-:: Source ID
-tas1x16
-
-:: Episode Title
-The Jihad
 
 :: Settings
 Enterprise transporter room, woodland glade, volcanic wasteland, temple, frozen wasteland
@@ -1578,12 +1482,6 @@ trust in a potential foe [Kirk must trust Orion captain to pick up medicine] <Ki
 :: Minor Themes
 diplomatic negotiating [Kirk with Orions],
 asteroid belt [Enterprise navigated through],
-
-:: Source ID
-tas2x01
-
-:: Episode Title
-The Pirates of Orion
 
 :: Settings
 Enterprise bridge, Enterprise sickbay, Enterprise briefing room, Huron bridge, Huron cargo bay, Enterprise McCoy's office, Orion vessel bridge, alien landscape, Enterprise transporter room
@@ -1673,12 +1571,6 @@ coping with an incompetent coworker [crew with BEM; especially Kirk and Scotty] 
 :: Minor Themes
 shame [Bem] <Ari bn Bem>,
 
-:: Source ID
-tas2x02
-
-:: Episode Title
-Bem
-
 :: Settings
 Enterprise briefing room, Enterprise transporter room, jungle clearing, stone age village
 
@@ -1757,12 +1649,6 @@ human vs. sentient machine [crew vs. Enterprise computer],
 virtual reality room [holodeck employed for the first time] <holodeck>,
 human vs. nature [McCoy in the arctic] <McCoy>,
 getting a taste of one's own medicine [the joker],
-
-:: Source ID
-tas2x03
-
-:: Episode Title
-The Practical Joker
 
 :: Settings
 Enterprise bridge, Enterprise engineering, Enterprise officer's mess, Enterprise corridor, Enterprise recreation room, Enterprise computer room, Romulan vessel bridge, Enterprise holodeck <woodland glade; lakeshore; frozen wasteland; hedge maze>, woodland glade, shoreline, frozen wasteland, hedge maze
@@ -1845,12 +1731,6 @@ genocide [McCoy was accused of committing],
 when in Rome [landiang parrty observe Dramian customs],
 medical etiology [cause of auroral plague investigated],
 what it is like in a legal proceeding [sneaking of to the planet, tricking the stowaway...],
-
-:: Source ID
-tas2x04
-
-:: Episode Title
-Albatross
 
 :: Settings
 futuristic cityscape, Enterprise bridge, hall of justice, holding cell, Enterprise engineering, Enterprise transporter room, cavern entrance, cavern, Enterprise sickbay, ancient ruins
@@ -1943,12 +1823,6 @@ human vs. captivity [away team held captive by Kukulkan],
 :: Minor Themes
 simulated reality [Kukulkan kept his captives doscile by placing them in simulated realities],
 
-:: Source ID
-tas2x05
-
-:: Episode Title
-How Sharper Than a Serpant's Tooth
-
 :: Settings
 Enterprise bridge, Enterprise McCoy's office, Enterprise sickbay, blue void, ancient ruins, Aztec temple, alien lab, jungle clearing
 
@@ -2031,12 +1905,6 @@ mandatory retirement [Robert April faced],
 :: Minor Themes
 old-age love [Robert and Sarah] <Robert April/Sarah April>,
 old-age romance [Robert and Sarah] <Robert April/Sarah April>,
-
-:: Source ID
-tas2x06
-
-:: Episode Title
-The Counter-Clock Incident
 
 :: Settings
 Enterprise bridge, Enterprise engineering, Enterprise briefing room, Enterprise transporter room, alien lab
