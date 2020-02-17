@@ -103,12 +103,6 @@ jealousy [Data at Riker for having emotions] <Data>,
 ruthlessness [Q] <Q>,
 sadism [Q in courtroom] <Q>,
 
-:: Source ID
-tng1x01
-
-:: Episode Title
-Encounter at Farpoint
-
 :: Settings
 Enterprise-D engineering, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D battle bridge, courtroom, chamber, xeric scrubland, town square, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D observation lounge, Enterprise-D sickbay, Enterprise-D turbolift, chamber, Enterprise-D holodeck <woodland>, woodland, underground tunnel, Enterprise-D Beverly's office, Space Jellyfish corridor, Enterprise-D holodeck
 
@@ -205,12 +199,6 @@ Encounter at Farpoint
 
 :: Genre
 
-:: Source ID
-tng1x02
-
-:: Episode Title
-Encounter at Farpoint
-
 :: Settings
 
 :: Deaths
@@ -290,12 +278,6 @@ working together under stress [crew under influences of polywater and race again
 maternal love [Beverly to Wesley] <Beverly>,
 facing a ship takeover [Wesley from Engineering],
 flirtation [Picard and Beverly] <Picard/Beverly>,
-
-:: Source ID
-tng1x03
-
-:: Episode Title
-The Naked Now
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D Beverly's office, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D Beverly's quarters, Enterprise-D engineering, Enterprise-D Tasha's quarters <dimly lit room>, Enterprise-D Troi's quarters <bathroom>, Enterprise-D science lab, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, dimly lit room, bathroom
@@ -425,12 +407,6 @@ anger [Yareena in fight to death] <Yareena>,
 hospitality [Lutan entertains landing party in his common space] <Lutan>,
 vanity [Lutan] <Lutan>,
 
-:: Source ID
-tng1x04
-
-:: Episode Title
-Code of Honor
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <dojo>, dojo, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D transporter room, Enterprise-D turbolift, banquet room, living room, great hall, arena
 
@@ -527,12 +503,6 @@ knowing when to fight and when not to fight [Portal 6-3 conveys this knowledge t
 supernova [supernova ended Tkon empire],
 mysterious maker alien race [Tkon empire] <Tkon>,
 magnanimity in victory [Riker refrains from having Ferengi destroyed by Guardian] <Riker>,
-
-:: Source ID
-tng1x05
-
-:: Episode Title
-The Last Outpost
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <emergency shelter; meeting room>, Enterprise-D briefing room, Enterprise-D transporter room, alien landscape, emergency shelter, meeting room
@@ -646,12 +616,6 @@ humility [Traveler] <The Traveler>,
 kindness [Traveler] <The Traveler>,
 filial love [Picard to mother] <Picard>,
 
-:: Source ID
-tng1x06
-
-:: Episode Title
-Where No One Has Gone Before
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D sickbay, sewer
 
@@ -759,12 +723,6 @@ conflict of moral codes [Selay refusing to be eaten by the Anticans and humans w
 alien customs [Antican meat eating habits],
 flirtation [Picard and Beverly] <Picard/Beverly>,
 federalism [Selay and Anticans seek membership in Federation],
-
-:: Source ID
-tng1x07
-
-:: Episode Title
-Lonely Among Us
 
 :: Settings
 Enterprise-D bridge, Enterprise-D sensor maintenance room, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Badar NDD's quarters <dimly lit room>, Enterprise-D Beverly's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D Riker's quarters, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D transporter room, dimly lit room
@@ -891,12 +849,6 @@ generosity [the Edo] <Liator, Rivan>,
 mercy [there was mercy in the end],
 the ethics of interfering in less advanced societies [Picard weighs violating Prime Directive to save Wesley] <Picard>,
 
-:: Source ID
-tng1x08
-
-:: Episode Title
-Justice
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D starboard lounge, council chamber, garden
 
@@ -1002,12 +954,6 @@ future point of view [common cold is cured],
 android [Data performed various android feats] <Data, Soong Type Android>,
 coping with the death of a child [Bok at son] <Bok>,
 
-:: Source ID
-tng1x09
-
-:: Episode Title
-The Battle
-
 :: Settings
 Enterprise-D Picard's quarters <living room; bedroom>, Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, Stargazer bridge <smoke filled room>, Stargazer Picard's quarters, science lab, Stargazer derelict bridge, smoke filled room, living room, bedroom
 
@@ -1112,12 +1058,6 @@ saving innocent lives vs. compromising one's ethical principles [Riker about the
 seeing the error of one's ways [Riker] <Riker>,
 android [Data] <Data, Soong Type Android>,
 what if I had to fight to the death [away team and animal things] <Riker, Worf, Wesley, Tasha>,
-
-:: Source ID
-tng1x10
-
-:: Episode Title
-Hide and Q
 
 :: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, rocky wasteland, wrecked room
@@ -1239,12 +1179,6 @@ fear [Haven people],
 vanity [Lwaxana] <Lwaxana>,
 telepathy [Troi and Lwaxana were communicating telepathically at times.],
 
-:: Source ID
-tng1x11
-
-:: Episode Title
-Haven
-
 :: Settings
 Enterprise-D bridge, Enterprise-D Riker's quarters <dimly lit room>, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters, Enterprise-D Wyatt's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D banquet room, Enterprise-D holodeck <desert landscape>, desert landscape, Enterprise-D sickbay
 
@@ -1354,12 +1288,6 @@ the lust for gold [Redblock] <Cyrus Redblock>,
 cruelty [Cyrus Redblock] <Cyrus Redblock>,
 sadism [Cyrus Redblock] <Cyrus Redblock>,
 what if I found out I was a simulation [Cyrus Redblock and Felix Leech upon exiting holodeck] <Cyrus Redblock, Felix Leech>,
-
-:: Source ID
-tng1x12
-
-:: Episode Title
-The Big Goodbye
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D holodeck <world of Dixon Hill; American 1940s era office; American 1940s era hallway; American 14940s era waiting room; American 1940s era police station interrogation room; American 1940s era city sidewalk; arctic wasteland>, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, American 1940s era office, American 1940s era hallway, American 14940s era waiting room, American 1940s era police station interrogation room, American 1940s era city sidewalk, Arctic wasteland, world of Dixon Hill
@@ -1478,12 +1406,6 @@ betrayal [Lore of Data] <Lore>,
 cruelty [Lore] <Lore>,
 ruthlessness [Lore] <Lore>,
 sadism [Lore] <Lore>,
-
-:: Source ID
-tng1x13
-
-:: Episode Title
-Datalore
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Data's quarters, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D cargo bay, subterranean complex, science lab, storage area, corridor, rocky wasteland, operating theater, badlands
@@ -1614,12 +1536,6 @@ hospitality [Beata welcomes landing party, especially Riker] <Beata>,
 humility [Trent the man servant] <Trent>,
 trust in a potential foe [Beata trusts landing party to keep their word and take the fugitives] <Beata>,
 
-:: Source ID
-tng1x14
-
-:: Episode Title
-Angel One
-
 :: Settings
 campfire, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <snowy landscape>, snowy landscape, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D ready room, Enterprise-D Picard's quarters <bedroom>, executive office, great hall, cavern entrance, holding area, bedroom
 
@@ -1730,12 +1646,6 @@ mercy [Picard to Bynars at end] <Picard>,
 patience [Picard to Bynars at end] <Picard>,
 federalism [Bynars were in Federation],
 what if I found out I was a simulation [Minuet] <Minuet>,
-
-:: Source ID
-tng1x15
-
-:: Episode Title
-11001001
 
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <jazz club>, jazz club, Enterprise-D transporter room, passageway, Starbase 74 control room, Starbase 74 meeting room, Enterprise-D Data's quarters, Enterprise-D Beverly's office
@@ -1850,12 +1760,6 @@ ruthlessness [Karnas] <Karnas>,
 military dictatorship [Karnas],
 rule by strength of arm [Karnas],
 coping with a disability [Jameson in wheelchair contraption],
-
-:: Source ID
-tng1x16
-
-:: Episode Title
-Too Short a Season
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D Jameson's quarters, Enterprise-D Beverly's office, tunnel, executive office
@@ -1981,12 +1885,6 @@ boredom [child didn't want to do his calculus] <Harry Bernard Jr.>,
 sadness [parents and children] <Beverly, Harry Bernard Sr., Harry Bernard Jr.>,
 the dangers of radioactivity [Radiation had rendered the Aldeans sterile.],
 
-:: Source ID
-tng1x17
-
-:: Episode Title
-When The Bough Breaks
-
 :: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D classroom, Enterprise-D family quarters <bedroom>, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D Beverly's office, Enterprise-D transporter room, chamber <dinner table>, Aldean control room, music room, shaft, bedroom, dinner table
 
@@ -2090,12 +1988,6 @@ what is beauty [the micro brains felt the humans were ugly],
 universal translation device [used to communicate with the microbrains],
 nature conservationism [decision made to leave the planet in its present unterraformed state],
 anger [Mandl at being told operation is shutdown] <Kurt Mundl>,
-
-:: Source ID
-tng1x18
-
-:: Episode Title
-Home Soil
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D medical lab, Enterprise-D Luisa's quarters, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D observation lounge <meeting room>, meeting room, corridor, hydraulics room, control room, desert wasteland
@@ -2208,12 +2100,6 @@ conspiracy theory [Remmick was tasked to uncover conspiracy],
 fortitude [students about exam] <Wesley, Mordock, Oliana Merrin, T'Shanik>,
 humility [Mordock admits he would not have passed the test with the Zaldan] <Mordock>,
 
-:: Source ID
-tng1x19
-
-:: Episode Title
-Coming of Age
-
 :: Settings
 Enterprise-D observation lounge <interrogation room; meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D bridge, Enterprise-D holodeck <black void>, black void, Enterprise-D Admiral Quinn's quarters, Enterprise-D engineering, classroom, corridor, exam room, environmental lab, shuttlecraft, interrogation room
 
@@ -2322,12 +2208,6 @@ attitude towards the dead [Klingon death ritual],
 vision beyond the visible spectrum glasses [VISOR equipped with visual acuity transmitter] <VISOR>,
 coping with the death of a fellow compatriot [Worf with death of Klingon brethren] <Worf, Korris, Konmel>,
 alien customs [death howl],
-
-:: Source ID
-tng1x20
-
-:: Episode Title
-Heart of Glory
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Klingons' quarters <dimly lit room>, Enterprise-D brig, Enterprise-D engineering, Batris corridor <smoke filled room>, Batris engineering <smoke filled room>, Batris auxiliary control room <smoke filled room>, smoke filled room, dimly lit room
@@ -2443,12 +2323,6 @@ fear [Beverly] <Beverly>,
 fortitude [Beverly after sustaining injuries] <Beverly>,
 coping with being injured [Beverly gravely wounded in fall] <Beverly>,
 
-:: Source ID
-tng1x21
-
-:: Episode Title
-The Arsenal of Freedom
-
 :: Settings
 Enterprise-D bridge, Enterprise-D battle bridge, tunnel, cavern, ancient ruins, jungle clearing, Enterprise-D transporter room, Enterprise-D corridor
 
@@ -2555,12 +2429,6 @@ atrophied civilization [both alien races] <Brekkian, Ornaran>,
 compassion [Beverly toward Ornarans] <Beverly>,
 fear [Ornarans at prospect of loosing drug] <T'Jon, Romas>,
 generosity [prospect of giving drug as charity] <Sobi, Langor>,
-
-:: Source ID
-tng1x22
-
-:: Episode Title
-Symbiosis
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Brekkians' quarters, Enterprise-D engineering, Enterprise-D cargo bay, Enterprise-D Beverly's office, Enterprise-D Ornarans' quarters, Enterprise-D turbolift
@@ -2676,12 +2544,6 @@ kindness [Troi to Armus] <Troi>,
 fear [Armus struck terror in all],
 virtual reality room [Tasha's funeral held on holodeck] <holodeck>,
 
-:: Source ID
-tng1x23
-
-:: Episode Title
-Skin of Evil
-
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D sickbay <operating theater>, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <countryside>, countryside, Enterprise-D shuttlecraft <dimly lit room>, rocky wasteland, dimly lit room, operating theater
 
@@ -2789,12 +2651,6 @@ time travel [the time loops],
 patience [Picard swallowed his jealousy] <Picard>,
 virtual reality room [Picard moping around on holodeck] <holodeck>,
 
-:: Source ID
-tng1x24
-
-:: Episode Title
-We'll Always Have Paris
-
 :: Settings
 Enterprise-D gymnasium, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D holodeck <French café>, French café, Enterprise-D decontamination area, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Picard's quarters, Enterprise-D Beverly's office, science lab, storage area
 
@@ -2898,12 +2754,6 @@ hedonism [bug aliens at ghastly feast],
 ruthlessness [bug aliens],
 trust in a friend [Picard in other captains about conspiracy] <Picard>,
 post-scarcity economy utopia [Picarch explained Ralph how in the future there was no need for money],
-
-:: Source ID
-tng1x25
-
-:: Episode Title
-Conspiracy
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters <bedroom>, Enterprise-D sickbay, Starfleet HQ corridor, Starfleet HQ banquet room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Admiral Quinn's quarters, great hall, reception room, dining room, mining tunnel, Starfleet HQ control room, rocky wasteland, cavern
@@ -3030,12 +2880,6 @@ generosity [Data at rescuing frozen people] <Data>,
 hospitality [crew to frozen people],
 humility [Ralph gets a lesson in humility] <Ralph Offenhouse>,
 
-:: Source ID
-tng1x26
-
-:: Episode Title
-The Neutral Zone
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D guest lounge, Enterprise-D Clare's quarters, Enterprise-D Sonny's quarters, Enterprise-D ready room, Enterprise-D corridor, conference room, Romulan cruiser control room, spaceship cryonic chamber
 
@@ -3140,12 +2984,6 @@ mother's right to determine pregnancy [Troi took exception to Worf's strong sugg
 grief [Troi at Ian] <Troi>,
 laziness [Pulaski goes to bar instead of reporting for duty] <Pulaski>,
 filial love [Ian to Troi] <Ian>,
-
-:: Source ID
-tng2x01
-
-:: Episode Title
-The Child
 
 :: Settings
 Enterprise-D shuttle bay, Enterprise-D bridge, Enterprise-D ready room,  Enterprise-D engineering,  Enterprise-D corridor,  Enterprise-D crew quarters,  Enterprise-D Troi's quarters,  Enterprise-D cargo bay,  Enterprise-D observation lounge <meeting room>, Ten Forward <bar>,  Enterprise-D Pulaski's office,  Enterprise-D sickbay <maternity ward>,  Enterprise-D transporter room, meeting room, maternity ward, bar
@@ -3267,12 +3105,6 @@ ruthlessness [Nagilum] <Nagilum>,
 sadism [Nagilum] <Nagilum>,
 fear [Ensign Haskell] <Haskell>,
 
-:: Source ID
-tng2x02
-
-:: Episode Title
-Where Silence Has Lease
-
 :: Settings
 Enterprise-D bridge, Enterprise-D holodeck, Enterprise-D Geordi's office, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, Enterprise-D corridor, Enterprise-D computer room, Enterprise-D Picard's quarters, Enterprise-D ready room, Yamato corridor, Yamato bridge, Yamato auxiliary bridge, meeting room
 
@@ -3387,12 +3219,6 @@ the thirst for knowledge [Moriarty] <James Moriarty>,
 hospitality [Moriarty offers Pulaski tea and crumpets] <James Moriarty>,
 ruthlessness [Moriarty professed to be ruthless] <James Moriarty>,
 
-:: Source ID
-tng2x03
-
-:: Episode Title
-Elementary, Dear Data
-
 :: Settings
 Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D holodeck <Victorian parlor; Victorian foyer; Victorian London street; Victorian alleyway>, Victorian parlor, Victorian foyer, Victorian London street, Victorian alleyway, Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room
 
@@ -3495,12 +3321,6 @@ hospitality [crew at Okona],
 humility [Okona was sometimes self-deprecating] <Thadiun Okona>,
 kindness [Okona steals jewel to help couple] <Thadiun Okona>,
 patience [Picard with feuding aliens] <Picard>,
-
-:: Source ID
-tng2x04
-
-:: Episode Title
-The Outrageous Okona
 
 :: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D corridor, Enterprise-D holodeck <nightclub>, nightclub, Enterprise-D Lieutenant Robinson's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Debin ship bridge
@@ -3612,12 +3432,6 @@ patience [Riva] <Riva>,
 personal conviction [Riva about mediation protocols] <Riva>,
 trust [Riva in chorus] <Riva/Riva's chorus>,
 
-:: Source ID
-tng2x05
-
-:: Episode Title
-Loud As A Whisper
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D Riva's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, rocky landscape, antechamber, large chamber
 
@@ -3716,12 +3530,6 @@ coping with romantic rejection [Ira at Brianon] <Ira Graves>,
 coping with aging [Ira] <Ira Graves>,
 anger [Ira Graves as Data] <Ira Graves>,
 reclusiveness [Ira Graves] <Ira Graves>,
-
-:: Source ID
-tng2x06
-
-:: Episode Title
-The Schizoid Man
 
 :: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Data's quarters, Enterprise-D Kareen's quarters, Enterprise-D turbolift, living room, science lab
@@ -3845,12 +3653,6 @@ compassion [Pulaski for patients] <Pulaski>,
 humility [Pulaski admitted her error in the end] <Pulaski>,
 rapid aging process [Pulaski was aged rapidly after being exposed a boy who was genetically engineered to have an external immune system. The Lantree crew died of rapid aging.],
 
-:: Source ID
-tng2x07
-
-:: Episode Title
-Unnatural Selection
-
 :: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay <science lab>, Enterprise-D conference room, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D Pulaski's quarters, Enterprise-D turbolift, shuttlecraft, Lantree bridge, Lantree corridor, Lantree sickbay, Lantree captain's quarters
 
@@ -3968,12 +3770,6 @@ hospitality [Riker gets dose of Klingon hospitality],
 humility [Mendon gets a lesson in humility] <Mendon>,
 anger [Klingons at Riker] <Klag>,
 
-:: Source ID
-tng2x08
-
-:: Episode Title
-A Matter Of Honor
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D holodeck <shooting range>, shooting range, Enterprise-D corridor, Ten Forward <bar>, bar, Klingon vessel corridor, Klingon vessel bridge, Klingon vessel mess hall
 
@@ -4069,12 +3865,6 @@ what it is like in a legal proceeding [everything surrounding Data's hearing],
 the thirst for knowledge [Data and Maddox about understanding principles of android construction] <Data, Maddox>,
 alternate points of view [human rights or scientific advancement],
 personal conviction [Picard and Philipa Louvois about duty and honor] <Picard, Philipa Louvois>,
-
-:: Source ID
-tng2x09
-
-:: Episode Title
-The Measure Of A Man
 
 :: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D Data's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D gymnasium, Enterprise-D computer room, Starbase 173 restaurant, Starbase 173 office, Starbase 173 courtroom, Starbase 173 lounge
@@ -4185,12 +3975,6 @@ lesson in humility [Worf] <Worf>,
 human vs. beast [Worf vs. Anya] <Worf>,
 anger [Anya at crew] <Anya>,
 
-:: Source ID
-tng2x10
-
-:: Episode Title
-The Dauphin
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D Salia's quarters, Enterprise-D engineering, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D holodeck <outer space>, outer space, Enterprise-D ready room, Enterprise-D Wesley's quarters
 
@@ -4283,12 +4067,6 @@ future point of view [Pulaski about using splints] <Pulaski>,
 pictographic writing system [deciphering Iconian script],
 passion for archaeology [Picard and Donald Varley] <Picard, Donald Varley>,
 generosity [Picard helps Romulans with computer virus] <Picard>,
-
-:: Source ID
-tng2x11
-
-:: Episode Title
-Contagion
 
 :: Settings
 Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Jefferies tube, Enterprise-D transporter room, Iconian control room, Romulan vessel bridge, rocky wasteland
@@ -4406,12 +4184,6 @@ ennui [astronaut was bored to death in that horrible story],
 boredom [Picard was bored senseless by that horrible novel] <Picard>,
 generosity [aliens toward astronaut],
 
-:: Source ID
-tng2x12
-
-:: Episode Title
-The Royale
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, lobby, casino floor, hallway, hotel room, black void
 
@@ -4506,12 +4278,6 @@ human vs. space anomaly [Enterprise crew vs. time loop],
 :: Minor Themes
 pleasure in cooking [Riker and the Owon eggs] <Riker>,
 selfless service [Picard] <Picard>,
-
-:: Source ID
-tng2x13
-
-:: Episode Title
-Time Squared
 
 :: Settings
 Enterprise-D Riker's quarters <dinner table>, dinner table, Enterprise-D bridge, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D engineering, shuttlecraft
@@ -4627,12 +4393,6 @@ distaste for attention [Worf] <Worf>,
 kindness [Wesley and crew to Worf] <Wesley>,
 reclusiveness [Worf] <Worf>,
 
-:: Source ID
-tng2x14
-
-:: Episode Title
-The Icarus Factor
-
 :: Settings
 Enterprise-D engineering, Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D holodeck <chamber; arena>, chamber, arena, Ten Forward <bar>, bar, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, Enterprise-D sickbay, Enterprise-D Pulaski's office, Enterprise-D Troi's office, Enterprise-D gymnasium, Enterprise-D ready room
 
@@ -4742,12 +4502,6 @@ spontaneous planetary break up [Drema V was falling to pieces] <Drema V>,
 pleasure in horseback riding [Picard] <Picard>,
 orphanhood [Sarjenka] <Sarjenka>,
 loyalty to a leader [Data to Picard] <Data>,
-
-:: Source ID
-tng2x15
-
-:: Episode Title
-Pen Pals
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <countryside>, countryside, Enterprise-D Data's quarters, Enterprise-D geophysical lab, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Pulaski's office, alien house, volcanic wasteland
@@ -4866,12 +4620,6 @@ coping with the death of a subordinate [Picard about 18 crewmen] <Picard>,
 anger [Worf at Q] <Worf>,
 grief [18 crewmen died],
 
-:: Source ID
-tng2x16
-
-:: Episode Title
-Q Who
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D Guinan's office, shuttlecraft, Borg cube machine room
 
@@ -4984,12 +4732,6 @@ human vs. captivity [Geordi by Pakleds] <Geordi>,
 kindness [Geordi to Pakled] <Geordi>,
 laziness [Pakled] <Grebnedlog, Reginod>,
 patience [Geordi in dealing with Pakled] <Geordi>,
-
-:: Source ID
-tng2x17
-
-:: Episode Title
-Samaritan Snare
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Pulaski's office, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Mondor bridge, Mondor weapons bay, Starbase 515 operating theater, shuttlecraft
@@ -5107,12 +4849,6 @@ cultural differences [Humans and the space Irish],
 hospitality [Picard to Space Irish] <Picard>,
 patience [Picard to Space Irish] <Picard>,
 laziness [Danilo Odell] <Danilo Odell>,
-
-:: Source ID
-tng2x18
-
-:: Episode Title
-Up The Long Ladder
 
 :: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D cargo bay, Enterprise-D Pulaski's office, Enterprise-D sickbay, Enterprise-D Riker's quarters, Enterprise-D ready room, Mariposa office, Mariposa science lab, Mariposa hall
@@ -5238,12 +4974,6 @@ boredom [Lwaxana by Data's dinner conversation] <Lwaxana>,
 virtual reality room [Picard retreated to holodeck to escape Lwaxana's romantic attentions] <holodeck>,
 terrorism [Lwaxana thwarted the fish-like aliens plot to bomb a conference on Pacifica.],
 
-:: Source ID
-tng2x19
-
-:: Episode Title
-Manhunt
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters <dinner table>, dinner table, Enterprise-D holodeck <world of Dixon Hill; American 1940s era reception room; American 1940s era bar; American 1940s era hallway; American 1940s era detective office; American 1940s era city street>, Enterprise-D sickbay, American 1940s era reception room, American 1940s era bar, American 1940s era hallway, American 1940s era detective office, American 1940s era city street, world of Dixon Hill
 
@@ -5348,12 +5078,6 @@ sleeper agents [Klingon sleeper vessel agents],
 lovers' quarrel [Worf and K'Ehleyr] <Worf/K'Ehleyr>,
 personal conviction [Picard about not killing rogue Klingons] <Picard>,
 tardiness [K'Ehleyr was conspicuously late for duty.],
-
-:: Source ID
-tng2x20
-
-:: Episode Title
-The Emissary
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D tactical room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Data's quarters <poker table>, poker table, Enterprise-D K'Ehleyr's quarters, Enterprise-D corridor, Enterprise-D holodeck <jungle clearing>, jungle clearing, T'Ong bridge
@@ -5473,12 +5197,6 @@ the lust for gold [Ferengi] <Bractor>,
 self-analysis [Data in the aftermath of losing at strategema to Kolrami] <Data>,
 boredom [Kolrami while playing Riker in strategema] <Kolrami>,
 
-:: Source ID
-tng2x21
-
-:: Episode Title
-Peak Performance
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D Worf's quarters <dimly lit room>, dimly lit room, Enterprise-D Data's quarters, Enterprise-D ready room, Ten Forward <bar>, bar, Hathaway bridge <dilapidated room>, dilapidated room, Hathaway engine room <dilapidated room>
 
@@ -5578,12 +5296,6 @@ coping with being injured [Riker gravely wounded] <Riker>,
 :: Minor Themes
 teleportation phobia [Pulaski] <Pulaski>,
 platonic love [Riker and Troi] <Riker, Troi>,
-
-:: Source ID
-tng2x22
-
-:: Episode Title
-Shades of Gray
 
 :: Settings
 Enterprise-D transporter room, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D Pulaski's office, swamp, rocky wasteland, Enterprise-D holodeck <woodland; jazz club>, woodland, jazz club, Ten Forward <bar>, bar, Enterprise-D Troi's office, council chamber, Klingon vessel bridge, Enterprise-D Quinn's quarters, Enterprise-D battle bridge
@@ -5686,12 +5398,6 @@ red giant [Stubbs was on the Enterprise to study a supernova involving a red gia
 neutron star [Stubbs was on the Enterprise to study a supernova involving a neutron star],
 remorse [Stubbs] <Paul Stubbs>,
 tardiness [Wesley dozed off in the science lab and was subsequently late for duty.],
-
-:: Source ID
-tng3x01
-
-:: Episode Title
-Evolution
 
 :: Settings
 Enterprise-D bridge, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D medical lab, Enterprise-D sickbay <hospital waiting room>, hospital waiting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Wesley's quarters, Ten Forward <bar>, bar, Enterprise-D computer room, Enterprise-D Stubb's quarters
@@ -5822,12 +5528,6 @@ loyalty to a leader [townsfolk to Gosheven] <Haritath, Kento>,
 unrequited love [Adr'rian at Data] <Ard'rian McKenzie>,
 fortitude [Data trying to save colonists] <Data>,
 patience [Data trying to save colonists] <Data>,
-
-:: Source ID
-tng3x02
-
-:: Episode Title
-The Ensigns of Command
 
 :: Settings
 Enterprise-D bridge, Ten Forward <concert hall>, concert hall, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, living room, frontier town, town square, canyon
@@ -5970,12 +5670,6 @@ personal conviction [Douwd pacifism] <Kevin Uxbridge>,
 anger [Douwd] <Kevin Uxbridge>,
 reclusiveness [Douwd] <Kevin Uxbridge>,
 
-:: Source ID
-tng3x03
-
-:: Episode Title
-The Survivors
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D Troi's quarters <bedroom>, bedroom, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, living room, lawn
 
@@ -6093,12 +5787,6 @@ paternal love [Lico to Oji] <Lico>,
 fear [Mintakans of Picard],
 humility [Picard refuses godhood] <Picard>,
 appearance altering technology [Riker and Troi surgically altered to look like Mintakans] <Riker, Troi>,
-
-:: Source ID
-tng3x04
-
-:: Episode Title
-Who Watches The Watchers
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D corridor, town square, mountain pass, rocky landscape, cavern <smoke filled room>, smoke filled room
@@ -6218,12 +5906,6 @@ kindness [Worf and crew for Jeremy] <Worf>,
 personal conviction [Worf about adopting Jeremy] <Worf>,
 filial love [Jeremy to his ghost mother] <Jeremy Aster>,
 
-:: Source ID
-tng3x05
-
-:: Episode Title
-The Bonding
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Worf's quarters, Enterprise-D Aster quarters <living room>, living room, Enterprise-D classroom, Enterprise-D Beverly's office, Enterprise-D computer room, Enterprise-D turbolift
 
@@ -6333,12 +6015,6 @@ booby trap [Enterprise caught in ancient space booby trap],
 passion for archaeology [Picard about derelict ship] <Picard>,
 working together under stress [Geordi and Leah] <Geordi/Leah Brahms>,
 fortitude [Geordi and Leah to solve space whale problem] <Geordi, Leah Brahms>,
-
-:: Source ID
-tng3x06
-
-:: Episode Title
-Booby Trap
 
 :: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D holodeck <drafting room; tropical beach>, drafting room, tropical beach, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Promellian battle cruiser derelict bridge
@@ -6460,12 +6136,6 @@ anger [Bochra outburst at Geordi] <Bochra>,
 kindness [Geordi and crew to Romulans] <Geordi>,
 mercy [Geordi after Romulan attack] <Geordi>,
 patience [Geordi] <Geordi>,
-
-:: Source ID
-tng3x07
-
-:: Episode Title
-The Enemy
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, pit, cavern, rocky wasteland
@@ -6604,12 +6274,6 @@ gluttony [Troi and the chocolate cake.] <Troi>,
 ruthlessness [Ral] <Devinoni Ral>,
 telepathy [The ability of the Betazoids to communicate telepathically was featured.],
 
-:: Source ID
-tng3x08
-
-:: Episode Title
-The Price
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <reception room; bar>, reception room, bar, Enterprise-D sickbay, Enterprise-D gymnasium, Enterprise-D Troi's quarters <living room; bedroom>, living room, bedroom, Enterprise-D Ferengi quarters, shuttlecraft
 
@@ -6741,12 +6405,6 @@ flirtation [Riker and Yuta] <Riker/Yuta>,
 anger [Gatherer leader] <Chorgan>,
 laziness [Gatherers were accused of being lazy] <Chorgan>,
 anarchy [Gatherers] <Acamarian Outcasts>,
-
-:: Source ID
-tng3x09
-
-:: Episode Title
-The Vengeance Factor
 
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Marouk's quarters, Enterprise-D Riker's quarters, Ten Forward <bar>, bar, Federation outpost control room <dilapidated room>, dilapidated room, junkyard, Gatherer ship conference room <meeting room>
@@ -6881,12 +6539,6 @@ anger [Picard and others with Jarok] <Picard>,
 fortitude [Jarok defecting for altruistic reasons] <Alidar Jarok>,
 sadness [Jarok] <Alidar Jarok>,
 
-:: Source ID
-tng3x10
-
-:: Episode Title
-The Defector
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Jarok's quarters, Enterprise-D interrogation room, relaxation center, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <woodland; gridlines; rocky wasteland; campfire>, woodland, gridlines, rocky wasteland, campfire, Romulan warbird ready room
 
@@ -7013,12 +6665,6 @@ ennui [Roga about prison moon] <Roga Danar>,
 anger [Roga flipped out a few times] <Roga Danar>,
 humility [Roga] <Roga Danar>,
 federalism [Angosians apply to Federation],
-
-:: Source ID
-tng3x11
-
-:: Episode Title
-The Hunted
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D cargo bay, Enterprise-D shuttle bay, Enterprise-D detention cell, Angosia III council chamber
@@ -7159,12 +6805,6 @@ anger [Finn temper tantrums] <Kyril Finn>,
 cruelty [terrorist attacks],
 fear [Crushers, Wesley for Beverly] <Beverly, Wesley>,
 
-:: Source ID
-tng3x12
-
-:: Episode Title
-The High Ground
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D corridor, police headquarters, cavern, restaurant patio, interrogation room
 
@@ -7294,12 +6934,6 @@ hospitality [Q taken on by crew],
 laziness [Q grumpily helping] <Q>,
 fear [Q attacked by Calamarain] <Q>,
 
-:: Source ID
-tng3x13
-
-:: Episode Title
-Deja Q
-
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D brig, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D turbolift, shuttlecraft
 
@@ -7425,12 +7059,6 @@ jealousy [Nel of Riker over Manua] <Nel Apgar>,
 trust [Troi in Riker] <Troi>,
 trust in a friend [Troi in Riker] <Troi>,
 hatred [Apgar for Riker] <Nel Apgar>,
-
-:: Source ID
-tng3x14
-
-:: Episode Title
-A Matter of Perspective
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D sickbay, Enterprise-D holodeck <gridlines; science lab; space station; living area>, Enterprise-D observation lounge <art studio>, art studio, gridlines, science lab, space station, living area
@@ -7561,12 +7189,6 @@ grief [Enterprise-C crew for Captain Rachel Garret],
 hospitality [Picard to Enterprise-C crew] <Picard>,
 kindness [Picard to contrast Guinan] <Picard>,
 ruthlessness [Guinan] <Guinan>,
-
-:: Source ID
-tng3x15
-
-:: Episode Title
-Yesterday's Enterprise
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Tasha's quarters, Enterprise-C main bridge <smoke filled room>, smoke filled room
@@ -7705,12 +7327,6 @@ grief [Data over Lal] <Data>,
 patience [Data to Lal] <Data>,
 filial love [Lal to Data] <Lal>,
 
-:: Source ID
-tng3x16
-
-:: Episode Title
-The Offspring
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D principal's office, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D Data's quarters, Enterprise-D Troi's quarters, Enterprise-D Picard's quarters <bedroom>, bedroom, Enterprise-D Beverly's office, Enterprise-D science lab
 
@@ -7821,12 +7437,6 @@ hatred [Worf for Duras] <Worf>,
 personal conviction [Worf] <Worf>,
 what it is like in a legal proceeding [Worf stands trial to prove his father's innocence],
 guilt and evidence [what evidence was necessary to exonerate Worf's father],
-
-:: Source ID
-tng3x17
-
-:: Episode Title
-Sins of the Father
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Captain's quarters <dinner table>, dinner table, Enterprise-D Kurn's quarters, antechamber, great hall, pedestrian tunnel, Klingon living room, chamber, Klingon city street
@@ -7951,12 +7561,6 @@ coping with a bad boss [crew at Picard doppelgänger] <Riker, Beverly, Troi>,
 human vs. captivity [Picard held captive by aliens] <Picard, Mitena Haro, Kova Tholl, Esoqq>,
 cruelty [cruel imprisonment] <Abducting Alien #1, Abducting Alien #2>,
 
-:: Source ID
-tng3x18
-
-:: Episode Title
-Allegiance
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D Picard's quarters <dinner table; living room>, dinner table, living room, Enterprise-D Riker's quarters <poker table; meeting room>, poker table, meeting room, Enterprise-D Data's quarters, Enterprise-D Beverly's office, holding cell
 
@@ -8069,12 +7673,6 @@ hedonism [Risans],
 hospitality [Risans],
 trust in a potential foe [Picard does not trust the time travelers] <Picard>,
 annihilation by a device that stops fusion in a star [The tox uthat.],
-
-:: Source ID
-tng3x19
-
-:: Episode Title
-Captain's Holiday
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D Picard's quarters, Enterprise-D corridor, resort area, hotel lobby, hotel room, cavern
@@ -8212,12 +7810,6 @@ distaste for attention [Tam] <Tam Elbrun>,
 humility [Tam] <Tam Elbrun>,
 reclusiveness [Tam] <Tam Elbrun>,
 
-:: Source ID
-tng3x20
-
-:: Episode Title
-Tin Man
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Tam's quarters, Enterprise-D Data's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Tin Man control room, Tin Man corridor
 
@@ -8347,12 +7939,6 @@ hedonism [Barclay in holodeck] <Barclay>,
 kindness [Geordi toward Barclay] <Geordi>,
 artificial gravity technology [Barclay was trying to find the problem with an anti-gravitational device of some kind],
 tardiness [Barclay was late for a meeting because he had been tooling around on the holodeck.],
-
-:: Source ID
-tng3x21
-
-:: Episode Title
-Hollow Pursuits
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D cargo bay, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D holodeck <Enterprise-D bridge; Ten Forward; Enterprise-D Troi's office; woodland glade; gridlines>, woodland glade, gridlines
@@ -8485,12 +8071,6 @@ kindness [Data] <Data>,
 hatred [all for Fajo],
 mercy [Data to Fajo at end] <Data>,
 patience [Data] <Data>,
-
-:: Source ID
-tng3x22
-
-:: Episode Title
-The Most Toys
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D Data's quarters, Enterprise-D Geordi's quarters <bedroom>, bedroom, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D brig, cavern, Jovis cargo bay, Jovis trophy room
@@ -8636,12 +8216,6 @@ kindness [Picard] <Picard>,
 reclusiveness [Sarek] <Sarek>,
 sadness [Sarek cries at concert] <Sarek>,
 
-:: Source ID
-tng3x23
-
-:: Episode Title
-Sarek
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D conference room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Ten Forward, Enterprise-D Beverly's office, Enterprise-D Picard's quarters, Enterprise-D Sarek's quarters, Enterprise-D theater
 
@@ -8772,12 +8346,6 @@ ruthlessness [Ferengi experimenting] <Farek>,
 stellar nursery [Enterprise was passing through stellar nursery.],
 telepathy [The Betazoid ability to communicate telepathically was featured.],
 
-:: Source ID
-tng3x24
-
-:: Episode Title
-Ménage à Troi
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Ten Forward <reception room>, Enterprise-D engineering, Enterprise-D Troi's quarters, Enterprise-D transporter room, Enterprise-D corridor, Krayton brig, Krayton laboratory, Krayton captain's quarters <bedroom>, bedroom, woodland glade, futuristic cityscape
 
@@ -8904,12 +8472,6 @@ generosity [John Doe] <John Doe>,
 hospitality [crew to John Doe],
 humility [John Doe] <John Doe>,
 
-:: Source ID
-tng3x25
-
-:: Episode Title
-Transfigurations
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D Beverly's quarters <dinner table>, dinner table, Enterprise-D turbolift, Enterprise-D shuttle bay, Enterprise-D shuttle bay control booth, Enterprise-D catwalk, xeric scrubland
 
@@ -9034,12 +8596,6 @@ coping with disagreeable orders [Shelby open questions Riker's orders] <Shelby>,
 grief [crew at Picard] <Riker>,
 humility [Riker refusing captaincy] <Riker>,
 
-:: Source ID
-tng3x26
-
-:: Episode Title
-The Best of Both Worlds
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Picard's quarters, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D Shelby's quarters, Borg cube interior, Borg cube corridor, crater
 
@@ -9159,12 +8715,6 @@ clash of wills [Riker and Shelby] <Riker/Shelby>,
 coping with the rigors of command [Riker] <Riker>,
 fear [the Borg are here],
 order vs. freedom [Borg offer order at cost of freedom],
-
-:: Source ID
-tng4x01
-
-:: Episode Title
-The Best of Both Worlds, Part II
 
 :: Settings
 Enterprise-D bridge, Enterprise-D battle bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D science lab, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Borg cube machine room, Admiral Hanson's ship ready room, Admiral Hanson's ship battle bridge
@@ -9311,12 +8861,6 @@ kindness [the Picard's] <Marie Picard>,
 sadness [Picard and Crushers] <Picard, Wesley>,
 uncle and nephew [Picard and Rene] <Picard/Rene Picard>,
 
-:: Source ID
-tng4x02
-
-:: Episode Title
-Family
-
 :: Settings
 Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D Beverly's office, Enterprise-D Beverly's quarters, Enterprise-D Picard's quarters, Enterprise-D Riker's quarters, Enterprise-D Worf's quarters, Ten Forward <bar>, bar, dining room, countryside, vineyard, cemetery
 
@@ -9435,12 +8979,6 @@ voice duplicator [Data of Picard],
 filial love [Data and Lore to Soong] <Data, Lore>,
 force field generator [Data used a cascading force fields to take over enterprise],
 human vs. sentient machine [Data outsmarts Enterprise crew and commandeers ship to visit his father],
-
-:: Source ID
-tng4x03
-
-:: Episode Title
-Brothers
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D sickbay <quarantine area>, quarantine area, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D Jefferies tube, jungle clearing, workshop
@@ -9576,12 +9114,6 @@ laziness [Jono with loud music] <Jono>,
 patriarchy [Talarian society] <Talarian>,
 filial love [Jono to Endar] <Jono>,
 
-:: Source ID
-tng4x04
-
-:: Episode Title
-Suddenly Human
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D corridor, Enterprise-D Jono's quarters, Enterprise-D holodeck <racquetball court>, racquetball count
 
@@ -9688,12 +9220,6 @@ maternal love [Beverly at Wesley] <Beverly>,
 coping with a loved one being in peril [Wesley at Beverly] <Wesley>,
 generosity [Traveler in coming to save Beverly] <The Traveler>,
 grief [Quace over his wife] <Galen Quaice>,
-
-:: Source ID
-tng4x05
-
-:: Episode Title
-Remember Me
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D turbolift, Enterprise-D Troi's office, Enterprise-D Dr. Quaice's quarters, Enterprise-D Wesley's quarters
@@ -9810,12 +9336,6 @@ facing a hostage situation [crew with hostages on planet],
 cruelty [the rape gangs! woe the rape gangs!],
 grief [crew and Ishara for Tasha; especially Data and Picard] <Picard, Data, Ishara Yar>,
 ruthlessness [Turkana IV inhabitants as exemplified by Hayne] <Hayne>,
-
-:: Source ID
-tng4x06
-
-:: Episode Title
-Legacy
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D Picard's quarters, Ten Forward <bar>, bar, Enterprise-D sickbay, city ruins, tunnel, poker table, chamber, power generator, escape pod, conference room
@@ -9945,12 +9465,6 @@ paternal love [Worf at Alexander] <Worf>,
 hatred [Worf for Duras] <Worf>,
 anger [Worf at Duras] <Worf>,
 
-:: Source ID
-tng4x07
-
-:: Episode Title
-Reunion
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D K'Ehleyr's quarters, Enterprise-D Worf's quarters, Enterprise-D Duras' quarters, Enterprise-D daycare center, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Klingon vessel K'Mpec's quarters, chamber, Klingon vessel Duras' quarters
 
@@ -10073,12 +9587,6 @@ ennui [Barash alone in the caves] <Barash>,
 anger [Riker at being decieved by Barash] <Riker>,
 compassion [Riker to Barash] <Riker>,
 kindness [Riker to Barash] <Riker>,
-
-:: Source ID
-tng4x08
-
-:: Episode Title
-Future Imperfect
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D Riker's quarters, Enterprise-D Picard's quarters, Romulan holodeck <alien chamber; cavern; holding cell; tunnel>, antechamber, Romulan warbird ready room, alien chamber, cavern, holding cell, tunnel
@@ -10205,12 +9713,6 @@ patience [Picard with Dirgo] <Picard>,
 habitable moon [Picard and friends crash landed on a barely habitable moon] <Lambda Paz>,
 tardiness [Barclay late for meeting because he lost track of time while conversing with a holographic Einstein.],
 
-:: Source ID
-tng4x09
-
-:: Episode Title
-Final Mission
-
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D shuttle bay, mining shuttle, desert wasteland, cavern
 
@@ -10324,12 +9826,6 @@ compassion [Troi at Brooks] <Troi>,
 grief [Brooks for husband] <Janet Brooks>,
 kindness [Troi at Brooks] <Troi>,
 
-:: Source ID
-tng4x10
-
-:: Episode Title
-The Loss
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters
 
@@ -10438,12 +9934,6 @@ pleasure in dancing [Beverly] <Beverly>,
 love of a pet [Data at Spot] <Data>,
 deductive reasoning [Data quoted this aphorism: "once you have eliminated the impossible, whatever remains, however improbable, must be the truth".],
 master and pet [Data and spot] <Data/Spot>,
-
-:: Source ID
-tng4x11
-
-:: Episode Title
-Data's Day
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D arboretum, Enterprise-D barbershop, Ten Forward <bar>, bar, Enterprise-D T'Pel's quarters, Enterprise-D Keiko's quarters, Enterprise-D daycare center, Enterprise-D holodeck <dance studio>, dance studio, Enterprise-D Troi's office, Enterprise-D replicating center
@@ -10581,12 +10071,6 @@ secret military base building [Maxwell was trying to expose covert Cardassian mi
 hospitality [Cardassians welcomed aboard Enterprise],
 kindness [Cardassians welcomed aboard Enterprise],
 
-:: Source ID
-tng4x12
-
-:: Episode Title
-The Wounded
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D O'Brien's quarters, Phoenix ready room
 
@@ -10704,12 +10188,6 @@ signs from the heavens [Ardra rains down signs from the heavens on Ventaxians],
 chastity [Picard denies Ardra.] <Picard>,
 global unification under a central authority [Vextaxian society emerged under a central authority from disorder] <Ventaxian>,
 fear [Ardra instilled the fear of the lord in Jared among others] <Acost Jared>,
-
-:: Source ID
-tng4x13
-
-:: Episode Title
-Devil's Due
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Picard's quarters, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D holodeck <Victorian bedroom>, Victorian bedroom, council chamber <courtroom>, courtroom, science lab
@@ -10841,12 +10319,6 @@ mercy [Paxans to Humans],
 patience [Paxans with Humans],
 fear [Troi at reflection in mirror] <Troi>,
 
-:: Source ID
-tng4x14
-
-:: Episode Title
-Clues
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D sickbay <science lab>, science lab, Enterprise-D engineering, Ten Forward, Enterprise-D Troi's quarters, Enterprise-D Data's quarters, Enterprise-D holodeck <world of Dixon Hill; workout room; American 1940s era reception room; American 1940s era detective office>, world of Dixon Hill, workout room, American 1940s era reception room, American 1940s era detective office
 
@@ -10965,12 +10437,6 @@ passion for medicine [Berel refused to wake up Riker for interrogation on ethica
 federalism [Malcorians introduced to Federation policy],
 global unification under a central authority [Malcorians] <Malcorian>,
 appearance altering technology [Riker surgically altered to look like a Malcorian] <Riker>,
-
-:: Source ID
-tng4x15
-
-:: Episode Title
-First Contact
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D corridor, hospital corridor, hospital room, executive office, science lab, Malcor III council chamber
@@ -11092,12 +10558,6 @@ virtual reality room [Geordi's creepy Leah Brahms simulation] <holodeck>,
 anger [Leah at Geordi on holodeck] <Leah Brahms>,
 sadness [Geordi at being denied by Leah] <Geordi>,
 
-:: Source ID
-tng4x16
-
-:: Episode Title
-Galaxy's Child
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <science lab>, science lab, Enterprise-D shuttle bay, Enterprise-D Jefferies tube
 
@@ -11215,12 +10675,6 @@ descent into madness [Picard, Riker, Beverly] <Picard, Riker, Beverly>,
 loss of emotional equilibrium [crew from lack of REM sleep],
 anger [Gillespie in Ten Forward at Picard; O'Brien at keiko] <Gillespie, Miles O'Brien>,
 
-:: Source ID
-tng4x17
-
-:: Episode Title
-Night Terrors
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Troi's quarters, Enterprise-D Worf's quarters, Enterprise-D Riker's quarters, Enterprise-D Guinan's quarters, Enterprise-D O'Brien's quarters, Enterprise-D corridor, Enterprise-D cargo bay <morgue>, morgue, black void, Brattain bridge
 
@@ -11325,12 +10779,6 @@ second guessing a superior [Leijten at Picard not sending another landing party 
 coping with someone who is overexerting themself [Data at Geordi working to solve the mystery] <Data>,
 trust [Geordi in Suze after metamorphosis] <Geordi>,
 trust in a friend [Geordi in Suze after metamorphosis] <Geordi>,
-
-:: Source ID
-tng4x18
-
-:: Episode Title
-Identity Crisis
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Beverly's office, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Geordi's office, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <woodland>, woodland
@@ -11450,12 +10898,6 @@ fear [crew at super intelligent Barclay],
 kindness [audience as demonstrated by Riker to Barclay after cringe-worthy performance] <Riker>,
 reclusiveness [Barclay] <Barclay>,
 laziness [Barclay late for meeting because of Einstein] <Barclay>,
-
-:: Source ID
-tng4x19
-
-:: Episode Title
-The Nth Degree
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D theater <French 17th century era dining room>, French 17th century era dining room, theater stage, shuttlecraft, Enterprise-D Jefferies tube
@@ -11581,12 +11023,6 @@ human vs. captivity [Vash hold up in castle] <Vash>,
 ennui [Vash in castle] <Vash>,
 anger [Worf smashes mandolin] <Worf>,
 
-:: Source ID
-tng4x20
-
-:: Episode Title
-Qpid
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D Picard's quarters, Enterprise-D Vash's quarters, Enterprise-D reception room, woodland, castle exterior, chamber, castle courtyard, castle exterior
 
@@ -11705,12 +11141,6 @@ biological computer [Klingon visitor had one],
 logic vs. gut feeling [Picard refused to confine Simon to his quarters based on Betazoid intuition],
 facing wrongful accusations [Simon Tarses] <Simon Tarses>,
 anger [Satie throws temper tantrum in courtroom] <Norah Satie>,
-
-:: Source ID
-tng4x21
-
-:: Episode Title
-The Drumhead
 
 :: Settings
 Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D interrogation room <courtroom>, Enterprise-D Picard's quarters, Enterprise-D J'Dan's quarters, Enterprise-D Satie's quarters, courtroom, chamber
@@ -11855,12 +11285,6 @@ political asylum [Timicin to Federation],
 isolationism [Kaelon],
 telepathy [The Betazoid ability to communicate telepathically was featured.],
 
-:: Source ID
-tng4x22
-
-:: Episode Title
-Half a Life
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D Lwaxana's quarters, Enterprise-D Timicin's quarters, office
 
@@ -11982,12 +11406,6 @@ passion for medicine [Beverly] <Beverly>,
 generosity [Riker offering his body for Trill implantation] <Riker>,
 sadness [Beverly after Trill implanted into woman symbiont] <Beverly>,
 
-:: Source ID
-tng4x23
-
-:: Episode Title
-The Host
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Beverly's quarters, Enterprise-D Data's quarters, Enterprise-D Odan's quarters, Enterprise-D shuttle bay, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D barbershop, shuttlecraft
 
@@ -12095,12 +11513,6 @@ gluttony [We saw Klingon feasting.] <Kell>,
 ruthlessness [Romulans],
 political asylum [Kell requests of Federation],
 coping with being tortured [Geordi at end with Troi] <Geordi>,
-
-:: Source ID
-tng4x24
-
-:: Episode Title
-The Mind's Eye
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Romulan holodeck <Ten Forward>, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D cargo bay, Enterprise-D shuttle bay, Enterprise-D Geordi's quarters, Enterprise-D Kell's quarters, shuttlecraft, Romulan vessel procedure room, office
@@ -12221,12 +11633,6 @@ master and pet [Data and spot] <Data/Spot>,
 human vs. space anomaly [dark matter nebula],
 patience [Jenna with Data] <Jenna D'Sora>,
 sadness [Jenna by Data's lack of emotion] <Jenna D'Sora>,
-
-:: Source ID
-tng4x25
-
-:: Episode Title
-In Theory
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Data's quarters, Enterprise-D Jenna's quarters, Enterprise-D torpedo bay, Enterprise-D concert hall, shuttlecraft
@@ -12350,12 +11756,6 @@ loyalty to a subordinate [Picard to Worf] <Picard>,
 hospitality [Duras Sisters had Picard over for tea] <Lursa, B'Eto>,
 anger [Kurn at Worf] <Kurn>,
 
-:: Source ID
-tng4x26
-
-:: Episode Title
-Redemption
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D holodeck <black void; shooting range>, black void, shooting range, Enterprise-D transporter room, Enterprise-D Worf's quarters, Klingon vessel bridge, Klingon vessel ready room, great hall, Klingon living room
 
@@ -12477,12 +11877,6 @@ loyalty to a leader [Worf to Picard] <Worf>,
 anger [Kurn at Gowron] <Kurn>,
 historical revisionism [Gowron was accused of rewriting the Klingon history books],
 
-:: Source ID
-tng5x01
-
-:: Episode Title
-Redemption II
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge, Excalibur bridge, Sutherland bridge, Romulan warbird bridge, Klingon bird of prey bridge, Qo'nos great hall, Klingon living room, alien bar
 
@@ -12594,12 +11988,6 @@ patience [Picard with Dathon in efforts to communicate] <Picard>,
 the importance of patience in communication [Picard patient with Dathon in efforts to communicate],
 generosity [Dathon to Picard with the fire] <Dathon>,
 grief [Picard and Children of Tama for Dathon] <Picard>,
-
-:: Source ID
-tng5x02
-
-:: Episode Title
-Darmok
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, shuttlecraft, woodland, campfire
@@ -12721,12 +12109,6 @@ boredom [Ro's demeanor] <Ro Laren>,
 distaste for attention [Ro] <Ro Laren>,
 military dictatorship [Cardassians] <Cardassian>,
 imperialistic society [Cardassians] <Cardassian>,
-
-:: Source ID
-tng5x03
-
-:: Episode Title
-Ensign Ro
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D barbershop, Enterprise-D transporter room, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Ro's quarters, cavern, shanty town
@@ -12856,12 +12238,6 @@ personal conviction [Kila] <Kila Marr>,
 ruthlessness [Kila] <Kila Marr>,
 voice duplicator [Data duplicated Renny's voice],
 
-:: Source ID
-tng5x04
-
-:: Episode Title
-Silicon Avatar
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D Data's quarters, Enterprise-D Marr's quarters, cavern, rocky wasteland, countryside
 
@@ -12982,12 +12358,6 @@ fear [children on elevator],
 fortitude [all three isolated groups],
 kids' science project [Enterprise children presented science projects at Captain Picard Day],
 
-:: Source ID
-tng5x05
-
-:: Episode Title
-Disaster
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Ten Forward <makeshift hospital room>, Enterprise-D cargo bay, Enterprise-D Jefferies tube, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D crawlway, Enterprise-D turbolift shaft, makeshift hospital room
 
@@ -13106,12 +12476,6 @@ cooperation [stellar physicists and planetary evolution team must learn to work 
 the lust for power [Etana] <Etana Jol>,
 facing a mortal enemy [crew face Enata],
 gluttony [Troi with chocolate fudge.] <Troi>,
-
-:: Source ID
-tng5x06
-
-:: Episode Title
-The Game
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D Beverly's quarters, Enterprise-D Wesley's quarters, Enterprise-D turbolift, Enterprise-D Jefferies tube, hotel room, Ktarian vessel bridge
@@ -13234,12 +12598,6 @@ the need to be treated with respect [the Zakdorn] <Klim Dokachin>,
 defection [Spock was thought to have defected to the Romulans],
 paternal love [Sarek to Spock] <Sarek>,
 grief [Picard over Sarek] <Picard>,
-
-:: Source ID
-tng5x07
-
-:: Episode Title
-Unification I
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D cargo bay, Enterprise-D engineering, ceremonial chamber, Klingon vessel bridge, Klingon vessel crew quarters <Spartan quarters>, Spartan quarters, executive office, cavern, Romulan city street, restaurant, bathroom
@@ -13366,12 +12724,6 @@ facing an invading force [Vulcans face Romulan invaiding force],
 fortitude [Spock with the cowboy diplomacy] <Spock>,
 personal conviction [Spock] <Spock>,
 appearance altering technology [Picard surgically altered to look like a Romulan] <Picard>,
-
-:: Source ID
-tng5x08
-
-:: Episode Title
-Unification II
 
 :: Settings
 Enterprise-D bridge, alien bar, office, cavern, tunnel, Romulan city street, restaurant, Klingon vessel bridge, Klingon vessel crew quarters
@@ -13507,12 +12859,6 @@ lesson in humility [Rasmussen] <Berlinghoff Rasmusen>,
 the thirst for knowledge [crew about knowledge of future] <Picard, Beverly, Geordi>,
 anger [Picard lost it with Rasmussen in readyroom] <Picard>,
 hospitality [crew to Rasmussen] <Picard>,
-
-:: Source ID
-tng5x09
-
-:: Episode Title
-A Matter of Time
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D turbolift, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Rasmussen's quarters, Enterprise-D shuttle bay, science lab, control room, shuttlecraft
@@ -13658,12 +13004,6 @@ nature conservationism [the endangered species],
 reminiscence [about Worf's childhood] <Worf>,
 tardiness [Worf late for meeting with Picard because of parenting issues.],
 
-:: Source ID
-tng5x10
-
-:: Episode Title
-New Ground
-
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D Troi's office, Enterprise-D Worf's quarters, Enterprise-D teacher's office, Enterprise-D bio-lab <smoke filled room>, smoke filled room, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D holodeck <jungle clearing>, jungle clearing, Enterprise-D corridor, Enterprise-D Milan Helena's quarters, museum
 
@@ -13785,12 +13125,6 @@ compassion [crew toward Timothy],
 grief [Timothy over parents] <Timothy>,
 kindness [Data to Timothy] <Data>,
 
-:: Source ID
-tng5x11
-
-:: Episode Title
-Hero Worship
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D classroom, Enterprise-D Data's quarters, Enterprise-D Timothy's quarters, Enterprise-D sickbay, Vico corridor <wrecked room>, wrecked room
 
@@ -13910,12 +13244,6 @@ personal conviction [Ulians in the merits of their psychic research] <Tarmin, In
 ruthlessness [Jev the Rapist] <Jev>,
 sadism [Jev the Rapist] <Jev>,
 fear [Troi by psychic rape] <Troi>,
-
-:: Source ID
-tng5x12
-
-:: Episode Title
-Violations
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D banquet room, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters, Enterprise-D Ullian guest quarters, morgue
@@ -14042,12 +13370,6 @@ hospitality [colonists to landing party] <Aaron Conor>,
 personal conviction [Aaron Conor and Martin in their society] <Aaron Conor, Martin Benbeck>,
 caste system [colonists maintained strict genetically engineered caste system],
 
-:: Source ID
-tng5x13
-
-:: Episode Title
-The Masterpiece Society
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D turbolift, laboratory, courtyard, garden, rocky wasteland, town square
 
@@ -14154,12 +13476,6 @@ love triangle [Riker/Ro/Troi] <Riker/Ro Laren/Troi>,
 humility [Worf after he found out he wasn't captain] <Worf>,
 coping with disagreeable orders [Ro dressed down by Riker in turbolift] <Ro Laren>,
 ethnic hatred [Lysians and Satarrans] <Lysian/Satarran>,
-
-:: Source ID
-tng5x14
-
-:: Episode Title
-Conundrum
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters
@@ -14292,12 +13608,6 @@ cruelty [prisoners to hostages],
 anger [prisoners],
 sadism [prisoners],
 fear [prisoners at prospect of returning to moon; hostages] <Keiko O'Brien>,
-
-:: Source ID
-tng5x15
-
-:: Episode Title
-Power Play
 
 :: Settings
 Enterprise-D bridge, Enterprise-D cargo bay, Enterprise-D corridor, Enterprise-D Jefferies tube, Enterprise-D ready room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D transporter room, shuttlecraft, rocky wasteland
@@ -14439,12 +13749,6 @@ kindness [Riker towards Worf in sickbay] <Riker>,
 filial love [Alexander at Worf] <Alexander Rozhenko>,
 assisting in suicide [Riker was faced with the decision of whether or not to help Worf end his life] <Riker>,
 
-:: Source ID
-tng5x16
-
-:: Episode Title
-Ethics
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D shuttle bay, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D Beverly's office, Enterprise-D medical lab
 
@@ -14560,12 +13864,6 @@ untranslatable words [Riker doesn't know whether to call the alien he/she/it],
 political asylum [Riker requests of Federation on behalf of Soren],
 order vs. freedom [Soren and other sexual deviants were considered a threat to order in J'naii society],
 
-:: Source ID
-tng5x17
-
-:: Episode Title
-The Outcast
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D Data's quarters <poker table>, poker table, Enterprise-D Troi's quarters, Enterprise-D Riker's quarters, botanical garden, J'naii homeworld council chamber <courtroom>, courtroom, jungle clearing, science lab, shuttlecraft
 
@@ -14676,12 +13974,6 @@ time travel [Enterprise stuck in time loop],
 charting unknown territory [exploration of the Typhon Expanse],
 randomization [Worf asks Data about randomizing a deck of cards],
 second guessing one's self [Picard about command decision] <Picard>,
-
-:: Source ID
-tng5x18
-
-:: Episode Title
-Cause and Effect
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D Beverly's quarters <bedroom>, bedroom, Enterprise-D ready room
@@ -14808,12 +14100,6 @@ the need to prove one's self [Locarno] <Nicholas Locarno>,
 leadership [Locarno as Nova Squardon leader] <Nicholas Locarno>,
 maternal love [Beverly at Wesley] <Beverly>,
 grief [father for Joshua Albert] <Albert>,
-
-:: Source ID
-tng5x19
-
-:: Episode Title
-The First Duty
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, dorm room, courtroom, university campus, courtyard garden
@@ -14947,12 +14233,6 @@ laziness [Alexander late] <Alexander Rozhenko>,
 looking for a lover [Lwaxana thought she had found someone to settle down with in Campio.],
 tardiness [Alexander was late.],
 
-:: Source ID
-tng5x20
-
-:: Episode Title
-Cost of Living
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Troi's office, Enterprise-D Troi's quarters <living room>, living room, Enterprise-D Lwaxana's quarters, Enterprise-D Worf's quarters, Enterprise-D holodeck <resort; courtyard garden>, resort, courtyard garden
 
@@ -15075,12 +14355,6 @@ ennui [Kamala] <Kamala>,
 sadness [Picard loosing Kamala] <Picard>,
 chastity [Kamala was expected to be chaste.],
 hospitality [crew to Kamala],
-
-:: Source ID
-tng5x21
-
-:: Episode Title
-The Perfect Mate
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D sickbay, Enterprise-D turbolift, Ten Forward <bar>, bar, Enterprise-D Picard's quarters <dinner table>, dinner table, Enterprise-D Kamala's quarters <living room>, living room, Enterprise-D Ferengi quarters, Enterprise-D holodeck <temple; ceremonial chamber>, temple, ceremonial chamber
@@ -15209,12 +14483,6 @@ anger [Isabella at Troi] <Isabella>,
 sadness [Clara] <Clara Sutter>,
 fear [Troi at ghost in closet] <Troi>,
 
-:: Source ID
-tng5x22
-
-:: Episode Title
-Imaginary Friend
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D Troi's quarters, Enterprise-D Clara's quarters <bedroom>, bedroom, Enterprise-D Sutter's quarters <living room>, living room, Enterprise-D arboretum, Enterprise-D daycare center, Enterprise-D turbolift
 
@@ -15332,12 +14600,6 @@ friendship [Geordi and Hugh] <Geordi/Hugh>,
 hatred [Guinan for Borg] <Guinan>,
 trust in a friend [Hugh in Geordi] <Hugh>,
 
-:: Source ID
-tng5x23
-
-:: Episode Title
-I Borg
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D science lab, Enterprise-D brig, Enterprise-D gymnasium, Enterprise-D Picard's quarters, rocky wasteland
 
@@ -15439,12 +14701,6 @@ coming to terms with one's own death [Ro about her apparent death] <Ro Laren>,
 invisible spaceship [Romulan cloak],
 teleportation device [Geordi and Ro thought to have been killed in transporter mishap] <transporter>,
 generosity [Romulans helped above and beyond the call of duty],
-
-:: Source ID
-tng5x24
-
-:: Episode Title
-The Next Phase
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D shuttle bay, Romulan vessel engine room <wrecked room>, shuttlecraft, smoke filled room, wrecked room
@@ -15558,12 +14814,6 @@ fortitude [Picard working to prevent disaster] <Picard>,
 grief [Picard for Eline] <Picard>,
 filial love [Meribor to Picard] <Meribor>,
 
-:: Source ID
-tng5x25
-
-:: Episode Title
-The Inner Light
-
 :: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters, living room, courtyard, garden, town square, open field, mountainside
 
@@ -15668,12 +14918,6 @@ life force draining being [Devidians] <Devidian>,
 what if I met an historical figure [Data meets Twain] <Mark Twain>,
 The Copernican Principle [Mark Twain explains at length],
 grief [crew over Data],
-
-:: Source ID
-tng5x26
-
-:: Episode Title
-Time's Arrow
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D engineering, Ten Forward <bar>, bar,  Enterprise-D observation lounge <meeting room>, meeting room, Wild West hotel room, cavern, poker table, banquet room, American 19th century era city street, American 19th century era alleyway
@@ -15787,12 +15031,6 @@ future point of view [Data to 19th century folk],
 acting [Picard and his Shakespeare] <Picard>,
 what if I met an historical figure [Data meets Twain] <Mark Twain>,
 
-:: Source ID
-tng6x01
-
-:: Episode Title
-Time's Arrow, Part II
-
 :: Settings
 Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D medical lab, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D bridge, morgue, Victorian era boarding room, hospital room, American 19th century era city street, cavern
 
@@ -15896,12 +15134,6 @@ self-confidence [Barclay] <Barclay>,
 self-analysis [Barclay] <Barclay>,
 teleportation device [the episode revolved around Barclay's attitudes toward using the transporter] <transporter>,
 patience [Geordi with Barclay] <Geordi>,
-
-:: Source ID
-tng6x02
-
-:: Episode Title
-Realm of Fear
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Barclay's quarters <bedroom>, bedroom, Enterprise-D transporter room, Enterprise-D Troi's office, science ship science lab, science ship control room, blue void
@@ -16021,12 +15253,6 @@ ruthlessness [Ves Alkar] <Ves Alkar>,
 vanity [Troi with her fancy dress] <Troi>,
 the good of the many vs. the needs of the few [Alkar justifies the women's deaths by arguing it is necessary to prevent war on Rekag-Seronia],
 rapid aging process [Troi rapidly aged from Ves Alker using her as a receptacle for his negative emotions.],
-
-:: Source ID
-tng6x03
-
-:: Episode Title
-Man of the People
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D gymnasium, Enterprise-D corridor, Enterprise-D Troi's office, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Troi's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Beverly's office, Enterprise-D sickbay, Enterprise-D Alkar's quarters, morgue, conference chamber anteroom
@@ -16169,12 +15395,6 @@ hospitality [Picard and Geordi v Scotty] <Picard, Geordi>,
 kindness [Picard and Geordi toward Scotty] <Picard, Geordi>,
 patience [Geordi with Scotty] <Geordi>,
 
-:: Source ID
-tng6x04
-
-:: Episode Title
-Relics
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D holodeck <Enterprise NCC-1701 bridge>, Enterprise bridge, Enterprise-D shuttle bay, Enterprise-D Scotty's quarters, Jenolan ops center <wrecked room>, wrecked room
 
@@ -16294,12 +15514,6 @@ cooperation [crew in reconstructing table on holodeck],
 love of a pet [Data at Spot] <Data>,
 master and pet [Data and Spot] <Data/Spot>,
 tardiness [Riker overslept and missed a meeting.],
-
-:: Source ID
-tng6x05
-
-:: Episode Title
-Schisms
 
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D observation lounge, Ten Forward <concert hall>, concert hall, Enterprise-D cargo bay, Enterprise-D holodeck <gridlines>, gridlines,  Enterprise-D corridor, Enterprise-D barbershop, Enterprise-D Riker's quarters <bedroom>, bedroom, alien lab
@@ -16426,12 +15640,6 @@ kindness [Beverly and others toward Amanda] <Beverly>,
 laziness [Amanda took the easy route to finishing those experiments] <Amanda Rogers>,
 filial love [Amanda to deceased parents] <Amanda Rogers>,
 
-:: Source ID
-tng6x06
-
-:: Episode Title
-True Q
-
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D medical lab, Enterprise-D corridor, gazebo, spaceship outer hull
 
@@ -16549,12 +15757,6 @@ cruelty [Ferengi describing how they would all be worked to death],
 humility [Picard in stepping down] <Picard>,
 ruthlessness [Ferengi about slave labor],
 
-:: Source ID
-tng6x07
-
-:: Episode Title
-Rascals
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D sickbay, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D Jefferies tube, Enterprise-D O'Brien's quarters <living room; bedroom>, living room, bedroom, Enterprise-D Picard's quarters, Enterprise-D Ro's quarters, Enterprise-D classroom, shuttlecraft
 
@@ -16666,12 +15868,6 @@ girl power [Troi as deputy],
 android [a fistful of Datas on the holodeck] <Data, Soong Type Android>,
 coping with unwelcome romantic attention [Worf at Annie] <Worf>,
 boredom [Alexander nags Worf into playing together on the holodeck] <Alexander Rozhenko>,
-
-:: Source ID
-tng6x08
-
-:: Episode Title
-A Fistful of Datas
 
 :: Settings
 Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <rehearsal room>, rehearsal room, Enterprise-D corridor, Enterprise-D holodeck <world of the Wild West; Wild West saloon; Wild West sheriff's office; mine shaft; Wild West town street>, Enterprise-D Worf's quarters, Enterprise-D Picard's quarters, Enterprise-D Data's quarters, Wild West saloon, Wild West sheriff's office, mine shaft, Wild West town street
@@ -16785,12 +15981,6 @@ sacrifice for a friend [exocomps for Data],
 compassion [exocomps],
 android [Data] <Data, Soong Type Android>,
 
-:: Source ID
-tng6x09
-
-:: Episode Title
-The Quality of Life
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D ready room, Enterprise-D Data's quarters, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D observation lounge <poker table>, poker table, machine room
 
@@ -16891,12 +16081,6 @@ diplomatic negotiating [Jellico takes a hardball approach to negotiating with Ca
 annihilation by WMDs [metagenic weapon],
 coping with disagreeable orders [Riker with Jellico's orders] <Riker>,
 personal conviction [Jellico] <Edward Jellico>,
-
-:: Source ID
-tng6x10
-
-:: Episode Title
-Chain of Command, Part I
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Picard's quarters, Enterprise-D ready room, shuttlecraft, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D holodeck <cavern>, cavern, lava tube, rocky landscape, chamber, alien bar, cliff face, rocky ledge
@@ -17025,12 +16209,6 @@ sacrifice for a friend [Picard stays for Beverly] <Picard>,
 personal conviction [Jellico] <Edward Jellico>,
 fear [Picard] <Picard>,
 
-:: Source ID
-tng6x11
-
-:: Episode Title
-Chain of Command, Part II
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters, Enterprise-D ready room, shuttlecraft, Enterprise-D shuttle bay, Enterprise-D sickbay, torture chamber, interrogation room
 
@@ -17148,12 +16326,6 @@ the flip side of immortality [We learned that Moriarty had been bored to tears i
 teleportation device [possibility of using to transporter to free Moriarty from the holodeck was discussed] <transporter>,
 betrayal [Moriarty felt he was betrayed by Picard.] <Picard>,
 
-:: Source ID
-tng6x12
-
-:: Episode Title
-Ship in a Bottle
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, shuttlecraft, Enterprise-D corridor, Enterprise-D holodeck <Victorian era drawing room; gridlines; Victorian era parlor>, Victorian era drawing room, Victorian era parlor, gridlines
 
@@ -17265,12 +16437,6 @@ telepathy [Aquiel telepathically connected with Geordi in the traditional Hallia
 telepathic being [Hallians] <Hallian>,
 diplomatic maneuvering [crew with Klingons],
 ennui [Aquiel on space station] <Aquiel Uhnari>,
-
-:: Source ID
-tng6x13
-
-:: Episode Title
-Aquiel
 
 :: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Geordi's quarters, Enterprise-D Morag's quarters, Enterprise-D corridor, Enterprise-D Aquiel's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D shuttle bay, shuttlecraft, Relay Station 47 Aquiel's quarters, Relay Station 47 ops
@@ -17391,12 +16557,6 @@ emotional overwhelm [Troi upon finding herself on a Romulan warbird] <Troi>,
 ruthlessness [Troi as Tal Shiar] <Troi>,
 appearance altering technology [Troi surgically altered to look like a Romulan] <Troi>,
 
-:: Source ID
-tng6x14
-
-:: Episode Title
-Face of the Enemy
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D Deseve's quarters, Enterprise-D ready room, Enterprise-D sickbay, Romulan warbird Troi's quarters <Spartan quarters>, Spartan quarters, Romulan warbird bridge, Romulan warbird cargo bay, Romulan warbird ward room <dinner table>, dinner table
 
@@ -17516,12 +16676,6 @@ betrayal [Cortan accuses Picard of being fast friend] <Picard>,
 hubris [Cortan and young Picard] <Picard, Cortan Zweller>,
 vanity [Cortan] <Cortan Zweller>,
 
-:: Source ID
-tng6x15
-
-:: Episode Title
-Tapestry
-
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D turbolift, Enterprise-D Beverly's quarters, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Starbase Earhart Picard's quarters, Starbase Earhart Marta's quarters, bar, white void
 
@@ -17636,12 +16790,6 @@ denial [Worf about his father being a coward] <Worf>,
 pleasure in antiquing [Geordi wanted to visit a Katarian antique shop] <Geordi>,
 the thirst for knowledge [Bashir about Data] <Julian Bashir>,
 anger [Worf smashes a glass table] <Worf>,
-
-:: Source ID
-tng6x16
-
-:: Episode Title
-Birthright, Part I
 
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Data's quarters, Enterprise-D ready room, Enterprise-D Worf's quarters, DS9 promenade, DS9 replimat, shuttlecraft, garden, meeting hall, jungle clearing
@@ -17765,12 +16913,6 @@ adolescence [Klingon teens stuck in prison camp] <Toq>,
 belonging [Klingons in Romulan society],
 kindness [Tokath to his captives] <Tokath>,
 
-:: Source ID
-tng6x17
-
-:: Episode Title
-Birthright, Part II
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, meeting hall, shuttlecraft, living room, jungle clearing, vegetable garden
 
@@ -17878,12 +17020,6 @@ coping with an obnoxious chatterbox [Picard went back to get his saddle rather t
 working together under stress [landing party after being taken hostage],
 the art of smalltalk [Data studied Hutchinson],
 hospitality [Hutchinson to landing party] <Calvin Hutchinson>,
-
-:: Source ID
-tng6x18
-
-:: Episode Title
-Starship Mine
 
 :: Settings
 Enterprise-D bridge, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Worf's quarters, Enterprise-D Jefferies tube, Ten Forward <bar>, bar, banquet room
@@ -18012,12 +17148,6 @@ coping with a loved one being in peril [Picard at Nella] <Picard>,
 human vs. nature [landing party vs. fire storms] <Nella Daren>,
 grief [Picard thought Nella died] <Picard>,
 
-:: Source ID
-tng6x19
-
-:: Episode Title
-Lessons
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D stellar cartography lab, Enterprise-D Picard's quarters <dinner table>, dinner table, Ten Forward <concert hall>, concert hall, Enterprise-D Jefferies tube, Enterprise-D engineering, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D sickbay
 
@@ -18131,12 +17261,6 @@ pursuing one's dream vs. advancing one's career [Picard] <Picard>,
 putting differences aside [various humanoid species to solve puzzle],
 coping with the death of a friend [Picard at Galen] <Picard>,
 grief [Picard for Galen] <Picard>,
-
-:: Source ID
-tng6x20
-
-:: Episode Title
-The Chase
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D Picard's quarters, Enterprise-D medical lab, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D ready room, mountain pass
@@ -18275,12 +17399,6 @@ desperation [Riker in insane asylum] <Riker>,
 anger [Riker mad] <Riker>,
 fear [Riker locked up] <Riker>,
 
-:: Source ID
-tng6x21
-
-:: Episode Title
-Frame of Mind
-
 :: Settings
 Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D Riker's quarters, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Ten Forward <bar>, bar, Enterprise-D theater <asylum cell; asylum cafeteria>, asylum cell, asylum cafeteria, alien lab
 
@@ -18396,12 +17514,6 @@ coping with the death of a colleague [Beverly at Reyga] <Beverly>,
 guilt and evidence [how to prove Reyga was murdered],
 hospitality [crew to visiting scientists],
 kindness [Beverly] <Beverly>,
-
-:: Source ID
-tng6x22
-
-:: Episode Title
-Suspicions
 
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D corridor, Enterprise-D shuttle bay, Enterprise-D science lab, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D Picard's quarters, Enterprise-D Beverly's quarters, Enterprise-D Christopher's quarters, shuttlecraft, morgue
@@ -18524,12 +17636,6 @@ patience [Worf stayed Gowrons hand] <Worf>,
 theocracy [Kahless briefly wanted to rule over Klingons] <Klingon>,
 tardiness [Worf was late for duty.],
 
-:: Source ID
-tng6x23
-
-:: Episode Title
-Rightful Heir
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Worf's quarters <dimly lit room>, dimly lit room, Enterprise-D Kahless's quarters, Enterprise-D holodeck <throne room>, cavern, throne room, chamber
 
@@ -18645,12 +17751,6 @@ compassion [Troi at Tom] <Troi>,
 humility [Tom Riker as contrasted with Will Riker] <Thomas Riker>,
 kindness [Troi to Tom Riker] <Troi>,
 
-:: Source ID
-tng6x24
-
-:: Episode Title
-Second Chances
-
 :: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D gymnasium, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D Troi's quarters, Enterprise-D Lt. Riker's quarters, cavern, Nirvala IV control room
 
@@ -18757,12 +17857,6 @@ time travel [crew experience localized time distortions],
 the nature of human perception of time [Data and the tea kettle],
 black hole dwelling being [the quantum singularity lifeform] <Quantum Singularity Lifeform>,
 rapid aging process [Captain Picard's had was rapidly aged when he put it inside a time distortion.],
-
-:: Source ID
-tng6x25
-
-:: Episode Title
-Timescape
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D Data's quarters, shuttlecraft, Romulan warbird engineering, dinner table
@@ -18879,12 +17973,6 @@ general relativity [Einstein discussed],
 pleasure in violence [Data] <Data>,
 collectively intelligent beings [Borg] <Borg>,
 assimilating beings [The Borg's penchant for turning people into cyborgs and assimilating them into their collective consciousness was discussed.],
-
-:: Source ID
-tng6x26
-
-:: Episode Title
-Descent
 
 :: Settings
 Enterprise-D bridge, Enterprise-D holodeck <Enterprise-D Data's quarters; poker table>, poker table, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D Troi's office, Enterprise-D corridor, Enterprise-D brig, Enterprise-D Data's quarters, great hall, control room, countryside
@@ -19022,12 +18110,6 @@ jealousy [Lore and Data mutual] <Data, Lore>,
 fear [Geordi of Data] <Geordi>,
 kindness [Data at Geordi] <Data>,
 
-:: Source ID
-tng7x01
-
-:: Episode Title
-Descent, Part II
-
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D Data's quarters, great hall, futuristic jail cell, corridor, alien lab, countryside, cavern
 
@@ -19137,12 +18219,6 @@ coping with an overbearing jerk [Worf at Byleth] <Worf>,
 standing up to a bully [Worf to Byleth] <Worf>,
 alien customs [Iyaarans],
 patience [Worf in dealing with dignitary] <Worf>,
-
-:: Source ID
-tng7x02
-
-:: Episode Title
-Liaisons
 
 :: Settings
 Enterprise-D Worf's quarters, Enterprise-D shuttle bay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D observation lounge <reception room>, reception room, Enterprise-D Riker's quarters <poker table>, poker table, dilapidated alien shuttlecraft <dilapidated room>, dilapidated room, cargo freighter <makeshift home interior>, makeshift home interior, rocky wasteland, rocky ledge, cliff face
@@ -19268,12 +18344,6 @@ android [Data] <Data, Soong Type Android>,
 incorporeal point of view [subspace beings in the gas giant] <Subspace Beings of Marijne VII>,
 compassion [Data helping Geordi return to the Raman] <Data>,
 
-:: Source ID
-tng7x03
-
-:: Episode Title
-Interface
-
 :: Settings
 science ship <wrecked room; smoke filled room>, wrecked room, smoke filled room, Enterprise-D Jefferies tube, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D Beverly's office, Enterprise-D Data's quarters, Enterprise-D sickbay, Enterprise-D Troi's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D corridor, science ship auxiliary control, science ship engineering
 
@@ -19376,12 +18446,6 @@ anger [Riker at Yranac] <Riker>,
 cruelty [Baran not opposed to using pain implants] <Arctus Baran>,
 fear [renegade crew of Baran] <Tallera, Vekor, Narik>,
 sadism [Baran with pain implant] <Arctus Baran>,
-
-:: Source ID
-tng7x04
-
-:: Episode Title
-Gambit, Part I
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D Riker's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D Yranac's quarters, alien bar, woodland, alien lab, mercenary ship Riker's quarters, mercenary ship bridge
@@ -19503,12 +18567,6 @@ fear [renegade crew of Baran] <Tallera, Vekor, Narik>,
 ruthlessness [Baran] <Arctus Baran>,
 sadism [Baran with pain implant] <Arctus Baran>,
 
-:: Source ID
-tng7x05
-
-:: Episode Title
-Gambit, Part II
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Baran's quarters, mercenary ship cargo bay, mercenary ship Picard's quarters, mercenary ship cargo hold, cavern
 
@@ -19621,12 +18679,6 @@ love of a pet [Data at Spot] <Data>,
 master and pet [Data and Spot] <Data/Spot>,
 boredom [Picard at prospect of attending Starfleet banquet] <Picard>,
 fear [many by nightmares and Troi at being stabbed by Data in the turbolift] <Troi>,
-
-:: Source ID
-tng7x06
-
-:: Episode Title
-Phantasms
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Data's quarters <bedroom>, bedroom, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D holodeck <psychiatrist's office; gridlines>, psychiatrist's office, gridlines, Enterprise-D Troi's office, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay
@@ -19756,12 +18808,6 @@ fear [nightmares] <Lwaxana>,
 filial love [Troi to Lwaxana] <Troi>,
 Freudian psychoanalysis [Data of Lwaxana's dreams],
 
-:: Source ID
-tng7x07
-
-:: Episode Title
-Dark Page
-
 :: Settings
 Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Troi's office, Enterprise-D sickbay, Enterprise-D Maques' quarters, Enterprise-D Beverly's office, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D arboretum, living room
 
@@ -19882,12 +18928,6 @@ fear [Beverly's fear of heights] <Beverly>,
 federalism [Kes sought membership in Federation],
 global unification under a central authority [Federation demanded global unification as a precondition membership] <Kesprytt>,
 
-:: Source ID
-tng7x08
-
-:: Episode Title
-Attached
-
 :: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters <dinner table>, dinner table, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D Kes' quarters, detention cell, cavern, cavern entrance, mountainside, campfire
 
@@ -20002,12 +19042,6 @@ seeing the error of one's ways [Geordi when Serova was proven right] <Geordi>,
 lesson in humility [Geordi when Serova was proven right] <Geordi>,
 grief [Rabal for Serova] <Rabal>,
 humility [Geordi gets lesson in humility, physics] <Geordi>,
-
-:: Source ID
-tng7x09
-
-:: Episode Title
-Force of Nature
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Geordi's quarters <bedroom>, bedroom, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D Data's quarters, Enterprise-D stellar cartography lab, Enterprise-D ready room, Ten Forward <bar>, bar
@@ -20130,12 +19164,6 @@ compassion [Data doesn't tell Juliana she's an android] <Data>,
 grief [Juliana for Soong; Data for Lal] <Juliana Tainer, Data>,
 kindness [Data doesn't tell Juliana she's an android] <Data>,
 
-:: Source ID
-tng7x10
-
-:: Episode Title
-Inheritance
-
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Ten Forward <concert hall>, concert hall, Enterprise-D corridor, Enterprise-D holodeck <black void>, black void, Enterprise-D Data's quarters, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, cavern, subterranean passageway
 
@@ -20242,12 +19270,6 @@ grief [crew for parallel-Geordi] <Beverly>,
 humility [Worf about birthday party] <Worf>,
 sadness [Troi to leave Worf] <Troi>,
 space telescope [subspace telescope] <Argus Array>,
-
-:: Source ID
-tng7x11
-
-:: Episode Title
-Parallels
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Worf's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, Enterprise-D sickbay, shuttlecraft
@@ -20376,12 +19398,6 @@ hatred [Riker for Pressman] <Riker>,
 ruthlessness [Pressman to Pegasus crew] <Erik Pressman>,
 military secrecy [Pressman had run a covert Federation program (the Pegasus project) to develop interphasic cloaking technology.],
 
-:: Source ID
-tng7x12
-
-:: Episode Title
-The Pegasus
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D Picard's quarters, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D brig, Pegasus engineering
 
@@ -20502,12 +19518,6 @@ fortitude [Nikolai at beginning against Picard's orders] <Nikolai Rozhenko>,
 grief [all for Boraalans; Vorin],
 theocracy [Work as prophet king],
 
-:: Source ID
-tng7x13
-
-:: Episode Title
-Homeward
-
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D stellar cartography lab, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D Vorin's quarters, cavern, xeric scrubland, Enterprise-D holodeck <cavern; mountain pass; campfire>, cavern, mountain pass, campfire
 
@@ -20616,12 +19626,6 @@ the Scottish stereotype [The Sub Rosa colonists were patterned ofter the Scottis
 facing a mortal enemy [Beverly faces Ronin] <Beverly>,
 standing up to a boss [Beverly to Picard about resigning] <Beverly>,
 grief [Beverly for Felisa Howard] <Beverly>,
-
-:: Source ID
-tng7x14
-
-:: Episode Title
-Sub Rosa
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Beverly's quarters <bedroom>, bedroom, Enterprise-D corridor, Enterprise-D engineering, Enterprise-D ready room, Ten Forward <bar>, bar, Enterprise-D transporter room, Enterprise-D turbolift, haunted house, cemetery
@@ -20751,12 +19755,6 @@ role models [Riker to Sam] <Riker>,
 coping with the death of a colleague [all with Sito],
 fortitude [young ensigns] <Sito Jaxa, Sam Lavelle, Taurik>,
 grief [crew for Sito],
-
-:: Source ID
-tng7x15
-
-:: Episode Title
-Lower Decks
 
 :: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D Beverly's office, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D Riker's quarters <poker table>, poker table, Enterprise-D gymnasium, Enterprise-D observation lounge <meeting room>, meeting room, shuttlecraft, Enterprise-D Lavelle and Taurik's quarters <poker table>
@@ -20897,12 +19895,6 @@ fortitude [Troi with the exam, Data with disease] <Troi, Data>,
 grief [Gia for Data] <Gia>,
 ruthlessness [Troi has to order Geordi to his death] <Troi>,
 
-:: Source ID
-tng7x16
-
-:: Episode Title
-Thine Own Self
-
 :: Settings
 Enterprise-D bridge, Enterprise-D sickbay, Enterprise-D Riker's quarters, Enterprise-D Troi's quarters, Enterprise-D holodeck <Enterprise-D engineering>, town square, living room
 
@@ -21014,12 +20006,6 @@ matter transmuter [space library transmuted Enterprise into alien habitat],
 rogue comet [the space library was on a rogue comet],
 sculpture [Data was sculpturing],
 theocracy [space Egyptian society] <D'Arsay>,
-
-:: Source ID
-tng7x17
-
-:: Episode Title
-Masks
 
 :: Settings
 Enterprise-D classroom, Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Data's quarters <dimly lit room>, dimly lit room, Enterprise-D corridor, temple
@@ -21134,12 +20120,6 @@ coping with the death of a subordinate [crew, especially Riker, with Kwon] <Rike
 mental illness [Daniel Kwon was in a deranged state of mind immediately before he committed suicide] <Daniel Kwon>,
 grief [some for Kwan] <Riker>,
 
-:: Source ID
-tng7x18
-
-:: Episode Title
-Eye of the Beholder
-
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D nacelle control, Enterprise-D Kwain's quarters, Enterprise-D Beverly's office, Enterprise-D sickbay, Enterprise-D Troi's quarters, Ten Forward <bar>, bar, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D Calloway's quarters, Enterprise-D corridor
 
@@ -21251,12 +20231,6 @@ anger [caveman-Riker] <Riker>,
 fortitude [Picard carries on in spite of his fears] <Picard>,
 fear [lemur-Picard of beast-Worf] <Picard>,
 hominid evolution [Riker devolved to a caveman.],
-
-:: Source ID
-tng7x19
-
-:: Episode Title
-Genesis
 
 :: Settings
 Enterprise-D bridge <dimly lit room>, dimly lit room, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D Data's quarters <living room>, living room, Enterprise-D Worf's quarters <bedroom>, bedroom, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D Troi's quarters <bathroom>, bathroom, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay <dimly lit room>, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, shuttlecraft
@@ -21403,12 +20377,6 @@ patience [Anthwara in negotiating with Picard] <Anthwara>,
 laziness [Wesley late for party] <Wesley>,
 tardiness [Wesley showed up late for his own welcome party.],
 
-:: Source ID
-tng7x20
-
-:: Episode Title
-Journey's End
-
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D Picard's quarters, Enterprise-D Wesley's quarters, town square
 
@@ -21535,12 +20503,6 @@ time travel [Alexander travels back in time to set himself straight],
 single fatherhood [Worf fathering Alexander] <Worf>,
 grief [Worf and Alexander for K'Ehleyr] <Worf, Alexander Rozhenko>,
 patience [Worf with Alexander] <Worf>,
-
-:: Source ID
-tng7x21
-
-:: Episode Title
-Firstborn
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Worf's quarters <bedroom>, bedroom, Enterprise-D corridor, Ten Forward <bar>, bar, Enterprise-D Troi's quarters, Enterprise-D observation lounge <meeting room>, meeting room, rocky pit, mine, Enterprise-D holodeck <town square>, town square
@@ -21674,12 +20636,6 @@ hospitality [Picard and crew to Jason] <Picard>,
 kindness [Picard to Jason] <Picard>,
 patience [Picard v. pseudo-son] <Picard>,
 
-:: Source ID
-tng7x22
-
-:: Episode Title
-Bloodlines
-
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Picard's quarters <bedroom>, bedroom, Enterprise-D Beverly's office, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <cavern>, cavern, Enterprise-D Daniel's quarters
 
@@ -21798,12 +20754,6 @@ art appreciation [Picard coaches Data in the role of Prospero] <Picard, Data>,
 acting [Data as Prospero] <Picard, Data>,
 the theater [Picard coaches Data in the role of Prospero] <Picard, Data>,
 self-analysis [holodeck being],
-
-:: Source ID
-tng7x23
-
-:: Episode Title
-Emergence
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D Jefferies tube, Enterprise-D holodeck <woodland; train car; American 1950s era city street>, Enterprise-D cargo bay, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, woodland, train car, American 1950s era city street
@@ -21930,12 +20880,6 @@ grief [Ro over Macias] <Ro Laren>,
 mutual trust [Ro and Maquis] <Ro Laren/Macias>,
 guerrilla warfare [The Maquis resistance fighters.],
 
-:: Source ID
-tng7x24
-
-:: Episode Title
-Preemptive Strike
-
 :: Settings
 Enterprise-D bridge, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, alien bar, shuttlecraft, town square
 
@@ -22056,12 +21000,6 @@ the need to feel useful to society [old man Picard] <Picard>,
 fortitude [old Picard in spite of disbelief] <Picard>,
 abiogenesis [Q and Picard discuss life starting from goop],
 
-:: Source ID
-tng7x25
-
-:: Episode Title
-All Good Things...
-
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Troi's quarters, Enterprise-D sickbay, Enterprise-D Beverly's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D ready room, Enterprise-D engineering, Enterprise-D Riker's quarters <poker table>, poker table, vineyard, volcanic wasteland, Ten Forward <bar>, bar, Enterprise-D turbolift, shuttlecraft, Enterprise-D shuttle bay, drawing room, courtroom, Enterprise-D holodeck <gridlines>, gridlines, Pasteur bridge, Pasteur ready room, Pasteur turbolift
 
@@ -22170,12 +21108,6 @@ All Good Things...
 :: Supporting Cast
 
 :: Genre
-
-:: Source ID
-tng7x26
-
-:: Episode Title
-All Good Things...
 
 :: Settings
 
