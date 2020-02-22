@@ -597,6 +597,26 @@ the Ripper in tos2x07 "Wolf in the Fold".
 https://en.wikipedia.org/wiki/Jack_the_Ripper
 
 
+Japanese folklore
+=================
+
+:: Description
+Elements of folkly Japanese traditions are explicitly and unambiguously
+featured. There may, for example, be nature spirits or deities with Japanese
+names.
+
+:: Parents
+superstition
+
+:: Examples
+In "Spirited Away" (2001), the young Japanese girl Chihiro found her self in a
+peculiar land of legends, to which Japanese gods and spirits came each night
+to visit a sorceress's magical bathhouse.
+
+:: References
+https://en.wikipedia.org/wiki/Japanese_folklore
+
+
 Jovian extraterrestrial
 =======================
 
@@ -2207,6 +2227,24 @@ existential risk to civilization
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 
 
+anthropomorphic object come to life
+===================================
+
+:: Description
+There is a doll, puppet, mannequin, or suchlike human-shaped object that is
+ordinarily inanimate but now moves and acts on its own accord like a sentient
+human being.
+
+:: Parents
+inanimate object come to life
+
+:: Examples
+In tz1985e2x04a "The After Hours", we saw how a woman named Marsha discovered
+that she was, in fact, a store mannequin that had been granted the opportunity
+to experience real life for a short while, but must now revert to her former
+inanimate state.
+
+
 anti-aging technology
 =====================
 
@@ -3142,6 +3180,21 @@ Sheliak in tng3x02 "The Ensigns of Command".
 
 :: References
 https://en.wikipedia.org/wiki/Alien_invasion
+
+
+attack from outer space by a giant spaceborne being
+===================================================
+
+:: Description
+An inhabited world is destroyed by a ginormous creature that lives in space
+and, presumably, likes to eat planets.
+
+:: Parents
+attack from outer space
+
+:: Examples
+The Gamma 7A system, with its billions of inhabitants, was utterly destroyed
+by a giant space amoeba in tos2x19 "The Immunity Syndrome".
 
 
 attack from outer space by a powerful conquering alien race
@@ -6537,6 +6590,32 @@ political career, as well as the life of beloved Royal Family member Princess
 Susannah.
 
 
+compulsive spending
+===================
+
+:: Description
+A character exhibits an obsession with shopping, and a buying behavior that
+leads to adverse consequences for her. In stories, typically this is due to
+excessive spending that leads to financial problems. However, it can also
+involve just spending inordinate amounts of time on shopping activities.
+
+:: Parents
+human addiction
+
+:: Examples
+In tz1985e2x08a "The Card", we saw a woman, Linda, who had been rejected for
+every major credit card due to problems with late payments. She now applies
+for a rather special card with draconian penalties for late payment. When,
+again, she fails to make payments on schedule her family members start to
+disappear.
+
+:: References
+https://en.wikipedia.org/wiki/Compulsive_buying_disorder
+
+:: Aliases
+oniomania,
+
+
 computer hacking
 ================
 
@@ -6571,6 +6650,25 @@ artificial intelligence
 Captain Kirk pulled the plug on a 500 year long computer simulated war between
 the Eminain Union and the People of Vendikar in tos1x23 "A Taste of
 Armageddon".
+
+
+computer simulation
+===================
+
+:: Description
+A computer is used to simulate a complex system, for example the movement of
+planets in a solar system, the folding of a proteins, the trajectory of a
+vehicle etc.
+
+:: Parents
+topic in science
+
+:: Examples
+Geordi and Leah Brahms used the holodeck to simulate the warp engine, and save
+the day in tng3x06 "Booby Trap".
+
+:: References
+https://en.wikipedia.org/wiki/Computer_simulation
 
 
 con artistry
@@ -6888,6 +6986,20 @@ to live with the consequences.
 human health condition
 
 
+coping with a crisis of faith
+=============================
+
+:: Description
+Someone struggles with a loss of faith in religious beliefs that they once
+held dear.
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Spiritual_crisis
+
+
 coping with a disability
 ========================
 
@@ -7032,20 +7144,6 @@ coping with problematic people
 :: Examples
 Captain Picard and Wesley found themselves stranded on a desert moon with the
 cantankerous mining shuttle captain Dirgo in tng4x09 "Final Mission".
-
-
-coping with a crisis of faith
-=============================
-
-:: Description
-Someone struggles with a loss of faith in religious beliefs that they once
-held dear.
-
-:: Parents
-human mental condition
-
-:: References
-https://en.wikipedia.org/wiki/Spiritual_crisis
 
 
 coping with a loved one being in peril
@@ -10440,23 +10538,6 @@ as a skill in their posession.
 human self improvement
 
 
-superseded scientific theory
-============================
-
-:: Description
-The category of scientific theories that were once widely accepted but have
-since been superseded or outright discarded.
-
-:: Parents
-modern science
-
-:: References
-https://en.wikipedia.org/wiki/Superseded_scientific_theories
-
-:: Aliases
-discredited scientific theory
-
-
 discrete time
 =============
 
@@ -11641,8 +11722,8 @@ energy crisis in society
 
 :: Description
 A society systemically fails to provide enough energy to cover basic demands.
-Energy means electricity as well as fossil fuels and other kinds of fuels that are used
-to perform work.
+Energy means electricity as well as fossil fuels and other kinds of fuels that
+are used to perform work.
 
 :: Parents
 socioeconomic issue
@@ -11709,6 +11790,23 @@ Squire of Gothos".
 
 :: References
 https://en.wikipedia.org/wiki/Boredom
+
+
+environmental suit
+==================
+
+:: Description
+There is a suit designed specifically for a particular environment, usually
+one otherwise hostile to humans, such as outer space.
+
+:: Parents
+speculative suit
+
+:: Notes
+This is used when the suit is presented as something futuristic.
+
+:: References
+https://en.wikipedia.org/wiki/Environmental_suit
 
 
 environmentalism
@@ -14728,27 +14826,6 @@ https://en.wikipedia.org/wiki/Problem_gambling
 problem gambling
 
 
-problem gambling in society
-===========================
-
-:: Description
-The social consequences of gambling addiction, such as the harm caused to
-those other than the gambler, are explored.
-
-:: Parents
-public health issue
-
-:: Examples
-The pursuit of a good gamble had turned the Triskelian society into one of
-slavery and sadism in tos2x17 "The Gamesters of Triskelion".
-
-:: References
-https://en.wikipedia.org/wiki/Problem_gambling
-
-:: Aliases
-gambling addiction in society
-
-
 gambling with a body part
 =========================
 
@@ -16188,6 +16265,26 @@ Vigo the Carpathian haunted an eerie painting of himself in "Ghostbusters II"
 (1989).
 
 
+haunted vehicle
+===============
+
+:: Description
+There is a vehicle, for example a car, to which a ghost or suchlike spirit is
+attached.
+
+:: Parents
+haunted object
+
+:: Examples
+In tz1985e2x09a "Joy Ride", a group of teenagers come across a car owned by a
+recently deceased neighbor. Alas, the car had been involved in a brutal police
+murder and its putative passengers are brought into a ghostly reenactment of
+that bloody drama.
+
+:: References
+https://en.wikipedia.org/wiki/Phantom_vehicle
+
+
 having a baby out of wedlock
 ============================
 
@@ -16573,6 +16670,24 @@ to blurt out.
 
 :: Parents
 exercising self-restraint
+
+
+holding someone captive to protect them
+=======================================
+
+:: Description
+We are made to ponder whether and to what extent it is ethically justifiable
+to hold someone against their will if doing so is for the sake of their own
+safety.
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+In tz1985e2x05 "The Toys of Caliban", we saw an elderly married couple who
+were raising their intellectually disabled son Toby in seclusion because he
+had a dangerous magical ability but no self-restraint or sense to conduct
+himself safely with his power.
 
 
 hollowed out asteroid habitat
@@ -17931,6 +18046,16 @@ personal practical dilemma
 Captain Kirk and Commissioner Ferris debated whether to keep up the search for
 the Galileo shuttlecraft in tos1x13 "The Galileo Seven", even though it was
 almost certainly hopeless.
+
+
+inanimate object come to life
+=============================
+
+:: Description
+An ordinarily inanimate object moves and acts like a living being.
+
+:: Parents
+speculative being
 
 
 inattentive male partner
@@ -19613,6 +19738,17 @@ Taurean women put such devices on men in tas1x04 "The Lorelei Signal", until
 Captain Kirk and his crew put a stop to it all.
 
 
+life in academia
+================
+
+:: Description
+We are shown what life might be like for professors, lecturers, grad-students,
+and suchlike creatures.
+
+:: Parents
+what life is like
+
+
 life in the corporate world
 ===========================
 
@@ -19635,6 +19771,24 @@ of the military is demonstrated.
 what life is like
 
 
+life on the high seas
+=====================
+
+:: Description
+A reasonable idea of what it might be like to spend an extended period of time
+aboard a ship on the high seas, is put forth. For example, the life of a 19:th
+century sailor spending several months aboard a cargo ship or whaling vessel
+may be featured.
+
+:: Parents
+what life is like
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
+
+
 life with a handicap vs. death
 ==============================
 
@@ -19655,17 +19809,6 @@ that offers the same protection.
 
 :: Parents
 speculative wearable device
-
-
-life in academia
-================
-
-:: Description
-We are shown what life might be like for professors, lecturers, grad-students,
-and suchlike creatures.
-
-:: Parents
-what life is like
 
 
 light refraction
@@ -20449,6 +20592,21 @@ magic object
 
 :: References
 https://en.wikipedia.org/wiki/Portals_in_fiction
+
+
+magic powers
+============
+
+:: Description
+A character is able to do at will some fantastical things that can only be
+described as "magic".
+
+:: Parents
+supernatural ability
+
+:: Notes
+This theme is used when the story itself implies magic, rather than for
+example speculative technology or other categorized speculative ability.
 
 
 magic word
@@ -21391,6 +21549,33 @@ human mental condition
 
 :: References
 https://en.wikipedia.org/wiki/Mental_disorder
+
+
+mental retardation
+==================
+
+:: Description
+There is a person who suffers from a neurodevelopmental disorder so severe
+that they have a significantly lower IQ (technically below 70) and problems
+with adaptive behavior that make their everyday living problematic.
+
+:: Parents
+human mental condition
+
+:: Notes
+This theme may be included in stories that clearly explore actual as well as
+borderline intellectual disability even if it is not clear that the technical
+definition of that condition are fulfilled. It may also be included in stories
+that parody or mischaracterize the condition.
+
+:: Examples
+In tz1985e2x05 "The Toys of Caliban", we saw an elderly married couple who
+were raising their intellectually disabled son Toby in seclusion because he
+had a dangerous magical ability but no self-restraint or sense to conduct
+himself safely with his power.
+
+:: References
+https://en.wikipedia.org/wiki/Intellectual_disability
 
 
 mentally distinguished being
@@ -24023,6 +24208,25 @@ black-outs as it can no longer even produce the electricity it needs to light
 up its board rooms.
 
 
+ozone layer depletion
+=====================
+
+:: Description
+The environmental issue of human activity causing the ozone layer to weaken is
+featured. This leads to increased ultraviolet radiation which is thought to be
+harmful to life in general.
+
+:: Parents
+environmental issue
+
+:: Examples
+The Aldeans had gone sterile in tng1x17 "When The Bough Breaks" as a result of
+their planet’s ozone layer having become depleted.
+
+:: References
+https://en.wikipedia.org/wiki/Ozone_depletion
+
+
 pacifism
 ========
 
@@ -24627,6 +24831,25 @@ Captain Picard and Nella Daren made beautiful music together aboard the
 Enterprise-D in tng6x19 "Lessons".
 
 
+passion for nature
+==================
+
+:: Description
+Someone is notably enthusiastic about one aspect or another of those parts of
+the environment on a world that are considered natural. Typically, such a
+character studies wild flora or fauna.
+
+:: Parents
+human pleasure
+
+:: Examples
+In "Jaws" (1975), we saw two people, Hooper and Quinn, who were both
+extraordinarily interested in sharks and shark behavior.
+
+:: References
+https://en.wikipedia.org/wiki/Nature
+
+
 passion for photography
 =======================
 
@@ -25015,6 +25238,24 @@ comes to find that the reputation was not entirely warranted.
 
 :: Parents
 human idea about life
+
+
+people meddling in history
+==========================
+
+:: Description
+The idea is presented that a sentient entity has more or less deliberately
+intervened to shape that history in a way that is not normal. This typically
+necessitates some form of time travel or clandestine visit by someone who is
+not supposed to be part of our history.
+
+:: Parents
+crackpot theory
+
+:: Examples
+In tz1985e1x22c "The Library", an aspiring writer discovered she could
+retroactively change reality by rewriting books containing descriptions of her
+loved ones lives.
 
 
 people tubes
@@ -26070,6 +26311,26 @@ political issue
 https://en.wikipedia.org/wiki/Purge
 
 
+political repression in society
+===============================
+
+:: Description
+A state entity uses force to control its citizens in order to restrict or
+prevent their ability to participate in political life. Typically, this
+happens when people are punished by officialdom for voicing the wrong opinions
+or being part of the wrong groups.
+
+:: Parents
+political issue
+
+:: Examples
+In tz1985e1x21b "Red Snow", we saw how Soviet officials grabbed a political
+dissident carrying forbidden books, off the streets to send him to a Gulag.
+
+:: References
+https://en.wikipedia.org/wiki/Political_repression
+
+
 pollution in society
 ====================
 
@@ -26533,6 +26794,27 @@ socioeconomic issue
 https://en.wikipedia.org/wiki/Privatization
 
 
+problem gambling in society
+===========================
+
+:: Description
+The social consequences of gambling addiction, such as the harm caused to
+those other than the gambler, are explored.
+
+:: Parents
+public health issue
+
+:: Examples
+The pursuit of a good gamble had turned the Triskelian society into one of
+slavery and sadism in tos2x17 "The Gamesters of Triskelion".
+
+:: References
+https://en.wikipedia.org/wiki/Problem_gambling
+
+:: Aliases
+gambling addiction in society
+
+
 problem of language and meaning
 ===============================
 
@@ -26696,6 +26978,25 @@ public safety may be in danger? Where would the line be drawn?
 
 :: Parents
 social ethical dilemma
+
+
+public safety vs. public prosperity
+===================================
+
+:: Description
+A society must decide between a policy that helps the economy on one hand, and
+one that makes people safe on the other.
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+In "Jaws" (1975), Mayor Larry Vaughn refused to let police chief Martin Brody
+close the beaches on Amity Island even after the shark claimed its second
+victim. The Forth of July was only days off and the tourism this occasion
+brings is a backbone of the local economy. Thus the mayor choose to overlook
+evidence and let beach activities go ahead, which ultimately lead to the death
+of yet another victim.
 
 
 pulling the plug on a loved one
@@ -27059,6 +27360,29 @@ human characters in contrast
 The wikipedia articles discussing "realism" and "idealism" refer to abstract
 philosophical concepts that are not very helpful in explaining what the
 present theme is about. We choose to omit these as references.
+
+
+reality television in society
+=============================
+
+:: Description
+Reality television is a genre of television programming that documents
+purportedly unscripted real-life situations, often starring unknown
+individuals rather than professional actors. The ways in which these shows are
+intended to humiliate or exploit participants, make stars out of untalented
+people unworthy of fame and glamorize vulgarity are discussed.
+
+:: Parents
+sociocultural issue
+
+:: Examples
+A seemingly terminally ill woman agreed to have a reality television show made
+out the final days of her life in exchange for a large sum of money in "Death
+Watch" (1980).
+
+:: References
+https://en.wikipedia.org/wiki/Reality_television
+https://en.wikipedia.org/wiki/Criticism_of_reality_television
 
 
 realpolitik vs. idealism
@@ -27698,6 +28022,22 @@ A parent is reunited with their child after a very long time apart.
 
 :: Parents
 human parenting
+
+
+reunion with a loved one
+========================
+
+:: Description
+Two closely related characters, or lovers, are reunited after a significant
+time apart.
+
+:: Parents
+human familial relationship
+
+:: Examples
+In tng7x10 "Inheritance", the android Data was reunited with Juliana Tainer, a
+person he thought of as his mother. Alas, it transpired that she was just an
+android facsimile of the genuine article.
 
 
 reverse aging being
@@ -30067,21 +30407,6 @@ a mysterious disease while the children stayed children for hundreds of years
 in tos1x11 "Miri".
 
 
-speculation that the Devil is not so bad after all
-==================================================
-
-:: Description
-We imagine what the world would be like if the much despised Devil of
-Christian mythology was real yet not, in fact, evil but merely misunderstood.
-
-:: Parents
-crackpot theory
-
-:: Examples
-The Devil was revealed to be  a well-intending but misunderstood alien in
-tas1x08 "The Magicks of Megas-Tu".
-
-
 society in which victims sentence their own assailants
 ======================================================
 
@@ -30195,6 +30520,25 @@ power.
 
 :: References
 https://en.wikipedia.org/wiki/Solar_sail
+
+
+solipsism syndrome
+==================
+
+:: Description
+There is a person who thinks that all of reality is merely a construction in
+their own mind.
+
+:: Parents
+human mental condition
+
+:: Examples
+In tz1985e1x23a "Shadow Play", Adam was thought to suffer from this condition
+when he stated that everyone else was merely an actor in his recurring dream.
+Alas, it transpired that Adam was quite correct.
+
+:: References
+https://en.wikipedia.org/wiki/Solipsism_syndrome
 
 
 solitary confinement as a punishment
@@ -30620,6 +30964,21 @@ The practice of altering one species to become another using scientific means.
 
 :: Parents
 human enhancement technology
+
+
+speculation that the Devil is not so bad after all
+==================================================
+
+:: Description
+We imagine what the world would be like if the much despised Devil of
+Christian mythology was real yet not, in fact, evil but merely misunderstood.
+
+:: Parents
+crackpot theory
+
+:: Examples
+The Devil was revealed to be  a well-intending but misunderstood alien in
+tas1x08 "The Magicks of Megas-Tu".
 
 
 speculative being
@@ -31124,6 +31483,23 @@ spaceship
 Equipped with Dr. Reyga’s metaphasic shield, the shuttlecraft Justman was able
 to fly safely through the star Vaytan’s dense and unstable Corona in tng6x22
 "Suspicions".
+
+
+start-over utopia
+=================
+
+:: Description
+The (rather vague) notion of an idyllic world obtained by simply restarting
+the normal world from scratch whilst avoiding any unappealing aspects, for
+example sleaze, is put forth.
+
+:: Parents
+utopia
+
+:: Example
+In tz1985e2x09b "Shelter Skelter", the survivalist specialist Harry
+dreamed of a chance to start society over without the impure sleaze
+and filth he saw everywhere around him.
 
 
 stasis box
@@ -31670,6 +32046,23 @@ astronomy
 https://en.wikipedia.org/wiki/Supernova
 
 
+superseded scientific theory
+============================
+
+:: Description
+The category of scientific theories that were once widely accepted but have
+since been superseded or outright discarded.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Superseded_scientific_theories
+
+:: Aliases
+discredited scientific theory
+
+
 superstition
 ============
 
@@ -31757,6 +32150,44 @@ A character faces a situation where their life itself is at stake.
 
 :: Parents
 facing adversity
+
+
+survivalism
+===========
+
+:: Description
+Survivalism is a movement of individuals or groups who actively prepare for
+emergencies, including possible disruptions in social or political order, on
+scales from local to international. A person who builds part of his life
+around such activities is featured.
+
+:: Parents
+human way of life
+
+:: References
+https://en.wikipedia.org/wiki/Survivalism
+
+
+survivalist stereotype
+======================
+
+:: Description
+There is a stereotypical character of the sort that prepares excessively for
+the imminent collapse of civilization. This may, for example, be an American
+man who stockpiles food and weapons in his own underground bunker.
+
+:: Parents
+human character stereotype, survivalism
+
+:: References
+https://en.wikipedia.org/wiki/Survivalism
+
+:: Example
+In tz1985e2x09b "Shelter Skelter", the American gun dealer
+and survivalist specialist
+Harry foresaw the imminent breakout of a devastating nuclear war.
+To prepare, he had planned meticulously and stockpiled various
+necessities in his very own secret basement bomb shelter.
 
 
 survivor guilt
@@ -32060,11 +32491,12 @@ A character is in the habit of being late for scheduled activities.
 :: Parents
 human character
 
+:: Examples
+Wesley Crusher dozed off in the science lab and was subsequently late for duty
+in tng3x01 "Evolution".
+
 :: References
 https://en.wikipedia.org/wiki/Tardiness
-
-:: Examples
-Wesley Crusher dozed off in the science lab and was subsequently late for duty in tng3x01 "Evolution".
 
 
 teaching children about death
@@ -32148,6 +32580,24 @@ supernatural ability
 :: References
 https://en.wikipedia.org/wiki/Psychokinesis
 http://www.sf-encyclopedia.com/entry/telekinesis
+
+
+telekinetic machine manipulation ability
+========================================
+
+:: Description
+A character has a psychic ability to control machinery, including electronic
+machinery, such as computers.
+
+:: Parents
+telekinesis
+
+:: Examples
+Cameron Vale reprogrammed a computer using only the power of his own mind in
+"Scanners" (1981).
+
+:: Aliases
+technopathy, cyberpathy, technokinesis
 
 
 telepathic being
@@ -32830,6 +33280,42 @@ these gods were also worshiped by the Space Romans of planet 892-IV in tos2x14
 
 :: References
 https://en.wikipedia.org/wiki/List_of_Roman_deities
+
+
+the Russian Revolution of 1905
+==============================
+
+:: Description
+Events popularly knowns as The Russian Revolution of 1905, are featured. This
+was a wave of mass political and social unrest that spread through vast areas
+of the Russian Empire, some of which was directed at the government. It
+included worker strikes, peasant unrest, and military mutinies.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/1905_Russian_Revolution
+
+:: Example
+The film "Battleship Potemkin" (1925) romanticizes a mutiny aboard
+the eponymous vessel and its involvement with the 1905 uprisings in
+Odessa.
+
+
+the Russian Revolution of 1917
+==============================
+
+:: Description
+Featured is the revolution in Russia led by the Bolsheviks and Vladimir Lenin
+that was instrumental in the larger Russian Revolution of 1917.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Russian_Revolution
+https://en.wikipedia.org/wiki/October_Revolution
 
 
 the Salem witch trials
@@ -34078,6 +34564,19 @@ animal rights
 
 :: References
 http://www.bbc.co.uk/ethics/animals/using/eating_1.shtml
+
+
+the legend of King Arthur
+=========================
+
+:: Description
+The legend of King Arthur and his round table is featured.
+
+:: Parents
+literature appreciation
+
+:: References
+https://en.wikipedia.org/wiki/King_Arthur
 
 
 the letter of the law vs. the spirit of the law
@@ -38095,6 +38594,23 @@ This theme is not used, e.g., for when there is an alien race of beings that
 are innately linked in a hive mind or the like.
 
 
+what if I caught a glimpse of my own future
+===========================================
+
+:: Description
+We imagine what it'd be like to learn, incontrovertibly, some facts about our
+own future.
+
+:: Parents
+what if I could see into the future
+
+:: Examples
+In tz1985e2x04b "Lost and Found", Jenny, an absent minded college student with
+a cantankerous room mate found out from a couple of time travelers hiding in
+her wardrobe that she was, in fact, destined to become the future leader of a
+united Earth.
+
+
 what if I could be young again
 ==============================
 
@@ -39916,6 +40432,22 @@ A character is trapped inside a nightmare.
 what if I found myself in a strange place
 
 
+what if I were trapped underground
+==================================
+
+:: Description
+We imagine what it'd be like to get trapped in a mine, cave, or the like
+without immediate rescue being at hand.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+In tz1985e2x08b "The Junction", two miners from very different points in time
+somehow end up trapped together in a collapsed mineshaft, hoping beyond hope
+for rescue.
+
+
 what if I woke up in a strange place and didn't remember how I got there
 ========================================================================
 
@@ -40986,6 +41518,23 @@ not made with the utmost care.
 
 :: References
 https://en.wikipedia.org/wiki/Aladdin
+
+
+wish-granting shooting star
+===========================
+
+:: Description
+Someone sees a shooting star, makes a wish, and has the wish granted.
+
+:: Parents
+wish-granting magic object
+
+:: Examples
+In tz1985e1x23b "Grace Note", Mary wished upon a shooting star that her older
+sister would become a great opera singer, and so she did.
+
+:: References
+https://en.wikipedia.org/wiki/Shooting_Star
 
 
 witch-hunt
