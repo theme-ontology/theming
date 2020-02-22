@@ -429,9 +429,19 @@ survivalist stereotype
 ======================
 
 :: Description
+There is a stereotypical character of the sort that prepares excessively 
+for the imminent collapse of civilization. This may, for example, be an 
+American man who stockpiles food and weapons in his own underground bunker.
 
 :: Parents
-human character stereotype
+human character stereotype, survivalism
+
+:: Example
+In tz1985e2x09b "Shelter Skelter", the American gun dealer 
+and survivalist specialist 
+Harry foresaw the imminent breakout of a devastating nuclear war. 
+To prepare, he had planned meticulously and stockpiled various
+necessities in his very own secret basement bomb shelter.
 
 :: References
 https://en.wikipedia.org/wiki/Survivalism
@@ -441,6 +451,11 @@ survivalism
 ===========
 
 :: Description
+Survivalism is a movement of individuals or groups who actively 
+prepare for emergencies, including possible disruptions in social 
+or political order, on scales from local to international.
+A person who builds part of his life around such activities is
+featured.
 
 :: Parents
 human way of life
@@ -449,8 +464,8 @@ human way of life
 https://en.wikipedia.org/wiki/Survivalism
 
 
-the October Revolution
-======================
+the Russian Revolution of 1917
+==============================
 
 :: Description
 Featured is the revolution in Russia led by the Bolsheviks and Vladimir Lenin
@@ -460,37 +475,50 @@ that was instrumental in the larger Russian Revolution of 1917.
 history
 
 :: References
+https://en.wikipedia.org/wiki/Russian_Revolution
 https://en.wikipedia.org/wiki/October_Revolution
 
 
-the Russian Revolution
-======================
+the Russian Revolution of 1905
+==============================
 
 :: Description
+Events popularly knowns as The Russian Revolution of 1905, are
+featured.
+This was a wave of mass political and 
+social unrest that spread through vast areas of the Russian Empire, 
+some of which was directed at the government. It included worker 
+strikes, peasant unrest, and military mutinies.
 
 :: Parents
 history
 
+:: Example
+The film "Battleship Potemkin" (1925), romanticizes a mutiny aboard
+the eponymous vessel, and its involvement with the 1905 uprisings in
+Odessa.
+
 :: References
-https://en.wikipedia.org/wiki/Russian_Revolution
-
-
-life on the high seas
-=====================
-
-:: Description
-
-:: Parents
-what life is like
+https://en.wikipedia.org/wiki/1905_Russian_Revolution
 
 
 passion for nature
 ==================
 
 :: Description
+Someone is notably enthusiastic about one aspect or another of
+those parts of the environment on Earth that are considered natural.
+Typically, such a character studies wild flora or fauna.
 
 :: Parents
 human pleasure
+
+:: Examples
+In "Jaws" (1975), we saw two people, Hooper and Quinn, who were 
+both extraordinarily interested in sharks and shark behavior.
+
+:: References
+https://en.wikipedia.org/wiki/Nature
 
 
 passion for reading
@@ -515,6 +543,19 @@ human nature
 https://en.wikipedia.org/wiki/Love
 
 
+
+
+life on the high seas
+=====================
+
+:: Description
+A reasonable idea of what it might be like to spend an extended period
+of time aboard a ship on the high seas, is put forth.
+For example, the life of a 19:th century sailor spending several months 
+aboard a cargo ship or whaling vessel may be featured.
+
+:: Parents
+what life is like
 
 
 
