@@ -152,7 +152,7 @@ Directed by: Tommy Lee Wallace. Story by: Joe Gannon.
 3 <paul>,
 
 :: Major Themes
-the universe is a dream theory [A woman becoming trapped inside her own dream leaves us to ponder whether our own reality is in fact just some dream.],
+the universe is a dream [A woman becoming trapped inside her own dream leaves us to ponder whether our own reality is in fact just some dream.],
 husband and wife [We saw a woman in a dream on a picnic with her dream husband.],
 fantasy romance [We saw a woman in a dream on a picnic with her dream husband.],
 simulated reality [We saw a woman hooked up to a machine that placed her inside her own dreams without her being able to distinguish the dream from reality.],
@@ -1852,7 +1852,7 @@ Directed by: Paul Lynch. Story by: Charles Beaumont, James Crocker.
 
 :: Choice Themes
 what if I repeated a portion of my life over and over again [Adam was reliving his own execution over and over again.],
-the universe is a dream theory [Adam was convinced that his execution won't matter because he is only dreaming.],
+the universe is a dream [Adam was convinced that his execution won't matter because he is only dreaming.],
 
 :: Major Themes
 facing one's own execution [Adam was put on death row to await his hanging.],
@@ -3656,24 +3656,25 @@ happens, however: People have become cold and heartless toward each other.
 Directed by: Richard Bugajski. Story by: William Froug.
 
 :: Ratings
-4 <paul*>,
+4 <paul>,
 3 <mikael>,
 
 :: Choice Themes
+facing an epidemic [A strange disease was spreading around that made people go blind.],
+epidemics in society [We saw a hospital handling the aftermath of a strange disease that was spreading around that made people go blind.],
 
 :: Major Themes
-coping with a disability [Mrs. Reed among others were struck blind by a contagious disease.],what it is like in a medical facility	
-facing an epidemic [A strange disease was spreading around that made people go blind.],
-what it is like in a medical facility [The story was set in a hospital.],
-compassion [Mrs. Reed, and later Claire, identified the cause of the epidemic was the conspicuous lack of care that people show one another in modern society.],
-epidemics in society [A strange disease was spreading around that made people go blind.],
-divine retribution [the two women babbled about punishments for wickedness and the story then ended on that note],
-what it is like in a medical facility [the story mostly took place in a working, realistic, hospital],
+coping with a disability [Mrs. Reed among others were struck blind by a contagious disease. They were show coping with their new visionless reality in the hospital.],
+what it is like in a medical facility [The story mostly took place in a working, realistic, hospital.],
+out of control scientific experiment [A report surfaced that an explosion at a bio-weapons facility may have been responsible for the blindness.],
 
 :: Minor Themes
 husband and wife [Mr. Reed was upset that his wife abandoned him in his time of need.],
 healthcare in society [Claire expressed disgust at people without insurance being denied care at the hospital where she worked as a nurse.],
-selfishness [Ms. Reed had abandoned her husband in his hour of need to save herself, we heard],
+selfishness [Ms. Reed had abandoned her husband in his hour of need to save herself, we heard.],
+biological weapons [A report surfaced that an explosion at a bio-weapons facility may have been responsible for the blindness.],
+divine retribution [Mrs. Reed and ultimately Claire babbled about punishments for wickedness and the story then ended on that note.],
+compassion [Mrs. Reed, and later Claire, identified the cause of the epidemic was the conspicuous lack of care that people show one another in modern society.],
 
 
 tz1985e3x27
@@ -3734,19 +3735,19 @@ Directed by: Paul Lynch. Story by: Harlan Ellison.
 
 :: Choice Themes
 demon [The demon Volkerps and in the end presumably the gangster Nino himself.],
+deal with the devil [Arky struck a deal first with the treacherous, homicidal demon Volkerps, and then the story ended with Arky being left to make a deal with the even worse demon Nino.],
 
 :: Major Themes
-deal with the devil [Arky struck a deal with the treacherous, homicidal demon Volkerps.],
 cowardice [The story started by pointing out how cowardly Arky was, then demonstrated a variety of cowardly acts by different people.],
-facing loan sharks [Arky had borrowed money from Nino at 750 percent interest, and perhaps from Volkerps also. MO: not clear on the details PS: Volkerps provided gambling tips, but not money.],
+facing loan sharks [Arky had borrowed money from Nino at 750 percent interest.],
 organized crime in society [Nino was clearly a gangster who had the whole city under his thumb - he enumerated some of his criminal capabilities to the oracle woman.],
 fear [Arky was in a panicked terror over a legitimate concern that a demon was going to take him away and eat him.],
 
 :: Minor Themes
-infatuation [Nino and his secretary/accountant Miss Thorne. PS: featured throughout so knock up],
+infatuation [Nino and his secretary/accountant Miss Thorne.],
 father and son [Volkerps met his dad in the box.],
 boredom [The gangster Nino spoke of his days and night being filled with ennui since such time as he had mastered all the usual underworld rackets.],
-corruption in society [The underworld crime boss Nino was reminded by his secretary that he had a dinner scheduled with the mayor.],
+corruption in society [The underworld crime boss Nino was reminded by his secretary that he had a dinner scheduled with the mayor. He also told the oracle woman that she could call the police because they work for him.],
 
 
 tz1985e3x29
@@ -3774,15 +3775,13 @@ reality television in society [We heard how people were bored with ordinary TV a
 celebrity worship [We saw how people, women in particular, were obsessed with John and his life on TV.],
 celebrity culture in society [We saw how people, women in particular, were obsessed with John and his life on TV.],
 commercialism in society [John's life had been commoditized without his knowledge.],
-human rights issue [John opined that it must surely be unlawful to treat him as the TV company had done.],
-the universe is a simulation hypothesis [FD John discovered that his life was, in fact, a stage managed TV show reality - and in the end he was left wondering whether perhaps it still was],
-coping with an enamored groupie [John was, not entirely to his dismay, beset upon by hoards of besotted young women.],
+what if my life was secretly stage managed [John discovered that his life was, in fact, a stage managed TV show reality - and in the end he was left wondering whether perhaps it still was.],
 the desire for fame [In the end, John discovered that fame and money were, in fact, somewhat to his liking after all.],
 the right to privacy [John opined that it must surely be unlawful to treat him as the TV company had done. They effectively live streamed his entire life to cable TV.],
-what if someone was pulling of the strings behind my life [for discussion],
 
 :: Minor Themes
 husband and wife [John discovered that his wife of several years was in fact a paid actress.],
+coping with an enamored groupie [John was, not entirely to his dismay, beset upon by hoards of besotted young women.],
 
 :: Notes
 This story inspired "The Truman Show" (1998).
@@ -3813,13 +3812,14 @@ personal identity [Was Darius still human, and still himself, after replacing hi
 the quest for immortality [The point of the story was Darius' intrepid desire to go on living.],
 
 :: Major Themes
-cyborg [We were told that Darius was 50% machine. In particular, he had an artificial brain.],
-what if my personal identity came into question [FD Darius found that he might no longer be human in the eyes of the law and his own son.],
+cyborg [We were told that Darius was 60% machine and had an artificial brain.],
 husband and wife [Anita gave her unwavering support to her husband Darius after his brain was replaced with an electronic one.],
 father and son [Michael tried to legally take over his father's company on the ground that the the entity claiming to be his father was just a machine.],
+father and son rivalry [Michael and his father were rivaling for control of the family company.],
 coping with a greedy heir [Michael made a power grab to take over his father's company.],
 mind uploading [Darius had his mind transfered first onto a computer, and then uploaded to an artificial brain in the body of what was presumably a younger man's body.],
 artificial brain [An old and dying man had his mind copied into an electronic brain that was subsequently implanted into a younger man's body.],
+obsession [Darius virtually worked himself to death to keep his son from taking over his business. Moreover, he ruined his relationship with his son by seeking immortality.],
 
 :: Minor Themes
 mother-in-law and son-in-law [Michael and his mother-in-law Anita quarreled over whether or not his father was alive or dead.],
