@@ -61,7 +61,8 @@ the nature of love
 ==================
 
 :: Description
-The emotion of love and associated activities are pondered.
+The emotion of love and associated activities are pondered from a 
+philosophical perspective.
 
 :: Parents
 human nature
@@ -166,6 +167,12 @@ passion for sports
 ==================
 
 :: Description
+A character is notably enthusiastic about some sport or all. 
+
+:: Notes
+Precisely what activities qualify as "sports" is sometimes controversial.
+Here we primarily mean competitive spectator sports and such sports that 
+conventionally attract a fan base.
 
 :: Parents
 human pleasure
@@ -178,6 +185,7 @@ the game of baseball
 ====================
 
 :: Description
+This competitive bat-and-ball team sport is notably featured.
 
 :: Parents
 sports
@@ -190,6 +198,7 @@ the game of basketball
 ======================
 
 :: Description
+This competitive team sport, and ballgame, is notably featured.
 
 :: Parents
 sports
@@ -202,6 +211,17 @@ property rights vs. public interest
 ===================================
 
 :: Description
+There is a situation in which we must decide whether someone's lawful right 
+to their property outweighs some other issue that is important to society
+at large. For example, can the government take your land in order to
+build a highway? Temporarily prevent you from using your land in order
+to excavate a site of archaeological interest?
+
+:: Examples
+In tz1985e3x04 "The Hunters", a real estate developer quarreled with an 
+archaeologist over who had a right to do what on a piece of land. The 
+archaeologist wanted time to study some pre-historic cave drawings, while the 
+developer wanted no further delay in beginning a construction project.
 
 :: Parents
 social ethical dilemma
@@ -211,24 +231,39 @@ letting go of the past
 ======================
 
 :: Description
+A character struggles with accepting and adjusting to their new reality
+after something adverse and irreversible has happened to it. Typically
+this theme is used when someone has trouble moving on after a, to them, 
+important person has passed away.
+
+:: Examples
+In tz1985e3x05 "Dream Me a Life", both Roger and Laurel were miserable
+because they had difficulty letting go of their late lovers and moving on.
+In the end they finally did so and became acquainted with each other,
+possibly as intimates.
 
 :: Parents
 human thinking about self
-
 
 
 life force transfer
 ===================
 
 :: Description
+Seen is a process, perhaps aided by technology or magic, in which 
+"life force" (spiritual energy, part of the soul, or the like) is
+transfered form one person to another.
 
 :: Parents
 speculative natural process
 
 :: Examples
 Taurean women put life force draining headbands on men in tas1x04 
-"The Lorelei Signal", until
-Captain Kirk and his crew put a stop to it all.
+"The Lorelei Signal", in order to extend their own lives, 
+until Captain Kirk and his crew put a stop to these shenanigans.
+
+:: References
+https://en.wikipedia.org/wiki/Energy_(esotericism)
 
 
 impossible love
