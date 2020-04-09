@@ -367,6 +367,13 @@ teleportation ability
 =====================
 
 :: Description
+A character, by using their mind alone, is able to instantaneously move themself,
+others, or objects, to remote locations, as by magic.
+
+:: Examples
+In tz1985e3x21 "Room 2426", the imprisoned professor Martin Decker learned how
+to use will alone to move himself in space. Thus he made good his escape, and
+was able to save the world to boot.
 
 :: Parents
 supernatural ability
@@ -376,35 +383,34 @@ selling a part of one's self
 ============================
 
 :: Description
+A character deliberates whether to sell an organ or some other body part. Typically,
+a character suffering from poverty considers this as a last resort to get a decent
+living standard.
 
 :: Parents
 human life choice
 
-:: Notes
-
 :: Examples
+In tz1985e3x22 "The Mind of Simon Foster", Simon sold his memories to a sleezy 
+pawnbroker in order to pay his rent and avoid being thrown into the street.
 
 :: Aliases
 selling an organ
 
-
-the Casanova stereotype
-=======================
-
-:: Description
-
-:: Parents
-male stereotype
-
-:: Examples
+:: Related Themes
+organ theft in society
 
 
 the universe is a dream
 =======================
 
 :: Description
-The hypothesis that reality as we know it is simply the dream of some
-(presumably unknowable) sentient entity.
+We must ponder the possibility that reality as we know it is simply the dream 
+of one's self, or of some other sentient entity.
+
+:: Examples
+In tz1985e1x23a "Shadow Play", Adam was convinced that his execution wouldn't 
+matter because he is only dreaming.
 
 :: Parents
 speculative reality
@@ -417,8 +423,8 @@ the universe is a simulation
 ============================
 
 :: Description
-The notion that all we are and all we know is just a simulation within a
-larger reality is featured.
+We must ponder the possibility that all we know is just a simulation within a
+larger reality.
 
 :: Notes
 Typically the simulation is featured as being within a computer but this
@@ -435,6 +441,22 @@ are?
 
 :: References
 https://en.wikipedia.org/wiki/Simulation_hypothesis
+
+
+the Casanova stereotype
+=======================
+
+:: Description
+There is an extraordinarily seductive male character for whom women fall 
+easily and often.
+
+:: Parents
+male stereotype
+
+:: Examples
+
+:: Related Themes
+femme fatale
 
 
 speculative reality
