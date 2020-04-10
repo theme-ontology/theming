@@ -541,7 +541,8 @@ mindwipe punishment
 ===================
 
 :: Description
-As a punishment for crime, someone has their mind and memories wiped clean.
+As a punishment for crime, someone has their mind and memories, or 
+significant parts thereof, erased.
 
 :: Parents
 memory erasure
@@ -551,8 +552,15 @@ teen romance
 ============
 
 :: Description
-Young characters engage in romantic relationships, typically for their first
-time.
+Young characters engage in romantic relationships, perhaps for their first
+time, and the relationship is notably featured in the story.
+
+:: Notes
+There are stories in which "boyfriend and girlfriend" applies because two
+characters are described as such, but where nevertheless there was no
+notable idea of romance (explicitly or by its conspicuous absence). This
+typically happens when the relationship is entirely irrelevant to the story.
+In such cases we do not use "teen romance".
 
 :: Parents
 young lovers
@@ -562,6 +570,16 @@ what if a child had power over adults
 =====================================
 
 :: Description
+We are made to imagine a situation in which a child exercises notable
+authority over an adult. This can, for example, happen because the child has 
+supernatural powers that enable them to enforce their will.
+
+:: Examples
+In tz2019e1x05 "The Wunderkind", young sociopath Raff Hanks cleverly manipulates
+public opinion and becomes elected president of the USA. Once installed in the
+White House, it does not take long for Raff's despotic tendencies to bloom.
+Adults around him must jump to his childish whims for fear of loosing their jobs
+or be accused of high treason.
 
 :: Parents
 speculative society
@@ -584,7 +602,8 @@ extraordinary experience
 :: Examples
 The Enterprise crew experienced this sort of alternate reality on the Shore
 Leave amusement park planet in tos1x17 "Shore Leave", and again in tas1x09
-"Once Upon a Planet".
+"Once Upon a Planet", where their lazy day dreams were made rapid reality by an
+enormous machine.
 
 
 killing wicked people
