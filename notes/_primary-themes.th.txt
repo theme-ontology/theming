@@ -1104,25 +1104,6 @@ Riker learned first hand that he was not wholly easy to get along with in
 tng6x24 "Second Chances" when he came across his own exact duplicate.
 
 
-abiogenesis
-===========
-
-:: Description
-The natural process by which life is thought to have arisen from non-living
-matter such as simple organic compounds.
-
-:: Parents
-topic in science
-
-:: Examples
-Q brought Captain Picard back in time and showed him the bubbling pool of ooze
-from which the first complex organic molecules on Earth would emerge in
-tng7x25 "All Good Things...".
-
-:: References
-https://en.wikipedia.org/wiki/Abiogenesis
-
-
 abortion
 ========
 
@@ -6766,6 +6747,9 @@ it is perceived).
 :: Parents
 contraposed political ideologies
 
+:: Aliases
+conservative vs. progressive
+
 
 conspiracy theory
 =================
@@ -7915,20 +7899,6 @@ influences.
 human health condition
 
 
-coping with dementia
-====================
-
-:: Description
-A character gradually looses their memories and other important mental
-faculties. This typically happens in old age and as they near death.
-
-:: Parents
-human health condition
-
-:: References
-https://en.wikipedia.org/wiki/Dementia
-
-
 coping with disagreeable orders
 ===============================
 
@@ -8461,7 +8431,11 @@ coping with senility
 
 :: Description
 A character copes with a loss of their mental faculties that comes naturally
-with age.
+with age, or one of the more severe conditions that is sometimes associated.
+
+:: Notes
+This theme is used for example when a character copes with Dementia, 
+or Alzheimer's.
 
 :: Parents
 human health condition
@@ -8470,6 +8444,12 @@ human health condition
 In tng3x23 "Sarek", Sarek coped with having Bendii Syndrome, which is a rare
 degenerative neurological disorder that sometimes affects Vulcans over the age
 of two hundred.
+
+:: Aliases
+coping with dementia
+
+:: References
+https://en.wikipedia.org/wiki/Dementia
 
 
 coping with sexual dysfunction
@@ -11386,6 +11366,9 @@ institutional risk to civilization
 
 :: References
 https://en.wikipedia.org/wiki/Environmental_degradation
+
+:: Aliases
+environmental destruction
 
 
 ecology
@@ -15217,6 +15200,9 @@ human phobia
 :: References
 https://en.wikipedia.org/wiki/Mysophobia
 
+:: Aliases
+fear of germs, fear of bacteria, mysophobia, germaphobia, verminophobia, bacillophobia, bacteriophobia
+
 
 gestural language
 =================
@@ -18853,6 +18839,12 @@ meaning and purpose is featured.
 
 :: Parents
 metaphysics
+
+:: Aliases
+the meaning of life
+
+:: References
+https://en.wikipedia.org/wiki/Meaning_of_life
 
 
 isolated prehistoric land
@@ -23373,6 +23365,9 @@ human mental condition
 :: References
 https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder
 
+:: Aliases
+OCD
+
 
 ocean planet
 ============
@@ -27627,14 +27622,17 @@ colleague, etc.
 human dreaming
 
 
-reminiscence
-============
+remembering bygone days
+=======================
 
 :: Description
 A character looks back with emotion on previous experiences.
 
 :: Parents
 human dreaming
+
+:: Aliases
+reminiscence
 
 
 reminiscence about one's youth
@@ -27644,7 +27642,7 @@ reminiscence about one's youth
 A character thinks back to their childhood years.
 
 :: Parents
-reminiscence
+remembering bygone days
 
 :: Examples
 In voy2x09 "Tattoo", Commander Chakotay had numerous flashbacks to the times
@@ -29611,6 +29609,9 @@ and die young".
 
 :: Parents
 human life choice
+
+:: Aliases
+live fast and die young
 
 
 shotgun wedding
@@ -34457,20 +34458,6 @@ Armus became a being of pure evil when the Titans left him behind in tng1x23
 "Skin of Evil".
 
 
-the meaning of life
-===================
-
-:: Description
-Questions about the significance of living or existence in general are
-discussed.
-
-:: Parents
-human nature
-
-:: References
-https://en.wikipedia.org/wiki/Meaning_of_life
-
-
 the mechanics of firearms
 =========================
 
@@ -35125,6 +35112,9 @@ human self-actualization need
 
 :: References
 https://en.wikipedia.org/wiki/Wanderlust
+
+:: Aliases
+wanderlust
 
 
 the neurobiology of moral behavior
@@ -37459,6 +37449,9 @@ Vengeance Factor".
 
 :: References
 https://en.wikipedia.org/wiki/Feud
+
+:: Aliases
+blood feud
 
 
 victimization
