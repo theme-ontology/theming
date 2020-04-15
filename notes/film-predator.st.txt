@@ -36,14 +36,15 @@ https://en.wikipedia.org/wiki/Predator_(film)
 3 <paul>,
 
 :: Genre
-sci-fi
+sci-fi, action,
+
+:: Choice Themes
+facing being hunted like an animal [The Predator was hunting down Dutch and his team members one by one.],
+what if I were hunted for sport [The Predator was hunting down Dutch and his team members one by one. Dutch was convinced it was hunting them for sport. And the Predator seemed to be collecting the skulls of its victims as trophies.],
 
 :: Major Themes
 extraterrestrial being [The Predator was an alien with advanced technology.],
-facing being hunted like an animal [The Predator was hunting down Dutch and his team members one by one.],
-what if I were hunted for sport [The Predator was hunting down Dutch and his team members one by one. Dutch was convinced it was hunting them for sport. And the Predator seemed to be collecting the skulls of its victims as trophies.],
 personal invisibility cloak [The Predator used a kind of super camouflage that made it practically invisible.],
-pleasure in hunting [The Predator was hunting down Dutch and his team for sport.],
 
 :: Minor Themes
 facing a hostage situation [Dutch led a mission to free some hostages who were being held be guerrillas.],
@@ -72,9 +73,7 @@ https://en.wikipedia.org/wiki/Predator_2
 2 <paul>,
 
 :: Genre
-sci-fi
-
-:: Choice Themes
+sci-fi, action,
 
 :: Major Themes
 extraterrestrial being [It was revealed that the Predator is an extraterrestrial hunter with infrared vision that uses active camouflage and has been hunting humans for sport.],
@@ -97,6 +96,50 @@ spaceship [The Predators took off from Los Angeles in their spaceship at the fil
 
 :: Collections
 Collection: Science fiction films of the 1990s
+
+
+movie: Predators (2010)
+=======================
+
+:: Title
+Predators
+
+:: Description
+The film follows an ensemble of characters including a mercenary who appears in an unidentified jungle among other proficient killers. They find that they have been abducted and placed on a planet which acts as a game reserve for two warring tribes of extraterrestrial killers, and actively look for a way to return to Earth. It is the third installment of the Predator franchise.
+
+:: Date
+2010-07-07
+
+:: References
+https://en.wikipedia.org/wiki/Predators_(film)
+
+:: Ratings
+2 <paul>,
+
+:: Genre
+sci-fi, action,
+
+:: Choice Themes
+what if I were hunted for sport [The Predators abducted a number of proficient killers, dropped them off a heavily forested hunting reserve planet, and hunted them for sport.],
+facing being hunted like an animal [The Predators abducted a number of proficient killers, dropped them off a heavily forested hunting reserve planet, and hunted them for sport.],
+
+:: Major Themes
+human vs. captivity [The Predators abducted a number of proficient killers, dropped them off a heavily forested hunting reserve planet, and hunted them for sport.],
+alien abduction [The Predator aliens abducted a number of proficient killers to hunt down for sport.],
+extraterrestrial being [The Predator aliens abducted a number of proficient killers to hunt down for sport.],
+personal invisibility cloak [The Predators used a kind of super camouflage that made them practically invisible.],
+pleasure in hunting [The Predators kept a hunting reserve planet that was well stocked with human prey.],
+
+:: Minor Themes
+vision beyond the visible spectrum glasses [The Predators saw in infrared.],
+human vs. beast [The abductees were attacked by some alien hunting dogs.],
+psychopathy [One of the abductees was a deranged death row inmate who looked forward to "raping bitches" should he manage to make it back to Earth.],
+compassion vs. self-preservation [Isabelle refused to abandon Edwin, who had injured his leg in a trap, rather than accompany Royce to the spaceship, which was her best chance of saving her skin at the time.],
+spaceship [Royce made an abortive attempt to fly home on one of the Predator spaceships.],
+vendetta [We learned that the Predators were involved in a blood feud with the Super Predators.],
+
+:: Collections
+Collection: Science fiction films of the 2010s
 
 
 
