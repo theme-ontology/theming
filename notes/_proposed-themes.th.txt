@@ -718,6 +718,17 @@ corporatocracy
 ==============
 
 :: Description
+We are shown a society in which one or more corporations has
+formal monopoly on political power.
+
+:: Notes
+This  theme is not used in the many cases where powerful 
+corporations merely control a more conventional government.
+
+:: Examples
+The film Parasite (1982) is set in a new future where instead of a 
+government, America is run by an organization called the Merchants
+who exploit the remaining populace with ruthless ineptitude.
 
 :: Parents
 form of government
@@ -730,6 +741,15 @@ unethical corporate practices
 =============================
 
 :: Description
+There is a corporation that, in its ruthless pursuit of the bottom line,
+engage in activities that are clearly considered unethical. The activities may 
+or may not be legal.
+
+:: Examples
+In futurama1x13 "Fry and the Slurm Factory", the Slurm factory was an evil 
+corporation that ruthlessly exploited its poor "Grunka-Lunka" thralls
+in order to produce an extraordinarily unhealthy but addictive Slurm cola 
+which it marketed vigorously to the public.
 
 :: Parents
 socioeconomic issue
@@ -739,9 +759,16 @@ corporation interfering in politics
 ===================================
 
 :: Description
+There is a powerful corporation that to a notable extent uses its wealth to 
+bribe or otherwise influence the government.
 
 :: Notes
-If a corporation interferes with or challenges law enforcement.
+As a rule of thumb, this theme applies if a corporation interferes with or 
+seriously challenges the whole of law enforcement.
+
+:: Examples
+In RoboCop 2 (1990), the OCP megacorporation plotted to bankrupt the city of 
+Detroit then to step in to take it over.
 
 :: Parents
 unethical corporate practices, political issue
