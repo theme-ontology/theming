@@ -19,22 +19,19 @@ Directed by: Robert Stevens. Story by: Rod Serling.
 5 <paul>,
 
 :: Choice Themes
+what if I woke up in a strange place and didn't remember how I got there [Ferris wandered into an empty town, not knowing who he was or how he had gotten there.],
+what if I were all alone in the world [The story followed Ferris all alone in an empty town. Moreover, Ferris found a carousel stocked full of a book entitled "The Last Man on Earth," which raised the question of whether Ferris himself might be in such a predicament.],
 
 :: Major Themes
-what if people around me started disappearing one by one [FD generalize? PS: definitely],
-monophobia [FD change name to fear of being alone... PS: definitely, but not clear it applies in this story],
+the need for companionship [Ferris went nuts for lack of human companionship.],
 loneliness [Ferris went nuts for lack of human companionship.],
-the need for companionship [FD this phrase was used, but we used it slightly differently - generalize?],
 the universe is a dream [Ferris speculated that he was in a dream and would soon wake up - which was the case, of sorts.],
 what if I had amnesia [Ferris wandered into an empty town, not knowing who he was or how he had gotten there.],
-what if I didn't remember who I am [for discussion],
-what if I suffered total amnesia and had to relearn everything [PS: Note this should be deprecated.],
-what if we all lost our memories [PS: candidate to be replaced with what if I had amnesia.],
 
 :: Minor Themes
 interplanetary space travel [Ferris was earmarked for a return trip to the Moon.],
-what if I were the last person on Earth [Ferris found a carousel stocked full of a book entitled "The Last Man on Earth," which raised the question of whether Ferris himself might be in such a predicament.],
 nuclear holocaust [Ferris entertained the idea that "the bomb" might be the explanation as to why nobody was around, but he quickly dismissed this theory on the ground that no infrastructure had been damaged.],
+fear of being alone [After his ordeal, Ferris felt trepidation about his upcoming trip to the Moon, which would see him spend over 400 days alone in space.],
 
 
 tz1959e1x02
@@ -57,20 +54,16 @@ Directed by: Robert Parrish. Story by: Rod Serling.
 5 <mikael>,
 5 <paul>,
 
-:: Choice Themes
-
 :: Major Themes
 death incarnate [Death appeared as an impeccably dressed American man.],
-the desire for glory [Lew considered that a "pitch for the angels" would be the pinnacle of his career.],
-human self-sacrifice for another [In the end Lew gave his life in exchange for that of a little girl.],
-the quest for immortality [FD Lew came up with a clever scheme to cheat death and live on indefinitely because he was quite happy to be alive.],
-the art of salesmanship [Lew showed his craft as a peddler of trinkets when he made such a captivating pitch that Death himself became late for an appointment.],
 the need to prove one's self [Lew had never made a truly successful big pitch in his life, and he expressed a desire to do so before he completed it.],
+human self-sacrifice for another [In the end Lew gave his life in exchange for that of a little girl.],
+the quest for immortality [Lew came up with a clever scheme to cheat death and live on indefinitely because he was quite happy to be alive.],
+the art of salesmanship [Lew showed his craft as a peddler of trinkets when he made such a captivating pitch that Death himself became late for an appointment.],
+facing death [Lew was informed of his impending death.],
 
 :: Minor Themes
-facing death [Lew was informed of his impending death.],
 kindness [Lew was notably kind to children.],
-actions have consequences [FD Lew cheated death only to learn that a young girl would die in his place],
 ironic twist of fate [Lew cheated death only to learn that a young girl would die in his place.],
 
 
@@ -95,27 +88,23 @@ Directed by: Allen Reisner. Story by: Rod Serling.
 3 <mikael>,
 
 :: Choice Themes
-growing as a person [Something about both Al Denton and Mr. Grant having learned that it was better to give up their gunslinging ways. MO: IMHO he knew this all along, there was no growing],
-seeing the error of one's ways [for discussion MO: maybe minor because he had in the past],
-live by the sword die by the sword [the moral of the story was simply this, and very nearly spelled out by Al Denton],
+live by the sword die by the sword [The moral of the story was simply this, and very nearly spelled out by Al Denton.],
 
 :: Major Themes
 life in the American Wild West [We saw a stereotyped depiction of life in a town on the American frontier in the 19th century.],
 alcohol abuse [Al Denton was an alcoholic wreck until he came in possession of a mysterious gun that he found lying on the road.],
 coping with being washed up [Al Denton, who was once known as the quickest draw in town, had become an alcoholic wreck and the laughingstock of the community.],
-young character vs. old character [The young upstart gunslinger Mr. Grant came to town to challenge the seasoned old gunslinger Al Denton.],
+seeing the error of one's ways [Al Denton had given up his gunslinging way after he'd shot dead a 16 year boy in a duel, and turned to the bottle there after.],
 
 :: Minor Themes
+young character vs. old character [The young upstart gunslinger Mr. Grant came to town to challenge the seasoned old gunslinger Al Denton.],
 coping with humiliation [Local rummy Al Denton was forced to sing and dance to get drink.],
 standing up to a bully [Al Denton ultimately laid the smack down on a man who making him sing and dance to get a drink.],
 competitiveness [Mr. Grant challenged Al Denton to a duel to prove he was the quickest draw in town.],
-male competitiveness [Mr. Grant challenged Al Denton to a duel to prove he was the quickest draw in town.],
 the desire for prestige [Mr. Grant wished to best Al Denton in a duel so that he would be regarded as the quickest gunslinger in town.],
-remorse [Al Denton lamented having shot dead a 16 year old boy in a duel some years prior.],
-coping with guilt [Al Denton was torn up inside over having shot dead a 16 year old boy in a duel some years prior.],
-coming to terms with one's past [for discussion],
-quackery [there was a regular quacksalver except he had a potion that worked],
-magic potion [FD],
+remorse [Al Denton was torn up inside over having shot dead a 16 year old boy in a duel some years prior.],
+quackery [There was a regular quacksalver except he had a potion that worked.],
+magic potion [The quacksalver gave Al Denton a tincture that gave him perfect aim for 10 seconds after drinking it.],
 
 
 tz1959e1x04
@@ -139,15 +128,14 @@ Directed by: Mitchell Leisen. Story by: Rod Serling.
 5 <paul>,
 
 :: Choice Themes
-coping with being washed up [Barbara refused to owe up to the fact tat she was not a young actress sensation anymore],
-reminiscence about one's youth [Barbara dreamed of the days when she was a pretty young start],
+coping with being washed up [Barbara refused to owe up to the fact tat she was not a young actress sensation anymore.],
+reminiscence about one's youth [Barbara dreamed of the days when she was a pretty young start.],
+escape from reality [Barbara locked herself up in a dark dank room watching her old films day after day.],
 
 :: Major Themes
-passion for acting [Barbara was a passionate aging actress yearning for the roles of yore],
-coping with aging [Barbara got sad and insulted whenever her age became topical],
-escape from reality [Barbara locked herself up in a dark dank room watching her old films day after day],
-the power of thought [Barbara willed herself into the movie MO: we used this in nightgallery0x01c though I'd rather we coined something more specific],
-delusional point of view [],
+passion for acting [Barbara was a passionate aging actress yearning for the roles of yore.],
+coping with aging [Barbara got sad and insulted whenever her age became topical.],
+the power of thought [Barbara willed herself into a movie.],
 
 :: Minor Themes
 master and servant [Barbara's maid Sally was shocked to find that Barbara had somehow become transported into a movie.],
@@ -172,7 +160,7 @@ magazine.
 Directed by: Robert Stevens. Story by: Rod Serling.
 
 :: Ratings
-3 <mikael>,
+3 <mikael*>,
 
 :: Choice Themes
 what if I found myself in the past [Martin suddenly realized he was in the past of his childhood years in his old home town],
