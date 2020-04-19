@@ -947,7 +947,7 @@ swallowing one's pride
 
 :: Description
 A character acknowledges their instinctive feelings of pride but consciously
-strives not to be arrogant.
+strives not to let them dictate their actions.
 
 :: Parents
 exercising self-control
@@ -960,6 +960,11 @@ taking control of one's fears
 A character looks inwards to understand and take control of their own fears so
 as not to act irrationally because of them.
 
+:: Examples
+In voy5x19 "The Fight", we saw how Chakotay struggled to control his fear of death
+in order to face Kid Chaos in a subconscious boxing ring, because Kid Chaos was really an 
+alien who had vital information to impart.
+
 :: Parents
 exercising self-control
 
@@ -968,8 +973,13 @@ taking responsibility for one's actions
 =======================================
 
 :: Description
-A character is honest about negative consequences of their actions, as opposed
+A character is notably honest about negative consequences of their actions, as opposed
 to engaging in self-deception.
+
+:: Examples
+In tng3x05 "The Bonding", Lt. Commander Worf considered himself responsible for 
+Jeremy's mother's death on Worf's away mission. In an effort to make amends, Worf
+tried to adopt Jeremy.
 
 :: Parents
 exercising self-control
@@ -1002,24 +1012,16 @@ stepping up to the task
 =======================
 
 :: Description
-A character makes an effort beyond what they normally would.
+A character notably makes an effort beyond what they normally would.
+
+:: Examples
+In tng4x09 "Final Mission", Ensign Wesley Crusher finds himself in a confoundingly tight spot 
+without guidance as Captain Picard is gravely injured and their companion, Captain Dirgo,
+starts to lose his marbles. Wesley struggles to control his own insecurities and take
+command of the situation.
 
 :: Parents
 exercising self-control
-
-
-self-control
-============
-
-:: Description
-A character reflects on having lost the ability to regulate their emotions,
-thoughts, and behavior in the face of temptations and impulses.
-
-:: Parents
-human character
-
-:: References
-https://en.wikipedia.org/wiki/Self-control
 
 
 the origin of life
@@ -1096,24 +1098,32 @@ what it is like to be high
 ==========================
 
 :: Description
+We are pointedly shown a reasonable idea of what it might be like to be under the 
+influence of one recreational psychoactive drug or another.
 
 :: Parents
 what life is like
 
 :: Examples
+In tz2019e1x09 "Blue Scorpion", we saw how Jeff Storck smoked pot and played the 
+guitar in the course of mourning the loss of his once hippie father.
 
 :: References
+https://en.wikipedia.org/wiki/Psychoactive_drug
 
 
 fear of the dark
 ================
 
 :: Description
+A character is excessively afraid of darkness.
 
 :: Parents
 fear
 
 :: Examples
+In tz2019e1x09 "Blue Scorpion", we saw a magical gun that had to be kept in a 
+well lit safe, or lit box, because it was said to fear the dark.
 
 :: References
 https://en.wikipedia.org/wiki/Fear_of_the_dark
@@ -1121,6 +1131,19 @@ https://en.wikipedia.org/wiki/Fear_of_the_dark
 :: Aliases
 nyctophobia
 
+
+self-control
+============
+
+:: Description
+A character reflects on having lost the ability to regulate their emotions,
+thoughts, and behavior in the face of temptations and impulses.
+
+:: Parents
+human character
+
+:: References
+https://en.wikipedia.org/wiki/Self-control
 
 
 
