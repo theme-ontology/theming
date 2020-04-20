@@ -888,6 +888,21 @@ in tng3x12 "The High Ground".
 https://en.wikipedia.org/wiki/Stockholm_syndrome
 
 
+The Algerian War
+================
+
+:: Description
+This war was fought between France and the Algerian National Liberation Front
+from 1954 to 1962, and culminated with Algeria winning its independence from
+France. It is featured in the story.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Algerian_War
+
+
 The Copernican Principle
 ========================
 
@@ -905,6 +920,22 @@ stellar universe".
 
 :: References
 https://en.wikipedia.org/wiki/Copernican_principle
+
+
+The Hippocratic Oath
+====================
+
+:: Description
+The Hippocratic Oath is an oath of ethics historically taken by physicians.
+This oath, or some iconic part of it, is mentioned explicitly in the story.
+For example, "first do no harm" (primum non nocere) is a well known principle
+that belongs to the original Hippocratic Oath.
+
+:: Parents
+medical ethical issue
+
+:: References
+https://en.wikipedia.org/wiki/Hippocratic_Oath
 
 
 The Holocaust
@@ -2638,6 +2669,22 @@ artificial organ
 
 :: References
 https://en.wikipedia.org/wiki/Blood_substitute
+
+
+artificial brain
+================
+
+:: Description
+An implantable device that that approximates the cognitive abilities of a
+living, working brain is featured.
+
+:: Parents
+artificial organ
+
+:: Examples
+In tz1985e3x30 "Father and Son Game", an old and dying man had the contents of
+his flesh and blood brain copied into an electronic brain that was implanted
+into the body of a younger man.
 
 
 artificial ears
@@ -4392,6 +4439,21 @@ human interpersonal relationship
 https://en.wikipedia.org/wiki/Management
 
 
+boxing as sport
+===============
+
+:: Description
+This, sometimes controversial, sport wherein two people wear safety gear and
+try punch each other in a boxing ring, is notably featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Professional_boxing
+https://en.wikipedia.org/wiki/Amateur_boxing
+
+
 boyfriend and boyfriend
 =======================
 
@@ -5646,6 +5708,33 @@ Someone is patriotic about their local community.
 human way of life
 
 
+civil rights
+============
+
+:: Description
+Civil and political rights are a class of rights that protect individuals'
+freedom from infringement by governments, social organizations, and private
+individuals. They ensure one's ability to participate in the civil and
+political life of the society and state without discrimination or repression.
+Such rights issues are discussed explicitly, or very pointedly illustrated.
+
+:: Parents
+human rights issue
+
+:: Notes
+This theme does not apply to isolated occurrences of racism, but should be
+used when a systematic oppression of a category of people is clearly featured.
+
+:: Examples
+In futurama6x12 "The Mutants Are Revolting", we saw how the sewer mutants were
+prevented from participating in the normal civil and political life of New New
+York because people saw them as sub-human scum that must stay hidden in the
+sewers.
+
+:: References
+https://en.wikipedia.org/wiki/Civil_and_political_rights
+
+
 civil war
 =========
 
@@ -6471,6 +6560,25 @@ The Americans and Russians competed to be the first put a man on the Moon in
 https://en.wikipedia.org/wiki/Competition
 
 
+competitiveness
+===============
+
+:: Description
+A character is conspicuously driven to outperform someone else or be
+victorious in a task where the goal can't be shared.
+
+:: Parents
+human character
+
+:: Examples
+In tz1985e3x20 "A Game of Pool", Jesse and Fats were both extremely
+competitive pool players. Fats had returned from the afterlife, and Jesse
+staked his immortal soul simply for a chance to prove his mettle.
+
+:: References
+https://en.wikipedia.org/wiki/Competition
+
+
 compromising
 ============
 
@@ -6988,30 +7096,6 @@ family affairs
 
 :: References
 https://en.wikipedia.org/wiki/Dysfunctional_family
-
-
-coping with someone having an addiction
-=======================================
-
-:: Description
-Someone must watch as a near and (usually) dear person struggles with an addiction.
-
-:: Parents
-human interpersonal relationship
-
-:: References
-https://en.wikipedia.org/wiki/Addiction
-
-
-coping with someone losing their mind
-=====================================
-
-:: Description
-Someone is powerless to help a friend who is losing their mind and is left
-with no alternative but to stand idly by and watch the descent into madness.
-
-:: Parents
-human interpersonal relationship
 
 
 coping with a friend who is suffering from depression
@@ -7762,6 +7846,25 @@ The sentient space probe Nomad coped briefly with being lost in space, parted
 from its maker Jackson Roykirk, in tos2x08 "The Changeling".
 
 
+coping with being lost in the forest
+====================================
+
+:: Description
+A character is in mortal danger because they have gotten lost, typically in a
+forest, and can't find their way to safety.
+
+:: Parents
+human in danger
+
+:: Examples
+In "The Blair Witch Project" (1999), we saw three young filmmakers get
+irrevocably lost in a large forest while making a documentary about the local
+legend. While trying to find their way out, they were chased by something
+supernatural and eventually perished.
+
+:: References
+
+
 coping with being obese
 =======================
 
@@ -8433,23 +8536,23 @@ coping with senility
 A character copes with a loss of their mental faculties that comes naturally
 with age, or one of the more severe conditions that is sometimes associated.
 
-:: Notes
-This theme is used for example when a character copes with Dementia, 
-or Alzheimer's.
-
 :: Parents
 human health condition
+
+:: Notes
+This theme is used for example when a character copes with Dementia, or
+Alzheimer's.
 
 :: Examples
 In tng3x23 "Sarek", Sarek coped with having Bendii Syndrome, which is a rare
 degenerative neurological disorder that sometimes affects Vulcans over the age
 of two hundred.
 
-:: Aliases
-coping with dementia
-
 :: References
 https://en.wikipedia.org/wiki/Dementia
+
+:: Aliases
+coping with dementia
 
 
 coping with sexual dysfunction
@@ -8478,6 +8581,31 @@ coping with problematic people
 :: Examples
 Professor Kerry West got a new television set that began to regulate almost
 every aspect of his daily life in Twonky (1953).
+
+
+coping with someone having an addiction
+=======================================
+
+:: Description
+Someone must watch as a near and (usually) dear person struggles with an
+addiction.
+
+:: Parents
+human interpersonal relationship
+
+:: References
+https://en.wikipedia.org/wiki/Addiction
+
+
+coping with someone losing their mind
+=====================================
+
+:: Description
+Someone is powerless to help a friend who is losing their mind and is left
+with no alternative but to stand idly by and watch the descent into madness.
+
+:: Parents
+human interpersonal relationship
 
 
 coping with someone who is overexerting themself
@@ -8874,6 +9002,48 @@ sometimes cane at a gallop) to whom he had been assigned as a slave.
 https://en.wikipedia.org/wiki/Corporal_punishment
 
 
+corporation interfering in politics
+===================================
+
+:: Description
+There is a powerful corporation that to a notable extent uses its wealth to
+bribe or otherwise influence the government.
+
+:: Parents
+unethical corporate practices, political issue
+
+:: Notes
+As a rule of thumb, this theme applies if a corporation interferes with or
+seriously challenges the whole of law enforcement.
+
+:: Examples
+In RoboCop 2 (1990), the OCP megacorporation plotted to bankrupt the city of
+Detroit then to step in to take it over.
+
+
+corporatocracy
+==============
+
+:: Description
+We are shown a society in which one or more corporations has formal monopoly
+on political power.
+
+:: Parents
+form of government
+
+:: Notes
+This theme is not used in the many cases where powerful corporations merely
+control a more conventional government.
+
+:: Examples
+The film Parasite (1982) is set in a new future where instead of a government,
+America is run by an organization called the Merchants who exploit the
+remaining populace with ruthless ineptitude.
+
+:: References
+https://en.wikipedia.org/wiki/Corporatocracy
+
+
 corruption in society
 =====================
 
@@ -9050,6 +9220,26 @@ speculative fiction theme
 
 :: References
 https://en.wikipedia.org/wiki/Pseudoscience
+
+
+crackpot theory of cattle mutilation
+====================================
+
+:: Description
+The killing and mutilation of cattle under unusual, usually bloodless, and
+anomalous circumstances is attributed to one or another fanciful notion,
+including secret government agencies, cryptid predators, and aliens.
+
+:: Parents
+crackpot theory
+
+:: Examples
+In "Endangered Species" (1982), some people attributed a series of cattle
+mutilations to extraterrestrials, but the true source of the mischief turned
+out to be something closer to home.
+
+:: References
+https://en.wikipedia.org/wiki/Cattle_mutilation
 
 
 cranial aggression implant
@@ -10792,6 +10982,18 @@ medical ethical issue
 https://en.wikipedia.org/wiki/Doctor%E2%80%93patient_relationship
 
 
+doctor's opinion vs. patient preference
+=======================================
+
+:: Description
+We are asked to what extent a doctor must respect the wishes of the patient,
+their next of kin or guardians in case of a minor, when those wishes are seen
+as being against the good of the patient.
+
+:: Parents
+medical ethical issue
+
+
 doctor-patient confidentiality
 ==============================
 
@@ -10804,18 +11006,6 @@ medical ethical issue
 
 :: References
 https://en.wikipedia.org/wiki/Doctor%E2%80%93patient_relationship
-
-
-doctor's opinion vs. patient preference
-=======================================
-
-:: Description
-We are asked to what extent a doctor must respect the wishes of the patient,
-their next of kin or guardians in case of a minor, when those wishes are seen
-as being against the good of the patient.
-
-:: Parents
-medical ethical issue
 
 
 domed city
@@ -12003,6 +12193,36 @@ https://en.wikipedia.org/wiki/Haunted_doll
 https://en.wikipedia.org/wiki/Killer_toy
 
 
+exercising self-control
+=======================
+
+:: Description
+A character notices their own emotional inclination to do (or not to do)
+something, and that obeying them is undesirable. The character makes a
+reasonable attempt not to do so.
+
+:: Parents
+human thinking about self
+
+:: Notes
+There are two contraposed formulas for when the theme applies: wanting to do
+vs. wanting to not do. For example, a character may feel like taking a smoke,
+but stops themself from doing so because they know it is ultimately bad for
+them. Conversely, a character may be reluctant to stick their neck out and
+challenge a misbehaving superior they are afraid of, yet tries to do so
+because they know it is the right thing to do.
+
+:: Examples
+Riker urged Troi to exercise a modicum of self-restraint shortly after she
+picked up a young ensign on the turbolift in tng6x03 "Man of the People".
+
+:: References
+https://en.wikipedia.org/wiki/Self-control
+
+:: Aliases
+struggling with self-control, exercising self-restraint
+
+
 existential risk to civilization
 ================================
 
@@ -13099,6 +13319,26 @@ future.
 fear
 
 
+fear of being alone
+===================
+
+:: Description
+Someone exhibits a fear of being alone.
+
+:: Parents
+human phobia
+
+:: Examples
+Aquiel Uhnari did not much like being all alone on Relay Station 47 in tng6x13
+"Aquiel".
+
+:: References
+https://en.wikipedia.org/wiki/Autophobia
+
+:: Aliases
+autophobia, monophobia
+
+
 fear of being late
 ==================
 
@@ -13221,6 +13461,25 @@ https://en.wikipedia.org/wiki/Thalassophobia
 https://en.wikipedia.org/wiki/Aquaphobia
 
 
+fear of patterns
+================
+
+:: Description
+A character exhibits an excessive and irrational aversion to patterns of some
+sort or all.
+
+:: Parents
+human phobia
+
+:: Examples
+In tz1985e3x19 "Something in the Walls", Sharon went into a terror at the
+sight of patterns in rugs, wallpapers, linoleum floors, etc. She saw a face
+recurring in the patterns and was convinced its bearer wanted to kill her.
+
+:: Aliases
+trypophobia
+
+
 fear of strangers
 =================
 
@@ -13266,6 +13525,26 @@ with how to let them know.
 
 :: Parents
 human worrying about self
+
+
+fear of the dark
+================
+
+:: Description
+A character is excessively afraid of darkness.
+
+:: Parents
+fear
+
+:: Examples
+In tz2019e1x09 "Blue Scorpion", we saw a magical gun that had to be kept in a
+well lit safe, or lit box, because it was said to fear the dark.
+
+:: References
+https://en.wikipedia.org/wiki/Fear_of_the_dark
+
+:: Aliases
+nyctophobia
 
 
 fear of the lord
@@ -13726,6 +14005,26 @@ Edith Keeler wanted to catch a Clark Gable film with Captain Kirk in tos1x28
 
 :: References
 https://en.wikipedia.org/wiki/Film_criticism
+
+
+filmmaking
+==========
+
+:: Description
+Filmmaking (or, in an academic context, film production) is the process of
+making a film, generally in the sense of films intended for extensive
+theatrical exhibition. Such activities are featured.
+
+:: Parents
+the fine arts and the humanities
+
+:: Examples
+In "The Blair Witch Project" (1999), we saw three young filmmakers get
+irrevocably lost in a large forest while making a documentary about the local
+legend.
+
+:: References
+https://en.wikipedia.org/wiki/Filmmaking
 
 
 finding religion
@@ -15241,6 +15540,22 @@ a difference of strongly held beliefs or preferences.
 humans interacting
 
 
+getting along together in a confined space for an extended period
+=================================================================
+
+:: Description
+A group of people have to spend an extended amount of time together in an
+environment where they have little chance of being private from each other.
+
+:: Parents
+humans in group
+
+:: Examples
+In tz2019e1x06 "Six Degrees of Freedom", we saw the interactions among a group
+of young astronauts en route to Mars, as they had to spend many months
+together in a fairly small spaceship.
+
+
 ghost
 =====
 
@@ -16192,6 +16507,22 @@ Vigo the Carpathian haunted an eerie painting of himself in "Ghostbusters II"
 (1989).
 
 
+haunted statue
+==============
+
+:: Description
+There is an otherwise ordinary figure of a person, which is surreptitiously
+inhabited by a supernatural being. Typically the being is the spirit of
+someone who has died.
+
+:: Parents
+haunted object
+
+:: Examples
+In tz1985e3x09 "The Call", the sublime but troubled artist Mary Ann was
+inhabiting her self-sculpture after she had killed herself.
+
+
 haunted vehicle
 ===============
 
@@ -16586,6 +16917,17 @@ NASA faked a manned mission to Mars in "Capricorn One" (1978).
 
 :: References
 https://en.wikipedia.org/wiki/Hoax
+
+
+holding one's tongue
+====================
+
+:: Description
+Someone judiciously refrains from saying something they are otherwise inclined
+to blurt out.
+
+:: Parents
+exercising self-control
 
 
 holding someone captive to protect them
@@ -17493,6 +17835,20 @@ There is a part human, part dog being.
 hybrid being
 
 
+human-fish hybrid
+=================
+
+:: Description
+There is a part human, part fish being.
+
+:: Parents
+hybrid being
+
+:: Examples
+Fallout from a nuclear holocaust caused a man to develop some fish features,
+including a dorsal fin and tuna-blue skin, in "Endgame" (1983).
+
+
 human-insect hybrid
 ===================
 
@@ -17622,6 +17978,26 @@ biologically distinguished being
 
 :: References
 https://en.wikipedia.org/wiki/Human%E2%80%93animal_hybrid
+
+
+hypersonic airliner
+===================
+
+:: Description
+A futuristic passenger airplane that can travel many time faster than sound is
+featured. A two hour flight from New York to London is not out of the question
+on such a vessel.
+
+:: Parents
+speculative vehicle
+
+:: Examples
+The film "Starflight: The Plane That Couldn't Land" (1983) followed the maiden
+voyage of Starflight: a hypersonic passenger plane that was anticipated to fly
+from Los Angeles to Sydney in two hours.
+
+:: References
+https://en.wikipedia.org/wiki/Supersonic_transport#Hypersonic_transport
 
 
 hypnosis
@@ -17900,6 +18276,35 @@ what their victim may have felt.
 
 :: Parents
 memory implantation technology
+
+
+impossible love
+===============
+
+:: Description
+Two characters fall in love but it appears more-or-less impossible for the
+relationship to progress because of straightforward physical circumstances.
+
+:: Parents
+romantic love
+
+:: Notes
+This theme is contrasted with "forbidden love", where the relationship is
+impeded by social circumstances.
+
+:: Examples
+In tz1985e1x06b "A Message from Charity", two lonely teenagers separated by
+three centuries of time found themselves telepathically linked, and fell in
+love. Alas, as they would never be able to meet in person, the young girl from
+the 17th century took the tough decision to terminate their disagreeably
+platonic relationship.
+
+In tz1985e3x09 "The Call", Norman fell in love with a mysterious woman he
+spoke to only on the phone. The sentiment was reciprocated. Unfortunately, he
+came to find that the woman was the spirit of a successfully suicidal artist,
+now inhabiting her own self-portraying statue. That would normally have
+spelled the end of their courtship. But fate intervened and Norman was turned
+into a statue of his own, dotingly contraposed with the other for eternity.
 
 
 imprisonment as a punishment
@@ -18840,11 +19245,11 @@ meaning and purpose is featured.
 :: Parents
 metaphysics
 
-:: Aliases
-the meaning of life
-
 :: References
 https://en.wikipedia.org/wiki/Meaning_of_life
+
+:: Aliases
+the meaning of life
 
 
 isolated prehistoric land
@@ -18896,6 +19301,28 @@ is put forth.
 
 :: Parents
 human idea about life
+
+
+jealousy
+========
+
+:: Description
+A character is desirous of an advantage perceived to be held by another,
+whether it be material (fancy hat) or intangible (love, friends, power,
+ability, fame, etc.).
+
+:: Parents
+human emotion
+
+:: Examples
+Janice Lester went insane with jealousy over the achievements of her one time
+lover Captain Kirk in tos3x24 "Turnabout Intruder".
+
+:: References
+https://en.wikipedia.org/wiki/Jealousy
+
+:: Related Themes
+female jealousy
 
 
 jellyfish-like being
@@ -19188,6 +19615,25 @@ compromising one's ethical principles vs. great need
 
 :: Aliases
 kill or be killed
+
+
+killing wicked people
+=====================
+
+:: Description
+We are made to ponder whether and to what extent the extrajudicial killing of
+patently wicked people can be morally sanctionable.
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+In tz2019e1x01 "The Comedian", we must consider, as Samir no doubt did,
+whether it was alright to eradicate various maleficents that he knew from his
+past and that Internet confirmed as bad eggs.
+
+:: Related Themes
+capital punishment
 
 
 kindness
@@ -19535,6 +19981,25 @@ on.
 romantic relationship issue, letting go of the past
 
 
+letting go of the past
+======================
+
+:: Description
+A character struggles with accepting and adjusting to their new reality after
+something adverse and irreversible has happened to it. Typically this theme is
+used when someone has trouble moving on after a, to them, important person has
+passed away.
+
+:: Parents
+human thinking about self
+
+:: Examples
+In tz1985e3x05 "Dream Me a Life", both Roger and Laurel were miserable because
+they had difficulty letting go of their late lovers and moving on. In the end
+they finally did so and became acquainted with each other, possibly as
+intimates.
+
+
 liar paradox
 ============
 
@@ -19621,6 +20086,26 @@ beings.
 
 :: Parents
 parasitic being
+
+
+life force transfer
+===================
+
+:: Description
+Seen is a process, perhaps aided by technology or magic, in which "life force"
+(spiritual energy, part of the soul, or the like) is transfered form one
+person to another.
+
+:: Parents
+speculative natural process
+
+:: Examples
+Taurean women put life force draining headbands on men in tas1x04 "The Lorelei
+Signal", in order to extend their own lives, until Captain Kirk and his crew
+put a stop to such shenanigans.
+
+:: References
+https://en.wikipedia.org/wiki/Energy_(esotericism)
 
 
 life in academia
@@ -20480,6 +20965,20 @@ magic object
 
 :: References
 https://en.wikipedia.org/wiki/Portals_in_fiction
+
+
+magic potion
+============
+
+:: Description
+There is a liquid concoction with supernatural properties. For example, the
+potion might turn someone into an animal, or make them fall madly in love.
+
+:: Parents
+magic object
+
+:: References
+https://en.wikipedia.org/wiki/Potion
 
 
 magic powers
@@ -21385,6 +21884,21 @@ A paramour meets the parents of their lover for the first time.
 romantic relationship issue
 
 
+memory erasure
+==============
+
+:: Description
+The technology to remove (some or all) segments of someone's memories is
+featured.
+
+:: Parents
+mind altering technology
+
+:: References
+https://en.wikipedia.org/wiki/Memory_erasure
+https://en.wikipedia.org/wiki/Mindwipe
+
+
 memory implantation technology
 ==============================
 
@@ -21796,6 +22310,24 @@ linked in tng7x08 "Attached".
 http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychicLink
 
 
+mind reading ability
+====================
+
+:: Description
+A character is able to telepathically read the minds of another people.
+
+:: Parents
+telepathy
+
+:: Notes
+This theme is used when one person can merely "hear the thoughts" of another.
+If a person transmits his thoughts or otherwise affects people's minds at a
+distance, the more general theme "telepathy" is used.
+
+:: References
+https://en.wikipedia.org/wiki/Telepathy
+
+
 mind reading technology
 =======================
 
@@ -21866,6 +22398,17 @@ wheels, levers, etc.
 
 :: Parents
 speculative vehicle
+
+
+mindwipe punishment
+===================
+
+:: Description
+As a punishment for crime, someone has their mind and memories, or significant
+parts thereof, erased.
+
+:: Parents
+memory erasure
 
 
 minefields in war
@@ -22232,26 +22775,6 @@ relationship or whether to stay single.
 
 :: Parents
 human romantic relationship choice
-
-
-fear of being alone
-===================
-
-:: Description
-Someone exhibits a fear of being alone.
-
-:: Parents
-human phobia
-
-:: Examples
-Aquiel Uhnari did not much like being all alone on Relay Station 47 in tng6x13
-"Aquiel".
-
-:: References
-https://en.wikipedia.org/wiki/Autophobia
-
-:: Aliases
-autophobia, monophobia
 
 
 monopolies in society
@@ -24705,6 +25228,25 @@ human pleasure
 https://en.wikipedia.org/wiki/Photography
 
 
+passion for reading
+===================
+
+:: Description
+A character is notably fond of reading books.
+
+:: Parents
+human pleasure
+
+:: Examples
+In tz1985e2x11a "Song of the Younger World", we heard that Amy, the
+superintendents daughter, liked to spend inordinate amounts of time reading in
+the reformatory's library. In an obscure tome she discovered the spell that
+saved her rapscallious lover and herself from her father's wrath.
+
+:: References
+https://en.wikipedia.org/wiki/Reading
+
+
 passion for rocking chair
 =========================
 
@@ -24718,6 +25260,24 @@ human pleasure
 :: Examples
 Old Mose Harper in "The Searchers" (1956), required no further inducement to
 risk his very life, than the promise of a rocking chair at Jorgensen's ranch.
+
+
+passion for sports
+==================
+
+:: Description
+A character is notably enthusiastic about some sport, or all.
+
+:: Parents
+human pleasure
+
+:: Notes
+Precisely what activities qualify as "sports" is sometimes controversial. Here
+we primarily mean competitive spectator sports and such sports that
+conventionally attract a fan base.
+
+:: References
+https://en.wikipedia.org/wiki/Sport
 
 
 passion for teaching
@@ -25018,6 +25578,22 @@ other people, and have to take utmost care to receive good ratings.
 
 :: Parents
 dystopia
+
+
+people endangering their lives in ways that don't hurt other people
+===================================================================
+
+:: Description
+We are asked when and to what extent people should be able to put their lives
+in danger, even if nobody besides themself is harmed in the process.
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+People were protesting in the streets to get a game show banned in "Le prix du
+danger" (1983). In the game show, willing contestants took on life threatening
+challenges in exchange for large cash prizes - if they lived.
 
 
 people escaping from reality
@@ -26259,6 +26835,30 @@ technologically enabled utopia
 https://en.wikipedia.org/wiki/Post-scarcity_economy
 
 
+post-truth politics
+===================
+
+:: Description
+Clearly featured is a political culture in which debate is framed largely by
+appeals to emotion disconnected from the details of policy, and by the
+repeated assertion of talking points to which factual rebuttals are ignored.
+Post-truth differs from traditional contesting and falsifying of facts by
+relegating facts and expert opinions to be of secondary importance relative to
+appeal to emotion.
+
+:: Parents
+political issue
+
+:: Examples
+tz2019e1x05 "The Wunderkind" featured a presidency in which the leader, drunk
+on his own power, invented ill-considered policies and forced them around him
+to agree to whatever fake facts were expedient. A clear reference to Donald
+Trump's America.
+
+:: References
+https://en.wikipedia.org/wiki/Post-truth_politics
+
+
 poverty in society
 ==================
 
@@ -26654,6 +27254,26 @@ differently, i.e. who use very different languages, have to interact.
 society
 
 
+property rights vs. public interest
+===================================
+
+:: Description
+There is a situation in which we must decide whether someone's lawful right to
+their property outweighs some other issue that is important to society at
+large. For example, can the government take your land in order to build a
+highway? Temporarily prevent you from using your land in order to excavate a
+site of archaeological interest?
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+In tz1985e3x04 "The Hunters", a real estate developer quarreled with an
+archaeologist over who had a right to do what on a piece of land. The
+archaeologist wanted time to study some pre-historic cave drawings, while the
+developer wanted no further delay in beginning a construction project.
+
+
 prosthetic device
 =================
 
@@ -26759,6 +27379,24 @@ a remote island in "Matango: Attack of the Mushroom People" (1963).
 
 :: References
 https://en.wikipedia.org/wiki/Psychedelic_experience
+
+
+psychic detective
+=================
+
+:: Description
+There is a person who investigates crimes by using purported paranormal
+psychic abilities.
+
+:: Parents
+crackpot theory
+
+:: Examples
+A man used his newfound psychic powers to help the police track down a serial
+killer in "The Dead Zone" (1983).
+
+:: References
+https://en.wikipedia.org/wiki/Psychic_detective
 
 
 psychokinesis
@@ -27589,17 +28227,6 @@ political ideology
 https://en.wikipedia.org/wiki/Toleration
 
 
-remembrance
-===========
-
-:: Description
-A character reflects on memories of a departed loved one, friend, or
-colleague, etc.
-
-:: Parents
-human dreaming
-
-
 remembering bygone days
 =======================
 
@@ -27611,6 +28238,17 @@ human dreaming
 
 :: Aliases
 reminiscence
+
+
+remembrance
+===========
+
+:: Description
+A character reflects on memories of a departed loved one, friend, or
+colleague, etc.
+
+:: Parents
+human dreaming
 
 
 reminiscence about one's youth
@@ -27674,6 +28312,18 @@ was severed in tng6x05 "Schisms".
 
 :: References
 https://en.wikipedia.org/wiki/Repressed_memory
+
+
+repressing one's desires
+========================
+
+:: Description
+A character strives consciously to ignore their innate urges. For example, a
+person may seek to ignore their sexual attraction towards another person
+because the match would unpractical or proscribed.
+
+:: Parents
+exercising self-control
 
 
 reproductive surrogacy
@@ -28249,6 +28899,32 @@ https://en.wikipedia.org/wiki/Infidelity
 
 :: Aliases
 adultery
+
+
+romantic jealousy
+=================
+
+:: Description
+A character is notably desirous of the exclusive affections that another
+receives from a potential lover.
+
+:: Parents
+jealousy, romantic love
+
+:: Notes
+In cases of infidelity, for example, it must be clear that resentment is over
+emotions and not some other concern. For example, a spouse who no longer
+desires their partner may still be upset about infidelity for the social
+stigma, or for practical reasons. They are not, then, romantically jealous.
+
+:: Examples
+In blackmirror1x03 "The Entire History of You", Liam was exceedingly jealous
+of Jonas over the way Jonas' interest in his wife Fion clearly had solicited a
+positive response in the past, and perhaps still did. He might not even be the
+father of their daughter Jodie.
+
+:: References
+https://en.wikipedia.org/wiki/Jealousy#Romantic_jealousy
 
 
 romantic love
@@ -29061,6 +29737,20 @@ self-confidence in tng2x15 "Pen Pals".
 https://en.wikipedia.org/wiki/Self-confidence
 
 
+self-control
+============
+
+:: Description
+A character reflects on having lost the ability to regulate their emotions,
+thoughts, and behavior in the face of temptations and impulses.
+
+:: Parents
+human character
+
+:: References
+https://en.wikipedia.org/wiki/Self-control
+
+
 self-coup
 =========
 
@@ -29233,6 +29923,28 @@ the call of duty.
 
 :: Parents
 human self-sacrifice
+
+
+selling a part of one's self
+============================
+
+:: Description
+A character deliberates whether to sell an organ or some other body part.
+Typically, a character suffering from poverty considers this as a last resort
+to get a decent living standard.
+
+:: Parents
+human life choice
+
+:: Examples
+In tz1985e3x22 "The Mind of Simon Foster", Simon sold his memories to a sleezy
+pawnbroker in order to pay his rent and avoid being thrown into the street.
+
+:: Aliases
+selling an organ
+
+:: Related Themes
+organ theft in society
 
 
 selling out for money
@@ -30949,6 +31661,17 @@ running backwards, rather than objects or events.
 speculative reality
 
 
+speculative reality
+===================
+
+:: Description
+A basic aspect of reality, for example the laws of nature, is posited to be
+different from how we conventionally understand it.
+
+:: Parents
+speculative fiction theme
+
+
 speculative society
 ===================
 
@@ -31305,9 +32028,9 @@ example sleaze, is put forth.
 utopia
 
 :: Examples
-In tz1985e2x09b "Shelter Skelter", the survivalist specialist Harry
-dreamed of a chance to start society over without the impure sleaze
-and filth he saw everywhere around him.
+In tz1985e2x09b "Shelter Skelter", the survivalist specialist Harry dreamed of
+a chance to start society over without the impure sleaze and filth he saw
+everywhere around him.
 
 
 stasis box
@@ -31444,6 +32167,22 @@ inherit her fortune in "The Incredible Hulk: Death in the Family" (1977).
 
 :: References
 https://en.wikipedia.org/wiki/Stepmother
+
+
+stepping up to the task
+=======================
+
+:: Description
+A character notably makes an effort beyond what they normally would.
+
+:: Parents
+exercising self-control
+
+:: Examples
+In tng4x09 "Final Mission", Ensign Wesley Crusher finds himself in a
+confoundingly tight spot without guidance as Captain Picard is gravely injured
+and their companion, Captain Dirgo, starts to lose his marbles. Wesley
+struggles to control his own insecurities and take command of the situation.
 
 
 stomach transplant
@@ -31977,15 +32716,14 @@ man who stockpiles food and weapons in his own underground bunker.
 :: Parents
 human character stereotype, survivalism
 
+:: Examples
+In tz1985e2x09b "Shelter Skelter", the American gun dealer and survivalist
+specialist Harry foresaw the imminent breakout of a devastating nuclear war.
+To prepare, he had planned meticulously and stockpiled various necessities in
+his very own secret basement bomb shelter.
+
 :: References
 https://en.wikipedia.org/wiki/Survivalism
-
-:: Examples
-In tz1985e2x09b "Shelter Skelter", the American gun dealer
-and survivalist specialist
-Harry foresaw the imminent breakout of a devastating nuclear war.
-To prepare, he had planned meticulously and stockpiled various
-necessities in his very own secret basement bomb shelter.
 
 
 survivor guilt
@@ -32019,6 +32757,17 @@ the crew with her erotic powers in tng5x21 "The Perfect Mate".
 :: References
 https://en.wikipedia.org/wiki/Suspended_animation https://en.wikipedia.org/wiki/Stasis_(fiction)
 http://www.sf-encyclopedia.com/entry/suspended_animation
+
+
+swallowing one's pride
+======================
+
+:: Description
+A character acknowledges their instinctive feelings of pride but consciously
+strives not to let them dictate their actions.
+
+:: Parents
+exercising self-control
 
 
 symbiogenesis
@@ -32181,8 +32930,8 @@ taking a high-stakes wager vs. walking away
 ===========================================
 
 :: Description
-A character wrestles with the decision of whether to enter into a gamble or wager with
-high potential reward, but also high potential penalty.
+A character wrestles with the decision of whether to enter into a gamble or
+wager with high potential reward, but also high potential penalty.
 
 :: Parents
 risk taking vs. playing it safe
@@ -32191,6 +32940,38 @@ risk taking vs. playing it safe
 In talesoftheunexpected2x07 "Taste", Mike thought he had an almost sure thing
 going so he accepted a bet of his daughter's hand in marriage against Pratt's
 two houses, after much deliberation.
+
+
+taking control of one's fears
+=============================
+
+:: Description
+A character looks inwards to understand and take control of their own fears so
+as not to act irrationally because of them.
+
+:: Parents
+exercising self-control
+
+:: Examples
+In voy5x19 "The Fight", we saw how Chakotay struggled to control his fear of
+death in order to face Kid Chaos in a subconscious boxing ring, because Kid
+Chaos was really an alien who had vital information to impart.
+
+
+taking responsibility for one's actions
+=======================================
+
+:: Description
+A character is notably honest about negative consequences of their actions, as
+opposed to engaging in self-deception.
+
+:: Parents
+exercising self-control
+
+:: Examples
+In tng3x05 "The Bonding", Lt. Commander Worf considered himself responsible
+for Jeremy's mother's death on Worf's away mission. In an effort to make
+amends, Worf tried to adopt Jeremy.
 
 
 taking someone's picture steals their soul
@@ -32310,6 +33091,24 @@ lives miserable.
 utopia
 
 
+teen romance
+============
+
+:: Description
+Young characters engage in romantic relationships, perhaps for their first
+time, and the relationship is notably featured in the story.
+
+:: Parents
+young lovers
+
+:: Notes
+There are stories in which "boyfriend and girlfriend" applies because two
+characters are described as such, but where nevertheless there was no notable
+idea of romance (explicitly or by its conspicuous absence). This typically
+happens when the relationship is entirely irrelevant to the story. In such
+cases we do not use "teen romance".
+
+
 teenage angst
 =============
 
@@ -32405,6 +33204,22 @@ abilities which they are encouraged to develop through sexual exploration in
 
 :: References
 https://en.wikipedia.org/wiki/Telepathy
+
+
+teleportation ability
+=====================
+
+:: Description
+A character, by using their mind alone, is able to instantaneously move
+themself, others, or objects, to remote locations, as by magic.
+
+:: Parents
+supernatural ability
+
+:: Examples
+In tz1985e3x21 "Room 2426", the imprisoned professor Martin Decker learned how
+to use will alone to move himself in space. Thus he made good his escape, and
+was able to save the world to boot.
 
 
 teleportation device
@@ -32695,6 +33510,22 @@ history
 
 :: References
 https://en.wikipedia.org/wiki/British_Raj
+
+
+the Casanova stereotype
+=======================
+
+:: Description
+There is an extraordinarily seductive male character for whom women fall
+easily and often.
+
+:: Parents
+womanizing man
+
+:: Examples
+In tz1985e3x24 "Cat and Mouse", we saw an exotic French man named Guillome,
+who had such skill and success with women that he had ended up cursed for it,
+and must spend daytime in the guise of a cat.
 
 
 the Christ story
@@ -33037,13 +33868,12 @@ included worker strikes, peasant unrest, and military mutinies.
 :: Parents
 history
 
+:: Examples
+The film "Battleship Potemkin" (1925) romanticizes a mutiny aboard the
+eponymous vessel and its involvement with the 1905 uprisings in Odessa.
+
 :: References
 https://en.wikipedia.org/wiki/1905_Russian_Revolution
-
-:: Examples
-The film "Battleship Potemkin" (1925) romanticizes a mutiny aboard
-the eponymous vessel and its involvement with the 1905 uprisings in
-Odessa.
 
 
 the Russian Revolution of 1917
@@ -33997,6 +34827,46 @@ A time traveler was surprised to find that the human race had diverged into
 two distinct species by the year 802,701 in "The Time Machine" (1960).
 
 
+the game of baseball
+====================
+
+:: Description
+This competitive bat-and-ball team sport is notably featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Baseball
+
+
+the game of basketball
+======================
+
+:: Description
+This competitive team sport, and ballgame, is notably featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Basketball
+
+
+the game of pool
+================
+
+:: Description
+This cue sports played on a table with six pockets along the rails, into which
+balls are deposited, is notably featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Pool_(cue_sports)
+
+
 the gangster stereotype
 =======================
 
@@ -34152,6 +35022,28 @@ The terrible impact war has on ordinary people is featured.
 war
 
 
+the human capacity for good and evil
+====================================
+
+:: Description
+The story makes a point about individual human's capability to be both, or
+alternatingly, good and evil. If explicit reference is not made to this idea,
+a story is still deemed to exhibit the theme if there is a character who in an
+exaggerated way is both good and evil.
+
+:: Parents
+human nature
+
+:: Examples
+In, for example, "Dr. Jekyll and Mr. Hyde" (1931), Henry Jekyll used a drug to
+switch between dominant aspects of his own personality: his philanthropist
+good self on one hand, and his evil split personality, Edward Hyde, on the
+other.
+
+:: References
+https://en.wikipedia.org/wiki/Good_and_evil
+
+
 the human condition
 ===================
 
@@ -34254,6 +35146,27 @@ highlighted.
 
 :: Parents
 human idea about life
+
+
+the inclination to believe what one wants to believe
+====================================================
+
+:: Description
+Pointedly illustrated or mentioned is the human tendency to interpret, favor,
+and recall information in a way that confirms or strengthens one's prior
+personal beliefs or hypotheses. In short, to believe and confirm what one is
+already inclined to believe.
+
+:: Parents
+human nature
+
+:: Examples
+In tz2019e1x04 "A Traveler", Mr. A. Traveler is in fact an alien with
+mysterious mind reading abilities who cleverly manipulates people by inventing
+insidious fictions that play to their hopes and prejudices.
+
+:: References
+https://en.wikipedia.org/wiki/Confirmation_bias
 
 
 the indignities of flesh
@@ -34455,6 +35368,24 @@ tos2x16 "A Private Little War".
 
 :: References
 https://en.wikipedia.org/wiki/Firearm
+
+
+the military-industrial complex in society
+==========================================
+
+:: Description
+An informal alliance between a nation's military and the defense industry that
+supplies it, seen together as a vested interest which influences public
+policy, typically in a nefarious way in fiction, is featured.
+
+:: Parents
+military issue
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex
 
 
 the millennium shift
@@ -34706,6 +35637,20 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Individual
+
+
+the nature of love
+==================
+
+:: Description
+The emotion of love and associated activities are pondered from a
+philosophical perspective.
+
+:: Parents
+human nature
+
+:: References
+https://en.wikipedia.org/wiki/Love
 
 
 the nature of meditation
@@ -35107,6 +36052,28 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Neuromorality
+
+
+the origin of life
+==================
+
+:: Description
+The natural process by which life is thought to have arisen from non-living
+matter such as simple organic compounds is featured.
+
+:: Parents
+topic in science
+
+:: Examples
+Q brought Captain Picard back in time and showed him the bubbling pool of ooze
+from which the first complex organic molecules on Earth would emerge in
+tng7x25 "All Good Things...".
+
+:: References
+https://en.wikipedia.org/wiki/Abiogenesis
+
+:: Aliases
+abiogenesis
 
 
 the pirate stereotype
@@ -35812,6 +36779,48 @@ pecking order
 the workplace
 
 
+the universe is a dream
+=======================
+
+:: Description
+We must ponder the possibility that reality as we know it is simply the dream
+of one's self, or of some other sentient entity.
+
+:: Parents
+speculative reality
+
+:: Examples
+In tz1985e1x23a "Shadow Play", Adam was convinced that his execution wouldn't
+matter because he is only dreaming.
+
+:: References
+https://en.wikipedia.org/wiki/Dream_argument
+
+
+the universe is a simulation
+============================
+
+:: Description
+We must ponder the possibility that all we know is just a simulation within a
+larger reality.
+
+:: Parents
+speculative reality
+
+:: Notes
+Typically the simulation is featured as being within a computer, but this is
+not a requirement. The simulation might be a physical contained space within a
+larger reality.
+
+:: Examples
+Dr. James Moriarty was to unwittingly live out his simulated life in a
+simulated universe in tng6x12 "Ship in a Bottle", but who knows: maybe we all
+are?
+
+:: References
+https://en.wikipedia.org/wiki/Simulation_hypothesis
+
+
 the use of personality altering medication
 ==========================================
 
@@ -35987,6 +36996,25 @@ political ideology
 
 :: References
 https://en.wikipedia.org/wiki/Theocracy
+
+
+there is no substitute for experience
+=====================================
+
+:: Description
+The importance of practical experience is emphasized, usually by contrast with
+theoretical knowledge.
+
+:: Parents
+human idea about life
+
+:: Examples
+Inexperienced Stocker mistakenly thought he could handle running the
+Enterprise after Captain Kirk was incapacitated by age in tos2x11 "The Deadly
+Years".
+
+:: Aliases
+there is value in experience
 
 
 there is nothing to fear but fear itself
@@ -36618,6 +37646,23 @@ military issue
 https://en.wikipedia.org/wiki/Treason
 
 
+treatment of immigrants
+=======================
+
+:: Description
+We are made to ponder how the government ought (or ought not) to treat
+immigrants into our society, illegal and otherwise.
+
+:: Parents
+law and order issue, immigration in society
+
+:: Examples
+In tz2019e1x08 "Point of Origin", we saw how suspected illegal immigrants were
+herded together in cold and brutal internment camps by a ruthless government
+agency. The cultural context makes it clear that we must think of the way ICE
+in the USA have been said to treat immigrants.
+
+
 treatment of prisoners
 ======================
 
@@ -37053,6 +38098,24 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Unemployment
+
+
+unethical corporate practices
+=============================
+
+:: Description
+There is a corporation that, in its ruthless pursuit of the bottom line,
+engage in activities that are clearly considered unethical. The activities may
+or may not be legal.
+
+:: Parents
+socioeconomic issue
+
+:: Examples
+In futurama1x13 "Fry and the Slurm Factory", the Slurm factory was an evil
+corporation that ruthlessly exploited its poor "Grunka-Lunka" thralls in order
+to produce an extraordinarily unhealthy but addictive Slurm cola which it
+marketed vigorously to the public.
 
 
 unethical experimentation for scientific progress
@@ -38350,6 +39413,22 @@ The Talosians used their powers of mind to conjure up a world of illusion for
 them to inhabit in tos0x01 "The Cage".
 
 
+what if I could make people disappear at will
+=============================================
+
+:: Description
+There is a character who has the remarkable ability to will people out of
+existence.
+
+:: Parents
+supernatural ability
+
+:: Examples
+tz2019e1x01 "The Comedian", it came about that anybody who's name Samir choose
+to mention in his comedy routine would suddenly cease to exist, with the world
+changing as if the person had never been.
+
+
 what if I could move faster in time than everyone else
 ======================================================
 
@@ -38647,6 +39726,24 @@ appear to float in the air.
 
 :: Parents
 what if I found myself in a strange place
+
+
+what if I found myself in an alternate reality
+==============================================
+
+:: Description
+We imagine what it would be like to (more or less) suddenly and unexpectedly
+be moved into an entirely different kind of reality.
+
+:: Parents
+what if I found myself in a strange place
+
+:: Examples
+Worf suddenly found himself shifting between strangely different alternate
+realities in tng7x11 "Parallels".
+
+:: Related Themes
+what if I found myself in the past
 
 
 what if I found myself in the body of a child
@@ -39589,24 +40686,6 @@ progenitors and having the memories of both.
 what if my personal identity came into question
 
 
-what if I found myself in an alternate reality
-==============================================
-
-:: Description
-We imagine what it would be like to (more or less) suddenly and unexpectedly
-be moved into an entirely different kind of reality.
-
-:: Parents
-what if I found myself in a strange place
-
-:: Examples
-Worf suddenly found himself shifting between strangely different alternate
-realities in tng7x11 "Parallels".
-
-:: Related Themes
-what if I found myself in the past
-
-
 what if I was held captive and made an exhibition object
 ========================================================
 
@@ -39849,6 +40928,17 @@ comparable ruler with absolute power over the subjects in some realm.
 what if my life were different
 
 
+what if I were all alone in the world
+=====================================
+
+:: Description
+A character, or small group of characters, experience what it is like to be
+more or less the only person/people in the world.
+
+:: Parents
+what if I were in a tight spot
+
+
 what if I were being blackmailed
 ================================
 
@@ -40022,17 +41112,6 @@ Baron Victor von Frankenstein was the last living member of the infamous
 Frankenstein family in Frankenstein 1970 (1958).
 
 
-what if I were all alone in the world
-=====================================
-
-:: Description
-A character, or small group of characters, experience what it is like to be
-more or less the only person/people in the world.
-
-:: Parents
-what if I were in a tight spot
-
-
 what if I were trapped in a nightmare
 =====================================
 
@@ -40068,6 +41147,25 @@ strange place with no recollection of the recent past.
 
 :: Parents
 what if I found myself in a strange place
+
+
+what if a child had power over adults
+=====================================
+
+:: Description
+We are made to imagine a situation in which a child exercises notable
+authority over an adult. This can, for example, happen because the child has
+supernatural powers that enable them to enforce their will.
+
+:: Parents
+speculative society
+
+:: Examples
+In tz2019e1x05 "The Wunderkind", young sociopath Oliver Foley cleverly
+manipulates public opinion and becomes elected president of the USA. Once
+installed in the White House, it does not take long for Oliver's despotic
+tendencies to bloom. Adults around him must jump to his childish whims for
+fear of loosing their jobs or be accused of treason.
 
 
 what if a killer was after me
@@ -40246,6 +41344,24 @@ Incredibly, Spock faced exactly this situation when Garth of Izar transformed
 himself to look like Captain Kirk in tos3x16 "Whom Gods Destroy".
 
 
+what if my life was secretly stage managed
+==========================================
+
+:: Description
+We imagine what it would be like to find out that we have not been shaping our
+own life as we thought, but that it had been minutely stage managed by others.
+
+:: Parents
+what if my life were different
+
+:: Examples
+In "The Truman Show" (1998), Truman overcame his fear of water and sailed
+across the ocean only to encounter a mysterious wall. Traversing it through a
+convenient door, he found out that his entire town was encased in an enormous
+dome. It was all an elaborate construction to create the ultimate reality TV
+show, and he had been the unwitting star.
+
+
 what if my life were different
 ==============================
 
@@ -40292,6 +41408,27 @@ extraordinary experience
 
 :: References
 https://en.wikipedia.org/wiki/Personal_identity
+
+
+what if my thoughts became reality
+==================================
+
+:: Description
+We imagine what it would be like if someone's various thoughts just became
+real as soon as they imagined them, whether they want it or not.
+
+:: Parents
+extraordinary experience
+
+:: Notes
+This theme is not used when a character has the ability to conjure things into
+existence at will, and can refrain from doing so at will.
+
+:: Examples
+The Enterprise crew experienced this sort of alternate reality on the Shore
+Leave amusement park planet in tos1x17 "Shore Leave", and again in tas1x09
+"Once Upon a Planet", where their lazy day dreams were made rapid reality by
+an enormous machine.
 
 
 what if my touch was deadly
@@ -40712,6 +41849,17 @@ staff) in a high school, or comparable institution.
 what life is like
 
 
+what it is like in law enforcement
+==================================
+
+:: Description
+We are shown a reasonably realistic vision of what everyday life may be like
+for someone who works in some department of law enforcement.
+
+:: Parents
+what life is like
+
+
 what it is like in prison
 =========================
 
@@ -40734,6 +41882,23 @@ what life is like
 
 :: References
 https://en.wikipedia.org/wiki/Show_business
+
+
+what it is like in the fashion industry
+=======================================
+
+:: Description
+We are shown what it might be like for people involved in the design,
+modeling, marketing, and sales of fashionable clothing and related goods.
+
+:: Parents
+what life is like
+
+:: Examples
+New Wave fashion of the 1980s is showcased in "Liquid Sky" (1983).
+
+:: References
+https://en.wikipedia.org/wiki/Fashion
 
 
 what it is like in the publishing industry
@@ -40770,6 +41935,18 @@ life in the military
 In "Glory" (1989), we were shown the gruesome experiences of Colenel Shaw's
 all black 54th Massachusetts Infantry Regiment as they lead a suicidal charge
 on Fort Wagner atop Morris Island, with disastrous consequences.
+
+
+what it is like on a passenger flight
+=====================================
+
+:: Description
+
+
+:: Parents
+what life is like
+
+:: References
 
 
 what it is like to be a loser
@@ -40816,6 +41993,24 @@ because of their skin color.
 
 :: Parents
 human social position
+
+
+what it is like to be high
+==========================
+
+:: Description
+We are pointedly shown a reasonable idea of what it might be like to be under
+the influence of one recreational psychoactive drug or another.
+
+:: Parents
+what life is like
+
+:: Examples
+In tz2019e1x09 "Blue Scorpion", we saw how Jeff Storck smoked pot and played
+the guitar in the course of mourning the loss of his once hippie father.
+
+:: References
+https://en.wikipedia.org/wiki/Psychoactive_drug
 
 
 what it is like to be homeless
@@ -40912,17 +42107,6 @@ particular situation (for example in high school).
 
 :: Parents
 the human condition
-
-
-what it is like in law enforcement
-==================================
-
-:: Description
-We are shown a reasonably realistic vision of what everyday life may be like
-for someone who works in some department of law enforcement.
-
-:: Parents
-what life is like
 
 
 what men want
@@ -41673,7 +42857,5 @@ living corpse
 :: References
 https://en.wikipedia.org/wiki/Zombie
 http://www.sf-encyclopedia.com/entry/zombies
-
-
 
 
