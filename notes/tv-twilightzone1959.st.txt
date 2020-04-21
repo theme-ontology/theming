@@ -19,22 +19,19 @@ Directed by: Robert Stevens. Story by: Rod Serling.
 5 <paul>,
 
 :: Choice Themes
+what if I woke up in a strange place and didn't remember how I got there [Ferris wandered into an empty town, not knowing who he was or how he had gotten there.],
+what if I were all alone in the world [The story followed Ferris all alone in an empty town. Moreover, Ferris found a carousel stocked full of a book entitled "The Last Man on Earth," which raised the question of whether Ferris himself might be in such a predicament.],
 
 :: Major Themes
-what if people around me started disappearing one by one [FD generalize? PS: definitely],
-monophobia [FD change name to fear of being alone... PS: definitely, but not clear it applies in this story],
+the need for companionship [Ferris went nuts for lack of human companionship.],
 loneliness [Ferris went nuts for lack of human companionship.],
-the need for companionship [FD this phrase was used, but we used it slightly differently - generalize?],
 the universe is a dream [Ferris speculated that he was in a dream and would soon wake up - which was the case, of sorts.],
 what if I had amnesia [Ferris wandered into an empty town, not knowing who he was or how he had gotten there.],
-what if I didn't remember who I am [for discussion],
-what if I suffered total amnesia and had to relearn everything [PS: Note this should be deprecated.],
-what if we all lost our memories [PS: candidate to be replaced with what if I had amnesia.],
 
 :: Minor Themes
 interplanetary space travel [Ferris was earmarked for a return trip to the Moon.],
-what if I were the last person on Earth [Ferris found a carousel stocked full of a book entitled "The Last Man on Earth," which raised the question of whether Ferris himself might be in such a predicament.],
 nuclear holocaust [Ferris entertained the idea that "the bomb" might be the explanation as to why nobody was around, but he quickly dismissed this theory on the ground that no infrastructure had been damaged.],
+fear of being alone [After his ordeal, Ferris felt trepidation about his upcoming trip to the Moon, which would see him spend over 400 days alone in space.],
 
 
 tz1959e1x02
@@ -57,20 +54,16 @@ Directed by: Robert Parrish. Story by: Rod Serling.
 5 <mikael>,
 5 <paul>,
 
-:: Choice Themes
-
 :: Major Themes
 death incarnate [Death appeared as an impeccably dressed American man.],
-the desire for glory [Lew considered that a "pitch for the angels" would be the pinnacle of his career.],
-human self-sacrifice for another [In the end Lew gave his life in exchange for that of a little girl.],
-the quest for immortality [FD Lew came up with a clever scheme to cheat death and live on indefinitely because he was quite happy to be alive.],
-the art of salesmanship [Lew showed his craft as a peddler of trinkets when he made such a captivating pitch that Death himself became late for an appointment.],
 the need to prove one's self [Lew had never made a truly successful big pitch in his life, and he expressed a desire to do so before he completed it.],
+human self-sacrifice for another [In the end Lew gave his life in exchange for that of a little girl.],
+the quest for immortality [Lew came up with a clever scheme to cheat death and live on indefinitely because he was quite happy to be alive.],
+the art of salesmanship [Lew showed his craft as a peddler of trinkets when he made such a captivating pitch that Death himself became late for an appointment.],
+facing death [Lew was informed of his impending death.],
 
 :: Minor Themes
-facing death [Lew was informed of his impending death.],
 kindness [Lew was notably kind to children.],
-actions have consequences [FD Lew cheated death only to learn that a young girl would die in his place],
 ironic twist of fate [Lew cheated death only to learn that a young girl would die in his place.],
 
 
@@ -95,27 +88,23 @@ Directed by: Allen Reisner. Story by: Rod Serling.
 3 <mikael>,
 
 :: Choice Themes
-growing as a person [Something about both Al Denton and Mr. Grant having learned that it was better to give up their gunslinging ways. MO: IMHO he knew this all along, there was no growing],
-seeing the error of one's ways [for discussion MO: maybe minor because he had in the past],
-live by the sword die by the sword [the moral of the story was simply this, and very nearly spelled out by Al Denton],
+live by the sword die by the sword [The moral of the story was simply this, and very nearly spelled out by Al Denton.],
 
 :: Major Themes
 life in the American Wild West [We saw a stereotyped depiction of life in a town on the American frontier in the 19th century.],
 alcohol abuse [Al Denton was an alcoholic wreck until he came in possession of a mysterious gun that he found lying on the road.],
 coping with being washed up [Al Denton, who was once known as the quickest draw in town, had become an alcoholic wreck and the laughingstock of the community.],
-young character vs. old character [The young upstart gunslinger Mr. Grant came to town to challenge the seasoned old gunslinger Al Denton.],
+seeing the error of one's ways [Al Denton had given up his gunslinging way after he'd shot dead a 16 year boy in a duel, and turned to the bottle there after.],
 
 :: Minor Themes
+young character vs. old character [The young upstart gunslinger Mr. Grant came to town to challenge the seasoned old gunslinger Al Denton.],
 coping with humiliation [Local rummy Al Denton was forced to sing and dance to get drink.],
 standing up to a bully [Al Denton ultimately laid the smack down on a man who making him sing and dance to get a drink.],
 competitiveness [Mr. Grant challenged Al Denton to a duel to prove he was the quickest draw in town.],
-male competitiveness [Mr. Grant challenged Al Denton to a duel to prove he was the quickest draw in town.],
 the desire for prestige [Mr. Grant wished to best Al Denton in a duel so that he would be regarded as the quickest gunslinger in town.],
-remorse [Al Denton lamented having shot dead a 16 year old boy in a duel some years prior.],
-coping with guilt [Al Denton was torn up inside over having shot dead a 16 year old boy in a duel some years prior.],
-coming to terms with one's past [for discussion],
-quackery [there was a regular quacksalver except he had a potion that worked],
-magic potion [FD],
+remorse [Al Denton was torn up inside over having shot dead a 16 year old boy in a duel some years prior.],
+quackery [There was a regular quacksalver except he had a potion that worked.],
+magic potion [The quacksalver gave Al Denton a tincture that gave him perfect aim for 10 seconds after drinking it.],
 
 
 tz1959e1x04
@@ -139,15 +128,14 @@ Directed by: Mitchell Leisen. Story by: Rod Serling.
 5 <paul>,
 
 :: Choice Themes
-coping with being washed up [Barbara refused to owe up to the fact tat she was not a young actress sensation anymore],
-reminiscence about one's youth [Barbara dreamed of the days when she was a pretty young start],
+coping with being washed up [Barbara refused to owe up to the fact tat she was not a young actress sensation anymore.],
+reminiscence about one's youth [Barbara dreamed of the days when she was a pretty young start.],
+escape from reality [Barbara locked herself up in a dark dank room watching her old films day after day.],
 
 :: Major Themes
-passion for acting [Barbara was a passionate aging actress yearning for the roles of yore],
-coping with aging [Barbara got sad and insulted whenever her age became topical],
-escape from reality [Barbara locked herself up in a dark dank room watching her old films day after day],
-the power of thought [Barbara willed herself into the movie MO: we used this in nightgallery0x01c though I'd rather we coined something more specific],
-delusional point of view [],
+passion for acting [Barbara was a passionate aging actress yearning for the roles of yore.],
+coping with aging [Barbara got sad and insulted whenever her age became topical.],
+the power of thought [Barbara willed herself into a movie.],
 
 :: Minor Themes
 master and servant [Barbara's maid Sally was shocked to find that Barbara had somehow become transported into a movie.],
@@ -206,28 +194,31 @@ Directed by: Mitchell Leisen. Story by: Rod Serling.
 
 :: Ratings
 5 <mikael>,
+5 <paul>,
 
 :: Choice Themes
-be careful what you wish for [FD is this a parent of flip side of immortality?],
-the flip side of immortality [Walter found that immortality was not all he thought it'd be - he became bored],
+be careful what you wish for [Walter wished for nothing less than immortality, but he became consumed by boredom once he got it. FD is this a parent of flip side of immortality?],
+the flip side of immortality [Walter found that immortality was not all he thought it'd be - he became bored.],
 
 :: Major Themes
-husband and wife [Walter and ??],
-coping with an obnoxious jerk [Walter was ill-tempered and mean towards all around him],
-deal with the devil [Walter made a literal bargain with Satan],
-the quest for immortality [Walter sought to live on for practical eternity],
-the Devil [Lucifer made an appearance as Cad Wallader (spelling may be inaccurate)],
-the soul [Walter sold his soul],
-boredom [Walter found himself bored with immortal life],
-ironic twist of fate [bored with immortality, Walter confessed to killing his wife thinking he'd be sentenced to an exciting death, yet was condemned to an even more boring life in prison],
+husband and wife [Walter and Ethel Bedeker.],
+coping with an obnoxious jerk [Walter was ill-tempered and mean towards all around him.],
+deal with the devil [Walter made a literal deal with Satan that saw Walter get virtual immortality in exchange for his soul.],
+the quest for immortality [Walter sought to live on for practical eternity.],
+the Devil [Lucifer made an appearance in the guise of a rotund man who went by the peculiar name of Cadwallader.],
+the soul [Walter sold his soul to Satan himself in exchange for virtual immortality.],
+boredom [Walter found himself bored with immortal life.],
+ironic twist of fate [Bored with immortality, Walter confessed to killing his wife thinking he'd be sentenced to an exciting death, yet was condemned to an even more boring life in prison.],
+what if I was unkillable [Walter threw himself in front of a train, drank enough poison to kill 12 men, and threw himself off the rooftop of a building, but all to no avail as he had been granted immortality.],
 
 :: Minor Themes
-hypochondria [Walter believed himself t be sick and wouldn't take the doctor's word for it that he was healthy],
-coping with mortality [Walter lamented his impending or eventual demise, asking rhetorically why we can't live a thousand years instead],
-coping with the death of a spouse [Walter was unfazed when his wife plunged to her death before his very eyes],
-cruelty [Walter was notably cruel to his wife and didn't blink when she died],
-spouse murder [Walter claimed, falsely, that he had killed his wife],
-capital punishment [Walter looked forwards to the electric chair],
+hypochondria [Walter believed himself to be sick and wouldn't take the doctor's word for it that he was perfectly healthy.],
+coping with mortality [Walter lamented his impending or eventual demise, asking rhetorically why we can't live a thousand years instead.],
+coping with the death of a spouse [Walter was unfazed when his wife plunged to her death before his very eyes. PS: is that coping?],
+cruelty [Walter was notably cruel to his wife and didn't skip a beat when she died.],
+spouse murder [Walter claimed, falsely, that he had killed his wife.],
+capital punishment [Walter looked forwards to the electric chair.],
+doctor and patient [A doctor gave the paranoid hypochondriac Walter a clean bill of health during a checkup.],
 
 
 tz1959e1x07
@@ -374,12 +365,27 @@ Twilight Zone.
 Directed by: John Brahm. Story by: Rod Serling.
 
 :: Ratings
+4 <paul>,
+3 <mikael>,
 
 :: Choice Themes
 
 :: Major Themes
+what if I woke up in a strange place and didn't remember how I got there [The story followed Carl Lanser as he tried to piece together how he ended up as a passenger on a ship en route to New York.],
+poetic justice [U-boat captain Carl Lanser was condemned repeat his ruthless sinking of a passenger ship every night for eternity, only as a passenger aboard the ship, rather than as captain on the U-boat.],
+punishment in the afterlife [U-boat captain Carl Lanser was condemned repeat his ruthless sinking of a passenger ship every night for eternity, only as a passenger aboard the ship, rather than as captain on the U-boat.],
+ghost ship [The story is set aboard a passenger ship that is sunk in a U-boat attack every night for eternity.],
+what if I had amnesia [For discussion: Carl Lanser seems to have trouble recalling basic facts about his life.],
 
 :: Minor Themes
+déjà vu [Carl Lanser discussed experiencing this uncanny feeling with Miss Stanley.],
+World War II [Set in 1942, the crew and passengers of a merchant ship were were anxious about being sunk by uboats ],
+precognition [Lanser knew that something bad was going to happen at precisely 1:15 AM.],
+what if I repeated a portion of my life over and over again [At the end of the story we learn that Carl Lanser is doomed to repeat the events of the story every night for eternity.],
+wrestling with one's conscience [Lt. Mueller was deeply troubled by his captain's sinking of a passenger ship with all hands without any warning.],
+ruthlessness [The version of Carl Lanser aboard the U-boat sunk a passenger ship with all hands without compunction.],
+remorse [we saw Number One (?) on that u-boat lament having killed people without warning; also Carl Lanser was conspicuously remorseless],
+what if I told the truth and nobody would believe me [FD],
 
 
 tz1959e1x11
@@ -399,12 +405,18 @@ It is an adaptation of the Richard Matheson short story "Disappearing Act".
 Directed by: Douglas Heyes. Story by: Richard Matheson, Rod Serling.
 
 :: Ratings
+3 <mikael>,
 
 :: Choice Themes
+DESTINY [we heard that the three men were not supposed to have returned from the mission, and understood that reality was gradually correcting itself by disappearing them],
+what if people around me started disappearing one by one [FD certainly the men had an extraordinary experience],
 
 :: Major Themes
+what if I told the truth and nobody would believe me [Everyone thought Forbes was nuts when he told them about his missing friend Ed],
 
 :: Minor Themes
+space travel [the story followed three mistakenly returned astronauts],
+boyfriend and girlfriend [Forbes and Amy],
 
 
 tz1959e1x12
