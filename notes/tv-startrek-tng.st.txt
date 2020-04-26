@@ -3783,7 +3783,7 @@ gluttony [Riker at the Klingon feast.] <Riker>,
 hospitality [Riker gets dose of Klingon hospitality],
 humility [Mendon gets a lesson in humility] <Mendon>,
 anger [Klingons at Riker] <Klag>,
-hubris [Mendon dramatically over-estimated his competence to serve as an officer aboard the Enterprise.],
+hubris [Mendon dramatically over-estimated his competence to serve as an officer aboard the Enterprise and failed spectacularly.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D holodeck <shooting range>, shooting range, Enterprise-D corridor, Ten Forward <bar>, bar, Klingon vessel corridor, Klingon vessel bridge, Klingon vessel mess hall
@@ -6562,7 +6562,7 @@ belonging [Jarok left everything behind with the prospect of living out the rest
 anger [Picard and others with Jarok] <Picard>,
 fortitude [Jarok defecting for altruistic reasons] <Alidar Jarok>,
 sadness [Jarok] <Alidar Jarok>,
-pariotism [The Romulan Admiral Jarok defected to the Federation in a bid to prevent what he believed would be a war that was calculated to leave the Romulan Empire in ruins.],
+patriotism [The Romulan Admiral Jarok defected to the Federation in a bid to prevent what he believed would be a war that was calculated to leave the Romulan Empire in ruins.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Jarok's quarters, Enterprise-D interrogation room, relaxation center, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <woodland; gridlines; rocky wasteland; campfire>, woodland, gridlines, rocky wasteland, campfire, Romulan warbird ready room
@@ -8888,7 +8888,7 @@ hospitality [Picard welcomed by his family] <Marie Picard>,
 kindness [the Picard's] <Marie Picard>,
 sadness [Picard and Crushers] <Picard, Wesley>,
 uncle and nephew [Picard and Rene] <Picard/Rene Picard>,
-pridefulness [Robert was proud about the traditional way of life he led and looked down at his brother Picard for not following in his example.],
+pridefulness [Robert's pride prevent him from reconciling with his brother Picard.],
 
 :: Settings
 Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D Beverly's office, Enterprise-D Beverly's quarters, Enterprise-D Picard's quarters, Enterprise-D Riker's quarters, Enterprise-D Worf's quarters, Ten Forward <bar>, bar, dining room, countryside, vineyard, cemetery
