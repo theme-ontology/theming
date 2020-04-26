@@ -102,6 +102,7 @@ hospitality [Gropler Zorn tries to make Riker feel welcome] <Groppler Zorn>,
 jealousy [Data at Riker for having emotions] <Data>,
 ruthlessness [Q] <Q>,
 sadism [Q in courtroom] <Q>,
+pride in one's community [Captain Picard expressed a proper pride in the accomplishments humanity had achieved, but was cognizant that the path to get to where the were was not all roses and sunshine.],
 
 :: Settings
 Enterprise-D engineering, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D battle bridge, courtroom, chamber, xeric scrubland, town square, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D observation lounge, Enterprise-D sickbay, Enterprise-D turbolift, chamber, Enterprise-D holodeck <woodland>, woodland, underground tunnel, Enterprise-D Beverly's office, Space Jellyfish corridor, Enterprise-D holodeck
@@ -389,6 +390,7 @@ unrequited love [Lutan at Tasha] <Lutan>,
 facing a mortal enemy [Tasha faces Yareena] <Tasha>,
 alien morals [Ligonians] <Ligonian>,
 cultural differences [Ligonians had trouble understanding why Federation would object to the Tasha kidnapping],
+attitude of superiority [Lutan, ruler of Ligon II, looked down at those around him with a certain aristocratic pride.],
 
 :: Minor Themes
 duty vs. compassion [Picard allows Tasha to fight rather than to violate the PD] <Picard>,
@@ -503,6 +505,7 @@ knowing when to fight and when not to fight [Portal 6-3 conveys this knowledge t
 supernova [supernova ended Tkon empire],
 mysterious maker alien race [Tkon empire] <Tkon>,
 magnanimity in victory [Riker refrains from having Ferengi destroyed by Guardian] <Riker>,
+attitude of superiority [Tarr boasted (or bluffed?) that he would rather die than unconditionally surrender his ship to the Enterprise.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <emergency shelter; meeting room>, Enterprise-D briefing room, Enterprise-D transporter room, alien landscape, emergency shelter, meeting room
@@ -598,6 +601,8 @@ mentor and protégé [The Traveler and Wesley] <The Traveler/Wesley>,
 hubris [Kosinski] <Kosinski>,
 edge of the universe [Enterprise travels to netherworld of sorts],
 what if I had magical powers [crew at edge of universe],
+hubris [Kosinski was humbled when it became apparent that his grandiose theory for how to make starships go faster was bogus.],
+attitude of superiority [Kosinski thought himself a scientific genius, and behaved in a most pompous manner aboard the Enterprise.],
 
 :: Minor Themes
 coping with the death of a parent [Picard and his mother] <Picard>,
@@ -1058,6 +1063,7 @@ saving innocent lives vs. compromising one's ethical principles [Riker about the
 seeing the error of one's ways [Riker] <Riker>,
 android [Data] <Data, Soong Type Android>,
 what if I had to fight to the death [away team and animal things] <Riker, Worf, Wesley, Tasha>,
+hubris [Riker was riding on his high horse after having been granted god-like powers.],
 
 :: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, rocky wasteland, wrecked room
@@ -1178,6 +1184,7 @@ facing an epidemic [The Haven people refused to let a plague ship land on their 
 fear [Haven people],
 vanity [Lwaxana] <Lwaxana>,
 telepathy [Troi and Lwaxana were communicating telepathically at times.],
+attitude of superiority [Lwaxana carried herself about with an aristocratic pride, and recoiled from the thought of her daughter, Troi, marrying someone devoid of an aristocratic pedigree.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Riker's quarters <dimly lit room>, Enterprise-D transporter room, Enterprise-D ready room, Enterprise-D corridor, Enterprise-D turbolift, Enterprise-D Lwaxana's quarters, Enterprise-D Wyatt's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D banquet room, Enterprise-D holodeck <desert landscape>, desert landscape, Enterprise-D sickbay
@@ -1406,6 +1413,7 @@ betrayal [Lore of Data] <Lore>,
 cruelty [Lore] <Lore>,
 ruthlessness [Lore] <Lore>,
 sadism [Lore] <Lore>,
+attitude of superiority [Lore looked down on Data for Data's inability to experience emotions.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Data's quarters, Enterprise-D sickbay <operating theater>, operating theater, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D cargo bay, subterranean complex, science lab, storage area, corridor, rocky wasteland, operating theater, badlands
@@ -1884,6 +1892,7 @@ leadership [Wesley led child revolt] <Wesley>,
 boredom [child didn't want to do his calculus] <Harry Bernard Jr.>,
 sadness [parents and children] <Beverly, Harry Bernard Sr., Harry Bernard Jr.>,
 the dangers of radioactivity [Radiation had rendered the Aldeans sterile.],
+pride in an achievement [Radue was proud of the atrophied society that he had helped to create.],
 
 :: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D classroom, Enterprise-D family quarters <bedroom>, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D Beverly's office, Enterprise-D transporter room, chamber <dinner table>, Aldean control room, music room, shaft, bedroom, dinner table
@@ -2208,6 +2217,7 @@ attitude towards the dead [Klingon death ritual],
 vision beyond the visible spectrum glasses [VISOR equipped with visual acuity transmitter] <VISOR>,
 coping with the death of a fellow compatriot [Worf with death of Klingon brethren] <Worf, Korris, Konmel>,
 alien customs [death howl],
+pride in one's community [Worf and the three Klingon fugitives shared an admiration for the Klingon warrior culture of bygone days.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Klingons' quarters <dimly lit room>, Enterprise-D brig, Enterprise-D engineering, Batris corridor <smoke filled room>, Batris engineering <smoke filled room>, Batris auxiliary control room <smoke filled room>, smoke filled room, dimly lit room
@@ -2754,6 +2764,7 @@ hedonism [bug aliens at ghastly feast],
 ruthlessness [bug aliens],
 trust in a friend [Picard in other captains about conspiracy] <Picard>,
 post-scarcity economy utopia [Picarch explained Ralph how in the future there was no need for money],
+attitude of superiority [The bug alien controlling Admiral Quinn extolled the superiority of its race. Others made similar remarks and acted condescendingly towards humans.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D Picard's quarters <bedroom>, Enterprise-D sickbay, Starfleet HQ corridor, Starfleet HQ banquet room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Admiral Quinn's quarters, great hall, reception room, dining room, mining tunnel, Starfleet HQ control room, rocky wasteland, cavern
@@ -2879,6 +2890,7 @@ matter replicator [Sonny used to make a martini],
 generosity [Data at rescuing frozen people] <Data>,
 hospitality [crew to frozen people],
 humility [Ralph gets a lesson in humility] <Ralph Offenhouse>,
+pride in an achievement [Ralph expressed a proper pride in his achievements in the business world.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D guest lounge, Enterprise-D Clare's quarters, Enterprise-D Sonny's quarters, Enterprise-D ready room, Enterprise-D corridor, conference room, Romulan cruiser control room, spaceship cryonic chamber
@@ -3431,6 +3443,7 @@ grief [Riva at loss of chorus] <Riva>,
 patience [Riva] <Riva>,
 personal conviction [Riva about mediation protocols] <Riva>,
 trust [Riva in chorus] <Riva/Riva's chorus>,
+pridefulness [Riva was too proud to go back and negotiate a truce between two warring factions after he lost his chorus.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D Riva's quarters, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D sickbay, Enterprise-D engineering, Enterprise-D corridor, rocky landscape, antechamber, large chamber
@@ -3530,6 +3543,7 @@ coping with romantic rejection [Ira at Brianon] <Ira Graves>,
 coping with aging [Ira] <Ira Graves>,
 anger [Ira Graves as Data] <Ira Graves>,
 reclusiveness [Ira Graves] <Ira Graves>,
+attitude of superiority [Famed scientist Ira Graves was proud of his achievements in cybernetics to the point of arrogance.],
 
 :: Settings
 Ten Forward <bar>, bar, Enterprise-D bridge, Enterprise-D corridor, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D sickbay, Enterprise-D Data's quarters, Enterprise-D Kareen's quarters, Enterprise-D turbolift, living room, science lab
@@ -3769,6 +3783,7 @@ gluttony [Riker at the Klingon feast.] <Riker>,
 hospitality [Riker gets dose of Klingon hospitality],
 humility [Mendon gets a lesson in humility] <Mendon>,
 anger [Klingons at Riker] <Klag>,
+hubris [Mendon dramatically over-estimated his competence to serve as an officer aboard the Enterprise.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D transporter room, Enterprise-D holodeck <shooting range>, shooting range, Enterprise-D corridor, Ten Forward <bar>, bar, Klingon vessel corridor, Klingon vessel bridge, Klingon vessel mess hall
@@ -4376,6 +4391,7 @@ confronting an old ghost [Riker] <Riker>,
 paternal love [Kyle to Riker] <Kyle Riker>,
 father and son rivalry [Riker and Kyle Riker] <Riker/Kyle Riker>,
 filial love [Riker to Kyle] <Riker>,
+pridefulness [A reconciliation between Kyle Riker and William Riker was delayed because both men were too stubborn to admit that they were each partially responsible for the falling out.],
 
 :: Minor Themes
 coping with living in a foreign culture [Worf] <Worf>,
@@ -4619,6 +4635,7 @@ relentless enemy in war [Borg] <Borg>,
 coping with the death of a subordinate [Picard about 18 crewmen] <Picard>,
 anger [Worf at Q] <Worf>,
 grief [18 crewmen died],
+attitude of superiority [Q looked upon humans as amoeba.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D turbolift, Enterprise-D engineering, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D Guinan's office, shuttlecraft, Borg cube machine room
@@ -4850,6 +4867,7 @@ cultural differences [Humans and the space Irish],
 hospitality [Picard to Space Irish] <Picard>,
 patience [Picard to Space Irish] <Picard>,
 laziness [Danilo Odell] <Danilo Odell>,
+attitude of superiority [The technologically advanced Mariposans looked down their long noses at the rustic Bringloids.],
 
 :: Settings
 Enterprise-D corridor, Enterprise-D bridge, Enterprise-D turbolift, Enterprise-D transporter room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D cargo bay, Enterprise-D Pulaski's office, Enterprise-D sickbay, Enterprise-D Riker's quarters, Enterprise-D ready room, Mariposa office, Mariposa science lab, Mariposa hall
@@ -5181,6 +5199,8 @@ facing an overpowering adversary [Riker and skeleton crew vs. Enterprise] <Riker
 lesson in humility [Kolrami taught a lesson he won't soon forget at the strategema table] <Sirna Kolrami>,
 self-confidence [Riker's crew; Data doubted his strategema skills] <Riker, Worf, Geordi, Wesley, Data>,
 rivalry [Data and Kolrami] <Data/Sirna Kolrami>,
+attitude of superiority [Kolrami treated everyone around him as being intellectually inferior.],
+hubris [Kolrami dramatically underestimated Riker's tactical abilities and would have lost to him in a war games exercise as a result, had the Ferengi not come and interfered at the last minute.],
 
 :: Minor Themes
 the reasons for playing games [conversation Data/Troi/Pulaski],
@@ -5398,6 +5418,8 @@ red giant [Stubbs was on the Enterprise to study a supernova involving a red gia
 neutron star [Stubbs was on the Enterprise to study a supernova involving a neutron star],
 remorse [Stubbs] <Paul Stubbs>,
 tardiness [Wesley dozed off in the science lab and was subsequently late for duty.],
+hubris [Dr. Paul Stubbs confidence in his own scientific prowess blinded him to the dangers of creating nanobots.],
+attitude of superiority [Dr. Paul Stubbs was a smug scientist who was disrespectful to others aboard the Enterprise, except for Wesley, whom he had identified as a wunderkind.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D shuttle bay, Enterprise-D corridor, Enterprise-D sickbay, Enterprise-D medical lab, Enterprise-D sickbay <hospital waiting room>, hospital waiting room, Enterprise-D engineering, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D Wesley's quarters, Ten Forward <bar>, bar, Enterprise-D computer room, Enterprise-D Stubb's quarters
@@ -5528,6 +5550,8 @@ loyalty to a leader [townsfolk to Gosheven] <Haritath, Kento>,
 unrequited love [Adr'rian at Data] <Ard'rian McKenzie>,
 fortitude [Data trying to save colonists] <Data>,
 patience [Data trying to save colonists] <Data>,
+pridefulness [Gosheven was proud of the city that he and the other colonists had built for themselves, and refused to evacuate even when it became apparent that an attack was imminent.],
+pride in one's community [Gosheven was proud of the city that he and the other colonists had built for themselves.],
 
 :: Settings
 Enterprise-D bridge, Ten Forward <concert hall>, concert hall, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D transporter room, Enterprise-D ready room, living room, frontier town, town square, canyon
@@ -6538,6 +6562,7 @@ belonging [Jarok left everything behind with the prospect of living out the rest
 anger [Picard and others with Jarok] <Picard>,
 fortitude [Jarok defecting for altruistic reasons] <Alidar Jarok>,
 sadness [Jarok] <Alidar Jarok>,
+pariotism [The Romulan Admiral Jarok defected to the Federation in a bid to prevent what he believed would be a war that was calculated to leave the Romulan Empire in ruins.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D transporter room, Enterprise-D Jarok's quarters, Enterprise-D interrogation room, relaxation center, Enterprise-D sickbay, Ten Forward <bar>, bar, Enterprise-D corridor, Enterprise-D holodeck <woodland; gridlines; rocky wasteland; campfire>, woodland, gridlines, rocky wasteland, campfire, Romulan warbird ready room
@@ -7437,6 +7462,7 @@ hatred [Worf for Duras] <Worf>,
 personal conviction [Worf] <Worf>,
 what it is like in a legal proceeding [Worf stands trial to prove his father's innocence],
 guilt and evidence [what evidence was necessary to exonerate Worf's father],
+pride in one's family [Worf and Kurn worked to preserve the honor of the Mogh dynasty.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D transporter room, Ten Forward <bar>, bar, Enterprise-D sickbay, Enterprise-D Captain's quarters <dinner table>, dinner table, Enterprise-D Kurn's quarters, antechamber, great hall, pedestrian tunnel, Klingon living room, chamber, Klingon city street
@@ -8862,6 +8888,7 @@ hospitality [Picard welcomed by his family] <Marie Picard>,
 kindness [the Picard's] <Marie Picard>,
 sadness [Picard and Crushers] <Picard, Wesley>,
 uncle and nephew [Picard and Rene] <Picard/Rene Picard>,
+pridefulness [Robert was proud about the traditional way of life he led and looked down at his brother Picard for not following in his example.],
 
 :: Settings
 Enterprise-D corridor, Enterprise-D transporter room, Enterprise-D holodeck <gridlines>, gridlines, Enterprise-D Beverly's office, Enterprise-D Beverly's quarters, Enterprise-D Picard's quarters, Enterprise-D Riker's quarters, Enterprise-D Worf's quarters, Ten Forward <bar>, bar, dining room, countryside, vineyard, cemetery
@@ -11008,6 +11035,7 @@ transcendental being [Q] <The Q>,
 :: Major Themes
 self-image [Picard around the ship, embarrassed about Vash] <Picard>,
 girl power [Vash can fend for herself in the castle],
+attitude of superiority [God-like Q looked down his long nose at Picard and the other humans.],
 
 :: Minor Themes
 lovers' quarrel [Picard and Vash] <Picard/Vash>,
@@ -11142,6 +11170,7 @@ biological computer [Klingon visitor had one],
 logic vs. gut feeling [Picard refused to confine Simon to his quarters based on Betazoid intuition],
 facing wrongful accusations [Simon Tarses] <Simon Tarses>,
 anger [Satie throws temper tantrum in courtroom] <Norah Satie>,
+pride in one's family [Admiral Satie was proud of her father who had been a judge of some noteriety.],
 
 :: Settings
 Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D sickbay, Enterprise-D transporter room, Enterprise-D turbolift, Enterprise-D corridor, Enterprise-D interrogation room <courtroom>, Enterprise-D Picard's quarters, Enterprise-D J'Dan's quarters, Enterprise-D Satie's quarters, courtroom, chamber
@@ -12599,6 +12628,7 @@ the need to be treated with respect [the Zakdorn] <Klim Dokachin>,
 defection [Spock was thought to have defected to the Romulans],
 paternal love [Sarek to Spock] <Sarek>,
 grief [Picard over Sarek] <Picard>,
+pridefulness [Zakdorn Klim Dokachin took a supercilious attitude toward his job as a space junk yard quartermaster.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D transporter room, Enterprise-D corridor, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D cargo bay, Enterprise-D engineering, ceremonial chamber, Klingon vessel bridge, Klingon vessel crew quarters <Spartan quarters>, Spartan quarters, executive office, cavern, Romulan city street, restaurant, bathroom
@@ -13370,6 +13400,8 @@ alternate points of view [liberal and conservative],
 hospitality [colonists to landing party] <Aaron Conor>,
 personal conviction [Aaron Conor and Martin in their society] <Aaron Conor, Martin Benbeck>,
 caste system [colonists maintained strict genetically engineered caste system],
+pride in one's community [Aaron Conor and his fellow colonists were proud of the society they had constructed to a fault.],
+pridefulness [Aaron Conor and many of his followers refused to leave the colony that they were so proud of even though not doing so meant certain death.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D engineering, Enterprise-D turbolift, laboratory, courtyard, garden, rocky wasteland, town square
@@ -13736,6 +13768,7 @@ paternal love [Worf at Alexander] <Worf>,
 self-analysis [Worf] <Worf>,
 experimental medical procedure [Toby Russell used risky experimental medical procedures on injured crewmen],
 life with a handicap vs. death [Worf contemplated suicide over living as a invalid] <Worf>,
+pridefulness [Worf's ego prevented him from wanting to live on as an invalid after he became paralyzed in a freak accident.],
 
 :: Minor Themes
 depression [crippled Worf contemplated suicide] <Worf>,
@@ -14089,6 +14122,7 @@ betrayal [Wesley betrayed Locarno] <Wesley>,
 seeing the error of one's ways [Wesley] <Wesley>,
 guilt and evidence [Picard and Brand suspect the kids but can't prove it in court],
 trust in a friend [Wesley and other students in Locarno] <Wesley>,
+pride in one's team [Locarno took pride in Nova Squadron and encouraged his fellow members to do likewise.],
 
 :: Minor Themes
 perjury [Nova Squadron members comitted perjury on the stand when questioned about the circumstances surrounding the death of Joshua],
@@ -15640,6 +15674,7 @@ humility [Amanda tried to be humble] <Amanda Rogers>,
 kindness [Beverly and others toward Amanda] <Beverly>,
 laziness [Amanda took the easy route to finishing those experiments] <Amanda Rogers>,
 filial love [Amanda to deceased parents] <Amanda Rogers>,
+attitude of superiority [The god-like Q thought himself above humans and encouraged Amanda to do likewise.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D shuttle bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D medical lab, Enterprise-D corridor, gazebo, spaceship outer hull
@@ -16785,6 +16820,7 @@ android [Data] <Data, Soong Type Android>,
 wacky dream interpretation [interpretation of Data's dreams],
 self-analysis [Data] <Data>,
 paternal love [Soong at Data] <Noonian Soong>,
+pride in one's family [Worf refused to believe that anybody of his house, the House of Mogh, would allow themselm to be taken as a prisoner of war.],
 
 :: Minor Themes
 denial [Worf about his father being a coward] <Worf>,
@@ -19271,6 +19307,7 @@ grief [crew for parallel-Geordi] <Beverly>,
 humility [Worf about birthday party] <Worf>,
 sadness [Troi to leave Worf] <Troi>,
 space telescope [subspace telescope] <Argus Array>,
+pride in an achievement [Worf was rather proud of himself for having taken first place in a martial arts competition.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D Worf's quarters, Enterprise-D engineering, Ten Forward <bar>, bar, Enterprise-D ready room, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D shuttle bay, Enterprise-D sickbay, shuttlecraft
