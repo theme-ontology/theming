@@ -1056,8 +1056,6 @@ crime in society [Valentine had committed all sorts of offenses.],
 burglary in society [Rocky burgled a pawn shop under the cover of darkness.],
 bank robbery in society [Rocky contemplated committing a bank robbery to alleviate his boredom.],
 
-bank robbery
-
 
 tz1959e1x29
 ===========
@@ -1405,22 +1403,27 @@ Directed by: Don Medford. Story by: Rod Serling.
 
 :: Ratings
 4 <mikael>,
+4 <paul>,
 
 :: Choice Themes
-be careful what you wish for [this was yet another one of those stories about unforeseen consequences],
+be careful what you wish for [Mr. and Mrs. Castle learned the hard way that it is important to be wary of unforeseen consequences when given the opportunity to have one's wishes fulfilled.],
 
 :: Major Themes
-facing financial ruin [the Castles and the old woman were all close to being broke, not able to pay their bills],
-genie in a lamp [there was a variation of this theme using a bottle instead of the lamp],
-magic lamp with genie [there was a variation of this theme using a bottle instead of the lamp],
-deciding what to wish for [the Castles deliberated at length over how to dispose of their wishes],
-ironic twist of fate [Arthur wished for wealth but the tax man took it; Arthur wished for power and became Hitler hours away from death],
-husband and wife [Arthur deliberated with his wife on numerous occasions],
+facing financial ruin [The Castle's and the elderly woman were all close to being broke, not able to pay their bills.],
+genie in a lamp [There was a variation of this theme using a wine bottle instead of a lamp.],
+magic lamp with genie [there was a variation of this theme using a bottle instead of the lamp] <PS: technically the lamp is not a wish granting object. could easily delete this theme, since we have genie in a lamp anyway.>,
+deciding what to wish for [Mr. and Mrs. castle deliberated at length over how to dispose of their four wishes.],
+ironic twist of fate [Arthur wished for wealth but the tax man took it, and then he wished for power and became Hitler hours away from death.],
+husband and wife [Arthur deliberated with his wife on numerous occasions.],
+actions have consequences [] <PS: the genie kept warning Arthur to think about the consequences of his wishes>,
 
 :: Minor Themes
-human self-sacrifice for another [Arthur couldn't pay his bills, yet gave money to a poor old lady],
-taxation in society [when the windfall money was taxed at a 95% rate, it was surely a criticism of bloated governments],
-generosity [Arthur was exceptionally generous to the old woman],
+human self-sacrifice for another [Arthur couldn't pay his bills, yet gave some money to a poor old lady.],
+taxation in society [Mr. and Mrs. Castle were left with only $5 of their million dollar windfall after the tax man found them. when the windfall money was taxed at a 95% rate, it was surely a criticism of bloated governments],
+generosity [Arthur was exceptionally generous to the old woman.],
+the lust for power [Arthur wished to rule over an entire country without the possibility of being voted out of office. His wish was granted and he was turned into Hitler in the last days of World War II.],
+World War II [Arthur was briefly transformed into Hitler.],
+Adolf Hitler [Arthur was briefly transformed into Hitler.],
 
 
 tz1959e2x03
