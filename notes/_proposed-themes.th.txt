@@ -204,9 +204,14 @@ filicide
 ========
 
 :: Description
+A character murders their own child.
 
 :: Parents
 murder in society
+
+:: Examples
+In tz1959e1x13 "The Four of Us Are Dying", a disappointed father took it 
+upon himself to shoot the man he believed to be his own wayward son.
 
 :: References
 https://en.wikipedia.org/wiki/Filicide
@@ -275,20 +280,6 @@ Due judgment must be exercised, and this category may be refined as we go forwar
 speculative fiction theme
 
 
-time slow down
-==============
-
-:: Description
-
-:: Notes
-
-:: Parents
-speculative natural process
-
-:: Aliases
-time freeze, time stop
-
-
 what if I fell into the clutches of a homicidal maniac
 ======================================================
 
@@ -323,7 +314,9 @@ sexual assault in society
 =========================
 
 :: Description
-The crime of intentionally sexually touches another person without that person's consent, or coercing or physically forcing a person to engage in a sexual act against their will is featured.
+The crime of sexually touching another person without that person's 
+consent, or coercing or physically forcing a person to engage in a 
+sexual act against their will is featured.
 
 :: Parents
 crime in society
@@ -336,7 +329,8 @@ the vampire was really an alien
 ===============================
 
 :: Description
-The crackpot notion that the vampires of folklore are are of extraterrestrial origin is featured.
+The crackpot notion that the vampires of folklore are are of extraterrestrial 
+origin is featured.
 
 :: Parents
 crackpot theory
@@ -349,7 +343,8 @@ stepmother and stepson
 ======================
 
 :: Description
-The sometimes contentious relationship between a non-biological mother figure and a male child under her protection is featured.
+The sometimes contentious relationship between a non-biological mother 
+figure and a male child under her protection is featured.
 
 :: Parents
 human familial relationship
@@ -365,7 +360,7 @@ the nerd stereotype
 ===================
 
 :: Description
-A stereotypical nerd character is featured. This typically involves the wearing of glasses, social awkwardness, and an excessive interests in things intellectual.
+A stereotypical nerd character is featured. This typically involves the wearing of glasses, social awkwardness, and an excessive interest in things intellectual.
 
 :: Parents
 human character stereotype
@@ -378,15 +373,25 @@ the desire for a simpler life
 =============================
 
 :: Description
+A character dreams of shedding their troublesome and complicated life 
+for one that is perceived as simpler and more idyllic. Typically, this
+means going back to a more old-fashioned way of life with less technology.
 
 :: Parents
 human aspiration
+
+:: Examples
+In tz1959e1x30 "A Stop at Willoughby", Gart was under such intense pressure 
+at work that he began fantasizing about escaping to an idyllic 1880s town 
+called Willoughby.
 
 
 love potion
 ===========
 
 :: Description
+There is a liquid concoction with the property that it can make one 
+person love another.
 
 :: Parents
 magic potion
@@ -396,6 +401,8 @@ being true to one's nature
 ==========================
 
 :: Description
+A character rejects the pretension of trying to be something that they 
+are not, and resolves to just be who they naturally are instead.
 
 :: Parents
 human thinking about self
@@ -403,33 +410,46 @@ human thinking about self
 :: Aliases
 embracing who you are
 
+:: Examples
+In tz1959e1x33 "Mr. Bevis", we saw how Mr. Bevis first resolved to better 
+himself by conforming to society, as the guardian angel wanted, but realized 
+that he'd rather remain destitute but carefree, as he had always been.
+
 
 human vs. mysterious adversity
 ==============================
 
 :: Description
+A human character is confronted with problematic unnatural happenings that 
+seem to defy explanation or categorization in any meaningful way.
+
+:: Note
+If mysterious events are cause by spirits or the like, the theme 
+"human vs. the occult" is used instead.
 
 :: Parents
 facing adversity
 
-
-becoming a more emotionally sophisticated person
-================================================
-
-:: Description
-
-:: Parents
-human self improvement
+:: Examples
+In tz1959e1x34 "The After Hours", Marsha grew increasingly puzzled after she 
+purchased a gold thimble on the 9th floor of a department that had only eight 
+floors.
 
 
 wicked character vs. virtuous character
 =======================================
 
 :: Description
+A stereotypically evil character is contrasted with a character 
+who is stereotypically good.
 
 :: Parents
 human characters in contrast
 
+:: Examples
+In "Snow White and the Seven Dwarfs" (1937), we see how the innocent and
+kindly princess Snow White is hunted by her wicked and villanous step-mother,
+the queen.
 
 
 
@@ -674,8 +694,9 @@ religious point of view
 =======================
 
 :: Description
-We are shown what things might be from the point of view of someone who is
-extremely pious with respect to some religious doctrine or another.
+We are shown how something more or less ordinary may seem different
+when viewed from the perspective of someone who is extremely pious, 
+with respect to some religious doctrine or another.
 
 :: Parents
 cross cultural issue
@@ -685,7 +706,14 @@ alternate points of view
 ========================
 
 :: Description
-We are shown what things might be like from other peoples' points of view.
+We are shown how something in particular may appear quite different
+from the respective perspectives of two different people.
+
+:: Notes
+This theme is typically used when the story switches between two 
+character's perspective. Other "point of view" themes often feature
+an unusual perspective which is implicitly compared with the viewers
+assumed normal perspective. 
 
 :: Parents
 cross cultural issue
