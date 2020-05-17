@@ -1323,28 +1323,28 @@ first season and essentially comedic in tone. It originally aired on July 1,
 Directed by: Ralph Nelson. Story by: Richard Matheson.
 
 :: Ratings
-4 <paul*>,
+4 <paul>,
 5 <mikael>,
 
 :: Choice Themes
-what if my thoughts became reality [Any character that the famed playwright George described into his dictation machine was conjured into real life. Note he also conjured a giant, red-eyed elephant into existence.] <proposed for discussion: was it a magic dictation machine? MO: I see no indication that the machine was special - George had an ability>,
-fictional character come to life [Any character that the famed playwright George described into his dictation machine was conjured into real life.] <proposed for discussion>,
+what if my thoughts became reality [Any character that the famed playwright George described into his dictation machine was conjured into real life. Note he also conjured a giant, red-eyed elephant into existence.],
+fictional character come to life [Any character that the famed playwright George described into his dictation machine was conjured into real life.],
 
 :: Major Themes
 husband and wife [George and Victoria West.],
 extramarital affair [Victoria tried to get her husband George to confess to having an affair after she spotted him through a window flirting with an attractive, young woman.],
 ironic twist of fate [Victoria refused to believe that George's lover was a fictional character come to life, then in the end Victoria found out that she herself was another of George's fictions.],
-lovers' quarrel [Victoria grilled George after having spotted him through a window flirting with an attractive, young woman.],
-coping with a jealous lover [George was rather discombobulated by his jealouse wife's grilling of him],
-love triangle [wife Victoria became acquinted with George's fictional mistress],
-institutionalizing a loved one [Victoria accused George of wanting to driver her insane and have her committed, then set off to do the very same to him MO: this is normally used about a tough decision, but here it was a nefarious plot],
-ironic twist of fate [Victoria raised hell about George's fictional mistress; then it turned out that Victoria herself was a fictional wife],
-man and mistress [prop FD we have all these romantic relationships, but we do not have one for a man with his stable mistress or the correspo ding for a woman],
+coping with a jealous lover [George was rather discombobulated by his jealous wife's grilling of him.],
+love triangle [George's wife Victoria became acquainted with his fictional mistress.],
+man and mistress [George and his fantasy mistress.],
 
 :: Minor Themes
+lovers' quarrel [Victoria grilled George after having spotted him through a window flirting with an attractive, young woman.],
 creative writing [The playwright George described characters in a literary manner into his dictation machine.],
-passion for writing [The famed playwright George West.] <for discussion>,
-divorce [Victoria implied that she was going to divorce George],
+divorce [Victoria implied that she was going to divorce George.],
+
+:: Not Themes
+institutionalizing a loved one [Victoria accused George of wanting to driver her insane and have her committed, then set off to do the very same to him. In this story it was part of a nefarious plot, not a tough decision.],
 
 
 tz1959e2x01
@@ -1372,18 +1372,15 @@ survivor guilt [We are given to understand that severe survivor guilt caused Jam
 
 :: Major Themes
 what if I had amnesia [James struggled to remember how and why he had ended up in a plane crash.],
-World War II [The story was set during World War II and followed an allied bomber captain.],
 
 :: Minor Themes
+World War II [The story was set during World War II and followed an allied bomber captain.],
 what if I were stranded without food and water [James saw a dropped water flask and chided his absent crewman for discarding such a necessity.],
 what if I couldn't trust the veracity of my senses [James openly wondered whether he might be hallucinating when he saw some of his fellow crewmen vanish before his eyes.],
+loneliness [James seemed distressed when he couldn't find his crewmen at the crash site.],
 
 :: Not Themes
-coping with post-traumatic stress [FD in retrospect this does not seem to apply],
-delusional point of view [FD in fact I say not to use, because we didn't see the real present word from a delusional PoV, only a fantasy past],
-
-:: Notes
-See https://en.wikipedia.org/wiki/Category:Solitude_in_fiction for some theme fodder
+coping with post-traumatic stress [This theme does not apply because James did not end up going on the mission.],
 
 
 tz1959e2x02
@@ -1411,16 +1408,17 @@ be careful what you wish for [Mr. and Mrs. Castle learned the hard way that it i
 :: Major Themes
 facing financial ruin [The Castle's and the elderly woman were all close to being broke, not able to pay their bills.],
 genie in a lamp [There was a variation of this theme using a wine bottle instead of a lamp.],
-magic lamp with genie [there was a variation of this theme using a bottle instead of the lamp] <PS: technically the lamp is not a wish granting object. could easily delete this theme, since we have genie in a lamp anyway.>,
+magic lamp with genie [There was a variation of this theme using a wine bottle instead of a lamp.],
 deciding what to wish for [Mr. and Mrs. castle deliberated at length over how to dispose of their four wishes.],
-ironic twist of fate [Arthur wished for wealth but the tax man took it, and then he wished for power and became Hitler hours away from death.],
+ironic twist of fate [Arthur wished for wealth but the tax man took it. He later wished for power but became Hitler hours away from death.],
 husband and wife [Arthur deliberated with his wife on numerous occasions.],
-actions have consequences [] <PS: the genie kept warning Arthur to think about the consequences of his wishes>,
+actions have consequences [The genie kept urging Arthur to think over the consequences of his wishes before making them.],
 
 :: Minor Themes
 human self-sacrifice for another [Arthur couldn't pay his bills, yet gave some money to a poor old lady.],
-taxation in society [Mr. and Mrs. Castle were left with only $5 of their million dollar windfall after the tax man found them. when the windfall money was taxed at a 95% rate, it was surely a criticism of bloated governments],
+taxation in society [Mr. and Mrs. Castle were left with bill that would leave them with a measly $5 of their million dollar windfall after the tax man found them.],
 generosity [Arthur was exceptionally generous to the old woman.],
+the lust for gold [Arthur used one of his wishes to get a million dollars.],
 the lust for power [Arthur wished to rule over an entire country without the possibility of being voted out of office. His wish was granted and he was turned into Hitler in the last days of World War II.],
 World War II [Arthur was briefly transformed into Hitler.],
 Adolf Hitler [Arthur was briefly transformed into Hitler.],
@@ -1443,7 +1441,7 @@ on CBS.
 Directed by: Douglas Heyes. Story by: Rod Serling.
 
 :: Ratings
-5 <mikael>,
+5 <mikael*>,
 4 <paul>,
 
 :: Choice Themes
