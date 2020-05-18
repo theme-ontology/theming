@@ -2440,7 +2440,6 @@ reptilian being [Gorn] <Gorn>,
 desperation [Kirk] <Kirk>,
 to kill or to spare [Kirk spares Gorn] <Kirk>,
 transcendental point of view [Metrons] <Metron>,
-cultural differences [Humans and Gorn],
 lesson in humility [Kirk and humanity more generally] <Kirk>,
 humility [Kirk] <Kirk>,
 enemy point of view [Gorn had his reasons for destroying Cestus III] <Gorn>,
@@ -2452,7 +2451,6 @@ feeling of helplessness [Kirk and the crew both],
 ruthlessness [Gorn] <Gorn captain>,
 incompatible modes of communication [Kirk and Gorn cannot communicate],
 high ground advantage [Captain Kirk is climbing a mountain],
-alien morals [Metron thinking] <Metron>,
 compassion [Metrons allow crew to watch Kirk's imminent death] <the Metron>,
 
 :: Settings
@@ -2819,8 +2817,7 @@ catharsis [the towns people at festival],
 cowardice [Marplon before entering the Hall of Audiences] <Marplon>,
 the nature of sentience [is Landru sentient?] <Landru>,
 AI point of view [Landru does not value diversity] <Landru>,
-alien customs [cathartic festival] <Children of Landru>,
-cultural differences [humans and Children of Landru],
+foreign customs [The landing party was somewhat taken aback to find that the otherwise dosile people of Beta III held a periodic festival in which people could do whatever they wanted without repercussions.],
 fear [Reger of Landru] <Reger>,
 anger [festival],
 mind reading ability [Spock performed a mind-meld on McCoy.],
@@ -3342,7 +3339,6 @@ Scotty, McCoy, Giotto, Ed Appel, Schmitter
 silicon-based being [the horta] <Horta>,
 sentient rights [the horta had none according to the miners] <Horta>,
 endangered species [the horta was the last of it's species] <Horta>,
-cultural differences [Federation/Horta],
 the morality of colonization [Horta's planet was colonized by the Federation and Horta exploited],
 
 :: Major Themes
@@ -3364,6 +3360,7 @@ kindness [McCoy and Kirk to Horta] <McCoy, Kirk>,
 anger [miners],
 trust in a potential foe [Horta in Spock] <mother Horta>,
 mind reading ability [Spock performed a mind meld on the Mother Horta.],
+alien point of view [The (distinctly repulsive) Horta thought humans were patently ugly.],
 
 :: Settings
 mining tunnel, Janus VI Vanderberg's office, Janus VI reactor room, Enterprise bridge, cavern
@@ -3464,7 +3461,7 @@ war is petty [from Organian point of view],
 transcendental being [Organian] <Organian>,
 civilization vs. savagery [Organians saw Federation and Klingons as about equally barberous],
 transcendental point of view [Organians] <Organian>,
-alien morals [Organian pascifism] <Organian>,
+conflict of cultural norms [Kirk could not stand idly by and let the Organians engage in something so unspeakable as "non-violence". The Organians, on their part, were repulsed by the bellicosity of human and Klingon alike.],
 
 :: Major Themes
 pacifism [those Organians],
@@ -3479,7 +3476,6 @@ the ethics of interfering in less advanced societies [Organians reluctantly choo
 military dictatorship [Klingons of Organian homeworld] <Klingon>,
 social oppression [The Klingons subjugated the Organians and ruled over them with an iron fist.],
 facing an invading force [Kirk facing Klingon occupation],
-conflict of moral codes [Federation/Klingons and Organians],
 the horrors of war [Kirk made them clear to Organian ruling council],
 atrocities of war [Klingons planned mass execution] <Klingon>,
 cruelty [Kor] <Kor>,
@@ -3505,7 +3501,6 @@ personal conviction [Kirk and Spock protect Organians] <Kirk, Spock>,
 imperialistic society [Klingons] <Klingon>,
 federalism [Kirk offers Federation to Organians],
 social stagnation [Organians were presumed so by landing party],
-cultural differences [Kirk puzzled by Organian attitudes toward their conquerors],
 the future of human evolution [The Organians had evolved beyond the need for bodies, and it was suggested that humans might one day share this fate.],
 
 :: Settings
@@ -4113,10 +4108,8 @@ action
 
 :: Choice Themes
 diplomatic negotiating [the mining rights],
-cultural differences [Capellan/Federation/Klingons],
 
 :: Major Themes
-alien customs [Capellan tribal customs],
 alien point of view [Capellan ideology of the survival of the strong] <Capellans, Capellan>,
 transnational conflict over a shared resource [the episode was about negotiating for mining rights on the planet],
 integrity [Maab] <Maab>,
@@ -4125,6 +4118,7 @@ cowardice [Kras] <Kras>,
 rule by strength of arm [only strong should survive] <Capellans, Capellan>,
 honor [Maab] <Maab>,
 facing a mortal enemy [Kirk faces Kras in fight to the death] <Kirk>,
+foreign point of view [Humans and Klingons competed against each other in convincing the Capellans their cultures were more similar. Eleen objected to McCoy touching her while delivering her baby as it was against Capellan customs for a woman to be touched by a man who is not her husband.],
 
 :: Minor Themes
 the desire for vengeance [Kirk confided in Spock how he wanted to take revenge against Kras] <Kirk>,
@@ -4148,6 +4142,7 @@ kindness [McCoy] <McCoy>,
 hatred [Kirk for Klingons] <Kirk>,
 imperialistic society [Klingons] <Klingon>,
 high ground advantage [landing party takes mountain],
+conflict of privacy preferences [Eleen objected to McCoy touching her while delivering her baby as it was against Capellan customs for a woman to be touched by a man who is not her husband.],
 
 :: Settings
 Enterprise briefing room, nomadic encampment, tent, Enterprise bridge, hillside, cavern, cavern entrance, xeric scrubland, mountainside
@@ -4389,8 +4384,7 @@ male bonding [Kirk and Spock] <Kirk/Spock>,
 :: Major Themes
 shame [Spock about his mating cycle] <Spock>,
 fiancée and fiancée [Spock and T'Pring] <Spock/T'Pring>,
-alien customs [Vulcans],
-cultural differences [Kirk about Spock's situation],
+foreign customs [Vulcan marriage customs seemed mighty peculiar to the humans, and most of all to Kirk who had to stake his life to save Spock. Also Spock getting into a heat was rather upsetting.],
 duty vs. friendship [Kirk must choose between attending ceremony and saving Spock] <Kirk>,
 arranged marriage [Spock was arranged to be married] <Vulcan>,
 what if I had to fight to the death [Kirk fights Spock] <Kirk>,
@@ -4929,7 +4923,7 @@ clash of wills [Spock and McCoy] <Spock/McCoy>,
 first crush [young Valiian couple] <Makora/Sayana>,
 young lovers [The young Vaalian couple Makora and Sayana.] <Makora/Sayana>,
 mysterious maker alien race [Vaal makers] <Vaal's Makers>,
-alien customs [Vaalians],
+foreign point of view [Chekov inadvertantly taught the abstinent Vaalians how to display romantic affection.],
 flirtation [Chekov had his sights set on Landon.] <Chekov/Martha Landon>,
 kindness [Vaalians],
 free inquiry vs. obedience [Vaal suppressed free inquiry],
@@ -5713,7 +5707,6 @@ reconciliation [Spock and Sarek] <Spock/Sarek>,
 father and son [Spock and Sarek] <Sarek/Spock>,
 
 :: Major Themes
-cultural differences [the conference attendees],
 fatherly disappointment in a son [Sarek at Spock] <Sarek>,
 duty vs. duty [Spock about blood transfusion; he had a duty to the Federation to remain in command and a duty to his father] <Spock>,
 sacrifice for a loved one [Spock for Sarek] <Spock>,
@@ -5740,6 +5733,7 @@ maternal love [Amanda at Spock] <Amanda Grayson>,
 coping with a loved one being in peril [Spock and Amanda at Sarek] <Spock, Amanda Grayson>,
 anger [Tellarite at banquet] <Gav>,
 compassion [Spock donating blood to Sarek] <Spock>,
+conflict of cultural norms [The straightforward Tellarite manner of resolving conflict clashed pointedly with the diplomatic manner employed by the Vulcans.],
 
 :: Settings
 Enterprise Kirk's quarters, Enterprise corridor, Enterprise hangar deck, Enterprise engineering, Enterprise reception room, Enterprise bridge, Enterprise Sarek's quarters, Enterprise sickbay, Enterprise McCoy's office, Enterprise brig, Enterprise Spock's quarters
@@ -7182,7 +7176,6 @@ western
 
 :: Choice Themes
 the instinct for violence [The aliens decide to execute the landing party in a way befitting for humans],
-cultural differences [Humans and Melkots],
 
 :: Major Themes
 xenophobia in society [Melkots saw the humans as a disease],
@@ -7314,7 +7307,7 @@ Petri, Kryton
 romance
 
 :: Choice Themes
-cultural differences [Humans, Elasians, and Troyians],
+conflict of cultural norms [The Elasians expected everyone else to show their royalty the same respect they did. They were mighty offended when Kirk would not up with it put and threatened to put the petulent princess over his knee.],
 interfactional mediation [Federation to mediate between the feuding Elasians and Troyians],
 reconciliation between two peoples [Troysius/Elan],
 civilization vs. savagery [Elasian savagery vs. Troyian civilization],
@@ -8336,7 +8329,6 @@ coping with a loved one being terminally ill [Kirk to McCoy] <Kirk>,
 sun going supernova [Fabrini civilization ended in this manner],
 supernova [Fabrini civilization ended in this manner],
 sentient computer [the oracle] <the Oracle>,
-alien morals [Yonadans accustomed to worshipping a central computer],
 compassion [all for McCoy],
 kindness [just a tiny little pain implant and you are welcome],
 sadness [all for McCoy],
@@ -8456,7 +8448,7 @@ factions joining forces against a common enemy [Humans and Klingons],
 facing a ship takeover [crew faced Klingons],
 anger [rampant brawling and Chekov outbursts] <Chekov>,
 trust in a potential foe [Kirk of Kang and vice versa] <Kirk, Kang>,
-cultural differences [Humans and Klingons],
+conflict of cultural norms [Kirk had much trouble negotiating a truce with Kang on account of Kang's Klingon warrior/honor culture.],
 
 :: Minor Themes
 the desire for vengeance [Chekov claimed the Klingons killed his imaginary brother, Pavel] <Chekov>,
@@ -9592,7 +9584,6 @@ order vs. freedom [Federation order vs. hippie paradise on mythical planet],
 the hippie movement [it was the 1960s],
 
 :: Major Themes
-cultural differences [Kirk vs. hippies],
 obsession [Sevrin] <Sevrin>,
 obsession with a life-dedicated project [Servin] <Sevrin>,
 social activism [the space hippies],
@@ -9615,7 +9606,6 @@ love vs. career [Chekov chose career over Irina] <Chekov>,
 duty vs. compassion [how to treat someone with a contagious disease],
 the need for freedom [space hippies],
 facing a ship takeover [space hippies],
-conflict of moral codes [Kirk vs. hippies],
 hospitality [crew to space hippies],
 kindness [Spock to space hippies] <Spock>,
 personal conviction [space hippies],
@@ -9879,7 +9869,7 @@ the thirst for knowledge [Yarnek] <Yarnek>,
 what if I had to fight to the death [landing part vs. Green] <Kirk, Spock, Surak, Abraham Lincoln>,
 leadership [Kirk in contrast to Green] <Kirk>,
 the qualities of a good leader [Kirk in leading god team] <Kirk>,
-alien morals [rock monsters] <Exclabian>,
+alien point of view [The rock monster aliens struggled to grasp basic humanoid notions of good and evil.],
 
 :: Minor Themes
 language change [The Abe Lincoln being learned that the meaning of the word "nigress" had changed over time.],
@@ -9889,7 +9879,7 @@ role models [Lincoln] <Abraham Lincoln>,
 can machines have souls [is Lincoln real?],
 killing an artificial person [Kirk's decision] <Kirk>,
 sacrifice for one's beliefs [Surak] <Surak>,
-conflict of moral codes [Kirk and Surak],
+conflict of cultural norms [Kirk had no patience for Surak's Vulcan pacifist philosophy when the two were teamed up in a fight to the death against some of history's greatest villains.],
 compromising one's ethical principles vs. self-preservation [Kirk did not force Surak to fight] <Kirk>,
 ruthlessness [Col. Green] <Philip Green>,
 compassion [Surak] <Surak>,

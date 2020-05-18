@@ -388,8 +388,7 @@ husband and wife [Lutan and Yareena] <Lutan/Yareena>,
 love triangle [Lutan/Yareena/Tasha] <Lutan/Yareena/Tasha>,
 unrequited love [Lutan at Tasha] <Lutan>,
 facing a mortal enemy [Tasha faces Yareena] <Tasha>,
-alien morals [Ligonians] <Ligonian>,
-cultural differences [Ligonians had trouble understanding why Federation would object to the Tasha kidnapping],
+foreign customs [The humans and Ligonians saw each other's peculiar foreign habits.],
 attitude of superiority [Lutan, ruler of Ligon II, looked down at those around him with a certain aristocratic pride.],
 
 :: Minor Themes
@@ -408,6 +407,7 @@ coping with unwelcome romantic attention [Tasha copes with romantic overtures fr
 anger [Yareena in fight to death] <Yareena>,
 hospitality [Lutan entertains landing party in his common space] <Lutan>,
 vanity [Lutan] <Lutan>,
+conflict of cultural norms [The Ligonian leader Lutan thought it quite reasonable to kidnap Tasha for his intrigues and was then honor-bound to stand his ground; the Federation people could not abandon an officer and thus a material conflict became inevitable.],
 
 :: Settings
 Enterprise-D bridge, Enterprise-D corridor, Enterprise-D cargo bay, Enterprise-D observation lounge <meeting room>, meeting room, Enterprise-D holodeck <dojo>, dojo, Enterprise-D ready room, Enterprise-D Geordi's quarters, Enterprise-D transporter room, Enterprise-D turbolift, banquet room, living room, great hall, arena
@@ -489,7 +489,7 @@ civilization vs. savagery [civilized Federation vs. savage Ferengi],
 :: Major Themes
 cooperation [crew must cooperate with Ferengi to overcome adversity on planet],
 extinct interstellar civilization [Tkon empire] <Tkon>,
-cultural differences [humans and Ferengi],
+foreign point of view [The humans and Ferengi saw each other's peculiar foreign ideas, about morality in particular.],
 trust in a potential foe [crew in Ferengi],
 mercy [Riker to Ferengi] <Riker>,
 ancient artificial custodian [Portal 6-3] <Portal 6-3, Portal 6-3>,
@@ -709,7 +709,7 @@ incorporeal being [the energy pattern] <Beta Renner Energy Pattern>,
 facing a ship takeover [energy pattern takes command],
 anger [feuding delegates] <Badar N'D'D, Ssestar>,
 ethnic hatred [Anticans and Selay] <Antican/Selay>,
-cultural differences [Antican and Selay],
+foreign point of view [The Antican and the Selay were mutually disgusted by each other's dietary requirements.],
 
 :: Minor Themes
 the killing of animals [Tasha objected to the Selay killing their own food onboard],
@@ -721,10 +721,7 @@ pleasure in solving a puzzle [Data as Sherlock Holmes] <Data>,
 reptilian being [Selay] <Selay>,
 canine-like being [Antican] <Antican>,
 mother and son [Beverly and Wesley] <Beverly/Wesley>,
-alien morals [Selay and Antican weirdness],
 standing up to a boss [crew to Picard; especially Riker and Beverly] <Beverly, Riker>,
-conflict of moral codes [Selay refusing to be eaten by the Anticans and humans were vegetarians (synthetic meat only)],
-alien customs [Antican meat eating habits],
 flirtation [Picard and Beverly] <Picard/Beverly>,
 federalism [Selay and Anticans seek membership in Federation],
 
@@ -820,7 +817,7 @@ erotica
 
 :: Choice Themes
 the letter of the law vs. the spirit of the law [should Wesley be executed for disturbing a flower bed?],
-cultural differences [Edo free love vs. Federation stiff collarness],
+conflict of cultural norms [The humans could not stand idly by as the Edo subjected Wesley to their draconian punishment for a minor infringement: death for stepping in a flower bed.],
 capital punishment [should Wesley be executed for disturbing a flower bed?],
 deferring to unappealing laws in a foreign society [Picard weighs violating Prime Directive to save Wesley from execution],
 free love utopia [Edo free love fest] <Edo>,
@@ -832,8 +829,7 @@ a god and its people [The Edo God and Edo people.],
 what is justice [there was a philosphical discussion about the nature of justice],
 duty vs. compassion [Picard about Wesley's fate] <Picard>,
 adolescence [Wesley] <Wesley>,
-alien morals [Edo and their God],
-conflict of moral codes [Federation and Edo God over the execution],
+foreign point of view [The humans were as astonished as they were delighted by the Edo free love mentality.],
 hedonism [the Edo; exemplified by Liator and Rivan] <Liator, Rivan>,
 conflicting systems of jurisprudence [Federation and Edo justice systems],
 totalitarianism [Edo government had state police with draconian laws] <Edo>,
@@ -844,7 +840,6 @@ free love [free love was had by all on planet surface],
 open sexuality in society [free love was had by all on planet surface],
 civilization vs. savagery [Edo society was fun but at what cost?],
 mother and son [Beverly and Wesley] <Beverly/Wesley>,
-alien customs [Edo free love fest] <Edo>,
 maternal love [Beverly to Wesley] <Beverly>,
 coping with a loved one being in peril [Beverly at Wesley] <Beverly>,
 facing an overpowering adversary [crew face Edo god],
@@ -1166,7 +1161,7 @@ space refugee beings [The few Tarellian survivors of a plague were in a spaceshi
 the good of the many vs. the needs of the few [the safety of the people of Haven vs. founding a space leper colony on the planet],
 fiancée and fiancée [Troi and Wyatt] <Troi/Wyatt Miller>,
 the ethics of valuing human lives [the safety of the people of Haven vs. founding a space leper colony on the planet],
-cultural differences [Lwaxana and Wyatt's parents],
+conflict of cultural norms [After initially insisting that everyone be nude at Troi and Wyatt's wedding ceremony, in keeping with Betazoid tradition, Lwaxana ultimately made the following compromise with Wyatt's parents: everyone save for Troi, Wyatt, Lwaxana, and Wyatt's father would attend the ceremony clothed.],
 
 :: Minor Themes
 conflict of privacy preferences [Wyatt and Troi vs. Riker],
@@ -1273,7 +1268,6 @@ mystery
 
 :: Choice Themes
 the nature of sentience [were the holodeck characters sentient?],
-cultural differences [humans and insectoids and also humans with holodeck characters],
 
 :: Major Themes
 future point of view [automobiles etc.] <Picard>,
@@ -1282,6 +1276,7 @@ alien point of view [insectoids] <Jarada>,
 virtual reality room [1940s era holodeck simulation] <holodeck>,
 AI point of view [holodeck characters] <Cyrus Redblock>,
 human vs. sentient machine [holodeck],
+foreign point of view [Captain Picard struggled to memories an elaborate greeting to ensure the Federation started off on the right foot with a race of insectoids that were sticklers for protocol.],
 
 :: Minor Themes
 insectoid being [Jarada] <Jarada>,
@@ -1499,7 +1494,7 @@ political drama
 :: Choice Themes
 matriarchy [Angel One governed by women] <People of Angel One>,
 minority rights [should the colonists be forcibly removed],
-conflict of moral codes [Matriarchs and Federation of treatment of renegades],
+foreign point of view [The humans found it mighty odd that women were in charge and treated men as chattel on Angel One.],
 
 :: Major Themes
 sexism in society [Women treated men as objects and as lesser beings],
@@ -1513,7 +1508,6 @@ civilization vs. savagery [Matriarchy with executions vs. Federation as model of
 diplomatic compromising [Picard and Riker in dealing with Matriarchs],
 interfactional mediation [Picard and Riker in dealing with Matriarchs],
 reconciliation between two peoples [Matriarchs and fugitives],
-cultural differences [Matriarchs and Federation],
 man vs. woman [Riker vs. Matriarchs especially Beata],
 compassion [Beata toward fugitives at end] <Beata>,
 patience [Beata showed mercy at the end] <Beata>,
@@ -1523,7 +1517,6 @@ future point of view [the discussion about perfume],
 capital punishment [Riker makes passionate plea to stay the execution of th efugitives],
 the ethics of interfering in less advanced societies [Data says they cannot force the humans to leave because they are not bound by the Prime Directive],
 order vs. freedom [the fugitives living freely brought disorder to the social order on Angel One],
-alien customs [Riker wore ceremonial skimpy clothing to his official meeting with Beata],
 masculinity [Riker and his hairy chest contrasted with Beata's wimpy servant boy.],
 spontaneous generation [Beverly explains the virus is spontaneously generated when a certain chemical becomes viral when inside the body],
 betrayal [Mistress Beata by Ariel] <Ariel>,
@@ -1641,7 +1634,7 @@ AI point of view [Bynars] <One Zero, Zero One, Bynar>,
 human vs. sentient machine [Bynar central computer],
 
 :: Minor Themes
-cultural differences [humans and bynars],
+alien point of view [The Bynars were might peculiar to the Federation people, what with the Bynars being mind-linked in pairs, and connected to a central computer.],
 virtual reality room [Riker and Picard distracted by Minuet on the holodeck] <holodeck>,
 infatuation [Riker at Minuet] <Riker>,
 painting [Geordi teaches Data how to paint],
@@ -2213,7 +2206,7 @@ the nature of the senses [Geordi and his visual acuity transmitter],
 attitude towards the dead [Klingon death ritual],
 vision beyond the visible spectrum glasses [VISOR equipped with visual acuity transmitter] <VISOR>,
 coping with the death of a fellow compatriot [Worf with death of Klingon brethren] <Worf, Korris, Konmel>,
-alien customs [death howl],
+foreign customs [The Klingon "death howl" both startled and intrigued the human onwatchers.],
 pride in one's community [Worf and the three Klingon fugitives shared an admiration for the Klingon warrior culture of bygone days.],
 childhood as an outsider [Work reflected on his having grown up as a Klingon child in a human family.],
 
@@ -2864,7 +2857,6 @@ the quest for immortality [Ralph had the expressed purpose to freeze himself wit
 
 :: Major Themes
 fear of an unknown future [the thawed out people] <Clare Raymond, Ralph Offenhouse, L.Q. Sonny Clemonds>,
-cultural differences [frozen people and Enterprise crew],
 coming to terms with living in a new environment [the thawed out people did so in unique ways] <Clare Raymond, Ralph Offenhouse, L.Q. Sonny Clemonds>,
 accumulation of wealth vs. personal development [Ralph vs. Picard debate],
 belonging [Troi helped Clare find her descendents] <Clare Raymond>,
@@ -3086,7 +3078,6 @@ transcendental being [Nagilum] <Nagilum>,
 
 :: Major Themes
 the thirst for knowledge [Nagilum] <Nagilum>,
-alien morals [Nagilum],
 the calculus of human life [Picard choses to self-destruct the ship rather than hand over half his crew to Nagilum] <Picard>,
 non-Euclidean space [Nagilum's realm did not obey the usual laws of space and time],
 the nature of death [Picard explaining],
@@ -3109,7 +3100,6 @@ anger [Worf at fake ship door] <Worf>,
 courage in the face of death [crew before auto-destruct],
 is there a higher power [Picard discuss at length with Nagilum],
 alien experiment [Nagilum conducts elaborate experiment on Humans],
-conflict of moral codes [Humans and Nagilum],
 first strike tactic [when in doubt, surprise them – Worf],
 cruelty [Nagilums experiment] <Nagilum>,
 ruthlessness [Nagilum] <Nagilum>,
@@ -3749,7 +3739,7 @@ Wesley, Picard, Kargan, Klag, Vekma
 human drama
 
 :: Choice Themes
-cultural differences [Klingon/human and Benzite/human],
+cultural exchange [Riker went aboard a Klingon vessel, and a Benzite named Mordock came aboard the Enterprise, in an attempt to foster cross cultural understanding.],
 coping with living in a foreign culture [Riker with Klingons and Mendon with Humans] <Riker, Mendon>,
 duty vs. duty [Riker between Federation and Klingon commander] <Riker>,
 
@@ -3767,8 +3757,6 @@ patience [Benzites are too patient, Klingons not patient enough],
 
 :: Minor Themes
 male bonding [Riker/Worf and Wesley/Mendon] <Riker/Worf, Wesley/Mendon>,
-alien customs [Klingon and Benzite ways],
-alien morals [Klingon and Benzite],
 adolescence [Mendon] <Mendon>,
 rivalry [advancement in Klingon command structure] <Riker/Klag>,
 lesson in humility [Mendon] <Mendon>,
@@ -4395,13 +4383,13 @@ pridefulness [A reconciliation between Kyle Riker and William Riker was delayed 
 :: Minor Themes
 coping with living in a foreign culture [Worf] <Worf>,
 belonging [Worf] <Worf>,
-cultural differences [Worf in a human world],
+adapting to life in a foreign culture [Worf spoke of his childhood as an outsider kid amongst humans.],
 crew's attachment to their ship [Geordi takes exception to crewman's appraisal of the Enterprise] <Geordi>,
 pain stick [Klingon one] <Painstik>,
 friendship [Worf and crew] <Worf/Wesley>,
 nostalgic love [Pulaski and Kyle Riker] <Pulaski, Kyle Riker>,
 old flames [Pulaski and Kyle Riker] <Pulaski/Kyle Riker>,
-alien customs [Worf's ritual],
+foreign customs [The Klingon pain-stick ritual seemed mighty peculiar to the humans on the Enterprise, but what would they not do for their friend Worf.],
 anger [Riker at Kyle Riker] <Riker>,
 compassion [Wesley and crew to Worf] <Wesley>,
 distaste for attention [Worf] <Worf>,
@@ -4862,7 +4850,8 @@ the qualities of a good wife [Danilo makes the case for his daughter] <Brenna Od
 generation loss [replicative fading],
 father and daughter [Danilo and Brenna] <Danilo Odell/Brenna Odell>,
 coping with unwelcome romantic attention [Picard when Danilo offers daughter in marriage] <Picard>,
-cultural differences [Humans and the space Irish],
+foreign customs [Picard was particularly befuddled by the antics of the Irish space colonists.],
+conflict of cultural norms [The Enterprise crew, especially Riker, was horrified to find that the Mariposans uses cloning to perpetuate their population. Conflict arose when the Mariposans decided to borrow some DNA without asking.],
 hospitality [Picard to Space Irish] <Picard>,
 patience [Picard to Space Irish] <Picard>,
 laziness [Danilo Odell] <Danilo Odell>,
@@ -5394,7 +5383,7 @@ obsession with a life-dedicated project [Stubs] <Paul Stubbs>,
 sentient nanomachines [Nanites] <Nanites>,
 out of control AI [Nanites taking over the Enterprise was an unintended consequence of Wesley having made them],
 the theory of evolution [much was made of the nanites having evolved],
-cultural differences [humans/nanites],
+alien point of view [The nanites were tiny little crystals who viewed humans as "ugly bags of mostly water".],
 lesson in humility [Stubbs] <Paul Stubbs>,
 self-replicating nanomachines [Nanites] <Nanites>,
 AI point of view [Nanites] <Nanites>,
@@ -5534,9 +5523,8 @@ the letter of the law vs. the spirit of the law [Picard vs. Sheliak],
 attack from outer space by a genocidal enemy [Sheliak on colony] <Colonists of Tau Cygna V>,
 AI point of view [Data in dealing with the colonists] <Data>,
 android [Data] <Data, Soong Type Android>,
-alien morals [Sheliak were fine with exterminating Human colonists],
 growing as a person [Data came to learn that he could not always rely on logical arguments when it came to persuading people.],
-conflict of moral codes [Humans and Sheliak],
+conflict of cultural norms [The Sheliak saw humans as a lesser form of life that could be exterminated as necessary. Also they were exceedingly conscious of legal protocol, an opening that allowed Picard to get the better of them.],
 
 :: Minor Themes
 honesty [Data] <Data>,
@@ -5899,7 +5887,7 @@ taking responsibility for one's actions [Worf adopted Jeremy because he felt res
 human parenting [Worf raising Jeremy] <Worf>,
 
 :: Major Themes
-cultural differences [Worf and Jeremy don't quite see eye to eye],
+foreign point of view [Despite Worf's best efforts to be a foster parent, Jeremy did not quite take to Worf's peculiar Klingon ideas.],
 grief [Jeremy over his mother] <Jeremy Aster>,
 orphanhood [Jeremy was orphaned],
 to tell the truth vs. offering a comforting lie [Picard come clean with Jeremy about the death of his mother],
@@ -6117,7 +6105,6 @@ human drama
 :: Choice Themes
 male bonding [Geordi and Bochra] <Geordi/Bochra>,
 reconciliation [Geordi and Bochra] <Geordi/Bochra>,
-cultural differences [Humans and Romulans as exemplified by Geordi and Bochra on the planet],
 prejudice [Worf at Romulan] <Worf>,
 
 :: Major Themes
@@ -6394,7 +6381,7 @@ the need for self-determination [gatherers],
 
 :: Minor Themes
 interfactional mediation [Picard mediated reconciliation effort],
-cultural differences [Acamarians and Gatherers],
+conflict of cultural norms [The Acamarians saw the Gatherers as uncouth barbarians. The later saw the former as uptight and untrustworthy. Because of these things there had been violent conflict between the species for a long time.],
 alien point of view [discussion with Wesley, then Yuta and Riker etc.],
 negotiation [Picard mediated reconciliation effort],
 minority rights [gatherer rights in Acamarian society],
@@ -7044,7 +7031,6 @@ abuse of authority [Riker was accused of] <Riker>,
 extradition [Riker faced extradition to Tanugan homeworld],
 conflicting systems of jurisprudence [innocent until proved guilty vs. guilty until proven innocent],
 the presumption of innocence [Riker presumed innocent under Federation law, but guilty under Tanugan law],
-conflict of moral codes [Riker is guilty until proven innocent],
 what it is like in a legal proceeding [Riker extradition hearing],
 
 :: Minor Themes
@@ -7427,7 +7413,7 @@ facing wrongful accusations [Worf in place of his father] <Worf>,
 
 :: Minor Themes
 order vs. freedom [Human vs. Klingon styles of command are compared and illustrate the respective benefits and disadvantages of order and freedom],
-cultural differences [Klingon and Human],
+foreign customs [Various humans observed odd Klingon customs.],
 loyalty to one's family [Worf to House of Mogh] <Worf>,
 standing up to a bully [Worf to Kurn] <Worf>,
 the need for cultural heritage [Duras accused Worf of forsaking his heritage] <Worf>,
@@ -7540,9 +7526,8 @@ the thirst for knowledge [aliens in regard to human behavior] <Abducting Alien n
 trust in a leader [crew in Picard's double] <Riker, Beverly, Troi>,
 
 :: Major Themes
-cultural differences [prisoners of the aliens],
+conflict of cultural norms [The unnamed abducting aliens saw nothing wrong in toying with lives as they did, but perhaps learned their lesson when Picard deftly turned the tables on them. Tangentially, the pacifist and the anarchist aliens in captivity had trouble getting along on account of one wanting to eat the other.],
 putting differences aside [prisoners must put minor differences aside, like pacifism and anarchy, in order to escape],
-conflict of moral codes [prisoners of the aliens],
 imprisonment without a lawful cause [is an injury regardless of justification],
 leadership [Picard takes leadership role among the prisoners] <Picard>,
 the need for freedom [Picardologue about it] <Picard>,
@@ -7809,7 +7794,6 @@ transnational conflict over a claimed territory [Federation and Romulans over po
 arms race [Federation and Romulans],
 facing a mortal enemy [crew face Romulans],
 mysterious maker alien race [Tin Man makers],
-cultural differences [Tam on planet with telepathic aliens],
 mental illness [Tam suffered from depression] <Tam Elbrun>,
 distaste for attention [Tam] <Tam Elbrun>,
 humility [Tam] <Tam Elbrun>,
@@ -8197,7 +8181,6 @@ telepathy [The Vulcans communicated telepathically.],
 depression [Sarek realising he was losing his mind] <Sarek>,
 mixed marriage [Sarek had human wife],
 selfless service [Picard undergoes risky mind meld in order to negotiate treaty] <Picard>,
-alien customs [Legarans had peculiar needs aboard Enterprise],
 role models [Sarek was a role model to Picard] <Sarek>,
 ooze dwelling being [ooze pit installed on Enterprise for Legarans] <Legaran>,
 pleasure in listening to music [Sarek cried at the recital] <Sarek>,
@@ -8208,7 +8191,6 @@ husband and wife [Sarek and Perin] <Sarek/Perin>,
 old-age love [Sarek and Perin] <Sarek, Perin>,
 old-age romance [Sarek and Perin] <Sarek/Perin>,
 maternal love [Beverly at Wesley] <Beverly>,
-cultural differences [Humans and Legarans],
 compassion [Picard for Sarek] <Picard>,
 distaste for attention [Sarek] <Sarek>,
 hospitality [Picard hold recital for Sarek] <Picard>,
@@ -8468,7 +8450,6 @@ resurrection of the dead [Worf by John Doe],
 facing a mortal enemy [John Doe faces regular Zalkonians],
 coping with unwelcome romantic attention [Christy] <Christie Henshaw>,
 facing an overpowering adversary [Enterprise was no match for the Zalkonian ship],
-conflict of moral codes [evolved Zalkonians and regular Zalkonians],
 generosity [John Doe] <John Doe>,
 hospitality [crew to John Doe],
 humility [John Doe] <John Doe>,
@@ -9084,11 +9065,11 @@ alien point of view [the Talarians had a strange and severe attitude to child re
 custody battle [Picard and Endar battle for custody of Jono] <Picard, Endar>,
 father and son [Endar and Jono] <Endar/Jono>,
 choosing between allegiances [Jono about whether to return to life with adoptive father or stay with humans aboard the Enterprise] <Jono>,
+conflict of cultural norms [The humans could not stand idly by and let Jono be abused, as they saw it, by his rough-and-tumble alien foster parents. Jono had trouble getting along with Picard because the latter did not approve of obnoxious loud music, hammocks, and high pitched alien humming.],
 
 :: Major Themes
 duty vs. duty [Jono's choice to stay or leave] <Jono>,
 children's rights [Can Jono be allowed to choose for himself?],
-cultural differences [Jono and crew],
 diplomatic negotiating [Picard in negotiating with Talarians for Jono on behalf of the Federation],
 paternal love [Endar to Jono] <Endar>,
 role models [Picard and Jono] <Picard>,
@@ -9099,15 +9080,13 @@ guardian and child [Picard and Jono] <Picard/Jono>,
 coping with living in a foreign culture [Jono living with Humans aboard Enterprise] <Jono>,
 coping with being separated from one's family [Jono living apart from his adoptive father Endar] <Jono>,
 clash of wills [Picard and Jono] <Picard/Jono>,
-alien morals [Talarian values for child rearing differ from those accepted by Federation],
+foreign point of view [Jono though human habits such as glove-less handshaking was objectionable. Humans thought Talarian noise making and child abuse was objectionable.],
 struggling with a life-changing decision [Jono],
 Stockholm syndrome [Beverly suspected Jono had Stockholm Syndrome] <Jono>,
-conflict of moral codes [Federation and Talarians about child rearing],
 
 :: Minor Themes
 child abuse [Endar erroneously accused of abusing Jono] <Jono>,
 male bonding [Picard and Jono] <Picard/Jono>,
-alien customs [Jono's howling],
 anger [Endar at Jono having been taken from him; Jono at various points] <Endar, Jono>,
 fortitude [Picard toward Jono] <Picard>,
 grief [boys chanting for dead compatriots] <Jono>,
@@ -10057,7 +10036,6 @@ racism in society [Maxwell exemplifies more broad racist attitudes toward Cardas
 anger [Maxwell toward Cardassians] <Benjamin Maxwell>,
 resentment [O'Brien toward Cardassians aboard Enterprise] <Miles O'Brien>,
 duty vs. friendship [should O'Brien relay the prefix codes to the Cardassian ship or not] <Miles O'Brien>,
-cultural differences [Humans and Cardassians],
 guilt and evidence [Maxwell attacked the Cardassians on but circumstantial evidence of their presumed mischief making],
 loyalty to a friend [O'Brien to Maxwell] <Miles O'Brien>,
 enemy point of view [actions of Federation see from Cardassian point of view] <Cardassian>,
@@ -10422,7 +10400,6 @@ political drama
 :: Choice Themes
 conservative vs. liberal [Malcorians struggle to decide whether to open relations with the Federation or keep to themsleves],
 the ethics of interfering in less advanced societies [Picard takes pains to familiarize the Malcorians with the Prime Directive],
-cultural differences [Humans and Malcorians],
 isolationism [isolationist elements in Malcorian society],
 
 :: Major Themes
@@ -11249,7 +11226,6 @@ romance
 :: Choice Themes
 euthanasia [Timicin was expected and pressured to commit suicide at the age of 65],
 infatuation [Lwaxana and Timicin] <Lwaxana, Timicin>,
-cultural differences [Lwaxana was frustrated with Timicin's culture of ritual suicide],
 dying sun [Timicin's life work was to revive his people's dying sun],
 contemplating suicide [Timicin] <Timicin>,
 society with a maximum age limit [Timicin's society had an age limit of 65, upon which people were expected and required to kill themselves],
@@ -11263,11 +11239,9 @@ stellar rejuvenation [Timicin tried to rejuvenate his home star],
 telepathic being [Betazoid] <Betazoid>,
 cross cultural romance [Lwaxana and Timicin] <Lwaxana/Timicin>,
 struggling with a life-changing decision [Timicin with committing suicide] <Timicin>,
-alien morals [Kaelon ritual suicide],
-conflict of moral codes [everyone and Kaelon],
-alien customs [Kaelon ritual suicide],
 life extension leading to overpopulation [ritual suicide is one way to make room for the next generation],
 looking for a lover [Lwaxana found someone to settle down with in Timicin.],
+conflict of cultural norms [Lwaxana and the humans thought Timicin’s people’s habit of ritual suicide at 65 was both peculiar and offensive. And Lwaxana nearly convinced the humans that they could not stand idly by while Timicin was pressured, as they saw it, into committing ritual suicide as per the customs of his people.],
 
 :: Minor Themes
 the ethics of interfering in the internal affairs of other powers [Picard tells Lwaxana that he cannot interfere because of the Prime Directive],
@@ -11967,7 +11941,6 @@ Riker, Data, Troi, Geordi
 :: Choice Themes
 male bonding [Picard and Dathon] <Picard/Dathon>,
 alien point of view [the alien's metaphorical language was radically different from anything yet devised on Earth] <Children of Tama>,
-cultural differences [Children of Tama and Humans],
 communicating with someone who speaks a different language [Picard and Dathon spoke different languages but had to find a way to communicate in order to defeat the electromagnetic beast.],
 
 :: Major Themes
@@ -12100,7 +12073,7 @@ habitable moon [the third moon of Valo I],
 integrity [Picard at the end] <Picard>,
 the ethics of interfering in the internal affairs of other powers [Kennelly made a deal with Bajoran terrorists to supply them with arms in violation of the Prime Directive],
 female bonding [Ro and Guinan] <Ro Laren/Guinan>,
-cultural differences [Bajoran first names come last],
+foreign customs [Riker initially objected to Ro wearing a special earring while dressed in uniform, but he came to accept it after finding out that wearing one was an important part of Bajoran culture. He also found it peculiar to learn that Bajorans put their first names after their surnames.],
 coping with disagreeable orders [Ro] <Ro Laren>,
 clash of wills [Riker and Ro] <Riker/Ro Laren>,
 coping with being disfigured [Bajoran terrorist] <Orta>,
@@ -13730,7 +13703,7 @@ the need to feel useful to society [Worf] <Worf>,
 risk taking vs. playing it safe [Worf's surgery; Toby Russell's risky medical treatments] <Toby Russell>,
 honor [Worf] <Worf>,
 friendship [Worf and Riker] <Worf/Riker>,
-cultural differences [Crusher and Riker with Wolf's ritual suicide],
+conflict of cultural norms [The humans, Beverly and Riker in particular, could not stand idly by while Worf committed ritual suicide according to his people's custom.],
 alien point of view [Worf's Klingon view of ritual suicide] <Klingon>,
 desperation [Worf to commit suicide] <Worf>,
 struggling with a life-changing decision [Worf] <Worf>,
@@ -13857,9 +13830,8 @@ male homosexuality [Soren was like a gay guy in 80s society],
 coming out of the closet [Soren about identifying as a female] <Soren>,
 civilization vs. savagery [Federation tolerance vs. J'naii intolerance],
 sexism in society [J'naii persecuted gendered people],
-alien morals [J'naii persecuted gendered people],
-conflict of moral codes [Federation tolerance vs. J'naii intolerance],
-cultural differences [Federation tolerance vs. J'naii intolerance],
+conflict of cultural norms [Some humans, Riker foremost, could not stand idly by while the J'naii persecuted the gendered members of their culture that were seen as sexual deviants.],
+alien point of view [The humans, and especially Riker, had trouble accepting that the J'naii eschewed gender.],
 
 :: Minor Themes
 man vs. woman [Worf at the poker table],
@@ -14216,11 +14188,11 @@ hedonism [Lwaxana on the holodeck] <Lwaxana>,
 homework vs. play [Alexander] <Alexander Rozhenko>,
 paternal love [Worf at Alexander] <Worf>,
 child's point of view [Alexander] <Alexander Rozhenko>,
+conflict of cultural norms [Worf felt that Alexander's embracing of Lwaxana's care free ways constituted a betrayal of Klingon customs and traditions. The prudish Campio was appalled to learn that his bride-to-be Lwaxana insisted upon a nude wedding ceremony, as was the Bajoran custom.],
 
 :: Minor Themes
 homework shirking [Alexander didn't want to do his homework] <Alexander Rozhenko>,
 virtual reality room [Lwaxana indulges in hedonisic desires on the holodeck] <holodeck>,
-cultural differences [Klingon and Betazoid],
 mother and daughter [Lwaxana and Troi] <Lwaxana/Troi>,
 asteroid impact [the Enterprise stopped an asteroid from hitting Tessen III],
 fiancée and fiancée [Lwaxana and Campio] <Lwaxana/Campio>,
@@ -14229,7 +14201,6 @@ telepathic being [Betazoid] <Betazoid>,
 telepathy [Troi and Lwaxana exchanged thoughts telepathically.],
 putting differences aside [Worf and Alexander] <Worf/Alexander Rozhenko>,
 coping with unwelcome romantic attention [Picard at Lwaxana] <Picard>,
-alien customs [wedding customs],
 lovers' quarrel [Lwaxana and Campio] <Lwaxana/Campio>,
 single fatherhood [Worf fathering Alexander] <Worf>,
 boredom [Alexander] <Alexander Rozhenko>,
@@ -18207,13 +18178,13 @@ human drama
 
 :: Choice Themes
 alien point of view [Iyaaran diplomats were puzzled by the most basic Human behaviors] <Iyaaran>,
-cultural differences [Iyaarans and Humans],
-alien morals [the lyaarans patently did not share the human respect for privacy etc.],
 
 :: Major Themes
 the thirst for knowledge [Iyaaran diplomats wish to understand Human behavior] <Voval, Byleth, Loquel>,
 cultural exchange [Iyaarans send dignitaries to visit the Enterprise],
 the nature of human emotions [Iyaaran diplomats study Human emotions],
+cultural exchange [Three Lyraan ambassadors were sent to the Enterprise to learn about human culture.],
+conflict of cultural norms [Conflict arose when the Lyraans thought it’d be a good and unoffensive idea to clandestinely abduct Picard and subject him to a peculiar psychological experiment.],
 
 :: Minor Themes
 gluttony [Loquel indulged himself a little too much at the buffet.] <Loquel>,
@@ -18224,7 +18195,6 @@ childless reproducing being [Iyaarans] <Iyaaran>,
 hedonism [Loquel indulges in every pleasure that comes his way] <Loquel>,
 coping with an overbearing jerk [Worf at Byleth] <Worf>,
 standing up to a bully [Worf to Byleth] <Worf>,
-alien customs [Iyaarans],
 patience [Worf in dealing with dignitary] <Worf>,
 
 :: Settings
@@ -18801,7 +18771,7 @@ conflict of privacy preferences [Humans not comfortable sharing unfiltered thoug
 maternal love [Lwaxana to Troi and Kestra] <Lwaxana>,
 beating one's self up [Lwaxana] <Lwaxana>,
 grief [Lwaxana] <Lwaxana>,
-cultural differences [Humans and Cairn],
+alien point of view [The Cairn are somewhat befuddled by this human habit of communicating with sounds produced in the larynx.],
 
 :: Minor Themes
 wacky dream interpretation [speculative interpretations of Lwaxana's dreams],
@@ -19520,7 +19490,6 @@ omens [Worf interpreted holodeck glitches as omens to the Boraalans],
 abuse of authority [Nikolai in beaming Boraalans aboard Enterprise] <Nikolai Rozhenko>,
 coping with a life-changing event [Vorin] <Vorin>,
 human vs. nature [journey through the wilderness],
-alien customs [the chronicle],
 anger [Picard and Worf at Nikolai] <Picard, Worf>,
 fortitude [Nikolai at beginning against Picard's orders] <Nikolai Rozhenko>,
 grief [all for Boraalans; Vorin],
@@ -19750,7 +19719,6 @@ remorse [Sito about what happened in Nova Squardon] <Sito Jaxa>,
 :: Minor Themes
 confronting an old ghost [Sito about what happened in Nova Squardon] <Sito Jaxa>,
 the desire for personal development [Junior officers] <Sam Lavelle, Taurik>,
-cultural differences [Sito and Joret Dal],
 duty vs. conscience [Joret Dal betrays Cardassian government in the name of doing what he thinks right] <Joret Dal>,
 going over someone's head [Interactions between senior and junior officers.],
 keeping secrets [Sito Jaxa about secret mission],
@@ -20377,7 +20345,6 @@ resettlement vs. fighting for one's homeland [space Native Americans],
 putting differences aside [Picard and admiral] <Picard/Alyanna Nechayev>,
 sins of the father [Picard's ancestor Javier Maribona Picard fought the Native Americans],
 mentor and protégé [The Traveler and Wesley] <The Traveler/Wesley>,
-cultural differences [Humans and space Native Americans],
 confronting an old ghost [Picard about his ancestor] <Picard>,
 remorse [Picard about what his ancestors did to the Native Americans] <Picard>,
 ennui [Wesley] <Wesley>,
