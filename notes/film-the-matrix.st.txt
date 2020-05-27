@@ -1,61 +1,174 @@
-Collection: Ingmar Bergman
-==========================
+Collection: The Matrix
+======================
 
 :: Title
-Ingmar Bergman
+The Matrix
 
 :: Date
-1944-2003
+1999-2003
 
 :: Collections
-Collection: Ingmar Bergman
+Collection: The Matrix
 
 :: Description
-Films written or directed by Ingmar Bergman.
+The Matrix film trilogy.
 
 :: References
-https://en.wikipedia.org/wiki/Ingmar_Bergman_filmography
+https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
 
 
-movie: Wild Strawberries (1957)
-===============================
+movie: The Matrix (1999)
+========================
 
 :: Title
-Wild Strawberries
+The Matrix
 
 :: Description
-Wild Strawberries is a 1957 Swedish drama film written and directed by Ingmar Bergman. The original Swedish title is Smultronstället, which literally means "the wild strawberry patch" but idiomatically signifies an underrated gem of a place, often with personal or sentimental value. The cast includes Victor Sjöström in his final screen performance as an old man recalling his past, as well as Bergman regulars Bibi Andersson, Ingrid Thulin, and Gunnar Björnstrand. Max von Sydow also appears in a small role.
+The film depicts a dystopian future in which humanity is unknowingly trapped inside a simulated reality, the Matrix, created by thought-capable machines to distract humans while using their bodies as an energy source. When computer programmer Thomas Anderson, under the hacker alias "Neo", uncovers the truth, he "is drawn into a rebellion against the machines" along with other people who have been freed from the Matrix.
 
 :: Date
-1957-12-26
+1999-03-31
 
 :: References
-https://en.wikipedia.org/wiki/Wild_Strawberries_(film)
+https://en.wikipedia.org/wiki/The_Matrix
 
 :: Ratings
-5 <mikael>,
+5 <paul>,
 
-:: Choice Themes
-loneliness [Isak was, above all, dealing with loneliness, we gather on several occasions. The story concluded with both Agda and Evald separately rebuffing Isak's attempts to become more intimate, and the young hitchhikers taking off.],
+:: Genre
+sci-fi, action,
 
 :: Major Themes
-coping with aging [78-year old Isak was reevaluating his life as he prepared to receive an honorary doctorate. His age was topical time and again.],
-remembering bygone days [Isak was re-evaluating his life throughout.],
-father-in-law and daughter-in-law [Isak and Marianne],
+simulated reality [Humanity is unknowingly trapped inside a simulated reality called the Matrix.],
+virtual person [Agent Smith and others inside the Matrix existed as sentient computer programs. Neo and the other resistors had the ability to make virtual instances of themselves inside the Matrix.],
+what if the fate of the world was in my hands [Morpheus was convinced that Neo was "the one" who was prophesied to destroy the Matrix.],
+resistance movement [Morpheus recruited Neo into his group of freedom fighters who were trying to destroy the Matrix.],
+the power of thought [There was an ongoing theme bound up with something about Neo being able to control the laws of physics inside the Matrix environment so long as he believed in himself.],
+computer hacking [Neo was a computer hacker character. Neo commented on how Trinity had hacked the IRS database. More pervasively, Morpheus and the resistors were constantly hacking into the Matrix.],
+rise of the machines [The film was set in a world in which intelligent machines had won a war against humans and were using them as human batteries to power their world.],
+human vs. sentient machine [Morpheus and his resistance fighter were in a desperate struggle to put an end to intelligent machines using humans as batteries to power their civilization.],
+religious prophesy [Morpheus was convinced that Neo was "the one" who was prophesied to destroy the Matrix.],
+ignorance is bliss [Agent Smith gave Neo the choice to return to live a happy live inside the Matrix, having no memory of the harsh reality that it was just a fantasy world, but Neo chose to face reality and join Morpheus in his quest to overthrow the tyranny of the machines. Cypher spoke this aphorism in a conversation with Agent Smith in which Cypher expressed the desire to return from the real world into the Matrix.],
 
 :: Minor Themes
-father and son [Isak and Evald],
-master and servant [Isak and Agda],
-selfishness [Marianne admonished Isak for being selfish],
-romantic infidelity [past Sara nearly cheated on her fiance; Isaks wife had been unfaithful before his eyes],
-choosing between lovers [Sara in the past; Sara in the present],
-female attraction to bad men [past Sara nearly fell for her naughty cousin],
-male promiscuousness [past Sara and Sigfrid],
-husband and wife [Sten and Berit; Marianne and Evald; Isak and ],
-hysterical woman stereotype [Sten derided Berit for her female hysteria],
-mother and son [95 year old mother and Isak],
-The Hippocratic Oath [a physicians first duty is to apologize, we heard, a bastardization of the normal Hippocratic oath],
-love triangle [Sara, Anders, Viktor; Sara, Isak, ?? (in the past)],
+romantic love [Neo and Trinity.],
+déjà vu [The experience of this phenomenon was attributed to a glitch in the Matrix.],
+betrayal [Cypher betrayed Morpheus and the resistance fighters by selling out to Agent Smith.],
+what if I had an extraordinary ability [Neo, Morpheus, Trinity, and others were able to seemingly violate the laws of physics in certain when inside the Matrix.],
+facing organized pursuit [Morpheus helped Neo elude capture by some men in black led by Agent Smith, although his effort ultimately proved to be unsuccessful.],
+the thirst for knowledge [The film started off with Neo seeking to know what the Internet rumors about "the Matrix" were all about.],
+plug-in learning device [Neo learned jiu jitsu and kung fu by having the techniques uploaded into his brain.],
+human battery [The intelligent machines kept unconscious humans in pods and used them to somehow generate electricity to power their civilization.],
+fusion power [The intelligent machines used a combination of fusion power and human batteries to power their civilization.],
+opposition to authority [Neo's boss at the software company inside the Matrix complained that Neo thought the rules somehow didn't apply to him.],
+the need for freedom [It was mentioned about how life inside the Matrix did not constitute a free mode of existence for humans.], 
 
+:: Collections
+Collection: Science fiction films of the 1990s
+
+
+movie: The Matrix Reloaded (2003)
+=================================
+
+:: Title
+The Matrix Reloaded
+
+:: Description
+Morpheus and his fellow resistors try to prevent intelligent machines from exterminating all humans not under their control. It is the first sequel to The Matrix, and the second installment in The Matrix trilogy. 
+
+
+:: Date
+2003-05-07
+
+:: References
+https://en.wikipedia.org/wiki/The_Matrix_Reloaded
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi, action,
+
+:: Major Themes
+simulated reality [Humanity is unknowingly trapped inside a simulated reality called the Matrix.],
+virtual person [Agent Smith and others inside the Matrix existed as sentient computer programs. Neo and the other resistors had the ability to make virtual instances of themselves inside the Matrix.],
+what if the fate of the world was in my hands [Morpheus was convinced that Neo was "the one" who was prophesied to destroy the Matrix.],
+resistance movement [Morpheus recruited Neo into his group of freedom fighters who were trying to destroy the Matrix.],
+the power of thought [There was an ongoing theme bound up with something about Neo being able to control the laws of physics inside the Matrix environment so long as he believed in himself.],
+rise of the machines [The film was set in a world in which intelligent machines had won a war against humans and were using them as human batteries to power their world.],
+human vs. sentient machine [Morpheus and his resistance fighter were in a desperate struggle to put an end to intelligent machines using humans as batteries to power their civilization.],
+religious prophesy [Morpheus was convinced that Neo was "the one" who was prophesied to destroy the Matrix.],
+romantic love [Neo and Trinity. Link and Zee.],
+boyfriend and girlfriend [Neo and Trinity. Link and Zee.],
+
+:: Minor Themes
+computer hacking [Morpheus and the resistors hacked themselves into the Matrix.],
+what if I had an extraordinary ability [Neo, Morpheus, Trinity, and others were able to seemingly violate the laws of physics in certain when inside the Matrix.],
+old flames [Morpheus and Niobe.],
+trust in a leader [Morpheus told Link that he needed to trust in him more if he wanted to serve aboard the Nebuchadnezzar vessel.],
+trust in a potential foe [Should Neo put his trust in the Oracle, given that she was a computer program?],
+love triangle [Morpheus, Niobe, Commander Lock.],
+romantic jealousy [Trinity nearly blew the French lady's head off when she forced Neo to kiss she passionately.],
+free will [The Merovingian assert that choice was an illusion, but Morpheus disagreed.],
+keeping a promise when circumstances have changed [Should Trinity break her promise to Neo not to follow him into the Matrix after it became apparent that he would die if she didn't?],
+religion as a control mechanism [In a twist, it turned out that the prophesy was made up by the Architect as a way to manipulate the resistance fighters into doing what he wanted them to do.],
+lucky charms [Link agreed to wear the special necklace that Zee gave him even though he didn't believe it would help him in any way.],
+the life of a loved one vs. the lives of many [The Architect offered Neo the choice between saving some remnant of the city Zion with its inhabitants and his the life of his girlfriend Trinity.],
+human battery [The intelligent machines kept unconscious humans in pods and used them to somehow generate electricity to power their civilization.],
+the need for freedom [the resistance fighters were trying to free humanity from the tyranny of the intelligent machines.],
+
+:: Collections
+Collection: Science fiction films of the 2000s
+
+
+movie: The Matrix Revolutions (2003)
+====================================
+
+:: Title
+The Matrix Revolutions
+
+:: Description
+Morpheus and his fellow resistance fighters enter into a final showdown with their tyrannical intelligent machine oppressors. It was the third installment of The Matrix trilogy, released six months following The Matrix Reloaded.
+
+:: Date
+2003-10-27
+
+:: References
+https://en.wikipedia.org/wiki/The_Matrix_Revolutions
+
+:: Ratings
+2 <paul>,
+
+:: Genre
+sci-fi, action,
+
+:: Major Themes
+simulated reality [Humanity is unknowingly trapped inside a simulated reality called the Matrix.],
+virtual person [Agent Smith and others inside the Matrix existed as sentient computer programs. Neo and the other resistors had the ability to make virtual instances of themselves inside the Matrix.],
+what if the fate of the world was in my hands [Morpheus was convinced that Neo was "the one" who was prophesied to destroy the Matrix.],
+resistance movement [Morpheus recruited Neo into his group of freedom fighters who were trying to destroy the Matrix.],
+the power of thought [There was an ongoing theme bound up with something about Neo being able to control the laws of physics inside the Matrix environment so long as he believed in himself.],
+rise of the machines [The film was set in a world in which intelligent machines had won a war against humans and were using them as human batteries to power their world.],
+human vs. sentient machine [Morpheus and his resistance fighter were in a desperate struggle to put an end to intelligent machines using humans as batteries to power their civilization.],
+religious prophesy [Morpheus was convinced that Neo was "the one" who was prophesied to destroy the Matrix.],
+romantic love [Neo and Trinity. Link and Zee. Morhpeus and Niobe.],
+boyfriend and girlfriend [Neo and Trinity. Link and Zee.],
+faith vs. reason [Morpheus' unshakable faith in the prophesy of "the One" being true was contrasted with Commander Lock's skepticism and his practical approach to defending Zion against an impending attack by the intelligent machines.],
+
+:: Minor Themes
+computer hacking [Morpheus and the resistors hacked themselves into the Matrix.],
+what if I had an extraordinary ability [Neo, Morpheus, Trinity, and others were able to seemingly violate the laws of physics in certain when inside the Matrix.],
+psychopathy [A man with presumably self-inflicted cuts on his arms was said to have been psychotic.],
+father and daughter [An Indian man was trying to reach the Frenchman in an effort to save his daughter Sati.],
+powered exoskeleton [Captain Roland, and many of his fellow resistance fighters, equipped themselves in personal robotic exoskeletons before meeting the intelligent machines in battle.],
+courage [Captain Roland died in a blaze of glory battling the intelligent machines.],
+lucky charms [Link agreed to wear the special necklace that Zee gave him even though he didn't believe it would help him in any way.],
+coping with the death of a lover [Neo mourned the loss of his girlfriend Trinity.],
+grief [Neo mourned the loss of his girlfriend Trinity.],
+coping with a disability [Neo was somehow blinded and had to compensate by using his other senses.],
+free will [A point was made about free will when Neo answered with "Because I choose to." to Agent Smith's question about why he keeps on fighting against all odds.],
+
+:: Collections
+Collection: Science fiction films of the 2000s
 
 
