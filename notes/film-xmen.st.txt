@@ -26,7 +26,7 @@ movie: X-Men (2000)
 X-Men
 
 :: Date
-2000
+2000-07-12
 
 :: Description
 The film introduces Wolverine and Rogue into the conflict between Professor
@@ -36,25 +36,42 @@ to bring about acceptance of mutantkind but Xavier realizes this forced
 mutation will only result in their deaths.
 
 :: Ratings
-2 <Mikael>
+2 <mikael>,
+3 <paul>,
 
 :: Choice Themes
-what if I had magical powers [],
-racism in society [],
-xenophobia in society [],
+racism in society [The mutants in this society were the target of prejudice and xenophobia.],
+xenophobia in society [The mutants in this society were the target of prejudice and xenophobia.],
 
 :: Major Themes
-what if my touch was deadly [],
-order vs. freedom [restrict people’s liberties in the name of security],
-the making of a monster to society [Magneto because of racism and nazis],
-human self-sacrifice [Wolverine for girl etc.],
-fear of intimacy [Logan],
-lonewolf way of life [Logan],
+telekinetic ability [Magneto had the innate ability to manipulate magnetic fields, giving him the power to physically manipulate any metals in his vicinity. Jean Gray had an innate ability to more objects around with her mind.],
+what if my touch was deadly [Rogue couldn't touch anybody or else they would die.],
+self-healing ability [Wolverine's body automatically healed itself after any physical injury.],
+coping with a disability [Xavier was confined to a wheelchair.],
+telepathic ability [Xavier had an innate ability to communicate with others telepathically.],
+what if I could shapeshift [Mystique had an innate ability to alter her shape and voice to mimic any human being.],
+lonewolf way of life [Wolverine made no bones about the fact that he didn't much care about the X-men community of mutants, and was content to find his own path in life.]
+the need to belong [Rogue, who could not touch anyone lest they would die, longed to find a place where she could fit in and belong.],
+order vs. freedom [We are made to ponder about the extent to which it is justifiable to restrict people’s liberties in the name of security.],
+the making of a monster to society [Magneto was made into a monster because of racism and the Nazis.],
+misanthropy [The mutant Magneto's experience in the Holocaust together with the racism and xenophobia he was subjected to in life make him loath humankind.],
 
 :: Minor Themes
-infatuation [Rogue for Logan and maybe some other things],
-The Holocaust [in the beginning],
-the theory of evolution [mentioned in the beginning],
+the future of human evolution [The film is premised on the idea that more and more humans were evolving into mutants.],
+The Holocaust [The film opened with a scene depicting a young Magneto being separated from his parents in front of the entrance into the Auschwitz concentration camp.],
+combat sports in society [We saw Wolverine cage fighting for money in northern Alberta bar.],
+pyrokinesis [A young mutant, named John, was shown manipulating a ball of fire in the palm of his hand.],
+mind reading ability [Jean Gray probed Wolverine's mind and found thoughts of her boyfriend Cyclops.],
+boyfriend and girlfriend [Jean Gray and Cyclops were officially an item.],
+life force [Charles Xavier explained that Rogue drained the life force of anybody she touched.],
+life force transfer [Charles Xavier explained that Rogue drained the life force of anybody she touched.],
+having a preconception challenged [Mutant persecutor Senator Kelly learned that mutants were not all threats to society like he thought they were.],
+male rivalry [Wolverine and Cyclops were at each other's throats, and Cyclops suspected that Wolverine was interested in his girlfriend.],
+the dangers of radioactivity [Magneto plotted to use a special machine to turn world leaders into mutants by irradiating them.],
+electricity manipulation ability [Storm had an innate ability to manipulate the weather and create lightning storms, although she only manifested this power once toward the end of the film.],
+infatuation [Rogue may have had a crush on Wolverine.],
+human self-sacrifice [In an uncharacteristically selfless act, Wolverine gave rogue his life force in an effort to save her life at the end of the film.],
+hope [Xavier had hope that humanity would come to accept mutants as opposed to Magneto who as convinced that the mutants had to take over.],
 
 :: Collections
 Collection: Science fiction films of the 2000s
