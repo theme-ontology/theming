@@ -2537,7 +2537,7 @@ sane version of Lazarus asks for Kirk's help in defeating his counterpart.
 1967-03-30
 
 :: Ratings
-2 <Paul>
+3 <Paul>
 2 <Mikael>
 
 :: Main Characters
@@ -2545,9 +2545,6 @@ Kirk, Lazarus-A [object], Lazarus-B
 
 :: Supporting Cast
 Spock, McCoy, Charlene Masters
-
-:: Genre
-action
 
 :: Choice Themes
 hatred [Lazarus-B at Lazarus-A for existential reasons] <Lazarus-B>,
@@ -2567,10 +2564,11 @@ facing a mortal enemy [Lazarus-A faced Lazarus-B] <Lazarus-A>,
 :: Minor Themes
 delusional point of view [Lazarus-B was bat shit crazy] <Lazarus-B>,
 the science of antimatter [we learn it goes boom when brought into contact with ordinary matter],
-time travel [Lazarus-A was a time traveller],
+time travel [Lazarus-A was a time traveler.],
 collision with a parallel universe [Lazarus-A was on a mission to prevent this from happening],
 anger [Lazarus-B for Lazarus-A] <Lazarus-B>,
 trust in a potential foe [Kirk in Lazarus-A] <Kirk>,
+time machine [Lazarus-A had a dilithium crystal powered time machine.],
 
 :: Settings
 Enterprise bridge, xeric scrubland, Enterprise Kirk's quarters, Enterprise sickbay, Enterprise recreation room, Enterprise corridor, Enterprise engineering, Enterprise briefing room, Enterprise transporter room
@@ -2597,9 +2595,6 @@ no need to be offended sir I've merely deduced that you are a liar,
 
 :: Locations
 uncharted planet <standard orbit>, Starbase 200 <en route>
-
-:: Theatrics
-this is a big ship – I'm just a country doctor, you fool! {insult} [Lazarus@kirk],
 
 :: Aliens
 Lazarus' species
@@ -2634,11 +2629,6 @@ time chamber [],
 fire [],
 fire alarm [],
 deliberate destruction of a time capsule [Kirk] {act of deliberate destruction},
-
-:: Errors
-scanner misconception [they can see the blip of radiation but their sensors can't detect it], impeccable logic [instruments designed to detect anything in the universe, can't detect X, so X is from another universe! QED.], antimatter misconception [identical particles cancel so identical lazaruses cancel],
-
-:: Notes
 
 
 tos1x21
