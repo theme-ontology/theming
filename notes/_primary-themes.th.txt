@@ -1403,6 +1403,25 @@ their own for an extended period of time.
 foreign point of view
 
 
+addiction to fortune telling
+============================
+
+:: Description
+Someone exhibits an addiction to having their future descried. This is usually
+done by a seer, fortune teller, or the like, at a cost.
+
+:: Parents
+human addiction
+
+:: Examples
+In tz1959e2x07 "Nick of Time", the story followed William Shatner (as Don) as
+he became increasingly consumed with learning mechanical fortune teller
+produced predictions about his future, penny apiece.
+
+:: References
+https://www.psychologytoday.com/gb/blog/in-excess/201601/addiction-fortune-telling
+
+
 addiction to sensation
 ======================
 
@@ -12254,6 +12273,24 @@ contrast to the Medusan ambassador who was hideous yet remarkably
 accommodating.
 
 
+evil can come in the guise of good
+==================================
+
+:: Description
+We are cautioned that that and those that appear kind and benevolent on the
+surface, can in fact be quite wicked underneath. For example, charitable
+workers and religious leaders are sometimes presumed to be good because of
+their profession, but can nevertheless be quite evil.
+
+:: Parents
+human idea about life
+
+:: Examples
+In "The Night of the Hunter" (1955), we saw how a man styling himself as
+Reverend Harry Powell inspired trust an confidence with his pious persona,
+then revealed himself to be a venal, lying, cold blooded murderer.
+
+
 evil doll
 =========
 
@@ -12672,6 +12709,23 @@ competition, or other adversarial situation.
 
 :: Parents
 human vs. human
+
+
+facing a home invader
+=====================
+
+:: Description
+A character is in their home, or comparable abode, as someone with criminal
+intent attempts to break in.
+
+:: Parents
+human vs. human
+
+:: Examples
+In tz1959e2x15 "The Invaders", a woman living all alone in a rustic cabin
+tried to fend off diminutive space invaders who landed in her attic and
+refused to leave her be. She eventually destroys their flying saucer using a
+crude hatchet.
 
 
 facing a hostage situation
@@ -14753,6 +14807,28 @@ human idea about life
 
 :: References
 https://en.wikipedia.org/wiki/Fortune_favours_the_bold
+
+
+fortune telling
+===============
+
+:: Description
+There is a character or object that purports to be able to divine other
+characters' future fates, through mysterious means.
+
+:: Parents
+superstition
+
+:: Examples
+Fortune teller Abner Suggs assailed Captain Lindemann with with a number of
+unsolicited soothsayings in the "Night Gallery" story "Lindemann's Catch"
+(1972).
+
+:: References
+https://en.wikipedia.org/wiki/Fortune-telling
+
+:: Aliases
+fortune cookie
 
 
 four-dimensional space
@@ -20893,6 +20969,17 @@ each other in a very chaotic relationship.
 romantic relationship
 
 
+lovers' quarrel
+===============
+
+:: Description
+Two characters in a romantic relationship have an argument over something
+relatively petty, in a way that stereotypically belongs to such relationships.
+
+:: Parents
+romantic relationship issue
+
+
 loyalty
 =======
 
@@ -23768,6 +23855,25 @@ Masterpiece Society".
 
 :: References
 https://en.wikipedia.org/wiki/Neutron_star
+
+
+newlywed couple
+===============
+
+:: Description
+There is a husband and wife whose interactions are notably colored by the fact
+that they were recently married. This usually involves exceptional
+romanticism, tenderness, talk about the honeymoon, and planning for a future
+together.
+
+:: Parents
+husband and wife
+
+:: Examples
+In tz1959e2x07 "Nick of Time", we saw that William Shatner (as Don) with his
+loving bride Pat honeymooning across the Ohio countryside. When Don revealed
+his excessive superstitiousness, Pat insisted that she did not regret her
+decision to marry him, and they spoke of their future together.
 
 
 nihilism
@@ -26784,6 +26890,31 @@ expressed purpose of being able, finally, to get the last word in tos2x12 "I,
 Mudd".
 
 
+pleasure in the misfortune of another
+=====================================
+
+:: Description
+A character feels pleasure, joy, or self-satisfaction from learning of or
+witnessing the troubles, failures, or humiliation of another character.
+
+:: Parents
+human emotion
+
+:: Notes
+To apply, it should be clear that the feeling is inspired solely by the
+other's misfortune, and is not the result of some secondary advantage gained
+by the first character. For example, if an enemy or competitor suffers
+misfortune it may be quite natural to feel joy because of the personal
+advantage this entails. Schadenfreude, then, does not apply.
+
+:: Examples
+tz1959e2x12 "Dust", the rather odious conman Sykes was gleeful at the prospect
+of Gallegos getting hanged, and tormented him relentlessly.
+
+:: Aliases
+schadenfreude
+
+
 pleasure in violence
 ====================
 
@@ -27069,6 +27200,22 @@ human addiction
 
 :: References
 https://en.wikipedia.org/wiki/Pornography_addiction
+
+
+portent of luck
+===============
+
+:: Description
+A character sees something that they interpret, sincerely, as a sign that good
+fortune, of one sort or another, is imminent.
+
+:: Parents
+superstition
+
+:: Examples
+In tz1959e2x16 "A Penny for Your Thoughts", a tossed coin that stood on its
+side was said to be a portent of good luck. The coin-tosser subsequently began
+to hear thoughts, and profited greatly from this.
 
 
 post-apocalyptic dystopia
@@ -33011,6 +33158,33 @@ order to practice human sacrifice and appease a perceived ghost they thought
 inhabited the lighthouse.
 
 
+superstitiousness
+=================
+
+:: Description
+There is a character who is abnormally ready to think and act according to
+practice based upon trust in luck or other irrational, unscientific, or
+supernatural forces.
+
+:: Parents
+human character
+
+:: Notes
+This theme is primarily used with respect to common and classical
+superstitions, such as fortune telling. It is not used, for example, with
+respect to beliefs that were considered scientific, or even pseudo-scientific,
+in the context of the story.
+
+:: Examples
+In tz1959e2x07 "Nick of Time", we saw that William Shatner (as Don) was quick
+to fall victim to the soothsayings of an infernal fortune telling machine, and
+learned that he had both a four-leaf clover and a rabit's foot, quite
+sincerely for good luck.
+
+:: References
+https://en.wikipedia.org/wiki/Superstition
+
+
 suppressed emotion
 ==================
 
@@ -33486,6 +33660,21 @@ lives miserable.
 
 :: Parents
 utopia
+
+
+technophobia
+============
+
+:: Description
+A character exhibits notable fear and dislike of advanced technological
+devices.
+
+:: Parents
+human phobia
+
+:: Examples
+In tz1959e2x04 "A Thing About Machines", Mr. Finchley was utterly terrified of
+his home appliances, which from his point of view, were out to get him.
 
 
 teen romance
@@ -36105,6 +36294,25 @@ Telepathic aliens studied memory and the subconscious in tng5x12 "Violations".
 
 :: References
 https://en.wikipedia.org/wiki/Memory
+
+
+the nature of nightmares
+========================
+
+:: Description
+The why and how of nightmares is discussed. Typically, there is a lengthy
+discussion about what someone's bad dreams imply about them.
+
+:: Parents
+human nature
+
+:: Examples
+In tz1959e2x17 "Twenty-Two", the Doctor attempted to prove that Liz's strange
+experience was actually a recurring nightmare, by having her conduct an
+experiment.
+
+:: References
+https://en.wikipedia.org/wiki/Nightmare
 
 
 the nature of persuasion
@@ -39919,6 +40127,30 @@ Captain Kirk and his crew found themselves trapped inside the Delta Triangle
 with no realistic possibility of escape in tas 1x12 "The Time Trap".
 
 
+what if I could only speak the truth
+====================================
+
+:: Description
+There is a character who is physically unable to tell intentional lies.
+
+:: Parents
+extraordinary experience
+
+:: Notes
+This is one of the more-or-less incoherent counterfactuals that appears in
+stories: A circumstance arises in which a character tries to speak a lie
+(maybe a white lie or omission of the truth), but their mouth ends up uttering
+the truth (maybe the whole truth) to the mind's general dismay. The theme
+notably does not apply if a character merely chooses not to tell lies, be it
+for moral compulsion on legal injunctions.
+
+:: Examples
+In tz1959e2x14 "The Whole Truth", the crooked, used car dealer Mr. Hunnicut
+came into the possession of a haunted car that somehow made him tell the
+truth, the whole truth, and nothing but the truth. This proved disastrous for
+his business.
+
+
 what if I could see into the future
 ===================================
 
@@ -41003,6 +41235,23 @@ what if I underwent a physical metamorphosis
 A group of scientist had been bombarded with spiroid epsilon waves which,
 naturally, made them start to shrink in size until they stood but a sixteenth
 of an inch tall in tas1x11 "The Terratin Incident".
+
+
+what if I suddenly got an extraordinary ability
+===============================================
+
+:: Description
+We are made to imagine what we'd do if suddenly endowed with a super power or
+comparable ability, of one sort or another.
+
+:: Parents
+what if my life were different
+
+:: Examples
+In tz1959e2x19 "Mr. Dingle, the Strong", an invisible two-headed Martian used
+technology to bestow upon Mr. Dingle the strength of roughly 300, as an
+experiment. It transpired that Mr. Dingle became a showboater, exhibiting his
+strength for entertainment.
 
 
 what if I suddenly got some free money
