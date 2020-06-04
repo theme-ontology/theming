@@ -1,131 +1,515 @@
 
-magic powers
+speculative ability
+===================
+
+:: Description
+There is a character who as a particular ability of the kind that
+humans today may dream, but can't normally have. Notably, this includes
+various "super powers" that have been described in fiction.
+
+:: Parents
+speculative fiction theme
+
+
+speculative ability related to own mind
+=======================================
+
+:: Description
+A character has a speculative ability (see parent definition) which
+primarily affects only their own mind.
+
+:: Parents
+speculative ability
+
+
+speculative ability related to own body
+=======================================
+
+:: Description
+A character has a speculative ability (see parent definition) which
+primarily affects only their own body. Many classical super powers, 
+such as flying ability and super strength, fall under this category.
+
+:: Parents
+speculative ability
+
+
+speculative ability related to other being
+==========================================
+
+:: Description
+A character has a speculative ability (see parent definition) which
+primarily relates to another living being, when exercised.
+Notably, telepathy falls under this category.
+
+:: Parents
+speculative ability
+
+
+speculative ability related to physical things
+==============================================
+
+:: Description
+A character has a speculative ability (see parent definition) which
+primarily relates to specific non-living physical things, when exercised.
+Notably, telekinesis falls under this category.
+
+:: Parents
+speculative ability
+
+
+speculative ability related to reality at large
+===============================================
+
+:: Description
+A character has a speculative ability (see parent definition) which
+affects reality broadly. This category is used when a character can 
+change the timeline, or when their powers seem to be without qualitative 
+limits, akin to godlike.
+
+:: Parents
+speculative ability
+
+
+
+
+
+astral projection
+=================
+
+:: Description
+A character has an intentional out-of-body experience that assumes the
+existence of a soul or consciousness called an "astral body" that is separate
+from the physical body and capable of traveling outside it throughout the
+universe.
+
+:: Notes
+Need to be reviewed.
+
+:: Parents
+speculative ability related to own mind
+
+:: Examples
+Luke Skywalker astrally projected himself across the galaxy to have a showdown
+with Kylo Ren in "Star Wars: The Last Jedi" (2017). Note: He also made his 
+projection visible to people at a stellar distance, but that is an embellishment
+beyond the definition of "astral projection".
+
+:: References
+https://en.wikipedia.org/wiki/Astral_projection
+
+:: Aliases
+soul travel, spirit walking,
+
+
+dream walking
+=============
+
+:: Description
+A character is able to enter a dream world and consciously observe or 
+interact with it. The dreamworld is shown as being more real than our
+conventional understanding of dreams. The dream world could be created
+by the character, another character, or exist independently of people.
+
+:: Notes
+Need to be reviewed.
+
+:: Notes
+If there is nothing special about the dreams themselves, and a character 
+merely interacts telepathically with a dreaming person, then "telepathic
+ability" is the more appropriate theme.
+
+:: Parents
+speculative ability related to own mind
+
+
+memories of past lives
+======================
+
+:: Description
+A character is able to recall experiences from another lifetime. This
+implies some sort of reincarnation, or variation thereof.
+
+:: Parents
+speculative ability related to own mind
+
+
+clairvoyance
 ============
 
 :: Description
-A character is able to do at will some fantastical things that can only be
-described as "magic".
+A character is able to gain information about an object, person, location, 
+or physical event through extrasensory perception.
 
 :: Parents
-supernatural ability
-
-:: Notes
-This theme is used when the story itself implies magic, rather than for
-example speculative technology or other categorized speculative ability.
-
-
-
-mind control ability
-====================
-
-:: Description
-A character, by simply using their mind, is able to control other people's
-thoughts and actions.
-
-:: Parents
-supernatural ability
+speculative ability related to own mind
 
 :: References
-https://tvtropes.org/pmwiki/pmwiki.php/Main/MindManipulation
-
-
-
-miracle working
-===============
-
-:: Description
-There is a character that is able to work miracles at will.
-
-:: Parents
-supernatural ability
-
-:: Notes
-Miracle working typically has a connection with religion and deities. It is
-generally not used to describe situations in which a character is able to
-immediately manipulate the world with his mind or through spells etc. In
-particular, telekinetics, fire conjuring sourcery, and suchlike wizardry is
-not miracle working. This may be a matter of interpretation in some cases.
-
-:: Examples
-In nightgallery1x04a "Make Me Laugh", a miracle working Indian swami helps
-Jackie Slater by making it so that he effortlessly inspires laughter in anyone
-who listens to him.
-
-:: References
-https://en.wikipedia.org/wiki/Thaumaturgy
-https://en.wikipedia.org/wiki/Miracle
+https://en.wikipedia.org/wiki/Clairvoyance
 
 
 precognition
 ============
 
 :: Description
-The idea that someone can sense what will happen in the future.
+A character is able to see (or at least sense with some accuracy) what
+will be, or happen, in the future.
 
 :: Parents
-supernatural ability
+clairvoyance
 
 :: References
 https://en.wikipedia.org/wiki/Precognition
-http://www.sf-encyclopedia.com/entry/precognition
 
 
-psychokinesis
+remote viewing
+==============
+
+:: Description
+A character is able to see remote places in their mind.
+
+:: Parents
+clairvoyance
+
+:: References
+https://en.wikipedia.org/wiki/Remote_viewing
+
+
+retrocognition
+==============
+
+:: Description
+A character is able to see (or at least sense with some accuracy) what
+has been, or happened, in the past.
+
+:: Parents
+clairvoyance
+
+:: References
+https://en.wikipedia.org/wiki/Retrocognition
+
+
+prophetic ability
+=================
+
+:: Description
+A character is able to predict things about the future through some sort of
+revelation involving deities or suchlike mysterious forces.
+
+:: Parents
+clairvoyance
+
+:: References
+https://en.wikipedia.org/wiki/Prophecy
+
+
+
+
+speculative personal resilience
+===============================
+
+:: Description
+A character's body is able to endure some types of physical
+influences well beyond what is possible for any person in the real world 
+today. A character may for example be impervious to bullets, or able to 
+walk through fire.
+
+:: Parents
+speculative ability related to own body
+
+
+imperviousness to physical damage
+=================================
+
+:: Description
+
+A character is able to withstand extreme physical effects, such as impacts 
+or heat. They may, for example, be able to walk through flames or stand in 
+the way of bullets, unscathed.
+
+:: Parents
+speculative personal resilience
+
+:: References
+https://powerlisting.fandom.com/wiki/High_Resistance
+
+
+unkillable attribute
+====================
+
+:: Description
+For whatever reason, a character is literally impossible to kill through
+conventional means. Typically, this happens because fate is involved.
+
+:: Notes
+Need to be reviewed.
+
+:: Parents
+speculative personal resilience
+
+
+
+
+speculative personal locomotion
+===============================
+
+:: Description
+A character is able to move in a way that no ordinary person today ever 
+could. They may, for example, be able to fly using their own body alone, 
+or teleport themselves using their mind.
+
+:: Parents
+speculative ability related to own body
+
+
+teleportation ability
+=====================
+
+:: Description
+A character, by using their mind alone, is able to instantaneously move
+themself, others, or objects, to remote locations, as by magic.
+
+:: Notes
+Need to be reviewed.
+
+:: Parents
+speculative personal locomotion
+
+:: Examples
+In tz1985e3x21 "Room 2426", the imprisoned professor Martin Decker learned how
+to use will alone to move himself in space. Thus he made good his escape, and
+was able to save the world to boot.
+
+
+flying ability
+==============
+
+:: Description
+A character is able to fly more or less using only their own body.
+
+:: Parents
+speculative personal locomotion
+
+
+aquatic ability
+===============
+
+:: Description
+A character has fish-like under-water abilities beyond what is possible for any 
+ordinary person today. They may, for example, be able to swim as fast as a shark,
+or stay under water indefinitely.
+
+:: Parents
+speculative personal locomotion
+
+:: Examples
+Captain Kirk and Spock became water breathers and froliced like fish in the
+oceans of the planet Argo in tas1x13 "The Ambergris Element".
+
+
+
+
+speculative personal body manipulation
+======================================
+
+:: Description
+A character is able to transform or otherwise manipulate their own body
+in ways that no ordinary person today ever could.
+
+:: Parents
+speculative ability related to own body
+
+
+self-healing ability
+====================
+
+:: Description
+A character is able to recover from injury because their body can mend
+itself with preternatural rapidity.
+
+:: Parents
+speculative personal body manipulation
+
+:: References
+https://powerlisting.fandom.com/wiki/Regenerative_Healing_Factor
+
+:: Aliases
+super regenerative powers
+
+
+death cheating ability
+======================
+
+:: Description
+A character is able to go on living because somehow they can simply 
+refuse to die.
+
+:: Notes
+Need to be reviewed.
+
+:: Parents
+speculative personal body manipulation
+
+
+shapeshifting
 =============
 
 :: Description
-The idea that some individuals may be able to use only their mind to influence
-physical objects at a distance, is featured.
+A character is able to transform their body into a notably different 
+shape.
 
 :: Parents
-supernatural ability
-
-:: References
-https://en.wikipedia.org/wiki/Psychokinesis
-
-
-pyrokinesis
-===========
-
-:: Description
-A character is thought to be able to conjure and control fire using the power
-of their own mind.
-
-:: Parents
-supernatural ability
+speculative personal body manipulation
 
 :: Examples
-A secret government agency sought to control a young girl with formidable
-pyrokinetic abilities in "Firestarter" (1984).
+Garth of Izar could change shape because he had learned the technique of
+cellular metamorphoses from the natives of Antos IV in tos3x16 "Whom Gods
+Destroy".
+
+
+invisibility ability
+====================
+
+:: Description
+A character is able to go unseen because their body is not visible to 
+normal human sight.
+
+:: Notes
+This condition is often described as a semi-permanent feature that the
+benefiting character can't control, per se. It is, nevertheless,
+an ability in the sense that it allows someone to go places unseen.
+Typically, they can still make themselves seen by donning clothes or 
+otherwise manipulating the physical world.
+
+:: Parents
+speculative personal body manipulation
 
 :: References
-https://en.wikipedia.org/wiki/Pyrokinesis
+https://en.wikipedia.org/wiki/Invisibility_in_fiction
 
 
-telekinesis
+
+
+speculatively magnified ordinary personal ability
+=================================================
+
+:: Description
+A character has an ability that is, by and large, just an ordinary
+person's ability but scaled up to an impossible extent.
+
+:: Parents
+speculative personal body manipulation
+
+
+X-ray vision
+============
+
+:: Description
+A character is able to see right through solid objects.
+
+:: Parents
+speculatively magnified ordinary personal ability
+
+
+super reflexes
+==============
+
+:: Description
+A character has lightning quick reaction times to external stimuli.
+
+:: Parents
+speculatively magnified ordinary personal ability
+
+:: Examples
+Peter Parker acquired bullet dodging quick reflexes after he was bitten by a
+genetically enhanced spider in "The Amazing Spider-Man" (2012).
+
+
+super hearing
+=============
+
+:: Description
+A character can perceive weak sounds clearly, well beyond ordinary 
+human capability of hearing.
+
+:: Parents
+speculatively magnified ordinary personal ability
+
+:: Examples
+Bionic woman Jamie Sommers used her bionic ear to hear CIA agents talking at
+the other end of a hallway in "Bionic Showdown: The Six Million Dollar Man and
+the Bionic Woman" (1989).
+
+
+super intelligence
+==================
+
+:: Description
+A character is "smart" far beyond what any person is or has ever been.
+
+:: Notes
+Need to be reviewed.
+
+:: Parents
+speculatively magnified ordinary personal ability
+
+:: Examples
+Barclay became so smart in tng4x19 "The Nth Degree" that he was able to teach
+holo-Einstein a thing or two about general relativity.
+
+
+super speed
 ===========
 
 :: Description
-A character is thought to be able to manipulate objects at a distance, using
-only the power of their mind.
+A character is able to run, or otherwise move, impossibly fast. They may,
+for example, be able to outrun a speeding bullet.
 
 :: Parents
-supernatural ability
+speculatively magnified ordinary personal ability
 
-:: References
-https://en.wikipedia.org/wiki/Psychokinesis
-http://www.sf-encyclopedia.com/entry/telekinesis
+:: Notes
+Note the theme "time slow down". It is not always clear whether the 
+situation is such that a character speeds up, or time is slowed down 
+for the rest of the world.
 
 
-telepathy
-=========
+super strength
+==============
 
 :: Description
-A character is able to transmit information to or from another person without
-using any known human sensory channels,  physical interaction, or technology.
+A character is able to perform feats of muscular strength beyond
+what is possible for any real person.
 
 :: Parents
-supernatural ability
+speculatively magnified ordinary personal ability
+
+
+
+
+
+
+
+mind to mind interaction ability
+================================
+
+:: Description
+A character is able to interact with another mind, simply by 
+concentrating.
+
+:: Parents
+speculative ability related to other living being
+
+
+telepathic ability
+==================
+
+:: Description
+A character is able to transmit thoughts or feelings to or from another 
+person, using their mind alone.
+
+:: Parents
+mind to mind interaction ability
 
 :: Examples
 Dr. Luther Stringfellow endowed several young volunteers with telepathic
@@ -136,195 +520,85 @@ abilities which they are encouraged to develop through sexual exploration in
 https://en.wikipedia.org/wiki/Telepathy
 
 
-teleportation ability
-=====================
-
-:: Description
-A character, by using their mind alone, is able to instantaneously move
-themself, others, or objects, to remote locations, as by magic.
-
-:: Parents
-supernatural ability
-
-:: Examples
-In tz1985e3x21 "Room 2426", the imprisoned professor Martin Decker learned how
-to use will alone to move himself in space. Thus he made good his escape, and
-was able to save the world to boot.
-
-
-what if I could make people disappear at will
-=============================================
-
-:: Description
-There is a character who has the remarkable ability to will people out of
-existence.
-
-:: Parents
-supernatural ability
-
-:: Examples
-tz2019e1x01 "The Comedian", it came about that anybody who's name Samir choose
-to mention in his comedy routine would suddenly cease to exist, with the world
-changing as if the person had never been.
-
-
-dream walking
-=============
-
-:: Description
-The idea that dreams are something real that, consequently, can be entered by
-other people and so on.
-
-:: Parents
-superstition
-
-
-laying on of hands
-==================
-
-:: Description
-The ritualistic practice of prayer and gesture claimed to elicit divine
-assistance in healing. This practice is common among certain Christian
-denominations.
-
-:: Parents
-superstition
-
-:: Examples
-In the film "There Will Be Blood" (2007), we saw Eli mesmerize his flock with
-a display of faith healing during his sermon.
-
-:: References
-https://en.wikipedia.org/wiki/Laying_on_of_hands
-
-:: Aliases
-faith healing
-
-
-the power of intuition
-======================
-
-:: Description
-The idea that we can find previously unknown information about the external
-world merely through looking inwards to our intuitions.
-
-:: Parents
-superstition
-
-:: Related Themes
-the power of thought
-
-
-the power of thought
+mind control ability
 ====================
 
 :: Description
-The idea that our thoughts have power to affect the external world well beyond
-the mere manipulation of our own bodies.
-
-:: Parents
-superstition
-
-:: Related Themes
-the power of intuition
-
-
-what if I could change into a gaseous state
-===========================================
-
-:: Description
-We imagine what it would be like to be able transform into a gaseous state at
-will.
-
-:: Parents
-what if I had an extraordinary ability
-
-
-what if I could control minds
-=============================
-
-:: Description
-We imagine what it would be like to be able to control others' minds so as to
-make people do things against their will.
-
-:: Parents
-what if I had an extraordinary ability
-
-
-what if I could fly
-===================
-
-:: Description
-We imagined what it would be like to be able to fly under one's own power.
-
-:: Parents
-what if I had an extraordinary ability
-
-
-what if I could freeze time
-===========================
-
-:: Description
-We are made to imagine what it would be like to have the ability to freeze
-time somehow. Typically the person with the ability can still move, breathe,
-and even interact with otherwise frozen objects and persons.
-
-:: Parents
-what if I had an extraordinary ability
-
-
-what if I could move faster in time than everyone else
-======================================================
-
-:: Description
-We imagine what awesome things we could achieve if we had the superpower of
-moving many times faster than everyone else.
-
-:: Parents
-what if I had an extraordinary ability
+A character, by simply using their mind, is able to control other people's
+thoughts and actions.
 
 :: Examples
-Captain Kirk had his coffee spiked with a time speed up drug in tos3x13 "Wink
-of an Eye".
-
-
-what if I could shapeshift
-==========================
-
-:: Description
-We imagine what it would be like to have shape shifting powers.
+In tz1985e1x19a "The Leprechaun-Artist", a Leprechaun granted three young boys
+the power of command over their own parents. This was fun at first, but proved
+problematic as the parents showed no initiative whatsoever and had to be
+micromanaged.
 
 :: Parents
-what if I had an extraordinary ability
+mind to mind interaction ability
 
-:: Examples
-Garth of Izar could change shape because he had learned the technique of
-cellular metamorphoses from the natives of Antos IV in tos3x16 "Whom Gods
-Destroy".
+:: References
+https://tvtropes.org/pmwiki/pmwiki.php/Main/MindManipulation
 
 
-what if I could swim in the ocean like a fish
-=============================================
+mind reading ability
+====================
 
 :: Description
-We imagine what it would be like to have fish-like swimming abilities,
-including the ability to stay under water indefinitely.
+A character is able to telepathically read the minds of other people.
 
 :: Parents
-what if I had an extraordinary ability
+telepathic ability
 
-:: Examples
-Captain Kirk and Spock became water breathers and froliced like fish in the
-oceans of the planet Argo in tas1x13 "The Ambergris Element".
+:: Notes
+This theme is used when one person can merely "hear the thoughts" of another.
+If a person transmits his thoughts or otherwise affects people's minds at a
+distance, the more general theme "telepathy" is used.
+
+:: References
+https://en.wikipedia.org/wiki/Telepathy
 
 
-what if I could talk to animals
-===============================
+martial psionic powers
+======================
 
 :: Description
-We imagine what it would be like to be able to communicate with animals in a
-way that resembles and is comparable to how we humans communicate with each
-other.
+A character is able to attack another's mind, soul, or spirit
+(etc.) and inflict harm. Typically they can also defend against 
+such attacks, and the story world may contain the idea of invisible 
+mind battles.
+
+:: Notes
+If a character struggles to control another person, rather than 
+inflicting direct spiritual harm, then "mind control ability"
+is the more appropriate theme.
+
+:: Notes
+Need to be reviewed.
+
+:: Parents
+mind to mind interaction ability
+
+
+
+
+
+speculative communication
+=========================
+
+:: Description
+A character is able to communicate intelligently with living
+things that humans in reality can't communicate with.
+
+:: Parents
+speculative ability related to other being
+
+
+ability to communicate with animals
+===================================
+
+:: Description
+A character is able to communicate with animals in a way that resembles 
+and is comparable to how we humans communicate with each other.
 
 :: Parents
 what if I had an extraordinary ability
@@ -334,14 +608,14 @@ This theme almost certainly requires the fallacious assumption that (some)
 animals have the cognitive ability to process the ideas humans express.
 
 
-what if I could talk to plants
-==============================
+ability to communicate with plants
+==================================
 
 :: Description
-We imagine what it would be like to be able to communicate with plants (for
-this purpose including fungi and other non-animal eukaryota should it ever
-become topical) in a way that resembles and is comparable to how we humans
-communicate with each other.
+A character is able to communicate with plants (for this purpose 
+including fungi and other non-animal eukaryota should it ever
+become topical) in a way that resembles and is comparable to how we 
+humans communicate with each other.
 
 :: Parents
 what if I had an extraordinary ability
@@ -357,40 +631,44 @@ human audible sound, and found that they scream in recognizable anguish when
 assaulted.
 
 
-what if I had magical powers
-============================
+
+
+speculative remote living body manipulation
+===========================================
 
 :: Description
-We imagine what it would be like to have some sort of magical powers.
+A character is able to influence the body of another living being,
+in ways that real people can't ever do.
 
 :: Parents
-what if I had an extraordinary ability
-
-:: Examples
-Riker was riding on his high horse upon having been granted Q powers in
-tng1x10 "Hide and Q".
+speculative ability related to other being
 
 
-what if I had memories of past lives
-====================================
+deadly touch ability
+====================
 
 :: Description
-We imagine what it might be like to have comprehensive memories of past lives.
+A character is able to kill people (or living things) merely by 
+touching them.
+
+:: Notes
+Need to be reviewed.
+Is the "touch" component particularly interesting? What if you 
+can instill death with your mind?
 
 :: Parents
-what if I had an extraordinary ability
+speculative remote living body manipulation
 
 
-what if I had miraculous healing abilities
-==========================================
+healing ability
+===============
 
 :: Description
-We are made to imagine what it would be like to be able to heal people in
-miraculous ways. For example, we might be able to mend injuries simply by
-laying our hands on them.
+A character is able to cause another person's injuries to heal
+with preternatural rapidity.
 
 :: Parents
-what if I had an extraordinary ability
+speculative remote living body manipulation
 
 :: Examples
 E.T. healed Elliot's finger after Elliot cut it on a saw blade in "E.T. the
@@ -400,221 +678,173 @@ Extra-Terrestrial" (1984).
 https://en.wikipedia.org/wiki/Faith_healing
 
 
-what if I had psychic powers
-============================
-
-:: Description
-We imagine what it would be like to, for example, move objects or make others
-do our bidding with our thoughts.
-
-:: Parents
-what if I had an extraordinary ability
-
-
-what if I had super fast reflexes
-=================================
-
-:: Description
-We are shown what it would be like to have lightning quick reaction times to
-external stimuli.
-
-:: Parents
-what if I had an extraordinary ability
-
-:: Examples
-Peter Parker acquired bullet dodging quick reflexes after he was bitten by a
-genetically enhanced spider in "The Amazing Spider-Man" (2012).
-
-
-what if I had super hearing
+telekinetic harming ability
 ===========================
 
 :: Description
-We see what if would be like for someone to have an ability to hear well
-beyond ordinary human capabilities.
-
-:: Parents
-what if I had an extraordinary ability
-
-:: Examples
-Bionic woman Jamie Sommers used her bionic ear to hear CIA agents talking at
-the other end of a hallway in "Bionic Showdown: The Six Million Dollar Man and
-the Bionic Woman" (1989).
-
-
-what if I had super intelligence
-================================
-
-:: Description
-We imagine what it would be like to be extremely smart.
-
-:: Parents
-what if I had an extraordinary ability
-
-:: Examples
-Barclay became so smart in tng4x19 "The Nth Degree" that he was able to teach
-holo-Einstein a thing or two about general relativity.
-
-
-what if I had super regenerative powers
-=======================================
-
-:: Description
-We imagine what it would be like if our body recovered from wounds, i.e.
-healed, with extraordinary rapidity.
-
-:: Parents
-what if I had an extraordinary ability
-
-:: References
-https://powerlisting.fandom.com/wiki/Regenerative_Healing_Factor
-
-
-what if I had super speed
-=========================
-
-:: Description
-We imagine what it would be like to be able to run impossibly fast, i.e.,
-faster than a speeding bullet.
-
-:: Parents
-what if I had an extraordinary ability
+A character is able to directly inflict injuries, or other 
+deleterious effects, on another person, more or less by using their 
+mind alone and without manipulating intermediate physical objects.
 
 :: Notes
-The character must have control over the speed. If characters move faster in
-time for some external reason than other characters, we use "time slow down".
+If a character, for example, uses telekinesis to move a knife,
+manipulate air, etc. and inflict injury, then the applicable theme is
+just ordinary "telekinetic ability".
 
-
-what if I had super strength
-============================
-
-:: Description
-We imagine what it would be like to be extraordinarily strong.
+:: Examples
+In "Scanners" (1981), Cameron was able to speed up another man's 
+heartbeat using only his mind. 
 
 :: Parents
-what if I had an extraordinary ability
+speculative remote living body manipulation
+
+:: References
+https://en.wikipedia.org/wiki/Psychokinesis
+http://www.sf-encyclopedia.com/entry/telekinesis
 
 
-what if I had true visions
-==========================
-
-:: Description
-We imagine what it would be like to catch more or less accurate visions of the
-past, the future or some remote place in the present.
-
-:: Parents
-what if I had an extraordinary ability
 
 
-what if I had X-ray vision
-==========================
+
+
+telekinetic ability
+===================
 
 :: Description
-We imagine what it would be like to be able to see right through solid
-objects.
+A character is able to manipulate objects at a distance, 
+more or less by using the power of their mind.
 
 :: Parents
-what if I had an extraordinary ability
+speculative ability related to physical things
+
+:: References
+https://en.wikipedia.org/wiki/Psychokinesis
+http://www.sf-encyclopedia.com/entry/telekinesis
 
 
-what if I was impervious to heat
+pyrokinetic ability
+===================
+
+:: Description
+A character is able to conjure or control fire,
+more or less by using the power of their mind.
+
+:: Parents
+speculative ability related to physical things
+
+:: Examples
+A secret government agency sought to control a young girl with formidable
+pyrokinetic abilities in "Firestarter" (1984).
+
+:: References
+https://en.wikipedia.org/wiki/Pyrokinesis
+
+
+telekinetic machine manipulation ability
+========================================
+
+:: Description
+A character is able to control complex machines,
+more or less by using the power of their mind.
+
+:: Parents
+speculative ability related to physical things
+
+
+electricity manipulation ability
 ================================
 
 :: Description
-We imagine what it would be like to be able to withstand extremely high
-temperatures. A character may, for example, be able to walk through flames
-unscathed.
+A character is able to conjure or control electricity,
+or lightning, more or less by using the power of their mind.
 
 :: Parents
-what if I had an extraordinary ability
-
-:: References
-https://powerlisting.fandom.com/wiki/Thermal_Resistance
+speculative ability related to physical things
 
 
-what if I was unkillable
+thought materialization ability
+===============================
+
+:: Description
+A character is able to make physical objects that did not
+previously exist, appear as out of thin air.
+
+:: Parents
+speculative ability related to physical things
+
+
+ability to make things disappear
+================================
+
+:: Description
+A character is able to make physical objects vanish, and
+be no more.
+
+:: Notes
+This would not apply if things are merely teleported to unseen 
+locations. Nor does it apply in cases when reality itself is changed
+so as to make it as if an object or person had never been.
+
+:: Parents
+speculative ability related to physical things
+
+
+
+
+unbounded thought powers
 ========================
 
 :: Description
-We imagine what it would be like to be more or less unkillable by ordinary
-means.
+A character is able to do or change reality in practically any
+way, qualitatively limited only by imagination.
+
+:: Notes
+This theme is used when the ability appears qualitatively unbounded. 
+I.e., a character may be seen to do a few limited things, but it is
+clear that there are very few limits on what sort of things they can 
+do. Typically, this theme is used when a character becomes 
+god-like and can will reality to change in the blink of an eye.
 
 :: Parents
-what if I had an extraordinary ability
-
-
-what if I were immortal
-=======================
-
-:: Description
-We imagine what it would be like to never age or die.
-
-:: Parents
-what if I were not subject to the normal process of aging
+speculative ability related to reality at large
 
 :: Examples
-Mr. Flynn of  tos3x21 "Requiem for Methuselah", a.k.a. Methuselah, was born
-with that most coveted mixed blessing of all: immortality.
+Riker was riding on his high horse upon having been granted godlike Q 
+powers in tng1x10 "Hide and Q".
 
 
-what if I were immune from disease
-==================================
-
-:: Description
-We imagine what it would be like never to get sick no matter what we do (eat),
-and be totally impervious to disease.
-
-:: Parents
-what if I had an extraordinary ability
-
-
-what if I were invisible
-========================
+time slow down ability
+======================
 
 :: Description
-A character experiences what it is like to be invisible.
+A character is able to slow down or freeze time somehow. 
+Typically the person with the ability can still move, breathe,
+and even interact with otherwise frozen objects and persons.
 
 :: Parents
-what if I had an extraordinary ability
-
-:: References
-https://en.wikipedia.org/wiki/Invisibility_in_fiction
+speculative ability related to reality at large
 
 
-what if my touch was deadly
-===========================
+
+
+magic powers
+============
 
 :: Description
-We imagine what it would be like if anyone we touched died.
+A character is able to do at will some fantastical things that involves
+speculative supernatural forces that can be described as "magic".
+
+:: Notes
+This theme applies when a character uses spells, incantation, and
+other classically magic invocations. Unlike, for example, telekinesis
+it is clear that the world is manipulated first through the manipulation
+of some "magical" force or principle. In essence, the character is not 
+directly manipulating real things (as we know them) but manipulates magic.
+Thus this becomes a category apart from other "speculative ability" 
+themes.
 
 :: Parents
-what if I had an extraordinary ability
-
-:: References
-https://tvtropes.org/pmwiki/pmwiki.php/Main/TouchOfDeath
-
-
-what if people did whatever I told them to
-==========================================
-
-:: Description
-We are made to imagine what it'd be like if everyone just did whatever we told
-them to.
-
-:: Parents
-what if I had an extraordinary ability
-
-:: Examples
-In tz1985e1x19a "The Leprechaun-Artist", a Leprechaun granted three young boys
-the power of command over their own parents. This was fun at first, but proved
-problematic as the parents showed no initiative whatsoever and had to be
-micromanaged.
-
-:: Related Themes
-mind control ability
-
-
-
+speculative ability
 
 
 
@@ -644,6 +874,21 @@ human idea about life
 
 
 
+
+
+
+what if I were immortal
+=======================
+
+:: Description
+We imagine what it would be like to never age or die.
+
+:: Parents
+what if I were not subject to the normal process of aging
+
+:: Examples
+Mr. Flynn of  tos3x21 "Requiem for Methuselah", a.k.a. Methuselah, was born
+with that most coveted mixed blessing of all: immortality.
 
 
 
