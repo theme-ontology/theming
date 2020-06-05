@@ -861,23 +861,37 @@ love vs. material gain
 ======================
 
 :: Description
+A character must choose between someone they love on one hand,
+and profiting materially (for example by money) on the other.
 
 :: Parents
 human romantic relationship choice
 
 :: Examples
+In tz1959e2x21 "The Prime Mover", Kitty gave her lover Ace the
+ultimatum: Quit his crooked gambling, or she'd leave. Ace kept
+gambling a bit longer.
 
 
 you can't eat money
 ===================
 
 :: Description
+It is explained or pointedly illustrated that things like money, 
+or gold, has very little intrinsic value for a person when they lack
+more basic necessities of life, such as food.
 
 :: Parents
 human idea about life
 
 :: Examples
-
+In tz1959e2x24 "The Rip Van Winkle Caper", we saw four crooks meticulously
+carry out an elaborate heist for gold. They then fought and killed each 
+other over the loot. Then one of them was forced to trade away gold bar 
+after gold bar for measly sips of water. The last thief collected 
+many gold bars only to be summarily assassinated by a comrade he had
+alienated. Finally we learn that it was all in vain, because gold had
+become worthless as a commodity.
 
 
 wishing or wanting something really hard makes it happen
@@ -916,6 +930,8 @@ personal flying contraption
 ===========================
 
 :: Description
+There is a wearable technological device, such as a suit or a 
+jet pack, which allows its user to fly.
 
 :: Parents
 human enhancement technology
