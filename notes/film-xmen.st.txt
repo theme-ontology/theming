@@ -79,7 +79,7 @@ friendship [One gathers that Xavier and Magneto were old friends.],
 :: Other Keywords
 magnetic field manipulation ability [Magneto had this power.],
 freezing ability [Iceman had the ability to freeze things.],
-eye beams ability [Cyclops had this power.],
+directed energy shooting ability [Cyclops and Storm had this power.],
 weather control ability [Storm had this power.],
 intangibility ability [We saw a young girl pass through a wall.],
 
@@ -151,7 +151,7 @@ grief [Xavier and Cyclops commiserated over Jean's apparent death.],
 :: Other Keywords
 magnetic field manipulation ability [Magneto had this power.],
 freezing ability [Iceman had the ability to freeze things.],
-eye beams ability [Cyclops had this power.],
+directed energy shooting ability [Cyclops and Storm had this power.],
 weather control ability [Storm had this power.],
 intangibility ability [Kitty Pryde had the ability to walk through walls.],
 
@@ -166,7 +166,7 @@ movie: X-Men Last Stand (2006)
 X-Men Last Stand
 
 :: Date
-2006
+2006-05-26
 
 :: Description
 In the film, a pharmaceutical company has developed a suppressor of the mutant
@@ -176,28 +176,47 @@ Jean Grey. A final battle between the X-Men and the Brotherhood ensues, and
 Wolverine must accept that in order to stop Grey, he will have to kill her.
 
 :: Ratings
-1 <Mikael>
+1 <mikael>,
+1 <paul>,
 
 :: Choice Themes
-ethnic hatred [humans vs mutants],
-what if I had an extraordinary ability [],
-romantic love [numerous variations including Logan and Jean, Rogue and Iceman],
-diversity vs. unity [should mutants give up powers to fit in?],
+prejudice in society [An element of society saw mutancy as a disease that needed to be cured, but most mutants didn't see their condition as a disease of any sort.],
+diversity vs. unity [Should the mutants give up their powers to fit in to society?],
 
 :: Major Themes
-what it is like to be different [winged boy mutant and Rogue],
-facing persecution by the government [the government chased mutants because they were considered dangerous],
-power corrupts [],
-abuse of real power [Jean],
-coping with opposing a friend [Logan has to kill his lover Jean to save the world],
+telekinetic ability [Jean manifested virtually limitless telekinteic powers. Magneto had an innate ability to control metal objects at a distance.],
+telepathic ability [Jean manifested virtually limitless telepathic powers. Xavier, too, manifested telepathic powers.],
+what it is like to be different [Rogue longer to be able to be physically intimate with people. Warren, the winged mutant, grew up being taught that his mutancy was a disease in need of being cured.],
+romantic love [Logan and Jean. Rogue and Iceman.],
+illness as a social construct [Many mutants refused to take a serum that would make them human (i.e. make them lose their mutant powers) because they didn't think there was anything wrong with them that needed curing.],
+power corrupts [Xavier warned that the super powerful mutant Jean would turn to the dark side because of those very powers, and it was so.],
+abuse of real power [Xavier warned that the super powerful mutant Jean would turn to the dark side because of those very powers, and it was so.],
+coping with opposing a friend [Logan has to kill his love Jean to save the world.],
 
 :: Minor Themes
-teen romance [rogue and idiot],
-unrequited love [Logan],
-virtual reality room [battle simulation in the beginning],
-betrayal [especially Magneto of Mystique],
-demagoguery [Magneto engaged in],
-love conquers all [Logan got through to Jean in the end],
+virtual reality room [Logan led an X-men battle training session in a virtual reality environment.],
+coping with the death of a lover [Scott had a hard time getting over his girlfriend Jean's death.],
+grief [Cyclops had a hard time getting over his girlfriend Jean's death. Logan and Storm wept at Xavier's wheelchair in the immediate aftermath of his death at the hands of Jean.],
+shapeshifting [Mystique had an innate ability to alter her shape and voice to mimic any human being.],
+coping with a disability [Xavier was confined to a wheelchair.],
+father and son [Worthington Labs head Warren Worthington II and his mutant son Warren Worthington III],
+flying ability [Warren had an innate ability to fly like a bird.],
+pyrokinetic ability [Pyro was shooting flames around.],
+betrayal [Magneto abandoned Mystique after she reverted to human form.],
+deadly touch ability [Rogue considered taking a treatment that would rid her of this power in order that she might be physically intimate with people.],
+self-healing ability [Logan's body automatically healed itself after any physical injury, although his ability to do so was not greatly featured in this film.],
+boyfriend and girlfriend [Iceman and Rogue.],
+hell hath no fury like a woman scorned [The President quoted this phrase exactly in response to Mystique supplying the government with intelligence on the location of Magneto's mutant encampment.],
+unrequited love [Logan confessed to Jean that he loved her just before he ran her through with his claws.],
+genocide [Magneto was convinced that the widespread "curing" of mutants was just another way of eliminating them all from human society.],
+
+:: Other Keywords
+magnetic field manipulation ability [Magneto had this power.],
+freezing ability [Iceman had the ability to freeze things.],
+directed energy shooting ability [Cyclops, Storm, Pyro, Iceman, and Arclight essentially had this power.],
+weather control ability [Storm had this power.],
+multiple copies of self ability [Multiple Man had the ability to create a very large number of copies of himself.],
+intangibility ability [Kitty Pryde had the ability to walk through walls.],
 
 :: Collections
 Collection: Science fiction films of the 2000s
