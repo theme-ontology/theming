@@ -3,9 +3,9 @@ speculative ability
 ===================
 
 :: Description
-There is a character who as a particular ability of the kind that
-humans today may dream, but can't normally have. Notably, this includes
-various "super powers" that have been described in fiction.
+There is a character who as a particular ability of the kind that humans today
+may dream, but can't normally have. Notably, this includes various "super
+powers" that have been described in fiction.
 
 :: Parents
 speculative fiction theme
@@ -15,8 +15,8 @@ speculative ability related to own mind
 =======================================
 
 :: Description
-A character has a speculative ability (see parent definition) which
-primarily affects only their own mind.
+A character has a speculative ability (see parent definition) which primarily
+affects only their own mind.
 
 :: Parents
 speculative ability
@@ -26,21 +26,21 @@ speculative ability related to own body
 =======================================
 
 :: Description
-A character has a speculative ability (see parent definition) which
-primarily affects only their own body. Many classical super powers, 
-such as flying ability and super strength, fall under this category.
+A character has a speculative ability (see parent definition) which primarily
+affects only their own body. Many classical super powers, such as flying
+ability and super strength, fall under this category.
 
 :: Parents
 speculative ability
 
 
-speculative ability related to other being
-==========================================
+speculative ability related to another being
+============================================
 
 :: Description
-A character has a speculative ability (see parent definition) which
-primarily relates to another living being, when exercised.
-Notably, telepathy falls under this category.
+A character has a speculative ability (see parent definition) which primarily
+relates to another living being, when exercised. Notably, telepathy falls under
+this category.
 
 :: Parents
 speculative ability
@@ -50,9 +50,9 @@ speculative ability related to physical things
 ==============================================
 
 :: Description
-A character has a speculative ability (see parent definition) which
-primarily relates to specific non-living physical things, when exercised.
-Notably, telekinesis falls under this category.
+A character has a speculative ability (see parent definition) which primarily
+relates to specific non-living physical things, when exercised. Notably,
+telekinesis falls under this category.
 
 :: Parents
 speculative ability
@@ -62,16 +62,13 @@ speculative ability related to reality at large
 ===============================================
 
 :: Description
-A character has a speculative ability (see parent definition) which
-affects reality broadly. This category is used when a character can 
-change the timeline, or when their powers seem to be without qualitative 
-limits, akin to godlike.
+A character has a speculative ability (see parent definition) which affects
+reality broadly. This category is used when a character can  change the
+timeline, or when their powers seem to be without qualitative limits, akin to
+godlike.
 
 :: Parents
 speculative ability
-
-
-
 
 
 astral projection
@@ -106,18 +103,18 @@ dream walking
 =============
 
 :: Description
-A character is able to enter a dream world and consciously observe or 
-interact with it. The dreamworld is shown as being more real than our
-conventional understanding of dreams. The dream world could be created
-by the character, another character, or exist independently of people.
+A character is able to enter a dream world and consciously observe or interact
+with it. The dreamworld is shown as being more real than our conventional
+understanding of dreams. The dream world could be created by the character,
+another character, or exist independently of people.
 
 :: Notes
 Need to be reviewed.
 
 :: Notes
-If there is nothing special about the dreams themselves, and a character 
-merely interacts telepathically with a dreaming person, then "telepathic
-ability" is the more appropriate theme.
+If there is nothing special about the dreams themselves, and a character merely
+interacts telepathically with a dreaming person, then "telepathic ability" is
+the more appropriate theme.
 
 :: Parents
 speculative ability related to own mind
@@ -127,8 +124,8 @@ memories from past lives
 ========================
 
 :: Description
-A character is able to recall experiences from another lifetime. This
-implies some sort of reincarnation, or variation thereof.
+A character is able to recall experiences from another lifetime. This implies
+some sort of reincarnation, or variation thereof.
 
 :: Parents
 speculative ability related to own mind
@@ -138,8 +135,8 @@ clairvoyance
 ============
 
 :: Description
-A character is able to gain information about an object, person, location, 
-or physical event through extrasensory perception.
+A character is able to gain information about an object, person, location, or
+physical event through extrasensory perception.
 
 :: Parents
 speculative ability related to own mind
@@ -152,8 +149,8 @@ precognition
 ============
 
 :: Description
-A character is able to see (or at least sense with some accuracy) what
-will be, or happen, in the future.
+A character is able to see (or at least sense with some accuracy) what will be,
+or happen, in the future.
 
 :: Parents
 clairvoyance
@@ -179,8 +176,8 @@ retrocognition
 ==============
 
 :: Description
-A character is able to see (or at least sense with some accuracy) what
-has been, or happened, in the past.
+A character is able to see (or at least sense with some accuracy) what has
+been, or happened, in the past.
 
 :: Parents
 clairvoyance
@@ -203,16 +200,13 @@ clairvoyance
 https://en.wikipedia.org/wiki/Prophecy
 
 
-
-
 speculative personal resilience
 ===============================
 
 :: Description
-A character's body is able to endure some types of physical
-influences well beyond what is possible for any person in the real world 
-today. A character may for example be impervious to bullets, or able to 
-walk through fire.
+A character's body is able to endure some types of physical influences well
+beyond what is possible for any person in the real world today. A character
+may for example be impervious to bullets, or able to walk through fire.
 
 :: Parents
 speculative ability related to own body
@@ -222,10 +216,9 @@ imperviousness to physical damage
 =================================
 
 :: Description
-
-A character is able to withstand extreme physical effects, such as impacts 
-or heat. They may, for example, be able to walk through flames or stand in 
-the way of bullets, unscathed.
+A character is able to withstand extreme physical effects, such as impacts or
+heat. They may, for example, be able to walk through flames or stand in the way
+of oncoming bullets, unscathed.
 
 :: Parents
 speculative personal resilience
@@ -248,15 +241,13 @@ Need to be reviewed.
 speculative personal resilience
 
 
-
-
 speculative personal locomotion
 ===============================
 
 :: Description
-A character is able to move in a way that no ordinary person today ever 
-could. They may, for example, be able to fly using their own body alone, 
-or teleport themselves using their mind.
+A character is able to move in a way that no ordinary person today ever  could.
+They may, for example, be able to fly using their own body alone, or teleport
+themselves using their mind.
 
 :: Parents
 speculative ability related to own body
@@ -267,7 +258,7 @@ teleportation ability
 
 :: Description
 A character, by using their mind alone, is able to instantaneously move
-themself, others, or objects, to remote locations, as by magic.
+themself, others, or objects, to remote locations, as if by magic.
 
 :: Notes
 Need to be reviewed.
@@ -295,9 +286,9 @@ aquatic ability
 ===============
 
 :: Description
-A character has fish-like under-water abilities beyond what is possible for any 
-ordinary person today. They may, for example, be able to swim as fast as a shark,
-or stay under water indefinitely.
+A character has fish-like underwater abilities beyond what is possible for any 
+ordinary person today. They may, for example, be able to swim as fast as a
+shark, or stay under water indefinitely.
 
 :: Parents
 speculative personal locomotion
@@ -307,14 +298,12 @@ Captain Kirk and Spock became water breathers and froliced like fish in the
 oceans of the planet Argo in tas1x13 "The Ambergris Element".
 
 
-
-
 speculative personal body manipulation
 ======================================
 
 :: Description
-A character is able to transform or otherwise manipulate their own body
-in ways that no ordinary person today ever could.
+A character is able to transform or otherwise manipulate their own body in ways
+that no ordinary person today ever could.
 
 :: Parents
 speculative ability related to own body
@@ -324,8 +313,8 @@ self-healing ability
 ====================
 
 :: Description
-A character is able to recover from injury because their body can mend
-itself with preternatural rapidity.
+A character is able to recover from injury because their body can mend itself
+with preternatural rapidity.
 
 :: Parents
 speculative personal body manipulation
@@ -341,8 +330,8 @@ death cheating ability
 ======================
 
 :: Description
-A character is able to go on living because somehow they can simply 
-refuse to die.
+A character is able to go on living because somehow they can simply refuse to
+die.
 
 :: Notes
 Need to be reviewed.
@@ -355,8 +344,7 @@ shapeshifting
 =============
 
 :: Description
-A character is able to transform their body into a notably different 
-shape.
+A character is able to transform their body into a notably different shape.
 
 :: Parents
 speculative personal body manipulation
@@ -371,15 +359,15 @@ invisibility ability
 ====================
 
 :: Description
-A character is able to go unseen because their body is not visible to 
-normal human sight.
+A character is able to go unseen because their body is not visible to normal
+human sight.
 
 :: Notes
 This condition is often described as a semi-permanent feature that the
-benefiting character can't control, per se. It is, nevertheless,
-an ability in the sense that it allows someone to go places unseen.
-Typically, they can still make themselves seen by donning clothes or 
-otherwise manipulating the physical world.
+benefiting character can't control, per se. It is, nevertheless, an ability in
+the sense that it allows someone to go places unseen. Typically, they can still
+make themselves seen by donning clothes or otherwise manipulating the physical
+world.
 
 :: Parents
 speculative personal body manipulation
@@ -388,14 +376,12 @@ speculative personal body manipulation
 https://en.wikipedia.org/wiki/Invisibility_in_fiction
 
 
-
-
 speculatively magnified ordinary personal ability
 =================================================
 
 :: Description
-A character has an ability that is, by and large, just an ordinary
-person's ability but scaled up to an impossible extent.
+A character has an ability that is, by and large, just an ordinary person's
+ability but scaled up to an impossible extent.
 
 :: Parents
 speculative personal body manipulation
@@ -429,14 +415,14 @@ super hearing
 =============
 
 :: Description
-A character can perceive weak sounds clearly, well beyond ordinary 
-human capability of hearing.
+A character can perceive weak sounds clearly, well beyond ordinary human
+capability of hearing.
 
 :: Parents
 speculatively magnified ordinary personal ability
 
 :: Examples
-Bionic woman Jamie Sommers used her bionic ear to hear CIA agents talking at
+Bionic woman Jamie Sommers used her bionic eavesdrop on CIA agents talking at
 the other end of a hallway in "Bionic Showdown: The Six Million Dollar Man and
 the Bionic Woman" (1989).
 
@@ -462,14 +448,14 @@ super speed
 ===========
 
 :: Description
-A character is able to run, or otherwise move, impossibly fast. They may,
-for example, be able to outrun a speeding bullet.
+A character is able to run, or otherwise move, impossibly fast. They may, for
+example, be able to outrun a speeding bullet.
 
 :: Parents
 speculatively magnified ordinary personal ability
 
 :: Notes
-Note the theme "time slow down". It is not always clear whether the 
+Note the theme "time slow down ability". It is not always clear whether the 
 situation is such that a character speeds up, or time is slowed down 
 for the rest of the world.
 
@@ -478,42 +464,36 @@ super strength
 ==============
 
 :: Description
-A character is able to perform feats of muscular strength beyond
-what is possible for any real person.
+A character is able to perform feats of muscular strength beyond what is
+possible for any real person.
 
 :: Parents
 speculatively magnified ordinary personal ability
-
-
-
-
-
 
 
 mind to mind interaction ability
 ================================
 
 :: Description
-A character is able to interact with another mind, simply by 
-concentrating.
+A character is able to interact with another mind, simply by concentrating.
 
 :: Parents
-speculative ability related to other being
+speculative ability related to another being
 
 
 telepathic ability
 ==================
 
 :: Description
-A character is able to transmit thoughts or feelings to or from another 
-person, using their mind alone.
+A character is able to transmit thoughts or feelings to or from another person,
+using their mind alone.
 
 :: Parents
 mind to mind interaction ability
 
 :: Examples
 Dr. Luther Stringfellow endowed several young volunteers with telepathic
-abilities which they are encouraged to develop through sexual exploration in
+abilities which they were encouraged to develop through sexual exploration in
 "Streo" (1969).
 
 :: References
@@ -551,7 +531,7 @@ telepathic ability
 
 :: Notes
 This theme is used when one person can merely "hear the thoughts" of another.
-If a person transmits his thoughts or otherwise affects people's minds at a
+If a person transmits their thoughts or otherwise affects people's minds at a
 distance, the more general theme "telepathy" is used.
 
 :: References
@@ -562,15 +542,14 @@ mind attack ability
 ===================
 
 :: Description
-A character is able to attack another's mind, soul, or spirit
-(etc.) and inflict harm. Typically they can also defend against 
-such attacks, and the story world may contain the idea of invisible 
-mind battles.
+A character is able to attack another's mind, soul, or spirit (etc.) and
+inflict harm. They can sometimes also defend against such attacks, and the
+story world may contain the idea of invisible mind battles.
 
 :: Notes
-If a character struggles to control another person, rather than 
-inflicting direct spiritual harm, then "mind control ability"
-is the more appropriate theme.
+If a character struggles to control another person, rather than inflicting
+direct spiritual harm, then "mind control ability" is the more appropriate
+theme.
 
 :: Notes
 Need to be reviewed.
@@ -579,32 +558,29 @@ Need to be reviewed.
 mind to mind interaction ability
 
 
-
-
-
 speculative communication
 =========================
 
 :: Description
-A character is able to communicate intelligently with living
-things that humans in reality can't communicate with.
+A character is able to communicate intelligently with living things that humans
+in reality can't communicate with.
 
 :: Parents
-speculative ability related to other being
+speculative ability related to another being
 
 
 ability to communicate with animals
 ===================================
 
 :: Description
-A character is able to communicate with animals in a way that resembles 
-and is comparable to how we humans communicate with each other.
+A character is able to communicate with animals in a way that resembles and is
+comparable to how we humans communicate with each other.
 
 :: Parents
 speculative communication
 
 :: Notes
-This theme almost certainly requires the fallacious assumption that (some)
+This theme almost certainly requires the likely fallacious assumption that some
 animals have the cognitive ability to process the ideas humans express.
 
 
@@ -612,16 +588,15 @@ ability to communicate with plants
 ==================================
 
 :: Description
-A character is able to communicate with plants (for this purpose 
-including fungi and other non-animal eukaryota should it ever
-become topical) in a way that resembles and is comparable to how we 
-humans communicate with each other.
+A character is able to communicate with plants (for this purpose including
+fungi and other non-animal eukaryota should it ever become topical) in a way
+that resembles and is comparable to how we humans communicate with each other.
 
 :: Parents
 speculative communication
 
 :: Notes
-This theme almost certainly requires the fallacious assumption that (some)
+This theme almost certainly requires the likely fallacious assumption that some
 plants have the cognitive ability to process the ideas humans express.
 
 :: Examples
@@ -631,25 +606,22 @@ human audible sound, and found that they scream in recognizable anguish when
 assaulted.
 
 
-
-
 speculative remote living body manipulation
 ===========================================
 
 :: Description
-A character is able to influence the body of another living being,
-in ways that real people can't ever do.
+A character is able to influence the body of another living being, in ways that
+real people can't ever do.
 
 :: Parents
-speculative ability related to other being
+speculative ability related to another being
 
 
 deadly touch ability
 ====================
 
 :: Description
-A character is able to kill people (or living things) merely by 
-touching them.
+A character is able to kill people (or living things) merely by touching them.
 
 :: Notes
 Need to be reviewed.
@@ -664,8 +636,8 @@ healing ability
 ===============
 
 :: Description
-A character is able to cause another person's injuries to heal
-with preternatural rapidity.
+A character is able to cause another person's injuries to heal with
+preternatural rapidity.
 
 :: Parents
 speculative remote living body manipulation
@@ -682,18 +654,18 @@ telekinetic harming ability
 ===========================
 
 :: Description
-A character is able to directly inflict injuries, or other 
-deleterious effects, on another person, more or less by using their 
-mind alone and without manipulating intermediate physical objects.
+A character is able to directly inflict injuries, or other deleterious effects,
+on another person, more or less by using their mind alone and without
+manipulating intermediate physical objects.
 
 :: Notes
-If a character, for example, uses telekinesis to move a knife,
-manipulate air, etc. and inflict injury, then the applicable theme is
-just ordinary "telekinetic ability".
+If a character, for example, uses telekinesis to move a knife, manipulate air,
+etc. and inflict injury, then the applicable theme is just ordinary
+"telekinetic ability".
 
 :: Examples
-In "Scanners" (1981), Cameron was able to speed up another man's 
-heartbeat using only his mind. 
+In "Scanners" (1981), Cameron was able to speed up another man's heartbeat
+using only his mind. 
 
 :: Parents
 speculative remote living body manipulation
@@ -703,16 +675,12 @@ https://en.wikipedia.org/wiki/Psychokinesis
 http://www.sf-encyclopedia.com/entry/telekinesis
 
 
-
-
-
-
 telekinetic ability
 ===================
 
 :: Description
-A character is able to manipulate objects at a distance, 
-more or less by using the power of their mind.
+A character is able to manipulate objects at a distance, more or less by using
+the power of their mind.
 
 :: Parents
 speculative ability related to physical things
@@ -726,8 +694,8 @@ pyrokinetic ability
 ===================
 
 :: Description
-A character is able to conjure or control fire,
-more or less by using the power of their mind.
+A character is able to conjure or control fire, more or less by using the power
+of their mind.
 
 :: Parents
 speculative ability related to physical things
@@ -762,8 +730,8 @@ electricity manipulation ability
 ================================
 
 :: Description
-A character is able to conjure or control electricity,
-or lightning, more or less by using the power of their mind.
+A character is able to conjure or control electricity, or lightning, more or
+less by using the power of their mind.
 
 :: Parents
 speculative ability related to physical things
@@ -773,8 +741,8 @@ thought materialization ability
 ===============================
 
 :: Description
-A character is able to make physical objects that did not
-previously exist, appear as out of thin air.
+A character is able to make physical objects that did not previously exist,
+appear as out of thin air.
 
 :: Parents
 speculative ability related to physical things
@@ -796,42 +764,41 @@ so as to make it as if an object or person had never been.
 speculative ability related to physical things
 
 
-
-
 unbounded thought powers
 ========================
 
 :: Description
-A character is able to do or change reality in practically any
-way, qualitatively limited only by imagination.
+A character is able to do or change reality in practically any way,
+qualitatively limited only by imagination.
 
 :: Notes
-This theme is used when the ability appears qualitatively unbounded. 
-I.e., a character may be seen to do a few limited things, but it is
-clear that there are very few limits on what sort of things they can 
-do. Typically, this theme is used when a character becomes 
-god-like and can will reality to change in the blink of an eye.
+This theme is used when the ability appears qualitatively unbounded. That is, a
+character may be seen to do a few limited things, but it is clear that there
+are very few limits on what sort of things they can do. Typically, this theme
+is used when a character becomes godlike and can will reality to change in the
+blink of an eye.
 
 :: Parents
 speculative ability related to reality at large
 
 :: Examples
-Riker was riding on his high horse upon having been granted godlike Q 
-powers in tng1x10 "Hide and Q".
+Riker was riding on his high horse upon having been granted godlike Q powers in
+tng1x10 "Hide and Q".
 
 
 time slow down ability
 ======================
 
 :: Description
-A character is able to slow down or freeze time somehow. 
-Typically the person with the ability can still move, breathe,
-and even interact with otherwise frozen objects and persons.
+A character is somehow able to slow down or even freeze time. Typically the
+person with the ability can still move, breathe, and even interact with
+otherwise frozen objects and persons.
 
 :: Parents
 speculative ability related to reality at large
 
-
+:: Related Themes
+time slow down process
 
 
 magic powers
@@ -842,18 +809,53 @@ A character is able to do at will some fantastical things that involves
 speculative supernatural forces that can be described as "magic".
 
 :: Notes
-This theme applies when a character uses spells, incantation, and
-other classically magic invocations. Unlike, for example, telekinesis
-it is clear that the world is manipulated first through the manipulation
-of some "magical" force or principle. In essence, the character is not 
-directly manipulating real things (as we know them) but manipulates magic.
-Thus this becomes a category apart from other "speculative ability" 
-themes.
+This theme applies when a character uses spells, incantation, and other
+classically magic invocations. Unlike, for example, telekinesis it is clear
+that the world is manipulated first through the manipulation of some "magical"
+force or principle. In essence, the character is not directly manipulating real
+things (as we know them) but manipulates magic. Thus this becomes a category
+apart from other "speculative ability" themes.
 
 :: Parents
 speculative ability
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+time slow down process
+======================
+
+:: Description
+Time itself is observed to slow to a crawl or perhaps ever freeze altogether.
+
+:: Parents
+speculative natural process
+
+:: Aliases
+time freeze, time stop
 
 
 
