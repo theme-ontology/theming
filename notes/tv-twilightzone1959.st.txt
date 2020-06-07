@@ -2298,12 +2298,12 @@ Twilight Zone. The plot of this episode was based in part on the short story
 Directed by: Boris Sagal. Story by: Rod Serling.
 
 :: Ratings
-5 <mikael*>,
+5 <mikael>,
 5 <paul>,
 
 :: Choice Themes
-what it would be like to live isolated for a long time [prop FD it is a fairly common thought experiment: for how much would you live so-and-so alone for such-and-such a time] <https://en.wikipedia.org/wiki/Social_isolation#:~:text=Social%20isolation%20is%20a%20state,other%20humans%20in%20the%20world>,
-human life choice [Mr. Tennyson sacrificed a year for money and honor; then later kept it up despite risking his love; then we learned he had sacrificed his speech permanently to win money and honor],
+what if I were socially isolated for an extended period of time [],
+human life choice [Mr. Tennyson sacrificed a year living without talking for money and honor, then later kept it up despite risking his love, then we learned he had sacrificed his speech permanently to win money and honor.],
 
 :: Major Themes
 coping with an obnoxious chatterbox [Colonel Taylor objected to Mr. Tennyson's ceaseless chattering so much that he wagered a half million dollars simply to make the man be quiet for a year.],
@@ -2343,10 +2343,9 @@ the universe is a dream [Everything we saw was apparently just Adam's recurring 
 :: Major Themes
 capital punishment [Adam faced execution for murder; there was talk about making mentally unfit people be executed],
 facing one's own execution [Adam faced execution for murder.],
-what if I told the truth and nobody would believe me [everyone thought Adam was mad when he insisted that reality was merely his dream],
-solipsism syndrome [FD],
+what if I told the truth and nobody would believe me [Everyone thought Adam was mad when he insisted that reality was merely his dream.],
 to kill or to spare [Should District Attorney Ritchie call the judge to stay Adam's execution?],
-decision making in the face of uncertainty [] <For discussion in regard to the district attorney sending Adam to the chair resulting in him ceasing to exist.>,
+solipsism syndrome [People summarily dismissed Adam's assertion that they were figments of his imagination, leaving them left to think he was suffering from an elaborate delusion.],
 
 :: Minor Themes
 carpe diem [Someone said "drink and be merry for tomorrow" (we shall die).],
@@ -2380,21 +2379,22 @@ Directed by: Buzz Kulik. Story by: Rod Serling.
 5 <paul>,
 
 :: Choice Themes
-hell is other people [FD not quite right, but a fun placeholder],
+the need for privacy [Mr. Beechcroft was utterly fed up with life in the big city and longed for solitude.],
+unbounded thought powers [By concentrating, Mr. Beechcroft was able to make people vanish, make a train arrive, make a clock be quiet, conjure an earthquake and a thunderstorm, and conjure up a bunch of people that were like him.],
 
 :: Major Themes
-unbounded thought powers [By concentrating, Mr. Beechcroft was able to make people vanish, make a train arrive, make a clock be quiet, conjure an earthquake and a thunderstorm, and conjure up a bunch of people that were like him.],
-wishing or wanting something really hard makes it happen [Mr. Beechcroft read a book that taught him how to alter reality in any way he wanted by using the power of concentration.],
-desire for solitude [FD did we have a "get away from it all" kind of theme?] <PS: alternatively the need for peace and quiet>,
-poetic justice [Miserable misanthrope Mr. Beechcroft used his newfound mind powers to replace every disagreeable person in the world with clones of himself, only to find that he was perhaps the most disagreeable of all.],
+ironic twist of fate [Miserable misanthrope Mr. Beechcroft used his newfound mind powers to replace every disagreeable person in the world with clones of himself, only to find that he was perhaps the most disagreeable of all.],
 lesson in humility [Mr. Beechcroft came to re-evaluate his misanthrope attitude to some extent.],
 misanthropy [Mr. Beechcroft so hated people that he made them all disappear almost as soon as he had the chance.],
+boredom [Mr. Beechcroft began to feel bored and lonely after he made everyone disappear.],
+loneliness [Mr. Beechcroft began to feel bored and lonely after he made everyone disappear.],
 
 :: Minor Themes
 coping with an obnoxious chatterbox [Mr. Beechcroft took exception to Mr. Rogers badgering him in the men's room.],
 coping with having a bad day [Mr. Beechcroft was left at his wit's end after commuting to work in a jam packed train, having coffee spilled all over him during a hectic day at the office, and then settling in at home only to hear his landlord knocking at the door, looking to collect on the rent.],
-boredom [Mr. Beechcroft began to feel bored and lonely after he made everyone disappear.],
-loneliness [Mr. Beechcroft began to feel bored and lonely after he made everyone disappear.],
+
+:: Not Themes
+wishing or wanting something really hard makes it happen [Mr. Beechcroft had the ability to make anything happen by wishing for it at a whim; he didn't have to concentrate hard.],
 
 
 tz1959e2x28
@@ -2417,8 +2417,6 @@ Directed by: Montgomery Pittman. Story by: Rod Serling.
 3 <mikael>,
 3 <paul>,
 
-:: Choice Themes
-
 :: Major Themes
 Martian extraterrestrial [An invader from Mars was hiding among a group of bus passengers waiting in a diner.],
 Venusian extraterrestrial [It transpires that the proprietor of the diner was a Venusian who had beaten the Martians to the punch, colonizing Earth first.],
@@ -2426,12 +2424,10 @@ alien secretly living among us [We learned that both a Martian and a Venusian we
 mistrust leading to group dysfunction [The bus people started becoming suspicious about each other because one of them was thought, as it turned out correctly, to be a Martian in disguise.],
 attack from outer space by a powerful conquering alien race [We heard that Martians and Venusians were competing to colonize Earth, and the sinister overtones implied that human civilization would not be suffered to thrive in peace.],
 flying saucer theory of UFOs [There was a UFO, and it had borne hostile extraterrestrials hither.],
-covert alien observers [FD],
-mind control ability [] <for discussion about the Martian conjuring illusions in the minds of those at the diner.>,
+mind to mind interaction ability [The Martian was conjuring illusions in the minds of those at the diner.],
 
 :: Minor Themes
 husband and wife [Two married couples were at the diner.],
-telekinetic machine manipulation ability [The Martian seemed to have used his mind to make a jukebox start playing, but he later revealed that he'd actually conjured the illusion of it playing in the minds of those present.],
 
 :: Other Keywords
 meteor [A state trooper initially explained away a UFO as a meteor.],
@@ -2470,9 +2466,12 @@ Christianity [Mr. Wordsworth was a defiant Christian though religion was banned.
 :: Minor Themes
 passion for reading [Mr. Wordsworth was a dedicated librarian.],
 Adolf Hitler [Hitler was mentioned as a role model.],
-hatred of intellectuals [FD truth and logic were banned, we heard, as were books] <PS: perhaps anti-intellectualism in society>,
-conformism in society [Mr. Wordsworth existence as a librarian was in itself a bold defiance of the accepted categories in his totalitarian state.],
+anti-intellectualism in society [The government did its best to foster anti-intellectualism in this society by baning books.],
+conformism in society [Mr. Wordsworth existence as a librarian was in itself a bold defiance of the accepted categories in this totalitarian society.],
 cowardice [The Chancellor showed himself to be a coward when he was locked up in Mr. Wordsworth's room.],
+
+:: Other Keyword
+Josef Stalin [Stalin was mentioned as a role model.],
 
 
 tz1959e3x01
