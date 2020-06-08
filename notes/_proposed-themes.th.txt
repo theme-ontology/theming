@@ -3,14 +3,14 @@ time slow down process
 ======================
 
 :: Description
-Time itself is observed to slow to a crawl or perhaps ever freeze altogether.
+Time itself is observed to slow to a crawl or perhaps freeze 
+altogether.
 
 :: Parents
 speculative natural process
 
 :: Aliases
 time freeze, time stop
-
 
 
 love vs. material gain
@@ -70,88 +70,25 @@ wishing or wanting something really hard makes it happen
 ========================================================
 
 :: Description
+The idea is featured that if someone (implied anyone) really wants, wishes,
+needs, desires (etc. etc.) something then occasionally reality can
+magically make that thing come true.
 
-:: Parents
-superstition
-
-
-coping with an existential crisis
-=================================
-
-:: Description
-
-:: Parents
-human mental condition
+:: Notes
+This is not a reliable "ability", but something that happens more or less
+as a one-off to characters in special circumstances. If a character is
+able to reliably alter reality, then "unbounded thought powers" or
+"speculative ability related to reality at large" is applicable instead.
 
 :: Examples
-
-:: References
-https://en.wikipedia.org/wiki/Existential_crisis
-
-
-what is truth
-=============
-
-:: Description
-
-:: Parents
-classical philosophy
-
-
-personal flying contraption
-===========================
-
-:: Description
-There is a wearable technological device, such as a suit or a 
-jet pack, which allows its user to fly.
-
-:: Parents
-human enhancement technology
-
-
-dreams becoming reality
-=======================
-
-:: Description
-
-:: Parents
-speculative ability related to reality at large
-
-
-what if I caught a glimpse of the future
-========================================
-
-:: Description
-
-:: Parents
-what if I could see into the future
-
-
-the good of society vs. personal gain
-=====================================
-
-:: Description
-
-:: Parents
-personal ethical dilemma
-
-
-faith healing
-=============
-
-:: Description
+In tz1959e1x27 "The Big Tall Wish", Henry warned Bolie that the only way 
+Henry's wish that Bolie had won the boxing match would stay granted,
+was if Bolie well and truly believed in it. Bolie could not find it in 
+himself to believe in such a wacky thing. Therefore reality reverted, and 
+Bolie found himself again having lost the boxing match.
 
 :: Parents
 superstition
-
-
-art vs. science
-===============
-
-:: Description
-
-:: Parents
-the domain of reason
 
 
 immortality
@@ -235,4 +172,110 @@ to be vetted, he had to live practically isolated in a glass room.
 
 :: Parents
 what if I were in a tight spot
+
+
+coping with an existential crisis
+=================================
+
+:: Description
+A character questions whether their life has meaning, purpose, or value.
+This is often tied to depression or negative speculations on purpose 
+in life.
+
+:: Parents
+human mental condition
+
+:: Examples
+In "Winter Light" (1963), Pastor Tomas Ericsson had a deep existential 
+crisis related to the problems he saw in the world and his own apparent 
+lack of faith. Fisherman Jonas Persson had a similar crisis, and ended up
+killing himself.
+
+:: References
+https://en.wikipedia.org/wiki/Existential_crisis
+
+
+what is truth
+=============
+
+:: Description
+Questions regarding the definition of the word "truth" are pondered.
+Is there even such a thing, and if so is it knowable and how can
+it be confidently recognized?
+
+:: Parents
+classical philosophy
+
+:: References
+https://en.wikipedia.org/wiki/Truth
+
+
+personal flying contraption
+===========================
+
+:: Description
+There is a wearable technological device, such as a suit or a 
+jet pack, which allows its user to fly.
+
+:: Parents
+human enhancement technology
+
+
+the good of society vs. personal gain
+=====================================
+
+:: Description
+A character must choose between benefiting society at large,
+or doing something for their own personal benefit.
+
+:: Examples
+In tz1959e2x10 "A Most Unusual Camera", There was a brief deliberation 
+regarding how to best employ the camera: Should they donate it to science 
+for the good of all humankind or take it to the race track? They
+quickly settled on the latter course of action, and made a pile of money.
+
+:: Parents
+personal ethical dilemma
+
+
+faith healing
+=============
+
+:: Description
+Prayers and gestures (such as laying on of hands) are shown to elicit divine 
+intervention in spiritual and physical healing, especially in the context of 
+Christian religion.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Faith_healing
+
+
+art vs. science
+===============
+
+:: Description
+The philosophical outlook of artists is compared and contrasted with the
+philosophical outlook of people of science. The story may or may not posit
+that there tends to be an important difference.
+
+:: Examples
+In "Stalker" (1979), the character Writer (a sophisticated writer) spoke at 
+length to the character Professor (an erudite physicist) about the differences
+in their chosen professions. 
+
+:: Parents
+the domain of reason
+
+
+what if I caught a glimpse of the future
+========================================
+
+:: Description
+
+:: Parents
+what if I could see into the future
+
 
