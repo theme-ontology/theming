@@ -2740,6 +2740,23 @@ crime in society
 https://en.wikipedia.org/wiki/Art_forgery
 
 
+art vs. science
+===============
+
+:: Description
+The philosophical outlook of artists is compared and contrasted with the
+philosophical outlook of people of science. The story may or may not posit
+that there tends to be an important difference.
+
+:: Parents
+the domain of reason
+
+:: Examples
+In "Stalker" (1979), the character Writer (a sophisticated writer) spoke at
+length to the character Professor (an erudite physicist) about the differences
+in their chosen professions.
+
+
 artificial autonomous sentient coworker
 =======================================
 
@@ -7572,6 +7589,26 @@ numerous and/or extravagant requests.
 
 :: Parents
 coping with problematic people
+
+
+coping with an existential crisis
+=================================
+
+:: Description
+A character questions whether their life has meaning, purpose, or value. This
+is often tied to depression or negative speculations on purpose in life.
+
+:: Parents
+human mental condition
+
+:: Examples
+In "Winter Light" (1963), Pastor Tomas Ericsson had a deep existential crisis
+related to the problems he saw in the world and his own apparent lack of
+faith. Fisherman Jonas Persson had a similar crisis, and ended up killing
+himself.
+
+:: References
+https://en.wikipedia.org/wiki/Existential_crisis
 
 
 coping with an incompetent coworker
@@ -13183,6 +13220,21 @@ superstition, legendary being
 https://en.wikipedia.org/wiki/Fairy
 
 
+faith healing
+=============
+
+:: Description
+Prayers and gestures (such as laying on of hands) are shown to elicit divine
+intervention in spiritual and physical healing, especially in the context of
+Christian religion.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Faith_healing
+
+
 faith in a friend
 =================
 
@@ -18005,6 +18057,29 @@ human vs. human
 https://en.wikipedia.org/wiki/Mad_scientist
 
 
+human vs. inexplicable adversity
+================================
+
+:: Description
+A character is confronted with problematic happenings that seem to defy
+explanation or categorization in any meaningful way.
+
+:: Parents
+facing adversity
+
+:: Notes
+This theme does notably not apply in the case of events for which the
+character can perceive reasonable sounding possible explanations. It is meant
+to capture things that just don't any make sense. However, if mysterious
+events are cause by spirits or the like, the theme "human vs. the occult" is
+normally used instead.
+
+:: Examples
+In tz1959e1x34 "The After Hours", Marsha grew increasingly puzzled after she
+purchased a gold thimble on the 9th floor of a department that had only eight
+floors.
+
+
 human vs. institution
 =====================
 
@@ -18547,6 +18622,25 @@ literacy program at the local university.
 https://en.wikipedia.org/wiki/Literacy
 
 
+illness as a social construct
+=============================
+
+:: Description
+The role culture plays in determining whether a certain condition is
+considered to be a disease is explored.
+
+:: Parents
+sociocultural issue
+
+:: Examples
+In "X-Men: The Last Stand" (2006), many mutants were horrified when a "cure"
+for mutancy was announced since they didn't consider mutancy as a disease to
+be cured, but rather a normal way of being.
+
+:: References
+https://en.wikipedia.org/wiki/Homosexuality_and_psychology
+
+
 immigration in society
 ======================
 
@@ -18589,6 +18683,28 @@ crackpot theory
 :: Examples
 Flint was revealed to be an immortal human who had lived on Earth under
 various aliases for thousands of years in tos3x21 "Requiem for Methuselah".
+
+
+immortality
+===========
+
+:: Description
+A character is able to go on living even when other characters would have
+died. They typically do not age (beyond a point) or if they do, death is not
+inevitably at the end of that process.
+
+:: Parents
+speculative personal resilience, what if I were not subject to the normal process of aging
+
+:: Notes
+The theme "immortality" is considered topical simply if the idea that a
+character may go on living indefinitely is there. Stories are surprisingly
+full of nominally immortal characters that nevertheless perish, one way or
+another.
+
+:: Examples
+Mr. Flynn of tos3x21 "Requiem for Methuselah", a.k.a. Methuselah, was born
+with that most coveted mixed blessing of all: immortality.
 
 
 impartiality in the legal system
@@ -21052,6 +21168,21 @@ and maintaining a friendship on the other.
 
 :: Parents
 human romantic relationship choice
+
+
+love vs. material gain
+======================
+
+:: Description
+A character must choose between someone they love on one hand, and profiting
+materially (for example by money) on the other.
+
+:: Parents
+human romantic relationship choice
+
+:: Examples
+In tz1959e2x21 "The Prime Mover", Kitty gave her lover Ace this ultimatum:
+Quit his crooked gambling, or she'd leave. Ace kept gambling a bit longer.
 
 
 love vs. the public good
@@ -25409,6 +25540,27 @@ be like.
 life in academia
 
 
+parthenogenesis
+===============
+
+:: Description
+The subject of asexual reproduction, especially among higher level organisms,
+is treated.
+
+:: Parents
+topic in science
+
+:: Examples
+In "Herland" (1915), a trio of male explores made contact with a society
+consisting exclusively of women who reproduce in the asexual manner.
+
+:: References
+https://en.wikipedia.org/wiki/Parthenogenesis
+
+:: Aliases
+asexual reproduction
+
+
 passion for acting
 ==================
 
@@ -26296,6 +26448,17 @@ another person die if that was the only way to save your own life?
 
 :: Parents
 human tough decision
+
+
+personal flying contraption
+===========================
+
+:: Description
+There is a wearable technological device, such as a suit or a jet pack, which
+allows its user to fly.
+
+:: Parents
+human enhancement technology
 
 
 personal freedom vs. romantic love
@@ -32503,9 +32666,9 @@ speculative personal locomotion
 ===============================
 
 :: Description
-A character is able to move in a way that no ordinary person today ever
-could. They may, for example, be able to fly using their own body alone, or
-teleport themselves using their mind.
+A character is able to move in a way that no ordinary person today ever could.
+They may, for example, be able to fly using their own body alone, or teleport
+themselves using their mind.
 
 :: Parents
 speculative ability related to own body
@@ -35994,6 +36157,23 @@ in tng7x04 "Sub Rosa".
 aliens
 
 
+the good of society vs. personal gain
+=====================================
+
+:: Description
+A character must choose between benefiting society at large, or doing
+something for their own personal benefit.
+
+:: Parents
+personal ethical dilemma
+
+:: Examples
+In tz1959e2x10 "A Most Unusual Camera", There was a brief deliberation
+regarding how to best employ the magic camera: Should they donate it to
+science for the good of all humankind or take it to the race track? They
+quickly settled on the latter course of action, and made a pile of money.
+
+
 the good of the many vs. the needs of the few
 =============================================
 
@@ -38355,6 +38535,19 @@ speculative ability related to reality at large
 time slow down process
 
 
+time slow down process
+======================
+
+:: Description
+Time itself is observed to slow to a crawl or perhaps freeze altogether.
+
+:: Parents
+speculative natural process
+
+:: Aliases
+time freeze, time stop
+
+
 time speed up
 =============
 
@@ -40458,6 +40651,28 @@ This theme is not used, e.g., for when there is an alien race of beings that
 are innately linked in a hive mind or the like.
 
 
+what if I caught a glimpse of the future
+========================================
+
+:: Description
+A character is shown a sight of some future happening. This might be on
+account that the character invoked a magical incantation, appealed to some
+speculative technology, or was shown a vision of the future by another entity.
+
+:: Parents
+what if I found myself in a different time
+
+:: Notes
+If a character has an innate ability to see into the future, then
+"precognition" is the more appropriate theme.
+
+:: Examples
+In tz1985e2x04b "Lost and Found", Jenny, an absent minded college student with
+a cantankerous room mate found out from a couple of time travelers hiding in
+her wardrobe that she was, in fact, destined to become the future leader of a
+united Earth.
+
+
 what if I could be young again
 ==============================
 
@@ -41359,6 +41574,22 @@ what if my life were different
 http://tvtropes.org/pmwiki/pmwiki.php/Main/GroundhogDayLoop
 
 
+what if I saw a glimpse of the past
+===================================
+
+:: Description
+A character is shown a sight of a past occurrence. This might be on account
+that the character invoked a magical incantation, appealed to some speculative
+technology, or was shown a vision of the future by another entity.
+
+:: Parents
+what if I found myself in a different time
+
+:: Notes
+If a character has an innate ability to see into the past, then
+"retrocognition" is the more appropriate theme.
+
+
 what if I saw strange things no one else could see
 ==================================================
 
@@ -41823,6 +42054,22 @@ process.
 
 :: Parents
 extraordinary experience
+
+
+what if I were socially isolated for an extended period of time
+===============================================================
+
+:: Description
+We are made to imagine what it would be like to be alone and isolated from the
+company of other people for an abnormally long time, i.e., months or years.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+In tz1959e2x25 "The Silence", Mr. Tennyson accepted a wager that he'd not be
+able to stay silent for a whole year. In order for the effort to be vetted, he
+had to live practically isolated in a glass room.
 
 
 what if I were stranded in outer space
@@ -42469,6 +42716,21 @@ it that it was itself imperfect.
 https://en.wikipedia.org/wiki/Perfection
 
 
+what is truth
+=============
+
+:: Description
+Questions regarding the definition of the word "truth" are pondered. Is there
+even such a thing, and if so is it knowable and how can it be confidently
+recognized?
+
+:: Parents
+classical philosophy
+
+:: References
+https://en.wikipedia.org/wiki/Truth
+
+
 what is ugly might still be good
 ================================
 
@@ -43068,6 +43330,31 @@ sister would become a great opera singer, and so she did.
 https://en.wikipedia.org/wiki/Shooting_Star
 
 
+wishing or wanting something really hard makes it happen
+========================================================
+
+:: Description
+The idea is featured that if someone (implied anyone) really wants, wishes,
+needs, desires (etc. etc.) something then occasionally reality can magically
+make that thing come true.
+
+:: Parents
+superstition
+
+:: Notes
+This is not a reliable "ability", but something that happens more or less as a
+one-off to characters in special circumstances. If a character is able to
+reliably alter reality, then "unbounded thought powers" or "speculative
+ability related to reality at large" is applicable instead.
+
+:: Examples
+In tz1959e1x27 "The Big Tall Wish", Henry warned Bolie that the only way
+Henry's wish that Bolie had won the boxing match would stay granted, was if
+Bolie well and truly believed in it. Bolie could not find it in himself to
+believe in such a wacky thing. Therefore reality reverted, and Bolie found
+himself again having lost the boxing match.
+
+
 witch-hunt
 ==========
 
@@ -43494,6 +43781,26 @@ human idea about life
 
 :: References
 https://en.wikipedia.org/wiki/Gambler%27s_fallacy https://en.wikipedia.org/wiki/Central_limit_theorem
+
+
+you can't eat money
+===================
+
+:: Description
+It is explained or pointedly illustrated that things like money, or gold, has
+very little intrinsic value for a person when they lack more basic necessities
+of life, such as food.
+
+:: Parents
+human idea about life
+
+:: Examples
+In tz1959e2x24 "The Rip Van Winkle Caper", we saw four crooks meticulously
+carry out an elaborate heist for gold. They then fought and killed each other
+over the loot. Then one of them was forced to trade away gold bar after gold
+bar for measly sips of water. The last thief collected many gold bars only to
+be summarily assassinated by a comrade he had alienated. Finally we learn that
+it was all in vain, because gold had become worthless as a commodity.
 
 
 you can't force someone to love you
