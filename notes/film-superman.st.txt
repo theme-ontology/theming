@@ -86,8 +86,7 @@ sci-fi, action, superhero,
 :: Major Themes
 super strength [Superman was more powerful than a locomotive.],
 romantic love [Superman and Lois Lane.],
-facing an evil genius [Superman versus Lex Luthor.],
-human vs. evil genius [Superman versus Lex Luthor.],
+facing a genius adversary [It was up to Superman to stop the criminal genius Lex Luthor from destroying most of California with a nuclear weapon.],
 the lust for gold [Lex Luthor hatched a diabolical plot to destroy most of California with a nuclear bomb so that the residence would have to buy his realestate in Nevada.],
 nuclear proliferation [Lex Luthor stole an ICBM and planned to use it on California.],
 
@@ -148,6 +147,7 @@ sci-fi, action, superhero,
 super strength [Superman was more powerful than a locomotive.],
 romantic love [Superman at Lois Lane.],
 attack from outer space by a powerful conquering alien race [The Kryptonian General Zod and his two minions tried to take over the Earth.],
+facing a genius adversary [Superman was pitted against his old nemesis, the criminal genius Lex Luthor.],
 
 :: Minor Themes
 super speed [Superman was faster than a speeding bullet.],
@@ -158,8 +158,6 @@ interplanetary space travel [A pair of astronauts were attacked while collecting
 boyfriend and girlfriend [Lex Luthor and Eve Teschmacher.],
 coping with a disability [Superman experienced what it was like without his super powers after he willingly gave them up in order to be with Lois Lane.],
 mother and son [Superman conferred with the artificial intelligence of his mother Lara.],
-facing an evil genius [Superman versus Lex Luthor.],
-human vs. evil genius [Superman versus Lex Luthor.],
 
 :: Settings
 lunar regolith, North Pole,
@@ -305,7 +303,7 @@ the lust for gold [Lex Luthor risked bringing about a nuclear war for his own pe
 arms race [Superman was conflicted about how much he should intervene to stop a potential arms race between the United States and the Soviet Union.],
 nuclear holocaust [People worried that an arms race between the United States and the Soviet Union would result in a nuclear war.],
 the Cold War [There was a nuclear arms race between the United States and the Soviet Union.],
-facing an evil genius [Superman versus Lex Luthor.],
+facing a genius adversary [The criminal genius Lex Luthor was hellbent on getting revenge against his old foe Superman.],
 
 :: Minor Themes
 uncle and nephew [Lex Luthor and his idiot nephew Lenny Luthor.],
@@ -352,7 +350,7 @@ sci-fi, action, superhero,
 
 :: Major Themes
 super strength [Superman was more powerful than a locomotive. The youngster Jason also manifested super strength.],
-facing an evil genius [Superman versus Lex Luthor.],
+facing a genius adversary [It was up to Superman to stop the criminal genius Lex Luthor from dominating the United States real estate market.],
 artificial island [Lex Luthor created a massive island in the Atlantic Ocean using ancient Kryptonian crystal technology.],
 the lust for gold [Lex Luthor created a massive island in the Atlantic Ocean with a view toward making a killing in the real estate market.],
 father and son [In the end, Superman turned out to be Jason's real father, not Richard White.],
@@ -454,7 +452,7 @@ https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice
 2 <paul>,
 
 :: Genre
-sci-fi, action, superhero,
+sci-fi, action,
 
 :: Major Themes
 terrorism in society [It was suspected that the cargo of the White Portuguese was a dirty bomb but it turned out to be Kryptonite. Lex Luthor bombed the Senate when Superman was about to testify. Also there were some Russian terrorists about.],
@@ -463,7 +461,7 @@ powered exoskeleton [Bruce Wayne invented a powered exoskeleton in preparation t
 vigilante justice [Superman took exception to Batman's vigilante style of justice and tried to expose his secret identity.],
 messiah [Superman was depicted, and described explicitly as a messiah figure. This was in contrast with Batman the vigilante figure. Lex Luthor made several references to Superman being a god and wished to destroy him.],
 rivalry [There wasn't room enough in for Metropolis/Gotham both Superman and Batman.],
-facing an evil genius [Batman and Superman versus Lex Luthor.],
+facing a genius adversary [Batman and Superman were pitted against Duperman's old nemesis, the criminal genius Lex Luthor.],
 
 :: Minor Themes
 mother and son [Superman and his adoptive mother Martha Kent. Batman had a flashback of the death of his mother when he was a boy.],
