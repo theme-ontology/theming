@@ -1,26 +1,25 @@
-Collection: Mad Max
-===================
+Collection: Quatermass
+======================
 
 :: Title
-Max Max
+Quatermass
 
 :: Date
-1979-2015
+1955-1967
 
 :: Collections
-Collection: Mad Max
+Collection: Quatermass
 
 :: Description
-The four films in the Australian dystopian action film series Mad Max, created by George Miller and Byron Kennedy.
+Three adventures of Professor Bernard Quatermass in film.
 
 :: References
 https://en.wikipedia.org/wiki/Mad_Max_(franchise)
 
 :: Component Stories
-movie: Mad Max (1979)
-movie: Mad Max 2 (1981)
-movie: Mad Max Beyond Thunderdome (1985)
-movie: Mad Max: Fury Road (2015)
+movie: The Quatermass Xperiment (1955)
+movie: Quatermass 2 (1957)
+movie: Quatermass and the Pit (1967)
 
 
 Collection: Man from Atlantis
@@ -46,6 +45,34 @@ movie: Man from Atlantis (1977)
 movie: Man from Atlantis II: The Death Scouts (1977)
 movie: Man from Atlantis III: Killer Spores (1977)
 movie: Man from Atlantis IV: The Disappearances (1977)
+
+
+Collection: Mad Max
+===================
+
+:: Title
+Max Max
+
+:: Date
+1979-2015
+
+:: Collections
+Collection: Mad Max
+
+:: Description
+The four films in the Australian dystopian action film series Mad Max, created by George Miller and Byron Kennedy.
+
+:: References
+https://en.wikipedia.org/wiki/Mad_Max_(franchise)
+
+:: Component Stories
+movie: Mad Max (1979)
+movie: Mad Max 2 (1981)
+movie: Mad Max Beyond Thunderdome (1985)
+movie: Mad Max: Fury Road (2015)
+
+
+
 
 
 
