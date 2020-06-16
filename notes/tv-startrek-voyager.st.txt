@@ -46,8 +46,8 @@ Collection: Star Trek: Voyager
 https://en.wikipedia.org/wiki/Star_Trek:_Voyager
 
 
-voy1x01
-=======
+voy1x01/02
+==========
 
 :: Title
 Caretaker
@@ -131,19 +131,6 @@ tricorder [],
 medical tricorder [],
 banjo [],
 last second transport [Chakotay] <1:21:45>,
-
-
-voy1x02
-=======
-
-:: Title
-Caretaker
-
-:: Description
-(double episode)
-
-:: Date
-1995-01-16
 
 
 voy1x03
@@ -8760,8 +8747,8 @@ Kraylor, Annari
 rocky landscape
 
 
-voy7x09
-=======
+voy7x09/10
+==========
 
 :: Title
 Flesh and Blood
@@ -8822,19 +8809,6 @@ woodland, cavern
 
 :: Other Keywords
 red alert [] <36:24>,
-
-
-voy7x10
-=======
-
-:: Title
-Flesh and Blood
-
-:: Description
-(double episode)
-
-:: Date
-2000-11-29
 
 
 voy7x11
@@ -9593,8 +9567,8 @@ Overlooker,
 red alert [] <25:34>,
 
 
-voy7x25
-=======
+voy7x25/26
+==========
 
 :: Title
 Endgame
@@ -9658,18 +9632,4 @@ coping with getting dumped [Chakotay by Seven again],
 :: Other Keywords
 red alert [] <41:55>,
 red alert chili [],
-
-
-voy7x26
-=======
-
-:: Title
-Endgame
-
-:: Description
-(double episode)
-
-:: Date
-2001-05-23
-
 
