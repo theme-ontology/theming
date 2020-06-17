@@ -130,6 +130,30 @@ movie: Mad Max Beyond Thunderdome (1985)
 movie: Mad Max: Fury Road (2015)
 
 
+Collection: Ghostbusters
+========================
+
+:: Title
+Ghostbusters
+
+:: Date
+1984-2016
+
+:: Collections
+Collection: Ghostbusters
+
+:: Description
+The three feature films to date in the Ghostbusters franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Ghostbusters_(franchise)#Films
+
+:: Component Stories
+movie: Ghostbusters (1984)
+movie: Ghostbusters II (1989)
+movie: Ghostbusters (2016)
+
+
 Collection: Back to the Future
 ==============================
 
