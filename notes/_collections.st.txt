@@ -154,3 +154,29 @@ movie: Back to the Future Part II (1989)
 movie: Back to the Future Part III (1990)
 
 
+Collection: Robocop
+===================
+
+:: Title
+Robocop
+
+:: Date
+1987-2014
+
+:: Collections
+Collection: Robocop
+
+:: Description
+The four feature films to date in the Robocop franchise.
+
+:: References
+https://en.wikipedia.org/wiki/RoboCop_(franchise)#Films
+
+:: Component Stories
+movie: RoboCop (1987)
+movie: RoboCop 2 (1990)
+movie: RoboCop 3 (1993)
+movie: RoboCop (2014)
+
+
+
