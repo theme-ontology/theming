@@ -1,22 +1,3 @@
-Collection: Star Wars
-=====================
-
-:: Title
-Star Wars
-
-:: Date
-1977-2019
-
-:: Collections
-Collection: Star Wars
-
-:: Description
-A collection of any and all films set in George Lucas' Star Wars universe.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_Star_Wars_films_and_television_series
-
-
 movie: Star Wars (1977)
 =======================
 
@@ -70,6 +51,25 @@ mind control ability [Obi-Wan mind controlled an imperial soldier into letting h
 :: Collections
 Collection: Science fiction films of the 1970s,
 Collection: Time Out magazine's Top100 films
+
+
+Collection: Star Wars
+=====================
+
+:: Title
+Star Wars
+
+:: Date
+1977-2019
+
+:: Collections
+Collection: Star Wars
+
+:: Description
+A collection of any and all films set in George Lucas' Star Wars universe.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_Star_Wars_films_and_television_series
 
 
 movie: Star Wars Holiday Special (1978)
@@ -367,7 +367,7 @@ movie: Star Wars: Episode II - Attack of the Clones (2002)
 Star Wars: Episode II - Attack of the Clones
 
 :: Description
-Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war, with thousands of planetary systems threatening to secede from the Galactic Republic. After Senator Padmé Amidala evades an assassination attempt, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on her life. Soon, the trio witness the onset of a new threat to the galaxy, the Clone Wars. 
+Set ten years after the events in The Phantom Menace, the galaxy is on the brink of civil war, with thousands of planetary systems threatening to secede from the Galactic Republic. After Senator Padmé Amidala evades an assassination attempt, Jedi apprentice Anakin Skywalker becomes her protector, while his mentor Obi-Wan Kenobi investigates the attempt on her life. Soon, the trio witness the onset of a new threat to the galaxy, the Clone Wars.
 
 :: Date
 2002-05-12
@@ -802,4 +802,5 @@ habitable planet in a binary star system [The film concluded with Rey watching a
 
 :: Collections
 Collection: Science fiction films of the 2010s
+
 

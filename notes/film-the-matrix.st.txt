@@ -1,22 +1,3 @@
-Collection: The Matrix
-======================
-
-:: Title
-The Matrix
-
-:: Date
-1999-2003
-
-:: Collections
-Collection: The Matrix
-
-:: Description
-The Matrix film trilogy.
-
-:: References
-https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
-
-
 movie: The Matrix (1999)
 ========================
 
@@ -61,10 +42,29 @@ plug-in learning device [Neo learned jiu jitsu and kung fu by having the techniq
 human battery [The intelligent machines kept unconscious humans in pods and used them to somehow generate electricity to power their civilization.],
 fusion power [The intelligent machines used a combination of fusion power and human batteries to power their civilization.],
 opposition to authority [Neo's boss at the software company inside the Matrix complained that Neo thought the rules somehow didn't apply to him.],
-the need for freedom [It was mentioned about how life inside the Matrix did not constitute a free mode of existence for humans.], 
+the need for freedom [It was mentioned about how life inside the Matrix did not constitute a free mode of existence for humans.],
 
 :: Collections
 Collection: Science fiction films of the 1990s
+
+
+Collection: The Matrix
+======================
+
+:: Title
+The Matrix
+
+:: Date
+1999-2003
+
+:: Collections
+Collection: The Matrix
+
+:: Description
+The Matrix film trilogy.
+
+:: References
+https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
 
 
 movie: The Matrix Reloaded (2003)
@@ -74,7 +74,7 @@ movie: The Matrix Reloaded (2003)
 The Matrix Reloaded
 
 :: Description
-Morpheus and his fellow resistors try to prevent intelligent machines from exterminating all humans not under their control. It is the first sequel to The Matrix, and the second installment in The Matrix trilogy. 
+Morpheus and his fellow resistors try to prevent intelligent machines from exterminating all humans not under their control. It is the first sequel to The Matrix, and the second installment in The Matrix trilogy.
 
 
 :: Date

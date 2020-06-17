@@ -1,22 +1,3 @@
-Collection: Superman
-====================
-
-:: Title
-Superman
-
-:: Date
-1951-2017
-
-:: Collections
-Collection: Superman
-
-:: Description
-The nine feature films in the Superman series.
-
-:: References
-https://en.wikipedia.org/wiki/Superman_in_film
-
-
 movie: Superman and the Mole-Men (1951)
 =======================================
 
@@ -58,6 +39,25 @@ the dangers of radioactivity [The mole men were thought to have been radioactive
 
 :: Collections
 Collection: Science fiction films of the 1950s
+
+
+Collection: Superman
+====================
+
+:: Title
+Superman
+
+:: Date
+1951-2017
+
+:: Collections
+Collection: Superman
+
+:: Description
+The nine feature films in the Superman series.
+
+:: References
+https://en.wikipedia.org/wiki/Superman_in_film
 
 
 movie: Superman (1978)
@@ -104,9 +104,6 @@ the dangers of radioactivity [It was explained that kryptonite adversely affecte
 betrayal [Eve Teschmacher betrayed Lex Luthor by removing the kryptonite from around Superman's neck.],
 boyfriend and girlfriend [Lex Luthor and Eve Teschmacher.],
 time travel [Superman traveled back in time to save Lois Lane's life.],
-
-:: Settings
-North Pole,
 
 :: Other Keywords
 ICBM [],
@@ -158,9 +155,6 @@ interplanetary space travel [A pair of astronauts were attacked while collecting
 boyfriend and girlfriend [Lex Luthor and Eve Teschmacher.],
 coping with a disability [Superman experienced what it was like without his super powers after he willingly gave them up in order to be with Lois Lane.],
 mother and son [Superman conferred with the artificial intelligence of his mother Lara.],
-
-:: Settings
-lunar regolith, North Pole,
 
 :: Other Keywords
 hydrogen bomb [],

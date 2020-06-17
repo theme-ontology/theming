@@ -1,24 +1,3 @@
-Collection: X-Men
-=================
-
-:: Title
-X-Men
-
-:: Date
-2000-2019
-
-:: Collections
-Collection: X-Men
-
-:: Description
-X-Men is an American superhero film series based on the fictional superhero
-team of the same name, who originally appeared in a series of comic books
-created by Stan Lee and Jack Kirby and published by Marvel Comics.
-
-:: References
-https://en.wikipedia.org/wiki/X-Men_(film_series)
-
-
 movie: X-Men (2000)
 ===================
 
@@ -85,6 +64,27 @@ intangibility ability [We saw a young girl pass through a wall.],
 
 :: Collections
 Collection: Science fiction films of the 2000s
+
+
+Collection: X-Men
+=================
+
+:: Title
+X-Men
+
+:: Date
+2000-2019
+
+:: Collections
+Collection: X-Men
+
+:: Description
+X-Men is an American superhero film series based on the fictional superhero
+team of the same name, who originally appeared in a series of comic books
+created by Stan Lee and Jack Kirby and published by Marvel Comics.
+
+:: References
+https://en.wikipedia.org/wiki/X-Men_(film_series)
 
 
 movie: X2 (2003)

@@ -1,23 +1,3 @@
-Collection: Science fiction films of the 1950s
-==============================================
-
-:: Title
-Science fiction films of the 1950s
-
-:: Date
-1950-1959
-
-:: Collections
-Collection: Science fiction films of the 1950s
-
-:: Description
-Science fiction films that premiered between 1 January 1950 and 31 December
-1959.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1950s
-
-
 movie: The Flying Saucer (1950)
 ===============================
 
@@ -159,6 +139,26 @@ the control of fire [Engor discovered fire and used it to defend himself and his
 human vs. beast [Engor and his tribesmen take on a tiger, a panther, an elephant, a python, and a flying dragon.],
 romantic jealousy [Tigri became jealous of one of her tribes-women over Engor and got into a physical altercation as a result.],
 brains vs. brawn [Engor showed Tigri that he could move a big rock using brute force, but she was not impressed, because she could move it equally well with the aid of a level.],
+
+
+Collection: Science fiction films of the 1950s
+==============================================
+
+:: Title
+Science fiction films of the 1950s
+
+:: Date
+1950-1959
+
+:: Collections
+Collection: Science fiction films of the 1950s
+
+:: Description
+Science fiction films that premiered between 1 January 1950 and 31 December
+1959.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1950s
 
 
 movie: Two Lost Worlds (1951)
@@ -1378,7 +1378,7 @@ telepathic ability [William H. Donovan's disembodied brain sent telepathic messa
 father and son [William H. Donovan's son despised him for having been a ruthless man in life.],
 father and daughter [William H. Donovan's daughter despised him for having been a ruthless man in life.],
 blackmail in society [Yocum was blackmailing Patrick Cory over having illegally taken Donovan's brain from his dead body.],
-what if I were being blackmailed [Yocum was blackmailing Patrick Cory over having illegally taken Donovan's brain from his dead body.], 
+what if I were being blackmailed [Yocum was blackmailing Patrick Cory over having illegally taken Donovan's brain from his dead body.],
 
 
 movie: Riders to the Stars (1954)
@@ -2656,44 +2656,6 @@ sacrifice for one's people [Tom Anderson sacrificed himself in killing the Venus
 seeing the error of one's ways [Tom Anderson came to see that the Venusians did not have good intentions for humanity.],
 
 
-movie: Toward the Unknown (1956)
-================================
-
-:: Title
-Toward the Unknown
-
-:: Description
-A film about the dawn of supersonic flight filmed on location at Edwards Air
-Force Base.
-
-:: Date
-1956-10-20
-
-:: References
-https://en.wikipedia.org/wiki/Toward_the_Unknown
-
-:: Ratings
-1 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-romantic love [Lincoln Bond and Connie Mitchell.],
-old flames [Lincoln Bond and Connie Mitchell.],
-passion for flying [Major Lincoln Bond was fed up with paper pushing in Washing and sought to return to active duty as a test pilot. Brigadier General Banner was also passionate about test piloting.],
-love triangle [Lincoln Bond, Brigadier General Banner, and Connie Mitchell.],
-fighting one's inner demons [Lincoln Bond was scarred from his experiences as a prisoner of war during the Korean War.],
-belonging [Lincoln Bond felt at home in the Air Force working as a test pilot, after having spent 14 months as a prisoner of war and then sent home and put behind a desk.],
-sub-orbital spaceflight [Lincoln Bond is assigned to test pilot the rocket-powered X-2, which is designed to fly to the edge of outer space and back.],
-
-:: Minor Themes
-coping with being tortured [Major Lincoln Bond was captured during the Korean War and subjected to solitary confinement and psychological torture, finally cracking after 14 months and signing a confession used for propaganda.],
-war propaganda [North Koreans had extracted a confession from Major Lincoln Bond under torture and used it for propagandistic purposes.],
-trust in intentions vs. trust in judgement [Should Brigadier General Banner trust Lincoln Bond, whose test pilot skills are not in question, when he urges Banner that he is of sound enough mind to handle test piloting responsibilities?],
-alcohol abuse [Major Bromo had an alcoholic relapse.],
-
-
 movie: Fire Maidens from Outer Space (1956)
 ===========================================
 
@@ -2732,6 +2694,44 @@ interplanetary space travel [A team of astronauts flew to Jupiter's 13th moon in
 father and daughter [Praxis and his beautiful daughters.],
 the Greek gods [Prasus worshiped Aphrodite.],
 human sacrifice [Hestia was to be sacrifices to the sun god to appease him.],
+
+
+movie: Toward the Unknown (1956)
+================================
+
+:: Title
+Toward the Unknown
+
+:: Description
+A film about the dawn of supersonic flight filmed on location at Edwards Air
+Force Base.
+
+:: Date
+1956-10-20
+
+:: References
+https://en.wikipedia.org/wiki/Toward_the_Unknown
+
+:: Ratings
+1 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+romantic love [Lincoln Bond and Connie Mitchell.],
+old flames [Lincoln Bond and Connie Mitchell.],
+passion for flying [Major Lincoln Bond was fed up with paper pushing in Washing and sought to return to active duty as a test pilot. Brigadier General Banner was also passionate about test piloting.],
+love triangle [Lincoln Bond, Brigadier General Banner, and Connie Mitchell.],
+fighting one's inner demons [Lincoln Bond was scarred from his experiences as a prisoner of war during the Korean War.],
+belonging [Lincoln Bond felt at home in the Air Force working as a test pilot, after having spent 14 months as a prisoner of war and then sent home and put behind a desk.],
+sub-orbital spaceflight [Lincoln Bond is assigned to test pilot the rocket-powered X-2, which is designed to fly to the edge of outer space and back.],
+
+:: Minor Themes
+coping with being tortured [Major Lincoln Bond was captured during the Korean War and subjected to solitary confinement and psychological torture, finally cracking after 14 months and signing a confession used for propaganda.],
+war propaganda [North Koreans had extracted a confession from Major Lincoln Bond under torture and used it for propagandistic purposes.],
+trust in intentions vs. trust in judgement [Should Brigadier General Banner trust Lincoln Bond, whose test pilot skills are not in question, when he urges Banner that he is of sound enough mind to handle test piloting responsibilities?],
+alcohol abuse [Major Bromo had an alcoholic relapse.],
 
 
 movie: X the Unknown (1956)
@@ -3051,9 +3051,6 @@ factions joining forces against a common enemy [The nations of the world united 
 fiancée and fiancée [Laura Hutchinson and Brad.],
 fear [Laura Hutchinson was paralyzed with fear of heights while climbing down a rope ladder in a cavern.],
 
-:: Settings
-cavern,
-
 
 movie: The Vampire (1957)
 =========================
@@ -3284,55 +3281,8 @@ unrequited love [Dr. Terry Mason was initially reluctant to get romantically inv
 alternative medicine [The island witch doctor was afraid of the American scientists stationed there because he feared their Western medicine was more powerful than his traditional cures.],
 shamanism [The island people had a witch doctor that tried to conjure spirit monsters and so on.],
 
-:: Settings
-laboratory, jungle,
-
 :: Other Keywords
 treeman [],
-
-
-movie: The Brain from Planet Arous (1957)
-=========================================
-
-:: Title
-The Brain from Planet Arous
-
-:: Description
-An outer space terrorist from a planet named Arous, a brain-shaped creature
-named Gor arrives on Earth and possesses young scientist Steve March. Gor then
-proceeds to use his vast, destructive powers to bend the planet to his will,
-threatening to wipe out the capital city of any nation that dares to defy him.
-
-:: Date
-1957-10-01
-
-:: References
-https://en.wikipedia.org/wiki/The_Brain_from_Planet_Arous
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-brain-shaped being [A brain-shaped creature named Gor arrives on Earth and possesses young scientist Steve March.],
-what if a loved one became possessed by a malevolent entity [Sally Fallon's lover Steve March became possessed by a brain-shaped creature named Gor.],
-attack from outer space by a powerful conquering alien race [The brain-shaped alien Gor used its destructive powers to bent Earth to its will and threatened to wipe out the capital city of any nation that dared to defy him.],
-the lust for power [Gor lusted for power and plotted to enslave the Earth, build a fleet of spaceship, and conquer the universe.],
-romantic love [Steve March and Sally Fallon.],
-fiancée and fiancée [Steve March and Sally Fallon.],
-
-:: Minor Themes
-scientific experimentation [Steve March and Dan Murphy were experimenting with radiation in a test tube and beaker filled laboratory.],
-father and daughter [John Fallon and Sally Fallon.],
-the dangers of radioactivity [Steve March and Dan Murphy discussed the dangers of gamma radiation to the Human body. Gor killed people by exposing them to intense radiation.],
-
-:: Settings
-cavern, desert,
-
-:: Other Keywords
-atomic bomb test [],
 
 
 movie: The Invisible Boy (1957)
@@ -3373,6 +3323,47 @@ husband and wife [Tom Merrinoe and Mary Merrinoe.],
 bullying [Timmie got a shiner from a bully at school, but he got his revenge after Robby the Robot made him invisible.],
 
 
+movie: The Brain from Planet Arous (1957)
+=========================================
+
+:: Title
+The Brain from Planet Arous
+
+:: Description
+An outer space terrorist from a planet named Arous, a brain-shaped creature
+named Gor arrives on Earth and possesses young scientist Steve March. Gor then
+proceeds to use his vast, destructive powers to bend the planet to his will,
+threatening to wipe out the capital city of any nation that dares to defy him.
+
+:: Date
+1957-10-01
+
+:: References
+https://en.wikipedia.org/wiki/The_Brain_from_Planet_Arous
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+brain-shaped being [A brain-shaped creature named Gor arrives on Earth and possesses young scientist Steve March.],
+what if a loved one became possessed by a malevolent entity [Sally Fallon's lover Steve March became possessed by a brain-shaped creature named Gor.],
+attack from outer space by a powerful conquering alien race [The brain-shaped alien Gor used its destructive powers to bent Earth to its will and threatened to wipe out the capital city of any nation that dared to defy him.],
+the lust for power [Gor lusted for power and plotted to enslave the Earth, build a fleet of spaceship, and conquer the universe.],
+romantic love [Steve March and Sally Fallon.],
+fiancée and fiancée [Steve March and Sally Fallon.],
+
+:: Minor Themes
+scientific experimentation [Steve March and Dan Murphy were experimenting with radiation in a test tube and beaker filled laboratory.],
+father and daughter [John Fallon and Sally Fallon.],
+the dangers of radioactivity [Steve March and Dan Murphy discussed the dangers of gamma radiation to the Human body. Gor killed people by exposing them to intense radiation.],
+
+:: Other Keywords
+atomic bomb test [],
+
+
 movie: The Land Unknown (1957)
 ==============================
 
@@ -3409,9 +3400,6 @@ the need for adventure [Margaret Hathaway was determined and enthusiastic to joi
 hominid evolution [Harold Roberts explained how humans evolved from primates with stereoscopic vision, like the one Jack Carmen made into a pet while stranded in an Antarctic jungle.],
 human vs. captivity [Margaret Hathaway was held captive by Dr. Carl Hunter.],
 misanthropy [Dr. Carl Hunter wished to be left alone in the Antarctic jungle with his dinosaurs rather than return to live with people.],
-
-:: Settings
-Antarctica, ice sheet, open ocean, jungle, lagoon, cavern,
 
 :: Other Keywords
 dinosaur [],
@@ -3491,6 +3479,7 @@ romantic love [Dave Miller and Cathy Barrett.],
 
 :: Other Keywords
 meteor [],
+
 
 movie: Teenage Monster (1958)
 =============================
@@ -3615,9 +3604,6 @@ human vs. beast [The people versus a giant insects.],
 romantic love [Gil Graham and Michele Dupont.],
 flying saucer theory of UFOs [Smith came to Earth to interfere in its development for humankind's own good. When it became apparent he was an alien, remarks were made to the effect that the reports of flying saucers were true. Smith also controlled a saucer like craft.],
 flying saucer [Smith controlled a saucer like craft.],
-
-:: Settings
-woodland, tavern,
 
 :: Other Keywords
 mainframe computer [],
@@ -3861,9 +3847,6 @@ brother and brother [Ken and Bud Brewster.],
 mother and son [Anne Brewster and Ken and Bud Brewster.],
 telepathic being [The brain from outer space communicated telepathically with the children of a team of scientists.],
 father and daughter [Hank Johnson and Eadie Johnson.],
-
-:: Settings
-beach, cavern,
 
 
 movie: Teenage Caveman (1958)
@@ -4291,9 +4274,6 @@ misandry [Queen Yllana hated all men and held them responsible for the horribly 
 human vs. beast [Captain Patterson and his space crew were attacked by a giant beetle in the Venusian caverns],
 unrequited love [Queen Yllana at Captain Patterson.],
 
-:: Settings
-jungle, campfire, cavern,
-
 :: Other Keywords
 rocket ship [Captain Patterson and his space crew blasted off from Earth in a rocket ship and ended up carsh landing on Venus.],
 giant beetle [Captain Patterson and his space crew were attacked by a giant beetle in the Venusian caverns],
@@ -4569,9 +4549,6 @@ human vs. beast [The lunar landing party was attacked by a giant Moon spider whi
 unrequited love [Alpha wanted Steve Dayton to be her husband but he was happily engaged to June Saxton.],
 love triangle [Alpha wanted Steve Dayton to be her husband but he was happily engaged to June Saxton.],
 coping with a disability [Lido had gone blind.],
-
-:: Settings
-lunar regolith, cavern,
 
 :: Other Keywords
 rocket ship [],
@@ -4917,7 +4894,6 @@ remorse [Paul's mother Mrs. Hawthorne held herself responsible for letting Dr. S
 the dangers of radioactivity [Dr. Sinclair warned Joyce of the dangers of being exposed to gamma radiation for more than 30 seconds.],
 the desire for vengeance [Manon was intent on killing Paul after Paul rescued Joyce from his lecherous clutches.],
 self-healing ability [The human-alligator hybrid Paul was able to regenerate himself after sustaining physical injury.],
-
 
 
 movie: Plan 9 from Outer Space (1959)
@@ -5318,9 +5294,6 @@ human vs. beast [The expedition party was attacked by a family of dimetrodons.],
 Atlantis [The expedition party discovered the sunken ruins of Atlantis near the center of the Earth.],
 isolated prehistoric land [Professor Oliver Lindenbrook and his expedition party encountered dinosaurs in a region deep inside the Earth.]
 
-:: Settings
-19th century Scotland, cavern,
-
 
 movie: On the Beach (1959)
 ==========================
@@ -5395,9 +5368,6 @@ mind control technology [The aliens used a cranial implant to mind control Iwamu
 romantic love [Katsumiya and Etsuko.],
 sacrifice for a friend [Iwamura gave his live on the Moon fighting the aliens so that his crew mates could blast off in their rocket ship and return to Earth.],
 flying saucer [The aliens flew around in flying saucers.],
-
-:: Settings
-lunar regolith,
 
 :: Other Keywords
 rocket ship [The people of Earth united and built two large rocket ships to use in the fight against the aliens.],

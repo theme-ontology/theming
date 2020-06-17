@@ -1,22 +1,3 @@
-Collection: Science fiction films before 1920
-=============================================
-
-:: Title
-Science fiction films before 1920
-
-:: Date
-1895-1919
-
-:: Collections
-Collection: Science fiction films before 1920
-
-:: Description
-Science fiction films that premiered prior to 1 January 1920.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_films_before_1920
-
-
 movie: La Charcuterie mécanique (1895)
 ======================================
 
@@ -41,6 +22,25 @@ sci-fi
 
 :: Major Themes
 automatic butchering machine [a live pig in placed into a machine that automatically butchers it],
+
+
+Collection: Science fiction films before 1920
+=============================================
+
+:: Title
+Science fiction films before 1920
+
+:: Date
+1895-1919
+
+:: Collections
+Collection: Science fiction films before 1920
+
+:: Description
+Science fiction films that premiered prior to 1 January 1920.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_films_before_1920
 
 
 movie: Gugusse and the Automaton (1897)
@@ -379,51 +379,6 @@ what it is like to be homeless [the Martian makes Horace Parker experience first
 putting yourself in someone else's shoes [the Martian makes Horace Parker experience hardship firsthand],
 
 
-movie: 20000 Leagues Under the Sea (1916)
-=========================================
-
-:: Title
-20000 Leagues Under the Sea
-
-:: Description
-A film adaptation of the novel Twenty Thousand Leagues Under the Sea by Jules
-Verne.
-
-:: Date
-1916-12-24
-
-:: References
-https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1916_film)
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-voyage under the sea [Nemo built a super high-tech submarine to explore the ocean depths among other things.],
-submarine [Nemo built a super high-tech submarine to explore the ocean depths among other things.],
-the desire for vengeance [Nemo (a.k.a. Prince Daakar) was consumed with a desire for vengeance against Charles Denver over having attacked Princess Daaker during Denver's time as a colonial officer in India.],
-father and daughter [Nemo longed to meet his missing daughter who it turns out had grown up as a wild girl on an uninhabited island;  Arronax's daughter bid him a loving farewell before he left on his voyage.],
-human vs. captivity [Arronax aboard the Nautilus by Nemo.],
-passion for exploration [Nemo and Arronax exploring the wonders of the ocean depths.],
-confronting an old ghost [Charles Denver is literally confronted by the ghost of the Princess Daaker whom he attacked years ago and she stabbed herself rather than submit to him.],
-human vs. nature [Some Union soldiers ended up getting stranded on far-flung island with wild women after their hot air balloon crashes.],
-what if I were stranded on a deserted island [Some Union soldiers ended up getting stranded on far-flung island with wild women after their hot air balloon crashes.],
-
-:: Minor Themes
-human vs. beast [the US government sends a naval expedition to destroy a supposed sea monster that turned out to be Nemo's submarine. Union soldiers versus prowling beasts on island; Nemo and Arronax hunt a shark from the ocean floor.],
-feral children in society [Union soldiers find wild woman on island and proceed to civilize her],
-the thirst for knowledge [Nemo and Arronax studying what wonders lay on the ocean floor.],
-pleasure in nature [Nemo and Arronax beholding the wonders of the ocean floor and the creatures of the sea.],
-diving suit [Nemo and Arronax don diving suits to go on a hunt on the ocean floor.],
-pleasure in hunting [Nemo and Arronax delighted in hunting on the ocean floor.],
-colonialism [Nemo (a.k.a. Prince Daakar) describes British colonial rule made homeland of India a land of desolation.],
-husband and wife [flashback to Nemo (a.k.a. Prince Daakar) and his wife Princess Daakar suffering under British colonial rule.],
-cryptid [The US government organized a naval expedition to investigate reports of a sea monster.],
-
-
 movie: Tales of Hoffman (1916)
 ==============================
 
@@ -492,6 +447,51 @@ romantic love [Dina and Frank Stoll],
 :: Minor Themes
 the lust for gold [pair of traders prevent knowledge of the impending disaster from getting out to the public so they can make a killing in the stock market],
 the desire for vengeance [soldier sought revenge on Frank Stoll over Stoll having stolen his girlfriend Dina],
+
+
+movie: 20000 Leagues Under the Sea (1916)
+=========================================
+
+:: Title
+20000 Leagues Under the Sea
+
+:: Description
+A film adaptation of the novel Twenty Thousand Leagues Under the Sea by Jules
+Verne.
+
+:: Date
+1916-12-24
+
+:: References
+https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1916_film)
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+voyage under the sea [Nemo built a super high-tech submarine to explore the ocean depths among other things.],
+submarine [Nemo built a super high-tech submarine to explore the ocean depths among other things.],
+the desire for vengeance [Nemo (a.k.a. Prince Daakar) was consumed with a desire for vengeance against Charles Denver over having attacked Princess Daaker during Denver's time as a colonial officer in India.],
+father and daughter [Nemo longed to meet his missing daughter who it turns out had grown up as a wild girl on an uninhabited island;  Arronax's daughter bid him a loving farewell before he left on his voyage.],
+human vs. captivity [Arronax aboard the Nautilus by Nemo.],
+passion for exploration [Nemo and Arronax exploring the wonders of the ocean depths.],
+confronting an old ghost [Charles Denver is literally confronted by the ghost of the Princess Daaker whom he attacked years ago and she stabbed herself rather than submit to him.],
+human vs. nature [Some Union soldiers ended up getting stranded on far-flung island with wild women after their hot air balloon crashes.],
+what if I were stranded on a deserted island [Some Union soldiers ended up getting stranded on far-flung island with wild women after their hot air balloon crashes.],
+
+:: Minor Themes
+human vs. beast [the US government sends a naval expedition to destroy a supposed sea monster that turned out to be Nemo's submarine. Union soldiers versus prowling beasts on island; Nemo and Arronax hunt a shark from the ocean floor.],
+feral children in society [Union soldiers find wild woman on island and proceed to civilize her],
+the thirst for knowledge [Nemo and Arronax studying what wonders lay on the ocean floor.],
+pleasure in nature [Nemo and Arronax beholding the wonders of the ocean floor and the creatures of the sea.],
+diving suit [Nemo and Arronax don diving suits to go on a hunt on the ocean floor.],
+pleasure in hunting [Nemo and Arronax delighted in hunting on the ocean floor.],
+colonialism [Nemo (a.k.a. Prince Daakar) describes British colonial rule made homeland of India a land of desolation.],
+husband and wife [flashback to Nemo (a.k.a. Prince Daakar) and his wife Princess Daakar suffering under British colonial rule.],
+cryptid [The US government organized a naval expedition to investigate reports of a sea monster.],
 
 
 movie: A Trip to Mars (1918)

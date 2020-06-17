@@ -1,22 +1,3 @@
-Collection: Giant monster films
-===============================
-
-:: Title
-Giant monster films
-
-:: Date
-1933-2019
-
-:: Collections
-Collection: Giant monster films
-
-:: Description
-Films featuring giant monsters.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_films_featuring_giant_monsters
-
-
 movie: King Kong (1933)
 =======================
 
@@ -70,6 +51,25 @@ giant ape [King Kong.],
 
 :: Collections
 Collection: Science fiction films of the 1930s
+
+
+Collection: Giant monster films
+===============================
+
+:: Title
+Giant monster films
+
+:: Date
+1933-2019
+
+:: Collections
+Collection: Giant monster films
+
+:: Description
+Films featuring giant monsters.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_films_featuring_giant_monsters
 
 
 movie: Mighty Joe Young (1949)
@@ -329,6 +329,58 @@ giant tarantula [],
 Collection: Science fiction films of the 1950s
 
 
+movie: World Without End (1956)
+===============================
+
+:: Title
+World Without End
+
+:: Description
+A team of astronauts returning to Earth from a trip around Mars find their
+spaceship is somehow accelerated to incredible velocities, and they are
+knocked unconscious. Their ship crash lands on a snow-covered mountain. When
+they venture out, they discover that they have become victims of time dilation
+and are now in the future.
+
+:: Date
+1956-03-25
+
+:: References
+https://en.wikipedia.org/wiki/World_Without_End_(film)
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+time travel [A team of astronauts accelerate to an incredibly velocity while returning to Earth from Mars and find themselves in the future.],
+what if I found myself in the future [A team of astronauts return to Earth to find themselves in Earth's distant future.],
+nuclear holocaust [A nuclear conflagration in the year 2188 put an end to civilized life the Earth's surface.],
+subterranean civilization [A remnant of Human civilization took root in underground caverns.],
+mass infertility [The Humans living underground, perhaps the last people in the world, were in danger of going extinct because they were having trouble reproducing.],
+romantic love [John Borden and Garnet. Hank and Deema.],
+the dangers of unfettered scientific advancement [A nuclear conflagration in the year 2188 put an end to civilized life the Earth's surface.],
+
+:: Minor Themes
+interplanetary space travel [A team of astronauts go on a mission to fly around Mars and get reconnaissance on the red planet.],
+human vs. beast [The astronauts were attacked by the mutants and a giant mutant spider.],
+giant monster [The astronauts were attacked by the mutants and a giant mutant spider.],
+the dangers of radioactivity [Lingering radiation from a nuclear conflagration in 2188 caused surface dwelling people and animals to mutate into monstrous forms.],
+father and daughter [Timmek and Garnet.],
+romantic jealousy [Mories was jealous of Borden over Garnet.],
+slavery [The Humans living underground enslaved children of the mutants that were born Human.],
+what if I had to fight to the death [John Borden accepted a challenge from the mutant chief to fight to the death and won.],
+
+:: Other Keywords
+rocket ship [],
+giant spider [],
+
+:: Collections
+Collection: Science fiction films of the 1950s
+
+
 movie: The Beast of Hollow Mountain (1956)
 ==========================================
 
@@ -414,58 +466,6 @@ dinosaur [],
 Collection: Science fiction films of the 1950s
 
 
-movie: World Without End (1956)
-===============================
-
-:: Title
-World Without End
-
-:: Description
-A team of astronauts returning to Earth from a trip around Mars find their
-spaceship is somehow accelerated to incredible velocities, and they are
-knocked unconscious. Their ship crash lands on a snow-covered mountain. When
-they venture out, they discover that they have become victims of time dilation
-and are now in the future.
-
-:: Date
-1956-03-25
-
-:: References
-https://en.wikipedia.org/wiki/World_Without_End_(film)
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-time travel [A team of astronauts accelerate to an incredibly velocity while returning to Earth from Mars and find themselves in the future.],
-what if I found myself in the future [A team of astronauts return to Earth to find themselves in Earth's distant future.],
-nuclear holocaust [A nuclear conflagration in the year 2188 put an end to civilized life the Earth's surface.],
-subterranean civilization [A remnant of Human civilization took root in underground caverns.],
-mass infertility [The Humans living underground, perhaps the last people in the world, were in danger of going extinct because they were having trouble reproducing.],
-romantic love [John Borden and Garnet. Hank and Deema.],
-the dangers of unfettered scientific advancement [A nuclear conflagration in the year 2188 put an end to civilized life the Earth's surface.],
-
-:: Minor Themes
-interplanetary space travel [A team of astronauts go on a mission to fly around Mars and get reconnaissance on the red planet.],
-human vs. beast [The astronauts were attacked by the mutants and a giant mutant spider.],
-giant monster [The astronauts were attacked by the mutants and a giant mutant spider.],
-the dangers of radioactivity [Lingering radiation from a nuclear conflagration in 2188 caused surface dwelling people and animals to mutate into monstrous forms.],
-father and daughter [Timmek and Garnet.],
-romantic jealousy [Mories was jealous of Borden over Garnet.],
-slavery [The Humans living underground enslaved children of the mutants that were born Human.],
-what if I had to fight to the death [John Borden accepted a challenge from the mutant chief to fight to the death and won.],
-
-:: Other Keywords
-rocket ship [],
-giant spider [],
-
-:: Collections
-Collection: Science fiction films of the 1950s
-
-
 movie: Attack of the Crab Monsters (1957)
 =========================================
 
@@ -505,6 +505,43 @@ sacrifice for a friend [Hank sacrificed himself when killing the crab monster in
 Collection: Science fiction films of the 1950s
 
 
+movie: The Deadly Mantis (1957)
+===============================
+
+:: Title
+The Deadly Mantis
+
+:: Description
+A 200-foot-long praying mantis attacks Washington DC.
+
+:: Date
+1957-05-01
+
+:: References
+https://en.wikipedia.org/wiki/The_Deadly_Mantis
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+cryptid [A 200-foot-long praying mantis that was frozen in the North Polar ice cap is freed after a volcanic explosion.],
+human vs. beast [The people of Earth versus a 200-foot-long praying mantis.],
+giant monster [There was a 200-foot-long praying mantis.],
+romantic love [Marge Blaine and Joe Parkman.],
+
+:: Minor Themes
+passion for journalism [Marge Blaine would admittedly do almost anything to break the giant preying mantis story.],
+
+:: Other Keywords
+giant preying mantis [],
+
+:: Collections
+Collection: Science fiction films of the 1950s
+
+
 movie: 20 Million Miles to Earth (1957)
 =======================================
 
@@ -536,9 +573,6 @@ romantic love [Robert Calder and Marisa Leonardo.],
 :: Minor Themes
 interplanetary space travel [A rocket ship on the way back Venus crash lands to Earth with a reptile-like creature on boards. This was the first ever interplanetary spaceflight.],
 grandfather and granddaughter [Dr. Leonardo and Marisa Leonardo.],
-
-:: Settings
-Rome, Italian countryside, Colosseum,
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -578,11 +612,48 @@ teen romance [Jody Simms and Morty Beatty.],
 romantic love [Jody Simms and Morty Beatty.],
 disapproving parent [Mrs. Simms disapproved of her daughter Jody Simms running around with seaman Morty Beatty.],
 
-:: Settings
-open ocean, pear, beach, undersea, canal,
-
 :: Other Keywords
 giant mollusk [],
+
+:: Collections
+Collection: Science fiction films of the 1950s
+
+
+movie: The Giant Claw (1957)
+============================
+
+:: Title
+The Giant Claw
+
+:: Description
+A UFO turns out to be a battleship-sized, city attacking bird.
+
+:: Date
+1957-06
+
+:: References
+https://en.wikipedia.org/wiki/The_Giant_Claw
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+avian being [The bird creature was surmised to have come from an anti-matter galaxy from from Earth.],
+invasive life form from outer space [A giant bird from another galaxy terrorized the Earth.],
+human vs. beast [The people of Manhattan versus a giant, menacing bird.],
+giant monster [The people of Manhattan were attacked by a giant, menacing bird.],
+romantic love [Mitch MacAfee and Sally Caldwell.],
+
+:: Minor Themes
+flying saucer theory of UFOs [A UFO turned out to be a giant, menacing bird that could fly at supersonic speeds.],
+the science of antimatter [A scientist briefed military brass about anti-matter and its explosive relation to ordinary matter and how the giant bird used an anti-matter shield to defend itself.],
+mass hysteria [Mass hysteria gripped the Earth once news of the giant bird creature reached the people.],
+
+:: Other Keywords
+giant bird [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -634,89 +705,6 @@ atom bomb [],
 Collection: Science fiction films of the 1950s
 
 
-movie: The Deadly Mantis (1957)
-===============================
-
-:: Title
-The Deadly Mantis
-
-:: Description
-A 200-foot-long praying mantis attacks Washington DC.
-
-:: Date
-1957-05-01
-
-:: References
-https://en.wikipedia.org/wiki/The_Deadly_Mantis
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-cryptid [A 200-foot-long praying mantis that was frozen in the North Polar ice cap is freed after a volcanic explosion.],
-human vs. beast [The people of Earth versus a 200-foot-long praying mantis.],
-giant monster [There was a 200-foot-long praying mantis.],
-romantic love [Marge Blaine and Joe Parkman.],
-
-:: Minor Themes
-passion for journalism [Marge Blaine would admittedly do almost anything to break the giant preying mantis story.],
-
-:: Settings
-North Pole, snowy wasteland, airfield, cockpit,
-
-:: Other Keywords
-giant preying mantis [],
-
-:: Collections
-Collection: Science fiction films of the 1950s
-
-
-movie: The Giant Claw (1957)
-============================
-
-:: Title
-The Giant Claw
-
-:: Description
-A UFO turns out to be a battleship-sized, city attacking bird.
-
-:: Date
-1957-06
-
-:: References
-https://en.wikipedia.org/wiki/The_Giant_Claw
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-avian being [The bird creature was surmised to have come from an anti-matter galaxy from from Earth.],
-invasive life form from outer space [A giant bird from another galaxy terrorized the Earth.],
-human vs. beast [The people of Manhattan versus a giant, menacing bird.],
-giant monster [The people of Manhattan were attacked by a giant, menacing bird.],
-romantic love [Mitch MacAfee and Sally Caldwell.],
-
-:: Minor Themes
-flying saucer theory of UFOs [A UFO turned out to be a giant, menacing bird that could fly at supersonic speeds.],
-the science of antimatter [A scientist briefed military brass about anti-matter and its explosive relation to ordinary matter and how the giant bird used an anti-matter shield to defend itself.],
-mass hysteria [Mass hysteria gripped the Earth once news of the giant bird creature reached the people.],
-
-:: Settings
-cockpit, airfield,
-
-:: Other Keywords
-giant bird [],
-
-:: Collections
-Collection: Science fiction films of the 1950s
-
-
 movie: The Cyclops (1957)
 =========================
 
@@ -748,9 +736,6 @@ cryptid [The expedition party encountered a variety of giant animals deep in the
 human vs. nature [The expedition party in the Mexican jungle.],
 giant person [Bruce Barton had transformed into a giant cyclops.],
 giant monster [Bruce Barton had transformed into a giant cyclops.],
-
-:: Settings
-Mexico, jungle,
 
 :: Other Keywords
 cyclops [],
@@ -794,9 +779,6 @@ giant monster [There were giant scorpions.],
 
 :: Minor Themes
 scientific experimentation [Dr. Delacruz studying bacteria in his test tube and beaker filled laboratory.],
-
-:: Settings
-Mexican countryside, nightclub, stadium,
 
 :: Other Keywords
 giant scorpion [],
@@ -975,9 +957,6 @@ coping with the death of a parent [Carol Flynn grieved over the death of her fat
 remorse [Carol Flynn blamed herself for her father's apparent death.],
 beating one's self up [Carol Flynn blamed herself for her father's apparent death.],
 
-:: Settings
-cavern,
-
 :: Other Keywords
 giant tarantula [],
 
@@ -1018,11 +997,55 @@ giant monster [There were giant mutated wasps.],
 father and daughter [Lorna Lorentz and Dr. Lorentz.],
 human vs. nature [Dr. Quent Brady and his expedition party tracked through the woods to find the region known as the Green Hell where the mutated wasps dwelled.],
 
-:: Settings
-woodland, African village, campfire, cavern,
-
 :: Other Keywords
 giant wasp [],
+
+:: Collections
+Collection: Science fiction films of the 1950s
+
+
+movie: Teenagers from Outer Space (1959)
+========================================
+
+:: Title
+Teenagers from Outer Space
+
+:: Description
+Alien teenager Derek abandons his crew to search for a new life on Earth,
+while one of his crewmates is sent to kill him while they attempt to eradicate
+human life in order to farm Earth with giant lobster-like livestock they call
+Gargons.
+
+:: Date
+1959-06
+
+:: References
+https://en.wikipedia.org/wiki/Teenagers_from_Outer_Space
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+attack from outer space by a powerful conquering alien race [An alien spaceship comes to Earth while searching for a planet suitable to raise Gargons, a lobster-like but air-breathing creature that is a delicacy on their home world.],
+alien secretly living among us [The teenage alien Derek escaped from his flying saucer and rented a room from an American family.],
+grandfather and granddaughter [Gramps Morgan and Betty Morgan.],
+romantic love [Derek and Betty Morgan.],
+human vs. beast [The humans versus the man-eating Gargons.],
+duty vs. love [Should Derek stay on Earth with Betty and not succeed his father as ruler of his people?],
+having a preconception challenged [Derek's mind was opened to the dark side of his civilization because of the influences of a subversive little book.],
+giant monster [There were giant lobster-like but air-breathing creatures.],
+
+:: Minor Themes
+flying saucer theory of UFOs [Reporter Joe Rogers investigated flying saucer sightings in the town.],
+death ray [Thor used a disintegrator ray gun that turned people into skeletons.],
+father and son [Derek was the son of the alien leader.],
+flying saucer [The aliens used flying saucers.],
+
+:: Other Keywords
+giant lobster [],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1063,88 +1086,6 @@ fiancée and fiancée [Ann Cragis broke off her engagement with Jerry Farrell.],
 
 :: Other Keywords
 giant shrew [],
-
-:: Collections
-Collection: Science fiction films of the 1950s
-
-
-movie: Space Invasion of Lapland (1959)
-=======================================
-
-:: Title
-Space Invasion of Lapland
-
-:: Description
-Aliens land in Lapland and unleash a large creature on the local people.
-
-:: Date
-1959-08-19
-
-:: References
-https://en.wikipedia.org/wiki/Space_Invasion_of_Lapland
-
-:: Ratings
-2 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-attack from outer space by a powerful conquering alien race [Space alien invade Lapland.],
-romantic love [Erik Engström and Diane Wilson.],
-uncle and niece [Dr. Frederick Wilson and Diane Wilson.],
-human vs. beast [The people versus an enormously tall, hairy biped creature, with powerful jaws, tusks, and large round feet.],
-giant monster [There was an enormously tall, hairy biped creature, with powerful jaws, tusks, and large round feet.],
-
-:: Settings
-snowy mountain, snow covered plain,
-
-:: Other Keywords
-meteor [],
-giant beast [],
-
-:: Collections
-Collection: Science fiction films of the 1950s
-
-
-movie: Attack of the Giant Leeches (1959)
-=========================================
-
-:: Title
-Attack of the Giant Leeches
-
-:: Description
-In the Florida Everglades, a pair of larger-than-human, intelligent leeches
-live in an underwater cave. They begin dragging locals down to their cave,
-where they slowly feed on them, draining their victims of blood.
-
-:: Date
-1959-10
-
-:: References
-https://en.wikipedia.org/wiki/Attack_of_the_Giant_Leeches
-
-:: Ratings
-1 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-romantic love [Steve Benton and Nan Greyson.],
-human vs. beast [The local Florida Everglades people versus the intelligent, giant leeches.],
-the dangers of radioactivity [Doc Grayson speculated that the intelligent, giant leeches were produced as a result of regular leeches being exposed to radiation.],
-giant monster [There were giant leeches.],
-
-:: Minor Themes
-disintegrating romantic relationship [Liz Walker's marriage to "fat pig" Dave Walker was on the rocks.],
-husband and wife [Dave Walker and Liz Walker.],
-romantic infidelity [Liz Walker was cheating on her "fat pig" husband Dave with Cal Moulton.],
-romantic jealousy [Dave Walker was murderously jealous of Cal Moulton over his having an affair with his wife Liz.],
-father and daughter [Doc Greyson and Nan Greyson.],
-
-:: Other Keywords
-giant leech [There were giant leeches.],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1195,48 +1136,80 @@ extemporaneous song and verse [],
 Collection: Science fiction films of the 1950s
 
 
-movie: Teenagers from Outer Space (1959)
-========================================
+movie: Space Invasion of Lapland (1959)
+=======================================
 
 :: Title
-Teenagers from Outer Space
+Space Invasion of Lapland
 
 :: Description
-Alien teenager Derek abandons his crew to search for a new life on Earth,
-while one of his crewmates is sent to kill him while they attempt to eradicate
-human life in order to farm Earth with giant lobster-like livestock they call
-Gargons.
+Aliens land in Lapland and unleash a large creature on the local people.
 
 :: Date
-1959-06
+1959-08-19
 
 :: References
-https://en.wikipedia.org/wiki/Teenagers_from_Outer_Space
+https://en.wikipedia.org/wiki/Space_Invasion_of_Lapland
 
 :: Ratings
-4 <paul>,
+2 <paul>,
 
 :: Genre
 sci-fi
 
 :: Major Themes
-attack from outer space by a powerful conquering alien race [An alien spaceship comes to Earth while searching for a planet suitable to raise Gargons, a lobster-like but air-breathing creature that is a delicacy on their home world.],
-alien secretly living among us [The teenage alien Derek escaped from his flying saucer and rented a room from an American family.],
-grandfather and granddaughter [Gramps Morgan and Betty Morgan.],
-romantic love [Derek and Betty Morgan.],
-human vs. beast [The humans versus the man-eating Gargons.],
-duty vs. love [Should Derek stay on Earth with Betty and not succeed his father as ruler of his people?],
-having a preconception challenged [Derek's mind was opened to the dark side of his civilization because of the influences of a subversive little book.],
-giant monster [There were giant lobster-like but air-breathing creatures.],
-
-:: Minor Themes
-flying saucer theory of UFOs [Reporter Joe Rogers investigated flying saucer sightings in the town.],
-death ray [Thor used a disintegrator ray gun that turned people into skeletons.],
-father and son [Derek was the son of the alien leader.],
-flying saucer [The aliens used flying saucers.],
+attack from outer space by a powerful conquering alien race [Space alien invade Lapland.],
+romantic love [Erik Engström and Diane Wilson.],
+uncle and niece [Dr. Frederick Wilson and Diane Wilson.],
+human vs. beast [The people versus an enormously tall, hairy biped creature, with powerful jaws, tusks, and large round feet.],
+giant monster [There was an enormously tall, hairy biped creature, with powerful jaws, tusks, and large round feet.],
 
 :: Other Keywords
-giant lobster [],
+meteor [],
+giant beast [],
+
+:: Collections
+Collection: Science fiction films of the 1950s
+
+
+movie: Attack of the Giant Leeches (1959)
+=========================================
+
+:: Title
+Attack of the Giant Leeches
+
+:: Description
+In the Florida Everglades, a pair of larger-than-human, intelligent leeches
+live in an underwater cave. They begin dragging locals down to their cave,
+where they slowly feed on them, draining their victims of blood.
+
+:: Date
+1959-10
+
+:: References
+https://en.wikipedia.org/wiki/Attack_of_the_Giant_Leeches
+
+:: Ratings
+1 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+romantic love [Steve Benton and Nan Greyson.],
+human vs. beast [The local Florida Everglades people versus the intelligent, giant leeches.],
+the dangers of radioactivity [Doc Grayson speculated that the intelligent, giant leeches were produced as a result of regular leeches being exposed to radiation.],
+giant monster [There were giant leeches.],
+
+:: Minor Themes
+disintegrating romantic relationship [Liz Walker's marriage to "fat pig" Dave Walker was on the rocks.],
+husband and wife [Dave Walker and Liz Walker.],
+romantic infidelity [Liz Walker was cheating on her "fat pig" husband Dave with Cal Moulton.],
+romantic jealousy [Dave Walker was murderously jealous of Cal Moulton over his having an affair with his wife Liz.],
+father and daughter [Doc Greyson and Nan Greyson.],
+
+:: Other Keywords
+giant leech [There were giant leeches.],
 
 :: Collections
 Collection: Science fiction films of the 1950s
@@ -1480,7 +1453,7 @@ https://en.wikipedia.org/wiki/Frankenstein_Conquers_the_World
 2 <paul>,
 
 :: Genre
-sci-fi, kaiju, 
+sci-fi, kaiju,
 
 :: Major Themes
 giant person [There was a 20 foot tall Frankenstein monster.],
@@ -1737,9 +1710,5 @@ giant turtle [The island visitors were attacked by a giant jungle turtle.],
 
 :: Collections
 Collection: Science fiction films of the 1970s
-
-
-
-
 
 

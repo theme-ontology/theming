@@ -1,23 +1,3 @@
-Collection: Science fiction films of the 1920s
-==============================================
-
-:: Title
-Science fiction films of the 1920s
-
-:: Date
-1920-1929
-
-:: Collections
-Collection: Science fiction films of the 1920s
-
-:: Description
-Science fiction films that premiered between 1 January 1920 and 31 December
-1929.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1920s
-
-
 movie: Dr. Jekyll and Mr. Hyde (1920 II)
 ========================================
 
@@ -142,6 +122,26 @@ mother and son [Maria Obal and Peter Hell],
 boyfriend and girlfriend [Robert Herne and Maria Obal had a falling out after Robert begins opening new bio-factories],
 
 
+Collection: Science fiction films of the 1920s
+==============================================
+
+:: Title
+Science fiction films of the 1920s
+
+:: Date
+1920-1929
+
+:: Collections
+Collection: Science fiction films of the 1920s
+
+:: Description
+Science fiction films that premiered between 1 January 1920 and 31 December
+1929.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1920s
+
+
 movie: The Mechanical Man (1921)
 ================================
 
@@ -251,6 +251,47 @@ unrequited love [Janet Oglethorpe at Lee Clavering.],
 flappers in society [Janet Oglethorpe faced criticism over the wild flapper lifestyle she led.],
 
 
+movie: The Hands of Orlac (1924)
+================================
+
+:: Title
+The Hands of Orlac
+
+:: Description
+Concert pianist Paul Orlac gets more than he bargained for when he is
+transplanted with the hands of a man executed for murder, after he loses his
+hands in a horrible railway accident.
+
+:: Date
+1924-05-06
+
+:: References
+https://en.wikipedia.org/wiki/The_Hands_of_Orlac_(1924_film)
+
+:: Ratings
+5 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+what if I had an evil hand [Paul Orlac's transplanted hands seem to have a mind of their own.],
+obsession [Paul Orlac becomes obsessed with the notions that his transplanted hands have a mind of their own],
+descent into madness [Paul Orlac is driven mad by machinations over his transplanted hands],
+husband and wife [Paul Orlac and Yvonne Orlac],
+romantic love [Paul Orlac and Yvonne Orlac],
+coping with the loss of one's livelihood [Concert pianist Paul Orlac is devastated after losing his hands and not being able to play the piano anymore],
+human vs. self [Paul Orlac is driven mad by machinations over his transplanted hands],
+
+:: Minor Themes
+hand transplant [Paul Orlac is transplanted with the hands of an executed murderer],
+passion for music [Concert pianist Paul Orlac is devastated after losing his hands and not being able to play the piano anymore],
+facing being evicted from one's home [Paul and Yvonne Orlac fall into financial ruin after he loses his career as a concert pianist and get evicted],
+father and son [Paul Orlac's wealthy father refused to help his son financially because he hated him],
+blackmail in society [The crook Nera pretended to be the executed murderer Vasseur in an attempt to blackmail Paul Orlac.],
+what if I were being blackmailed [The crook Nera pretended to be the executed murderer Vasseur in an attempt to blackmail Paul Orlac.],
+
+
 movie: Aelita (1924)
 ====================
 
@@ -300,47 +341,6 @@ rebuilding society after war [the rebuilding and industrialization of Russia aft
 the Russian Revolution of 1905 [People were seen celebrating the October Revolution of the Bolsheviks in the streets.],
 
 
-movie: The Hands of Orlac (1924)
-================================
-
-:: Title
-The Hands of Orlac
-
-:: Description
-Concert pianist Paul Orlac gets more than he bargained for when he is
-transplanted with the hands of a man executed for murder, after he loses his
-hands in a horrible railway accident.
-
-:: Date
-1924-05-06
-
-:: References
-https://en.wikipedia.org/wiki/The_Hands_of_Orlac_(1924_film)
-
-:: Ratings
-5 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-what if I had an evil hand [Paul Orlac's transplanted hands seem to have a mind of their own.],
-obsession [Paul Orlac becomes obsessed with the notions that his transplanted hands have a mind of their own],
-descent into madness [Paul Orlac is driven mad by machinations over his transplanted hands],
-husband and wife [Paul Orlac and Yvonne Orlac],
-romantic love [Paul Orlac and Yvonne Orlac],
-coping with the loss of one's livelihood [Concert pianist Paul Orlac is devastated after losing his hands and not being able to play the piano anymore],
-human vs. self [Paul Orlac is driven mad by machinations over his transplanted hands],
-
-:: Minor Themes
-hand transplant [Paul Orlac is transplanted with the hands of an executed murderer],
-passion for music [Concert pianist Paul Orlac is devastated after losing his hands and not being able to play the piano anymore],
-facing being evicted from one's home [Paul and Yvonne Orlac fall into financial ruin after he loses his career as a concert pianist and get evicted],
-father and son [Paul Orlac's wealthy father refused to help his son financially because he hated him],
-blackmail in society [The crook Nera pretended to be the executed murderer Vasseur in an attempt to blackmail Paul Orlac.],
-what if I were being blackmailed [The crook Nera pretended to be the executed murderer Vasseur in an attempt to blackmail Paul Orlac.],
-
-
 movie: The Crazy Ray (1924)
 ===========================
 
@@ -370,44 +370,6 @@ mad scientist stereotype [A mad scientist invented an apparatus that he used to 
 
 :: Minor Themes
 uncle and nephew [the mad scientist was betrayed by his nephew assistant],
-
-
-movie: The Lost World (1925)
-============================
-
-:: Title
-The Lost World
-
-:: Description
-An expedition to South America discovers a land were dinosaurs and other
-prehistoric creatures still roam the Earth.
-
-:: Date
-1925-02-05
-
-:: References
-https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-isolated prehistoric land [An expedition to South America discovers a plateau were dinosaurs and other prehistoric creatures still roam the Earth.],
-living dinosaur [reputable scientists scoffed at the notion that dinosaurs still roamed the Earth],
-cryptid [expedition through uncharted territory in South America to find living dinosaurs],
-the need for adventure [fame explorer Sir John Roxton sets out on an expedition to verify whether reports of live dinosaurs existing in South America are true],
-human vs. beast [expedition party versus dinosaurs among other beasts; brontosaurus in an uproar on the streets of London],
-human vs. nature [expedition through uncharted territory in South America to find living dinosaurs],
-romantic love [Edward Malone and Paula White fall in love on the expedition],
-father and daughter [Paul White organizes expedition to find her father the explorer Maple White],
-passion for exploration [expedition people to explore the Amazon],
-
-:: Minor Themes
-fiancée and fiancée [Edward Malone goes on perilous expedition to impress his fiancée Gladys],
-love triangle [Paula White, Edward Malone, and Gladys],
 
 
 movie: The Death Ray (1925)
@@ -446,6 +408,44 @@ social oppression [Workers were exploited in a factory. Fascist factory owners o
 
 :: Minor Themes
 scientific experimentation [Podobed conducts elaborate experiments in his lab in the inventing of the death ray],
+
+
+movie: The Lost World (1925)
+============================
+
+:: Title
+The Lost World
+
+:: Description
+An expedition to South America discovers a land were dinosaurs and other
+prehistoric creatures still roam the Earth.
+
+:: Date
+1925-02-05
+
+:: References
+https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+isolated prehistoric land [An expedition to South America discovers a plateau were dinosaurs and other prehistoric creatures still roam the Earth.],
+living dinosaur [reputable scientists scoffed at the notion that dinosaurs still roamed the Earth],
+cryptid [expedition through uncharted territory in South America to find living dinosaurs],
+the need for adventure [fame explorer Sir John Roxton sets out on an expedition to verify whether reports of live dinosaurs existing in South America are true],
+human vs. beast [expedition party versus dinosaurs among other beasts; brontosaurus in an uproar on the streets of London],
+human vs. nature [expedition through uncharted territory in South America to find living dinosaurs],
+romantic love [Edward Malone and Paula White fall in love on the expedition],
+father and daughter [Paul White organizes expedition to find her father the explorer Maple White],
+passion for exploration [expedition people to explore the Amazon],
+
+:: Minor Themes
+fiancée and fiancée [Edward Malone goes on perilous expedition to impress his fiancée Gladys],
+love triangle [Paula White, Edward Malone, and Gladys],
 
 
 movie: Metropolis (1927)

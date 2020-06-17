@@ -1,22 +1,3 @@
-Collection: Alien
-=================
-
-:: Title
-Alien
-
-:: Date
-1979-2017
-
-:: Collections
-Collection: Alien
-
-:: Description
-The six feature films to date in the Alien franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Alien_(franchise)#Films
-
-
 movie: Alien (1979)
 ===================
 
@@ -59,11 +40,30 @@ compassion vs. public safety [Should Ripley open the hatch to let a parasitized 
 clash of wills [Ripley clashed with various crew members over how to go about killing the Alien.],
 android [Ash turned out to be an android.],
 spaceship [The film was set aboard the vessel Nostromo.],
-the calculus of human life [Should Ripley open the hatch to let a parasitized crewman back in the ship when doing so might endanger the lives of the rest of the crew?], 
+the calculus of human life [Should Ripley open the hatch to let a parasitized crewman back in the ship when doing so might endanger the lives of the rest of the crew?],
 
 :: Collections
 Collection: Science fiction films of the 1970s,
 Collection: Time Out magazine's Top100 films
+
+
+Collection: Alien
+=================
+
+:: Title
+Alien
+
+:: Date
+1979-2017
+
+:: Collections
+Collection: Alien
+
+:: Description
+The six feature films to date in the Alien franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Alien_(franchise)#Films
 
 
 movie: Aliens (1986)

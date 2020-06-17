@@ -1,23 +1,3 @@
-Collection: Science fiction films of the 1960s
-==============================================
-
-:: Title
-Science fiction films of the 1960s
-
-:: Date
-1960-1969
-
-:: Collections
-Collection: Science fiction films of the 1960s
-
-:: Description
-Science fiction films that premiered between 1 January 1960 and 31 December
-1969.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1960s
-
-
 movie: The Amazing Transparent Man (1960)
 =========================================
 
@@ -238,9 +218,6 @@ nuclear power [The crew flew to the Moon in an atomic powered rocket ship and th
 selfless service [David and Erich sacrificed themselves detonating an atomic to save the rest of the crew.],
 suspended animation [The Moon inhabitants put the people of Earth into suspended animation for 60 hours.],
 
-:: Settings
-lunar regolith, cavern,
-
 :: Other Keywords
 rocket ship [],
 meteor [],
@@ -287,9 +264,6 @@ female independence [Jennifer Holmes insisted that she be allowed to join the ex
 master and pet [Jennifer Holmes and her pet dog Frosty.],
 the lust for gold [Manuel Gomez and Costa were preoccupied with getting off the plateau with a hoard of diamonds.],
 the desire for vengeance [It became apparent near the film's conclusion that Manuel Gomez had been motivated all along by a desire to take vengeance on Lord John Roxton over the death of his brother.],
-
-:: Settings
-jungle, cavern,
 
 :: Other Keywords
 dinosaur [],
@@ -487,9 +461,6 @@ the lust for gold [Mike Hacker was motivated by a desire to use the tyrannosauru
 unrequited love [Mike Hacker at Chica.],
 sacrifice for a friend [The caveman sacrificed himself to hold up a beam in a collapsing cave to give his friends enough time to escape.],
 
-:: Settings
-jungle, cavern, beach,
-
 :: Other Keywords
 dinosaur [],
 caveman [],
@@ -609,9 +580,6 @@ spaceship [William Blood flew to what appeared to be the Moon in a nuclear power
 nuclear power [William Blood flew to what appeared to be the Moon in a nuclear powered rocket ship.],
 spacesuit [William Blood ventured around on what he thought to be the Moon in a spacesuit with weighted boots.],
 
-:: Settings
-lunar regolith,
-
 :: Other Keywords
 rocket ship [],
 
@@ -716,6 +684,26 @@ unrequited love [Mizuno, the Vapor Man, loved Fujichiyo Kasuga but she did not a
 unethical human experimentation [Professor Sano used Mizuno as a guinea pie to test his human to gas machine.],
 
 
+Collection: Science fiction films of the 1960s
+==============================================
+
+:: Title
+Science fiction films of the 1960s
+
+:: Date
+1960-1969
+
+:: Collections
+Collection: Science fiction films of the 1960s
+
+:: Description
+Science fiction films that premiered between 1 January 1960 and 31 December
+1969.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1960s
+
+
 movie: Battle of the Worlds (1961)
 ==================================
 
@@ -795,9 +783,6 @@ mad scientist stereotype [Dr. Peter Blood was transplanting hearts from living p
 unethical human experimentation [Dr. Peter Blood's professor in Vienna warned Peter that he would alert the authorities if he continued with his heart transplant experiments with people before trying them first on animals.],
 human vs. zombie [Dr. Peter Blood turned Steve Parker into a zombie in an attempt to revive him from the dead. The zombie then tried to kill him.],
 zombie [Dr. Peter Blood turned Steve Parker into a zombie in an attempt to revive him from the dead.],
-
-:: Settings
-cavern,
 
 
 movie: Master of the World (1961)
@@ -1098,9 +1083,6 @@ coping with a disability [Helen Cooper was blind.],
 female independence [Mathematician Marcia Paxton told Tom Endicott that she wasn't interested in getting married and didn't need to depend on a man.],
 what it is like in a legal proceeding [Eminent scientist Dr Carl Morris, mathematician Marcia Paxton, and rocket scientist Tom Endicott were frozen in time and put on trial in the future for their part in designing a bomb that has destroyed all life on Earth.],
 what if I had to spend eternity in limbo [Three scientists were were frozen in time and put on trial in the future for their part in designing a bomb that has destroyed all life on Earth. If found guilty, they would be condemned to remain frozen suspended in time for all eternity.],
-
-:: Settings
-airplane,
 
 :: Other Keywords
 airplane disappearance [],
@@ -1498,7 +1480,7 @@ nuclear weapons [A group of people stopped at a roadblock soon came to the stark
 
 :: Minor Themes
 grandfather and granddaughter [Gramps and her beloved granddaughter Juney.],
-dangerous driving in society [Joe told his "chick" that she'd soon lose her driver's license if she kept driving over the speed limit.], 
+dangerous driving in society [Joe told his "chick" that she'd soon lose her driver's license if she kept driving over the speed limit.],
 mass hysteria [The people stopped at the roadblock discussed among themselves about the panic that must have been going on inside the city. A group of looters later confirmed their suspicious.],
 the dangers of radioactivity [The policeman warned that the radiation after a nuclear blast could persist at dangerous levels for two weeks.],
 claustrophobia [Juney insisted that she couldn't wait out with the others in the back of a tractor trailer because she was afraid of being in confined spaces.],
@@ -2972,7 +2954,7 @@ movie: City Under the Sea (1965)
 City Under the Sea
 
 :: Description
-Around the turn of the century, a lost city beneath the sea off the coast of Cornwall. 
+Around the turn of the century, a lost city beneath the sea off the coast of Cornwall.
 
 :: Date
 1965-06
@@ -3465,7 +3447,7 @@ movie: Women of the Prehistoric Planet (1966)
 Women of the Prehistoric Planet
 
 :: Description
-A spacefaring crew from an advanced civilization is preparing to return home after an extended voyage. 
+A spacefaring crew from an advanced civilization is preparing to return home after an extended voyage.
 
 :: Date
 1966-04-15
@@ -4468,6 +4450,32 @@ hovercar [The astronauts got around on the surface of Venus in a hover car.],
 living dinosaur [The astronauts were attacked by a pterosaur.],
 
 
+movie: The Destructors (1968)
+=============================
+
+:: Title
+The Destructors
+
+:: Description
+A team of government agents are sent on a mission to protect "laser rubies" from foreign agents who wish to use them to make a special kind of laser beam.
+
+:: Date
+1968-01
+
+:: References
+https://en.wikipedia.org/wiki/The_Destructors_(film)
+
+:: Ratings
+1 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+
+:: Minor Themes
+
+
 movie: The Strange Case of Dr. Jekyll and Mr. Hyde (1968)
 =========================================================
 
@@ -4506,33 +4514,6 @@ master and servant [Dr. Jekyll/Mr. Hyde has some passing interactions with his b
 jealousy [Mr. Hyde physically assaulted a woman he was seeing while in a jealous rage.],
 murder in society [The police were after Mr. Hyde for the murder of Stryker and Gwen.],
 friendship [Dr. Jekyll confided in his old friend George when he needed help evading the authorities.],
-
-
-movie: The Destructors (1968)
-=============================
-
-:: Title
-The Destructors
-
-:: Description
-A team of government agents are sent on a mission to protect "laser rubies" from foreign agents who wish to use them to make a special kind of laser beam.
-
-:: Date
-1968-01
-
-:: References
-https://en.wikipedia.org/wiki/The_Destructors_(film)
-
-:: Ratings
-1 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-
-:: Minor Themes
-
 
 
 movie: Countdown (1968)
@@ -5096,7 +5077,7 @@ movie: Night of the Bloody Apes (1969)
 Night of the Bloody Apes
 
 :: Description
-A mad scientist transplants a gorilla's heart into his dying son, saving his life but transforming him into a monstrous, ape-like creature who embarks on a rape and murder spree before being brought to justice by a female professional wrestler. 
+A mad scientist transplants a gorilla's heart into his dying son, saving his life but transforming him into a monstrous, ape-like creature who embarks on a rape and murder spree before being brought to justice by a female professional wrestler.
 
 :: Date
 1969-02-06
@@ -5122,6 +5103,44 @@ mad scientist stereotype [Unwilling to accept his son's death, Dr. Krellman atte
 remorse [Professional wrestler Lucy Osorio felt guilty for having fractured her opponent's skull in a wrestling match.],
 romantic love [Lt. Arturo Martinez and Lucy Osorio.],
 playing God with nature [Dr. Krellman ultimately explained to Julio how he had acted against the dictates of God when he transplanted that gorilla's heart into Julio's body.],
+
+
+movie: A Time of Roses (1969)
+=============================
+
+:: Title
+A Time of Roses
+
+:: Description
+In the year 2021, an innocent girl glamor model legend and a journalist tries to find out her true essence for a biography.
+
+:: Date
+1969-02-07
+
+:: References
+https://en.wikipedia.org/wiki/Time_of_Roses
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+historical revisionism [Raimo Lappalainen rewrote Saara Turunen's place in history.],
+what if I met my double [Kisse Haavisto was the spitting image of Saara Turunen, a glamor model who died in a traffic incident in 1976.],
+personal identity [Raimo sometimes confounded Kisse's identity with that of Saara.],
+romantic love [Raimo Lappalainen and Kisse Haavisto.],
+boyfriend and girlfriend [Raimo Lappalainen and Kisse Haavisto.],
+communism [A point was made several times about how class distinctions had been abolished in Finland. Kisse's colleague organized a strike at the factor and explained how now people were being given only the weeds but that the world is rich and there was enough so that there could be roses for all.],
+
+:: Minor Themes
+the Internet [There was a system much like the Internet except that searches were performed by sending requests to humans at a Central Authority.],
+open sexuality in society [There was a ball game played at the factory where players kissed and hugged.],
+labor strikes in society [The factory technicians organized a strike.],
+coping with a disability [The head of the History Institute lamented having gone blind.],
+suspended animation [A scientist described how 27,000 people put themselves in suspended animation in wait of a brighter future.],
+mind uploading [A scientist explained how people in suspended animation may one day have their minds transfered into computers.],
 
 
 movie: Gamera vs Guiron (1969)
@@ -5209,6 +5228,38 @@ Venusian extraterrestrial [The astronauts in the "The Long Rain" subplot found a
 romantic love [Carl and Felicia.],
 
 
+movie: The Man Who Thought Life (1969)
+======================================
+
+:: Title
+The Man Who Thought Life
+
+:: Description
+A man who cultivates the ability to conjure objects into reality uses his powers to conjure the double of a brain surgeon into reality.
+
+:: Date
+1969-05-09
+
+:: References
+https://en.wikipedia.org/wiki/The_Man_Who_Thought_Life
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+thought materialization ability [Steinmetz had the ability to conjure objects into reality using the power of only his mind.],
+what if I met my double [Steinmetz conjured Dr. Max Holst's double into existence.],
+fiancée and fiancée [Brain surgeon and psychiatrist Dr. Max Holst and the actress Susanne Plesner.],
+romantic love [Dr. Max Holst and Susanne.],
+personal identity [Steinmetz created a Max Holst doppelganger to replace the real Max Holst, and both men were equally confident of being the true Max Holst.],
+
+:: Minor Themes
+husband and wife [Dr. Max Holst and Susanne.],
+
+
 movie: Stereo (1969)
 ====================
 
@@ -5270,76 +5321,6 @@ patriotism [Some among the young soldiers were patriotic.],
 racism in society [An African American soldier in the games remarked to a superior how he was brought there to fight and then go home and take a back seat on the bus.],
 the horrors of war [The generals shows a series of black and white photos of war crimes being committed.],
 World War III [The ostensible reason for the International Peace Games was to prevent a future world war among the superpowers.],
-
-
-movie: A Time of Roses (1969)
-=============================
-
-:: Title
-A Time of Roses
-
-:: Description
-In the year 2021, an innocent girl glamor model legend and a journalist tries to find out her true essence for a biography.
-
-:: Date
-1969-02-07
-
-:: References
-https://en.wikipedia.org/wiki/Time_of_Roses
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-historical revisionism [Raimo Lappalainen rewrote Saara Turunen's place in history.],
-what if I met my double [Kisse Haavisto was the spitting image of Saara Turunen, a glamor model who died in a traffic incident in 1976.],
-personal identity [Raimo sometimes confounded Kisse's identity with that of Saara.],
-romantic love [Raimo Lappalainen and Kisse Haavisto.],
-boyfriend and girlfriend [Raimo Lappalainen and Kisse Haavisto.],
-communism [A point was made several times about how class distinctions had been abolished in Finland. Kisse's colleague organized a strike at the factor and explained how now people were being given only the weeds but that the world is rich and there was enough so that there could be roses for all.],
-
-:: Minor Themes
-the Internet [There was a system much like the Internet except that searches were performed by sending requests to humans at a Central Authority.],
-open sexuality in society [There was a ball game played at the factory where players kissed and hugged.],
-labor strikes in society [The factory technicians organized a strike.],
-coping with a disability [The head of the History Institute lamented having gone blind.],
-suspended animation [A scientist described how 27,000 people put themselves in suspended animation in wait of a brighter future.],
-mind uploading [A scientist explained how people in suspended animation may one day have their minds transfered into computers.],
-
-
-movie: The Man Who Thought Life (1969)
-======================================
-
-:: Title
-The Man Who Thought Life
-
-:: Description
-A man who cultivates the ability to conjure objects into reality uses his powers to conjure the double of a brain surgeon into reality.
-
-:: Date
-1969-05-09
-
-:: References
-https://en.wikipedia.org/wiki/The_Man_Who_Thought_Life
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-thought materialization ability [Steinmetz had the ability to conjure objects into reality using the power of only his mind.],
-what if I met my double [Steinmetz conjured Dr. Max Holst's double into existence.],
-fiancée and fiancée [Brain surgeon and psychiatrist Dr. Max Holst and the actress Susanne Plesner.],
-romantic love [Dr. Max Holst and Susanne.],
-personal identity [Steinmetz created a Max Holst doppelganger to replace the real Max Holst, and both men were equally confident of being the true Max Holst.],
-
-:: Minor Themes
-husband and wife [Dr. Max Holst and Susanne.],
 
 
 movie: Latitude Zero (1969)
@@ -5517,9 +5498,6 @@ spacesuit [The Moon colonist sometimes wore colorful, futuristic spacesuits equi
 artificial gravity technology [Bill Kemp temporarily turned off the artificial gravity in the Moon City space bar.],
 what if I found myself in a zero gravity environment [The Moon City space bar patrons began floating around after Bill Kemp turned off the artificial gravity.],
 romantic love [Bill Kemp was invited by Clementine Taplin to find out what her Moon City hotel room was like at the conclusion of the film.],
-
-:: Settings
-lunar regolith [The Moon surface.],
 
 :: Other Keywords
 asteroid [Bill Kemp lead a mission to return a sapphire asteroid to the Moon.],

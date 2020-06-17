@@ -1,22 +1,3 @@
-Collection: Night Gallery
-=========================
-
-:: Title
-Night Gallery
-
-:: Date
-1969-1973
-
-:: Collections
-Collection: Night Gallery
-
-:: Description
-Night Gallery is an American anthology series that aired on NBC from 1969 to 1973, featuring stories of horror and the macabre.
-
-:: References
-https://en.wikipedia.org/wiki/Night_Gallery
-
-
 nightgallery0x01a
 =================
 
@@ -27,7 +8,7 @@ The Cemetery
 1969-11-08
 
 :: Description
-After murdering his uncle, a man (Roddy McDowall) is haunted by a family 
+After murdering his uncle, a man (Roddy McDowall) is haunted by a family
 painting that keeps changing.
 
 Directed by: Boris Sagal. Story by: Rod Serling.
@@ -63,7 +44,7 @@ Eyes
 1969-11-08
 
 :: Description
-A blind woman (Joan Crawford) undergoes an operation that gives her 12 hours 
+A blind woman (Joan Crawford) undergoes an operation that gives her 12 hours
 to see.
 
 Directed by: Steven Spielberg. Story by: Rod Serling.
@@ -117,6 +98,25 @@ poetic justice [Nazi fugitive Joseph Strobe, who was involved in the Holocaust, 
 The Holocaust [Joseph Strobe was a high ranking Nazi war criminal who was involved in the Holocaust.],
 World War II [Nazi war criminal Joseph Strobe escaped to South America after the war.],
 the desire for vengeance [We are made ponder whether Blum wanted to get back at Strobe.],
+
+
+Collection: Night Gallery
+=========================
+
+:: Title
+Night Gallery
+
+:: Date
+1969-1973
+
+:: Collections
+Collection: Night Gallery
+
+:: Description
+Night Gallery is an American anthology series that aired on NBC from 1969 to 1973, featuring stories of horror and the macabre.
+
+:: References
+https://en.wikipedia.org/wiki/Night_Gallery
 
 
 nightgallery1x01a
@@ -510,9 +510,6 @@ black magic [Pandit Chola used a magic doll to take revenge against Hymber Maste
 hexes and curses [Pandit sought vengance on Hymber by sending him a cursed doll of sorts.],
 master and servant [Hymber Masters left his servant Miss Danton as his heir.],
 poetic justice [Pandit Chola used a magic doll to take revenge against Hymber Masters, but in the end the very same doll was used on him.],
-
-:: Settings
-Victorian England [The Story was set in a Victorian mansion.],
 
 
 nightgallery1x06a
@@ -2501,33 +2498,6 @@ cannibalism [A gentleman went to a secretarial agency to find a plump woman to e
 sex trade in society [We were lead to think sex trade was going on, a different sort of trade in human flesh was revealed to be the case but it is a similar situation.],
 
 
-nightgallery-misc1
-==================
-
-:: Title
-Die Now, Pay Later
-
-:: Date
-1973
-
-:: Description
-An undertaker (Will Geer) slashes funeral prices at a January clearance sale.
-Note: This segment was produced for the second season but never aired during the series' original broadcast.
-
-:: Ratings
-3 <mikael>,
-3 <paul>,
-
-:: Major Themes
-commercialism in society [We saw a an undertaker putting on a January clearance sale.],
-the lust for gold [An undertaker had arranged a number of deaths in order to get rid of excess stock.],
-funeral rite [We saw a an undertaker putting on a January clearance sale.],
-witchcraft [The black cat owning undertaker turned out to be a warlock.],
-
-:: Minor Themes
-husband and wife [The undertaker's wife called the funeral home to scold the sheriff.],
-
-
 nightgallery3x01
 ================
 
@@ -2861,6 +2831,33 @@ thinking about one's accomplishments in life [Henry thought his youth had been s
 
 :: Other Keywords
 cats are evil [A general human idea about life spelled out by Serling.],
+
+
+nightgallery-misc1
+==================
+
+:: Title
+Die Now, Pay Later
+
+:: Date
+1973
+
+:: Description
+An undertaker (Will Geer) slashes funeral prices at a January clearance sale.
+Note: This segment was produced for the second season but never aired during the series' original broadcast.
+
+:: Ratings
+3 <mikael>,
+3 <paul>,
+
+:: Major Themes
+commercialism in society [We saw a an undertaker putting on a January clearance sale.],
+the lust for gold [An undertaker had arranged a number of deaths in order to get rid of excess stock.],
+funeral rite [We saw a an undertaker putting on a January clearance sale.],
+witchcraft [The black cat owning undertaker turned out to be a warlock.],
+
+:: Minor Themes
+husband and wife [The undertaker's wife called the funeral home to scold the sheriff.],
 
 
 nightgallery3x10

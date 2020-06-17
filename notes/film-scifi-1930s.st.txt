@@ -1,23 +1,3 @@
-Collection: Science fiction films of the 1930s
-==============================================
-
-:: Title
-Science fiction films of the 1930s
-
-:: Date
-1930-1939
-
-:: Collections
-Collection: Science fiction films of the 1930s
-
-:: Description
-Science fiction films that premiered between 1 January 1930 and 31 December
-1939.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1930s
-
-
 movie: Alraune (1930)
 =====================
 
@@ -103,6 +83,26 @@ human vs. captivity [J-21, RT-42, and Single O held captive by Martians and need
 what if I found myself in a low gravity environment [J-21, RT-42, and Single O surprised by how easy it is to move their spaceship on the surface of Mars],
 coping with a loved one being in peril [LN-18 went hysterical over the well-being of her lover J-21 while he was on dangerous mission to Mars],
 what it is like in a legal proceeding [dramatic tribunal held over whether LN-18 would marry J-21 or MT-3],
+
+
+Collection: Science fiction films of the 1930s
+==============================================
+
+:: Title
+Science fiction films of the 1930s
+
+:: Date
+1930-1939
+
+:: Collections
+Collection: Science fiction films of the 1930s
+
+:: Description
+Science fiction films that premiered between 1 January 1930 and 31 December
+1939.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1930s
 
 
 movie: The End of the World (1931)
@@ -774,46 +774,6 @@ what if I found myself in a zero gravity environment [The flight crew delight in
 spacesuit [The flight crew used specially designed spacesuits to walk on and explore the Moon.],
 
 
-movie: Things to Come (1936)
-============================
-
-:: Title
-Things to Come
-
-:: Description
-A 1936 British black-and-white science fiction film based on the H. G. Wells
-novel The Shape of Things to Come.
-
-:: Date
-1936-09-14
-
-:: References
-https://en.wikipedia.org/wiki/Things_to_Come
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-war of mutual annihilation [An aerial bombing raid on Everytown city results in general mobilisation and then global war that throws the world into a dark age],
-science for war or peace [science makes civilization destroying global war possible, but also journey to the Moon],
-the horrors of war [Everytown citizens experience multiple horrors of a global war],
-rebuilding society after war [world must rebuild after catastrophic global war],
-global unification under a central authority [Wings Over the World organization aimed to form a global government in the aftermath of the world war],
-the dangers of unfettered scientific advancement [by 2036 world civilisation is devoted to peace and scientific progress, but Theotocopulos incites the populace to demand a rest from all the rush of progress],
-technologically enabled utopia [Wings Over the World organization aimed to create a utopia founded on science],
-
-:: Minor Themes
-chemical weapons [Everytown citizens face poison gas attacks],
-natural pandemic [a pandemic set in after years of war],
-facing an epidemic [Everytown citizens were ravaged by pestilence in the aftermath of years of war.],
-space gun [space gun was planned to be used to send spaceship to the Moon],
-interplanetary space travel [mission to the Moon planned for launch in 2036],
-anti-technology way of life [Theotocopulos led a neo-luddist movement that destroyed the space gun in an effort to curb scientific progress],
-
-
 movie: The Walking Dead (1936)
 ==============================
 
@@ -917,6 +877,46 @@ romantic love [Clare Wyatt and Dick Haslewood.],
 father and son [Dick Haslewood was worried about his father Lord Haslewood's health.],
 fiancée and fiancée [Clare Wyatt and Dick Haslewood.],
 scientific experimentation [Dr. Laurience in his laboratory with mind transfer contraption.],
+
+
+movie: Things to Come (1936)
+============================
+
+:: Title
+Things to Come
+
+:: Description
+A 1936 British black-and-white science fiction film based on the H. G. Wells
+novel The Shape of Things to Come.
+
+:: Date
+1936-09-14
+
+:: References
+https://en.wikipedia.org/wiki/Things_to_Come
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+war of mutual annihilation [An aerial bombing raid on Everytown city results in general mobilisation and then global war that throws the world into a dark age],
+science for war or peace [science makes civilization destroying global war possible, but also journey to the Moon],
+the horrors of war [Everytown citizens experience multiple horrors of a global war],
+rebuilding society after war [world must rebuild after catastrophic global war],
+global unification under a central authority [Wings Over the World organization aimed to form a global government in the aftermath of the world war],
+the dangers of unfettered scientific advancement [by 2036 world civilisation is devoted to peace and scientific progress, but Theotocopulos incites the populace to demand a rest from all the rush of progress],
+technologically enabled utopia [Wings Over the World organization aimed to create a utopia founded on science],
+
+:: Minor Themes
+chemical weapons [Everytown citizens face poison gas attacks],
+natural pandemic [a pandemic set in after years of war],
+facing an epidemic [Everytown citizens were ravaged by pestilence in the aftermath of years of war.],
+space gun [space gun was planned to be used to send spaceship to the Moon],
+interplanetary space travel [mission to the Moon planned for launch in 2036],
+anti-technology way of life [Theotocopulos led a neo-luddist movement that destroyed the space gun in an effort to curb scientific progress],
 
 
 movie: Non-Stop New York (1937)

@@ -1,4 +1,3 @@
-
 play: Hamlet (1602)
 ===================
 
@@ -45,6 +44,52 @@ ghost [King Hamlet returned as a ghost to tell his son about the murder],
 
 :: Not Themes
 what if I had to fight to the death [nobody anticipated that the final duel would in fact have a deadly outcome],
+
+
+play: Othello (1603)
+====================
+
+:: Title
+Othello
+
+:: Authors
+William Shakespeare
+
+:: Description
+Othello (The Tragedy of Othello, the Moor of Venice) is a tragedy by William Shakespeare, believed to have been written in 1603. It is based on the story Un Capitano Moro ("A Moorish Captain") by Cinthio (a disciple of Boccaccio's), first published in 1565.[2] The story revolves around its two central characters: Othello, a Moorish general in the Venetian army, and his treacherous ensign, Iago. Given its varied and enduring themes of racism, love, jealousy, betrayal, revenge, and repentance, Othello is still often performed in professional and community theatre alike, and has been the source for numerous operatic, film, and literary adaptations.
+
+:: Date
+1603
+
+:: Ratings
+5 <mikael>,
+
+:: References
+https://en.wikipedia.org/wiki/Othello
+
+:: Choice Themes
+jealousy [Iago at Cassio for promotion; Othello at Cassio about Desdemona],
+the desire for vengeance [Iago at Othello and Cassio for promotion; Othello at Cassio and Desdemona],
+
+:: Major Themes
+extramarital affair [Othello believed that Desdemona had had an affair with Cassio.],
+love triangle [Othello, Cassio, Desdemona, Roderigo],
+husband and wife [Othello and Desdemona],
+romantic love [Othello and Desdemona at first],
+friendship [Iago betrayed people who thought he was their friend],
+betrayal [Iago betrayed people who thought he was their friend],
+coping with being a cuckold [Othello thought he had been cuckolded by Desdemona and Cassio],
+murder in society [Roderigo attempted to kill Cassio; Iago killed Roderigo],
+spouse murder [Othello killed Desdemona in cold and unjust jealousy; Iago killed Emilia],
+suicide [Othello killed himself in remorse],
+remorse [Othello regretted killing his wife],
+coping with having injured someone [Othello when he realized Desdemona was in fact innocent],
+
+:: Minor Themes
+unrequited love [Roderigo at Desdemona],
+coping with having a bad reputation [Cassio lamented his lost reputation after the brawl],
+father and daughter [Brabantio and Desdemona],
+racism in society [there were some remarks about Othello's Moorish complexion],
 
 
 play: Macbeth (1606)
@@ -96,7 +141,7 @@ King Lear
 William Shakespeare
 
 :: Description
-King Lear is a tragedy written by William Shakespeare. It tells the tale of a king who bequeaths his power and land to two of his three daughters, after they declare their love for him in an extremely fawning and obsequious manner. His third daughter gets nothing, because she will not flatter him as her sisters had done. When he feels disrespected by the two daughters who now have his wealth and power, he becomes furious to the point of madness. He eventually becomes tenderly reconciled to his third daughter, just before tragedy strikes her and then the king. 
+King Lear is a tragedy written by William Shakespeare. It tells the tale of a king who bequeaths his power and land to two of his three daughters, after they declare their love for him in an extremely fawning and obsequious manner. His third daughter gets nothing, because she will not flatter him as her sisters had done. When he feels disrespected by the two daughters who now have his wealth and power, he becomes furious to the point of madness. He eventually becomes tenderly reconciled to his third daughter, just before tragedy strikes her and then the king.
 
 :: Date
 1606
@@ -112,52 +157,5 @@ https://en.wikipedia.org/wiki/King_Lear
 :: Major Themes
 
 :: Minor Themes
-
-
-
-play: Othello (1603)
-====================
-
-:: Title
-Othello
-
-:: Authors
-William Shakespeare
-
-:: Description
-Othello (The Tragedy of Othello, the Moor of Venice) is a tragedy by William Shakespeare, believed to have been written in 1603. It is based on the story Un Capitano Moro ("A Moorish Captain") by Cinthio (a disciple of Boccaccio's), first published in 1565.[2] The story revolves around its two central characters: Othello, a Moorish general in the Venetian army, and his treacherous ensign, Iago. Given its varied and enduring themes of racism, love, jealousy, betrayal, revenge, and repentance, Othello is still often performed in professional and community theatre alike, and has been the source for numerous operatic, film, and literary adaptations.
-
-:: Date
-1603
-
-:: Ratings
-5 <mikael>,
-
-:: References
-https://en.wikipedia.org/wiki/Othello
-
-:: Choice Themes
-jealousy [Iago at Cassio for promotion; Othello at Cassio about Desdemona],
-the desire for vengeance [Iago at Othello and Cassio for promotion; Othello at Cassio and Desdemona],
-
-:: Major Themes
-extramarital affair [Othello believed that Desdemona had had an affair with Cassio.],
-love triangle [Othello, Cassio, Desdemona, Roderigo],
-husband and wife [Othello and Desdemona],
-romantic love [Othello and Desdemona at first],
-friendship [Iago betrayed people who thought he was their friend],
-betrayal [Iago betrayed people who thought he was their friend],
-coping with being a cuckold [Othello thought he had been cuckolded by Desdemona and Cassio],
-murder in society [Roderigo attempted to kill Cassio; Iago killed Roderigo],
-spouse murder [Othello killed Desdemona in cold and unjust jealousy; Iago killed Emilia],
-suicide [Othello killed himself in remorse],
-remorse [Othello regretted killing his wife],
-coping with having injured someone [Othello when he realized Desdemona was in fact innocent],
-
-:: Minor Themes
-unrequited love [Roderigo at Desdemona],
-coping with having a bad reputation [Cassio lamented his lost reputation after the brawl],
-father and daughter [Brabantio and Desdemona],
-racism in society [there were some remarks about Othello's Moorish complexion],
 
 

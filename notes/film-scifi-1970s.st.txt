@@ -1,23 +1,3 @@
-Collection: Science fiction films of the 1970s
-==============================================
-
-:: Title
-Science fiction films of the 1970s
-
-:: Date
-1970-1979
-
-:: Collections
-Collection: Science fiction films of the 1970s
-
-:: Description
-Science fiction films that premiered between 1 January 1970 and 31 December
-1979.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1970s
-
-
 movie: Scream and Scream Again (1970)
 =====================================
 
@@ -423,6 +403,26 @@ the Nazi stereotype [Hauser's widow Anna was pro-Nazi. Hillel expressed pro-Nazi
 betrayal [Dr. Kramer had turned over his friend Hauser to the Gestapo during the war.],
 
 
+Collection: Science fiction films of the 1970s
+==============================================
+
+:: Title
+Science fiction films of the 1970s
+
+:: Date
+1970-1979
+
+:: Collections
+Collection: Science fiction films of the 1970s
+
+:: Description
+Science fiction films that premiered between 1 January 1970 and 31 December
+1979.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1970s
+
+
 movie: Zaat (1971)
 ==================
 
@@ -541,7 +541,7 @@ movie: The Andromeda Strain (1971)
 The Andromeda Strain
 
 :: Description
-A team of elite scientists investigate a deadly organism of extraterrestrial origin. Based on Michael Crichton's 1969 novel of the same name, the film follows the book closely but with a few exceptions. 
+A team of elite scientists investigate a deadly organism of extraterrestrial origin. Based on Michael Crichton's 1969 novel of the same name, the film follows the book closely but with a few exceptions.
 
 :: Date
 1971-03-12
@@ -1180,7 +1180,6 @@ racism in society [Campbell was an American white supremacist who had defected t
 communism [Both the traitor Campbell and Billy's son talked about the need to defeat the communists.],
 
 
-
 movie: Man with the Transplanted Brain (1972)
 =============================================
 
@@ -1448,7 +1447,7 @@ sci-fi, blaxploitation,
 
 :: Major Themes
 head transplant [Dr. Maxwell Kirshner had his head transplanted onto the body of another man. But he first had a gorilla head transplanted onto another another gorilla to test the procedure. On an unrelated note, the two-headed gorilla escaped and ran amok.],
-racism in society [Dr. Kirshner did not allow "colored people" on his staff and he tried to dismiss Dr. 
+racism in society [Dr. Kirshner did not allow "colored people" on his staff and he tried to dismiss Dr.
 Fred Williams as soon as Kirchner found out he was black. In a twist of fate, he had was transplanted onto the body of a black death row inmate.],
 prejudice [Dr. Kirshner was an unabashed racist.],
 what if I was accused of a crime that I didn't commit [Jack Moss had been sentenced to death for a murder that he didn't commit and was determined to prove his innocence.],
@@ -1461,39 +1460,6 @@ capital punishment [Condemned man Jack Moss professed his innocence while sittin
 unethical human experimentation [Condemned man Jack Moss decided to participate in an unspecified experimental medical procedure in oder to obtain a 30 day extension on his date of execution.],
 experimental medical procedure [Condemned man Jack Moss decided participate in an unspecified experimental medical procedure that turned out to be a head transplant.],
 boyfriend and girlfriend [Jack Moss hid out at his girlfriend's house.],
-
-
-movie: The Boy Who Turned Yellow (1972)
-=======================================
-
-:: Title
-The Boy Who Turned Yellow
-
-:: Description
-John loses one of his pet mice, Alice, whilst on a school trip to the Tower of London. Upset back in class, he is sent home by his teacher for not paying attention during a lesson on electricity. Later that day on the London Underground, the train and everyone in it suddenly turns bright, vivid yellow. John's doctor declares that the condition is harmless and should wear off soon, but that evening John hears noises from his television set and meets the eccentric yellow-colored Nick. The pair return to the Tower of London in an attempt to find Alice, but they are menaced by Yeoman Warders and John is threatened with execution. When John is finally reunited with his pet, he awakes in class. Was his adventure actually all just a dream?
-
-:: Date
-1972-09-16
-
-:: References
-https://en.wikipedia.org/wiki/The_Boy_Who_Turned_Yellow
-
-:: Ratings
-2 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-master and pet [John Saunders went to the Tower of London to try to find his pet mouse Alice.],
-love of a pet [John dearly loved his little pet mice Alice and Father Christmas.],
-what if I underwent a physical metamorphosis [John turned bright, vivid yellow while riding on the subway. Actually, the train and everyone on it was turned yellow.],
-being that feeds on electricity [The eccentric and yellow-colored Nick refused a drumstick in favor],
-
-:: Minor Themes
-mother and son [Mrs. Saunders and John.],
-father and son [Mr. Saunders and John.],
-husband and wife [Mr. and Mrs. Saunders.],
 
 
 movie: Night of the Lepus (1972)
@@ -1531,6 +1497,39 @@ pesticides in society [There was much discussion about how using pesticides, lik
 
 :: Other Keywords
 giant rabbit [Giant, mutant rabbits ran amok in the somewhere in the South West.],
+
+
+movie: The Boy Who Turned Yellow (1972)
+=======================================
+
+:: Title
+The Boy Who Turned Yellow
+
+:: Description
+John loses one of his pet mice, Alice, whilst on a school trip to the Tower of London. Upset back in class, he is sent home by his teacher for not paying attention during a lesson on electricity. Later that day on the London Underground, the train and everyone in it suddenly turns bright, vivid yellow. John's doctor declares that the condition is harmless and should wear off soon, but that evening John hears noises from his television set and meets the eccentric yellow-colored Nick. The pair return to the Tower of London in an attempt to find Alice, but they are menaced by Yeoman Warders and John is threatened with execution. When John is finally reunited with his pet, he awakes in class. Was his adventure actually all just a dream?
+
+:: Date
+1972-09-16
+
+:: References
+https://en.wikipedia.org/wiki/The_Boy_Who_Turned_Yellow
+
+:: Ratings
+2 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+master and pet [John Saunders went to the Tower of London to try to find his pet mouse Alice.],
+love of a pet [John dearly loved his little pet mice Alice and Father Christmas.],
+what if I underwent a physical metamorphosis [John turned bright, vivid yellow while riding on the subway. Actually, the train and everyone on it was turned yellow.],
+being that feeds on electricity [The eccentric and yellow-colored Nick refused a drumstick in favor],
+
+:: Minor Themes
+mother and son [Mrs. Saunders and John.],
+father and son [Mr. Saunders and John.],
+husband and wife [Mr. and Mrs. Saunders.],
 
 
 movie: Horror Express (1972)
@@ -1610,7 +1609,7 @@ movie: The Stranger (1973)
 The Stranger
 
 :: Description
-An astronaut crashes on a planet strangely similar to Earth. 
+An astronaut crashes on a planet strangely similar to Earth.
 
 :: Date
 1973-02-23
@@ -1997,11 +1996,6 @@ hovercar [The amusement park goes were ferried to the pack location in a big hov
 sex-droid [Peter Martin had full sex with a female android at the brothel.],
 coping with a bad hangover [Peter Martin and John Blane woke up with bad hangovers after the bar fight.],
 
-:: Settings
-Wild West [],
-Medieval times [],
-Ancient Rome [],
-
 
 movie: Frankenstein: The True Story (1973)
 ==========================================
@@ -2269,9 +2263,6 @@ early computer [A team of scientists used a 1970s era computer with magnetic tap
 sex-droid [Questor told Lady Helena Trimble that he was fully functional.],
 fusion power [Questor was powered by nuclear fusion.],
 
-:: Settings
-control room [Lady Helena Trimble had a secret control room with a very unique circular desk.],
-
 
 movie: Killdozer (1974)
 =======================
@@ -2486,7 +2477,7 @@ movie: Flesh Gordon (1974)
 Flesh Gordon
 
 :: Description
-Flesh Gordon comes to the rescue when Emperor Wang the Perverted turns the people of Earth into sex addicts using his Sex Ray. 
+Flesh Gordon comes to the rescue when Emperor Wang the Perverted turns the people of Earth into sex addicts using his Sex Ray.
 
 :: Date
 1974-07-30
@@ -2658,6 +2649,39 @@ human overpopulation [Professor Nolter mentioned that his motivation for crossin
 romantic love [The story concluded with Hedi and Brian Redford professing their love for one another.],
 
 
+movie: Space Is the Place (1974)
+================================
+
+:: Title
+Space Is the Place
+
+:: Description
+The black musician and thinker Sun Ra lands his spaceship in Oakland to reveal to the world his plan for the salvation of the black people.
+
+:: Date
+1974-10
+
+:: References
+https://en.wikipedia.org/wiki/Space_Is_the_Place
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi, blaxploitation,
+
+:: Major Themes
+social oppression [Sun Ra came from outer space to liberate the blacks from the white imposed power structure they were subject to.],
+racism in society [Sun Ra came from outer space to liberate the blacks from the white imposed power structure they were subject to.],
+passion for music [We saw Sun Ra use music to enlighten the black people about their plight. In addition, we saw other people enjoying soul music throughout the film.],
+music appreciation [Sun Ra used his music to enlighten the black people about their plight.],
+exploitation of sentient beings [Sun Ran came from outer space to liberate the blacks from the white imposed power structure they were subject to.],
+
+:: Minor Themes
+spaceship [Sun Ra made a dramatic landing of his uniquely shaped spaceship in Oakland.],
+selling out for money [Jimmy Fey was a representative of black people from the entertainment industry who was co-opted by the normalizing, status quo-reinforcing forces of white-led capitalism.],
+
+
 movie: The Disappearance of Flight 412 (1974)
 =============================================
 
@@ -2788,7 +2812,7 @@ sci-fi
 facing an epidemic [A group of pilots were stranded in a cabin in the Canadian wilderness while a pandemic was spreading around the world.],
 flying saucer theory of UFOs [There were UFO sightings all over the world.],
 risk taking vs. playing it safe [Should the group of pilots stay hunkered down in the cabin away from the plague or should they get to the nearest town in an effort to figure out what was going on in the world? Jake wanted to get into town while Stan advocated staying hunkered down in the cabin.],
-Hollow Earth [It was Stan's theory that Martians were living in the interior of the Earth and that they were responsible for the flying saucers being sighted around the world.], 
+Hollow Earth [It was Stan's theory that Martians were living in the interior of the Earth and that they were responsible for the flying saucers being sighted around the world.],
 attack from Inner Earth [It seemed that Martians living deep inside the Earth launched an invasion of the planet.],
 
 :: Minor Themes
@@ -2796,39 +2820,6 @@ brother and sister [Jake and his sister Sarah were living in a cabin in the Cana
 flying saucer [There were shots of 50s style flying saucers invading Earth.],
 human vs. nature [Stan, Sarah, and Eric tried to brave elements to make it to the nearest town.],
 Martian extraterrestrial [Stan theorized that Matrians moved into the Earth's interior about 8000 years ago when the Red Planet veered closer to Earth than the Moon.],
-
-
-movie: Space Is the Place (1974)
-================================
-
-:: Title
-Space Is the Place
-
-:: Description
-The black musician and thinker Sun Ra lands his spaceship in Oakland to reveal to the world his plan for the salvation of the black people. 
-
-:: Date
-1974-10
-
-:: References
-https://en.wikipedia.org/wiki/Space_Is_the_Place
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi, blaxploitation,
-
-:: Major Themes
-social oppression [Sun Ra came from outer space to liberate the blacks from the white imposed power structure they were subject to.],
-racism in society [Sun Ra came from outer space to liberate the blacks from the white imposed power structure they were subject to.],
-passion for music [We saw Sun Ra use music to enlighten the black people about their plight. In addition, we saw other people enjoying soul music throughout the film.],
-music appreciation [Sun Ra used his music to enlighten the black people about their plight.],
-exploitation of sentient beings [Sun Ran came from outer space to liberate the blacks from the white imposed power structure they were subject to.],
-
-:: Minor Themes
-spaceship [Sun Ra made a dramatic landing of his uniquely shaped spaceship in Oakland.],
-selling out for money [Jimmy Fey was a representative of black people from the entertainment industry who was co-opted by the normalizing, status quo-reinforcing forces of white-led capitalism.],
 
 
 movie: Stowaway to the Moon (1975)
@@ -2944,7 +2935,7 @@ movie: A Boy and His Dog (1975)
 A Boy and His Dog
 
 :: Description
-A teenage boy and his telepathic dog, who work together as a team in order to survive in the dangerous post-apocalyptic wasteland of the Southwestern United States. 
+A teenage boy and his telepathic dog, who work together as a team in order to survive in the dangerous post-apocalyptic wasteland of the Southwestern United States.
 
 :: Date
 1975-03-15
@@ -3180,7 +3171,7 @@ https://en.wikipedia.org/wiki/Rollerball_(1975_film)
 sci-fi
 
 :: Major Themes
-corporatocracy [We saw a corporate-run society run on a world scale. Political decisions were made by corporate executives ostensibly in the best interest of all.], 
+corporatocracy [We saw a corporate-run society run on a world scale. Political decisions were made by corporate executives ostensibly in the best interest of all.],
 corporation interfering in politics [We saw a corporate-run society run on a world scale. Political decisions were made by corporate executives ostensibly in the best interest of all.],
 global unification under a central authority [We saw a corporate-run society run on a world scale. Political decisions were made by corporate executives ostensibly in the best interest of all.],
 institutionalized human blood sports society [Rollerball athletes got badly injured and sometimes even died in the course of play.],
@@ -3274,6 +3265,46 @@ human vs. captivity [Dragon Mom held the Professor and his daughter captive and 
 solar power [It was mentioned that Inframan was powered by the sun.],
 
 
+movie: The Land That Time Forgot (1975)
+=======================================
+
+:: Title
+The Land That Time Forgot
+
+:: Description
+Set during World War I, the survivors of a British merchant ship end up on an uncharted sub-continent, called Caprona, in the South Atlantic. It is based upon the 1918 novel The Land That Time Forgot by Edgar Rice Burroughs.
+
+:: Date
+1975-08-13
+
+:: References
+https://en.wikipedia.org/wiki/The_Land_That_Time_Forgot_(1975_film)
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi, adventure,
+
+:: Major Themes
+voyage at sea [Some people aboard a U-boat that had run out of fuel ended up drifting at sea for a long time and ended up at an uncharted sub-continent, called Caprona, in the South Atlantic. Note that the voyage took up between a third to a half of the entire film.],
+isolated prehistoric land [The people on the U-boat ended up on a hitherto unexplored sub-continent in the South Atlantic filled with dinosaurs.],
+living dinosaur [The people on the U-boat ended up on a hitherto unexplored sub-continent in the South Atlantic filled with dinosaurs.],
+human vs. beast [The people had to survive around dinosaurs on the sub-continent Caprona.],
+World War I [The film was set during the First World War and we saw people from the Allied countries work together with a German U-boat crew to survive on in a land filled with dinosaurs and cavemen.],
+cooperation [The Brits/Americans and German sailors agreed that the war between their nations was meaningless to them while they were on the sub-continent and agreed to work together to survive there until such time as they could return to a neutral port.],
+the theory of evolution [The creatures on Caprona did not evolve according to natural selection, but rather each individual organism (from single celled organisms all the way to hominids) passed through every stage of evolution within their own lifetime.],
+putting differences aside [The Brits/Americans and German sailors agreed that the war between their nations was meaningless to them while they were on the sub-continent and agreed to work together to survive there until such time as they could return to a neutral port.],
+a common interest unites [The Brits/Americans and German sailors agreed that the war between their nations was meaningless to them while they were on the sub-continent and agreed to work together to survive there until such time as they could return to a neutral port.],
+
+:: Minor Themes
+primitive point of view [The caveman Ahm was perplexed with his modern visitors and their technology.],
+
+:: Other Keywords
+submarine [There was a German U-boat.],
+caveman [There were cavemen on the sub-continent.],
+
+
 movie: The Rocky Horror Picture Show (1975)
 ===========================================
 
@@ -3324,46 +3355,6 @@ uncle and nephew [Dr. Scott visited Frank-N-Furter at his mansion to discuss abo
 choosing between lovers [One of Frank-N-Furter's female lovers pressured him into choosing between her and Rocky.],
 grief [Rocky emotionally overwhelmed watching his lover Frank-N-Furter get shot and killed by an alien.],
 mad scientist stereotype [The scene of the creation of Frankenstein's monster from the classic 1933 film "Frankenstein" was parodied.],
-
-
-movie: The Land That Time Forgot (1975)
-=======================================
-
-:: Title
-The Land That Time Forgot
-
-:: Description
-Set during World War I, the survivors of a British merchant ship end up on an uncharted sub-continent, called Caprona, in the South Atlantic. It is based upon the 1918 novel The Land That Time Forgot by Edgar Rice Burroughs. 
-
-:: Date
-1975-08-13
-
-:: References
-https://en.wikipedia.org/wiki/The_Land_That_Time_Forgot_(1975_film)
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi, adventure,
-
-:: Major Themes
-voyage at sea [Some people aboard a U-boat that had run out of fuel ended up drifting at sea for a long time and ended up at an uncharted sub-continent, called Caprona, in the South Atlantic. Note that the voyage took up between a third to a half of the entire film.],
-isolated prehistoric land [The people on the U-boat ended up on a hitherto unexplored sub-continent in the South Atlantic filled with dinosaurs.],
-living dinosaur [The people on the U-boat ended up on a hitherto unexplored sub-continent in the South Atlantic filled with dinosaurs.],
-human vs. beast [The people had to survive around dinosaurs on the sub-continent Caprona.],
-World War I [The film was set during the First World War and we saw people from the Allied countries work together with a German U-boat crew to survive on in a land filled with dinosaurs and cavemen.],
-cooperation [The Brits/Americans and German sailors agreed that the war between their nations was meaningless to them while they were on the sub-continent and agreed to work together to survive there until such time as they could return to a neutral port.],
-the theory of evolution [The creatures on Caprona did not evolve according to natural selection, but rather each individual organism (from single celled organisms all the way to hominids) passed through every stage of evolution within their own lifetime.],
-putting differences aside [The Brits/Americans and German sailors agreed that the war between their nations was meaningless to them while they were on the sub-continent and agreed to work together to survive there until such time as they could return to a neutral port.],
-a common interest unites [The Brits/Americans and German sailors agreed that the war between their nations was meaningless to them while they were on the sub-continent and agreed to work together to survive there until such time as they could return to a neutral port.],
-
-:: Minor Themes
-primitive point of view [The caveman Ahm was perplexed with his modern visitors and their technology.],
-
-:: Other Keywords
-submarine [There was a German U-boat.],
-caveman [There were cavemen on the sub-continent.],
 
 
 movie: Black Moon (1975)
@@ -3793,7 +3784,7 @@ sci-fi
 
 :: Major Themes
 Hollow Earth [Dr. Abner Perry and David Innes accidentally bored deep into the Earth and found a civilization living in a vast open spaces there.],
-travel into the Earth [Dr. Abner Perry and his US financier David Innes made a test run of their Iron Mole drilling machine in a Welsh mountain, but ended up in a system of vast caverns ruled by a species of giant telepathic flying reptiles.], 
+travel into the Earth [Dr. Abner Perry and his US financier David Innes made a test run of their Iron Mole drilling machine in a Welsh mountain, but ended up in a system of vast caverns ruled by a species of giant telepathic flying reptiles.],
 human vs. captivity [Henchmen of the Mahar's captured Abner Perry and David Innes and brought them to the Mahar city to toil as slaves.],
 social oppression [The Mahars enslaved primitive people through the use of a combination of mind control and plain old brute force.],
 slavery [The Mahars used humans slaves to do the manual labor in their city.],
@@ -3809,6 +3800,85 @@ telepathic society [We saw an underground city of telepathic, flying reptiles.],
 telepathic being [The reptilian Mahars communicated using telepathy.],
 reptilian being [We saw an underground city of telepathic, flying reptiles.],
 human sacrifice [The Mahars ritually sacrificed a number of young maidens.],
+
+
+movie: God Told Me To (1976)
+============================
+
+:: Title
+God Told Me To
+
+:: Description
+An alien entity posing as God tells random New Yorkers to start shooting people.
+
+:: Date
+1976-10-22
+
+:: References
+https://en.wikipedia.org/wiki/God_Told_Me_To
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+sci-fi, horror, police crime drama,
+
+:: Major Themes
+mass murder in society [Peter investigated a number of mass murders, including a an who shot people on the street from the safety of a water tower, a man who stabbed as many people as he could in a grocery store, and an attack on people watching the Satin Patrick's Day parade.],
+God is really an alien [A mysterious alien entity worked to convince New Yorkers that it was God.],
+alien impregnation of human females [Peter uncovered that he was the product of a virgin birth and that the father was some sort of mysterious entity of light.],
+extraterrestrial being [A mysterious alien entity worked to convince New Yorkers that it was God.],
+human-alien hybrid [Peter discovered that he was the offspring of a human mother and a mysterious entity of light of alien origin.],
+virgin birth [Peter discovered that he had been born of a virgin. It was also mentioned that Jesus and Moses had been born of virgins.],
+
+:: Minor Themes
+romantic love [Peter and his paramour Casey.],
+Catholicism [Peter went to confession to confess to the priest that he was cheating on his wife. Other aspects of the Catholic Church were seen in the film, including a woman describing how she gave her newborn child to Catholic nuns.],
+husband and wife [Peter had been living estranged from his wife for four years. But he came to her house at the sake time that his paramour was there.],
+finding religion [A man expressed joy to Peter over God having told him to murder his own son, just as Abraham had been told.],
+mass hysteria [Peter started a panic from one end of New York to the other by leaking a story about God having instructed some random people to commit murder to the press.],
+corruption in society [A Harlen drug dealer was paying off a corrupt police officer to oversee the systematic overlooking of the drug dealing of himself and his associates.],
+having a baby out of wedlock [It was revealed that Peter was born to a virgin and that she had been traumatized over the experience of having had a baby out of wedlock in 1940s New York.],
+
+:: Not Themes
+extramarital affair [Peter was sleeping with Casey, and while he was technically married, he had been estranged from his wive for four years. As a result, it doesn't make much sense to use this theme.],
+
+
+movie: The Rat Saviour (1976)
+=============================
+
+:: Title
+The Rat Saviour
+
+:: Description
+A man uncovers a race of intelligent rats who can appear as human. He is captured and taken to the rat people's leader (the "savior" of the movie's title). He escapes, but then wonders who among his fellow humans is a rat person in disguise.
+
+:: Date
+1976-10-26
+
+:: References
+https://en.wikipedia.org/wiki/The_Rat_Savior
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+what it is like to be impoverished [A publishing house editor refused to publish penniless author Ivan Gajski's book. He subsequently got kicked out from the flat he was renting after failing to pay rent for three consecutive months and ended up sleeping on a park bench.],
+what it is like to be a struggling artist [A publishing house editor refused to publish penniless author Ivan Gajski's book. He subsequently got kicked out from the flat he was renting after failing to pay rent for three consecutive months and ended up sleeping on a park bench.],
+invasive life form from outer space [Mysterious shapeshifting rats hatched a nefarious plot to replace all the people in a small town.],
+what if I told the truth and nobody would believe me [Nobody took seriously Ivan Gajski's contention that the abandoned central bank building was the headquarters of a secret organization, and later that shapeshifting rats were killing the people in his town and replacing them with replicas.],
+what if people around me started behaving strangely one by one [Ivan Gajski watched as the people in his town got replaced by shapeshifted rat replicas.],
+duplicate of a person [A species of shapeshifting rats hatched a plot to kill off the people in a town one by one and replace them with replicas.],
+shapeshifter [The rats in this film could take on human form.],
+romantic love [Ivan Gajski and Sonja became lovers.],
+
+:: Minor Themes
+father and daughter [Professor Martin Boskovic and his daughter Sonja.],
+scientific experimentation [We saw Prof. Boskovic synthesizing a substance in his laboratory experimenting that could be used to kill the shapeshifting rats. Ivan Gajski later took up Boskovic's work after the rats murdered him.],
+grief [Sonja mourned the death of her father Prof. Boskovic, who was murdered by the rats.],
 
 
 movie: Wizards (1977)
@@ -4534,7 +4604,7 @@ movie: Damnation Alley (1977)
 Damnation Alley
 
 :: Description
- The films depicts a future where the Earth has been tilted off its axis by the nuclear detonations of World War III; radiation has mutated giant scorpions, the planet is wracked by massive storms, and the sky is in a perpetual aurora borealis-like state. It is loosely based on the 1969 novel of the same name by Roger Zelazny.
+The films depicts a future where the Earth has been tilted off its axis by the nuclear detonations of World War III; radiation has mutated giant scorpions, the planet is wracked by massive storms, and the sky is in a perpetual aurora borealis-like state. It is loosely based on the 1969 novel of the same name by Roger Zelazny.
 
 :: Date
 1977-10-21
@@ -4561,85 +4631,6 @@ the dangers of radioactivity [Dangerous radiation storms were a menace to those 
 
 :: Other Keywords
 giant scorpion [Giant mutated scorpions were attacking people in he desert.],
-
-
-movie: God Told Me To (1976)
-============================
-
-:: Title
-God Told Me To
-
-:: Description
-An alien entity posing as God tells random New Yorkers to start shooting people. 
-
-:: Date
-1976-10-22
-
-:: References
-https://en.wikipedia.org/wiki/God_Told_Me_To
-
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi, horror, police crime drama,
-
-:: Major Themes
-mass murder in society [Peter investigated a number of mass murders, including a an who shot people on the street from the safety of a water tower, a man who stabbed as many people as he could in a grocery store, and an attack on people watching the Satin Patrick's Day parade.],
-God is really an alien [A mysterious alien entity worked to convince New Yorkers that it was God.],
-alien impregnation of human females [Peter uncovered that he was the product of a virgin birth and that the father was some sort of mysterious entity of light.],
-extraterrestrial being [A mysterious alien entity worked to convince New Yorkers that it was God.],
-human-alien hybrid [Peter discovered that he was the offspring of a human mother and a mysterious entity of light of alien origin.],
-virgin birth [Peter discovered that he had been born of a virgin. It was also mentioned that Jesus and Moses had been born of virgins.],
-
-:: Minor Themes
-romantic love [Peter and his paramour Casey.],
-Catholicism [Peter went to confession to confess to the priest that he was cheating on his wife. Other aspects of the Catholic Church were seen in the film, including a woman describing how she gave her newborn child to Catholic nuns.],
-husband and wife [Peter had been living estranged from his wife for four years. But he came to her house at the sake time that his paramour was there.],
-finding religion [A man expressed joy to Peter over God having told him to murder his own son, just as Abraham had been told.],
-mass hysteria [Peter started a panic from one end of New York to the other by leaking a story about God having instructed some random people to commit murder to the press.],
-corruption in society [A Harlen drug dealer was paying off a corrupt police officer to oversee the systematic overlooking of the drug dealing of himself and his associates.],
-having a baby out of wedlock [It was revealed that Peter was born to a virgin and that she had been traumatized over the experience of having had a baby out of wedlock in 1940s New York.],
-
-:: Not Themes
-extramarital affair [Peter was sleeping with Casey, and while he was technically married, he had been estranged from his wive for four years. As a result, it doesn't make much sense to use this theme.],
-
-
-movie: The Rat Saviour (1976)
-=============================
-
-:: Title
-The Rat Saviour
-
-:: Description
-A man uncovers a race of intelligent rats who can appear as human. He is captured and taken to the rat people's leader (the "savior" of the movie's title). He escapes, but then wonders who among his fellow humans is a rat person in disguise.
-
-:: Date
-1976-10-26
-
-:: References
-https://en.wikipedia.org/wiki/The_Rat_Savior
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
-
-:: Major Themes
-what it is like to be impoverished [A publishing house editor refused to publish penniless author Ivan Gajski's book. He subsequently got kicked out from the flat he was renting after failing to pay rent for three consecutive months and ended up sleeping on a park bench.],
-what it is like to be a struggling artist [A publishing house editor refused to publish penniless author Ivan Gajski's book. He subsequently got kicked out from the flat he was renting after failing to pay rent for three consecutive months and ended up sleeping on a park bench.],
-invasive life form from outer space [Mysterious shapeshifting rats hatched a nefarious plot to replace all the people in a small town.],
-what if I told the truth and nobody would believe me [Nobody took seriously Ivan Gajski's contention that the abandoned central bank building was the headquarters of a secret organization, and later that shapeshifting rats were killing the people in his town and replacing them with replicas.],
-what if people around me started behaving strangely one by one [Ivan Gajski watched as the people in his town got replaced by shapeshifted rat replicas.],
-duplicate of a person [A species of shapeshifting rats hatched a plot to kill off the people in a town one by one and replace them with replicas.],
-shapeshifter [The rats in this film could take on human form.],
-romantic love [Ivan Gajski and Sonja became lovers.],
-
-:: Minor Themes
-father and daughter [Professor Martin Boskovic and his daughter Sonja.],
-scientific experimentation [We saw Prof. Boskovic synthesizing a substance in his laboratory experimenting that could be used to kill the shapeshifting rats. Ivan Gajski later took up Boskovic's work after the rats murdered him.],
-grief [Sonja mourned the death of her father Prof. Boskovic, who was murdered by the rats.],
 
 
 movie: Close Encounters of the Third Kind (1977)
@@ -5119,7 +5110,7 @@ ruling elite utopia [The Atlanteans were ruled by an elite minority that exclusi
 human vs. beast [Charles and Gregory were attacked on the sea floor by an an at least 20 foot long aquatic dinosaur. Captain Daniels' schooner was attacked by a giant octopus. The Atlanteans were at war with a couple of giant reptiles.],
 
 :: Minor Themes
-voyage at sea [Captain Daniels sailed Professor Aitken and his son Charles out past the Bermudas against his better judgment. The captain's worst fears proved correct when his schooner was attacked by a giant octopus.], 
+voyage at sea [Captain Daniels sailed Professor Aitken and his son Charles out past the Bermudas against his better judgment. The captain's worst fears proved correct when his schooner was attacked by a giant octopus.],
 father and son [Professor Aitken and his son Charles set out on a perilous expedition to locate the fabled city of Atlantis somewhere at the bottom of the sea. They found evidence of when Charles went down to the sea floor in a diving bell, and Charles together with five others, not including his father, ende dup being captives of the Atlanteans.],
 living dinosaur [Charles and Gregory were attacked on the sea floor by an an at least 20 foot long aquatic dinosaur.],
 father and daughter [Delphine and her father Briggs helped the castaways escape. Interestingly, Briggs was captain of the ship Mary Celeste from maritime history.],
@@ -5129,8 +5120,7 @@ Hollow Earth [It tuned out that Atlantis was located in a vast, air-filled caver
 
 :: Other Keywords
 giant octopus [Captain Daniels' schooner was attacked by a giant octopus.],
-giant insect [There was a giant millipede.], 
-
+giant insect [There was a giant millipede.],
 
 
 movie: The Alien Factor (1978)
@@ -5315,6 +5305,41 @@ beating one's self up [Little Paul Durant mistaken though he was responsible for
 nuclear power safety [The nuclear power plant lacked a provision for safety in the advent of an attack by killer bees. And indeed, the worst came to pass: the bees attacked the plant and it blew up.],
 
 
+movie: The Clone Master (1978)
+==============================
+
+:: Title
+The Clone Master
+
+:: Description
+A scientist clones himself a dozen or so times over.
+
+:: Date
+1978-09-14
+
+:: References
+https://www.imdb.com/title/tt0077345/
+
+:: Ratings
+3 <paul> [TV film +1 for a fine explanation of developmental biology at the blackboard],
+
+:: Genre
+sci-fi
+
+:: Major Themes
+human cloning [Dr. Simon Shane worked together with Dr. Ezra Louthin on a secret project to create a clone of himself.],
+secret government project [Dr. Simon Shane consented to work on a secret government project to clone a human being. In the end, however, it became apparent that the people who had approached him were not int he government at all.],
+a person and their clone [Simon's clone had no intentions of taking a back seat to the original.],
+what if I met my double [Simon's clone had all the same memories and abilities as Simon and they looked identical. All of this made for an uncanny experience for the both of them.],
+telepathic ability [Simon was telepathically linked to each of his clones, but the clones were not telepathically linked to each other.],
+personal identity [We a made to ponder whether Simon's various clones were any less Simon that Simon himself.],
+the lust for gold [Simon's clandestine financier was motivated to get Simon to create human clones so he could sell the technology to the highest bidder.],
+
+:: Minor Themes
+government regulation in society [Government regulator Harry Tiezer pestered Simon and Ezra with burdensome requests for progress reports and threatened to cutoff their research funding unless they did more to justify their research in writing.],
+bureaucracy [Simon and Ezra's research into human cloning was obstructed at by a stubborn government regulator at every step. Simon went to Washington D.C. to complain but he just ended up getting redirected from one government department to another without ever achieving a resolution to the issue.],
+
+
 movie: The Boys from Brazil (1978)
 ==================================
 
@@ -5380,41 +5405,6 @@ mechanical man [4-Q-2 looked like the Tin Man from The Wizard of Oz.],
 mind control ability [Augie "Ben" Doggie mind controlled a guard into letting him and his party pass through a checkpoint without being searched.],
 interstellar space travel [Ham Salad was flying around space at light speed in an iron.],
 annihilation by a planet busting device [Derth Nader blew up a planet that looked exactly like a basketball using some parody on the Death Star.],
-
-
-movie: The Clone Master (1978)
-==============================
-
-:: Title
-The Clone Master
-
-:: Description
-A scientist clones himself a dozen or so times over.
-
-:: Date
-1978-09-14
-
-:: References
-https://www.imdb.com/title/tt0077345/
-
-:: Ratings
-3 <paul> [TV film +1 for a fine explanation of developmental biology at the blackboard],
-
-:: Genre
-sci-fi
-
-:: Major Themes
-human cloning [Dr. Simon Shane worked together with Dr. Ezra Louthin on a secret project to create a clone of himself.],
-secret government project [Dr. Simon Shane consented to work on a secret government project to clone a human being. In the end, however, it became apparent that the people who had approached him were not int he government at all.],
-a person and their clone [Simon's clone had no intentions of taking a back seat to the original.],
-what if I met my double [Simon's clone had all the same memories and abilities as Simon and they looked identical. All of this made for an uncanny experience for the both of them.],
-telepathic ability [Simon was telepathically linked to each of his clones, but the clones were not telepathically linked to each other.],
-personal identity [We a made to ponder whether Simon's various clones were any less Simon that Simon himself.],
-the lust for gold [Simon's clandestine financier was motivated to get Simon to create human clones so he could sell the technology to the highest bidder.],
-
-:: Minor Themes
-government regulation in society [Government regulator Harry Tiezer pestered Simon and Ezra with burdensome requests for progress reports and threatened to cutoff their research funding unless they did more to justify their research in writing.],
-bureaucracy [Simon and Ezra's research into human cloning was obstructed at by a stubborn government regulator at every step. Simon went to Washington D.C. to complain but he just ended up getting redirected from one government department to another without ever achieving a resolution to the issue.],
 
 
 movie: Libra (1978)
@@ -5516,7 +5506,7 @@ movie: A Fire in the Sky (1978)
 A Fire in the Sky
 
 :: Description
-An astronomer discovers a comet on a course to hit somewhere in the South Western United States. 
+An astronomer discovers a comet on a course to hit somewhere in the South Western United States.
 
 :: Date
 1978-11-26
@@ -6049,45 +6039,6 @@ husband and wife [Toward the very end of the film, Frank went to visit his wife 
 father and son [Dr. Hal Raglan treatment technique, called "psychoplasmics", involved him role playing his patients fathers, but he wasn't actually the father of anyone in the film.],
 
 
-movie: Moonraker (1979)
-=======================
-
-:: Title
-Moonraker
-
-:: Description
-Bond investigates the theft of a space shuttle, leading him to Hugo Drax, the owner of the shuttle's manufacturing firm. Along with space scientist Dr. Holly Goodhead, Bond follows the trail from California to Venice, Rio de Janeiro, and the Amazon rainforest, and finally into outer space to prevent a plot to wipe out the world population and to recreate humanity with a master race. It is the eleventh film in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as the fictional MI6 agent James Bond. The third and final film in the series to be directed by Lewis Gilbert, it co-stars Lois Chiles, Michael Lonsdale, Corinne Cléry, and Richard Kiel. 
-
-:: Date
-1979-06-26
-
-:: References
-https://en.wikipedia.org/wiki/Moonraker_(film)
-
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi, action,
-
-:: Major Themes
-what it is like as a spy [We saw super-spy James Bond doing what James Bond does best.],
-espionage [We saw super-spy James Bond doing what James Bond does best.],
-romantic seduction [James rather conspicuously seduced a variety of ravishing women.],
-infatuation [James fell for his CIA counterpart Holly Goodhead. Jaws and Dolly fell passionately in love with one another.],
-misanthropy [Drax detested humankind to the extent that he hatched an elaborate plot to wipe out the world population and to recreate humanity with a super-race of perfect physical specimens.],
-anthropogenic existential risk to civilization [Drax plotted to kill everyone human on Earth by exposing the world population to a certain orchid derived nerve agent. Drax and his followers would wait out the downfall of humankind hold up inside their city in space.],
-
-:: Minor Themes
-flirtation [James flirted with a variety of women.],
-trust in a potential foe [Should James trust his alleged CIA counterpart Holly Goodhead? Or should she trust him for that matter?],
-human vs. beast [James used his poison tipped spy pen to dispatch Drax's pet python.],
-space station [Drax built a "city in space" in orbit around the Earth that looked like a big, rotating space station.],
-what if I found myself in a zero gravity environment [We saw some people floating around inside Drax's city in space.],
-betrayal [Jaws betrayed Drax in the end and sided with James.],
-orbital spaceflight [The Moonraker space shuttles were used to ferry Mr. Drax and his master race members to his space station in orbit around Earth.],
-
-
 movie: Goldengirl (1979)
 ========================
 
@@ -6121,6 +6072,45 @@ the future of human evolution [Serafin was using Goldine to try to prove some ki
 mass consumerism [Jack Dryden asked Goldine whether she thought commercialism was ruining the Olympic Games.],
 loss of emotional equilibrium [Goldine started acting in a most egotistical and paranoid manner in Moscow when her blood sugar level got out of whack.],
 human health condition [Goldine was diagnosed with diabetes and had to take pills to keep her blood sugar level under control.],
+
+
+movie: Moonraker (1979)
+=======================
+
+:: Title
+Moonraker
+
+:: Description
+Bond investigates the theft of a space shuttle, leading him to Hugo Drax, the owner of the shuttle's manufacturing firm. Along with space scientist Dr. Holly Goodhead, Bond follows the trail from California to Venice, Rio de Janeiro, and the Amazon rainforest, and finally into outer space to prevent a plot to wipe out the world population and to recreate humanity with a master race. It is the eleventh film in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as the fictional MI6 agent James Bond. The third and final film in the series to be directed by Lewis Gilbert, it co-stars Lois Chiles, Michael Lonsdale, Corinne Cléry, and Richard Kiel.
+
+:: Date
+1979-06-26
+
+:: References
+https://en.wikipedia.org/wiki/Moonraker_(film)
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi, action,
+
+:: Major Themes
+what it is like as a spy [We saw super-spy James Bond doing what James Bond does best.],
+espionage [We saw super-spy James Bond doing what James Bond does best.],
+romantic seduction [James rather conspicuously seduced a variety of ravishing women.],
+infatuation [James fell for his CIA counterpart Holly Goodhead. Jaws and Dolly fell passionately in love with one another.],
+misanthropy [Drax detested humankind to the extent that he hatched an elaborate plot to wipe out the world population and to recreate humanity with a super-race of perfect physical specimens.],
+anthropogenic existential risk to civilization [Drax plotted to kill everyone human on Earth by exposing the world population to a certain orchid derived nerve agent. Drax and his followers would wait out the downfall of humankind hold up inside their city in space.],
+
+:: Minor Themes
+flirtation [James flirted with a variety of women.],
+trust in a potential foe [Should James trust his alleged CIA counterpart Holly Goodhead? Or should she trust him for that matter?],
+human vs. beast [James used his poison tipped spy pen to dispatch Drax's pet python.],
+space station [Drax built a "city in space" in orbit around the Earth that looked like a big, rotating space station.],
+what if I found myself in a zero gravity environment [We saw some people floating around inside Drax's city in space.],
+betrayal [Jaws betrayed Drax in the end and sided with James.],
+orbital spaceflight [The Moonraker space shuttles were used to ferry Mr. Drax and his master race members to his space station in orbit around Earth.],
 
 
 movie: Outer Touch (1979)
@@ -6398,6 +6388,5 @@ the thirst for knowledge [Dr. Reinhardt was obsessed with finding out what was o
 :: Minor Themes
 telepathic ability [ESP-sensitive scientist Dr. Kate McCrae communicated with V.I.N.CENT telepathically in the midst of a ship crisis.],
 anti-gravity technology [Dr. Reinhardt used antigravitation to keep his spaceship, the Cugnus, from falling into a black hole.],
-
 
 

@@ -1,34 +1,3 @@
-Collection: Star Trek: Enterprise
-=================================
-
-:: Title
-Star Trek: Enterprise
-
-:: Description
-Star Trek: Enterprise (ENT) (titled simply Enterprise until the third episode
-of season three) is an American science fiction television series created by
-Rick Berman and Brannon Braga as a prequel to Star Trek: The Original Series.
-It originally aired from September 26, 2001 to May 13, 2005 on UPN, spanning
-98 episodes across four seasons. Set in the 22nd century 100 years before the
-USS Enterprise's five-year mission in Star Trek: The Original Series, the
-series follows the adventures of the crew of the first Warp 5 capable
-Starfleet starship, Enterprise (registry number NX-01), as they explore the
-galaxy.
-
-:: Date
-2001-2005
-
-:: Major Themes
-
-:: Minor Themes
-
-:: Collections
-Collection: Star Trek: Enterprise
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_Enterprise
-
-
 ent1x01/02
 ==========
 
@@ -47,9 +16,6 @@ Directed by: James L. Conway. Story by: Rick Berman & Brannon Braga.
 :: Ratings
 3 <paul>,
 3 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Silik, Sarin, Klaang, Maxwell Forrest, Daniel Leonard, Henry Archer, Soval, Tos, Williams,
 
 :: Choice Themes
 extraterrestrial civilization [Humans encountered new alien civilizations, like the Klingons and Suliban, and the first contact with the Vulcans was discussed.],
@@ -86,12 +52,6 @@ modular spaceship [Suliban spaceships merged into one big structure.],
 DNA encoded message [Klang had a secret message encoded in his DNA.],
 foreign customs [T'Pol was somewhat taken aback at the sight Archer and Tucker touching food with their hands and consuming flesh in flagrant violation of Vulcan custom and convention.],
 
-:: Settings
-corn field,
-
-:: Aliens
-Vulcan, Klingon, Suliban,
-
 
 ent1x03
 =======
@@ -112,9 +72,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 3 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Alien Captain,
-
 :: Choice Themes
 risk taking vs. playing it safe [Archer must decide whether to risk helping alien crew and put his crew in potential danger as a result.],
 passion for exploration [Archer and crew on mission of peaceful exploration, looking to discover new life.],
@@ -129,12 +86,6 @@ overcoming a limitation [Hoshi did some kind of overcome-your-fears kind of intr
 :: Minor Themes
 master and pet [Archer and Porthos.],
 passion for languages [Hoshi spoke in gleeful terms about the prospect of visiting alien worlds and learning their languages.],
-
-:: Settings
-rocky landscape,
-
-:: Aliens
-Axanar,
 
 
 ent1x04
@@ -156,9 +107,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 4 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Elizabeth Cutler, Ethan Novakovich,
-
 :: Choice Themes
 descent into madness [Tucker went delusional inside cave and became convinced that T'Pol was plotting with rock monsters against him.],
 mistrust leading to group dysfunction [Mistrust between T'Pol and landing party members leads to complications about being rescued from the surface of planet.],
@@ -179,9 +127,6 @@ prejudice [Tucker revealed his prejudice against Vulcans under the influence of 
 master and pet [Archer playing with Porthos on planet surface.],
 teleportation device [Novakovich was beamed up from the planet fused with leaves using experimental transporter technology.],
 mutual trust [Archer appealed to Tuckers trust in Archer],
-
-:: Settings
-meadow, pond, woodland, cavern, campfire,
 
 :: Other Keywords
 find a cure [Phlox for madness inducing pollen pathogen.],
@@ -206,9 +151,6 @@ Directed by: Mike Vejar. Story by: Rick Berman & Brannon Braga.
 4 <paul>,
 4 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Ah'Len, Vorok, Trena'L, Dillard,
-
 :: Choice Themes
 alien point of view [T'Pol tut-tutted as Tucker, to his dismay, learned that unprotected cavorting with a cute alien babe could leave him pregnant with said alien babe's child.],
 what if I were a man who got pregnant [Tucker got pregnant after an encounter with an alien woman.],
@@ -230,9 +172,6 @@ infatuation [Tucker shagged an alien babe Ah'Len.],
 telepathic society [Ah'Len taught Tucker to communicate telepathically.],
 coping with discomfort during pregnancy [Tucker was irritable and experienced uncomfortable physical manifestations during pregnancy.],
 
-:: Aliens
-Xyrillian, Klingon,
-
 
 ent1x06
 =======
@@ -253,9 +192,6 @@ Directed by: LeVar Burton. Story by: Rick Berman & Brannon Braga.
 4 <mikael>,
 4 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Jamin, Nadet, Athan, Akary,
-
 :: Choice Themes
 space colonization [Enterprise crew stumbled on a lost Earth colony whose inhabitants had disappeared. we were told the story of Earth's first colony],
 the ethics of interfering in less advanced societies [Crew contemplated forcing the less advanced Novans to abandon their planet and come back to Earth.],
@@ -275,9 +211,6 @@ passion for exploration [Crew was giddy with excitement of contacting lost deep 
 human self-sacrifice for another [Archer risked his life to save a drowning Novan.],
 Amelia Earhart [Travis and T'Pol discussed about the disappearance of Amelia Earhart.],
 science as magic to the primitive [Nadet and Jamin were astonished by the medical technology used on the Enterprise to treat Nadet's lung cancer.],
-
-:: Settings
-ghost town, woodland, cavern,
 
 
 ent1x07
@@ -300,9 +233,6 @@ Dekker.
 2 <mikael>,
 4 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Shran, Tholos, Keval,
-
 :: Choice Themes
 espionage [Andorians forcefully objected to Vulcan espionage.],
 international politics [Andorians exposed clandestine Vulcan efforts to spy on their activities.],
@@ -319,12 +249,6 @@ there is value in diversity [Phlox explained about the Vulcan motto "infinite di
 facing a hostage situation [Andorians held Archer and his landing party hostage inside Vulcan monastery.],
 coping with being tortured [Archer was interrogated under torture by Shran.],
 teleportation device [Malcolm used the transporter at great risk in an effort to free captives held by the Andorians.],
-
-:: Aliens
-Andorian, Vulcan,
-
-:: Settings
-catacomb,
 
 
 ent1x08
@@ -346,9 +270,6 @@ Directed by: Terry Windell. Story by: Andre Jaquemetton & Maria Jaquemetton.
 3 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Vanik,
-
 :: Choice Themes
 passion for exploration [Archer and crew elated at the discovery of a new comet that was bigger than any comet Humans had ever seen and went on to explore it.],
 conflict of cultural norms [The Vulcan's circumspect way of communicate personal matters with T'Pol lead to suspicion and conflict with the humans lead by Archer.],
@@ -368,12 +289,6 @@ invasion of privacy [Tucker read T'Pol's private message and then apologized to 
 arranged marriage [T'Pol had been arranged to Koss.],
 swallowing one's pride [Archer swallowed his pride and took up Vanik on his offer to help rescue Malcolm and Travis from comet.],
 dealing with children [Archer and crew answered school children's letters.],
-
-:: Aliens
-Vulcan,
-
-:: Settings
-icy landscape,
 
 
 ent1x09
@@ -395,9 +310,6 @@ Directed by: Mike Vejar. Story by: Mike Sussman & Phyllis Strong.
 3 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Riaan, Garos,
-
 :: Choice Themes
 the ethics of interfering in less advanced societies [Archer decided to interfere in Akaali internal affairs against T'Pol's better judgment.],
 extraterrestrial civilization [Crew make first contact with middle age era civilization against the better judgment of T'Pol.],
@@ -409,12 +321,6 @@ infatuation [Archer and Riaan.],
 appearance altering technology [Phlox made landing party look Akaali in facial appearance. The Malurians wore a form fitting masks to appear like an Akaali.],
 universal translation device [Archer's universal translator broke down and he was unable to communicate with Riaan.],
 communicating with someone who speaks a different language [Archer's universal translator broke down and he was unable to communicate with Riaan.],
-
-:: Settings
-laboratory, woodland, town square,
-
-:: Aliens
-Akaali, Malurian,
 
 :: Other Keywords
 find a cure [Phlox for epidemic on Akaali homeworld.],
@@ -439,9 +345,6 @@ Directed by: LeVar Burton. Story by: James Duff.
 2 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Matthew Ryan, Shaw, Maxwell Forrest, Nausicaan Captain, Captain Keene,
-
 :: Choice Themes
 the desire for vengeance [Matthew Ryan was on a mission to take vengeance on the Nausicaans because Nausicaan pirates had killed his family.],
 the pirate stereotype [Nausicaan space pirates.],
@@ -459,9 +362,6 @@ artificial gravity technology [Matthew Ryan and Captain Keane tossing a football
 teleportation device [Mayweather showed Matthew Ryan the Enterprise transporter.],
 male bonding [Mayweather bonded with Matthew Ryan.],
 hollowed out asteroid habitat [Nausicaan pirates has lair inside asteroid.],
-
-:: Aliens
-Nausicaan,
 
 
 ent1x11
@@ -483,9 +383,6 @@ Directed by: Robert Duncan McNeill. Story by: Stephen Beck & Tim Finch.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Silik, Daniels, Fraddock, Prah Mantoos, Sonsorra, N.D. Alien Pilgrim,
-
 :: Choice Themes
 time travel [Daniels traveled back in time to get Archer up to speed about the Temporal Cold War.],
 
@@ -499,11 +396,39 @@ genetically engineered soldier [Silik was genetically engineered to have various
 master and pet [Archer and Porthos.],
 religious festival [Space pilgrims attending the Borothan religious event called Agosoria.],
 
-:: Aliens
-Suliban, Prah Mantoos' species,
-
 :: Other Keywords
 a traitor amongst us [],
+
+
+Collection: Star Trek: Enterprise
+=================================
+
+:: Title
+Star Trek: Enterprise
+
+:: Description
+Star Trek: Enterprise (ENT) (titled simply Enterprise until the third episode
+of season three) is an American science fiction television series created by
+Rick Berman and Brannon Braga as a prequel to Star Trek: The Original Series.
+It originally aired from September 26, 2001 to May 13, 2005 on UPN, spanning
+98 episodes across four seasons. Set in the 22nd century 100 years before the
+USS Enterprise's five-year mission in Star Trek: The Original Series, the
+series follows the adventures of the crew of the first Warp 5 capable
+Starfleet starship, Enterprise (registry number NX-01), as they explore the
+galaxy.
+
+:: Date
+2001-2005
+
+:: Major Themes
+
+:: Minor Themes
+
+:: Collections
+Collection: Star Trek: Enterprise
+
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_Enterprise
 
 
 ent1x12
@@ -524,9 +449,6 @@ Directed by: Winrich Kolbe. Story by: André Bormanis.
 :: Ratings
 4 <mikael>,
 3 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Mary Reed, Stuart Reed, Madeline Reed, Mark Latrelle,
 
 :: Choice Themes
 alien point of view [We were shown that what seemed obvious to humans, such as answering a call and not attacking randomly for no reason, may not be so for an alien species.],
@@ -566,9 +488,6 @@ Jaquemetton.
 5 <mikael>,
 4 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Elizabeth Cutler, Esaak, Larr,
-
 :: Choice Themes
 natural pandemic [Valakian were desperate to find a cure for a pandemic caused by their genetics that Phlox estimated would render them extinct within two centuries.],
 the ethics of interfering in less advanced societies [Archer had to decide whether they intervene to save one intelligent species on the planet at the possible future expense of another intelligent species.],
@@ -589,12 +508,6 @@ learning languages [Phlox was teaching Hoshi the Denobulan language.],
 passion for languages [Phlox was teaching Hoshi the Denobulan language.],
 universal translation device [Hoshi was using the universal translator with some difficulty to community with the Valakians and the Menk.],
 polygamy [Phlox explained to Elizabeth Cutler how Denobulans were polygamous by nature.],
-
-:: Settings
-futuristic cityscape,
-
-:: Aliens
-Valakian, Menk,
 
 :: Other Keywords
 find a cure [Phlox for evolutionary pandemic afflicting the Valakians.],
@@ -619,9 +532,6 @@ Directed by: Les Landau. Story by: Fred Dekker.
 3 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Bu'kaH,
-
 :: Choice Themes
 helping a stranger in need [Archer and the crew took risks to help stranded Klingons and got nothing but ingratitude for their efforts.],
 
@@ -633,9 +543,6 @@ honor [Klingon crew felt that being crushed to death in the atmosphere of a gas 
 :: Minor Themes
 coping with having a cold [Malcolm was battling a cold.],
 passion for exploration [The crew drop out of warp to explore a class 9 gas giant.],
-
-:: Aliens
-Klingon,
 
 
 ent1x15
@@ -658,9 +565,6 @@ Directed by: Mike Vejar. Story by: Rick Berman & Brannon Braga.
 1 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Shran, Sopek, Tholos, Maxwell Forrest, Soval, Kalev, Traeg,
-
 :: Choice Themes
 
 :: Major Themes
@@ -677,12 +581,6 @@ dealing with terrorists [Crew needed to negotiate with Coridanite rebels to free
 diplomacy vs. force [Crew favored negotiating with rebels to free Archer and T'Pol, but the Vulcan captain Sopek took the initiative and raided the compound where they were being held.],
 passion for exploration [Archer and the crew diverted from their course to visit the alien world of Coridan.],
 the desire to repay one's debts [Shran helped rescue Archer in order to make good on a debt he felt he owed to Archer.],
-
-:: Aliens
-Vulcan, Coridanite, Andorian,
-
-:: Settings
-futuristic cityscape, shantytown,
 
 
 ent1x16
@@ -703,9 +601,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 :: Ratings
 4 <paul>,
 3 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed [object], Travis Mayweather, Hoshi Sato, Charles Tucker [object],
 
 :: Choice Themes
 optimist vs. pessimist [Reed and Tucker contrasted these two general outlooks on life.],
@@ -749,9 +644,6 @@ Directed by: Rob Heddon. Story by: Rick Berman & Brannon Braga.
 3 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Tolaris, Tavin, Maxwell Forrest, Kov,
-
 :: Choice Themes
 we need a balance between rationality and emotionality [T'Pol was overwhelmed with emotions when she ceased her nightly meditations at the behest of a band of visiting Vulcan dissidents.],
 rationality vs. emotionality [T'Pol was overwhelmed with emotions when she ceased her nightly meditations at the behest of a band of visiting Vulcan dissidents.],
@@ -772,9 +664,6 @@ cyclical mating cycle being [Kov explained the seven year Vulcan mating cycle to
 fatherly disappointment in a son [Kov's father told him that he had brought shame on 15 generations of their family.],
 reminiscence about one's youth [Tucker reminisced to Kor about the first time he went to a school dance.],
 mind reading ability [T'Pol experienced a mind meld.],
-
-:: Aliens
-Vulcan,
 
 
 ent1x18
@@ -797,9 +686,6 @@ Black.
 4 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Wraith, Burzaan, Shiraht, Damrus,
-
 :: Choice Themes
 
 :: Major Themes
@@ -814,12 +700,6 @@ what if I met the perfect mate [Archer explained how the shapeshifter appeared t
 the killing of animals [Crew explained how humans had outgrown the barbarism of killing animals.],
 passion for exploration [Crew stumbled on a rogue planet and send a landing party down to scientifically investigate it.],
 lookism in society [T'Pol explained that Vulcans, unlike Humans, were valued for their achievements rather than their looks.],
-
-:: Settings
-jungle, campfire,
-
-:: Aliens
-Eska,
 
 
 ent1x19
@@ -840,9 +720,6 @@ Directed by: James Whitmore, Jr. Story by: Rick Berman & Brannon Braga.
 :: Ratings
 1 <mikael>,
 4 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Krem, Muk, Grish, Ulis,
 
 :: Choice Themes
 facing a ship takeover [Enterprise is taken over by a band of Ferengi looking rob the ship's vault.],
@@ -879,9 +756,6 @@ Beck.
 3 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, D'Marr, Liana, Maya, Kuulan, Ezral,
-
 :: Choice Themes
 virtual person [Ezral's crew were all simulated.],
 
@@ -896,12 +770,6 @@ beating one's self up [Ezral expressed remorse at having gotten his crew killed.
 mother and daughter [Maya disapproved of her daughter Liana fraternizing with the Enterprise crew, especially Tucker.],
 father and daughter [Ezral and Liana were living alone on a wrecked ship and simulated their deceased crew-members.],
 fear [Landing party visited a ghost ship and experience/discuss fear to various degrees.],
-
-:: Settings
-garden,
-
-:: Aliens
-Kantare, D'Marr's Species,
 
 
 ent1x21
@@ -923,9 +791,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 2 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Danik, Sajen, Klev, Narra, Grat,
-
 :: Choice Themes
 human vs. captivity [Archer and Mayweather find themselves imprisoned in a Suliban internment camp run by the Tandarans.],
 social oppression [Suliban were being held by Tandarans in an interment camp even though they were non-combatants in the war with the Suliban Cabal.],
@@ -939,9 +804,6 @@ shapeshifter [Grat had Archer's and Mayweather's DNA tested to ensure they were 
 prisoners' rights [Archer was denied the possibility of contacting his ship to inform them he and Mayweather were interred in a Tandaran prison. Suliban internees treated harshly by Tandarans.],
 father and daughter [Danik and Narra held in interment camp by the Tandarans.],
 appearance altering technology [Phlox surgically altered Malcolm to appear as a Suliban.],
-
-:: Aliens
-Suliban, Tandaran,
 
 
 ent1x22
@@ -964,9 +826,6 @@ Dekker.
 3 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kreetassan Captain, Michael Rostov, J. Kelly,
-
 :: Choice Themes
 parasitic being [A parasitic, web-spinning, alien boards Enterprise and starts kidnapping members of the crew.],
 incompatible modes of communication [Hoshi struggled to communicate with the freaky web alien.],
@@ -983,9 +842,6 @@ beating one's self up [Hoshi beat herself up over failing to communicate with th
 passion for classic films [Mayweather was enthusiastic about watching a classic French film at the ship's movie night.],
 sports [Tucker bribed Archer with a taped game of water polo.],
 passion for sports [Archer was excited to watch a championship water polo match.],
-
-:: Aliens
-Kreetassan,
 
 
 ent1x23
@@ -1008,9 +864,6 @@ Black.
 3 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, V'Lar, Maxwell Forrest,
-
 :: Choice Themes
 duty vs. self-preservation [Archer about whether to turn over the ambassador to the Mazarites or risk losing the Enterprise with all hands.],
 mutual trust [V'Lar was slow to put her trust in Archer and vice versa, but in the end V'Lar showed her trust in Archer by following his plan to stall for time by having her go to sickbay.],
@@ -1022,9 +875,6 @@ corruption in society [V'Lar was on a mission to Mazar to expose rampant governm
 
 :: Minor Themes
 the need for rest and recreation [T'Pol wanted crew to go have sex on Risa in order to improve efficiency.],
-
-:: Aliens
-Vulcan, Mazarite,
 
 :: Other Keywords
 host a dignitary [The Enterprise crew transports the Vulcan ambassador V'Lar to a Vulcan ship.],
@@ -1050,9 +900,6 @@ Bormanis.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Trellit, Zobral,
-
 :: Choice Themes
 terrorist or freedom fighter [Zobral appealed to Archer for aid in his seemingly just insurgency, but he was labeled a terrorist by the Torothan government.],
 the ethics of interfering in the internal affairs of other powers [Archer ultimately declined to take a side in the conflict between the Torothan government and Zobral's people. T'Pol pointed-earedly pointed out that Archer would have to come up with "some directives of his own" in the future.],
@@ -1070,12 +917,6 @@ desert planet [Archer and Tucker visited Zobral on a planet that was primarily d
 sacrifice for a friend [Archer forced Tucker to drink the last of Archer's water when Tucker was suffering from heat exhaustion in the desert.],
 helping a stranger in need [Zobral told Archer the galaxy needs more men like him who will answer distress calls when they can.],
 hospitality [Zobral insisted on repaying the favor Archer paid him by insisting he be his guest at his desert planet dwelling.],
-
-:: Settings
-desert,
-
-:: Aliens
-Zobral's species,
 
 
 ent1x25
@@ -1097,9 +938,6 @@ Directed by: Michael Dorn. Story by: Rick Berman & Brannon Braga.
 3 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Keyla, Elizabeth Cutler, Ravis, Michael Rostov,
-
 :: Choice Themes
 
 :: Major Themes
@@ -1112,12 +950,6 @@ infatuation [Hoshi and Ravis got the hots for one another and had a one night st
 master and pet [Archer brought Porthos along on his trip to Risa.],
 coping with the death of one's entire family [Keyla claimed to Archer that her family had been killed by the Suliban.],
 learning languages [Some of the difficulties involved in learning languages were on display in Hoshi's discussions.],
-
-:: Settings
-tropical beach, tropical resort,
-
-:: Aliens
-Risan, Tandaran, Dee'Ahn's species, Axum's species,
 
 
 ent1x26
@@ -1140,9 +972,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Silik, Daniels, Maxwell Forrest,
-
 :: Choice Themes
 planet scorching atmospheric conflagration [Archer burned up an entire world by accidentally igniting their atmosphere, but fortunately it wasn't his fault.],
 
@@ -1156,9 +985,6 @@ matriarchy [T'Pol told Archer and Tucker about a matriarchal alien colony in the
 delivering bad news [Archer lamented having to deliver the bad news to alien homeworld that he had accidentally ignited the atmosphere of one of their colonies, resulting in the deaths of 3600 of their people.],
 loyalty to a leader [Especially Hoshi said that she would stand by Archer no matter what, and the rest of the crew stood by Archer after the Enterprise was recalled to Earth.],
 invisible spaceship [Suliban ships use cloaking devices.],
-
-:: Aliens
-Suliban,
 
 
 ent2x01
@@ -1180,9 +1006,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 1 <mikael>,
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Silik, Daniels, Maxwell Forrest, Soval, Raan, Williams,
-
 :: Choice Themes
 time travel [Archer tries to return to the 22nd century from the post-apocalyptic 31st century in which he found himself.],
 
@@ -1192,12 +1015,6 @@ facing a ship takeover [A group of Suliban took over the Enterprise.],
 :: Minor Themes
 coping with being tortured [T'Pol was mildly tortured by the Suliban.],
 claustrophobia [Hoshi had to overcome her claustrophobia and crawl around in the Enterprise air ducts.],
-
-:: Settings
-city ruins,
-
-:: Aliens
-Suliban, Vulcan,
 
 :: Other Keywords
 acrobatic flying jump attack [Archer did a Kirk-like attack through the time portal.],
@@ -1223,9 +1040,6 @@ O'Shannon.
 4 <mikael>,
 5 <paul>,
 
-:: Main Characters
-Jonathan Archer, T'Pol, Charles Tucker, T'Mir, Maggie, Mestral, Jack, Stron, Billy, Tellus,
-
 :: Choice Themes
 the ethics of interfering in less advanced societies [T'Mir and Stron initially wished to avoid contaminating 1950s Earth culture at all cost, but ended up helping them out of a sense of compassion when the miners were trapped in an explosion and when Jack couldn't pay his tuition to enter college.],
 
@@ -1247,12 +1061,6 @@ infatuation [Mestral and Maggie.],
 vegetarianism [The stranded Vulcans contemplated eating a deer in conflict with their vegetarian ethic in order to survive after having crash landed on Earth.],
 single motherhood [Maggie was raising her son Jack as a single parent.],
 
-:: Settings
-woodland, campfire, cavern, 1950s era American town,
-
-:: Aliens
-Vulcan,
-
 
 ent2x03
 =======
@@ -1273,9 +1081,6 @@ Directed by: James A. Contner. Story by: John Shiban.
 2 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker,
-
 :: Choice Themes
 
 :: Major Themes
@@ -1292,9 +1097,6 @@ disciplined leadership vs. flexible leadership [Malcolm suggested to Archer that
 :: Minor Themes
 invisible spaceship [Romulan ship was cloaked.],
 fear of open waters [Malcolm explained that a fear of water, drowning specifically, made him join Starfleet instead of following in his family tradition of serving in the navy.],
-
-:: Aliens
-Romulan,
 
 
 ent2x04
@@ -1315,9 +1117,6 @@ Directed by: Roxann Dawson. Story by: Mike Sussman & Phyllis Strong.
 :: Ratings
 4 <paul>,
 4 <mikael> [by a hair],
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker,
 
 :: Choice Themes
 artificial intelligence [The Enterprise crew visited a fully automated repair space station. Curiously, the repair station used a collection of humanoid brains to function.],
@@ -1352,9 +1151,6 @@ Directed by: David Straiton. Story by: Rick Berman & Brannon Braga.
 4 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kreetassan Captain,
-
 :: Choice Themes
 master and pet [Porthos becomes ill from an alien pathogen and Archer frets in Sickbay waiting for him to recover.],
 
@@ -1368,12 +1164,6 @@ secret crush [Phlox suggested to Archer that Archer was besotted with T'Pol.],
 repressing one's desires [Phlox confronted Archer about the possibility that Archer was repressing his sexual desire for T'Pol.],
 polygamy [Phlox explained about the polygamous customs of his species to Archer.],
 father and son [Phlox discussed his relationship with his sons with Archer in Sickbay.],
-
-:: Aliens
-Kreetassan,
-
-:: Settings
-field,
 
 :: Other Keywords
 find a cure [Phlox rid Porthos of an alien pathogen that it contracted on the Kretassan home world.],
@@ -1398,9 +1188,6 @@ Directed by: Mike Vejar. Story by: Rick Berman & Brannon Braga.
 3 <paul>,
 0 <mikael>,
 
-:: Main Characters
-Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Tessic, Maklii, E'Lis, Q'ell, Korok,
-
 :: Choice Themes
 standing up to a bully [Archer taught the colonists how to stand up to Klingon bullies.],
 bullying [Archer taught the colonists how to stand up to Klingon bullies.],
@@ -1411,12 +1198,6 @@ helping a stranger in need [Archer stayed to help the aliens overthrow their Kli
 
 :: Minor Themes
 negotiation [Archer bartered for deuterium from a mining colony plagued by Klingon marauders.],
-
-:: Settings
-settlement, desert,
-
-:: Aliens
-Klingon, Tessic's species,
 
 
 ent2x07
@@ -1438,9 +1219,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 2 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol [object], Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Tavek, Menos,
-
 :: Choice Themes
 guilt and evidence [T'Pol and Archer were struggling with whether to apprehend a possibly innocent, framed, and persecuted man.],
 confronting an old ghost [T'Pol over having shot and killed Jossen sixteen years prior.],
@@ -1458,12 +1236,6 @@ leadership [Tucker was indecisive when left in command of the Enterprise.],
 coping with the rigors of command [Tucker found that being Captain was not all fun and games.],
 sports [Archer was taking in a water polo match in his quarters.],
 passion for sports [Archer was taking in a water polo match in his quarters.],
-
-:: Settings
-alien bar, jungle,
-
-:: Aliens
-Vulcan,
 
 
 ent2x08
@@ -1486,9 +1258,6 @@ Directed by: James A. Contner. Story by: Rick Berman & Brannon Braga.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Gosis, Pell, Temec,
-
 :: Choice Themes
 the ethics of interfering in less advanced societies [The crew needed to retrieve a communicator that Malcolm lost on a pre-warp world in order to not contaminate their culture.],
 
@@ -1506,9 +1275,6 @@ invisible spaceship [Tucker was studying a cloaked Suliban cell ship.],
 genetically engineered soldier [Archer and Malcolm pretended to be genetically engineered super soldiers while under interrogation.],
 facing one's own execution [Archer and Malcolm were sentenced to the gallows.],
 coping with being tortured [Archer was beaten back and blue in the course of an interrogation.],
-
-:: Aliens
-Gosis' species,
 
 
 ent2x09
@@ -1530,9 +1296,6 @@ Directed by: Patrick Norris. Story by: Chris Black.
 :: Ratings
 4 <mikael>,
 5 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker,
 
 :: Choice Themes
 obsession [Everyone became really obsessed with one thing they were doing, including Archer with writing his speech, Tucker with modifying the captain's chair, Hoshi with cooking for the crew, Phlox with treating Mayweather for a headache, and Malcolm with his alert system.],
@@ -1569,9 +1332,6 @@ Directed by: David Straiton. Story by: Rick Berman & Brannon Braga.
 3 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato [object], Charles Tucker, Hoshi's Father,
-
 :: Choice Themes
 what if I were a ghost [Hoshi became invisible, much like a ghost, in the aftermath of her first trip through the transporter.],
 facing one's darkest fear [Hoshi overcame her fear of teleportation by stepping on to the alien transporter in order to save Enterprise.],
@@ -1588,9 +1348,6 @@ grief [Crew grieved over Hoshi.],
 coping with the death of a colleague [Crew grieved over Hoshi.],
 father and daughter [Archer contacted Hoshi's father to deliver the bad news that she had died in a transporter mishap.],
 Morse code [Hoshi used Morse code to communicate with Archer when she was turned invisible.],
-
-:: Settings
-ancient ruin,
 
 
 ent2x11
@@ -1612,9 +1369,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker [object], Kaitaama, Firek Goff, Firek Plinn,
-
 :: Choice Themes
 
 :: Major Themes
@@ -1630,12 +1384,6 @@ suspended animation [Princess Kaitaama was kept in stasis while she was being tr
 human vs. captivity [Princess Kaitaama was kidnapped for ransom by a pair of Retellians.],
 human vs. nature [Tucker and Princess Kaitaama had to survive in a swamp while awaiting rescue by Enterprise.],
 attitude of superiority [Tucker was taken aback by the regal condescending manner of Princess Kaitaama.],
-
-:: Settings
-swamp,
-
-:: Aliens
-Kriosian, Retellian,
 
 :: Other Keywords
 transport a dignitary [The Retellians were pretending to transport a Kriosian princess.],
@@ -1660,9 +1408,6 @@ Directed by: Mike Vejar. Story by: Mike Sussman & Phyllis Strong.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Rellus Tagrim, Renth, Alien Captain, Guri,
-
 :: Choice Themes
 
 :: Major Themes
@@ -1676,9 +1421,6 @@ leadership [Archer fixed morale by helping a girl with her crossword puzzle],
 claustrophobia [Hoshi spoke with Archer about her claustrophobia.],
 habitable planet in a binary star system [Enterprise crew was set to explore a planet replete with flora and fauna in a binary star system.],
 facing organized pursuit [Takret deserters took refuge on Enterprise when the were under pursuit by Takret militiamen.],
-
-:: Aliens
-Takret,
 
 
 ent2x13
@@ -1700,9 +1442,6 @@ Directed by: Roxann Dawson. Story by: John Shiban.
 2 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker [object], Khata'n Zshaar, Zho'Kaan,
-
 :: Choice Themes
 male bonding [Tucker and Zho'Kaan built up a bond of trust in the course of working together to survive on a desolate moon.],
 
@@ -1715,12 +1454,6 @@ mutual trust [Tucker and Zho'Kaan built up a bond of trust in the course of work
 :: Minor Themes
 universal translation device [Tucker and Zho'Kaan were able to communicate in sickbay with the help of the universal translator.],
 ethnic hatred [Arkonians loathed the Vulcans.],
-
-:: Settings
-scrubland, rocky landscape,
-
-:: Aliens
-Arkonian,
 
 
 ent2x14
@@ -1742,9 +1475,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 3 <mikael>,
 4 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Feezal, Oratt, Strom, Yuris,
-
 :: Choice Themes
 coping with having a stigmatizing illness [T'Pol had contracted a mind melding transmitted disease, called Pa'nar Syndrome, that carried with it a stigma among the Vulcans.],
 what it is like to be different [Vulcan mind melders were outcasts in Vulcan society.],
@@ -1765,9 +1495,6 @@ unrequited love [Phlox's wife Freezal had a thing for Tucker but he was uncomfor
 :: Minor Themes
 coping with having been raped [T'Pol had been violated in a mind meld.],
 passion for classic films [Tucker was excited to watch the classic horror film The Black Cat.],
-
-:: Aliens
-Denobulan, Vulcan,
 
 :: Other Keywords
 find a cure [Phlox for T'Pol's Pa'nar Syndrome.],
@@ -1791,9 +1518,6 @@ Directed by: David Straiton. Story by: Chris Black.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Shran, Soval, Maxwell Forrest, Telev, Tarah, Muroc,
-
 :: Choice Themes
 interfactional mediation [Archer was called on to mediate in a Andorian-Vulcan territorial dispute.],
 transnational conflict over a claimed territory [The Andorians and Vulcans both claimed the planet Paan Mokar, and Archer was called on to mediate between them.],
@@ -1806,12 +1530,6 @@ forced resettlement [According to the Andorians, a hundred years ago the Vulcans
 career choice [T'Pol confessed to Soval that she chose to work on Enterprise, rather than advancing her career at Starfleet headquarters in San Fransisco, because she found the work gratifying. T'Pol could have advanced her career somehow yet chose to stay on Enterprise],
 facing a hostage situation [The Andorians kept hostages to gain leverage in the negotiation, and Archer worked to free them by diplomatic means.],
 diplomacy vs. force [Tarah let it be know to Shran that she thought diplomacy was doomed to fail and a military option was to be preferred in the territorial dispute with the Vulcans.],
-
-:: Settings
-cavern,
-
-:: Aliens
-Vulcan, Andorian,
 
 :: Other Keywords
 tactical alert [] <13:20>,
@@ -1836,9 +1554,6 @@ Directed by: James Whitmore, Jr. Story by: Mike Sussman & Phyllis Strong.
 1 <mikael>,
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Maxwell Forrest, Suliban Commander,
-
 :: Choice Themes
 time travel [The crew finds a derelict ship, which was bigger on the inside than on the outside, that was conjectured to be from the future.],
 
@@ -1849,9 +1564,6 @@ device bigger inside than outside [The crew discovered a tiny derelict ship that
 time loop [People were re-experiencing events withe their memories partially, inexplicably, intact. For example, Tucker and Malcolm repeated variations of the same conversation over and over again.],
 time machine [The derelict ship discovered by the crew was conjectured to be a time machine that had traveled back from the future.],
 xenophobic isolationist beings [T'Pol warned Archer about the Tholians are an extremely xenophobic race.],
-
-:: Aliens
-Tholian, Suliban, Vulcan,
 
 :: Other Keywords
 tactical alert [] <29:20>,
@@ -1876,9 +1588,6 @@ Directed by: Allan Kroeker. Story by: John Shiban.
 1 <mikael>,
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kuroda Lor-ehn, Zoumas,
-
 :: Choice Themes
 human vs. captivity [Archer and Tucker were taken into custody by the Enolians on the charge of smuggling, and were being transferred to a penal colony where their vessel was taken over by a few of the prisoners.],
 
@@ -1888,9 +1597,6 @@ rights of accused [A group of prisoners were taken to a penal colony without muc
 
 :: Minor Themes
 coping with an obnoxious chatterbox [Tucker was annoyed with the chatty prisoner, named Zoumas, shacked next to him to the extent that he asked to changed seats.],
-
-:: Aliens
-Enolian, Nausicaan,
 
 
 ent2x18
@@ -1911,9 +1617,6 @@ Bormanis.
 :: Ratings
 2 <mikael>,
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Michael Rostov,
 
 :: Choice Themes
 incorporeal being [An incorporeal alien inhabited the body of Tucker and experienced the physical through his senses.],
@@ -1951,9 +1654,6 @@ Directed by: James L. Conway. Story by: Taylor Elmore and David A. Goodman.
 4 <mikael> [borderline 5 but for those idiotic manual labor mines],
 3 <paul>,
 
-:: Main Characters
-Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather [object], Hoshi Sato, Charles Tucker, Kolos, Orak, Duras,
-
 :: Choice Themes
 guilt and evidence [Archer was about to be convicted on flimsy evidence in a sham trial.],
 dysfunctional court system [The Klingon court system had become corrupted over time and Archer convinced his lawyer that it was in need of reform.],
@@ -1974,9 +1674,6 @@ the presumption of innocence [Archer was told he must demonstrate his innocence 
 social activism [Archer and his lawyer Kolos discussed how Kolos would stay behind in the mines and reforming the Klingon justice system.],
 coping with bad cooking [Archer was not a big fan of the food he was given in Klingon prison.],
 off-world prison colony [Archer was sentenced to life working the mines on a moon in the Klingon Empire.],
-
-:: Aliens
-Klingon, Arin'Sen,
 
 :: Other Keywords
 tactical alert [] <21:50>,
@@ -2001,9 +1698,6 @@ Directed by: James A. Contner. Story by: André Bormanis.
 :: Ratings
 2 <mikael>,
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather [object], Hoshi Sato, Charles Tucker, Rianna Mayweather, Paul Mayweather, Nora, Nicholas, Juan,
 
 :: Choice Themes
 sibling rivalry [Travis and Paul Mayweather were at odds over how to run the family cargo freighter, and Paul resented Travis over some old issues.],
@@ -2048,9 +1742,6 @@ Directed by: Robert Duncan McNeill. Story by: Daniel McCarthy.
 3 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox [object], T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Yolen, Trevix, Zepht, Hudak,
-
 :: Choice Themes
 racism in society [Phlox must treat a patient with racist views against his people.],
 having a preconception challenged [Both Phlox and Hudak had their preconceptions challenged about the one another species.],
@@ -2074,12 +1765,6 @@ doctor-patient confidentiality [Phlox cited doctor-patient confidentiality to Ar
 father and son [Phlox sent a message to his Antaran hating son to urge him to change his views of the Antaran people.],
 forced resettlement for peoples' own good [Tucker, Malcolm, and Maywether were tasked to forcibly evacuate Denobulan geologists from cave against the Denobulans will.],
 
-:: Settings
-cavern, rocky landscape,
-
-:: Aliens
-Denobulan, Antaran,
-
 
 ent2x22
 =======
@@ -2099,9 +1784,6 @@ Directed by: LeVar Burton. Story by: Rick Berman & Brannon Braga.
 :: Ratings
 5 <paul>,
 5 <mikael> [but Picard would have explored the issues much better],
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Drennik, Cogenitor, Veylo, Calla, Traistana,
 
 :: Choice Themes
 the ethics of interfering in the internal affairs of other powers [Tucker took it upon himself to emancipate the Cogenitors but things didn't work out like he expected. Archer had to decide whether or not to accept its request for asylum on the Enterprise.],
@@ -2126,9 +1808,6 @@ passion for classic films [Tucker was excited to watch The Day the Earth Stood S
 starship that can fly within a sun [the aliens were flying deep inside a star],
 literature appreciation [Archer and Vissian captain discussed Shakespeare and Sophocles.],
 
-:: Aliens
-Vissian,
-
 
 ent2x23
 =======
@@ -2148,9 +1827,6 @@ Directed by: David Livingston. Story by: Mike Sussman & Phyllis Strong.
 3 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Maxwell Forrest, Williams, Drake, Rooney, Foster, Moninger,
-
 :: Choice Themes
 
 :: Major Themes
@@ -2162,12 +1838,6 @@ self-replicating nanomachines [Phlox and others were infected with Borg self-rep
 the good of the many vs. the needs of the few [Should Archer attempt to rescue the two Humans held on the Borg ship or destroy it with all aboard? T'Pol advised him to destroy the ship, but Archer attempted the rescue.],
 collectively intelligent beings [Phlox described entering into the Borg collective mind.],
 assimilating beings [The Borg aren't a species of their own but assimilate others in order to perpetuate themselves.],
-
-:: Settings
-glacier, futuristic cityscape,
-
-:: Aliens
-Tarkalean, Borg,
 
 :: Other Keywords
 tactical alert [] <11:30>,
@@ -2193,9 +1863,6 @@ Directed by: LeVar Burton. Story by: John Shiban & Chris Black.
 3 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Maxwell Forrest, Ruby, A.G. Robinson,
-
 :: Choice Themes
 
 :: Major Themes
@@ -2212,12 +1879,6 @@ passion for exploration [Archer and A.G. Robinson were passionate about breaking
 dark matter nebula [Archer and T'Pol went on a mission to map a dark matter nebula.],
 the qualities of a good leader [A.G. Robinson explained to Archer that he lacked people skills necessary for command.],
 magnanimity in victory [A.G. Robinson to Archer who was gracious in defeat.],
-
-:: Settings
-futuristic cityscape,
-
-:: Aliens
-Vulcan,
 
 
 ent2x25
@@ -2239,9 +1900,6 @@ Directed by: Roxann Dawson. Story by: Rick Berman & Brannon Braga.
 2 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Skalaar, Kago-Darr, Gaavrin, Goroth,
-
 :: Choice Themes
 compromising one's ethical principles vs. great need [The Tellarite about whether or not to turn over a possibly innocent man to the Klingons and take the money.],
 
@@ -2256,12 +1914,6 @@ suppressed emotion [T'Pol had trouble suppressing her emotions as usual because 
 brother and brother [Skalaar wished for this brother Gaavrin to join him again on his ship running freight.],
 coping with unwelcome romantic attention [Phlox coped with unwelcome romantic advances from T'Pol.],
 cyclical mating cycle being [T'Pol and the Vulcan seven year mating cycle.],
-
-:: Settings
-lunar regolith,
-
-:: Aliens
-Tellarite, Klingon,
 
 :: Other Keywords
 find a cure [Phlox for a microbial infection that infected him and T'Pol.],
@@ -2289,9 +1941,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 2 <mikael>,
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Silik, Maxwell Forrest, Soval, Duras, Fer'at,
-
 :: Choice Themes
 attack from outer space by a powerful conquering alien race [A devastating attack is leveled against Earth by a space probe sent by the Xindi.],
 
@@ -2305,12 +1954,6 @@ coping with the death of a sibling [Tucker assumed that his sister had died in t
 medical ethical issue [Phlox was outraged by the lack of medical ethics displayed by Doctor Fer'at at Archer's medical examination.],
 duty vs. duty [T'Pol had to choose between her loyalty to the Vulcan High Command and to Archer.],
 loyalty to a leader [T'Pol had to choose between her loyalty to the Vulcan High Command and to Archer.],
-
-:: Settings
-futuristic cityscape,
-
-:: Aliens
-Suliban, Vulcan, Klingon,
 
 :: Other Keywords
 tactical alert [] <6:25>,
@@ -2335,9 +1978,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kessick, Jannar, Degra, Dolim, M. Romero, N. Kemper, J. Hayes,
-
 :: Choice Themes
 
 :: Major Themes
@@ -2357,12 +1997,6 @@ artificial gravity technology [Something was wrong with the gravity plating in p
 exploitation of sentient beings [People were held captive and forced to labor in the mines.],
 flirtation [Romance was in the air between T'Pol and Tucker.],
 fish-like being [Xindi aquatic aliens were at the Xindi council.],
-
-:: Settings
-cavern, sewer,
-
-:: Aliens
-Xindi,
 
 :: Other Keywords
 tactical alert [] <19:35, 38:45>,
@@ -2387,9 +2021,6 @@ Directed by: David Straiton. Story by: Mike Sussman.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Orgoth, N. Kemper, J. McKenzie, F. Hawkins,
-
 :: Choice Themes
 
 :: Major Themes
@@ -2405,9 +2036,6 @@ coping with insomnia [Tucker consulted Phlox about a treatment for his inability
 what if I found myself in a zero gravity environment [Archer's coffee floated up from his desk and hovered in the air.],
 descent into crime [The aliens turned to piracy to survive in the Expanse.],
 flirtation [Romance was in the air between T'Pol and Tucker.],
-
-:: Aliens
-Osaarian,
 
 :: Other Keywords
 tactical alert [] <36:15>,
@@ -2432,9 +2060,6 @@ Directed by: LeVar Burton. Story by: André Bormanis.
 2 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Tret, D. Chang, T. Palmer,
-
 :: Choice Themes
 quarantine dilemma [Were they justified in quarantining Loque'eque to save their own people?],
 
@@ -2448,12 +2073,6 @@ facing an epidemic [Tret explained how a virus genetically engineered by the Loq
 multi-species civilization [The Enterprise crew discovered a new arboreal species of Xindi.],
 mass infertility [The Loque'eque genetically engineered a virus that infects humanoids and transforms them into Loque'eque because they somehow lost the ability to reproduce.],
 flirtation [Romance was in the air between T'Pol and Tucker.],
-
-:: Settings
-jungle, ancient ruins, cavern,
-
-:: Aliens
-Xindi, Loque'eque,
 
 :: Other Keywords
 find a cure [Phlox for Loque'eque genetically engineered species transmuting virus.],
@@ -2478,9 +2097,6 @@ Directed by: Mike Vejar. Story by: Paul Brown & Brent V. Friedman.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Rajiin, Degra, Jannar, Dolim, Zjod, B'Rat,
-
 :: Choice Themes
 
 :: Major Themes
@@ -2496,9 +2112,6 @@ insectoid being [Insectoids were present at the Xindi council meetings.],
 flirtation [Romance was in the air between T'Pol and Tucker.],
 alien point of view [An alien was fascinated with common spices.],
 fish-like being [Xindi aquatic alien.],
-
-:: Aliens
-Xindi, Oran'taku,
 
 
 ent3x05
@@ -2521,9 +2134,6 @@ Directed by: David Livingston. Story by: Jonathan Fernandez & Terry Matalas.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, F. Hawkins,
-
 :: Choice Themes
 killing innocent but dangerous people [Should Archer order the killing of the murderous Vulcan zombies that were too far gone to be medically revived?],
 
@@ -2537,9 +2147,6 @@ rationality vs. emotionality [T'Pol mentioned that Vulcans used to be barbarous 
 the need for rest and recreation [Tucker suggested to Archer that the crew needed some rest and recreation and suggested a movie night.],
 passion for classic films [Tucker was eager to watch a classic comedy film at the ship's movie night.],
 the good of the many vs. the needs of the few [Should Archer leave T'Pol behind on the nearest habitable planet or risk losing his ship?],
-
-:: Aliens
-Vulcan,
 
 :: Other Keywords
 find a cure [Phlox for T'Pol's Trellium-D infection.],
@@ -2565,9 +2172,6 @@ Directed by: Roxann Dawson. Story by: Phyllis Strong.
 3 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato [object], Charles Tucker, Tarquin,
-
 :: Choice Themes
 telepathic society [Hoshi met a telepathic alien.],
 the need for companionship [Tarquin insisted that Hoshi stay with him in his castle while he set about telepathically uncovering the source of the Xindi weapon. Hoshi was the fifth in his series of companions.],
@@ -2590,9 +2194,6 @@ attack from outer space by a genocidal enemy [The Xindi were building a biologic
 acute anxiety [Hoshi had nightmares about Tarquin and felt anxiety.],
 fear [Hoshi had nightmares of Tarquin and felt afraid on the ship.],
 questioning one's sanity [Hoshi and Phlox questioned Hoshi's sanity after she had visions of Tarquin.],
-
-:: Settings
-castle,
 
 :: Other Keywords
 tactical alert [] <39:20>,
@@ -2617,9 +2218,6 @@ Directed by: David Straiton. Story by: Chris Black & Brent V. Friedman.
 2 <paul>,
 3 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Gralik Durr, Degra, J. Hayes,
-
 :: Choice Themes
 duty vs. conscience [Gralik Durr struggled with his conscience upon learning that his work was to be used for genocide.],
 attack from outer space by a genocidal enemy [The Xindi preparing to launch a planet destroying weapon at Earth.],
@@ -2639,12 +2237,6 @@ biological machinery [There was a larva powered ray gun.],
 reasons for war [Each of the Humans and Xindi combatant thinks the other is about to attack and so tries to attack preemptively.],
 trust in a potential foe [Archer and Gralik Durr developed a mutual bond of trust and worked together to sabotage the Xindi kemocite shipment.],
 respect for an enemy [Archer learned in dealing with Gralik Durr that not all Xindi are genocidal maniacs.],
-
-:: Settings
-woodland, cavern,
-
-:: Aliens
-Xindi,
 
 
 ent3x08
@@ -2666,9 +2258,6 @@ Directed by: Robert Duncan McNeill. Story by: Mike Sussman.
 3 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Soval, Yerdrin Lek,
-
 :: Choice Themes
 what if I had amnesia [Archer became infected with a parasite that prevented him from forming long term memories.],
 
@@ -2684,9 +2273,6 @@ sacrifice to prevent mass death [Future T'Pol and Future Phlox were prepared to 
 annihilation by a planet busting device [The Xindi successfully deployed a weapon that destroyed Earth.],
 romantic love [It was suggested that T'Pol loved Archer.],
 friendship [The gang of old friends stuck together on Enterprise.],
-
-:: Aliens
-Xindi, Vulcan, Yridian,
 
 
 ent3x09
@@ -2708,9 +2294,6 @@ Directed by: David Straiton. Story by: David A. Goodman.
 1 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Bethany, MacReady, Bennings, Draysik,
-
 :: Choice Themes
 ethnic hatred [The Human colonists hated the Skagarans for having enslaved their ancestors, and the Skagarans weren't fond of their modern day Human oppressors either.],
 social oppression [Human colonists subjugated and enslaved the Skagarans. MO: initially the roles had been reversed.],
@@ -2727,12 +2310,6 @@ prejudice [Deputy Bennings was particularly prejudiced against the "Skags".],
 :: Minor Themes
 civilization vs. savagery [Bethany felt that Archer must have looked upon her people as barbarous by comparison to Archer's people.],
 standing up to a bully [Archer stood up to Deputy Bennings who was bullying a Skagaran in a saloon.],
-
-:: Settings
-wild west town, saloon, woodland, stable,
-
-:: Aliens
-Skagaran,
 
 
 ent3x10
@@ -2753,9 +2330,6 @@ Directed by: LeVar Burton. Story by: Manny Coto.
 :: Ratings
 3 <paul>,
 3 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker [object],
 
 :: Choice Themes
 people bread for organ donation [Phlox bred a Tucker clone in order to harvest its organs for the purpose of saving Tucker's life.],
@@ -2799,9 +2373,6 @@ Directed by: Mike Vejar. Story by: Rick Berman & Brannon Braga.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Loomis, Daniels, Damron,
-
 :: Choice Themes
 alien abduction [Xindi reptilian aliens were using Loomis to abduct people and harvest their blood.],
 
@@ -2820,12 +2391,6 @@ the science of blood types [The eight abo/rh types were implied.],
 justification for torture [Archer beat up Loomis up for information.],
 the deadly sins [T'Pol said they had found the worst qualities all in one human: greed, violence, moral corruption; then there was an incident with burger gluttony],
 vegetarianism [T'Pol was disgusted by Loomis eating a hamburger.],
-
-:: Settings
-city street, warehouse, dilapidated apartment,
-
-:: Aliens
-Xindi,
 
 
 ent3x12
@@ -2846,9 +2411,6 @@ Directed by: Roxann Dawson. Story by: Manny Coto.
 :: Ratings
 4 <mikael> [but that's being generous],
 4 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, D'Jamat, Yarrick, Indava, Jareb, Nalbis, Ceris,
 
 :: Choice Themes
 religious fundamentalism [Religious zealots seek to execute Captain Archer.],
@@ -2876,12 +2438,6 @@ duty vs. conscience [D'Jamat described a case where he was compelled to kill a y
 planetary invisibility cloak [Tucker and Travis visited a cloaked Xindi sphere in the teaser.],
 artificial planet [Tucker and Travis visited a cloaked Xindi sphere in the teaser.],
 
-:: Settings
-city ruins,
-
-:: Aliens
-Triannon,
-
 
 ent3x13
 =======
@@ -2901,9 +2457,6 @@ Directed by: David Livingston. Story by: Chris Black.
 :: Ratings
 2 <mikael>,
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Talas, Degra, Dolim, Jannar, Shran,
 
 :: Choice Themes
 
@@ -2926,9 +2479,6 @@ reptilian being [A Xindi reptilian was unsatisfied with the progress made in dev
 the desire to repay one's debts [Shran spoke of repaying a debt to Archer and that is why he wanted to help.],
 fish-like being [Xindi aquatic alien.],
 pridefulness [Shran accused Archer of being motivated by pride when Archer demanded that he be aboard the Andorian vessel. Shran refused Archer's offer of help after his vessel was damaged in an explosion.],
-
-:: Aliens
-Xindi, Andorian,
 
 :: Other Keywords
 tactical alert [] <33:30>,
@@ -2953,9 +2503,6 @@ Directed by: Mike Vejar. Story by: Terry Matalas.
 0 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Degra, Thalen,
-
 :: Choice Themes
 
 :: Major Themes
@@ -2972,9 +2519,6 @@ reptilian being [Phlox was studying the physiology of the Xindi reptilians.],
 multi-species civilization [Archer convinced Degra that the Xindi insectoids had overthrown the other Xindi species.],
 coping with being separated from one's family [Degra wondered whether his family members, if alive, would even recognize him after having been held captive by Xindi insectoids for three years.],
 memory erasure [Phlox used Regulan blood worms to wipe the memories of Degra and his crew.],
-
-:: Aliens
-Xindi,
 
 :: Other Keywords
 tactical alert [] <37:06>,
@@ -2999,9 +2543,6 @@ Directed by: David Livingston. Story by: Rick Berman & Brannon Braga.
 :: Ratings
 3 <mikael>,
 3 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Amanda Cole, J. Hayes,
 
 :: Choice Themes
 rivalry [Malcolm and Hayes. T'Pol and Amanda Cole.],
@@ -3029,9 +2570,6 @@ planet killing weapon [Archer attempts to get information about the Xindi superw
 attack from outer space by a genocidal enemy [Archer attempts to get information about the Xindi superweapon from on of the Sphere Builders.],
 risky revival of patient for vital information [Archer forced Phlox to revive the alien at great risk to its health in order to gather intelligence on the Xindi.],
 
-:: Aliens
-Sphere Builders,
-
 :: Other Keywords
 tactical alert [] <35:34>,
 
@@ -3054,9 +2592,6 @@ Directed by: Roxann Dawson. Story by: Chris Black.
 :: Ratings
 2 <mikael>,
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox [object], T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker,
 
 :: Choice Themes
 acute anxiety [Phlox became paranoid and sufferer from delusions and hallucinations while the Enterprise crew lay in hibernation.],
@@ -3093,9 +2628,6 @@ Directed by: Michael Grossman. Story by: André Bormanis & Mike Sussman.
 :: Ratings
 2 <mikael>,
 4 <paul>,
-
-:: Main Characters
-Jonathan Archer [object], Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, J. Hayes, D. Chang, F. Hawkins,
 
 :: Choice Themes
 obsession [Archer becaome overly protective of an Insectoid hatchery to the point of endangering his mission.],
@@ -3140,9 +2672,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman, Brannon Braga & Manny Coto.
 1 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox [object], T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Daniels, Degra, Dolim, Jannar, Thalen,
-
 :: Choice Themes
 
 :: Major Themes
@@ -3160,9 +2689,6 @@ coping with being tortured [Archer got a taste of his own medicine.],
 multi-species civilization [The Xindi council featured aliens of several species evolved on the same planet.],
 reptilian being [Archer was tortured by Xindi reptilians.],
 leadership [T'Pol didn't feel she needed any leadership advice from Tucker, after she inherited command of the Enterprise.],
-
-:: Aliens
-Xindi,
 
 
 ent3x19
@@ -3183,9 +2709,6 @@ Directed by: James L. Conway. Story by: Phyllis Strong.
 :: Ratings
 2 <mikael>,
 3 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Daniels, Degra, Dolim, Jannar, Thalen,
 
 :: Choice Themes
 the end justifies the means [Should Archer raid the Illyrian vessel and steal the warp coil he needs to repair Enterprise and continue his mission to save Earth from destruction?],
@@ -3209,9 +2732,6 @@ reptilian being [Xindi reptilian.],
 mistrust leading to group dysfunction [Dissension among the different species of the Xindi council led to dysfunction when it came to deploying their super weapon against Earth.],
 fish-like being [Archer was transported in a Xindi aquatic alien space ship.],
 
-:: Aliens
-Xindi, Sphere Builders, Illyrian,
-
 
 ent3x20
 =======
@@ -3231,9 +2751,6 @@ Directed by: LeVar Burton. Story by: Chris Black & David A. Goodman.
 :: Ratings
 1 <paul>,
 1 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Degra, Jannar, Rivers, Taylor,
 
 :: Choice Themes
 
@@ -3256,9 +2773,6 @@ burning the candle at both ends [Phlox relieved Tucker of duty for four hours so
 extra-dimensional being [Archer shared information about an inter-dimensional alien, on of the Sphere Builders, that the found with Degra.],
 time travel [Jannar and Degra talked about a visitor from the future to the Xindi council.],
 coping with the death of a sibling [Tucked broke down in tears over the death of his sister in a Xindi attack on Earth.],
-
-:: Aliens
-Xindi, Sphere Builders,
 
 :: Other Keywords
 tactical alert [] <6:40, 31:53>,
@@ -3283,9 +2797,6 @@ Directed by: Roxann Dawson. Story by: Mike Sussman.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Degra, Jannar, Karyn Archer, Lorian,
-
 :: Choice Themes
 
 :: Major Themes
@@ -3301,9 +2812,6 @@ what if I met myself from a different time [T'Pol met an older version of hersel
 rationality vs. emotionality [Alternate reality T'Pol urged T'Pol to embrace her emotions. Lorian had to balance his Human emotions with his Vulcan rationality.],
 romantic relationship [Future T'Pol discussed about her relationship with Tucker with T'Pol.],
 multi-generational spaceship [Enterprise was converted into a multi-generational spaceship in the alternate time line.],
-
-:: Aliens
-Xindi, Vulcan,
 
 :: Other Keywords
 tactical alert [] <6:50>,
@@ -3327,9 +2835,6 @@ Directed by: David Livingston. Story by: Manny Coto.
 :: Ratings
 1 <paul>,
 1 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Degra, Jannar, Dolim,
 
 :: Choice Themes
 
@@ -3358,9 +2863,6 @@ problem of language and meaning [Hoshi translated the aquatic Xindi language for
 grief [Tucker grieved over the death of his sister. Archer talked about seven million dead in the Xindi attack on Earth.],
 coping with the death of a sibling [Tucker grieved over the death of his sister.],
 
-:: Aliens
-Xindi, Sphere Builders,
-
 :: Other Keywords
 tactical alert [] <36:50>,
 
@@ -3384,9 +2886,6 @@ Directed by: Robert Duncan McNeill. Story by: André Bormanis & Chris Black.
 1 <paul>,
 0 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Jannar, Dolim, J. Hayes,
-
 :: Choice Themes
 
 :: Major Themes
@@ -3408,9 +2907,6 @@ grief [Malcolm and the MACOs with the death of Major Hayes. Major Hayes was hit 
 coping with the death of a subordinate [Major Hayes was hit hard by the death of one of the MACOs under his command.],
 loss of emotional equilibrium [T'Pol was emotionally unstable because of her past addiction to trellium.],
 career choice [T'Pol considered joining Star Fleet instead of returning to the Vulcan High Command after the completion of her mission on the Enterprise.],
-
-:: Aliens
-Xindi, Sphere Builders,
 
 :: Other Keywords
 tactical alert [] <25:30>,
@@ -3434,9 +2930,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 0 <mikael>,
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Jannar, Dolim, Shran, Daniels,
-
 :: Choice Themes
 
 :: Major Themes
@@ -3453,9 +2946,6 @@ selfless service [Archer gave his life to destroy the Xindi super weapon.],
 master and pet [Porthos was brooding over Archer's death in the sickbay.],
 the Nazi stereotype [An alien in full Nazi regalia was shown at the end of the episode.],
 stepping up to the task [Hoshi pulled herself together and refused to assist the reptilians from launching the super weapon against Earth.],
-
-:: Aliens
-Xindi, Sphere Builders, Andorian,
 
 
 ent4x01
@@ -3477,9 +2967,6 @@ Directed by: Allan Kroeker. Story by: Manny Coto.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Alicia Travers, Vosk, Silik, Sal, Ghrath, Daniels, Carmine,
-
 :: Choice Themes
 aliens meddling in history [The Na'kuhl were attempting to alter Earth's history to make the Nazis win World War II.],
 
@@ -3495,12 +2982,6 @@ master and pet [Pothos was reunited with Archer.],
 biological weapons [The Na'kuhl were developing a water-based pathogen to kill all non-Aryans.],
 racism in society [Alicia Travers explained to Archer how the Germans had outlawed colored people music.],
 teleportation device [Tucker and Mayweather transported from Enterprise to Brooklyn. Alicia Travers was surprised to be transported up to the Enterprise.],
-
-:: Settings
-woodland,
-
-:: Aliens
-Suliban, Na'kuhl,
 
 
 ent4x02
@@ -3522,9 +3003,6 @@ Directed by: Allan Kroeker. Story by: Manny Coto.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Alicia Travers, Vosk, Silik, Daniels, Carmine, Kraul,
-
 :: Choice Themes
 aliens meddling in history [The Na'kuhl were attempting to alter Earth's history to make the Nazis win World War II.],
 
@@ -3543,12 +3021,6 @@ time machine [Vosk built a time machine.],
 genetically engineered soldier [Silik referenced his genetically engineered nature.],
 factions joining forces against a common enemy [Archer and Silik joined forces to defeat Vosk.],
 Adolf Hitler [There was stock footage of Hitler giving a speech.],
-
-:: Settings
-woodland,
-
-:: Aliens
-Suliban, Na'kuhl,
 
 
 ent4x03
@@ -3571,9 +3043,6 @@ Directed by: Allan Kroeker. Story by: Mike Sussman.
 :: Ratings
 2 <mikael> [-1 for messing up what Vulcans are supposed to be],
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, T'Les, Koss, Erika Hernandez, Soval, Maxwell Forrest, Williams,
 
 :: Choice Themes
 cross cultural romance [T'Pol and Tucker took the next step in their interspecies romantic relationship.],
@@ -3598,12 +3067,6 @@ meeting the parents [Tucker went to Vulcan and met T'Pol's mother.],
 traditionalism [Koss respected Vulcan traditions and wished to follow through on his arranged marriage with T'Pol.],
 coping with being famous [Archer went mountain climbing to get away from people asking him for his autograph and so on.],
 
-:: Settings
-futuristic cityscape, mountainside,
-
-:: Aliens
-Vulcan, Xindi,
-
 
 ent4x04
 =======
@@ -3623,9 +3086,6 @@ Directed by: David Livingston. Story by: Ken LaZebnik.
 :: Ratings
 3 <mikael>,
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Malik, Persis, Raakin, Jeffrey Pierce, Arik Soong,
 
 :: Choice Themes
 slavery [Orion space slavers captured nine crew members and sold them on a space slave market.],
@@ -3650,9 +3110,6 @@ eugenics [Archer discussed the Eugenics Wars.],
 father and daughter [Arik Soong raised the Augment Persis as his own daughter and he reunited with her when she freed him from the Enterprise brig.],
 pain buzzer [Phlox needed to remove a pain device that was grafted into Jeffrey Pierce's neck.],
 
-:: Aliens
-Klingon, Orion,
-
 
 ent4x05
 =======
@@ -3673,9 +3130,6 @@ Directed by: Mike Vejar. Story by: Michael Bryant.
 :: Ratings
 2 <mikael>,
 2 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Malik, Persis, Jeremy Lucas, Arik Soong, Udar, Lokesh,
 
 :: Choice Themes
 genetic engineering in society [We are made to ponder whether Arik Soong was right in his conviction that we ought to use genetic engineering to make super humans.],
@@ -3703,12 +3157,6 @@ father and daughter [Arik Soong raised the Augment Persis as his own daughter.],
 eugenics [Archer and Phlox discussed a eugenics war that had happened on Earth and cost 30 million lives.],
 loyalty to one's family [Udar was torn between his Augment family and the Humans.],
 
-:: Settings
-cavern,
-
-:: Aliens
-Denobulan,
-
 
 ent4x06
 =======
@@ -3729,9 +3177,6 @@ Directed by: LeVar Burton. Story by: Mike Sussman.
 :: Ratings
 1 <mikael> [this storyline went downhills fast],
 1 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Malik, Persis, Jeremy Lucas, Arik Soong, Magh, Lokesh,
 
 :: Choice Themes
 genetic engineering in society [We are made to ponder whether Arik Soong was right in his conviction that we ought to use genetic engineering to make super humans.],
@@ -3755,9 +3200,6 @@ love triangle [Tucker, T'Pol, and her Vulcan husband.],
 arranged marriage [T'Pol and Tucker had a talk about her arranged marriage.],
 betrayal [Malik felt he and the Augments were betrayed by Arik Soong and Malik killed him in cold blood as a result.],
 seeing the error of one's ways [Arik Soong came to the conclusion that genetic engineering was not the path to improving human beings and contemplated turning to cybernetics to achieve that goal.],
-
-:: Aliens
-Klingon,
 
 :: Other Keywords
 tactical alert [] <9:20>,
@@ -3784,9 +3226,6 @@ Reeves-Stevens.
 1 <mikael>,
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, V'Las, Maxwell Forrest, Soval, Koss, Syrran, Stel,
-
 :: Choice Themes
 international politics [Earth's embassy on Vulcan was bombed by terrorists.],
 terrorism in society [The main suspects in a bombing of Earth's embassy on Vulcan were members of a group of religious zealots, called the Syrrannites.],
@@ -3809,12 +3248,6 @@ human vs. beast [Archer and T'Pol were stalked by a Sehlat in the desert.],
 the soul [T'Pol explained to Archer how the katra is something like the Vulcan equivalent of the soul.],
 telepathic ability [Soval performed a couple of mind melds, but not to read minds, but rather to transmit thoughts.],
 
-:: Aliens
-Vulcan,
-
-:: Settings
-cavern, desert,
-
 
 ent4x08
 =======
@@ -3835,9 +3268,6 @@ Directed by: Roxann Dawson. Story by: André Bormanis.
 1 <mikael>,
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Kuvak, V'Las, Soval, Surak, T'Pau, T'Les,
-
 :: Choice Themes
 
 :: Major Themes
@@ -3852,12 +3282,6 @@ quasi-religious cult [T'Pol confided in Archer that she felt her mother T'Les jo
 coping with radiation sickness [Surak was suffering from radiation sickness.],
 pacifism [The Syrrannites were pacifists and opposed a preemptive strike on Andoria.],
 preemptive strike in self-defense [The Vulcan council planned a preemptive strike on Andoria.],
-
-:: Aliens
-Vulcan
-
-:: Settings
-cavern, desert,
 
 :: Other Keywords
 tactical alert [] <32:25>,
@@ -3883,9 +3307,6 @@ Directed by: David Livingston. Story by: Mike Sussman.
 fell asleep],
 1 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, V'Las, Kuvak, Shran, Sovak, Koss, T'Pau, Talok,
-
 :: Choice Themes
 
 :: Major Themes
@@ -3901,12 +3322,6 @@ the soul [T'Pol and T'Pau argued over the existence of the "katra", i.e., the Vu
 coping with being tortured [Shran tortured Soval in an effort to obtain knowledge as to the whereabouts of the Vulcan fleet.],
 justification for torture [Should Shran resort to torture to obtain the true location of the Vulcan fleet?],
 husband and wife [Koss released T'Pol from her bond of marriage to him at the episode's conclusion.],
-
-:: Settings
-cavern,
-
-:: Aliens
-Vulcan, Andorian, Romulan,
 
 :: Other Keywords
 tactical alert [] <18:20>,
@@ -3930,9 +3345,6 @@ Directed by: David Straiton. Story by: Michael Bryant & Ken LaZebnik.
 :: Ratings
 3 <mikael>,
 3 <paul>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Emory Erickson, Danica Erickson,
 
 :: Choice Themes
 risk taking in the advancement of science and technology [Emory Erickson lost his own son in a risky transporter experiment.],
@@ -3976,9 +3388,6 @@ Stevens.
 4 <mikael> [-1 for stupid human-american supremacism],
 4 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker,
-
 :: Choice Themes
 facing an epidemic [An unstoppable silicon-based virus was spreading all over Enterprise.],
 quarantine dilemma [Archer must balance the his obligation to cure Tucker and Hoshi of a contagious disease with his obligation to not let the contagion spread to the rest of the crew.],
@@ -3994,9 +3403,6 @@ silicon-based being [A virus was said to be silicon-based which made it more dea
 :: Minor Themes
 sacrificing one's self to contain a pandemic [Tucker stopped Hoshi from spreading the virus throughout the entire ship by dragging her back to quarantine.],
 passion for classic films [Tucker spoke to Hoshi about a classic film, called "The Andromeda Strain", in which a disease from outer space arrived on Earth.],
-
-:: Aliens
-Organian,
 
 :: Other Keywords
 find a cure [Phlox sought a cure for a silicon-based virus that infected Tucker and Hoshi.],
@@ -4022,9 +3428,6 @@ Directed by: David Straiton. Story by: Mike Sussman & André Bormanis.
 2 <mikael>,
 2 <paul>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Shran, Gran, Talas, Nijil, Valdore, Naarg,
-
 :: Choice Themes
 international politics [Archer mediates a trade dispute between the Andorians and the Tellarites at the neutral planet Babel.],
 
@@ -4039,9 +3442,6 @@ master and pet [Hoshi told Archer to keep Porthos out of sight out of concern th
 justification for torture [Shran opted for torturing a Tellarite for information.],
 flying drone [Romulans used a telepahtically remote controlled spaceship to attack their enemies.],
 romantic love [Shran and Talas fell in love in spite of her being under Shran's command.],
-
-:: Aliens
-Andorian, Tellarite, Romulan,
 
 
 ent4x13
@@ -4104,9 +3504,6 @@ coping with the death of a lover [Shran grieved over the death of his lover Tala
 telepathic society [An Andorian telepath was piloting the Romulan drone space ship.],
 telepathic being [An Andorian telepath was piloting the Romulan drone space ship.],
 
-:: Aliens
-Tellarite, Romulan, Andorian,
-
 :: Other Keywords
 tactical alert [] <35:30>,
 
@@ -4131,9 +3528,6 @@ Directed by: Mike Vejar. Story by: Manny Coto.
 3 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Shran, Jhamel, Valdore, Vrax, Lissan, Gareb,
-
 :: Choice Themes
 telepathic society [The Aenar were a telepathic species that lived on Andoria. The Romulan unmanned spaceships were operated by a telepathic Aenarian. T'Pol and Jhamel used their telepathic abilities to operate a spaceship remotely.],
 flying drone [The Romulans used telepathically controlled spaceships. The Enterprise crew tried to duplicated their technology.],
@@ -4152,12 +3546,6 @@ subterranean civilization [Shran told Archer that the Andorians built their citi
 brother and sister [Jhamel endeavored to save her brother Gareb who had been captured by the Romulans.],
 selfless service [T'Pol and others argued about who should test the telepathy device.],
 
-:: Settings
-arctic wasteland, cavern,
-
-:: Aliens
-Tellarite, Romulan, Andorian,
-
 
 ent4x15
 =======
@@ -4174,9 +3562,6 @@ Directed by: Michael Grossman. Story by: Manny Coto.
 
 :: Date
 2005-02-18
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Antaak, K'Vagh, Erika Hernandez, Harris, Marab, Collins, Kelby, Rivers,
 
 :: Ratings
 1 <paul>,
@@ -4203,12 +3588,6 @@ betrayal [Malcolm betrayed Archer and the crew by failing to disclose vital info
 quarantine dilemma [The Klingons began massacring those infected by the man-made plague in an effort to slow the spreading of the contagion.],
 father and son [K'Vagh and his Augment son Marab.],
 practitioner vs. theorist [Tucker about warp field specialists versus real engineers.],
-
-:: Settings
-white void,
-
-:: Aliens
-Klingon,
 
 :: Other Keywords
 find a cure [Phlox is forced to seek a cure for a disease caused by an attempt to create Klingon/Augment hybrids.],
@@ -4237,9 +3616,6 @@ Stevens.
 1 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Antaak, K'Vagh, Erika Hernandez, Laneth, Harris, Marab, Krell,
-
 :: Choice Themes
 the good of the many vs. the needs of the few [Klingons repeatedly justified sacrificing individuals for the greater good. Should Phlox test a potentially lethal plague cure on four Klingons to potentially save millions from dying of the plague?],
 duty vs. duty [Malcolm was torn between following his duty to Archer and his former commander Harris.],
@@ -4259,9 +3635,6 @@ quarantine dilemma [General Krell was ordered to destroy a Klingon colony in ord
 polygamy [Phlox and Antaak discussed the polygamous nature of Denobulans.],
 father and son [K'Vagh and his Augment son Marab.],
 romantic love [T'Pol and Tucker.],
-
-:: Aliens
-Klingon,
 
 :: Other Keywords
 find a cure [Phlox is forced to seek a cure for a disease caused by an attempt to create Klingon/Augment hybrids.],
@@ -4288,9 +3661,6 @@ Directed by: Allan Kroeker. Story by: Manny Coto.
 3 <paul>,
 2 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Harrad-Sar, Navaar, Kelby, D'Nesh, Maras,
-
 :: Choice Themes
 the battle of the sexes [It seems like women are slaves in Orion society but it turns out that they rule the men using their feminine wiles.],
 
@@ -4310,9 +3680,6 @@ resisting a temptation [The Enterprise crewmen tried to refrain from engaging in
 sister and sister [The Orion slave girls Navaar, D'Nesh, and Maras were sisters.],
 telepathic society [T'Pol and Tucker were able to communicate via telepathic daydreams.],
 trust in a potential foe [Archer elected to trust the Orion captain by visiting his ship despite warnings],
-
-:: Aliens
-Orion,
 
 :: Other Keywords
 tactical alert [] <1:00, 32:30>,
@@ -4336,9 +3703,6 @@ Directed by: James L. Conway. Story by: Mike Sussman.
 :: Ratings
 2 <paul>,
 1 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Maximilian Forrest,
 
 :: Choice Themes
 ruthlessness [The mirror universe Enterprise crew were ruthless and sadistic.],
@@ -4371,9 +3735,6 @@ teleportation device [Archer and his away team transported over to the Enterpris
 time travel [The TOS Defiant came from the future in a parallel universe.],
 old flames [Archer and Hoshi.],
 
-:: Aliens
-Vulcan, Tellarite, Tholian,
-
 
 ent4x19
 =======
@@ -4394,9 +3755,6 @@ Directed by: Marvin V. Rush. Story by: Manny Coto.
 2 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Maximilian Forrest, Soval, Black, Gardner, Kelby,
-
 :: Choice Themes
 ruthlessness [The mirror universe Enterprise crew were ruthless and sadistic. Archer killed, tortured, and assassinated in effort to become the new Terran emperor.],
 
@@ -4414,9 +3772,6 @@ reptilian being [A Gorn reptilian was lurking aboard the Defiant.],
 coping with being tortured [Archer had an alien slave beaten mercilessly during an interrogation.],
 time travel [The TOS Defiant came from the future in a parallel universe.],
 artificial gravity technology [The artificial gravity was turned up in order to defeat the Gorn.],
-
-:: Aliens
-Gorn, Andorian, Orion, Vulcan,
 
 
 ent4x20
@@ -4438,9 +3793,6 @@ Directed by: LeVar Burton. Story by: Manny Coto.
 2 <paul>,
 1 <mikael>,
 
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Nathan Samuels, Harris, Daniel Greaves, Mercer, Josiah, Phillip Green, Gannet Brooks, John Frederick Paxton, Susan Khouri,
-
 :: Choice Themes
 xenophobia in society [A xenophobic faction of humanity threatens to undermine talks to form a new coalition of planets.],
 
@@ -4459,12 +3811,6 @@ teleportation device [Mayweather lamented increased transporter use aboard Enter
 passion for fast vehicles [Mayweather lamented increased transporter use aboard Enterprise at the expense of shuttlepod flights.],
 artificial gravity technology [The moon's mining facility was marked by its lack of artificial gravity.],
 telepathic society [Tucker and T'Pol's telepathic bond was featured.],
-
-:: Settings
-cavern, lunar regolith,
-
-:: Aliens
-Coridanite,
 
 
 ent4x21
@@ -4487,9 +3833,6 @@ Reeves-Stevens & Andre Bormanis.
 :: Ratings
 2 <paul>,
 1 <mikael>,
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Nathan Samuels, Soval, Harris, Josiah, Daniel Greaves, Gannet Brooks, Kelby, Thoris, John Frederick Paxton
 
 :: Choice Themes
 xenophobia in society [A xenophobic faction of humanity threatens to undermine talks to form a new coalition of planets.],
@@ -4516,9 +3859,6 @@ international politics [A meeting of the Coalition of Planets, a.k.a., the Space
 duty vs. love [Should Mayweather trust his old flame Gannet Brooks or not?],
 passion for exploration [Archer gave an passioned speech about space exploration at the episode's conclusion.],
 
-:: Aliens
-Vulcan, Andorian, Tellarite,
-
 
 ent4x22
 =======
@@ -4541,9 +3881,6 @@ Directed by: Allan Kroeker. Story by: Rick Berman & Brannon Braga.
 :: Ratings
 3 <paul>,
 3 <mikael> [I'd have given it more but for the stupid action shit],
-
-:: Main Characters
-Jonathan Archer, Phlox, T'Pol, Malcolm Reed, Travis Mayweather, Hoshi Sato, Charles Tucker, Shran, Deanna Troi, William T. Riker [object],
 
 :: Choice Themes
 virtual reality room [Riker simulated the Enterprise crew on the holodeck.],
@@ -4570,9 +3907,6 @@ invisible spaceship [Riker was involved in a covert program to test a cloaking d
 polygamy [Phlox went to sit with his three wives to listen to Archer's speech.],
 master and pet [Archer and Porthos.],
 coping with saying goodbye forever [T'Pol about spoke with Tucker about the possibility they might never see one another again.],
-
-:: Aliens
-Andorian,
 
 :: Other Keywords
 intruder alert [] <28:15>,

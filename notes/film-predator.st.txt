@@ -1,22 +1,3 @@
-Collection: Predator
-====================
-
-:: Title
-Predator
-
-:: Date
-1987-2018
-
-:: Collections
-Collection: Predator
-
-:: Description
-The four feature films to date in the original Predator franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
-
-
 movie: Predator (1987)
 ======================
 
@@ -24,7 +5,7 @@ movie: Predator (1987)
 Predator
 
 :: Description
-The leader of an elite military rescue team goes on a mission to save hostages in guerrilla-held territory in Central America, but a technologically advanced space alien monster spying, stalking, and starts hunting the main characters. 
+The leader of an elite military rescue team goes on a mission to save hostages in guerrilla-held territory in Central America, but a technologically advanced space alien monster spying, stalking, and starts hunting the main characters.
 
 :: Date
 1987-06-12
@@ -52,6 +33,25 @@ vision beyond the visible spectrum glasses [The Predator had infrared vision.],
 
 :: Collections
 Collection: Science fiction films of the 1980s
+
+
+Collection: Predator
+====================
+
+:: Title
+Predator
+
+:: Date
+1987-2018
+
+:: Collections
+Collection: Predator
+
+:: Description
+The four feature films to date in the original Predator franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
 
 
 movie: Predator 2 (1990)
@@ -149,7 +149,7 @@ movie: The Predator (2018)
 The Predator
 
 :: Description
-The film follows a ragtag band of fugitive soldiers who must fight off an invading pair of Predators. It is the fourth installment in the Predator franchise. 
+The film follows a ragtag band of fugitive soldiers who must fight off an invading pair of Predators. It is the fourth installment in the Predator franchise.
 
 :: Date
 2018-09-06
@@ -186,4 +186,5 @@ powered exoskeleton [The film concluded with Quinn obtaining a powerful, Predato
 
 :: Collections
 Collection: Science fiction films of the 2010s
+
 
