@@ -1,3 +1,22 @@
+Collection: Alien
+=================
+
+:: Title
+Alien
+
+:: Date
+1979-2017
+
+:: Collections
+Collection: Alien
+
+:: Description
+The six feature films to date in the Alien franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Alien_(franchise)#Films
+
+
 movie: Alien (1979)
 ===================
 
@@ -45,25 +64,6 @@ the calculus of human life [Should Ripley open the hatch to let a parasitized cr
 :: Collections
 Collection: Science fiction films of the 1970s,
 Collection: Time Out magazine's Top100 films
-
-
-Collection: Alien
-=================
-
-:: Title
-Alien
-
-:: Date
-1979-2017
-
-:: Collections
-Collection: Alien
-
-:: Description
-The six feature films to date in the Alien franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Alien_(franchise)#Films
 
 
 movie: Aliens (1986)
