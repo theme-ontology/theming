@@ -129,6 +129,33 @@ movie: Man from Atlantis III: Killer Spores (1977)
 movie: Man from Atlantis IV: The Disappearances (1977)
 
 
+Collection: Alien
+=================
+
+:: Title
+Alien
+
+:: Date
+1979-2017
+
+:: Collections
+Collection: Alien
+
+:: Description
+The six feature films to date in the Alien franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Alien_(franchise)#Films
+
+:: Component Stories
+movie: Alien (1979)
+movie: Aliens (1986)
+movie: Alien 3 (1992)
+movie: Alien Resurrection (1997)
+movie: Prometheus (2012)
+movie: Alien: Covenant (2017)
+
+
 Collection: Mad Max
 ===================
 
