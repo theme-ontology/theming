@@ -341,6 +341,31 @@ movie: Jurassic World (2015)
 movie: Jurassic World: Fallen Kingdom (2018)
 
 
+Collection: Men in Black
+========================
+
+:: Title
+Men in Black
+
+:: Date
+1997-2019
+
+:: Collections
+Collection: Men in Black
+
+:: Description
+The four films in the American science fiction action comedy film series based the on Malibu / Marvel comic book series The Men in Black by Lowell Cunningham.
+
+:: References
+https://en.wikipedia.org/wiki/Men_in_Black_(film_series)
+
+:: Component Stories
+movie: Men in Black (1997)
+movie: Men in Black II (2002)
+movie: Men in Black 3 (2012)
+movie: Men in Black: International (2019)
+
+
 Collection: The Matrix
 ======================
 
