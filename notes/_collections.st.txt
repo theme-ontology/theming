@@ -203,4 +203,33 @@ movie: RoboCop 3 (1993)
 movie: RoboCop (2014)
 
 
+Collection: Jurassic Park
+=========================
+
+:: Title
+Jurassic Park
+
+:: Date
+1993-2016
+
+:: Collections
+Collection: Jurassic Park
+
+:: Description
+The five feature films to date in the Jurassic Park franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Jurassic_Park#Film_series
+
+:: Component Stories
+movie: Jurassic Park (1993)
+movie: The Lost World: Jurassic Park (1997)
+movie: Jurassic Park III (2001)
+movie: Jurassic World (2015)
+movie: Jurassic World: Fallen Kingdom (2018)
+
+
+
+
+
 
