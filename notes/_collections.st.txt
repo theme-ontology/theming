@@ -474,6 +474,31 @@ movie: RoboCop 3 (1993)
 movie: RoboCop (2014)
 
 
+Collection: Predator
+====================
+
+:: Title
+Predator
+
+:: Date
+1987-2018
+
+:: Collections
+Collection: Predator
+
+:: Description
+The four feature films to date in the original Predator franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
+
+:: Component Stories
+movie: Predator (1987)
+movie: Predator 2 (1990)
+movie: Predators (2010)
+movie: The Predator (2018)
+
+
 Collection: Jurassic Park
 =========================
 
