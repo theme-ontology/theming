@@ -327,6 +327,67 @@ movie: Man from Atlantis III: Killer Spores (1977)
 movie: Man from Atlantis IV: The Disappearances (1977)
 
 
+Collection: The Incredible Hulk
+===============================
+
+:: Title
+The Incredible Hulk
+
+:: Date
+1977-2008
+
+:: Collections
+Collection: The Incredible Hulk
+
+:: Description
+Films featuring the Marvel Comics character The Hulk as the main character.
+
+:: References
+https://en.wikipedia.org/wiki/Hulk_in_other_media#Live-action
+
+:: Component Stories
+movie: The Incredible Hulk (1977)
+movie: The Incredible Hulk: Death in the Family (1977)
+movie: The Incredible Hulk: Married (1978)
+movie: The Incredible Hulk Returns (1988)
+movie: The Trial of the Incredible Hulk (1989)
+movie: The Death of the Incredible Hulk (1990)
+movie: Hulk (2003)
+movie: The Incredible Hulk (2008)
+
+
+Collection: Spider-Man
+======================
+
+:: Title
+Spider-Man
+
+:: Date
+1977-2019
+
+:: Collections
+Collection: Spider-Man
+
+:: Description
+Films centered on the Marvel Comics character Spider-Man.
+
+:: References
+https://en.wikipedia.org/wiki/Spider-Man_in_film
+
+:: Component Stories
+movie: Spider-Man (1977)
+movie: SpiderMan Strikes Back (1978)
+movie: SpiderMan: The Dragons Challenge (1981)
+movie: SpiderMan (2002)
+movie: SpiderMan 2 (2004)
+movie: SpiderMan 3 (2007)
+movie: The Amazing SpiderMan (2012)
+movie: The Amazing SpiderMan 2 (2014)
+movie: SpiderMan: Homecoming (2017)
+movie: SpiderMan: Into the SpiderVerse (2018)
+movie: SpiderMan: Far From Home (2019)
+
+
 Collection: Alien
 =================
 
@@ -573,6 +634,32 @@ https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
 movie: The Matrix (1999)
 movie: The Matrix Reloaded (2003)
 movie: The Matrix Revolutions (2003)
+
+
+Collection: Marvel Cinematic Universe
+=====================================
+
+:: Title
+Marvel Cinematic Universe
+
+:: Date
+2008-2019
+
+:: Collections
+Collection: Marvel Cinematic Universe
+
+:: Description
+Films from the Marvel Cinematic Universe which is an American media franchise and shared universe centered on a series of superhero films, independently produced by Marvel Studios and based on characters that appear in American comic books published by Marvel Comics.
+
+:: References
+https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+
+:: Component Stories
+movie: The Incredible Hulk (2008)
+movie: Avengers: Age of Ultron (2015)
+movie: SpiderMan: Homecoming (2017)
+movie: Avengers: Endgame (2019)
+
 
 
 
