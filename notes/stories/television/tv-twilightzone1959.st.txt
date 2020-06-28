@@ -3370,18 +3370,19 @@ Serling and directed by Richard L. Bare.
 Directed by: Richard L. Bare. Story by: Damon Knight, Rod Serling.
 
 :: Ratings
-5 <paul*>,
+5 <paul>,
 5 <mikael>,
 
 :: Choice Themes
-attack from outer space [we saw a peculiarly insidious scheme for inspiring mankind's trust by giving us technology, only to gradually harvest us as food (Chambers' final words were that we all had his fate to look forwards to)],
+attack from outer space by a conquering enemy [We saw a peculiarly insidious scheme for inspiring mankind's trust by giving us technology, only to gradually harvest us as food (Chambers' final words were that we all had his fate to look forwards to).],
 
 :: Major Themes
 extraterrestrial being [The seemingly benevolent Kanamits came to Earth from another galaxy offering to solutions to all the world's problems.],
 trust in a potential foe [Should the leaders of Earth's nation states trust the seemingly benevolent Kanamits when they offered humanitarian aid that would turn the world in a paradise?],
 peace on Earth [The governments of the Earth put an end to war with the aid of advanced Kanamit technology.],
 first contact [The seemingly benevolent Kanamits establish formal relations with the people of Earth through the United Nations.],
-ironic twist of fate [mankind were delighted to learn that the aliens wished nothing more than "to serve man", but through an ironic twist of fate it transpires that they wanted to serve man as a meal],
+ironic twist of fate [Mankind were delighted to learn that the aliens wished nothing more than "to serve man", but through an ironic twist of fate it transpires that they wanted to serve man as a meal.],
+problem of language and meaning [The cookbook presented a peculiar problem of language and meaning.],
 
 :: Minor Themes
 telepathic ability [The Kanamits, whose gaping mouths never moved, addressed people using telepathy. MO: it was actually said in the beginning that the voices were "mechanically" produced],
@@ -3389,9 +3390,8 @@ telepathic being [The Kanamits were a telepathic race of extra-galactic aliens.]
 intergalactic space travel [The Kanamits were sending flying saucers full of people to their home world in another galaxy.],
 flying saucer [People we shown boarding a flying saucer en route to the Kanamit home world.],
 nuclear weapons [It felt strange to Patty how the H-bomb was no longer anything to worry about.],
-post-scarcity economy utopia [FD the alien described how Earth could get free energy, solve world hunger, and end war],
-lie detector [the Kanamit underwent a lie detector test],
-communicating with someone who speaks a different language [FD the cookbook presented a peculiar problem of language and meaning],
+post-scarcity economy utopia [The alien described how Earth could get free energy, solve world hunger, and end war.],
+lie detector [The Kanamit underwent a lie detector test.],
 
 
 tz1959e3x25
@@ -3413,29 +3413,27 @@ Directed by: Richard L. Bare. Story by: Charles Beaumont.
 4 <mikael>,
 4 <paul>,
 
-:: Choice Themes
-
 :: Major Themes
 facing organized pursuit [Old Ben was an alien, and police-like aliens were after him.],
-sacrifice for a child [Old Ben took big risks to save the life of his young friend Jenny.] <MO: we have friend and child both...>,
+sacrifice for a child [Old Ben took big risks to save the life of his young friend Jenny.],
+sacrifice for a friend [Old Ben took big risks to save the life of his young friend Jenny.],
 friendship [An alien disguised as an old man became best friends with the little girl Jenny while he was hiding out on Earth.],
 shapeshifting [Ben was a shapeshifting alien who assumed the form of an old man while hiding out on Earth. He also took on the guise of a space monster and a fly.],
 extraterrestrial being [It turned out that Old Ben was really an alien who was hiding out on Earth.],
 alien secretly living among us [We saw an alien king living in secret on Earth in the guise of an old man.],
 human childhood [We saw the young girl Jenny deal with some difficult childhood issues, including having to walk with a leg brace, boys, and a mean foster mother.],
+magic powers [Old Ben was thought by the children to have magic powers.],
+the flip side of being in power [Old Ben fled because he hated the responsibility of leadership,],
 
 :: Minor Themes
-magic powers [Old Ben was thought by the children to have magic powers.],
 aunt and niece [Jenny had a turbulent relationship with her foster parent/aunt.],
 coping with a disability [Little Jenny had a leg brace.],
-personal ethical dilemma [Old Ben said he could heal Jenny's leg but that he mustn't, and then he did once circumstances had changed.],
 coping with a nag [Jenny's aunt kept berating her about this and that.],
 the game of baseball [We saw a group of children enjoying a game of softball in the park.],
-the flip side of being in power [Old Ben fled because he hated the responsibility of leadership,],
-time slow down process [The two alien police-like men froze Mrs. Gann in time for one minute while they waited for Old Ben to say goodbye to Jenny.],
 
 :: Not Themes
 ironic twist of fate [While the plot twist seemed ironic from a viewer's perspective, it was not so from any other character's perspective.],
+shapeshifter [Ben seems to have been able to shapeshift because of a special device he was carrying, and it was not his innate ability of his race.],
 
 
 tz1959e3x26
@@ -3460,19 +3458,18 @@ Directed by: Paul Stewart. Story by: Richard Matheson.
 3 <paul>,
 
 :: Choice Themes
-coping with a loved one being in peril [two perents were distraught as their daughter was lost in a mysterious fourth dimension],
-accessible extra dimension of space [openings appeared through which people could enter and move in a fourth dimension somehow],
-four-dimensional space [FD merge with above?],
-magic portal [FD there was a mysterious opening in the wall, through which one could pass and enter another dimension],
+coping with a loved one being in peril [Two parents were distraught as their daughter was lost in a mysterious fourth dimension.],
+four-dimensional space [Openings appeared through which people could enter and move in a fourth dimension somehow.],
 
 :: Major Themes
-husband and wife [Chris and Ruth Miller],
+husband and wife [Chris and Ruth Miller.],
+magic portal [There was a mysterious opening in the wall, through which one could pass and enter another dimension.],
+father and daughter [Tina's parents worked frantically to rescue her after she wound up lost in the fourth dimension.],
+mother and daughter [Tina's parents worked frantically to rescue her after she wound up lost in the fourth dimension.],
+master and pet [The Miller family dog vanished into the fourth dimension after scampering under Tina's bed.],
 
 :: Minor Themes
-hysterical woman stereotype [the mother had a shrill voice and did nothing but scream the whole story through - so 60s],
-father and daughter [],
-mother and daughter [],
-master and pet [The Miller family dog vanished into the fourth dimension after scampering under Tina's bed.],
+hysterical woman stereotype [The mother had a shrill voice and did nothing but scream the whole story through - so 60s.],
 
 
 tz1959e3x27
@@ -3495,9 +3492,10 @@ Directed by: John Brahm. Story by: Charles Beaumont.
 3 <paul>,
 
 :: Choice Themes
-what if my lover suddenly couldn't remember me [David woke up one morning to find that nobody knew who he was anymore.] <FD generalize? Could also use the general "what if my personal identity came into question".>,
+what if someone couldn't remember me anymore [David woke up one morning to find that nobody knew who he was anymore.],
 
 :: Major Themes
+what if my personal identity came into question [David was made to wonder whether the person he thought he was was merely a delusional construct of his own mind.],
 human vs. inexplicable adversity [David was at a loss to explain his peculiar new circumstance and came to believe an impossible conspiracy was afoot.],
 what if I told the truth and nobody would believe me [David tried to convince various people he knew that he knew them but to them he was but a crazy stranger.],
 husband and wife [Wilma suddenly didn't recognize David after 11 years of marriage.],
@@ -3527,21 +3525,23 @@ Directed by: William F. Claxton. Story by: Rod Serling.
 
 :: Choice Themes
 the lust for power [Peter expressed his wish to be the one calling the shots - as he became god to a race of tiny aliens, the power went to his head.],
+the greatest among us is the smallest in another world [While Craig was worshiped as a god among a race a ant-sized people, he was crushed much like an ant by a race of gigantic people.],
 
 :: Major Themes
-what if I were stranded without food and water [Two astronauts found themselves stranded on a barren planet with few provisions.] <FD it was that type of story>,
-a god and its people [FD],
+what if I were stranded without food and water [Two astronauts found themselves stranded on a barren planet with few provisions.],
+a god and its people [Craig came to be worshiped as a god by a race of ant-sized people. In particular, the little people erected a life-sized statue of Craig, and presumably lived in mortal terror of him.],
 what if I were a god [Peter relished becoming a God and went mad with the power.],
 poetic justice [Peter tyrannically lorded it over a race of tiny people, but was blindsided by the realization that he himself was but a tiny plaything to a race of ginormous humanoids.],
-Lilliputian being [Two astronauts landed on a planet populated by a race of people no bigger than ants.] <PS: Would be nice to have a better word that Lilliputian to describe tiny people.>,
+Lilliputian being [Two astronauts landed on a planet populated by a race of people no bigger than ants.],
 extraterrestrial begin [Two astronauts discovered a race of ant-sized people living on a distant planet.],
-giant person [Craig's dead body easily fit into the palm of the hand of one of the two mountain-sized humanoid aliens who landed on the planet at the conclusion of the story.] <For discussion: Craig was a giant from the point of view of the little people.>,
-hubris [] <for discussion>,
+giant person [Craig's dead body easily fit into the palm of the hand of one of the two mountain-sized humanoid aliens who landed on the planet at the conclusion of the story.],
+alternate points of view [While Craig appeared to be a god from the little people's point of view, he was considered to be little more than an ant to the giant humanoids.],
 
 :: Minor Themes
-working together in spite of disagreement [William and Peter did not like each other but had to put this aside and get along regardless],
+working together in spite of disagreement [William and Peter did not like each other but had to put this aside and get along regardless.],
 spaceship [Two astronauts emergency landed their rocket ship on some rocky planet millions of miles from Earth.],
 binary star system [Two suns were blaring down on the stranded astronauts.],
+habitable planet in a binary star system [Two astronauts discovered a race of ant-sized people living on a planet with two suns in its sky.],
 
 
 tz1959e3x29
@@ -3565,22 +3565,20 @@ Directed by: Lamont Johnson. Story by: Price Day, Rod Serling.
 
 :: Choice Themes
 vigilante justice [Mr. Crangle was busy maniacally administering his own justice to whomever he felt like designating "an evildoer".],
-fanaticism [] <A human way of life defined as "A character pursues or defends of something in an extreme and passionate way that goes beyond normality.">,
-
-:: Major Themes
-invasion of privacy [] <FD possibly topical>,
-guilt and evidence [Mrs. Lucas asked Mr. Crangle by what right he presumed to sit in judgment of her husband, and we must indeed ponder by what right he levied his many baseless charges.],
-facing wrongful accusations [Mrs. Lucas pleaded for clemency on behalf of her husband who was taking Mr. Crangle's accusations rather hard.],
-the need for self-vindication [] <for discussion>,
-good and evil in religion [Mr. Crangle railed maniacally about all the evil he would expunge from the world.] <for discussion>,
-unbounded thought powers [Mr. Crangle maintained that he could will, if he wished, a variety of changes to the world. He decided to make every evildoer in the world two feet tall, at four o'clock. In the end he only changed himself.],
-poetic justice [Mr. Crangle took it upon himself the designate and punish all the world's evildoers, but ended up punishing himself.],
 obsession [Mr. Crangle was obsessed with rooting out all the evildoers in the world.],
 
+:: Major Themes
+guilt and evidence [Mrs. Lucas asked Mr. Crangle by what right he presumed to sit in judgment of her husband, and we must indeed ponder by what right he levied his many baseless charges.],
+facing wrongful accusations [Mrs. Lucas pleaded for clemency on behalf of her husband who was taking Mr. Crangle's accusations rather hard.],
+what is good and evil [Mr. Crangle railed maniacally about all the evil he would expunge from the world.],
+unbounded thought powers [Mr. Crangle maintained that he could will, if he wished, a variety of changes to the world. He decided to make every evildoer in the world two feet tall, at four o'clock. In the end he only changed himself.],
+poetic justice [Mr. Crangle took it upon himself the designate and punish all the world's evildoers, but ended up punishing himself.],
+conspiracy theory [Among many other things, Mr. Crangle had a theory of a Red conspiracy calling the shots in Washington.],
+
 :: Minor Themes
+the need for self-vindication [Mrs. Lucas went to Mr. Crangle to try to get her husband's name cleared.],
 the religious end of the world [Oliver's idea of four o'clock was explained as his "Götterdämmerung" in the opening narration, which is Wagner's tortured variant of Ragnarök, a prophesied world-ending war between the Old Norse Gods.],
 husband and wife [Mr. and Mrs. Lucas, indirectly.],
-conspiracy theory [Among many other things, Mr. Crangle had a theory of a Red conspiracy calling the shots in Washington.],
 what if I shrank in size [A shrunken Mr. Crangle struggled with an oversized pencil.],
 master and pet [Mr. Crangle kept a pet parrot named Pete.],
 
@@ -3601,7 +3599,7 @@ series The Twilight Zone.
 Directed by: Lamont Johnson. Story by: Frederic Louis Fox, Rod Serling.
 
 :: Ratings
-4 <mikael>,
+4 <mikael*>,
 5 <paul>,
 
 :: Choice Themes
