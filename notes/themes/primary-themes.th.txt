@@ -1309,17 +1309,6 @@ emotional support.
 coming to terms with things
 
 
-accessible extra dimension of space
-===================================
-
-:: Description
-There appears to be a fourth spatial dimension into which movement is somewhat
-and somehow possible.
-
-:: Parents
-speculative reality
-
-
 accidental alien destruction of planetary civilization
 ======================================================
 
@@ -3265,12 +3254,12 @@ The Gamma 7A system, with its billions of inhabitants, was utterly destroyed
 by a giant space amoeba in tos2x19 "The Immunity Syndrome".
 
 
-attack from outer space by a powerful conquering alien race
-===========================================================
+attack from outer space by a powerful conquering enemy
+======================================================
 
 :: Description
-Imperialistic aliens from outer space come along and subjugate your
-civlization to their own ends.
+Alien beings from outer space come along and subjugate your civlization to 
+make it serve their own ends.
 
 :: Parents
 attack from outer space
@@ -3281,6 +3270,9 @@ destroyed by the savage Terran Empire in tos2x10 "Mirror, Mirror".
 
 :: References
 https://en.wikipedia.org/wiki/Alien_invasion
+
+:: Aliases
+attack from outer space by a powerful subjugating enemy
 
 
 attack from outer space by a world eating machine
@@ -26393,12 +26385,21 @@ parallel universe
 :: Description
 A hypothetical self-contained universe co-existing with our own.
 
+:: Notes
+The word "dimension" is used in two different sense in fiction. Sometimes
+what is meant is no different from a parallel universe. Sometimes what is meant
+is a fourth spatial dimension of space as an addition to the three we know.
+In the latter case we use "four-dimensional space" as a theme.
+
 :: Parents
 speculative reality
 
 :: References
 https://en.wikipedia.org/wiki/Parallel_universes_in_fiction
 http://www.sf-encyclopedia.com/entry/parallel_worlds
+
+:: Aliases
+parallel dimension
 
 
 paralysis device
@@ -37071,8 +37072,8 @@ lead to socially good outcomes? Are the policies morally justified if so?
 social ethical dilemma
 
 
-the end of the world
-====================
+the religious end of the world
+==============================
 
 :: Description
 A religious doctrine that predicates the end of all material things for one
@@ -37087,6 +37088,9 @@ seemed to appear in the flesh in tng4x13 "Devil's Due".
 
 :: References
 https://en.wikipedia.org/wiki/End_time
+
+:: Aliases
+Götterdämmerung, Ragnarök, Apocalypse
 
 
 the enemy of my enemy is my friend
@@ -43596,11 +43600,12 @@ seemingly magical phenomena.
 extraordinary experience
 
 
-what if my lover suddenly couldn't remember me
-==============================================
+what if someone couldn't remember me any more
+=============================================
 
 :: Description
-A character suddenly finds that their lover has lost all memories of them.
+A character suddenly finds that a person that used to know them well has now lost 
+all memories of them.
 
 :: Parents
 what if someone around me changed
