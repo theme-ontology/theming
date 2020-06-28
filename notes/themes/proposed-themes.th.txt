@@ -131,20 +131,239 @@ human character stereotype
 https://en.wikipedia.org/wiki/Culture_of_Japan
 
 
-racial supremacism
-==================
+relations between social groups in society
+==========================================
 
 :: Description
+There are two different and notably distinct social groups within a society, 
+for example two ethnicities, and some aspect of the relationship between these
+two groups are featured. Notably, this is the category of themes that
+explore different types of hatred and prejudice in society.
+
+:: Parents
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Social_group
+
+
+hatred in society
+=================
+
+:: Description
+There is notable bellicosity directed towards a distinct social group 
+within a society.
+
+:: Parents
+relations between social groups in society
+
+:: References
+https://en.wikipedia.org/wiki/Hatred#Legal_issues
+
+
+ethnic hatred
+=============
+
+:: Description
+Notable hostility toward an ethnic group is featured.
+
+:: Parents
+hatred in society
+
+:: References
+https://en.wikipedia.org/wiki/Ethnic_hatred
+
+
+hatred of exceptional people
+============================
+
+:: Description
+There is hostility towards a category of people that stand out because
+of some ability or other distinctive quality.
+
+:: Parents
+hatred in society
+
+
+anti-intellectualism in society
+===============================
+
+:: Description
+The ramifications of anti-intellectualism in society are explored.
+
+:: Parents
+hatred of exceptional people
+
+:: Examples
+Daystrom was harassed by philistines like Captain Kirk who didn't understand
+is his great achievements in duotronic computing in tos2x24 "The Ultimate
+Computer".
+
+:: References
+https://en.wikipedia.org/wiki/Anti-intellectualism
+
+
+prejudice in society
+====================
+
+:: Description
+The subject of preconceived (typically unfavorable) notions about a group 
+of people in society is explored.
 
 :: Notes
-If a character expresses a belief in racial purity...
+The themes "hatred in society" or "ethnic hatred" are more appropriate in cases
+where there is hostility but not necessarily any preconceived notions. A people
+at war may, for example, quite logically hate their enemy on account of that enemy 
+being demonstrably organized to do murder.
+
+:: Parents
+relations between social groups in society
+
+:: References
+https://en.wikipedia.org/wiki/Prejudice
+
+:: Related Themes
+prejudice
+
+
+racism in society
+=================
+
+:: Description
+The issue of a large portion of society having an irrational (typically unfavorable)
+prejudice against people of a certain ethnicity, i.e., race, is discussed.
+
+:: Notes
+Any use of a racial slur is indicative of this prejudice. It is, however,
+possible for people of different ethnic groups to hate each other without
+any particular preconceived notions being apparent. In that case the theme
+"ethnic hatred" is used. 
 
 :: Parents
 prejudice in society
 
 :: References
+https://en.wikipedia.org/wiki/Racism
+
+
+antisemitism in society
+=======================
+
+:: Description
+There is notable prejudice against Jewish people.
+
+:: Parents
+racism in society
+
+:: References
+https://en.wikipedia.org/wiki/Antisemitism
+
+
+racial supremacism
+==================
+
+:: Description
+A character expresses the belief that their own ethnic group (as perceived by that 
+character) is somehow superior to other races.
+
+:: Notes
+If a character is preoccupied with the purity of their own race, for example by
+objecting vociferously to all mixed marriages, they may be presumed to stand
+for racial supremacism.
+
+:: Parents
+racism in society
+
+:: References
 https://en.wikipedia.org/wiki/Supremacism
 
+
+class prejudice in society
+==========================
+
+:: Description
+The issue of a large portion of society having a prejudice against
+people of certain social classes is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Class_discrimination
+
+:: Aliases
+social class prejudice in society
+
+
+lookism in society
+==================
+
+:: Description
+The issue of people being too obsessed with looks and appearances, their own
+and others, is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Lookism
+
+
+prejudice against ex-convicts
+=============================
+
+:: Description
+Prejudice against ex-convicts, even though they have atoned for their crimes, 
+is discussed.
+
+:: Parents
+prejudice in society
+
+:: Examples
+Nobody trusted Ro Laren after she got out of the penal stockade on Jaros II
+and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took
+pity on her.
+
+
+xenophobia in society
+=====================
+
+:: Description
+The issue of a large portion of society having hostile and fearful attitudes
+toward strangers is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Xenophobia
+
+
+AI prejudice in society
+=======================
+
+:: Description
+The issue of a large portion of society having a prejudice against
+artificial intelligences (or their forerunners) is discussed.
+
+:: Parents
+prejudice in society
+
+
+sexism in society
+=================
+
+:: Description
+Prejudice against someone because of their gender is featured.
+
+:: Parents
+gender issue, prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Sexism
+
+:: Aliases
+gender discrimination
 
 
 

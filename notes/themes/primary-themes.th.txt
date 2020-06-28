@@ -41,17 +41,6 @@ machine.
 alien point of view
 
 
-AI prejudice in society
-=======================
-
-:: Description
-The issue of a large portion of society having a hostile prejudice against
-artificial intelligences (or their forerunners) is discussed.
-
-:: Parents
-prejudice in society
-
-
 AI rights
 =========
 
@@ -2358,27 +2347,6 @@ gravity manipulating technology
 :: References
 https://en.wikipedia.org/wiki/Anti-gravity
 http://www.sf-encyclopedia.com/entry/antigravity
-
-
-anti-intellectualism in society
-===============================
-
-:: Description
-The ramifications of anti-intellectualism in society are explored.
-
-:: Parents
-prejudice in society
-
-:: Examples
-Daystrom was harassed by philistines like Captain Kirk who didn't understand
-is his great achievements in duotronic computing in tos2x24 "The Ultimate
-Computer".
-
-:: References
-https://en.wikipedia.org/wiki/Anti-intellectualism
-
-:: Related Themes
-anti-intellectualism
 
 
 anti-technology way of life
@@ -5938,23 +5906,6 @@ specially equipped shuttlecraft into the giant space amoeba.
 
 :: References
 https://www.merriam-webster.com/dictionary/battle/clash%20of%20wills
-
-
-class prejudice in society
-==========================
-
-:: Description
-The issue of a large portion of society having a hostile prejudice against
-people of certain social classes is discussed.
-
-:: Parents
-prejudice in society
-
-:: References
-https://en.wikipedia.org/wiki/Class_discrimination
-
-:: Aliases
-social class
 
 
 classical philosophy
@@ -12461,19 +12412,6 @@ classical philosophy
 https://en.wikipedia.org/wiki/Ethics
 
 
-ethnic hatred
-=============
-
-:: Description
-Hostility toward an ethnic group is featured.
-
-:: Parents
-political issue
-
-:: References
-https://en.wikipedia.org/wiki/Ethnic_hatred
-
-
 ethology
 ========
 
@@ -17052,20 +16990,6 @@ the extent that war of one sort or another is conceivably imminent.
 
 :: Parents
 war
-
-
-hatred of intellectuals
-=======================
-
-:: Description
-Someone displays hostility and mistrust towards educated and bookish people.
-
-:: Parents
-hatred
-
-:: References
-https://en.wikipedia.org/wiki/Anti-intellectualism
-http://www.sf-encyclopedia.com/entry/anti-intellectualism_in_sf
 
 
 hatred unites
@@ -22012,20 +21936,6 @@ Someone is actively seeking a romantic partner.
 
 :: Parents
 romantic relationship issue
-
-
-lookism in society
-==================
-
-:: Description
-The issue of people being too obsessed with looks and appearances, their own
-and others, is discussed.
-
-:: Parents
-prejudice in society
-
-:: References
-https://en.wikipedia.org/wiki/Lookism
 
 
 loss of emotional equilibrium
@@ -28849,56 +28759,6 @@ Federation in tng3x10 "The Defector".
 https://en.wikipedia.org/wiki/Preemptive_war
 
 
-prejudice
-=========
-
-:: Description
-A character has a preconceived negative opinion about a category of people,
-typically an ethnic group. In the extreme this leads to fear and hatred of
-that group.
-
-:: Parents
-human character
-
-:: References
-https://en.wikipedia.org/wiki/Prejudice
-
-:: Related Themes
-prejudice in society
-
-
-prejudice against ex-convicts
-=============================
-
-:: Description
-The issue of a large portion of society having a hostile prejudice against ex-
-convicts even though the latter have atoned for their crimes is discussed.
-
-:: Parents
-prejudice in society
-
-:: Examples
-Nobody trusted Ro Laren after she got out of the penal stockade on Jaros II
-and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took
-pity on her.
-
-
-prejudice in society
-====================
-
-:: Description
-The subject of prejudice against a group of people in society is explored.
-
-:: Parents
-sociocultural issue
-
-:: References
-https://en.wikipedia.org/wiki/Prejudice
-
-:: Related Themes
-prejudice
-
-
 prenuptial agreement
 ====================
 
@@ -29714,27 +29574,6 @@ A character questions whether their beliefs are really rational.
 
 :: Parents
 human worrying about self
-
-
-racism in society
-=================
-
-:: Description
-The issue of a large portion of society having an irrational, hostile,
-prejudice against people of a certain ethnicity, i.e., race, is discussed.
-
-:: Notes
-This theme is generally considered topical when a racial slur is notably 
-featured.
-
-:: Parents
-prejudice in society
-
-:: References
-https://en.wikipedia.org/wiki/Racism
-
-:: Aliases
-race
 
 
 radiation neutralizer
@@ -32224,22 +32063,6 @@ masters in matters of the flesh.
 
 :: Parents
 artificial being, artificial intelligence
-
-
-sexism in society
-=================
-
-:: Description
-Prejudice against someone because of their gender is featured.
-
-:: Parents
-gender issue
-
-:: References
-https://en.wikipedia.org/wiki/Sexism
-
-:: Aliases
-gender discrimination
 
 
 sexual assault in society
@@ -45101,20 +44924,6 @@ human worrying about self
 Captain Picard and his crew finally rejected the fake orders they had received
 to kill defenceless aliens in tng5x14 "Conundrum", because the orders went
 against good conscience.
-
-
-xenophobia in society
-=====================
-
-:: Description
-The issue of a large portion of society having hostile and fearful attitudes
-toward strangers is discussed.
-
-:: Parents
-prejudice in society
-
-:: References
-https://en.wikipedia.org/wiki/Xenophobia
 
 
 xenophobic isolationist beings
