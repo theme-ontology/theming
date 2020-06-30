@@ -39,6 +39,9 @@ mutation will only result in their deaths.
 2 <mikael>,
 3 <paul>,
 
+:: Genre
+sci-fi, action,
+
 :: Choice Themes
 prejudice in society [The mutants in this society were the target of prejudice and xenophobia.],
 xenophobia in society [The mutants in this society were the target of prejudice and xenophobia.],
@@ -106,6 +109,9 @@ Stryker's worldwide genocide.
 :: Ratings
 0 <mikael>
 3 <paul>,
+
+:: Genre
+sci-fi, action,
 
 :: Choice Themes
 prejudice in society [The mutants in this society were the target of prejudice and xenophobia.],
@@ -179,6 +185,9 @@ Wolverine must accept that in order to stop Grey, he will have to kill her.
 1 <mikael>,
 1 <paul>,
 
+:: Genre
+sci-fi, action,
+
 :: Choice Themes
 prejudice in society [An element of society saw mutancy as a disease that needed to be cured, but most mutants didn't see their condition as a disease of any sort.],
 diversity vs. unity [Should the mutants give up their powers to fit in to society?],
@@ -240,6 +249,9 @@ indestructible metal, adamantium.
 :: Ratings
 2 <mikael>
 2 <paul>,
+
+:: Genre
+sci-fi, action,
 
 :: Choice Themes
 unkillable attribute [However damaged Logan become by conventional means, his body eventually healed itself.],
@@ -303,6 +315,9 @@ the Brotherhood.
 2 <mikael>,
 3 <paul>,
 
+:: Genre
+sci-fi, action,
+
 :: Choice Themes
 the desire for vengeance [Erik was consumed by a desire to make the ex-Nazi scientist Sebastian Shaw pay for having killed his mother.],
 what it is like to be different [Some mutants, especially Raven and Hank, longed to be accepted by society.],
@@ -359,6 +374,9 @@ Yashida from all manner of ninja and Yakuza assassins.
 1 <mikael>,
 1 <paul>,
 
+:: Genre
+sci-fi, action,
+
 :: Choice Themes
 the quest for immortality [Yashida's obsession with trying to live forever brought strive to his family, and nearly bankrupted the eponymous corporation he'd founded.],
 
@@ -407,6 +425,9 @@ existence of mutants - and potentially, all of humanity.
 :: Ratings
 1 <mikael>
 1 <paul>,
+
+:: Genre
+sci-fi, action,
 
 :: Choice Themes
 time travel [Logan was sent back in time to the year 1973 change history. To be precise, the consciousness of Logan in 2023 was sent back in time into his body in 1973.],
@@ -462,10 +483,14 @@ Deadpool to hunt down the man who nearly destroyed his life.
 2 <mikael>,
 2 <paul>,
 
+:: Genre
+sci-fi, action,
+
 :: Choice Themes
 romantic love [While Wade feared that Vanessa would reject him after he became horribly disfigured, in the end she accepted him without hesitation.],
 love conquers all [While Wade feared that Vanessa would reject him after he became horribly disfigured, in the end she accepted him without hesitation.],
 self-healing ability [We are given to understand that no matter how damaged Deadpool becomes, his body will eventually reconstitute itself.],
+unkillable attribute [We are given to understand that no matter how damaged Deadpool becomes, his body will eventually reconstitute itself.],
 
 :: Major Themes
 coping with being disfigured [Wade wore a full body suit and mask to cover the burn-like scars all over his entire body.],
@@ -556,7 +581,7 @@ movie: Logan (2017)
 Logan
 
 :: Date
-2017
+2017-02-17
 
 :: Description
 In the film, Logan and Professor Charles Xavier meet a young girl named Laura,
@@ -564,28 +589,41 @@ a test-tube daughter of Wolverine, who is being hunted by the Reavers led by
 Donald Pierce.
 
 :: Ratings
-4 <Mikael>
+4 <mikael>,
+4 <paul>,
+
+:: Genre
+sci-fi, action,
 
 :: Choice Themes
-coping with aging [],
-coming to terms with one's own death [Logan was slowly and painfully poisoned by his interior adamantium.],
-coping with having a chronic condition [Logan was slowly and painfully poisoned by his interior adamantium.],
-grief [so many died and had died],
+coping with aging [Logan was feeling the weight of his years, and the now elderly Xavier was knocking on death's door.],
+coming to terms with one's own death [Logan was being slowly and painfully poisoned by his adamantium skeleton.],
 
 :: Major Themes
-the flip side of immortality [Logan contemplated suicide.],
-depression [Logan was depressed to the point that he wished for death],
-facing organized pursuit [],
+coping with having a chronic condition [Logan was being slowly and painfully poisoned by his adamantium skeleton.],
+self-healing ability [Logan's innate ability to regenerate himself after injury was failing him in his old age.],
+supersoldier [Logan and other mutants were turned into soldiers.],
+unethical corporate practices [A global corporation created Laura and other children from mutant DNA to become weapons.],
+father and daughter [Logan came to cherish his test-tube daughter Laura, ultimately giving his own life to save her and her friends.],
+facing organized pursuit [Logan, Xavier, and Laura were on the run from Transigen henchmen.],
+the flip side of immortality [The immortal Logan lived in constant agony and longed to die.],
 immortality [Logan lived in pain, yet he could not die.],
-genetically engineered soldier [Logan and other mutants turned into soldiers; genetically engineered seems close enough],
-heroism [Logan let loose in the end],
-remorse [Logan for being a killer],
-unethical corporate practices [A global corporation was pursuing Wolverine.],
+depression [Logan was broodish to the point that he wished for death.],
+grief [Logan recurringly mourned his long departed mutant comrades. Logan buried his long time mentor Xavier. Laura broke down in tears when her father Logan died in right in front of her.],
+heroism [Although reluctant to help the children for a long time, Logan stepped up in the end and saved them from being captured by the Transigen corporation.],
+human cloning [Rice created a Logan clone. more generally, Transigen corporation using DNA from a number of mutants to make clones.],
 
 :: Minor Themes
-alcohol abuse [Logan],
-coping with being tortured [Caliban was tortured],
-dealing with children [Logan and Laura],
+alcohol abuse [Logan was hitting the bottle pretty hard.],
+coping with a disability [Xavier was confined to a wheelchair.],
+bionic hand [Donald Pierce hand a robotic right hand.],
+coping with being tortured [Donald tortured the albino mutant Caliban by exposing him to sunlight.],
+helping a stranger in need [Logan helped a family push their pick up truck out of a ditch, and they repaid him and his crew by treating them to a home cooked meal.],
+dealing with children [It was obvious that Logan didn't have much experience handling children by the way he interacted with the 11-year-old girl Laura.],
+what if I met my double [Logan encountered a vicious clone of himself.],
+contemplating suicide [Logan contemplated taking his own life but shooting himself in the head with an adamantium bullet.],
+telekinetic ability [A little mutant girl buffeted some soldiers with forest debris using her innate telekinetic ability. A young mutant boy lifted up a military vehicle using only the power of his own mind.],
+remorse [Logan regretted all the killing he'd done in his life.],
 
 :: Collections
 Collection: Science fiction films of the 2010s
