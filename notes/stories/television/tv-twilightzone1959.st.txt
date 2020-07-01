@@ -155,6 +155,7 @@ escape from reality [Barbara locked herself up in a dark dank room watching her 
 passion for acting [Barbara was a passionate aging actress yearning for the roles of yore.],
 coping with aging [Barbara got sad and insulted whenever her age became topical.],
 wishing or wanting something really hard makes it happen [Barbara willed herself into a movie.],
+agent and client [Barbara's agent Danny tried to help her escape from the mental prison she's trapped herself in.],
 
 :: Minor Themes
 master and servant [Barbara's maid Sally was shocked to find that Barbara had somehow become transported into a movie.],
@@ -809,7 +810,6 @@ questioning one's sanity [Millicent thought something must be wrong with her min
 helping a stranger in need [Paul missed delayed his own trip in order to help Millicent, then called the cops to escort her to the loony bin.],
 
 :: Minor Themes
-sacrifice for a mad stranger [Paul delayed his own trip in order to help Millicent, then called the cops to escort her to the loony bin.],
 poetic justice [Paul refused to believe in Millicent and betrayed her to the authorities; then he began experiencing the same madness that she had.],
 the need for sleep [Millicent initially attributed seeing her double sitting on a bench to having under slept.],
 
@@ -876,6 +876,7 @@ Directed by: Ted Post. Story by: Richard Matheson.
 what if my personal identity came into question [Arthur Curtis was severely disquieted when he suddenly found himself in a studio full of people who insisted that he was Gerry Raigan.],
 what if I found myself in a strange place [Arthur Curtis suddenly found himself in the cruel and alien world of Gerry Raigan.],
 escape from reality [One interpretation of the story is that Gerry Raigan fell under the delusion that he was actually the happy character he was playing in a film in order to escape from his unpleasant life.],
+what it is like in showbiz [The story is largely set at a film shoot.],
 
 :: Major Themes
 husband and wife [Arthur and his loving story-wife Marian. Gerry and his "harpy" of an ex-wife Nora. Note that while Gerry and Nora were technically divorced they were still quarreling over money as if they were going through a divorce.],
@@ -884,6 +885,7 @@ what if I told the truth and nobody would believe me [Nobody believed Arthur whe
 :: Minor Themes
 divorce [Gerry had recently divorced his wife and was now paying her alimony he could ill afford.],
 alcohol abuse [Gerry was scolded for being something of a boozer.],
+agent and client [Gerry's agent thought that Gerry was having a nervous breakdown.],
 
 
 tz1959e1x24
@@ -2024,6 +2026,7 @@ the nature of nightmares [The Doctor ran an experiment in an effort to prove tha
 loyalty to a friend [Liz seemed disappointed in the lackluster support extended to her by her agent Barney.],
 doctor and patient [We saw a rather creepy doctor tending to Liz.],
 pleasure in dancing [Barney revealed to Liz's physician that she was a professional stripper to her chagrin.],
+agent and client [Liz seemed disappointed in the lackluster support extended to her by her agent Barney.],
 
 
 tz1959e2x18
@@ -3599,16 +3602,16 @@ series The Twilight Zone.
 Directed by: Lamont Johnson. Story by: Frederic Louis Fox, Rod Serling.
 
 :: Ratings
-4 <mikael*>,
+4 <mikael>,
 5 <paul>,
 
 :: Choice Themes
 pathological lying [Mr. Sommerset Frisby was the biggest liar ever born, we learn.],
-men bileve not lyghtly hym whiche is knowen for a lyer [Nobody believed the notorious teller of tall tales Mr. Frisby when he told the truth about nearly getting abducted by space aliens.],
+the boy who cried wolf moral [Nobody believed the shameless teller of tall tales Mr. Frisby when he told the truth about nearly getting abducted by space aliens. and the narrator explicitly drew a parallel to Aesop's fable about the boy who cried wolf in the closing narration.],
 
 :: Major Themes
 alien point of view [Central to the plot was an alien species who did not have the concept of lying and were vulnerable to the sound of a harmonica.],
-coping with problematic people [various people had a hard time stomaching the loudmouthed mythomaniac Frisby] <for discussion>,
+coping with an obnoxious chatterbox [Various people had a hard time stomaching the loudmouthed mythomaniac Frisby] <for discussion>,
 extraterrestrial being [Some aliens sought to add the harmonica playing teller of tall tales Mr. Frisby to their collection of specimens from other planets.],
 alien abduction [Mr. Frisby was very nearly abducted by aliens and made a specimen in their zoo of sorts.],
 what if I told the truth and nobody would believe me [The story concluded with everyone laughing off the known teller of tall tales Mr. Frisy's true account of nearly getting abducted by space aliens.],
@@ -3637,11 +3640,11 @@ Twilight Zone.
 Directed by: Elliot Silverstein. Story by: Rod Serling.
 
 :: Ratings
-5 <mikael>,
+4 <mikael>,
 5 <paul>,
 
 :: Choice Themes
-choosing who dies and who lives [central to the story was the tough decision of who would get to be young again] <for discussion>,
+choosing who dies and who lives [Central to the story was the tough decision of who would get to be young again.],
 coping with aging [Central to the story was an inseparable couple who faced death of old age together (they kept re-iterating "the best is yet to come").],
 what if I could be young again [John and Marie found a company which could give them young new (android) bodies, but found they could only afford one.],
 
@@ -3682,15 +3685,15 @@ fear of strangers [The mountain villagers intrinsic fear of strangers led them t
 extraterrestrial being [The mysterious stranger turned out to be a crash-landed alien.],
 orphanhood [Pedro was a nine year old orphan who supported himself by working in a bar.],
 friendship [The mysterious stranger befriended the lonely orphan boy Pedro.],
-childhood as an outsider [The orphan boy Pedro felt like an outcast in the mountain village in which he resided.] <FD Pedro said to the alien that they were both outsiders in a way>,
-ironic twist of fate [fearful Mexican village folk kill an alien and burn his possession, only to find out that he actually came in peace and that they had just destroyed a vaccine for cancer],
+childhood as an outsider [The orphan boy Pedro said to the alien that he felt like an outcast in the mountain village in which he resided.],
+ironic twist of fate [Fearful Mexican village folk kill an alien and burn his possession, only to find out that he actually came in peace and that they had just destroyed a vaccine for cancer.],
 
 :: Minor Themes
 orphans in society [The barkeeper complained that the authorities are in three times a week, asking him why the orphan boy Pedro was not in school.],
 cure for cancer [An alien came to Earth bearing the chemical formula for a cancer vaccine as a gesture of goodwill on behalf of his people.],
-coping with a disability [a blind man explained that darkness was his friend],
-fear of the dark [fear of the dark was referred to twice],
-Christianity [we heard speculated that if God came to Earth, they'd shoot him too; the alien was called the Devil and Satan],
+coping with a disability [A blind man explained that darkness was his friend.],
+fear of the dark [Fear of the dark was referred to twice.],
+Christianity [We heard speculated that if God came to Earth, they'd shoot him too. The alien was called the Devil and Satan.],
 
 
 tz1959e3x33
@@ -3714,18 +3717,14 @@ Directed by: Abner Biberman. Story by: Lee Polk, Rod Serling.
 3 <paul>,
 4 <mikael>,
 
-:: Choice Themes
-
 :: Major Themes
-agent and client [] <PS: This has come up in some TZ stories and perhaps a Tales of the Unexpected episode. MO: hah, the same thought struck me>,
+agent and client [Jerry's agent Frank became increasing concerned about his mental state, and urged him to see a psychiatrist.],
 anthropomorphic object come to life [The dummy Jerry used to perform his ventriloquist act turned out to have a mind of its own.],
-obsession [The ventriloquist Jerry became obsessed with the idea that the dummy he used in his performances was actually alive. MO: we have never before use obsession in this type of situation],
-descent into madness [] <for discussion>,
 what it is like in showbiz [We saw some behind the scenes goings on at a New York City comedy club.],
-stand-up comedy [We saw Jerry on stage performing his ventriloquist act.],
-persecution complex [Jerry thought his old doll was alive and out to get him],
-schizophrenia [Jerry heard a voice that did not exist and had seen psychiatrists about it, we understand],
-multiple personality disorder [the obvious medical explanation for what occurred is that Jerry had developed a secondary personality called Willie, which eventually came to take over (the face swap may be explained away in any number of ways)],
+stand-up comedy [We saw Jerry on stage performing his sit-down ventriloquist act.],
+persecution complex [Jerry thought his old doll was alive and out to get him.],
+schizophrenia [Jerry heard a voice that did not exist and had seen psychiatrists about it, we are left to interpret.],
+multiple personality disorder [The obvious medical explanation for what occurred is that Jerry had developed a secondary personality called Willie, which eventually came to take over (the face swap may be explained away in any number of ways).],
 
 :: Minor Themes
 alcohol abuse [Jerry's agent urged him pull himself together and keep off the bottle.],
@@ -3752,23 +3751,22 @@ Directed by: John Brahm. Story by: Richard Matheson.
 3 <mikael>,
 
 :: Choice Themes
-mother-in-law and daughter-in-law [Virginia spoke resentfully to Alex' late mother's picture],
+mother-in-law and daughter-in-law [Virginia spoke resentfully to Alex' late mother's picture. In general, the story revolved around a long-standing conflict between Virgina and Alex's mother over the mother's having demanded all Alex's attention.],
+controlling family member [Virginia accused Henrietta, in life, of having been a domineering mother to Alex.],
 
 :: Major Themes
 newlywed couple [Virginia finally tied the knot with her sweetheart Alex after after 12 long years of waiting for his mother to kick the bucket.],
 nostalgia [Alex became engrossed in childhood memories while preparing the house he'd grown up in for sale.],
 reminiscence about one's youth [Alex became engrossed in childhood memories while preparing the house he'd grown up in for sale.],
-remembering bygone days [Alex's visit to the house he grew up in turned into a trip down memory lane that left him longing to return to his childhood.],
 ghost [The ghost of Alex's mother thwarted Virginia's efforts to take Alex away from her.],
 mother and son [Young Alex instructed his wife to go away so that he could live in the halcyon of his youth in the company of his beloved mother.],
-haunted house [] <for discussion>,
-coping with the death of a parent [Alex obviously did not cope well with the demise of his controlling other],
-grief [Alex mourned his mother, Virginia notably did not mourn her mother-in-law],
+haunted house [Alex's family house was inhabited by the ghost of his recently departed mother.],
+coping with the death of a parent [Alex obviously did not cope well with the demise of his controlling other.],
+grief [Alex mourned his mother, while Virginia notably did not mourn her mother-in-law.],
 
 :: Minor Themes
-controlling family member [Virginia accused Henrietta, in life, of having been a domineering mother to Alex.],
 what if I could be young again [The story concluded with Alex being transformed to his ten-year-old self.],
-coping with aging [Virgini touched her face and felt her years - that's why she couldn't simply back out of the marriage],
+coping with aging [Virginia touched her face and felt her years - that's why she couldn't simply back out of the marriage.],
 
 
 tz1959e3x35
@@ -3795,16 +3793,15 @@ Directed by: William F. Claxtonand James Sheldon. Story by: Ray Bradbury.
 
 :: Choice Themes
 android [A busy father arranged for a mechanical grandmother to rear his three children.],
-familial love [Anne's mechanical grandmother proved that she was capable of real love.],
-grandparent and grandchild [] <for discussion>,
+familial love [Anne's mechanical grandmother proved that she was capable of real love. It was explicitly talked about that the mechanical grandmother was capable of loving the children under her care.],
 
 :: Major Themes
 single fatherhood [A loving, but very busy single father purchased an android to care for his three children.],
 father and daughter [Anne's father worked to convince her that she should accept her mechanical grandmother.],
 human childhood [We saw three children being raised by a mechanical grandmother.],
 grandmother and granddaughter [While initially mistrustful of her new mechanical grandmother, Anne ultimately came to accept the machine and they became as close as close could be.],
-can machines have souls [FD it seems a point of the story was to speculate about whether machines can love; also the story ended with some talk about mech-granny's soul],
-coping with the death of a parent [Anne was full of resentment for her mother having left her by dying],
+can machines have souls [It seems a point of the story was to speculate about whether machines can love; also the story ended with some talk about mechanical grandmother's soul.],
+coping with the death of a parent [Anne was full of resentment for her mother having left her by dying.],
 
 :: Minor Themes
 hatred [Anne was filled with hatred stemming from a conviction that her mother had abandoned her.],
@@ -3813,9 +3810,9 @@ sister and sister [Anne and her younger sister Karen.],
 brother and sister [Tom and his two older sisters.],
 father and son [Mr. Rogers and his young son Tom.],
 grandmother and grandson [Tom took an immediate liking to his new mechanical grandmother.],
-dealing with children [],
-coping with the death of a spouse [Mr. Rogers clearly missed his late wife],
-coping with saying goodbye forever [grandma didn't like farewell's, we heard],
+dealing with children [There was some talk in the beginning about how to raise children, and how the father was not doing a good job of it.],
+coping with the death of a spouse [Mr. Rogers clearly missed his late wife.],
+coping with saying goodbye forever [The mechanical grandmother didn't like farewell's, we heard.],
 
 
 tz1959e3x36
@@ -3834,7 +3831,7 @@ series The Twilight Zone. It originally aired on May 25, 1962 on CBS.
 Directed by: Christian Nyby. Story by: Rod Serling.
 
 :: Ratings
-2 <paul>,
+2 <paul*>,
 2 <mikael>,
 
 :: Choice Themes
