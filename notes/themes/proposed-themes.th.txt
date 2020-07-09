@@ -398,27 +398,50 @@ agent and client
 ================
 
 :: Description
+Featured is the relationship between a client, and someone the client has
+enlisted to act as their agent, more or less formally on an extended basis.
+Notably, this type of relationship is found in the entertainment industry, 
+for example, when an actor hires a personal talent agent to find them jobs.
+
+:: Note
+This theme is used only if the expressions of the relationship go beyond what
+is required and expected in such a business arrangement. I.e., it is used
+if some familiarity and intimacy is noted, but not if the interaction is merely
+formal and transactional.
 
 :: Parents
 human interpersonal relationship
+
+:: References
+https://en.wikipedia.org/wiki/Law_of_agency
 
 
 grandparent and grandchild
 ==========================
 
 :: Description
+The relationship between a grandparent and their grandchild is featured.
 
 :: Parents
 human familial relationship
+
+:: References
+https://en.wikipedia.org/wiki/Grandparent
 
 
 stepparent and stepchild
 ========================
 
 :: Description
+The relationship between a stepparent and their stepchild is featured. The
+stepparent is not a biological parent of the child, but takes the role of a parent
+to some extent.
 
 :: Parents
 human familial relationship
+
+:: References
+https://en.wikipedia.org/wiki/Stepfamily
 
 
 obsession
