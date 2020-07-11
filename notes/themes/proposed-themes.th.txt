@@ -100,8 +100,8 @@ planet being flung out of its orbit
 ===================================
 
 :: Description
-Civilization on a planet is threatened by an the planet somehow being flung
-out of its natural orbit.
+Civilization on a planet is threatened because the planet is, for one reason or 
+another, leaving its natural orbit.
 
 :: Parents
 approaching astronomical object event
@@ -111,6 +111,8 @@ the grass is always greener on the other side
 =============================================
 
 :: Description
+Featured is the idea that humans are more apt to perceive that other people's
+lives or situations are better than their own, rather than the converse. 
 
 :: Parents
 human idea about life
@@ -123,6 +125,8 @@ the Japanese stereotype
 =======================
 
 :: Description
+A stereotypically Japanese character is notably featured. This may involve
+excessive stoicism, notions of honor, and ritual suicide.
 
 :: Parents
 human character stereotype
