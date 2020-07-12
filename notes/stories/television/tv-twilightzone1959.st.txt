@@ -4031,32 +4031,29 @@ feature-length film, but it was never produced.
 Directed by: Stuart Rosenberg. Story by: Rod Serling.
 
 :: Ratings
-5 <paul*>,
+5 <paul>,
 4 <mikael>,
 
 :: Choice Themes
-fascism [FD uniforms, hatred, torches, fisticuffs, murders - the story was above all a warning of how such things may come about again],
+fascism [Uniforms, hatred, torches, fisticuffs, murders - the story was above all a warning of how such things may come about again.],
 
 :: Major Themes
 racial supremacism [The story followed the hate monger Peter as he tried to grow his struggling neo-Nazi group.],
-ethnic hatred [Hitler took the young neo-Nazi leader Peter under his wing and taught him how to more effectively spread his message of hatred toward minorities to the American public at large.],
+ethnic hatred [Hitler took the young neo-Nazi leader Peter under his wing and taught him how to more effectively spread his message of hatred toward minorities (e.g. the Jews and Asian people) to the American public at large.],
 demagoguery [Hitler schooled Peter in the rhetorical techniques of how to get crowds of people to buy into his message of hate.],
 Adolf Hitler [The shadowy figure who was advising the young neo-Nazi leader Peter turned out to be none other than Adolph Hitler.],
-hatred [Peter was consumed with hatred for minorities and foreigners.],
-hatred unites [] <for discussion>,
-personal conviction [FD this was a story about people who burn with zeal for some pet political ideology] <this is an old theme that needs reviewing>,
-Nazism [FD Hitler supported Peter],
-hate begets hate [FD evidence: Peter explained his troubled youth while explaining his ideology; An officer dropped the flag in front of Peter's feet, later Peter imitated that action with money in front of land lord's outstretched hands; Ernest explained Peter with reference to Peter's troubled youth],
-friendship vs. personal conviction [Peter's odious convictions threatened his relationship with Ernst; later Peter betrayed/sacrificed Nick for the cause; later Ernest confronted Peter who hit him; Peter finally killed Ernst],
-becoming a harder person [Hitler extolled Peter to put sentimentality aside, to steel himself, to become hard],
+personal conviction [This was a story about people who burn with zeal for some pet political ideology.],
+Nazism [Hitler supported Peter as he tried to grow his struggling neo-Nazi group.],
+hate begets hate [Peter explained his troubled youth while explaining his ideology. An officer dropped the flag in front of Peter's feet, later Peter imitated that action with money in front of land lord's outstretched hands. Ernest explained Peter with reference to Peter's troubled youth.],
+friendship vs. personal conviction [Peter's odious convictions threatened his relationship with Ernst. Later Peter betrayed/sacrificed Nick for the cause; later Ernest confronted Peter who hit him; Peter finally killed Ernst],
+becoming a harder person [Hitler extolled Peter to put sentimentality aside, to steel himself, to become a tougher person.],
 
 :: Minor Themes
 antisemitism in society [Peter made various ugly insinuations against the Jews in his speeches.],
-crackpot theory [Peter voiced a crackpoted theory something akin to the Jews run the world in one of his speeches.] <https://en.wikipedia.org/wiki/Antisemitic_canard#World_domination>,
+conspiracy theory [Peter voiced a crackpoted theory something akin to the Jews run the world in one of his speeches.],
 xenophobia in society [Peter asked his audience if they wanted their shores overrun with vermin from overseas.],
 The Holocaust [We learn that Ernst had spent nine miserable years in the Dachau concentration camp.],
 murder in society [The police came to arrest Peter on the charge of being complicit in the murder of his friend, Nick.],
-hallucination of a non-existing person [FD do we think Ernst was hallucinating Hitler? in the end he died because he thought, incorrectly, he was made out of steel],
 
 
 tz1959e4x05
@@ -4082,31 +4079,30 @@ Directed by: Stuart Rosenberg. Story by: Richard Matheson.
 3 <paul>,
 
 :: Choice Themes
+telepathic ability [The story investigated what it'd be like to be the only one with telepathic abilities.],
 
 :: Major Themes
 husband and wife [Harry and Cora Wheeler.],
 parenting a physically disabled child [Cora took the essentially mute child Ilsa into her home and cared for her.],
-coping with a disability [Ilsa's inability to speak made it challenging for her to integrate in her new home, let alone society. ],
+coping with a disability [Ilsa's inability to speak made it challenging for her to integrate in her new home, let alone society.],
 orphanhood [Ilse lost her parents and had to live with two strangers.],
-coping with a pedantic authority figure [] <FD Ilse with her cruel teacher>,
-telepathic ability [The story investigated what it'd be like to be the only one with telepathic abilities.],
-what if I heard all the thoughts around me [Ilse was initially distressed by the various thoughts she picked up.] <PS: Those were distorted human voices.>,
 incompatible modes of communication [The essentially mute Ilsa, who was raised to communicate only through telepathy, was put into school to be taught how to communicate through speech.],
 belonging [At first Ilse felt out of place with ordinary people, but she ultimately learned to fit in among them.],
 guardian and child [Ilse was taken in by the Wheelers after her parents had perished in a house fire.],
-paternal love [A point revealed at the end was that the most important thing for Ilse was that she have parents who love her, rather than ones that see her as an experiment.],
-child abuse [It was generally assumed that Ilse's parents had abused her by forbidding her from speaking, and refusing to enroll her in school.],
-parent rights over children vs. societal responsibility for child wellbeing [] <PS: Awkwardly phrased, but there is something in this story about Harry insisting that their only duty was to had Ilsa over to her closest surviving family members, but Cora explained something about their societal responsibility to ensure Ilsa is well cared for.>,
-children's rights [] <Similar motivation as with above theme.>,
+parental love [A point revealed at the end was that the most important thing for Ilse was that she have parents who love her, rather than ones that see her as an experiment.],
 
 :: Minor Themes
+child abuse [It was generally assumed that Ilse's parents had abused her by forbidding her from speaking, and refusing to enroll her in school.],
 the future of human evolution [The story began with three families agreeing to breed themselves into a telepathic race.],
 unethical experimentation for scientific progress [Karl's wife questioned the ethics of raising their as yet unborn children to be telepathic, even though doing so might prove a great contribution to advancing civilization.],
 telepathic society [Three families agreed to form a telepathic society in a remote location.],
-being ashamed of who you are [when told she was a "medium" Ilse was distressed],
-racism in society [] <FD I perceived a certain contempt for Germans>,
+being ashamed of who you are [When told she was a "medium" Ilse was distressed.],
 first day at school [Ilse experienced a distressing and belated first day in school.],
 neglectful parent [Cora attributed Ilse not being able to talk to parental neglect.],
+children's right [Cora lamented that Ilse's irresponsible parents had not even taught her how to speak.],
+
+:: Other Keywords
+what if I heard all the thoughts around me [Ilse was initially distressed by the various thoughts she picked up.] <PS: Those were distorted human voices.>,
 
 
 tz1959e4x06
@@ -4128,7 +4124,7 @@ bodies inside.
 Directed by: Don Medford. Story by: Richard Matheson.
 
 :: Ratings
-2 <mikael>,
+2 <mikael*>,
 2 <paul>,
 
 :: Choice Themes
