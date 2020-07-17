@@ -41,6 +41,17 @@ machine.
 alien point of view
 
 
+AI prejudice in society
+=======================
+
+:: Description
+The issue of a large portion of society having a prejudice against artificial
+intelligences (or their forerunners) is discussed.
+
+:: Parents
+prejudice in society
+
+
 AI rights
 =========
 
@@ -613,6 +624,24 @@ to visit a sorceress's magical bathhouse.
 https://en.wikipedia.org/wiki/Japanese_folklore
 
 
+Jovian extraterrestrial
+=======================
+
+:: Description
+A native inhabitant of either the planet Jupiter or else one of its moons is
+featured.
+
+:: Parents
+extraterrestrial being
+
+:: Examples
+In "Night Caller from Outer Space" (1965), aliens from Jupiter's moon Ganymede
+came to Earth seeking human females for breeding stock.
+
+:: References
+https://en.wikipedia.org/wiki/Jovian_(fiction)
+
+
 Judaism
 =======
 
@@ -852,6 +881,25 @@ Claus himself.
 
 :: References
 https://en.wikipedia.org/wiki/Santa_Claus
+
+
+Saturnian extraterrestrial
+==========================
+
+:: Description
+A native inhabitant of either the planet Saturn or else one of its moons is
+featured.
+
+:: Parents
+extraterrestrial being
+
+:: Examples
+In "A Baby on Neptune" (1929), we are told that regular radio communication
+with the inhabitants on one of Saturn's moons had been established by the year
+2300.
+
+:: References
+https://en.wikipedia.org/wiki/Saturn_in_fiction
 
 
 Stockholm syndrome
@@ -1126,6 +1174,22 @@ human interpersonal relationship
 :: Examples
 Riker learned first hand that he was not wholly easy to get along with in
 tng6x24 "Second Chances" when he came across his own exact duplicate.
+
+
+a person's true character is revealed in a time of crisis
+=========================================================
+
+:: Description
+The idea is explicitly voiced or pointedly illustrated, that it is in moments
+of extreme pressure we learn what people are really made of.
+
+:: Parents
+human idea about life
+
+:: Example
+In tz1959e3x03 "The Shelter", we saw how a previously friendly group of
+neighborhood friends and families turned on each other and behaved  with
+selfishness and spite when they thought a nuclear apocalypse was impending.
 
 
 ability to communicate with animals
@@ -1529,6 +1593,28 @@ classical philosophy
 https://en.wikipedia.org/wiki/Aesthetics
 
 
+agent and client
+================
+
+:: Description
+Featured is the relationship between a client, and someone the client has
+enlisted to act as their agent, more or less formally on an extended basis.
+Notably, this type of relationship is found in the entertainment industry, for
+example, when an actor hires a personal talent agent to find them jobs.
+
+:: Parents
+human interpersonal relationship
+
+:: References
+https://en.wikipedia.org/wiki/Law_of_agency
+
+:: Note
+This theme is used only if the expressions of the relationship go beyond what
+is required and expected in such a business arrangement. I.e., it is used
+if some familiarity and intimacy is noted, but not if the interaction is merely
+formal and transactional.
+
+
 agility vs. strength
 ====================
 
@@ -1720,6 +1806,23 @@ world as a humanoid in tng2x01 "The Child".
 
 :: References
 https://en.wikipedia.org/wiki/Alien_abduction
+
+
+alien origin of a technology
+============================
+
+:: Description
+The idea that an everyday technology we take for granted is of
+extraterrestrial origin is featured. This typically occurs when an alien
+technology is discovered and reverse-engineered by humans.
+
+:: Parents
+crackpot theory
+
+:: Examples
+In "Transformers" (2007), it was revealed that the microchip, among other
+things, was invented by studying the design of a Transformer that was
+discovered frozen in the Arctic by 19th century explorers.
 
 
 alien origin of near-death experiences
@@ -2303,6 +2406,25 @@ https://en.wikipedia.org/wiki/Anti-gravity
 http://www.sf-encyclopedia.com/entry/antigravity
 
 
+anti-intellectualism in society
+===============================
+
+:: Description
+The ramifications of hostility to and mistrust of intellectuals in society are
+explored.
+
+:: Parents
+hatred of exceptional people
+
+:: Examples
+Daystrom was harassed by philistines like Captain Kirk who didn't understand
+is his great achievements in duotronic computing in tos2x24 "The Ultimate
+Computer".
+
+:: References
+https://en.wikipedia.org/wiki/Anti-intellectualism
+
+
 anti-technology way of life
 ===========================
 
@@ -2375,6 +2497,19 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Antiscience
+
+
+antisemitism in society
+=======================
+
+:: Description
+There is notable prejudice against Jewish people.
+
+:: Parents
+racism in society
+
+:: References
+https://en.wikipedia.org/wiki/Antisemitism
 
 
 apartheid
@@ -2881,6 +3016,22 @@ A mysterious planetoid turned out to be a wholly artificial artifact of a long
 gone alien civilization in tos3x14 "That Which Survives".
 
 
+artist vs. scientist
+====================
+
+:: Description
+A stereotypically artist type of character is compared and contrasted with a
+stereotypically scientist kind of character.
+
+:: Parents
+human characters in contrast
+
+:: Examples
+In "Stalker" (1979), the character Writer (a sophisticated writer) spoke at
+length to the character Professor (an erudite physicist) about the differences
+in their chosen professions.
+
+
 assimilating beings
 ===================
 
@@ -3206,7 +3357,7 @@ attack from outer space by a powerful conquering enemy
 ======================================================
 
 :: Description
-Alien beings from outer space come along and subjugate your civlization to 
+Alien beings from outer space come along and subjugate your civlization to
 make it serve their own ends.
 
 :: Parents
@@ -3638,6 +3789,21 @@ be pitied for their unsightly appearance in tos1x26 "The Devil in the Dark".
 https://en.wiktionary.org/wiki/beauty_is_in_the_eye_of_the_beholder
 
 
+becoming a harder person
+========================
+
+:: Description
+A character seeks to become more composed and emotionally callous, i.e.,
+someone who can do what needs to be done even when the task is distasteful.
+
+:: Parents
+human self improvement
+
+:: Examples
+In tz1959e4x04 "He's Alive", Hitler extolled Peter to put sentimentality
+aside, to steel himself, to become a tougher person.
+
+
 becoming a more self-assured person
 ===================================
 
@@ -3889,6 +4055,25 @@ decidedly happier for the experience they had shared.
 https://en.wikipedia.org/wiki/In_Memoriam_A.H.H.
 
 
+biased sex-ratio society
+========================
+
+:: Description
+There is a nation of people where the male to female ratio is highly skewed in
+the one direction or the other.
+
+:: Parents
+speculative society
+
+:: Examples
+In "The Moon is a Harsh Mistress" (1966), Luna society had a sex-ratio of
+about two men to each woman, resulting in the widespread practice of
+polyandry.
+
+:: References
+https://en.wikipedia.org/wiki/Single-gender_world
+
+
 big banking in society
 ======================
 
@@ -4088,6 +4273,20 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/List_of_fictional_extraterrestrials https://en.wikipedia.org/wiki/List_of_fictional_extraterrestrials_by_form
+
+
+biology
+=======
+
+:: Description
+Biology is the natural science that studies life and living organisms. This
+theme is used whenever an aspect of this science is featured in the story.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Biology
 
 
 bionic arm
@@ -5216,6 +5415,23 @@ herself into a proper Lady with the illustrious assistance of speech Professor
 Higgins.
 
 
+character transported into imaginary world
+==========================================
+
+:: Description
+A character moves from the real world into what appears to be a world created
+by their own or someone else's imagination.
+
+:: Parents
+speculative travel
+
+:: Examples
+In tz1959e4x08 "Miniature", Charley kept looking into a museum doll house and
+finding it alive with activity that no one else perceived. After long pining
+for this world, he is suddenly transported into it himself and becomes one of
+its actors.
+
+
 charting unknown territory
 ==========================
 
@@ -5847,6 +6063,23 @@ specially equipped shuttlecraft into the giant space amoeba.
 https://www.merriam-webster.com/dictionary/battle/clash%20of%20wills
 
 
+class prejudice in society
+==========================
+
+:: Description
+The issue of a large portion of society having a prejudice against people of
+certain social classes is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Class_discrimination
+
+:: Aliases
+social class prejudice in society
+
+
 classical philosophy
 ====================
 
@@ -6343,6 +6576,23 @@ human worrying about self
 
 :: References
 https://en.wiktionary.org/wiki/come_to_terms_with
+
+
+commander and subordinate
+=========================
+
+:: Description
+The relationship between a military type of leader and their formal
+subordinate is featured. The setting may be army, navy, air force or something
+comparable.
+
+:: Parents
+human interpersonal relationship
+
+:: Examples
+In tz1959e4x06 "Death Ship", we saw the Captain of a spaceship quarrel with
+two men under his command over the best course of action to take given a
+strange predicament they had found themselves in.
 
 
 commercial made-up holidays in society
@@ -11929,6 +12179,28 @@ of Tama, to battle the ferocious Electromagnetic Beast of El-Adrel in tng5x02
 "Darmok".
 
 
+electromagnetic catapult
+========================
+
+:: Description
+There is a launcher on a planet that uses a linear motor (e.g. a mass driver
+that uses coils of wire energized by electricity to make electromagnets) to
+accelerate and catapult payloads into space.
+
+:: Parents
+speculative device
+
+:: Examples
+In "The Moon is a Harsh Mistress" (1966), wheat was shipped from the Moon to
+Earth using just such a contraption.
+
+:: References
+https://en.wikipedia.org/wiki/Mass_driver
+
+:: Aliases
+mass driver
+
+
 elf
 ===
 
@@ -12328,6 +12600,19 @@ classical philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Ethics
+
+
+ethnic hatred
+=============
+
+:: Description
+Notable hostility toward an ethnic group is featured.
+
+:: Parents
+hatred in society
+
+:: References
+https://en.wikipedia.org/wiki/Ethnic_hatred
 
 
 ethology
@@ -12844,6 +13129,18 @@ human vs. beast
 :: Examples
 Captain Kirk was the victim of a nearly fatal mugato attack in tos2x16 "A
 Private Little War".
+
+
+facing a genius adversary
+=========================
+
+:: Description
+A character experiences what it is like to face a genius in a fight,
+competition, or other adversarial situation. The adversary might be a stock
+evil mad scientist type character, a criminal mastermind, and so on.
+
+:: Parents
+human vs. human
 
 
 facing a home invader
@@ -15035,6 +15332,21 @@ unsolicited soothsayings in the "Night Gallery" story "Lindemann's Catch"
 https://en.wikipedia.org/wiki/Fortune-telling
 
 
+four-dimensional being
+======================
+
+:: Description
+There is a being that perceives four spatial dimensions.
+
+:: Parents
+locationally distinguished being
+
+:: Examples
+In "The Captured Cross-section" (1929), the mathematics instructor Jiles
+Heagley captured a three-dimensional cross section of a flesh-and-blood
+inhabitant of a four-dimensional world.
+
+
 four-dimensional space
 ======================
 
@@ -15335,6 +15647,22 @@ career.
 
 :: Parents
 career choice
+
+
+friendship vs. personal conviction
+==================================
+
+:: Description
+A character must choose between being loyal to a friend on one hand, or
+staying true to their own beliefs and convictions on the other.
+
+:: Parents
+personal ethical dilemma
+
+:: Examples
+In tz1959e4x04 "He's Alive", Peter's odious Nazi convictions spelled the end
+of his relationship with his Jewish stand-in parent and benefactor, Ernst.
+Peter also sacrificed his long time friend Nick for the cause.
 
 
 friendship vs. personal gain
@@ -16488,6 +16816,19 @@ The relationship between a grandmother and her grandson is featured.
 human familial relationship
 
 
+grandparent and grandchild
+==========================
+
+:: Description
+The relationship between a grandparent and their grandchild is featured.
+
+:: Parents
+human familial relationship
+
+:: References
+https://en.wikipedia.org/wiki/Grandparent
+
+
 gravity manipulating technology
 ===============================
 
@@ -16899,6 +17240,31 @@ the extent that war of one sort or another is conceivably imminent.
 
 :: Parents
 war
+
+
+hatred in society
+=================
+
+:: Description
+There is notable bellicosity directed towards a distinct social group  within
+a society.
+
+:: Parents
+relations between social groups in society
+
+:: References
+https://en.wikipedia.org/wiki/Hatred#Legal_issues
+
+
+hatred of exceptional people
+============================
+
+:: Description
+There is hostility towards a category of people that stand out because of some
+ability or other distinctive quality.
+
+:: Parents
+hatred in society
 
 
 hatred unites
@@ -20138,11 +20504,11 @@ speculative handheld device
 Captain Archer was able to walk through walls using a handheld device in "Star
 Trek: Enterprise" Cold Front (ent1x11).
 
-:: Aliases
-matter penetration technology
-
 :: References
 http://www.sf-encyclopedia.com/entry/matter_penetration
+
+:: Aliases
+matter penetration technology
 
 
 intangible spaceship
@@ -20356,6 +20722,21 @@ space travel
 
 :: References
 https://en.wikipedia.org/wiki/Interplanetary_spaceflight
+
+
+interplanetary war
+==================
+
+:: Description
+There is warfare between combatants from different planets in a stellar
+system.
+
+:: Parents
+speculative fiction theme
+
+:: Examples
+In "The Moon is a Harsh Mistress" (1966), a full-scale war erupted between the
+Federated Nations of Earth and their colony on the Moon.
 
 
 interracial couple
@@ -20726,6 +21107,22 @@ speculative wearable device
 
 :: References
 https://en.wikipedia.org/wiki/Jet_pack
+
+
+journey into the underworld
+===========================
+
+:: Description
+Someone travels into a dark and dreary world of the dead.
+
+:: Parents
+speculative travel
+
+:: References
+https://en.wikipedia.org/wiki/Underworld
+
+:: Aliases
+descent into hell
 
 
 junk foods in society
@@ -21827,6 +22224,20 @@ Someone is actively seeking a romantic partner.
 
 :: Parents
 romantic relationship issue
+
+
+lookism in society
+==================
+
+:: Description
+The issue of people being too obsessed with looks and appearances, their own
+and others, is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Lookism
 
 
 loss of emotional equilibrium
@@ -23285,6 +23696,21 @@ medical ethical issue
 
 :: References
 https://en.wikipedia.org/wiki/Triage
+
+
+medicine
+========
+
+:: Description
+Medicine is the science and practice of establishing the diagnosis, prognosis,
+treatment, and prevention of disease. This theme is used whenever an aspect of
+this science is featured in the story.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Medicine
 
 
 medicine wheel
@@ -25304,6 +25730,43 @@ Prime Directive in order to save an aquatic alien home-world from destruction
 at the hands of their own greedy elite.
 
 
+obsession
+=========
+
+:: Description
+Someone is fixated with a particular idea or objective to the extent that they
+notably neglect other concerns.
+
+:: Parents
+human character
+
+:: Examples
+Captain Kirk became obsessed with stalking down a vampiric cloud entity in
+tos2x18 "Obsession".
+
+:: References
+https://www.merriam-webster.com/dictionary/obsessed
+
+
+obsession with a life-dedicated project
+=======================================
+
+:: Description
+Someone is fixated with a project that they have dedicated their life to, to
+the extent that they notably neglect other concerns.
+
+:: Parents
+obsession
+
+:: Examples
+Dr. Richard Daystrom made it his life's work to build a computer so powerful
+that it could replace Kirk as the captain aboard the Enterprise in tos2x24
+"The Ultimate Computer".
+
+:: References
+https://www.merriam-webster.com/dictionary/obsessed
+
+
 obsessive love
 ==============
 
@@ -26235,14 +26698,14 @@ parallel universe
 :: Description
 A hypothetical self-contained universe co-existing with our own.
 
-:: Notes
-The word "dimension" is used in two different sense in fiction. Sometimes
-what is meant is no different from a parallel universe. Sometimes what is meant
-is a fourth spatial dimension of space as an addition to the three we know.
-In the latter case we use "four-dimensional space" as a theme.
-
 :: Parents
 speculative reality
+
+:: Notes
+The word "dimension" is used in two different sense in fiction. Sometimes what
+is meant is no different from a parallel universe. Sometimes what is meant is
+a fourth spatial dimension of space as an addition to the three we know. In
+the latter case we use "four-dimensional space" as a theme.
 
 :: References
 https://en.wikipedia.org/wiki/Parallel_universes_in_fiction
@@ -27279,6 +27742,18 @@ law and order issue
 https://en.wikipedia.org/wiki/Heresy
 
 
+personal conviction
+===================
+
+:: Description
+A character feels strongly for a worthy cause and tries hard to further it. It
+sometimes turns out to be a bad cause but it is the motives that define the
+theme.
+
+:: Parents
+human character
+
+
 personal ethical dilemma
 ========================
 
@@ -27467,6 +27942,21 @@ Melakon considered the shape of Spock's head to indicate stupidity in tos2x23
 https://en.wikipedia.org/wiki/Phrenology
 
 
+physics
+=======
+
+:: Description
+Physics is the natural science that studies matter, its motion and behavior
+through space and time, and the related entities of energy and force. This
+theme is used whenever an aspect of this science is featured in the story.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Physics
+
+
 pictographic writing system
 ===========================
 
@@ -27533,6 +28023,17 @@ detonation results in the planet cracking apart.
 
 :: Parents
 technological risk to civilization
+
+
+planet being flung out of its orbit
+===================================
+
+:: Description
+Civilization on a planet is threatened because the planet is, for one reason
+or another, leaving its natural orbit.
+
+:: Parents
+force of nature existential risk to civilization
 
 
 planet being knocked off its axis by nuclear blast
@@ -28598,6 +29099,42 @@ Federation in tng3x10 "The Defector".
 https://en.wikipedia.org/wiki/Preemptive_war
 
 
+prejudice against ex-convicts
+=============================
+
+:: Description
+Prejudice against ex-convicts, even though they have atoned for their crimes,
+is discussed.
+
+:: Parents
+prejudice in society
+
+:: Examples
+Nobody trusted Ro Laren after she got out of the penal stockade on Jaros II
+and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took
+pity on her.
+
+
+prejudice in society
+====================
+
+:: Description
+The subject of preconceived (typically unfavorable) notions about a group of
+people in society is explored.
+
+:: Parents
+relations between social groups in society
+
+:: Notes
+The themes "hatred in society" or "ethnic hatred" are more appropriate in
+cases where there is hostility but not necessarily any preconceived notions. A
+people at war may, for example, quite logically hate their enemy on account of
+that enemy being demonstrably organized to do murder.
+
+:: References
+https://en.wikipedia.org/wiki/Prejudice
+
+
 prenuptial agreement
 ====================
 
@@ -29415,6 +29952,46 @@ A character questions whether their beliefs are really rational.
 human worrying about self
 
 
+racial supremacism
+==================
+
+:: Description
+A character expresses the belief that their own ethnic group (as perceived by
+that character) is somehow superior to other races.
+
+:: Parents
+racism in society
+
+:: Notes
+If a character is preoccupied with the purity of their own race, for example
+by objecting vociferously to all mixed marriages, they may be presumed to
+stand for racial supremacism.
+
+:: References
+https://en.wikipedia.org/wiki/Supremacism
+
+
+racism in society
+=================
+
+:: Description
+The issue of a large portion of society having an irrational (typically
+unfavorable) prejudice against people of a certain ethnicity, i.e., race, is
+discussed.
+
+:: Parents
+prejudice in society
+
+:: Notes
+Any use of a racial slur is indicative of this prejudice. It is, however,
+possible for people of different ethnic groups to hate each other without any
+particular preconceived notions being apparent. In that case the theme "ethnic
+hatred" is used.
+
+:: References
+https://en.wikipedia.org/wiki/Racism
+
+
 radiation neutralizer
 =====================
 
@@ -29742,6 +30319,22 @@ human enhancement technology
 :: References
 http://www.sf-encyclopedia.com/entry/rejuvenation
 https://en.wikipedia.org/wiki/Regenerative_medicine
+
+
+relations between social groups in society
+==========================================
+
+:: Description
+There are two different and notably distinct social groups within a society,
+for example two ethnicities, and some aspect of the relationship between these
+two groups are featured. Notably, this is the category of themes that explore
+different types of hatred and prejudice in society.
+
+:: Parents
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Social_group
 
 
 relentless enemy in war
@@ -31802,6 +32395,27 @@ Nomad was such an object in tos2x08 "The Changeling", and hellbent on
 cleansing the universe of imperfect beings.
 
 
+sentient spaceship
+==================
+
+:: Description
+There is a spaceship with a mind of its own. This theme covers anything from a
+spaceship installed with an advanced artificial intelligence to more exotic
+possibilities, including intelligent entities constructed from biological
+components that function as spaceships to other beings.
+
+:: Parents
+spaceship, sentient machine,
+
+:: Examples
+In "Batteries Not Included" (1987), a family of small living spaceships of
+extraterrestrial origin helped save a property development threatened
+apartment block from being demolished.
+
+:: Related Themes
+biological spaceship, sentient computer
+
+
 serial murder in society
 ========================
 
@@ -31855,6 +32469,22 @@ masters in matters of the flesh.
 
 :: Parents
 artificial being, artificial intelligence
+
+
+sexism in society
+=================
+
+:: Description
+Prejudice against someone because of their gender is featured.
+
+:: Parents
+gender issue, prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Sexism
+
+:: Aliases
+gender discrimination
 
 
 sexual assault in society
@@ -33916,6 +34546,25 @@ Summer Olympics in Moscow in "Goldengirl" (1979).
 https://en.wikipedia.org/wiki/Sport
 
 
+sportsmanship
+=============
+
+:: Description
+Something is said about what does or does not constitute good manners in some
+sport or another.
+
+:: Parents
+manners
+
+:: Examples
+In tz1959e3x05 "A Game of Pool", we saw Jesse accuse Fats of poor
+sportsmanship twice, because Fats distracted Jesse as he was about to take a
+shot in the game of pool.
+
+:: References
+https://en.wikipedia.org/wiki/Sportsmanship
+
+
 spouse murder
 =============
 
@@ -34220,6 +34869,21 @@ his new stepmother in "My Science Project" (1985).
 
 :: References
 https://en.wikipedia.org/wiki/Stepmother
+
+
+stepparent and stepchild
+========================
+
+:: Description
+The relationship between a stepparent and their stepchild is featured. The
+stepparent is not a biological parent of the child, but takes the role of a
+parent to some extent.
+
+:: Parents
+human familial relationship
+
+:: References
+https://en.wikipedia.org/wiki/Stepfamily
 
 
 stepping up to the task
@@ -34738,6 +35402,28 @@ https://en.wikipedia.org/wiki/Superseded_scientific_theories
 discredited scientific theory
 
 
+supersoldier
+============
+
+:: Description
+There is a soldier capable of operating beyond normal human limits or
+abilities. This is typically achieved by augmenting an ordinary person, either
+through surgical means, eugenics, genetic engineering, cybernetic implants,
+drugs, brainwashing, traumatic events, an extreme training regimen or other
+scientific and pseudoscientific means.
+
+:: Parents
+speculative being
+
+:: Examples
+In "X-men Origins: Wolverine" (2009), Major Stryker led a clandestine research
+program the goal of which was to enhance the abilities of natural mutants,
+turning them into elite soldiers.
+
+:: References
+https://en.wikipedia.org/wiki/Supersoldier
+
+
 superstition
 ============
 
@@ -34879,6 +35565,26 @@ his very own secret basement bomb shelter.
 
 :: References
 https://en.wikipedia.org/wiki/Survivalism
+
+
+surviving in a post-apocalyptic wasteland
+=========================================
+
+:: Description
+A character struggles to survive in a broken world after some apocalyptic
+event that has left the world tattered and bereft of organized society.
+
+:: Parents
+facing adversity
+
+:: Examples
+In tz1959e3x01 "Two", we saw two lonely soldiers from opposing factions
+scavenge a broken city for the necessities of another day of life.
+
+:: Note
+This theme is not used when a relatively large number of people are
+surviving together and forming what seems like a new society, but rather when
+one or a few character have to scavenge ruins for what they need to survive.
 
 
 survivor guilt
@@ -35916,6 +36622,20 @@ descent, the Bringloidi, in tng2x18 "Up The Long Ladder".
 https://en.wikipedia.org/wiki/Culture_of_Ireland
 
 
+the Japanese stereotype
+=======================
+
+:: Description
+A stereotypically Japanese character is notably featured. This may involve
+excessive stoicism, notions of honor, and ritual suicide.
+
+:: Parents
+human character stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Culture_of_Japan
+
+
 the Jewish stereotype
 =====================
 
@@ -36413,6 +37133,20 @@ A parent struggles to explain sex to their child.
 educating a child
 
 
+the boy who cried wolf moral
+============================
+
+:: Description
+Featured is the age old wisdom that you should not tell frivolous lies, or you
+may not be believed when the matter is for real.
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf
+
+
 the butterfly effect
 ====================
 
@@ -36825,27 +37559,6 @@ lead to socially good outcomes? Are the policies morally justified if so?
 social ethical dilemma
 
 
-the religious end of the world
-==============================
-
-:: Description
-A religious doctrine that predicates the end of all material things for one
-reason or another is featured.
-
-:: Parents
-organized religion
-
-:: Examples
-The people of Ventax II thought the prophesied end was neigh when their devil
-seemed to appear in the flesh in tng4x13 "Devil's Due".
-
-:: References
-https://en.wikipedia.org/wiki/End_time
-
-:: Aliases
-Götterdämmerung, Ragnarök, Apocalypse
-
-
 the enemy of my enemy is my friend
 ==================================
 
@@ -37131,6 +37844,20 @@ people, how do we decide which is morally preferable?
 
 :: Parents
 social ethical dilemma
+
+
+the grass is always greener on the other side
+=============================================
+
+:: Description
+Featured is the idea that humans are more apt to perceive that other people's
+lives or situations are better than their own, rather than the converse.
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wiktionary.org/wiki/the_grass_is_always_greener_on_the_other_side
 
 
 the greatest among us is the smallest in another world
@@ -38531,6 +39258,27 @@ Captain Kirk in tos1x14 "Court Martial".
 AI, fictional issue
 
 
+the religious end of the world
+==============================
+
+:: Description
+A religious doctrine that predicates the end of all material things for one
+reason or another is featured.
+
+:: Parents
+organized religion
+
+:: Examples
+The people of Ventax II thought the prophesied end was neigh when their devil
+seemed to appear in the flesh in tng4x13 "Devil's Due".
+
+:: References
+https://en.wikipedia.org/wiki/End_time
+
+:: Aliases
+Götterdämmerung, Ragnarök, Apocalypse
+
+
 the right to a fair trial
 =========================
 
@@ -39370,6 +40118,23 @@ speculative society
 
 :: References
 https://en.wikipedia.org/wiki/Thoughtcrime
+
+
+threat from extraterrestrial life
+=================================
+
+:: Description
+Civilization as we know it is jeopardized by the activities of living beings
+from another planet. This may, for example, involve an invasion, colonization,
+infiltration, or preemptive attempt by aliens to wipe out humanity.
+Alternatively, it may involve some sort of alien accident.
+
+:: Parents
+existential risk to civilization
+
+:: References
+http://www.sf-encyclopedia.com/entry/invasion
+https://en.wikipedia.org/wiki/Global_catastrophic_risk#Extraterrestrial_invasion
 
 
 tidal power
@@ -43307,17 +44072,6 @@ seemingly magical phenomena.
 extraordinary experience
 
 
-what if someone couldn't remember me anymore
-============================================
-
-:: Description
-A character suddenly finds that a person that used to know them well has now lost 
-all memories of them.
-
-:: Parents
-what if someone around me changed
-
-
 what if my partner switched gender
 ==================================
 
@@ -43447,6 +44201,17 @@ fantastical way.
 
 :: Parents
 extraordinary experience
+
+
+what if someone couldn't remember me anymore
+============================================
+
+:: Description
+A character suddenly finds that a person that used to know them well has now
+lost all memories of them.
+
+:: Parents
+what if someone around me changed
 
 
 what if the Nazis had won
@@ -44636,6 +45401,20 @@ human worrying about self
 Captain Picard and his crew finally rejected the fake orders they had received
 to kill defenceless aliens in tng5x14 "Conundrum", because the orders went
 against good conscience.
+
+
+xenophobia in society
+=====================
+
+:: Description
+The issue of a large portion of society having hostile and fearful attitudes
+toward strangers is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Xenophobia
 
 
 xenophobic isolationist beings
