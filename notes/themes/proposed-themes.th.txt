@@ -540,7 +540,7 @@ the archaeology profession
 An archaeologist is engaged in their chosen occupation.
 
 :: Parents
-the academic professions
+academia
 
 :: Examples
 Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
@@ -554,7 +554,7 @@ the astronomy profession
 An astronomer is engaged in their chosen occupation.
 
 :: Parents
-the academic professions
+academia
 
 :: References
 https://en.wikipedia.org/wiki/Astronomer
@@ -567,7 +567,7 @@ the geology profession
 A geologist is engaged in their chosen occupation.
 
 :: Parents
-the academic professions
+academia
 
 :: References
 https://en.wikipedia.org/wiki/Geology
@@ -580,7 +580,7 @@ the history profession
 A historian is engaged in their chosen occupation.
 
 :: Parents
-the academic professions
+academia
 
 :: References
 https://en.wikipedia.org/wiki/Historian
@@ -593,7 +593,7 @@ the scientist profession
 A scientist is engaged in their chosen occupation.
 
 :: Parents
-the academic professions
+academia
 
 :: References
 https://en.wikipedia.org/wiki/Scientist
@@ -612,6 +612,8 @@ human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Journalist
+
+
 
 
 
