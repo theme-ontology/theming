@@ -293,102 +293,98 @@ art related occupation
 https://en.wikipedia.org/wiki/Creative_writing
 
 
-
-what electioneering is like
-===========================
+professional politics
+=====================
 
 :: Description
-We are shown what it might be like for someone involved in a political
-campaign.
+A person working with professional politics is engaged in their chosen occupation.
+This may include people inhabiting an elected office, or who are campaigning
+for such.
 
 :: Parents
-what life is like
+human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Political_campaign
 
 
-what it is like as a private investigator
-=========================================
+the private investigator profession
+===================================
 
 :: Description
-We are shown a sincere idea of what it might be like to work in the line of
-private investigation.
+A professional private investigation is engaged in their chosen occupation.
 
 :: Parents
-what life is like
+human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Private_investigator
 
 
-what it is like as a spy
-========================
+the secret agent profession
+===========================
 
 :: Description
-We are shown an idea of what it might be like to engage in espionage.
+A character working with espionage or the like is engaged in their
+chosen profession.
+
+:: Notes
+This profession is naturally a gray area between legal, illegal, and war
+type of themes. It is included here because there are many stories that
+feature romanticized ideas of secret agents as heroes.
 
 :: Parents
-what life is like
+human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Espionage
 
 
-what it is like in a legal proceeding
-=====================================
+the legal professions
+=====================
 
 :: Description
-A hearing, trial, or other such legal procedure is featured.
+A character working directly with the interpretation of law, for example
+a lawyer, prosecutor, or judge, is engaged in their chosen occupation.
 
 :: Parents
-what life is like
+human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Legal_proceeding
 
 
-what it is like in a medical emergency room
-===========================================
+the medical professions
+=======================
 
 :: Description
-We are shown what it might be like in a busy emergency room or similar medical
-facility, for example a field hospital in a war zone.
+A character working with health care, typically in a hospital or comparable 
+institution, is engaged in their chosen occupation.
 
 :: Parents
-what life is like
+human occupational activity
 
 
-what it is like in a medical facility
-=====================================
+law enforcement
+===============
 
 :: Description
-We are shown what it might be like to work in a hospital or comparable
-healthcare institution.
+A character working in some department of law enforcement is engaged in their
+chosen occupation.
 
 :: Parents
-what life is like
+human occupational activity
 
 
-what it is like in law enforcement
-==================================
-
-:: Description
-We are shown a reasonably realistic vision of what everyday life may be like
-for someone who works in some department of law enforcement.
-
-:: Parents
-what life is like
-
-
-what it is like in showbiz
+the entertainment industry
 ==========================
 
 :: Description
-We are shown what life in the entertainment industry might be like.
+A character working in show business, i.e., film, theater, and the like, is
+engaged in their chosen occupation.
 
 :: Parents
-what life is like
+art related occupation
 
 :: References
 https://en.wikipedia.org/wiki/Show_business
@@ -402,7 +398,7 @@ We are shown what it might be like for people involved in the design,
 modeling, marketing, and sales of fashionable clothing and related goods.
 
 :: Parents
-what life is like
+art related occupation
 
 :: Examples
 New Wave fashion of the 1980s is showcased in "Liquid Sky" (1983).
@@ -421,7 +417,7 @@ For example, we may see an author work with a literary agent to find a publisher
 willing to print and sell a book.
 
 :: Parents
-what life is like
+art related occupation
 
 :: Examples
 In talesoftheunexpected6x10 "The Luncheon", Tony spent his last £37 on lunch
@@ -439,7 +435,7 @@ the tech support profession
 A character is employed to tend to the machines that other people are using.
 
 :: Parents
-what life is like
+human occupational activity
 
 
 the hospitality industry
@@ -450,19 +446,172 @@ A waiter, bartender, hotel maid or other hospitality industry worker is engaged
 in their chosen occupation.
 
 :: Parents
-what life is like
+human occupational activity
 
 
+the visual arts
+===============
+
+:: Description
+A character working with art forms such as painting, drawing, printmaking, 
+sculpture, ceramics, photography, video, filmmaking, design, crafts, and 
+architecture is engaged in their occupation.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Visual_arts
 
 
+the business world
+==================
+
+:: Description
+A character working more with business in general than with any specific 
+industry, for example an executive, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
 
 
+the maritime profession
+=======================
+
+:: Description
+Someone working on or with a seafaring vessel is engaged in their chosen
+occupation. Typically this means sailors, captains, and other naval officers.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
 
 
+the language industry
+=====================
+
+:: Description
+A character working with translation, interpreting, subtitling, or the like
+is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Language_industry
 
 
+charitable volunteering
+=======================
+
+:: Description
+A character is working with something that is considered charitable, such
+as a soup kitchen or aid work in Africa. The occupation may or may not be 
+remunerative, but is popularly considered to be done for the betterment
+of the world rather than for economic gain.
+
+:: Parents
+human occupational activity
+
+:: Examples
+It was revealed that Miranda Vigo had cared for orphans on Camor V in tng7x22
+"Bloodlines".
 
 
+passion for event management
+============================
+
+:: Description
+A character is working with organizing large get-togethers and other events
+involving people. 
+
+:: Parents
+human occupational activity
+
+
+the archaeology profession
+==========================
+
+:: Description
+An archaeologist is engaged in their chosen occupation.
+
+:: Parents
+the academic professions
+
+:: Examples
+Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
+was rudely cut short by Q in tng4x20 "Qpid".
+
+
+the astronomy profession
+========================
+
+:: Description
+An astronomer is engaged in their chosen occupation.
+
+:: Parents
+the academic professions
+
+:: References
+https://en.wikipedia.org/wiki/Astronomer
+
+
+the geology profession
+======================
+
+:: Description
+A geologist is engaged in their chosen occupation.
+
+:: Parents
+the academic professions
+
+:: References
+https://en.wikipedia.org/wiki/Geology
+
+
+the history profession
+======================
+
+:: Description
+A historian is engaged in their chosen occupation.
+
+:: Parents
+the academic professions
+
+:: References
+https://en.wikipedia.org/wiki/Historian
+
+
+the scientist profession
+========================
+
+:: Description
+A scientist is engaged in their chosen occupation.
+
+:: Parents
+the academic professions
+
+:: References
+https://en.wikipedia.org/wiki/Scientist
+
+
+journalism
+==========
+
+:: Description
+A character working with journalism is engaged in their chosen occupation. 
+This may include traveling investigative journalists as well as editors, columnists, 
+and the like.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Journalist
 
 
 
