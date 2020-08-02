@@ -131,6 +131,321 @@ remembering bygone days
 
 
 
+charting unknown territory
+==========================
+
+:: Description
+Someone faces the dangers inherent to exploring new territory, e.g., space
+exploration.
+
+:: Parents
+human vs. nature
+
+
+deep sea exploration
+====================
+
+:: Description
+Someone faces the dangers inherent to exploring the deep sea.
+
+:: Parents
+charting unknown territory
+
+
+land exploration
+================
+
+:: Description
+Someone faces the dangers inherent to exploring relatively unknown inland
+regions.
+
+:: Notes
+A land inhabited by natives may still be unknown to the explorer's people.
+
+:: Parents
+charting unknown territory
+
+
+polar exploration
+=================
+
+:: Description
+Someone faces the dangers inherent to exploring the arctic regions.
+
+:: Parents
+charting unknown territory
+
+
+space exploration
+=================
+
+:: Description
+Someone faces the dangers inherent to exploring space.
+
+:: Parents
+charting unknown territory
+
+
+
+
+
+
+
+human regular activity
+======================
+
+:: Description
+This is the category of themes that contain various purposeful regular activities
+that humans may be engaged in. Such activities are typically occupations or hobbies.
+
+:: Parents
+the human condition
+
+
+human occupational activity
+===========================
+
+:: Description
+A character is engaged in their chosen occupation.
+
+:: Parents
+human regular activity
+
+
+art related occupation
+======================
+
+:: Description
+A character involved with the production of art is engaged in their 
+chosen occupation.
+
+:: Parents
+human occupational activity
+
+
+crime related occupation
+========================
+
+:: Description
+A character involved with law, law enforcement, or related activities
+is engaged in their chosen occupation.
+
+:: Notes
+This theme is used for typically lawful accusations. Typically criminal 
+activities are categorized as "law and order issue" instead.
+
+:: Parents
+human occupational activity
+
+
+the tech industry
+=================
+
+:: Description
+A character working in a technology oriented company is engaged in their chosen
+occupation.
+
+:: Parents
+human occupational activity
+
+
+academia
+========
+
+:: Description
+A character working in an academic institution is engaged in their chosen
+profession.
+
+:: Note
+This includes studies at the higher levels of learning, e.g. doctoral students, 
+as as such is generally considered to be training for an academic career.
+
+:: Parents
+human occupational activity
+
+
+creative writing
+================
+
+:: Description
+A writer is engaged in writing original and creative works of poetry, novels, 
+plays, etc. This is contrasted with, for example, scientific and journalistic
+writing where creativity has to be constrained by objective facts to a much
+greater extent.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Creative_writing
+
+
+
+what electioneering is like
+===========================
+
+:: Description
+We are shown what it might be like for someone involved in a political
+campaign.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Political_campaign
+
+
+what it is like as a private investigator
+=========================================
+
+:: Description
+We are shown a sincere idea of what it might be like to work in the line of
+private investigation.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Private_investigator
+
+
+what it is like as a spy
+========================
+
+:: Description
+We are shown an idea of what it might be like to engage in espionage.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Espionage
+
+
+what it is like in a legal proceeding
+=====================================
+
+:: Description
+A hearing, trial, or other such legal procedure is featured.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Legal_proceeding
+
+
+what it is like in a medical emergency room
+===========================================
+
+:: Description
+We are shown what it might be like in a busy emergency room or similar medical
+facility, for example a field hospital in a war zone.
+
+:: Parents
+what life is like
+
+
+what it is like in a medical facility
+=====================================
+
+:: Description
+We are shown what it might be like to work in a hospital or comparable
+healthcare institution.
+
+:: Parents
+what life is like
+
+
+what it is like in law enforcement
+==================================
+
+:: Description
+We are shown a reasonably realistic vision of what everyday life may be like
+for someone who works in some department of law enforcement.
+
+:: Parents
+what life is like
+
+
+what it is like in showbiz
+==========================
+
+:: Description
+We are shown what life in the entertainment industry might be like.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Show_business
+
+
+the fashion industry
+====================
+
+:: Description
+We are shown what it might be like for people involved in the design,
+modeling, marketing, and sales of fashionable clothing and related goods.
+
+:: Parents
+what life is like
+
+:: Examples
+New Wave fashion of the 1980s is showcased in "Liquid Sky" (1983).
+
+:: References
+https://en.wikipedia.org/wiki/Fashion
+
+
+the publishing industry
+=======================
+
+:: Description
+A character working with the dissemination of literature, music, 
+and information is engaged in their chosen occupation. 
+For example, we may see an author work with a literary agent to find a publisher 
+willing to print and sell a book.
+
+:: Parents
+what life is like
+
+:: Examples
+In talesoftheunexpected6x10 "The Luncheon", Tony spent his last £37 on lunch
+with the wife of a famous film producer in an effort to secure a film deal for
+his novel.
+
+:: References
+https://en.wikipedia.org/wiki/Publishing
+
+
+the tech support profession
+===========================
+
+:: Description
+A character is employed to tend to the machines that other people are using.
+
+:: Parents
+what life is like
+
+
+the hospitality industry
+========================
+
+:: Description
+A waiter, bartender, hotel maid or other hospitality industry worker is engaged
+in their chosen occupation.
+
+:: Parents
+what life is like
+
+
+
+
+
+
+
+
 
 
 
