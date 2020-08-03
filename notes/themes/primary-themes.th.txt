@@ -3801,20 +3801,6 @@ their enemy.
 human worrying about self
 
 
-bedrock dwelling being
-======================
-
-:: Description
-A being that lives literally in bedrock.
-
-:: Parents
-subterranean being, inhospitable environment dwelling being
-
-:: Examples
-The Horta, itself composed of silicon, eked out a living by burrowing tunnels
-in the bedrock on Janus VI in tos1x26 "The Devil in the Dark".
-
-
 being ashamed of who you are
 ============================
 
@@ -6132,23 +6118,6 @@ speculative energy generation technology
 
 :: References
 https://en.wikipedia.org/wiki/Cold_fusion
-
-
-collapsing bubble universe
-==========================
-
-:: Description
-A collapsing deformation of spacetime called a bubble universe.
-
-:: Parents
-speculative reality
-
-:: Examples
-Beverly Crusher became trapped inside just such a universe in tng4x05
-"Remember Me".
-
-:: References
-https://en.wikipedia.org/wiki/Eternal_inflation
 
 
 collective dreaming
@@ -12748,6 +12717,10 @@ topic in science
 :: References
 https://en.wikipedia.org/wiki/Exponential_growth
 
+:: Examples
+Sulu explained how Gary Mitchell's psychic ability was increasing
+geometrically in tos1x01 "Where No Man Has Gone Before".
+
 :: Aliases
 geometric growth
 
@@ -16082,24 +16055,6 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Gentrification
-
-
-geometric growth
-================
-
-:: Description
-A sequence of numbers where each term after the first is obtained by
-multiplying the previous one by a non-zero constant.
-
-:: Parents
-topic in science
-
-:: Examples
-Sulu explained how Gary Mitchell's psychic ability was increasing
-geometrically in tos1x01 "Where No Man Has Gone Before".
-
-:: References
-https://en.wikipedia.org/wiki/Exponential_growth
 
 
 geothermal energy from Earth's interior
@@ -20091,24 +20046,6 @@ https://en.wikipedia.org/wiki/Indoctrination
 
 :: Other Parents
 juvenile
-
-
-inductive logic
-===============
-
-:: Description
-The bottom-up process of reasoning where by observed particular instances lend
-support to broader general laws.
-
-:: Parents
-topic in science
-
-:: Examples
-Geordi correctly inferred the location of an object by performing a vector
-analysis on the shadow it cast in tng4x18 "Identity Crisis".
-
-:: References
-https://en.wikipedia.org/wiki/Inductive_reasoning
 
 
 inebriated interaction
@@ -26433,17 +26370,6 @@ biologically distinguished being
 
 :: References
 https://en.wikipedia.org/wiki/List_of_parasitic_alien_species
-
-
-parasitic bug aliens
-====================
-
-:: Description
-Beings that attach themselves to humanoid brainstems thus deriving
-nourishment, taking control, and conquering the galaxy all in one go.
-
-:: Parents
-parasitic being
 
 :: Examples
 Bug-like neural parasites from outer space nearly took over Starfleet by
@@ -36872,17 +36798,6 @@ human idea about life
 https://en.wikipedia.org/wiki/Frugality
 
 
-the importance of firepower
-===========================
-
-:: Description
-The simple fact that pure firepower is important to the outcome of conflict is
-highlighted.
-
-:: Parents
-the art of war
-
-
 the importance of not displaying weakness
 =========================================
 
@@ -39560,19 +39475,6 @@ law and order issue
 
 :: Other Parents
 crime and punishment
-
-
-treatment of the down and out
-=============================
-
-:: Description
-The way really poor people are treated by the rest of society is discussed.
-
-:: Parents
-socioeconomic issue
-
-:: References
-https://en.wikipedia.org/wiki/Poverty
 
 
 treatment of the mentally ill in society
@@ -42431,16 +42333,6 @@ game.
 
 :: Parents
 what if I found myself in a strange place
-
-
-what if I was yanked out of my normal routine and sent on an important mission
-==============================================================================
-
-:: Description
-A character is subjected to this fantastical scenario.
-
-:: Parents
-what if I were in a tight spot
 
 
 what if I were a ghost

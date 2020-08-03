@@ -1,3 +1,354 @@
+what it is like to work in the hospitality industry
+===================================================
+
+:: Description
+We are shown what it is like to work in the hotel and restaurant industry.
+
+:: Parents
+what life is like
+
+
+what it is like to work as tech support
+=======================================
+
+:: Description
+A character is employed to tend to the machines that other people are using;
+this persons' experiences with their work are featured. Typically, the idea is
+that the users are ignorant, impatient, and arrogant.
+
+:: Parents
+what life is like
+
+
+what it is like in the publishing industry
+==========================================
+
+:: Description
+We are shown what it might be like for people working in or with the
+dissemination of literature, music, and information. For example, we may see
+an author work with a literary agent to find a publisher willing to print and
+sell a book.
+
+:: Parents
+what life is like
+
+:: Examples
+In talesoftheunexpected6x10 "The Luncheon", Tony spent his last £37 on lunch
+with the wife of a famous film producer in an effort to secure a film deal for
+his novel.
+
+:: References
+https://en.wikipedia.org/wiki/Publishing
+
+
+what it is like in the fashion industry
+=======================================
+
+:: Description
+We are shown what it might be like for people involved in the design,
+modeling, marketing, and sales of fashionable clothing and related goods.
+
+:: Parents
+what life is like
+
+:: Examples
+New Wave fashion of the 1980s is showcased in "Liquid Sky" (1983).
+
+:: References
+https://en.wikipedia.org/wiki/Fashion
+
+
+what it is like in a medical emergency room
+===========================================
+
+:: Description
+We are shown what it might be like in a busy emergency room or similar medical
+facility, for example a field hospital in a war zone.
+
+:: Parents
+what life is like
+
+
+pleasure in meeting new cultures
+================================
+
+:: Description
+A character takes great pleasure in fraternizing with people from other
+cultures.
+
+:: Parents
+human pleasure
+
+
+passion for writing
+===================
+
+:: Description
+Someone is excitedly trying to become a writer.
+
+:: Parents
+human professional aspiration
+
+:: References
+https://en.wikipedia.org/wiki/Writing
+
+
+passion for medicine
+====================
+
+:: Description
+A character gets a kick out of curing ailments and treating injuries.
+
+:: Parents
+human professional aspiration
+
+:: Examples
+Beverly treated some casualties of a terrorist attack at extreme risk to her
+personal safety in tng3x12 "The High Ground".
+
+
+passion for history
+===================
+
+:: Description
+A character is enthusiastic about the subject of history.
+
+:: Parents
+human professional aspiration
+
+:: References
+https://en.wikipedia.org/wiki/History
+
+
+passion for geology
+===================
+
+:: Description
+A character gets a kick out of studying rocks.
+
+:: Parents
+human professional aspiration
+
+:: References
+https://en.wikipedia.org/wiki/Geology
+
+
+passion for event management
+============================
+
+:: Description
+A character is enthusiastic about the hobby or profession of organizing large
+get-togethers and the like.
+
+:: Parents
+human professional aspiration
+
+
+passion for collecting Data
+===========================
+
+:: Description
+A person is enthusiastic about collecting and curating at least one character
+named "Data".
+
+:: Parents
+human professional aspiration
+
+
+passion for collecting data
+===========================
+
+:: Description
+A character is enthusiastic about collecting and curating data of any kind.
+
+:: Parents
+human professional aspiration
+
+:: References
+https://en.wikipedia.org/wiki/Data
+
+
+passion for charitable volunteering
+===================================
+
+:: Description
+A character gets a kick out of trying to make the universe a better place.
+
+:: Parents
+human professional aspiration
+
+:: Examples
+It was revealed that Miranda Vigo had cared for orphans on Camor V in tng7x22
+"Bloodlines".
+
+
+passion for archaeology
+=======================
+
+:: Description
+A character gets a kick out of digging up old relics and frequenting ancient
+places.
+
+:: Parents
+human professional aspiration
+
+:: Examples
+Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
+was rudely cut short by Q in tng4x20 "Qpid".
+
+
+medical etiology
+================
+
+:: Description
+The scientific study of illnesses and the many factors that come together to
+cause an illness.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Cause_(medicine)
+
+
+machine learning
+================
+
+:: Description
+The scientific study of how to construct machines that have the ability to
+learn without being explicitly programmed.
+
+:: Parents
+modern science
+
+:: Examples
+Dr. Richard Daystrom's M-5 Multitronic Unit could learn and adapt in tos2x24
+"The Ultimate Computer".
+
+:: References
+https://en.wikipedia.org/wiki/Machine_learning
+
+:: Other Parents
+AI
+
+
+what if I was yanked out of my normal routine and sent on an important mission
+==============================================================================
+
+:: Description
+A character is subjected to this fantastical scenario.
+
+:: Parents
+what if I were in a tight spot
+
+
+treatment of the down and out
+=============================
+
+:: Description
+The way really poor people are treated by the rest of society is discussed.
+
+:: Parents
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Poverty
+
+
+the importance of firepower
+===========================
+
+:: Description
+The simple fact that pure firepower is important to the outcome of conflict is
+highlighted.
+
+:: Parents
+the art of war
+
+
+parasitic bug aliens
+====================
+
+:: Description
+Beings that attach themselves to humanoid brainstems thus deriving
+nourishment, taking control, and conquering the galaxy all in one go.
+
+:: Parents
+parasitic being
+
+:: Examples
+Bug-like neural parasites from outer space nearly took over Starfleet by
+attaching themselves to important officers' brainstems in tng1x25
+"Conspiracy".
+
+
+inductive logic
+===============
+
+:: Description
+The bottom-up process of reasoning where by observed particular instances lend
+support to broader general laws.
+
+:: Parents
+topic in science
+
+:: Examples
+Geordi correctly inferred the location of an object by performing a vector
+analysis on the shadow it cast in tng4x18 "Identity Crisis".
+
+:: References
+https://en.wikipedia.org/wiki/Inductive_reasoning
+
+
+geometric growth
+================
+
+:: Description
+A sequence of numbers where each term after the first is obtained by
+multiplying the previous one by a non-zero constant.
+
+:: Parents
+topic in science
+
+:: Examples
+Sulu explained how Gary Mitchell's psychic ability was increasing
+geometrically in tos1x01 "Where No Man Has Gone Before".
+
+:: References
+https://en.wikipedia.org/wiki/Exponential_growth
+
+
+collapsing bubble universe
+==========================
+
+:: Description
+A collapsing deformation of spacetime called a bubble universe.
+
+:: Parents
+speculative reality
+
+:: Examples
+Beverly Crusher became trapped inside just such a universe in tng4x05
+"Remember Me".
+
+:: References
+https://en.wikipedia.org/wiki/Eternal_inflation
+
+
+bedrock dwelling being
+======================
+
+:: Description
+A being that lives literally in bedrock.
+
+:: Parents
+subterranean being, inhospitable environment dwelling being
+
+:: Examples
+The Horta, itself composed of silicon, eked out a living by burrowing tunnels
+in the bedrock on Janus VI in tos1x26 "The Devil in the Dark".
+
+
 living spaceship
 ================
 

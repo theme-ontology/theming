@@ -153,6 +153,74 @@ human mental condition
 https://en.wikipedia.org/wiki/Regression_(psychology)
 
 
+speculative genetic engineering
+===============================
+
+:: Description
+
+:: Parents
+biological technology
+
+:: References
+https://en.wikipedia.org/wiki/Genetic_engineering https://en.wikipedia.org/wiki/Genetics_in_fiction#Genetic_engineering
+http://www.sf-encyclopedia.com/entry/genetic_engineering
+
+
+looting of artifacts
+====================
+
+:: Description
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Archaeological_looting
+
+
+marketing
+=========
+
+:: Description
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Marketing
+
+
+perilous voyage in outer space
+==============================
+
+:: Description
+
+:: Parents
+speculative travel
+
+
+speculative hypnosis
+====================
+
+:: Description
+
+:: Parents
+superstition
+
+:: References
+http://www.sf-encyclopedia.com/entry/hypnosis
+
+
+the maritime professions
+========================
+
+:: Description
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Sailor
 
 
 charting unknown territory
@@ -726,41 +794,6 @@ of an American clipper ship as they pursued pirates across the Pacific Ocean
 all the way to a volcanic island inhabited by dinosaurs.
 
 
-machine learning
-================
-
-:: Description
-The scientific study of how to construct machines that have the ability to
-learn without being explicitly programmed.
-
-:: Parents
-modern science
-
-:: Examples
-Dr. Richard Daystrom's M-5 Multitronic Unit could learn and adapt in tos2x24
-"The Ultimate Computer".
-
-:: References
-https://en.wikipedia.org/wiki/Machine_learning
-
-:: Other Parents
-AI
-
-
-medical etiology
-================
-
-:: Description
-The scientific study of illnesses and the many factors that come together to
-cause an illness.
-
-:: Parents
-modern science
-
-:: References
-https://en.wikipedia.org/wiki/Cause_(medicine)
-
-
 pleasure in dancing
 ===================
 
@@ -785,6 +818,7 @@ of the military is demonstrated.
 
 :: Parents
 what life is like
+
 
 astronomy
 =========
@@ -817,12 +851,12 @@ as we are shown in tas1x05 "More Tribbles, More Troubles".
 https://en.wikipedia.org/wiki/Ecology
 
 
-ethology
-========
+animal behavior
+===============
 
 :: Description
-Ethology is the scientific and objective study of animal behaviour, usually
-with a focus on behaviour under natural conditions, and viewing behavior as an
+Ethology is the scientific and objective study of animal behavior, usually
+with a focus on behavior under natural conditions, and viewing behavior as an
 evolutionarily adaptive trait.
 
 :: Parents
@@ -836,18 +870,16 @@ various animals act and why.
 https://en.wikipedia.org/wiki/Ethology
 
 
-genetic engineering
-===================
+genetics
+========
 
 :: Description
-The scientific study of genes and ways in which they can be modified.
 
 :: Parents
 modern science
 
 :: References
-https://en.wikipedia.org/wiki/Genetic_engineering https://en.wikipedia.org/wiki/Genetics_in_fiction#Genetic_engineering
-http://www.sf-encyclopedia.com/entry/genetic_engineering
+https://en.wikipedia.org/wiki/Genetics#:~:text=Genetics%20is%20a%20branch%20of,first%20to%20study%20genetics%20scientifically.
 
 
 pedagogy
@@ -922,17 +954,6 @@ what life is like
 https://en.wikipedia.org/wiki/Legal_proceeding
 
 
-what it is like in a medical emergency room
-===========================================
-
-:: Description
-We are shown what it might be like in a busy emergency room or similar medical
-facility, for example a field hospital in a war zone.
-
-:: Parents
-what life is like
-
-
 what it is like in a medical facility
 =====================================
 
@@ -968,64 +989,7 @@ what life is like
 https://en.wikipedia.org/wiki/Show_business
 
 
-what it is like in the fashion industry
-=======================================
 
-:: Description
-We are shown what it might be like for people involved in the design,
-modeling, marketing, and sales of fashionable clothing and related goods.
-
-:: Parents
-what life is like
-
-:: Examples
-New Wave fashion of the 1980s is showcased in "Liquid Sky" (1983).
-
-:: References
-https://en.wikipedia.org/wiki/Fashion
-
-
-what it is like in the publishing industry
-==========================================
-
-:: Description
-We are shown what it might be like for people working in or with the
-dissemination of literature, music, and information. For example, we may see
-an author work with a literary agent to find a publisher willing to print and
-sell a book.
-
-:: Parents
-what life is like
-
-:: Examples
-In talesoftheunexpected6x10 "The Luncheon", Tony spent his last £37 on lunch
-with the wife of a famous film producer in an effort to secure a film deal for
-his novel.
-
-:: References
-https://en.wikipedia.org/wiki/Publishing
-
-
-what it is like to work as tech support
-=======================================
-
-:: Description
-A character is employed to tend to the machines that other people are using;
-this persons' experiences with their work are featured. Typically, the idea is
-that the users are ignorant, impatient, and arrogant.
-
-:: Parents
-what life is like
-
-
-what it is like to work in the hospitality industry
-===================================================
-
-:: Description
-We are shown what it is like to work in the hotel and restaurant industry.
-
-:: Parents
-what life is like
 
 
 
@@ -1092,21 +1056,6 @@ A character is enthusiastic about old vintage cars and the like.
 human pleasure
 
 
-passion for archaeology
-=======================
-
-:: Description
-A character gets a kick out of digging up old relics and frequenting ancient
-places.
-
-:: Parents
-human professional aspiration
-
-:: Examples
-Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
-was rudely cut short by Q in tng4x20 "Qpid".
-
-
 passion for astronomy
 =====================
 
@@ -1117,20 +1066,6 @@ A character is enthusiastic about the stargazing science and profession.
 human professional aspiration
 
 
-passion for charitable volunteering
-===================================
-
-:: Description
-A character gets a kick out of trying to make the universe a better place.
-
-:: Parents
-human professional aspiration
-
-:: Examples
-It was revealed that Miranda Vigo had cared for orphans on Camor V in tng7x22
-"Bloodlines".
-
-
 passion for classic films
 =========================
 
@@ -1139,30 +1074,6 @@ A character is enthusiastic about old movies of cultural significance.
 
 :: Parents
 human pleasure
-
-
-passion for collecting Data
-===========================
-
-:: Description
-A person is enthusiastic about collecting and curating at least one character
-named "Data".
-
-:: Parents
-human professional aspiration
-
-
-passion for collecting data
-===========================
-
-:: Description
-A character is enthusiastic about collecting and curating data of any kind.
-
-:: Parents
-human professional aspiration
-
-:: References
-https://en.wikipedia.org/wiki/Data
 
 
 passion for collecting rare objects
@@ -1177,17 +1088,6 @@ human pleasure
 
 :: References
 https://en.wikipedia.org/wiki/Psychology_of_collecting
-
-
-passion for event management
-============================
-
-:: Description
-A character is enthusiastic about the hobby or profession of organizing large
-get-togethers and the like.
-
-:: Parents
-human professional aspiration
 
 
 passion for exploration
@@ -1237,32 +1137,6 @@ The Providers, a trio of disembodied brains, had a gambling problem to say the
 least in tos2x17 "The Gamesters of Triskelion".
 
 
-passion for geology
-===================
-
-:: Description
-A character gets a kick out of studying rocks.
-
-:: Parents
-human professional aspiration
-
-:: References
-https://en.wikipedia.org/wiki/Geology
-
-
-passion for history
-===================
-
-:: Description
-A character is enthusiastic about the subject of history.
-
-:: Parents
-human professional aspiration
-
-:: References
-https://en.wikipedia.org/wiki/History
-
-
 passion for journalism
 ======================
 
@@ -1296,20 +1170,6 @@ human pleasure
 
 :: References
 https://en.wikipedia.org/wiki/Martial_arts
-
-
-passion for medicine
-====================
-
-:: Description
-A character gets a kick out of curing ailments and treating injuries.
-
-:: Parents
-human professional aspiration
-
-:: Examples
-Beverly treated some casualties of a terrorist attack at extreme risk to her
-personal safety in tng3x12 "The High Ground".
 
 
 passion for music
@@ -1466,18 +1326,6 @@ human pleasure
 Alex Rogan was determined to set the high score on an arcade game, called
 Starfighter, in "The Last Starfighter" (1984).
 
-
-passion for writing
-===================
-
-:: Description
-Someone is excitedly trying to become a writer.
-
-:: Parents
-human professional aspiration
-
-:: References
-https://en.wikipedia.org/wiki/Writing
 
 
 
@@ -1659,17 +1507,6 @@ human pleasure
 :: Examples
 Troi took pleasure in listening to Aaron Conor serenade her on the piano in
 tng5x13 "The Masterpiece Society".
-
-
-pleasure in meeting new cultures
-================================
-
-:: Description
-A character takes great pleasure in fraternizing with people from other
-cultures.
-
-:: Parents
-human pleasure
 
 
 pleasure in nature
