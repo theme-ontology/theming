@@ -199,7 +199,7 @@ dealing with children [Tom threatened to eat one],
 heroism [Tom takes a bullet in the gut to save kid's life],
 letting go of a lover [Harry urged to by Tom],
 male wingmanship [Tom and Harry],
-passion for journalism [Latika],
+journalism [The aspiring reporter Latika planned to write up about the strange appearance of Janeway and Tom in his school journal.],
 sacrifice for a child [Tom took a bullet for kid],
 social activism [the poleric energy protestors],
 the dangers of unfettered scientific advancement [the energy source that powered alien civilization was a ticking time bomb],
@@ -572,7 +572,6 @@ what if I met a Viking [or something about what the Vikings were like],
 fear [photonics of Graendel],
 gluttony [We saw a Viking feast.],
 literature appreciation [Harry of Beowulf],
-passion for exploration [Janeway waxed lyrical about meeting new species],
 
 :: Other Keywords
 Beowulf [] {literary reference},
@@ -1453,7 +1452,6 @@ betrayal [Michael Jonas],
 coping with bad cooking [bad coffee and whatnot],
 hubris [Tom a modern day Icarus],
 living up to expectations [Tom about living up to father's expectations],
-passion for flying [Tom],
 risk taking vs. playing it safe [Tom wants to fly mission with 2% chance of death],
 special relativity [Tom traveled at infinite velocity and was simultaneously at all places in universe],
 anti-intellectualism in society [Neelix vs. the smart people],
@@ -1698,7 +1696,7 @@ treason [Michael Jonas],
 :: Minor Themes
 freedom of the press [Janeway tried to discourage Neelix from pursuing the traitor and reporting on it],
 medical triage [The Doctor explicitly discussed the issue],
-passion for journalism [Harry and Neelix],
+journalism [Michael Jonas was revealed to be a traitor thanks to Neelix's investigative journalism.],
 the desire for fame [Neelix kindled in The Doctor],
 
 
@@ -2239,7 +2237,7 @@ anger [B'Elanna in confronting genocidal killer of the Regressives],
 flirtation [Harry and Jessen],
 government secrecy [The Enaran goverment covered up a genocide.],
 anti-technology way of life [regressives were said to be],
-passion for event management [Neelix],
+event management [Neelix worked all afternoon to organize a party to welcome a group of aliens aboard Voyager. He enthusiastically arranged everything down to the last detail, and played host during the party.],
 passion for music [Janeway and alien],
 peer pressure [dream B'Elanna started cheering with the crowd],
 laziness [B'Elanna],
@@ -2358,11 +2356,10 @@ time traveler secretly living among us [Henry Starlin],
 
 :: Minor Themes
 antigovernment militia movement [Chakotay and Tom held captive by such guys],
-astronomy [],
+the astronomy profession [Rain Robinson was working in Earth's SETI program.],
 coping with being tortured [The Doctor],
 flirtation [Tom and Rain],
 flying saucer theory of UFOs [Video footage of Voyager flying above Los Angeles declared a UFO hoax by news organizations.],
-passion for astronomy [Rain],
 the lust for gold [Henry Starlin],
 the lust for power [Henry Starlin],
 time traveler's dilemma [the future captain refused to send Voyager crew home for fear of changing their future],
@@ -4579,6 +4576,7 @@ the good of the many vs. the needs of the few [the arguments for and against doi
 informed consent in medicine [The Doctor struggled with whether or not to treat B'Elanna without her consent],
 compromising one's ethical principles vs. great need [The Doctor struggled with decising whether or not to help Moset in his evil experiments],
 ethnic hatred [Tensions ran high between the Maquis crew members and the hologram of a notorious Cardassian scientist.],
+the medical professions [The Doctor and Dr. Moset struggled to dislodge a parasitic alien from B’Elanna.],
 
 :: Minor Themes
 vanity [The Doctor giving his slide show],
@@ -4586,7 +4584,6 @@ the need to be treated with respect [The Doctor about being needed to be appreci
 vivisection [Moset callously vivisected a holographic alien],
 boredom [Voyager crew at The Doctor's slide show],
 coping with a loved one being in peril [Tom was distressed when his girlfriend B'Elanna became incapacitated by an alien parasite.],
-passion for medicine [Moset and The Doctor],
 incompatible modes of communication [Voyager crew and cytoplasmic life form aliens],
 pridefulness [The Doctor presented a self-aggrandizing slideshow on his achievements while aboard Voyager.],
 racism in society [B'Elanna hated Cardassians and was of the mind that they were all cold-blooded killers.],
@@ -5684,16 +5681,15 @@ Directed by: Robert Picardo. Story by: Mike Wollaeger and Jessica Scott.
 3 <paul>
 
 :: Choice Themes
-passion for exploration [John Kelly and Voyager crew for exploring Mars and the graviton ellipse],
-passion for history [Chakotay and Janeway instilled a passion for history in Seven; Chakotay was a 21st century Mars mission history enthusiast],
+space exploration [John Kelly and Voyager crew went on a pioneering mission to Mars, and later explored a graviton ellipse.],
 the thirst for knowledge [Chakotay and crew curious to investigate graviton ellipse],
 
 :: Major Themes
 coming to terms with one's own death [John Kelly accepted he was going to die in a graviton ellipse once life support gave out.],
 human vs. space anomaly [Delta Flyer crew trapped inside graviton ellipse],
+human pleasure [Chakotay and Tom were history buffs on the first mission to Mars.],
 
 :: Minor Themes
-passion for collecting data [John Kelly collected as much data on the graviton ellipse as he could],
 celebrity worship [Seven was puzzled by the human instinct to celebritize our heroes],
 risk taking vs. playing it safe [Seven tried to convince Janeway that exploring the graviton ellipse was too risky, but Janeway was willing to take the risk; Chakotay took risk to recover module in the face of Seven's reservations],
 the game of baseball [Twenty-first century astronaut John Kelly was a big New York Yankees fan.],
@@ -6917,7 +6913,7 @@ fear of abandonment [revealed as perhaps the underlying reason for B'Elanna's be
 
 :: Minor Themes
 human parenting [Tom discussed with Tuvok],
-genetic engineering [The Doctor discussed about genetically engineering B'Elanna's child],
+speculative genetic engineering [The Doctor discussed about genetically engineering B'Elanna's child.],
 bullying [B'Elanna was bullied],
 remorse [apparently B'Elanna felt guilty about making her father leave],
 AI rights [B'Elanna violated The Doctor's right by secretly reprogramming him],
@@ -6963,7 +6959,6 @@ discrimination in society [The Nygean justice system was rigged against the mino
 :: Minor Themes
 facing a hostage situation [The Doctor and Seven briefly held hostage in sickbay],
 force field generator [could manifest bowl shaped holes in brig force field jail cell barriers],
-what it is like in a legal proceeding [Janeway mentioned professional judges and impartiality],
 coping with post-traumatic stress [Seven from cortical implant implantation],
 prisoners' rights [Janeway chided the Benkarans for administering a beating to Iko, and prisoners were accustomed to only one meal a day.],
 treatment of prisoners [Janeway chided Benkarans for administering a beating to Iko; prisoners accustomed to only one meal a day],
@@ -7264,10 +7259,11 @@ AI point of view [The Doctor],
 medical triage [first chapter of holonovel],
 coping with a meddling parent [Harry's mother],
 parental pride [Harry's parents proud of Harry having been put in charge of Voyager at one point],
-what it is like in a legal proceeding [some kind of courtroom was featured],
+what it is like in a legal proceeding [The Doctor status as a person under Federation law was decided by an arbiter in a courtroom setting.],
 vanity [The Doctor took pride in getting his holonovel published],
 social oppression [The Doctor tried to draw attention to oppressed photonic brethren in the Delta Quadrant.],
 father and daughter [B'Elanna's father reached out to repair they broken relationship],
+the legal professions [The Doctor status as a person under Federation law was decided by an arbiter in a courtroom setting.],
 
 
 voy7x21
