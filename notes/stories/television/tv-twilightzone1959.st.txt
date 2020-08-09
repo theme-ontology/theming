@@ -4657,11 +4657,8 @@ William Shakespeare as his ghostwriter.
 Directed by: David Butler. Story by: Rod Serling.
 
 :: Ratings
-4 <paul*>,
+4 <paul>,
 3 <mikael> [got +1 for the Shakesperian quotes],
-
-:: Choice Themes
-if Shakespeare wrote a script the network executives would still butcher it [],
 
 :: Major Themes
 the entertainment industry [The story followed a the filming of a television show pilot penned by none other than Shakespeare himself.],
@@ -4669,14 +4666,14 @@ the desire to advance one's career [The story followed a struggling screenwriter
 benefiting from someone else's work [The bumbling screenwriter Julius accidentally conjured Shakespeare into existence, got him to write a play, and then shamelessly took credit for it. Shakespeare was rather annoyed of not receiving any credit for all the work Julius simply put his own name on.],
 the desire for fame [The story followed a struggling screenwriter trying to make a name for himself in show business.],
 creative writing [Shakespeare was mortified to find that a group of television executives had butchered a television show pilot script that he'd penned.], 
-coping with an obnoxious chatterbox [Julius was an annoying chatterbox to pretty much everyone around him],
-attitude of superiority [Julius became extraordinarily full of himself after Shakespeare wrote all his scripts],
-black magic [Julius found a grimoire and used dark arts to conjure people from history to help him write.],
+coping with an obnoxious chatterbox [Julius was an annoying chatterbox to pretty much everyone around him.],
+attitude of superiority [Julius became extraordinarily full of himself after Shakespeare wrote all his scripts.],
+what it is like to be a struggling artist [The streetcar conductor turned screenwriter Julius pestered a television executive into giving him one last crack at making it in show business.],
 
 :: Minor Themes
-what it is like to be a struggling artist [The streetcar conductor turned screenwriter Julius pestered a television executive into giving him one last crack at making it in show business. MO: knock up?],
 what if I met an historical figure [Julius accidentally conjured Shakespeare himself into existence. He later deliberately conjured up a number of figures from American history.],
-hubris [Julius became rather full of himself but was in deep trouble when Shakespeare abandoned him],
+hubris [Julius became rather full of himself but was in deep trouble when Shakespeare abandoned him.],
+black magic [Julius found a grimoire and used dark arts to conjure people from history to help him write.],
 
 
 tz1959e5x01
@@ -4703,26 +4700,20 @@ Directed by: Joseph M. Newman. Story by: Rod Serling.
 :: Choice Themes
 father and son [Max and Pip.],
 remorse [Max regretted his near-constant absence from his son's life.],
-second guessing one's self [Max regretted his life.] <FD nearly same as remorse PS: note for discussion: one is an emotion while the other is about self-reflection.>,
+second guessing one's self [Max regretted his life.],
 
 :: Major Themes
-human self improvement [Max swore time and again that he was going to change his wicked ways, straighten up and all that.],
 coping with a loved one being in peril [Max was devastated when he learned that his son had been gravely wounded in Vietnam.],
 absentee father [We understand that Max regretted having been a mostly absent father to his son Pip.],
-facing death [Mortally wounded, Max spent most of the story stumbling around and regretting his life.],
-wishing or wanting something really hard makes it happen [] <For discussion about Max asking the Lord to take his life in exchange for saving his son's.>,
+human self-sacrifice for another [Max went against his boss and ultimately gave his life to save the boy who had so ill-advisedly gambled with someone else's money. Max also asked the Lord to exchange his life for his son's.],
 
 :: Minor Themes
-kindness [Max was notably kind to a young man who'd gambled away $300 of borrowed money.] <FD>,
-problem gambling in society [We saw a young man who gambled with his employer's money and lost.] <FD not quite. PS: Note for discussion that we may rework "passion for gambling" into a more general theme about people gambling.>,
+human self improvement [Max swore time and again that he was going to change his wicked ways, straighten up and all that.],
+kindness [Max was notably kind to a young man who'd gambled away $300 of borrowed money.],
+passion for gambling [We saw a young man who gambled with his employer's money and lost.],
 alcohol abuse [Max's landlady commented caustically on his drinking.],
 the Vietnam War [Max's son was wounded in South Vietnam (it was not supposed to be a war there, we heard).],
-human self-sacrifice for another [Max went against his boss and ultimately gave his life to save the boy who had so ill-advisedly gambled with someone else's money.] <For discussion: Max also asked the Lord to exchange his life for his son's.>,
 duty vs. compassion [Max felt compassion for the young gambler and handed him back the $300, thus betraying Max's own boss.],
-con artistry [Max said "no more con jobs" to Pip, making evident what sort of character Max had been.],
-organized crime in society [] <FD>,
-murder in society [Max killed two men, albeit while threatened.] <PS: No police investigation or anything so perilously close to the case of someone getting shot dead in an action movie.>,
-white-collar crime in society [] <FD gambling with company money... PS: a bit of a murky theme here.>,
 the medical professions [We saw a medic working to save Pip's life in a field hospital in South Vietnam.],
 
 
@@ -4745,7 +4736,7 @@ grips with his career having been taken over by machines.
 Directed by: Don Weis. Story by: Richard Matheson.
 
 :: Ratings
-5 <mikael> [could this be the inspiration for both a Simpsons and a Futurama story?],
+5 <mikael*> [could this be the inspiration for both a Simpsons and a Futurama story?],
 5 <paul>,
 
 :: Choice Themes
@@ -4822,6 +4813,7 @@ Directed by: John Rich. Story by: Michael D. Rosenthal, Rod Serling.
 
 :: Ratings
 2 <paul>,
+3 <paul>,
 
 :: Choice Themes
 time freezing device [McNulty was given a time freezing stopwatch by a mysterious foreigner.],
