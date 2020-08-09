@@ -111,7 +111,7 @@ sci-fi
 
 :: Major Themes
 interplanetary space travel [The United States Department of Defense and American private industry team up to send an atomic powered rocket to the Moon.],
-spaceship [The United States Department of Defense and American private industry team up to send an atomic powered, single-stage-to-orbit rocketship to the Moon.],
+nuclear powered spaceship [The United States Department of Defense and American private industry team up to send an atomic powered, single-stage-to-orbit rocketship to the Moon.],
 
 :: Minor Themes
 nuclear power [The rocketship used to fly to the Moon was atomic powered.],
@@ -121,6 +121,9 @@ what if I found myself in a zero gravity environment [Rocketship crew experience
 what if I found myself in a low gravity environment [Rocketship crew experienced a low gravity environment on the surface of the Moon.],
 spacesuit [Rocketship crew wore spacesuits for their space walk to fix the rocket.],
 sacrifice for a friend [Jim Barnes, Charles Cargraves, General Thayer, and Joe Sweeney vied to stay behind on the Moon so that the rocket could liftoff and return to Earth.],
+
+:: Other Keywords
+rocketship [A nuclear powered rocketship was sent to the Moon.],
 
 
 movie: Prehistoric Women (1950)
@@ -458,6 +461,7 @@ nuclear power [A scientist developed an atomic-powered rocket that was sent off 
 science for war or peace [Major Joe Nolan pointed out that the uranium deposits found in the lost jungle world could be used either to power a new and better civilization or destroy the one they had.],
 the limits of science [Lt. Danny Wilson tried to shake Michael Rostov's conviction with science everything could be predicted.],
 The Holocaust [Michael Rostov reveals himself to be a victim of the Holocaust in which he lost his wife and unborn child.],
+nuclear powered spaceship [A scientist developed an atomic-powered rocket that was sent off and vanished without a trace.],
 
 :: Other Keywords
 dinosaur [],
@@ -568,14 +572,17 @@ technologically enabled utopia [Crew exposed to Martian apparent technologically
 subterranean civilization [Martians had underground civilization.],
 
 :: Minor Themes
-spaceship [Crew fly on sleek rocket ship to Mars and back.],
+nuclear powered spaceship [The crew flew on a sleek, nuclear powered rocketship to Mars and back.],
 what if I found myself in a low gravity environment [Carol Stadwick experienced low gravity conditions in the rocket.],
 the vastness of the universe [Dr. Lane mused on the vastness of the universe and speculated that we ourselves are all miniature universes filled with sentient corpuscles.],
 romantic love [Carol Stafford. Jim Baker and Alita.],
 love triangle [Jim Baker, Carol Stafford, and Alita.],
 father and daughter [Councilman and Alita.],
 female independence [Carol Stafford was a confident scientist. Jim Baker was surprised when the female Alita turned out to be a highly skilled engineer.],
-nuclear power [The Martians were interested in learning how the Humans had used nuclear power to fuel their rocket ship.],
+nuclear power [The Martians were interested in learning how the Humans had used nuclear power to fuel their rocketship.],
+
+:: Other Keywords
+rocketship [The crew flew on a sleek, nuclear powered rocketship to Mars and back.],
 
 
 movie: When Worlds Collide (1951)
@@ -1488,7 +1495,7 @@ interplanetary space travel [A mission to fly to space in a rocket and collect a
 romantic love [Jerry Lockwood and Susan Manners. Jane Flynn and Richard Stanton.],
 
 :: Minor Themes
-spaceship [Three manned rocket ships are designed to fly on a meteor collection and return mission.],
+spaceship [Three manned rocketships are designed to fly on a meteor collection and return mission.],
 father and son [Donald Stanton worried his son Richard Stanton would be selected to go on perilous mission to space.],
 space exploration [Three astronauts ventured into space in three one-man rockets to collect meteors from a passing meteor storm.],
 
@@ -1757,7 +1764,7 @@ pridefulness [Queen Cleolanta was too proud to participate in the United Worlds 
 
 :: Minor Themes
 space station [A space station was in danger of being taken out by the passing Gypsy Moons.],
-spaceship [Rocky Jones was flying around in a stereotypical 1950s style rocket ship. A fleet of rocket ships were used to evacuate the inhabitants of Ophiuchus.],
+spaceship [Rocky Jones was flying around in a stereotypical 1950s style rocketship. A fleet of rocketships were used to evacuate the inhabitants of Ophiuchus.],
 husband and wife [Bavarro and Katanda.],
 human parenting [Bavarro and Katanda were raising a baby prince.],
 
@@ -1841,10 +1848,10 @@ mechanical man [Professor Nordstrom builds a robot named Tobor.],
 grandfather and grandson [Gramps and Gadge.],
 
 :: Minor Themes
-interplanetary space travel [A nuclear powered multistage rocket ship was being developed to explore the solar system.],
+interplanetary space travel [A nuclear powered multistage rocketship was being developed to explore the solar system.],
 unethical human experimentation [Ralph Harrison resigned his post in protest against the inhumane treatment being inflicted upon spaceship pilots.],
 government secrecy [A reporter urged Ralph Harrison and Professor Nordstrom to release classified government information to the public for the public good.],
-multistage rocket [A nuclear powered multistage rocket ship was being developed to explore the solar system.],
+multistage rocket [A nuclear powered multistage rocketship was being developed to explore the solar system.],
 father and son [Ralph Harrison and Gadge.],
 mother and son [Janice Roberts and Gadge.],
 father and daughter [Gramps and Janice Roberts.],
@@ -2067,7 +2074,7 @@ father and son [Samuel T. Merritt and his son Barney Merritt participate in the 
 depletion of a vital natural resource [It was necessary to go to Mars to seek out more natural resources for Earth. Sargent Imoto explained that Japan went to war seeking out resources for his small country, and he didn't want to same thing to repeat itself on a global scale in the future.],
 natural resource sustainability [It was necessary to go to Mars to seek out more natural resources for Earth.],
 descent into madness [Commander Samuel T. Merritt slowly goes dangerously insane from space fatigue on mission to Mars.],
-spaceship [A crew of five astronauts flew a land and return rocket ship to Mars.],
+spaceship [A crew of five astronauts flew a land and return rocketship to Mars.],
 
 :: Minor Themes
 coping with being separated from someone you love [Barney wished to be with his lover on Earth, rather than command a mission to Mars.],
@@ -2337,6 +2344,7 @@ mother and daughter [Chet Walker and Penny Walker.],
 father and daughter [Joyce Walker and Penny Walker.],
 romantic love [Chet Walker and Joyce Walker.],
 husband and wife [Chet Walker and Joyce Walker.],
+nuclear power [Ex-Nazi scientist Wilhelm Steigg reanimated the dead using atomic power.],
 
 
 movie: Half Human (1955)
@@ -2814,7 +2822,7 @@ slavery [The Humans living underground enslaved children of the mutants that wer
 what if I had to fight to the death [John Borden accepted a challenge from the mutant chief to fight to the death and won.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 giant spider [],
 
 
@@ -3615,13 +3623,13 @@ secret government project [Aliens took over the British government and ran a sec
 
 :: Minor Themes
 colonization of the Moon [Professor Quatermass' inquiries lead him to a huge industrial complex, strikingly similar to his own plans for a moon colony.],
-spaceship [Brand launched an unmanned rocket ship loaded with an atomic bomb to take out an asteroid believed to be the alien invasion's point of origin.],
+spaceship [Brand launched an unmanned rocketship loaded with an atomic bomb to take out an asteroid believed to be the alien invasion's point of origin.],
 blobform [The small creatures that emerged from a destroyed dome combined into gigantic blob-like masses.],
 
 :: Other Keywords
 meteor [],
 atomic bomb [],
-rocket ship [],
+rocketship [],
 
 
 movie: 20 Million Miles to Earth (1957)
@@ -3653,7 +3661,7 @@ giant monster [The Americans and villagers were attacked by a giant, reptile-lik
 romantic love [Robert Calder and Marisa Leonardo.],
 
 :: Minor Themes
-interplanetary space travel [A rocket ship on the way back Venus crash lands to Earth with a reptile-like creature on boards. This was the first ever interplanetary spaceflight.],
+interplanetary space travel [A rocketship on the way back Venus crash lands to Earth with a reptile-like creature on boards. This was the first ever interplanetary spaceflight.],
 grandfather and granddaughter [Dr. Leonardo and Marisa Leonardo.],
 
 
@@ -4311,7 +4319,7 @@ space telescope [The space station space telescope was used to take high resolut
 colonization of the Moon [A lunar colony was founded.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 
 
 movie: The Monolith Monsters (1957)
@@ -4597,7 +4605,7 @@ alien secretly living among us [Dr. Pol Van Ponder was really an alien.],
 transnational institution for peace [The United Nations was organizing a space program.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 
 
 movie: Attack of the 50 Foot Woman (1958)
@@ -4878,7 +4886,7 @@ scientific experimentation [Dr. Charles T. Pommer experimented on the space fung
 custody battle [Laura Greeling went to visit her ex-husband Dr. Pommer to try and convince him to let her have custody of their son.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 
 
 movie: The Fly (1958)
@@ -5038,7 +5046,7 @@ telepathic being [The blood beast communicated telepathically with John Corcoran
 sacrifice for one's people [John Corcoran committed suicide so the embryos inside him could not come to fruition and take over the Earth.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 
 
 movie: The Fabulous World of Jules Verne (1958)
@@ -5107,14 +5115,14 @@ sci-fi
 :: Major Themes
 interplanetary space travel [The second ever mission to Mars was sent to discover the fate of the first.],
 Martian extraterrestrial [A hostile Martian life form killed nine members of],
-human vs. beast [A hostile Martial life form stowed away on the rocket ship and was terrorizing the crew.],
+human vs. beast [A hostile Martial life form stowed away on the rocketship and was terrorizing the crew.],
 
 :: Minor Themes
-spaceship [A crew flew a nuclear powered rocket ship to Mars and back.],
+spaceship [A crew flew a nuclear powered rocketship to Mars and back.],
 what if I was accused of a crime that I didn't commit [Col. Edward Carruthers was accused of killing his nine crew mates on Mars in order that he might survive long enough until a rescue party arrived, but he insisted it was a hostile Martian life form that killed his crew.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 chess [],
 
 
@@ -5268,7 +5276,7 @@ mass hysteria [People began to panic when news of the oncoming meteor swarm was 
 the religious end of the world [Sergei Boetnikov interpreted the meteor swarm heading to Earth as the Biblical end of the world.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 mainframe computer [],
 atom bomb [],
 
@@ -5315,7 +5323,7 @@ human vs. beast [Captain Patterson and his space crew were attacked by a giant b
 unrequited love [Queen Yllana at Captain Patterson.],
 
 :: Other Keywords
-rocket ship [Captain Patterson and his space crew blasted off from Earth in a rocket ship and ended up carsh landing on Venus.],
+rocketship [Captain Patterson and his space crew blasted off from Earth in a rocketship and ended up carsh landing on Venus.],
 giant beetle [Captain Patterson and his space crew were attacked by a giant beetle in the Venusian caverns],
 
 
@@ -5493,7 +5501,7 @@ sci-fi
 interplanetary space travel [Victor Barbicane used the power of "Power X" to attempt a flight to the Moon and back.],
 annihilation by WMDs [Victor Barbicane developed the new explosive "Power X" that had the destructive force to destroy the entire world.],
 science for war or peace [Victor Barbicane's new explosive "Power X" could be used to reach the Moon or blow up the Earth.],
-spaceship [Victor Barbicane went to the Moon in a "Power X" fueled rocket ship.],
+spaceship [Victor Barbicane went to the Moon in a "Power X" fueled rocketship.],
 romantic love [Ben Sharpe and Virginia Nicholl.],
 
 :: Minor Themes
@@ -5501,7 +5509,7 @@ arms trade [Victor Barbicane and other munitions producers had profited handsome
 father and daughter [Nicholl and Virginia Nicholl.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 stowaway [],
 
 
@@ -5650,7 +5658,7 @@ sci-fi
 
 :: Major Themes
 Moon people [A spaceship blasts off from Earth with five aboard, but one of them is secretly a Moon man returning home.],
-interplanetary space travel [Dirk Green is secretly a Moon man and builds a rocket ship and compels two escaped convicts to fly it with him to the Moon.],
+interplanetary space travel [Dirk Green is secretly a Moon man and builds a rocketship and compels two escaped convicts to fly it with him to the Moon.],
 fiancée and fiancée [Steve Dayton and June Saxton.],
 romantic love [Steve Dayton and June Saxton.],
 human vs. captivity [The lunar landing party members were held captive by the Moon women.],
@@ -5658,7 +5666,7 @@ atmospheric dissipation [The Moon women's civilization was on the verge of colla
 
 :: Minor Themes
 spaceship [A spaceship blasts off from Earth with five aboard, but one of them is secretly a Moon man returning home.],
-facing organized pursuit [Escaped convicts Gary and Lon hid aboard Dirk Green's rocket ship and ended up being compelled to fly it to the Moon.],
+facing organized pursuit [Escaped convicts Gary and Lon hid aboard Dirk Green's rocketship and ended up being compelled to fly it to the Moon.],
 silicon-based being [The landing party encountered rock monsters on the surface of the Moon.],
 human vs. beast [The lunar landing party was attacked by a giant Moon spider while trying to escape from the Moon women.],
 unrequited love [Alpha wanted Steve Dayton to be her husband but he was happily engaged to June Saxton.],
@@ -5666,7 +5674,7 @@ love triangle [Alpha wanted Steve Dayton to be her husband but he was happily en
 coping with a disability [Lido had gone blind.],
 
 :: Other Keywords
-rocket ship [],
+rocketship [],
 rock monster [],
 giant spider [],
 
@@ -5819,7 +5827,7 @@ risk taking in the advancement of science and technology [The film concluded wit
 romantic love [Dan Milton Prescott and Tia Francesca.],
 
 :: Other Keywords
-rocket ship [The navy constructed and launched a manned rocket into space.],
+rocketship [The navy constructed and launched a manned rocket into space.],
 
 
 movie: The Monster of Piedras Blancas (1959)
@@ -6288,7 +6296,7 @@ husband and wife [Dr. Ingrid Naarveg and Dr. Ted Benson.],
 love vs. career [Should Dr. Ingrid Naarveg give up on her career in science to settled down and marry Ted Benson?],
 
 :: Other Keywords
-rocket ship [The Three Stooges flew to Venus in a rocket ship.],
+rocketship [The Three Stooges flew to Venus in a rocketship.],
 giant tarantula [The Three Stooges were attacked by a giant, fire breathing tarantula on Venus.],
 unicorn [The Three Stooges encountered a talking unicorn on Venus.],
 
@@ -6491,7 +6499,7 @@ movie: The Angry Red Planet (1959)
 The Angry Red Planet
 
 :: Description
-A rocket ship returns from Mars but one of the two surviving crew member is
+A rocketship returns from Mars but one of the two surviving crew member is
 too shocked to remember what happened on the mission, and the other is
 delirious and all covered in green goo.
 
@@ -6514,13 +6522,13 @@ Martian extraterrestrial [The astronauts discovered a futuristic city on Mars an
 romantic love [Dr. Iris Ryan and Thomas O’Bannion.],
 
 :: Minor Themes
-the dangers of radioactivity [The rocket ship crew encountered potentially dangerous cosmic radiation on their voyage to Mars.],
+the dangers of radioactivity [The rocketship crew encountered potentially dangerous cosmic radiation on their voyage to Mars.],
 human vs. beast [The astronauts were attacked by various alien creatures on Mars, including a giant spider-like creature and a giant lake amoeba.],
 giant space amoeba [A giant amoeba emerged from a Martian lake and attacked the astronauts and prevented them from blasting off.],
 
 :: Other Keywords
-rocket ship [A manned rocket with a crew of four was sent to Mars and returned to Earth.],
-mainframe computer [There was a mainframe computer in the rocket ship.],
+rocketship [A manned rocket with a crew of four was sent to Mars and returned to Earth.],
+mainframe computer [There was a mainframe computer in the rocketship.],
 giant amoeba [A giant amoeba emerged from a Martian lake and attacked the astronauts.],
 
 
@@ -6710,13 +6718,13 @@ transnational institution for peace [The nations of the world united against the
 :: Minor Themes
 space station [There was a manned space station in orbit around the Earth.],
 anti-gravity technology [The aliens were able to levitate objects using a ray that lowered temperature to absolute zero - it was alleged that objects at absolute zero were not affected by the force of gravity.],
-interplanetary space travel [Two manned rocket ships blasted off from Earth and touched down on the Moon.],
+interplanetary space travel [Two manned rocketships blasted off from Earth and touched down on the Moon.],
 mind control technology [The aliens used a cranial implant to mind control Iwamura.],
 romantic love [Katsumiya and Etsuko.],
-sacrifice for a friend [Iwamura gave his live on the Moon fighting the aliens so that his crew mates could blast off in their rocket ship and return to Earth.],
+sacrifice for a friend [Iwamura gave his live on the Moon fighting the aliens so that his crew mates could blast off in their rocketship and return to Earth.],
 flying saucer [The aliens flew around in flying saucers.],
 
 :: Other Keywords
-rocket ship [The people of Earth united and built two large rocket ships to use in the fight against the aliens.],
+rocketship [The people of Earth united and built two large rocketships to use in the fight against the aliens.],
 
 
