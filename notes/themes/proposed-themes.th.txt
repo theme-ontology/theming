@@ -165,21 +165,25 @@ In sherlock1x02 "The Blind Banker", Sherlock Holmes and Watson connected a pair
 of enigmatic murders to a Chinese smuggling ring.
 
 
-coded message
-=============
+cryptographic cypher
+====================
 
 :: Description
 A technique for secure communication in the presence a third party is featured.
+A collection of more or less complicated algorithms for encryption. These are
+strategies for writing messages such that they can only be read by those who
+know the secret to decoding them.
 
 :: Parents
 topic in science
 
 :: References
-https://en.wikipedia.org/wiki/Code_(cryptography)
+https://en.wikipedia.org/wiki/Cipher
 
 :: Examples
 Sherlock Holmes and Watson cracked a book cipher in sherlock1x02 "The Blind
 Banker".
+
 
 nuclear powered spaceship
 =========================
