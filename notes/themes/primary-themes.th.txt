@@ -4094,23 +4094,6 @@ stand model.
 shapeshifter
 
 
-bioengineered crops
-===================
-
-:: Description
-A crop that has been genetically engineered to yield much more usable food
-than its original. This was sci-fi in the 60s. A gene modified plant
-(antibiotic-resistant tobacco) was first developed in 1982.
-
-:: Parents
-biological technology
-
-:: Examples
-Quadrotriticale was a high-yield genetically modified grain, and the only
-Earth grain that could grow on Sherman's Planet, in tos2x13 "The Trouble with
-Tribbles".
-
-
 bioengineered human pathogen
 ============================
 
@@ -4119,7 +4102,7 @@ A virus, bacterium or equivalent type of infectious substance has been
 engineered by a person.
 
 :: Parents
-biological technology
+speculative biotechnology
 
 
 biological computer
@@ -4130,7 +4113,7 @@ A machine that works much like a classical computer but is grown out of
 organic materials.
 
 :: Parents
-biological technology
+speculative biotechnology
 
 :: References
 https://en.wikipedia.org/wiki/Biological_computing
@@ -4156,7 +4139,7 @@ There is an artificial device with components that are biological in nature.
 Note: This theme is not used for sentient objects such as androids.
 
 :: Parents
-biological technology
+speculative biotechnology
 
 
 biological spaceship
@@ -4166,7 +4149,7 @@ biological spaceship
 A spaceship made up of biological components, i.e., cells and such.
 
 :: Parents
-spaceship, biological technology
+spaceship, speculative biotechnology
 
 :: References
 https://en.wikipedia.org/wiki/Bioship
@@ -4175,8 +4158,8 @@ https://en.wikipedia.org/wiki/Bioship
 bioship
 
 
-biological technology
-=====================
+speculative biotechnology
+=========================
 
 :: Description
 An as-yet fictional thing that may conceivably be done with bioengineering
@@ -18037,7 +18020,7 @@ The technology to create new individuals that have the same DNA as an
 original, but not necessarily have anything else in common.
 
 :: Parents
-biological technology
+speculative biotechnology
 
 :: References
 https://en.wikipedia.org/wiki/Human_cloning
@@ -33116,7 +33099,7 @@ speculative fiction theme
 :: Examples
 "speculative technology" themes come in great numbers in science fiction, and
 also great variety. It is convenient to further sub-categorize them according
-to function, for example "artificial intelligence", "biological technology",
+to function, for example "artificial intelligence", "speculative biotechnology",
 "mind altering technology", "speculative engineering", and "speculative
 weapon".
 
@@ -34494,7 +34477,7 @@ Someone creates a living, functioning organism from non-living components by
 scientific means.
 
 :: Parents
-biological technology
+speculative biotechnology
 
 :: Examples
 Mad scientist Dr. Charles Walding tried to create the first man-made living
