@@ -644,7 +644,7 @@ earth around the sun, at which a small third body can remain stationary with
 respect to both.
 
 :: Parents
-topic in science
+physics
 
 :: Examples
 A mysterious warship hid in the Lagrange point behind Rana IV's farthest moon
@@ -772,7 +772,7 @@ An historically important method of encoding the alphabet into binary
 sequences of long and short signals, often audible beeps.
 
 :: Parents
-topic in technology
+technology
 
 :: References
 https://en.wikipedia.org/wiki/Morse_code
@@ -2431,23 +2431,6 @@ military issue
 https://en.wikipedia.org/wiki/Militia_organizations_in_the_United_States
 
 
-antimatter power
-================
-
-:: Description
-Matter-antimatter annihilations are used as a power source for technology.
-
-:: Parents
-topic in science
-
-:: Examples
-The cyborg Alita had an antimatter powered heart in "Alita: Battle Angel"
-(2019).
-
-:: References
-https://en.wikipedia.org/wiki/Antimatter
-
-
 antiscience in society
 ======================
 
@@ -3055,15 +3038,15 @@ approaching astronomical object event
 https://en.wikipedia.org/wiki/Impact_event
 
 
-asteroid impact avoidance
-=========================
+astronomical impact avoidance
+=============================
 
 :: Description
 A collection of methods by which an asteroid could be diverted from colliding
 with a planetary target.
 
 :: Parents
-topic in science
+speculative technology
 
 :: Examples
 After the Enterprise had spectacularly failed to divert an asteroid, Captain
@@ -6835,7 +6818,7 @@ planets in a solar system, the folding of a proteins, the trajectory of a
 vehicle etc.
 
 :: Parents
-topic in science
+modern science
 
 :: Examples
 Geordi and Leah Brahms used the holodeck to simulate the warp engine, and save
@@ -9995,7 +9978,7 @@ A theory in which the universe follows infinite, or indefinite, self-
 sustaining cycles is featured.
 
 :: Parents
-topic in science
+speculative reality
 
 :: References
 https://en.wikipedia.org/wiki/Cyclic_model
@@ -11735,7 +11718,7 @@ was around before PCs and The Internet began becoming commonplace in
 households, is featured.
 
 :: Parents
-topic in technology
+technology
 
 :: Notes
 As a general rule of thumb, this category includes machines made before the
@@ -11900,20 +11883,6 @@ human character
 https://en.wikipedia.org/wiki/Egocentrism
 
 
-eidetic memory
-==============
-
-:: Description
-The phenomenon of photographic memory is discussed. Whether such a thing
-really exists is controversial among scientists.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Eidetic_memory
-
-
 electioneering in society
 =========================
 
@@ -11928,29 +11897,6 @@ political issue
 
 :: References
 https://en.wikipedia.org/wiki/Political_campaign
-
-
-electricity
-===========
-
-:: Description
-Electricity is harnessed for some scientific purpose.
-
-:: Parents
-topic in science
-
-:: Notes
-Applications may border on the fantastical, like when electricity is used as
-an animating force.
-
-:: Examples
-Professor Carbonic invented a life restoring, brain-injectable serum that
-worked by stimulating neuronal electrical production in "Advanced Chemistry"
-(1927).
-
-:: References
-https://en.wikipedia.org/wiki/Electricity
-http://www.sf-encyclopedia.com/entry/power_sources
 
 
 electricity manipulation ability
@@ -12462,7 +12408,7 @@ gravity is so sever that from within a certain distance of them not even light
 can escape, let alone matter irrespective of its velocity.
 
 :: Parents
-topic in science
+physics
 
 :: References
 https://en.wikipedia.org/wiki/Event_horizon
@@ -14510,7 +14456,7 @@ fingerprinting
 The science of fingerprinting is dealt with.
 
 :: Parents
-topic in science
+technology
 
 :: References
 https://en.wikipedia.org/wiki/Fingerprint
@@ -15750,25 +15696,6 @@ sexually distinguished being
 :: Examples
 The J'naii of tng5x17 "The Outcast" are a neither male nor female barring a
 few curious deviants.
-
-
-general relativity
-==================
-
-:: Description
-A theory of gravitation proposed by Albert Einstein that generalizes special
-relativity and Newton's law of universal gravitation, providing a unified
-description of gravity as a geometric property of space and time.
-
-:: Parents
-topic in science
-
-:: Examples
-Holographic recreations of Stephen Hawking, Isaac Newton, and Albert Einstein
-quibbled about this and other things in tng6x26 "Descent".
-
-:: References
-https://en.wikipedia.org/wiki/General_relativity
 
 
 generation loss
@@ -17749,17 +17676,6 @@ vault from an antique shop adjacent to it.
 
 :: References
 https://en.wikipedia.org/wiki/Bank_robbery
-
-
-how to start a fire
-===================
-
-:: Description
-Various ways in which fires can be started, along with the underlying physical
-principles, are illustrated.
-
-:: Parents
-topic in technology
 
 
 hubris
@@ -20366,14 +20282,14 @@ romantic relationship
 https://en.wikipedia.org/wiki/Interracial_marriage
 
 
-interstellar probe
-==================
+speculative interstellar probe
+==============================
 
 :: Description
 An unmanned spacecraft that has been dispatch outside the solar system.
 
 :: Parents
-topic in science
+spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Interstellar_probe
@@ -25110,7 +25026,7 @@ The use of nuclear reactions to release energy that can be harnessed for
 practical use is featured.
 
 :: Parents
-topic in science
+technology
 
 :: References
 https://en.wikipedia.org/wiki/Nuclear_power
@@ -25142,28 +25058,6 @@ international issue
 
 :: References
 https://en.wikipedia.org/wiki/Nuclear_proliferation
-
-
-nuclear radioactivity
-=====================
-
-:: Description
-Radioactive decay is harnessed for some scientific purpose.
-
-:: Parents
-topic in science
-
-:: Notes
-Applications may border on the fantastical.
-
-:: Examples
-The short story "The Man with the Strange Head" (1927) featured a radium
-powered cyborg.
-
-:: References
-https://en.wikipedia.org/wiki/Radioactive_decay
-http://www.sf-encyclopedia.com/entry/nuclear_energy
-https://en.wikipedia.org/wiki/Nuclear_power
 
 
 nuclear submarine
@@ -32094,7 +31988,7 @@ solar power
 Sunlight is used as a power source for some technology.
 
 :: Parents
-physics
+technology
 
 :: Examples
 Dr. Frankenstein harnessed the power of solar energy to reanimate a corpse in
@@ -32341,7 +32235,7 @@ Featured is a method of launching an object into space using a large gun- or
 cannon-like structure.
 
 :: Parents
-topic in science
+speculative device
 
 :: References
 https://en.wikipedia.org/wiki/Space_gun
@@ -32563,20 +32457,6 @@ veterans, respectively.
 :: References
 https://en.wikipedia.org/wiki/Minority_group
 https://en.wikipedia.org/wiki/Special_Interest_Group#Political_Interest_Groups
-
-
-special relativity
-==================
-
-:: Description
-Albert Einstein's theory regarding the relationship between space and time is
-featured.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Special_relativity
 
 
 species transmutation
@@ -33026,23 +32906,6 @@ ability but scaled up to an impossible extent.
 
 :: Parents
 speculative personal body manipulation
-
-
-speed of light limitation
-=========================
-
-:: Description
-According to special relativity, the speed of light (c=299,792,458 meters per
-second) is the maximum speed at which all matter and information in the
-universe can travel.
-
-:: Parents
-topic in science
-
-:: Examples
-In a rare nod to real astrophysics, Trelane actually saw the Earth as it was
-centuries earlier when he observed it from Gothos in tos1x18 "The Squire of
-Gothos".
 
 
 spirit guide
@@ -33602,20 +33465,6 @@ microscopic being
 Both the Enterprise-D and the Klingon vessel IKS Pagh were in danger when
 their hulls got infested by a tritanium eating subatomic bacteria in tng2x08
 "A Matter Of Honor".
-
-
-subliminal stimuli
-==================
-
-:: Description
-The psychological study of sensory stimuli that are below an individual's
-threshold for conscious perception.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Subliminal_stimuli
 
 
 submarine
@@ -35699,8 +35548,8 @@ are typically left ambiguous in real stories.
 personal life and death dilemma
 
 
-the chemistry of gunpowder
-==========================
+gunpowder
+=========
 
 :: Description
 Gunpowder is a mixture of sulfur, charcoal, and potassium nitrate (saltpeter)
@@ -35708,7 +35557,7 @@ with the sulfur and charcoal acting as fuels, while the saltpeter functions as
 an oxidizer.
 
 :: Parents
-topic in technology
+technology
 
 :: Examples
 Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
@@ -35725,7 +35574,7 @@ the control of fire
 The control of fire by early humans is featured.
 
 :: Parents
-topic in technology
+technology
 
 :: References
 https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans
@@ -35773,18 +35622,6 @@ environmental issue
 Little Willie Harding passed away from radiation poisoning after having been
 exposed to a natural source of radioactivity on the Scottish mores in "X the
 Unknown" (1956).
-
-
-the dangers of sending information out into space
-=================================================
-
-:: Description
-The potentially adverse consequences of sending messages or space probes etc.
-out into space are discussed. One idea is that they may alert an advanced and
-hostile alien species to our existence.
-
-:: Parents
-topic in science
 
 
 the dangers of smoking
@@ -36730,25 +36567,6 @@ metaphysics
 https://en.wikipedia.org/wiki/Empirical_limits_in_science
 
 
-the logic of reverse psychology
-===============================
-
-:: Description
-The psychology behind the advocacy of one course of action in such a way as to
-persuade someone to take an opposite course.
-
-:: Parents
-topic in science
-
-:: Examples
-Data contemplated the use of reverse psychology to persuade the colonists of
-Tau Cygna V to evacuate before the Sheliak arrived in tng3x02 "The Ensigns of
-Command".
-
-:: References
-https://en.wikipedia.org/wiki/Reverse_psychology
-
-
 the lust for gold
 =================
 
@@ -37569,7 +37387,7 @@ The phenomena where patients given a placebo treatment have a perceived or
 actual improvement in a medical condition.
 
 :: Parents
-topic in science
+psychology
 
 :: Examples
 In the end the Mudd's women found that it was the confidence a drug had
@@ -37964,24 +37782,6 @@ The Angosians tucked their genetically engineered war veterans safely away on
 a shabby little moon in tng3x11 "The Hunted".
 
 
-the science of antimatter
-=========================
-
-:: Description
-Matter composed of anti-particles, which have the same mass as particles of
-ordinary matter but opposite charge. Also there can be big explosions.
-
-:: Parents
-topic in science
-
-:: Examples
-The danger of trying to mix matter with antimatter was explained in tos1x20
-"The Alternative Factor".
-
-:: References
-https://en.wikipedia.org/wiki/Antimatter
-
-
 human blood types
 =================
 
@@ -37998,19 +37798,6 @@ human biology
 https://en.wikipedia.org/wiki/Blood_type
 
 
-the science of cheese
-=====================
-
-:: Description
-The process of how to produce cheese is discussed.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Cheese
-
-
 the science of heat
 ===================
 
@@ -38019,29 +37806,10 @@ What "heat" is and how it works according to modern science is discussed.
 Loosely, heat is the random motion of atoms and molecules within an object.
 
 :: Parents
-topic in science
+physics
 
 :: References
 https://en.wikipedia.org/wiki/Heat
-
-
-the science of oil lamps
-========================
-
-:: Description
-At the heart of it an oil lamp is nothing more than an oil-filled receptacle
-with a wick sticking out of it. The lighting of the lamp results in a steady
-flame being emitted from the tip of the wick.
-
-:: Parents
-topic in technology
-
-:: Examples
-Kirk impressed the space Native Americans of planet Amerind by inventing an
-oil lamp in tos3x03 "The Paradise Syndrome" while suffering from amnesia.
-
-:: References
-https://en.wikipedia.org/wiki/Oil_lamp
 
 
 the scientific method
@@ -38160,7 +37928,7 @@ A hypothetical all-encompassing theory of physics that fully explains and
 links together all physical aspects of the universe.
 
 :: Parents
-topic in science
+physics
 
 :: Examples
 Barclay had a heated discussion with a virtual Albert Einstein about this
@@ -38168,6 +37936,9 @@ theory on the holodeck in tng4x19 "The Nth Degree".
 
 :: References
 https://en.wikipedia.org/wiki/Theory_of_everything
+
+:: Aliases
+grand unified theory, GUT, ToE
 
 
 the theory of evolution
@@ -38403,15 +38174,15 @@ human nature
 https://en.wikipedia.org/wiki/Will_to_live
 
 
-the workings of irrigation
-==========================
+irrigation
+==========
 
 :: Description
 Any of a number of technologies developed over the ages to supply controlled
 amounts of water to crops at regular intervals.
 
 :: Parents
-topic in technology
+technology
 
 :: Examples
 Captain Kirk, while suffering from amnesia, had plans to irrigate Amerind in
@@ -38641,7 +38412,7 @@ Energy obtained from tides is transformed into useful forms of power, such as
 electricity.
 
 :: Parents
-topic in science
+technology
 
 :: Examples
 The dystopian city in "Logan's Run" (1976) was powered by the tides.
