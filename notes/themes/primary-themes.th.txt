@@ -323,31 +323,11 @@ development of functioning of all known organisms, to encode a conventional
 message.
 
 :: Parents
-topic in science
+biological technology
 
 :: Examples
 A secret message was found encoded in pieces in the DNA of numerous separate
 humanoid alien species in tng6x20 "The Chase".
-
-:: References
-https://www.nytimes.com/2007/06/26/science/26DNA.html
-
-
-DNA testing
-===========
-
-:: Description
-Methods by which DNA can be examined are featured. They may, for example, be
-used to compare people or identify genetic predispositions.
-
-:: Parents
-topic in technology
-
-:: References
-https://en.wikipedia.org/wiki/Genetic_testing
-
-:: Aliases
-genetic testing
 
 
 Dungeons and Dragons
@@ -5242,7 +5222,7 @@ The process by which a parent cell divides into two or more daughter cells.
 There are three types of cell division: binary fission, mitosis, and meiosis.
 
 :: Parents
-topic in science
+biology
 
 :: Examples
 The giant space amoeba was poised to divide into two giant space amoebas in
@@ -15765,20 +15745,6 @@ The J'naii of tng5x17 "The Outcast" are a neither male nor female barring a
 few curious deviants.
 
 
-gene silencing
-==============
-
-:: Description
-These are various techniques that can be used to prevent the expression of a
-certain gene, making it as if the gene was not present.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Gene_silencing
-
-
 general relativity
 ==================
 
@@ -17846,19 +17812,6 @@ addictions in the clinical sense.
 https://en.wikipedia.org/wiki/Addiction
 
 
-human anatomy
-=============
-
-:: Description
-The scientific study of the morphology of the human body is featured.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Outline_of_human_anatomy
-
-
 human aspiration
 ================
 
@@ -17884,20 +17837,6 @@ speculative energy generation technology
 Intelligent machines partially powered their machine civilization by
 extracting electrical energy from unconscious humans kept in pods in "The
 Matrix" (1999).
-
-
-human body composition
-======================
-
-:: Description
-The human body is 65% oxygen, 18% carbon, 10% hydrogen, 3% nitrogen, and 4%
-other elements as measured by mass.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Composition_of_the_human_body
 
 
 human challenge in life
@@ -23084,20 +23023,6 @@ him clear across the face.
 https://en.wikipedia.org/wiki/Maternal_bond
 
 
-mating strategies
-=================
-
-:: Description
-This is a topic in biology that focuses on the various ways in which males and
-females from different species (plants and animals as well as humans) go about
-selecting a mate for reproduction. The purpose is generally to maximize the
-evolutionary fitness of one's offspring, but what this means in practice is a
-complicated question.
-
-:: Parents
-topic in science
-
-
 matriarchy
 ==========
 
@@ -26404,27 +26329,6 @@ be like.
 academia
 
 
-parthenogenesis
-===============
-
-:: Description
-The subject of asexual reproduction, especially among higher level organisms,
-is treated.
-
-:: Parents
-topic in science
-
-:: Examples
-In "Herland" (1915), a trio of male explores made contact with a society
-consisting exclusively of women who reproduce in the asexual manner.
-
-:: References
-https://en.wikipedia.org/wiki/Parthenogenesis
-
-:: Aliases
-asexual reproduction
-
-
 past point of view
 ==================
 
@@ -27154,7 +27058,7 @@ including direct imaging with telescopes, the radial-velocity method, and the
 transit method.
 
 :: Parents
-topic in science
+astronomy
 
 :: Examples
 Such methods were employed in tos3x20 "The Way to Eden" to search for the
@@ -30618,7 +30522,7 @@ intelligence, primarily by employing powerful telescopes of different kinds
 and analyzing the received signals.
 
 :: Parents
-topic in science
+astronomy
 
 :: References
 https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
@@ -32212,7 +32116,7 @@ the Sun and Earth, and when the Moon fully or partially blocks the Sun is
 discussed.
 
 :: Parents
-topic in science
+astronomy
 
 :: References
 https://en.wikipedia.org/wiki/Solar_eclipse
@@ -34341,21 +34245,6 @@ strives not to let them dictate their actions.
 exercising self-control, pride
 
 
-symbiogenesis
-=============
-
-:: Description
-The evolutionary theory of the origin of eukaryotic cells from prokaryotic
-organisms holding that the organelles distinguishing eukaryote cells evolved
-through symbiosis of individual single-celled prokaryotes.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Symbiogenesis
-
-
 symbiosis
 =========
 
@@ -35034,7 +34923,7 @@ the Big Bang
 The Big Bang theory of the origin of the universe is featured.
 
 :: Parents
-topic in science
+astronomy
 
 :: References
 https://en.wikipedia.org/wiki/Big_Bang
@@ -35047,7 +34936,7 @@ the Big Chill
 The Big Chill theory of the origin of the end of the universe is featured.
 
 :: Parents
-topic in science
+astronomy
 
 :: References
 https://en.wikipedia.org/wiki/Future_of_an_expanding_universe
@@ -37689,7 +37578,7 @@ The natural process by which life is thought to have arisen from non-living
 matter such as simple organic compounds is featured.
 
 :: Parents
-topic in science
+biology
 
 :: Examples
 Q brought Captain Picard back in time and showed him the bubbling pool of ooze
@@ -38218,24 +38107,6 @@ topic in science
 
 :: References
 https://en.wikipedia.org/wiki/Scientific_method
-
-
-the seeding of space with life
-==============================
-
-:: Description
-The hypothesis that life exists throughout the universe and is distributed
-naturally by asteroids and comets or perhaps even at the direction of aliens.
-
-:: Parents
-topic in science
-
-:: References
-https://en.wikipedia.org/wiki/Panspermia
-http://www.sf-encyclopedia.com/entry/panspermia
-
-:: Aliases
-panspermia,
 
 
 the ship Titanic
