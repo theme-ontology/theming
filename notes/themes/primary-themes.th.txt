@@ -423,7 +423,7 @@ in 1637 in a margin of a copy of Arithemetica, where he claimed he had a proof
 that was too large to fit in the margin.
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Captain Picard took a crack at proving this theorem in his readyroom in
@@ -464,7 +464,7 @@ A way to represent a wave-like function as a combination of simple sine waves,
 named in honor of Jean-Baptiste Joseph Fourier.
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Data revealed that the blinking patterns of some Soong-type androids, although
@@ -561,7 +561,7 @@ One of the various types of Internet related crime known as "cybercrime" is
 featured, for example "cyberfraud" or "cyberextortion".
 
 :: Parents
-the Internet in society
+information technology in society
 
 :: References
 https://en.wikipedia.org/wiki/Internet_safety https://en.wikipedia.org/wiki/Cybercrime
@@ -4735,7 +4735,7 @@ The measurement of rhythmic patterns of neural electrical activity produced in
 the brain.
 
 :: Parents
-topic in science
+human biology
 
 :: References
 https://en.wikipedia.org/wiki/Neural_oscillation
@@ -6798,7 +6798,7 @@ The practice of subverting computer security to break into computer systems is
 featured.
 
 :: Parents
-topic in technology
+human professional activity
 
 :: Examples
 It was mentioned that Trinity had cracked the IRS database in "The Matrix"
@@ -10269,21 +10269,28 @@ own machination, for example into a trap.
 the art of war
 
 
-deductive reasoning
-===================
+logical reasoning
+=================
 
 :: Description
-The top-down process of reasoning from one or more general laws to reach a
-particular conclusion with logical certainty.
+Logic is the systematic study of valid rules of inference, i.e. the 
+relations that lead to the acceptance of one proposition (the conclusion) 
+on the basis of a set of other propositions (premises). More broadly, 
+logic is the analysis and appraisal of arguments.
+
+:: Notes
+As almost any human conversation can be said to involve logic, this theme 
+is used only when the topic of logic itself is explicitly discussed in 
+a somewhat academic way. 
 
 :: Parents
-topic in science
+mathematics
 
 :: References
-https://en.wikipedia.org/wiki/Deductive_reasoning
+https://en.wikipedia.org/wiki/Logic
 
 :: Aliases
-deductive logic
+deductive reasoning, inductive reasoning, abductive reasoning
 
 
 defamation of character vs. freedom of speech
@@ -11761,7 +11768,7 @@ Featured is the specification of the time, location, and magnitude of future
 earthquakes by scientific means.
 
 :: Parents
-topic in science
+geology
 
 :: Examples
 A submarine crew planted monitoring sensors on the ocean floor that would help
@@ -12642,7 +12649,7 @@ A very rapid kind of growth by which the amount of a quantity increases at a
 rate proportional to the amount already present.
 
 :: Parents
-topic in science
+mathematics
 
 :: References
 https://en.wikipedia.org/wiki/Exponential_growth
@@ -19268,32 +19275,6 @@ from Los Angeles to Sydney in two hours.
 https://en.wikipedia.org/wiki/Supersonic_transport#Hypersonic_transport
 
 
-hypnosis
-========
-
-:: Description
-Hypnosis is a human condition involving focused attention, reduced peripheral
-awareness, and an enhanced capacity to respond to suggestion. The term may
-also refer to an art, skill, or act of inducing hypnosis.
-
-:: Parents
-topic in science
-
-:: Notes
-Ideas about hypnosis span the gamut from the undoubtedly real to the
-undoubtedly fake. If, for example, something akin to magic or a superpower is
-featured do not use this theme as it is presently filed under "topics in
-science".
-
-:: Examples
-In voy4x17 "Retrospect", hypnosis used to bring out buried or suppressed old
-memories.
-
-:: References
-https://en.wikipedia.org/wiki/Age_regression_in_therapy
-https://en.wikipedia.org/wiki/Hypnosis
-
-
 hypochondria
 ============
 
@@ -21402,7 +21383,7 @@ lying, they are telling the truth, which means they are lying and so on ad
 infinitum.
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Captain Kirk bested the android Norman by skillfully wielding this dangerous
@@ -21718,7 +21699,7 @@ A scale of measurement that displays the value of a quantity using intervals
 corresponding to orders of magnitude, like the Richter scale for earthquakes.
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Data and Geordi used a logarithmic scale in tng5x04 "Silicon Avatar" to
@@ -25057,7 +25038,7 @@ proportional to the input. Nonlinear systems may appear chaotic in contrast
 with much simpler linear systems.
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Spock's calculation of the time at which the next "interphase" state would
@@ -27933,7 +27914,7 @@ prime numbers
 A number greater than 1 that has no positive divisors other than 1 and itself.
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Captain Picard tapped the first six prime numbers into a door panel in tng3x18
@@ -28670,7 +28651,7 @@ can tell which is which, like the use of a well-shuffled deck of playing cards
 at the fizzbin table (c.f. tos2x20 "A Piece of the Action").
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Worf tacitly questioned Data's randomization of a deck of cards in tng5x18
@@ -31871,22 +31852,6 @@ human addiction
 
 :: References
 https://en.wikipedia.org/wiki/Social_media_addiction
-
-
-social media in society
-=======================
-
-:: Description
-Social media are interactive computer-mediated technologies that facilitate
-the creation and sharing of information, ideas, career interests and other
-forms of expression via virtual communities and networks. The various ways in
-which these affect society is discussed.
-
-:: Parents
-the Internet in society
-
-:: References
-https://en.wikipedia.org/wiki/Social_media
 
 
 social oppression
@@ -35157,22 +35122,6 @@ topic in technology
 https://en.wikipedia.org/wiki/Internet
 
 
-the Internet in society
-=======================
-
-:: Description
-This is the global system of interconnected computer networks that has become
-transformational and ushered in what some people call a new age. The various
-ways in which it affects society is discussed.
-
-:: Parents
-sociotechnological issue
-
-:: References
-https://en.wikipedia.org/wiki/Internet
-http://www.sf-encyclopedia.com/entry/internet
-
-
 the Irish stereotype
 ====================
 
@@ -35462,7 +35411,7 @@ An idea famously suggested by Allan Turing that when AI can fool humans, they
 will indeed by intelligent.
 
 :: Parents
-topic in science
+mathematics
 
 :: References
 https://en.wikipedia.org/wiki/Turing_test
@@ -35731,7 +35680,7 @@ why the change is considered small, and the effect large. Typically, this
 happens when a character points it out more or less explicitly.
 
 :: Parents
-topic in science
+mathematics
 
 :: References
 https://en.wikipedia.org/wiki/Butterfly_effect
@@ -36460,7 +36409,7 @@ Certain gasses in the Earth's atmosphere (e.g. carbon dioxide) trap heat from
 the sun, making the planet hotter than it would be otherwise.
 
 :: Parents
-topic in science
+ecology
 
 :: Examples
 Global warming is normally viewed as a bad thing, but when Penthara IV got hit
@@ -38033,8 +37982,8 @@ The danger of trying to mix matter with antimatter was explained in tos1x20
 https://en.wikipedia.org/wiki/Antimatter
 
 
-the science of blood types
-==========================
+human blood types
+=================
 
 :: Description
 Some aspect of the science of blood types is explained. Popularly, this is the
@@ -38043,7 +37992,7 @@ simply O, A, B, AB (four categories). However, other systems are in use as
 well.
 
 :: Parents
-topic in science
+human biology
 
 :: References
 https://en.wikipedia.org/wiki/Blood_type
@@ -38366,7 +38315,7 @@ the value of pi
 0628620899 8628034825 3421170679 8214808651 3282306647 09384460...
 
 :: Parents
-topic in science
+mathematics
 
 :: Examples
 Wily Spock ordered the computer to compute pi to the last digit in tos2x07
