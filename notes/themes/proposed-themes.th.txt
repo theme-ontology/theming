@@ -1858,24 +1858,6 @@ https://en.wikipedia.org/wiki/Internet
 http://www.sf-encyclopedia.com/entry/internet
 
 
-antimatter
-==========
-
-:: Description
-Matter composed of anti-particles, which have the same mass as particles of
-ordinary matter but opposite charge. Also there can be big explosions.
-
-:: Parents
-physics
-
-:: Examples
-The danger of trying to mix matter with antimatter was explained in tos1x20
-"The Alternative Factor".
-
-:: References
-https://en.wikipedia.org/wiki/Antimatter
-
-
 electricity
 ===========
 
@@ -2089,8 +2071,31 @@ human life in late modern times
 https://en.wikipedia.org/wiki/Unification_of_Germany
 
 
+antimatter
+==========
 
+:: Description
+Antimatter is a form of matter composed of particles with the same mass, but
+opposite quantum properties (e.g. charge) to those of corresponding particles
+of ordinary matter. This theme is used whenever a property of antimatter is
+explicitly touched on in the story.
 
+:: Notes
+The typical use case occurs when somebody explains that matter and antimatter
+go boom when brought into contact. In more scientifically accurate treatments
+of the subject, however, we may learn that a collision between a particle and
+its anti-particle partner leads to their mutual annihilation, giving rise to
+a release of energy in the form of radiation.
+
+:: Parents
+physics
+
+:: Examples
+The danger of trying to mix matter with antimatter was explained in tos1x20
+"The Alternative Factor".
+
+:: References
+https://en.wikipedia.org/wiki/Antimatter
 
 
 
