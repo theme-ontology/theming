@@ -1901,23 +1901,6 @@ speculative ability related to own mind
 https://en.wikipedia.org/wiki/Eidetic_memory
 
 
-antimatter power
-================
-
-:: Description
-Matter-antimatter annihilations are used as a power source for technology.
-
-:: Parents
-speculative energy generation technology
-
-:: Examples
-The cyborg Alita had an antimatter powered heart in "Alita: Battle Angel"
-(2019).
-
-:: References
-https://en.wikipedia.org/wiki/Antimatter
-
-
 speculative evolution
 =====================
 
@@ -2101,6 +2084,133 @@ https://en.wikipedia.org/wiki/Electricity
 http://www.sf-encyclopedia.com/entry/power_sources
 
 
+antimatter power
+================
+
+:: Description
+The harnessing of matter-antimatter annihilations as a source of power for
+technology is treated.
+
+:: Notes
+This theme does not apply when energy from matter-antimatter annihilations is
+released in a huge explosion.
+
+:: Parents
+speculative energy generation technology
+
+:: Examples
+In "Alita: Battle Angel" (2019), the cyborg Alita was kept alive by means of
+an antimatter powered heart.
+
+:: References
+https://en.wikipedia.org/wiki/Antimatter
+
+
+nuclear fission power
+=====================
+
+:: Description
+The harnessing of nuclear fission reactions as a power source for technology
+is treated. 
+
+:: Notes
+An explicit statement to the effect that such and such a contraption is
+nuclear powered constitutes minimum grounds for applying this theme. It does
+not apply in the case when energy from nuclear fission reactions is released
+in an uncontrolled manner, such as with a fission bomb.
+
+:: Parents
+technology
+
+:: Related Themes
+fusion power
+
+:: References
+https://en.wikipedia.org/wiki/Nuclear_power
+https://en.wikipedia.org/wiki/Nuclear_fission
+
+
+
+
+
+
+
+
+fusion power
+============
+
+:: Description
+The use of nuclear fusion as a power source for technology is treated.
+
+:: Parents
+speculative energy generation technology
+
+:: Examples
+Doc Brown's iconic DeLorean in "Back to the Future Part II" (1989) ran on
+fusion energy.
+
+:: References
+https://en.wikipedia.org/wiki/Fusion_power
+https://en.wikipedia.org/wiki/Nuclear_fusion
+
+
+solar power
+===========
+
+:: Description
+Sunlight is used as a power source for some technology.
+
+:: Parents
+technology
+
+:: Examples
+Dr. Frankenstein harnessed the power of solar energy to reanimate a corpse in
+"Frankenstein: The True Story" (1973).
+
+:: References
+https://en.wikipedia.org/wiki/Solar_power
+
+
+tidal power
+===========
+
+:: Description
+Energy obtained from tides is transformed into useful forms of power, such as
+electricity.
+
+:: Parents
+technology
+
+:: Examples
+The dystopian city in "Logan's Run" (1976) was powered by the tides.
+
+:: References
+https://en.wikipedia.org/wiki/Tidal_power
+
+
+cold fusion
+===========
+
+:: Description
+There is a device capable of generating copious amount of energy through the
+fusing of atomic nuclei at (more or less) room temperature.
+
+:: Parents
+speculative energy generation technology
+
+:: References
+https://en.wikipedia.org/wiki/Cold_fusion
+
+
+geothermal energy from Earth's interior
+=======================================
+
+:: Description
+There is scientific means of extracting usable geothermal energy directly from
+Earth's mantle or core.
+
+:: Parents
+speculative energy generation technology
 
 
 
