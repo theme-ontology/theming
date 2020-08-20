@@ -2077,7 +2077,7 @@ electricity
 
 :: Description
 The science behind those physical phenomenon associated with charged particles
-in motion is treated.
+in motion is explored.
 
 :: Parents
 physics
@@ -2103,7 +2103,7 @@ antimatter power
 
 :: Description
 The harnessing of matter-antimatter annihilations as a source of power for
-technology is treated.
+technology is explored.
 
 :: Notes
 This theme does not apply when energy from matter-antimatter annihilations is
@@ -2125,7 +2125,7 @@ nuclear fission power
 
 :: Description
 The harnessing of nuclear fission reactions as a power source for technology
-is treated. 
+is explored. 
 
 :: Notes
 An explicit statement to the effect that such and such a contraption is
@@ -2143,25 +2143,31 @@ fusion power
 https://en.wikipedia.org/wiki/Nuclear_power
 https://en.wikipedia.org/wiki/Nuclear_fission
 
-
-
-
-
-
+:: Examples
+A crew of pioneering astronauts commandeered an atomic powered rocketship to
+the Moon in "Destination Moon" (1950).
 
 
 fusion power
 ============
 
 :: Description
-The use of nuclear fusion as a power source for technology is treated.
+The possibility of using the energy released from the fusing of atomic nuclei
+as a power source for technology is explored.
+
+:: Notes
+This theme does not apply when the energy is released in an uncontrolled
+manner, such as would be the case with thermonuclear weapons.
+
+The theme "cold fusion" should be used instead when it is made clear that the
+nuclear fusions occur at, or near, room temperature.
 
 :: Parents
 speculative energy generation technology
 
 :: Examples
 Doc Brown's iconic DeLorean in "Back to the Future Part II" (1989) ran on
-fusion energy.
+fusion derived energy.
 
 :: References
 https://en.wikipedia.org/wiki/Fusion_power
@@ -2172,7 +2178,7 @@ solar power
 ===========
 
 :: Description
-Sunlight is used as a power source for some technology.
+The harnessing of sunlight as a power source for technology is explored.
 
 :: Parents
 technology
@@ -2189,8 +2195,7 @@ tidal power
 ===========
 
 :: Description
-Energy obtained from tides is transformed into useful forms of power, such as
-electricity.
+The harnessing of tidal energy as a power source for technology is explored.
 
 :: Parents
 technology
@@ -2206,25 +2211,38 @@ cold fusion
 ===========
 
 :: Description
-There is a device capable of generating copious amount of energy through the
-fusing of atomic nuclei at (more or less) room temperature.
+The possibility of powering technology on energy derived from the fusing of
+atomic nuclei at, or near, room temperature is explored. This is in contrast
+to ordinary fusion power which is normally understood to occur at
+temperatures in the tens of millions of degrees. 
 
 :: Parents
-speculative energy generation technology
+fusion power
 
 :: References
 https://en.wikipedia.org/wiki/Cold_fusion
+
+:: Examples
+The young inventor Harold Kelp struggled to invent a cold fusion engine in
+"The Nutty Professor" (2008).
 
 
 geothermal energy from Earth's interior
 =======================================
 
 :: Description
-There is scientific means of extracting usable geothermal energy directly from
-Earth's mantle or core.
+The possibility of extracting usable geothermal energy directly from Earth's
+mantle or core is explored.
 
 :: Parents
 speculative energy generation technology
+
+:: References
+https://en.wikipedia.org/wiki/Geothermal_energy
+
+:: Examples
+In "Crack in the World" (1965), a team of scientists tried to release the
+geothermal energy from Earth's core with earth-shattering consequences.
 
 
 the importance of faith
