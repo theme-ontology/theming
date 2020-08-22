@@ -397,6 +397,19 @@ El Dorado.
 https://en.wikipedia.org/wiki/El_Dorado
 
 
+European dragon
+===============
+
+:: Description
+This sometimes fire-breathing reptile from European folklore is featured.
+
+:: Parents
+legendary being
+
+:: References
+https://en.wikipedia.org/wiki/Dragon
+
+
 Faustian bargain
 ================
 
@@ -1282,6 +1295,25 @@ political issue
 https://en.wikipedia.org/wiki/Abuse_of_power
 
 
+academia
+========
+
+:: Description
+A character working in an academic institution is engaged in their chosen
+profession.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This includes studies at the higher levels of learning, e.g. doctoral
+students, as as such is generally considered to be training for an academic
+career.
+
+:: References
+https://en.wikipedia.org/wiki/Academy
+
+
 accelerated growth rate therapy
 ===============================
 
@@ -1566,14 +1598,14 @@ example, when an actor hires a personal talent agent to find them jobs.
 :: Parents
 human interpersonal relationship
 
-:: References
-https://en.wikipedia.org/wiki/Law_of_agency
-
 :: Notes
 This theme is used only if the expressions of the relationship go beyond what
-is required and expected in such a business arrangement. I.e., it is used
-if some familiarity and intimacy is noted, but not if the interaction is merely
+is required and expected in such a business arrangement. I.e., it is used if
+some familiarity and intimacy is noted, but not if the interaction is merely
 formal and transactional.
+
+:: References
+https://en.wikipedia.org/wiki/Law_of_agency
 
 
 agility vs. strength
@@ -2165,6 +2197,25 @@ hybrids of humans with well known Earth wildlife.
 biologically distinguished being
 
 
+animal behavior
+===============
+
+:: Description
+Ethology is the scientific and objective study of animal behavior, usually
+with a focus on behavior under natural conditions, and viewing behavior as an
+evolutionarily adaptive trait.
+
+:: Parents
+biology
+
+:: Notes
+This theme is used in, for example, nature documentaries that explain how
+various animals act and why.
+
+:: References
+https://en.wikipedia.org/wiki/Ethology
+
+
 animal cruelty
 ==============
 
@@ -2412,6 +2463,55 @@ military issue
 https://en.wikipedia.org/wiki/Militia_organizations_in_the_United_States
 
 
+antimatter
+==========
+
+:: Description
+Antimatter is a form of matter composed of particles with the same mass, but
+opposite quantum properties (e.g. charge) to those of corresponding particles
+of ordinary matter. This theme is used whenever a property of antimatter is
+explicitly touched on in the story.
+
+:: Parents
+physics
+
+:: Notes
+The typical use case occurs when somebody explains that matter and antimatter
+go boom when brought into contact. In more scientifically accurate treatments
+of the subject, however, we may learn that a collision between a particle and
+its anti-particle partner leads to their mutual annihilation, giving rise to a
+release of energy in the form of radiation.
+
+:: Examples
+The danger of trying to mix matter with antimatter was explained in tos1x20
+"The Alternative Factor".
+
+:: References
+https://en.wikipedia.org/wiki/Antimatter
+
+
+antimatter power
+================
+
+:: Description
+The harnessing of matter-antimatter annihilations as a source of power for
+technology is explored.
+
+:: Parents
+speculative energy generation technology
+
+:: Notes
+This theme does not apply when energy from matter-antimatter annihilations is
+released in a huge explosion.
+
+:: Examples
+In "Alita: Battle Angel" (2019), the cyborg Alita was kept alive by means of
+an antimatter powered heart.
+
+:: References
+https://en.wikipedia.org/wiki/Antimatter
+
+
 antiscience in society
 ======================
 
@@ -2568,6 +2668,34 @@ into a Jefferies tube filled with twenty Talarian hook spiders in tng6x02
 https://en.wikipedia.org/wiki/Apprehension
 
 
+archaeological looting
+======================
+
+:: Description
+Someone illicitly removes artifacts from an archaeological site, or the like.
+Grave robbery is a specific example of such looting.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Archaeological_looting
+
+
+archaeology
+===========
+
+:: Description
+The scientific study of human activity through excavation of old sites,
+analysis of artefacts, etc.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Archaeology
+
+
 arcology
 ========
 
@@ -2708,6 +2836,17 @@ crime in society
 
 :: References
 https://en.wikipedia.org/wiki/Art_forgery
+
+
+art related occupation
+======================
+
+:: Description
+A character involved with the production of art is engaged in their chosen
+occupation.
+
+:: Parents
+human occupational activity
 
 
 artificial autonomous sentient coworker
@@ -2930,6 +3069,27 @@ length to the character Professor (an erudite physicist) about the differences
 in their chosen professions.
 
 
+asexual reproduction
+====================
+
+:: Description
+The subject of asexual reproduction, especially among higher level organisms,
+is treated.
+
+:: Parents
+biology
+
+:: Examples
+In "Herland" (1915), a trio of male explores made contact with a society
+consisting exclusively of women who reproduce in the asexual manner.
+
+:: References
+https://en.wikipedia.org/wiki/Parthenogenesis
+
+:: Aliases
+parthenogenesis
+
+
 assimilating beings
 ===================
 
@@ -3004,25 +3164,6 @@ approaching astronomical object event
 https://en.wikipedia.org/wiki/Impact_event
 
 
-astronomical impact avoidance
-=============================
-
-:: Description
-A collection of methods by which an asteroid could be diverted from colliding
-with a planetary target.
-
-:: Parents
-speculative technology
-
-:: Examples
-After the Enterprise had spectacularly failed to divert an asteroid, Captain
-Kirk accidentally activated an ancient asteroid deflecting device on the
-planet's surface in tos3x03 "The Paradise Syndrome".
-
-:: References
-https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
-
-
 asteroid mining
 ===============
 
@@ -3050,6 +3191,25 @@ superstition
 https://en.wikipedia.org/wiki/Astrology
 
 
+astronomical impact avoidance
+=============================
+
+:: Description
+A collection of methods by which an asteroid could be diverted from colliding
+with a planetary target.
+
+:: Parents
+speculative technology
+
+:: Examples
+After the Enterprise had spectacularly failed to divert an asteroid, Captain
+Kirk accidentally activated an ancient asteroid deflecting device on the
+planet's surface in tos3x03 "The Paradise Syndrome".
+
+:: References
+https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
+
+
 astronomical-scale engineering
 ==============================
 
@@ -3063,6 +3223,19 @@ speculative engineering
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure
+
+
+astronomy
+=========
+
+:: Description
+Topics about celestial objects and other celestial phenomena.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Astronomy
 
 
 atheism
@@ -4072,20 +4245,6 @@ https://en.wikipedia.org/wiki/Bioship
 bioship
 
 
-speculative biotechnology
-=========================
-
-:: Description
-An as-yet fictional thing that may conceivably be done with bioengineering
-techniques in the future.
-
-:: Parents
-speculative technology
-
-:: References
-https://en.wikipedia.org/wiki/Biological_engineering
-
-
 biological weapons
 ==================
 
@@ -4745,6 +4904,23 @@ female stereotype
 https://en.wikipedia.org/wiki/Bridezilla
 
 
+bringing back extinct species
+=============================
+
+:: Description
+Genetic engineering is used to reintroduce an extinct organism.
+
+:: Parents
+speculative biotechnology
+
+:: Examples
+Scientists used dinosaur DNA recovered from inside amber to genetically
+engineer real, living dinosaurs in "Jurassic Park" (1993).
+
+:: References
+https://en.wikipedia.org/wiki/De-extinction
+
+
 brinkmanship
 ============
 
@@ -5251,6 +5427,34 @@ In tz1959e4x08 "Miniature", Charley kept looking into a museum doll house and
 finding it alive with activity that no one else perceived. After long pining
 for this world, he is suddenly transported into it himself and becomes one of
 its actors.
+
+
+charitable volunteering
+=======================
+
+:: Description
+A character is working with something that is considered charitable, such as a
+soup kitchen or aid work in Africa. The occupation may or may not be
+remunerative, but is popularly considered to be done for the betterment of the
+world rather than for economic gain.
+
+:: Parents
+human occupational activity
+
+:: Examples
+It was revealed that Miranda Vigo had cared for orphans on Camor V in tng7x22
+"Bloodlines".
+
+
+charting unknown territory
+==========================
+
+:: Description
+Someone faces the dangers inherent to exploring new and unfamiliar territory,
+for example in space exploration or deep sea exploration.
+
+:: Parents
+human vs. nature
 
 
 chastity
@@ -5968,6 +6172,26 @@ poses a threat to continued civilization there.
 
 :: Parents
 anthropogenic existential risk to civilization
+
+
+cold fusion
+===========
+
+:: Description
+The possibility of powering technology on energy derived from the fusing of
+atomic nuclei at, or near, room temperature is explored. This is in contrast
+to ordinary fusion power which is normally understood to occur at temperatures
+in the tens of millions of degrees.
+
+:: Parents
+fusion power
+
+:: Examples
+The young inventor Harold Kelp struggled to invent a cold fusion engine in
+"The Nutty Professor" (2008).
+
+:: References
+https://en.wikipedia.org/wiki/Cold_fusion
 
 
 collective dreaming
@@ -9413,6 +9637,22 @@ educational issue, sociocultural issue
 https://en.wikipedia.org/wiki/Creationism
 
 
+creative writing
+================
+
+:: Description
+A writer is engaged in writing original and creative works of poetry, novels,
+plays, etc. This is contrasted with, for example, scientific and journalistic
+writing where creativity has to be constrained by objective facts to a much
+greater extent.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Creative_writing
+
+
 crew's attachment to their ship
 ===============================
 
@@ -9456,6 +9696,21 @@ not the purpose of this category to catalog such things.
 
 :: References
 https://en.wikipedia.org/wiki/Crime
+
+
+crime related occupation
+========================
+
+:: Description
+A character involved with law, law enforcement, or related activities is
+engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This theme is used for typically lawful occupations. Criminal  activities are
+categorized as "law and order issue".
 
 
 criminal gang in society
@@ -9607,6 +9862,26 @@ crackpot theory
 
 :: References
 https://en.wikipedia.org/wiki/List_of_cryptids
+
+
+cryptographic cypher
+====================
+
+:: Description
+A technique for secure communication in the presence a third party is
+featured. A collection of more or less complicated algorithms for encryption.
+These are strategies for writing messages such that they can only be read by
+those who know the secret to decoding them.
+
+:: Parents
+mathematics
+
+:: Examples
+Sherlock Holmes and Watson cracked a book cipher in sherlock1x02 "The Blind
+Banker".
+
+:: References
+https://en.wikipedia.org/wiki/Cipher
 
 
 crystalline being
@@ -9921,6 +10196,19 @@ speculative reality
 https://en.wikipedia.org/wiki/Cyclic_model
 
 
+cyclops
+=======
+
+:: Description
+There is a flesh-and-blood being with only one eye.
+
+:: Parents
+legendary being
+
+:: References
+https://en.wikipedia.org/wiki/Cyclopes
+
+
 dangerous driving in society
 ============================
 
@@ -10189,28 +10477,15 @@ own machination, for example into a trap.
 the art of war
 
 
-logical reasoning
-=================
+deep sea exploration
+====================
 
 :: Description
-Logic is the systematic study of valid rules of inference, i.e. the 
-relations that lead to the acceptance of one proposition (the conclusion) 
-on the basis of a set of other propositions (premises). More broadly, 
-logic is the analysis and appraisal of arguments.
-
-:: Notes
-As almost any human conversation can be said to involve logic, this theme 
-is used only when the topic of logic itself is explicitly discussed in 
-a somewhat academic way. 
+Someone faces the dangers inherent to exploring unfamiliar parts of the deep
+sea.
 
 :: Parents
-mathematics
-
-:: References
-https://en.wikipedia.org/wiki/Logic
-
-:: Aliases
-deductive reasoning, inductive reasoning, abductive reasoning
+charting unknown territory
 
 
 defamation of character vs. freedom of speech
@@ -10768,6 +11043,21 @@ diplomacy
 
 :: Examples
 
+
+
+directed energy shooting ability
+================================
+
+:: Description
+A character is able to shoot energy beams, usually out of their hands or eyes,
+in a controlled manner.
+
+:: Parents
+speculative ability related to own body
+
+:: Examples
+In X-men (2000), Cyclops emitted powerful beams of energy from his eyes that
+he could not control without the aid of special glasses.
 
 
 disapproving parent
@@ -11734,6 +12024,24 @@ https://en.wikipedia.org/wiki/Environmental_degradation
 environmental destruction
 
 
+ecology
+=======
+
+:: Description
+The scientific study of interactions among organisms and their environment,
+involving all of biology, geography, and Earth science.
+
+:: Parents
+modern science
+
+:: Examples
+Invasive species' such as the Tribbles could have a profound impact on ecology
+as we are shown in tas1x05 "More Tribbles, More Troubles".
+
+:: References
+https://en.wikipedia.org/wiki/Ecology
+
+
 economic depression
 ===================
 
@@ -11834,6 +12142,36 @@ political issue
 
 :: References
 https://en.wikipedia.org/wiki/Political_campaign
+
+
+electricity
+===========
+
+:: Description
+The science behind those physical phenomenon associated with charged particles
+in motion is explored.
+
+:: Parents
+physics
+
+:: Notes
+Electricity is almost ubiquitous in the human world since the early 20th
+century and the effects of electricity can often be noted in modern stories
+without being in any way remarkable. Electric appliances typically form the
+background setting of the story and are not themes. Nor does a simple
+lightning strike or passing thunderstorm offer sufficient grounds for applying
+the theme unless more is said about the matter. The theme also does not apply
+merely when someone is zapped by what seems like an electrical discharge in an
+action or sci-fi story.
+
+:: Examples
+Professor Carbonic invented a life restoring, brain-injectable serum that
+worked by stimulating neuronal electrical production in "Advanced Chemistry"
+(1927).
+
+:: References
+https://en.wikipedia.org/wiki/Electricity
+http://www.sf-encyclopedia.com/entry/power_sources
 
 
 electricity manipulation ability
@@ -12351,6 +12689,20 @@ physics
 https://en.wikipedia.org/wiki/Event_horizon
 
 
+event management
+================
+
+:: Description
+A character is working with organizing large get-togethers and other events
+involving people.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Event_management
+
+
 evil can come in the guise of beauty
 ====================================
 
@@ -12534,12 +12886,12 @@ rate proportional to the amount already present.
 :: Parents
 mathematics
 
-:: References
-https://en.wikipedia.org/wiki/Exponential_growth
-
 :: Examples
 Sulu explained how Gary Mitchell's psychic ability was increasing
 geometrically in tos1x01 "Where No Man Has Gone Before".
+
+:: References
+https://en.wikipedia.org/wiki/Exponential_growth
 
 :: Aliases
 geometric growth
@@ -15405,6 +15757,31 @@ outside of the cave, would destroy the entire world in The Unknown Terror
 (1957).
 
 
+fusion power
+============
+
+:: Description
+The possibility of using the energy released from the fusing of atomic nuclei
+as a power source for technology is explored.
+
+:: Parents
+speculative energy generation technology
+
+:: Notes
+This theme does not apply when the energy is released in an uncontrolled
+manner, such as would be the case with thermonuclear weapons. The theme "cold
+fusion" should be used instead when it is made clear that the nuclear fusions
+occur at, or near, room temperature.
+
+:: Examples
+Doc Brown's iconic DeLorean in "Back to the Future Part II" (1989) ran on
+fusion derived energy.
+
+:: References
+https://en.wikipedia.org/wiki/Fusion_power
+https://en.wikipedia.org/wiki/Nuclear_fusion
+
+
 future point of view
 ====================
 
@@ -15739,6 +16116,20 @@ public health issue
 https://en.wikipedia.org/wiki/Genetically_modified_food
 
 
+genetics
+========
+
+:: Description
+Genetics is a branch of biology concerned with the study of genes, genetic
+variation, and heredity in organisms.
+
+:: Parents
+biology
+
+:: References
+https://en.wikipedia.org/wiki/Genetics
+
+
 genie in a lamp
 ===============
 
@@ -15805,6 +16196,24 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Gentrification
+
+
+geothermal energy from Earth's interior
+=======================================
+
+:: Description
+The possibility of extracting usable geothermal energy directly from Earth's
+mantle or core is explored.
+
+:: Parents
+speculative energy generation technology
+
+:: Examples
+In "Crack in the World" (1965), a team of scientists tried to release the
+geothermal energy from Earth's core with earth-shattering consequences.
+
+:: References
+https://en.wikipedia.org/wiki/Geothermal_energy
 
 
 germophobia
@@ -16118,6 +16527,25 @@ humans in hierarchy
 https://en.wikipedia.org/wiki/Command_hierarchy
 
 
+golem
+=====
+
+:: Description
+This animated anthropomorphic being that is created entirely from clay or mud
+of Jewish folklore is featured explicitly.
+
+:: Parents
+legendary being
+
+:: Examples
+In "Assassin" (1986), the heroin of the story made reference a zealot rabbi in
+16th century Prague (presumably Judah Loew ben Bezalel) who created a clay
+creature, called a golem, to protect the Jews from persecution.
+
+:: References
+https://en.wikipedia.org/wiki/Golem
+
+
 good and evil in religion
 =========================
 
@@ -16370,6 +16798,25 @@ only way to protect your own people?
 social ethical dilemma
 
 
+gremlin
+=======
+
+:: Description
+There is a folkloric mischievous creature that causes malfunctions in aircraft
+or other machinery.
+
+:: Parents
+legendary being
+
+:: Examples
+In tz1959e5x03 "Nightmare at 20,000 Feet", Bob Wilson upset his fellow
+aeronauts by claiming to see a Gremlin on the wing of the aircraft trying to
+sabotage the engine there.
+
+:: References
+https://en.wikipedia.org/wiki/Gremlin
+
+
 grief
 =====
 
@@ -16497,6 +16944,25 @@ public in the film "Time After Time" (1979).
 
 :: References
 https://en.wikipedia.org/wiki/Gun_violence
+
+
+gunpowder
+=========
+
+:: Description
+Gunpowder is a mixture of sulfur, charcoal, and potassium nitrate (saltpeter)
+with the sulfur and charcoal acting as fuels, while the saltpeter functions as
+an oxidizer.
+
+:: Parents
+technology
+
+:: Examples
+Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
+the legendary fight to the death in tos1x19 "Arena".
+
+:: References
+https://en.wikipedia.org/wiki/Gunpowder
 
 
 habitable asteroid
@@ -17634,6 +18100,36 @@ extracting electrical energy from unconscious humans kept in pods in "The
 Matrix" (1999).
 
 
+human biology
+=============
+
+:: Description
+The scientific study of the morphology of the human body is featured.
+
+:: Parents
+biology
+
+:: References
+https://en.wikipedia.org/wiki/Outline_of_human_anatomy
+https://en.wikipedia.org/wiki/Composition_of_the_human_body
+
+
+human blood types
+=================
+
+:: Description
+Some aspect of the science of blood types is explained. Popularly, this is the
+classification system O-, O+, A-, A+, and so forth (eight categories) or
+simply O, A, B, AB (four categories). However, other systems are in use as
+well.
+
+:: Parents
+human biology
+
+:: References
+https://en.wikipedia.org/wiki/Blood_type
+
+
 human challenge in life
 =======================
 
@@ -18011,6 +18507,16 @@ content, and fulfilled in life.
 purpose in life
 
 
+human occupational activity
+===========================
+
+:: Description
+A character is notably engaged in their chosen occupation.
+
+:: Parents
+human regular activity
+
+
 human overpopulation
 ====================
 
@@ -18108,6 +18614,18 @@ human aspiration
 deals with a person's desire to excel in a career.
 
 :: References
+
+
+human regular activity
+======================
+
+:: Description
+This is the category of themes that contain various purposeful regular
+activities that humans may be engaged in. Such activities are typically
+occupations or hobbies.
+
+:: Parents
+the human condition
 
 
 human rights issue
@@ -19766,6 +20284,21 @@ something that might be an important problem for society.
 educational issue
 
 
+information technology in society
+=================================
+
+:: Description
+The influence of the Internet, its precursors, or related technology on
+society is discussed.
+
+:: Parents
+sociotechnological issue
+
+:: References
+https://en.wikipedia.org/wiki/Internet
+http://www.sf-encyclopedia.com/entry/internet
+
+
 informed consent in medicine
 ============================
 
@@ -19889,6 +20422,23 @@ humans in group
 
 :: References
 https://en.wikipedia.org/wiki/Insubordination
+
+
+intangibility ability
+=====================
+
+:: Description
+A character is able pass through material objects, such as walls.
+
+:: Parents
+speculative personal body manipulation
+
+:: Examples
+In X2 (2003), the mutant Kitty Pride manifested an innate ability to pass
+through walls.
+
+:: References
+http://www.sf-encyclopedia.com/entry/matter_penetration
 
 
 intangibility device
@@ -20154,19 +20704,6 @@ romantic relationship
 https://en.wikipedia.org/wiki/Interracial_marriage
 
 
-speculative interstellar probe
-==============================
-
-:: Description
-An unmanned spacecraft that has been dispatch outside the solar system.
-
-:: Parents
-spaceship
-
-:: References
-https://en.wikipedia.org/wiki/Interstellar_probe
-
-
 interstellar space travel
 =========================
 
@@ -20362,6 +20899,24 @@ Thadiun Okona comported himself with a attitude of flagrant disregard toward
 authority aboard the Enterprise-C in tng2x04 "The Outrageous Okona".
 
 
+irrigation
+==========
+
+:: Description
+Any of a number of technologies developed over the ages to supply controlled
+amounts of water to crops at regular intervals.
+
+:: Parents
+technology
+
+:: Examples
+Captain Kirk, while suffering from amnesia, had plans to irrigate Amerind in
+tos3x03 "The Paradise Syndrome".
+
+:: References
+https://en.wikipedia.org/wiki/Irrigation
+
+
 is there a higher power
 =======================
 
@@ -20434,6 +20989,24 @@ political ideology
 https://en.wikipedia.org/wiki/Isolationism
 
 
+it's the future that matters not the past
+=========================================
+
+:: Description
+Featured is the idea that a preoccupation with the past is bad if it comes at
+the expense of concern for the future.
+
+:: Parents
+human idea about life
+
+:: Examples
+In tz1959e4x10 "No Time Like the Past", we saw a disillusioned scientist in a
+bleak future try vainly to change the past in various ways. After many
+failures, he comes to the realization that his fixation with history is wrong,
+and that he must instead work for the betterment of the future in the world he
+came from.
+
+
 it's what's on the inside that counts
 =====================================
 
@@ -20494,6 +21067,21 @@ speculative wearable device
 
 :: References
 https://en.wikipedia.org/wiki/Jet_pack
+
+
+journalism
+==========
+
+:: Description
+A character working with journalism is engaged in their chosen occupation.
+This may include traveling investigative journalists as well as editors,
+columnists, and the like.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Journalist
 
 
 journey into the underworld
@@ -20892,6 +21480,21 @@ political issue
 https://en.wikipedia.org/wiki/Trade_union
 
 
+land exploration
+================
+
+:: Description
+Someone faces the dangers inherent to exploring relatively unknown and
+unfamiliar inland regions.
+
+:: Parents
+charting unknown territory
+
+:: Notes
+A land inhabited by natives may still be unknown to the explorer and their
+people.
+
+
 language change
 ===============
 
@@ -20951,6 +21554,20 @@ themes.
 :: References
 https://en.wikipedia.org/wiki/Criminal_law
 https://en.wikipedia.org/wiki/Crime
+
+
+law enforcement
+===============
+
+:: Description
+A character working in some department of law enforcement is engaged in their
+chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Law_enforcement
 
 
 lawless anarchy dystopia
@@ -21269,6 +21886,46 @@ put a stop to such shenanigans.
 https://en.wikipedia.org/wiki/Energy_(esotericism)
 
 
+life in the corporate world
+===========================
+
+:: Description
+We are shown a view, accurate or parodical, of what life is like in the
+central parts of one or more corporations.
+
+:: Parents
+what life is like
+
+
+life in the military
+====================
+
+:: Description
+The general living conditions and experiences of a normal grunt in some part
+of the military is demonstrated.
+
+:: Parents
+what life is like
+
+
+life on the high seas
+=====================
+
+:: Description
+A reasonable idea of what it might be like to spend an extended period of time
+aboard a ship on the high seas, is put forth. For example, the life of a 19:th
+century sailor spending several months aboard a cargo ship or whaling vessel
+may be featured.
+
+:: Parents
+what life is like
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
+
+
 life with a handicap vs. death
 ==============================
 
@@ -21491,6 +22148,30 @@ head (logic).
 personal practical dilemma
 
 
+logical reasoning
+=================
+
+:: Description
+Logic is the systematic study of valid rules of inference, i.e. the relations
+that lead to the acceptance of one proposition (the conclusion) on the basis
+of a set of other propositions (premises). More broadly, logic is the analysis
+and appraisal of arguments.
+
+:: Parents
+mathematics
+
+:: Notes
+As almost any human conversation can be said to involve logic, this theme is
+used only when the topic of logic itself is explicitly discussed in a somewhat
+academic way.
+
+:: References
+https://en.wikipedia.org/wiki/Logic
+
+:: Aliases
+deductive reasoning, inductive reasoning, abductive reasoning
+
+
 loneliness
 ==========
 
@@ -21556,6 +22237,20 @@ prejudice in society
 
 :: References
 https://en.wikipedia.org/wiki/Lookism
+
+
+lord and vassal
+===============
+
+:: Description
+A relationship between a ruler and a person who is feudally bound to them is
+featured.
+
+:: Parents
+human interpersonal relationship
+
+:: References
+https://en.wikipedia.org/wiki/Vassal
 
 
 loss of emotional equilibrium
@@ -22774,6 +23469,20 @@ him clear across the face.
 https://en.wikipedia.org/wiki/Maternal_bond
 
 
+mating behavior
+===============
+
+:: Description
+The ways in which animals behave with regard to mating is studied.
+
+:: Parents
+biology
+
+:: References
+https://en.wikipedia.org/wiki/Animal_sexual_behaviour
+https://en.wikipedia.org/wiki/Human_mating_strategies
+
+
 matriarchy
 ==========
 
@@ -23060,6 +23769,21 @@ ritual slaughter and then played it back to an audience in "Quatermass and the
 Pit" (1967).
 
 
+men in black conspiracy theory
+==============================
+
+:: Description
+Featured is the theory that there are men dressed in black suits who claim to
+be quasi-government agents who harass, threaten or assassinate UFO witnesses
+to keep them quiet about what they have seen.
+
+:: Parents
+crackpot theory
+
+:: References
+https://en.wikipedia.org/wiki/Men_in_black
+
+
 mental illness
 ==============
 
@@ -23266,6 +23990,25 @@ power then they actually do.
 
 :: Parents
 the art of war
+
+
+military coup
+=============
+
+:: Description
+A state's government is overthrown by a group of people from within the
+state's own armed forces.
+
+:: Parents
+civil war
+
+:: Examples
+In "Akira" (1988), Colonel Shikishima led a coup d'état against the Neo Tokyo
+government and directed all of its military forces to destroy a young man who
+had acquired near god-like telekinetic abilities.
+
+:: References
+https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat
 
 
 military dictatorship
@@ -24857,6 +25600,34 @@ The kind of love a person feels springing from the memory of a bygone passion.
 romantic love
 
 
+nuclear fission power
+=====================
+
+:: Description
+The harnessing of nuclear fission reactions as a power source for technology
+is explored.
+
+:: Parents
+technology
+
+:: Notes
+An explicit statement to the effect that such and such a contraption is
+nuclear powered constitutes minimum grounds for applying this theme. It does
+not apply in the case when energy from nuclear fission reactions is released
+in an uncontrolled manner, such as with a fission bomb.
+
+:: Examples
+A crew of pioneering astronauts commandeered an atomic powered rocketship to
+the Moon in "Destination Moon" (1950).
+
+:: References
+https://en.wikipedia.org/wiki/Nuclear_power
+https://en.wikipedia.org/wiki/Nuclear_fission
+
+:: Related Themes
+fusion power
+
+
 nuclear holocaust
 =================
 
@@ -24884,6 +25655,17 @@ environmental issue
 
 :: References
 https://en.wikipedia.org/wiki/Nuclear_safety_and_security
+
+
+nuclear powered spaceship
+=========================
+
+:: Description
+There is a spacecraft that relies on some form of nuclear energy (e.g. nuclear
+fission or nuclear fusion) for propulsion.
+
+:: Parents
+spaceship
 
 
 nuclear proliferation
@@ -25873,6 +26655,21 @@ the fine arts and the humanities
 https://en.wikipedia.org/wiki/Painting
 
 
+panspermia
+==========
+
+:: Description
+The hypothesis that life exists throughout the universe and is distributed
+naturally by asteroids and comets or perhaps even at the direction of aliens.
+
+:: Parents
+speculative natural process
+
+:: References
+https://en.wikipedia.org/wiki/Panspermia
+http://www.sf-encyclopedia.com/entry/panspermia
+
+
 parallel universe
 =================
 
@@ -25915,13 +26712,13 @@ A being that lives as a parasite off of other life forms.
 :: Parents
 biologically distinguished being
 
-:: References
-https://en.wikipedia.org/wiki/List_of_parasitic_alien_species
-
 :: Examples
 Bug-like neural parasites from outer space nearly took over Starfleet by
 attaching themselves to important officers' brainstems in tng1x25
 "Conspiracy".
+
+:: References
+https://en.wikipedia.org/wiki/List_of_parasitic_alien_species
 
 
 parent and child
@@ -26187,6 +26984,24 @@ https://en.wikipedia.org/wiki/Pecking_order
 the workplace
 
 
+pedagogy
+========
+
+:: Description
+The scientific study of how people learn and methods by which they can be
+taught.
+
+:: Parents
+modern science
+
+:: Examples
+Spock was impressed with the pedagogical qualities of historian John Gill's
+textbook on Earth history in tos2x23 "Patterns of Force".
+
+:: References
+https://en.wikipedia.org/wiki/Pedagogy
+
+
 pedophiles in society
 =====================
 
@@ -26348,6 +27163,21 @@ speculative device
 :: Examples
 Markham observed people getting around a future New York City in penumatic
 tubes in "A Visitor from the Twentieth Century" by Harold Donitz (1928).
+
+
+perfect prediction of future events
+===================================
+
+:: Description
+There is a machine that predicts the future with near perfect accuracy.
+
+:: Parents
+speculative technology
+
+:: Examples
+In the short story "Futility" (1929), two college friends invented the
+predictograph: a machine that predicts future events with uncanny accuracy
+using multivariate big data as input.
 
 
 perfect prosthetics
@@ -26621,6 +27451,20 @@ human way of life
 
 :: References
 https://en.wikipedia.org/wiki/Philanthropy
+
+
+photographic memory ability
+===========================
+
+:: Description
+A character is presented as having a more or less perfect, or photographic,
+memory to an extent that is not normally considered possible for a human.
+
+:: Parents
+speculative ability related to own mind
+
+:: References
+https://en.wikipedia.org/wiki/Eidetic_memory
 
 
 phrenology
@@ -26932,6 +27776,21 @@ desire to gain an advantage on the other.
 personal ethical dilemma
 
 
+pleasure in dancing
+===================
+
+:: Description
+The pleasure some of us take in wagging about to the rhythms of music is
+demonstrated.
+
+:: Parents
+human pleasure
+
+:: Examples
+Beverly "the dancing doctor" got a kick out of teaching Data the art of tap
+dancing in tng4x11 "Data's Day".
+
+
 plug-in learning device
 =======================
 
@@ -27009,6 +27868,16 @@ murder in society
 
 :: References
 https://en.wikipedia.org/wiki/List_of_poisonings
+
+
+polar exploration
+=================
+
+:: Description
+Someone faces the dangers inherent to exploring unfamiliar arctic regions.
+
+:: Parents
+charting unknown territory
 
 
 police brutality in society
@@ -27761,6 +28630,21 @@ differently, i.e. who use very different languages, have to interact.
 society
 
 
+professional politics
+=====================
+
+:: Description
+A person working with professional politics is engaged in their chosen
+occupation. This may include people inhabiting an elected office, or who are
+campaigning for such.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Political_campaign
+
+
 property rights vs. public interest
 ===================================
 
@@ -27918,6 +28802,26 @@ killer in "The Dead Zone" (1983).
 
 :: References
 https://en.wikipedia.org/wiki/Psychic_detective
+
+
+psychological regression
+========================
+
+:: Description
+A character's ego regresses to an earlier stage of development. For example,
+an adult character starts to act like they did when they were a teenager.
+
+:: Parents
+human mental condition
+
+:: Examples
+tz1959e4x15 "The Incredible World of Horace Ford", the genial but childish
+toymaker Horace Ford became bored with the present and started dreaming of his
+childhood but became so obsessed with it that he started to act like a kid
+again.
+
+:: References
+https://en.wikipedia.org/wiki/Regression_(psychology)
 
 
 psychological stress
@@ -29512,6 +30416,26 @@ The immortal Mr. Flint had a hovering robot helped named M-4 in tos3x21
 "Requiem for Methuselah".
 
 
+robot prizefighter
+==================
+
+:: Description
+There is a robot, usually less than sentient, whose purpose is to take part in
+pre-arranged and rule-bound combat competitions.
+
+:: Parents
+AI
+
+:: Examples
+In tz1959e5x02 "Steel", the story is set in a near future when regular boxing
+has been deemed to violent for humans to partake in. Instead ever more
+sophisticated androids fight in the ring for the entertainment of human
+crowds.
+
+:: Aliases
+robot boxer, combat sports robot, robot fighter
+
+
 robotic civilization
 ====================
 
@@ -29692,6 +30616,26 @@ that merely calling it a "flirtation" seems egregiously insufficient.
 
 :: References
 https://en.wikipedia.org/wiki/Seduction
+
+
+romanticization of the past
+===========================
+
+:: Description
+Featured is the idea that we sometimes remember periods from the past as
+having been more idyllic or appealing relative to the present, than was
+actually the case.
+
+:: Parents
+remembering bygone days
+
+:: Examples
+tz1959e4x15 "The Incredible World of Horace Ford", the genial but childish
+toymaker Horace Ford became bored with the present and started dreaming of his
+childhood. After going back in time and reliving an episode of bullying,
+however, he realized that things had not been nearly is great as his recent
+fantasies had made them out to be. His  mother also spoke of family strife
+during the time in question.
 
 
 roommate and roommate
@@ -30408,6 +31352,22 @@ human character
 
 :: References
 https://en.wikipedia.org/wiki/Self-control
+
+
+self-coup
+=========
+
+:: Description
+A form of putsch or coup d'état in which a nation's leader, despite having
+come to power through legal means, dissolves or renders powerless the national
+legislature and unlawfully assumes extraordinary powers not granted under
+normal circumstances.
+
+:: Parents
+civil war
+
+:: References
+https://en.wikipedia.org/wiki/Self-coup
 
 
 self-deception
@@ -31403,6 +32363,24 @@ wielders hand to some extent.
 :: References
 
 
+smuggling
+=========
+
+:: Description
+The crime of the illegal transportation of such things as objects substances,
+information or people is featured.
+
+:: Parents
+crime in society
+
+:: Examples
+In sherlock1x02 "The Blind Banker", Sherlock Holmes and Watson connected a
+pair of enigmatic murders to a Chinese smuggling ring.
+
+:: References
+https://en.wikipedia.org/wiki/Smuggling
+
+
 sneak attack tactic
 ===================
 
@@ -31550,6 +32528,22 @@ human addiction
 
 :: References
 https://en.wikipedia.org/wiki/Social_media_addiction
+
+
+social media in society
+=======================
+
+:: Description
+Social media are interactive computer-mediated technologies that facilitate
+the creation and sharing of information, ideas, career interests and other
+forms of expression via virtual communities and networks. The various ways in
+which these affect society is discussed.
+
+:: Parents
+information technology in society
+
+:: References
+https://en.wikipedia.org/wiki/Social_media
 
 
 social oppression
@@ -31785,6 +32779,23 @@ astronomy
 https://en.wikipedia.org/wiki/Solar_eclipse
 
 
+solar power
+===========
+
+:: Description
+The harnessing of sunlight as a power source for technology is explored.
+
+:: Parents
+technology
+
+:: Examples
+Dr. Frankenstein harnessed the power of solar energy to reanimate a corpse in
+"Frankenstein: The True Story" (1973).
+
+:: References
+https://en.wikipedia.org/wiki/Solar_power
+
+
 solar sail spaceship
 ====================
 
@@ -31982,6 +32993,16 @@ engineered trans-orbital structure
 :: References
 https://en.wikipedia.org/wiki/Space_elevator
 http://www.sf-encyclopedia.com/entry/space_elevator
+
+
+space exploration
+=================
+
+:: Description
+Someone faces the dangers inherent to exploring unfamiliar regions of space.
+
+:: Parents
+charting unknown territory
 
 
 space folding travel technology
@@ -32338,6 +33359,20 @@ speculative fiction theme
 https://en.wikipedia.org/wiki/Category:Fantasy_creatures https://en.wikipedia.org/wiki/Category:Legendary_creatures_in_popular_culture https://en.wikipedia.org/wiki/Legendary_creature
 
 
+speculative biotechnology
+=========================
+
+:: Description
+An as-yet fictional thing that may conceivably be done with bioengineering
+techniques in the future.
+
+:: Parents
+speculative technology
+
+:: References
+https://en.wikipedia.org/wiki/Biological_engineering
+
+
 speculative city
 ================
 
@@ -32394,6 +33429,18 @@ capabilities.
 speculative technology
 
 
+speculative evolution
+=====================
+
+:: Description
+Featured is an idea of evolution that is not (yet) in evidence by history.
+This may for example be when an alternative evolutionary history is
+stipulated, or when the evolutionary history of fictional beings is explained.
+
+:: Parents
+speculative natural process
+
+
 speculative fiction theme
 =========================
 
@@ -32418,6 +33465,57 @@ and "the AI singularity" are illustrative examples.
 
 :: Parents
 speculative society
+
+
+speculative genetic engineering
+===============================
+
+:: Description
+An organism genes are manipulated in a way or to an extent that is presently
+beyond what humans can do.
+
+:: Parents
+speculative biotechnology
+
+:: References
+https://en.wikipedia.org/wiki/Genetic_engineering
+https://en.wikipedia.org/wiki/Genetics_in_fiction#Genetic_engineering
+http://www.sf-encyclopedia.com/entry/genetic_engineering
+
+
+speculative genetically modified crops
+======================================
+
+:: Description
+A crop that has been genetically engineered to yield much more usable food
+than its original. This was sci-fi in the 60s. A gene modified plant
+(antibiotic-resistant tobacco) was first developed in 1982.
+
+:: Parents
+speculative genetic engineering
+
+:: Examples
+Quadrotriticale was a high-yield genetically modified grain, and the only
+Earth grain that could grow on Sherman's Planet, in tos2x13 "The Trouble with
+Tribbles".
+
+
+speculative geoengineering
+==========================
+
+:: Description
+The scientific study of large scale methods by which the general conditions on
+a planet can be willfully modified. This may involve the shaping of land
+masses and oceans, or modification of the climate.
+
+:: Parents
+planetary-scale engineering
+
+:: References
+https://en.wikipedia.org/wiki/Climate_engineering
+
+:: Aliases
+climate engineering
 
 
 speculative glasses
@@ -32450,6 +33548,47 @@ hand.
 
 :: Parents
 speculative device
+
+
+speculative hypnosis
+====================
+
+:: Description
+Featured is a notion of hypnosis that goes well beyond what can be done in
+reality. In particular, this theme is used when a character is shown to
+"hypnotize" another character in order to make them carry out commands, or to
+implant "triggers" in their mind. The theme may also be used when the hypnosis
+has an immediate and notable effect, such as to bring back true memories.
+
+:: Parents
+crackpot theory
+
+:: Notes
+Real hypnosis can be used in hypnotherapy and may have some effect in altering
+problematic habits for a willing subject. Typically, multiple sessions are
+required in order to produce limited effects, and not all subjects are
+receptive to it.
+
+:: Examples
+In voy4x17 "Retrospect", hypnosis used to bring out buried or suppressed old
+memories.
+
+:: References
+https://en.wikipedia.org/wiki/Hypnosis
+https://en.wikipedia.org/wiki/Stage_hypnosis
+
+
+speculative interstellar probe
+==============================
+
+:: Description
+An unmanned spacecraft that has been dispatch outside the solar system.
+
+:: Parents
+spaceship
+
+:: References
+https://en.wikipedia.org/wiki/Interstellar_probe
 
 
 speculative nanotechnology
@@ -32595,13 +33734,28 @@ speculative fiction theme
 :: Examples
 "speculative technology" themes come in great numbers in science fiction, and
 also great variety. It is convenient to further sub-categorize them according
-to function, for example "artificial intelligence", "speculative biotechnology",
-"mind altering technology", "speculative engineering", and "speculative
-weapon".
+to function, for example "artificial intelligence", "speculative
+biotechnology", "mind altering technology", "speculative engineering", and
+"speculative weapon".
 
 :: References
 https://en.wikipedia.org/wiki/Technology_in_science_fiction
 https://en.wikipedia.org/wiki/Category:Fictional_technology
+
+
+speculative terraforming
+========================
+
+:: Description
+The scientific study of methods by which another planet can be made more
+Earth-like.
+
+:: Parents
+speculative geoengineering
+
+:: References
+https://en.wikipedia.org/wiki/Terraforming
+http://www.sf-encyclopedia.com/entry/terraforming
 
 
 speculative torture device
@@ -32674,6 +33828,18 @@ ability but scaled up to an impossible extent.
 
 :: Parents
 speculative personal body manipulation
+
+
+speed of light limitation
+=========================
+
+:: Description
+According to special relativity, the speed of light (c=299,792,458 meters per
+second) is the maximum speed at which all matter and information in the
+universe can travel.
+
+:: Parents
+theory of relativity
 
 
 spirit guide
@@ -33756,14 +34922,14 @@ event that has left the world tattered and bereft of organized society.
 :: Parents
 facing adversity
 
+:: Notes
+This theme is not used when a relatively large number of people are surviving
+together and forming what seems like a new society, but rather when one or a
+few character have to scavenge ruins for what they need to survive.
+
 :: Examples
 In tz1959e3x01 "Two", we saw two lonely soldiers from opposing factions
 scavenge a broken city for the necessities of another day of life.
-
-:: Notes
-This theme is not used when a relatively large number of people are
-surviving together and forming what seems like a new society, but rather when
-one or a few character have to scavenge ruins for what they need to survive.
 
 
 survivor guilt
@@ -34106,6 +35272,16 @@ Society is supposedly perfected thanks to technology.
 
 :: Parents
 utopia
+
+
+technology
+==========
+
+:: Description
+The application of scientific knowledge in building contraptions is featured.
+
+:: Parents
+modern science
 
 
 technology-free utopia
@@ -35072,6 +36248,23 @@ afterlife
 the soul, journey into the underworld,
 
 
+the archaeology profession
+==========================
+
+:: Description
+An archaeologist is engaged in their chosen occupation.
+
+:: Parents
+academia
+
+:: Examples
+Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
+was rudely cut short by Q in tng4x20 "Qpid".
+
+:: References
+https://en.wikipedia.org/wiki/Archaeology
+
+
 the art of boxing
 =================
 
@@ -35181,6 +36374,19 @@ is featured more or less in the whole.
 history
 
 
+the astronomy profession
+========================
+
+:: Description
+An astronomer is engaged in their chosen occupation.
+
+:: Parents
+academia
+
+:: References
+https://en.wikipedia.org/wiki/Astronomer
+
+
 the battle of the sexes
 =======================
 
@@ -35221,6 +36427,20 @@ human idea about life
 https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf
 
 
+the business world
+==================
+
+:: Description
+A character working more with business in general than with any specific
+industry, for example an executive, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Business
+
+
 the butterfly effect
 ====================
 
@@ -35228,15 +36448,15 @@ the butterfly effect
 The notion that a small change in the initial conditions of a system can
 result in large differences in a later state.
 
+:: Parents
+mathematics
+
 :: Notes
 Every other time travel story could be creatively interpreted as involving
 some subjectively small change to the past having some subjectively large
 effect in the future. For this theme to apply, the motivation must indicate
 why the change is considered small, and the effect large. Typically, this
 happens when a character points it out more or less explicitly.
-
-:: Parents
-mathematics
 
 :: References
 https://en.wikipedia.org/wiki/Butterfly_effect
@@ -35253,25 +36473,6 @@ are typically left ambiguous in real stories.
 
 :: Parents
 personal life and death dilemma
-
-
-gunpowder
-=========
-
-:: Description
-Gunpowder is a mixture of sulfur, charcoal, and potassium nitrate (saltpeter)
-with the sulfur and charcoal acting as fuels, while the saltpeter functions as
-an oxidizer.
-
-:: Parents
-technology
-
-:: Examples
-Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
-the legendary fight to the death in tos1x19 "Arena".
-
-:: References
-https://en.wikipedia.org/wiki/Gunpowder
 
 
 the control of fire
@@ -35329,6 +36530,18 @@ environmental issue
 Little Willie Harding passed away from radiation poisoning after having been
 exposed to a natural source of radioactivity on the Scottish mores in "X the
 Unknown" (1956).
+
+
+the dangers of sending information out into space
+=================================================
+
+:: Description
+The potentially adverse consequences of sending messages or space probes etc.
+out into space are discussed. One idea is that they may alert an advanced and
+hostile alien species to our existence.
+
+:: Parents
+threat from extraterrestrial life
 
 
 the dangers of smoking
@@ -35639,6 +36852,20 @@ perhaps not.
 human idea about life
 
 
+the entertainment industry
+==========================
+
+:: Description
+A character working in show business, i.e., film, theater, and the like, is
+engaged in their chosen occupation.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Show_business
+
+
 the ethics of interfering in less advanced societies
 ====================================================
 
@@ -35690,6 +36917,23 @@ be more important to preserve than others' is discussed.
 
 :: Parents
 ethics
+
+
+the fashion industry
+====================
+
+:: Description
+We are shown what it might be like for people involved in the design,
+modeling, marketing, and sales of fashionable clothing and related goods.
+
+:: Parents
+art related occupation
+
+:: Examples
+New Wave fashion of the 1980s is showcased in "Liquid Sky" (1983).
+
+:: References
+https://en.wikipedia.org/wiki/Fashion
 
 
 the fine arts and the humanities
@@ -35838,6 +37082,24 @@ sports
 https://en.wikipedia.org/wiki/Pool_(cue_sports)
 
 
+the game of tennis
+==================
+
+:: Description
+This racket-ball sport is notably featured.
+
+:: Parents
+sports
+
+:: Examples
+In "The Superperfect Bride" (1929), Charles Broderick was pushed to his limit
+in a game of tennis against a woman who had supposedly been surgically altered
+to be physically perfect.
+
+:: References
+https://en.wikipedia.org/wiki/Tennis
+
+
 the gangster stereotype
 =======================
 
@@ -35866,6 +37128,19 @@ the past equipped with future ideas.
 
 :: Parents
 time travel, crackpot theory
+
+
+the geology profession
+======================
+
+:: Description
+A geologist is engaged in their chosen occupation.
+
+:: Parents
+academia
+
+:: References
+https://en.wikipedia.org/wiki/Geology
 
 
 the ghost was really an alien
@@ -36014,6 +37289,19 @@ fact a fantastically long lived extraterrestrial from the planet "Vinci",
 where he was the dumbest of his kind.
 
 
+the history profession
+======================
+
+:: Description
+A historian is engaged in their chosen occupation.
+
+:: Parents
+academia
+
+:: References
+https://en.wikipedia.org/wiki/Historian
+
+
 the horrors of war
 ==================
 
@@ -36022,6 +37310,20 @@ The terrible impact war has on ordinary people is featured.
 
 :: Parents
 war
+
+
+the hospitality industry
+========================
+
+:: Description
+A waiter, bartender, hotel maid or other hospitality industry worker is
+engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Hospitality_industry
 
 
 the human capacity for good and evil
@@ -36199,6 +37501,34 @@ animal rights
 http://www.bbc.co.uk/ethics/animals/using/eating_1.shtml
 
 
+the language industry
+=====================
+
+:: Description
+A character working with translation, interpreting, subtitling, or the like is
+engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Language_industry
+
+
+the legal professions
+=====================
+
+:: Description
+A character working directly with the interpretation of law, for example a
+lawyer, prosecutor, or judge, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Legal_proceeding
+
+
 the legend of King Arthur
 =========================
 
@@ -36316,6 +37646,39 @@ law and order issue
 :: Examples
 Armus became a being of pure evil when the Titans left him behind in tng1x23
 "Skin of Evil".
+
+
+the maritime professions
+========================
+
+:: Description
+Someone working on or with a seafaring vessel is engaged in their chosen
+occupation. Typically this means sailors, captains, and other naval officers.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
+
+:: References
+https://en.wikipedia.org/wiki/Sailor
+
+
+the medical professions
+=======================
+
+:: Description
+A character working with health care, typically in a hospital or comparable
+institution, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Health_professional
 
 
 the military-industrial complex in society
@@ -37096,6 +38459,19 @@ granted.
 human idea about life
 
 
+the private investigator profession
+===================================
+
+:: Description
+A professional private investigation is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Private_investigator
+
+
 the problem of evil
 ===================
 
@@ -37145,6 +38521,27 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Torture
+
+
+the publishing industry
+=======================
+
+:: Description
+A character working with the dissemination of literature, music, and
+information is engaged in their chosen occupation. For example, we may see an
+author work with a literary agent to find a publisher willing to print and
+sell a book.
+
+:: Parents
+art related occupation
+
+:: Examples
+In talesoftheunexpected6x10 "The Luncheon", Tony spent his last £37 on lunch
+with the wife of a famous film producer in an effort to secure a film deal for
+his novel.
+
+:: References
+https://en.wikipedia.org/wiki/Publishing
 
 
 the pursuit of knowledge
@@ -37427,22 +38824,6 @@ The Angosians tucked their genetically engineered war veterans safely away on
 a shabby little moon in tng3x11 "The Hunted".
 
 
-human blood types
-=================
-
-:: Description
-Some aspect of the science of blood types is explained. Popularly, this is the
-classification system O-, O+, A-, A+, and so forth (eight categories) or
-simply O, A, B, AB (four categories). However, other systems are in use as
-well.
-
-:: Parents
-human biology
-
-:: References
-https://en.wikipedia.org/wiki/Blood_type
-
-
 the science of heat
 ===================
 
@@ -37455,6 +38836,55 @@ physics
 
 :: References
 https://en.wikipedia.org/wiki/Heat
+
+
+the scientist profession
+========================
+
+:: Description
+A scientist is engaged in their chosen occupation.
+
+:: Parents
+academia
+
+:: References
+https://en.wikipedia.org/wiki/Scientist
+
+
+the secret agent profession
+===========================
+
+:: Description
+A character working with espionage or the like is engaged in their chosen
+profession.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This profession is naturally a gray area between legal, illegal, and war type
+of themes. It is included here because there are many stories that feature
+romanticized ideas of secret agents as heroes.
+
+:: References
+https://en.wikipedia.org/wiki/Espionage
+
+
+the seeding of space with life
+==============================
+
+:: Description
+A species influences the development of life on other planets by interceding
+early in the evolutionary process (possibly before biological molecules first
+appeared) and then letting nature take its course.
+
+:: Parents
+space colonization
+
+:: Examples
+In tz1985e1x15b "A Small Talent for War", an alien told some United Nations
+delegates that his people had seeded Earth, along with millions of other
+worlds, with life.
 
 
 the ship Titanic
@@ -37522,6 +38952,27 @@ tos2x01 "Catspaw".
 https://en.wikipedia.org/wiki/Supernatural
 
 
+the tech industry
+=================
+
+:: Description
+A character working in a technology oriented company is engaged in their
+chosen occupation.
+
+:: Parents
+human occupational activity
+
+
+the tech support profession
+===========================
+
+:: Description
+A character is employed to tend to the machines that other people are using.
+
+:: Parents
+human occupational activity
+
+
 the technological singularity
 =============================
 
@@ -37551,27 +39002,6 @@ the fine arts and the humanities
 https://en.wikipedia.org/wiki/Theatre
 
 
-theory of everything
-====================
-
-:: Description
-A hypothetical all-encompassing theory of physics that fully explains and
-links together all physical aspects of the universe.
-
-:: Parents
-physics
-
-:: Examples
-Barclay had a heated discussion with a virtual Albert Einstein about this
-theory on the holodeck in tng4x19 "The Nth Degree".
-
-:: References
-https://en.wikipedia.org/wiki/Theory_of_everything
-
-:: Aliases
-grand unified theory, GUT, ToE
-
-
 the theory of evolution
 =======================
 
@@ -37594,6 +39024,28 @@ A character wants ever more information, understanding, and knowledge.
 
 :: Parents
 human self-actualization need
+
+
+the thrill is in the chase
+==========================
+
+:: Description
+Featured is the idea that life is often more exciting while one tries to
+accomplish something, than it is once that goal has been achieved. Sometimes
+that excitement may seem more valuable than the utility of whatever the goal
+was.
+
+:: Parents
+human idea about life
+
+:: Examples
+In tz1959e4x14 "Of Late I Think of Cliffordville", the business tycoon Mr.
+Feathersmith had just finished diminishing his last major rival and considered
+that his empire was now everything it possibly could be. The satisfaction soon
+waned, however and he turned to the bottle while reminiscing on how much more
+fun it had been facing the various challenges in the early days of his career.
+When the Devil appeared to offer him a chance to do it over again, Mr.
+Feathersmith jumped on the opportunity.
 
 
 the thrill of danger
@@ -37742,6 +39194,21 @@ It was revealed that the vampires of legend were in fact life force thirsty
 space aliens in "Lifeforce" (1985).
 
 
+the visual arts
+===============
+
+:: Description
+A character working with art forms such as painting, drawing, printmaking,
+sculpture, ceramics, photography, video, filmmaking, design, crafts, and
+architecture is engaged in their occupation.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Visual_arts
+
+
 the winners write history
 =========================
 
@@ -37770,24 +39237,6 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Will_to_live
-
-
-irrigation
-==========
-
-:: Description
-Any of a number of technologies developed over the ages to supply controlled
-amounts of water to crops at regular intervals.
-
-:: Parents
-technology
-
-:: Examples
-Captain Kirk, while suffering from amnesia, had plans to irrigate Amerind in
-tos3x03 "The Paradise Syndrome".
-
-:: References
-https://en.wikipedia.org/wiki/Irrigation
 
 
 theater of the absurd
@@ -37835,6 +39284,46 @@ political ideology
 
 :: References
 https://en.wikipedia.org/wiki/Theocracy
+
+
+theory of everything
+====================
+
+:: Description
+A hypothetical all-encompassing theory of physics that fully explains and
+links together all physical aspects of the universe.
+
+:: Parents
+physics
+
+:: Examples
+Barclay had a heated discussion with a virtual Albert Einstein about this
+theory on the holodeck in tng4x19 "The Nth Degree".
+
+:: References
+https://en.wikipedia.org/wiki/Theory_of_everything
+
+:: Aliases
+grand unified theory, GUT, ToE
+
+
+theory of relativity
+====================
+
+:: Description
+Albert Einstein's theories regarding the nature of space, time, and gravity
+are featured to some extent.
+
+:: Parents
+physics
+
+:: Examples
+Holographic recreations of Stephen Hawking, Isaac Newton, and Albert Einstein
+quibbled about this and other things in tng6x26 "Descent".
+
+:: References
+https://en.wikipedia.org/wiki/Special_relativity
+https://en.wikipedia.org/wiki/General_relativity
 
 
 there is no substitute for experience
@@ -38000,6 +39489,22 @@ existential risk to civilization
 :: References
 http://www.sf-encyclopedia.com/entry/invasion
 https://en.wikipedia.org/wiki/Global_catastrophic_risk#Extraterrestrial_invasion
+
+
+tidal power
+===========
+
+:: Description
+The harnessing of tidal energy as a power source for technology is explored.
+
+:: Parents
+technology
+
+:: Examples
+The dystopian city in "Logan's Run" (1976) was powered by the tides.
+
+:: References
+https://en.wikipedia.org/wiki/Tidal_power
 
 
 tidally locked planet
@@ -38212,16 +39717,6 @@ and being honest on the other.
 
 :: Parents
 personal ethical dilemma
-
-
-technology
-==========
-
-:: Description
-The application of scientific knowledge in building contraptions is featured.
-
-:: Parents
-modern science
 
 
 totalitarian dystopia
@@ -42230,6 +43725,19 @@ life in the military
 In "Glory" (1989), we were shown the gruesome experiences of Colenel Shaw's
 all black 54th Massachusetts Infantry Regiment as they lead a suicidal charge
 on Fort Wagner atop Morris Island, with disastrous consequences.
+
+
+what it is like in a legal proceeding
+=====================================
+
+:: Description
+A hearing, trial, or other such legal procedure is featured.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Legal_proceeding
 
 
 what it is like in an insane asylum
