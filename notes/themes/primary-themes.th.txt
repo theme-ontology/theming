@@ -2495,14 +2495,11 @@ antimatter power
 
 :: Description
 The harnessing of matter-antimatter annihilations as a source of power for
-technology is explored.
+technology is explored. This theme does not apply when energy from
+matter-antimatter annihilations is released in a huge explosion.
 
 :: Parents
 speculative energy generation technology
-
-:: Notes
-This theme does not apply when energy from matter-antimatter annihilations is
-released in a huge explosion.
 
 :: Examples
 In "Alita: Battle Angel" (2019), the cyborg Alita was kept alive by means of
@@ -6180,8 +6177,8 @@ cold fusion
 :: Description
 The possibility of powering technology on energy derived from the fusing of
 atomic nuclei at, or near, room temperature is explored. This is in contrast
-to ordinary fusion power which is normally understood to occur at temperatures
-in the tens of millions of degrees.
+to ordinary fusion power which is normally understood to occur at
+temperatures in the tens of millions of degrees.
 
 :: Parents
 fusion power
@@ -15762,16 +15759,16 @@ fusion power
 
 :: Description
 The possibility of using the energy released from the fusing of atomic nuclei
-as a power source for technology is explored.
+as a power source for technology is explored. This theme does not apply when
+the energy is released in an uncontrolled manner, such as would be the case
+with thermonuclear weapons.
 
 :: Parents
 speculative energy generation technology
 
 :: Notes
-This theme does not apply when the energy is released in an uncontrolled
-manner, such as would be the case with thermonuclear weapons. The theme "cold
-fusion" should be used instead when it is made clear that the nuclear fusions
-occur at, or near, room temperature.
+The theme "cold fusion" should be used instead when it is made clear that the
+nuclear fusions occur at, or near, room temperature.
 
 :: Examples
 Doc Brown's iconic DeLorean in "Back to the Future Part II" (1989) ran on
@@ -25621,16 +25618,12 @@ nuclear fission power
 
 :: Description
 The harnessing of nuclear fission reactions as a power source for technology
-is explored.
+is explored. This theme does not apply in the case when energy from nuclear
+fission reactions is released in an uncontrolled manner, such as with a
+fission bomb.
 
 :: Parents
 technology
-
-:: Notes
-An explicit statement to the effect that such and such a contraption is
-nuclear powered constitutes minimum grounds for applying this theme. It does
-not apply in the case when energy from nuclear fission reactions is released
-in an uncontrolled manner, such as with a fission bomb.
 
 :: Examples
 A crew of pioneering astronauts commandeered an atomic powered rocketship to
