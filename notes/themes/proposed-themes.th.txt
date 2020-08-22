@@ -1056,11 +1056,16 @@ robot prizefighter
 ==================
 
 :: Description
+There is a robot, usually less than sentient, whose purpose is to take
+part in pre-arranged and rule-bound combat competitions.
 
 :: Parents
-artificial being
+AI
 
 :: Examples
+In tz1959e5x02 "Steel", the story is set in a near future when regular boxing
+has been deemed to violent for humans to partake in. Instead ever more sophisticated
+androids fight in the ring for the entertainment of human crowds.
 
 :: Aliases
 robot boxer, combat sports robot, robot fighter
@@ -1070,11 +1075,19 @@ gremlin
 =======
 
 :: Description
+There is a folkloric mischievous creature that causes malfunctions in aircraft or 
+other machinery.
 
 :: Parents
 legendary being
 
 :: Examples
+In tz1959e5x03 "Nightmare at 20,000 Feet", Bob Wilson upset his fellow aeronauts
+by claiming to see a Gremlin on the wing of the aircraft trying to sabotage the
+engine there.
+
+:: References
+https://en.wikipedia.org/wiki/Gremlin
 
 
 panspermia
@@ -1131,9 +1144,14 @@ mating behavior
 ===============
 
 :: Description
+The ways in which animals behave with regard to mating is studied.
 
 :: Parents
 biology
+
+:: References
+https://en.wikipedia.org/wiki/Animal_sexual_behaviour
+https://en.wikipedia.org/wiki/Human_mating_strategies
 
 
 speculative hypnosis
@@ -1185,6 +1203,8 @@ information technology in society
 =================================
 
 :: Description
+The influence of the Internet, its precursors, or related technology
+on society is discussed.
 
 :: Parents
 sociotechnological issue
@@ -1217,9 +1237,17 @@ the seeding of space with life
 ==============================
 
 :: Description
+A species influences the development of life on other planets by interceding
+early in the evolutionary process (possibly before biological molecules first
+appeared) and then letting nature take its course.
 
 :: Parents
 space colonization
+
+:: Examples
+In tz1985e1x15b "A Small Talent for War", an alien told some United Nations 
+delegates that his people had seeded Earth, along with millions of other worlds, 
+with life.
 
 
 photographic memory ability
@@ -1250,27 +1278,6 @@ beings is explained.
 speculative natural process
 
 
-speculative subliminal stimuli
-==============================
-
-:: Description
-
-:: Parents
-crackpot theory
-
-:: References
-https://en.wikipedia.org/wiki/Subliminal_stimuli
-
-
-wilderness survival
-===================
-
-:: Description
-
-:: Parents
-human vs. nature
-
-
 speed of light limitation
 =========================
 
@@ -1293,78 +1300,6 @@ hostile alien species to our existence.
 
 :: Parents
 threat from extraterrestrial life
-
-
-hearing voices
-==============
-
-:: Description
-
-:: Parents
-human mental condition
-
-:: Examples
-tz1959e5x05 "The Last Night of a Jockey",
-
-
-horse racing
-============
-
-:: Description
-
-:: Parents
-sports
-
-:: References
-https://en.wikipedia.org/wiki/Horse_racing
-
-
-mathematics
-===========
-
-:: Description
-
-:: Parents
-modern science
-
-:: References
-https://en.wikipedia.org/wiki/Mathematics
-
-
-geology
-=======
-
-:: Description
-
-:: Parents
-modern science
-
-:: References
-https://en.wikipedia.org/wiki/Geology
-
-
-psychology
-==========
-
-:: Description
-
-:: Parents
-modern science
-
-:: References
-https://en.wikipedia.org/wiki/Psychology
-
-
-life in late modern Germany
-===========================
-
-:: Description
-
-:: Parents
-human life in late modern times
-
-:: References
-https://en.wikipedia.org/wiki/Unification_of_Germany
 
 
 antimatter
@@ -1570,6 +1505,101 @@ In "Crack in the World" (1965), a team of scientists tried to release the
 geothermal energy from Earth's core with earth-shattering consequences.
 
 
+
+
+speculative subliminal stimuli
+==============================
+
+:: Description
+
+:: Parents
+crackpot theory
+
+:: References
+https://en.wikipedia.org/wiki/Subliminal_stimuli
+
+
+wilderness survival
+===================
+
+:: Description
+
+:: Parents
+human vs. nature
+
+
+hearing voices
+==============
+
+:: Description
+
+:: Parents
+human mental condition
+
+:: Examples
+tz1959e5x05 "The Last Night of a Jockey",
+
+
+horse racing
+============
+
+:: Description
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Horse_racing
+
+
+mathematics
+===========
+
+:: Description
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Mathematics
+
+
+geology
+=======
+
+:: Description
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Geology
+
+
+psychology
+==========
+
+:: Description
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Psychology
+
+
+life in late modern Germany
+===========================
+
+:: Description
+
+:: Parents
+human life in late modern times
+
+:: References
+https://en.wikipedia.org/wiki/Unification_of_Germany
+
+
 the importance of faith
 =======================
 
@@ -1595,19 +1625,6 @@ Adam and Eve creation myth
 
 :: Parents
 organized religion
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 marketing
