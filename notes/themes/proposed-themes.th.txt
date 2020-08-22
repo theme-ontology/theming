@@ -2,6 +2,10 @@ speculative subliminal stimuli
 ==============================
 
 :: Description
+There is a fanciful notion of what may be achieved using communication where
+at least part of the intended message passes beneath the recipient's
+threshold for conscious perception. Typically, a character is manipulated
+by the clever insertion of imperceptible cues in the audio or video they see.
 
 :: Parents
 crackpot theory
@@ -9,11 +13,18 @@ crackpot theory
 :: References
 https://en.wikipedia.org/wiki/Subliminal_stimuli
 
+:: Examples
+In "Max Headroom: 20 Minutes into the Future" (1985), The Network 23 television 
+network was using a new form of subliminal advertising, called blibverts, 
+that stopped channel surfing to increasing their ratings
+
 
 wilderness survival
 ===================
 
 :: Description
+A character must survive somewhere in nature for an extended time, more or less alone 
+with little or no technology or access to the amenities of a large community.
 
 :: Parents
 human vs. nature
@@ -23,18 +34,34 @@ hearing voices
 ==============
 
 :: Description
+A character hears, and perhaps talks back to, a voice of a separate entity which the
+character incorrectly thinks is real. In clinical terms the condition might be classified as
+auditory hallucinations, or schizophrenia.
+
+:: Note
+The theme does not apply when a character merely has an internal dialog with their 
+own id. Nor does it apply in fantastical situations where the origin of the voice is
+understood to be through telepathy, produced by spirits, or the like. There's a variety
+of stories where the question of whether the voice is real or not (and thus the sanity
+of the character) itself is a central topic: in this case the theme applies inasmuch
+the idea implied in the definition is entertained as a possibility.
 
 :: Parents
 human mental condition
 
 :: Examples
-tz1959e5x05 "The Last Night of a Jockey",
+tz1959e5x05 "The Last Night of a Jockey", Grady was being taunted the alter ego 
+in his head which offered to fulfill his any wish. In the end we are left wondering
+whether the voice was a real entity, or Grady had gone mad.
 
 
 horse racing
 ============
 
 :: Description
+Horse racing is an equestrian performance sport, typically involving two or more 
+horses ridden by jockeys (or sometimes driven without riders) over a set distance, 
+for competition.
 
 :: Parents
 sports
@@ -47,6 +74,8 @@ mathematics
 ===========
 
 :: Description
+Featured is some aspect of number theory, algebra, geometry, or other type of study 
+which is popularly categorized under the rubric of "mathematics".
 
 :: Parents
 modern science
@@ -59,6 +88,12 @@ geology
 =======
 
 :: Description
+Geology is an earth science concerned with the solid Earth, the rocks of which it is 
+composed, and the processes by which they change over time. Geology can also include 
+the study of the solid features of any terrestrial planet or natural satellite such 
+as Mars or the Moon. Modern geology significantly overlaps all other earth sciences, 
+including hydrology and the atmospheric sciences, and so is treated as one major aspect 
+of integrated earth system science and planetary science.
 
 :: Parents
 modern science
@@ -71,6 +106,8 @@ psychology
 ==========
 
 :: Description
+Psychology is the science of mind and behavior. Psychology includes the study of 
+conscious and unconscious phenomena, as well as feeling and thought.
 
 :: Parents
 modern science
@@ -79,43 +116,52 @@ modern science
 https://en.wikipedia.org/wiki/Psychology
 
 
-life in late modern Germany
-===========================
-
-:: Description
-
-:: Parents
-human life in late modern times
-
-:: References
-https://en.wikipedia.org/wiki/Unification_of_Germany
-
-
 the importance of faith
 =======================
 
 :: Description
+The idea is put forth that (more or less blind) faith in one thing or another, is
+a human quality that is important for a good life and a functioning society.
 
 :: Parents
 human idea about life
+
+:: Examples
+In tz1959e5x07 "The Old Man in the Cave", we saw how the sagacious Mr. Goldsmith
+had been able to shepherd his village flock by appealing to a mysterious
+"old man in the cave", from who he got sound advice. When it was revealed that
+the old man was in fact a cold hearted computer, the villagers lost faith and
+destroyed it. As a consequence, they all died.
 
 
 the stupidity of crowds
 =======================
 
 :: Description
+Presented is the idea that flocks of people acting in unison often end
+up acting with remarkable baseness and folly.
 
 :: Parents
 human idea about life
+
+:: Examples
+In tz1959e5x07 "The Old Man in the Cave", townspeople disillusioned of the 
+old-man-in-a-cave myth irrationally smashed to smithereens their only hope of 
+salvation: a powerful computer.
 
 
 Adam and Eve creation myth
 ==========================
 
 :: Description
+Feature is one variation or another of the story from Abrahemic religions
+regarding the first man and woman, known as Adam and Eve in English.
 
 :: Parents
 organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Adam_and_Eve
 
 
 marketing
