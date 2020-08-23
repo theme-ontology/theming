@@ -97,6 +97,20 @@ technological risk to civilization
 https://en.wikipedia.org/wiki/AI_takeover
 
 
+Adam and Eve creation myth
+==========================
+
+:: Description
+Feature is one variation or another of the story from Abrahemic religions
+regarding the first man and woman, known as Adam and Eve in English.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Adam_and_Eve
+
+
 Adolf Hitler
 ============
 
@@ -2495,8 +2509,8 @@ antimatter power
 
 :: Description
 The harnessing of matter-antimatter annihilations as a source of power for
-technology is explored. This theme does not apply when energy from
-matter-antimatter annihilations is released in a huge explosion.
+technology is explored. This theme does not apply when energy from matter-
+antimatter annihilations is released in a huge explosion.
 
 :: Parents
 speculative energy generation technology
@@ -6177,8 +6191,8 @@ cold fusion
 :: Description
 The possibility of powering technology on energy derived from the fusing of
 atomic nuclei at, or near, room temperature is explored. This is in contrast
-to ordinary fusion power which is normally understood to occur at
-temperatures in the tens of millions of degrees.
+to ordinary fusion power which is normally understood to occur at temperatures
+in the tens of millions of degrees.
 
 :: Parents
 fusion power
@@ -11055,6 +11069,26 @@ speculative ability related to own body
 :: Examples
 In X-men (2000), Cyclops emitted powerful beams of energy from his eyes that
 he could not control without the aid of special glasses.
+
+
+directed panspermia
+===================
+
+:: Description
+A species influences the development of life on other planets by interceding
+early in the evolutionary process (possibly before biological molecules first
+appeared) and then letting nature take its course.
+
+:: Parents
+space colonization
+
+:: Examples
+In tz1985e1x15b "A Small Talent for War", an alien told some United Nations
+delegates that his people had seeded Earth, along with millions of other
+worlds, with life.
+
+:: References
+https://en.wikipedia.org/wiki/Directed_panspermia
 
 
 disapproving parent
@@ -16195,6 +16229,26 @@ socioeconomic issue
 https://en.wikipedia.org/wiki/Gentrification
 
 
+geology
+=======
+
+:: Description
+Geology is an earth science concerned with the solid Earth, the rocks of which
+it is composed, and the processes by which they change over time. Geology can
+also include the study of the solid features of any terrestrial planet or
+natural satellite such as Mars or the Moon. Modern geology significantly
+overlaps all other earth sciences, including hydrology and the atmospheric
+sciences, and so is treated as one major aspect of integrated earth system
+science and planetary science. This theme is used whenever a topic in this
+science is notably featured.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Geology
+
+
 geothermal energy from Earth's interior
 =======================================
 
@@ -16799,16 +16853,16 @@ gremlin
 =======
 
 :: Description
-There is a folkloric mischievous creature that causes malfunctions in
-aircraft or other machinery.
+There is a folkloric mischievous creature that causes malfunctions in aircraft
+or other machinery.
 
 :: Parents
 legendary being
 
 :: Examples
 In tz1959e5x03 "Nightmare at 20,000 Feet", Bob Wilson upset his fellow
-aeronauts by claiming to see a gremlin on the wing of the aircraft
-trying to sabotage the engine there.
+aeronauts by claiming to see a gremlin on the wing of the aircraft trying to
+sabotage the engine there.
 
 :: References
 https://en.wikipedia.org/wiki/Gremlin
@@ -17434,6 +17488,32 @@ social inequality
 https://en.wikipedia.org/wiki/Health_equity
 
 
+hearing voices
+==============
+
+:: Description
+A character hears, and perhaps talks back to, a voice of a separate entity
+which the character incorrectly thinks is real. In clinical terms the
+condition might be classified as auditory hallucinations, or schizophrenia.
+
+:: Parents
+human mental condition
+
+:: Notes
+The theme does not apply when a character merely has an internal dialog with
+their own id. Nor does it apply in fantastical situations where the origin of
+the voice is understood to be through telepathy, produced by spirits, or the
+like. There's a variety of stories where the question of whether the voice is
+real or not (and thus the sanity of the character) itself is a central topic:
+in this case the theme applies inasmuch the idea implied in the definition is
+entertained as a possibility.
+
+:: Examples
+tz1959e5x05 "The Last Night of a Jockey", Grady was being taunted the alter
+ego in his head which offered to fulfill his any wish. In the end we are left
+wondering whether the voice was a real entity, or Grady had gone mad.
+
+
 heart transplant
 ================
 
@@ -17887,6 +17967,22 @@ human emotion
 
 :: References
 https://en.wikipedia.org/wiki/Hope
+
+
+horse racing
+============
+
+:: Description
+Horse racing is an equestrian performance sport, typically involving two or
+more  horses ridden by jockeys (or sometimes driven without riders) over a set
+distance, for competition. This theme is used whenever this time-honored sport
+is notably featured in the story.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Horse_racing
 
 
 hospitality
@@ -20976,8 +21072,8 @@ isolationism
 ============
 
 :: Description
-A society endeavors to cut all ties to the outside world and avoid
-strangers to the extreme.
+A society endeavors to cut all ties to the outside world and avoid strangers
+to the extreme.
 
 :: Parents
 political ideology
@@ -20990,18 +21086,18 @@ it's the future that matters not the past
 =========================================
 
 :: Description
-Featured is the idea that a preoccupation with the past is bad if it
-comes at the expense of concern for the future.
+Featured is the idea that a preoccupation with the past is bad if it comes at
+the expense of concern for the future.
 
 :: Parents
 human idea about life
 
 :: Examples
-In tz1959e4x10 "No Time Like the Past", we saw a disillusioned
-scientist in a bleak future try vainly to change the past in various
-ways. After many failures, he comes to the realization that his
-fixation with history is wrong, and that he must instead work for the
-betterment of the future in the world from whence he came.
+In tz1959e4x10 "No Time Like the Past", we saw a disillusioned scientist in a
+bleak future try vainly to change the past in various ways. After many
+failures, he comes to the realization that his fixation with history is wrong,
+and that he must instead work for the betterment of the future in the world
+from whence he came.
 
 
 it's what's on the inside that counts
@@ -21799,16 +21895,21 @@ libertarianism
 ==============
 
 :: Description
-Libertarianism is a collection of political philosophies and movements that uphold liberty as a core principle. Libertarians seek to maximize political freedom and autonomy, emphasizing freedom of choice, voluntary association and individual judgment. This theme is used whenever this political philosophy is featured in the story.
+Libertarianism is a collection of political philosophies and movements that
+uphold liberty as a core principle. Libertarians seek to maximize political
+freedom and autonomy, emphasizing freedom of choice, voluntary association and
+individual judgment. This theme is used whenever this political philosophy is
+featured in the story.
 
 :: Parents
 political ideology
 
+:: Examples
+The Libra space colony was organized on libertarian principles in "Libra"
+(1978).
+
 :: References
 https://en.wikipedia.org/wiki/Libertarianism
-
-:: Examples
-The Libra space colony was organized on libertarian principles in "Libra" (1978).
 
 
 lie detector
@@ -23480,6 +23581,20 @@ him clear across the face.
 
 :: References
 https://en.wikipedia.org/wiki/Maternal_bond
+
+
+mathematics
+===========
+
+:: Description
+Featured is some aspect of number theory, algebra, geometry, or other type of
+study which is popularly categorized under the rubric of "mathematics".
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Mathematics
 
 
 mating behavior
@@ -28860,6 +28975,21 @@ https://en.wikipedia.org/wiki/Psychological_stress
 coping with stress
 
 
+psychology
+==========
+
+:: Description
+Psychology is the science of mind and behavior. Psychology includes the study
+of conscious and unconscious phenomena, as well as feeling and thought. This
+theme is used whenever a topic in this science is notably featured.
+
+:: Parents
+modern science
+
+:: References
+https://en.wikipedia.org/wiki/Psychology
+
+
 psychopathic criminal in society
 ================================
 
@@ -30429,17 +30559,17 @@ robot prizefighter
 ==================
 
 :: Description
-There is a robot, perhaps less than sentient, whose purpose is to take
-part in pre-arranged and rule-bound combat competitions.
+There is a robot, perhaps less than sentient, whose purpose is to take part in
+pre-arranged and rule-bound combat competitions.
 
 :: Parents
 artificial intelligence
 
 :: Examples
-In tz1959e5x02 "Steel", the story is set in a near future when regular
-boxing has been deemed to violent for humans to partake in. Instead
-ever more sophisticated androids fight in the ring for the
-entertainment of human crowds.
+In tz1959e5x02 "Steel", the story is set in a near future when regular boxing
+has been deemed to violent for humans to partake in. Instead ever more
+sophisticated androids fight in the ring for the entertainment of human
+crowds.
 
 :: Aliases
 robot boxer, combat sports robot, robot fighter
@@ -30631,20 +30761,20 @@ romanticization of the past
 ===========================
 
 :: Description
-Featured is the idea that we sometimes remember periods from the past
-as having been more idyllic or appealing relative to the present, than
-was actually the case.
+Featured is the idea that we sometimes remember periods from the past as
+having been more idyllic or appealing relative to the present, than was
+actually the case.
 
 :: Parents
 remembering bygone days
 
 :: Examples
-In tz1959e4x15 "The Incredible World of Horace Ford", the genial but
-childish toymaker Horace Ford became bored with the present and started
-dreaming of his childhood. After going back in time and reliving an
-episode of bullying, however, he realized that things had not been
-nearly as great as his recent fantasies had made them out to be. His 
-mother also spoke of family strife during the time in question.
+In tz1959e4x15 "The Incredible World of Horace Ford", the genial but childish
+toymaker Horace Ford became bored with the present and started dreaming of his
+childhood. After going back in time and reliving an episode of bullying,
+however, he realized that things had not been nearly as great as his recent
+fantasies had made them out to be. His mother also spoke of family strife
+during the time in question.
 
 
 roommate and roommate
@@ -33709,6 +33839,27 @@ some interesting respect.
 
 :: Parents
 speculative fiction theme
+
+
+speculative subliminal stimuli
+==============================
+
+:: Description
+There is a fanciful notion of what may be achieved using communication where
+at least part of the intended message passes beneath the recipient's threshold
+for conscious perception. Typically, a character is manipulated by the clever
+insertion of imperceptible cues in the audio or video they see.
+
+:: Parents
+crackpot theory
+
+:: Examples
+In "Max Headroom: 20 Minutes into the Future" (1985), the Network 23
+television network used a new form of subliminal advertising, called
+blibverts, to prevent their viewers from channel surfing.
+
+:: References
+https://en.wikipedia.org/wiki/Subliminal_stimuli
 
 
 speculative suit
@@ -37399,6 +37550,25 @@ human idea about life
 https://en.wikipedia.org/wiki/Frugality
 
 
+the importance of faith
+=======================
+
+:: Description
+The idea is put forth that (more or less blind) faith in one thing or another,
+is a human quality that is important for a good life and a functioning
+society.
+
+:: Parents
+human idea about life
+
+:: Examples
+In tz1959e5x07 "The Old Man in the Cave", we saw how the sagacious Mr.
+Goldsmith had been able to shepherd his village flock by appealing to a
+mysterious "old man in the cave", from who he got sound advice. When it was
+revealed that the old man was in fact a cold hearted computer, the villagers
+lost faith and destroyed it. As a consequence, they all died.
+
+
 the importance of not displaying weakness
 =========================================
 
@@ -38879,27 +39049,6 @@ romanticized ideas of secret agents as heroes.
 https://en.wikipedia.org/wiki/Espionage
 
 
-directed panspermia
-===================
-
-:: Description
-A species influences the development of life on other planets by
-interceding early in the evolutionary process (possibly before
-biological molecules first appeared) and then letting nature take its
-course.
-
-:: Parents
-space colonization
-
-:: References
-https://en.wikipedia.org/wiki/Directed_panspermia
-
-:: Examples
-In tz1985e1x15b "A Small Talent for War", an alien told some United
-Nations delegates that his people had seeded Earth, along with millions
-of other worlds, with life.
-
-
 the ship Titanic
 ================
 
@@ -38943,6 +39092,22 @@ sports
 :: References
 https://en.wikipedia.org/wiki/Professional_boxing
 https://en.wikipedia.org/wiki/Amateur_boxing
+
+
+the stupidity of crowds
+=======================
+
+:: Description
+Presented is the idea that flocks of people acting in unison often end up
+acting with remarkable baseness and folly.
+
+:: Parents
+human idea about life
+
+:: Examples
+In tz1959e5x07 "The Old Man in the Cave", townspeople disillusioned of the
+old-man-in-a-cave myth irrationally smashed to smithereens their only hope of
+salvation: a powerful computer.
 
 
 the supernatural
@@ -39043,23 +39208,22 @@ the thrill is in the chase
 ==========================
 
 :: Description
-Featured is the idea that life is often more exciting while one tries
-to accomplish something, than it is once that goal has been achieved.
-Sometimes that excitement may seem more valuable than the utility of
-whatever the goal was.
+Featured is the idea that life is often more exciting while one tries to
+accomplish something, than it is once that goal has been achieved. Sometimes
+that excitement may seem more valuable than the utility of whatever the goal
+was.
 
 :: Parents
 human idea about life
 
 :: Examples
-In tz1959e4x14 "Of Late I Think of Cliffordville", the business tycoon
-Mr. Feathersmith had just finished diminishing his last major rival and
-considered that his empire was now everything it possibly could be. The
-satisfaction soon waned, however and he turned to the bottle while
-reminiscing on how much more fun it had been facing the various
-challenges in the early days of his career. When the Devil appeared to
-offer him a chance to do it over again, Mr. Feathersmith jumped on the
-opportunity.
+In tz1959e4x14 "Of Late I Think of Cliffordville", the business tycoon Mr.
+Feathersmith had just finished diminishing his last major rival and considered
+that his empire was now everything it possibly could be. The satisfaction soon
+waned, however and he turned to the bottle while reminiscing on how much more
+fun it had been facing the various challenges in the early days of his career.
+When the Devil appeared to offer him a chance to do it over again, Mr.
+Feathersmith jumped on the opportunity.
 
 
 the thrill of danger
@@ -44132,6 +44296,18 @@ https://en.wikipedia.org/wiki/Witchcraft
 
 :: Related Themes
 old woman as a witch stereotype
+
+
+wilderness survival
+===================
+
+:: Description
+A character must survive somewhere in nature for an extended time, more or
+less alone  with little or no technology or access to the amenities of a large
+community.
+
+:: Parents
+human vs. nature
 
 
 wish-granting being
