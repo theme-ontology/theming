@@ -5165,29 +5165,28 @@ a matter of life and death.
 Directed by: Alan Crosland, Jr. Story by: Earl Hamner, Jr.
 
 :: Ratings
-2 <paul*>,
+2 <paul>,
 3 <mikael>,
 
 :: Choice Themes
 
 :: Major Themes
 the entertainment industry [The Hollywood starlet Bunny made a surprise visit to her sleepy hometown.],
-sister and sister [Hildy was visited her celebrity sister Bunny and the pair disussed about things past and present.],
+sister and sister [Hildy was visited her celebrity sister Bunny and the pair discussed about things past and present.],
 magic object [Bunny came into possession of a ring which granted her visions of some sort.],
-pride in an achievement [Bunny was, perhaps excessively, proud of having made it in Hollywood],
-attitude of superiority [FD at the very least Bunny expected the whole town to rearrange its plans on her whim],
-what if I caught a glimpse of the future [Bunny's magic ring showed her an impending disaster] <for discussion>,
-magic ring [FD],
-ghost [FD it transpires that the Bunny we had been looking at was some sort of spirit or projection - the details were left deliberately ambiguous],
+pride in an achievement [Bunny was, perhaps excessively, proud of having made it in Hollywood.],
+what if I caught a glimpse of the future [Bunny's magic ring told her of an impending plane crash.],
+ghost [It transpires that the Bunny we had been looking at was some sort of spirit or projection - the details were left deliberately ambiguous.],
 
 :: Minor Themes
 mother and son [Hildy and her adolescent son Bud.],
 aunt and niece [Bud welcomed his celebrity aunt Bunny with open arms upon Bunny's surprise visit to her hometown.],
 the medical professions [Dr. Floyd pronounced Bunny to be exhausted and wrote her up a prescription.],
 coping with being famous [Bunny's excuse for wanting the town picnic postponed was that she would get too much attention from strangers to be able to socialize with her old friends.],
+attitude of superiority [Bunny was accused of expecting the whole town to rearrange its plans on her whim.],
 selfishness [Dr. Floyd interpreted Bunny's request to postpone the town picnic on her account to be a sign that she'd been spoiled by her Hollywood lifestyle.],
 the desire to advance one's career [Bunny confided in Bud that she'd left their sleepy hometown out of a desire to fulfill her potential in Hollywood.],
-what if I told the truth and nobody would believe me [FD],
+what if I told the truth and nobody would believe me [Bunny didn't even bother to tell the townspeople of her foreknowledge that an airplane was going to crash into their town picnic, presumably because she just assumed that nobody would believe her story.],
 
 
 tz1959e5x14
@@ -5212,22 +5211,19 @@ Directed by: John Brahm. Story by: Earl Hamner, Jr.
 4 <mikael>,
 
 :: Choice Themes
-what if I killed someone by accident [this was a typical story about someone who caused a sever accident and ran from the law in panic - as it happens the victim did die in the end but thinking this theme would apply even if he had recovered from his critical condition],
-coping with having injured someone [FD Ollie seemed to car only about himself, not the boy],
+what if I killed someone by accident [This was a typical story about someone who caused a sever accident and ran from the law in panic - as it happens the victim did die in the end but thinking this theme would apply even if he had recovered from his critical condition.],
 
 :: Major Themes
-hit-and-run accidents in society [The perpetrator of a fatal hit-and-run was hounded by the car he
-committed the crime with.],
+dangerous driving in society [Oliver ran into a paper boy while he was nervous and distracted at the wheel.],
 husband and wife [Oliver and Lilian Pope.],
 inanimate object come to life [Oliver's Ford Fairlane Club Sedan started behaving with a sense of agency after Oliver slammed into a young boy without stopping while at it's wheel.],
-murder in society [] <for discussion>,
-dangerous driving in society [FD Oliver ("Ollie") Pope is an office manager who is nervous and distracted; his mind is not on his driving.],
-haunted vehicle [after causing a fatal car accident, Oliver's car began to act with a will of its own and haunted Ollie until he was scared enough to confess],
+haunted vehicle [After causing a fatal car accident, Oliver's car began to act with a will of its own and haunted Ollie until he was scared enough to confess.],
+human vs. inexplicable adversity [The Popes were perplexed and at a loss to explain why their car started acting with a will of its own.],
 
 :: Minor Themes
 coping with stress at work [The idea that Pete was "bucking" for Oliver's position of office manager was causing Oliver to fret.],
 law enforcement [Pete was pulled over by a motorcycle cop and arrested for a hit-and-run that he didn't commit.],
-workplace rivalry [Oliver thought Pete was maneuvering to usurp his position],
+workplace rivalry [Oliver thought Pete was maneuvering to usurp his position.],
 
 
 tz1959e5x15
@@ -5259,17 +5255,16 @@ ironic twist of fate [The young lovers Douglas and Sandra did not wish for Dougl
 :: Major Themes
 interstellar space travel [Commander Douglas Stansfield was sent on a pioneering mission to explore a planetary system roughly 141 light-years from Earth.],
 suspended animation [Douglas was supposed to have been put into stasis for the better part of his 40 year mission to another star system, but he turned it off six months into the flight, so that he'd physically aged the full 40 years by the time he returned to Earth. Sandra put herself into stasis for a period of 40 years.],
-love at first sight [Douglas and Sandra fell passionately in love with each other withing hours of having met for the firs time.],
-the scientist profession [Dr. Bixler was a scientist who recruited and coached Douglas],
-tragic love [FD],
-star-crossed lovers [FD],
-long-distance relationship [FD],
-sacrifice for a loved one [Douglas sacrificed his youth in order to be the same age as his love Sandra when he came back from his 40 year mission],
+the scientist profession [Dr. Bixler was a scientist who recruited and coached Douglas.],
+tragic love [Douglas and Sandra fell madly in love but fate intervened to wreck their prospects.],
+sacrifice for a loved one [Douglas sacrificed his youth in order to be the same age as his love Sandra when he came back from his 40 year mission.],
 
 :: Minor Themes
-sleeper spaceship [Douglas blasted off from Earth in a one-man rocketship that was designed so that he would spend the better part of his 40 year mission in suspended animation.],
-loneliness [the tedium of spending 40 years awake and alone is described as "inconceivable loneliness" (on Wikipedia)],
-space exploration [Douglas was sent to survey a planet 141 light years from Earth],
+love at first sight [Douglas and Sandra fell passionately in love with each other withing hours of having met for the firs time.],
+spaceship [Douglas blasted off from Earth in a one-man rocketship that was designed so that he would spend the better part of his 40 year mission in suspended animation.],
+loneliness [The tedium of Douglas spending 40 years awake and alone was described as "inconceivable loneliness".],
+space exploration [Douglas was sent to survey a planet roughly 141 light years from Earth.],
+long-distance relationship [Douglas and Sandra planned to keep up their relationship during his 40 year voyage into space, but things went awry when radio contact with his ship was lost.],
 
 
 tz1959e5x16
@@ -5302,13 +5297,13 @@ father and daughter [Mr. Maitland disapproved of his daughter Leah marrying the 
 unrequited love [Sal doggedly pursued Leah's hand in marriage even after she broke off their relationship, ultimately winning her over.],
 compassion [After giving Mr. Maitland $100,000 in exchange for his sense of compassion, Sal became an extraordinarily sensitive man.],
 ironic twist of fate [The hard-hearted young man Sal made a big mistake by giving old Mr. Maitland a large sum of money in exchange for his highly cultivated sense of compassion. For Sal was shot dead the next day by a now callous Mr. Maitland when the young man stopped by to apologize for what he had done.],
-what it is like to be a loser [Sal, while ambitious, was stuck in a go nowhere job and had little hopes of achieve his goals in life until such time as he discovered that he had a most unique ability. MO: minor?],
 
 :: Minor Themes
+what it is like to be a loser [Sal, while ambitious, was stuck in a go nowhere job and had little hopes of achieve his goals in life until such time as he discovered that he had a most unique ability.],
 coping with getting dumped [Sal wouldn't take no for an answer when Leah put her foot down and ended their relationship.],
 coping with a disability [Mr. Maitland was getting about his house in a wheelchair.],
 becoming a more emotionally sophisticated person [The hard-hearted young man Sal gave old Mr. Maitland a large sum of money in exchange for his highly cultivated sense of compassion.],
-be careful what you wish for [the old man with the cough regretted trading his affliction for Sal's hand injury],
+be careful what you wish for [The old man with the cough regretted trading his affliction for Sal's hand injury.],
 
 
 tz1959e5x17
@@ -5329,7 +5324,7 @@ of a set of physically attractive models.
 Directed by: Abner Biberman. Story by: Charles Beaumont and John Tomerlin.
 
 :: Ratings
-5 <paul>,
+5 <paul*>,
 4 <mikael>,
 
 :: Choice Themes
