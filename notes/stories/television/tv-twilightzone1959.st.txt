@@ -3268,7 +3268,7 @@ friendship [Charles and Ben had been friends since childhood.],
 cruelty [Charles walked into the middle of a game of kick-the-can and ruthlessly appropriated the can.],
 the role of the elderly in society [Charles was stuck in depressing retirement home into which old folks were put as a punishment for high age.],
 father and son [Charles was looking forward to moving out from the old folks home and into his son's house. But Charles was left feeling disappointed when his son broke the news that they had no room for him.],
-doctor and patient relationship [We saw the rather frosty and strained relationship between medical personal and inmates in a retirement home.],
+doctor and patient [We saw the rather frosty and strained relationship between medical personal and inmates in a retirement home.],
 coping with senility [Charles was said to have turned senile, after he started acting weird.],
 coping with a grumpy old coot [Ben was a grumpy old coot who didn't want to partake in silly games.],
 
@@ -5574,22 +5574,22 @@ with a dangerous, secretly centuries-old movie star.
 Directed by: John Brahm. Story by: Charles Beaumont.
 
 :: Ratings
-3 <mikael*>,
+3 <mikael>,
 3 <paul>,
 
 :: Choice Themes
 immortal secretly living among us [Pamela was able to transfer other peoples' youth into herself, thus staying young indefinitely.],
-the quest for immortality [Pamela had maintained her movie star looks for untold ages by transferring other peoples' life force into her.],
 
 :: Major Themes
+the quest for immortality [Pamela had maintained her movie star looks for untold ages by transferring other peoples' life force into her.],
 mother and daughter [Pamela coerced Mrs. Draper into pretending to be her mother, but it may well have been the other way around, or perhaps neither.],
 femme fatale [The editor described Constance and Pamela as femme fatales.],
 journalism [Chicago columnist Jordan Herrick was interviewing the actress Pamela Morris for a piece.],
-the entertainment industry [The movie star Pamela Morris.],
+the entertainment industry [The movie star Pamela Morris spoke about her career.],
 
 :: Minor Themes
 life force [Pamela used a special scarab beetle to transfer Jordan's life force into herself.],
-life force transfer [Pamela used a special scarab beetle to transfer Jordan's life force into herself.] <for discussion: an unpleasant duplication>,
+life force transfer [Pamela used a special scarab beetle to transfer Jordan's life force into herself.],
 
 
 tz1959e5x24
@@ -5614,25 +5614,28 @@ Directed by: Richard L. Bare. Story by: Martin M. Goldsmith.
 3 <paul>,
 
 :: Choice Themes
-husband and wife [Joe and Phyllis Britt were in an unhappy marriage.],
-disintegrating romantic relationship [A ever escalating quarrel between Joe and Phyllis culminated with Joe inadvertently defenestrating Phyllis.],
+disintegrating romantic relationship [An ever escalating quarrel between Joe and Phyllis culminated with Joe inadvertently defenestrating Phyllis.],
 
 :: Major Themes
+husband and wife [Joe and Phyllis Britt were in an unhappy marriage.],
 what if I caught a glimpse of the future [Joe's TV showed him accidentally killing his own wife in the future.],
 coping with having injured someone [Joe became bedridden after seeing a future in which he accidentally defenestrated his wife.],
 romantic infidelity [Phyllis got under Joe's skin by repeatedly confronting him about an affair that she was convinced he was having.],
+spouse murder [Joe got the chair for killing Phyllis in the midst of a barnyard style brawl. Phyllis threatened to attack Joe with a knife.],
 
 :: Minor Themes
 what if I saw a glimpse of the past [Joe was might befuddled when the TV started showing him scenes form his own past.],
-technician [We saw a TV repairman.],
 the medical professions [We saw an old family doctor visit the Britt's house to check on Joe.],
 coping with stress at work [Joe complained about the stress of driving a taxi.],
 matrimonial love [Joe proclaimed love for Phyllis who then blew a fuse.],
-spouse murder [Joe killed Phyllis in the midst of a barnyard style brawl. Phyllis threatened to attack Joe with a knife.],
 what it is like in a legal proceeding [We saw Joe sentenced to death on TV.],
 capital punishment [We saw Joe get electrocuted in The Chair.],
-ironic twist of fate [FD Joe saw himself killing his wife in the future, which made him proclaim his love for her, which made her turn nasty, which then made him kill her - a self fulfilling prophecy that seems rather ironic],
+ironic twist of fate [Joe saw himself killing his wife in the future, which made him proclaim his love for her, which made her turn nasty, which then made him kill her - a self fulfilling prophecy that seems rather ironic.],
 human addiction [Dr. Saltman was of the opinion that Joe had trouble distinguishing fantasy from reality as a result of an addiction to television.],
+
+:: Other Keywords
+TV repairman [We saw a TV repairman.],
+taxi driver [Joe drove a taxi for a living.],
 
 
 tz1959e5x25
@@ -5656,16 +5659,12 @@ Directed by: Ida Lupino. Story by: Rod Serling.
 4 <mikael>,
 4 <paul>,
 
-:: Choice Themes
-coping with a greedy heir [Dying Jason Foster was waited on by four family members who couldn't see him go soon enough.],
-
 :: Major Themes
+coping with a greedy heir [Dying Jason Foster was waited on by four family members who couldn't see him go soon enough.],
 the lust for gold [Wilfred got the mask of greed and avarice, and got a face to match. All four of Jason's putative heirs were greedy.],
 facing death [Jason Foster was given but hours to live.],
-coping with a terminal illness [Jason Foster was dying of heart failure.] <for discussion>,
 vanity [Paula was preoccupied only with her own image and got a face to match.],
 female vanity [Paula was preoccupied only with her own image and got a face to match.],
-sadism [Wilfred Jr. had liked to torture small animals and got a face to match.],
 cowardice [Emily got the mask of cowardice and got a face to match.],
 father and daughter [Emily was waiting for her wealthy father to kick the bucket so that she could collect her inheritance.],
 father-in-law and son-in-law [Jason chewed out his businessman son-in-law Wilfred for being a Philistine.],
@@ -5673,13 +5672,14 @@ grandfather and grandson [Jason and Wilfred Jr.],
 grandfather and granddaughter [Jason and Paula.],
 
 :: Minor Themes
+sadism [Wilfred Jr. had liked to torture small animals and got a face to match.],
 hypochondria [Jason called out Emily for always thinking she had an illness of some sort or another.],
-doctor and patient relationship [Dr. Thorne described his long acquaintanceship with Jason as his family doctor.],
+doctor and patient [Dr. Thorne described his long acquaintanceship with Jason as his family doctor.],
 husband and wife [Wilfred and Emily Harper.],
-mother and daughter [] <for discussion: PS didn't observe a single interaction between them to use in the comment.>,
+mother and daughter [Emily and Paula.],
 mother and son [Emily and Wilfred Jr.],
-father and son [] <for discussion>,
-brother and sister [] <for discussion>,
+father and son [Wilfred and Wilfred Jr.],
+brother and sister [Wilfred Jr. and Paula.],
 master and servant [Jason was wheeled into a room by his butler Geoffrey.],
 boredom [Paula complained of being bored while stuck inside during Mardi Gras.],
 
@@ -5706,7 +5706,7 @@ Directed by: Abner Biberman. Story by: Rod Serling.
 
 :: Choice Themes
 hatred in society [It seemed that especially hate filled places in the world got afflicted with perpetual darkness. There were various diatribes about hatred in society and the closing narration further involved hatred.],
-hatred [Jagger spoke of all the hate he felt; deputy was demonstratively hate filled] <for discussion>,
+hatred [Jagger spoke of all the hate he felt. The deputy was demonstratively hate filled.],
 
 :: Major Themes
 capital punishment [Jagger was about to be hanged for murder and then he was.],
@@ -5714,14 +5714,14 @@ murder in society [Jagger was hanged for having killed a racist bigot in self-de
 law enforcement [At the center of the story was a small town sheriff and his deputy.],
 pleasure in the misfortune of another [Charlie complained about gawkers getting a kick out of seeing a man hang. The crowd was later berated for being hateful.],
 human vs. inexplicable adversity [No one understood how the town could be in night when the rest of the country had daylight.],
-ethnic hatred [Jagger spoke of a "cross burning" man who had handled the whipping of a "colored guy".],
+facing one's own execution [A reporter interviewed Jagger before he was hanged, and there was some discussion in front of the gibbet.],
 
 :: Minor Themes
+ethnic hatred [Jagger spoke of a "cross burning" man who had handled the whipping of a "colored guy".],
 guilt and evidence [There was some question as to Jagger's guilt, and the sheriff berated himself for some investigative oversight. Later Jagger confessed but it was noted that the victim had been a rather nasty person (implying there could have been a question of self-defense or provocation).],
-facing one's own execution [A reporter interviewed Jagger before he was hanged, and there was some discussion in front of the gibbet.],
-religious occupation [A reverend had words with a condemned man.],
-journalism [There was a reporter who criticized the goings on at the site of the hanging.] <PS: knocked down to minor>,
+journalism [There was a reporter who criticized the goings on at the site of the hanging.],
 the religious end of the world [The reporter spoke of a "godly" woman who'd interpreted the perpetual night as a sign of the end of the world.],
+religious occupation [A reverend had words with a condemned man.],
 
 
 tz1959e5x27
@@ -5743,15 +5743,12 @@ Directed by: Richard Donner. Story by: Rod Serling.
 3 <mikael> [-1 because it was so noisy],
 4 <paul>,
 
-:: Choice Themes
-obsession [Roswell was obsessed with naval history to the extent that it became a serious problem for people around, and his wife left him.],
-
 :: Major Themes
+obsession [Roswell was obsessed with naval history to the extent that it became a serious problem for people around, and his wife left him.],
 super hearing [Roswell was afflicted with super hearing and didn't enjoy it one bit.],
 poetic justice [Roswell was obnoxiously loud. By an ironic twilight twist of fate his hearing became super sensitive and he learned first hand how disturbing noise can be. Then he practically lost his hearing altogether.],
 descent into madness [Roswell had been reasonably normal, said his wife, but now his obsession and noise making were intolerable. As she left him and his hearing started to change, he became increasingly unstable and in the end was committed.],
-husband and wife [Roswell's wife declared that she had had enough, and left him],
-what if I heard all the thoughts around me [FD for a moment it seemed Roswell heard his wife's thoughts.] <PS: knocked up>,
+husband and wife [Roswell's wife declared that she had had enough, and left him.],
 
 :: Minor Themes
 remembering bygone days [Roswell recalled his days in the navy, thanks to which he had become obsessed with moder maritime history and ran a company that sold model ships.],
@@ -5780,7 +5777,7 @@ confused with a similar episode starring Cliff Robertson as a ventriloquist,
 Directed by: Robert Butler. Story by: Adele T. Strassfield.
 
 :: Ratings
-4 <mikael>,
+4 <mikael*>,
 4 <paul>,
 
 :: Choice Themes
