@@ -86,25 +86,59 @@ the astronaut profession
 ========================
 
 :: Description
+There is a person trained by a spaceflight program to command, pilot, 
+or serve as a crew member of a spacecraft.
+
+:: Notes
+This theme is used with regard to astronautics that are relatively
+realistic in accordance with current technology. In science fiction,
+speculative technology often makes space flight very different from
+what we know today. This theme is notably not used if there is cryogenics,
+artificial gravity, or near light-speed travel.
 
 :: Parents
 human occupational activity
+
+:: Reference
+https://en.wikipedia.org/wiki/Astronaut
 
 
 conformist dystopia
 ===================
 
 :: Description
+There is a bleak society in which there is very little diversity because,
+one way or the other, people are prevented from developing their
+own distinctiveness. There may, for example, be an oppressive government 
+that persecutes deviants, or there may be some other social institution
+that makes people conform. It may be that people must conform in 
+appearance, way of acting, way of thinking, or all three.
 
 :: Parents
 dystopia
+
+:: Examples
+In tz1959e5x17 "Number 12 Looks Just Like You", we saw a society wherein
+everyone upon reaching adulthood were required to undergo a surgical alteration
+to transform them into one of a limited preset of physically perfect models.
+The procedure clearly affects the mind as well, and is likely maintained
+by a remote government in order to maintain conformity and order.
 
 
 music
 =====
 
 :: Description
-How best to appreciate music is discussed.
+Music is notably featured in the story. Typically, this is because there 
+is a musician, other music professional, or someone else who is very interested 
+in music.
+
+:: Notes
+As music is rather common in modern society, it is often present in unremarkable
+ways in the background of stories. It is generally not considered a theme
+just because a normal person briefly listens to music, or a radio is heard
+in the background. Nor is music automatically a theme when the story is told
+through song, such as in opera.
 
 :: Parents
 the fine arts and the humanities
