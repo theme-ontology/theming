@@ -5918,14 +5918,14 @@ The Twilight Zone.
 Directed by: Ted Post. Story by: Mike Korologos, Rod Serling.
 
 :: Ratings
-3 <mikael*> [a beer cost a nickel, yet people walked around with $1000 in their wallets?],
+3 <mikael> [a beer cost a nickel, yet people walked around with $1000 in their wallets?],
 3 <paul>,
 
 :: Choice Themes
 con artistry [Jared Garrity was a stereotypical confidence trickster who fooled a town into giving him money for not bringing back their dead.],
 
 :: Major Themes
-resurrection of the dead [Jared Garrity inadvertently raised those dead and buried on Boot Hill to life.] <for discussion: this is not just organized religion>,
+resurrection of the dead [Jared Garrity inadvertently raised those dead and buried on Boot Hill to life.],
 remembrance [The residents of Happiness, Arizona, remembered their late loved ones.],
 
 :: Minor Themes
@@ -5933,8 +5933,8 @@ murder in society [The barkeeper had shot his brother. Sheriff Gilchrist had sho
 husband and wife [Mr. Gooberman had had his arm repeatedly broken by his late wife Zelda.],
 brother and brother [The barkeeper spoke about his no-good brother.],
 law enforcement [The barkeeper spoke in glowing terms about Sheriff Gilchrist brought law and order to Happiness, Arizona.],
-grief [Mr. Gooberman shed alligator tears over departed wife Zelda.],
-domestic abuse [Mr. Gooberman's 247 pound wife Zelda had broken his arm so many times that he somehow developed a lisp.],
+grief [Mr. Gooberman shed alligator tears over his departed wife Zelda.],
+domestic violence [Mr. Gooberman's 247 pound wife Zelda had broken his arm so many times that he somehow developed a lisp.],
 cowardice [Sheriff Gilchrist's body language make clear that he's shot a notorious gunslinger in the back, rather than honorably confronting him.],
 
 
@@ -5958,22 +5958,23 @@ Directed by: Richard Donner. Story by: Rod Serling.
 5 <paul>,
 
 :: Choice Themes
-workers replaced by machines [Mr. Whipple wanted to replace tens of thousands of workers with an "X109B14 modified transistorized totally automatic assembly machine".] <alias: automation in society>,
+workers replaced by machines [Mr. Whipple wanted to replace tens of thousands of workers with an "X109B14 modified transistorized totally automatic assembly machine".],
 
 :: Major Themes
-human vs. technology [Mr. Hanley and others asserted that there were (unspecified) human qualities that machines could not have. Mr. Whipple upheld the various virtues of the machine (no health problems and inexpensive in upkeep).],
 cruelty [Mr. Whipple was an extraordinarily callous person with absolutely no regard for the people who had worked for him for decades.],
 poetic justice [Mr. Whipple, who had callously replaced all his workers with machines, was finally himself replaced by a robot.],
 boss and employee [We saw Mr. Whipple callously layoff one employee after another.],
-the need to be treated with respect [A newly laid off foreman forcefully explained to Mr. Whipple that men need work (presumably to to fulfill a basic need for dignity). Later Mr. Whipple was distraught when his own pink slip came and he was chucked out "like he was osme kind of a part".] <PS: this is the closest thing we have to a need for dignity theme>,
+the need to be treated with respect [A newly laid off foreman forcefully explained to Mr. Whipple that men need work (presumably to to fulfill a basic need for dignity). Later Mr. Whipple was distraught when his own pink slip came and he was chucked out "like he was some kind of a part".],
 
 :: Minor Themes
-anti-technology way of life [] <PS: doesn't apply but note alias: Luddism way of life>,
-compromising one's ethical principles for personal advantage [Mr. Whipple was chided for pursuing profit at the expense of human feeling.] <FD>,
+compromising one's ethical principles for personal advantage [Mr. Whipple was chided for pursuing profit at the expense of human feeling.],
 father and son [Mr. Whipple mentioned his father several times.],
-descent into madness [when Mr. Whipple had only one employee left he was noticeably disheveled; after firing the last one, he went insane and neurotic and was fired by the board] <For discussion: He kept himself together>,
+descent into madness [When Mr. Whipple had only one employee left he was noticeably disheveled; after firing the last one, he went insane and neurotic and was fired by the board.],
 early computer [Mr. Whipple's "X109B14 modified transistorized totally automatic assembly machine" resembled a 1960s era mainframe computer.],
 mechanical man [The last scene revealed that Mr. Whipple was replaced by a robot - actually Robby the Robot.],
+
+:: Not Themes
+human vs. technology [The machines were neutral, posing no direct danger to anyone.],
 
 
 tz1959e5x34
@@ -5997,17 +5998,16 @@ Directed by: Richard Donner. Story by: Anthony Wilson.
 2 <mikael>,
 
 :: Choice Themes
+music [Floyd Burney and Mary Rachel made beautiful folk music together.],
 
 :: Major Themes
-music [Floyd Burney and Mary Rachel made beautiful folk music together.],
-the entertainment industry [The folksinger Floyd Burney drove to a instrument shop out in the woods with the intention of purchasing the rights to a folk song to be recorded by him. MO: minor?],
 romantic love [Mary Rachel fell for Floyd and he promised to take her away with him to Norfolk.],
-love triangle [A rifle toting Billy Rayford confronted Floyd after word had spread that Floyd and his bride-to-be Mary Rachel were planning to skip off to Norfolk together.],
-the desire to advance one's career [FD Billy was in search of a new song to further his musical career],
+the desire to advance one's career [Billy was in search of a new song to further his musical career.],
 
 :: Minor Themes
-freedom of information vs. patent system [Floyd Burney was of the opinion that he wassn't obligated to pay any money for Mary Rachel's song on account that it was in the public domain.] <PS: rename to freedom of information in society? MO: having something about "copyright" would be good>,
-the desire for vengeance [the Rayford brothers sought vengeance on Floyd for killing one of them],
+the entertainment industry [The folksinger Floyd Burney drove to a instrument shop out in the woods with the intention of purchasing the rights to a folk song to be recorded by him.],
+intellectual property in society [Floyd Burney was of the opinion that he wasn't obligated to pay any money for Mary Rachel's song on account that it was in the public domain.],
+the desire for vengeance [The Rayford brothers sought vengeance on Floyd for killing one of them.],
 
 
 tz1959e5x35
@@ -6035,19 +6035,18 @@ fear [Robert and especially Charlotte conquered their fear and went out from the
 
 :: Major Themes
 extraterrestrial being [It turned out that Robert and Charlotte were being terrorized by two tiny space aliens.],
-human vs. inexplicable adversity [Robert and Charlotte were largely at a loss to explain what could be the cause of the strange things going on outside her cabin all night long.],
-courage [FD Robert's refusal to be afraid amounted to courage; in the end (strangely) he commended Charlotte on her intrepidness (she'd spit giant aliens in the eye if they came?)],
+Lilliputian being [Robert and Charlotte discovered the source of their plight to be two aliens no bigger than a man's thumb.],
+courage [Robert's refusal to be afraid amounted to courage. In the end (strangely) he commended Charlotte on her intrepidness (she'd spit giant aliens in the eye if they came?).],
+law enforcement [The Highway Patrol trooper Robert Franklin was dispatched to the remote mountain cabin of brooding New York City magazine editor Charlotte Scott and ended up spending the night there to investigate some strange happenings going on outside her cabin.],
+facing a home invader [Charlotte and Robert barricaded themselves indoors because there seemed to be a putative home invader on the loose.],
 
 :: Minor Themes
-law enforcement [The Highway Patrol trooper Robert Franklin was dispatched to the remote mountain cabin of brooding New York City magazine editor Charlotte Scott and ended up spending the night there to investigate some strange happenings going on outside her cabin.],
 flying saucer theory of UFOs [Charlotte and Robert entertained the possibility that some lights in the sky she'd see might have been an alien spaceship.],
 attitude of superiority [Robert, a rural Highway Patrol trooper, called out the New York City magazine editor Charlotte for being a snob.],
 rural character vs. urban character [The New York City magazine editor Charlotte spoke ill of her new "country bumpkin" neighbors to which the rural Highway Patrol trooper Robert took exception.],
 giant person [Robert and Charlotte encountered what by all appearances was a a 500-foot-tall alien with one eye, although it turned out to be only a balloon.],
-Lilliputian being [Robert and Charlotte discovered the source of their plight to be two aliens no bigger than a man's thumb.],
 flying saucer [Robert and Charlotte encountered a small flying saucer containing two aliens no bigger than a man's thumb.],
-coping with stress at work [Charlotte mentioned that she had had a nervous breakdown because of work pressure],
-facing a home invader [FD Charlotte and Robert barricaded themselves indoors because there seemed to be a putative home invader on the loose],
+coping with stress at work [Charlotte mentioned that she had had a nervous breakdown because of work pressure.],
 
 
 tz1959e5x36
@@ -6071,24 +6070,26 @@ Directed by: Joseph M. Newman. Story by: Earl Hamner, Jr.
 4 <mikael>,
 
 :: Choice Themes
-speculative habitat [FD there was a fantasy land that could be accessed by troubled children through swimming pools, chimneys, or the like],
+fantasy land [There was a fantasy land that could be accessed by troubled children through swimming pools, chimneys, or the like.],
 
 :: Major Themes
 child's need to be loved [The narrator spelled how Sport and Jeb found a happy fantasy land complete with a loving aunt out of a need for love that their parents had left unfilled.],
 divorce [Gil and Gloria Sharewood abruptly announced that they were getting divorced to their two kids, and coldly instructed them to choose which of them their wanted to live with.],
 brother and sister [Sport retreated with her little brother Jeb to Aunt T's idyllic fantasy world.],
 husband and wife [Gil and Gloria Sharewood were constantly bickering with each other.],
-parent and child [Gil and Gloria Sharewood's two kids preferred the company of the loving Aunt T to their constant bickering.],
+neglectful parent [Gil and Gloria Sharewood's two kids preferred the company of the loving Aunt T to their constant bickering.],
 coping with a failing marriage [Sport and Jeb had enough of their parents talk about divorce and retreated to an idyllic fantasy land.],
 magic portal [Sport and Jeb discovered a "door" at the bottom of their swimming pool which led to an idyllic fantasy land full of love.],
-the battle of the sexes [Gil thought Gloria should tend to the house, but she wanted to get a modeling job and not squander her talents],
-escape from reality [while their parents bickered, Sport and Jeb escaped into a fantasy land at the bottom of their swimming pool],
+escape from reality [While their parents bickered, Sport and Jeb escaped into a fantasy land at the bottom of their swimming pool.],
+where to make one's home [The choice of which parent to live with was abruptly thrust upon two kids, who promptly elected to jump into the pool instead. Upon jumping into the pool, they were transported to a fantasy land, and were faced with deciding if they wanted to live there or stay with one or the other of their parents.],
+what if I found myself in an alternate reality [Diving into the swimming pool, two kids unexpectedly found themselves in some sort of fantasy land.],
 
 :: Minor Themes
 mother and son [Gloria and Jeb.],
 mother and daughter [Gloria and Sport.],
 father and son [Gil and Jeb.],
 father and daughter [Gil and Sport.],
-where to make one's home [the choice of which parent to live with was abruptly thrust upon two kids, who promptly elected to jump into the pool instead],
-what if I found myself in an alternate reality [diving into the swimming pool, two kids unexpectedly found themselves in some sort of fantasy land],
+the battle of the sexes [Gil thought Gloria should tend to the house, but she wanted to get a modeling job and not squander her talents.],
+
+
 
