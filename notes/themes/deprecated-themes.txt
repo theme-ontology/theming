@@ -1,3 +1,106 @@
+musical machine interface
+=========================
+
+:: Description
+There is a machine which uses harmonious sequences of sound to interact with
+its user.
+
+:: Parents
+speculative device
+
+
+earthquake machine
+==================
+
+:: Description
+There is a machine that can be used to cause significant seismic events.
+
+:: Parents
+speculative device
+
+
+automatic butchering machine
+============================
+
+:: Description
+A machine that takes an whole animal and automatically butchers it into cuts
+of meat and so forth is featured.
+
+:: Parents
+speculative device
+
+
+asteroid deflector
+==================
+
+:: Description
+A device capable of protecting its host planet by deflecting incoming
+asteroids.
+
+:: Parents
+speculative device
+
+:: Examples
+After the Enterprise had spectacularly failed to divert the asteroid, Captain
+Kirk accidentally activated an ancient asteroid deflecting device on the
+planet's surface in tos3x03 "The Paradise Syndrome".
+
+:: References
+https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
+
+
+cure for obesity
+================
+
+:: Description
+A scientifically derived near-instant cure for obesity is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Obesity
+
+
+cure for tuberculosis
+=====================
+
+:: Description
+A scientifically derived cure for tuberculosis is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Tuberculosis
+
+
+cure for polio
+==============
+
+:: Description
+A scientifically derived cure for polio is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Poliomyelitis
+
+
+cure for acromegaly
+===================
+
+:: Description
+A scientifically derived cure for acromegaly is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Acromegaly
+
+
 artificial lungs
 ================
 

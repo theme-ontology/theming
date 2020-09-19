@@ -3095,25 +3095,6 @@ astronomy
 https://en.wikipedia.org/wiki/Asteroid_belt
 
 
-asteroid deflector
-==================
-
-:: Description
-A device capable of protecting its host planet by deflecting incoming
-asteroids.
-
-:: Parents
-speculative device
-
-:: Examples
-After the Enterprise had spectacularly failed to divert the asteroid, Captain
-Kirk accidentally activated an ancient asteroid deflecting device on the
-planet's surface in tos3x03 "The Paradise Syndrome".
-
-:: References
-https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
-
-
 asteroid impact
 ===============
 
@@ -3495,17 +3476,6 @@ form of government
 :: Examples
 In tz1985e1x21b "Red Snow", we saw the stereotypical workings of an autocratic
 regime, such as persecution of dissidents and banned art.
-
-
-automatic butchering machine
-============================
-
-:: Description
-A machine that takes an whole animal and automatically butchers it into cuts
-of meat and so forth is featured.
-
-:: Parents
-speculative device
 
 
 automatic surgery machine
@@ -4688,12 +4658,12 @@ brain implant
 
 :: Description
 There is a technological device that is implanted directly into someones
-brain. Note: This theme only applies when the implant results in a
-functionality that goes above and beyond what currently existing brain implant
-devices can provide.
+brain. This theme only applies when the implant results in a functionality
+that goes above and beyond what currently existing brain implant devices can
+provide.
 
 :: Parents
-brain-computer interface, human enhancement technology
+brain-computer interface, body implant
 
 :: References
 https://en.wikipedia.org/wiki/Brain_implant#In_fiction_and_philosophy
@@ -9919,19 +9889,6 @@ cure for an as yet uncurable disease
 https://en.wikipedia.org/wiki/Alzheimer%27s_disease
 
 
-cure for acromegaly
-===================
-
-:: Description
-A scientifically derived cure for acromegaly is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Acromegaly
-
-
 cure for an as yet uncurable disease
 ====================================
 
@@ -9998,32 +9955,6 @@ Indestructible Man (1956).
 https://en.wikipedia.org/wiki/Treatment_of_cancer
 
 
-cure for obesity
-================
-
-:: Description
-A scientifically derived near-instant cure for obesity is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Obesity
-
-
-cure for polio
-==============
-
-:: Description
-A scientifically derived cure for polio is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Poliomyelitis
-
-
 cure for the common cold
 ========================
 
@@ -10035,19 +9966,6 @@ cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Common_cold
-
-
-cure for tuberculosis
-=====================
-
-:: Description
-A scientifically derived cure for tuberculosis is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Tuberculosis
 
 
 curiosity killed the cat
@@ -11910,16 +11828,6 @@ Computer".
 
 :: References
 https://en.wikipedia.org/wiki/Computer
-
-
-earthquake machine
-==================
-
-:: Description
-There is a machine that can be used to cause significant seismic events.
-
-:: Parents
-speculative device
 
 
 earthquake prediction
@@ -24701,7 +24609,7 @@ There is an implant that lets someone else monitor the wearer's activities and
 experiences to a significant extent.
 
 :: Parents
-speculative device
+speculative device, body implant
 
 
 monogamy vs. single life
@@ -25082,17 +24990,6 @@ There is a being patterned after mushroom.
 
 :: Parents
 animal and plant patterned being
-
-
-musical machine interface
-=========================
-
-:: Description
-There is a machine which uses harmonious sequences of sound to interact with
-its user.
-
-:: Parents
-speculative device
 
 
 mutilation as punishment
@@ -29527,7 +29424,7 @@ one or more of our senses, typically the visual and auditory much like a
 camera.
 
 :: Parents
-speculative device
+speculative device, body implant
 
 
 red giant
