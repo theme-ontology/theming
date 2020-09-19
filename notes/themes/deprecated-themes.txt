@@ -1,3 +1,111 @@
+artificial lungs
+================
+
+:: Description
+Artificially created human lungs.
+
+:: Parents
+artificial organ
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_lung
+
+
+artificial gland
+================
+
+:: Description
+A device that can replace a gland in the body.
+
+:: Parents
+artificial organ
+
+:: Examples
+Charles Conway attempted to dramatically increase people's longevity by
+surgically installing artificial glands in their skulls in The Unearthly
+(1957).
+
+:: References
+https://en.wikipedia.org/wiki/Gland
+
+
+aging machine
+=============
+
+:: Description
+Featured is a machine that makes people age at an accelerated rate.
+
+:: Parents
+human enhancement technology
+
+
+nose transplant
+===============
+
+:: Description
+A procedure to restore a person's sense of smell via the transplantation of a
+nose is featured.
+
+:: Parents
+body part transplant
+
+
+colon transplant
+================
+
+:: Description
+There is a surgical procedure in which someone's colon is replaced by a colon
+which comes from a donor.
+
+:: Parents
+body part transplant
+
+:: Examples
+General Muñoz was transplanted with a fresh new colon in "The Resurrection of
+Zachary Wheeler" (1971).
+
+:: References
+https://en.wikipedia.org/wiki/Intestine_transplantation
+
+
+lung transplant
+===============
+
+:: Description
+There is a surgical procedure in which someone's lungs are replaced by lungs
+which come from a donor.
+
+:: Parents
+body part transplant
+
+:: Examples
+Zachary Wheeler was transplanted with a set of lungs that were harvested from
+a clone produced from his own DNA in "The Resurrection of Zachary Wheeler"
+(1971).
+
+:: References
+https://en.wikipedia.org/wiki/Lung_transplantation
+
+
+stomach transplant
+==================
+
+:: Description
+There is a surgical procedure in which someone's stomach is replaced by a
+stomach which comes from a donor.
+
+:: Parents
+body part transplant
+
+:: Examples
+General Muñoz was transplanted with a desperately needed colon just as soon as
+he agreed to prevent his Latin American country from nationalizing its oil
+industry in "The Resurrection of Zachary Wheeler" (1971).
+
+:: References
+https://en.wikipedia.org/wiki/Intestine_transplantation
+
+
 passion for languages
 =====================
 
