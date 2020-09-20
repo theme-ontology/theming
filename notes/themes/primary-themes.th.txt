@@ -170,6 +170,23 @@ https://en.wikipedia.org/wiki/Atlantis
 http://www.sf-encyclopedia.com/entry/atlantis
 
 
+Battle of the Little Bighorn
+============================
+
+:: Description
+The historical event known as the Battle of the Little Bighorn is featured.
+This battle, known to the Lakota and other Plains Indians as the Battle of the
+Greasy Grass and also commonly referred to as Custer's Last Stand, was an
+armed engagement between combined forces of the Lakota, Northern Cheyenne, and
+Arapaho tribes and the 7th Cavalry Regiment of the United States Army.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn
+
+
 Bermuda Triangle
 ================
 
@@ -1641,6 +1658,16 @@ against a Gorn captain in tos1x19 "The Arena".
 brains vs. brawn
 
 
+aging machine
+=============
+
+:: Description
+Featured is a machine that makes people age at an accelerated rate.
+
+:: Parents
+human enhancement technology
+
+
 aircraft hijacking in society
 =============================
 
@@ -2927,6 +2954,24 @@ https://en.wikipedia.org/wiki/Visual_prosthesis
 bionic eye
 
 
+artificial gland
+================
+
+:: Description
+A device that can replace a gland in the body.
+
+:: Parents
+artificial organ
+
+:: Examples
+Charles Conway attempted to dramatically increase people's longevity by
+surgically installing artificial glands in their skulls in The Unearthly
+(1957).
+
+:: References
+https://en.wikipedia.org/wiki/Gland
+
+
 artificial gravity technology
 =============================
 
@@ -2986,6 +3031,19 @@ sub-planetary-scale engineering, speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_island
+
+
+artificial lungs
+================
+
+:: Description
+Artificially created human lungs.
+
+:: Parents
+artificial organ
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_lung
 
 
 artificial organ
@@ -3093,6 +3151,25 @@ astronomy
 
 :: References
 https://en.wikipedia.org/wiki/Asteroid_belt
+
+
+asteroid deflector
+==================
+
+:: Description
+A device capable of protecting its host planet by deflecting incoming
+asteroids.
+
+:: Parents
+speculative device
+
+:: Examples
+After the Enterprise had spectacularly failed to divert the asteroid, Captain
+Kirk accidentally activated an ancient asteroid deflecting device on the
+planet's surface in tos3x03 "The Paradise Syndrome".
+
+:: References
+https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
 
 
 asteroid impact
@@ -3478,6 +3555,17 @@ In tz1985e1x21b "Red Snow", we saw the stereotypical workings of an autocratic
 regime, such as persecution of dissidents and banned art.
 
 
+automatic butchering machine
+============================
+
+:: Description
+A machine that takes an whole animal and automatically butchers it into cuts
+of meat and so forth is featured.
+
+:: Parents
+speculative device
+
+
 automatic surgery machine
 =========================
 
@@ -3795,6 +3883,22 @@ human self improvement
 :: Examples
 In tz1959e4x04 "He's Alive", Hitler extolled Peter to put sentimentality
 aside, to steel himself, to become a tougher person.
+
+
+becoming a more emotionally sophisticated person
+================================================
+
+:: Description
+A character struggles to improve on their own temperament in order to become a
+better person.
+
+:: Parents
+human self improvement
+
+:: Examples
+In tz1959e5x16 "The Self-Improvement of Salvadore Ross", the hard-hearted
+young man Sal gave old Mr. Maitland a large sum of money in exchange for the
+latter's highly cultivated sense of compassion.
 
 
 becoming a more self-assured person
@@ -4658,12 +4762,12 @@ brain implant
 
 :: Description
 There is a technological device that is implanted directly into someones
-brain. This theme only applies when the implant results in a functionality
-that goes above and beyond what currently existing brain implant devices can
-provide.
+brain. Note: This theme only applies when the implant results in a
+functionality that goes above and beyond what currently existing brain implant
+devices can provide.
 
 :: Parents
-brain-computer interface, body implant
+brain-computer interface, human enhancement technology
 
 :: References
 https://en.wikipedia.org/wiki/Brain_implant#In_fiction_and_philosophy
@@ -5423,6 +5527,25 @@ weapons of mass destruction
 
 :: References
 https://en.wikipedia.org/wiki/Desertion
+
+
+chemicals
+=========
+
+:: Description
+Artificially synthesized compounds (a.k.a. chemicals) are used for some novel
+purpose.
+
+:: Parents
+modern science
+
+:: Examples
+In the novel "Strange Case of Dr Jekyll and Mr Hyde" (1886), Dr. Henry Jekyll
+concocted a special serum out of chemicals that he used to transform himself
+into the evil Mr. Edward Hyde.
+
+:: References
+https://en.wikipedia.org/wiki/Chemistry
 
 
 child abuse
@@ -6194,6 +6317,24 @@ force of nature existential risk to civilization
 :: Examples
 Lazarus-A sacrificed himself to stop our universe from colliding with its
 parallel antimatter duplicate in tos1x20 "The Alternative Factor".
+
+
+colon transplant
+================
+
+:: Description
+There is a surgical procedure in which someone's colon is replaced by a colon
+which comes from a donor.
+
+:: Parents
+body part transplant
+
+:: Examples
+General Muñoz was transplanted with a fresh new colon  in "The Resurrection of
+Zachary Wheeler" (1971).
+
+:: References
+https://en.wikipedia.org/wiki/Intestine_transplantation
 
 
 colonialism
@@ -7020,6 +7161,28 @@ a rigid old "Herbert" in tos3x20 "The Way to Eden".
 
 :: References
 https://en.wikipedia.org/wiki/Conformity
+
+
+conformist dystopia
+===================
+
+:: Description
+There is a bleak society in which there is very little diversity because, one
+way or the other, people are prevented from developing their own
+distinctiveness. There may, for example, be an oppressive government that
+persecutes deviants, or there may be some other social institution that makes
+people conform. It may be that people must conform in appearance, way of
+acting, way of thinking, or all three.
+
+:: Parents
+dystopia
+
+:: Examples
+In tz1959e5x17 "Number 12 Looks Just Like You", we saw a society wherein
+everyone upon reaching adulthood were required to undergo a surgical
+alteration to transform them into one of a limited preset of physically
+perfect models. The procedure clearly affects the mind as well, and is likely
+maintained by a remote government in order to maintain conformity and order.
 
 
 confronting an old ghost
@@ -9554,6 +9717,22 @@ educational issue, sociocultural issue
 https://en.wikipedia.org/wiki/Creationism
 
 
+creative writing
+================
+
+:: Description
+A writer is engaged in writing original and creative works of poetry, novels,
+plays, etc. This is contrasted with, for example, scientific and journalistic
+writing where creativity has to be constrained by objective facts to a much
+greater extent.
+
+:: Parents
+the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Creative_writing
+
+
 crew's attachment to their ship
 ===============================
 
@@ -9889,6 +10068,19 @@ cure for an as yet uncurable disease
 https://en.wikipedia.org/wiki/Alzheimer%27s_disease
 
 
+cure for acromegaly
+===================
+
+:: Description
+A scientifically derived cure for acromegaly is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Acromegaly
+
+
 cure for an as yet uncurable disease
 ====================================
 
@@ -9955,6 +10147,32 @@ Indestructible Man (1956).
 https://en.wikipedia.org/wiki/Treatment_of_cancer
 
 
+cure for obesity
+================
+
+:: Description
+A scientifically derived near-instant cure for obesity is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Obesity
+
+
+cure for polio
+==============
+
+:: Description
+A scientifically derived cure for polio is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Poliomyelitis
+
+
 cure for the common cold
 ========================
 
@@ -9966,6 +10184,19 @@ cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Common_cold
+
+
+cure for tuberculosis
+=====================
+
+:: Description
+A scientifically derived cure for tuberculosis is featured.
+
+:: Parents
+cure for an as yet uncurable disease
+
+:: References
+https://en.wikipedia.org/wiki/Tuberculosis
 
 
 curiosity killed the cat
@@ -10910,26 +11141,6 @@ In X-men (2000), Cyclops emitted powerful beams of energy from his eyes that
 he could not control without the aid of special glasses.
 
 
-manipulation of evolution on a planet
-=====================================
-
-:: Description
-A species influences the development of life on other planets by interceding
-early in the evolutionary process (possibly before biological molecules first
-appeared) and then letting nature take its course.
-
-:: Parents
-planetary-scale engineering
-
-:: Examples
-In tz1985e1x15b "A Small Talent for War", an alien told some United Nations
-delegates that his people had seeded Earth, along with millions of other
-worlds, with life.
-
-:: References
-https://en.wikipedia.org/wiki/Directed_panspermia
-
-
 disapproving parent
 ===================
 
@@ -11830,6 +12041,16 @@ Computer".
 https://en.wikipedia.org/wiki/Computer
 
 
+earthquake machine
+==================
+
+:: Description
+There is a machine that can be used to cause significant seismic events.
+
+:: Parents
+speculative device
+
+
 earthquake prediction
 =====================
 
@@ -12080,6 +12301,25 @@ https://en.wikipedia.org/wiki/Mass_driver
 
 :: Aliases
 mass driver
+
+
+elemental being
+===============
+
+:: Description
+There is a personification of one of the four classical elements (i.e. earth,
+water, air, and fire).
+
+:: Parents
+legendary being
+
+:: Examples
+In the video game "Final Fantasy" (1987), it is up to the Light Warriors to
+retrieve the elemental orbs of earth, water, air, and fire by defeating their
+respective personifications in battle.
+
+:: References
+https://en.wikipedia.org/wiki/Elemental
 
 
 elf
@@ -14349,13 +14589,13 @@ There is a nation of, more or less, only women.
 :: Parents
 biased sex-ratio society
 
-:: References
-https://en.wikipedia.org/wiki/Single-gender_world#Female-only_worlds
-
 :: Examples
 In "Sexmission" (1984), two men woke up from a human hibernation experiment
 gone wrong to find themselves in a subterranean, all female society that arose
 out of the ashes of a nuclear holocaust.
+
+:: References
+https://en.wikipedia.org/wiki/Single-gender_world#Female-only_worlds
 
 
 femininity
@@ -20446,12 +20686,23 @@ https://en.wikipedia.org/wiki/Child_development
 juvenile
 
 
-intelligence boosting technology
-================================
+intelligence augmentation technology
+====================================
 
 :: Description
-There is technology, often wearable device, that significantly boosts mental
-acuity.
+There is technology by which an ordinary person can be transformed into a
+genius.
+
+:: Parents
+mind altering technology
+
+
+intelligence boosting device
+============================
+
+:: Description
+There is a device, often wearable, that boosts the mental acuity of its
+subject.
 
 :: Parents
 mind altering technology
@@ -22538,6 +22789,25 @@ superstition
 https://en.wikipedia.org/wiki/Good_luck_charm
 
 
+lung transplant
+===============
+
+:: Description
+There is a surgical procedure in which someone's lungs are replaced by lungs
+which come from a donor.
+
+:: Parents
+body part transplant
+
+:: Examples
+Zachary Wheeler was transplanted with a set of lungs that were harvested from
+a clone produced from his own DNA in "The Resurrection of Zachary Wheeler"
+(1971).
+
+:: References
+https://en.wikipedia.org/wiki/Lung_transplantation
+
+
 machine controlled society
 ==========================
 
@@ -23112,6 +23382,26 @@ https://en.wikipedia.org/wiki/Alraune#Legend
 https://en.wikipedia.org/wiki/Mandrake#Magic_and_witchcraft
 
 
+manipulation of evolution on a planet
+=====================================
+
+:: Description
+A species influences the development of life on other planets by interceding
+early in the evolutionary process (possibly before biological molecules first
+appeared) and then letting nature take its course.
+
+:: Parents
+planetary-scale engineering
+
+:: Examples
+In tz1985e1x15b "A Small Talent for War", an alien told some United Nations
+delegates that his people had seeded Earth, along with millions of other
+worlds, with life.
+
+:: References
+https://en.wikipedia.org/wiki/Directed_panspermia
+
+
 manners
 =======
 
@@ -23526,6 +23816,24 @@ matter manipulating technology
 
 :: References
 http://www.sf-encyclopedia.com/entry/transmutation
+
+
+mecha robot
+===========
+
+:: Description
+Featured is a giant, humanoid, mobile robot controlled by people.
+
+:: Parents
+speculative technology
+
+:: Examples
+The powerful "Gun Unit Heavy Elimination Device" (GUNHED) mecha was used by
+Brooklyn to foil a highly advanced AI's plans for world domination in "Gunhed"
+(1989).
+
+:: References
+https://en.wikipedia.org/wiki/Mecha
 
 
 mechanical insect
@@ -24598,7 +24906,7 @@ There is an implant that lets someone else monitor the wearer's activities and
 experiences to a significant extent.
 
 :: Parents
-speculative device, body implant
+speculative device
 
 
 monogamy vs. single life
@@ -24979,6 +25287,39 @@ There is a being patterned after mushroom.
 
 :: Parents
 animal and plant patterned being
+
+
+music
+=====
+
+:: Description
+Music is notably featured in the story. Typically, this is because there is a
+musician, other music professional, or someone else who is very interested in
+music.
+
+:: Parents
+the fine arts and the humanities
+
+:: Notes
+As music is rather common in modern society, it is often present in
+unremarkable ways in the background of stories. It is generally not considered
+a theme just because a normal person briefly listens to music, or a radio is
+heard in the background. Nor is music automatically a theme when the story is
+told through song, such as in opera.
+
+:: References
+https://en.wikipedia.org/wiki/Music_appreciation
+
+
+musical machine interface
+=========================
+
+:: Description
+There is a machine which uses harmonious sequences of sound to interact with
+its user.
+
+:: Parents
+speculative device
 
 
 mutilation as punishment
@@ -25472,6 +25813,17 @@ occur was comfounded by nonlineariries in tos3x09 "The Tholian Web".
 
 :: References
 https://en.wikipedia.org/wiki/Nonlinear_system
+
+
+nose transplant
+===============
+
+:: Description
+A procedure to restore a person's sense of smell via the transplantation of a
+nose is featured.
+
+:: Parents
+body part transplant
 
 
 nostalgia
@@ -29413,7 +29765,7 @@ one or more of our senses, typically the visual and auditory much like a
 camera.
 
 :: Parents
-speculative device, body implant
+speculative device
 
 
 red giant
@@ -32939,6 +33291,21 @@ speculative device
 https://en.wikipedia.org/wiki/Space_gun
 
 
+space library
+=============
+
+:: Description
+A library placed in space to keep it safe from the various dangers, social and
+environmental, that constantly threaten it on a planet.
+
+:: Parents
+engineered space structure
+
+:: Examples
+The Federation central library was located on a planetoid somewhere out in
+space. It was destroyed by the Zetarians in tos3x18 "The Lights of Zetar".
+
+
 space mirror
 ============
 
@@ -33824,6 +34191,24 @@ brought into contact with the lungs in tng1x14 "Angel One".
 https://en.wikipedia.org/wiki/Spontaneous_generation
 
 
+spontaneous human combustion
+============================
+
+:: Description
+A living (or recently deceased) human body erupts into flames without an
+apparent external source of ignition.
+
+:: Parents
+crackpot theory
+
+:: Examples
+People who David felt hostility toward had a funny habit of spontaneous
+combusting in the namesake film "Spontaneous Combustion" (1990).
+
+:: References
+https://en.wikipedia.org/wiki/Spontaneous_human_combustion
+
+
 spontaneous planetary break up
 ==============================
 
@@ -34192,6 +34577,25 @@ In tng4x09 "Final Mission", Ensign Wesley Crusher finds himself in a
 confoundingly tight spot without guidance as Captain Picard is gravely injured
 and their companion, Captain Dirgo, starts to lose his marbles. Wesley
 struggles to control his own insecurities and take command of the situation.
+
+
+stomach transplant
+==================
+
+:: Description
+There is a surgical procedure in which someone's stomach is replaced by a
+stomach which comes from a donor.
+
+:: Parents
+body part transplant
+
+:: Examples
+General Muñoz was transplanted with a desperately needed colon just as soon as
+he agreed to prevent his Latin American country from nationalizing its oil
+industry in "The Resurrection of Zachary Wheeler" (1971).
+
+:: References
+https://en.wikipedia.org/wiki/Intestine_transplantation
 
 
 struggling with a life-changing decision
@@ -36260,6 +36664,27 @@ is featured more or less in the whole.
 history
 
 
+the astronaut profession
+========================
+
+:: Description
+There is a person trained by a spaceflight program to command, pilot, or serve
+as a crew member of a spacecraft.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This theme is used with regard to astronautics that are relatively realistic
+in accordance with current technology. In science fiction, speculative
+technology often makes space flight very different from what we know today.
+This theme is notably not used if there is cryogenics, artificial gravity, or
+near light-speed travel.
+
+:: References
+https://en.wikipedia.org/wiki/Astronaut
+
+
 the astronomy profession
 ========================
 
@@ -36748,11 +37173,11 @@ engaged in their chosen occupation.
 :: Parents
 art related occupation
 
-:: Aliases
-show business, showbiz,
-
 :: References
 https://en.wikipedia.org/wiki/Show_business
+
+:: Aliases
+show business, showbiz,
 
 
 the ethics of interfering in less advanced societies
@@ -43776,6 +44201,18 @@ what it is like to be impoverished
 https://en.wikipedia.org/wiki/Homelessness
 
 
+what it is like to be impoverished
+==================================
+
+:: Description
+The general life and travails of someone who finds themself in a state of
+abject poverty is illustrated. Typically they are homeless and must live hand-
+to-mouth on the street doing odd-jobs or begging.
+
+:: Parents
+what life is like
+
+
 what it is like to be in a cult
 ===============================
 
@@ -43947,6 +44384,39 @@ human characters in contrast
 In "Snow White and the Seven Dwarfs" (1937), we see how the innocent and
 kindly princess Snow White is hunted by her wicked and villainous step-mother,
 the queen.
+
+
+wicked husband and virtuous wife stereotype
+===========================================
+
+:: Description
+We see a depiction of a married couple wherein the husband is a
+stereotypically bad character and the wife a stereotypically good one.
+
+:: Parents
+wicked character vs. virtuous character
+
+:: Examples
+Up until the end in talesoftheunexpected5x04 "Run Rabbit Run", former Nazi war
+collaborator Jacques was loud, lazy, mean, and domineering towards his wife
+Nathalie who appeared to be meek, loving, forgiving, and dutiful. Only at the
+very end we learn that that Nathalie finally had enough and got her own back.
+
+
+wicked wife and virtuous husband stereotype
+===========================================
+
+:: Description
+We see a depiction of a married couple wherein the wife is a stereotypically
+bad character and the husband a stereotypically good one.
+
+:: Parents
+wicked character vs. virtuous character
+
+:: Examples
+In tz1959e5x11 "A Short Drink from a Certain Fountain", Harmond was a kind and
+devoted older man with a cruel, selfish, and self-indulgent younger wife named
+Flora.
 
 
 wicked witch
