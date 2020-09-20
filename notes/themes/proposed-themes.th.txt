@@ -36,15 +36,6 @@ human occupational activity
 :: References
 
 
-hunting people for sport
-========================
-
-:: Description
-
-:: Parents
-blood sports
-
-
 intellectual property in society
 ================================
 
@@ -91,4 +82,575 @@ space tourism
 
 :: Parents
 speculative society
+
+
+
+
+what it is like in boarding school
+==================================
+
+:: Description
+We are shown what life may be like in an educational institution where young
+students both live and learn on the premises for whole semesters without
+leaving to go home.
+
+:: Parents
+what it is like in school
+
+:: References
+https://en.wikipedia.org/wiki/Boarding_school
+
+
+what it is like in high school
+==============================
+
+:: Description
+We are shown an idea of what things might be like for people (both student and
+staff) in a high school, or comparable institution.
+
+:: Parents
+what it is like in school
+
+
+what it is like in college
+==========================
+
+:: Description
+We are shown what life might be like for university students. Stereotypically
+this might involve fraternities, pranks on the Dean, spring breaks, etc.
+
+:: Parents
+what it is like in school
+
+
+what it is like in school
+=========================
+
+:: Description
+We are shown what life might be like for students in some institution 
+of learning.
+
+:: Parents
+what it is like in school
+
+
+
+
+the corporate world
+===================
+
+:: Description
+A characters who work in the bureaucracy of a corporation is engaged in
+this profession.
+
+:: Notes
+This typically means, businessmen, CEOs, board members, and sometimes 
+secretaries. It typically does not mean factory workers and janitors.
+
+:: Parents
+human occupational activity
+
+
+the military professions
+========================
+
+:: Description
+There is a character whose main occupation involves being part of 
+the armed forces of a putative state, or the like. This may, for example, 
+be because they work professionally as an officer or because they 
+are conscripted as privates.
+
+:: Parents
+human occupational activity
+
+
+the maritime professions
+========================
+
+:: Description
+There is a character whose main occupation involves crewing a vessel that
+transports people and goods via waterways, typically the seas.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
+
+
+librarian
+=========
+
+:: Description
+There is a character whose job it is to tend to the books in a library, or 
+the like.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In tz1959e2x29 "The Obsolete Man", Mr. Wordsworth was a dedicated librarian
+and therefore considered obsolete by the totalitarian state in which he
+had the misfortune to live.
+
+
+the teaching profession
+=======================
+
+:: Description
+There is a school teacher, or the like, engaged in their chosen profession.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Teacher
+
+
+the carpentry profession
+========================
+
+:: Description
+A character works professionally with creating things out of wood and
+related materials.
+
+:: Parents
+human occupational activity
+
+
+cooking
+=======
+
+:: Description
+A character is regularly engaged in preparing food for human consumption.
+Typically the character is either a professional cook, or sees cooking as a hobby.
+
+:: Parents
+human regular activity
+
+:: Examples
+Riker whipped up a batch of 'Owon egg omelets for a few selected members of
+the command crew in tng2x13 "Time Squared". Worf pronounced the omelets to be
+"delicious", but the others did not concur.
+
+
+gardening
+=========
+
+:: Description
+A character is notably and regularly engaged with the growing and 
+cultivating plants as part of horticulture. Typically the character 
+is either a professional gardener, or sees gardening as a hobby.
+
+:: Parents
+human regular activity
+
+:: Aliases
+horticulture, floriculture
+
+
+hunting
+=======
+
+:: Description
+A character is notably and regularly engaged with the chasing down and 
+dispatching wild animals. Typically the character is either a professional 
+hunter, or sees hunting as a hobby.
+
+:: Parents
+human regular activity
+
+
+
+
+acting
+======
+
+:: Description
+There is an actor or actress who performs a role in theater, film, etc.
+
+:: Parents
+the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Acting
+
+
+photography
+===========
+
+:: Description
+There is a character who likes to take a lot of pictures with a camera,
+either professionally or as a serious hobby.
+
+:: Parents
+the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Photography
+
+
+dancing
+=======
+
+:: Description
+There is a character who likes to wag about to the rhythms of music,
+either professionally or as a serious hobby.
+
+:: Parents
+the fine arts and the humanities
+
+:: Examples
+Beverly "the dancing doctor" got a kick out of teaching Data the art of tap
+dancing in tng4x11 "Data's Day".
+
+
+storytelling
+============
+
+:: Description
+A character regularly regales their audience with the telling of a story.
+
+:: Parents
+the fine arts and the humanities
+
+
+
+
+
+
+amateur radio
+=============
+
+:: Description
+A character is enthusiastic about the use of radio frequency spectrum
+transmission for non-commercial purposes.
+
+:: Parents
+recreational activity
+
+:: Examples
+Neighbors Bromley Cranston and Howard Marsden shared an interest in amateur
+radio in "Radio Mates" (1927).
+
+:: References
+https://en.wikipedia.org/wiki/Amateur_radio
+
+:: Aliases
+passion for ham radio
+
+
+classic films
+=============
+
+:: Description
+A character is enthusiastic about old movies of cultural significance.
+
+:: Parents
+recreational activity, the fine arts and the humanities
+
+
+collecting objects
+==================
+
+:: Description
+A character displays an enthusiasm for finding items to make their
+property as part of a collection of one sort or another.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Psychology_of_collecting
+
+
+gambling
+========
+
+:: Description
+A character takes pleasure in engaging in games of chance with money or
+other valuables at stake.
+
+:: Parents
+recreational activity
+
+:: Examples
+The Providers, a trio of disembodied brains, had a gambling problem to say the
+least in tos2x17 "The Gamesters of Triskelion".
+
+
+reading as a hobby
+==================
+
+:: Description
+A character is notably fond of reading books.
+
+:: Parents
+recreational activity
+
+:: Examples
+In tz1985e2x11a "Song of the Younger World", we heard that Amy, the
+superintendents daughter, liked to spend inordinate amounts of time reading in
+the reformatory's library. In an obscure tome she discovered the spell that
+saved her rapscallious lover and herself from her father's wrath.
+
+:: References
+https://en.wikipedia.org/wiki/Reading
+
+
+passion for video gaming
+========================
+
+:: Description
+A character is enthusiastic about playing video games.
+
+:: Parents
+recreational activity
+
+:: Examples
+Alex Rogan was determined to set the high score on an arcade game, called
+Starfighter, in "The Last Starfighter" (1984).
+
+
+interest in antiques
+====================
+
+:: Description
+The human predilection for engaging with old curios is illustrated.
+
+:: Parents
+human recreational activity
+
+:: Examples
+Geordi was keen to take a look at some Ktarian antiques on the Deep Space 9
+Promenade in tng6x16 "Birthright, Part I". He had heard there was a twenty-
+first century plasma coil in perfect condition for sale.
+
+
+pleasure in horseback riding
+============================
+
+:: Description
+The excitement some of us experience by engaging in equestrian escapades is
+examined.
+
+:: Parents
+recreational activity
+
+:: Examples
+Captain Picard shared his passion for riding Arabian horses with Troi on the
+holodeck in tng2x15 "Pen Pals".
+
+
+
+
+
+American football
+=================
+
+:: Description
+This team sport, played by two teams on a rectangular field with goalposts 
+at each end, is featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/American_football
+
+
+blood sports
+============
+
+:: Description
+There is a sport or entertainment that involves intentional bloodshed.
+Either animals or people are meant to be severely wounded during the activity.
+
+:: Notes
+Modern boxing and other sports that are violent but where the objective
+is neither to kill nor inflict serious injury, are classified as 
+"combat sports" instead.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Blood_sport
+
+
+hunting people for sport
+========================
+
+:: Description
+There is an organized sport-like activity that resembles game hunting 
+except that the targeted prey are people.
+
+:: Note
+This theme does not normally apply when warriors hunt down and kill their 
+enemies as part of a military campaign.
+
+:: Parents
+blood sports
+
+
+combat sports
+=============
+
+:: Description
+There is a sport, or martial art, that involves combat or mock combat
+under rules and constraints that are meant to prevent serious injury.
+
+:: Notes
+If serious injury is part of the objective then "blood sports" is used
+instead.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Combat_sport
+https://en.wikipedia.org/wiki/Martial_arts
+
+:: Aliases
+martial arts
+
+
+the game of darts
+=================
+
+:: Description
+Darts is a sport in which two or more players throw small missiles, also 
+known as darts, at a circular target, known as a "dartboard". This game
+or sport is featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Darts
+
+
+the game of pool
+================
+
+:: Description
+A cue sport, such as the game of pool, is featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Pool_(cue_sports)
+
+:: Aliases
+billiards, snooker
+
+
+
+
+passion for vehicles
+====================
+
+:: Description
+A character is excited by machines made for transporting people and things, 
+i.e., cars, boats, planes etc. Often the character is particularly interested 
+in speed and things that go fast.
+
+:: Parents
+human pleasure
+
+
+pleasure in nature
+==================
+
+:: Description
+Someone takes pointed satisfaction in scenes of serene natural beauty, or 
+is notably enthusiastic about one aspect or another of those parts of
+the environment on a world that are considered natural. Typically, such a
+character studies wild flora or fauna.
+
+:: Parents
+human pleasure
+
+:: Examples
+The whole crew in turns got to admire the beauty of the magical amusement
+planet now known as the "Shore Leave Planet" in tos1x17 "Shore Leave".
+
+In "Jaws" (1975), we saw two people, Hooper and Quinn, who were both
+extraordinarily interested in sharks and shark behavior.
+
+:: References
+https://en.wikipedia.org/wiki/Nature
+
+
+pleasure in violence
+====================
+
+:: Description
+The embarrassingly human predilection for battle and bloodshed is featured.
+
+:: Parents
+human pleasure
+
+:: Examples
+Data confessed that he had taken pleasure in chocking a Borg drone to death in
+tng6x26 "Descent, Part I".
+
+Captain Kirk took full advantage of the opportunity to beat the living tar out
+of a robot replica of his former tormenter Finnegan in tos1x17 "Shore Leave".
+
+
+pleasure in coffee
+==================
+
+:: Description
+A character takes great pleasure in preparing or imbuing the black heavenly
+nectar colloquially known as "coffee".
+
+:: Parents
+pleasure in eating
+
+
+pleasure in eating
+==================
+
+:: Description
+The natural human predilection for reveling in food far beyond nutritional
+necessity is illustrated.
+
+:: Parents
+human pleasure
+
+:: Examples
+Tomar of the Kelvan Empire enjoyed all the delicacies that the Enterprise
+replicator could offer in tos2x21 "By Any Other Name".
+
+
+pleasure in the misfortune of another
+=====================================
+
+:: Description
+A character feels pleasure, joy, or self-satisfaction from learning of or
+witnessing the troubles, failures, or humiliation of another character.
+
+:: Parents
+human emotion
+
+:: Notes
+To apply, it should be clear that the feeling is inspired solely by the
+other's misfortune, and is not the result of some secondary advantage gained
+by the first character. For example, if an enemy or competitor suffers
+misfortune it may be quite natural to feel joy because of the personal
+advantage this entails. Schadenfreude, then, does not apply.
+
+:: Examples
+tz1959e2x12 "Dust", the rather odious conman Sykes was gleeful at the prospect
+of Gallegos getting hanged, and tormented him relentlessly.
+
+:: Aliases
+schadenfreude
+
+
 
