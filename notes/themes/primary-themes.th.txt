@@ -1658,16 +1658,6 @@ against a Gorn captain in tos1x19 "The Arena".
 brains vs. brawn
 
 
-aging machine
-=============
-
-:: Description
-Featured is a machine that makes people age at an accelerated rate.
-
-:: Parents
-human enhancement technology
-
-
 aircraft hijacking in society
 =============================
 
@@ -2954,24 +2944,6 @@ https://en.wikipedia.org/wiki/Visual_prosthesis
 bionic eye
 
 
-artificial gland
-================
-
-:: Description
-A device that can replace a gland in the body.
-
-:: Parents
-artificial organ
-
-:: Examples
-Charles Conway attempted to dramatically increase people's longevity by
-surgically installing artificial glands in their skulls in The Unearthly
-(1957).
-
-:: References
-https://en.wikipedia.org/wiki/Gland
-
-
 artificial gravity technology
 =============================
 
@@ -3031,19 +3003,6 @@ sub-planetary-scale engineering, speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_island
-
-
-artificial lungs
-================
-
-:: Description
-Artificially created human lungs.
-
-:: Parents
-artificial organ
-
-:: References
-https://en.wikipedia.org/wiki/Artificial_lung
 
 
 artificial organ
@@ -3151,25 +3110,6 @@ astronomy
 
 :: References
 https://en.wikipedia.org/wiki/Asteroid_belt
-
-
-asteroid deflector
-==================
-
-:: Description
-A device capable of protecting its host planet by deflecting incoming
-asteroids.
-
-:: Parents
-speculative device
-
-:: Examples
-After the Enterprise had spectacularly failed to divert the asteroid, Captain
-Kirk accidentally activated an ancient asteroid deflecting device on the
-planet's surface in tos3x03 "The Paradise Syndrome".
-
-:: References
-https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
 
 
 asteroid impact
@@ -3553,17 +3493,6 @@ form of government
 :: Examples
 In tz1985e1x21b "Red Snow", we saw the stereotypical workings of an autocratic
 regime, such as persecution of dissidents and banned art.
-
-
-automatic butchering machine
-============================
-
-:: Description
-A machine that takes an whole animal and automatically butchers it into cuts
-of meat and so forth is featured.
-
-:: Parents
-speculative device
 
 
 automatic surgery machine
@@ -6306,24 +6235,6 @@ force of nature existential risk to civilization
 :: Examples
 Lazarus-A sacrificed himself to stop our universe from colliding with its
 parallel antimatter duplicate in tos1x20 "The Alternative Factor".
-
-
-colon transplant
-================
-
-:: Description
-There is a surgical procedure in which someone's colon is replaced by a colon
-which comes from a donor.
-
-:: Parents
-body part transplant
-
-:: Examples
-General Muñoz was transplanted with a fresh new colon  in "The Resurrection of
-Zachary Wheeler" (1971).
-
-:: References
-https://en.wikipedia.org/wiki/Intestine_transplantation
 
 
 colonialism
@@ -10057,19 +9968,6 @@ cure for an as yet uncurable disease
 https://en.wikipedia.org/wiki/Alzheimer%27s_disease
 
 
-cure for acromegaly
-===================
-
-:: Description
-A scientifically derived cure for acromegaly is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Acromegaly
-
-
 cure for an as yet uncurable disease
 ====================================
 
@@ -10136,32 +10034,6 @@ Indestructible Man (1956).
 https://en.wikipedia.org/wiki/Treatment_of_cancer
 
 
-cure for obesity
-================
-
-:: Description
-A scientifically derived near-instant cure for obesity is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Obesity
-
-
-cure for polio
-==============
-
-:: Description
-A scientifically derived cure for polio is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Poliomyelitis
-
-
 cure for the common cold
 ========================
 
@@ -10173,19 +10045,6 @@ cure for an as yet uncurable disease
 
 :: References
 https://en.wikipedia.org/wiki/Common_cold
-
-
-cure for tuberculosis
-=====================
-
-:: Description
-A scientifically derived cure for tuberculosis is featured.
-
-:: Parents
-cure for an as yet uncurable disease
-
-:: References
-https://en.wikipedia.org/wiki/Tuberculosis
 
 
 curiosity killed the cat
@@ -12004,16 +11863,6 @@ Computer".
 
 :: References
 https://en.wikipedia.org/wiki/Computer
-
-
-earthquake machine
-==================
-
-:: Description
-There is a machine that can be used to cause significant seismic events.
-
-:: Parents
-speculative device
 
 
 earthquake prediction
@@ -20630,23 +20479,12 @@ https://en.wikipedia.org/wiki/Child_development
 juvenile
 
 
-intelligence augmentation technology
-====================================
+intelligence boosting technology
+================================
 
 :: Description
-There is technology by which an ordinary person can be transformed into a
-genius.
-
-:: Parents
-mind altering technology
-
-
-intelligence boosting device
-============================
-
-:: Description
-There is a device, often wearable, that boosts the mental acuity of its
-subject.
+There is technology, perhaps wearable, by which an ordinary person can be
+transformed into a genius.
 
 :: Parents
 mind altering technology
@@ -22691,25 +22529,6 @@ superstition
 
 :: References
 https://en.wikipedia.org/wiki/Good_luck_charm
-
-
-lung transplant
-===============
-
-:: Description
-There is a surgical procedure in which someone's lungs are replaced by lungs
-which come from a donor.
-
-:: Parents
-body part transplant
-
-:: Examples
-Zachary Wheeler was transplanted with a set of lungs that were harvested from
-a clone produced from his own DNA in "The Resurrection of Zachary Wheeler"
-(1971).
-
-:: References
-https://en.wikipedia.org/wiki/Lung_transplantation
 
 
 machine controlled society
@@ -25219,17 +25038,6 @@ Enterprise-D in tng6x19 "Lessons".
 https://en.wikipedia.org/wiki/Music_appreciation
 
 
-musical machine interface
-=========================
-
-:: Description
-There is a machine which uses harmonious sequences of sound to interact with
-its user.
-
-:: Parents
-speculative device
-
-
 mutilation as punishment
 ========================
 
@@ -25721,17 +25529,6 @@ occur was comfounded by nonlineariries in tos3x09 "The Tholian Web".
 
 :: References
 https://en.wikipedia.org/wiki/Nonlinear_system
-
-
-nose transplant
-===============
-
-:: Description
-A procedure to restore a person's sense of smell via the transplantation of a
-nose is featured.
-
-:: Parents
-body part transplant
 
 
 nostalgia
@@ -33149,21 +32946,6 @@ speculative device
 https://en.wikipedia.org/wiki/Space_gun
 
 
-space library
-=============
-
-:: Description
-A library placed in space to keep it safe from the various dangers, social and
-environmental, that constantly threaten it on a planet.
-
-:: Parents
-engineered space structure
-
-:: Examples
-The Federation central library was located on a planetoid somewhere out in
-space. It was destroyed by the Zetarians in tos3x18 "The Lights of Zetar".
-
-
 space mirror
 ============
 
@@ -34436,25 +34218,6 @@ In tng4x09 "Final Mission", Ensign Wesley Crusher finds himself in a
 confoundingly tight spot without guidance as Captain Picard is gravely injured
 and their companion, Captain Dirgo, starts to lose his marbles. Wesley
 struggles to control his own insecurities and take command of the situation.
-
-
-stomach transplant
-==================
-
-:: Description
-There is a surgical procedure in which someone's stomach is replaced by a
-stomach which comes from a donor.
-
-:: Parents
-body part transplant
-
-:: Examples
-General Muñoz was transplanted with a desperately needed colon just as soon as
-he agreed to prevent his Latin American country from nationalizing its oil
-industry in "The Resurrection of Zachary Wheeler" (1971).
-
-:: References
-https://en.wikipedia.org/wiki/Intestine_transplantation
 
 
 struggling with a life-changing decision
