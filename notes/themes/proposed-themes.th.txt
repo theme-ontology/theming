@@ -413,8 +413,8 @@ saved her rapscallious lover and herself from her father's wrath.
 https://en.wikipedia.org/wiki/Reading
 
 
-passion for video gaming
-========================
+video gaming
+============
 
 :: Description
 A character is enthusiastic about playing video games.
@@ -457,7 +457,19 @@ Captain Picard shared his passion for riding Arabian horses with Troi on the
 holodeck in tng2x15 "Pen Pals".
 
 
+tabletop games
+==============
 
+:: Description
+Featured is one of those games that is normally played on a table or other 
+flat surface, such as board games, card games, dice games, miniature 
+wargames, or tile-based games.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Tabletop_game
 
 
 American football
@@ -560,6 +572,37 @@ https://en.wikipedia.org/wiki/Pool_(cue_sports)
 :: Aliases
 billiards, snooker
 
+
+cricket
+=======
+
+:: Description
+Cricket is a bat-and-ball game played between two teams of eleven players 
+on a field at the centre of which is a 22-yard (20-metre) pitch with a 
+wicket at each end, each comprising two bails balanced on three stumps.
+This game is featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Cricket
+
+:: Aliases
+billiards, snooker
+
+
+motor sports
+============
+
+:: Description
+There is a sport which notably involves the use of motorised vehicles. 
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Motorsport
 
 
 
@@ -668,67 +711,6 @@ schadenfreude
 
 
 
-fall from grace
-===============
-
-:: Description
-A previously honored character finds themself out of favor, with a loss of
-status and prestige, for one reason or another.
-
-:: Parents
-extraordinary experience
-
-:: References
-https://en.wikipedia.org/wiki/Fall_from_grace
-
-
-what it is like in a psychiatric institution
-============================================
-
-:: Description
-Someone experiences living as a patient in an insane asylum.
-
-:: Parents
-what life is like
-
-:: Examples
-Nefarious aliens made Riker believe he might live out his life in an insane
-asylum on Tilonus IV in tng6x21 "Frame of Mind"
-
-
-loser character
-===============
-
-:: Description
-There is a stereotypical loser-like character with attributes like a dead-end
-job, no useful education, poor social relations etc.
-
-:: Parents
-human character stereotype
-
-
-struggling artist character
-===========================
-
-:: Description
-There is an aspiring painter, musician, or other performer of the fine arts 
-who has not (yet) acquired sufficient patronage to sustain themselves in 
-their chosen profession.
-
-:: Parents
-human character stereotype
-
-:: Notes
-This theme does not apply to kids who live with their family and are not yet
-expected to sustain themselves.
-
-:: Examples
-In talesoftheunexpected4x11 "Kindly Dig Your Grave", Graham is a talented
-young painter but not much of a negotiator. He is ruthlessly exploited by the
-Madam La Grue, and struggles to turn every one of the few pennies she
-condescends to give him for his work.
-
-
 psychoactive drug experience
 ============================
 
@@ -766,6 +748,71 @@ a remote island in "Matango: Attack of the Mushroom People" (1963).
 https://en.wikipedia.org/wiki/Psychedelic_experience
 
 
+rise to prominence from humble beginnings
+=========================================
+
+:: Description
+A character who has little or no particular social status at birth rises to a
+prominent position, usually due to their talents and hard work.
+
+:: Parents
+extraordinary experience
+
+:: Examples
+Bill and Margaret Weldon spent a giddy night imagining all the things they
+would buy after having signed a big contract to market a razor-less shaving
+cream in "Her Husband's Affairs" (1947).
+
+:: Aliases
+from rags to riches,
+
+
+fall from grace
+===============
+
+:: Description
+A previously honored character finds themself out of favor, with a loss of
+status and prestige, for one reason or another.
+
+:: Parents
+extraordinary experience
+
+:: References
+https://en.wikipedia.org/wiki/Fall_from_grace
+
+
+from zero to hero
+=================
+
+:: Description
+A meek character develops into a heroic one.
+
+:: Parents
+extraordinary experience
+
+:: Examples
+In "The Last Starfighter" (1984), high school boy Alex went from 
+living in a trailer pack with little hope for a bright future to 
+being the savior of the Star League.
+
+
+
+
+
+what it is like in a psychiatric institution
+============================================
+
+:: Description
+Someone experiences living as a patient in an insane asylum.
+
+:: Parents
+what life is like
+
+:: Examples
+Nefarious aliens made Riker believe he might live out his life in an insane
+asylum on Tilonus IV in tng6x21 "Frame of Mind"
+
+
 what it is like to be homeless
 ==============================
 
@@ -791,4 +838,82 @@ to-mouth on the street doing odd-jobs or begging.
 :: Parents
 what life is like
 
+
+
+
+loser character
+===============
+
+:: Description
+There is a stereotypical loser-like character with attributes like a dead-end
+job, no useful education, poor social relations etc.
+
+:: Parents
+human character stereotype
+
+
+struggling artist character
+===========================
+
+:: Description
+There is an aspiring painter, musician, or other performer of the fine arts 
+who has not (yet) acquired sufficient patronage to sustain themselves in 
+their chosen profession.
+
+:: Parents
+human character stereotype
+
+:: Notes
+This theme does not apply to kids who live with their family and are not yet
+expected to sustain themselves.
+
+:: Examples
+In talesoftheunexpected4x11 "Kindly Dig Your Grave", Graham is a talented
+young painter but not much of a negotiator. He is ruthlessly exploited by the
+Madam La Grue, and struggles to turn every one of the few pennies she
+condescends to give him for his work.
+
+
+
+
+facing the demise of a personal enterprise
+==========================================
+
+:: Description
+A character is confronted with the imminent failure of a venture they had
+invested much of their energy in, for example a career pursuit, private
+company, etc.
+
+:: Parents
+coping with life issues
+
+:: Examples
+In talesoftheunexpected7x11 "I Like it Here in Wilmington", Harry and 
+Marvin had a joint clothing manufacturing business that was on the verge 
+of bankruptcy. Being used to the good life, Harry contemplated murdering
+Marvin to claim insurance money.
+
+
+descent into crime
+==================
+
+:: Description
+The way that someone can, step by step and without particular premeditation,
+get drawn into evermore serious crime is featured.
+
+:: Parents
+coping with life issues
+
+:: Examples
+In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be
+involved in drug smuggling. After covering up some minor transgressions Neelix
+eventually found himself an accomplice to serious crime.
+
+In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed
+an alien and discovered that its body made excellent fuel. Driven by
+exceptional need they procured another alien which they murdered for fuel,
+then another and so on.
+
+:: Aliases
+descent into evil
 
