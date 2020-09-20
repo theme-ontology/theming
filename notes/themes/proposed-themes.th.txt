@@ -164,22 +164,6 @@ are conscripted as privates.
 human occupational activity
 
 
-the maritime professions
-========================
-
-:: Description
-There is a character whose main occupation involves crewing a vessel that
-transports people and goods via waterways, typically the seas.
-
-:: Parents
-human occupational activity
-
-:: Examples
-In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
-of an American clipper ship as they pursued pirates across the Pacific Ocean
-all the way to a volcanic island inhabited by dinosaurs.
-
-
 librarian
 =========
 
@@ -274,21 +258,6 @@ hunter, or sees hunting as a hobby.
 
 :: Parents
 human regular activity
-
-
-
-
-acting
-======
-
-:: Description
-There is an actor or actress who performs a role in theater, film, etc.
-
-:: Parents
-the fine arts and the humanities
-
-:: References
-https://en.wikipedia.org/wiki/Acting
 
 
 photography
@@ -512,7 +481,7 @@ hunting people for sport
 There is an organized sport-like activity that resembles game hunting 
 except that the targeted prey are people.
 
-:: Note
+:: Notes
 This theme does not normally apply when warriors hunt down and kill their 
 enemies as part of a military campaign.
 
@@ -555,22 +524,6 @@ sports
 
 :: References
 https://en.wikipedia.org/wiki/Darts
-
-
-the game of pool
-================
-
-:: Description
-A cue sport, such as the game of pool, is featured.
-
-:: Parents
-sports
-
-:: References
-https://en.wikipedia.org/wiki/Pool_(cue_sports)
-
-:: Aliases
-billiards, snooker
 
 
 cricket
