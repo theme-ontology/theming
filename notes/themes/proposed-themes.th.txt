@@ -3,8 +3,8 @@ speculative airship
 ===================
 
 :: Description
-There is a still speculative, typically balloon-suspended, navigable flying
-machine that is capable of carrying people. 
+There is a still speculative lighter-than-air vessel that can navigate
+through the air under its own power.
 
 :: Parents
 speculative vehicle
@@ -13,16 +13,24 @@ speculative vehicle
 https://en.wikipedia.org/wiki/Airship
 http://www.sf-encyclopedia.com/entry/airships
 
+:: Examples
+The film "Thunderbird 6" (1968) is largely set aboard Skyship One - a
+futuristic flying vessel that relies on anti-gravity technology to stay aloft.   
+
+ 
 
 flying ship
 ===========
 
 :: Description
-There is a balloon-suspended galleon type vessel that can be used to fly
-around in the sky.
+There is a flying galleon type vessel.
 
 :: Parents
-speculative vehicle
+speculative airship
+
+:: Examples
+The heroes of the "Final Fantasy I" (1987) video game are able to zip around
+from one location in their world to another in an archetypal flying galleon. 
 
 
 religious occupation
