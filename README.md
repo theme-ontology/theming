@@ -80,11 +80,16 @@ the organization more managable.
 
 Every story requires a *title*, a *date*, and a *description*. Insofar as possible, a link to the relevant Wikipedia page
 is recommended as one of *references*. Most stories are unambigously identified by their date and title. For works of
-literature, the *authors* is also good informationto specify where possible.
+literature, the *authors* is good information to specify as well. The description is meant merely for convenience, but
+may conceivably be used to distinguish between variations of a work.
 
-As a rule of thumb, the *date* should indicate the earliest time that the work is known to have been made available
-to a broad public.
+- Unless there is compelling reason to distinguish between translations (or other variations) of a story, the *title* should 
+be as the work is best known in English. The original title may be specified as part of the description.
+- As a rule of thumb, the *date* should indicate the earliest time that the work is known to have been made available
+to a broad public. 
 
-
+Every story must also be assigned a unique ID. While all text files are encoded in UTF-8, the story ID should be composed
+only of normal English characters and punctuation directly mappable to ASCII. There are no technical restrictions apart from that.
+A number of conventions are aparent.
 
 
