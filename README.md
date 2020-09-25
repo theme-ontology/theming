@@ -70,7 +70,7 @@ Theming is also a good personal way to reflect on what really goes on in the sto
 
 ## Practicalities
 
-### files
+### Files
 
 Story definitions may be entered into any file with the extension `.st.txt`. Theme definitions may be entered into any file 
 with the extension `.th.txt`. There are no technical restrictions apart from that. Some conventions are aparent that make
