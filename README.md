@@ -68,16 +68,23 @@ Theming is also a good personal way to reflect on what really goes on in the sto
 
 
 
-## Organization
+## Practicalities
 
-### /notes
+### Files
 
-Collaborate on files or create a directory with your name and work on files in private here.
-Any published stories (books, movies, tv shows, ...) are welcome.
-Use themes that are already defined in the first hand.
-Use the search tools on the "themes" page at the url above.
-Invent new themes when needed.
+Story definitions may be entered into any file with the extension `.st.txt`. Theme definitions may be entered into any file 
+with the extension `.th.txt`. There are no technical restrictions apart from that. Some conventions are aparent that make
+the organization more managable.
 
-### other subdirectories
+### Story data
 
-Are presently not in use in any important way.
+Every story requires a *title*, a *date*, and a *description*. Insofar as possible, a link to the relevant Wikipedia page
+is recommended as one of *references*. Most stories are unambigously identified by their date and title. For works of
+literature, the *authors* is also good informationto specify where possible.
+
+As a rule of thumb, the *date* should indicate the earliest time that the work is known to have been made available
+to a broad public.
+
+
+
+
