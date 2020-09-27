@@ -78,64 +78,6 @@ The heroes of the "Final Fantasy I" (1987) video game are able to zip around
 from one location in their world to another in an archetypal flying galleon. 
 
 
-religious occupation
-====================
-
-:: Description
-
-:: Parents
-human occupational activity
-
-:: References
-
-
-intellectual property in society
-================================
-
-:: Description
-
-:: Parents
-socioeconomic issue
-
-
-fantasy land
-============
-
-:: Description
-
-:: Parents
-speculative habitat
-
-
-child's need to be loved
-========================
-
-:: Description
-
-:: Parents
-human social need, human parenting
-
-
-Oedipus complex
-===============
-
-:: Description
-
-:: Parents
-human mental condition
-
-:: Aliases
-Electra complex
-
-
-space tourism
-=============
-
-:: Description
-
-:: Parents
-speculative society
-
 
 
 
@@ -935,6 +877,34 @@ for-fun activity.
 human regular activity
 
 
+miracle
+=======
+
+:: Description
+There is a supernatural event, beneficial for the faithful, that is attributed
+to divine agency.
+
+:: Parents
+organized religion
+
+:: Examples
+A blind boy miraculously regained his sight upon visiting a Mexican shrine in
+the "Night Gallery" story "The Miracle at Camafeo" (1972).
+
+:: References
+https://en.wikipedia.org/wiki/Miracle
+
+
+
+
+
+
+
+
+
+
+
+
 surveillance capitalism
 =======================
 
@@ -962,27 +932,6 @@ speculative technology
 :: References
 https://en.wikipedia.org/wiki/Holography
 
-
-
-
-miracle
-=======
-
-:: Description
-There is a supernatural event, beneficial for the faithful, that is attributed
-to divine agency.
-
-:: Parents
-organized religion
-
-:: Examples
-A blind boy miraculously regained his sight upon visiting a Mexican shrine in
-the "Night Gallery" story "The Miracle at Camafeo" (1972).
-
-:: References
-https://en.wikipedia.org/wiki/Miracle
-
-
 signs from the heavens
 ======================
 
@@ -1003,7 +952,60 @@ what it is like in elementary school
 what it is like in school
 
 
+religious occupation
+====================
+
+:: Description
+
+:: Parents
+human occupational activity
+
+:: References
 
 
+intellectual property in society
+================================
+
+:: Description
+
+:: Parents
+socioeconomic issue
 
 
+fantasy land
+============
+
+:: Description
+
+:: Parents
+speculative habitat
+
+
+child's need to be loved
+========================
+
+:: Description
+
+:: Parents
+human social need, human parenting
+
+
+Oedipus complex
+===============
+
+:: Description
+
+:: Parents
+human mental condition
+
+:: Aliases
+Electra complex
+
+
+space tourism
+=============
+
+:: Description
+
+:: Parents
+speculative society
