@@ -27,13 +27,17 @@ disability of some sort, is featured.
 :: Parents
 parenting a child with special needs
 
+:: References
+https://en.wikipedia.org/wiki/Physical_disability
+
 
 parenting a mentally disabled child
 ===================================
 
 :: Description
-A character struggles with bringing up a child who suffers from, for example,
-learning disability, attention deficit disorder, autism, etc.
+The struggle of a parent to raise a child that has a significant mental
+disability of some sort, is featured. For example, a learning disability,
+attention deficit disorder, autism, etc.
 
 :: Parents
 parenting a child with special needs
@@ -78,9 +82,6 @@ The heroes of the "Final Fantasy I" (1987) video game are able to zip around
 from one location in their world to another in an archetypal flying galleon. 
 
 
-
-
-
 what it is like in boarding school
 ==================================
 
@@ -122,20 +123,18 @@ what it is like in school
 =========================
 
 :: Description
-We are shown what life might be like for students in some institution 
-of learning.
+We are shown what life might be like for students in some institution of
+learning.
 
 :: Parents
 what it is like in school
-
-
 
 
 the corporate world
 ===================
 
 :: Description
-A characters who work in the bureaucracy of a corporation is engaged in
+A character who works in the bureaucracy of a corporation is engaged in
 this profession.
 
 :: Notes
@@ -150,10 +149,10 @@ the military professions
 ========================
 
 :: Description
-There is a character whose main occupation involves being part of 
-the armed forces of a putative state, or the like. This may, for example, 
-be because they work professionally as an officer or because they 
-are conscripted as privates.
+There is a character whose main occupation involves being part of the armed
+forces of a putative state, or the like. This may, for example, be because
+they work professionally as an officer or because they are conscripted as
+privates.
 
 :: Parents
 human occupational activity
@@ -217,7 +216,8 @@ cooking
 
 :: Description
 A character is regularly engaged in preparing food for human consumption.
-Typically the character is either a professional cook, or sees cooking as a hobby.
+Typically the character is either a professional cook, or sees cooking as a
+hobby.
 
 :: Parents
 human regular activity
@@ -232,15 +232,12 @@ gardening
 =========
 
 :: Description
-A character is notably and regularly engaged with the growing and 
+A character is notably and regularly engaged with the growing and
 cultivating plants as part of horticulture. Typically the character 
 is either a professional gardener, or sees gardening as a hobby.
 
 :: Parents
 human regular activity
-
-:: Aliases
-horticulture, floriculture
 
 
 hunting
@@ -273,8 +270,8 @@ dancing
 =======
 
 :: Description
-There is a character who likes to wag about to the rhythms of music,
-either professionally or as a serious hobby.
+There is a character who likes to wag about to the rhythms of music, either
+professionally or as a serious hobby.
 
 :: Parents
 the fine arts and the humanities
@@ -292,10 +289,6 @@ A character regularly regales their audience with the telling of a story.
 
 :: Parents
 the fine arts and the humanities
-
-
-
-
 
 
 amateur radio
@@ -333,8 +326,8 @@ collecting objects
 ==================
 
 :: Description
-A character displays an enthusiasm for finding items to make their
-property as part of a collection of one sort or another.
+A character displays an enthusiasm for finding items to make their property
+as part of a collection of one sort or another.
 
 :: Parents
 recreational activity
@@ -354,8 +347,8 @@ other valuables at stake.
 recreational activity
 
 :: Examples
-The Providers, a trio of disembodied brains, had a gambling problem to say the
-least in tos2x17 "The Gamesters of Triskelion".
+The Providers, a trio of disembodied brains, had a gambling problem to say
+the least in tos2x17 "The Gamesters of Triskelion".
 
 
 reading as a hobby
@@ -454,8 +447,8 @@ blood sports
 ============
 
 :: Description
-There is a sport or entertainment that involves intentional bloodshed.
-Either animals or people are meant to be severely wounded during the activity.
+There is a sport or entertainment that involves intentional bloodshed. Either
+animals or people are meant to be severely wounded during the activity.
 
 :: Notes
 Modern boxing and other sports that are violent but where the objective
@@ -473,8 +466,8 @@ hunting people for sport
 ========================
 
 :: Description
-There is an organized sport-like activity that resembles game hunting 
-except that the targeted prey are people.
+There is an organized sport-like activity that resembles game hunting except
+that the targeted prey are people.
 
 :: Notes
 This theme does not normally apply when warriors hunt down and kill their 
@@ -488,8 +481,8 @@ combat sports
 =============
 
 :: Description
-There is a sport, or martial art, that involves combat or mock combat
-under rules and constraints that are meant to prevent serious injury.
+There is a sport, or martial art, that involves combat or mock combat under
+rules and constraints that are meant to prevent serious injury.
 
 :: Notes
 If serious injury is part of the objective then "blood sports" is used
@@ -544,14 +537,13 @@ motor sports
 ============
 
 :: Description
-There is a sport which notably involves the use of motorised vehicles. 
+There is a sport which notably involves the use of motorized vehicles. 
 
 :: Parents
 sports
 
 :: References
 https://en.wikipedia.org/wiki/Motorsport
-
 
 
 passion for vehicles
@@ -647,7 +639,7 @@ To apply, it should be clear that the feeling is inspired solely by the
 other's misfortune, and is not the result of some secondary advantage gained
 by the first character. For example, if an enemy or competitor suffers
 misfortune it may be quite natural to feel joy because of the personal
-advantage this entails. Schadenfreude, then, does not apply.
+advantage this entails. This theme, then, does not apply.
 
 :: Examples
 tz1959e2x12 "Dust", the rather odious conman Sykes was gleeful at the prospect
@@ -655,8 +647,6 @@ of Gallegos getting hanged, and tormented him relentlessly.
 
 :: Aliases
 schadenfreude
-
-
 
 
 psychoactive drug experience
@@ -739,12 +729,9 @@ A meek character develops into a heroic one.
 extraordinary experience
 
 :: Examples
-In "The Last Starfighter" (1984), high school boy Alex went from 
-living in a trailer pack with little hope for a bright future to 
-being the savior of the Star League.
-
-
-
+In "The Last Starfighter" (1984), high school boy Alex went from living in a
+trailer pack with little hope for a bright future to being the savior of the
+Star League.
 
 
 what it is like in a psychiatric institution
@@ -787,8 +774,6 @@ to-mouth on the street doing odd-jobs or begging.
 what life is like
 
 
-
-
 loser character
 ===============
 
@@ -820,8 +805,6 @@ In talesoftheunexpected4x11 "Kindly Dig Your Grave", Graham is a talented
 young painter but not much of a negotiator. He is ruthlessly exploited by the
 Madam La Grue, and struggles to turn every one of the few pennies she
 condescends to give him for his work.
-
-
 
 
 facing the demise of a personal enterprise
@@ -870,8 +853,8 @@ recreational activity
 =====================
 
 :: Description
-A character is notably engaged in a hobby or other more or less 
-for-fun activity.
+A character is notably engaged in a hobby or other more or less for-fun
+activity.
 
 :: Parents
 human regular activity
