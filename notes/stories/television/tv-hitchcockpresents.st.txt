@@ -412,20 +412,17 @@ Directed by: Robert Stevenson. Story by: Harold Swanton.
 3 <mikael>,
 3 <paul>,
 
-:: Choice Themes
-
 :: Major Themes
-gambling addiction [Charlie had run up a $4,200 gambling debt that he was hard pressed to pay off.] <MO: I suppose we could rename it to problem gambling. PS: sounds good to me.>,
-gambling [Charlie had gambled himself deep into debt, $4,200 to be precise.],
 fraud in society [Charlie plotted to impersonate Walker in order to fraudently claim a $200,000 inheritance.],
 con artistry [Charlie plotted to impersonate Walker in order to fraudently claim a $200,000 inheritance.],
 murder in society [Charlie killed a conman impersonating Walker. Later we learned that the real Walker had been killed by the conman.],
-the desire to repay one's debts [Charlie was desperate to pay a $4,200 gambling debt.] <repurpose this to something about facing being in debt?>,
 
 :: Minor Themes
+gambling addiction [Charlie had run up a $4,200 gambling debt that he was hard pressed to pay off.],
+gambling [Charlie had gambled himself deep into debt, $4,200 to be precise.],
+facing loan sharks [Charlie was being coerced into paying a $4,200 gambling debt to some gangsters.],
 nostalgia [Charlie and Walker discussed old memories of London and SoHo in particular.],
 theft in society [Charlie was about to pilfer a few hundred dollars from Walker's briefcase, but got wind of something better.],
-ironic twist of fate [Charlie impersonated Walker to claim insurance money, but by an ironic twist of fate the man was actually another conman impersonating Walker.],
 
 
 ahp1x10
@@ -454,15 +451,17 @@ Directed by: Alfred Hitchcock. Story by: Anthony Armstrong, Francis Cockrell.
 
 :: Ratings
 3 <mikael>,
+3 <paul>,
 
 :: Choice Themes
-what if I met my double [Mr. Pelham had a doppelganger who was slowly taking over Mr. Pelman's life.],
+doppelgänger [Mr. Pelham had a doppelgänger who was slowly taking over Mr. Pelman's life.],
 
 :: Major Themes
+what if I met my double [Mr. Pelham had a doppelgänger who was slowly taking over Mr. Pelman's life.],
 questioning one's sanity [Mr. Pelham variously thought something was wrong with him, or that he had a mischievous double - others clearly thought he was behaving oddly.],
-descent into madness [The first Albert was proclaimed mad by the second Albert, and it seemed like the typical gradual process.],
 
 :: Minor Themes
+descent into madness [The first Albert was proclaimed mad by the second Albert, and it seemed like the typical gradual process.],
 master and servant [Mr. Pelham and his manservant Peterson.],
 the medical professions [Mr. Pelham was explaining his strange predicament to a doctor.],
 
@@ -495,12 +494,12 @@ Directed by: Robert Stevens. Story by: Morris Hershman, Robert C. Dennis.
 
 :: Choice Themes
 spouse murder [Amelia killed her husband Ben after she found out he planned to leave her for her neighbor Dorthy.],
-extramarital affair [Ben was a serial adulterer we understand.],
 
 :: Major Themes
-domestic violence [Amelia and Ben often fought violently],
+domestic violence [Amelia and Ben often fought violently.],
 husband and wife [Stanley and Dorothy Crane. Amelia and Ben Verber.],
-what if I became witness to a crime [there are many similar stories where people are "almost" witnesses but don't quite have proof yet (cf. Vertigo)] <FD>,
+what if I became witness to a suspected crime [Amelia and Ben came to think that Amelia had murdered her husband after they heard them violently fighting.],
+extramarital affair [Ben was a serial adulterer we understand.],
 
 :: Minor Themes
 law enforcement [A police detective was snooping around about Ben's disappearance and possible murder.],
@@ -537,18 +536,21 @@ Directed by: Don Weis. Story by: Margaret Cousins, Marian Cockrell.
 
 :: Choice Themes
 kindness [After acting Santa for a while, Harold actually became a kindly and charitable man.],
-compassion [After acting Santa for a while, Harold actually became a kindly and charitable man.] <PS: Merge "kindness" with "compassion"?>,
+compassion [After acting Santa for a while, Harold actually became a kindly and charitable man.],
 
 :: Major Themes
 Christmas traditions [Harold was hired to be a department store Santa.],
-treatment of prisoners [we saw how a repeat offender on parole was treated by society.],
-dealing with children [Harold would rather do time than deal with the spoiled and cranky children in the depasrtment store.],
-becoming a nicer person [Lectured by Clementine, the ex-con Harold reluctantly straightened up his act.] <For discussion: might be worth introducing something for ex-cons trying to fix their lives>,
+treatment of prisoners [We saw how a repeat offender on parole was treated by society.],
+dealing with children [Harold would rather do time than deal with the spoiled and cranky children in the department store.],
+becoming a nicer person [Lectured by Clementine, the ex-con Harold reluctantly straightened up his act.],
 
 :: Minor Themes
 resisting a temptation [Clementine took Harold's pay on Christmas because she knew he wouldn't resist the temptation to blow it all on booze.],
-passion for vehicles [Harold stole a fancy toy airplane from the department store where he was employed to give to a young boy who aspired to be a pilot when he grew up.],
-compassion vs. self-preservation [Harold stole a fancy toy airplane to give to a boy in need at the risk of violating his parole.],
+passion for vehicles [A young boy who was fascinated with a fancy toy airplane expressed a desire to become a pilot when he grew up.],
+sacrifice for a child [Harold stole a fancy toy airplane to give to a boy in need at the risk of violating his parole.],
+
+:: Other Keywords
+ex-convict reintegrating into society [Harold got a job as a department store Santa while on parole.],
 
 
 ahp1x13
@@ -578,24 +580,23 @@ Directed by: Robert Stevens. Story by: Robert Blees.
 3 <mikael>,
 3 <paul>,
 
-:: Choice Themes
-
 :: Major Themes
-con artistry [Lyle underhandedly endeared himself to a wealthy, old invalid in an effort to get his hands on her expensive antique vase.] <FD what else to call the whole scheme? Brainstorming: https://en.wikipedia.org/wiki/Elder_financial_abuse>,
-the Casanova stereotype [Lyle seduced women and used them to his own ends] <FD>,
+con artistry [Lyle underhandedly endeared himself to a wealthy, old invalid in an effort to get his hands on her expensive antique vase.],
+the Casanova stereotype [Lyle seduced women and used them to his own ends.],
 coping with a disability [Martha was wheelchair-bound and had to rely on Lyle.],
 boyfriend and girlfriend [Lyle and Pamela.],
 sculpture [Martha was an accomplished maker of clay sculptures and Cheney vase replicas.],
 the lust for gold [Lyle was notably avaricious in his efforts to acquire the Cheney Vase.],
-what if I fell into the clutches of a homicidal maniac [] <FD can we generalize this to something that describes Martha's helpless situation as well?>,
-elder abuse [] <For discussion: https://en.wikipedia.org/wiki/Elder_abuse>,
+what if I fell into the clutches of a person with malicious intent [Lyle wormed his way into Martha's good graces whereupon he began secretly stage managing her life so that he could get his hands on her expensive antique vase.],
 
 :: Minor Themes
-facing job insecurity [Lyle was fired for loafing off on a fine day.],
-coping with being unemployed [Lyle was fired] <FD>,
+getting fired from one's job [Lyle was fired for loafing off on a fine day.],
 boss and employee [Lyle's boss fired him for taking time off.],
 compromising one's ethical principles for personal advantage [Lyle's girlfriend reluctantly went along with his scheme but moralized and hesitated each step of the way.],
 master and servant [Martha and her longtime housekeepers Bella.],
+
+:: Other Keywords
+elder abuse [Lyle wormed his way into the elderly, wheelchair bound Martha's good graces whereupon he started to take control of her household affairs against her wishes.],
 
 
 ahp1x14
@@ -625,7 +626,7 @@ Directed by: Justus Addiss. Story by: Joseph Ruscoll, Eustace and Francis
 Cockrell.
 
 :: Ratings
-3 <mikael>,
+3 <mikael*>,
 3 <paul>,
 
 :: Choice Themes
