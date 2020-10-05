@@ -717,20 +717,23 @@ Directed by: Robert Stevens. Story by: S. R. Ross, Eustace & Francis Cockrell.
 
 :: Ratings
 3 <paul>,
+3 <mikael>,
 
 :: Choice Themes
+facing organized pursuit [The police launched a manhunt for Sam after he broke out from the state penitentiary.] <PS: "being on the run from the law" is a possible child theme MO: acceptable>,
+facing a home invader [Mary was terrorized in her home by an escaped prisoner while her husband was away.],
 
 :: Major Themes
-law enforcement [The police were on a manhunt for a prisoner who'd escaped from the state penitentiary.],
-facing organized pursuit [The police launched a manhunt for Sam after he broke out from the state penitentiary.] <PS: "being on the run from the law" is a possible child theme>,
-facing a home invader [Mary was terrorized in her home by an escaped prisoner while her husband was away.],
-human vs. captivity [Mary was held captive in her own home by an escaped convict.],
+law enforcement [The police were on a manhunt for a prisoner who'd escaped from the state penitentiary. MO: minor imho.],
 coping with a disability [In a surprise twist, it turned out that Mary was deaf all along, and that she'd gotten by reading lips.],
+human vs. captivity [Mary was held captive in her own home by an escaped convict. MO: we have not been using it in this sort of situation before. Possibly we can move "what if I fell into the clutches of ..." to be a child of this, but it's ],
+what if I fell into the clutches of a person with malicious intent [Mary was at the mercy of a renegade and desperate criminal who threatened her in various ways],
 
 :: Minor Themes
 husband and wife [Mary and David Schaffner.],
 fear for one's life [Mary feared for her life at times while the escaped convict Sam held her captive in her own home.],
 neighbor and neighbor [Mary was coerced into shooing away her next door neighbor.],
+ironic coincidence [prop FD just a thought: Cobbett's plans were foiled by the ironic coincidence that his hostage was deaf and should not have been able to answer the phone as he made her do.],
 
 
 ahp1x17
