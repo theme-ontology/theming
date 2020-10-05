@@ -901,9 +901,7 @@ the Crystalline Entity to the Enterprise .
 
 :: Ratings
 4 <Mikael>
-1 <Paul>
-
-:: Genre
+3 <Paul>
 
 :: Choice Themes
 android [Data and Lore] <Data, Lore, Soong Type Android>,
@@ -911,7 +909,7 @@ sibling rivalry [Data and Lore] <Data/Lore>,
 
 :: Major Themes
 loyalty to one's family [Data to Lore] <Data>,
-machines in society [data says he is better in some ways and Lore demonstrates something else],
+machines in society [Data says he is better in some ways and Lore demonstrates something else],
 brother and brother [Data and Lore] <Data/Lore>,
 the nature of human emotions [Lore had emotions],
 black sheep [Lore felt he was black sheep of his family] <Lore>,
@@ -931,6 +929,8 @@ cruelty [Lore] <Lore>,
 ruthlessness [Lore] <Lore>,
 sadism [Lore] <Lore>,
 attitude of superiority [Lore looked down on Data for Data's inability to experience emotions.],
+space colonization [The Enterprise crew visited a destroyed Federation colony.],
+teleportation device [Wesley teleported Lore out into space.],
 
 :: Other Keywords
 red alert [1x] <37:16>,
@@ -972,9 +972,6 @@ downed freighter.
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 matriarchy [Angel One governed by women] <People of Angel One>,
@@ -1018,6 +1015,7 @@ coping with having a cold [Picard was battling a cold.],
 hospitality [Beata welcomes landing party, especially Riker] <Beata>,
 humility [Trent the man servant] <Trent>,
 trust in a potential foe [Beata trusts landing party to keep their word and take the fugitives] <Beata>,
+teleportation device [Enterprise crew members beamed up and down to the planet Angel One.],
 
 :: Other Keywords
 hanky-panky [],
