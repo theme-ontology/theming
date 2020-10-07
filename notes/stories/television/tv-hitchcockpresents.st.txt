@@ -625,30 +625,30 @@ Directed by: Justus Addiss. Story by: Joseph Ruscoll, Eustace and Francis
 Cockrell.
 
 :: Ratings
-3 <mikael*>,
+3 <mikael>,
 3 <paul>,
 
 :: Choice Themes
 
 :: Major Themes
 murder in society [Mr. Stepp first shot Baldwin dead, and then King.],
-doppelgänger [] <prop FD I've encountered a number of such recently... PS: Interesting. I'd been thinking the same after reading an introduction to Jekyll and Hyde where a history of doubles in fiction is laid out.>,
-fraud in society [] <for discussion>,
+doppelgänger [King hired a look-alike actor named Davidson to take Baldwin's place in order to close an important deal.],
 questioning one's sanity [King manipulated Mr. Stepp into thinking that he'd hallucinated himself shooting Mr. Baldwin dead. In fact, Mr. Stepp had done the deed.],
-facing job insecurity [Mr. Stepp was fired] <PS: Explicitly generalize this to include cases of getting fired on the spot? Seems to be a common occurrence in 50s stories.>,
-coping with being unemployed [Mr. Stepp was fired (and then he fired).],
+getting fired from one's job [Mr. Stepp was fired (and then he fired).],
 boss and employee [Mr. Baldwin and Mr. Stepp. King and Mr. Stepp.],
 
 :: Minor Themes
-early to bed early to rise [FD AH enunciated in the end],
-crime doesn't pay [FD AH enunciated in the end],
-virtue is always rewarded [FD AH enunciated in the end],
-virtue is always punished [FD AH enunciated in the end],
-the customer is always right [FD AH enunciated in the end],
-slow and sure win the race [FD AH enunciated in the end],
 suicide [Mr. Stepp briefly put a gun to his head as if he were going to blow his brains out before thinking better of it and taking out his boss instead.],
-portent of luck [The cleaner told Mr. Stepp that opening an umbrella inside gives you bad luck.] <For discussion: PS couldn't find a theme about bad luck.>,
+bad luck signs [The cleaner told Mr. Stepp that opening an umbrella inside gives you bad luck.],
 extramarital affair [King subtly suggested to Mr. Davidson that he was romantically involved with Mr. Baldwin's wife.],
+
+:: Other Keywords
+early to bed early to rise [Alfred Hitchcock enunciated in the end.],
+crime doesn't pay [Alfred Hitchcock enunciated in the end.],
+virtue is always rewarded [Alfred Hitchcock enunciated in the end.],
+virtue is always punished [Alfred Hitchcock enunciated in the end.],
+the customer is always right [Alfred Hitchcock enunciated in the end.],
+slow and sure win the race [Alfred Hitchcock enunciated in the end.],
 
 
 ahp1x15
@@ -679,9 +679,9 @@ Directed by: Don Weis. Story by: Cornell Woolrich, Richard Carr.
 3 <paul>,
 
 :: Choice Themes
-how to murder someone and get away with it [The story was premised on the idea that with a false alibi, you can get away with murder.],
 
 :: Major Themes
+how to murder someone and get away with it [The story was premised on the idea that with a false alibi, you can get away with murder.],
 the desire for vengeance [Sam wanted to kill the girlfriend who ran out on him.],
 murder in society [Sam wanted to kill the girlfriend who ran out on him.],
 ironic twist of fate [After an elaborate plot to get away with murder, Sam's intended alibi accidentally shot himself and Sam was booked for a murder he didn't commit.],
@@ -716,7 +716,7 @@ Patten, Steve Clark, Bill Pullen, Wendy Winkleman
 Directed by: Robert Stevens. Story by: S. R. Ross, Eustace & Francis Cockrell.
 
 :: Ratings
-3 <paul>,
+3 <paul*>,
 3 <mikael>,
 
 :: Choice Themes
@@ -905,7 +905,7 @@ Directed by: Robert Stevenson. Story by: Ray Bradbury, Mel Dinelli.
 
 :: Choice Themes
 obsession [John's obsession with his dummy was clearly to the detriment of his marriage],
-DESTINY,
+DESTINY [],
 impossible love [Fabian was in love with the ventriloquist's doll he'd crafted in the image of his former assistant.],
 
 :: Major Themes
