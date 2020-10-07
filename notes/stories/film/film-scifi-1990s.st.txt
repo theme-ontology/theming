@@ -2630,7 +2630,7 @@ Fifteen years before the initial setting of the television series Babylon 5, Ear
 https://en.wikipedia.org/wiki/Babylon_5:_In_the_Beginning
 
 :: Ratings
-3 <paul>,
+3 <paul> [TV film],
 
 :: Genre
 sci-fi
@@ -2751,7 +2751,7 @@ An enormous artifact of alien origin is discovered in hyperspace and is towed to
 https://en.wikipedia.org/wiki/Babylon_5:_Thirdspace
 
 :: Ratings
-3 <paul>,
+3 <paul> [TV film],
 
 :: Genre
 sci-fi
@@ -2770,6 +2770,46 @@ the medical professions [Lyta paid a visit to Dr. Franklin in sickbay.],
 loss of emotional equilibrium [An alien artifact from outer space broadcast telepathic signals throughout Babylon 5, resulting in widespread violence across the space station.],
 telepathic ability [Lyta telepathically informed Captain Sheridan how to deactivate the gate.],
 nuclear weapons [Sheridan uses a thermonuclear device to destroy the alien artifact.],
+
+
+movie: Babylon 5: The River Of Souls (1998)
+===========================================
+
+:: Title
+Babylon 5: The River Of Souls
+
+:: Description
+After a short absence from Babylon 5, Michael Garibaldi returns to the station to meet with a person in his employ. An archaeologist in search of a means of immortality brings his most recent find to Babylon 5 – an orb containing one billion souls of an extinct race. Within days, a Soul Hunter arrives claiming the orb was stolen from his people. With the assistance of the archaeologist, the souls break free from their captivity in the orb and bring havoc to the station. It is the fourth of six feature-length films in the Babylon 5 media franchise.
+
+:: Date
+1998-11-08
+
+:: References
+https://en.wikipedia.org/wiki/Babylon_5:_The_River_of_Souls
+
+:: Ratings
+2 <paul> [TV film],
+
+:: Genre
+sci-fi
+
+:: Major Themes
+space station [The story is set about the gargantuan Babylon 5 space station.],
+the quest for immortality [Dr. Robert Bryson spent his career searching for a means of immortality, and he finally though he found one in an orb containing one billion souls of an extinct race.],
+obsession [Dr. Robert Bryson was all-consumed with a desire to live forever.],
+the desire for vengeance [A large proportion of the one billion souls that the Soul Hunter aliens had mistakenly reaped before their time were hellbent on getting revenge over the mishap.],
+the soul [There was an orb containing one billion souls of an extinct race. Garibaldi was convinced that the Soul Hunters were not really harvesting souls, but rather were preserving peoples' consciousnesses by means of some advance technology - the Soul Hunter disagreed.],
+
+:: Minor Themes
+the archaeology profession [Dr. Robert Bryson recovered an orb containing one billion souls of an extinct race while on an archaeological dig.],
+virtual reality sex [Jacob was running a seedy holographic brothel.],
+hologram [Mr. Clute solicited the services of a racy female hologram at a holographic brothel.],
+personality rights [Jacob came into conflict with the Babylon 5 authorities when it came to light that Jacob was suing peoples' photographs without their consent as the bases for the sex holograms in his brothel.],
+personal identity [Dr. Robert Bryson raised the question of whether there is more to a person than the sum total of all their memories.],
+extraterrestrial being [The Soul Hunter aliens. The Ralga aliens.],
+spaceship [The Babylon 5 space station was brought under threat by an armada of Soul Hunter vessels.],
+hubris [The Soul Hunter alien was initially adamant that he and his soul harvesting brethren were incapable of any error when it came to the matter of determining when someone was at the moment of death. As a result, he was dumbfounded to learn that he and his brethren had mistakenly taken the souls of an entire alien race before their proper time.],
+seeing the error of one's ways [The Soul Hunter alien initially thought he and his brethren had done another alien race an honor by taking their souls from their bodies and storing the said souls in an orb, but he ultimately came to see that they were monsters for what they had done.],
 
 
 movie: Star Trek: Insurrection (1998)
