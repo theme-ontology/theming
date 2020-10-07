@@ -151,6 +151,20 @@ history
 https://en.wikipedia.org/wiki/American_Civil_War
 
 
+American football
+=================
+
+:: Description
+This team sport, played by two teams on a rectangular field with goalposts at
+each end, is featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/American_football
+
+
 Atlantis
 ========
 
@@ -2002,6 +2016,27 @@ Little War".
 
 :: References
 https://en.wikipedia.org/wiki/Alternative_medicine
+
+
+amateur radio
+=============
+
+:: Description
+A character is enthusiastic about the use of radio frequency spectrum
+transmission for non-commercial purposes.
+
+:: Parents
+recreational activity
+
+:: Examples
+Neighbors Bromley Cranston and Howard Marsden shared an interest in amateur
+radio in "Radio Mates" (1927).
+
+:: References
+https://en.wikipedia.org/wiki/Amateur_radio
+
+:: Aliases
+passion for ham radio
 
 
 ambiguity in ancient texts
@@ -4474,6 +4509,25 @@ shape distinguished being
 https://aliens.wikia.com/wiki/Blob
 
 
+blood sports
+============
+
+:: Description
+There is a sport or entertainment that involves intentional bloodshed. Either
+animals or people are meant to be severely wounded during the activity.
+
+:: Parents
+sports
+
+:: Notes
+Modern boxing and other sports that are violent but where the objective is
+neither to kill nor inflict serious injury, are classified as "combat sports"
+instead.
+
+:: References
+https://en.wikipedia.org/wiki/Blood_sport
+
+
 bluffing
 ========
 
@@ -6066,6 +6120,16 @@ https://en.wikipedia.org/wiki/Class_discrimination
 social class prejudice in society
 
 
+classic films
+=============
+
+:: Description
+A character is enthusiastic about old movies of cultural significance.
+
+:: Parents
+recreational activity, the fine arts and the humanities
+
+
 classical philosophy
 ====================
 
@@ -6179,6 +6243,20 @@ The young inventor Harold Kelp struggled to invent a cold fusion engine in
 
 :: References
 https://en.wikipedia.org/wiki/Cold_fusion
+
+
+collecting objects
+==================
+
+:: Description
+A character displays an enthusiasm for finding items to make their property as
+part of a collection of one sort or another.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Psychology_of_collecting
 
 
 collective dreaming
@@ -6355,6 +6433,28 @@ space colonization
 
 :: References
 https://en.wikipedia.org/wiki/Sun
+
+
+combat sports
+=============
+
+:: Description
+There is a sport, or martial art, that involves combat or mock combat under
+rules and constraints that are meant to prevent serious injury.
+
+:: Parents
+sports
+
+:: Notes
+If serious injury is part of the objective then "blood sports" is used
+instead.
+
+:: References
+https://en.wikipedia.org/wiki/Combat_sport
+https://en.wikipedia.org/wiki/Martial_arts
+
+:: Aliases
+martial arts
 
 
 combat sports in society
@@ -7243,6 +7343,23 @@ partner's activities.
 
 :: Parents
 romantic relationship issue
+
+
+cooking
+=======
+
+:: Description
+A character is regularly engaged in preparing food for human consumption.
+Typically the character is either a professional cook, or sees cooking as a
+hobby.
+
+:: Parents
+human regular activity
+
+:: Examples
+Riker whipped up a batch of 'Owon egg omelets for a few selected members of
+the command crew in tng2x13 "Time Squared". Worf pronounced the omelets to be
+"delicious", but the others did not concur.
 
 
 cooperation
@@ -9633,6 +9750,25 @@ on for some time, is illustrated.
 human social need
 
 
+cricket
+=======
+
+:: Description
+Cricket is a bat-and-ball game played between two teams of eleven players on a
+field at the centre of which is a 22-yard (20-metre) pitch with a wicket at
+each end, each comprising two bails balanced on three stumps. This game is
+featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Cricket
+
+:: Aliases
+billiards, snooker
+
+
 crime and punishment
 ====================
 
@@ -10124,6 +10260,21 @@ legendary being
 
 :: References
 https://en.wikipedia.org/wiki/Cyclopes
+
+
+dancing
+=======
+
+:: Description
+There is a character who likes to wag about to the rhythms of music, either
+professionally or as a serious hobby.
+
+:: Parents
+the fine arts and the humanities
+
+:: Examples
+Beverly "the dancing doctor" got a kick out of teaching Data the art of tap
+dancing in tng4x11 "Data's Day".
 
 
 dangerous driving in society
@@ -10635,6 +10786,30 @@ human mental condition
 
 :: References
 https://en.wikipedia.org/wiki/Depression_(mood)
+
+
+descent into crime
+==================
+
+:: Description
+The way that someone can, step by step and without particular premeditation,
+get drawn into evermore serious crime is featured.
+
+:: Parents
+coping with life issues
+
+:: Examples
+In voy3x13 "Fair Trade" Neelix did a favor for a friend who turned out to be
+involved in drug smuggling. After covering up some minor transgressions Neelix
+eventually found himself an accomplice to serious crime.
+
+In voy5x26 "Equinox (1)" it is told that the Equinox crew accidentally killed
+an alien and discovered that its body made excellent fuel. Driven by
+exceptional need they procured another alien which they murdered for fuel,
+then another and so on.
+
+:: Aliases
+descent into evil
 
 
 descent into madness
@@ -13399,6 +13574,24 @@ reason.
 human vs. institution
 
 
+facing the demise of a personal enterprise
+==========================================
+
+:: Description
+A character is confronted with the imminent failure of a venture they had
+invested much of their energy in, for example a career pursuit, private
+company, etc.
+
+:: Parents
+coping with life issues
+
+:: Examples
+In talesoftheunexpected7x11 "I Like it Here in Wilmington", Harry and Marvin
+had a joint clothing manufacturing business that was on the verge of
+bankruptcy. Being used to the good life, Harry contemplated murdering Marvin
+to claim insurance money.
+
+
 facing wrongful accusations
 ===========================
 
@@ -13519,6 +13712,20 @@ tested and found to be mostly nonsense.
 
 :: References
 https://en.wikipedia.org/wiki/Aphrodisiac
+
+
+fall from grace
+===============
+
+:: Description
+A previously honored character finds themself out of favor, with a loss of
+status and prestige, for one reason or another.
+
+:: Parents
+extraordinary experience
+
+:: References
+https://en.wikipedia.org/wiki/Fall_from_grace
 
 
 falling out of friendship
@@ -14956,6 +15163,20 @@ https://en.wikipedia.org/wiki/Unidentified_flying_object
 http://www.sf-encyclopedia.com/entry/ufos
 
 
+flying ship
+===========
+
+:: Description
+There is a flying galleon type vessel.
+
+:: Parents
+speculative airship
+
+:: Examples
+The heroes of the "Final Fantasy I" (1987) video game are able to zip around
+from one location in their world to another in an archetypal flying galleon.
+
+
 food crop pandemic
 ==================
 
@@ -15615,6 +15836,21 @@ Giant ape creatures were scared off with technological wizardry in tos1x13
 "The Galileo Seven", albeit without lasting success.
 
 
+from zero to hero
+=================
+
+:: Description
+A meek character develops into a heroic one.
+
+:: Parents
+extraordinary experience
+
+:: Examples
+In "The Last Starfighter" (1984), high school boy Alex went from living in a
+trailer pack with little hope for a bright future to being the savior of the
+Star League.
+
+
 funeral rite
 ============
 
@@ -15722,6 +15958,21 @@ The Slavers a billion years ago used their weird mental powers to dominate the
 galaxy in tas1x14 "The Slaver Weapon".
 
 
+gambling
+========
+
+:: Description
+A character takes pleasure in engaging in games of chance with money or other
+valuables at stake.
+
+:: Parents
+recreational activity
+
+:: Examples
+The Providers, a trio of disembodied brains, had a gambling problem to say the
+least in tos2x17 "The Gamesters of Triskelion".
+
+
 gambling with a body part
 =========================
 
@@ -15743,6 +15994,18 @@ In talesoftheunexpected1x01 "The Man from the South", Tommy entered into a bet
 whereby he stood to win a fabulous car should he be able to light his lighter
 unfailingly ten times in a row, but would loose a little finger should he fail
 but once.
+
+
+gardening
+=========
+
+:: Description
+A character is notably and regularly engaged with the growing and cultivating
+plants as part of horticulture. Typically the character is either a
+professional gardener, or sees gardening as a hobby.
+
+:: Parents
+human regular activity
 
 
 gas giant dwelling being
@@ -17814,6 +18077,21 @@ sports
 https://en.wikipedia.org/wiki/Horse_racing
 
 
+horseback riding
+================
+
+:: Description
+The excitement some of us experience by engaging in equestrian escapades is
+examined.
+
+:: Parents
+recreational activity
+
+:: Examples
+Captain Picard shared his passion for riding Arabian horses with Troi on the
+holodeck in tng2x15 "Pen Pals".
+
+
 hospitality
 ===========
 
@@ -19456,6 +19734,33 @@ human way of life
 https://en.wikipedia.org/wiki/Hunter-gatherer
 
 
+hunting
+=======
+
+:: Description
+A character is notably and regularly engaged with the chasing down and
+dispatching wild animals. Typically the character is either a professional
+hunter, or sees hunting as a hobby.
+
+:: Parents
+human regular activity
+
+
+hunting people for sport
+========================
+
+:: Description
+There is an organized sport-like activity that resembles game hunting except
+that the targeted prey are people.
+
+:: Parents
+blood sports
+
+:: Notes
+This theme does not normally apply when warriors hunt down and kill their
+enemies as part of a military campaign.
+
+
 husband and wife
 ================
 
@@ -20460,6 +20765,21 @@ humans is featured.
 
 :: Parents
 crackpot theory
+
+
+interest in antiques
+====================
+
+:: Description
+The human predilection for engaging with old curios is illustrated.
+
+:: Parents
+recreational activity
+
+:: Examples
+Geordi was keen to take a look at some Ktarian antiques on the Deep Space 9
+Promenade in tng6x16 "Birthright, Part I". He had heard there was a twenty-
+first century plasma coil in perfect condition for sale.
 
 
 interfactional mediation
@@ -21732,6 +22052,22 @@ The Libra space colony was organized on libertarian principles in "Libra"
 https://en.wikipedia.org/wiki/Libertarianism
 
 
+librarian
+=========
+
+:: Description
+There is a character whose job it is to tend to the books in a library, or the
+like.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In tz1959e2x29 "The Obsolete Man", Mr. Wordsworth was a dedicated librarian
+and therefore considered obsolete by the totalitarian state in which he had
+the misfortune to live.
+
+
 lie detector
 ============
 
@@ -22145,6 +22481,17 @@ human interpersonal relationship
 
 :: References
 https://en.wikipedia.org/wiki/Vassal
+
+
+loser character
+===============
+
+:: Description
+There is a stereotypical loser-like character with attributes like a dead-end
+job, no useful education, poor social relations etc.
+
+:: Parents
+human character stereotype
 
 
 loss of emotional equilibrium
@@ -24325,6 +24672,24 @@ human rights issue
 https://en.wikipedia.org/wiki/Minority_rights
 
 
+miracle
+=======
+
+:: Description
+There is a supernatural event, beneficial for the faithful, that is attributed
+to divine agency.
+
+:: Parents
+organized religion
+
+:: Examples
+A blind boy miraculously regained his sight upon visiting a Mexican shrine in
+the "Night Gallery" story "The Miracle at Camafeo" (1972).
+
+:: References
+https://en.wikipedia.org/wiki/Miracle
+
+
 misandry
 ========
 
@@ -24746,6 +25111,19 @@ parental disappointment in child, mother and son
 :: Examples
 Beverly was disappointed in Wesley for covering up the now infamous Nova
 Squadron Incident in tng5x18 "The First Duty".
+
+
+motor sports
+============
+
+:: Description
+There is a sport which notably involves the use of motorized vehicles.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Motorsport
 
 
 move fast or take it slow in a romantic relationship
@@ -26688,6 +27066,57 @@ child's parents disagree about the child's medical treatment.
 public health issue
 
 
+parenting a child with special needs
+====================================
+
+:: Description
+A character struggles with bringing up a child who needs assistance for
+disabilities that may be medical, mental, or psychological (e.g. a learning
+disability, attention deficit disorder, autism.).
+
+:: Parents
+human parenting
+
+:: References
+https://en.wikipedia.org/wiki/Special_needs
+https://en.wikipedia.org/wiki/Mental_disorder
+https://en.wikipedia.org/wiki/Learning_disability
+https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
+https://en.wikipedia.org/wiki/Autism
+
+
+parenting a mentally disabled child
+===================================
+
+:: Description
+The struggle of a parent to raise a child that has a significant mental
+disability of some sort, is featured. For example, a learning disability,
+attention deficit disorder, autism, etc.
+
+:: Parents
+parenting a child with special needs
+
+:: References
+https://en.wikipedia.org/wiki/Mental_disorder
+https://en.wikipedia.org/wiki/Learning_disability
+https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
+https://en.wikipedia.org/wiki/Autism
+
+
+parenting a physically disabled child
+=====================================
+
+:: Description
+The struggle of a parent to raise a child that has a significant physical
+disability of some sort, is featured.
+
+:: Parents
+parenting a child with special needs
+
+:: References
+https://en.wikipedia.org/wiki/Physical_disability
+
+
 parody on life in academia
 ==========================
 
@@ -26697,6 +27126,23 @@ be like.
 
 :: Parents
 academia
+
+
+passion for vehicles
+====================
+
+:: Description
+A character is excited by machines made for transporting people and things,
+i.e., cars, boats, planes etc. Often the character is particularly interested
+in speed and things that go fast.
+
+:: Parents
+human pleasure
+
+:: Notes
+This theme is also used when children are fascinated with toy vehicles,
+assuming they are old enough to understand the connection with the genuine
+article.
 
 
 past point of view
@@ -27344,6 +27790,20 @@ speculative ability related to own mind
 https://en.wikipedia.org/wiki/Eidetic_memory
 
 
+photography
+===========
+
+:: Description
+There is a character who likes to take a lot of pictures with a camera, either
+professionally or as a serious hobby.
+
+:: Parents
+the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Photography
+
+
 phrenology
 ==========
 
@@ -27651,6 +28111,97 @@ desire to gain an advantage on the other.
 
 :: Parents
 personal ethical dilemma
+
+
+pleasure in coffee
+==================
+
+:: Description
+A character takes great pleasure in preparing or imbuing the black heavenly
+nectar colloquially known as "coffee".
+
+:: Parents
+pleasure in eating
+
+
+pleasure in eating
+==================
+
+:: Description
+The natural human predilection for reveling in food far beyond nutritional
+necessity is illustrated.
+
+:: Parents
+human pleasure
+
+:: Examples
+Tomar of the Kelvan Empire enjoyed all the delicacies that the Enterprise
+replicator could offer in tos2x21 "By Any Other Name".
+
+
+pleasure in nature
+==================
+
+:: Description
+Someone takes pointed satisfaction in scenes of serene natural beauty, or is
+notably enthusiastic about one aspect or another of those parts of the
+environment on a world that are considered natural. Typically, such a
+character studies wild flora or fauna.
+
+:: Parents
+human pleasure
+
+:: Examples
+The whole crew in turns got to admire the beauty of the magical amusement
+planet now known as the "Shore Leave Planet" in tos1x17 "Shore Leave".
+
+In "Jaws" (1975), we saw two people, Hooper and Quinn, who were both
+extraordinarily interested in sharks and shark behavior.
+
+:: References
+https://en.wikipedia.org/wiki/Nature
+
+
+pleasure in the misfortune of another
+=====================================
+
+:: Description
+A character feels pleasure, joy, or self-satisfaction from learning of or
+witnessing the troubles, failures, or humiliation of another character.
+
+:: Parents
+human emotion
+
+:: Notes
+To apply, it should be clear that the feeling is inspired solely by the
+other's misfortune, and is not the result of some secondary advantage gained
+by the first character. For example, if an enemy or competitor suffers
+misfortune it may be quite natural to feel joy because of the personal
+advantage this entails. This theme, then, does not apply.
+
+:: Examples
+tz1959e2x12 "Dust", the rather odious conman Sykes was gleeful at the prospect
+of Gallegos getting hanged, and tormented him relentlessly.
+
+:: Aliases
+schadenfreude
+
+
+pleasure in violence
+====================
+
+:: Description
+The embarrassingly human predilection for battle and bloodshed is featured.
+
+:: Parents
+human pleasure
+
+:: Examples
+Data confessed that he had taken pleasure in chocking a Borg drone to death in
+tng6x26 "Descent, Part I".
+
+Captain Kirk took full advantage of the opportunity to beat the living tar out
+of a robot replica of his former tormenter Finnegan in tos1x17 "Shore Leave".
 
 
 plug-in learning device
@@ -28460,6 +29011,23 @@ socioeconomic issue
 https://en.wikipedia.org/wiki/Privatization
 
 
+problem gambling
+================
+
+:: Description
+A character gambles continuously, despite harmful negative consequences or a
+desire to stop.
+
+:: Parents
+human addiction
+
+:: References
+https://en.wikipedia.org/wiki/Problem_gambling
+
+:: Aliases
+gambling addiction
+
+
 problem gambling in society
 ===========================
 
@@ -28554,6 +29122,19 @@ human enhancement technology
 https://en.wikipedia.org/wiki/Prosthesis
 
 
+prostitution
+============
+
+:: Description
+There is a character who sells sex for money in order to make a living.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
 prostitution in society
 =======================
 
@@ -28629,6 +29210,25 @@ tng5x20 "Cost of Living".
 https://en.wikipedia.org/wiki/Prude
 
 
+psychedelic experience
+======================
+
+:: Description
+A character experiences a temporary altered state of consciousness induced by
+the consumption of psychedelic drugs (the best known of which are LSD and
+psilocybin 'magic' mushrooms).
+
+:: Parents
+psychoactive drug experience
+
+:: Examples
+A group of castaways started tripping out after eating the local mushrooms on
+a remote island in "Matango: Attack of the Mushroom People" (1963).
+
+:: References
+https://en.wikipedia.org/wiki/Psychedelic_experience
+
+
 psychic detective
 =================
 
@@ -28645,6 +29245,24 @@ killer in "The Dead Zone" (1983).
 
 :: References
 https://en.wikipedia.org/wiki/Psychic_detective
+
+
+psychoactive drug experience
+============================
+
+:: Description
+We are pointedly shown a reasonable idea of what it might be like to be under
+the influence of one recreational psychoactive drug or another.
+
+:: Parents
+extraordinary experience
+
+:: Examples
+In tz2019e1x09 "Blue Scorpion", we saw how Jeff Storck smoked pot and played
+the guitar in the course of mourning the loss of his once hippie father.
+
+:: References
+https://en.wikipedia.org/wiki/Psychoactive_drug
 
 
 psychological regression
@@ -29189,6 +29807,25 @@ irrationally overlooking potential counterarguments.
 human thinking about self
 
 
+reading as a hobby
+==================
+
+:: Description
+A character is notably fond of reading books.
+
+:: Parents
+recreational activity
+
+:: Examples
+In tz1985e2x11a "Song of the Younger World", we heard that Amy, the
+superintendents daughter, liked to spend inordinate amounts of time reading in
+the reformatory's library. In an obscure tome she discovered the spell that
+saved her rapscallious lover and herself from her father's wrath.
+
+:: References
+https://en.wikipedia.org/wiki/Reading
+
+
 realist vs. idealist
 ====================
 
@@ -29355,6 +29992,17 @@ camera.
 
 :: Parents
 speculative device
+
+
+recreational activity
+=====================
+
+:: Description
+A character is notably engaged in a hobby or other more or less for-fun
+activity.
+
+:: Parents
+human regular activity
 
 
 red giant
@@ -30141,6 +30789,25 @@ technological risk to civilization, dystopia,
 
 :: Other Parents
 AI
+
+
+rise to prominence from humble beginnings
+=========================================
+
+:: Description
+A character who has little or no particular social status at birth rises to a
+prominent position, usually due to their talents and hard work.
+
+:: Parents
+extraordinary experience
+
+:: Examples
+Bill and Margaret Weldon spent a giddy night imagining all the things they
+would buy after having signed a big contract to market a razor-less shaving
+cream in "Her Husband's Affairs" (1947).
+
+:: Aliases
+from rags to riches,
 
 
 risk taking in the advancement of science and technology
@@ -31167,20 +31834,6 @@ self-confidence in tng2x15 "Pen Pals".
 
 :: References
 https://en.wikipedia.org/wiki/Self-confidence
-
-
-self-control
-============
-
-:: Description
-A character reflects on having lost the ability to regulate their emotions,
-thoughts, and behavior in the face of temptations and impulses.
-
-:: Parents
-human character
-
-:: References
-https://en.wikipedia.org/wiki/Self-control
 
 
 self-coup
@@ -33139,6 +33792,25 @@ godlike.
 speculative ability
 
 
+speculative airship
+===================
+
+:: Description
+There is a still speculative lighter-than-air vessel that can navigate through
+the air under its own power.
+
+:: Parents
+speculative vehicle
+
+:: Examples
+The film "Thunderbird 6" (1968) is largely set aboard Skyship One - a
+futuristic flying vessel that relies on anti-gravity technology to stay aloft.
+
+:: References
+https://en.wikipedia.org/wiki/Airship
+http://www.sf-encyclopedia.com/entry/airships
+
+
 speculative being
 =================
 
@@ -34097,6 +34769,38 @@ human familial relationship
 https://en.wikipedia.org/wiki/Stepfamily
 
 
+storytelling
+============
+
+:: Description
+A character regularly regales their audience with the telling of a story.
+
+:: Parents
+the fine arts and the humanities
+
+
+struggling artist character
+===========================
+
+:: Description
+There is an aspiring painter, musician, or other performer of the fine arts
+who has not (yet) acquired sufficient patronage to sustain themselves in their
+chosen profession.
+
+:: Parents
+human character stereotype
+
+:: Notes
+This theme does not apply to kids who live with their family and are not yet
+expected to sustain themselves.
+
+:: Examples
+In talesoftheunexpected4x11 "Kindly Dig Your Grave", Graham is a talented
+young painter but not much of a negotiator. He is ruthlessly exploited by the
+Madam La Grue, and struggles to turn every one of the few pennies she
+condescends to give him for his work.
+
+
 struggling with a life-changing decision
 ========================================
 
@@ -34768,17 +35472,6 @@ https://en.wikipedia.org/wiki/Stasis_(fiction)
 http://www.sf-encyclopedia.com/entry/suspended_animation
 
 
-swallowing one's pride
-======================
-
-:: Description
-A character acknowledges their instinctive feelings of pride but consciously
-strives not to let them dictate their actions.
-
-:: Parents
-exercising self-control, pride
-
-
 symbiotic being
 ===============
 
@@ -34895,6 +35588,21 @@ tos3x02 "Elaan of Troyius".
 https://en.wikipedia.org/wiki/Table_manners
 
 
+tabletop games
+==============
+
+:: Description
+Featured is one of those games that is normally played on a table or other
+flat surface, such as board games, card games, dice games, miniature wargames,
+or tile-based games.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Tabletop_game
+
+
 take-you-anywhere gateway
 =========================
 
@@ -34936,22 +35644,6 @@ exercising self-control
 In voy5x19 "The Fight", we saw how Chakotay struggled to control his fear of
 death in order to face Kid Chaos in a subconscious boxing ring, because Kid
 Chaos was really an alien who had vital information to impart.
-
-
-taking responsibility for one's actions
-=======================================
-
-:: Description
-A character is notably honest about negative consequences of their actions, as
-opposed to engaging in self-deception.
-
-:: Parents
-exercising self-control
-
-:: Examples
-In tng3x05 "The Bonding", Lt. Commander Worf considered himself responsible
-for Jeremy's mother's death on Worf's away mission. In an effort to make
-amends, Worf tried to adopt Jeremy.
 
 
 taking someone's picture steals their soul
@@ -36289,6 +36981,17 @@ are typically left ambiguous in real stories.
 personal life and death dilemma
 
 
+the carpentry profession
+========================
+
+:: Description
+A character works professionally with creating things out of wood and related
+materials.
+
+:: Parents
+human occupational activity
+
+
 the control of fire
 ===================
 
@@ -36300,6 +37003,21 @@ technology
 
 :: References
 https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans
+
+
+the corporate world
+===================
+
+:: Description
+A character who works in the bureaucracy of a corporation is engaged in this
+profession.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This typically means, businessmen, CEOs, board members, and sometimes
+secretaries. It typically does not mean factory workers and janitors.
 
 
 the dangers of blind obedience
@@ -36889,6 +37607,21 @@ sports
 https://en.wikipedia.org/wiki/Basketball
 
 
+the game of darts
+=================
+
+:: Description
+Darts is a sport in which two or more players throw small missiles, also known
+as darts, at a circular target, known as a "dartboard". This game or sport is
+featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Darts
+
+
 the game of pool
 ================
 
@@ -36899,11 +37632,11 @@ balls are deposited, is notably featured.
 :: Parents
 sports
 
-:: Aliases
-billiards, snooker
-
 :: References
 https://en.wikipedia.org/wiki/Pool_(cue_sports)
+
+:: Aliases
+billiards, snooker
 
 
 the game of tennis
@@ -37522,6 +38255,19 @@ human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Health_professional
+
+
+the military professions
+========================
+
+:: Description
+There is a character whose main occupation involves being part of the armed
+forces of a putative state, or the like. This may, for example, be because
+they work professionally as an officer or because they are conscripted as
+privates.
+
+:: Parents
+human occupational activity
 
 
 the military-industrial complex in society
@@ -38792,6 +39538,19 @@ tos2x01 "Catspaw".
 
 :: References
 https://en.wikipedia.org/wiki/Supernatural
+
+
+the teaching profession
+=======================
+
+:: Description
+There is a school teacher, or the like, engaged in their chosen profession.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Teacher
 
 
 the tech industry
@@ -40748,6 +41507,20 @@ public health issue
 
 :: References
 https://en.wikipedia.org/wiki/Video_game_addiction
+
+
+video gaming
+============
+
+:: Description
+A character is enthusiastic about playing video games.
+
+:: Parents
+recreational activity
+
+:: Examples
+Alex Rogan was determined to set the high score on an arcade game, called
+Starfighter, in "The Last Starfighter" (1984).
 
 
 video manipulation in society
@@ -43539,6 +44312,57 @@ what life is like
 https://en.wikipedia.org/wiki/Legal_proceeding
 
 
+what it is like in a psychiatric institution
+============================================
+
+:: Description
+Someone experiences living as a patient in an insane asylum.
+
+:: Parents
+what life is like
+
+:: Examples
+Nefarious aliens made Riker believe he might live out his life in an insane
+asylum on Tilonus IV in tng6x21 "Frame of Mind"
+
+
+what it is like in boarding school
+==================================
+
+:: Description
+We are shown what life may be like in an educational institution where young
+students both live and learn on the premises for whole semesters without
+leaving to go home.
+
+:: Parents
+what it is like in school
+
+:: References
+https://en.wikipedia.org/wiki/Boarding_school
+
+
+what it is like in college
+==========================
+
+:: Description
+We are shown what life might be like for university students. Stereotypically
+this might involve fraternities, pranks on the Dean, spring breaks, etc.
+
+:: Parents
+what it is like in school
+
+
+what it is like in high school
+==============================
+
+:: Description
+We are shown an idea of what things might be like for people (both student and
+staff) in a high school, or comparable institution.
+
+:: Parents
+what it is like in school
+
+
 what it is like in prison
 =========================
 
@@ -43548,6 +44372,17 @@ incarcerated person in some type of prison.
 
 :: Parents
 what life is like
+
+
+what it is like in school
+=========================
+
+:: Description
+We are shown what life might be like for students in some institution of
+learning.
+
+:: Parents
+what it is like in school
 
 
 what it is like on a passenger flight
@@ -43572,6 +44407,32 @@ because of their skin color.
 
 :: Parents
 human social position
+
+
+what it is like to be homeless
+==============================
+
+:: Description
+We are made to ponder what life is like for a poor downtrodden man or woman
+living on the streets.
+
+:: Parents
+what it is like to be impoverished
+
+:: References
+https://en.wikipedia.org/wiki/Homelessness
+
+
+what it is like to be impoverished
+==================================
+
+:: Description
+The general life and travails of someone who finds themself in a state of
+abject poverty is illustrated. Typically they are homeless and must live hand-
+to-mouth on the street doing odd-jobs or begging.
+
+:: Parents
+what life is like
 
 
 what it is like to live through a military occupation
