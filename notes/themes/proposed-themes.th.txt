@@ -2,6 +2,8 @@ surveillance capitalism
 =======================
 
 :: Description
+Discussed is the social issue of corporations collecting and profiting
+from large amounts of people's personal data.
 
 :: Parents
 socioeconomic issue, sociotechnological issue
@@ -9,15 +11,24 @@ socioeconomic issue, sociotechnological issue
 :: References
 https://en.wikipedia.org/wiki/Surveillance_capitalism
 
+:: Examples
+In pkded1x09 "Safe and Sound", Simi corp. is providing school 
+students with activity monitoring wrist bands. The corporation uses
+information form the wristbands to stage terrorist attacks, in order
+to scare people and create further demand for its activity monitoring 
+wristbands.
+
 
 hologram
 ========
 
 :: Description
+There is technology that can create three-dimensional images in space.
 
 :: Notes
-As holgram-like special effects are rather common in modern films,
-(...)
+Hologram-like special effects are frequently used in modern sci-fi 
+movies. This theme should be used only if the holograms are explicitly 
+discussed or are significant to the story.
 
 :: Parents
 speculative technology
@@ -25,24 +36,45 @@ speculative technology
 :: References
 https://en.wikipedia.org/wiki/Holography
 
+:: Examples
+In pkded1x10 "Kill All Others", Philbert is rather put off when he finds 
+his wife sharing the sofa with a hologram of a sexy foreign man selling 
+coffee.
+
+
 signs from the heavens
 ======================
 
 :: Description
-Some seemingly miraculous event is interpreted as a sign of divine origin.
+Some seemingly miraculous event is taken as having divine origin
+and carry implications about what ought or oughtn't be done.
 
 :: Parents
 organized religion
 
+:: References
+https://en.wikipedia.org/wiki/Signs_and_Wonders
+
+:: Examples
+In ahp1x03 "Triggers in Leash", two cowboys agree to start their duel on 
+the stroke of twelve o'clock. When the designated timepiece stop a few minutes 
+short of the fatal hour, it is seen as a sign from God that they ought to 
+call the duel off and reconcile.
 
 
 what it is like in elementary school
 ====================================
 
 :: Description
+We are shown an idea of what things might be like for people (both student 
+and staff) in an elementary school, primary school, or comparable 
+institution. Students are roughly 6-11 years old.
 
 :: Parents
 what it is like in school
+
+:: References
+https://en.wikipedia.org/wiki/Elementary_school_(United_States)
 
 
 religious occupation
@@ -194,4 +226,31 @@ humans at work
 
 :: Aliases
 last day on the job
+
+
+bad luck signs
+==============
+
+:: Description
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/List_of_bad_luck_signs
+
+
+what it is like in college
+==========================
+
+:: Description
+We are shown what life might be like for university students. Stereotypically
+this might involve fraternities, pranks on the Dean, spring breaks, etc.
+
+:: Parents
+what it is like in school
+
+
+
+
 
