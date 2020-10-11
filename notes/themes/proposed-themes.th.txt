@@ -241,6 +241,8 @@ doppelgänger
 ============
 
 :: Description
+There are two characters who are biologically unrelated yet carry such
+a remarkable resemblance that one could readily impersonate the other.
 
 :: Parents
 speculative human
@@ -249,13 +251,19 @@ speculative human
 https://en.wikipedia.org/wiki/Doppelg%C3%A4nger
 
 :: Aliases
-doppelganger
+doppelganger, twin stranger
+
+:: Examples
+In ahp1x10 "The Case of Mr. Pelham", a twin double is gradually taking
+over Mr. Pelman's life.
 
 
 speculative human
 =================
 
 :: Description
+This is the category of speculative beings that biologically human yet
+have some characteristic that is not ordinarily seen in humans.
 
 :: Parents
 speculative being
@@ -265,21 +273,32 @@ what if I became witness to a suspected crime
 =============================================
 
 :: Description
-
-:: Notes
-Not to include open-and-shut cases...
+We imagine what it would be like to see something that seems like a serious 
+crime, typically murder, yet lack certainty. Should we investigate, 
+contact the police, or drop the matter?
 
 :: Parents
 what if I were in a tight spot
+
+:: Examples
+In "Rear Window" (1954) Jeff thinks he has just witnessed a murder but 
+doesn't have enough certainty to call the police. Instead he convinces
+his friends to sneak over and gather evidence.
 
 
 what if I fell into the clutches of a person with malicious intent
 ==================================================================
 
 :: Description
+We imagine what it might be like suddenly to find one's self in the captivity 
+and at the mercy of a person who wants us no good.
 
 :: Parents
 what if I were in a tight spot
+
+:: Examples
+In ahp1x16 "You Got to Have Luck", Mary is home invaded by a fugitive 
+prisoner who threatens her with a knife and plans to use her as a hostage.
 
 
 what if I fell into the clutches of a homicidal maniac
@@ -293,16 +312,17 @@ and at the mercy of a crazed killer.
 what if I fell into the clutches of a person with malicious intent
 
 :: Examples
-In talesoftheunexpected1x05 "The Landlady", young Billy came to realize that
-his landlady was a serial killer but, alas, too late: His tea had been drugged
-and he was no longer capable of putting up effective resistance as she lead
-him to his prospective deathbed.
+In talesoftheunexpected1x05 "The Landlady", young Billy comes to realize that
+his landlady is a serial killer but, alas, only too late: His tea has been drugged
+and he is in the end no longer capable of putting up effective resistance as she 
+leads him to his prospective deathbed.
 
 
 getting fired from one's job
 ============================
 
 :: Description
+A character is informed that they have been laid off from their job.
 
 :: Parents
 humans at work
@@ -310,17 +330,27 @@ humans at work
 :: Aliases
 last day on the job
 
+:: Examples
+In ahp1x14 "A Bullet for Baldwin", Mr. Baldwin tells Mr. Stepp he is fired
+so Mr. Stepp fetches a gun and promptly fires it at Mr. Baldwin.
+
 
 bad luck signs
 ==============
 
 :: Description
+An omen that signifies ill luck according to some tradition, is featured
+in just such a way.
 
 :: Parents
 superstition
 
 :: References
 https://en.wikipedia.org/wiki/List_of_bad_luck_signs
+
+:: Examples
+In ahp1x14 "A Bullet for Baldwin", a cleaner informs Mr. Stepp that 
+opening an umbrella inside gives you bad luck.
 
 
 what it is like in college
