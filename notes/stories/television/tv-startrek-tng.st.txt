@@ -242,7 +242,7 @@ human drama, action
 :: Choice Themes
 honor [Lutan in his dealings with Federation] <Lutan>,
 the desire for prestige [Lutan] <Lutan>,
-diplomatic negotiating [Picard with Ligonians after Tasha taken hostage],
+diplomacy [Picard with Ligonians after Tasha taken hostage],
 
 :: Major Themes
 the lust for power [Lutan] <Lutan>,
@@ -756,7 +756,8 @@ destiny [Wyatt's destiny to meet space plague woman],
 mother and daughter [Lwaxana and Troi] <Lwaxana/Troi>,
 arranged marriage [Troi arranged to marry Wyatt],
 telepathic being [Betazoid] <Betazoid>,
-space refugee beings [The few Tarellian survivors of a plague were in a spaceship roaming the galaxy for a new home, but the people of Haven didn't want to let them settle on their planet.] <Tarellian>,
+refugee crisis [The few Tarellian survivors of a plague were in a spaceship roaming the galaxy for a new home, but the people of Haven didn't want to let them settle on their planet.],
+treatment of refugees [The few Tarellian survivors of a plague were in a spaceship roaming the galaxy for a new home, but the people of Haven didn't want to let them settle on their planet.],
 the good of the many vs. the needs of the few [the safety of the people of Haven vs. founding a space leper colony on the planet],
 fiancée and fiancée [Troi and Wyatt] <Troi/Wyatt Miller>,
 the ethics of valuing human lives [the safety of the people of Haven vs. founding a space leper colony on the planet],
@@ -1586,7 +1587,7 @@ political drama, social awareness
 
 :: Choice Themes
 the ethics of interfering in less advanced societies [Picard chooses not to interfere in conflict by refusing to be involved with dealing the drug] <Picard>,
-culturally symbiotic beings [drug dealer aliens and druggie aliens] <Brekkian, Ornaran>,
+culturally symbiotic societies [drug dealer aliens and druggie aliens] <Brekkian, Ornaran>,
 
 :: Major Themes
 exploitation of sentient beings [drug dealing aliens exploit drug addict aliens],
@@ -3625,7 +3626,7 @@ of a powerful and mysterious race.
 political drama
 
 :: Choice Themes
-diplomatic negotiating [Data with colonists and Picard with Sheliak],
+diplomacy [Data with colonists and Picard with Sheliak],
 leadership [Data's leadership skills put to the test against those of Ghosheven] <Data, Gosheven>,
 the qualities of a good leader [Data and Gosheven] <Data, Gosheven>,
 attachment to one's land [colonists] <Gosheven>,
@@ -3827,7 +3828,6 @@ emotional overwhelm [The Mintakan aboard the ship who thought Picard was God] <N
 ruthlessness [Picard: why didn't you let him die?],
 the thirst for knowledge [Nuria] <Nuria>,
 father and daughter [Lico and Oji] <Lico/Oji>,
-ancient aliens [Picard welcomed as god by the Mintakans; or was it a reverse-proto chariot of the humans?],
 signs from the heavens [Mintakans interpret landing party funny business as signs from the heavens],
 paternal love [Lico to Oji] <Lico>,
 fear [Mintakans of Picard],
@@ -6037,7 +6037,7 @@ conflict of cultural norms [The humans could not stand idly by and let Jono be a
 :: Major Themes
 duty vs. duty [Jono's choice to stay or leave] <Jono>,
 children's rights [Can Jono be allowed to choose for himself?],
-diplomatic negotiating [Picard in negotiating with Talarians for Jono on behalf of the Federation],
+diplomacy [Picard in negotiating with Talarians for Jono on behalf of the Federation],
 paternal love [Endar to Jono] <Endar>,
 role models [Picard and Jono] <Picard>,
 teenage angst [Jono] <Jono>,
@@ -6673,7 +6673,7 @@ action, human drama
 the desire for vengeance [Maxwell toward Cardassians] <Benjamin Maxwell>,
 obsession [Maxwell with killing all Cardassians] <Benjamin Maxwell>,
 ethnic hatred [Humans and Cardassians],
-diplomatic negotiating [Picard with Cardassians over how to handle Maxwell],
+diplomacy [Picard with Cardassians over how to handle Maxwell],
 
 :: Major Themes
 anger [Maxwell toward Cardassians] <Benjamin Maxwell>,
@@ -10673,7 +10673,7 @@ putting differences aside [Riker and Jellico must learn to work together] <Riker
 
 :: Minor Themes
 coping with an intransigent person [Riker at Jellico] <Riker>,
-diplomatic negotiating [Jellico takes a hardball approach to negotiating with Cardassians],
+diplomacy [Jellico takes a hardball approach to negotiating with Cardassians],
 annihilation by WMDs [metagenic weapon],
 coping with disagreeable orders [Riker with Jellico's orders] <Riker>,
 personal conviction [Jellico] <Edward Jellico>,
@@ -10758,7 +10758,7 @@ hatred [Madred at older by who stole his eggs as a child; humanity] <Madred>,
 :: Minor Themes
 going over someone's head [Jellico established a firm chain of command.],
 putting differences aside [Riker and Jellico on the Enterprise] <Riker/Edward Jellico>,
-diplomatic negotiating [Jellico takes a hardball approach to negotiating with Cardassians],
+diplomacy [Jellico takes a hardball approach to negotiating with Cardassians],
 brinkmanship [Jellico in dealing with Cardassians],
 the ethics of valuing human lives [Jellico considers Picard's life to be expendable] <Edward Jellico>,
 coping with a bad boss [Riker at Jellico] <Riker>,
