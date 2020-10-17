@@ -418,16 +418,23 @@ treatment of refugees
 =====================
 
 :: Description
+The way in which refugees from abroad, of one kind or another, are or ought
+to be treated is discussed.
 
 :: Parents
 law and order issue
+
+:: Examples
+In tng1x11 "Haven", Tarellian survivors of a plague are in a spaceship roaming 
+the galaxy for a new home. The people of Haven refuse to let them settle 
+on their planet for fear of the disease.
 
 
 xenophobic isolationist society
 ===============================
 
 :: Description
-!!! An race of beings choose to remain apart from the affairs of other beings,
+An society chooses to remain apart from the affairs of other societies,
 perhaps out of fear of strangers.
 
 :: Parents
@@ -442,31 +449,39 @@ the right to exist of a genocidal people
 ========================================
 
 :: Description
-!!! The following dilemma is illustrated: Suppose another people (or alien
-species) engages in pathological killing and genocide; do they themselves have
-the right to exist? Would we be morally justified in visiting genocide on
-them? Is there room for doubt?
+The following dilemma is illustrated: Suppose a peoples engages in pathological 
+killing and genocide; do they themselves then have the right to exist? 
+Would we be morally justified in visiting genocide on them? 
+Is there room for doubt?
 
 :: Parents
 ethics
+
+:: Examples
 
 
 being on the run from the law
 =============================
 
 :: Description
+A character is on the run from the legitimate police.
 
 :: Parents
 facing organized pursuit
+
+:: Examples
+In ahp1x16 "You Got to Have Luck", Sam is a felon escaped from prison
+and tries to evade recapture by the police.
 
 
 biologically symbiotic being
 ============================
 
 :: Description
-!!! A sentient species that lives in a close interdependent relationship with an
-entirely different species. Both receive some benefit from the arrangement
-which would otherwise be called parasitic.
+A sentient species that lives in a physiologically interdependent relationship 
+with an entirely different species. Their bodies are connected, perhaps
+because one species is internal to the other. Both receive some notable benefit 
+from the arrangement (which would otherwise be called parasitic).
 
 :: Parents
 biologically distinguished being
@@ -496,7 +511,7 @@ self-deception
 ==============
 
 :: Description
-Someone refuses to face uncomfortable truths.
+A character notably refuses to face uncomfortable truths.
 
 :: Parents
 human thinking about self
@@ -504,18 +519,33 @@ human thinking about self
 :: References
 https://en.wikipedia.org/wiki/Self-deception
 
+:: Examples
+In tng3x23 "Sarek", the eponymous Vulcan refuses to acknowledge the obvious
+fact that he suffers from a rare neurological disease that makes him succumb 
+to emotionality. Priding themselves on their rationality, this would be highly
+embarrassing for any Vulcan, and doubly so for Sarek who is an esteemed diplomat.
+
 
 studying for a test
 ===================
 
 :: Description
+A young character studies for a formal test in school, or something 
+similar.
+
+:: Notes
+Formal tests are typically associated with schooling, and thus the
+early stages of life. Therefore this theme is taken to imply "human childhood".
+If an adult character is "studying for a test" in a story, the reviewer must
+decide whether the situation resembles school tests enough that the idea
+of "human childhood" is implied.
 
 :: Parents
 human childhood
 
 :: Examples
-Wesley tried the Starfleet Academy entrance exam and failed in tng1x19 "Coming
-of Age".
+Wesley tried the Starfleet Academy entrance exam and failed in tng1x19 
+"Coming of Age".
 
 :: References
 https://en.wikipedia.org/wiki/Educational_entrance_examination
@@ -525,14 +555,18 @@ soccer
 ======
 
 :: Description
+Association football, more commonly known as football or soccer, is a team 
+sport played with a spherical ball between two teams of 11 players. This
+game is featured.
 
 :: Parents
 sports
 
-:: Examples
-
 :: References
 https://en.wikipedia.org/wiki/Association_football
+
+:: Aliases
+football
 
 
 sacred sanctuary
