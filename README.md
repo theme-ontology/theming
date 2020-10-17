@@ -87,6 +87,10 @@ may conceivably be used to distinguish between variations of a work.
 be as the work is best known in English. The original title may be specified as part of the description.
 - As a rule of thumb, the *date* should indicate the earliest time that the work is known to have been made available
 to a broad public. 
+- Two variations on a story are normally considered the same story if all themes are the same. This is often the case in
+renditions of a Shakespeare play that largely adhere to the original script. If themes are different, on the other hand,
+the variations are considered different and should have different story entries. This is usually the case in remakes
+of films.
 
 Every story must also be assigned a unique ID. While all text files are encoded in UTF-8, the story ID should be composed
 only of normal English characters and punctuation directly mappable to ASCII. There are no technical restrictions apart from that.
