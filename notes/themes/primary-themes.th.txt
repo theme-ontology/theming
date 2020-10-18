@@ -5900,23 +5900,6 @@ not choosing would probably lead to the worst outcome of all, is featured.
 social ethical dilemma
 
 
-choosing what kind of person one wants to be
-============================================
-
-:: Description
-A character ponders a decision regarding what kind of person they want to be
-in the future.
-
-:: Parents
-human life choice
-
-:: Examples
-In voy6x06 "Riddles", Tuvok has amnesia but learns to enjoy life as his new
-and now emotional self. When a cure is found, he contemplates whether or not
-he really wants to go back to being the cold emotionless Vulcan automaton he
-had been before.
-
-
 choosing whether to kill someone to spare them suffering
 ========================================================
 
@@ -8114,18 +8097,6 @@ and must deal with the associated feelings and problems.
 
 :: Parents
 coping with life issues
-
-
-coping with being at the brink of destruction
-=============================================
-
-:: Description
-A character, alone or in company with others, is harrowed and on the brink of
-destruction and manages to go on only by the skin of their teeth. Typically
-they are dirty, injured, thorned and impoverished.
-
-:: Parents
-human in danger
 
 
 coping with being crammed up in a confined space with other people
@@ -18099,6 +18070,9 @@ how to commit a crime and get away with it
 This theme is not used in extraordinary circumstances, such as on a
 battlefield, where the opportunity might present itself through mere chance.
 
+:: Aliases
+the perfect murder
+
 
 how to rob a bank and get away with it
 ======================================
@@ -20536,7 +20510,7 @@ A character is wrestling with the decision of whether or not to let a near and
 dear person be committed to, for example, an asylum for the mentally ill.
 
 :: Parents
-family affairs
+family affairs, human life choice
 
 :: References
 https://en.wikipedia.org/wiki/Institutionalisation#The_mentally_ill
@@ -27264,22 +27238,6 @@ create human clones to harvest their organs.
 
 :: Parents
 social ethical dilemma
-
-
-people can change
-=================
-
-:: Description
-Someone who was of a certain character proves later to have changed in a
-profound and, perhaps, surprising way. For example, a no-good punk, juvenile
-delinquent reforms their wicked ways to become a veritable saint.
-
-:: Parents
-human nature
-
-:: Examples
-Returning defector Stefan DeSeve had really seen the error of his ways in
-tng6x14 "Face of the Enemy".
 
 
 people constantly rated dystopia
@@ -37207,17 +37165,6 @@ lead to socially good outcomes? Are the policies morally justified if so?
 social ethical dilemma
 
 
-the enemy of my enemy is my friend
-==================================
-
-:: Description
-A character comes to learn that the enemy of their enemy is their friend - or
-perhaps not.
-
-:: Parents
-human idea about life
-
-
 the entertainment industry
 ==========================
 
@@ -39740,25 +39687,6 @@ quibbled about this and other things in tng6x26 "Descent".
 :: References
 https://en.wikipedia.org/wiki/Special_relativity
 https://en.wikipedia.org/wiki/General_relativity
-
-
-there is no substitute for experience
-=====================================
-
-:: Description
-The importance of practical experience is emphasized, usually by contrast with
-theoretical knowledge.
-
-:: Parents
-human idea about life
-
-:: Examples
-Inexperienced Stocker mistakenly thought he could handle running the
-Enterprise after Captain Kirk was incapacitated by age in tos2x11 "The Deadly
-Years".
-
-:: Aliases
-there is value in experience
 
 
 there is nothing to fear but fear itself
