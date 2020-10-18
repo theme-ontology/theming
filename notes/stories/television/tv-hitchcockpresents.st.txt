@@ -1394,19 +1394,22 @@ Directed by: Robert Stevens. Story by: Michael Arlen, Francis Cockrell.
 
 :: Ratings
 3 <mikael>,
+3 <paul>,
 
 :: Choice Themes
-haunted house [Howard spent a night in a haunted house MO: move this to the haunted object category],
-ghost [the purported haunted house had a purported haunting ghost],
+haunted house [Howard spent a night in the supposedly haunted Hurstwood mansion.] <MO: move this to the haunted object category>,
+ghost [The purported haunted house had a purported haunting ghost.],
 
 :: Major Themes
-superstitiousness [MO: this theme is ripe for the slaughter. But it might be profitable to introduce something for stories where a skeptical character is contrasted with a believer],
-metal illness [we learn in the end that the episode had actually driven Latimer insane],
+superstitiousness [] <MO: this theme is ripe for the slaughter. But it might be profitable to introduce something for stories where a skeptical character is contrasted with a believer>,
+metal illness [We learn in the end that the spending of a night in the Hurstwood mansion had actually driven Latimer insane.],
+facing financial ruin [Being hard up for cash, Sir Stephen Hurstwood first took to gambling on horse racing, before deciding to hoodwink Latimer out of £1000.],
 
 :: Minor Themes
-sister and sister [Geraldine (?) and Julia],
-fear for one's life [Latimer passed out in fear],
-murder in society [insane Latimer believed that someone had murdered his sister and cut her head off],
+sister and sister [Geraldine and Julia.],
+fear for one's life [Latimer passed out in fear upon being spooked by the Hurstwood ghost.],
+murder in society [An insane Latimer believed that someone had murdered his sister and cut her head off.],
+gambling [Some gentleman's club members were gambling on the outcome of a horse race.],
 
 
 ahp1x32
@@ -1432,12 +1435,25 @@ Michael Ansara, Ray Teal
 Directed by: Robert Stevens. Story by: Emily Neff, Sarett Rudley.
 
 :: Ratings
+2 <paul>,
+2 <mikael>,
 
 :: Choice Themes
+DESTINY [Lottie said the woman was fated to die],
 
 :: Major Themes
+spouse murder [Mr. Nash strangled his wife to death.],
+mother and daughter [Janie became suspicious that her mother Lottie was somehow involved in the murder of Mrs. Nash. ],
+coping with aging [Lottie, whose best years were behind her, took up exercise and went on a diet in an effort to make herself more physically attractive to Mr. Nash.],
+unrequited love [Lottie was head over heals for Mr. Nash to the point where she was willing to overlook that he'd strangled his wife, while Mr. Nash evidently felt nothing for her.],
+love triangle [Lottie, Mr. Nash, Mrs. Nash and maybe Mrs. Nash's lover],
 
 :: Minor Themes
+law enforcement [A police detective was investigating the strangulation of Mrs. Nash.],
+husband and wife [Mr. and Mrs. Nash.],
+romantic infidelity [Mr. Nash caught his wife with another man.],
+murder in society [The story concluded with Mr. Nash murdering Lottie.],
+blackmail in society [the letter Lottie wrote had a line to blackmail Nash into a dinner for two],
 
 
 ahp1x33
