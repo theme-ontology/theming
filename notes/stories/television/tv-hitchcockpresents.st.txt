@@ -1392,19 +1392,19 @@ John Alderson, John Dodsworth, Sonia Torgeson, Jan Chaney
 Directed by: Robert Stevens. Story by: Michael Arlen, Francis Cockrell.
 
 :: Ratings
-3 <mikael*>,
+3 <mikael>,
 3 <paul>,
 
 :: Choice Themes
-haunted house [Howard spent a night in the supposedly haunted Hurstwood mansion.] <MO: move this to the haunted object category>,
-ghost [The purported haunted house had a purported haunting ghost.],
+haunted house [Howard spent a night in the supposedly haunted Hurstwood mansion.],
 
 :: Major Themes
-superstitiousness [] <MO: this theme is ripe for the slaughter. But it might be profitable to introduce something for stories where a skeptical character is contrasted with a believer>,
-metal illness [We learn in the end that the spending of a night in the Hurstwood mansion had actually driven Latimer insane.],
-facing financial ruin [Being hard up for cash, Sir Stephen Hurstwood first took to gambling on horse racing, before deciding to hoodwink Latimer out of £1000.],
+ghost [The purported haunted house had a purported haunting ghost.],
+superstitiousness [Latimer tried to take advantage an apparently very superstitious Mr. Hurstwood by spending a night in his haunted mansion on a £1000 wager.],
 
 :: Minor Themes
+facing financial ruin [Being hard up for cash, Sir Stephen Hurstwood first took to gambling on horse racing, before deciding to hoodwink Latimer out of £1000.],
+metal illness [We learn in the end that the spending of a night in the Hurstwood mansion had actually driven Latimer insane.],
 sister and sister [Geraldine and Julia.],
 fear for one's life [Latimer passed out in fear upon being spooked by the Hurstwood ghost.],
 murder in society [An insane Latimer believed that someone had murdered his sister and cut her head off.],
@@ -1438,21 +1438,20 @@ Directed by: Robert Stevens. Story by: Emily Neff, Sarett Rudley.
 2 <mikael>,
 
 :: Choice Themes
-DESTINY [Lottie said the woman was fated to die],
+unrequited love [Lottie was head over heals for Mr. Nash to the point where she was willing to overlook that he'd strangled his wife, while Mr. Nash evidently felt nothing for her.],
 
 :: Major Themes
 spouse murder [Mr. Nash strangled his wife to death.],
-mother and daughter [Janie became suspicious that her mother Lottie was somehow involved in the murder of Mrs. Nash. ],
+mother and daughter [Janie became suspicious that her mother Lottie was somehow involved in the murder of Mrs. Nash.],
 coping with aging [Lottie, whose best years were behind her, took up exercise and went on a diet in an effort to make herself more physically attractive to Mr. Nash.],
-unrequited love [Lottie was head over heals for Mr. Nash to the point where she was willing to overlook that he'd strangled his wife, while Mr. Nash evidently felt nothing for her.],
-love triangle [Lottie, Mr. Nash, Mrs. Nash and maybe Mrs. Nash's lover],
+love triangle [Lottie, Mr. Nash, Mrs. Nash and maybe Mrs. Nash's lover.],
 
 :: Minor Themes
 law enforcement [A police detective was investigating the strangulation of Mrs. Nash.],
 husband and wife [Mr. and Mrs. Nash.],
 romantic infidelity [Mr. Nash caught his wife with another man.],
 murder in society [The story concluded with Mr. Nash murdering Lottie.],
-blackmail in society [the letter Lottie wrote had a line to blackmail Nash into a dinner for two],
+blackmail in society [The letter Lottie wrote had a line to blackmail Nash into a dinner for two.],
 
 
 ahp1x33
@@ -1484,12 +1483,11 @@ Dennis.
 3 <paul>,
 
 :: Choice Themes
+being on the run from the law [Ringle killed a man and was chased by a posse and the sheriff.],
 
 :: Major Themes
-being on the run from the law [Ringle killed a man and was chased by a posse and the sheriff.],
 murder in society [Ringle killed the fiancée of the woman he had a crush on.],
 unrequited love [Ringle was besotted with Ellie but she wanted nothing of him, especially after he killed her fiancée.],
-delusional point of view [Ringle was under the deluded conviction that Ellie would be his even after she spurned him outright and he killed her fiancée.],
 
 :: Minor Themes
 what it is like in elementary school [We saw Ellie teach in an elementary school room of yore.],
@@ -1526,24 +1524,21 @@ Directed by: Robert Stevens. Story by: A. J. Russell, James Cavanagh.
 2 <mikael>,
 
 :: Choice Themes
-the need for closure [we never found out who the driver was - very unsatisfying],
 
 :: Major Themes
-infatuation [Dana lost his lovebird Laura in a hit and run vehicular homicide.],
-murder in society [Laura's life was cut tragically short when she was killed in a hit and run vehicular homicide. MO: there is no reason to think that anyone considered this intentional murder - they kept saying it was an accident],
-coping with the death of a lover [Dana was devastated over having lost his fiancée in a hit and run accident.],
-grief [Dana was devastated over having lost his fiancée in a hit and run accident.],
-remorse [Dana blamed himself for Laura's tragic death in a hit and run accident.],
-beating one's self up [Dana blamed himself for Laura's tragic death in a hit and run accident.],
-dangerous driving in society [The incident was variously described as an accident and as murder, leading us to the conclusion that it was a fatal accident caused by reckless driving, presumably speeding and not paying attention.],
-the desire for justice [Dana became preoccupied with finding the person responsible for his lover's death.],
-repressed memories [we gather that Dana couldn't remember the accident well because he felt guilty and didn't want to remember the day of the fatal accident],
+tragic love [Dana lost his beloved Laura in a hit-and-run accident.],
+fiancée and fiancée [Dana lost his lovebird Laura in a hit-and-run vehicular homicide to open the story.],
+coping with the death of a lover [Dana was devastated over having lost his fiancée in a hit-and-run accident.],
+grief [Dana was devastated over having lost his fiancée in a hit-and-run accident.],
+remorse [Dana blamed himself for Laura's tragic death in a hit-and-run accident.],
+beating one's self up [Dana blamed himself for Laura's tragic death in a hit-and-run accident.],
+dangerous driving in society [The incident was variously described as an accident and as murder, leading us to the conclusion that it was a fatal accident caused by reckless driving, presumably a case of manslaughter.],
+the desire for justice [Dana became preoccupied with finding the person responsible for his lover's death in a hit-and-run accident.],
+repressed memories [We gather that Dana couldn't remember the accident well because he felt guilty and didn't want to remember the day of the fatal accident.],
 
 :: Minor Themes
-fiancée and fiancée [Dana lost his lovebird Laura in a hit and run vehicular homicide to open the story.],
 law enforcement [Lieutenant Shea questioned Dana after a hit and run accident.],
 mother and son [Dana was living with his mother.],
-the nature of memory [FD],
 
 
 ahp1x35
@@ -1570,7 +1565,7 @@ Roxanne Arlen, Rudolph Anders, Joan Dixon
 Directed by: James Neilson. Story by: Gina Kaus, Gina Kaus & Andrew Solt.
 
 :: Ratings
-3 <mikael>,
+3 <mikael*>,
 
 :: Choice Themes
 
