@@ -1,14 +1,39 @@
-Collection: Babylon 5: Films
-============================
+Collection: TekWar Films
+========================
 
 :: Title
-Babylon 5: Films
+TekWar Films
+
+:: Date
+1994
+
+:: Collections
+Collection: TekWar Films
+
+:: Description
+The four television films in the TekWar media franchise.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_TekWar_episodes#Season_1_.281994.29
+
+:: Component Stories
+movie: TekWar: The Movie (1994)
+movie: TekWar: TekLab (1994)
+movie: TekWar: TekLab (1994)
+movie: TekWar: TekJustice (1994)
+
+
+Collection: Babylon 5 Films
+===========================
+
+:: Title
+Babylon 5 Films
 
 :: Date
 1993-2002
 
 :: Collections
-Collection: Babylon 5: Films
+Collection: Babylon 5 Films
 
 :: Description
 The six television films in the Babylon 5 media franchise.
@@ -25,17 +50,17 @@ movie: Babylon 5: A Call to Arms (1999)
 movie: Babylon 5: The Legend Of The Rangers (2002)
 
 
-Collection: Alien Nation: Films
-===============================
+Collection: Alien Nation Films
+==============================
 
 :: Title
-Alien Nation: Films
+Alien Nation Films
 
 :: Date
 1988-1997
 
 :: Collections
-Collection: Alien Nation: Films
+Collection: Alien Nation Films
 
 :: Description
 The six television films in the Alien Nation media franchise.
@@ -704,17 +729,17 @@ movie: Solo: A Star Wars Story (2018)
 movie: Star Wars: The Rise of Skywalker (2019)
 
 
-Collection: Star Trek: Films
-============================
+Collection: Star Trek Films
+===========================
 
 :: Title
-Star Trek: Films
+Star Trek Films
 
 :: Date
 1979-2016
 
 :: Collections
-Collection: Star Trek: Films
+Collection: Star Trek Films
 
 :: Description
 Star Trek feature films.
