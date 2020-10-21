@@ -12635,7 +12635,7 @@ killing of someone who is thought to suffer greatly without any other hope of
 relief.
 
 :: Parents
-sociocultural issue
+sociocultural issue, human rights issue
 
 :: References
 https://en.wikipedia.org/wiki/Euthanasia
@@ -15580,25 +15580,6 @@ their fragile social order.
 https://en.wikipedia.org/wiki/Freedom_of_movement
 
 
-freedom of religion
-===================
-
-:: Description
-We are made to ponder to what extent people should be free to practice what
-religious beliefs they please. What you believe may be your own business but
-is it ok to scare your children with stories of hellfire and brimstone?
-
-:: Parents
-human rights issue
-
-:: Examples
-Alternative religions were frowned upon in ancient space Rome in tos2x14
-"Bread and Circuses".
-
-:: References
-https://en.wikipedia.org/wiki/Freedom_of_religion
-
-
 freedom of the press
 ====================
 
@@ -16529,16 +16510,6 @@ The relationship between a godparent and their godchild is featured.
 
 :: Parents
 human familial relationship
-
-
-godparenthood
-=============
-
-:: Description
-A character becomes a godfather or godmother.
-
-:: Parents
-human parenting
 
 
 going over someone's head
@@ -20034,23 +20005,6 @@ law and order issue
 
 :: References
 https://en.wikipedia.org/wiki/Imprisonment
-
-
-imprisonment without a lawful cause
-===================================
-
-:: Description
-We are made to ponder what justifications and procedures should be required in
-order to deprive someone of their freedom.
-
-:: Parents
-human rights issue
-
-:: Related Themes
-the right to a fair trial
-
-:: Other Parents
-crime and punishment
 
 
 in-law relationship
@@ -24532,21 +24486,6 @@ engineered trans-orbital structure
 :: Examples
 Dr. Farallon developed a technology called the Particle Fountain to achieve
 this end in tng6x09 "The Quality of Life".
-
-
-minority rights
-===============
-
-:: Description
-We are made to ponder what added rights a minority group might deserve to be
-awarded in the face of a majority population. Should subsidies be paid to
-preserve minority languages, for example?
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/Minority_rights
 
 
 miracle
@@ -30266,6 +30205,9 @@ human parenting
 :: References
 https://en.wikipedia.org/wiki/Surrogacy
 
+:: Aliases
+surrogate mother
+
 
 reptilian being
 ===============
@@ -31179,23 +31121,12 @@ opponent or even an enemy.
 human self-sacrifice for another
 
 
-sacrifice for an idea
-=====================
-
-:: Description
-A character does a self-sacrificial thing for the sake of an idea they believe
-in.
-
-:: Parents
-human self-sacrifice
-
-
 sacrifice for one's beliefs
 ===========================
 
 :: Description
-A character does a self-sacrificial thing for the sake of a cause they believe
-in.
+A character does a self-sacrificial thing for the sake of a cause, or idea, 
+they believe in.
 
 :: Parents
 human self-sacrifice
@@ -31210,21 +31141,6 @@ belong to, i.e., their tribe, country, ethnic group, etc.
 
 :: Parents
 human self-sacrifice for another
-
-
-sacrifice self and crew to foil an enemy
-========================================
-
-:: Description
-The captain of a crew decides to sacrifice them all an self, in order to deny
-an enemy satisfaction.
-
-:: Parents
-human self-sacrifice
-
-:: Examples
-Captain Picard was ready to destroy the Enterprise-D, himself and the crew
-with it, rather than give in to Nagilum in tng2x02 "Where Silence Has Lease".
 
 
 sacrifice to prevent mass death
@@ -35583,8 +35499,8 @@ technophobia
 ============
 
 :: Description
-A character exhibits notable fear and dislike of advanced technological
-devices.
+A character exhibits notable fear and dislike of one, some, or all advanced 
+technological devices.
 
 :: Parents
 human phobia
@@ -38577,6 +38493,9 @@ capability to control our own lives.
 :: Parents
 human self-actualization need
 
+:: Aliases
+the need to have control of one's own life
+
 
 the need for self-vindication
 =============================
@@ -38707,7 +38626,7 @@ human self-actualization need
 https://en.wikipedia.org/wiki/Wanderlust
 
 :: Aliases
-wanderlust
+wanderlust, the need to see the world
 
 
 the nerd stereotype
@@ -39106,21 +39025,6 @@ to privacy of thought but one of them turns out to be a psychopath in tng5x12
 
 :: Other Parents
 fictional issue
-
-
-the right to self-determination
-===============================
-
-:: Description
-We are made to ponder to what extent we feel that each individual should have
-the freedom and capability to determine their own fate. I want to be supreme
-dictator of the universe.
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/Self-determination
 
 
 the road to hell is paved with good intentions
@@ -44628,24 +44532,6 @@ https://en.wikipedia.org/wiki/Labor_rights
 
 :: Aliases
 labor rights
-
-
-working parents
-===============
-
-:: Description
-The many trials and tribulations involved in rearing a child while both
-parents work full-time jobs is featured.
-
-:: Parents
-human parenting
-
-:: Examples
-Worf found it difficult to care for his son Alexander and make it to meetings
-on time in tng5x10 "New Ground".
-
-:: References
-https://en.wikipedia.org/wiki/Working_parent
 
 
 working together in spite of disagreement
