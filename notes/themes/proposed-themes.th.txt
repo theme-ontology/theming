@@ -121,9 +121,9 @@ fantasy land
 ============
 
 :: Description
-There is a fantastical world apart from the real world would accessible. 
-The fantastical world has such whimsical qualities as one may expect the imagination 
-to come up with during a dream, day-dream, or nightmare.
+There is a fantastical world apart from the real world. The fantastical world
+has such whimsical qualities as one may expect the imagination to come up
+with during a dream, day-dream, or nightmare.
 
 :: Parents
 speculative habitat
@@ -160,7 +160,7 @@ Oedipus complex
 
 :: Description
 A character is notably seen to exhibit repressed sexual desire for the 
-same-sex parent and hatred for the opposite-sex parent.
+opposite-sex parent and hatred for the same-sex parent.
 
 :: Notes
 This should be distinguished from cases where a parent pursues a sexual
@@ -177,19 +177,19 @@ Electra complex
 
 :: Examples
 In "Hamlet" (1602), until the revelations at the end, is seems plausible that 
-Hamlet is indeed mad and has invented the poisoning because he (as Sigmund Freud 
-held) hates his step-father being married to his mother, who Hamlet unconsciously
-desires sexually. The scene where he is wrestling with his mother in her bed is
-suggestive.
+Hamlet is indeed mad and has invented the poisoning because he (as Sigmund
+Freud held) hates his step-father being married to his mother, who Hamlet
+unconsciously desires sexually. The scene where he is wrestling with his
+mother in her bed is suggestive.
 
 
 space tourism
 =============
 
 :: Description
-There is an industry around taking people on a ride in space for the entertainment
-purpose simply of seeing parts of the universe from this extraplanetary
-vantage point.
+There is an industry around taking people on a ride in space for the
+entertainment purpose simply of seeing parts of the universe from this
+extra-planetary vantage point.
 
 :: Parents
 speculative society
@@ -197,16 +197,16 @@ speculative society
 :: Examples
 In pkded1x02 "Impossible Planet", two space tourism guides fly a group of 
 passengers around to see the wonders of outer space. One gathers that 
-these wonders were somewhat lacking in appeal as the guides secretly used visual 
-overlays to spice things up for their customers.
+these wonders were somewhat lacking in appeal as the guides secretly used
+visual overlays to spice things up for their customers.
 
 
 insurance fraud in society
 ==========================
 
 :: Description
-A character fakes or deliberately causes an injury or loss of property in order 
-illicitly to get compensation from an insurance company.
+A character fakes or deliberately causes an injury or loss of property in
+order to illicitly get compensation from an insurance company.
 
 :: Parents
 fraud in society
@@ -262,7 +262,7 @@ speculative human
 =================
 
 :: Description
-This is the category of speculative beings that biologically human yet
+This is the category of speculative beings that are biologically human yet
 have some characteristic that is not ordinarily seen in humans.
 
 :: Parents
@@ -313,16 +313,17 @@ what if I fell into the clutches of a person with malicious intent
 
 :: Examples
 In talesoftheunexpected1x05 "The Landlady", young Billy comes to realize that
-his landlady is a serial killer but, alas, only too late: His tea has been drugged
-and he is in the end no longer capable of putting up effective resistance as she 
-leads him to his prospective deathbed.
+his landlady is a serial killer but, alas, only too late: His tea has been
+drugged and he is in the end no longer capable of putting up effective
+resistance as she leads him to his prospective deathbed.
 
 
 getting fired from one's job
 ============================
 
 :: Description
-A character is informed that they have been laid off from their job.
+A character is informed that they have been sacked, laid off, or otherwise
+terminated from their employment.
 
 :: Parents
 humans at work
@@ -339,8 +340,8 @@ bad luck signs
 ==============
 
 :: Description
-An omen that signifies ill luck according to some tradition, is featured
-in just such a way.
+An omen that signifies ill luck according to some tradition, is featured in
+just such a way.
 
 :: Parents
 superstition
@@ -350,7 +351,7 @@ https://en.wikipedia.org/wiki/List_of_bad_luck_signs
 
 :: Examples
 In ahp1x14 "A Bullet for Baldwin", a cleaner informs Mr. Stepp that 
-opening an umbrella inside gives you bad luck.
+opening an umbrella indoors gives you bad luck.
 
 
 what it is like in university
@@ -358,7 +359,7 @@ what it is like in university
 
 :: Description
 We are shown what life might be like for university students. Stereotypically
-this might involve fraternities, pranks on the Dean, spring breaks, etc.
+this might involve fraternities, pranks on the dean, spring breaks, etc.
 
 :: Parents
 what it is like in school
@@ -368,12 +369,42 @@ absolute monarchy
 =================
 
 :: Description
-Featured is the workings and idiosyncrasies of a state apparatus that
-is by law and tradition ruled by a sovereign king, queen, or
-person of comparable title.
+Featured is the workings and idiosyncrasies of a state apparatus that is by
+law and tradition ruled by a sovereign king, queen, or person of comparable
+title.
 
 :: Parents
 form of government
+
+
+being on the run from the law
+=============================
+
+:: Description
+A character is on the run from the legitimate police.
+
+:: Parents
+facing organized pursuit
+
+:: Examples
+In ahp1x16 "You Got to Have Luck", Sam is a felon escaped from prison and
+tries to evade recapture by the police.
+
+
+treatment of refugees
+=====================
+
+:: Description
+The way in which refugees from abroad, of one kind or another, are or ought
+to be treated is discussed.
+
+:: Parents
+law and order issue
+
+:: Examples
+In tng1x11 "Haven", Tarellian survivors of a plague are in a spaceship roaming 
+the galaxy for a new home. The people of Haven refuse to let them settle  on
+their planet for fear of the disease.
 
 
 aliens meddling in ancient history
@@ -414,22 +445,6 @@ narcotic to their trade partners, the Ornarans, who were addicted to it in
 tng1x22 "Symbiosis".
 
 
-treatment of refugees
-=====================
-
-:: Description
-The way in which refugees from abroad, of one kind or another, are or ought
-to be treated is discussed.
-
-:: Parents
-law and order issue
-
-:: Examples
-In tng1x11 "Haven", Tarellian survivors of a plague are in a spaceship roaming 
-the galaxy for a new home. The people of Haven refuse to let them settle 
-on their planet for fear of the disease.
-
-
 xenophobic isolationist society
 ===============================
 
@@ -458,20 +473,6 @@ Is there room for doubt?
 ethics
 
 :: Examples
-
-
-being on the run from the law
-=============================
-
-:: Description
-A character is on the run from the legitimate police.
-
-:: Parents
-facing organized pursuit
-
-:: Examples
-In ahp1x16 "You Got to Have Luck", Sam is a felon escaped from prison
-and tries to evade recapture by the police.
 
 
 biologically symbiotic being
