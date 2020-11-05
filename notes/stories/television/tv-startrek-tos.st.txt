@@ -855,6 +855,7 @@ hospitality [Balok offers Tranya hospitality] <Balok>,
 kindness [Balok rescued by Kirk] <Kirk>,
 anger [Bailey] <Dave Bailey>,
 fear [Crew was in fear of impending destruction the enterprise, especially Bailey.] <Dave Bailey>,
+tractor beam [The Enterprise was captured and towed by a tractor beam which they attempted to escape by shearing away at a 90 degree course.],
 
 :: Other Keywords
 red alert [1x] <0:47>,
@@ -1560,7 +1561,6 @@ what if I found myself in the past [The Enterprise crew were flung back in time 
 
 :: Minor Themes
 flying saucer theory of UFOs [JohnChristopher mistook the Enterprise for a flying saucer.],
-tractor beam [Christopher caught by Enterprise tractor beam],
 food synthesizer [new to Christopher],
 femininity [the femputer],
 risk taking vs. playing it safe [time-warp using the sun vs. staying in the past] <Kirk>,
@@ -1568,6 +1568,7 @@ trust in a potential foe [Kirk trusts Christopher to join landing party] <Kirk>,
 coping with living in a foreign culture [Christopher aboard Enterprise] <John Christopher>,
 patriotism [Christopher about USA] <John Christopher>,
 matriarchy [matriarchs of Cygnet XIV] <Matriarchs of Cygnet XIV>,
+tractor beam [The Enterprise attempted to capture Captain John Christopher's 20th century fighter jet using a tractor beam.],
 
 :: Other Keywords
 all decks alert [1x] {alert} <16:55>,
@@ -1593,9 +1594,6 @@ landing party [Kirk, Sulu;  Spock, Sulu, John] <23:17, 37:18>,
 nuclear weapons [],
 beam down [Kirk, Sulu; John; Spock, Sulu, John] <23:17, 37:18>,
 senior staff meeting [Kirk, Spock, McCoy, John; Kirk, Spock, McCoy, John, Scotty] <20:20-22:55, 40:20-42:08>,
-
-:: Notes
-Why am I not surprised to find that this episode have one of the longest Memory Alpha summaries?
 
 
 tos1x14
@@ -1834,6 +1832,7 @@ military dictatorship [Khan once ruled],
 global unification under a central authority [unification of Earth under rule by peak eugenic specimens],
 rule by strength of arm [Khan],
 brains vs. brawn [Kirk outwitted Khan in a fight to the death] <Kirk/Khan Singh>,
+tractor beam [The Enterprise used a tractor beam to tow Khan Noonien Singh's ship, the SS Botany Bay.],
 
 :: Other Keywords
 red alert [1x] <1:42>,
