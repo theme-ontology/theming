@@ -1583,7 +1583,7 @@ A character struggles with the major life decision of whether to adopt a
 child.
 
 :: Parents
-human life choice
+human parenting
 
 :: Examples
 Worf ritually adopted Jeremy Aster into the House of Mogh after the boy's
@@ -11523,7 +11523,7 @@ The social problem of people driving while under the influence of alcohol (or
 other impairing drugs) is discussed.
 
 :: Parents
-law and order issue
+dangerous driving in society
 
 :: References
 https://en.wikipedia.org/wiki/Driving_under_the_influence
@@ -13399,6 +13399,9 @@ diplomacy
 :: Examples
 Captain Kirk's crew and the Klingons joined forces against a mysterious cloud
 being in tos3x11 "Day of the Dove".
+
+:: Aliases
+the enemy of my enemy is my friend
 
 
 fairies
@@ -29676,17 +29679,6 @@ in some game of chance or the like.
 superstition
 
 
-reliance on a single point of failure is unwise
-===============================================
-
-:: Description
-The reasons for why you shouldn't put all your eggs in one basket is
-illustrated.
-
-:: Parents
-human idea about life
-
-
 religion as a control mechanism
 ===============================
 
@@ -39305,6 +39297,9 @@ making.
 :: Parents
 human idea about life
 
+:: Aliases
+reliance on a single point of failure is unwise
+
 
 thermophilic being
 ==================
@@ -42466,7 +42461,7 @@ what if I was accused of a crime that I didn't commit
 We imagine what it would be like to be wrongfully accused of a crime.
 
 :: Parents
-what if I were in a tight spot
+facing an extraordinary accusation
 
 :: Examples
 Riker was cleared of killing Nel Apgar in a dramatic holo-hearing in tng3x14
