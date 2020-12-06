@@ -211,7 +211,7 @@ coping with being at the brink of destruction
 
 :: Description
 A character, alone or in company with others, is harrowed and on the brink of
-destruction and manages to go on only by the skin of their teeth. Typically
+destruction. They manage to go on only by the skin of their teeth. Typically
 they are dirty, injured, thorned and impoverished.
 
 :: Parents
@@ -224,7 +224,7 @@ people can change
 :: Description
 Someone who was of a certain character proves later to have changed in a
 profound and, perhaps, surprising way. For example, a no-good punk, juvenile
-delinquent reforms their wicked ways to become a veritable saint.
+delinquent might reform their wicked ways to become a veritable saint.
 
 :: Parents
 human nature, human idea about life
@@ -238,7 +238,8 @@ sacrifice to defeat an enemy
 ============================
 
 :: Description
-Someone risks their own neck or other interests in order to defeat an adversary.
+Someone notably risks their own neck or other interests in order to defeat 
+an adversary.
 
 :: Parents
 human self-sacrifice
@@ -264,8 +265,9 @@ there is value in diversity
 ===========================
 
 :: Description
-The idea that diversity in skills and in thinking can be very useful to a
-group of people is featured.
+The idea that diversity in itself may be desirable, is featured. For example,
+it may be noted that diversity in skills and in thinking can be very useful to
+a society.
 
 :: Parents
 human idea about life
@@ -275,7 +277,8 @@ covert military operation
 =========================
 
 :: Description
-A secret military project is featured.
+A secret military project is featured. The project is notably kept secret from
+the public at large, and not just the enemy.
 
 :: Parents
 military secrecy
@@ -291,8 +294,7 @@ religious prophesy
 ==================
 
 :: Description
-The idea that the divinely inspired prognostications of holy prophets are on
-the verge of coming to fruition.
+There are divinely inspired prognostications of holy prophets.
 
 :: Parents
 organized religion
@@ -305,7 +307,7 @@ religious prophet
 =================
 
 :: Description
-An individual who is regarded as being in contact by a divine being and is
+There is an individual who is regarded as being in contact by a divine being and is
 said to speak on that entity's behalf, serving as an intermediary with
 humanity by delivering messages or teachings from the supernatural source to
 other people.
@@ -321,8 +323,8 @@ take-you-anywhere gateway
 =========================
 
 :: Description
-A portal-like device which can let you pass through it in order to appear
-anywhere else in the universe.
+There is a portal-like device which can let you pass through it in order to appear
+(more or less) anywhere else in the universe.
 
 :: Parents
 interstellar teleportation
@@ -332,18 +334,26 @@ what if I were being framed for a crime
 =======================================
 
 :: Description
+A character is being deliberately set-up so as to be suspected of a crime 
+that they did not actually commit.
 
 :: Parents
 what if I was accused of a crime that I didn't commit
+
+:: Examples
+In ahp1x37 "Decoy", Gil tries to confront his lover Mona's abusive husband but 
+arrives to find the man murdered. Gil flees from the police and eventually
+discovers that Mona has, in fact, set him up so that she would be able to 
+elope with the real murderer.
 
 
 simulated reality
 =================
 
 :: Description
-Technology that is like the virtual reality of today, but handles all the
-sense so that it can be all but impossible to distinguish the fantasy world
-from reality.
+There is technology that is like, but goes beyond, the virtual reality of today.
+Often it handles all the sense so that it can be nearly impossible to distinguish 
+the fantasy world from reality.
 
 :: Parents
 speculative technology
@@ -376,7 +386,7 @@ virtual reality room
 ====================
 
 :: Description
-A programmable room that can produce virtually any imaginable setting,
+There is a programmable room that can produce virtually any imaginable setting,
 including tangible physical objects, like virtual reality on steroids.
 
 :: Parents
@@ -390,9 +400,9 @@ virtual reality sex
 ===================
 
 :: Description
-A technology that allows users to engage in sexual relations with virtually
-reality simulated characters, or receive tactile sensations from remote
-participants.
+There is a technology that allows users to engage in sexual relations with 
+virtually reality simulated characters, or receive tactile sensations from 
+remote participants.
 
 :: Parents
 simulated reality
@@ -405,8 +415,8 @@ virtual reality suit
 ====================
 
 :: Description
-A wearable suit that makes it seem as if you were somewhere else, encompassing
-all the senses.
+There is a wearable suit that makes it seem as if you were somewhere else, 
+encompassing all the senses.
 
 :: Parents
 speculative suit, simulated reality
@@ -419,47 +429,18 @@ inhospitable environment of a gas giant planet in tng7x03 "Interface".
 https://en.wikipedia.org/wiki/Virtual_reality
 
 
-speculative human implant
-=========================
-
-:: Description
-<note: apply to relevant "implant" child themes>
-
-:: Parents
-human enhancement technology
-
-:: References
-
-
 intelligent animal
 ==================
 
 :: Description
-A conventional Earth animal is discovered to be intelligent or, to have 
-an intelligent offshoot.
+A conventional Earth animal is discovered to be truly intelligent or to have 
+an intelligent (but as yet unknown) offshoot.
 
 :: Parents
 speculative being
 
 :: References
-
-
-aliens eating people
-====================
-
-:: Description
-
-:: Parents
-crackpot theory
-
-
-the ethics of contemplating an immoral act
-==========================================
-
-:: Description
-
-:: Parents
-ethics
+https://en.wikipedia.org/wiki/Talking_animal
 
 
 species uplifting
@@ -504,7 +485,8 @@ speculative punishment
 ======================
 
 :: Description
-People convicted of crimes are punished in futuristic or otherwise novel ways.
+People convicted of crimes are punished in futuristic or otherwise novel ways
+that are not really present in human history.
 
 :: Parents
 speculative fiction theme
@@ -552,29 +534,14 @@ first contact
 
 :: Description
 Two cultures that were previously isolated from each other meet for the first
-time. This is normally feature in science fiction between man and alien, but
-could theoretically apply to some situation on present Earth too.
+time. This is often feature in science fiction as between human and alien, but
+could apply to some situation on present Earth too.
 
 :: Parents
 international issue
 
 :: References
 https://en.wikipedia.org/wiki/First_contact_(science_fiction)
-
-
-the right to exist of a genocidal people
-========================================
-
-:: Description
-The following dilemma is illustrated: Suppose a peoples engages in pathological 
-killing and genocide; do they themselves then have the right to exist? 
-Would we be morally justified in visiting genocide on them? 
-Is there room for doubt?
-
-:: Parents
-social ethical dilemma
-
-:: Examples
 
 
 dealing with children
@@ -592,6 +559,55 @@ awards and otherwise encourage youngsters in tng7x12 "The Pegasus".
 
 :: Other Parents
 juvenile
+
+
+
+
+
+
+the right to exist of a genocidal people
+========================================
+
+:: Description
+The following dilemma is illustrated: Suppose a peoples engages in pathological 
+killing and genocide; do they themselves then have the right to exist? 
+Would we be morally justified in visiting genocide on them? 
+Is there room for doubt?
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+
+
+speculative human implant
+=========================
+
+:: Description
+<note: apply to relevant "implant" child themes>
+
+:: Parents
+human enhancement technology
+
+:: References
+
+
+aliens eating people
+====================
+
+:: Description
+
+:: Parents
+crackpot theory
+
+
+the ethics of contemplating an immoral act
+==========================================
+
+:: Description
+
+:: Parents
+ethics
 
 
 teenage rebellion
