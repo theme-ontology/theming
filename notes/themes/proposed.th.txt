@@ -609,50 +609,77 @@ facing an extraordinary accusation
 ==================================
 
 :: Description
+A character is baffled to be accused of something that is so out of the 
+ordinary that no one would reasonably expect it to happen to them in their
+entire life.
+
+:: Notes
+If the accusation is of a crime and is wrongful, then the child theme
+"what if I was accused of a crime that I didn't commit" applies. 
+Occasionally, however, a character is featured as facing accusations of something 
+they admittedly did, or something that can't easily be called a crime even in
+the broad sense of the word (a taut or wrongdoing).
 
 :: Parents
 what if I were in a tight spot
-
-:: References
 
 
 forming one's own distinct personality
 ======================================
 
 :: Description
+A character struggles to become their own person rather than imitating or 
+conforming to someone else.
 
 :: Parents
 human self improvement
 
-:: References
+:: Examples
+In tng5x23 "I Borg", the liberated Borg drone Hugh grappled with the concept 
+of him being an individual separate from the Borg collective mind.
 
 
 humankind controlling its own destiny
 =====================================
 
 :: Description
+The idea is featured that mankind must, needs, deserves, or can (etc. etc.)
+somehow be the arbiter of its own fate as opposed to being steered by a deity 
+or some such more-or-less external monolith.
 
 :: Parents
 human nature
 
-:: References
+:: Examples
+In tas2x05 "How Sharper Than a Serpent's Tooth", Captain Kirk convinced Kukulkan 
+that humankind was ready to stand on its own two feet and that Kukulkan's help in
+cultivating civilization was henceforth neither requested nor required.
 
 
 self-justification
 ==================
 
 :: Description
+A character struggles to convince themselves (as well as others) that
+their actions are just even though the motives seem self-serving and the
+justifications weak.
 
 :: Parents
 human thinking about self
 
-:: References
+:: Examples
+In tng1x17 "When The Bough Breaks", when Radue's proposed exchange was 
+turned down, he rationalize kidnapping the Enterprise children instead.
+He dubiously held that the children would be better off with foster parents
+on Aldea than with their real human parents, and that his proposed
+bargain had been a fair one anyways.
 
 
 art discussion
 ==============
 
 :: Description
+Two characters critically discuss a piece of art.
 
 :: Parents
 art appreciation
@@ -662,15 +689,26 @@ personally irresponsible character
 ==================================
 
 :: Description
+There is a character who notably fails to take responsibility for
+their own future and wellbeing. They may, for example, prefer partying
+to studying, or blame everyone else for their own shortcomings.
 
 :: Parents
 human character
+
+:: Examples
+In tz2002-1x22 "Gabe's Story", a point of the story was that Gabe needed 
+to shape up and take charge of his life. He must also take responsibility for 
+it and stop blaming everyone else for his misfortunes.
 
 
 fear of death
 =============
 
 :: Description
+A character exhibits notable fear and anxiety at the prospect of being 
+dead. This is as opposed to the process of dying, which can naturally be
+gruesome and painful but is not what this theme refers to.
 
 :: Parents
 human phobia
@@ -681,13 +719,9 @@ thanatophobia
 :: References
 https://en.wikipedia.org/wiki/Death_anxiety_(psychology)
 
-
-
-
-
-
-
-
+:: Example
+In tz2002-1x23 "Last Lap", terminally cancer sick Andy was afraid to die and 
+seemed to hallucinate that his friend Marco had died in Andy's stead.
 
 
 
