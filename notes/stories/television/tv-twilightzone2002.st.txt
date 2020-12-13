@@ -1091,28 +1091,23 @@ the power to go back five minutes in time.
 Directed by: Kevin Bray. Story by: James Crocker.
 
 :: Ratings
-2 <paul*>,
+2 <paul>,
 2 <mikael>,
-
-:: Choice Themes
-time rewind ability [prop FD and tz2019e1x03],
-
-:: Major Themes
-problem gambling [Jonah was a textbook compulsive problem gambler.],
-gambling [Jonah is gambling at poker throughout much of the story.],
-magic object [The story centered on a magic tape cassette recorded that rewound time for up to five minutes.],
-husband and wife [Jonah's compulsive gambling got in the way of he and his wife April's plan to settle down and open a restaurant in Florida.],
-love vs. material gain [] <For discussion about Jonah wanting to beat the house vs. settling down with his wife>,
-the game of poker [prop FD],
-
-:: Minor Themes
-reverse time [MO: cf. tz2019e1x03] <For discussion: This theme might be repurposed for use in stories like that where time runs backwards. There is Twilight Zone (2019) story with a camcorder much like the tape recorder in this one.>,
-
-:: Not Themes
-problem gambling in society [] <for discussion>,
 
 :: Related Stories
 tz2019e1x03
+
+:: Choice Themes
+time rewind ability [Jonah came into possession of of tape cassette recorder that rewound time.],
+gambling [Jonah is gambling at poker throughout much of the story.],
+
+:: Major Themes
+problem gambling [Jonah was a textbook compulsive problem gambler.],
+magic object [The story centered on a magic tape cassette recorded that rewound time for up to five minutes.],
+husband and wife [Jonah's compulsive gambling got in the way of he and his wife April's plan to settle down and open a restaurant in Florida.],
+the game of poker [Jonah was trying to win big, playing poker at the casino.],
+
+:: Minor Themes
 
 
 tz2002-1x28
@@ -1136,17 +1131,17 @@ Directed by: James Head. Story by: Charles Largent, Michael Angeli.
 2 <mikael>,
 
 :: Choice Themes
-remorse [Marcus was racked with guilt over having manslaughtered an up and coming street artist.],
+remorse [Marcus was racked with guilt over having killed an up and coming street artist.],
 
 :: Major Themes
 criminal gang in society [Marcus joined the Deuces street gang to what was ultimately his regret.],
 boyfriend and girlfriend [Marcus was living with his girlfriend Shauna.],
 murder in society [The story follows Marcus as he becomes consumed with guilt after having more or less accidentally shot dead an up and coming artist for having painted over Marcus' street mural.],
+painting [Marcus and Henry Santos were both up and coming street mural painters (i.e. graffiti artists).],
+the need to be treated with respect [Marcus wanted fame and respect so joined a gang. The gang murdered a painter who disrespected their brand by painting it over.],
 
 :: Minor Themes
-painting [Marcus and Henry Santos were both street mural painters.],
 law enforcement [Two beat cops were poking around for Henry Santos' murderer.],
-the need to be treated with respect [FD (major?) Marcus wanted fame and respect so joined a gang; the gang murdered a painter who disrespected their brand by painting it over],
 
 
 tz2002-1x29
@@ -1169,28 +1164,28 @@ Directed by: Lou Diamond Phillips. Story by: Moira Kirland Dekker.
 3 <paul>,
 3 <mikael>,
 
+:: Related Stories
+tz1959e1x19
+
 :: Choice Themes
-what if I caught a glimpse of the future [Rachel started seeing halos on some people who were soon about to die MO: there was a soldier story very similar, what was it? tz1959e1x19 I see],
+precognition [Rachel was suddenly able to see on people's faces that they would soon die.],
+what if I caught a glimpse of the future [Rachel was suddenly able to see on people's faces that they would soon die.],
 
 :: Major Themes
 what it is like in high school [The high school English teacher Mrs. Stark decides to quit after having enough of trying to teach her apathetic students about Romeo and Juliet. Also, Ben masterminded a school shooting.],
 the teaching profession [The high school English teacher Mrs. Stark decides to quit after having enough of trying to teach her apathetic students about Romeo and Juliet.],
 feeling of unfulfillment [Mrs. Stark had enough of trying to teach her apathetic students about English literature and gave notice to the principal that she was quitting.],
-boyfriend and girlfriend [Mrs. Stark was living with her boyfriend the gym teacher.],
-human self-actualization need [Mrs Stark wanted something more out of life than she was getting from teaching English literature to apathetic high school students.],
-speculative ability [Mrs. Start suddenly developed the ability to look into a person's face and see if they were going to die. MO: we don't consistently label flukes like this as "ability" imho but if we are going to start, it was precognition],
-destiny [] <For discussion: The Narrator mentions about fate at the end.>,
-school shootings in society [prop FD: A bullied and angry student decided to shoot up the school; Rachel stopped him in the middle of his killing spree],
-human self-sacrifice for another [Rachel threw herself off a roof in order to stop a school shooter ],
+human self-actualization need [Mrs. Stark wanted something more out of life than she was getting from teaching English literature to apathetic high school students.],
+school shootings in society [A bullied and angry student decided to shoot up the school, and Rachel stopped him in the middle of his killing spree.],
+human self-sacrifice for another [Rachel threw herself off a roof in order to stop a school shooter.],
 
 :: Minor Themes
-boss and employee [Rachel was on poor terms with the principal],
-bullying [we saw minor acts of bullying possibly contribute to the school shooter doing his deed],
-what if I told the truth and nobody would believe me [Rachel tried to warn people about the impending shooting but no one heeded her - notably so the principal],
-coping with the death of someone [Rachel was mildly perturbed when some people she knew died],
-
-:: Related Stories
-tz1959e1x19
+boyfriend and girlfriend [Mrs. Stark was living with her boyfriend the gym teacher.],
+boss and employee [Rachel was on poor terms with the principal.],
+bullying [we saw minor acts of bullying possibly contribute to the school shooter doing his deed.],
+what if I told the truth and nobody would believe me [Rachel tried to warn people about the impending shooting but no one heeded her - notably so the principal.],
+coping with the death of someone [Rachel was mildly perturbed when some people she knew died.],
+grief [Rachel was mildly perturbed when some people she knew died.],
 
 
 tz2002-1x30
@@ -1210,7 +1205,7 @@ his young daughter (Liliana Mumy) has powers that are stronger than his.
 Directed by: Allan Kroeker. Story by: Jerome Bixby, Ira Steven Behr.
 
 :: Ratings
-4 <paul>,
+4 <paul*>,
 3 <mikael>,
 
 :: Choice Themes
