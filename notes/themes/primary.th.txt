@@ -1970,20 +1970,6 @@ humans. This theme should only be applied if a point is  being made about a
 physiological difference. The motivation should indicate what it was.
 
 
-alien secretly living among us
-==============================
-
-:: Description
-The crackpot notion that aliens are living secretly among normal people.
-
-:: Parents
-crackpot theory
-
-:: Examples
-Riker was sent to live secretly among the Malcorians in preparation for a
-possible first contact scenario in tng4x15 "First Contact".
-
-
 aliens eating people
 ====================
 
@@ -5455,20 +5441,6 @@ hybrid being, legendary being,
 https://en.wikipedia.org/wiki/Centaur
 
 
-center of the universe dogma
-============================
-
-:: Description
-The oft ridiculed, supposed, Church doctrine of bygone days that Earth is at
-the centre of everything is featured.
-
-:: Parents
-organized religion
-
-:: References
-https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
-
-
 chameleon-like being
 ====================
 
@@ -8256,22 +8228,6 @@ human health condition
 :: Examples
 Vina was horribly disfigured in a crash landing on the planet Talos IV in
 tos0x01 "The Cage".
-
-
-coping with being eclipsed by a family member
-=============================================
-
-:: Description
-A character feels diminished because of a family member's success at something
-in particular, and must come to terms with this.
-
-:: Parents
-coping with a family issue
-
-:: Examples
-In talesoftheunexpected9x02 "The Colonels Lady", George, who had had a
-distinguished career in the military, resented his wife's sudden and smashing
-success as a poetry writer.
 
 
 coping with being famous
@@ -13972,24 +13928,6 @@ The relationship between a father and his son is featured.
 
 :: Parents
 parent and child
-
-
-father and son rivalry
-======================
-
-:: Description
-There is conflict between father and son in keeping with the Oedipusean
-tradition.
-
-:: Parents
-human childhood, father and son
-
-:: Examples
-Riker settled his long-standing rivalry with his father Kyle in the anbo-
-jtytsu dohyo tng2x14 "The Icarus Factor".
-
-:: Other Parents
-juvenile
 
 
 father-in-law and daughter-in-law
@@ -20052,21 +19990,6 @@ The Kzinti immobilized Spock and his landing party with a weaponized form of
 this technology in tas1x14 "The Slaver Weapon".
 
 
-immortal secretly living among us
-=================================
-
-:: Description
-The crackpot notion that immortals are living secretly among us run-of-the-
-mill mortals.
-
-:: Parents
-crackpot theory
-
-:: Examples
-Flint was revealed to be an immortal human who had lived on Earth under
-various aliases for thousands of years in tos3x21 "Requiem for Methuselah".
-
-
 immortality
 ===========
 
@@ -22931,22 +22854,6 @@ ruling elite utopia, technologically enabled utopia
 
 :: Aliases
 computer controlled society
-
-
-machine living secretly among us
-================================
-
-:: Description
-The notion that a humanoid machine is living secretly among normal people is
-featured.
-
-:: Parents
-crackpot theory
-
-:: Examples
-In "Terminator: Dark Fate" (2019), the T-101 Model Terminator Carl was a
-cyborg who had integrated into society and was living as a common draper with
-a wife and stepson in Laredo, Texas.
 
 
 machines in society
@@ -36293,8 +36200,8 @@ https://en.wikipedia.org/wiki/Future_of_an_expanding_universe
 the heat death of the universe
 
 
-the Bogeyman
-============
+boogie monster
+==============
 
 :: Description
 A mythical creature used by adults to frighten children into good behavior is
@@ -40371,17 +40278,6 @@ Fitzgerald travel back in time from the year 2172 to quietly observe President
 John F. Kennedy. Alas, when the sinister moment arrived Joseph could not stop
 himself but impulsively intervened to save the much admired President. This
 action had unexpected and dire consequences for the world.
-
-
-time traveler secretly living among us
-======================================
-
-:: Description
-The notion that a time traveler is living secretly among normal people is
-featured.
-
-:: Parents
-time travel, crackpot theory
 
 
 time traveler's dilemma
