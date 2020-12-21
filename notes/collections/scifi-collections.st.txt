@@ -1,3 +1,27 @@
+Collection: Bill and Ted Films
+==============================
+
+:: Title
+Bill and Ted Films
+
+:: Date
+1989-2020
+
+:: Collections
+Collection: Bill and Ted Films
+
+:: Description
+The three films in the Bill & Ted film series.
+
+:: References
+https://en.wikipedia.org/wiki/Bill_%26_Ted#Films
+
+:: Component Stories
+movie: Bill and Teds Excellent Adventure (1989)
+movie: Bill and Teds Bogus Journey (1991)
+movie: Bill and Ted Face the Music (2020)
+
+
 Collection: Watchers
 ====================
 
