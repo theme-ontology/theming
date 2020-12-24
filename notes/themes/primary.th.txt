@@ -10977,7 +10977,7 @@ into a simulated reality where they can live on after their body ceases to
 function.
 
 :: Parents
-simulated reality
+speculative virtual reality
 
 :: Notes
 This theme is not used when the portrayed transfer is featured as some sort of
@@ -34278,6 +34278,28 @@ There is a futuristic vehicle, like a flying car.
 speculative device
 
 
+speculative virtual reality
+===========================
+
+:: Description
+There is technology that places people within simulated and immersive
+environments that can be similar to or completely different from the real
+world. It must exceed in capabilities the virtual reality technology of
+today. In extreme cases the technology makes it practically impossible to
+distinguish the simulated world from reality.
+
+:: Parents
+speculative technology
+
+:: Aliases
+simulated reality
+
+:: References
+https://en.wikipedia.org/wiki/Virtual_reality
+https://en.wikipedia.org/wiki/Virtual_reality_in_fiction
+https://en.wikipedia.org/wiki/Simulated_reality
+
+
 speculative weapon
 ==================
 
@@ -41600,7 +41622,7 @@ setting, including tangible physical objects, like virtual reality on
 steroids.
 
 :: Parents
-simulated reality
+speculative virtual reality
 
 :: References
 https://en.wikipedia.org/wiki/Virtual_reality
@@ -41615,7 +41637,7 @@ virtually reality simulated characters, or receive tactile sensations from
 remote participants.
 
 :: Parents
-simulated reality
+speculative virtual reality
 
 :: References
 https://en.wikipedia.org/wiki/Virtual_reality_sex
@@ -41629,7 +41651,7 @@ There is a wearable suit that makes it seem as if you were somewhere else,
 encompassing all the senses.
 
 :: Parents
-speculative suit, simulated reality
+speculative suit, speculative virtual reality
 
 :: Examples
 Geordi uses a virtual reality suit to explore a wrecked spaceship in the
@@ -44392,7 +44414,10 @@ what it is like on a passenger flight
 =====================================
 
 :: Description
-
+We are shown what it might be like for a passenger to fly on a commercial
+airline flight. Stereotypically, this might involve cramped seating, an
+overly chatty neighbor, an unruly child kicking the back of one's seat,
+hijackings, etc.
 
 :: Parents
 what life is like
