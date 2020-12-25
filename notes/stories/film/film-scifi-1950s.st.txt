@@ -1949,7 +1949,7 @@ sci-fi
 
 :: Major Themes
 voyage under the sea [Nemo and Arronax explored the ocean depths together in the high-tech submarine the Nautilis.],
-submarine [Nemo built a super high-tech submarine to explore the ocean depths among other things.],
+speculative submarine [Nemo built a super high-tech submarine to explore the ocean depths among other things.],
 human vs. captivity [Arronax, Ned Land, and Conseil were held captive aboard the Nautilus by Nemo.],
 misanthropy [Nemo harbored a deem resentment of humankind, and sunk ships with his submarine when the opportunity arose.],
 science for war or peace [Nemo was against sharing his revolutionary energy production technology with humankind for fear it would be used for war.],
@@ -5078,7 +5078,7 @@ the dangers of unfettered scientific advancement [Wonderful inventions were brou
 science for war or peace [Wonderful inventions were brought about with science, like a submarine, but also a nuclear bomb.],
 human vs. captivity [Pirates kidnap Professor Roch and two others to get the secret of the scientist's futuristic weapon to aid them with their piracy.],
 the lust for power [Captain Spade plotted to use Professor Roch's futuristic weapon to conquer the world.],
-submarine [The pirates got about in a super high-tech submarine.],
+speculative submarine [The pirates got about in a super high-tech submarine.],
 
 :: Minor Themes
 speculative airship [There was a steam powered wooden ship flying around in the sky.],
@@ -6562,9 +6562,11 @@ https://en.wikipedia.org/wiki/The_Atomic_Submarine
 :: Genre
 sci-fi
 
+:: Choice Themes
+speculative submarine [The film showcases the (then) new technology of nuclear submarines and follows the crew and scientists aboard the atomic powered USS Tigershark.],
+
 :: Major Themes
 attack from outer space by a powerful conquering enemy [A mysterious underwater flying saucer attacks the world's shipping in what turned out to be a prelude to colonization.],
-nuclear submarine [The film showcases the (then) new technology of nuclear submarines and follows the crew and scientists aboard the atomic powered USS Tigershark.],
 
 :: Minor Themes
 flying saucer theory of UFOs [It was speculated that the reason the flying saucers reported seen around the world never landed is because they were actually diving underwater.],
