@@ -261,7 +261,7 @@ A spaceship propulsion technology the idea of which is to use electromagnetic
 fields to collect hydrogen from space and fuel a fusion process.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: Examples
 The Enterprise-D crew discharged vast amounts of hydrogen from the ship's
@@ -4288,7 +4288,7 @@ biological spaceship
 A spaceship made up of biological components, i.e., cells and such.
 
 :: Parents
-spaceship, speculative biotechnology
+speculative spaceship, speculative biotechnology
 
 :: References
 https://en.wikipedia.org/wiki/Bioship
@@ -15081,7 +15081,7 @@ flying saucer
 There is a spaceship with a disc- or saucer-shaped body.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Flying_saucer
@@ -20603,7 +20603,7 @@ Technology that makes it possible for a spaceship to somehow fly intact
 through solid matter.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: Examples
 Rear Admiral Erik Pressman, Riker's old captain, violated the Treaty of
@@ -20996,7 +20996,7 @@ invisible spaceship
 Technology that renders a spaceship invisible.
 
 :: Parents
-spaceship, invisibility technology
+speculative spaceship, invisibility technology
 
 :: References
 http://www.sf-encyclopedia.com/entry/cloaking_device
@@ -21010,7 +21010,7 @@ A spaceship propulsion technology the idea of which is to create thrust by
 using electricity to accelerate ionized particles.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: Examples
 An ion-powered starship from Sigma Draconis VI was encountered in tos3x06
@@ -24752,7 +24752,7 @@ There is a spaceship that is composed of many more-or-less autonomous modules
 that can detach and re-attach to reconfigure the whole thing.
 
 :: Parents
-spaceship
+speculative spaceship
 
 
 mole people
@@ -25068,7 +25068,7 @@ A spaceship built for voyages longer than an individual's lifespan and with a
 view to let the crew procreate and live out their lives on-board.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Generation_ship
@@ -25157,7 +25157,7 @@ A rocket that uses two or more stages, each of which contains its own engines
 and propellant is featured.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Multistage_rocket
@@ -25827,7 +25827,7 @@ There is a spacecraft that relies on some form of nuclear energy (e.g. nuclear
 fission or nuclear fusion) for propulsion.
 
 :: Parents
-spaceship
+speculative spaceship
 
 
 nuclear proliferation
@@ -32038,7 +32038,7 @@ possibilities, including intelligent entities constructed from biological
 components that function as spaceships to other beings.
 
 :: Parents
-spaceship, sentient machine,
+speculative spaceship, sentient machine,
 
 :: Examples
 In "Batteries Not Included" (1987), a family of small living spaceships of
@@ -33155,7 +33155,7 @@ energy from the sun. The energy can be used directly as propulsion or
 indirectly by being stored as electricity.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: Examples
 The colony ship in "Alien: Covenant" (2017) unfurled solar sails to gather
@@ -33523,8 +33523,8 @@ The pod plants of Omicron Ceti III had arrived after traversing space as a
 cloud of spores in tos1x25 "This Side of Paradise".
 
 
-spaceship
-=========
+speculative spaceship
+=====================
 
 :: Description
 A vehicle or machine designed to fly in outer space is featured.
@@ -33985,7 +33985,7 @@ speculative interstellar probe
 An unmanned spacecraft that has been dispatch outside the solar system.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Interstellar_probe
@@ -41138,7 +41138,7 @@ A spaceship that can fly around in outer space without people on board is
 featured in a science fictional context.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: References
 https://en.wikipedia.org/wiki/Unmanned_spacecraft
@@ -44971,7 +44971,7 @@ a scale comparable to an entire planetoid, moon, comet, or suchlike celestial
 object.
 
 :: Parents
-spaceship
+speculative spaceship
 
 :: References
 http://www.sf-encyclopedia.com/entry/world_ships
