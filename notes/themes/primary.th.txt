@@ -1752,18 +1752,23 @@ at a suitable location.
 https://en.wikipedia.org/wiki/Aircraft_hijacking
 
 
-airliner
-========
+speculative airliner
+====================
 
 :: Description
-A type of aircraft for transporting passengers and air cargo is featured in a
-science fictional context.
+A passenger airplane with capabilities above and beyond what can be
+expected of contemporary airliners is featured.
 
 :: Parents
 speculative vehicle
 
 :: References
 https://en.wikipedia.org/wiki/Airliner
+
+:: Examples
+The film "Starflight: The Plane That Couldn't Land" (1983) followed the maiden
+voyage of Starflight: a hypersonic passenger plane that was anticipated to fly
+from Los Angeles to Sydney in two hours.
 
 
 alchemy
@@ -19732,26 +19737,6 @@ biologically distinguished being
 
 :: References
 https://en.wikipedia.org/wiki/Human%E2%80%93animal_hybrid
-
-
-hypersonic airliner
-===================
-
-:: Description
-A futuristic passenger airplane that can travel many time faster than sound is
-featured. A two hour flight from New York to London is not out of the question
-on such a vessel.
-
-:: Parents
-speculative vehicle
-
-:: Examples
-The film "Starflight: The Plane That Couldn't Land" (1983) followed the maiden
-voyage of Starflight: a hypersonic passenger plane that was anticipated to fly
-from Los Angeles to Sydney in two hours.
-
-:: References
-https://en.wikipedia.org/wiki/Supersonic_transport#Hypersonic_transport
 
 
 hypochondria
