@@ -15054,13 +15054,18 @@ flying car
 ==========
 
 :: Description
-There is a hypothetical air vehicle that looks like a car.
+There is a vehicle that looks like a car which can fly or hover.
 
 :: Parents
 speculative vehicle
 
 :: References
 https://en.wikipedia.org/wiki/Flying_car_(aircraft)
+https://en.wikipedia.org/wiki/Hovercar
+
+:: Examples
+A trio of cosmonauts explored the surface of Venus in a nifty hovercar in
+Planeta Bur (1962).
 
 
 flying drone
@@ -18064,24 +18069,6 @@ Future Part II" (1989).
 
 :: References
 https://en.wikipedia.org/wiki/Hoverboard
-
-
-hovercar
-========
-
-:: Description
-There is a personal vehicle that flies at a constant altitude of up to some
-feet above the ground and used for personal transportation.
-
-:: Parents
-speculative vehicle
-
-:: Examples
-A trio of cosmonauts explored the surface of Venus in a nifty hovercar in
-Planeta Bur (1962).
-
-:: References
-https://en.wikipedia.org/wiki/Hovercar
 
 
 how to commit a crime and get away with it
