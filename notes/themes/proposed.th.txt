@@ -224,4 +224,36 @@ child abduction
 crime in society
 
 
+historical figure
+=================
+
+:: Description
+A character from real Earth history is discussed or otherwise featured.
+
+:: Notes
+The story must clearly identify the character in question, but there
+is no requirement that it be otherwise "correct" in what it has to say.
+
+:: Parents
+history
+
+:: Template
+historical figure <name>
+<name>: *
+
+
+bionic limb
+===========
+
+:: Description
+Someone has a robotic appendage in place of what has been a real 
+appendage.
+
+:: Parents
+prosthetic device
+
+:: Template
+bionic limb <body-part>
+<body-part>: arm, hand, leg
+
 
