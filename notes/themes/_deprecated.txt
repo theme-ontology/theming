@@ -1,3 +1,38 @@
+handheld X-ray device
+=====================
+
+:: Description
+There is a device, often torch like, that can be held in one hand and used in
+order to see through various kinds of solid matter.
+
+:: Parents
+speculative handheld device
+
+
+X-ray vision
+============
+
+:: Description
+A character is able to see right through solid objects.
+
+:: Parents
+speculatively magnified ordinary personal ability
+
+
+X-ray machine
+=============
+
+:: Description
+A machine that uses and X-ray generator and X-ray detector to create
+radiographic images is featured.
+
+:: Parents
+once speculative device
+
+:: References
+https://en.wikipedia.org/wiki/X-ray_machine
+
+
 flying boat
 ===========
 
