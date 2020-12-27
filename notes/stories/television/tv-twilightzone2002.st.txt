@@ -1454,8 +1454,6 @@ Directed by: Bob Balaban. Story by: Stephen Beck.
 5 <paul>,
 4 <mikael>,
 
-:: Choice Themes
-
 :: Major Themes
 body swap [The aging state magician Harry used the "Pharaoh's Curse" magic trick to swap bodies with the young, up-and-coming illusionist Mario Devlin.],
 stage magic [The story follows the up-and-coming illusionist Mario Devlin as he attempts to unlock the secrets behind a centuries-old illusion.],
@@ -1492,25 +1490,27 @@ Directed by: John T. Kretchmer. Story by: Erin Maher & Kay Reindl.
 2 <mikael>,
 
 :: Choice Themes
-the ability to turn babysitters into dollies [],
 
 :: Major Themes
 evil doll [Danielle and her babysitter Miranda were terrorized by the eerily lifelike dolls belonging to Daniella's collection.],
-babysitting [] <for discussion>,
-magic powers [The preteen girl Daniella manifested an ability to transform people into dolls.],
-human childhood [The follows a preteen girl who is being babysat for the evening by a college student.],
-loneliness [] <For discussion: Daniella had no friends and felt betrayed when her babysitters would leave after her parents would come home.>,
-fear of abandonment [FD],
-coping with being abandoned [FD],
+dealing with children [Miranda was babysitting the eight-year-old girl Daniella. Miranda was particularly good at understanding children, we heard.],
+speculative remote living body manipulation [The preteen girl Daniella manifested an ability to transform her various babysitters into dolls.],
+human childhood [Daniella spent an evening under the care of her new babysitter.],
+loneliness [Daniella had no friends and felt betrayed when her babysitters would leave after her parents would come home.],
+fear of abandonment [Daniella feared her babysitters leaving so much that she transformed them into dolls and locked them into a glass cabinet.],
 
 :: Minor Themes
 collecting objects [Daniella kept a collection of eerily lifelike dolls.],
 jealousy [Daniella claimed that one of her dolls was jealous that Daniella was going to hang out with her new babysitter instead of her.],
 mother and daughter [Daniella's mother grounded her until the weekend.],
+father and daughter [Daniella and her father, Pete.],
 husband and wife [Pete and Ellen Randall went out for the evening, leaving their young daughter Daniella in the care of a babysitter.],
-dealing with children [Miranda was particularly good at understanding children, we heard],
-fear of the dark [one of the dolls was afraid of the dark, but Daniella not so],
-arachnophobia [Miranda was mostly afraid of spiders],
+fear of the dark [One of the dolls was afraid of the dark, but Daniella not so.],
+arachnophobia [Miranda was mostly afraid of spiders.],
+coping with an overprotective guardian [The babysitter Miranda raised an eyebrow when she saw the huge folder of caring instructions for the eight-year-old Daniella.],
+
+:: Other Keywords
+babysitting [Daniella spent an evening under the care of her new babysitter.],
 
 
 tz2002e1x38
@@ -1546,11 +1546,9 @@ coping with being an outcast [Mrs. Tyler lament their prospects at living as an 
 coping with being disfigured [Mrs. Tyler subjected herself to 11 treatments in a desperate effort to transform her "ugly" face into a normal looking one.],
 the medical professions [We saw a doctor and some nurses working in a hospital.],
 doctor and patient [Mrs. Tyler seemed to have had a long history with the doctor who was responsible for reconstructing her face.],
-totalitarianism [Leader worship, and control of beauty standards seem indicative enough to label this speculative government totalitarian.] <PS: Merge with totalitarian dystopia?>,
+totalitarianism [Leader worship, and control of beauty standards seem indicative enough to label this speculative government totalitarian.],
 conformism in society [The story is set in a totalitarian society in which people who did not physically conform to the prevailing standard of normal were banished. The totalitarian state leader spoke of "glorious conformity" in his speech.],
 the need to belong [The revoltingly ugly Mrs. Tyler longed to look normal enough to not be treated as a freak by society.],
-
-:: Minor Themes
 
 
 tz2002e1x39
@@ -1576,18 +1574,15 @@ Directed by: Allison Liddi-Brown. Story by: Moira Kirland Dekker.
 :: Related Stories
 ahp1x34
 
-:: Choice Themes
-
 :: Major Themes
 fiancée and fiancée [Edie struggled to rebound after her fiancée died tragically in an automobile wreck. Her efforts to move on were further hindered by the mysterious of appearance photographs of him in a roll of film she developed.],
-coping with the death of a spouse [Edie struggled to rebound after her husband died tragically in an automobile wreck. MO: was he spouse or fiancée?? can't be both],
+coping with the death of a lover [Edie struggled to rebound after her husband died tragically in an automobile wreck.],
 photography [Edie's friend Shawn encouraged her to take up her old hobby of photography as a way to get over the tragic passing of her fiancée a year prior.],
-magic object [] <For discussion about the camera>,
 friendship [Edie's longtime friend Shawn took it upon himself to help her get over the tragic death of her fiancée.],
-obsession [Edie became obsessed with her late fiancée's dreams of their future life together, to the exclusion of her friends] <For discussion about Edie's fixation on reuniting with Matthew>,
+obsession [Edie became obsessed with her late fiancée's dreams of their future life together, to the exclusion of her friends.],
 letting go of the past [In the end, and after much struggle, Edie felt at peace with her fiancée death, and agreed to have tea with a new romantic interest.],
-grief [],
-letting go of a lover [despite numerous exhortations from her friends, Edie refused to let go of her late lover - until she ran into some other hunk],
+grief [Edie struggled to rebound after her husband died tragically in an automobile wreck.],
+letting go of a lover [Despite numerous exhortations from her friends, Edie refused to let go of her late lover - until she ran into some other hunk.],
 
 :: Minor Themes
 coping with someone losing their mind [From Edie's friend Shawn's perspective, Edie was doctoring photographs as a way to make it feel like there was still a way for her to be reunited with her tragically deceased fiancée.],
@@ -1614,7 +1609,7 @@ Directed by: John Peter Kousakis. Story by: Frederick Rappaport, Ira Steven
 Behr and Brent V. Friedman.
 
 :: Ratings
-3 <paul>,
+4 <paul>,
 5 <mikael>,
 
 :: Choice Themes
@@ -1625,21 +1620,21 @@ capital punishment [The death row inmate Grady professing his innocence in combi
 what if I was accused of a crime that I didn't commit [The death row inmate Grady swore to his defense attorney that he was innocent of the murder that's landed him on death row. It was only at the story's conclusion that Grady lets slip that he'd been guilty of the crime all along.],
 what if I had a secret guardian [Grady became convinced that his guardian angle was preventing him from getting executed.],
 the desire for vengeance [The story concludes with the goddess of vengeance Nemesis meting out retribution on Grady for having murdered a convenience store owner in cold blood. The murdered convenience store owner's son was bloodthirsty to have the man convicted of the crime executed.],
-narcissism [After falling under the belief that he was being protect from death by an angel, Grady became pretty full of himself to the point that he even considered starting his own religion.],
-ironic twist of fate [Ironically, a cold blooded murderer was saved from execution by a series of fateful accidents. Yet more ironically, on the day of his acquittal despite his guilt, the man who had been saved four times by fate was crushed by a falling statue in a freak accident.],
-cruel and unusual punishment [a case was made that multiple botched executions constitutes cruel and unusual punishment akin to torture],
-signs from the heavens [Grady considered that his miraculous last minute escapes from execution were orchestrated by a higher power],
-murder in society [Grady was on death row for having murdered a convenience store owner.],
-robbery in society [Grady was on death row for having murdered a convenience store owner.],
 hubris [After being saved by fate several times, Grady became so cocksure of himself that he even confessed to the cold blooded murder he had indeed committed. Thence done with him, Destiny administered its own execution by crushing Grady under a falling statue in a freak accident.],
+ironic twist of fate [Ironically, a cold blooded murderer was saved from execution by a series of fateful accidents. Yet more ironically, on the day of his acquittal despite his guilt, the man who had been saved four times by fate was crushed by a falling statue in a freak accident.],
+cruel and unusual punishment [A case was made that multiple botched executions constitutes cruel and unusual punishment akin to torture.],
+signs from the heavens [Grady considered that his miraculous last minute escapes from execution were orchestrated by a higher power.],
+murder in society [Grady was on death row for having murdered a convenience store owner.],
 
 :: Minor Themes
 the legal professions [Grady's defense attorney succeeded in reversing a guilty verdict that's landed him on death row.],
 what it is like in a legal proceeding [Grady was found not guilty of murder at his retrial.],
 destiny [Grady professed it was his destiny to let it be known tot he world that the righteous will be rewarded and the innocent set free.],
 taking the law into one's own hands [When the state proved incapable of carrying out Grady's execution, the son of the man that Grady had been convicted of murdering took matters into his own hands and tried to shoot Grady at point blank range.],
-hearing voices [Grady heard the voice of what he thought was his guardian angel],
+vigilante justice [When the state proved incapable of carrying out Grady's execution, the son of the man that Grady had been convicted of murdering took matters into his own hands and tried to shoot Grady at point blank range.],
+hearing voices [Grady heard the voice of what he thought was his guardian angel.],
 quasi-religious cult [Grady planned to start his own religion.],
+robbery in society [Grady was on death row for having murdered a convenience store owner.],
 
 
 tz2002e1x41
@@ -1660,7 +1655,7 @@ Directed by: Risa Bramon Garcia. Story by: Bradley Thompson & David Weddle,
 Michael Angeli.
 
 :: Ratings
-3 <paul>
+3 <paul*>
 2 <mikael>,
 
 :: Choice Themes
