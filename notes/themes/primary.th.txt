@@ -1728,25 +1728,6 @@ at a suitable location.
 https://en.wikipedia.org/wiki/Aircraft_hijacking
 
 
-speculative airliner
-====================
-
-:: Description
-A passenger airplane with capabilities above and beyond what can be
-expected of contemporary airliners is featured.
-
-:: Parents
-speculative vehicle
-
-:: References
-https://en.wikipedia.org/wiki/Airliner
-
-:: Examples
-The film "Starflight: The Plane That Couldn't Land" (1983) followed the maiden
-voyage of Starflight: a hypersonic passenger plane that was anticipated to fly
-from Los Angeles to Sydney in two hours.
-
-
 alchemy
 =======
 
@@ -1861,6 +1842,21 @@ world as a humanoid in tng2x01 "The Child".
 
 :: References
 https://en.wikipedia.org/wiki/Alien_abduction
+
+
+alien living secretly among us
+==============================
+
+:: Description
+An extraterrestrial being covertly lives as an impostor amongst normal people
+in a community
+
+:: Parents
+impostor living secretly among us
+
+:: Examples
+Commander Riker is sent to live secretly among the Malcorians in preparation
+for a possible first contact scenario in tng4x15 "First Contact".
 
 
 alien origin of a technology
@@ -2881,12 +2877,12 @@ Two characters critically discuss a piece of art.
 :: Parents
 art appreciation
 
-:: References
-https://en.wikipedia.org/wiki/Art_criticism
-
 :: Examples
 Data found evidence of "unsettling overtones of proto-Vulcan influences" in
 Picard's painting of a nude model in tng3x14 "A Matter of Perspective".
+
+:: References
+https://en.wikipedia.org/wiki/Art_criticism
 
 
 art forgery in society
@@ -2902,6 +2898,17 @@ crime in society
 
 :: References
 https://en.wikipedia.org/wiki/Art_forgery
+
+
+art related activity
+====================
+
+:: Description
+There is an activity which centers around art objects but which is not itself
+about the creation of art.
+
+:: Parents
+the fine arts and the humanities
 
 
 art related occupation
@@ -4686,6 +4693,20 @@ but in space.
 
 :: References
 https://en.wikipedia.org/wiki/Booby_trap
+
+
+boogie monster
+==============
+
+:: Description
+A mythical creature used by adults to frighten children into good behavior is
+featured.
+
+:: Parents
+monster
+
+:: References
+https://en.wikipedia.org/wiki/Bogeyman
 
 
 border-wall building in society
@@ -8191,6 +8212,25 @@ Vina was horribly disfigured in a crash landing on the planet Talos IV in
 tos0x01 "The Cage".
 
 
+coping with being eclipsed by a family member
+=============================================
+
+:: Description
+A character feels diminished because of a family member's success at something
+in particular, and must come to terms with this.
+
+:: Parents
+coping with a family issue
+
+:: Examples
+In talesoftheunexpected9x02 "The Colonels Lady", George, who had had a
+distinguished career in the military, resented his wife's sudden and smashing
+success as a poetry writer.
+
+:: Aliases
+coping with being surpassed by one's child
+
+
 coping with being famous
 ========================
 
@@ -9642,12 +9682,12 @@ flying saucers, to the idea that the Devil was really an alien.
 :: Parents
 speculative fiction theme
 
-:: References
-https://en.wikipedia.org/wiki/Pseudoscience
-
 :: Examples
 It was revealed that the vampires of legend were in fact life force thirsty
 space aliens in "Lifeforce" (1985).
+
+:: References
+https://en.wikipedia.org/wiki/Pseudoscience
 
 
 crackpot theory of cattle mutilation
@@ -15006,13 +15046,13 @@ There is a vehicle that looks like a car which can fly or hover.
 :: Parents
 speculative vehicle
 
-:: References
-https://en.wikipedia.org/wiki/Flying_car_(aircraft)
-https://en.wikipedia.org/wiki/Hovercar
-
 :: Examples
 A trio of cosmonauts explored the surface of Venus in a nifty hovercar in
 Planeta Bur (1962).
+
+:: References
+https://en.wikipedia.org/wiki/Flying_car_(aircraft)
+https://en.wikipedia.org/wiki/Hovercar
 
 
 flying drone
@@ -19859,6 +19899,21 @@ The Kzinti immobilized Spock and his landing party with a weaponized form of
 this technology in tas1x14 "The Slaver Weapon".
 
 
+immortal living secretly among us
+=================================
+
+:: Description
+A character who doesn't age and who has lived an impossibly long time lives
+secretly among us run-of-the-mill mortals.
+
+:: Parents
+impostor living secretly among us
+
+:: Examples
+Flint is revealed to be an immortal human who had lived on Earth under various
+aliases for thousands of years in tos3x21 "Requiem for Methuselah".
+
+
 immortality
 ===========
 
@@ -22700,6 +22755,20 @@ ruling elite utopia, technologically enabled utopia
 
 :: Aliases
 computer controlled society
+
+
+machine living secretly among us
+================================
+
+:: Description
+A machine impersonating a human is living secretly among normal people.
+
+:: Parents
+impostor living secretly among us
+
+:: Examples
+In "Terminator: Dark Fate" (2019), the T-101 Model Terminator Carl lives with
+a wife and stepson in Laredo, Texas, where he works as a common draper.
 
 
 machines in society
@@ -26202,15 +26271,15 @@ opposition to authority
 =======================
 
 :: Description
-A character is defiant towards authority and authority figures to a 
-notable degree.
-
-:: Examples
-In "The Matrix" (1999), Neo's boss at the software company inside the 
-Matrix complains that Neo thought the rules somehow didn't apply to him.
+A character is defiant towards authority and authority figures to a notable
+degree.
 
 :: Parents
 human character
+
+:: Examples
+In "The Matrix" (1999), Neo's boss at the software company inside the Matrix
+complains that Neo thought the rules somehow didn't apply to him.
 
 
 optimist vs. pessimist
@@ -33302,6 +33371,20 @@ cool the planet.
 https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering)
 
 
+space portal
+============
+
+:: Description
+There is a portal-like device that enables rapid travel between two distant
+locations.
+
+:: Parents
+teleportation device, space travel
+
+:: References
+https://en.wikipedia.org/wiki/Stargate_(device)
+
+
 space protozoa
 ==============
 
@@ -33424,20 +33507,6 @@ spaceborne being
 :: Examples
 The pod plants of Omicron Ceti III had arrived after traversing space as a
 cloud of spores in tos1x25 "This Side of Paradise".
-
-
-speculative spaceship
-=====================
-
-:: Description
-A vehicle or machine designed to fly in outer space is featured.
-
-:: Parents
-speculative vehicle
-
-:: References
-https://en.wikipedia.org/wiki/Spacecraft
-http://sf-encyclopedia.com/entry/spaceships
 
 
 spacesuit
@@ -33601,6 +33670,25 @@ godlike.
 
 :: Parents
 speculative ability
+
+
+speculative airliner
+====================
+
+:: Description
+A passenger airplane with capabilities above and beyond what can be expected
+of contemporary airliners is featured.
+
+:: Parents
+speculative vehicle
+
+:: Examples
+The film "Starflight: The Plane That Couldn't Land" (1983) followed the maiden
+voyage of Starflight: a hypersonic passenger plane that was anticipated to fly
+from Los Angeles to Sydney in two hours.
+
+:: References
+https://en.wikipedia.org/wiki/Airliner
 
 
 speculative airship
@@ -34017,6 +34105,20 @@ some interesting respect.
 speculative fiction theme
 
 
+speculative spaceship
+=====================
+
+:: Description
+A vehicle or machine designed to fly in outer space is featured.
+
+:: Parents
+speculative vehicle
+
+:: References
+https://en.wikipedia.org/wiki/Spacecraft
+http://sf-encyclopedia.com/entry/spaceships
+
+
 speculative subliminal stimuli
 ==============================
 
@@ -34036,6 +34138,21 @@ blibverts, to prevent their viewers from channel surfing.
 
 :: References
 https://en.wikipedia.org/wiki/Subliminal_stimuli
+
+
+speculative submarine
+=====================
+
+:: Description
+A watercraft capable of independent operation underwater is featured in a
+manner that makes it clear it is a future technological achievement.
+
+:: Parents
+speculative vehicle
+
+:: References
+https://en.wikipedia.org/wiki/Submarine
+http://www.sf-encyclopedia.com/entry/submarines
 
 
 speculative suit
@@ -34137,20 +34254,20 @@ speculative virtual reality
 :: Description
 There is technology that places people within simulated and immersive
 environments that can be similar to or completely different from the real
-world. It must exceed in capabilities the virtual reality technology of
-today. In extreme cases the technology makes it practically impossible to
-distinguish the simulated world from reality.
+world. It must exceed in capabilities the virtual reality technology of today.
+In extreme cases the technology makes it practically impossible to distinguish
+the simulated world from reality.
 
 :: Parents
 speculative technology
-
-:: Aliases
-simulated reality
 
 :: References
 https://en.wikipedia.org/wiki/Virtual_reality
 https://en.wikipedia.org/wiki/Virtual_reality_in_fiction
 https://en.wikipedia.org/wiki/Simulated_reality
+
+:: Aliases
+simulated reality
 
 
 speculative weapon
@@ -34764,21 +34881,6 @@ microscopic being
 Both the Enterprise-D and the Klingon vessel IKS Pagh were in danger when
 their hulls got infested by a tritanium eating subatomic bacteria in tng2x08
 "A Matter Of Honor".
-
-
-speculative submarine
-=====================
-
-:: Description
-A watercraft capable of independent operation underwater is featured in a
-manner that makes it clear it is a future technological achievement.
-
-:: Parents
-speculative vehicle
-
-:: References
-https://en.wikipedia.org/wiki/Submarine
-http://www.sf-encyclopedia.com/entry/submarines
 
 
 substance intoxication
@@ -35439,9 +35541,6 @@ séance
 :: Description
 The idea that a trained mystic can help us communicate with the dead.
 
-:: Aliases
-seance
-
 :: Parents
 communicating with the dead
 
@@ -35451,6 +35550,9 @@ the murder case brought against Scotty in tos2x07 "Wolf in the Fold".
 
 :: References
 https://en.wikipedia.org/wiki/S%C3%A9ance
+
+:: Aliases
+seance
 
 
 table manners
@@ -36041,20 +36143,6 @@ https://en.wikipedia.org/wiki/Future_of_an_expanding_universe
 
 :: Aliases
 the heat death of the universe
-
-
-boogie monster
-==============
-
-:: Description
-A mythical creature used by adults to frighten children into good behavior is
-featured.
-
-:: Parents
-monster
-
-:: References
-https://en.wikipedia.org/wiki/Bogeyman
 
 
 the British Raj
@@ -40075,6 +40163,17 @@ speculative travel
 https://en.wikipedia.org/wiki/Time_travel
 https://en.wikipedia.org/wiki/Time_travel_in_fiction
 http://www.sf-encyclopedia.com/entry/time_travel
+
+
+time traveler living secretly among us
+======================================
+
+:: Description
+A character who has traveled from a another time lives secretly among normal
+people.
+
+:: Parents
+time travel, impostor living secretly among us
 
 
 time traveler meddling in history
@@ -44239,9 +44338,9 @@ what it is like on a passenger flight
 
 :: Description
 We are shown what it might be like for a passenger to fly on a commercial
-airline flight. Stereotypically, this might involve cramped seating, an
-overly chatty neighbor, an unruly child kicking the back of one's seat,
-hijackings, etc.
+airline flight. Stereotypically, this might involve cramped seating, an overly
+chatty neighbor, an unruly child kicking the back of one's seat, hijackings,
+etc.
 
 :: Parents
 what life is like
