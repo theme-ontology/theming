@@ -270,17 +270,26 @@ false friend
 ============
 
 :: Description
-There is a character acts openly as a friend to another character but secretly and with explicit malice conspires behind their back.
+There is a character acts openly as a friend to another character yet conspires 
+behind their back in a way that is most unfriendly.
 
 :: Parents
 human interpersonal relationship
+
+:: Examples
+In "Othello" (1603), sly Iago poses as confident and most reluctantly reveals
+to Othello details about Othello's wife, Dedemona's, infidelity. Alas, it
+is all ruse and fabrication carefully conceived by Iago in order to get
+revenge on those he envies or dislikes, including on Othello himself.
+It is only after he has killed his own wife in jealous rage that Othello 
+becomes aware of what a false and malign "friend" Iago has been.
 
 
 shrew character
 ===============
 
 :: Description
-There is an unpleasant, ill-tempered woman characterised by scolding, 
+There is an unpleasant, ill-tempered woman characterized by scolding, 
 nagging, and aggression to a notable degree.
 
 :: Parents
@@ -289,11 +298,22 @@ female stereotype
 :: References
 https://en.wikipedia.org/wiki/Shrew_(stock_character)
 
+:: Example
+In "The Taming of the Shrew" (1592), we see a young woman Katherina who
+complains, scolds, and bickers to such an extent that no man can stomach 
+the thought of courting her. She is finally "tamed" by an equally ill-tempered
+man who marries her merely for her dowry, and proceeds to train her by
+rather harsh methods.
+
 
 fabled land of goodness
 =======================
 
 :: Description
+A character tells of a land somewhere in which existence would be akin to
+paradise on Earth, if only it could be reached. Typically the main feature
+of such a land is freedom from a specific social ill that plagues the 
+rest of the world, such as disease, violence, or famine.
 
 :: Parents
 utopia
