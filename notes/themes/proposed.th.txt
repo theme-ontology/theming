@@ -70,6 +70,10 @@ fear of failure
 ===============
 
 :: Description
+A character notably exhibits anxiety about not managing something they have
+set out to achieve. Alternatively, the character exhibits distress over 
+negative evaluations by others, or the expectation that others would evaluate 
+them negatively
 
 :: Parents
 human phobia
@@ -77,22 +81,48 @@ human phobia
 :: Aliases
 atychiphobia
 
+:: References
+https://en.wikipedia.org/wiki/Fear_of_negative_evaluation
+
 
 hypocritical character
 ======================
 
 :: Description
-There is a character who does the opposite of what they 
-themself preaches, to a notable degree.
+There is a character who does the opposite of what they themself preaches, 
+to a notable degree.
+
+:: Examples
+In "Measure for Measure" (1604), Angelo has condemned Claudio to death
+for the offense of extramarital fornication, even though it was with a woman
+he loved, that loved him, and whom he intended to marry. When petitioned for 
+leniency, Angelo orated at length about the importance of enforcing the law.
+Simultaneously, he used his office to pressure a young nun for extramarital
+sex himself.
 
 :: Parents
 human character stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Hypocrisy
 
 
 mercy vs. justice
 =================
 
 :: Description
+We are made to ponder when and to what extent we think laws should be
+enforced to the letter, and when, if ever, there might be reason to stay
+enforcement for reasons of mercy.
+
+:: Examples
+In "The Merchant of Venice" (1598), by the letter of the law Shylock had
+the right to extract a literal pound of flesh from Antonio who had broken
+his bond. A legal expert implored Shylock to be merciful yet acknowledged
+that the law must be upheld and that mercy could not be enforced by the state.
+Later Shylock was himself brought low by the law, and various characters
+made a point of being merciful even when the law would have awarded them
+ruthless satisfaction.
 
 :: Parents
 social ethical dilemma
@@ -102,42 +132,80 @@ time rewind ability
 ===================
 
 :: Description
+A character is able at will to turn back the clock, to some extent, and do
+things over again. Typically they retain their memories while everything else 
+in the universe is reset to an earlier state of affairs.
 
 :: Parents
-speculative ability related to reality at large
+speculative ability related to reality at large, time travel
 
 
 the game of poker
 =================
 
 :: Description
+A card game of the poker family common to which is that there is a concept of
+ranked "hands" of cards, and the goal is to finish with the best such hand.
+Such a game is notably featured.
 
 :: Parents
 tabletop games
+
+:: References
+https://en.wikipedia.org/wiki/Poker
 
 
 school shootings in society
 ===========================
 
 :: Description
+The social problem, most notable in contemporary US, of educational institutions
+becoming the target of more or less indiscriminate attacks with firearms, is 
+explored. The perpetrators may be, for example, lone troubled students, or 
+organized terrorist groups.
+
+:: Examples
+In tz2002e1x29 "Into the Light", a teacher, Rachel Stark, during her last days of 
+work caught wind of the fact that Ben, a bullied and angry student, was planning to 
+go on a killing spree and shoot up the school. She managed narrowly to avert the 
+tragedy by tackling Ben off the roof, where he had strategically stationed himself 
+with a rifle.
 
 :: Parents
 law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/School_shooting
 
 
 cultural history
 ================
 
 :: Description
+This is the category of themes that refer to cultural artifacts from actual human
+history. Notably, these are references to well known stories that have been occasionally
+and explicitly referenced within other stories.
+
+:: Examples
+For example "the Wizard of Oz", "Lord of the Rings", and "the legend of King Arthur"
+are stories (or categories of stories) that are sometimes unambiguously referenced within 
+more modern stories.
 
 :: Parents
 history
+
+:: References
+https://en.wikipedia.org/wiki/Cultural_history
 
 
 exaggerating the importance of humanity's place in the universe
 ===============================================================
 
 :: Description
+Featured is a doctrine that is notably precise and disproved, and which flagrantly
+exaggerates humanities role in the universe. The most notable example of this
+is the geocentric model of the universe, i.e., the idea that Earth and humanity
+must be at the physical center of creation. There are, however, variations.
 
 :: Parents
 superstition
