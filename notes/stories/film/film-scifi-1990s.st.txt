@@ -2942,14 +2942,14 @@ appearance altering technology [Sonny Hokori used some sort of technology, perha
 romantic love [Something was going on between Jake and Beth.],
 
 
-movie: Twilight Zone: Rod Serlings Lost Classics (1994)
-=======================================================
+movie: tz1994-01
+================
 
 :: Title
-Twilight Zone: Rod Serling's Lost Classics
+Twilight Zone: Rod Serling's Lost Classics: The Theater
 
 :: Description
-Twilight Zone: Rod Serling's Lost Classics is a 1994 American made-for-television fantasy supernatural horror film consisting of two stories by Rod Serling. The film was co-produced by Serling's widow Carol Serling. Reportedly, she found the two pieces in a trunk in the family's garage.
+A young woman sees scenes from her past and future on the screen whenever she goes to the cinema.
 
 :: Date
 1994-05-19
@@ -2965,32 +2965,61 @@ https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
 sci-fi, fantasy, horror,
 
 :: Choice Themes
-what if I caught a glimpse of the future [In "The Theater": Melissa watched the scene of her own death unfold before her eyes on a movie theater screen during a film screening.],
-revival long after death [In "Where the Dead Are": Dr. Wheaton discovered a method to revive the dead and was using it to keep the inhabitants of a small island community alive well beyond their alloted years.],
+what if I caught a glimpse of the future [Melissa watched the scene of her own death unfold before her eyes on a movie theater screen during a film screening.],
 
 :: Major Themes
-fiancée and fiancée [In "The Theater": Melissa was reluctant to tie the officially tie the knot with her fiancée James.],
-the medical professions [In "The Theater": Melissa's fiancée James worked as a physician in a hospital. In "Where the Dead Are": Dr. Ramsey was a practicing surgeon.],
-human life in late modern times [In "Where the Dead Are": We saw a depiction of what it might have been like to live in New England in the years after the American Civil War.],
-the quest for immortality [when people understood that they could live on indefinitely they became obsessed with it to such an extent that they held Dr. Wheaton hostage and cut off his legs],
+fiancée and fiancée [Melissa was reluctant to tie the officially tie the knot with her fiancée James.],
+the medical professions [Melissa's fiancée James worked as a physician in a hospital. In "Where the Dead Are": Dr. Ramsey was a practicing surgeon.],
 
 :: Minor Themes
-fear of commitment [In "The Theater": James accused his fiancée Melissa of being afraid to commit to their relationship.],
-what if I saw a glimpse of the past [In "The Theater": Melissa watched scenes of her own past unfold before her eyes on a movie theater screen during a film screening.],
-what if I told the truth and nobody would believe me [In "The Theater": Melissa's fiancée James didn't take her seriously when she told him she'd witnessed a vision of her own death until it was too late.],
-carpe diem [In "The Theater": The moral of the story, according to the closing narration, is that we should live each day to the fullest because we never know which day might be our last.],
-questioning one's sanity [In "The Theater": though she was adamant later, Melissa was clearly distressed at seeing things that no one else saw.],
-coping with the death of a lover [In "The Theater": James was disheveled after Melissa died.],
-uncle and niece [In "Where the Dead Are": The elderly Dr. Wheaton was being cared for by his adult niece Susan.],
-coping with a disability [In "Where the Dead Are": Dr. Wheaton had lost both legs from the knee down.],
-American Civil War [In "Where the Dead Are": Dr. Ramsey had grim flashbacks to his time as a Union Army surgeon in this war.],
-what it is like in a combat zone [In "Where the Dead Are": We saw a grim depiction of a Union Army surgeon working on or near an American Civil War battlefield.],
+fear of commitment [James accused his fiancée Melissa of being afraid to commit to their relationship.],
+what if I saw a glimpse of the past [Melissa watched scenes of her own past unfold before her eyes on a movie theater screen during a film screening.],
+what if I told the truth and nobody would believe me [Melissa's fiancée James didn't take her seriously when she told him she'd witnessed a vision of her own death until it was too late.],
+carpe diem [The moral of the story, according to the closing narration, is that we should live each day to the fullest because we never know which day might be our last.],
+questioning one's sanity [though she was adamant later, Melissa was clearly distressed at seeing things that no one else saw.],
+coping with the death of a lover [James was disheveled after Melissa died.],
+
+
+movie: tz1994-02
+================
+
+:: Title
+Twilight Zone: Rod Serling's Lost Classics: Where the Dead Are
+
+:: Description
+An American Civil War era physician searches for the secret to immortality.
+
+:: Date
+1994-05-19
+
+:: References
+https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
+
+:: Ratings
+3 <paul> [TV film],
+4 <mikael>,
+
+:: Genre
+sci-fi, fantasy, horror,
+
+:: Choice Themes
+revival long after death [Dr. Wheaton discovered a method to revive the dead and was using it to keep the inhabitants of a small island community alive well beyond their alloted years.],
+
+:: Major Themes
+human life in late modern times [We saw a depiction of what it might have been like to live in New England in the years after the American Civil War.],
+the quest for immortality [When people understood that they could live on indefinitely they became obsessed with it to such an extent that they held Dr. Wheaton hostage and cut off his legs.],
+
+:: Minor Themes
+uncle and niece [The elderly Dr. Wheaton was being cared for by his adult niece Susan.],
+coping with a disability [Dr. Wheaton had lost both legs from the knee down.],
+American Civil War [Dr. Ramsey had grim flashbacks to his time as a Union Army surgeon in this war.],
+what it is like in a combat zone [We saw a grim depiction of a Union Army surgeon working on or near an American Civil War battlefield.],
 medicine [We saw a appendectomy performed to narration.],
 coping with a grumpy old coot [Dr. Ramsey interviewed Dr. Wheaton who was renowned for hist nasty demeanor.],
-the flip side of immortality [Wheaton's niece remonstrated in a letter about her unnaturally extended life; the island zombies did also not seem altogether happy with their lot.],
+the flip side of immortality [Wheaton's niece remonstrated in a letter about her unnaturally extended life. The island zombies did also not seem altogether happy with their lot.],
 
 :: Other Keywords
-the need for death [In "Where the Dead Are": One gathers that the moral of the story is the natural order requires that all living things must die.],
+the need for death [One gathers that the moral of the story is the natural order requires that all living things must die.],
 
 
 movie: Cosmic Slop (1994)
