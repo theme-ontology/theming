@@ -20,18 +20,18 @@ https://en.wikipedia.org/wiki/X-ray
 
 :: Examples
 An unsuspecting man has his skeleton extracted by an X-ray machine operating
-scientist in the silent film "A Novice at X-rays" (1898).
+scientist in "A Novice at X-rays" (1898).
 
-In the film "X: The Man with X-ray Eyes" (1963), Dr. James Xavier uses
-special eye drops to see beyond the visible spectrum into the ultraviolet
-and X-ray wavelengths and beyond.
+In "X: The Man with X-ray Eyes" (1963), Dr. James Xavier uses special eye
+drops to see beyond the visible spectrum into the ultraviolet and X-ray
+wavelengths and beyond.
 
 
 ability to see through solid objects
 ====================================
 
 :: Description
-A character is able to see right through solid objects.
+A character is able to see right through physical objects at their discretion.
 
 :: Parents
 speculatively magnified ordinary personal ability
@@ -63,7 +63,7 @@ https://en.wikipedia.org/wiki/Virtual_reality
 
 :: Examples
 Chewbacca's father Itchy uses a virtual reality headset to watch a
-quasi-adult, fantasy program in the "Star Wars Holiday Special" (1978).
+quasi-adult, fantasy program in "Star Wars Holiday Special" (1978).
 
 
 fear of failure
@@ -92,6 +92,9 @@ hypocritical character
 There is a character who does the opposite of what they themself preaches, 
 to a notable degree.
 
+:: Parents
+human character stereotype
+
 :: Examples
 In "Measure for Measure" (1604), Angelo has condemned Claudio to death
 for the offense of extramarital fornication, even though it was with a woman
@@ -99,9 +102,6 @@ he loved, that loved him, and whom he intended to marry. When petitioned for
 leniency, Angelo orated at length about the importance of enforcing the law.
 Simultaneously, he used his office to pressure a young nun for extramarital
 sex himself.
-
-:: Parents
-human character stereotype
 
 :: References
 https://en.wikipedia.org/wiki/Hypocrisy
@@ -115,6 +115,9 @@ We are made to ponder when and to what extent we think laws should be
 enforced to the letter, and when, if ever, there might be reason to stay
 enforcement for reasons of mercy.
 
+:: Parents
+social ethical dilemma
+
 :: Examples
 In "The Merchant of Venice" (1598), by the letter of the law Shylock had
 the right to extract a literal pound of flesh from Antonio who had broken
@@ -123,9 +126,6 @@ that the law must be upheld and that mercy could not be enforced by the state.
 Later Shylock was himself brought low by the law, and various characters
 made a point of being merciful even when the law would have awarded them
 ruthless satisfaction.
-
-:: Parents
-social ethical dilemma
 
 
 time rewind ability
@@ -159,20 +159,20 @@ school shootings in society
 ===========================
 
 :: Description
-The social problem, most notable in contemporary US, of educational institutions
-becoming the target of more or less indiscriminate attacks with firearms, is 
-explored. The perpetrators may be, for example, lone troubled students, or 
-organized terrorist groups.
-
-:: Examples
-In tz2002e1x29 "Into the Light", a teacher, Rachel Stark, during her last days of 
-work caught wind of the fact that Ben, a bullied and angry student, was planning to 
-go on a killing spree and shoot up the school. She managed narrowly to avert the 
-tragedy by tackling Ben off the roof, where he had strategically stationed himself 
-with a rifle.
+The social problem, most notable in the contemporary United States, of
+educational institutions becoming the target of more or less indiscriminate
+attacks with firearms, is explored. The perpetrators may be, for example,
+lone troubled students, or organized terrorist groups.
 
 :: Parents
 law and order issue
+
+:: Examples
+In tz2002e1x29 "Into the Light", a teacher, Rachel Stark, during her last
+days of work caught wind of the fact that Ben, a bullied and angry student,
+was planning to go on a killing spree and shoot up the school. She managed
+narrowly to avert the tragedy by tackling Ben off the roof, where he had
+strategically stationed himself with a rifle.
 
 :: References
 https://en.wikipedia.org/wiki/School_shooting
@@ -182,17 +182,17 @@ cultural history
 ================
 
 :: Description
-This is the category of themes that refer to cultural artifacts from actual human
-history. Notably, these are references to well known stories that have been occasionally
-and explicitly referenced within other stories.
-
-:: Examples
-For example "the Wizard of Oz", "Lord of the Rings", and "the legend of King Arthur"
-are stories (or categories of stories) that are sometimes unambiguously referenced within 
-more modern stories.
+This is the category of themes that refer to cultural artifacts from actual
+human history. Notably, these are references to well known stories that have
+been occasionally and explicitly referenced within other stories.
 
 :: Parents
 history
+
+:: Examples
+For example "the Wizard of Oz", "Lord of the Rings", and "the legend of King
+Arthur" are stories (or categories of stories) that are sometimes
+unambiguously referenced within more modern stories.
 
 :: References
 https://en.wikipedia.org/wiki/Cultural_history
@@ -202,10 +202,11 @@ exaggerating the importance of humanity's place in the universe
 ===============================================================
 
 :: Description
-Featured is a doctrine that is notably precise and disproved, and which flagrantly
-exaggerates humanities role in the universe. The most notable example of this
-is the geocentric model of the universe, i.e., the idea that Earth and humanity
-must be at the physical center of creation. There are, however, variations.
+Featured is a doctrine that is notably precise and disproved, and which
+flagrantly exaggerates humanities role in the universe. The most notable
+example of this is the geocentric model of the universe, i.e., the idea that
+Earth and humanity must be at the physical center of creation. There are,
+however, variations.
 
 :: Parents
 superstition
@@ -242,9 +243,6 @@ human childhood, parent and child
 Riker settled his long-standing rivalry with his father Kyle in the anbo-
 jtytsu dohyo tng2x14 "The Icarus Factor".
 
-:: Other Parents
-juvenile
-
 :: Related Themes
 Oedipus complex
 
@@ -261,20 +259,23 @@ crackpot theory
 
 :: Examples
 In tz2002e1x31 "The Monsters Are on Maple Street", order in a little 
-neighbored along the eponymous street broke down when several of the inhabitants
-became convinced that one of their secluded neighbors was, in fact, a
-foreign terrorist living there under false pretense.
+neighbored along the eponymous street broke down when several of the
+inhabitants became convinced that one of their secluded neighbors was, in
+fact, a foreign terrorist living there under false pretense.
 
 
 false friend
 ============
 
 :: Description
-There is a character acts openly as a friend to another character yet conspires 
-behind their back in a way that is most unfriendly.
+There is a character acts openly as a friend to another character yet
+conspires behind their back in a way that is most unfriendly.
 
 :: Parents
 human interpersonal relationship
+
+:: Related Themes
+betrayal
 
 :: Examples
 In "Othello" (1603), sly Iago poses as confident and most reluctantly reveals
