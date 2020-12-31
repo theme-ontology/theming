@@ -1091,6 +1091,35 @@ https://en.wikipedia.org/wiki/World_War_III
 http://www.sf-encyclopedia.com/entry/world_war_three
 
 
+X-rays
+======
+
+:: Description
+Electromagnetic waves in the part of the spectrum between UV rays and gamma
+rays (i.e., X-rays) are harnessed for some novel purpose.
+
+:: Parents
+physics
+
+:: Notes
+This theme does not apply to mundane usages of X-ray imagining technology,
+such as the case of a physician examining an X-ray of a broken arm.
+
+:: Examples
+An unsuspecting man has his skeleton extracted by an X-ray machine operating
+scientist in "A Novice at X-rays" (1898).
+
+In "X: The Man with X-ray Eyes" (1963), Dr. James Xavier uses special eye
+drops to see beyond the visible spectrum into the ultraviolet and X-ray
+wavelengths and beyond.
+
+:: References
+https://en.wikipedia.org/wiki/X-ray
+
+:: Aliases
+X rays
+
+
 Yeti
 ====
 
@@ -1252,6 +1281,26 @@ speculative ability related to physical things
 This would not apply if things are merely teleported to unseen locations. Nor
 does it apply in cases when reality itself is changed so as to make it as if
 an object or person had never been.
+
+
+ability to see through solid objects
+====================================
+
+:: Description
+A character is able to see right through physical objects at their discretion.
+
+:: Parents
+speculatively magnified ordinary personal ability
+
+:: Examples
+Superman uses his X-ray vision to check Lois Lane's lungs for signs of cancer
+in the eponymously named film "Superman" (1978).
+
+:: References
+https://en.wikipedia.org/wiki/X-ray_vision
+
+:: Aliases
+X-ray vision
 
 
 abortion
@@ -1692,6 +1741,22 @@ speculative punishment
 In the film "30 Years to Life" (1998), Vinnie Dawson, a 15-year-old, is
 punished for a murder he didn't commit by being subjected to a process that
 ages him 30 years.
+
+
+agoraphobia
+===========
+
+:: Description
+An anxiety disorder characterized by symptoms of anxiety in situations where a
+person perceives their environment to be unsafe with no easy way to escape, is
+featured. Such situations can include open spaces, public transit, shopping
+centers, or simply being outside one's home.
+
+:: Parents
+human phobia
+
+:: References
+https://en.wikipedia.org/wiki/Agoraphobia
 
 
 aircraft hijacking in society
@@ -4389,6 +4454,20 @@ Million Dollar Man" (1973).
 https://en.wikipedia.org/wiki/Prosthetics_in_fiction
 
 
+bionic limb
+===========
+
+:: Description
+Someone has a robotic appendage in place of a real appendage.
+
+:: Parents
+prosthetic device
+
+:: Template
+bionic limb <body-part>
+<body-part>: arm, hand, leg
+
+
 bird in a gilded cage
 =====================
 
@@ -5436,6 +5515,20 @@ hybrid being, legendary being,
 https://en.wikipedia.org/wiki/Centaur
 
 
+center of the universe dogma
+============================
+
+:: Description
+The oft ridiculed, supposed Church doctrine of bygone days, that Earth is at
+the center of physical creation, is featured.
+
+:: Parents
+exaggerating the importance of humanity's place in the universe
+
+:: References
+https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
+
+
 chameleon-like being
 ====================
 
@@ -5572,6 +5665,21 @@ into the evil Mr. Edward Hyde.
 
 :: References
 https://en.wikipedia.org/wiki/Chemistry
+
+
+child abduction
+===============
+
+:: Description
+The crime of unauthorized removal of a minor (a child under the age of legal
+adulthood) from the custody of the child's natural parents or legally
+appointed guardians, is featured.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Child_abduction
 
 
 child abuse
@@ -10021,6 +10129,26 @@ William Riker participated in an officer exchange program that involved
 serving aboard the Klingon vessel Pagh in tng2x08 "A Matter of Honor".
 
 
+cultural history
+================
+
+:: Description
+This is the category of themes that refer to cultural artifacts from actual
+human history. Notably, these are references to well known stories that have
+been occasionally and explicitly referenced within other stories.
+
+:: Parents
+history
+
+:: Examples
+For example "the Wizard of Oz", "Lord of the Rings", and "the legend of King
+Arthur" are stories (or categories of stories) that are sometimes
+unambiguously referenced within more modern stories.
+
+:: References
+https://en.wikipedia.org/wiki/Cultural_history
+
+
 cultural preservation
 =====================
 
@@ -12789,6 +12917,23 @@ https://en.wikipedia.org/wiki/Haunted_doll
 https://en.wikipedia.org/wiki/Killer_toy
 
 
+exaggerating the importance of humanity's place in the universe
+===============================================================
+
+:: Description
+Featured is a doctrine that is notably precise and disproved, and which
+flagrantly exaggerates humanities role in the universe. The most notable
+example of this is the geocentric model of the universe, i.e., the idea that
+Earth and humanity must be at the physical center of creation. There are,
+however, variations.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
+
+
 exercising self-control
 =======================
 
@@ -12911,6 +13056,19 @@ gain.
 
 :: Parents
 romantic relationship issue
+
+
+exploiting another society
+==========================
+
+:: Description
+Discussed is what sort of interaction with a weaker nation might constitute
+illegitimate exploitation, and what might be justified. For example, trade is
+often thought to be beneficial to both parties, but maybe not so if one state
+conspires to keep the other weak in order to have a more lopsided bargain.
+
+:: Parents
+social ethical dilemma
 
 
 exponential growth
@@ -13145,6 +13303,22 @@ body part transplant
 :: Examples
 Baron Victor von Frankenstein attempted to transplant the eyes of a murdered
 man into his blind monster in Frankenstein 1970 (1958).
+
+
+fabled land of goodness
+=======================
+
+:: Description
+A character tells of a land somewhere in which existence would be akin to
+paradise on Earth, if only it could be reached. Typically the main feature of
+such a land is freedom from a specific social ill that plagues the rest of the
+world, such as disease, violence, or famine.
+
+:: Parents
+utopia
+
+:: References
+https://en.wikipedia.org/wiki/Promised_Land
 
 
 face patch
@@ -13710,6 +13884,28 @@ tng5x14 "Conundrum".
 https://en.wikipedia.org/wiki/False_flag
 
 
+false friend
+============
+
+:: Description
+There is a character acts openly as a friend to another character yet
+conspires behind their back in a way that is most unfriendly.
+
+:: Parents
+human interpersonal relationship
+
+:: Examples
+In "Othello" (1603), sly Iago poses as confident and most reluctantly reveals
+to Othello details about Othello's wife, Dedemona's, infidelity. Alas, it is
+all ruse and fabrication carefully conceived by Iago in order to get revenge
+on those he envies or dislikes, including on Othello himself. It is only after
+he has killed his own wife in jealous rage that Othello becomes aware of what
+a false and malign "friend" Iago has been.
+
+:: Related Themes
+betrayal
+
+
 false rape accusations
 ======================
 
@@ -14072,6 +14268,25 @@ A character exhibits mild or acute iatrophobia.
 
 :: Parents
 human phobia
+
+
+fear of failure
+===============
+
+:: Description
+A character notably exhibits anxiety about not managing something they have
+set out to achieve. Alternatively, the character exhibits distress over
+negative evaluations by others, or the expectation that others would evaluate
+them negatively
+
+:: Parents
+human phobia
+
+:: References
+https://en.wikipedia.org/wiki/Fear_of_negative_evaluation
+
+:: Aliases
+atychiphobia
 
 
 fear of flying
@@ -17684,6 +17899,24 @@ metaphysics
 https://en.wikipedia.org/wiki/Historical_determinism
 
 
+historical figure
+=================
+
+:: Description
+A character from real human history is discussed or otherwise featured.
+
+:: Parents
+history
+
+:: Notes
+The story must clearly identify the character in question, but there is no
+requirement that it be otherwise "correct" in what it has to say.
+
+:: Template
+historical figure <name>
+<name>: *
+
+
 historical revisionism
 ======================
 
@@ -18093,6 +18326,18 @@ vault from an antique shop adjacent to it.
 
 :: References
 https://en.wikipedia.org/wiki/Bank_robbery
+
+
+how to treat people that pose a risk to society through no fault of their own
+=============================================================================
+
+:: Description
+Some people are innocent of any wrongdoing yet pose a danger to public safety
+for one reason or another; are we socially justified in killing these people
+in order to defend ourselves?
+
+:: Parents
+social ethical dilemma
 
 
 hubris
@@ -19698,6 +19943,28 @@ human mental condition
 https://en.wikipedia.org/wiki/Hypochondriasis
 
 
+hypocritical character
+======================
+
+:: Description
+There is a character who does the opposite of what they themself preaches, to
+a notable degree.
+
+:: Parents
+human character stereotype
+
+:: Examples
+In "Measure for Measure" (1604), Angelo has condemned Claudio to death for the
+offense of extramarital fornication, even though it was with a woman he loved,
+that loved him, and whom he intended to marry. When petitioned for leniency,
+Angelo orated at length about the importance of enforcing the law.
+Simultaneously, he used his office to pressure a young nun for extramarital
+sex himself.
+
+:: References
+https://en.wikipedia.org/wiki/Hypocrisy
+
+
 hysterical woman stereotype
 ===========================
 
@@ -20020,6 +20287,23 @@ came to find that the woman was the spirit of a successfully suicidal artist,
 now inhabiting her own self-portraying statue. That would normally have
 spelled the end of their courtship. But fate intervened and Norman was turned
 into a statue of his own, dotingly contraposed with the other for eternity.
+
+
+impostor living secretly among us
+=================================
+
+:: Description
+There is a community of people in which one seeming member is in fact not of
+the community, and lives within it under notably false pretenses.
+
+:: Parents
+crackpot theory
+
+:: Examples
+In tz2002e1x31 "The Monsters Are on Maple Street", order in a little
+neighbored along the eponymous street broke down when several of the
+inhabitants became convinced that one of their secluded neighbors was, in
+fact, a foreign terrorist living there under false pretense.
 
 
 imprisonment as a punishment
@@ -24018,6 +24302,27 @@ human interpersonal relationship
 https://en.wikipedia.org/wiki/Mercy
 
 
+mercy vs. justice
+=================
+
+:: Description
+We are made to ponder when and to what extent we think laws should be enforced
+to the letter, and when, if ever, there might be reason to stay enforcement
+for reasons of mercy.
+
+:: Parents
+social ethical dilemma
+
+:: Examples
+In "The Merchant of Venice" (1598), by the letter of the law Shylock had the
+right to extract a literal pound of flesh from Antonio who had broken his
+bond. A legal expert implored Shylock to be merciful yet acknowledged that the
+law must be upheld and that mercy could not be enforced by the state. Later
+Shylock was himself brought low by the law, and various characters made a
+point of being merciful even when the law would have awarded them ruthless
+satisfaction.
+
+
 merpeople
 =========
 
@@ -26835,6 +27140,24 @@ The relationship between a parent and their child is featured.
 
 :: Parents
 human familial relationship
+
+
+parent and child rivalry
+========================
+
+:: Description
+A parent and their child compete over status or some objective in a less than
+amicable manner.
+
+:: Parents
+human childhood, parent and child
+
+:: Examples
+Riker settled his long-standing rivalry with his father Kyle in the anbo-
+jtytsu dohyo tng2x14 "The Icarus Factor".
+
+:: Related Themes
+Oedipus complex
 
 
 parental controls in society
@@ -31398,6 +31721,29 @@ human mental condition
 https://en.wikipedia.org/wiki/Schizophrenia
 
 
+school shootings in society
+===========================
+
+:: Description
+The social problem, most notable in the contemporary United States, of
+educational institutions becoming the target of more or less indiscriminate
+attacks with firearms, is explored. The perpetrators may be, for example, lone
+troubled students, or organized terrorist groups.
+
+:: Parents
+law and order issue
+
+:: Examples
+In tz2002e1x29 "Into the Light", a teacher, Rachel Stark, during her last days
+of work caught wind of the fact that Ben, a bullied and angry student, was
+planning to go on a killing spree and shoot up the school. She managed
+narrowly to avert the tragedy by tackling Ben off the roof, where he had
+strategically stationed himself with a rifle.
+
+:: References
+https://en.wikipedia.org/wiki/School_shooting
+
+
 science as magic to the primitive
 =================================
 
@@ -32299,6 +32645,27 @@ https://en.wikipedia.org/wiki/Shotgun_wedding
 
 :: Related Themes
 space rednecks
+
+
+shrew character
+===============
+
+:: Description
+There is an unpleasant, ill-tempered woman characterized by scolding, nagging,
+and aggression to a notable degree.
+
+:: Parents
+female stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Shrew_(stock_character)
+
+:: Example
+In "The Taming of the Shrew" (1592), we see a young woman Katherina who
+complains, scolds, and bickers to such an extent that no man can stomach
+the thought of courting her. She is finally "tamed" by an equally ill-tempered
+man who marries her merely for her dowry, and proceeds to train her by
+rather harsh methods.
 
 
 sibling and sibling
@@ -34256,6 +34623,25 @@ https://en.wikipedia.org/wiki/Simulated_reality
 simulated reality
 
 
+speculative virtual reality headset
+===================================
+
+:: Description
+There is a virtual reality headset (or goggles, or glasses, or some such head
+attachable device) the capabilities of which go beyond those of contemporary
+virtual reality devices of comparable design.
+
+:: Parents
+speculative virtual reality
+
+:: Examples
+Chewbacca's father Itchy uses a virtual reality headset to watch a quasi-
+adult, fantasy program in "Star Wars Holiday Special" (1978).
+
+:: References
+https://en.wikipedia.org/wiki/Virtual_reality
+
+
 speculative weapon
 ==================
 
@@ -35185,6 +35571,24 @@ extraordinary, and not the character's ability to use it. However, if the tool
 is uniquely connected to a user then arguably this user has an extraordinary
 ability. Due judgment must be exercised, and this category may be refined as
 we go forwards.
+
+
+supernatural existential risk to civilization
+=============================================
+
+:: Description
+Supernatural forces conspire to bring about the destruction of civilization.
+For example, one god or another might decide to wipe the slate clean and start
+creation over again.
+
+:: Parents
+existential risk to civilization
+
+:: Examples
+In tz2002e1x42 "Sunrise", an ancient Aztec curse that blotted out the sun was
+unleashed. Earth was mere hours from becoming an icy tomb when the curse was
+narrowly countermanded by means of a human sacrifice. Or so believed four
+college students who ritually murdered their friend.
 
 
 supernova
@@ -37417,6 +37821,21 @@ sports
 https://en.wikipedia.org/wiki/Darts
 
 
+the game of poker
+=================
+
+:: Description
+A card game of the poker family common to which is that there is a concept of
+ranked "hands" of cards, and the goal is to finish with the best such hand.
+Such a game is notably featured.
+
+:: Parents
+tabletop games
+
+:: References
+https://en.wikipedia.org/wiki/Poker
+
+
 the game of pool
 ================
 
@@ -37510,6 +37929,21 @@ in tng7x04 "Sub Rosa".
 
 :: Other Parents
 aliens
+
+
+the god is an alien
+===================
+
+:: Description
+Featured is the notion that worshiped deity is actually some kind of powerful
+alien being.
+
+:: Parents
+alien origin of religious claims
+
+:: Examples
+A mysterious alien entity convinced the many New Yorkers that it was the God
+of Christianity "God Told Me To" (1976).
 
 
 the good of society vs. personal gain
@@ -39932,6 +40366,18 @@ time travel
 :: References
 https://en.wikipedia.org/wiki/Time_portal
 http://www.sf-encyclopedia.com/entry/time_gate
+
+
+time rewind ability
+===================
+
+:: Description
+A character is able at will to turn back the clock, to some extent, and do
+things over again. Typically they retain their memories while everything else
+in the universe is reset to an earlier state of affairs.
+
+:: Parents
+speculative ability related to reality at large, time travel
 
 
 time slow down ability
@@ -44955,6 +45401,17 @@ human idea about life
 Q offered Picard a second chance at life in which Picard choose to play
 everything safe in tng6x15 "Tapestry"; he ended up as the most dreary kind of
 person imaginable, a scientist, and speedily repented.
+
+
+you must fight for what you want
+================================
+
+:: Description
+The idea is emphasized that one must work, fight, or otherwise struggle for
+what one desires, or one will usually not get it.
+
+:: Parents
+human idea about life
 
 
 young and old romance
