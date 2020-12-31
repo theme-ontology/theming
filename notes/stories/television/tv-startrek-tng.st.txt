@@ -1351,7 +1351,6 @@ Enterprise are placed under investigation by Starfleet .
 :: Choice Themes
 adolescence [Wesley] <Wesley>,
 coping with personal failure [Wesley with having failed the exam] <Wesley>,
-studying for a test [Wesley, Jake] <Wesley, Jake Kurland>,
 living up to expectations [Wesley, Jake] <Wesley, Jake Kurland>,
 
 :: Major Themes
@@ -1931,7 +1930,6 @@ human drama
 
 :: Choice Themes
 the thirst for knowledge [Ian wants to know the world from a human point of view] <Ian>,
-alien point of view [Ian] <Ian, Ian's Species>,
 mother and son [Troi and Ian] <Troi/Ian>,
 alien point of view [An incorporeal alien entity incarnated itself in the form of a human child in an effort to better understand the human condition.],
 
@@ -2639,7 +2637,6 @@ causing the destruction of her sister ship, the USS Yamato.
 :: Genre
 
 :: Choice Themes
-space portal [Iconian gateways to other parts of the galaxy],
 arms race [Romulans wanted to use the gateway for war, but Picard destroyed them on behalf of the Federation],
 space portal [The Iconian gateways enabled instantaneous travel all over the galaxy.],
 
@@ -3323,7 +3320,6 @@ bluffing [Worf bluffed at poker in the beginning, and bluffed Klingons by dressi
 :: Minor Themes
 speculative spaceship [Klingon sleeper vessel],
 suspended animation [K'Ehleyr was put in suspended animation for her voyage to the Enterprise],
-bluffing [Worf at the poker table] <Worf>,
 virtual reality room [Worf's calisthenics program] <holodeck>,
 sleeper agents [Klingon sleeper vessel agents],
 lovers' quarrel [Worf and K'Ehleyr] <Worf/K'Ehleyr>,
@@ -3597,7 +3593,6 @@ of a powerful and mysterious race.
 political drama
 
 :: Choice Themes
-diplomacy [Data with colonists and Picard with Sheliak],
 leadership [Data's leadership skills put to the test against those of Ghosheven] <Data, Gosheven>,
 the qualities of a good leader [Data and Gosheven] <Data, Gosheven>,
 attachment to one's land [colonists] <Gosheven>,
@@ -6136,7 +6131,6 @@ trust in a friend [Data in Ishara] <Data>,
 self-deception [Captain Picard concluded that Ishara was able to dupe them on account that everyone, Picard included, wanted to see something of their dearly departed friend Tasha in her sister Ishara.],
 belonging [Ishara felt at home aboard the Enterprise] <Ishara Yar>,
 coping with the death of a friend [Data at Tasha] <Data>,
-coping with the death of a colleague [Data at Tasha] <Data>,
 
 :: Minor Themes
 integrity [Picard refuses to trade weapons for hostages] <Picard>,
@@ -7238,9 +7232,6 @@ Q returns to test Picard 's love for an old flame.
 2 <Mikael>
 3 <Paul>
 
-:: Genre
-action, adventure, romance, comedy
-
 :: Choice Themes
 infatuation [Picard and Vash] <Picard, Vash>,
 transcendental being [Q] <The Q>,
@@ -7254,7 +7245,6 @@ attitude of superiority [God-like Q looked down his long nose at Picard and the 
 lovers' quarrel [Picard and Vash] <Picard/Vash>,
 integrity [Picard vs. helping Vash or giving in to Q] <Picard>,
 human pleasure [Captain Picard gave a formal lecture about an archaeological site.],
-embarrassment [Picard about introducing Vash to crew] <Picard>,
 love triangle [Picard/Vash/Q] <Picard/Vash/Q>,
 courage in the face of death [Picard and Vash were to be executed] <Picard, Vash>,
 desperation [Picard to make Q stop the fantasy] <Picard>,
@@ -8466,7 +8456,6 @@ the ethics of valuing human lives [if Picard does nothing and thousands must die
 fraud in society [Berlinghoff Rasmussen played himself off as a time traveler from the 26th century as part of an elaborate plot to steal Enterprise technology.],
 the lust for gold [Rasmussen] <Berlinghoff Rasmusen>,
 time traveler's dilemma [Picard contemplated breaking it],
-flattery [Rasmussen to crew] <Berlinghoff Rasmusen>,
 coping with an obnoxious jerk [crew at Rasmussen],
 
 :: Minor Themes
@@ -8580,7 +8569,6 @@ the need for cultural heritage [Worf encourages Alexander to embrace his Klingon
 endangered species [the rhino and gilbos],
 using tough love [Worf threatened to send Alexander to a Klingon school where he would learn some discipline.],
 child's point of view [Alexander] <Alexander Rozhenko>,
-single fatherhood [Worf as a single working parent] <Worf>,
 dealing with children [Worf had to deal with his unruly son Alexander.],
 laziness [Worf late for meeting with Picard] <Worf>,
 nature conservationism [the endangered species],
@@ -9688,7 +9676,6 @@ the Enterprise from destruction.
 what if I were a ghost [Geordi and Ro were ghosts aboard the Enterprise for all intents and purposes] <Geordi, Ro Laren>,
 coping with the death of a friend [crew to Geordi and Ro] <Picard, Riker>,
 ghost [Geordi and Ro were ghosts aboard the Enterprise for all intents and purposes],
-coping with the death of a colleague [crew to Geordi and Ro] <Picard, Riker, Data>,
 
 :: Major Themes
 faith vs. reason [Ro understands what happened through faith and Geordi through reason],
@@ -12983,7 +12970,6 @@ coping with the death of a colleague [Picard grieved for his junior officer Sito
 embarrassment [Sam after asking Riker about Canada] <Sam Lavelle>,
 standing up to a boss [Sito to Picard] <Sito Jaxa>,
 role models [Riker to Sam] <Riker>,
-coping with the death of a colleague [all with Sito],
 fortitude [young ensigns] <Sito Jaxa, Sam Lavelle, Taurik>,
 grief [crew for Sito],
 
@@ -13221,7 +13207,6 @@ coping with romantic rejection [Pierce rejected by Marla Finn] <Walter Pierce>,
 :: Minor Themes
 unrequited love [Pierce at Marla Finn] <Walter Pierce>,
 second guessing one's self [Riker about that he could have done more to prevent Kwon's suicide] <Riker>,
-coping with the death of a colleague [crew, especially Riker, with Kwon] <Riker>,
 coping with the death of a colleague [Daniel Kwon's death was mourned by the crew, especially by Riker.],
 mental illness [Daniel Kwon was in a deranged state of mind immediately before he committed suicide] <Daniel Kwon>,
 grief [some for Kwan] <Riker>,
@@ -13714,8 +13699,7 @@ ethnic hatred [Maquis and Cardassians] <Bajoran/Cardassian>,
 :: Major Themes
 remorse [Ro about having betrayed the Maquis],
 belonging [Ro feels at home among the Maquis] <Ro Laren>,
-choosing between conflicting loyalties [Ro was forced to take a side in the Federation/ Maquis conflict.],
-choosing between conflicting loyalties [Ro had to choose between the Federation and the Maquis.] <Ro Laren>,
+choosing between conflicting loyalties [Ro was forced to take a side in the Federation/Maquis conflict.],
 dealing with terrorists [Federation with Maquis],
 struggling with a life-changing decision [Ro] <Ro Laren>,
 
