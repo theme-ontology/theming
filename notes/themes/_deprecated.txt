@@ -4504,17 +4504,6 @@ samples.
 https://en.wikipedia.org/wiki/Scorched_earth
 
 
-self-destruct tactic
-====================
-
-:: Description
-Combatants decide to destroy themselves and their vessel rather than to
-surrender, and perhaps in order to kill their opponents with themselves.
-
-:: Parents
-the art of war
-
-
 the art of hand-to-hand combat
 ==============================
 
@@ -4887,6 +4876,194 @@ pretense of weakness.
 :: Parents
 the art of war
 
+
+dark matter being
+=================
+
+:: Description
+There is a being somehow constituted of a hypothetical kind of matter known as
+"dark matter".
+
+:: Parents
+inorganic being
+
+
+dark matter nebula
+==================
+
+:: Description
+A hypothetical nebula (cloud in space) composed primarily of an unidentified
+type of matter tentatively called "dark matter" that otherwise comprises
+approximately 27% of the mass and energy in the observable universe.
+
+:: Parents
+speculative natural object
+
+:: Examples
+The Enterprise-D "lit up" the Mar Obscura (dark matter) Nebula using specially
+modified photon torpedoes in tng4x25 "In Theory".
+
+:: References
+https://en.wikipedia.org/wiki/Dark_matter
+https://en.wikipedia.org/wiki/Nebula
+
+
+coping with the death of one's entire crew
+==========================================
+
+:: Description
+A character in command of a vessel grieves over the loss of their entire crew.
+
+:: Parents
+coping with the death of someone
+
+:: Examples
+Commodore Matt Decker mourned the loss of his crew to the Planet Eater in
+tos2x06 "The Doomsday Machine".
+
+
+coping with being at the brink of destruction
+=============================================
+
+:: Description
+A character, alone or in company with others, is harrowed and on the brink of
+destruction. They manage to go on only by the skin of their teeth. Typically
+they are dirty, injured, thorned and impoverished.
+
+:: Parents
+psychological stress
+
+
+galactic communication network
+==============================
+
+:: Description
+A way of communicating in some kind of real-time across the vast distances of
+the galaxy.
+
+:: Parents
+astronomical-scale engineering
+
+
+coping with an insubordinate subordinate
+========================================
+
+:: Description
+A character who is in charge has to deal with a subordinate that is
+disinclined to obey properly.
+
+:: Parents
+coping with problematic people
+
+
+extremism
+=========
+
+:: Description
+Religious or political ideologies far outside the mainstream attitudes of
+society that are considered to be threatening to the established order.
+
+:: Parents
+political ideology
+
+:: Examples
+Ensign Ro Laren infiltrated a group of Bajoran terrorists known as the Maquis
+in tng5x03 "Ensign Ro".
+
+
+
+who is the aggressor
+====================
+
+:: Description
+We are shown that in armed conflict, it is often not at all clear who deserves
+to be labeled the aggressor in the larger view of things.
+
+:: Parents
+social ethical dilemma
+
+
+human implanted suicide-weapon
+==============================
+
+:: Description
+Technology used to turn someone into a living walking bomb, for example.
+
+:: Parents
+speculative weapon, body implant
+
+
+coping with an excessively solicitous subordinate
+=================================================
+
+:: Description
+A character who is in charge has to deal with a subordinate that is making
+numerous and/or extravagant requests.
+
+:: Parents
+coping with problematic people
+
+
+competition among friends
+=========================
+
+:: Description
+A group of friends compete in an amicable way, typically without dirty tricks
+and hard feelings.
+
+:: Parents
+humans in group
+
+:: Examples
+Junior officer competed amicably for a promotion in tng7x15 "Lower Decks".
+
+
+mobile life support box
+=======================
+
+:: Description
+A bewheeled box-like device that keeps you alive and mobile even after the
+most crippling of catastrophic accidents.
+
+:: Parents
+speculative vehicle
+
+:: Examples
+Captain Pike was confined to just such a device in tos1x15 "The Menagerie,
+Part I" and tos1x16  "The Menagerie, Part II".
+
+
+being that feeds on emotions
+============================
+
+:: Description
+A being life form that somehow derives nourishment from the emotions of beings
+that have emotions.
+
+:: Parents
+biologically distinguished being
+
+:: Aliases
+emotion eating being
+
+
+the nature of sentience
+=======================
+
+:: Description
+The definition of sentience is discussed. Here as in most sci-fi the word
+"sentient" is taken to mean intelligent and self-aware. That, however, still
+leaves much to be questioned.
+
+:: Parents
+metaphysics
+
+:: Examples
+how could Picard tell whether he was transported to an alternate world or
+whether he was just crazy
+
+:: References
+https://en.wikipedia.org/wiki/Sentience
 
 
 
