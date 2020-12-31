@@ -67,7 +67,6 @@ loneliness [alien],
 mysterious maker alien race [spaceship making insectoid race] <Ancient Insectoid Species>,
 
 :: Minor Themes
-life-support belt [away team used on spaceship],
 extinct interstellar civilization [insectoid aliens] <Ancient Insectoid Species>,
 insectoid being [insectoid aliens] <Ancient Insectoid Species>,
 incorporeal being [magnetic being] <Magnetic Organism>,
@@ -150,14 +149,14 @@ home to a Federation colony governed by former Starfleet officer Bob Wesley
 
 :: Choice Themes
 living space cloud [cloud entity] <Cosmic Cloud>,
-attack from outer space by a giant spaceborne being [A colony was nearly consumed by a world eating space cloud.] <Cosmic Cloud>,
+attack from outer space by a giant spaceborne being [A colony was nearly consumed by a world eating space cloud.],
 
 :: Major Themes
 gaseous being [The Cosmic Cloud entity.],
 choosing who dies and who lives [save the children],
 the ethics of valuing human lives [save the children],
 the calculus of human life [save the planet or the Enterprise],
-saving a people vs. self-preservation [sacrifice enterprise],
+sacrifice to prevent mass death [Captain Kirk risked the Enterprise to save the colonists on Mantilles from being killed by a vast, planet-eating space cloud.],
 alien point of view [big vs. Small],
 
 :: Minor Themes
@@ -400,6 +399,7 @@ guide, is in reality the Lucifer of Earth mythology.
 :: Choice Themes
 what if my thoughts became reality [The landing party member's thoughts manifested in reality on the planet Megas-Tu.],
 the Devil is alien [It turned out that the alien Lucien was actually the Earth devil.],
+alien origin of a supersititon [It was alleged that the horned and hoofed alien Lucien was the origin of the Lucifer legend.],
 
 :: Major Themes
 charting unknown territory [crew exploring center of galaxy],
@@ -461,7 +461,7 @@ to without even being put to the inconvenience of leaving its home planet.
 2 <Mikael>
 
 :: Choice Themes
-magical amusement planet [Shore Leave Planet] <Shore Leave Planet>,
+speculative geoengineering [A planet in the Omicron Delta region was transformed into a magical amusement park by an unknown alien race.],
 what if my thoughts became reality [just a regular day on the Shore Leave Planet],
 out of control AI [Shore Leave Planet central computer took over] <Shore Leave Planet Computer>,
 
@@ -640,7 +640,6 @@ ocean planet [Argo] <Argo>,
 fish-like being [Aquans] <Aquan>,
 
 :: Minor Themes
-life-support belt [used on planet],
 conservative vs. liberal [Aquan elders vs. Aquan youths],
 xenophobia in society [Aquan elders were paranoid about outsiders],
 alien point of view [Spoculation about how the sea-men find humans grotesque],
@@ -686,7 +685,6 @@ facing a mortal enemy [landing party face Kzinti] <Spock, Uhura, Sulu>,
 mysterious maker alien race [stasis box civilization] <Slaver>,
 
 :: Minor Themes
-life-support belt [used by landing party on asteroid],
 second guessing one's self [Spock about finding the second stasis box] <Spock>,
 immobilization web [Kzinti used to catch landing party],
 felinoid being [Kzinti] <Kzinti>,
@@ -730,7 +728,7 @@ a zoo collection.
 transcendental being [slug aliens] <Lactran>,
 incompatible modes of communication [humans and slug aliens],
 what if I was a specimen animal in a zoo [landing party] <Kirk, Spock, McCoy>,
-transcendental point of view [slug aliens] <Lactran>,
+transcendental point of view [The Enterprise crew members were but as zoo specimens to an advanced race of telepathic slug-like aliens.],
 
 :: Major Themes
 slug-like being [Kirk and company were abducted by slug-like aliens and exhibited in a zoo.] <Lactran>,
@@ -820,7 +818,6 @@ trust in a potential foe [Kirk must trust Orion captain to pick up medicine] <Ki
 
 :: Minor Themes
 diplomacy [Kirk with Orions],
-asteroid belt [Enterprise navigated through],
 
 :: Other Keywords
 yello alert [1x] <13:33>,
@@ -988,8 +985,7 @@ the god is an alien [Kukulkan was a god to the Mayans] <Kukulkan's Species>,
 
 :: Major Themes
 misanthropy [Kukulkan hated mankind for having forgot about him],
-the right to self-determination [Kirkologue to Kulkulkan],
-the need for self-determination [Kirkologue to Kulkulkan],
+humankind controlling its own destiny [Captain Kirk convinced Kukulkan that humankind was ready to stand on its own two feet and that Kukulkan's help in cultivating civilization was no longer beneficial.],
 Ancient Mayan mythology [much featured],
 polytheism [Mayan pantheon of gods],
 facing a mortal enemy [away team face Kukulkan] <Kirk>,
