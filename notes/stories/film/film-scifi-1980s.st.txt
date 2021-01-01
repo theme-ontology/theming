@@ -425,7 +425,7 @@ friendship [Han paid a visit to his old friend Lando.],
 coping with being tortured [Han was tortured by Darth Vader.],
 what if criminals were after me [Han was evading Jaba the Hutt's bounty hunter.],
 cryogenic technology [Han was frozen solid, encased in carbonite, and later revived.],
-bionic hand [Luke got an artificial hand at the end of the film.],
+bionic limb <hand> [Luke got an artificial hand at the end of the film.],
 mind control ability [The mind control Jedi power.],
 
 
@@ -2876,7 +2876,7 @@ nuclear holocaust [A nuclear war was to blame for the post-apocalyptic future we
 nuclear weapons [A nuclear war was to blame for the post-apocalyptic future we saw where water is considered a precious substance.],
 master and pet [Little Tommy kept a pet rodent in his pocket.],
 mother and son [Tommy disobeyed his mother and snuck away to join the mission to find water for his community.],
-bionic arm [Little Tommy had a bio-mechanical right arm.],
+bionic limb <arm> [Little Tommy had a bio-mechanical right arm.],
 inebriated interaction [Little Tommy slurred his words and tumbled over after Papillon mistakenly gave the boy a can of beer to drink.],
 
 
@@ -3797,7 +3797,7 @@ hope [Some people kept up hope that a fertile would would be discovered, and the
 
 :: Minor Themes
 the dangers of radioactivity [High levels of radiation made it so that people couldn't procreate. People were also shown with radiation burns, and two people vomited up green good after presumably drinking radioactive water.],
-bionic hand [Ratchet had a metal claw-like gizmo for a right hand.],
+bionic limb <hand> [Ratchet had a metal claw-like gizmo for a right hand.],
 coping with being tortured [Ratchet was restrained on some sort of computerized rack.],
 cyborg [It turned out that Ratchet was actually a cyborg.],
 what if I had to fight to the death [Parsifal bested one of Big Ape's hench-apemen in a fight to the death for the right to make love to Giara.],
@@ -6949,7 +6949,7 @@ coping with a disability [Captain Bantor became demented after losing his hand i
 extraterrestrial being [A strange, dwarf-like alien was dispensing green slop to the prison ship inmates.],
 coping with bad cooking [The prison ship inmates didn't care for the green slop they were fed.],
 human vs. monster [Taura and Mike were pitted in hand-to-hand combat against an alien creature.],
-bionic hand [Captain Bantor had a robotic right hand.],
+bionic limb <hand> [Captain Bantor had a robotic right hand.],
 the desire for vengeance [Captain Bantor wanted to make Taura pay for having made him lose his right hand in a volcanic acid plume.],
 
 
@@ -7015,7 +7015,7 @@ robot helper [Nora had a flying robot assistant named Spot.],
 brains vs. brawn [Riverboat captain Harry Fontana secured a contract to take Nora and the Mandroid up the river by outsmarting the other riverboat captains who were participating in a winner take all bar brawl for the contract right. Fontana laid low while everyone else duked it out and then hit the presumptive winner over the head with a bottle to snatch victory from the jaws of defeat.],
 sexism in society [Fontana presumed that Nora didn't know how to pilot a riverboat, and later fit its motor, simply because she was a woman.],
 what if I had amnesia [The Mandroid had trouble remember details about his pre-cyborg existence as an airplane pilot.],
-bionic arm [Abbott Reeves gave himself a mechanical arm that shot electricity.],
+bionic limb <arm> [Abbott Reeves gave himself a mechanical arm that shot electricity.],
 pleasure in the misfortune of another [The Mandroid, Nora, and Kuji shared a laugh once it became apparent that the power hungry Abbot Reeves had not succeeded in sending himself back in time to rule over ancient Rome as a god-king, but rather had ended up being sent back over 400 million years into Earth's past, where he would rule over nothing.],
 
 :: Not Themes
@@ -8469,9 +8469,9 @@ terrorism [Steve and friends had to stop a band of domestic terrorists from lear
 reconciliation [Steve reconciled with his estranged son Michael.],
 
 :: Minor Themes
-bionic arm [Jamie used her bionic arm to hurl Steve clear through a restaurant window. Steve used his bionic arm to flip over a car.],
+bionic limb <arm> [Jamie used her bionic arm to hurl Steve clear through a restaurant window. Steve used his bionic arm to flip over a car.],
 artificial ears [Jamie heard Steve talking across a room with her hyper sensitive bionic ears.],
-bionic leg [Steve used his bionic legs to jump up onto the rooftop of a multistory building in the process of running down a car.],
+bionic limb <leg> [Steve used his bionic legs to jump up onto the rooftop of a multistory building in the process of running down a car.],
 artificial eyes [Steve used his bionic eye to zoom in on the license plate number of a fleeing automobile among other things. Michael could shoot a laser beam from his bionic eye.],
 living up to expectations [Air Force cadet pilot Michael had the burden of living up to the reputation of his father, the American hero Steve Austin.],
 coping with a disability [People needed to help Carol get around because she was blind.],
@@ -9907,7 +9907,7 @@ criminal gang in society [Biker gangs were causing trouble in slums of Neo Tokyo
 precognition [Kaneko foresaw the collapse of Neo Tokyo in a dream, and so it came to pass.],
 terrorism [An area was being cordoned off in immediate the aftermath of a terrorist bombing.],
 the theory of evolution [Kei explained how humans evolved from plankton and amoebas.],
-bionic arm [Tetsuo fashioned form himself a robotic arm after his real arm was blow off.],
+bionic limb <arm> [Tetsuo fashioned form himself a robotic arm after his real arm was blow off.],
 
 
 movie: Out of Time (1988)
@@ -10845,11 +10845,11 @@ romantic love [Kate and Ron. The story concluded with Jamie proposing to Steve.]
 
 :: Minor Themes
 artificial eyes [Steve used his bionic eye to zoom in on various people and things.],
-bionic arm [Steve had a bionic arm.],
+bionic limb <arm> [Steve had a bionic arm.],
 coping with an overly hard handshake [Kate, who did not yet know the strength of her new bionic arm, brought a man to his knees with her handshake.],
 artificial ears [Jamie heard CIA agents talking well outside of an ordinary human's earshot. Kate's bionic eye was equipped with facial recognition software.],
 super hearing [Jamie could hear people talk well outside of an ordinary human's earshot.],
-bionic leg [Steve and Jamie escaped from some CIA agents by both jumping over a high barrier wall.],
+bionic limb <leg> [Steve and Jamie escaped from some CIA agents by both jumping over a high barrier wall.],
 super strength [Steve and Kate performed various bionic arm enabled feats of strength.],
 uncle and nephew [Oscar Goldman and Jim Goldman],
 super speed [Kate learned to use her new bionic legs to run fast to the point of being blurred.],
