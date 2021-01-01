@@ -1444,7 +1444,7 @@ generosity [Arthur was exceptionally generous to the old woman.],
 the lust for gold [Arthur used one of his wishes to get a million dollars.],
 the lust for power [Arthur wished to rule over an entire country without the possibility of being voted out of office. His wish was granted and he was turned into Hitler in the last days of World War II.],
 World War II [Arthur was briefly transformed into Hitler.],
-Adolf Hitler [Arthur was briefly transformed into Hitler.],
+historical figure <Adolf Hitler> [Arthur was briefly transformed into Hitler.],
 
 
 tz1959e2x03
@@ -2487,7 +2487,7 @@ Christianity [Mr. Wordsworth was a defiant Christian though religion was banned.
 
 :: Minor Themes
 librarian [Mr. Wordsworth was a dedicated librarian.],
-Adolf Hitler [Hitler was mentioned as a role model.],
+historical figure <Adolf Hitler> [Hitler was mentioned as a role model.],
 anti-intellectualism in society [The government did its best to foster anti-intellectualism in this society by baning books.],
 conformism in society [Mr. Wordsworth existence as a librarian was in itself a bold defiance of the accepted categories in this totalitarian society.],
 cowardice [The Chancellor showed himself to be a coward when he was locked up in Mr. Wordsworth's room.],
@@ -4043,7 +4043,7 @@ fascism [Uniforms, hatred, torches, fisticuffs, murders - the story was above al
 racial supremacism [The story followed the hate monger Peter as he tried to grow his struggling neo-Nazi group.],
 ethnic hatred [Hitler took the young neo-Nazi leader Peter under his wing and taught him how to more effectively spread his message of hatred toward minorities (e.g. the Jews and Asian people) to the American public at large.],
 demagoguery [Hitler schooled Peter in the rhetorical techniques of how to get crowds of people to buy into his message of hate.],
-Adolf Hitler [The shadowy figure who was advising the young neo-Nazi leader Peter turned out to be none other than Adolph Hitler.],
+historical figure <Adolf Hitler> [The shadowy figure who was advising the young neo-Nazi leader Peter turned out to be none other than Adolph Hitler.],
 personal conviction [This was a story about people who burn with zeal for some pet political ideology.],
 Nazism [Hitler supported Peter as he tried to grow his struggling neo-Nazi group.],
 hate begets hate [Peter explained his troubled youth while explaining his ideology. An officer dropped the flag in front of Peter's feet, later Peter imitated that action with money in front of land lord's outstretched hands. Ernest explained Peter with reference to Peter's troubled youth.],
@@ -4323,7 +4323,7 @@ fascism [We saw Hitler preaching to a crowd of enthusiastic Germans.],
 nuclear weapons [The nuking of Hiroshima was depicted.],
 ironic twist of fate [In trying to prevent the disastrous school fire Paul inadvertently caused it.],
 American Civil War [Abigail mentioned having lost family in this conflict.],
-Adolf Hitler [Paul made a failed bid to assassinate Hitler.],
+historical figure <Adolf Hitler> [Paul made a failed bid to assassinate Hitler.],
 the butterfly effect [Harvey warned Paul that meddling in the past, even a little, was liable to start a temporal chain reaction.],
 political assassination [Paul made a failed bid to assassinate Hitler. Paul contemplated intervening in the assassination of President Garfield.],
 imperialism [Mr. Hanford was enthusiastic in his support for planting the American flag in the Orient, and all the way down to Australia.],
