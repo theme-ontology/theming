@@ -299,3 +299,35 @@ not the purpose of this category to catalog such things.
 :: References
 https://en.wikipedia.org/wiki/Crime
 
+
+bionic limb
+===========
+
+:: Description
+Someone has a robotic appendage in place of a real appendage.
+
+:: Parents
+prosthetic device
+
+:: Template
+bionic limb <body-part>
+<body-part>: arm, hand, leg
+
+
+historical figure
+=================
+
+:: Description
+A character from real human history is discussed or otherwise featured.
+
+:: Parents
+history
+
+:: Notes
+The story must clearly identify the character in question, but there is no
+requirement that it be otherwise "correct" in what it has to say.
+
+:: Template
+historical figure <name>
+<name>: *
+
