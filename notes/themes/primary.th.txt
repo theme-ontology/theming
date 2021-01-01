@@ -4316,20 +4316,6 @@ modern science
 https://en.wikipedia.org/wiki/Biology
 
 
-bionic limb
-===========
-
-:: Description
-Someone has a robotic appendage in place of a real appendage.
-
-:: Parents
-prosthetic device
-
-:: Template
-bionic limb <body-part>
-<body-part>: arm, hand, leg
-
-
 bird in a gilded cage
 =====================
 
@@ -5217,6 +5203,20 @@ form of government
 https://en.wikipedia.org/wiki/Caste
 
 
+catastrophic encounter with another universe
+============================================
+
+:: Description
+Our universe somehow collides with another one and is completely destroyed.
+
+:: Parents
+force of nature existential risk to civilization
+
+:: Examples
+Lazarus-A sacrificed himself to stop our universe from colliding with its
+parallel antimatter duplicate in tos1x20 "The Alternative Factor".
+
+
 catastrophic flood
 ==================
 
@@ -5318,20 +5318,6 @@ hybrid being, legendary being,
 
 :: References
 https://en.wikipedia.org/wiki/Centaur
-
-
-center of the universe dogma
-============================
-
-:: Description
-The oft ridiculed, supposed Church doctrine of bygone days, that Earth is at
-the center of physical creation, is featured.
-
-:: Parents
-exaggerating the importance of humanity's place in the universe
-
-:: References
-https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
 
 
 chameleon-like being
@@ -5699,21 +5685,6 @@ https://www.merriam-webster.com/dictionary/childish
 
 :: Related Themes
 coping with a spoiled brat
-
-
-childless reproducing being
-===========================
-
-:: Description
-A sentient being that does not undergo a development stage of "childhood" as
-humans do but arrives into the world mature.
-
-:: Parents
-sexually distinguished being
-
-:: Examples
-The Iyaarans emerge full-grown from natal pods it was revealed in tng7x02
-"Liaisons"
 
 
 children and candy from strangers
@@ -6231,20 +6202,6 @@ http://www.sf-encyclopedia.com/entry/hive_minds
 
 :: Aliases
 hive mind beings
-
-
-catastrophic encounter with another universe
-============================================
-
-:: Description
-Our universe somehow collides with another one and is completely destroyed.
-
-:: Parents
-force of nature existential risk to civilization
-
-:: Examples
-Lazarus-A sacrificed himself to stop our universe from colliding with its
-parallel antimatter duplicate in tos1x20 "The Alternative Factor".
 
 
 colonialism
@@ -7590,17 +7547,6 @@ Harry Mudd was nagged nearly to death by an android replica of his wife Stella
 in tos2x12 "I, Mudd".
 
 
-coping with a panicky relative
-==============================
-
-:: Description
-A caregiver has to deal with a concerned and emotional relative of the
-patient.
-
-:: Parents
-coping with problematic people
-
-
 coping with a pedantic authority figure
 =======================================
 
@@ -7639,16 +7585,6 @@ abide a family member that they find embarrassing.
 
 :: References
 https://en.wikipedia.org/wiki/Dysfunctional_family
-
-
-coping with a psychological illness
-===================================
-
-:: Description
-A character has a psychological illness and has to learn to live with it.
-
-:: Parents
-human health condition
 
 
 coping with a spoiled brat
@@ -8306,18 +8242,6 @@ Keiko O'Brien, née Ishikawa, experienced some last minute jitters over
 marrying Miles O'Brien in tng4x11 "Data's Day".
 
 
-coping with degrading mental faculties
-======================================
-
-:: Description
-A character has to learn to live with their mind not being as sharp as it once
-was. This could happen because of aging, brain trauma, or mysterious alien
-influences.
-
-:: Parents
-human health condition
-
-
 coping with disagreeable orders
 ===============================
 
@@ -8432,20 +8356,6 @@ the doctor and onerous treatment procedures.
 
 :: Parents
 human health condition
-
-
-coping with having a cold
-=========================
-
-:: Description
-A character struggles to endure a bout with the rhinovirus, or another of the
-two hundred odd strains that cause the common cold.
-
-:: Parents
-human health condition
-
-:: References
-https://en.wikipedia.org/wiki/Common_cold
 
 
 coping with having a headache
@@ -9159,21 +9069,6 @@ Worf howled over the body of his murdered spouse K'Ehleyr in tng4x07
 "Reunion".
 
 
-coping with the death of a subordinate
-======================================
-
-:: Description
-A character in a position of command grieves over the death one of their
-subordinates.
-
-:: Parents
-coping with the death of a colleague
-
-:: Examples
-Captain Kirk mourned for crewman Hendorff, who was shot and killed by a pod
-plant on Gamma Trianguli VI in tos2x09 "The Apple" whilst wearing a red shirt.
-
-
 coping with the death of one's entire family
 ============================================
 
@@ -9652,21 +9547,6 @@ not the purpose of this category to catalog such things.
 https://en.wikipedia.org/wiki/Crime
 
 
-crime related occupation
-========================
-
-:: Description
-A character involved with law, law enforcement, or related activities is
-engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: Notes
-This theme is used for typically lawful occupations. Criminal  activities are
-categorized as "law and order issue".
-
-
 criminal gang in society
 ========================
 
@@ -10061,21 +9941,6 @@ https://en.wikipedia.org/wiki/Cyborg
 http://www.sf-encyclopedia.com/entry/cyborgs
 
 
-cyclical mating cycle being
-===========================
-
-:: Description
-A sentient being that mates only at regular intervals.
-
-:: Parents
-sexually distinguished being
-
-:: Examples
-Spock was returned to planet Vulcan at warp speed so that he might complete
-the Vulcan seven year mating cycle in tos2x05 "Amok Time" and did not die from
-abstinence.
-
-
 cyclical time universe
 ======================
 
@@ -10374,19 +10239,6 @@ slippery slope towards totalitarianism?
 
 :: Parents
 law and order issue
-
-
-defeatism in groups
-===================
-
-:: Description
-Pessimistic acceptance of defeat without struggle is featured.
-
-:: Parents
-humans in group
-
-:: References
-https://en.wikipedia.org/wiki/Defeatism
 
 
 defection
@@ -10877,20 +10729,6 @@ they want in order to reach an agreement.
 
 :: Parents
 diplomacy
-
-:: Examples
-
-
-
-diplomatic maneuvering
-======================
-
-:: Description
-The various tricks and strategies used to gain the upper hand in diplomacy are
-featured.
-
-:: Parents
-diplomatic negotiating
 
 :: Examples
 
@@ -14191,21 +14029,6 @@ foreboding but unknown.
 fear
 
 
-federalism
-==========
-
-:: Description
-Societies with distinct political systems have come together and formed an
-overarching level of government that works in tandem with the individual
-systems.
-
-:: Parents
-form of government
-
-:: References
-https://en.wikipedia.org/wiki/Federalism
-
-
 feeling neglected in a relationship
 ===================================
 
@@ -14215,16 +14038,6 @@ sufficient attention to them.
 
 :: Parents
 romantic relationship issue
-
-
-feeling of helplessness
-=======================
-
-:: Description
-Someone feels distress at being unable to do something about a bad situation.
-
-:: Parents
-human emotion
 
 
 feeling of inadequacy
@@ -15329,19 +15142,6 @@ https://en.wikipedia.org/wiki/Fourth_dimension_in_literature
 http://www.sf-encyclopedia.com/entry/dimensions
 
 
-fraternal love
-==============
-
-:: Description
-The love of brother for brother is featured.
-
-:: Parents
-familial love
-
-:: Related Themes
-sororal love
-
-
 fratricide
 ==========
 
@@ -15726,23 +15526,6 @@ future person's perspective.
 cross cultural issue
 
 
-galactic barrier
-================
-
-:: Description
-A hypothetical negative energy field surrounding the Milky Way Galaxy.
-
-:: Parents
-speculative natural object
-
-:: Examples
-The Enterprise traversed the galactic barrier in tos1x01 "Where No Man Has
-Gone Before".
-
-:: References
-http://memory-alpha.wikia.com/wiki/Galactic_barrier
-
-
 galactic master race
 ====================
 
@@ -16099,24 +15882,6 @@ war
 https://en.wikipedia.org/wiki/Genocide
 
 
-genocide vs. foregoing personal gain
-====================================
-
-:: Description
-Someone must choose whether or not to kill people, or perhaps even an entire
-species of sentient beings, to acquire wealth. Outlandish as this may sound,
-mankind has a long history of engaging in intellectual sophistry for the sake
-of personal gain; remember the North American slave trade.
-
-:: Parents
-personal ethical dilemma
-
-:: Examples
-The miners on Janus VI were faced with that eternal human ethical dilemma: to
-give up a lucrative source of wealth or kill off a race of intelligent beings,
-in tos1x26 "The Devil in the Dark".
-
-
 gentrification
 ==============
 
@@ -16185,20 +15950,6 @@ https://en.wikipedia.org/wiki/Mysophobia
 
 :: Aliases
 fear of germs, fear of bacteria, mysophobia, germaphobia, verminophobia, bacillophobia, bacteriophobia
-
-
-gestural language
-=================
-
-:: Description
-Someone communicates by means of large ritualistic gestures, well beyond
-simple sign language as we are familiar with it.
-
-:: Parents
-problem of language and meaning
-
-:: References
-https://en.wikipedia.org/wiki/Sign_language
 
 
 getting a taste of one's own medicine
@@ -16704,19 +16455,6 @@ The relationship between a grandmother and her grandson is featured.
 human familial relationship
 
 
-grandparent and grandchild
-==========================
-
-:: Description
-The relationship between a grandparent and their grandchild is featured.
-
-:: Parents
-human familial relationship
-
-:: References
-https://en.wikipedia.org/wiki/Grandparent
-
-
 gravity manipulating technology
 ===============================
 
@@ -16856,21 +16594,6 @@ to Jono in tng4x04 "Suddenly Human".
 
 :: Other Parents
 juvenile
-
-
-guerrilla warfare
-=================
-
-:: Description
-Tactics suitable for a small disadvantaged force going up against a greater
-enemy are used. This is not to be confused with terrorist tactics which
-involve the targeting of civilians.
-
-:: Parents
-the art of war
-
-:: References
-https://en.wikipedia.org/wiki/Guerrilla_warfare
 
 
 guilt and evidence
@@ -17572,24 +17295,6 @@ metaphysics
 
 :: References
 https://en.wikipedia.org/wiki/Historical_determinism
-
-
-historical figure
-=================
-
-:: Description
-A character from real human history is discussed or otherwise featured.
-
-:: Parents
-history
-
-:: Notes
-The story must clearly identify the character in question, but there is no
-requirement that it be otherwise "correct" in what it has to say.
-
-:: Template
-historical figure <name>
-<name>: *
 
 
 historical revisionism
@@ -18585,24 +18290,6 @@ A character takes marked pleasure in an activity such as a hobby.
 
 :: Parents
 purpose in life
-
-
-human professional aspiration
-=============================
-
-:: Description
-This is the category of themes that deal with those human hopes and dreams
-that relate to achievements within those types of activities we call
-"professions".
-
-:: Parents
-human aspiration
-
-:: Examples
-"passion for medicine" is a "human professional aspiration" theme because it
-deals with a person's desire to excel in a career.
-
-:: References
 
 
 human regular activity
@@ -19883,21 +19570,6 @@ https://en.wikipedia.org/wiki/Imperialism
 http://www.sf-encyclopedia.com/entry/imperialism
 
 
-imperialistic society
-=====================
-
-:: Description
-There is a society that is entirely geared towards military expansion at the
-expense of neighbouring societies.
-
-:: Parents
-form of government
-
-:: References
-https://en.wikipedia.org/wiki/Imperialism
-http://www.sf-encyclopedia.com/entry/imperialism
-
-
 imperviousness to physical damage
 =================================
 
@@ -20094,22 +19766,6 @@ Tomorrow".
 
 :: References
 https://en.wikipedia.org/wiki/List_of_fictional_extraterrestrials_by_form#Immaterial/Incorporeal_beings
-
-
-incorporeal point of view
-=========================
-
-:: Description
-We are shown what things might be like from the point of view of  an entity
-that does not itself have a material body.
-
-:: Parents
-alien point of view
-
-:: Examples
-Ian, the embodiment of a benign incorporeal entity, saw life on the
-Enterprise-D through incorporeal eyes in tng2x01 "The Child". Note that Ian
-literally had eyes, but he viewed through them in a figurative manner.
 
 
 incorporeal spirit
@@ -20446,20 +20102,6 @@ family affairs, human life choice
 
 :: References
 https://en.wikipedia.org/wiki/Institutionalisation#The_mentally_ill
-
-
-insubordination
-===============
-
-:: Description
-A character in a group where there is a line of command, e.g. the military,
-refuses to obey the orders of their superiors.
-
-:: Parents
-humans in group
-
-:: References
-https://en.wikipedia.org/wiki/Insubordination
 
 
 insurance fraud in society
@@ -21233,23 +20875,6 @@ social ethical dilemma
 https://en.wikipedia.org/wiki/Torture
 
 
-justifications for foreign intervention
-=======================================
-
-:: Description
-The ethical dilemma of when and under what circumstances it is permissible, or
-even imperative, for one society to intervene in the internal affairs of
-another. If, for example, some people in the other society are oppressed by a
-genocidal dictator, liberal democratic societies may feel a collective duty to
-intervene.
-
-:: Parents
-social ethical dilemma
-
-:: References
-https://en.wikipedia.org/wiki/Humanitarian_intervention
-
-
 keeping a promise when circumstances have changed
 =================================================
 
@@ -22006,17 +21631,6 @@ impairment, for example the loss of a limb, in order to survive.
 contemplating suicide
 
 
-life-support belt
-=================
-
-:: Description
-A simple belt-like device that can be worn in lieu of a clumsy space suit but
-that offers the same protection.
-
-:: Parents
-speculative wearable device
-
-
 literature appreciation
 =======================
 
@@ -22159,21 +21773,6 @@ remote Pacific island in "Son of Godzilla" (1967).
 :: References
 https://en.wikipedia.org/wiki/Weather_modification
 http://www.sf-encyclopedia.com/entry/weather_control
-
-
-localized time distortion
-=========================
-
-:: Description
-A small-scale distortion in spacetime causing anything within it to travel in
-time.
-
-:: Parents
-speculative natural object
-
-:: Examples
-Small localized time distortions wrought havoc aboard the Enterprise-D and
-made Captain Picard's finger nails grow rapidly in tng6x25 "Timescape".
 
 
 locationally distinguished being
@@ -22852,21 +22451,6 @@ superstition
 https://en.wikipedia.org/wiki/Magic_word
 
 
-magical amusement planet
-========================
-
-:: Description
-An entire planet designed and constructed as an oversized amusement park.
-
-:: Parents
-planetary-scale engineering
-
-:: Examples
-The sole purpose of the Shore Leave Planet of tos1x17 "Shore Leave" and
-tas1x09 "Once Upon a Planet" was to provide amusement to weary space
-travelers.
-
-
 magical land in the sky
 =======================
 
@@ -22957,16 +22541,6 @@ featured.
 
 :: Parents
 human interpersonal relationship
-
-
-male banter
-===========
-
-:: Description
-Two male characters exchange banter as males are known to do.
-
-:: Parents
-male stereotype
 
 
 male bonding
@@ -23171,19 +22745,6 @@ way, for example through posturing or by trying to intimidate each other.
 
 :: Parents
 rivalry, male stereotype
-
-
-male-only society
-=================
-
-:: Description
-There is a nation of, more or less, only men.
-
-:: Parents
-biased sex-ratio society
-
-:: References
-https://en.wikipedia.org/wiki/Single-gender_world#Male-only_worlds
 
 
 man and mistress
@@ -24016,16 +23577,6 @@ Klingon monks in tng6x23 "Rightful Heir".
 :: References
 https://en.wikipedia.org/wiki/Messiah
 http://www.sf-encyclopedia.com/entry/messiahs
-
-
-metal eating microscopic organism
-=================================
-
-:: Description
-There is a tiny organism (for example a bacteria) that can devour metal.
-
-:: Parents
-microscopic being
 
 
 metaphysics
@@ -25397,23 +24948,6 @@ intelligence and challenging humans for dominion over the Earth in "Phase IV"
 (1974).
 
 
-nebula
-======
-
-:: Description
-An interstellar cloud of dust, hydrogen, helium and other ionized gases.
-
-:: Parents
-astronomy
-
-:: Examples
-The Enterprise-D hid from a Borg cube inside the Paulson Nebula in tng3x26
-"The Best of Both Worlds".
-
-:: References
-https://en.wikipedia.org/wiki/Nebula
-
-
 necrophilia
 ===========
 
@@ -25524,24 +25058,6 @@ microscopic being, parasitic being
 :: Examples
 Patch-like flying aliens attached themselves to people's nervous system in
 tos1x29 "Operation -- Annihilate!".
-
-
-neutron star
-============
-
-:: Description
-A very small and dense star made up almost completely of neutrons.
-
-:: Parents
-astronomy
-
-:: Examples
-A colony of genetically engineered Humans on Moab IV was nearly wiped out by a
-stellar core fragment from a disintegrated neutron star in tng5x13 "The
-Masterpiece Society".
-
-:: References
-https://en.wikipedia.org/wiki/Neutron_star
 
 
 newlywed couple
@@ -25792,26 +25308,6 @@ https://en.wikipedia.org/wiki/Naturism
 
 :: Aliases
 naturism
-
-
-obeying the rules vs. acting for a just cause
-=============================================
-
-:: Description
-A character weighs whether to break with rules in order do a perceived good
-deed.
-
-:: Parents
-duty vs. conscience
-
-:: Examples
-In tng5x07 "Unification I", Spock disobeys his government by traveling to
-Romulus and working with the resistance there to undermine the government and
-bring about peace with The Federation.
-
-In voy5x09 "Thirty Days", Tom disobeyed Janeway's direct orders and broke the
-Prime Directive in order to save an aquatic alien home-world from destruction
-at the hands of their own greedy elite.
 
 
 obsession
@@ -26614,38 +26110,6 @@ The Eymorg outfitted Captain Kirk, McCoy, and Scotty with pain belts in
 tos3x06 "Spock's Brain".
 
 
-pain booth
-==========
-
-:: Description
-A phone-booth shaped contraption used to inflict unbearable pain without
-causing physical injury.
-
-:: Parents
-speculative torture device
-
-:: Examples
-Chekov (mirror universe) was sentenced to a full duration in the agony booth
-for his role in an assassination attempt on his captain in tos2x10 "Mirror,
-Mirror".
-
-
-pain buzzer
-===========
-
-:: Description
-A handy device that when attached to a person can be used to induce unbearable
-pain without causing physical injury.
-
-:: Parents
-speculative wearable device, speculative torture device
-
-:: Examples
-Spock with a goatee disciplined Kyle (mirror) using an agonizer, i.e. a pain
-buzzer, for his carelessness at the transporter controls in tos2x10 "Mirror,
-Mirror"
-
-
 pain collar
 ===========
 
@@ -26686,21 +26150,6 @@ operator to induce pain in an occupier.
 
 :: Parents
 speculative torture device
-
-
-pain stick
-==========
-
-:: Description
-A stick-like device used to induce unbearable pain in its target without
-causing physical injury.
-
-:: Parents
-speculative handheld device, speculative torture device
-
-:: Examples
-The "painstick" is the Klingon equivalent of cattle prod. It was used to
-inflict pain on Worf in tng2x14 "The Icarus Factor" for ritualistic purposes.
 
 
 painting
@@ -27000,24 +26449,6 @@ https://en.wikipedia.org/wiki/Pathological_lying
 mythomania
 
 
-patience
-========
-
-:: Description
-A character has every reason to be angry or vengeful but manages to put a lid
-on it.
-
-:: Parents
-human character
-
-:: Examples
-Jenna D'Sora needed the patience of Job to keep up a romantic relationship
-with Data in tng4x25 "In Theory".
-
-:: References
-https://en.wikipedia.org/wiki/Patience
-
-
 patriarchy
 ==========
 
@@ -27221,20 +26652,6 @@ social ethical dilemma
 People were protesting in the streets to get a game show banned in "Le prix du
 danger" (1983). In the game show, willing contestants took on life threatening
 challenges in exchange for large cash prizes - if they lived.
-
-
-people escaping from reality
-============================
-
-:: Description
-The ramifications of people collectively ignoring or somehow escaping mentally
-from the problems they face are explored.
-
-:: Parents
-public health issue
-
-:: References
-https://en.wikipedia.org/wiki/Escapism
 
 
 people forced to be average dystopia
@@ -29825,23 +29242,6 @@ activity.
 human regular activity
 
 
-red giant
-=========
-
-:: Description
-A luminous giant star in a late phase of stellar evolution.
-
-:: Parents
-astronomy
-
-:: Examples
-The astrophysicist Paul Stubbs was aboard the Enterprise-D to observe a red
-giant explode in tng3x01 "Evolution".
-
-:: References
-https://en.wikipedia.org/wiki/Red_giant
-
-
 refugee crisis
 ==============
 
@@ -30751,23 +30151,6 @@ adjoined rocks.
 silicon-based being
 
 
-rogue comet
-===========
-
-:: Description
-A comet that is not gravitationally bound to a star.
-
-:: Parents
-astronomy
-
-:: Examples
-The tail of a rogue comet passing over Gamma Hydra IV in tos2x11 "The Deadly
-Years" caused Captain Kirk and some of his team to age rapidly.
-
-:: References
-https://en.wikipedia.org/wiki/Rogue_planet
-
-
 rogue planet
 ============
 
@@ -31133,22 +30516,6 @@ i.e., a family member or a lover.
 human self-sacrifice for another
 
 
-sacrifice for a subordinate
-===========================
-
-:: Description
-A character does a self-sacrificial thing for the sake of a person that is
-under their command at work or in the military.
-
-:: Parents
-human self-sacrifice for another
-
-:: Examples
-Captain Kirk saved Uhura from a savage whipping by taking her place in tos2x17
-"The Gamesters of Triskelion", perhaps anticipating the chance to pose
-bloodied and defiant in a savagely torn shirt.
-
-
 sacrifice for an adversary
 ==========================
 
@@ -31273,25 +30640,6 @@ Gul Madred subjected Captain Picard to a host of  sadistic tortures in tng6x11
 https://en.wiktionary.org/wiki/sadism
 
 
-sadness
-=======
-
-:: Description
-Someoner feels a degree of sorrow for one reason or another that borders
-between "pensiveness" and outright "grief".
-
-:: Parents
-human emotion
-
-:: Examples
-The Enteprise crew was saddened to learn that McCoy had been diagnosed with
-xenopolycythemia, a rare and terminal illness, in tos3x10 "For the World is
-Hollow and I Have Touched the Sky".
-
-:: References
-https://en.wikipedia.org/wiki/Sadness
-
-
 sadomasochism
 =============
 
@@ -31311,17 +30659,6 @@ saving a friend vs. self-preservation
 
 :: Description
 A character must choose between their own life and the life of a friend.
-
-:: Parents
-personal ethical dilemma
-
-
-saving a people vs. self-preservation
-=====================================
-
-:: Description
-A character must choose between saving an entire people on one hand, and
-saving their own skin on the other.
 
 :: Parents
 personal ethical dilemma
@@ -31472,16 +30809,6 @@ once speculative device
 
 :: References
 https://en.wikipedia.org/wiki/Database
-
-
-second guessing a superior
-==========================
-
-:: Description
-A subordinate questions the propriety of their superior's decision.
-
-:: Parents
-humans in hierarchy
 
 
 second guessing one's self
@@ -33931,19 +33258,6 @@ have some characteristic that is not ordinarily seen in humans.
 speculative being
 
 
-speculative human implant
-=========================
-
-:: Description
-There is a futuristic device made to be implanted into the body of a person.
-
-:: Parents
-human enhancement technology
-
-:: References
-https://en.wikipedia.org/wiki/Implant_(medicine)
-
-
 speculative hypnosis
 ====================
 
@@ -34745,21 +34059,6 @@ his new stepmother in "My Science Project" (1985).
 https://en.wikipedia.org/wiki/Stepmother
 
 
-stepparent and stepchild
-========================
-
-:: Description
-The relationship between a stepparent and their stepchild is featured. The
-stepparent is not a biological parent of the child, but takes the role of a
-parent to some extent.
-
-:: Parents
-human familial relationship
-
-:: References
-https://en.wikipedia.org/wiki/Stepfamily
-
-
 storytelling
 ============
 
@@ -34968,17 +34267,6 @@ threat from extraterrestrial life
 In tng1x25 "Conspiracy", bug-like aliens from outer space subvert the higher
 echelons of Starfleet by secretly attaching themselves to the brain stems of
 its key leaders.
-
-
-sucking up
-==========
-
-:: Description
-Someone fawns over another in order to gain their general support or
-affection.
-
-:: Parents
-humans interacting
 
 
 sugar addiction
@@ -35510,19 +34798,6 @@ https://en.wikipedia.org/wiki/Stasis_(fiction)
 http://www.sf-encyclopedia.com/entry/suspended_animation
 
 
-symbolism
-=========
-
-:: Description
-The idea of how various symbols can represent complex ideas is illustrated.
-
-:: Parents
-problem of language and meaning
-
-:: References
-https://en.wikipedia.org/wiki/Symbolism_(arts)
-
-
 sympathetic magic
 =================
 
@@ -35959,20 +35234,6 @@ https://en.wikipedia.org/wiki/Teleportation
 http://www.sf-encyclopedia.com/entry/teleportation
 
 
-teleportation phobia
-====================
-
-:: Description
-A character exhibits an irrational fear of being physically disintegrated and
-then reconstituted at a remote location.
-
-:: Parents
-human phobia
-
-:: Examples
-Barclay was diagnosed with this condition in tng6x02 "Realm of Fear".
-
-
 television as a control mechanism
 =================================
 
@@ -36396,21 +35657,6 @@ eponymous vessel and its involvement with the 1905 uprisings in Odessa.
 https://en.wikipedia.org/wiki/1905_Russian_Revolution
 
 
-the Russian Revolution of 1917
-==============================
-
-:: Description
-Featured is the revolution in Russia led by the Bolsheviks and Vladimir Lenin
-that was instrumental in the larger Russian Revolution of 1917.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/Russian_Revolution
-https://en.wikipedia.org/wiki/October_Revolution
-
-
 the Salem witch trials
 ======================
 
@@ -36601,19 +35847,6 @@ human nature
 https://en.wikipedia.org/wiki/Entrepreneurship
 
 
-the art of flattery
-===================
-
-:: Description
-How and why we feel flattered is discussed.
-
-:: Parents
-human nature
-
-:: References
-https://en.wikipedia.org/wiki/Flattery
-
-
 the art of salesmanship
 =======================
 
@@ -36670,27 +35903,6 @@ is featured more or less in the whole.
 
 :: Parents
 history
-
-
-the astronaut profession
-========================
-
-:: Description
-There is a person trained by a spaceflight program to command, pilot, or serve
-as a crew member of a spacecraft.
-
-:: Parents
-human occupational activity
-
-:: Notes
-This theme is used with regard to astronautics that are relatively realistic
-in accordance with current technology. In science fiction, speculative
-technology often makes space flight very different from what we know today.
-This theme is notably not used if there is cryogenics, artificial gravity, or
-near light-speed travel.
-
-:: References
-https://en.wikipedia.org/wiki/Astronaut
 
 
 the astronomy profession
@@ -36950,17 +36162,6 @@ Wrath of Khan" (1982).
 
 :: Other Parents
 science
-
-
-the dangers of wishful thinking
-===============================
-
-:: Description
-A character allows their actions to be unduly influenced by what they desire
-rather than what is reality, and something bad happens as a consequence.
-
-:: Parents
-human idea about life
 
 
 the deadly sins
@@ -37552,23 +36753,6 @@ academia
 
 :: References
 https://en.wikipedia.org/wiki/Geology
-
-
-the ghost was really an alien
-=============================
-
-:: Description
-The crackpot speculation that ghosts are actually aliens.
-
-:: Parents
-crackpot theory
-
-:: Examples
-Beverly's ghost-like lover Ronin turned out to be just another nefarious alien
-in tng7x04 "Sub Rosa".
-
-:: Other Parents
-aliens
 
 
 the god is an alien
@@ -38217,23 +37401,6 @@ Suppressed animal instincts come to the surface as the crew begins to de-
 evolve in tng7x19 "Genesis".
 
 
-the nature of children
-======================
-
-:: Description
-What children's innate attributes and behaviors are is discussed.
-
-:: Parents
-human nature
-
-:: Examples
-Earth Two was populated wholly by child Onlies in tos1x11 "Miri" as all the
-adults had succumbed to a disease.
-
-:: References
-https://en.wikipedia.org/wiki/Child
-
-
 the nature of creativity
 ========================
 
@@ -38390,20 +37557,6 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Humour
-
-
-the nature of individuality
-===========================
-
-:: Description
-What it is that distinguishes us as individuals from other people in the mass
-of humanity, is pondered.
-
-:: Parents
-human nature
-
-:: References
-https://en.wikipedia.org/wiki/Individual
 
 
 the nature of love
@@ -38647,22 +37800,6 @@ human physiological need
 :: Examples
 Captain Picard reluctantly took in a little R&R on Risa in tng3x19 "Captain's
 Holiday".
-
-
-the need for self-determination
-===============================
-
-:: Description
-It is suggested that humans need to feel they have a measure of control over
-their own destinies if they are to function well. For example, having every
-other need tended to by a benevolent guardian might leave us with little
-capability to control our own lives.
-
-:: Parents
-human self-actualization need
-
-:: Aliases
-the need to have control of one's own life
 
 
 the need for self-vindication
@@ -39133,20 +38270,6 @@ imprisonment without a lawful cause
 
 :: Other Parents
 crime and punishment
-
-
-the right to commit suicide
-===========================
-
-:: Description
-The right, or lack thereof, of a person to end their own life or to undergo
-voluntary euthanasia.
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/Right_to_die
 
 
 the right to education
@@ -40716,17 +39839,6 @@ The Enterprise-D got stuck in a plane of two-dimensional beings in tng4x10
 http://www.sf-encyclopedia.com/entry/dimensions
 
 
-tyranny vs. freedom
-===================
-
-:: Description
-A society in which a tyrant rules with absolute authority is contrasted with
-one that is organised around some flavour of liberal democratic principles.
-
-:: Parents
-contraposed political ideologies
-
-
 ultra-rational being
 ====================
 
@@ -41267,20 +40379,6 @@ https://en.wikipedia.org/wiki/Feud
 
 :: Aliases
 blood feud
-
-
-victimization
-=============
-
-:: Description
-The social ramifications of some people in a conflict (rightly or wrongly)
-exaggerating their own victimhood in order to inspire sympathy are explored.
-
-:: Parents
-political issue
-
-:: References
-https://en.wikipedia.org/wiki/Victimisation
 
 
 video game addiction
@@ -43047,16 +42145,6 @@ Nobody would believe Serova about detrimental effects of using warp drive,
 especially not Geordi, in tng7x09 "Force of Nature".
 
 
-what if I turned turned into a plant
-====================================
-
-:: Description
-A character experiences with it is like to metamorphosize into a plant.
-
-:: Parents
-what if I underwent a physical metamorphosis
-
-
 what if I underwent a physical metamorphosis
 ============================================
 
@@ -44612,17 +43700,6 @@ woman in charge
 
 :: Description
 The outlandish notion that a woman can be the leader of a group is featured.
-
-:: Parents
-gender issue
-
-
-woman making the first move
-===========================
-
-:: Description
-The outrageous notion that a woman might make the first move on a man to
-initiate a conventional heterosexual romantic affair is floated.
 
 :: Parents
 gender issue
