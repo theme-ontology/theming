@@ -3503,14 +3503,14 @@ cyborg [Vera Webster got transformed into a cyborg that could shoot blue beams f
 romantic jealousy [Brad was jealous of Clark Kent over Lana Lang.],
 
 
-movie: tz1983-01
-================
+movie: Twilight Zone: The Movie
+===============================
 
 :: Title
-Twilight Zone: The Movie: Time Out
+Twilight Zone: The Movie
 
 :: Description
-A man is left bitter after being passed over for a promotion in favor of a Jewish co-worker.
+The film is a remake of three episodes of the original 1959–1964 television series of the same name series and introduces one original story.
 
 :: Date
 1983-06-24
@@ -3525,12 +3525,27 @@ sci-fi, fantasy,
 4 <mikael>,
 4 <paul>,
 
+:: Component Stories
+tz1983a
+tz1983b
+tz1983c
+tz1983d
+
+tz1983a
+=======
+
+:: Title
+Time Out
+
+:: Description
+A man is left bitter after being passed over for a promotion in favor of a Jewish co-worker.
+
 :: Major Themes
 racism in society [Bill Connor blamed being passed over for a promotion of the Jews and the Blacks. He contended that being an American made him better than the Jews, the Blacks, and the "Gooks".],
 antisemitism in society [Bill Connor blamed being passed over for a promotion of the Jews and the Blacks. He contended that being an American made him better than the Jews, the Blacks, and the "Gooks".],
 what if I found myself in the past [A racist man, named Bill Connors, was suddenly transported back in time and space first and to Nazi occupied France, then to a Ku Klux Clan lynching, then to Vietnam during the war.],
 facing organized pursuit [Bill Connors was hiding out from Nazis.],
-getting a taste of one's own medicine [In "Time Out": A racist man, named Bill Connors, found out what it was like to be a persecuted minority.],
+getting a taste of one's own medicine [A racist man, named Bill Connors, found out what it was like to be a persecuted minority.],
 poetic justice [A racist man, named Bill Connors, found out what it was like to be a persecuted minority. Bill Connors expressed his racist attitudes about minorities only to be tossed into past realities in which various racists attacked him in a like manner.],
 
 :: Minor Themes
@@ -3538,28 +3553,14 @@ the Nazi stereotype [We saw some S.S. officers apprehending a Jewish man in Nazi
 the desire to advance one's career [Bill Connors was outraged at being passed over for a promotion.],
 the Vietnam War [Bill Connors found at the mercy of American troops in Vietnam during the war.],
 
-
-movie: tz1983-02
-================
+tz1983b
+=======
 
 :: Title
-Twilight Zone: The Movie: Kick the Can
+Kick the Can
 
 :: Description
 An old man with an optimistic outlook on life moves into a depressing senior's home.
-
-:: Date
-1983-06-24
-
-:: References
-https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
-
-:: Genre
-sci-fi, fantasy,
-
-:: Ratings
-4 <mikael>,
-4 <paul>,
 
 :: Major Themes
 what if I could be young again [The residents in an old folks home became kids again.],
@@ -3574,28 +3575,14 @@ just be yourself [All but one of the old people decided it was better to remain 
 :: Minor Themes
 what if I found myself in the body of a child [Some old folks home residents were transformed into childhood versions of themselves.],
 
-
-movie: tz1983-03
-================
+tz1983c
+=======
 
 :: Title
-Twilight Zone: The Movie: It's a Good Life
+It's a Good Life
 
 :: Description
 A young woman is held captive by a spoiled little boy with magic powers.
-
-:: Date
-1983-06-24
-
-:: References
-https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
-
-:: Genre
-sci-fi, fantasy,
-
-:: Ratings
-4 <mikael>,
-4 <paul>,
 
 :: Choice Themes
 what if a child had power over adults [A young boy's family lived in terror of him because anything he wished to happen would happen.],
@@ -3618,27 +3605,14 @@ brother and sister [Anthony made his real sister's mouth disappear because she y
 uncle and nephew [Anthony coerced his pretend uncle into performing a rabbit out of a hat trick.],
 
 
-movie: tz1983-04
-================
+tz1983d
+=======
 
 :: Title
-Twilight Zone: The Movie: Nightmare at 20,000 Feet
+Nightmare at 20,000 Feet
 
 :: Description
 The story follows the only passenger on an airline flight to notice a hideous creature lurking outside the plane.
-
-:: Date
-1983-06-24
-
-:: References
-https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
-
-:: Genre
-sci-fi, fantasy,
-
-:: Ratings
-4 <mikael>,
-4 <paul>,
 
 :: Related Stories
 tz1959e5x03
@@ -3652,7 +3626,7 @@ human self-sacrifice [John Valentine risked his live to prevent a creature from 
 :: Minor Themes
 dealing with children [A little girl was bothering John Valentine with her Polaroid camera.],
 questioning one's sanity [John Valentine could not believe his eye at the sight of a monster on the wing of the airliner.],
-the good of the many vs. the needs of the few [The copilot threated to handcuff John Valentine because he was being a danger to the other airline passengers.],
+the good of the many vs. the needs of the few [The copilot threatened to handcuff John Valentine because he was being a danger to the other airline passengers.],
 
 
 movie: Space Raiders (1983)

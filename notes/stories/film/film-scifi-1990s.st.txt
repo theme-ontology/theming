@@ -3133,14 +3133,14 @@ appearance altering technology [Sonny Hokori used some sort of technology, perha
 romantic love [Something was going on between Jake and Beth.],
 
 
-movie: tz1994-01
-================
+movie: Twilight Zone: Rod Serling's Lost Classics
+=================================================
 
 :: Title
-Twilight Zone: Rod Serling's Lost Classics: The Theater
+Twilight Zone: Rod Serling's Lost Classics
 
 :: Description
-A young woman sees scenes from her past and future on the screen whenever she goes to the cinema.
+A made-for-television film consisting of two stories by Rod Serling. The film was co-produced by Serling's widow Carol Serling. Reportedly, she found the two pieces in a trunk in the family's garage.
 
 :: Date
 1994-05-19
@@ -3154,6 +3154,19 @@ https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
 
 :: Genre
 sci-fi, fantasy, horror,
+
+:: Component Stories
+tz1994a
+tz1994b
+
+tz1994a
+=======
+
+:: Title
+The Theatre
+
+:: Description
+A young woman sees scenes from her past and future on the screen whenever she goes to the cinema.
 
 :: Choice Themes
 what if I caught a glimpse of the future [Melissa watched the scene of her own death unfold before her eyes on a movie theater screen during a film screening.],
@@ -3170,28 +3183,14 @@ carpe diem [The moral of the story, according to the closing narration, is that 
 questioning one's sanity [though she was adamant later, Melissa was clearly distressed at seeing things that no one else saw.],
 coping with the death of a lover [James was disheveled after Melissa died.],
 
-
-movie: tz1994-02
-================
+tz1994b
+=======
 
 :: Title
-Twilight Zone: Rod Serling's Lost Classics: Where the Dead Are
+Where the Dead Are
 
 :: Description
 An American Civil War era physician searches for the secret to immortality.
-
-:: Date
-1994-05-19
-
-:: References
-https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
-
-:: Ratings
-3 <paul> [TV film],
-4 <mikael>,
-
-:: Genre
-sci-fi, fantasy, horror,
 
 :: Choice Themes
 revival long after death [Dr. Wheaton discovered a method to revive the dead and was using it to keep the inhabitants of a small island community alive well beyond their alloted years.],
