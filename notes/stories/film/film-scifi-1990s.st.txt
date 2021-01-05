@@ -1396,6 +1396,41 @@ mind uploading [Sandra's mind was uploaded into a robot body.],
 speculative spaceship [The Golden Slayer robot transformed into a spacecraft at the end of the film.],
 
 
+movie: Vegas in Space (1991)
+============================
+
+:: Title
+Vegas in Space
+
+:: Description
+Three male space travelers must become women in order to complete a secret mission on the all-female planet Clitoris.
+
+:: Date
+1991
+
+:: References
+https://en.wikipedia.org/wiki/Vegas_in_Space
+
+:: Ratings
+1 <paul>,
+
+:: Genre
+sci-fi, comedy,
+
+:: Major Themes
+gender bending [Captain Dan Tracey and his two lieutenants posed as Earth showgirls to complete a secret mission on the all-female planet Clitoris.],
+female-only society [The story is set on the all-female planet Clitoris.],
+transsexualism [Captain Dan Tracey and his two lieutenants were transformed into women after ingesting sex change pills.],
+theft in society [Captain Dan Tracey and his two lieutenants were sent on a mission to retrieve the Empress Nueva Gabor's stolen gems.],
+
+:: Minor Themes
+space travel [Captain Dan Tracey and his two lieutenants flew to the distant all-female planet Clitoris.],
+speculative spaceship [Captain Dan Tracey and his two lieutenants traveled outer space in the spaceship Intercourse.],
+extraterrestrial being [The pleasure planet Clitoris was populated by female humanoid aliens of various colors, including red, blue and green.],
+sister and sister [Empress Nueva Gabor and her sister Queen Veneer.],
+mother and daughter [Mrs. Velour chastised her daughter Babs over her bad behavior.],
+
+
 movie: Eve of Destruction (1991)
 ================================
 
@@ -1888,6 +1923,41 @@ what it is like to be homeless [The young woman Himiko was living on the streets
 
 :: Minor Themes
 theft in society [Himiko shoplifted food from a supermarket, and an assortment of supplies from a hardware store.],
+
+
+movie: Wax or the Discovery of Television Among the Bees (1991)
+===============================================================
+
+:: Title
+Wax or the Discovery of Television Among the Bees
+
+:: Description
+Some bees implant a man with a special bee television that enables him to see the world from a new perspective.
+
+:: Date
+1991-10-21
+
+:: References
+https://en.wikipedia.org/wiki/Wax_or_the_Discovery_of_Television_Among_the_Bees
+
+:: Ratings
+4 <paul>,
+
+:: Genre
+sci-fi
+
+:: Major Themes
+atrocities of war [One gathers that the film is, above all else, a condemnation of the killing of civilians with smart bombs that took place during the Gulf War.],
+the horrors of war [One gathers that the film is, above all else, a condemnation of the killing of civilians with smart bombs that took place during the Gulf War.],
+
+:: Minor Themes
+chemical weapons [The use of poison gas in World War I was touched on.],
+World War I [The use of poison gas in World War I was touched on.],
+husband and wife [Jacob Maker was living with his wife Melissa.],
+organized religion [Jacob Maker recounted the story of Cain and Abel. He also rambled about the Garden of Eden and the Tower of Babel.],
+nuclear weapons [Jacob Maker visited the site of the Trinity nuclear test.],
+Hollow Earth [Jacob Maker was told the the Mesopotamian bees had come to Basra by way of a cave that led to the center of the Earth, and that at the center of the Earth there was a planet that Jacob would one day visit.],
+the afterlife [Jacob Maker died in a cave and experienced life in a strange afterworld.],
 
 
 movie: Frankenstein: The College Years (1991)
@@ -3098,14 +3168,14 @@ appearance altering technology [Sonny Hokori used some sort of technology, perha
 romantic love [Something was going on between Jake and Beth.],
 
 
-movie: tz1994-01
-================
+movie: Twilight Zone: Rod Serling's Lost Classics (1994)
+========================================================
 
 :: Title
-Twilight Zone: Rod Serling's Lost Classics: The Theater
+Twilight Zone: Rod Serling's Lost Classics
 
 :: Description
-A young woman sees scenes from her past and future on the screen whenever she goes to the cinema.
+A made-for-television film consisting of two stories by Rod Serling. The film was co-produced by Serling's widow Carol Serling. Reportedly, she found the two pieces in a trunk in the family's garage.
 
 :: Date
 1994-05-19
@@ -3119,6 +3189,22 @@ https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
 
 :: Genre
 sci-fi, fantasy, horror,
+
+:: Component Stories
+tz1994a
+tz1994b
+
+tz1994a
+=======
+
+:: Title
+The Theatre
+
+:: Date
+1994-05-19
+
+:: Description
+A young woman sees scenes from her past and future on the screen whenever she goes to the cinema.
 
 :: Choice Themes
 what if I caught a glimpse of the future [Melissa watched the scene of her own death unfold before her eyes on a movie theater screen during a film screening.],
@@ -3135,28 +3221,17 @@ carpe diem [The moral of the story, according to the closing narration, is that 
 questioning one's sanity [though she was adamant later, Melissa was clearly distressed at seeing things that no one else saw.],
 coping with the death of a lover [James was disheveled after Melissa died.],
 
-
-movie: tz1994-02
-================
+tz1994b
+=======
 
 :: Title
-Twilight Zone: Rod Serling's Lost Classics: Where the Dead Are
+Where the Dead Are
 
 :: Description
 An American Civil War era physician searches for the secret to immortality.
 
 :: Date
 1994-05-19
-
-:: References
-https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
-
-:: Ratings
-3 <paul> [TV film],
-4 <mikael>,
-
-:: Genre
-sci-fi, fantasy, horror,
 
 :: Choice Themes
 revival long after death [Dr. Wheaton discovered a method to revive the dead and was using it to keep the inhabitants of a small island community alive well beyond their alloted years.],
