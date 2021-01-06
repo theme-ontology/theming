@@ -1056,7 +1056,7 @@ hologram [The World Security Council held a meeting where some participants remo
 coping with the death of a friend [Sam was torn up inside over having lost his wingman Riley in the line of duty.],
 mind uploading [Arnim Zola's mind had been transfered into a 1970s era supercomputer.],
 personal flying contraption [Sam had a pair of mechanical wings that enabled him to fly around like a bird.],
-bionic limb <arm> [Bucky Barnes had a mechanical left arm.],
+artificial body part <arm> [Bucky Barnes had a mechanical left arm.],
 super strength [Captain America had this super power, although it was not much featured in this film.],
 memory erasure [The Hydra organization mind wiped Bucky Barnes so that he wouldn't remember his past, especially his past friendship with Steve.],
 
@@ -1347,7 +1347,7 @@ species uplifting [It was explained that the raccoon Rocket was genetically and 
 speculative genetic engineering [It was mentioned that the talking raccoon Rocket was actually a genetically and cybernetically modified animal.],
 problem of language and meaning [Drax was from a race of aliens that did not understand metaphors, and he interpreted everything literally as a result.],
 collecting objects [Taneleer Tivan was obsessively collecting interstellar fauna, relics, and species.],
-artificial eyes [There was a man with a mechanical eye.],
+artificial body part <eye> [There was a man with a mechanical eye.],
 sister and sister [Thanos' adopted daughters Gamora and Nebula.],
 betrayal [Thanos was of the mind that his adopted daughter Gamora had betrayed him by opposing his effort to acquire the Infinity Stone.],
 human-alien hybrid [Peter Quill found out that his father was a space alien at the conclusion of the film.],
@@ -1482,7 +1482,7 @@ quasi-religious cult [The story followed a group of women escaping from cult lea
 fabled land of goodness [Furiosa and her co-wives were fleeing to to the "Green Place", an idyllic land she that remembered from her childhood.],
 
 :: Minor Themes
-bionic limb <hand> [Imperator Furiosa had a robotic hand contraption.],
+artificial body part <hand> [Imperator Furiosa had a robotic hand contraption.],
 polygamy [Immortal Joe's five wives fled from him.],
 the afterlife [Immortal Joe's fanatical followers were eager to die in battle so they could go to Valhalla.],
 
@@ -1679,7 +1679,7 @@ father and son [Han Solo and Kylo Ren.],
 mother and son [Leia and Kylo Ren.],
 patricide [Kylo Ren murdered his own father Han Solo in cold blood.],
 brother and sister [Luke and Leia.],
-bionic limb <hand> [Luke had a robotic hand.],
+artificial body part <hand> [Luke had a robotic hand.],
 mentor and protégé [The film concluded with Rey finding Luke on a remote planet, presumably for the purpose of training under him to cultivate her Jedi powers.],
 
 
@@ -1805,7 +1805,7 @@ the desire for vengeance [Helmut Zemo was consumed with a desire to make the Ave
 telekinetic ability [Wanda had an innate ability to more things around using the power of her mind.],
 remorse [Tony felt guilty over all the collateral damage the Avengers had caused over the years.],
 personal flying contraption [had a pair of mechanical wings that enabled him to fly around like a bird. Tony and his Iron Man suit.],
-bionic limb <arm> [Bucky had a robotic right arm.],
+artificial body part <arm> [Bucky had a robotic right arm.],
 super strength [Steve used his shear strength to hold a helicopter from taking off.],
 aunt and nephew [Peter and Aunt May.],
 supersoldier [The six winter soldiers],
@@ -2134,7 +2134,7 @@ human cloning [Rice created a Logan clone. more generally, Transigen corporation
 :: Minor Themes
 alcohol abuse [Logan was hitting the bottle pretty hard.],
 coping with a disability [Xavier was confined to a wheelchair.],
-bionic limb <hand> [Donald Pierce hand a robotic right hand.],
+artificial body part <hand> [Donald Pierce hand a robotic right hand.],
 coping with being tortured [Donald tortured the albino mutant Caliban by exposing him to sunlight.],
 helping a stranger in need [Logan helped a family push their pick up truck out of a ditch, and they repaid him and his crew by treating them to a home cooked meal.],
 dealing with children [It was obvious that Logan didn't have much experience handling children by the way he interacted with the 11-year-old girl Laura.],
@@ -2612,7 +2612,7 @@ hope [Resistance people made recurring references to hope throughout the film.],
 :: Minor Themes
 mechanical man [The protocol droid C-3PO.],
 telekinetic ability [Supreme Leader Snoke telekinetically hurled General Hux across a room. That was the first of numerous telekinetic incidents. In another example, Kylo Ren telekinetically chocked General Hux.],
-bionic limb <hand> [Luke had a robotic hand.],
+artificial body part <hand> [Luke had a robotic hand.],
 brother and sister [Luke and Leia.],
 patricide [Kylo Ren boasted to Snoke of having killed his own father, Han Solo.],
 coping with being disfigured [Kylo Ren was self-conscious about his unsightly, light-saber induced facial scar.],
@@ -2775,7 +2775,7 @@ the desire for vengeance [Thor sought to avenge the death of his brother Loki at
 father and daughter [Gamora tried as she might to prevent her adoptive father Thanos from wiping out half of all life in the universe.],
 patricide [Gamora thought she's succeeded in taking her adoptive father Thanos' life, but it turned out to be an elaborate illusion.],
 romantic love [Peter Quill and Gamora proclaimed their love for one another in front of Drax.],
-bionic limb <arm> [Bucky received a new bionic arm from the Wakandans.],
+artificial body part <arm> [Bucky received a new bionic arm from the Wakandans.],
 interstellar space travel [Tony, Doctor Strange, and Peter Parker traveled from Earth to the distant planet Titan in a ring shaped spacecraft. Various other spaceships were zipping around the galaxy.],
 boyfriend and girlfriend [Peter Quill and Gamora were an item.],
 filicide [Thanos reluctantly hurled his adoptive daughter Gamora over the side of a cliff to her death, because he needed to sacrifice someone he loved in order to obtain the Soul Stone.],
@@ -3142,7 +3142,7 @@ the desire to pursue one's dream [Hugo pursued his dream of moving the the sky c
 star-crossed lovers [Alita and Hugo's relationship ended tragically when he fell from the sky city Zalem to his death and Alita was powerless to stop it.],
 
 :: Minor Themes
-bionic limb <arm> [Nurse Gerhad had a robotic arm, as did various other people in the film, including a guitarist with three robotic arms.],
+artificial body part <arm> [Nurse Gerhad had a robotic arm, as did various other people in the film, including a guitarist with three robotic arms.],
 combat sports in society [Cyborgs died playing Motorball which was a popular spectator sport in Iron City.],
 antimatter power [Alita was powered by an anti-matter fueled heart.],
 war [It was revealed that all sky cities save for Zalem had fallen in a great war against the United Republics of Mars.],

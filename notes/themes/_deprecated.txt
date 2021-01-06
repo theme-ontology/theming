@@ -1,3 +1,149 @@
+artificial blood
+================
+
+:: Description
+A substance used to mimic and fulfill some functions of biological blood is
+featured in a science fictional context.
+
+:: Parents
+artificial organ
+
+:: References
+https://en.wikipedia.org/wiki/Blood_substitute
+
+
+artificial brain
+================
+
+:: Description
+An implantable device that that approximates the cognitive abilities of a
+living, working brain is featured.
+
+:: Parents
+artificial organ
+
+:: Examples
+In tz1985e3x30 "Father and Son Game", an old and dying man had the contents of
+his flesh and blood brain copied into an electronic brain that was implanted
+into the body of a younger man.
+
+
+artificial ears
+===============
+
+:: Description
+There is an implantable, mechanical device that functions as a replacement for
+the ear. The device may greatly surpass ordinary ears in hearing ability.
+
+:: Parents
+artificial organ
+
+:: Examples
+Bionic woman Jamie Sommers' bionic ear picked up a familiar voice on the
+opposite side of a noisy restaurant in "The Return of the Six Million Dollar
+Man and the Bionic Woman" (1987).
+
+
+artificial eyes
+===============
+
+:: Description
+There is an implantable, mechanical device designed to restore sight.
+
+:: Parents
+artificial organ
+
+:: References
+https://en.wikipedia.org/wiki/Visual_prosthesis
+
+:: Aliases
+bionic eye
+
+
+artificial heart
+================
+
+:: Description
+A device that replaces the heart is featured in a science fictional context.
+
+:: Parents
+artificial organ
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_heart
+
+
+artificial organ
+================
+
+:: Description
+There is an engineered device or tissue, beyond what is currently possible to
+produce that is implanted or integrated into a person to replace a natural
+organ.
+
+:: Parents
+human enhancement technology
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_organ
+
+
+prosthetic device
+=================
+
+:: Description
+There is a futuristic artificial body part.
+
+:: Parents
+human enhancement technology
+
+:: References
+https://en.wikipedia.org/wiki/Prosthesis
+
+
+perfect prosthetics
+===================
+
+:: Description
+Replacement limbs and body parts, such as eyes, that work just as well or
+better than the original thing.
+
+:: Parents
+prosthetic device
+
+:: References
+https://en.wikipedia.org/wiki/Prosthesis
+https://en.wikipedia.org/wiki/Neuroprosthetics
+
+
+face patch
+==========
+
+:: Description
+Like an eye patch, but covering half of the face.
+
+:: Parents
+speculative wearable device, prosthetic device
+
+:: Examples
+The "steady, reputable, and occasionally brilliant" Dr. Thomas Leighton
+sported a face patch in tos1x12 "The Conscience of the King".
+
+
+bionic limb
+===========
+
+:: Description
+Someone has a robotic appendage in place of a real appendage.
+
+:: Parents
+prosthetic device
+
+:: Template
+bionic limb <body-part>
+<body-part>: arm, hand, leg,
+
+
 Jack the Ripper was really an alien
 ===================================
 

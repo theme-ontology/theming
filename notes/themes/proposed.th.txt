@@ -314,18 +314,24 @@ not the purpose of this category to catalog such things.
 https://en.wikipedia.org/wiki/Crime
 
 
-bionic limb
-===========
+artificial body part
+====================
 
 :: Description
-Someone has a robotic appendage in place of a real appendage.
+Someone has a mechanical device in place of a flesh and blood organ, limb or
+extremity.
 
 :: Parents
-prosthetic device
+human enhancement technology
 
 :: Template
-bionic limb <body-part>
-<body-part>: arm, hand, leg,
+artificial body part <part>
+<part>: arm, hand, leg, blood, brain, ear, eye, heart, gland, lung, stomach,
+
+:: Examples
+In tz1985e3x30 "Father and Son Game", an old and dying man had the contents of
+his flesh and blood brain copied into an electronic brain that was implanted
+into the body of a younger man.
 
 
 historical figure

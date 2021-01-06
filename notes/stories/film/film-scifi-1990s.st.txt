@@ -1013,7 +1013,7 @@ human vs. sentient machine [The self-repairing, killer robot Mark 13 ran amok in
 the dangers of radioactivity [Ambient radiation was known to me making people sick and causing people to have abnormal offspring.],
 
 :: Minor Themes
-bionic limb <hand> [Mo had a robotic right hand.],
+artificial body part <hand> [Mo had a robotic right hand.],
 the visual arts [Jill was metal sculptor.],
 Christmas traditions [Mo an old drone head to Jill as a Christmas present.],
 human overpopulation [The government passed an emergency population control bill that involved sterilizing people who had high levels of radioactivity.],
@@ -2732,7 +2732,7 @@ speculative spaceship [A spaceship en route to Earth suffered a critical malfunc
 Christmas traditions [the crew of a spaceship were shown celebrating Christmas Eve in space.],
 space travel [One gathers that the exploded spaceship was returning to Earth from some great distance away.],
 colonization of Venus [Rena spoke of having lived in a subterrenean settlement on Venus.],
-bionic limb <arm> [Q-Three had a robotic left arm.],
+artificial body part <arm> [Q-Three had a robotic left arm.],
 terrorism [The Venusian colonists were considered to be terrorists by some.],
 coping with a disability [Terman feigned being blind for virtually the entire film.],
 killing to survive [Terman snapped the neck of a critically injured man who had only 12 hours to life to extend the oxygen supply for the rest of the people on the escape pod.],
@@ -3613,14 +3613,14 @@ arms trade [The terrorists were involved in arms dealing.],
 
 :: Minor Themes
 doctor-patient confidentiality [Dr. Jamie Sommers refused to discuss Kimberly's frame of mind with Oscar on the ground that it would be a violation of doctor-patient confidentiality.],
-artificial ears [Jamie could hear people talk well outside of an ordinary human's earshot because of her bionic ear.],
+artificial body part <ear> [Jamie could hear people talk well outside of an ordinary human's earshot because of her bionic ear.],
 super hearing [Jamie could hear people talk well outside of an ordinary human's earshot.],
-artificial eyes [Steve used his bionic eye to zoom in on a nuclear armed Scud missile.],
+artificial body part <eye> [Steve used his bionic eye to zoom in on a nuclear armed Scud missile.],
 coping with aging [Jamie coped with the reality that her bionics were breaking down and worried that she couldn't keep up with Steve's expectations for her to beat him at racket ball. However, in the end it turned out that her bionics were fine and it was just a computer virus.],
-bionic limb <leg> [Steve used his bionic legs to jump onto a water tower.],
+artificial body part <leg> [Steve used his bionic legs to jump onto a water tower.],
 mother and daughter [Kimberly and her mother.],
 the dangers of radioactivity [Technicians in full radiation suits were sent to investigate for fallout around the nuclear armed Scud missile.],
-bionic limb <arm> [Steve bent a gun barrel with his bionic arm.],
+artificial body part <arm> [Steve bent a gun barrel with his bionic arm.],
 super speed [Steve used his bionic legs to run down a truck.],
 marriage ceremony [The film concluded with Steve and Jamie being pronounced husband and wife.],
 
@@ -4924,7 +4924,7 @@ husband and wife [Rick and Skye Weston were struggling to overcome the loss of t
 grief [Skye and Rick (to a lesser extent) were grieving over the loss of their young son Chris who'd died one year prior.],
 coping with the death of a child [Skye and Rick (to a lesser extent) were grieving over the loss of their young son Chris who'd died one year prior.],
 unethical experimentation for scientific progress [Norwest Bio secretly engaged in pioneering work in human cloning in violation of an international ban on the practice.],
-artificial organ [Dr. Wesley Kozak was growing functioning human organs from individual cells. In fact, his pioneering work in human cloning was just an intermediary step toward achieve this greater goal.],
+artificial body part [Dr. Wesley Kozak was growing functioning human organs from individual cells. In fact, his pioneering work in human cloning was just an intermediary step toward achieve this greater goal.],
 
 :: Minor Themes
 artificial womb [Norwest Bio was incubating fetuses is special artificial wombs.],
@@ -5013,8 +5013,10 @@ what if my life was secretly stage managed [A secret government agency implanted
 father and son [John shot some hoops in front of the garage with two boys who were posing as his sons.],
 memory implantation technology [John had been implanted with memories of a life he'd never lived.],
 coping with the death of one's entire family [John yelled "Why!!!" at the top of his lungs upon being informed that Drake had had his wife and only child, a daughter, killed.],
-artificial organ [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.],
-artificial brain [Dr. Sarah Flint informed John that he was equipped with an artificial heart among other organs.],
+artificial body part <lung> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.],
+artificial body part <heart> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.],
+artificial body part <stomach> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.],
+artificial body part <brain> [Dr. Sarah Flint informed John that he was equipped with an artificial brain among other organs.],
 coping with being tortured [Drake threatened to cut off Sarah's eyelids unless she provided him with the information he wanted.],
 facing organized pursuit [John and Sarah were on the run from government secret agents off and on throughout the film.],
 father and daughter [John was reunited with his biological daughter toward the end of the film.],
@@ -5045,9 +5047,9 @@ sci-fi, horror, action,
 :: Choice Themes
 human vs. beast [Ripley 8 and the mercenaries versus the Aliens.],
 facing a ferocious beast [Ripley 8 and the mercenaries versus the Aliens.],
-parasitic being [The Aliens paracitized human hosts in order to breed.],
-extraterrestrial being [Some military scientists were beeding Aliens aboard their spaceship, but they escaped their enclosures and started killing everyone.],
-out of control scientific experiment [Some military scientists were breeding paracitic Aliens aboard their spaceship, but the creatures escaped their enclosures, and it was left to Ripley 8 and a band of mercenaries to destroy the ship before it reached Earth.],
+parasitic being [The Aliens parasitized human hosts in order to breed.],
+extraterrestrial being [Some military scientists were breeding Aliens aboard their spaceship, but they escaped their enclosures and started killing everyone.],
+out of control scientific experiment [Some military scientists were breeding parasitic Aliens aboard their spaceship, but the creatures escaped their enclosures, and it was left to Ripley 8 and a band of mercenaries to destroy the ship before it reached Earth.],
 invasive life form from outer space [Everyone on Earth was as good as dead unless Ripley 8 and the mercenaries succeeded in stoping the USM Auriga from reaching the planet with its lethal Alien cargo.],
 
 :: Major Themes
