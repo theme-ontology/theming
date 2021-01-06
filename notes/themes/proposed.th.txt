@@ -325,7 +325,7 @@ prosthetic device
 
 :: Template
 bionic limb <body-part>
-<body-part>: arm, hand, leg
+<body-part>: arm, hand, leg,
 
 
 historical figure
