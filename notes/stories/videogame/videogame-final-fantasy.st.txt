@@ -20,7 +20,6 @@ A Japanese anthology science fantasy media franchise created by Hironobu Sakaguc
 https://en.wikipedia.org/wiki/Final_Fantasy
 
 
-
 videogame: Final Fantasy (1987)
 ===============================
 
@@ -34,7 +33,7 @@ Final Fantasy
 Square Co., Ltd.
 
 :: Description
-The story follows four youths called the Light Warriors, who each carry one of their world's four elemental orbs which have been darkened by the four Elemental Fiends. Together, they quest to defeat these evil forces, restore light to the orbs, and save their world. It is the first game in Square's Final Fantasy series.
+The story follows four youths called the Light Warriors, who each carry one of their world's four elemental orbs which have been darkened by the four Elemental Fiends. Together, they quest to defeat these evil forces, restore light to the orbs, and save their world. It is the first game in the Final Fantasy series.
 
 :: Ratings
 3 <paul>,
@@ -42,11 +41,14 @@ The story follows four youths called the Light Warriors, who each carry one of t
 :: References
 https://en.wikipedia.org/wiki/Final_Fantasy_%28video_game%29
 
-:: Major Themes
+:: Choice Themes
 good vs. evil [It is up to the Light Warriors to defeat the evil knight Garland and his four Elemental Fiends.],
+
+:: Major Themes
 elemental being [The Light Warriors had to defeat the Four Elemental Fiends in order to obtain the four elemental orbs they needed to challenge the evil knight Garland.],
 time loop [The Four Elemental Fiends sent Garland back in time and he sent the Fiends to the future to do so, creating a time loop by which he could live forever.],
 time travel [The Light Warriors followed Garland back in time to face him in a final confrontation.],
+supernatural magic [The use of magical spells is a key component of the game play and story plot.],
 
 :: Minor Themes
 elf [The Light Warriors are given the Mystic Key by an elven prince. The Light Warriors visit a town populated entirely by elves.],
@@ -55,10 +57,74 @@ mythological dwarf [The Light Warriors must visit an underground settlement popu
 merpeople [The Light Warriors encounter a mermaid at one point in the game.],
 European dragon [The Light Warriors are given a special upgrade from the King of the Dragons, Bahamut.],
 flying ship [The Light Warriors are able to get around the world in a flying galleon from a certain point in the game.],
-hatred [We learned that Garland's hatred had burned for 2000 years.],
+hatred [It was revealed that Garland's hatred had burned for 2000 years.],
 
 :: Other Keywords
-magic [The use of magical spells is a key component of the game and story plot.],
 damsel in distress [The Light Warriors must rescue Princess Sara from the evil knight Garland.],
 
+
+videogame: Final Fantasy IV (1991)
+==================================
+
+:: Title
+Final Fantasy IV
+
+:: Date
+1991-07-19
+
+:: Authors
+Square
+
+:: Description
+The game's story follows Cecil, a dark knight, as he tries to prevent the sorcerer Golbez from seizing powerful crystals and destroying the world. It is the fourth main installment of the Final Fantasy series. The game was released under the title Final Fantasy II in North America.
+
+:: Ratings
+3 <paul>,
+
+:: Genre
+fantasy
+
+:: References
+https://en.wikipedia.org/wiki/Final_Fantasy_IV
+
+:: Choice Themes
+good vs. evil [It is up to the dark knight Cecil and his party to prevent the sorcerer Golbez from seizing powerful crystals and destroying the world.],
+
+:: Major Themes
+supernatural magic [The use of magical spells is a key component of the game play and story plot.],
+
+:: Minor Themes
+duty vs. conscience [Cecil asked "Why are we robbing crystals from innocent people?" to which his airship crewmen replied "That's our duty". Cecil followed through on his orders to do so, but was later demoted from his post as captain of the Red Wings by the king for openly questioning what they had done.],
+remorse [Cecil lamented the fact that he'd led a mission to rob the Water Crystal from innocent people of Mysidia.],
+flying ship [Baron became the most powerful nation in the world owing to its mighty fleet of airships. Later, Cecil and his party member acquire an airship which the come to depend on to travel about the world.],
+father and daughter [The Mysidian sage Tellah disapproved of his daughter Anna running off with the prince of Damcyan. Cid and had a daughter.],
+disapproving parent [The Mysidian sage Tellah was enraged to find out that his daughter Anna had ran off to Damcyan to marry Prince Edward.],
+grief [Edward mourned the tragic death of his lover Anna. Tellah pointedly mourned the tragic death of his daughter Anna.],
+coping with the death of a lover [Edward mourned the tragic death of his lover Anna.],
+coping with the death of a daughter [Tellah pointedly mourned the tragic death of his daughter Anna.],
+saying goodbye forever [Anna's ghost came back to say good bye to her lover in life, Edward.],
+ghost [Anna's ghost came back to say good bye to her lover in life, Edward.],
+falling out of friendship [Cecil and his fellow Red Wings comrade Kain had a falling out after Cecil was discharged from his post as Red Wings captain by the king for questioning his orders.],
+the desire for vengeance [Tellah was determined to make Golbez pay for taking his daughter's life. Edge vowed to avenge Rubicant's turning of his parents into monsters.],
+twin and twin [The black mage Palom and his twin sister the white mage Porem.],
+brother and sister [The black mage Palom and his twin sister the white mage Porem.],
+matriarchy [Toroian city ruled by eight female clerics.],
+Lilliputian being [The inhabitants of Slivera were notably diminutive in stature.],
+elf [Cecil and his party must defeat the Dark Elf to obtain the Crystal of Life.],
+music [Prince Edward was a harp playing bard at heart.],
+hatred [Tellah admitted to having lost himself in hatred in his pursuit of Goblez. Zeoramus was the incarnation of Zemus' hatred.],
+elemental being [Cecil and his party must defeat the Four Fiends: the incarnations of the four elemental forces of earth, fire, air, and water.],
+the fulfillment of prophesy [The Mysidia elder interpreted an ancient Mysidian legend to mean that the dark knight Cecil was the savior the world had been waiting for.],
+mythological dwarf [The underworld was populated by dwarfs.],
+mother and son [Edge's father turned monster bid farewell to his son.],
+father and son [Edge's mother turned monster bid farewell to her son.],
+betrayal [Kain pointedly betrayed Cecil and his party by stealing from them the Dark Crystal. Although, it is later revealed that he's been under the control of Golbez and was therefore not acting of his own free will.],
+wishing or wanting something to be true makes it happen [The Mysdians wished really hard for the space whale (the Ship of Light) to appear, and so it did.],
+interplanetary space travel [Cecil and his party must travel to one of the Blue Planet's two moons in a high-tech, galleon shaped spacecraft.],
+speculative spaceship [Cecil and his party must travel to one of the Blue Planet's two moons in a high-tech, galleon shaped spacecraft.],
+Phaeton hypothesis [The Lunerian Fusoya spoke of how a "planet between Mars and Jupiter was about to be shattered" and that "the people who escaped by ships headed for the Blue Planet... but they went to the Moon instead."],
+Moon people [Cecil and his party encountered a man on the Moon who was from a race of people called the Lunerians.],
+joining forces against a common enemy [A point was made about all the different peoples of the Blue Planet teaming up to defeat the Giant of Babil.],
+brother and brother [In a dramatic plot twist, the evil sorcerer Golbez was revealed to be none other that the dark knight Cecil's brother.],
+marriage ceremony [A wedding was held for Cecil and Rosa at the very end of the game.],
 
