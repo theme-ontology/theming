@@ -250,11 +250,7 @@ movie: The Lost World (1960)
 The Lost World
 
 :: Description
-The Lost World is a 1960 De Luxe Color and a CinemaScope fantasy adventure
-film loosely based on the novel of the same name by Arthur Conan Doyle and
-directed by Irwin Allen. The plot of the film revolves around the exploration
-of a plateau in Venezuela inhabited by cannibals, dinosaurs, carnivorous
-plants, and giant spiders.
+The plot of the film revolves around the exploration of a plateau in Venezuela inhabited by cannibals, dinosaurs, carnivorous plants, and giant spiders. It is loosely based on the 1912 novel of the same name by Sir Arthur Conan Doyle.
 
 :: Date
 1960-07-13
@@ -263,14 +259,17 @@ plants, and giant spiders.
 https://en.wikipedia.org/wiki/The_Lost_World_(1960_film)
 
 :: Ratings
+3 <paul>,
 
 :: Genre
 sci-fi, adventure,
 
-:: Major Themes
+:: Choice Themes
 isolated prehistoric land [An expedition team to a plateau in Venezuela discovered dinosaurs, carnivorous plants, and giant spiders.],
-cryptid [An expedition team to a plateau in Venezuela discovered dinosaurs, carnivorous plants, and giant spiders.],
 living dinosaur [An expedition team to a plateau in Venezuela discovered dinosaurs.],
+
+:: Major Themes
+cryptid [An expedition team to a plateau in Venezuela discovered dinosaurs, carnivorous plants, and giant spiders.],
 human vs. nature [A team went on an expedition to a plateau in Venezuela.],
 human vs. beast [The expedition team encountered hostile dinosaurs, carnivorous plants, and giant spiders.],
 romantic love [Ed Malone and Jennifer Holmes.],
