@@ -418,8 +418,7 @@ movie: The Lost World (1925)
 The Lost World
 
 :: Description
-An expedition to South America discovers a land were dinosaurs and other
-prehistoric creatures still roam the Earth.
+An expedition to South America discovers a land were dinosaurs and other prehistoric creatures still roam the Earth. It is based on the 1912 novel of the same name by Sir Arthur Conan Doyle.
 
 :: Date
 1925-02-05
@@ -433,11 +432,13 @@ https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)
 :: Genre
 sci-fi
 
+:: Choice Themes
+isolated prehistoric land [An expedition to South America discovered a plateau where dinosaurs and other prehistoric creatures still roamed the Earth.],
+living dinosaur [A group of explorers found an uncharted territory in South America where dinosaurs still roamed.],
+
 :: Major Themes
-isolated prehistoric land [An expedition to South America discovers a plateau were dinosaurs and other prehistoric creatures still roam the Earth.],
-living dinosaur [reputable scientists scoffed at the notion that dinosaurs still roamed the Earth],
-cryptid [expedition through uncharted territory in South America to find living dinosaurs],
-the need for adventure [fame explorer Sir John Roxton sets out on an expedition to verify whether reports of live dinosaurs existing in South America are true],
+cryptid [An expedition through an uncharted territory in South America found living dinosaurs and other prehistoric creatures.],
+the need for adventure [The famed explorer Sir John Roxton sets out on an expedition to verify whether reports of live dinosaurs existing in South America are true.],
 human vs. beast [expedition party versus dinosaurs among other beasts; brontosaurus in an uproar on the streets of London],
 human vs. nature [expedition through uncharted territory in South America to find living dinosaurs],
 romantic love [Edward Malone and Paula White fall in love on the expedition],
