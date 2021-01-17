@@ -46,7 +46,7 @@ The Golden Ass
 :: Description
 The Metamorphoses of Apuleius, which Augustine of Hippo referred to as The Golden Ass (Asinus aureus), is the only ancient Roman novel in Latin to survive in its entirety.
 
-The protagonist of the novel is called Lucius. At the end of the novel, he is revealed to be from Madaurus, the hometown of Apuleius himself. The plot revolves around the protagonist's curiosity (curiositas) and insatiable desire to see and practice magic. While trying to perform a spell to transform into a bird, he is accidentally transformed into an ass. This leads to a long journey, literal and metaphorical, filled with inset tales. He finally finds salvation through the intervention of the goddess Isis, whose cult he joins. 
+The protagonist of the novel is called Lucius. At the end of the novel, he is revealed to be from Madaurus, the hometown of Apuleius himself. The plot revolves around the protagonist's curiosity and insatiable desire to see and practice magic. While trying to perform a spell to transform into a bird, he is accidentally transformed into an ass. This leads to a long journey, literal and metaphorical, filled with inset tales. He finally finds salvation through the intervention of the goddess Isis, whose cult he joins. 
 
 :: Date
 180
@@ -58,6 +58,13 @@ Apuleius
 https://en.wikipedia.org/wiki/The_Golden_Ass
 
 :: Ratings
+5 <paul>,
+
+:: Choice Themes
+what if I underwent a physical metamorphosis [The story follows Lucius as he is accidentally transformed into a common ass, and his subsequent efforts to change himself back into a human being.] {PS: May specialize this as "metamorphosis into an animal".},
+
+:: Major Themes
+supernatural magic [The plot revolves around Lucius' curiosity and insatiable desire to see and practice magic.] {For discussion: https://en.wikipedia.org/wiki/Magic_(supernatural)},
 
 :: Component Stories
 apuleius180tgab1
@@ -76,21 +83,24 @@ The Golden Ass: Book 1
 180
 
 :: Major Themes
-what it is like to travel [the narrator describes his supposed journey to Thessaly within the Roman Empire],
-hell hath no fury like a woman scorned [Aristomenes story centered on Meroë avenging herself gruesomely on a man that loved her and left her],
+what it is like to travel [Lucius described his journey to Thessaly within the Roman Empire.],
+hell hath no fury like a woman scorned [Aristomenes story centered on Meroë avenging herself gruesomely on a man that loved her and left her.],
 speculative remote living body manipulation [Meroë had various powers to transform and manipulate other people's bodies],
-wicked witch [Meroë was wicked, and a witch, it is suggested],
+wicked witch [Meroë was wicked, and a witch, it is suggested.],
 
 :: Minor Themes
-creative writing [the author states his intentions and apologizes for his latin],
-stage magic [the antics of a sword swallower were described],
-robbery [the narrator mentioned highway robbers several times and was notably wary],
-one night stand [Aristomenes told that Socrates had had an ill-advised tryst with Meroë, a witch who came back to punish him],
-capital punishment [it was mentioned that Meroë ought to be stoned to death for practicing witchcraft],
-suicide [Aristomenes had attempted suicide in a drunken stupor],
-husband and wife [Milo and Milo's wife],
-hospitality [Milo was notably, but perhaps not adequately, hospitable],
-alcohol abuse [the conclusion to Aristomenes story is that Aristomenes had drunk so much that he hallucinated witches, pissed himself, and attempted suicide],
+creative writing [The author states his intentions and apologizes for his poor Latin.],
+stage magic [The antics of a sword swallower were described.],
+robbery [Lucius mentioned highway robbers several times and was notably wary of them. Socrates described how he'd been robbed of everything he had by a gang of bandits.],
+one night stand [Aristomenes told that Socrates had had an ill-advised tryst with Meroë, a witch who came back to punish him.],
+romantic infidelity [Socrates described how the witch Meroë punished her unfaithful lover by transforming him into a beaver.],
+capital punishment [it was mentioned that Meroë ought to be stoned to death for practicing witchcraft] {PS: Shouldn't use unless the ethics of it were somehow entertained, which I don't believe were.},
+suicide [Aristomenes had attempted suicide in a drunken stupor.],
+husband and wife [Milo and Milo's wife.],
+hospitality [Milo was notably, but perhaps not adequately, hospitable.],
+alcohol abuse [the conclusion to Aristomenes story is that Aristomenes had drunk so much that he hallucinated witches, pissed himself, and attempted suicide] {PS: An odd usage},
+living corpse [Meroë and Panthia cut open Socrates, drained his blood, ripped out his heart, and replaced it with a sponge. Astonishingly, Socrates woke up the next morning as if nothing had happened, but then died (again) the sponge fell out of him as he bent over to drink from a stream.],
+miserliness [Milo lived in a humble shack even though he had "money to burn".],
 
 
 apuleius180tgab2
