@@ -80,8 +80,6 @@ away team [Kirk, Spock, Scotty, McCoy],
 gravitational slingshot [] {space maneuver},
 astonishing mental computation [Spock] {feat of mind},
 
-:: Notes
-
 
 tas1x02
 =======
@@ -124,8 +122,6 @@ away team [Kirk, Spock, McCoy, redshirt],
 Vulcan salute [Spock&Thelin, Spock&Sarek],
 annual crew medical [],
 physical altercation time [] <14:30-14:50>,
-
-:: Notes
 
 
 tas1x03
@@ -172,8 +168,6 @@ evasive maneuver [] {space maneuver} <4:32>,
 full reverse [] {space maneuver} <4:34>,
 Vulcan mind meld [Spock&cloud creature],
 
-:: Notes
-
 
 tas1x04
 =======
@@ -218,8 +212,6 @@ life force transfer [The women used headband devices to drain life energy from c
 :: Other Keywords
 yellow alert [1x] <1:50>,
 deliberate destruction of an urn [Uhura] {act of deliberate destruction},
-
-:: Notes
 
 
 tas1x05
@@ -276,8 +268,6 @@ Emergency Defense Plan B [] {plan},
 evasive maneuver [] {space maneuver} <13:32>,
 Boarding Plan C [] {plan},
 
-:: Notes
-
 
 tas1x06
 =======
@@ -318,8 +308,6 @@ intruder alert [1x] <13:12>,
 medical examination [McCoy@Winston],
 complete medical examination [Kirk],
 physical altercation time [] <5:58-6:02, 9:37, 11:55-12:04, 16:48>,
-
-:: Notes
 
 
 tas1x07
@@ -370,8 +358,6 @@ Vulcan salute [giant Spock&Spock],
 farewell [giant Spock&Spock],
 Diogenes [] {fictional historical character},
 physical altercation time [] <6:15-6:35, 20:50-21:05>,
-
-:: Notes
 
 
 tas1x08
@@ -431,8 +417,6 @@ test of integrity [Kirk] {test},
 toast to a new friendship [Lucien] {formal toast},
 landing party [Kirk, Spock, McCoy],
 
-:: Notes
-
 
 tas1x09
 =======
@@ -481,8 +465,6 @@ landing party [McCoy, Sulu, Uhura&Kirk, Sulu, McCoy, Spock],
 Lewis Carol [] {historical character},
 hypospray [McCoy to Spock] <16:36>,
 
-:: Notes
-
 
 tas1x10
 =======
@@ -528,8 +510,6 @@ hanky panky [Scotty&M'Ress],
 wanton destruction of a shuttlecraft [rock monster] {act of wanton destruction},
 physical altercation time [] <11:10>,
 
-:: Notes
-
 
 tas1x11
 =======
@@ -566,8 +546,6 @@ Gulliver's Travels [Lilliputian] {literary reference},
 supernova [],
 volcano [],
 earthquake [],
-
-:: Notes
 
 
 tas1x12
@@ -608,8 +586,6 @@ Interpreter of Laws [] {character},
 ion storm [] {astronomical phenomena},
 class 2 signal [] {signal},
 alternate universe [],
-
-:: Notes
 
 
 tas1x13
@@ -652,8 +628,6 @@ high tribune [] {character},
 seaquake [] {impending catastrophe},
 away team [Kirk, Spock, McCoy, redshirt & McCoy, Scotty, redshirt],
 hypospray [McCoy to Kirk; McCoy to Kirk] <19:49, 20:27>,
-
-:: Notes
 
 
 tas1x14
@@ -699,8 +673,6 @@ disruptor bomb [] {weapon},
 Earth-Kzin Wars [],
 physical altercation time [] <13:55>,
 
-:: Notes
-
 
 tas1x15
 =======
@@ -743,8 +715,6 @@ telepathic society [slugs communicated using telepathy],
 
 :: Other Keywords
 landing party [Kirk, Spock, McCoy],
-
-:: Notes
 
 
 tas1x16
@@ -789,8 +759,6 @@ rockslide [],
 blizzard [],
 physical altercation time [] <21:00-21:15>,
 
-:: Notes
-
 
 tas2x01
 =======
@@ -832,8 +800,6 @@ away team [Kirk, Scotty, Uhura, Chrinstine],
 Babel Conference [],
 physical altercation time [] <20:00-20:28>,
 
-:: Notes
-
 
 tas2x02
 =======
@@ -871,8 +837,6 @@ librarian [] {character},
 Loch Ness monster [],
 landing party [Kirk, Scotty, Spock, Sulu, Bem],
 physical altercation time [] <18:30-18:40>,
-
-:: Notes
 
 
 tas2x03
@@ -913,8 +877,6 @@ type 4 asteroid [] {space object},
 a toast to our narrow escape [McCoy] {formal toast},
 booby trap [open pit covered with branches],
 holography [],
-
-:: Notes
 
 
 tas2x04
@@ -957,8 +919,6 @@ Saurian virus [] {virus},
 space aurora [] {what's out there},
 landing party [Kirk, Spock, Demos],
 physical altercation time [] <10:20-10:30, 17:10>,
-
-:: Notes
 
 
 tas2x05
@@ -1003,9 +963,6 @@ mysterious alien probe [] {probe},
 spiral evasive course [Enterprise] {space maneuver},
 hypospray [Kirk to Capellan power cat] <19:39>,
 
-:: Notes
-The light showed a red alert not a yellow alert!
-
 
 tas2x06
 =======
@@ -1049,7 +1006,5 @@ hard about [Enterprise] {space maneuver} <4:02>,
 full breaking power [Enterprise] {space maneuver} <7:12>,
 landing party [Kirk, Spock, Robert April],
 supernova [],
-
-:: Notes
 
 
