@@ -20,30 +20,30 @@ https://en.wikipedia.org/wiki/The_Decameron
 4 <mikael>,
 
 :: Component Stories
-boccachio1353d01s01, boccachio1353d01s02, boccachio1353d01s03, boccachio1353d01s04, 
-boccachio1353d01s05, boccachio1353d01s06, boccachio1353d01s07, boccachio1353d01s08, 
-boccachio1353d01s09, boccachio1353d01s10, boccachio1353d02s01, boccachio1353d02s02, 
-boccachio1353d02s03, boccachio1353d02s04, boccachio1353d02s05, boccachio1353d02s06, 
-boccachio1353d02s07, boccachio1353d02s08, boccachio1353d02s09, boccachio1353d02s10, 
-boccachio1353d03s01, boccachio1353d03s02, boccachio1353d03s03, boccachio1353d03s04, 
-boccachio1353d03s05, boccachio1353d03s06, boccachio1353d03s07, boccachio1353d03s08, 
-boccachio1353d03s09, boccachio1353d03s10, boccachio1353d04s01, boccachio1353d04s02, 
-boccachio1353d04s03, boccachio1353d04s04, boccachio1353d04s05, boccachio1353d04s06, 
-boccachio1353d04s07, boccachio1353d04s08, boccachio1353d04s09, boccachio1353d04s10, 
-boccachio1353d05s01, boccachio1353d05s02, boccachio1353d05s03, boccachio1353d05s04, 
-boccachio1353d05s05, boccachio1353d05s06, boccachio1353d05s07, boccachio1353d05s08, 
-boccachio1353d05s09, boccachio1353d05s10, boccachio1353d06s01, boccachio1353d06s02, 
-boccachio1353d06s03, boccachio1353d06s04, boccachio1353d06s05, boccachio1353d06s06, 
-boccachio1353d06s07, boccachio1353d06s08, boccachio1353d06s09, boccachio1353d06s10, 
-boccachio1353d07s01, boccachio1353d07s02, boccachio1353d07s03, boccachio1353d07s04, 
-boccachio1353d07s05, boccachio1353d07s06, boccachio1353d07s07, boccachio1353d07s08, 
-boccachio1353d07s09, boccachio1353d07s10, boccachio1353d08s01, boccachio1353d08s02, 
-boccachio1353d08s03, boccachio1353d08s04, boccachio1353d08s05, boccachio1353d08s06, 
-boccachio1353d08s07, boccachio1353d08s08, boccachio1353d08s09, boccachio1353d08s10, 
-boccachio1353d09s01, boccachio1353d09s02, boccachio1353d09s03, boccachio1353d09s04, 
-boccachio1353d09s05, boccachio1353d09s06, boccachio1353d09s07, boccachio1353d09s08, 
-boccachio1353d09s09, boccachio1353d09s10, boccachio1353d10s01, boccachio1353d10s02, 
-boccachio1353d10s03, boccachio1353d10s04, boccachio1353d10s05, boccachio1353d10s06, 
+boccachio1353d01s01, boccachio1353d01s02, boccachio1353d01s03, boccachio1353d01s04,
+boccachio1353d01s05, boccachio1353d01s06, boccachio1353d01s07, boccachio1353d01s08,
+boccachio1353d01s09, boccachio1353d01s10, boccachio1353d02s01, boccachio1353d02s02,
+boccachio1353d02s03, boccachio1353d02s04, boccachio1353d02s05, boccachio1353d02s06,
+boccachio1353d02s07, boccachio1353d02s08, boccachio1353d02s09, boccachio1353d02s10,
+boccachio1353d03s01, boccachio1353d03s02, boccachio1353d03s03, boccachio1353d03s04,
+boccachio1353d03s05, boccachio1353d03s06, boccachio1353d03s07, boccachio1353d03s08,
+boccachio1353d03s09, boccachio1353d03s10, boccachio1353d04s01, boccachio1353d04s02,
+boccachio1353d04s03, boccachio1353d04s04, boccachio1353d04s05, boccachio1353d04s06,
+boccachio1353d04s07, boccachio1353d04s08, boccachio1353d04s09, boccachio1353d04s10,
+boccachio1353d05s01, boccachio1353d05s02, boccachio1353d05s03, boccachio1353d05s04,
+boccachio1353d05s05, boccachio1353d05s06, boccachio1353d05s07, boccachio1353d05s08,
+boccachio1353d05s09, boccachio1353d05s10, boccachio1353d06s01, boccachio1353d06s02,
+boccachio1353d06s03, boccachio1353d06s04, boccachio1353d06s05, boccachio1353d06s06,
+boccachio1353d06s07, boccachio1353d06s08, boccachio1353d06s09, boccachio1353d06s10,
+boccachio1353d07s01, boccachio1353d07s02, boccachio1353d07s03, boccachio1353d07s04,
+boccachio1353d07s05, boccachio1353d07s06, boccachio1353d07s07, boccachio1353d07s08,
+boccachio1353d07s09, boccachio1353d07s10, boccachio1353d08s01, boccachio1353d08s02,
+boccachio1353d08s03, boccachio1353d08s04, boccachio1353d08s05, boccachio1353d08s06,
+boccachio1353d08s07, boccachio1353d08s08, boccachio1353d08s09, boccachio1353d08s10,
+boccachio1353d09s01, boccachio1353d09s02, boccachio1353d09s03, boccachio1353d09s04,
+boccachio1353d09s05, boccachio1353d09s06, boccachio1353d09s07, boccachio1353d09s08,
+boccachio1353d09s09, boccachio1353d09s10, boccachio1353d10s01, boccachio1353d10s02,
+boccachio1353d10s03, boccachio1353d10s04, boccachio1353d10s05, boccachio1353d10s06,
 boccachio1353d10s07, boccachio1353d10s08, boccachio1353d10s09, boccachio1353d10s10
 
 
@@ -1788,4 +1788,5 @@ Narrator: Dioneo. Location: Saluzzo.
 :: Major Themes
 
 :: Minor Themes
+
 
