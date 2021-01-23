@@ -4,6 +4,9 @@ Collection: Star Trek: Deep Space Nine
 :: Title
 Star Trek: Deep Space Nine
 
+:: Date
+1993-1999
+
 :: Description
 Star Trek: Deep Space Nine (sometimes abbreviated to DS9) is a science fiction
 television series set in the Star Trek universe in the Milky Way galaxy, in
@@ -15,19 +18,16 @@ Trek: Voyager for the remainder of its run. The starship USS Defiant was
 introduced in season 3, but the space station Deep Space Nine remained the
 series' primary setting.
 
-:: Date
-1993-1999
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
+
+:: Collections
+Collection: Star Trek: Deep Space Nine
 
 :: Major Themes
 space station [Deep Space Nine space station.],
 
 :: Minor Themes
-
-:: Collections
-Collection: Star Trek: Deep Space Nine
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
 
 
 ds91x01/02
@@ -36,14 +36,14 @@ ds91x01/02
 :: Title
 Emissary
 
+:: Date
+1993-01-03
+
 :: Description
 A new crew is assigned to a former Cardassian space station: Deep Space Nine.
 It is a joint Federation/Bajoran force, with Commander Sisko in charge, but
 his life is dramatically changed when he is declared the Emissary to the
 Prophets by a Bajoran priest.
-
-:: Date
-1993-01-03
 
 :: Ratings
 3 <mikael>
@@ -91,14 +91,14 @@ ds91x03
 :: Title
 Past Prologue
 
+:: Date
+1993-01-10
+
 :: Description
 A Bajoran terrorist with ties to Kira arrives on Deep Space Nine and is
 pursued by the Cardassians. Garak is introduced.
 
 Directed by: Winrich Kolbe. Story by: Katharyn Powers.
-
-:: Date
-1993-01-10
 
 :: Ratings
 2 <paul>
@@ -135,13 +135,13 @@ ds91x04
 :: Title
 A Man Alone
 
+:: Date
+1993-01-17
+
 :: Description
 Odo is accused of the murder of a Bajoran murderer.
 
 Directed by: Paul Lynch. Story by: Gerald Sanford & Michael Piller.
-
-:: Date
-1993-01-17
 
 :: Ratings
 1 <mikael>
@@ -181,14 +181,14 @@ ds91x05
 :: Title
 Babel
 
+:: Date
+1993-01-24
+
 :: Description
 A mysterious virus plagues the station, causing speech distortions and
 eventually death.
 
 Directed by: Paul Lynch. Story by: Sally Caves & Ira Steven Behr.
-
-:: Date
-1993-01-24
 
 :: Ratings
 1 <mikael>
@@ -221,13 +221,13 @@ ds91x06
 :: Title
 Captive Pursuit
 
+:: Date
+1993-01-31
+
 :: Description
 O'Brien befriends an alien from the Gamma Quadrant who is being hunted.
 
 Directed by: Corey Allen. Story by: Jill Sherman Donner.
-
-:: Date
-1993-01-31
 
 :: Ratings
 3 <mikael>
@@ -267,14 +267,14 @@ ds91x07
 :: Title
 Q-Less
 
+:: Date
+1993-02-07
+
 :: Description
 Q and Vash arrive on Deep Space Nine. However, Vash has realized the annoyance
 of Q and wants him to leave her alone.
 
 Directed by: Paul Lynch. Story by: Hannah Louise Shearer.
-
-:: Date
-1993-02-07
 
 :: Ratings
 2 <paul>
@@ -303,14 +303,14 @@ ds91x08
 :: Title
 Dax
 
+:: Date
+1993-02-14
+
 :: Description
 Jadzia Dax is accused of a murder committed by her symbiont in another
 lifetime.
 
 Directed by: David Carson. Story by: Peter Allan Fields.
-
-:: Date
-1993-02-14
 
 :: Ratings
 3 <mikael>
@@ -345,14 +345,14 @@ ds91x09
 :: Title
 The Passenger
 
+:: Date
+1993-02-21
+
 :: Description
 A sinister criminal is hiding in the mind of someone on Deep Space Nine, but
 Bashir struggles to understand how it works.
 
 Directed by: Paul Lynch. Story by: Morgan Gendel.
-
-:: Date
-1993-02-21
 
 :: Ratings
 2 <mikael>
@@ -381,14 +381,14 @@ ds91x10
 :: Title
 Move Along Home
 
+:: Date
+1993-03-14
+
 :: Description
 Quark is forced to play a game by the Wadi, a newly encountered species, and
 the lives of the crew depend on the outcome.
 
 Directed by: David Carson. Story by: Michael Piller.
-
-:: Date
-1993-03-14
 
 :: Ratings
 2 <mikael>
@@ -420,14 +420,14 @@ ds91x11
 :: Title
 The Nagus
 
+:: Date
+1993-03-21
+
 :: Description
 Quark is named as the head of the Ferengi Alliance by Grand Nagus Zek, but he
 is now surrounded by enemies.
 
 Directed by: David Livingston. Story by: David Livingston.
-
-:: Date
-1993-03-21
 
 :: Ratings
 1 <mikael>
@@ -457,14 +457,14 @@ ds91x12
 :: Title
 Vortex
 
+:: Date
+1993-04-18
+
 :: Description
 Odo discovers he might not be the only one of his kind when a visitor from the
 Gamma Quadrant claims he can contact Odo's people.
 
 Directed by: Winrich Kolbe. Story by: Sam Rolfe.
-
-:: Date
-1993-04-18
 
 :: Ratings
 2 <mikael>
@@ -495,15 +495,15 @@ ds91x13
 :: Title
 Battle Lines
 
+:: Date
+1993-04-25
+
 :: Description
 The spiritual leader of Bajor, Kai Opaka, travels with Sisko on a trip to the
 Gamma Quadrant but is stranded with him on a world where the dead are
 resurrected.
 
 Directed by: Paul Lynch. Story by: Hilary J. Bader.
-
-:: Date
-1993-04-25
 
 :: Ratings
 2 <mikael>
@@ -534,14 +534,14 @@ ds91x14
 :: Title
 The Storyteller
 
+:: Date
+1993-05-02
+
 :: Description
 O'Brien is recruited to save a Bajoran village from destruction by a
 mysterious cloud creature.
 
 Directed by: David Livingston. Story by: Kurt Michael Bensmiller.
-
-:: Date
-1993-05-02
 
 :: Ratings
 1 <paul>
@@ -574,14 +574,14 @@ ds91x15
 :: Title
 Progress
 
+:: Date
+1993-05-09
+
 :: Description
 Kira has to deal with a stubborn farmer (Brian Keith) who refuses to leave his
 home even though it is slated for demolition.
 
 Directed by: Les Landau. Story by: Peter Allan Fields.
-
-:: Date
-1993-05-09
 
 :: Ratings
 2 <paul>
@@ -609,15 +609,15 @@ ds91x16
 :: Title
 If Wishes Were Horses
 
+:: Date
+1993-05-16
+
 :: Description
 Deep Space Nine is put in jeopardy when the crew's thoughts manifest
 themselves, and such figures as Rumpelstiltskin appear.
 
 Directed by: Robert Legato. Story by: Nell McCue Crawford & William L.
 Crawford.
-
-:: Date
-1993-05-16
 
 :: Ratings
 3 <paul>
@@ -660,14 +660,14 @@ ds91x17
 :: Title
 The Forsaken
 
+:: Date
+1993-05-23
+
 :: Description
 The Federation ambassador from Betazed, Lwaxana Troi, visits the station, and
 develops an affection for Odo.
 
 Directed by: Les Landau. Story by: Jim Trombetta.
-
-:: Date
-1993-05-23
 
 :: Ratings
 2 <paul>
@@ -705,14 +705,14 @@ ds91x18
 :: Title
 Dramatis Personae
 
+:: Date
+1993-05-30
+
 :: Description
 A Klingon ship comes through the wormhole and explodes. A mutiny is
 considered.
 
 Directed by: Cliff Bole. Story by: Joe Menosky.
-
-:: Date
-1993-05-30
 
 :: Ratings
 2 <paul>
@@ -740,15 +740,15 @@ ds91x19
 :: Title
 Duet
 
+:: Date
+1993-06-13
+
 :: Description
 A visiting Cardassian, Marritza, may in fact be the notorious war criminal Gul
 Darhe'el, butcher of Gallitep Labor camp, and Kira is determined to bring him
 down.
 
 Directed by: James L. Conway. Story by: Lisa Rich & Jeanne Carrigan-Fauci.
-
-:: Date
-1993-06-13
 
 :: Ratings
 4 <mikael> [well crafted polemics from Marritza]
@@ -778,14 +778,14 @@ ds91x20
 :: Title
 In the Hands of the Prophets
 
+:: Date
+1993-06-20
+
 :: Description
 Friction escalates when Vedek Winn arrives on Deep Space Nine and discovers
 schoolteacher Keiko O'Brien is teaching about aliens in the Bajoran wormhole.
 
 Directed by: David Livingston. Story by: Robert Hewitt Wolfe.
-
-:: Date
-1993-06-20
 
 :: Ratings
 1 <paul>
@@ -818,14 +818,14 @@ ds92x01
 :: Title
 The Homecoming
 
+:: Date
+1993-09-26
+
 :: Description
 Quark gives Kira a Bajoran earring he claims was sent as a message from a
 Cardassian mining planet.
 
 Directed by: Winrich Kolbe. Story by: Jeri Taylor and Ira Steven Behr.
-
-:: Date
-1993-09-26
 
 :: Ratings
 1 <mikael>
@@ -857,14 +857,14 @@ ds92x02
 :: Title
 The Circle
 
+:: Date
+1993-10-03
+
 :: Description
 The Circle attempts to topple the Bajoran government, but there is more to the
 situation than meets the eye.
 
 Directed by: Corey Allen. Story by: Peter Allan Fields.
-
-:: Date
-1993-10-03
 
 :: Ratings
 1 <mikael>
@@ -894,15 +894,15 @@ ds92x03
 :: Title
 The Siege
 
+:: Date
+1993-10-10
+
 :: Description
 Sisko and Li Nalas help stop Deep Space Nine from being commandeered by the
 Bajorans, while Kira and Dax try to put an end to the Circle by presenting
 evidence that Minister Jaro is being backed by the Cardassians.
 
 Directed by: Winrich Kolbe. Story by: Michael Piller.
-
-:: Date
-1993-10-10
 
 :: Ratings
 1 <mikael>
@@ -932,14 +932,14 @@ ds92x04
 :: Title
 Invasive Procedures
 
+:: Date
+1993-10-17
+
 :: Description
 A plasma storm leads to the evacuation of most of the station, but a Trill
 refugee has his own plans.
 
 Directed by: Les Landau. Story by: John Whelpley.
-
-:: Date
-1993-10-17
 
 :: Ratings
 2 <paul>
@@ -974,14 +974,14 @@ ds92x05
 :: Title
 Cardassians
 
+:: Date
+1993-10-24
+
 :: Description
 Garak investigates the identity of a Cardassian boy, Rugal, abandoned on
 Bajor, who has been raised by a Bajoran.
 
 Directed by: Cliff Bole. Story by: Gene Wolande & John Wright.
-
-:: Date
-1993-10-24
 
 :: Ratings
 3 <paul>
@@ -1017,14 +1017,14 @@ ds92x06
 :: Title
 Melora
 
+:: Date
+1993-10-31
+
 :: Description
 Bashir tries to help Ensign Melora Pazlar, the first Elaysian to join
 Starfleet, adjust to "normal" gravity.
 
 Directed by: Winrich Kolbe. Story by: Evan Carlos Somers.
-
-:: Date
-1993-10-31
 
 :: Ratings
 4 <mikael>
@@ -1062,6 +1062,9 @@ ds92x07
 :: Title
 Rules of Acquisition
 
+:: Date
+1993-11-07
+
 :: Description
 Quark represents Grand Nagus Zek in a plot to establish a Ferengi business
 presence in the Gamma Quadrant. Pel, a young Ferengi, teams up with Quark and
@@ -1069,9 +1072,6 @@ they learn that to do business in the Gamma Quadrant they must contact the
 Keremma, a member race of the Dominion.
 
 Directed by: David Livingston. Story by: Hilary J. Bader.
-
-:: Date
-1993-11-07
 
 :: Ratings
 3 <paul>
@@ -1103,14 +1103,14 @@ ds92x08
 :: Title
 Necessary Evil
 
+:: Date
+1993-11-14
+
 :: Description
 When Quark is shot, Odo re-opens a five-year-old murder case of Mr. Vaatrik
 who was a Cardassian collaborator.
 
 Directed by: James L. Conway. Story by: Peter Allan Fields.
-
-:: Date
-1993-11-14
 
 :: Ratings
 1 <mikael>
@@ -1138,13 +1138,13 @@ ds92x09
 :: Title
 Second Sight
 
+:: Date
+1993-11-21
+
 :: Description
 A mysterious woman, Fenna, catches Sisko's eye during their fleeting meetings.
 
 Directed by: Alexander Singer. Story by: Mark Gehred-O'Connell.
-
-:: Date
-1993-11-21
 
 :: Ratings
 4 <mikael>
@@ -1185,14 +1185,14 @@ ds92x10
 :: Title
 Sanctuary
 
+:: Date
+1993-11-28
+
 :: Description
 The Skrreea, displaced humanoid farmers from the Gamma Quadrant, claim Bajor
 as Kentanna, their legendary homeland.
 
 Directed by: Les Landau. Story by: Gabe Essoe & Kelley Miles.
-
-:: Date
-1993-11-28
 
 :: Ratings
 2 <mikael>
@@ -1229,14 +1229,14 @@ ds92x11
 :: Title
 Rivals
 
+:: Date
+1994-01-02
+
 :: Description
 Quark feels threatened when a charming swindler, Martus Mazur, opens a
 competing bar (Club Martus).
 
 Directed by: David Livingston. Story by: Jim Trombetta & Michael Piller.
-
-:: Date
-1994-01-02
 
 :: Ratings
 2 <mikael>
@@ -1267,14 +1267,14 @@ ds92x12
 :: Title
 The Alternate
 
+:: Date
+1994-01-09
+
 :: Description
 A scientist, Dr. Mora Pol of the Bajoran Science Institute, finds a life-form
 in the Gamma Quadrant that may be related to Odo.
 
 Directed by: David Carson. Story by: Jim Trombetta and Bill Dial.
-
-:: Date
-1994-01-09
 
 :: Ratings
 2 <mikael>
@@ -1309,15 +1309,15 @@ ds92x13
 :: Title
 Armageddon Game
 
+:: Date
+1994-01-30
+
 :: Description
 O'Brien and Bashir help two warring races, the Kellerans and T'lani, erase all
 knowledge of a deadly biological weapon, but are not trusted to keep what they
 have learned a secret.
 
 Directed by: Winrich Kolbe. Story by: Morgan Gendel.
-
-:: Date
-1994-01-30
 
 :: Ratings
 2 <mikael>
@@ -1355,6 +1355,9 @@ ds92x14
 :: Title
 Whispers
 
+:: Date
+1994-02-06
+
 :: Description
 While preparing the station for upcoming peace talks, O'Brien discovers that
 the crew have been hiding information from him and giving orders behind his
@@ -1362,9 +1365,6 @@ back. O'Brien begins to suspect everyone on the station is gradually being
 altered or replaced by an unknown force.
 
 Directed by: Les Landau. Story by: Paul Robert Coyle.
-
-:: Date
-1994-02-06
 
 :: Ratings
 1 <mikael> [what a reprehensible way to treat an innocent clone]
@@ -1393,15 +1393,15 @@ ds92x15
 :: Title
 Paradise
 
+:: Date
+1994-02-13
+
 :: Description
 Commander Sisko and Chief O'Brien are stranded on a planet, Aurelius, where
 their leader, Alixus, rejects technology, even when it means the death of
 others.
 
 Directed by: Corey Allen. Story by: Jim Trombetta and James Crocker.
-
-:: Date
-1994-02-13
 
 :: Ratings
 2 <mikael>
@@ -1433,13 +1433,13 @@ ds92x16
 :: Title
 Shadowplay
 
+:: Date
+1994-02-20
+
 :: Description
 Odo and Dax investigate why a village's residents are disappearing.
 
 Directed by: Robert Scheerer. Story by: Robert Hewitt Wolfe.
-
-:: Date
-1994-02-20
 
 :: Ratings
 2 <mikael>
@@ -1476,15 +1476,15 @@ ds92x17
 :: Title
 Playing God
 
+:: Date
+1994-02-27
+
 :: Description
 A proto-universe threatens to destroy the station and Bajor. Dax has a field
 docent (a Trill candidate initiate), named Arjin, whom she helps find his
 voice — to discover what he wants from life and from joining.
 
 Directed by: David Livingston. Story by: Jim Trombetta.
-
-:: Date
-1994-02-27
 
 :: Ratings
 3 <mikael>
@@ -1523,15 +1523,15 @@ ds92x18
 :: Title
 Profit and Loss
 
+:: Date
+1994-03-20
+
 :: Description
 Quark is reunited with his former Cardassian lover, Natima Lang, but she is
 engaged in dangerous political intrigue with her students Rekela and Hogue:
 they want to reduce the political power of the Cardassian military.
 
 Directed by: Robert Wiemer. Story by: Flip Kobler and Cindy Marcus.
-
-:: Date
-1994-03-20
 
 :: Ratings
 1 <mikael>
@@ -1564,6 +1564,9 @@ ds92x19
 :: Title
 Blood Oath
 
+:: Date
+1994-03-27
+
 :: Description
 Jadzia Dax honors an oath made by Curzon Dax to three Klingons (Kor, Koloth,
 and Kang), and goes with them on a crusade against their sworn enemy "the
@@ -1571,9 +1574,6 @@ Albino" who murdered their firstborn children as revenge for stopping his raid
 on a Klingon colony.
 
 Directed by: Winrich Kolbe. Story by: Andrea Moore Alton.
-
-:: Date
-1994-03-27
 
 :: Ratings
 2 <mikael>
@@ -1605,15 +1605,15 @@ ds92x20
 :: Title
 The Maquis, Part I
 
+:: Date
+1994-04-24
+
 :: Description
 Federation colonists reject a treaty with Cardassia and take matters into
 their own hands, forming a terrorist group called 'The Maquis'.
 
 Directed by: David Livingston. Story by: Rick Berman and Michael Piller & Jeri
 Taylor and James Crocker.
-
-:: Date
-1994-04-24
 
 :: Ratings
 1 <paul>
@@ -1643,15 +1643,15 @@ ds92x21
 :: Title
 The Maquis, Part II
 
+:: Date
+1994-05-01
+
 :: Description
 Federation colonists reject a treaty with Cardassia and take matters into
 their own hands by planning to destroy a weapons depot at the Cardassian Bryma
 colony.
 
 Directed by: Corey Allen. Story by: Rick Berman and Michael Piller.
-
-:: Date
-1994-05-01
 
 :: Ratings
 1 <paul>
@@ -1684,14 +1684,14 @@ ds92x22
 :: Title
 The Wire
 
+:: Date
+1994-05-08
+
 :: Description
 In order to save Garak's life, Bashir must unravel some of the secrets in the
 Cardassian's past.
 
 Directed by: Kim Friedman. Story by: Robert Hewitt Wolfe.
-
-:: Date
-1994-05-08
 
 :: Ratings
 3 <paul>
@@ -1728,6 +1728,9 @@ ds92x23
 :: Title
 Crossover
 
+:: Date
+1994-05-15
+
 :: Description
 Kira and Bashir accidentally cross into the Mirror Universe, where a Klingon-
 Cardassian alliance rules. A century before, James T. Kirk had made a similar
@@ -1735,9 +1738,6 @@ crossover, affecting human and galactic history. Terrans are slaves on the
 station.
 
 Directed by: David Livingston. Story by: Peter Allan Fields.
-
-:: Date
-1994-05-15
 
 :: Ratings
 5 <paul>
@@ -1772,15 +1772,15 @@ ds92x24
 :: Title
 The Collaborator
 
+:: Date
+1994-05-22
+
 :: Description
 A Bajoran secretary named Kubus, who aided the Cardassian occupation forces
 wants to return home from exile. Vedek Winn engages in a power play to become
 Kai against Vedek Bareil.
 
 Directed by: Cliff Bole. Story by: Gary Holland.
-
-:: Date
-1994-05-22
 
 :: Ratings
 2 <paul>
@@ -1814,14 +1814,14 @@ ds92x25
 :: Title
 Tribunal
 
+:: Date
+1994-06-05
+
 :: Description
 O'Brien is declared guilty of an unspecified crime and later "tried" at a
 tribunal held on Cardassia Prime.
 
 Directed by: Avery Brooks. Story by: Bill Dial.
-
-:: Date
-1994-06-05
 
 :: Ratings
 4 <paul>
@@ -1859,15 +1859,15 @@ ds92x26
 :: Title
 The Jem'Hadar
 
+:: Date
+1994-06-12
+
 :: Description
 Sisko, Jake, Nog, and Quark go camping on a Gamma Quadrant world, but are
 captured by mysterious soldiers called the Jem'Hadar and meet a force, the
 Dominion, to rival the Federation.
 
 Directed by: Kim Friedman. Story by: Ira Steven Behr.
-
-:: Date
-1994-06-12
 
 :: Ratings
 3 <paul>
@@ -1900,15 +1900,15 @@ ds93x01
 :: Title
 The Search, Part I
 
+:: Date
+1994-09-26
+
 :: Description
 Sisko takes the new USS Defiant into the Gamma Quadrant to find the mysterious
 leaders of the Dominion and avert a war, while Odo is drawn by instinct
 towards his home planet in the Omarion Nebula.
 
 Directed by: Kim Friedman. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1994-09-26
 
 :: Ratings
 2 <paul>
@@ -1944,15 +1944,15 @@ ds93x02
 :: Title
 The Search, Part II
 
+:: Date
+1994-10-03
+
 :: Description
 Odo begins to connect with his fellow Changelings as Sisko attempts to
 negotiate peace with the Dominion.
 
 Directed by: Jonathan Frakes. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1994-10-03
 
 :: Ratings
 4 <paul>
@@ -1988,14 +1988,14 @@ ds93x03
 :: Title
 The House of Quark
 
+:: Date
+1994-10-10
+
 :: Description
 Quark lies about killing a Klingon, Kozak, and is then forced to marry the
 widow, Grilka, founding his own 'House of Quark'.
 
 Directed by: Les Landau. Story by: Tom Benko.
-
-:: Date
-1994-10-10
 
 :: Ratings
 3 <paul>
@@ -2033,13 +2033,13 @@ ds93x04
 :: Title
 Equilibrium
 
+:: Date
+1994-10-17
+
 :: Description
 A secret from Dax's past could mean the end of the current host's life.
 
 Directed by: Cliff Bole. Story by: Christopher Teague.
-
-:: Date
-1994-10-17
 
 :: Ratings
 2 <paul>
@@ -2072,14 +2072,14 @@ ds93x05
 :: Title
 Second Skin
 
+:: Date
+1994-10-24
+
 :: Description
 Kira is kidnapped by Cardassians, surgically altered to look Cardassian and
 told she is actually an undercover Cardassian agent.
 
 Directed by: Les Landau. Story by: Robert Hewitt Wolfe.
-
-:: Date
-1994-10-24
 
 :: Ratings
 1 <mikael>
@@ -2105,14 +2105,14 @@ ds93x06
 :: Title
 The Abandoned
 
+:: Date
+1994-10-31
+
 :: Description
 Quark purchases a salvaged ship from the Gamma Quadrant and discovers an
 infant on board.
 
 Directed by: Avery Brooks. Story by: D. Thomas Maio and Steve Warnek.
-
-:: Date
-1994-10-31
 
 :: Ratings
 3 <paul>
@@ -2156,6 +2156,9 @@ ds93x07
 :: Title
 Civil Defense
 
+:: Date
+1994-11-07
+
 :: Description
 Deep Space Nine is progressively locked down after O'Brien, Jake and Sisko
 accidentally activate an automated Cardassian security program. The program's
@@ -2164,9 +2167,6 @@ destruct. Gul Dukat beams on board, but is unable to stop the self-destruct
 sequence.
 
 Directed by: Reza Badiyi. Story by: Mike Krohn.
-
-:: Date
-1994-11-07
 
 :: Ratings
 1 <paul>
@@ -2192,15 +2192,15 @@ ds93x08
 :: Title
 Meridian
 
+:: Date
+1994-11-14
+
 :: Description
 Dax falls in love with Deral who will soon disappear because he is a member of
 Meridian, a planet that phases between dimensions every 60 years.
 
 Directed by: Jonathan Frakes. Story by: Hilary J. Bader and Evan Carlos
 Somers.
-
-:: Date
-1994-11-14
 
 :: Ratings
 3 <paul>
@@ -2234,14 +2234,14 @@ ds93x09
 :: Title
 Defiant
 
+:: Date
+1994-11-21
+
 :: Description
 Commander William Riker shows up unannounced and Kira shows him the Defiant,
 where he reveals his true motives for coming to Deep Space Nine.
 
 Directed by: Cliff Bole. Story by: Ronald D. Moore.
-
-:: Date
-1994-11-21
 
 :: Ratings
 2 <paul>
@@ -2277,14 +2277,14 @@ ds93x10
 :: Title
 Fascination
 
+:: Date
+1994-11-28
+
 :: Description
 Lwaxana Troi pursues Odo during the Bajoran Gratitude Festival as members of
 the crew suddenly become infatuated with one another.
 
 Directed by: Avery Brooks. Story by: Ira Steven Behr and James Crocker.
-
-:: Date
-1994-11-28
 
 :: Ratings
 4 <paul>
@@ -2328,6 +2328,9 @@ ds93x11
 :: Title
 Past Tense, Part I
 
+:: Date
+1995-01-02
+
 :: Description
 A transporter accident sends Sisko, Bashir, and Dax three centuries into
 Earth's dark past to a time just before the Bell riots, a violent civil
@@ -2335,9 +2338,6 @@ disturbance in opposition to Sanctuaries which are controlled ghettos for the
 dispossessed.
 
 Directed by: Reza Badiyi. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1995-01-02
 
 :: Ratings
 4 <paul>
@@ -2373,15 +2373,15 @@ ds93x12
 :: Title
 Past Tense, Part II
 
+:: Date
+1995-01-09
+
 :: Description
 Sisko assumes the role of a pivotal historical figure, Gabriel Bell, in order
 to restore the timeline.
 
 Directed by: Jonathan Frakes. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1995-01-09
 
 :: Ratings
 4 <paul>
@@ -2415,14 +2415,14 @@ ds93x13
 :: Title
 Life Support
 
+:: Date
+1995-01-31
+
 :: Description
 Bashir's ethics are put to the test as he keeps Vedek Bareil alive long enough
 to help Kai Winn complete negotiations for a peace treaty with Cardassia.
 
 Directed by: Reza Badiyi. Story by: Christian Ford and Roger Soffer.
-
-:: Date
-1995-01-31
 
 :: Ratings
 3 <paul>
@@ -2459,6 +2459,9 @@ ds93x14
 :: Title
 Heart of Stone
 
+:: Date
+1995-02-06
+
 :: Description
 When Kira's life is put in jeopardy, Odo expresses the depth of his feelings
 for her. Meanwhile, back on the station, Nog requests a letter of
@@ -2466,9 +2469,6 @@ recommendation to Starfleet.
 
 Directed by: Alexander Singer. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1995-02-06
 
 :: Ratings
 2 <paul>
@@ -2501,15 +2501,15 @@ ds93x15
 :: Title
 Destiny
 
+:: Date
+1995-02-13
+
 :: Description
 Despite Trakor's Bajoran prophecy of destruction, Sisko assists in a joint
 scientific venture with the Cardassians to open communications through the
 Bajoran wormhole.
 
 Directed by: Les Landau. Story by: David S. Cohen and Martin A. Winer.
-
-:: Date
-1995-02-13
 
 :: Ratings
 2 <mikael>
@@ -2544,6 +2544,9 @@ ds93x16
 :: Title
 Prophet Motive
 
+:: Date
+1995-02-20
+
 :: Description
 Quark discovers that Grand Nagus Zek has written a new virtuous and benevolent
 set of the Rules of Acquisition, which would put an end to the traditional
@@ -2551,9 +2554,6 @@ Ferengi ways.
 
 Directed by: René Auberjonois. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1995-02-20
 
 :: Ratings
 3 <paul>
@@ -2585,14 +2585,14 @@ ds93x17
 :: Title
 Visionary
 
+:: Date
+1995-02-27
+
 :: Description
 Exposure to radiation causes O'Brien to jump five hours into the future for
 brief periods, as Deep Space Nine hosts Romulan and Klingon delegations.
 
 Directed by: Reza Badiyi. Story by: Ethan H. Calk.
-
-:: Date
-1995-02-27
 
 :: Ratings
 2 <paul>
@@ -2623,14 +2623,14 @@ ds93x18
 :: Title
 Distant Voices
 
+:: Date
+1995-04-10
+
 :: Description
 Julian Bashir is subjected to a telepathic attack by an alien seeking a
 restricted substance.
 
 Directed by: Alexander Singer. Story by: Joe Menosky.
-
-:: Date
-1995-04-10
 
 :: Ratings
 2 <paul>
@@ -2669,14 +2669,14 @@ ds93x19
 :: Title
 Through the Looking Glass
 
+:: Date
+1995-04-17
+
 :: Description
 Sisko is convinced by "Smiley" O'Brien from the Mirror Universe to assume the
 role of the dead Captain Sisko.
 
 Directed by: Winrich Kolbe. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1995-04-17
 
 :: Ratings
 2 <mikael>
@@ -2714,14 +2714,14 @@ ds93x20
 :: Title
 Improbable Cause
 
+:: Date
+1995-04-24
+
 :: Description
 Garak's tailor shop is bombed, forcing Odo to investigate who is trying to
 kill the Cardassian exile – and why.
 
 Directed by: Avery Brooks. Story by: Robert Lederman & David R. Long.
-
-:: Date
-1995-04-24
 
 :: Ratings
 1 <paul>
@@ -2754,15 +2754,15 @@ ds93x21
 :: Title
 The Die is Cast
 
+:: Date
+1995-05-01
+
 :: Description
 Garak reluctantly tortures Odo for information to prove his loyalty to his
 former mentor, Enabran Tain, as a joint Tal Shiar/Obsidian Order attack on the
 Founders in the Omarian Nebula is underway, without Starfleet's involvement.
 
 Directed by: David Livingston. Story by: Ronald D. Moore.
-
-:: Date
-1995-05-01
 
 :: Ratings
 1 <paul>
@@ -2799,15 +2799,15 @@ ds93x22
 :: Title
 Explorers
 
+:: Date
+1995-05-08
+
 :: Description
 Sisko builds a replica of an ancient Bajoran space vessel and with Jake
 attempts to prove that the Bajorans developed interstellar travel before
 Cardassians.
 
 Directed by: Cliff Bole. Story by: Hilary J. Bader.
-
-:: Date
-1995-05-08
 
 :: Ratings
 5 <paul>
@@ -2841,15 +2841,15 @@ ds93x23
 :: Title
 Family Business
 
+:: Date
+1995-05-15
+
 :: Description
 Quark returns to his home planet to confront his mother after hearing from the
 Ferengi Commerce Authority that she broke the law by earning profit.
 
 Directed by: René Auberjonois. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1995-05-15
 
 :: Ratings
 2 <paul>
@@ -2885,15 +2885,15 @@ ds93x24
 :: Title
 Shakaar
 
+:: Date
+1995-05-22
+
 :: Description
 Kai Winn needs Kira to convince her former resistance leader, Shakaar, now a
 farmer on Bajor, to return soil reclamators needed elsewhere in Rakantha,
 which used to be Bajor's most productive agricultural region.
 
 Directed by: Jonathan West. Story by: Gordon Dawson.
-
-:: Date
-1995-05-22
 
 :: Ratings
 2 <paul>
@@ -2928,15 +2928,15 @@ ds93x25
 :: Title
 Facets
 
+:: Date
+1995-06-12
+
 :: Description
 Jadzia Dax deals with feelings of inferiority as she encounters past hosts in
 a Trill Zhian'tara ceremony which is able to transfer the memories of former
 hosts into another recipient.
 
 Directed by: Cliff Bole. Story by: René Echevarria.
-
-:: Date
-1995-06-12
 
 :: Ratings
 1 <paul>
@@ -2974,6 +2974,9 @@ ds93x26
 :: Title
 The Adversary
 
+:: Date
+1995-06-19
+
 :: Description
 Ambassador Krajensky informs newly promoted Captain Sisko that there has been
 a coup on Tzenketh. A Changeling hides on board the Defiant and sabotages the
@@ -2981,9 +2984,6 @@ ship.
 
 Directed by: Alexander Singer. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1995-06-19
 
 :: Ratings
 1 <mikael>
@@ -3013,6 +3013,9 @@ ds94x01/02
 :: Title
 The Way of the Warrior
 
+:: Date
+1995-10-02
+
 :: Description
 A Klingon fleet arrives on its way to expand the Klingon Empire at the expense
 of the Cardassians in the face of the Dominion threat, and Worf is brought to
@@ -3020,9 +3023,6 @@ DS9 to negotiate.
 
 Directed by: James L. Conway. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1995-10-02
 
 :: Ratings
 2 <mikael>
@@ -3069,14 +3069,14 @@ ds94x03
 :: Title
 The Visitor
 
+:: Date
+1995-10-09
+
 :: Description
 An elderly Jake Sisko relates the story of how he lost his father to a
 temporal displacement accident.
 
 Directed by: David Livingston. Story by: Michael Taylor.
-
-:: Date
-1995-10-09
 
 :: Ratings
 2 <paul>
@@ -3104,6 +3104,9 @@ ds94x04
 :: Title
 Hippocratic Oath
 
+:: Date
+1995-10-16
+
 :: Description
 Bashir assists a rogue group of Jem'Hadar led by Goran'Agar attempting to
 overcome their genetic addiction to Ketracel White. Goran'Agar is able to
@@ -3111,9 +3114,6 @@ survive without the White and enlists the aid of Bashir to try to understand
 why.
 
 Directed by: René Auberjonois. Story by: Nicholas Corea and Lisa Klink.
-
-:: Date
-1995-10-16
 
 :: Ratings
 2 <mikael>
@@ -3146,15 +3146,15 @@ ds94x05
 :: Title
 Indiscretion
 
+:: Date
+1995-10-23
+
 :: Description
 Forced to bring along Dukat on a personal mission to investigate the fate of
 the Ravinok, Kira discovers the real reason her old enemy wants to accompany
 her.
 
 Directed by: LeVar Burton. Story by: Toni Marberry & Jack Treviño.
-
-:: Date
-1995-10-23
 
 :: Ratings
 2 <paul>
@@ -3193,15 +3193,15 @@ ds94x06
 :: Title
 Rejoined
 
+:: Date
+1995-10-30
+
 :: Description
 Dax is reunited with Lenara Kahn, whose previous host was the wife of one of
 Dax's former hosts, Torias Dax, and the two struggle with their feelings for
 one another.
 
 Directed by: Avery Brooks. Story by: René Echevarria.
-
-:: Date
-1995-10-30
 
 :: Ratings
 5 <paul>
@@ -3237,14 +3237,14 @@ ds94x07
 :: Title
 Starship Down
 
+:: Date
+1995-11-06
+
 :: Description
 The USS Defiant becomes trapped in a planet's radiation-filled atmosphere
 after battling with the Jem'Hadar.
 
 Directed by: Alexander Singer. Story by: David Mack and John J. Ordover.
-
-:: Date
-1995-11-06
 
 :: Ratings
 2 <paul>
@@ -3277,14 +3277,14 @@ ds94x08
 :: Title
 Little Green Men
 
+:: Date
+1995-11-13
+
 :: Description
 Quark, Rom, Nog, and Odo are accidentally thrust back in time to Roswell, New
 Mexico, Earth, in 1947.
 
 Directed by: James L. Conway. Story by: Toni Marberry & Jack Treviño.
-
-:: Date
-1995-11-13
 
 :: Ratings
 2 <mikael>
@@ -3326,14 +3326,14 @@ ds94x09
 :: Title
 The Sword of Kahless
 
+:: Date
+1995-11-20
+
 :: Description
 Worf, Dax and a revered Klingon Dahar master, Kor, search for the Sword of
 Kahless to unite the Klingon Empire.
 
 Directed by: LeVar Burton. Story by: Richard Danus.
-
-:: Date
-1995-11-20
 
 :: Ratings
 1 <mikael>
@@ -3370,15 +3370,15 @@ ds94x10
 :: Title
 Our Man Bashir
 
+:: Date
+1995-11-27
+
 :: Description
 Bashir plays a 1960s secret agent in a holosuite, when Garak unexpectedly
 intrudes, but his help is needed when the DS9 computer uses the holosuite to
 store the patterns of other crew members during a teleporting accident.
 
 Directed by: Winrich Kolbe. Story by: Robert Gillan.
-
-:: Date
-1995-11-27
 
 :: Ratings
 1 <mikael>
@@ -3414,15 +3414,15 @@ ds94x11
 :: Title
 Homefront
 
+:: Date
+1996-01-01
+
 :: Description
 Sisko and Odo are brought to Earth when it's suspected Changelings are
 infiltrating Starfleet.
 
 Directed by: David Livingston. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1996-01-01
 
 :: Ratings
 1 <paul>
@@ -3453,14 +3453,14 @@ ds94x12
 :: Title
 Paradise Lost
 
+:: Date
+1996-01-08
+
 :: Description
 As Sisko and Odo prepare for a Dominion invasion, they discover a plot to
 place the Federation under military control.
 
 Directed by: Reza Badiyi. Story by: Ronald D. Moore.
-
-:: Date
-1996-01-08
 
 :: Ratings
 1 <paul>
@@ -3489,14 +3489,14 @@ ds94x13
 :: Title
 Crossfire
 
+:: Date
+1996-01-29
+
 :: Description
 Odo's hidden feelings for Kira surface when the visiting Bajoran First
 Minister, Shakaar Edon, begins to court her.
 
 Directed by: Les Landau. Story by: René Echevarria.
-
-:: Date
-1996-01-29
 
 :: Ratings
 2 <mikael>
@@ -3531,13 +3531,13 @@ ds94x14
 :: Title
 Return to Grace
 
+:: Date
+1996-02-05
+
 :: Description
 Dukat seeks Kira's help in regaining his rank in the Cardassian Empire.
 
 Directed by: Jonathan West. Story by: Tom Benko.
-
-:: Date
-1996-02-05
 
 :: Ratings
 1 <mikael>
@@ -3567,14 +3567,14 @@ ds94x15
 :: Title
 Sons of Mogh
 
+:: Date
+1996-02-12
+
 :: Description
 Cast out of Klingon society because of Worf's dishonor, his outcast brother,
 Kurn, asks Worf to kill him.
 
 Directed by: David Livingston. Story by: Ronald D. Moore.
-
-:: Date
-1996-02-12
 
 :: Ratings
 2 <mikael>
@@ -3607,13 +3607,13 @@ ds94x16
 :: Title
 Bar Association
 
+:: Date
+1996-02-19
+
 :: Description
 Rom creates a union for Quark's employees and goes on strike.
 
 Directed by: LeVar Burton. Story by: Barbara J. Lee & Jenifer A. Lee.
-
-:: Date
-1996-02-19
 
 :: Ratings
 1 <mikael>
@@ -3647,14 +3647,14 @@ ds94x17
 :: Title
 Accession
 
+:: Date
+1996-02-26
+
 :: Description
 A famous Bajoran poet, Akorem Laan, who disappeared over 200 years ago appears
 from the wormhole and convinces Sisko that he is the true Emissary.
 
 Directed by: Les Landau. Story by: Jane Espenson.
-
-:: Date
-1996-02-26
 
 :: Ratings
 2 <mikael>
@@ -3692,14 +3692,14 @@ ds94x18
 :: Title
 Rules of Engagement
 
+:: Date
+1996-04-08
+
 :: Description
 Worf accidentally destroys a civilian ship during battle and faces a hearing
 to determine whether he should be extradited to the Klingon Empire.
 
 Directed by: LeVar Burton. Story by: David Weddle & Bradley Thompson.
-
-:: Date
-1996-04-08
 
 :: Ratings
 4 <mikael>
@@ -3732,14 +3732,14 @@ ds94x19
 :: Title
 Hard Time
 
+:: Date
+1996-04-15
+
 :: Description
 O'Brien's mind has been altered to create memories of being incarcerated for
 20 years on an alien world on charges of espionage and sedition.
 
 Directed by: Alexander Singer. Story by: Daniel Keys Moran and Lynn Barker.
-
-:: Date
-1996-04-15
 
 :: Ratings
 2 <mikael>
@@ -3775,14 +3775,14 @@ ds94x20
 :: Title
 Shattered Mirror
 
+:: Date
+1996-04-22
+
 :: Description
 Sisko attempts to rescue Jake after he is lured into the war-torn Mirror
 Universe by his mother's living counterpart.
 
 Directed by: James L. Conway. Story by: Ira Steven Behr and Hans Beimler.
-
-:: Date
-1996-04-22
 
 :: Ratings
 0 <mikael>
@@ -3813,15 +3813,15 @@ ds94x21
 :: Title
 The Muse
 
+:: Date
+1996-04-29
+
 :: Description
 While Odo assists a pregnant Lwaxana Troi, Jake falls under the spell of a
 mysterious woman, Onaya.
 
 Directed by: David Livingston. Story by: René Echevarria and Majel Barrett-
 Roddenberry.
-
-:: Date
-1996-04-29
 
 :: Ratings
 1 <mikael>
@@ -3859,13 +3859,13 @@ ds94x22
 :: Title
 For the Cause
 
+:: Date
+1996-05-06
+
 :: Description
 Sisko learns that his girlfriend Kasidy might be a Maquis smuggler.
 
 Directed by: James L. Conway. Story by: Mark Gehred-O'Connell.
-
-:: Date
-1996-05-06
 
 :: Ratings
 3 <mikael>
@@ -3894,14 +3894,14 @@ ds94x23
 :: Title
 To the Death
 
+:: Date
+1996-05-13
+
 :: Description
 Sisko and the Defiant crew join forces with the Jem'Hadar to stop a group of
 Jem'Hadar renegades from gaining power.
 
 Directed by: LeVar Burton. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1996-05-13
 
 :: Ratings
 2 <mikael>
@@ -3940,14 +3940,14 @@ ds94x24
 :: Title
 The Quickening
 
+:: Date
+1996-05-20
+
 :: Description
 Bashir tries to free the population of a Gamma Quadrant world in the Teplan
 system of an engineered disease left by the Dominion 200 years previously.
 
 Directed by: René Auberjonois. Story by: Naren Shankar.
-
-:: Date
-1996-05-20
 
 :: Ratings
 2 <mikael>
@@ -3976,14 +3976,14 @@ ds94x25
 :: Title
 Body Parts
 
+:: Date
+1996-06-10
+
 :: Description
 Quark is diagnosed with a terminal disease, Dorek's Syndrome, and given a week
 to live.
 
 Directed by: Avery Brooks. Story by: Louis P. DeSantis & Robert J. Bolivar.
-
-:: Date
-1996-06-10
 
 :: Ratings
 3 <paul>
@@ -4017,14 +4017,14 @@ ds94x26
 :: Title
 Broken Link
 
+:: Date
+1996-06-17
+
 :: Description
 Odo collapses and is taken to the infirmary. Bashir discovers Odo is losing
 his ability to maintain solid form.
 
 Directed by: Les Landau. Story by: George A. Brozak.
-
-:: Date
-1996-06-17
 
 :: Ratings
 2 <paul>
@@ -4061,15 +4061,15 @@ ds95x01
 :: Title
 Apocalypse Rising
 
+:: Date
+1996-09-30
+
 :: Description
 Starfleet assigns Sisko to expose the Changeling infiltrator in the Klingon
 Empire.
 
 Directed by: James L. Conway. Story by: Ira Steven Behr and Robert Hewitt
 Wolfe.
-
-:: Date
-1996-09-30
 
 :: Ratings
 0 <mikael>
@@ -4097,14 +4097,14 @@ ds95x02
 :: Title
 The Ship
 
+:: Date
+1996-10-07
+
 :: Description
 While exploring in the Gamma Quadrant, Sisko, Dax, Worf, and O'Brien see a
 Jem'Hadar warship crash on a planet's surface.
 
 Directed by: Kim Friedman. Story by: Pam Wigginton & Rick Cason.
-
-:: Date
-1996-10-07
 
 :: Ratings
 2 <mikael>
@@ -4136,14 +4136,14 @@ ds95x03
 :: Title
 Looking for par'Mach in All the Wrong Places
 
+:: Date
+1996-10-14
+
 :: Description
 Worf finds himself attracted to Grilka, Quark's ex wife, when she visits the
 station.
 
 Directed by: Andrew J. Robinson. Story by: Ronald D. Moore.
-
-:: Date
-1996-10-14
 
 :: Ratings
 1 <mikael>
@@ -4174,15 +4174,15 @@ ds95x04
 :: Title
 Nor the Battle to the Strong
 
+:: Date
+1996-10-21
+
 :: Description
 Dr. Bashir has been away at a conference and Jake Sisko has accompanied him to
 research a profile he is writing about the doctor. Returning in a runabout,
 they get a distress call from a Federation colony under Klingon attack.
 
 Directed by: Kim Friedman. Story by: Brice R. Parker.
-
-:: Date
-1996-10-21
 
 :: Ratings
 2 <paul>
@@ -4216,14 +4216,14 @@ ds95x05
 :: Title
 The Assignment
 
+:: Date
+1996-10-28
+
 :: Description
 Keiko returns from a journey and informs O'Brien that she is really an entity
 that has taken possession of his wife's body.
 
 Directed by: Allan Kroeker. Story by: David R. Long & Robert Lederman.
-
-:: Date
-1996-10-28
 
 :: Ratings
 3 <paul>
@@ -4251,15 +4251,15 @@ ds95x06
 :: Title
 Trials and Tribble-ations
 
+:: Date
+1996-11-04
+
 :: Description
 Darvin, a disgraced Klingon spy, travels back in time. The DS9 crew must
 prevent him from altering the timeline.
 
 Directed by: Jonathan West. Story by: Ira Steven Behr and Hans Beimler &
 Robert Hewitt Wolfe.
-
-:: Date
-1996-11-04
 
 :: Ratings
 5 <paul>
@@ -4295,15 +4295,15 @@ ds95x07
 :: Title
 Let He Who Is Without Sin...
 
+:: Date
+1996-11-11
+
 :: Description
 Worf and Dax vacation on the pleasure planet, Risa, and encounter unexpected
 dangers.
 
 Directed by: René Auberjonois. Story by: Robert Hewitt Wolfe and Ira Steven
 Behr.
-
-:: Date
-1996-11-11
 
 :: Ratings
 3 <paul>
@@ -4341,15 +4341,15 @@ ds95x08
 :: Title
 Things Past
 
+:: Date
+1996-11-18
+
 :: Description
 Sisko, Odo, Dax and Garak are found unconscious. While Bashir attempts to
 revive their bodies, the four wake up during the Cardassian occupation of
 Bajor several years earlier.
 
 Directed by: LeVar Burton. Story by: Michael Taylor.
-
-:: Date
-1996-11-18
 
 :: Ratings
 2 <mikael>
@@ -4377,14 +4377,14 @@ ds95x09
 :: Title
 The Ascent
 
+:: Date
+1996-11-25
+
 :: Description
 Forced to crash land on a desolate planet, Odo and Quark learn they lost their
 communications system, replicator, and most rations in an explosion.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1996-11-25
 
 :: Ratings
 2 <paul>
@@ -4421,13 +4421,13 @@ ds95x10
 :: Title
 Rapture
 
+:: Date
+1996-12-30
+
 :: Description
 An accident causes Sisko to have prophetic visions.
 
 Directed by: Jonathan West. Story by: L.J. Strom.
-
-:: Date
-1996-12-30
 
 :: Ratings
 1 <mikael>
@@ -4460,13 +4460,13 @@ ds95x11
 :: Title
 The Darkness and the Light
 
+:: Date
+1997-01-06
+
 :: Description
 Someone is killing Kira's friends off and she might be next.
 
 Directed by: Mike Vejar. Story by: Bryan Fuller.
-
-:: Date
-1997-01-06
 
 :: Ratings
 2 <paul>
@@ -4501,14 +4501,14 @@ ds95x12
 :: Title
 The Begotten
 
+:: Date
+1997-01-27
+
 :: Description
 When Quark discovers an infant Changeling, it has a profound effect on Odo.
 Meanwhile, Kira goes into labor.
 
 Directed by: Jesús Salvador Treviño. Story by: René Echevarria.
-
-:: Date
-1997-01-27
 
 :: Ratings
 2 <paul>
@@ -4547,13 +4547,13 @@ ds95x13
 :: Title
 For the Uniform
 
+:: Date
+1997-02-03
+
 :: Description
 Michael Eddington returns and Sisko becomes obsessed with catching him.
 
 Directed by: Victor Lobl. Story by: Peter Allan Fields.
-
-:: Date
-1997-02-03
 
 :: Ratings
 1 <paul>
@@ -4582,15 +4582,15 @@ ds95x14
 :: Title
 In Purgatory's Shadow
 
+:: Date
+1997-02-10
+
 :: Description
 Worf and Garak journey to the Gamma Quadrant to investigate a coded Cardassian
 message.
 
 Directed by: Gabrielle Beaumont. Story by: Robert Hewitt Wolfe and Ira Steven
 Behr.
-
-:: Date
-1997-02-10
 
 :: Ratings
 1 <paul>
@@ -4626,14 +4626,14 @@ ds95x15
 :: Title
 By Inferno's Light
 
+:: Date
+1997-02-17
+
 :: Description
 Gul Dukat aligns the Cardassians with the Dominion. The station must deal with
 a Changeling infiltrator.
 
 Directed by: Les Landau. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1997-02-17
 
 :: Ratings
 1 <paul>
@@ -4671,14 +4671,14 @@ ds95x16
 :: Title
 Doctor Bashir, I Presume?
 
+:: Date
+1997-02-24
+
 :: Description
 Julian Bashir is selected to become the model for a Long-term Medical
 Hologram, until a family secret is revealed.
 
 Directed by: David Livingston. Story by: Jimmy Diggs.
-
-:: Date
-1997-02-24
 
 :: Ratings
 4 <paul>
@@ -4725,13 +4725,13 @@ ds95x17
 :: Title
 A Simple Investigation
 
+:: Date
+1997-03-31
+
 :: Description
 Odo falls in love with a woman, Arissa, involved in the Orion Syndicate.
 
 Directed by: John T. Kretchmer. Story by: René Echevarria.
-
-:: Date
-1997-03-31
 
 :: Ratings
 1 <paul>
@@ -4771,13 +4771,13 @@ ds95x18
 :: Title
 Business as Usual
 
+:: Date
+1997-04-07
+
 :: Description
 Quark becomes involved with a group of arms dealers, led by his cousin Gaila.
 
 Directed by: Siddig El Fadil. Story by: Bradley Thompson and David Weddle.
-
-:: Date
-1997-04-07
 
 :: Ratings
 1 <paul>
@@ -4806,13 +4806,13 @@ ds95x19
 :: Title
 Ties of Blood and Water
 
+:: Date
+1997-04-14
+
 :: Description
 Tekeny Ghemor arrives on Deep Space Nine and reveals that he is dying.
 
 Directed by: Avery Brooks. Story by: Edmund Newton & Robbin L. Slocum.
-
-:: Date
-1997-04-14
 
 :: Ratings
 2 <paul>
@@ -4844,14 +4844,14 @@ ds95x20
 :: Title
 Ferengi Love Songs
 
+:: Date
+1997-04-21
+
 :: Description
 At the end of his rope, Quark returns home and discovers Moogie has a secret
 lover.
 
 Directed by: René Auberjonois. Story by: Ira Steven Behr and Hans Beimler.
-
-:: Date
-1997-04-21
 
 :: Ratings
 1 <paul>
@@ -4887,14 +4887,14 @@ ds95x21
 :: Title
 Soldiers of the Empire
 
+:: Date
+1997-04-28
+
 :: Description
 Martok, Worf, and Dax go on a mission aboard a Klingon ship to search for the
 B'moth.
 
 Directed by: LeVar Burton. Story by: Ronald D. Moore.
-
-:: Date
-1997-04-28
 
 :: Ratings
 3 <paul>
@@ -4931,14 +4931,14 @@ ds95x22
 :: Title
 Children of Time
 
+:: Date
+1997-05-05
+
 :: Description
 An accident causes the crew to meet their own descendants - and presents them
 with an ethical dilemma.
 
 Directed by: Allan Kroeker. Story by: Gary Holland and Ethan H. Calk.
-
-:: Date
-1997-05-05
 
 :: Ratings
 2 <paul>
@@ -4972,15 +4972,15 @@ ds95x23
 :: Title
 Blaze of Glory
 
+:: Date
+1997-05-12
+
 :: Description
 An act of desperation by the Maquis could plunge the Federation into war. The
 Maquis have 30 cloaked missiles headed to Cardassia which will cause an
 outbreak of war in the alpha quadrant.
 
 Directed by: Kim Friedman. Story by: Robert Hewitt Wolfe and Ira Steven Behr.
-
-:: Date
-1997-05-12
 
 :: Ratings
 2 <paul>
@@ -5017,15 +5017,15 @@ ds95x24
 :: Title
 Empok Nor
 
+:: Date
+1997-05-19
+
 :: Description
 O'Brien, Garak, Nog and an engineering team go to Deep Space Nine's abandoned
 sister space station, Empok Nor, to salvage components. The away team soon
 discover that all is not as it seems.
 
 Directed by: Mike Vejar. Story by: Bryan Fuller.
-
-:: Date
-1997-05-19
 
 :: Ratings
 1 <paul>
@@ -5053,15 +5053,15 @@ ds95x25
 :: Title
 In the Cards
 
+:: Date
+1997-06-09
+
 :: Description
 Jake wants to give his father a present to cheer him up, a 1951 Willie Mays
 baseball card, but runs into complications with a mysterious geneticist, Dr.
 Giger, and a Dominion ambassador group.
 
 Directed by: Michael Dorn. Story by: Truly Barr Clark & Scott J. Neal.
-
-:: Date
-1997-06-09
 
 :: Ratings
 3 <paul>
@@ -5091,15 +5091,15 @@ ds95x26
 :: Title
 Call to Arms
 
+:: Date
+1997-06-16
+
 :: Description
 Faced with the realization that the Dominion are taking over the Alpha
 Quadrant, Sisko decides to mine the entrance to the wormhole with self-
 replicating cloaked mines, thus beginning the Dominion War.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr and Robert Hewitt Wolfe.
-
-:: Date
-1997-06-16
 
 :: Ratings
 1 <paul>
@@ -5134,6 +5134,9 @@ ds96x01
 :: Title
 A Time to Stand
 
+:: Date
+1997-09-29
+
 :: Description
 Three months into the war, DS9 is still under Dominion control. Sisko and his
 crew are given a mission to destroy a vital Ketracel White facility deep in
@@ -5142,9 +5145,6 @@ Federation News Service. Odo is head of Terok Nor's security supported by the
 Vorta Weyoun.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1997-09-29
 
 :: Ratings
 1 <mikael>
@@ -5177,14 +5177,14 @@ ds96x02
 :: Title
 Rocks and Shoals
 
+:: Date
+1997-10-06
+
 :: Description
 Sisko and his tired crew crash on a planet where they encounter a band of
 Jem'Hadar.
 
 Directed by: Mike Vejar. Story by: Ronald D. Moore.
-
-:: Date
-1997-10-06
 
 :: Ratings
 1 <paul>
@@ -5220,15 +5220,15 @@ ds96x03
 :: Title
 Sons and Daughters
 
+:: Date
+1997-10-13
+
 :: Description
 While on General Martok's ship Worf is reunited with his estranged son,
 Alexander.
 
 Directed by: Jesús Salvador Treviño. Story by: Bradley Thompson & David
 Weddle.
-
-:: Date
-1997-10-13
 
 :: Ratings
 3 <mikael>
@@ -5264,15 +5264,15 @@ ds96x04
 :: Title
 Behind the Lines
 
+:: Date
+1997-10-20
+
 :: Description
 Sisko creates a risky plan to disable a critical Dominion sensor array able to
 see 5 sectors out, while on Terok Nor, Kira, Jake, Rom and Odo seek to
 undermine the Cardassian/Dominion Alliance.
 
 Directed by: LeVar Burton. Story by: René Echevarria.
-
-:: Date
-1997-10-20
 
 :: Ratings
 1 <paul>
@@ -5309,15 +5309,15 @@ ds96x05
 :: Title
 Favor the Bold
 
+:: Date
+1997-10-27
+
 :: Description
 Learning of thousands of Dominion reinforcements gathering in the Gamma
 Quadrant, Sisko initiates a plan to retake Deep Space Nine and secure the
 wormhole before the minefield is detonated.
 
 Directed by: Winrich Kolbe. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1997-10-27
 
 :: Ratings
 1 <mikael>
@@ -5350,15 +5350,15 @@ ds96x06
 :: Title
 Sacrifice of Angels
 
+:: Date
+1997-11-03
+
 :: Description
 Sisko commands the Defiant and 600 Federation ships against a
 Dominion/Cardassian armada to retake Deep Space Nine. Damar has Kira, Jake,
 and Leeta arrested.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1997-11-03
 
 :: Ratings
 1 <mikael>
@@ -5386,14 +5386,14 @@ ds96x07
 :: Title
 You are Cordially Invited...
 
+:: Date
+1997-11-10
+
 :: Description
 Worf's plans for a traditional Klingon wedding hinge on Martok's demanding
 wife, Sirella, accepting Dax into their family.
 
 Directed by: David Livingston. Story by: Ronald D. Moore.
-
-:: Date
-1997-11-10
 
 :: Ratings
 2 <mikael> [-2 because the Klingons are just humans in some orientalist story]
@@ -5425,15 +5425,15 @@ ds96x08
 :: Title
 Resurrection
 
+:: Date
+1997-11-17
+
 :: Description
 The Mirror Universe counterpart of Kira's dead love, Vedek Bareil, takes her
 hostage on Deep Space Nine as he is running from the evil Alliance of his
 universe.
 
 Directed by: LeVar Burton. Story by: Michael Taylor.
-
-:: Date
-1997-11-17
 
 :: Ratings
 2 <paul>
@@ -5470,15 +5470,15 @@ ds96x09
 :: Title
 Statistical Probabilities
 
+:: Date
+1997-11-24
+
 :: Description
 Bashir attempts to reintegrate genetically-engineered misfits into society,
 but they are asked by Starfleet to become a think tank when they provide
 insightful analysis of upcoming Dominion peace talks.
 
 Directed by: Anson Williams. Story by: Pam Pietroforte.
-
-:: Date
-1997-11-24
 
 :: Ratings
 4 <paul>
@@ -5523,14 +5523,14 @@ ds96x10
 :: Title
 The Magnificent Ferengi
 
+:: Date
+1998-01-01
+
 :: Description
 Quark mounts a rescue mission when his mother, Ishka, is captured by the
 Dominion and Grand Nagus Zek offers a reward for her return.
 
 Directed by: Chip Chalmers. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-01-01
 
 :: Ratings
 2 <paul>
@@ -5559,14 +5559,14 @@ ds96x11
 :: Title
 Waltz
 
+:: Date
+1998-01-08
+
 :: Description
 Sisko meets with the former Cardassian leader Gul Dukat, now a prisoner, as he
 awaits a war crimes investigation.
 
 Directed by: René Auberjonois. Story by: Ronald D. Moore.
-
-:: Date
-1998-01-08
 
 :: Ratings
 2 <paul>
@@ -5601,14 +5601,14 @@ ds96x12
 :: Title
 Who Mourns for Morn?
 
+:: Date
+1998-02-04
+
 :: Description
 Morn is killed in an ion storm and Sisko informs Quark that Morn left his
 entire estate to him. But Quark has a little competition.
 
 Directed by: Victor Lobl. Story by: Mark Gehred-O'Connell.
-
-:: Date
-1998-02-04
 
 :: Ratings
 4 <paul>
@@ -5634,14 +5634,14 @@ ds96x13
 :: Title
 Far Beyond the Stars
 
+:: Date
+1998-02-11
+
 :: Description
 After Captain Swofford's ship, the Cortez, is destroyed, Sisko considers
 leaving Starfleet.
 
 Directed by: Avery Brooks. Story by: Marc Scott Zicree.
-
-:: Date
-1998-02-11
 
 :: Ratings
 4 <paul>
@@ -5676,14 +5676,14 @@ ds96x14
 :: Title
 One Little Ship
 
+:: Date
+1998-02-18
+
 :: Description
 Dax, O'Brien, and Bashir board a Runabout, which is shrunken to four inches
 long as they investigate a rare subspace compression phenomenon.
 
 Directed by: Allan Kroeker. Story by: David Weddle & Bradley Thompson.
-
-:: Date
-1998-02-18
 
 :: Ratings
 3 <paul>
@@ -5712,14 +5712,14 @@ ds96x15
 :: Title
 Honor Among Thieves
 
+:: Date
+1998-02-25
+
 :: Description
 Starfleet Intelligence recruits Chief O'Brien to infiltrate the Orion
 Syndicate to find a Starfleet informant.
 
 Directed by: Allan Eastman. Story by: Philip Kim.
-
-:: Date
-1998-02-25
 
 :: Ratings
 4 <paul>
@@ -5746,14 +5746,14 @@ ds96x16
 :: Title
 Change of Heart
 
+:: Date
+1998-03-04
+
 :: Description
 When Jadzia Dax is critically injured on an away mission, Worf must choose
 between saving his wife and completing their assignment.
 
 Directed by: David Livingston. Story by: Ronald D. Moore.
-
-:: Date
-1998-03-04
 
 :: Ratings
 2 <mikael>
@@ -5786,15 +5786,15 @@ ds96x17
 :: Title
 Wrongs Darker Than Death or Night
 
+:: Date
+1998-04-01
+
 :: Description
 When Dukat reveals to Kira her mother, Kira Meru, did not die when she was
 three, but was actually his lover, Kira goes into the past using the Bajoran
 Orb of Time to find the truth.
 
 Directed by: Jonathan West. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-04-01
 
 :: Ratings
 2 <mikael> [crude but at least it was about something]
@@ -5831,13 +5831,13 @@ ds96x18
 :: Title
 Inquisition
 
+:: Date
+1998-04-08
+
 :: Description
 Bashir is accused of unknowingly spying for the Dominion.
 
 Directed by: Michael Dorn. Story by: Bradley Thompson & David Weddle.
-
-:: Date
-1998-04-08
 
 :: Ratings
 1 <mikael>
@@ -5868,14 +5868,14 @@ ds96x19
 :: Title
 In the Pale Moonlight
 
+:: Date
+1998-04-15
+
 :: Description
 Sisko asks Garak to help him get the Romulans to join the war against the
 Dominion.
 
 Directed by: Victor Lobl. Story by: Peter Allan Fields.
-
-:: Date
-1998-04-15
 
 :: Ratings
 1 <paul>
@@ -5907,15 +5907,15 @@ ds96x20
 :: Title
 His Way
 
+:: Date
+1998-04-22
+
 :: Description
 Bashir shows off a new Holosuite program of a martini lounge with a 1960s
 Vegas singer named Vic Fontaine who is very perceptive; and gives advice to
 Odo when Kira visits her ex-lover Shakaar.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-04-22
 
 :: Ratings
 4 <paul>
@@ -5945,15 +5945,15 @@ ds96x21
 :: Title
 The Reckoning
 
+:: Date
+1998-04-29
+
 :: Description
 Sisko is called to Bajor when an ancient tablet addressing the Emissary is
 discovered at B'hala.
 
 Directed by: Jesús Salvador Treviño. Story by: Harry M. Werksman & Gabrielle
 Stanton.
-
-:: Date
-1998-04-29
 
 :: Ratings
 1 <paul>
@@ -5986,15 +5986,15 @@ ds96x22
 :: Title
 Valiant
 
+:: Date
+1998-05-06
+
 :: Description
 Jake and Nog come under attack by the Jem'Hadar and are rescued by a rogue
 Defiant class starship, the Valiant, under the command of Starfleet Red
 Squadron cadets.
 
 Directed by: Mike Vejar. Story by: Ronald D. Moore.
-
-:: Date
-1998-05-06
 
 :: Ratings
 3 <mikael>
@@ -6034,14 +6034,14 @@ ds96x23
 :: Title
 Profit and Lace
 
+:: Date
+1998-05-13
+
 :: Description
 Quark helps out when Zek's status as the Ferengi Grand Nagus is put in
 jeopardy by proposing equal rights for Ferengi females.
 
 Directed by: Siddig El Faddil. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-05-13
 
 :: Ratings
 0 <mikael>
@@ -6077,14 +6077,14 @@ ds96x24
 :: Title
 Time's Orphan
 
+:: Date
+1998-05-20
+
 :: Description
 Molly O'Brien disappears in a vortex and reappears as an 18-year-old woman,
 but she is now feral, bringing great difficulty for her parents.
 
 Directed by: Allan Kroeker. Story by: Joe Menosky.
-
-:: Date
-1998-05-20
 
 :: Ratings
 1 <mikael>
@@ -6118,15 +6118,15 @@ ds96x25
 :: Title
 The Sound of Her Voice
 
+:: Date
+1998-06-10
+
 :: Description
 The Defiant picks up a distress call from Captain Lisa Cusak, whose escape pod
 has crashed on a remote planet following the destruction of her ship, the
 Olympia.
 
 Directed by: Winrich Kolbe. Story by: Pam Pietroforte.
-
-:: Date
-1998-06-10
 
 :: Ratings
 2 <paul>
@@ -6154,15 +6154,15 @@ ds96x26
 :: Title
 Tears of the Prophets
 
+:: Date
+1998-06-17
+
 :: Description
 Starfleet Command begins an offensive against the Dominion, and Sisko is
 chosen to lead the invasion of Cardassia, but the Cardassian/Dominion Alliance
 has secretly reinforced their borders with unmanned orbital weapons platforms.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-06-17
 
 :: Ratings
 1 <paul>
@@ -6199,15 +6199,15 @@ ds97x01
 :: Title
 Image in the Sand
 
+:: Date
+1998-09-30
+
 :: Description
 With the Bajoran wormhole collapsed, Sisko struggles for a way to contact the
 Bajoran Prophets. Kira opens a Romulan military hospital, and a new Dax
 appears on the scene.
 
 Directed by: Les Landau. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-09-30
 
 :: Ratings
 1 <paul>
@@ -6247,14 +6247,14 @@ ds97x02
 :: Title
 Shadows and Symbols
 
+:: Date
+1998-10-07
+
 :: Description
 Sisko's quest leads him to the truth about his existence as Kira sets up a
 blockade of the Bajoran Moon, Derna, against the Romulans.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-10-07
 
 :: Ratings
 1 <paul>
@@ -6296,14 +6296,14 @@ ds97x03
 :: Title
 Afterimage
 
+:: Date
+1998-10-14
+
 :: Description
 Everyone who knew Jadzia Dax reacts strongly to Ezri Dax's presence,
 particularly Worf. Meanwhile Garak suffers from bad claustrophobic attacks.
 
 Directed by: Les Landau. Story by: René Echevarria.
-
-:: Date
-1998-10-14
 
 :: Ratings
 1 <paul>
@@ -6335,14 +6335,14 @@ ds97x04
 :: Title
 Take Me Out to the Holosuite
 
+:: Date
+1998-10-21
+
 :: Description
 Sisko must train his staff to play baseball when the Vulcans, led by Solok,
 challenge them to a game.
 
 Directed by: Chip Chalmers. Story by: Ronald D. Moore.
-
-:: Date
-1998-10-21
 
 :: Ratings
 4 <paul>
@@ -6373,14 +6373,14 @@ ds97x05
 :: Title
 Chrysalis
 
+:: Date
+1998-10-28
+
 :: Description
 Bashir falls for a genetically enhanced patient, Sarina Douglas, that he
 brought out of a catatonic state using an experimental medical procedure.
 
 Directed by: Jonathan West. Story by: René Echevarria.
-
-:: Date
-1998-10-28
 
 :: Ratings
 2 <paul>
@@ -6416,15 +6416,15 @@ ds97x06
 :: Title
 Treachery, Faith and the Great River
 
+:: Date
+1998-11-04
+
 :: Description
 A Vorta defector, Weyoun-6, gives Odo valuable information in exchange for
 asylum. Weyoun-7, the next clone in the series, pursues them. Meanwhile Nog
 engages in a series of barters to get a Graviton Stabilizer for Miles.
 
 Directed by: Steve Posey. Story by: Philip Kim.
-
-:: Date
-1998-11-04
 
 :: Ratings
 2 <paul>
@@ -6458,13 +6458,13 @@ ds97x07
 :: Title
 Once More unto the Breach
 
+:: Date
+1998-11-11
+
 :: Description
 Worf finds a battle assignment for Kor, an aging Klingon hero.
 
 Directed by: Allan Kroeker. Story by: Ronald D. Moore.
-
-:: Date
-1998-11-11
 
 :: Ratings
 2 <mikael>
@@ -6497,15 +6497,15 @@ ds97x08
 :: Title
 The Siege of AR-558
 
+:: Date
+1998-11-18
+
 :: Description
 Sisko and crew relieve Starfleet troops under siege by Jem'Hadar at a key
 communications outpost, AR-558, the largest Dominion communications array in
 the sector.
 
 Directed by: Winrich Kolbe. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1998-11-18
 
 :: Ratings
 2 <mikael> [notes that Bill Mumy as a main character in Babylon 5]
@@ -6536,14 +6536,14 @@ ds97x09
 :: Title
 Covenant
 
+:: Date
+1998-11-25
+
 :: Description
 Dukat, now a religious leader, holds Kira hostage. Mika, one of Dukat's
 followers, gives birth to a half-Cardassian child.
 
 Directed by: John Kretchmer. Story by: René Echevarria.
-
-:: Date
-1998-11-25
 
 :: Ratings
 2 <paul>
@@ -6575,13 +6575,13 @@ ds97x10
 :: Title
 It's Only a Paper Moon
 
+:: Date
+1998-12-30
+
 :: Description
 Nog struggles with PTSD and begins living with Vic Fontaine.
 
 Directed by: Anson Williams. Story by: David Mack & John J. Ordover.
-
-:: Date
-1998-12-30
 
 :: Ratings
 1 <mikael>
@@ -6611,15 +6611,15 @@ ds97x11
 :: Title
 Prodigal Daughter
 
+:: Date
+1999-01-06
+
 :: Description
 Ezri goes to New Sydney to find O'Brien and uncovers some disturbing family
 secrets. Miles goes in search of the widow of Liam Bilby, Morica Bilby, whom
 he befriended in an undercover operation.
 
 Directed by: Victor Lobl. Story by: David Weddle & Bradley Thompson.
-
-:: Date
-1999-01-06
 
 :: Ratings
 1 <mikael>
@@ -6653,13 +6653,13 @@ ds97x12
 :: Title
 The Emperor's New Cloak
 
+:: Date
+1999-02-03
+
 :: Description
 Quark and Rom cross into the mirror universe to rescue Grand Nagus Zek.
 
 Directed by: LeVar Burton. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1999-02-03
 
 :: Ratings
 0 <mikael>
@@ -6690,14 +6690,14 @@ ds97x13
 :: Title
 Field of Fire
 
+:: Date
+1999-02-10
+
 :: Description
 Ezri summons Joran, a homicidal Dax incarnation from her past, for help in
 understanding the mind of a serial killer loose on the station.
 
 Directed by: Tony Dow. Story by: Robert Hewitt Wolfe.
-
-:: Date
-1999-02-10
 
 :: Ratings
 2 <mikael>
@@ -6723,15 +6723,15 @@ ds97x14
 :: Title
 Chimera
 
+:: Date
+1999-02-17
+
 :: Description
 A Changeling, Laas, asks Odo to leave the station and join his search for
 other shapeshifters. Laas was with the Varalans and has learned to assume a
 space-faring creatures form.
 
 Directed by: Steve Posey. Story by: René Echevarria.
-
-:: Date
-1999-02-17
 
 :: Ratings
 3 <mikael>
@@ -6764,14 +6764,14 @@ ds97x15
 :: Title
 Badda-Bing Badda-Bang
 
+:: Date
+1999-02-24
+
 :: Description
 The crew attempt to help Vic Fontaine when Vic's hotel is bought by mobsters
 Frankie Eyes and Carl Zeemo.
 
 Directed by: Mike Vejar. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1999-02-24
 
 :: Ratings
 1 <mikael>
@@ -6803,14 +6803,14 @@ ds97x16
 :: Title
 Inter Arma Enim Silent Leges
 
+:: Date
+1999-03-03
+
 :: Description
 While attending a diplomatic conference on Romulus, Bashir becomes an
 unwilling pawn of Section 31.
 
 Directed by: David Livingston. Story by: Ronald D. Moore.
-
-:: Date
-1999-03-03
 
 :: Ratings
 1 <mikael>
@@ -6837,13 +6837,13 @@ ds97x17
 :: Title
 Penumbra
 
+:: Date
+1999-04-07
+
 :: Description
 Ezri searches for a missing Worf and Sisko makes plans to marry Kasidy Yates.
 
 Directed by: Steve Posey. Story by: René Echevarria.
-
-:: Date
-1999-04-07
 
 :: Ratings
 1 <mikael>
@@ -6875,14 +6875,14 @@ ds97x18
 :: Title
 'Til Death Do Us Part
 
+:: Date
+1999-04-14
+
 :: Description
 Captured by the Breen, Ezri and Worf undergo mental torture. Sisko agonizes
 over his broken engagement.
 
 Directed by: Winrich Kolbe. Story by: Bradley Thompson & David Weddle.
-
-:: Date
-1999-04-14
 
 :: Ratings
 1 <mikael>
@@ -6915,15 +6915,15 @@ ds97x19
 :: Title
 Strange Bedfellows
 
+:: Date
+1999-04-21
+
 :: Description
 An alliance is born between the Dominion and the Breen which will prove
 devastating for the Federation. Ezri and Worf are sentenced to death on
 Cardassia.
 
 Directed by: René Auberjonois. Story by: Ronald D. Moore.
-
-:: Date
-1999-04-21
 
 :: Ratings
 1 <mikael>
@@ -6955,6 +6955,9 @@ ds97x20
 :: Title
 The Changing Face of Evil
 
+:: Date
+1999-04-28
+
 :: Description
 The war reaches a crucial turning point when the Dominion retakes the
 Chin'Toka system, the only Allied foothold in enemy space. Meanwhile, Winn
@@ -6962,9 +6965,6 @@ learns that Dukat plans to release the Pah-Wraiths, and Damar leads a revolt
 against the Dominion.
 
 Directed by: Mike Vejar. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1999-04-28
 
 :: Ratings
 1 <mikael>
@@ -6991,15 +6991,15 @@ ds97x21
 :: Title
 When It Rains...
 
+:: Date
+1999-05-05
+
 :: Description
 Sisko orders Kira to train Cardassians in resistance tactics as Damar's
 rebellion gains ground; meanwhile, Bashir makes a shocking discovery about the
 disease that is ravaging the Founders.
 
 Directed by: Michael Dorn. Story by: René Echevarria & Spike Steingasser.
-
-:: Date
-1999-05-05
 
 :: Ratings
 1 <mikael>
@@ -7027,14 +7027,14 @@ ds97x22
 :: Title
 Tacking Into the Wind
 
+:: Date
+1999-05-12
+
 :: Description
 Kira masterminds a plot to steal the Breen energy dampening weapon and Worf
 instigates a power shift in the Klingon Empire.
 
 Directed by: Mike Vejar. Story by: Ronald D. Moore.
-
-:: Date
-1999-05-12
 
 :: Ratings
 1 <mikael>
@@ -7068,13 +7068,13 @@ ds97x23
 :: Title
 Extreme Measures
 
+:: Date
+1999-05-19
+
 :: Description
 Bashir and O'Brien must get inside the mind of the man who holds Odo's cure.
 
 Directed by: Steve Posey. Story by: David Weddle & Bradley Thompson.
-
-:: Date
-1999-05-19
 
 :: Ratings
 2 <mikael>
@@ -7109,14 +7109,14 @@ ds97x24
 :: Title
 The Dogs of War
 
+:: Date
+1999-05-26
+
 :: Description
 Sisko takes command of a new ship; Kira and Garak face a Dominion ambush on
 Cardassia.
 
 Directed by: Avery Brooks. Story by: Peter Allan Fields.
-
-:: Date
-1999-05-26
 
 :: Ratings
 1 <mikael>
@@ -7149,6 +7149,9 @@ ds97x25/26
 :: Title
 What You Leave Behind
 
+:: Date
+1999-06-02
+
 :: Description
 Sisko leads the Federation/Klingon/Romulan alliance in the offensive on the
 Cardassian homeworld. Dukat and Winn journey to the fire caves to release the
@@ -7156,9 +7159,6 @@ Pah'Wraiths, and Damar leads his people in a revolution in an attempt to
 overthrow their Dominion oppressors.
 
 Directed by: Allan Kroeker. Story by: Ira Steven Behr & Hans Beimler.
-
-:: Date
-1999-06-02
 
 :: Ratings
 1 <mikael>

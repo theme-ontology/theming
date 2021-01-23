@@ -7,9 +7,6 @@ Aesop's Fables
 :: Date
 564 BC
 
-:: Collections
-Collection: Aesops Fables
-
 :: Description
 Aesop's Fables, or the Aesopica, is a collection of fables credited to Aesop, a slave and storyteller believed to have lived in ancient Greece between 620 and 564 BCE. Of diverse origins, the stories associated with his name have descended to modern times through a number of sources and continue to be reinterpreted in different verbal registers and in popular as well as artistic media.
 
@@ -18,15 +15,15 @@ The fables originally belonged to the oral tradition and were not collected for 
 :: References
 https://en.wikipedia.org/wiki/Aesop%27s_Fables
 
+:: Collections
+Collection: Aesops Fables
+
 
 aesop001pi
 ==========
 
 :: Title
 The Eagle and the Fox
-
-:: Variation
-Samuel Croxall
 
 :: Date
 564 BC
@@ -38,6 +35,9 @@ situation concerns an eagle that seizes a fox’s cubs and bears them off to
 feed its young. There are then alternative endings to the story, in one of
 which the fox exacts restitution while in the other it gains retribution for
 its injury.
+
+:: Variation
+Samuel Croxall
 
 :: Major Themes
 friendship [The fox and the eagle had long been friends.],
@@ -55,9 +55,6 @@ aesop003pi
 :: Title
 The Eagle and the Beetle
 
-:: Variation
-Laura Gibbs
-
 :: Date
 564 BC
 
@@ -68,6 +65,9 @@ Index and the episode became proverbial. Although different in detail, it can
 be compared to the fable of The Eagle and the Fox. In both cases the eagle
 believes itself safe from retribution for an act of violence and is punished
 by the destruction of its young.
+
+:: Variation
+Laura Gibbs
 
 :: Major Themes
 hospitality [The eagle broke the custom of hospitality and was therefore hounded by the beetle and chastised by Zeus.],

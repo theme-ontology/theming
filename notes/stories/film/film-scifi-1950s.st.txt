@@ -7,15 +7,15 @@ Science fiction films of the 1950s
 :: Date
 1950-1959
 
-:: Collections
-Collection: Science fiction films of the 1950s
-
 :: Description
 Science fiction films that premiered between 1 January 1950 and 31 December
 1959.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1950s
+
+:: Collections
+Collection: Science fiction films of the 1950s
 
 
 movie: The Flying Saucer (1950)
@@ -24,21 +24,21 @@ movie: The Flying Saucer (1950)
 :: Title
 The Flying Saucer
 
+:: Date
+1950-01-05
+
 :: Description
 A spate of flying saucer sightings around the world spark American
 intelligence officials and Soviet spies to investigate.
 
-:: Date
-1950-01-05
-
 :: References
 https://en.wikipedia.org/wiki/The_Flying_Saucer
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [American intelligence officials and Soviet spies investigate reports of flying saucers over Alaska.],
@@ -56,23 +56,23 @@ movie: Rocketship X-M (1950)
 :: Title
 Rocketship X-M
 
+:: Date
+1950-05-26
+
 :: Description
 A Moon expedition that, through a series of unforeseen events, winds up
 traveling instead to distant Mars. Once on the Red Planet, its crew discovers
 the remnants of a Martian civilization destroyed long ago by atomic war and
 now reverted to barbarism.
 
-:: Date
-1950-05-26
-
 :: References
 https://en.wikipedia.org/wiki/Rocketship_X-M
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 interplanetary space travel [The first manned expedition to the Moon is launched, but it ends up landing on Mars.],
@@ -92,22 +92,22 @@ movie: Destination Moon (1950)
 :: Title
 Destination Moon
 
+:: Date
+1950-06-27
+
 :: Description
 The first major U.S. science fiction film to deal with the dangers inherent in
 human space travel and the possible difficulties of America's first lunar
 mission landing on and safely returning from our only natural satellite.
 
-:: Date
-1950-06-27
-
 :: References
 https://en.wikipedia.org/wiki/Destination_Moon_(film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 interplanetary space travel [The United States Department of Defense and American private industry team up to send an atomic powered rocket to the Moon.],
@@ -132,22 +132,22 @@ movie: Prehistoric Women (1950)
 :: Title
 Prehistoric Women
 
+:: Date
+1950-11-01
+
 :: Description
 Tigri and her stone age friends, all of which are women, hate all men.
 However, she and her Amazon tribe see men as a necessary evil and capture them
 for potential husbands.
 
-:: Date
-1950-11-01
-
 :: References
 https://en.wikipedia.org/wiki/Prehistoric_Women
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 female independence [Oppressed female members of a stone age tribe flee and live independent from men, kidnapping males only for breeding purposes.],
@@ -170,21 +170,21 @@ movie: Two Lost Worlds (1951)
 :: Title
 Two Lost Worlds
 
+:: Date
+1951-01-05
+
 :: Description
 In the year 1830, an American clipper ship pursues pirates and wind up on a
 volcanic island inhabited by dinosaurs.
 
-:: Date
-1951-01-05
-
 :: References
 https://en.wikipedia.org/wiki/Two_Lost_Worlds
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 isolated prehistoric land [An American clipper ship pursued pirates and wound up on a volcanic island inhabited by dinosaurs.],
@@ -214,21 +214,21 @@ movie: The Man from Planet X (1951)
 :: Title
 The Man from Planet X
 
+:: Date
+1951-03-09
+
 :: Description
 A scientist is monitoring a mysterious "Planet X" that has entered our solar
 system and is now near the Earth.
 
-:: Date
-1951-03-09
-
 :: References
 https://en.wikipedia.org/wiki/The_Man_from_Planet_X
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 rogue planet [Planet X was a rogue planet that came into the solar system and passed nearby the Earth.],
@@ -251,21 +251,21 @@ movie: Abbott and Costello Meet the Invisible Man (1951)
 :: Title
 Abbott and Costello Meet the Invisible Man
 
+:: Date
+1951-03-19
+
 :: Description
 The film depicts the misadventures of Lou Francis and Bud Alexander, two
 private detectives investigating the murder of a boxing promoter.
 
-:: Date
-1951-03-19
-
 :: References
 https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_the_Invisible_Man
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Choice Themes
 invisibility ability [Middleweight boxer Tommy Nelson takes an invisibility serum to avoid getting caught by the police - he had escaped from prison - for long enough to find out who murdered his manager.],
@@ -291,22 +291,22 @@ movie: Five (1951)
 :: Title
 Five
 
+:: Date
+1951-03-19
+
 :: Description
 Five people, one woman and four men, survive an atomic bomb disaster that
 appears to have wiped out the rest of the human race while leaving all
 infrastructure intact.
 
-:: Date
-1951-03-19
-
 :: References
 https://en.wikipedia.org/wiki/Five_(1951_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 nuclear weapons [World civilization is destroyed in a nuclear conflagration.],
@@ -328,6 +328,9 @@ movie: The Thing from Another World (1951)
 :: Title
 The Thing from Another World
 
+:: Date
+1951-04-27
+
 :: Description
 A U.S. Air Force crew and scientists who find a crashed flying saucer and a
 humanoid body frozen nearby in the Arctic ice. Returning to their remote
@@ -335,17 +338,14 @@ research outpost with the body in a block of ice, they are forced to defend
 themselves against this malevolent, plant-based alien when it is accidentally
 revived.
 
-:: Date
-1951-04-27
-
 :: References
 https://en.wikipedia.org/wiki/The_Thing_from_Another_World
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [A U.S. Air Force crew and scientists who find a crashed flying saucer and a humanoid body frozen nearby in the Arctic ice.],
@@ -366,20 +366,20 @@ movie: Lost Planet Airmen (1951)
 :: Title
 Lost Planet Airmen
 
-:: Description
-A man with an atomic powered rocket suit tries to thwart the nefarious plot of the enigmatic Dr. Vulcan.
-
 :: Date
 1951-07-25
+
+:: Description
+A man with an atomic powered rocket suit tries to thwart the nefarious plot of the enigmatic Dr. Vulcan.
 
 :: References
 https://en.wikipedia.org/wiki/Lost_Planet_Airmen
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi, superhero,
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 facing a genius adversary [It was up to Professor Millard and company to stop the evil Dr. Vulcan from destroying New York City with a sonic ray device.],
@@ -396,22 +396,22 @@ movie: The Man in the White Suit (1951)
 :: Title
 The Man in the White Suit
 
+:: Date
+1951-08-07
+
 :: Description
 Sidney Stratton, a brilliant young research chemist and former Cambridge
 scholarship recipient, falls foul of both trade unions and the wealthy mill
 owners who attempt to suppress his invention.
 
-:: Date
-1951-08-07
-
 :: References
 https://en.wikipedia.org/wiki/The_Man_in_the_White_Suit
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 obsession [Sidney Stratton becomes obsessed with inventing an everlasting fiber for the textile industry.],
@@ -433,6 +433,9 @@ movie: Lost Continent (1951)
 :: Title
 Lost Continent
 
+:: Date
+1951-08-17
+
 :: Description
 An expedition is sent to the South Pacific to search for a missing atomic-
 powered rocket in order to retrieve the vital scientific data recorded aboard.
@@ -440,17 +443,14 @@ On an uncharted island they discover more than their rocket, now crashed atop
 a mysterious plateau, they find a lost jungle world populated by prehistoric
 dinosaurs.
 
-:: Date
-1951-08-17
-
 :: References
 https://en.wikipedia.org/wiki/Lost_Continent_(1951_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 isolated prehistoric land [An expedition sent to the South Pacific discovers a lost jungle world populated by prehistoric dinosaurs.],
@@ -476,22 +476,22 @@ movie: The Day the Earth Stood Still (1951)
 :: Title
 The Day the Earth Stood Still
 
+:: Date
+1951-09-18
+
 :: Description
 A humanoid alien visitor named Klaatu comes to Earth, accompanied by a
 powerful eight-foot tall robot, Gort, to deliver an important message that
 will affect the entire human race.
 
-:: Date
-1951-09-18
-
 :: References
 https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 nuclear proliferation [Klaatu was sent to Earth by an interstellar federation with an ultimatum that Earth would be destroyed, if their governments proliferated nuclear weapons into outer space.],
@@ -516,21 +516,21 @@ movie: Unknown World (1951)
 :: Title
 Unknown World
 
+:: Date
+1951-10-26
+
 :: Description
 An expedition of scientists seek a livable space deep beneath the Earth's
 surface in the event a nuclear war makes surface life impossible.
 
-:: Date
-1951-10-26
-
 :: References
 https://en.wikipedia.org/wiki/Unknown_World
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 nuclear weapons [Concern about imminent nuclear war caused a team of scientists to bore into the Earth in search of an underground environment where humanity could escape and survive a future nuclear holocaust.],
@@ -550,22 +550,22 @@ movie: Flight to Mars (1951)
 :: Title
 Flight to Mars
 
+:: Date
+1951-11-11
+
 :: Description
 An American scientific expedition team arrives on Mars and discover that it is
 inhabited by an underground-dwelling but dying civilization that appear to be
 human.
 
-:: Date
-1951-11-11
-
 :: References
 https://en.wikipedia.org/wiki/Flight_to_Mars_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 interplanetary space travel [Crew goes on an spaceflight to Mars.],
@@ -594,22 +594,22 @@ movie: When Worlds Collide (1951)
 :: Title
 When Worlds Collide
 
+:: Date
+1951-11-22
+
 :: Description
 The coming destruction of the Earth by a rogue star called Bellus triggers a
 desperate effort to build a space ark to transport a group of men and women to
 Bellus' single planet, Zyra.
 
-:: Date
-1951-11-22
-
 :: References
 https://en.wikipedia.org/wiki/When_Worlds_Collide_(1951_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 the religious end of the world [A rogue star called Bellus triggers a desperate effort to build a space ark to transport a group of men and women to Bellus' single planet, Zyra.],
@@ -632,6 +632,9 @@ movie: Superman and the Mole-Men (1951)
 :: Title
 Superman and the Mole-Men
 
+:: Date
+1951-11-23
+
 :: Description
 Reporters Clark Kent and Lois Lane arrive in the small town of Silsby to
 witness the drilling of the world's deepest oil well. The drill, however, has
@@ -640,17 +643,14 @@ curiosity, climb to the surface at night. They glow in the dark, which scares
 the local townfolk, who form a mob intent on killing the strange visitors.
 Only Superman can intervene to prevent a tragedy.
 
-:: Date
-1951-11-23
-
 :: References
 https://en.wikipedia.org/wiki/Superman_and_the_Mole_Men
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi, superhero,
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 super strength [Superman was faster than a speeding bullet, more powerful than a locomotive, and able to leap tall buildings in a single bound.],
@@ -671,21 +671,21 @@ movie: I'll Never Forget You (1951)
 :: Title
 I'll Never Forget You
 
+:: Date
+1951-12-07
+
 :: Description
 An American atomic scientist who is transported to the 18th century, where he
 falls in love.
 
-:: Date
-1951-12-07
-
 :: References
 https://en.wikipedia.org/wiki/I%27ll_Never_Forget_You_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 time traveler living secretly among us [Peter Standish travels back in time to the 18th century lives secretly among the people there.],
@@ -709,21 +709,21 @@ movie: Red Planet Mars (1952)
 :: Title
 Red Planet Mars
 
+:: Date
+1952-05-15
+
 :: Description
 An American astronomer establishes communication with Martians with Earth
 shattering political, economic, and spiritual ramifications.
 
-:: Date
-1952-05-15
-
 :: References
 https://en.wikipedia.org/wiki/Red_Planet_Mars
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the desire for vengeance [Nazi scientist Franz Calder was motivated by a desire for revenge when he faked messages from Mars that caused economic upheaval in the West and a revolution against the Soviet government in Russia.],
@@ -750,23 +750,23 @@ movie: The Jungle (1952)
 :: Title
 The Jungle
 
+:: Date
+1952-08-01
+
 :: Description
 A great white hunter and an Indian princess trek into the Indian jungle to
 investigate a number of wild animal stampedes which have resulted in the
 deaths of many people. On their journey, they discover a herd of prehistoric
 woolly mammoths are responsible for the terror.
 
-:: Date
-1952-08-01
-
 :: References
 https://en.wikipedia.org/wiki/Kaadu_(1952_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [The great hunter Steve Bentley and Princess Mari discover a herd of prehistoric woolly mammoths in the Indian jungle.],
@@ -785,6 +785,9 @@ movie: Untamed Women (1952)
 :: Title
 Untamed Women
 
+:: Date
+1952-09-12
+
 :: Description
 An American bomber pilot is rescued after drifting at sea during World War II.
 He tells doctors how he and three of his fellow crash survivors washed up on
@@ -792,17 +795,14 @@ an island inhabited by dinosaurs and a tribe of Druid-descended cave-women who
 are being plagued by Neanderthal men intent on kidnapping them for breeding
 purposes.
 
-:: Date
-1952-09-12
-
 :: References
 https://en.wikipedia.org/wiki/Untamed_Women
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 female-only society [Bomber pilots stranded on remote Pacific island with prehistoric women.],
@@ -827,21 +827,21 @@ movie: 3000 A.D. (1952)
 :: Title
 3000 A.D.
 
+:: Date
+1952-10-10
+
 :: Description
 Two tribes, the "Norms" and the "Mutates", fighting in the remains of a post-
 apocalyptic New York City. Original title: Captive Women.
 
-:: Date
-1952-10-10
-
 :: References
 https://en.wikipedia.org/wiki/Captive_Women
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 nuclear weapons [Tribes fight one another for survival in a post nuclear holocaust world.],
@@ -861,21 +861,21 @@ movie: The Magnetic Monster (1953)
 :: Title
 The Magnetic Monster
 
+:: Date
+1953-02-18
+
 :: Description
 A pair of government officials, called A-Men agents, investigate reports of
 unusual magnetic activity in various communities.
 
-:: Date
-1953-02-18
-
 :: References
 https://en.wikipedia.org/wiki/The_Magnetic_Monster
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 electromagnetic being [Dr. Howard Denker created a kind of magnetic creature by bombarding the element serranium with alpha radiation for 200 hours.],
@@ -895,21 +895,21 @@ movie: Abbott and Costello Go to Mars (1953)
 :: Title
 Abbott and Costello Go to Mars
 
+:: Date
+1953-04-06
+
 :: Description
 Two men, Lester and Orville, accidentally find themselves aboard a rocketship
 bound for Mars, or so they think.
 
-:: Date
-1953-04-06
-
 :: References
 https://en.wikipedia.org/wiki/Abbott_and_Costello_Go_to_Mars
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 speculative spaceship [Lester and Orville find themselves on what they think is a rocketship bound for Mars.],
@@ -934,21 +934,21 @@ movie: Invaders from Mars (1953)
 :: Title
 Invaders from Mars
 
+:: Date
+1953-04-09
+
 :: Description
 A boy learns that Martians are taking over the minds of people on Earth as a
 prelude to invasion.
 
-:: Date
-1953-04-09
-
 :: References
 https://en.wikipedia.org/wiki/Invaders_from_Mars_(1953_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 Martian extraterrestrial [A flying saucer from Mars landed on Earth and started abducting people and mind controlling them as a preparation from invasion.],
@@ -975,6 +975,9 @@ movie: Phantom from Space (1953)
 :: Title
 Phantom from Space
 
+:: Date
+1953-05-15
+
 :: Description
 Government investigators arrive in the San Fernando Valley after what appears
 to be a flying saucer crash, causing massive interference with tele-radio
@@ -982,17 +985,14 @@ transmissions. During their investigation, they receive eyewitness reports of
 what appears to be a man dressed in a bizarre outfit, which appears to be
 radioactive and thus a public threat.
 
-:: Date
-1953-05-15
-
 :: References
 https://en.wikipedia.org/wiki/Phantom_from_Space
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [A crashed flying saucer, which some dismissed as a meteor or missile, in the San Fernando Valley resulted in a manhunt, uncovering a humanoid from outer space who is invisible without his spacesuit.],
@@ -1010,21 +1010,21 @@ movie: Four Sided Triangle (1953)
 :: Title
 Four Sided Triangle
 
+:: Date
+1953-05-27
+
 :: Description
 Dr. Harvey, a rural physician, breaks the fourth wall to relate an unusual
 occurrence that happened in his village.
 
-:: Date
-1953-05-27
-
 :: References
 https://en.wikipedia.org/wiki/Four_Sided_Triangle
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 matter duplicator [Bill Leggat and Robin Grant invented a machine, called the Reproducer, that can exactly duplicate physical objects],
@@ -1047,6 +1047,9 @@ movie: It Came from Outer Space (1953)
 :: Title
 It Came from Outer Space
 
+:: Date
+1953-05-27
+
 :: Description
 An astronomer and his fiancée who are stargazing in the desert when a large
 fiery object crashes to Earth. At the crash site, he discovers a round alien
@@ -1055,17 +1058,14 @@ he tells this story to the local sheriff and newspaper, he is branded a
 crackpot. Before long, strange things begin to happen, and the tide of
 disbelief turns hostile.
 
-:: Date
-1953-05-27
-
 :: References
 https://en.wikipedia.org/wiki/It_Came_from_Outer_Space
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [Astronomer John Putnam is stargazing in the desert when an alien spaceship crashes to Earth, but people dismiss his story a flying saucer tall tale.],
@@ -1087,20 +1087,20 @@ movie: The Twonky (1953)
 :: Title
 The Twonky
 
-:: Description
-A philosophy professor is given a television set with a mind of its own.
-
 :: Date
 1953-06-10
+
+:: Description
+A philosophy professor is given a television set with a mind of its own.
 
 :: References
 https://en.wikipedia.org/wiki/The_Twonky
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 robot helper [Kerry West's television, which was called the Twonky, was a robot committed to serving his every need. Eventually it comes to regulate every aspect of his daily life.],
@@ -1121,23 +1121,23 @@ movie: The Beast from 20000 Fathoms (1953)
 :: Title
 The Beast from 20000 Fathoms
 
+:: Date
+1953-06-13
+
 :: Description
 A fictional dinosaur, the Rhedosaurus, is released from its frozen,
 hibernating state by an atomic bomb test in the Arctic Circle. The beast
 begins to wreak a path of destruction as it travels southward, eventually
 arriving at its ancient spawning grounds, which includes New York City.
 
-:: Date
-1953-06-13
-
 :: References
 https://en.wikipedia.org/wiki/The_Beast_from_20,000_Fathoms
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 living dinosaur [A dinosaur is released from its frozen, hibernating state by an atomic bomb test in the Arctic Circle.],
@@ -1162,21 +1162,21 @@ movie: Mesa of Lost Women (1953)
 :: Title
 Mesa of Lost Women
 
+:: Date
+1953-06-17
+
 :: Description
 A mad scientist tries to create a race of superwomen by injecting ordinary
 women with spider venom.
 
-:: Date
-1953-06-17
-
 :: References
 https://en.wikipedia.org/wiki/Mesa_of_Lost_Women
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 species transmutation [Dr. Aranya was injecting women with spider venom to transform them into superwomen with characteristics like an extended lifespan and limb regeneration.],
@@ -1198,21 +1198,21 @@ movie: The Neanderthal Man (1953)
 :: Title
 The Neanderthal Man
 
+:: Date
+1953-06-19
+
 :: Description
 Professor Clifford Groves discovers a means to devolve himself into a
 Neanderthal.
 
-:: Date
-1953-06-19
-
 :: References
 https://en.wikipedia.org/wiki/The_Neanderthal_Man
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 species transmutation [Professor Clifford Groves discovers a means to devolve a house cat into a saber tooth tiger and himelf into a Neanderthal.],
@@ -1237,21 +1237,21 @@ movie: Robot Monster (1953)
 :: Title
 Robot Monster
 
+:: Date
+1953-06-24
+
 :: Description
 Robot Monster tells the story of Moon robot Ro-Man's mission to Earth to
 destroy humanity.
 
-:: Date
-1953-06-24
-
 :: References
 https://en.wikipedia.org/wiki/Robot_Monster
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 Moon people [Ro-man was a robot monster that came from the Moon to destroy humanity.],
@@ -1278,21 +1278,21 @@ movie: Abbott and Costello Meet Dr. Jekyll and Mr. Hyde (1953)
 :: Title
 Abbott and Costello Meet Dr. Jekyll and Mr. Hyde
 
+:: Date
+1953-08-12
+
 :: Description
 Two American detectives visiting Edwardian London become involved with the
 hunt for Dr. Jekyll, who is responsible for a series of murders.
 
-:: Date
-1953-08-12
-
 :: References
 https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_Dr._Jekyll_and_Mr._Hyde
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the human capacity for good and evil [Dr. Jekyll supposed that people have both a good and evil side, and that if we could rid ourselves of our evil sides, then we could make a better world.],
@@ -1318,21 +1318,21 @@ movie: The War of the Worlds (1953)
 :: Title
 The War of the Worlds
 
+:: Date
+1953-08-13
+
 :: Description
 Earth is suddenly and unexpectedly invaded by Martians and American scientist
 Clayton Forrester searches for any weakness that can stop them.
 
-:: Date
-1953-08-13
-
 :: References
 https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1953_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 Martian extraterrestrial [Martians send an invasion force to Earth to conquer it because their world was dying.],
@@ -1351,22 +1351,22 @@ movie: Cat-Women of the Moon (1953)
 :: Title
 Cat-Women of the Moon
 
+:: Date
+1953-09-03
+
 :: Description
 Using a spaceship furnished with wooden tables and rolling chairs, a
 "scientific expedition" to the Moon encounters a race of Cat-Women, the last
 eight survivors of a two-million-year-old civilization.
 
-:: Date
-1953-09-03
-
 :: References
 https://en.wikipedia.org/wiki/Cat-Women_of_the_Moon
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 Moon people [A scientific expedition to the Moon encounters a race of Cat-Women.],
@@ -1395,21 +1395,21 @@ movie: Project Moonbase (1953)
 :: Title
 Project Moonbase
 
+:: Date
+1953-09-04
+
 :: Description
 Set in a future 1970, the United States is considering building bases on the
 Moon.
 
-:: Date
-1953-09-04
-
 :: References
 https://en.wikipedia.org/wiki/Project_Moonbase
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 space station [The United States had built a space station orbiting the Earth that was vital to national security.],
@@ -1430,22 +1430,22 @@ movie: Donovan's Brain (1953)
 :: Title
 Donovan's Brain
 
+:: Date
+1953-09-30
+
 :: Description
 An attempt is made to keep alive the brain of millionaire megalomaniac W.H.
 Donovan after an otherwise fatal plane crash. But the brain has other ideas
 and begins to possess people.
 
-:: Date
-1953-09-30
-
 :: References
 https://en.wikipedia.org/wiki/Donovan%27s_Brain_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 brain disembodiment technology [Patrick Cory devised a way to keep Donovan's disembodied brain alive in a tank outside of their bodies.],
@@ -1477,20 +1477,20 @@ movie: Riders to the Stars (1954)
 :: Title
 Riders to the Stars
 
-:: Description
-Three astronauts set out to investigate the composition of meteors.
-
 :: Date
 1954-01-14
+
+:: Description
+Three astronauts set out to investigate the composition of meteors.
 
 :: References
 https://en.wikipedia.org/wiki/Riders_to_the_Stars
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 interplanetary space travel [A mission to fly to space in a rocket and collect a meteor is undertaken.],
@@ -1508,24 +1508,21 @@ movie: Creature from the Black Lagoon (1954)
 :: Title
 Creature from the Black Lagoon
 
+:: Date
+1954-02-12
+
 :: Description
 A geology expedition in the Amazon uncovers fossilized evidence from the
 Devonian period that provides a direct link between land and sea animals.
 
-:: Date
-1954-02-12
-
 :: References
 https://en.wikipedia.org/wiki/Creature_from_the_Black_Lagoon
-
-:: Ratings
-4 <paul>,
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/Creature_from_the_Black_Lagoon
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 cryptid [Dr. David Reed and his team discovered a living fossil (the Creature) that was a direct link between sea living and land living animals.],
@@ -1545,21 +1542,21 @@ movie: Killers from Space (1954)
 :: Title
 Killers from Space
 
+:: Date
+1954-01-23
+
 :: Description
 A nuclear scientist claims he was abducted by aliens after being injured in a
 plane crash.
 
-:: Date
-1954-01-23
-
 :: References
 https://en.wikipedia.org/wiki/Killers_from_Space
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [Dr. Douglas Martin claimed he had been abducted by aliens after being injured in a plane crash. The abducting aliens describe how Humans had cited them in their saucer shaped ships on numerous occasions.],
@@ -1588,25 +1585,22 @@ movie: Devil Girl from Mars (1954)
 :: Title
 Devil Girl from Mars
 
+:: Date
+1954-05-02
+
 :: Description
 A female alien commander is sent from Mars to acquire human males to replace
 their dying male population, thereby saving Martian civilization from
 extinction.
 
-:: Date
-1954-05-02
-
 :: References
 https://en.wikipedia.org/wiki/Devil_Girl_from_Mars
-
-:: Ratings
-2 <paul>,
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/Devil_Girl_from_Mars
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 Martian extraterrestrial [The female alien commander, Nyah, was was sent from Mars to acquire human males to replace their dying male population.],
@@ -1630,6 +1624,9 @@ movie: Monster from the Ocean Floor (1954)
 :: Title
 Monster from the Ocean Floor
 
+:: Date
+1954-05-21
+
 :: Description
 Julie Blair is an American vacationing at a seaside village in Mexico. She
 hears stories about a man-eating creature dwelling in the cove. She meets Dr.
@@ -1637,17 +1634,14 @@ Baldwin, a marine biologist, and they fall for one another. The mysterious
 death of a diver inspires Julie to investigate, but Baldwin is very skeptical.
 She sees a giant amoeba rising from the ocean.
 
-:: Date
-1954-05-21
-
 :: References
 https://en.wikipedia.org/wiki/Monster_from_the_Ocean_Floor
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [Nuclear tests in the Bikini Island tests were thought to have stirred up an ancient amoeba-like creature on the sea floor.],
@@ -1671,21 +1665,21 @@ movie: Gog (1954)
 :: Title
 Gog
 
+:: Date
+1954-06-05
+
 :: Description
 An electronic brain is programmed to sabotage the government's secret lab
 while working on the first space station.
 
-:: Date
-1954-06-05
-
 :: References
 https://en.wikipedia.org/wiki/Gog_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 space station [A secret government lab was working on building the world's first space station.],
@@ -1706,22 +1700,22 @@ movie: Them! (1954)
 :: Title
 Them!
 
+:: Date
+1954-06-16
+
 :: Description
 A nest of gigantic irradiated ants is discovered in the New Mexico desert;
 they quickly become a national threat when it is discovered that two young
 queen ants and their consorts have escaped to establish new nests.
 
-:: Date
-1954-06-16
-
 :: References
 https://en.wikipedia.org/wiki/Them!_(1954_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 the dangers of unfettered scientific advancement [Lingering radiation from the first atomic bomb detonation led to the unintended consequence of the creation of national security threatening gigantic irradiated ants.],
@@ -1743,21 +1737,21 @@ movie: Crash of Moons (1954)
 :: Title
 Crash of Moons
 
+:: Date
+1954-07-10
+
 :: Description
 Rocky Jones attempts to save the inhabitants of Ophiuchus, a planet about to
 collide with a moon.
 
-:: Date
-1954-07-10
-
 :: References
 https://en.wikipedia.org/wiki/Crash_of_the_Moons
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 close encounter with a passing astronomical object [A moon was on a collision course with the planet Ophiuchus and the United Worlds helped the inhabitants evacuate.],
@@ -1777,21 +1771,21 @@ movie: Godzilla (1954)
 :: Title
 Godzilla
 
+:: Date
+1954-07-10
+
 :: Description
 American nuclear tests in the Pacific stirs up a dinosaur-like monster that
 makes a B-line for Tokyo.
 
-:: Date
-1954-07-10
-
 :: References
 https://en.wikipedia.org/wiki/Godzilla_(1954_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi, kaiju
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 nuclear holocaust [Godzilla symbolizes nuclear holocaust from Japan's perspective and has since been culturally identified as a strong metaphor for nuclear weapons.],
@@ -1823,6 +1817,9 @@ movie: Tobor the Great (1954)
 :: Title
 Tobor the Great
 
+:: Date
+1954-09-01
+
 :: Description
 Dr. Ralph Harrison resigns his government post in protest against the inhumane
 treatment being inflicted upon spaceship pilots. His colleague, Professor
@@ -1832,17 +1829,14 @@ by enemy agents, and only the two scientists' and Gadge's psychic link with
 the robot can save it from being reprogrammed and used for evil purposes
 against the United States.
 
-:: Date
-1954-09-01
-
 :: References
 https://en.wikipedia.org/wiki/Tobor_the_Great
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 unmanned spacecraft [Professor Nordstrom built a robot to fly the world's first spaceship because it ended up being too dangerous for humans in his estimation.],
@@ -1866,20 +1860,20 @@ movie: The Snow Creature (1954)
 :: Title
 The Snow Creature
 
-:: Description
-A botanist finds the Abominable Snowman of Tibet and ships him to Hollywood.
-
 :: Date
 1954-11
+
+:: Description
+A botanist finds the Abominable Snowman of Tibet and ships him to Hollywood.
 
 :: References
 https://en.wikipedia.org/wiki/The_Snow_Creature
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 cryptid [The Abominable Snowman is discovered in Tibet.],
@@ -1899,22 +1893,22 @@ movie: Target Earth (1954)
 :: Title
 Target Earth
 
+:: Date
+1954-11-07
+
 :: Description
 A small group of people overlooked during a mass evacuation of "the city that
 never sleeps", carried out because of a sudden invasion by hostile robotic
 beings believed to be from the planet Venus.
 
-:: Date
-1954-11-07
-
 :: References
 https://en.wikipedia.org/wiki/Target_Earth_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 what if everyone vanished and I was all alone [Nora King and Frank Brooks, and a few other stragglers, woke up from their various circumstances to find their city completely abandoned.],
@@ -1933,21 +1927,21 @@ movie: 20000 Leagues Under the Sea (1954)
 :: Title
 20000 Leagues Under the Sea
 
+:: Date
+1954-12-23
+
 :: Description
 A film adaptation of the novel Twenty Thousand Leagues Under the Sea by Jules
 Verne.
 
-:: Date
-1954-12-23
-
 :: References
 https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 voyage under the sea [Nemo and Arronax explored the ocean depths together in the high-tech submarine the Nautilis.],
@@ -1976,21 +1970,21 @@ movie: Stranger from Venus (1954)
 :: Title
 Stranger from Venus
 
+:: Date
+1954-12-31
+
 :: Description
 A flying saucer is seen in the sky above the countryside by various
 eyewitnesses, including an American woman driving in her car.
 
-:: Date
-1954-12-31
-
 :: References
 https://en.wikipedia.org/wiki/Stranger_from_Venus
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [A flying saucer is sighted in the English countryside which precipitates a first contact scenario with Venusians.],
@@ -2015,21 +2009,21 @@ movie: Revenge of the Creature (1955)
 :: Title
 Revenge of the Creature
 
+:: Date
+1955-03-23
+
 :: Description
 The creature from the Black Lagoon is captured and exhibited to the public in
 an aquarium.
 
-:: Date
-1955-03-23
-
 :: References
 https://en.wikipedia.org/wiki/Revenge_of_the_Creature
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [The creature was assumed by scientists to be a member of a living fossil species that had become isolated in prehistoric times and stopped evolving.],
@@ -2051,23 +2045,23 @@ movie: Conquest of Space (1955)
 :: Title
 Conquest of Space
 
+:: Date
+1955-04-20
+
 :: Description
 The first interplanetary flight to the planet Mars, manned by a crew of five,
 and launched from Earth orbit near The Wheel, mankind's first space station.
 On their long journey to the Red Planet, they encounter various dangers, both
 from within and without, that nearly destroy the mission.
 
-:: Date
-1955-04-20
-
 :: References
 https://en.wikipedia.org/wiki/Conquest_of_Space
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 space station [A space station, named The Wheel, is used for launching a manned mission to Mars.],
@@ -2093,21 +2087,21 @@ movie: Godzilla Raids Again (1955)
 :: Title
 Godzilla Raids Again
 
+:: Date
+1955-04-24
+
 :: Description
 A ferocious battle between Godzilla and a radioactive Ankylosaur leaves Osaka
 ravaged.
 
-:: Date
-1955-04-24
-
 :: References
 https://en.wikipedia.org/wiki/Godzilla_Raids_Again
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi, kaiju
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [Godzilla and the radioactive Ankylosaur were believed to have been a living dinosaurs.],
@@ -2128,20 +2122,20 @@ movie: Bride of the Monster (1955)
 :: Title
 Bride of the Monster
 
-:: Description
-A mad scientist tries to create a race of atomic supermen.
-
 :: Date
 1955-05-11
+
+:: Description
+A mad scientist tries to create a race of atomic supermen.
 
 :: References
 https://en.wikipedia.org/wiki/Bride_of_the_Monster
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the need to be treated with respect [Dr. Eric Vornoff was once ridiculed over his theories about using atomic power to create a race of atomic supermen, and was filled with hatred and contempt for his former peers, and resolved to create that race of atomic supermen and rule the world.],
@@ -2163,21 +2157,21 @@ movie: This Island Earth (1955)
 :: Title
 This Island Earth
 
+:: Date
+1955-06-10
+
 :: Description
 A race of aliens who, in recruiting humans for a group called "Peace
 Engineers", are actually using Earth as a pawn in an intergalactic war.
 
-:: Date
-1955-06-10
-
 :: References
 https://en.wikipedia.org/wiki/This_Island_Earth
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 orchestrated asteroid bombardment [The Zagons were directing meteors toward Metaluna in an effort to destroy civilization the planet.],
@@ -2203,21 +2197,21 @@ movie: The Beast with a Million Eyes (1955)
 :: Title
 The Beast with a Million Eyes
 
+:: Date
+1955-06-15
+
 :: Description
 A space alien that is able to see through the eyes of a large array of Earth
 life that it can also mentally control, part of its plan to conquer the Earth.
 
-:: Date
-1955-06-15
-
 :: References
 https://en.wikipedia.org/wiki/This_Island_Earth
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 there is strength in unity [Carol and Allan became convinced that strength in unity, and staying together, was the key to defeating the alien, and that separated and alone they were nothing.],
@@ -2241,21 +2235,21 @@ movie: King Dinosaur (1955)
 :: Title
 King Dinosaur
 
+:: Date
+1955-06-17
+
 :: Description
 Four astronauts in 1960 travel to a planet called Nova that has just entered
 Earth's solar system and find there a prehistoric world.
 
-:: Date
-1955-06-17
-
 :: References
 https://en.wikipedia.org/wiki/King_Dinosaur
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 living dinosaur [Four astronauts discover a dinosaur living on the planet Nova.],
@@ -2279,20 +2273,20 @@ movie: It Came from Beneath the Sea (1955)
 :: Title
 It Came from Beneath the Sea
 
-:: Description
-A gigantic atomic octopus attacks the San Fransisco Bay Area.
-
 :: Date
 1955-07
+
+:: Description
+A gigantic atomic octopus attacks the San Fransisco Bay Area.
 
 :: References
 https://en.wikipedia.org/wiki/It_Came_from_Beneath_the_Sea
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 the dangers of unfettered scientific advancement [The testing of hydrogen bombs in the Pacific stirred up previously unknown species of giant octopus' that was posed a threat to the Pacific west coast.],
@@ -2317,22 +2311,22 @@ movie: Creature with the Atom Brain (1955)
 :: Title
 Creature with the Atom Brain
 
+:: Date
+1955-07-01
+
 :: Description
 An American gangster forces a mad scientist to create zombies by resurrecting
 corpses through atomic radiation in order to help him exact revenge on his
 enemies.
 
-:: Date
-1955-07-01
-
 :: References
 https://en.wikipedia.org/wiki/Creature_with_the_Atom_Brain_(film)
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the desire for vengeance [Gangster boss Frank Buchanan wishes to use radio-controlled, atomic powered zombies to get revenge on his enemies.],
@@ -2356,20 +2350,20 @@ movie: Half Human (1955)
 :: Title
 Half Human
 
-:: Description
-An expedition team encounters the abominable snowman.
-
 :: Date
 1955-08-14
+
+:: Description
+An expedition team encounters the abominable snowman.
 
 :: References
 https://en.wikipedia.org/wiki/Half_Human
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 cryptid [An abominable snowman is discovered on Mount Fuji.],
@@ -2391,6 +2385,9 @@ movie: The Quatermass Xperiment (1955)
 :: Title
 The Quatermass Xperiment
 
+:: Date
+1955-08-26
+
 :: Description
 Three astronauts are launched into space aboard a rocket designed by Professor
 Quatermass, but the spacecraft returns to earth with only one occupant, Victor
@@ -2398,17 +2395,14 @@ Carroon. Something has infected him during the spaceflight, and he begins
 mutating into an alien organism which, if it spawns, will engulf the Earth and
 destroy humanity.
 
-:: Date
-1955-08-26
-
 :: References
 https://en.wikipedia.org/wiki/The_Quatermass_Xperiment
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 what if I underwent a physical metamorphosis [Victor Carroon begins to mutate into an alien organism after having ventured into outer space in a rocketship],
@@ -2427,11 +2421,11 @@ movie: Tarantula (1955)
 :: Title
 Tarantula
 
-:: Description
-A giant tarantula wreaks havoc in the Arizona desert.
-
 :: Date
 1955-11-23
+
+:: Description
+A giant tarantula wreaks havoc in the Arizona desert.
 
 :: References
 https://en.wikipedia.org/wiki/Tarantula_(film)
@@ -2463,22 +2457,22 @@ movie: Day the World Ended (1955)
 :: Title
 Day the World Ended
 
+:: Date
+1955-12
+
 :: Description
 A heroic scientist together with a small band of other survivors must face off
 against a mutant monster following an atomic war that appears to have
 destroyed human civilization.
 
-:: Date
-1955-12
-
 :: References
 https://en.wikipedia.org/wiki/Day_the_World_Ended
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 nuclear holocaust [A atomic war spells and end for civilized life on Earth.],
@@ -2503,20 +2497,20 @@ movie: The Phantom from 10000 Leagues (1955)
 :: Title
 The Phantom from 10000 Leagues
 
-:: Description
-A professor experiments with atomic power on the ocean floor.
-
 :: Date
 1955-12
+
+:: Description
+A professor experiments with atomic power on the ocean floor.
 
 :: References
 https://en.wikipedia.org/wiki/The_Phantom_from_10,000_Leagues
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the dangers of unfettered scientific advancement [Professor King's experiments with atomic power in the ocean have the potential to trigger a chain reaction and probably mutated life there into monstrous forms.],
@@ -2535,23 +2529,23 @@ movie: Warning from Space (1956)
 :: Title
 Warning from Space
 
+:: Date
+1956-01-29
+
 :: Description
 Starfish-like aliens disguised as humans travel to Earth to warn of the
 imminent collision of a rogue planet and Earth. As the planet rapidly
 accelerates toward Earth, a nuclear device is created at the last minute and
 destroys the approaching world.
 
-:: Date
-1956-01-29
-
 :: References
 https://en.wikipedia.org/wiki/Warning_from_Space
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 animal and plant patterned being [Starfish-like aliens traveled to Japan in the form of human being.],
@@ -2576,6 +2570,9 @@ movie: The Gamma People (1956)
 :: Title
 The Gamma People
 
+:: Date
+1956-01-30
+
 :: Description
 A train passenger car carrying a reporter and his photographer mysteriously
 breaks away from its locomotive, accidentally ending up on a remote sidetrack
@@ -2584,17 +2581,14 @@ dictatorship. The newsmen discover a mad scientist using gamma rays to turn
 the country's youth into either geniuses or subhumans, all at the bidding of
 an equally mad dictator.
 
-:: Date
-1956-01-30
-
 :: References
 https://en.wikipedia.org/wiki/The_Gamma_People
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 military dictatorship [Mike Wilson and Howard Meade find themselves in an isolated Eastern Bloc dictatorship of Gudavia.],
@@ -2617,6 +2611,9 @@ movie: Invasion of the Body Snatchers (1956)
 :: Title
 Invasion of the Body Snatchers
 
+:: Date
+1956-02-05
+
 :: Description
 An extraterrestrial invasion that begins in the fictional California town of
 Santa Mira. Alien plant spores have fallen from space and grown into large
@@ -2626,17 +2623,14 @@ characteristics, memories, and personalities of each sleeping person placed
 near it; these duplicates, however, are devoid of all human emotion. Little by
 little, a local doctor uncovers this "quiet" invasion and attempts to stop it.
 
-:: Date
-1956-02-05
-
 :: References
 https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Choice Themes
 spacefaring plants [Spacefaring pod plants fell on Santa Mira and began to replace the townspeople with replicas.],
@@ -2659,21 +2653,21 @@ movie: Forbidden Planet (1956)
 :: Title
 Forbidden Planet
 
+:: Date
+1956-03-03
+
 :: Description
 In the 23rd century, starship C-57D reaches the distant world Altair IV to
 determine the fate of an Earth expedition sent there 20 years earlier.
 
-:: Date
-1956-03-03
-
 :: References
 https://en.wikipedia.org/wiki/Forbidden_Planet
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Choice Themes
 extinct interstellar civilization [The Krell traveled to other worlds but then destroyed themselves.],
@@ -2706,22 +2700,22 @@ movie: 1984 (1956)
 :: Title
 1984
 
+:: Date
+1956-03-06
+
 :: Description
 1984 is a 1956 British black-and-white science fiction film, based on the
 novel Nineteen Eighty-Four by George Orwell, depicting a totalitarian future
 society.
 
-:: Date
-1956-03-06
-
 :: References
 https://en.wikipedia.org/wiki/1984_(1956_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 nuclear holocaust [Three great police states came to dominate the world after a nuclear conflagration in 1965.],
@@ -2752,20 +2746,20 @@ movie: Indestructible Man (1956)
 :: Title
 Indestructible Man
 
-:: Description
-A death row inmate seeks revenge against his attorney after his execution.
-
 :: Date
 1956-03-25
+
+:: Description
+A death row inmate seeks revenge against his attorney after his execution.
 
 :: References
 https://en.wikipedia.org/wiki/Indestructible_Man
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the desire for vengeance [Death row inmate Charles "Butcher" Benton sought revenge against his attorney and two informants following his own execution],
@@ -2786,6 +2780,9 @@ movie: World Without End (1956)
 :: Title
 World Without End
 
+:: Date
+1956-03-25
+
 :: Description
 A team of astronauts returning to Earth from a trip around Mars find their
 speculative spaceship is somehow accelerated to incredible velocities, and they are
@@ -2793,17 +2790,14 @@ knocked unconscious. Their ship crash lands on a snow-covered mountain. When
 they venture out, they discover that they have become victims of time dilation
 and are now in the future.
 
-:: Date
-1956-03-25
-
 :: References
 https://en.wikipedia.org/wiki/World_Without_End_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 time travel [A team of astronauts accelerate to an incredibly velocity while returning to Earth from Mars and find themselves in the future.],
@@ -2835,22 +2829,22 @@ movie: The Creature Walks Among Us (1956)
 :: Title
 The Creature Walks Among Us
 
+:: Date
+1956-04-26
+
 :: Description
 Following the Gill-man's escape from Ocean Harbor Oceanarium in Florida, a
 team of scientists led by the deranged and cold-hearted Dr. William Barton
 board the Vagabondia III to capture the creature in the Everglades.
 
-:: Date
-1956-04-26
-
 :: References
 https://en.wikipedia.org/wiki/The_Creature_Walks_Among_Us
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [The Gill-man was assumed by scientists to be a member of a living fossil species that had become isolated in prehistoric times and stopped evolving.],
@@ -2875,21 +2869,21 @@ movie: Godzilla King of the Monsters (1956)
 :: Title
 Godzilla, King of the Monsters!
 
+:: Date
+1956-04-27
+
 :: Description
 American nuclear tests in the Pacific stirs up a dinosaur-like monster that
 makes a B-line for Tokyo.
 
-:: Date
-1956-04-27
-
 :: References
 https://en.wikipedia.org/wiki/Godzilla,_King_of_the_Monsters!
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi, kaiju
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 cryptid [Godzilla was believed to have been a dinosaur-like creature from the Jurassic age.],
@@ -2919,21 +2913,21 @@ movie: On the Threshold of Space (1956)
 :: Title
 On the Threshold of Space
 
+:: Date
+1956-04-30
+
 :: Description
 The United States Air Force conducts risky high altitude parachute jumps as a
 prelude to venturing into outer space.
 
-:: Date
-1956-04-30
-
 :: References
 https://en.wikipedia.org/wiki/On_the_Threshold_of_Space
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 risk taking in the advancement of science and technology [Should Air Force pilots be used as guinea pigs for high altitude parachute jumps in the name of paving the way for people to go into outer space?],
@@ -2956,6 +2950,9 @@ movie: The Black Sleep (1956)
 :: Title
 The Black Sleep
 
+:: Date
+1956-06
+
 :: Description
 Set in England in 1872, the story concerned a prominent, knighted surgeon
 whose wife has fallen into a coma caused by a deep-seated brain tumor. Due to
@@ -2968,17 +2965,14 @@ experiment, surviving subjects are revived and placed, in seriously
 degenerated and mutilated states, in a hidden cellar in the gloomy, abandoned
 country abbey where he conducts his experiments.
 
-:: Date
-1956-06
-
 :: References
 https://en.wikipedia.org/wiki/The_Black_Sleep
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 suspended animation [Sir Joel Cadman used suspended animation to save Dr. Gordon Ramsay from being hanged in order that he might assist Cadman in his experiments. He also placed subjects in suspended animation and performed exploratory surgeries on their brains.],
@@ -3000,20 +2994,20 @@ movie: Earth vs. the Flying Saucers (1956)
 :: Title
 Earth vs. the Flying Saucers
 
-:: Description
-Aliens in flying saucers launch a full-scale invasion of Earth.
-
 :: Date
 1956-06-13
+
+:: Description
+Aliens in flying saucers launch a full-scale invasion of Earth.
 
 :: References
 https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [Flying saucers were sighted all around the world were explained away as a variety of different phenomenon, including Saint Elmo's fire.],
@@ -3039,23 +3033,23 @@ movie: It Conquered the World (1956)
 :: Title
 It Conquered the World
 
+:: Date
+1956-07-15
+
 :: Description
 An alien creature from the planet Venus secretly wants to take control of the
 Earth. The creature makes radio contact with a disillusioned human scientist,
 who agrees to help because the scientist believes such an alien intervention
 will bring peace and save a doomed humanity from itself.
 
-:: Date
-1956-07-15
-
 :: References
 https://en.wikipedia.org/wiki/It_Conquered_the_World
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 Venusian extraterrestrial [An alien creature from the planet Venus secretly wants to take control of the Earth.],
@@ -3080,20 +3074,20 @@ movie: The She-Creature (1956)
 :: Title
 The She-Creature
 
-:: Description
-A carnival hypnotist conducts experiments in hypnotic regression that take his unwitting female subject to a past life as a prehistoric humanoid form of sea life. He uses the physical manifestation of the prehistoric creature to commit murders.
-
 :: Date
 1956-07-25
+
+:: Description
+A carnival hypnotist conducts experiments in hypnotic regression that take his unwitting female subject to a past life as a prehistoric humanoid form of sea life. He uses the physical manifestation of the prehistoric creature to commit murders.
 
 :: References
 https://en.wikipedia.org/wiki/The_She-Creature
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 speculative hypnosis [Dr. Lombardi hypnotically regressed Andrea not only to a 17th century Englishwoman, but also back to a prehistoric sea monster of humanoid form.],
@@ -3129,21 +3123,21 @@ movie: The Beast of Hollow Mountain (1956)
 :: Title
 The Beast of Hollow Mountain
 
+:: Date
+1956-08
+
 :: Description
 An American cowboy living in Mexico discovers his missing cattle are being
 preyed upon by dinosaurs.
 
-:: Date
-1956-08
-
 :: References
 https://en.wikipedia.org/wiki/The_Beast_of_Hollow_Mountain
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 cryptid [An American cowboy living in Mexico discovers his missing cattle are being preyed upon by dinosaurs.],
@@ -3167,22 +3161,22 @@ movie: Fire Maidens from Outer Space (1956)
 :: Title
 Fire Maidens from Outer Space
 
+:: Date
+1956-09-06
+
 :: Description
 The discovery of signs of life on the 13th moon of Jupiter leads to the
 sending of a crew of five chain-smoking male astronauts, armed with handguns,
 to investigate.
 
-:: Date
-1956-09-06
-
 :: References
 https://en.wikipedia.org/wiki/Fire_Maidens_from_Outer_Space
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 Jovian extraterrestrial [Astronauts find a race or fire maidens on the 13th moon of Jupiter.],
@@ -3207,21 +3201,21 @@ movie: Toward the Unknown (1956)
 :: Title
 Toward the Unknown
 
+:: Date
+1956-10-20
+
 :: Description
 A film about the dawn of supersonic flight filmed on location at Edwards Air
 Force Base.
 
-:: Date
-1956-10-20
-
 :: References
 https://en.wikipedia.org/wiki/Toward_the_Unknown
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 romantic love [Lincoln Bond and Connie Mitchell.],
@@ -3245,21 +3239,21 @@ movie: X the Unknown (1956)
 :: Title
 X the Unknown
 
+:: Date
+1956-11-05
+
 :: Description
 A radioactive mud-monster terrorizes the Lochmouth region of Scotland, near
 Glasgow.
 
-:: Date
-1956-11-05
-
 :: References
 https://en.wikipedia.org/wiki/X_the_Unknown
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the dangers of radioactivity [A soldier, a young doctor, and little Willie Harding died as a result of being exposed to sources of radiation. Also a radioactive mud-monster emerged from the bowels of the Earth and began killing people.],
@@ -3279,21 +3273,21 @@ movie: The Mole People (1956)
 :: Title
 The Mole People
 
+:: Date
+1956-12-01
+
 :: Description
 A party of archaeologists find a race of Sumerian albinos living deep under
 the Earth.
 
-:: Date
-1956-12-01
-
 :: References
 https://en.wikipedia.org/wiki/The_Mole_People_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 Hollow Earth [Dr. Frank Baxter, an English professor at the University of Southern California, briefly discusses the hollow earth theories of John Symmes and Cyrus Teed among others, and says that the movie is a fictionalized representation of these unorthodox theories. In the film, a party of archaeologists find a race of Sumerian albinos living deep under the Earth.],
@@ -3317,22 +3311,22 @@ movie: Not of This Earth (1957)
 :: Title
 Not of This Earth
 
+:: Date
+1957-02-10
+
 :: Description
 An extraterrestrial humanoid attempt to surreptitiously secure the blood of
 humans and to test it on himself as treatment for a fatal blood disorder which
 is ravaging the population of his home planet.
 
-:: Date
-1957-02-10
-
 :: References
 https://en.wikipedia.org/wiki/Not_of_This_Earth_(1957_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 natural pandemic [The aliens of the planet Davanna were dying of a blood disease and needed to secure the blood of Humans to cure themselves.],
@@ -3350,21 +3344,21 @@ movie: The Incredible Shrinking Man (1957)
 :: Title
 The Incredible Shrinking Man
 
+:: Date
+1957-02-22
+
 :: Description
 A man shrinks to minute proportions after being exposed to a combination of
 radiation and insecticides.
 
-:: Date
-1957-02-22
-
 :: References
 https://en.wikipedia.org/wiki/The_Incredible_Shrinking_Man
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 what if I shrank in size [Scott Carey shrank to minute proportions after being exposed to a combination of radiation and insecticides.],
@@ -3385,20 +3379,20 @@ movie: Rodan (1956)
 :: Title
 Rodan
 
-:: Description
-Giant insects and two flying dinosaurs attack Japan.
-
 :: Date
 1956-12-26
+
+:: Description
+Giant insects and two flying dinosaurs attack Japan.
 
 :: References
 https://en.wikipedia.org/wiki/Rodan_(film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [Giant insects and flying dinosaurs were stirred up in the aftermath of a mining accident.],
@@ -3426,6 +3420,9 @@ movie: Attack of the Crab Monsters (1957)
 :: Title
 Attack of the Crab Monsters
 
+:: Date
+1957-02-10
+
 :: Description
 A second scientific expedition that is sent to a remote Pacific island to
 discover what happened to the scientists of the first. Unknown to them when
@@ -3433,17 +3430,14 @@ they arrive, the island is inhabited by a pair of radiation-mutated giant
 crabs that consumed the first expeditioners, absorbed their intelligences, and
 plan to reproduce their kind in numbers.
 
-:: Date
-1957-02-10
-
 :: References
 https://en.wikipedia.org/wiki/Attack_of_the_Crab_Monsters
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 human vs. monster [The scientific expedition versus the radiation-mutated giant crabs.],
@@ -3462,22 +3456,22 @@ movie: The Man Who Turned to Stone (1957)
 :: Title
 The Man Who Turned to Stone
 
+:: Date
+1957-03
+
 :: Description
 Two hundred years ago, a group of unethical doctors learned to extend their
 lives by draining the vitality of others. Without such transfusions, they
 begin to slowly petrify.
 
-:: Date
-1957-03
-
 :: References
 https://en.wikipedia.org/wiki/The_Man_Who_Turned_to_Stone
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the quest for immortality [A group of doctors had secretly kept themselves alive for over 200 years.],
@@ -3495,21 +3489,21 @@ movie: Kronos (1957)
 :: Title
 Kronos
 
+:: Date
+1957-04
+
 :: Description
 Aliens from another world send a huge 300 foot high robotic accumulator to
 invade the Earth and absorb all energy it comes in contact with.
 
-:: Date
-1957-04
-
 :: References
 https://en.wikipedia.org/wiki/Kronos_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 depletion of a vital natural resource [The aliens had exhausted the natural resources of their home planet and sent an accumulator device to Earth to take the planet's energy. A scientist explained that one day humanity could one day too deplete Earth's natural resources.],
@@ -3531,21 +3525,21 @@ movie: She Devil (1957)
 :: Title
 She Devil
 
+:: Date
+1957-04
+
 :: Description
 Doctor Dan Scott uses a panacea he developed to cure a girl of tuberculosis,
 but there are some devilish side effects.
 
-:: Date
-1957-04
-
 :: References
 https://en.wikipedia.org/wiki/She_Devil_(1957_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cure for an as yet uncurable disease [Doctor Dan Scott develops a serum that he used to cure a dying Kyra Zelas of tuberculosis.],
@@ -3567,20 +3561,20 @@ movie: The Deadly Mantis (1957)
 :: Title
 The Deadly Mantis
 
-:: Description
-A 200-foot-long praying mantis attacks Washington DC.
-
 :: Date
 1957-05-01
+
+:: Description
+A 200-foot-long praying mantis attacks Washington DC.
 
 :: References
 https://en.wikipedia.org/wiki/The_Deadly_Mantis
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 cryptid [A 200-foot-long praying mantis that was frozen in the North Polar ice cap is freed after a volcanic explosion.],
@@ -3601,6 +3595,9 @@ movie: Quatermass 2 (1957)
 :: Title
 Quatermass 2
 
+:: Date
+1957-05-24
+
 :: Description
 Professor Quatermass investigates reports of hundreds of meteorites landing
 only in the Winnerden Flats area of the UK. His inquiries lead him to a huge
@@ -3610,17 +3607,14 @@ alien infiltration of the highest echelons of the British Government.
 Quatermass and his allies must now do whatever is necessary to defeat the
 alien threat before it is too late.
 
-:: Date
-1957-05-24
-
 :: References
 https://en.wikipedia.org/wiki/Quatermass_2
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 subversive life form from outer space [Aliens infiltrated the British government as a prelude to invasion of Earth.],
@@ -3643,20 +3637,20 @@ movie: 20 Million Miles to Earth (1957)
 :: Title
 20 Million Miles to Earth
 
-:: Description
-A reptile-like creature from the planet Venus wreaks havoc on the Earth.
-
 :: Date
 1957-06
+
+:: Description
+A reptile-like creature from the planet Venus wreaks havoc on the Earth.
 
 :: References
 https://en.wikipedia.org/wiki/20_Million_Miles_to_Earth
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 Venusian extraterrestrial [A reptile-like alien is brought to Earth from the planet Venus.],
@@ -3676,20 +3670,20 @@ movie: The Monster That Challenged the World (1957)
 :: Title
 The Monster That Challenged the World
 
-:: Description
-Giant mollusks from the ocean depths attack the California coast.
-
 :: Date
 1957-06
+
+:: Description
+Giant mollusks from the ocean depths attack the California coast.
 
 :: References
 https://en.wikipedia.org/wiki/The_Monster_That_Challenged_the_World
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 cryptid [An underwater earthquake off the shore of California releases giant, prehistoric giant mollusks.],
@@ -3714,20 +3708,20 @@ movie: The Giant Claw (1957)
 :: Title
 The Giant Claw
 
-:: Description
-A UFO turns out to be a battleship-sized, city attacking bird.
-
 :: Date
 1957-06
+
+:: Description
+A UFO turns out to be a battleship-sized, city attacking bird.
 
 :: References
 https://en.wikipedia.org/wiki/The_Giant_Claw
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 avian being [The bird creature was surmised to have come from an anti-matter galaxy from from Earth.],
@@ -3751,21 +3745,21 @@ movie: The Night the World Exploded (1957)
 :: Title
 The Night the World Exploded
 
+:: Date
+1957-06
+
 :: Description
 A scientist builds an earthquake prediction machine that predicts a massive
 earthquake will hit California within a 24 hour time window.
 
-:: Date
-1957-06
-
 :: References
 https://en.wikipedia.org/wiki/The_Night_the_World_Exploded
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 spontaneous planetary break up [A scientific expedition into the bowels of the Earth discover massive quantities of Element 112 that could explode at any moment and blow the entire planet to smithereens.],
@@ -3784,21 +3778,21 @@ movie: The Vampire (1957)
 :: Title
 The Vampire
 
+:: Date
+1957-06-14
+
 :: Description
 A doctor is transformed into a vampire after he mistakenly ingests bat blood
 containing pills.
 
-:: Date
-1957-06-14
-
 :: References
 https://en.wikipedia.org/wiki/The_Vampire_(1957_film)
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 what if I underwent a physical metamorphosis [Paul Beecher was gradually transformed into a vampire after mistakenly ingesting pill that contained bat blood.],
@@ -3819,22 +3813,22 @@ movie: Invasion of the Saucer Men (1957)
 :: Title
 Invasion of the Saucer Men
 
+:: Date
+1957-06-19
+
 :: Description
 A flying saucer lands in the woods. A teenage couple driving to their local
 lover's lane without the headlights on, accidentally run down one of the
 saucer's large-headed occupants.
 
-:: Date
-1957-06-19
-
 :: References
 https://en.wikipedia.org/wiki/Invasion_of_the_Saucer_Men
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 flying saucer theory of UFOs [People were ridiculed for reporting flying saucer sightings, but they turned out to be true.],
@@ -3853,23 +3847,23 @@ movie: Beginning of the End (1957)
 :: Title
 Beginning of the End
 
+:: Date
+1957-06-28
+
 :: Description
 An agricultural scientist who has successfully grown gigantic vegetables using
 radiation. Unfortunately, the vegetables are eaten by locusts (the swarming
 phase of short-horned grasshoppers), which quickly grow to a gigantic size and
 attack the nearby city of Chicago.
 
-:: Date
-1957-06-28
-
 :: References
 https://en.wikipedia.org/wiki/Beginning_of_the_End_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 the dangers of radioactivity [Agricultural scientist Dr. Ed Wainwright grew gigantic vegetables using radiation. Unfortunately, some locust that fed on the grew to enormous proportions and destroyed and entire town. Dr. Ed Wainwright's assistant became a deaf mute after experimenting with radiation.],
@@ -3896,21 +3890,21 @@ movie: The Unearthly (1957)
 :: Title
 The Unearthly
 
+:: Date
+1957-06-28
+
 :: Description
 An obsessed doctor surreptitiously experiments with artificial glands to try
 to create longevity at his private psychiatric institute.
 
-:: Date
-1957-06-28
-
 :: References
 https://en.wikipedia.org/wiki/The_Unearthly
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the quest for immortality [Dr. Charles Conway attempted to dramatically increase people's longevity by surgically installing artificial glands in their skulls.],
@@ -3933,6 +3927,9 @@ movie: The 27th Day (1957)
 :: Title
 The 27th Day
 
+:: Date
+1957-07
+
 :: Description
 Five scientists are transported to an alien spacecraft in Earth orbit. There,
 they are met by a humanoid referring to himself only as "The Alien", who
@@ -3947,17 +3944,14 @@ containers can only be opened by the thought waves of the person to whom they
 were given. Once out in the open, the capsules inside can then be used by
 anyone, but only during the next 27 days, after which they become inert.
 
-:: Date
-1957-07
-
 :: References
 https://en.wikipedia.org/wiki/The_27th_Day
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 transnational institution for peace [After the "enemies of human freedom" were all killed, the remaining people of the world came together under the United Nations extends an invitation to The Alien and his people to coexist peacefully. It turns out that the preceding events had actually been a test of character, a way for The Alien to judge mankind's true nature. The Alien accepts, and a new day like no other dawns for humanity.],
@@ -3986,21 +3980,21 @@ movie: The Cyclops (1957)
 :: Title
 The Cyclops
 
+:: Date
+1957-07-28
+
 :: Description
 An expedition to Mexico encounters a monster with one eye that was created as
 a result of radioactivity.
 
-:: Date
-1957-07-28
-
 :: References
 https://en.wikipedia.org/wiki/The_Cyclops_(film)
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the dangers of radioactivity [Naturally occurring radiation mutated Bruce Barton to be giant with only one eye.],
@@ -4027,22 +4021,22 @@ movie: The Unknown Terror (1957)
 :: Title
 The Unknown Terror
 
+:: Date
+1957-08-12
+
 :: Description
 A group of explorers who, while searching for a missing man, come across the
 "Cave of the Dead," filled with parasitic fungi and inhabited by foamy,
 fungus-covered monster men.
 
-:: Date
-1957-08-12
-
 :: References
 https://en.wikipedia.org/wiki/The_Unknown_Terror
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 fungus proliferating over the entire world [A fungus overruns the world and everybody dies.],
@@ -4063,21 +4057,21 @@ movie: From Hell It Came (1957)
 :: Title
 From Hell It Came
 
+:: Date
+1957-08-25
+
 :: Description
 Atomic radiation reanimated a wrongly executed South Seas island prince from
 the dead.
 
-:: Date
-1957-08-25
-
 :: References
 https://en.wikipedia.org/wiki/From_Hell_It_Came
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 the desire for vengeance [A wrongly executed South Seas island prince returned from the dead and endeavored to make his executors pay for their crimes.],
@@ -4101,21 +4095,21 @@ movie: The Invisible Boy (1957)
 :: Title
 The Invisible Boy
 
+:: Date
+1957-10
+
 :: Description
 A ten-year-old boy and Robby the Robot work together to stop a super computer
 from enslaving humanity.
 
-:: Date
-1957-10
-
 :: References
 https://en.wikipedia.org/wiki/The_Invisible_Boy
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Choice Themes
 invisibility ability [Robby the Robot devised a way to make Timmie invisible.],
@@ -4141,23 +4135,23 @@ movie: The Brain from Planet Arous (1957)
 :: Title
 The Brain from Planet Arous
 
+:: Date
+1957-10-01
+
 :: Description
 An outer space terrorist from a planet named Arous, a brain-shaped creature
 named Gor arrives on Earth and possesses young scientist Steve March. Gor then
 proceeds to use his vast, destructive powers to bend the planet to his will,
 threatening to wipe out the capital city of any nation that dares to defy him.
 
-:: Date
-1957-10-01
-
 :: References
 https://en.wikipedia.org/wiki/The_Brain_from_Planet_Arous
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 brain-shaped being [A brain-shaped creature named Gor arrives on Earth and possesses young scientist Steve March.],
@@ -4182,21 +4176,21 @@ movie: The Black Scorpion (1957)
 :: Title
 The Black Scorpion
 
+:: Date
+1957-10-11
+
 :: Description
 A volcanic eruption in Mexico releases a number of giant scorpions that
 endanger the residents of Mexico City.
 
-:: Date
-1957-10-11
-
 :: References
 https://en.wikipedia.org/wiki/The_Black_Scorpion_(film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 cryptid [Prehistoric gigantic scorpions came up to the surface from deep inside the Earth after a volcanic eruption.],
@@ -4217,21 +4211,21 @@ movie: The Amazing Colossal Man (1957)
 :: Title
 The Amazing Colossal Man
 
+:: Date
+1957-10-25
+
 :: Description
 A U.S. Army Lt. Colonel grows to be more than 60 feet tall following his
 accidental exposure to an atomic bomb test blast in Nevada.
 
-:: Date
-1957-10-25
-
 :: References
 https://en.wikipedia.org/wiki/The_Amazing_Colossal_Man
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 what if I grew in size [Lt. Colonel Glenn Manning grew to be more than 60 feet tall.],
@@ -4256,21 +4250,21 @@ movie: The Land Unknown (1957)
 :: Title
 The Land Unknown
 
+:: Date
+1957-10-30
+
 :: Description
 Members of a naval expedition become stranded in an Antarctic jungle that is
 filled with prehistoric creatures.
 
-:: Date
-1957-10-30
-
 :: References
 https://en.wikipedia.org/wiki/The_Land_Unknown
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 isolated prehistoric land [A naval expedition discovered dinosaurs in an Antarctic jungle.],
@@ -4297,23 +4291,23 @@ movie: Road to the Stars (1957)
 :: Title
 Road to the Stars
 
+:: Date
+1957-11
+
 :: Description
 Road to the Stars (Russian: Дорога к звёздам /dərɐɡˈa ɡ_zvʲˈɵzdəm/) is a 1957
 Soviet film directed by Pavel Klushantsev. It combines elements of science
 education films and speculative science fiction. The film was groundbreaking
 for its use of special effects to depict life in space.
 
-:: Date
-1957-11
-
 :: References
 https://en.wikipedia.org/wiki/Road_to_the_Stars
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 interplanetary space travel [Multistage rockets were used to send a astronauts in orbit around the Earth, to the Moon, and ultimately all around the solar system.],
@@ -4335,6 +4329,9 @@ movie: The Monolith Monsters (1957)
 :: Title
 The Monolith Monsters
 
+:: Date
+1957-12-18
+
 :: Description
 A large meteorite that crashes in a Southern California desert and explodes
 into hundreds of black fragments which have strange properties. When those
@@ -4344,17 +4341,14 @@ The story that unfolds becomes one of human survival against an encroaching
 unnatural disaster, that if not stopped, could become a national ecological
 nightmare that could pose a possible threat to all of humanity.
 
-:: Date
-1957-12-18
-
 :: References
 https://en.wikipedia.org/wiki/The_Monolith_Monsters
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 invasive life form from outer space [A meteor crashed into the California desert explodes into hundreds of fragments that grow very large and tall and could become a national ecological nightmare that could pose a possible threat to all of humanity.],
@@ -4373,6 +4367,9 @@ movie: The Mysterians (1957)
 :: Title
 The Mysterians
 
+:: Date
+1957-12-28
+
 :: Description
 The film begins with a giant fissure destorying an entire village. This leads
 to an investigation whereby the source is discovered to be Moguera, a giant
@@ -4381,17 +4378,14 @@ discovered to be of alien origin. Shortly after, an alien race known as the
 Mysterians arrive, declaring they have taken some Earth women captive and that
 they demand both land and the right to marry women of Earth.
 
-:: Date
-1957-12-28
-
 :: References
 https://en.wikipedia.org/wiki/The_Mysterians
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 nuclear holocaust [The Mysterians homeworld was destroyed in a nuclear holocaust and they came to Earth seeking a new home. Astrophysicist Ryoichi Shiraishi joined the Mysterians with the intention of ruling the Earth and preventing Humans from destroying themselves with nuclear weapons.],
@@ -4418,20 +4412,20 @@ movie: Teenage Monster (1958)
 :: Title
 Teenage Monster
 
-:: Description
-The story is set in a town in the American Southwest. Young Charles Cannon, after seeing a meteor crash in the desert heads out to investigate it. He becomes exposed to rays from the meteor and ages rapidly. He is now about ten years older, hairy, aggressive and psychopathic. His mother hides him in the basement to protect him from the law.
-
 :: Date
 1958-01-08
+
+:: Description
+The story is set in a town in the American Southwest. Young Charles Cannon, after seeing a meteor crash in the desert heads out to investigate it. He becomes exposed to rays from the meteor and ages rapidly. He is now about ten years older, hairy, aggressive and psychopathic. His mother hides him in the basement to protect him from the law.
 
 :: References
 https://en.wikipedia.org/wiki/Teenage_Monster
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi, horror, western,
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 what if I underwent a physical metamorphosis [Young Charles Cannon was transformed into a monstrous man after being exposed to rays from a crashed meteor.],
@@ -4456,23 +4450,23 @@ movie: She Demons (1958)
 :: Title
 She Demons
 
+:: Date
+1958-03
+
 :: Description
 During a hurricane, a pleasure boat is shipwrecked on an uncharted island and
 is presumed lost with all hands after the storm clears. The four survivors'
 shipboard radio can only receive but not transmit, and they hear that their
 castaway island will soon be used by U.S. naval aircraft as a bombing target.
 
-:: Date
-1958-03
-
 :: References
 https://en.wikipedia.org/wiki/She_Demons
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 the Nazi stereotype [Ex-Nazi scientist Karl Osler and war criminal created deformed, fanged women as a result of scientific experiments he conducted on an uncharted tropical island.],
@@ -4498,6 +4492,9 @@ movie: The Strange World of Planet X (1958)
 :: Title
 The Strange World of Planet X
 
+:: Date
+1958-03-04
+
 :: Description
 A monomaniacal scientist creates ultra-sensitive, disruptive magnetic fields,
 which have unexpected side effects, while also attracting unidentified flying
@@ -4506,17 +4503,14 @@ storm, blasts of cosmic radiation that penetrates the Earth's normally
 protective magnetic shield, and insects and spiders mutating into giant flesh-
 eating monsters.
 
-:: Date
-1958-03-04
-
 :: References
 https://en.wikipedia.org/wiki/The_Strange_World_of_Planet_X_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 the dangers of unfettered scientific advancement [A monomaniacal scientist created ultra-sensitive, disruptive magnetic fields, which have unexpected side effects, while also attracting unidentified flying objects from outer space.],
@@ -4547,21 +4541,21 @@ movie: Attack of the Puppet People (1958)
 :: Title
 Attack of the Puppet People
 
+:: Date
+1958-04
+
 :: Description
 A lonely doll-maker develops a machine which can shrink people down to a sixth
 of their original size.
 
-:: Date
-1958-04
-
 :: References
 https://en.wikipedia.org/wiki/Attack_of_the_Puppet_People
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 miniaturization technology [Mr. Franz invented a machine which could shrink people down to a sixth of their original size.],
@@ -4583,22 +4577,22 @@ movie: War of the Satellites (1958)
 :: Title
 War of the Satellites
 
+:: Date
+1958-05-18
+
 :: Description
 The Masters of the Spiral Nebula Ghana declare war against Earth when the
 United Nations disobeys warnings to cease and desist in its attempts at
 assembling and then launching the first satellite into space.
 
-:: Date
-1958-05-18
-
 :: References
 https://en.wikipedia.org/wiki/War_of_the_Satellites
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 attack from outer space by a genocidal enemy [The Masters of the Spiral Nebula Ghana declare war against Earth when the United Nations disobeys warnings to cease and desist in its attempts at assembling and then launching the first satellite into space.],
@@ -4621,22 +4615,22 @@ movie: Attack of the 50 Foot Woman (1958)
 :: Title
 Attack of the 50 Foot Woman
 
+:: Date
+1958-05-19
+
 :: Description
 A wealthy heiress has close encounter with an enormous alien in his round
 spacecraft that causes her to grow into a giantess, complicating her marriage
 already troubled by a philandering husband.
 
-:: Date
-1958-05-19
-
 :: References
 https://en.wikipedia.org/wiki/Attack_of_the_50_Foot_Woman
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 what if I grew in size [Nancy Archer grew to be 50 foot tall after an encounter with giant aliens.],
@@ -4661,22 +4655,22 @@ movie: Fiend Without a Face (1958)
 :: Title
 Fiend Without a Face
 
+:: Date
+1958-06
+
 :: Description
 Mysterious deaths at the hands of a mentally created invisible life form that
 feeds on atomic power and then steals human brains and spinal columns to use
 as bodies in order to multiply its numbers.
 
-:: Date
-1958-06
-
 :: References
 https://en.wikipedia.org/wiki/Fiend_Without_a_Face
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 incorporeal being [Professor Walgate's developed his mental abilities to the point where he was able to materialize his thoughts into the world and ultimately his living thought projection became a malevolent and invisible new life form.],
@@ -4697,6 +4691,9 @@ movie: The Colossus of New York (1958)
 :: Title
 The Colossus of New York
 
+:: Date
+1958-06
+
 :: Description
 Following an accident, Jeremy Spensser's brain is transplanted by his
 scientist father into the huge body of an unattractive, frightening cyborg, in
@@ -4705,17 +4702,14 @@ mankind. Soon, his son's brain becomes transformed by the experimental
 procedure, losing key attributes that make him human and define his
 personality.
 
-:: Date
-1958-06
-
 :: References
 https://en.wikipedia.org/wiki/The_Colossus_of_New_York
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 brain transplant [Following an accident, Jeremy Spensser's brain is transplanted by his scientist father into the huge body of an unattractive, frightening cyborg, in order to save his brilliant son's mind so that it can continue to serve mankind.],
@@ -4745,23 +4739,23 @@ movie: The Space Children (1958)
 :: Title
 The Space Children
 
+:: Date
+1958-06-18
+
 :: Description
 A brain from outer space visits Earth and communicates telepathically with the
 children of a group of scientists who are planning a nuclear war. The alien
 brain helps the children to sabotage their parents' rockets to prevent the
 war.
 
-:: Date
-1958-06-18
-
 :: References
 https://en.wikipedia.org/wiki/The_Space_Children
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 child power [Humanity is saved from nuclear annihilation by a group of children that were acting under the direction of a brain from outer space.],
@@ -4786,6 +4780,9 @@ movie: War of the Colossal Beast (1958)
 :: Title
 War of the Colossal Beast
 
+:: Date
+1958-06-30
+
 :: Description
 War of the Colossal Beast (a.k.a. Revenge of the Colossal Man and The Colossal
 Beast) is a 1958 black-and-white science fiction film, written, produced, and
@@ -4796,17 +4793,14 @@ International Pictures as the top half of a double feature with Attack of the
 Puppet People. The film's story picks up where The Amazing Colossal Man left
 off, although it was not marketed as a sequel and features a different cast.
 
-:: Date
-1958-06-30
-
 :: References
 https://en.wikipedia.org/wiki/War_of_the_Colossal_Beast
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 what if I grew in size [The Colossal Man Lt. Colonel Glenn Manning grew to be more than 60 feet tall.],
@@ -4826,21 +4820,21 @@ movie: Teenage Caveman (1958)
 :: Title
 Teenage Caveman
 
+:: Date
+1958-07
+
 :: Description
 A teenage caveman challenges the laws of his tribe and crosses a river into an
 apparent land of plenty.
 
-:: Date
-1958-07
-
 :: References
 https://en.wikipedia.org/wiki/Teenage_Caveman_(1958_film)
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 nuclear holocaust [The cavemen turnout to be the descendants of the survivors of a long-ago nuclear holocaust.],
@@ -4864,23 +4858,23 @@ movie: Space Master X7 (1958)
 :: Title
 Space Master X-7
 
+:: Date
+1958-07-16
+
 :: Description
 A space probe returns to Earth covered with a mysterious fungus, which, when
 accidentally mixed with human blood, transforms into an ever-growing pile of
 space rust. If not stopped, the infection could eventually cover the entire
 world.
 
-:: Date
-1958-07-16
-
 :: References
 https://en.wikipedia.org/wiki/Space_Master_X-7
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 invasive life form from outer space [A mysterious fungus of extraterrestrial origin, when accidentally mixed with human blood, transforms into an ever-growing pile of space rust that will eventually cover the entire surface of the Earth. This happened on Mars, which explains why the planet it red.],
@@ -4902,23 +4896,23 @@ movie: The Fly (1958)
 :: Title
 The Fly
 
+:: Date
+1958-07-16
+
 :: Description
 A scientist who is transformed into a grotesque creature after a common house
 fly enters unseen into a molecular transporter he is experimenting with,
 resulting in his atoms being combined with those of the insect, producing a
 human-fly hybrid.
 
-:: Date
-1958-07-16
-
 :: References
 https://en.wikipedia.org/wiki/The_Fly_(1958_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 husband and wife [André Delambre and Hélène Delambre.],
@@ -4945,20 +4939,20 @@ movie: The Robot vs the Aztec Mummy (1958)
 :: Title
 The Robot vs. the Aztec Mummy
 
-:: Description
-The Robot vs. the Aztec Mummy (originally La Momia Azteca contra el Robot Humano) is a Mexican horror film, the third in a trilogy, directed by Rafael Portillo, starring Ramón Gay and Rosa Arenas. It blends elements of science fiction and horror. The film is the sequel to The Aztec Mummy and The Curse of the Aztec Mummy, and a large portion of it consists of an extended recap of the events from the first two films in the series. The three films were all shot in 1957, one after another without a break in the production schedule.
-
 :: Date
 1958-07-17
+
+:: Description
+The Robot vs. the Aztec Mummy (originally La Momia Azteca contra el Robot Humano) is a Mexican horror film, the third in a trilogy, directed by Rafael Portillo, starring Ramón Gay and Rosa Arenas. It blends elements of science fiction and horror. The film is the sequel to The Aztec Mummy and The Curse of the Aztec Mummy, and a large portion of it consists of an extended recap of the events from the first two films in the series. The three films were all shot in 1957, one after another without a break in the production schedule.
 
 :: References
 https://en.wikipedia.org/wiki/The_Robot_vs._The_Aztec_Mummy
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi, horror,
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 mad scientist stereotype [The evil mad scientist Dr. Krupp built a cyborg as part of a scheme to steal a valuable Aztec treasure from the tomb of a centuries-old living mummy, Popoca.],
@@ -4982,6 +4976,9 @@ movie: Frankenstein 1970 (1958)
 :: Title
 Frankenstein 1970
 
+:: Date
+1958-07-20
+
 :: Description
 Baron Victor von Frankenstein has suffered torture and disfigurement at the
 hands of the Nazis as punishment for not cooperating with them during World
@@ -4990,17 +4987,14 @@ scientist. Needing funds to support his experiments, the Baron allows a
 television crew to shoot a made-for-television horror film about his monster-
 making family at his castle in Germany.
 
-:: Date
-1958-07-20
-
 :: References
 https://en.wikipedia.org/wiki/Frankenstein_1970
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 coping with being disfigured [Baron Victor von Frankenstein has suffered torture and disfigurement at the hands of the Nazis as punishment for not cooperating with them during World War II.],
@@ -5025,21 +5019,21 @@ movie: Night of the Blood Beast (1958)
 :: Title
 Night of the Blood Beast
 
+:: Date
+1958-08
+
 :: Description
 A team of scientists who are stalked by an alien creature, which implants its
 embryos in an astronaut's body during a space flight.
 
-:: Date
-1958-08
-
 :: References
 https://en.wikipedia.org/wiki/Night_of_the_Blood_Beast
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 human vs. beast [The team of scientists versus the blood beast.],
@@ -5062,21 +5056,21 @@ movie: The Fabulous World of Jules Verne (1958)
 :: Title
 The Fabulous World of Jules Verne
 
+:: Date
+1958-08
+
 :: Description
 A gang of pirates kidnap a scientist and two others to get the secret of the
 scientist's futuristic weapon to aid them with their piracy.
 
-:: Date
-1958-08
-
 :: References
 https://en.wikipedia.org/wiki/The_Fabulous_World_of_Jules_Verne
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 the dangers of unfettered scientific advancement [Wonderful inventions were brought about with science, like a submarine, but also a nuclear bomb.],
@@ -5100,6 +5094,9 @@ movie: It The Terror from Beyond Space (1958)
 :: Title
 It! The Terror from Beyond Space
 
+:: Date
+1958-08-13
+
 :: Description
 Earth's second mission to Mars to discover the fate of the first. They find a
 sole survivor of that mission and bring him back. The survivor, the
@@ -5107,17 +5104,14 @@ expedition's former commander, claims that his crew were killed by a hostile
 Martian life form. No one believes him until the creature, now a stowaway,
 begins hunting the rescue ship's crew as they return to Earth.
 
-:: Date
-1958-08-13
-
 :: References
 https://en.wikipedia.org/wiki/It!_The_Terror_from_Beyond_Space
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 interplanetary space travel [The second ever mission to Mars was sent to discover the fate of the first.],
@@ -5139,21 +5133,21 @@ movie: The Hideous Sun Demon (1958)
 :: Title
 The Hideous Sun Demon
 
+:: Date
+1958-08-29
+
 :: Description
 A scientist is exposed to a radioactive isotope and soon finds out that it
 comes with horrifying consequences.
 
-:: Date
-1958-08-29
-
 :: References
 https://en.wikipedia.org/wiki/The_Hideous_Sun_Demon
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the dangers of radioactivity [Gil McKenna was transformed into a hideous sun beast after being exposed to a radioactive isotope and sunlight.],
@@ -5174,20 +5168,20 @@ movie: Earth vs the Spider (1958)
 :: Title
 Earth vs. the Spider
 
-:: Description
-A giant mutant spider attacks a small American town.
-
 :: Date
 1958-09
+
+:: Description
+A giant mutant spider attacks a small American town.
 
 :: References
 https://en.wikipedia.org/wiki/Earth_vs._the_Spider
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 romantic love [Mike Simpson and Carol Flynn.],
@@ -5215,21 +5209,21 @@ movie: The Brain Eaters (1958)
 :: Title
 The Brain Eaters
 
+:: Date
+1958-09
+
 :: Description
 The sudden appearance of a strange, metallic cone-shaped object outside a
 small Illinois town coincides with the town residents disappearing one by one.
 
-:: Date
-1958-09
-
 :: References
 https://en.wikipedia.org/wiki/The_Brain_Eaters
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi,
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 neural parasite [Neural parasites originating from deep inside the Earth were parasitizings the residents of an Illinois town.],
@@ -5250,21 +5244,21 @@ movie: The Day the Sky Exploded (1958)
 :: Title
 The Day the Sky Exploded
 
+:: Date
+1958-09
+
 :: Description
 Civilization on Earth is imperiled by a swarm of meteors on a collision
 course.
 
-:: Date
-1958-09
-
 :: References
 https://en.wikipedia.org/wiki/The_Day_the_Sky_Exploded
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 asteroid impact [A swarm of meteors is discovered to be on a collision course with Earth.],
@@ -5294,21 +5288,21 @@ movie: Queen of Outer Space (1958)
 :: Title
 Queen of Outer Space
 
+:: Date
+1958-09-07
+
 :: Description
 A revolt against a cruel Venusian queen, was based on an idea supplied by Ben
 Hecht, originally titled Queen of the Universe.
 
-:: Date
-1958-09-07
-
 :: References
 https://en.wikipedia.org/wiki/Queen_of_Outer_Space
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 interplanetary space travel [Captain Patterson and his space crew crash land on Venus.],
@@ -5340,6 +5334,9 @@ movie: I Married a Monster from Outer Space (1958)
 :: Title
 I Married a Monster from Outer Space
 
+:: Date
+1958-09-10
+
 :: Description
 A young wife that begins to realize that her husband is not the man he was
 before they married. He has lost all real affection for her and for his new
@@ -5348,17 +5345,14 @@ that he is not the only man in town that appears to have changed. Now
 suspicious, she follows him one evening when he goes out for a walk and
 shockingly discovers that her husband is actually an alien humanoid.
 
-:: Date
-1958-09-10
-
 :: References
 https://en.wikipedia.org/wiki/I_Married_a_Monster_from_Outer_Space
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 husband and wife [Marge Farrell and Bill Farrell.],
@@ -5381,21 +5375,21 @@ movie: The Astounding She-Monster (1958)
 :: Title
 The Astounding She-Monster
 
+:: Date
+1958-09-12
+
 :: Description
 A gang has kidnapped a rich heiress, and they encounter a beautiful but deadly
 female alien who has crashed to Earth.
 
-:: Date
-1958-09-12
-
 :: References
 https://en.wikipedia.org/wiki/The_Blob
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 human vs. captivity [Wealthy socialite Margaret Chaffee is kidnapped by gangsters and held for ransom. The gangsters take over Dick Cutler's house and hold him captive, too.],
@@ -5414,6 +5408,9 @@ movie: The Blob (1958)
 :: Title
 The Blob
 
+:: Date
+1958-09-12
+
 :: Description
 A growing, corrosive, alien amoeboidal entity that crashes to Earth from outer
 space inside a meteorite. It devours and dissolves citizens in the small
@@ -5421,17 +5418,14 @@ communities of Phoenixville and Downingtown, PA, growing larger, redder, and
 more aggressive each time it does so, eventually becoming larger than a
 building.
 
-:: Date
-1958-09-12
-
 :: References
 https://en.wikipedia.org/wiki/The_Blob
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 invasive life form from outer space [A growing, corrosive, amoeboidal entity from outer space devoured and dissolved everyone in its path.],
@@ -5452,6 +5446,9 @@ movie: The Trollenberg Terror (1958)
 :: Title
 The Trollenberg Terror
 
+:: Date
+1958-10-07
+
 :: Description
 United Nations troubleshooter Alan Brooks, later joined by journalist Philip
 Truscott, investigating unusual accidents occurring in the area of a resort
@@ -5460,17 +5457,14 @@ these deaths are related to a series of similar incidents that occurred three
 years earlier in the Andes mountains, which involved an unexplained
 radioactive mist and odd cloud formation believed by locals to be inhabited.
 
-:: Date
-1958-10-07
-
 :: References
 https://en.wikipedia.org/wiki/The_Trollenberg_Terror
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 living space cloud [A radioactive mist, hypothesized to be form outer space, was lurking about on the Mount Trollenberg peak. Note that the cloud was ultimately discovered to harbor a multi-tentacled creature with a single huge eye.],
@@ -5488,21 +5482,21 @@ movie: From the Earth to the Moon (1958)
 :: Title
 From the Earth to the Moon
 
+:: Date
+1958-11-06
+
 :: Description
 From the Earth to the Moon is the only film adaptation of the Jules Verne
 science fiction novel of the same name.
 
-:: Date
-1958-11-06
-
 :: References
 https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 interplanetary space travel [Victor Barbicane used the power of "Power X" to attempt a flight to the Moon and back.],
@@ -5526,21 +5520,21 @@ movie: Monster from Green Hell (1958)
 :: Title
 Monster from Green Hell
 
+:: Date
+1958-12
+
 :: Description
 Wasps, made giant after being exposed to massive amounts of cosmic radiation
 in outer space, cause turmoil in Central Africa.
 
-:: Date
-1958-12
-
 :: References
 https://en.wikipedia.org/wiki/Monster_from_Green_Hell
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 human vs. beast [Expedition team versus giant mutated wasps.],
@@ -5563,21 +5557,21 @@ movie: The Lost Missile (1958)
 :: Title
 The Lost Missile
 
+:: Date
+1958-12-01
+
 :: Description
 A missile-like object of unknown origin circles round and round in Earth's
 atmosphere.
 
-:: Date
-1958-12-01
-
 :: References
 https://en.wikipedia.org/wiki/The_Lost_Missile
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 accidental alien destruction of planetary civilization [A lost alien spaceship circled round and round in Earth's atmosphere, burning it up.],
@@ -5600,21 +5594,21 @@ movie: Frankensteins Daughter (1958)
 :: Title
 Frankenstein's Daughter
 
+:: Date
+1958-12-15
+
 :: Description
 The film, set in mid-20th century America, tells the story of the creation of
 the first female "Frankenstein's monster".
 
-:: Date
-1958-12-15
-
 :: References
 https://en.wikipedia.org/wiki/Frankenstein%27s_Daughter
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 the quest for immortality [Carter Morgan was developing a panacea that cures all disease so that people can live forever.],
@@ -5644,6 +5638,9 @@ movie: Missile to the Moon (1958)
 :: Title
 Missile to the Moon
 
+:: Date
+1958-12-15
+
 :: Description
 A spaceship blasts off from Earth with five aboard, but one of them is
 secretly a Moon man returning home. He dies by accident during the trip to
@@ -5651,17 +5648,14 @@ Luna. What the remaining four find waiting for them when they arrive on the
 Moon is well beyond their expectations: huge rock creatures, giant lunar
 spiders, and a cave-dwelling civilization made up of beautiful women.
 
-:: Date
-1958-12-15
-
 :: References
 https://en.wikipedia.org/wiki/Missile_to_the_Moon
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 Moon people [A spaceship blasts off from Earth with five aboard, but one of them is secretly a Moon man returning home.],
@@ -5692,22 +5686,22 @@ movie: Monster on the Campus (1958)
 :: Title
 Monster on the Campus
 
+:: Date
+1958-12-17
+
 :: Description
 A university science professor accidentally comes into contact with the gamma
 ray irradiated blood of a coelacanth, which causes him to devolve into being a
 primitive caveman.
 
-:: Date
-1958-12-17
-
 :: References
 https://en.wikipedia.org/wiki/Monster_on_the_Campus
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 devolution [Dr. Donald Blake devolved into a primitive caveman after accidentally coming into contact with the gamma ray irradiated blood of a coelacanth.],
@@ -5731,20 +5725,20 @@ movie: Teenage Zombies (1959)
 :: Title
 Teenage Zombies
 
-:: Description
-A group of teenagers are marooned on an island inhabited by a female mad scientist, her pet gorilla and a zombie slave named Ivan. She traps the kids in a cage down in her laboratory, plotting to use them as subjects for her zombie-making experimentation, so she can test out a drug she is working on for an unnamed foreign nation.
-
 :: Date
 1959
+
+:: Description
+A group of teenagers are marooned on an island inhabited by a female mad scientist, her pet gorilla and a zombie slave named Ivan. She traps the kids in a cage down in her laboratory, plotting to use them as subjects for her zombie-making experimentation, so she can test out a drug she is working on for an unnamed foreign nation.
 
 :: References
 https://en.wikipedia.org/wiki/Teenage_Zombies
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi, horror,
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 human vs. captivity [Doctor Myra held four teens captive on her secluded island.],
@@ -5769,23 +5763,23 @@ movie: The Cosmic Man (1959)
 :: Title
 The Cosmic Man
 
+:: Date
+1959-02-17
+
 :: Description
 After being tracked at 180,000 mph inside the Earth's atmosphere, a white,
 spherical object lands in the California desert, accompanied by a strange
 semi-transparent man-shaped humanoid figure. He appears friendly, but is he
 really?
 
-:: Date
-1959-02-17
-
 :: References
 https://en.wikipedia.org/wiki/The_Cosmic_Man
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 transnational institution for peace [The Cosmic Man came to Earth representing some kind of inter-galactic federations of alien races.],
@@ -5808,21 +5802,21 @@ movie: First Man into Space (1959)
 :: Title
 First Man into Space
 
+:: Date
+1959-02-27
+
 :: Description
 The first astronaut into space disappears after landing, which coincides with
 the appearance of a creature prowling around the countryside.
 
-:: Date
-1959-02-27
-
 :: References
 https://en.wikipedia.org/wiki/First_Man_into_Space
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 space travel [Charles Ernest Prescott flew up past 300,000 in the ionosphere before he began careening back to down to the Earth. His brother Dan Milton Prescott seconded Charles' effort by reaching outer space in a subsequent rocket launch.],
@@ -5843,21 +5837,21 @@ movie: The Monster of Piedras Blancas (1959)
 :: Title
 The Monster of Piedras Blancas
 
+:: Date
+1959-04-22
+
 :: Description
 A prehistoric amphibious reptile long presumed extinct terrorizes the
 residents of a small seaside town.
 
-:: Date
-1959-04-22
-
 :: References
 https://en.wikipedia.org/wiki/The_Monster_of_Piedras_Blancas
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 cryptid [A "diplovertebron", a prehistoric amphibious reptile long presumed extinct, terrorized the residents of a small seaside town.],
@@ -5872,21 +5866,21 @@ movie: Invisible Invaders (1959)
 :: Title
 Invisible Invaders
 
+:: Date
+1959-05-15
+
 :: Description
 An atomic scientist is killed in a laboratory explosion and an invisible alien
 takes over his dead body.
 
-:: Date
-1959-05-15
-
 :: References
 https://en.wikipedia.org/wiki/Invisible_Invaders
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 attack from outer space by a powerful conquering enemy [Invisible aliens threatened to conquer Earth if the people of Earth didn't stop manufacturing nuclear weapons within 24 hours.],
@@ -5913,6 +5907,9 @@ movie: The World the Flesh and the Devil (1959)
 :: Title
 The World, the Flesh and the Devil
 
+:: Date
+1959-05-20
+
 :: Description
 The World, the Flesh and the Devil is a 1959 American science fiction doomsday
 film written and directed by Ranald MacDougall. The film stars Harry
@@ -5921,17 +5918,14 @@ post-apocalyptic world with very few human survivors. It is based on two
 sources: the novel The Purple Cloud by M. P. Shiel and the story "End of the
 World" by Ferdinand Reyher.
 
-:: Date
-1959-05-20
-
 :: References
 https://en.wikipedia.org/wiki/The_World,_the_Flesh_and_the_Devil_(1959_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 nuclear holocaust [An unknown nation had used radioactive isotopes as a weapon, yielding a dust cloud that spread globally and was completely lethal for a five-day period.],
@@ -5952,23 +5946,23 @@ movie: Teenagers from Outer Space (1959)
 :: Title
 Teenagers from Outer Space
 
+:: Date
+1959-06
+
 :: Description
 Alien teenager Derek abandons his crew to search for a new life on Earth,
 while one of his crewmates is sent to kill him while they attempt to eradicate
 human life in order to farm Earth with giant lobster-like livestock they call
 Gargons.
 
-:: Date
-1959-06
-
 :: References
 https://en.wikipedia.org/wiki/Teenagers_from_Outer_Space
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 attack from outer space by a powerful conquering enemy [An alien spaceship comes to Earth while searching for a planet suitable to raise Gargons, a lobster-like but air-breathing creature that is a delicacy on their home world.],
@@ -5996,21 +5990,21 @@ movie: The Killer Shrews (1959)
 :: Title
 The Killer Shrews
 
+:: Date
+1959-06-25
+
 :: Description
 Two or three hundred giant shrews besiege a group of people on a remote island
 in the middle of a hurricane.
 
-:: Date
-1959-06-25
-
 :: References
 https://en.wikipedia.org/wiki/The_Killer_Shrews
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 overpopulated world [Dr. Marlowe Cragis was researching about how to make future generations of people smaller in size as a means of preventing the Earth from becoming overpopulated. The giant shrews overpopulating their remote island and depleted their food supply symbolized people depleting the natural resources of the Earth..],
@@ -6033,20 +6027,20 @@ movie: The Giant Gila Monster (1959)
 :: Title
 The Giant Gila Monster
 
-:: Description
-A giant lizard terrorizes the residents of a small American town.
-
 :: Date
 1959-06-25
+
+:: Description
+A giant lizard terrorizes the residents of a small American town.
 
 :: References
 https://en.wikipedia.org/wiki/The_Giant_Gila_Monster
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi, horror,
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 cryptid [The giant Gila monster.],
@@ -6075,22 +6069,22 @@ movie: Return of the Fly (1959)
 :: Title
 Return of the Fly
 
+:: Date
+1959-07
+
 :: Description
 The now an adult son of The Fly, Phillipe Delambre, is determined to vindicate
 his father by successfully completing the teleportation experiment he had
 worked on.
 
-:: Date
-1959-07
-
 :: References
 https://en.wikipedia.org/wiki/Return_of_the_Fly
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 uncle and nephew [Francois Delambre and Philippe Delambre.],
@@ -6111,21 +6105,21 @@ movie: The Manster (1959)
 :: Title
 The Manster
 
+:: Date
+1959-07
+
 :: Description
 A foreign correspondent in Japan is given an experimental drug which causes an
 eye and eventually, a second head to grow from his shoulder.
 
-:: Date
-1959-07
-
 :: References
 https://en.wikipedia.org/wiki/The_Manster
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi, horror,
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 what if I underwent a physical metamorphosis [Larry Stanford is given an experimental drug that makes a second head grow from his shoulder.],
@@ -6150,20 +6144,20 @@ movie: The Alligator People (1959)
 :: Title
 The Alligator People
 
-:: Description
-A woman discovers that her loving husband is a half-human, half-alligator monstrosity.
-
 :: Date
 1959-07-16
+
+:: Description
+A woman discovers that her loving husband is a half-human, half-alligator monstrosity.
 
 :: References
 https://en.wikipedia.org/wiki/The_Alligator_People
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 human-reptile hybrid [Dr. Sinclair unwittingly transformed his patients into half-human, half-alligator monstrosities, including Joyce's wife Paul.],
@@ -6191,6 +6185,9 @@ movie: Plan 9 from Outer Space (1959)
 :: Title
 Plan 9 from Outer Space
 
+:: Date
+1959-07-22
+
 :: Description
 Extraterrestrials who are seeking to stop humanity from creating a doomsday
 weapon that could destroy the universe. The aliens implement Plan 9, a scheme
@@ -6198,17 +6195,14 @@ to resurrect the Earth's dead, referred to as ghouls. By causing chaos, the
 aliens hope the crisis will force humanity to listen to them. If not, the
 aliens will then destroy mankind with armies of the undead.
 
-:: Date
-1959-07-22
-
 :: References
 https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 attack from outer space by a powerful conquering enemy [Aliens came to Earth in flying saucers and resolved to destroy mankind with armies of the undead unless the people of Earth agreed to cease creating a doomsday weapon that could destroy the universe.],
@@ -6235,21 +6229,21 @@ movie: The Head (1959)
 :: Title
 The Head
 
+:: Date
+1959-07-24
+
 :: Description
 After a professor suffers a fatal heart attack, the professor's assistant
 keeps his severed head alive using a special serum.
 
-:: Date
-1959-07-24
-
 :: References
 https://en.wikipedia.org/wiki/The_Head_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi, horror,
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 disembodied head [Dr. Ood kept Professor Abel's severed head alive using a special serum.],
@@ -6269,21 +6263,21 @@ movie: Have Rocket Will Travel (1959)
 :: Title
 Have Rocket, Will Travel
 
+:: Date
+1959-08-01
+
 :: Description
 The Three Stooges are janitors working at a space center who accidentally
 blast off to Venus.
 
-:: Date
-1959-08-01
-
 :: References
 https://en.wikipedia.org/wiki/Have_Rocket,_Will_Travel
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi, comedy,
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 interplanetary space travel [The Three Stooges accidentally blast off on an automatic course to the planet Venus.],
@@ -6314,6 +6308,9 @@ movie: The 30 Foot Bride of Candy Rock (1959)
 :: Title
 The 30 Foot Bride of Candy Rock
 
+:: Date
+1959-08-06
+
 :: Description
 Artie Pinsetter is a junk collector and amateur inventor who lives in the
 desert town of Candy Rock. Artie's fiancée, Emmy Lou Raven, is exposed to
@@ -6323,17 +6320,14 @@ Artie nervously explains to his betrothed's rich uncle that she has gotten
 marry her immediately. Artie eventually manages to restore her to her normal
 size.
 
-:: Date
-1959-08-06
-
 :: References
 https://en.wikipedia.org/wiki/The_30_Foot_Bride_of_Candy_Rock
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 what if I grew in size [Emmy Lou Raven grew into a thirty-foot giantess after being exposed to radiation.],
@@ -6361,20 +6355,20 @@ movie: Space Invasion of Lapland (1959)
 :: Title
 Space Invasion of Lapland
 
-:: Description
-Aliens land in Lapland and unleash a large creature on the local people.
-
 :: Date
 1959-08-19
+
+:: Description
+Aliens land in Lapland and unleash a large creature on the local people.
 
 :: References
 https://en.wikipedia.org/wiki/Space_Invasion_of_Lapland
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 attack from outer space by a powerful conquering enemy [Space alien invade Lapland.],
@@ -6394,22 +6388,22 @@ movie: Attack of the Giant Leeches (1959)
 :: Title
 Attack of the Giant Leeches
 
+:: Date
+1959-10
+
 :: Description
 In the Florida Everglades, a pair of larger-than-human, intelligent leeches
 live in an underwater cave. They begin dragging locals down to their cave,
 where they slowly feed on them, draining their victims of blood.
 
-:: Date
-1959-10
-
 :: References
 https://en.wikipedia.org/wiki/Attack_of_the_Giant_Leeches
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 romantic love [Steve Benton and Nan Greyson.],
@@ -6434,22 +6428,22 @@ movie: 4D Man (1959)
 :: Title
 4D Man
 
+:: Date
+1959-10-07
+
 :: Description
 Brilliant but irresponsible scientist, Dr. Tony Nelson, develops an electronic
 amplifier that he hopes will allow any object to achieve a 4th dimensional
 state.
 
-:: Date
-1959-10-07
-
 :: References
 https://en.wikipedia.org/wiki/4D_Man
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 obsession [Dr. Tony Nelson was obsessed with developing a technology that would enable him to cross the threshold into the 4th dimension.],
@@ -6471,22 +6465,22 @@ movie: The Wasp Woman (1959)
 :: Title
 The Wasp Woman
 
+:: Date
+1959-10-30
+
 :: Description
 A scientist who is fired from his job at a honey farm for experimenting with
 wasps goes on to develop a serum from the royal jelly of a queen wasp that can
 reverse the aging process.
 
-:: Date
-1959-10-30
-
 :: References
 https://en.wikipedia.org/wiki/The_Wasp_Woman
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 anti-aging technology [Dr. Eric Zinthrop developed an age reversing serum from the royal jelly of a queen wasp.],
@@ -6508,22 +6502,22 @@ movie: The Angry Red Planet (1959)
 :: Title
 The Angry Red Planet
 
+:: Date
+1959-11-23
+
 :: Description
 A rocketship returns from Mars but one of the two surviving crew member is
 too shocked to remember what happened on the mission, and the other is
 delirious and all covered in green goo.
 
-:: Date
-1959-11-23
-
 :: References
 https://en.wikipedia.org/wiki/The_Angry_Red_Planet
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 interplanetary space travel [The crew of a mission to Mars return to Earth, and one of the only two surviving crew members, Iris Ryan, goes on to recount the details of her harrowing voyage.],
@@ -6548,6 +6542,9 @@ movie: The Atomic Submarine (1959)
 :: Title
 The Atomic Submarine
 
+:: Date
+1959-11-29
+
 :: Description
 An alien invasion that begins when an underwater UFO attacks the world's
 shipping for unknown reasons. The film showcases the (then) new technology of
@@ -6555,17 +6552,14 @@ nuclear submarines and follows the crew and scientists aboard the atomic
 powered USS Tigershark, which has been ordered to hunt down the mysterious
 underwater saucer and stop its disruption of sea commerce.
 
-:: Date
-1959-11-29
-
 :: References
 https://en.wikipedia.org/wiki/The_Atomic_Submarine
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Choice Themes
 speculative submarine [The film showcases the (then) new technology of nuclear submarines and follows the crew and scientists aboard the atomic powered USS Tigershark.],
@@ -6589,6 +6583,9 @@ movie: The Man Who Could Cheat Death (1959)
 :: Title
 The Man Who Could Cheat Death
 
+:: Date
+1959-11-30
+
 :: Description
 In Paris during 1890, 104-year-old Georges Bonnet is a sculptor who maintains
 a youthful appearance by regularly committing murder and using his victims’
@@ -6598,17 +6595,14 @@ Ludwig Weiss to perform it. He declines and Bonnet then blackmails Pierre
 Gerard into performing the operation by endangering the life of Janine Dubois,
 a young lady in whom both Bonnet and Gerard are romantically interested.
 
-:: Date
-1959-11-30
-
 :: References
 https://en.wikipedia.org/wiki/The_Man_Who_Could_Cheat_Death
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 the quest for immortality [The 104-year-old Georges Bonnet maintains a youthful appearance by regularly committing murder and using his victims’ parathyroid glands as an elixir to ward off the signs of age.],
@@ -6629,21 +6623,21 @@ movie: Journey to the Center of the Earth (1959)
 :: Title
 Journey to the Center of the Earth
 
+:: Date
+1959-12-16
+
 :: Description
 An adventure film adapted by Charles Brackett from the novel of the same name
 by Jules Verne.
 
-:: Date
-1959-12-16
-
 :: References
 https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth_(1959_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 Hollow Earth [Professor Oliver Lindenbrook led an expedition to the center of the Earth.],
@@ -6668,6 +6662,9 @@ movie: On the Beach (1959)
 :: Title
 On the Beach
 
+:: Date
+1959-12-17
+
 :: Description
 On the Beach is a 1959 American post-apocalyptic science fiction drama film
 from United Artists, produced and directed by Stanley Kramer, that stars
@@ -6677,17 +6674,14 @@ aftermath of a nuclear war. Unlike the novel, no one is assigned blame for
 starting the war; the film hints that the threat of annihilation may have
 arisen from an accident or misjudgment.
 
-:: Date
-1959-12-17
-
 :: References
 https://en.wikipedia.org/wiki/On_the_Beach_(1959_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 nuclear holocaust [The film depicts people in Australia trying to survive in the aftermath of a nuclear war which has left the Northern Hemisphere utterly devastated and devoid of life.],
@@ -6708,20 +6702,20 @@ movie: Battle in Outer Space (1959)
 :: Title
 Battle in Outer Space
 
-:: Description
-Aliens from the planet Natal launch a full scale invasion of Earth.
-
 :: Date
 1959-12-26
+
+:: Description
+Aliens from the planet Natal launch a full scale invasion of Earth.
 
 :: References
 https://en.wikipedia.org/wiki/Battle_in_Outer_Space
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 attack from outer space by a powerful conquering enemy [Aliens from the planet Natal launch a full scale invasion of Earth.],

@@ -7,15 +7,15 @@ Science fiction films of the 1930s
 :: Date
 1930-1939
 
-:: Collections
-Collection: Science fiction films of the 1930s
-
 :: Description
 Science fiction films that premiered between 1 January 1930 and 31 December
 1939.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_science_fiction_films_of_the_1930s
+
+:: Collections
+Collection: Science fiction films of the 1930s
 
 
 movie: Alraune (1930)
@@ -24,21 +24,21 @@ movie: Alraune (1930)
 :: Title
 Alraune
 
+:: Date
+1930-03-02
+
 :: Description
 Professor ten Brinken artificially inseminates a bar girl with a mandrake root
 that was somehow formed from the semen of a hanged man.
 
-:: Date
-1930-03-02
-
 :: References
 https://en.wikipedia.org/wiki/Alraune_(1930_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 mandrake root legend [story based on the legend that old German mandrake legend related to using a mandrake root that is somehow formed from the sperm of a hanged man to impregnate women],
@@ -60,22 +60,22 @@ movie: Just Imagine (1930)
 :: Title
 Just Imagine
 
+:: Date
+1930-11-23
+
 :: Description
 A portrayal of New York City in an imagined 1980 where tenement houses have
 morphed into 250-story buildings, connected by suspension bridges and multi-
 lane elevated roads.
 
-:: Date
-1930-11-23
-
 :: References
 https://en.wikipedia.org/wiki/Just_Imagine
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 infatuation [J-21 and LN-18],
@@ -111,23 +111,23 @@ movie: The End of the World (1931)
 :: Title
 The End of the World
 
+:: Date
+1931-01-23
+
 :: Description
 A comet hurtling toward Earth on a collision course and the different
 reactions people have to the impending disaster. Scientist Martial Novalic who
 discovers the comet, seeks a solution to the problem and becomes a fugitive
 after skeptical authorities blame him for starting a mass panic.
 
-:: Date
-1931-01-23
-
 :: References
 https://en.wikipedia.org/wiki/End_of_the_World_(1931_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 transnational institution for peace [The One World Congress which unanimously agrees to unite all governments into a single harmonious entity after the people of Earth are miraculously spared from a cometary collision.],
@@ -153,23 +153,23 @@ movie: Frankenstein (1931)
 :: Title
 Frankenstein
 
+:: Date
+1931-11-21
+
 :: Description
 A scientist and his assistant who dig up corpses to build a man animated by
 electricity, but his assistant accidentally gives the creature an abnormal,
 murderer's brain. The resultant monster is portrayed by Boris Karloff in the
 film.
 
-:: Date
-1931-11-21
-
 :: References
 https://en.wikipedia.org/wiki/Frankenstein_(1931_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 hubris [Frankenstein was convinced he had found a way to create a normal human being, but he instead created a monster],
@@ -196,21 +196,21 @@ movie: Dr. Jekyll and Mr. Hyde (1931)
 :: Title
 Dr. Jekyll and Mr. Hyde
 
+:: Date
+1931-12-31
+
 :: Description
 The story of Dr. Henry Jekyll, a kind English doctor in Victorian London, who
 is certain that within each man lurks impulses for both good and evil.
 
-:: Date
-1931-12-31
-
 :: References
 https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the human capacity for good and evil [Henry Jekyll has two selves: his philanthropist good self and his evil split personality Edward Hyde],
@@ -238,21 +238,21 @@ movie: L'Atlantide (1932)
 :: Title
 L'Atlantide
 
+:: Date
+1932-06-08
+
 :: Description
 A French officer searches for Atlantis in the sands of the Sahara Desert only
 to be captured by Queen Antinéa, a descendant of the rulers of Atlantis.
 
-:: Date
-1932-06-08
-
 :: References
 https://en.wikipedia.org/wiki/L%27Atlantide_(1932_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 Atlantis [St. Avil search for Atlantis in the sands of the Sahara Desert only to be captured by Queen Antinéa, a descendant of the rulers of Atlantis.],
@@ -270,6 +270,9 @@ movie: Chandu the Magician (1932)
 :: Title
 Chandu the Magician
 
+:: Date
+1932-08-18
+
 :: Description
 For three years, Frank Chandler has studied eastern magic with the Yogis in
 India and is now known by his new identity, Chandu. He now has the power to
@@ -277,17 +280,14 @@ teleport, astral project, mesmerize, as well as project illusions. With these
 supernatural abilities he has been entrusted by his teacher to go forth with
 his youth and strength to conquer the evil that threatens mankind.
 
-:: Date
-1932-08-18
-
 :: References
 https://en.wikipedia.org/wiki/Chandu_the_Magician_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 death ray [The inventor Robert Regent developed a death ray whose beams reach half way round the world.],
@@ -309,21 +309,21 @@ movie: Six Hours to Live (1932)
 :: Title
 Six Hours to Live
 
+:: Date
+1932-10-16
+
 :: Description
 Captain Paul Onslow is brought back to life after being assassinated, but has
 only six hours to live.
 
-:: Date
-1932-10-16
-
 :: References
 https://en.wikipedia.org/wiki/Six_Hours_to_Live
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 free trade [Representatives from governments of the all countries of the world met to negotiate a world-wide free trade agreement. Paul Onslow cast Sloveria ballot against agreement, which in his view, was for the good of the people. The treaty was vetoed as a result.],
@@ -351,22 +351,22 @@ movie: Island of Lost Souls (1932)
 :: Title
 Island of Lost Souls
 
+:: Date
+1932-12
+
 :: Description
 The first film adaptation of the H. G. Wells novel The Island of Dr. Moreau,
 published in 1896. Both book and film are about an obsessed scientist who is
 secretly conducting surgical experiments on animals on a remote island.
 
-:: Date
-1932-12
-
 :: References
 https://en.wikipedia.org/wiki/Island_of_Lost_Souls_(1932_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 species uplifting [Dr. Moreau became obsessed with transforming animals into humans.],
@@ -394,22 +394,22 @@ movie: F.P.1 Doesn't Respond (1932)
 :: Title
 F.P.1 Doesn't Respond
 
+:: Date
+1932-12-22
+
 :: Description
 Lieutenant Droste wants to build an air station in the middle of the ocean to
 allow pilots on intercontinental flights to refuel and repair any damage to
 their aircraft.
 
-:: Date
-1932-12-22
-
 :: References
 https://en.wikipedia.org/wiki/F.P.1
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 artificial island [An artificial island of glass and steel, the Floating Platform 1, is constructed in the middle of the Atlantic ocean in order to serve as a stopping point for trans-Atlantic flights.],
@@ -427,23 +427,23 @@ movie: Men Must Fight (1933)
 :: Title
 Men Must Fight
 
+:: Date
+1933-02-17
+
 :: Description
 When Laura Mattson's lover is killed in World War I, she raises their son as a
 pacifist. However, when a second world war looms "between the United States
 and a country referred to as the Eurasian States in 1940", that belief is put
 to the test.
 
-:: Date
-1933-02-17
-
 :: References
 https://en.wikipedia.org/wiki/Men_Must_Fight
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 pacifism [Laura Mattson raises her son Bob Seward as a pacifist but a looming war puts their pacifist way of life to the test.],
@@ -471,15 +471,18 @@ movie: King Kong (1933)
 :: Title
 King Kong
 
+:: Date
+1933-03-02
+
 :: Description
 A huge, ape-like creature dubbed Kong perishes in an attempt to possess a
 beautiful young woman.
 
-:: Date
-1933-03-02
-
 :: References
 https://en.wikipedia.org/wiki/King_Kong_(1933_film)
+
+:: Genre
+sci-fi, adventure, horror,
 
 :: Collections
 Collection: Rotten Tomatoes Top 100 films
@@ -487,9 +490,6 @@ Collection: Rotten Tomatoes Top 100 films
 :: Ratings
 5 <paul>,
 5 <mikael>,
-
-:: Genre
-sci-fi, adventure, horror,
 
 :: Choice Themes
 giant monster [King Kong rampaged in New York City.],
@@ -522,21 +522,21 @@ movie: Deluge (1933)
 :: Title
 Deluge
 
+:: Date
+1933-08-13
+
 :: Description
 A group of worldwide natural disasters lead to the destruction of civilization
 on Earth.
 
-:: Date
-1933-08-13
-
 :: References
 https://en.wikipedia.org/wiki/Deluge_(film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 catastrophic flood [A group of worldwide natural disasters, most notably a global flood, lead to the destruction of Earth.],
@@ -555,23 +555,23 @@ movie: The Invisible Man (1933)
 :: Title
 The Invisible Man
 
+:: Date
+1933-11-13
+
 :: Description
 A scientist who has devoted himself to research into optics and invents a way
 to change a body's refractive index to that of air so that it neither absorbs
 nor reflects light and thus becomes invisible. He successfully carries out
 this procedure on himself, but fails in his attempt to reverse it.
 
-:: Date
-1933-11-13
-
 :: References
 https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Choice Themes
 invisibility ability [Jack Griffin made himself invisible and was unable to reverse the condition.],
@@ -599,20 +599,20 @@ movie: Life Returns (1935)
 :: Title
 Life Returns
 
-:: Description
-A doctor is convinced that the dead can be brought back to life gets the chance to prove his theory on a dog that has recently died.
-
 :: Date
 1935-01-02
+
+:: Description
+A doctor is convinced that the dead can be brought back to life gets the chance to prove his theory on a dog that has recently died.
 
 :: References
 https://en.wikipedia.org/wiki/Life_Returns
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 revival long after death [The film culminated with Dr. Frederick bringing Danny's recently euthanized dog back from the dead.],
@@ -632,23 +632,23 @@ movie: Loss of Sensation (1935)
 :: Title
 Loss of Sensation
 
+:: Date
+1935-04-17
+
 :: Description
 The engineer Jim Ripl invents universal robots to help workers, being himself
 from a workers' family. He theorizes that cheap production will make all goods
 so cheap that capitalism will fall, but the workers do not share his view and
 his family considers him a traitor.
 
-:: Date
-1935-04-17
-
 :: References
 https://en.wikipedia.org/wiki/Loss_of_Sensation
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 workers replaced by machines [Jim Ripl invents universal robots to help workers, but the workers fear the robots will take their jobs.],
@@ -670,22 +670,22 @@ movie: Bride of Frankenstein (1935)
 :: Title
 Bride of Frankenstein
 
+:: Date
+1935-04-20
+
 :: Description
 A chastened Henry Frankenstein abandons his plans to create life, only to be
 tempted and finally coerced by his old mentor Dr. Pretorius, along with
 threats from the Monster, into constructing a mate for the Monster.
 
-:: Date
-1935-04-20
-
 :: References
 https://en.wikipedia.org/wiki/Bride_of_Frankenstein
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 playing God with nature [Mary Shelly explains the moral of the original Frankenstein film in the introduction.; Henry Frankenstein creates a bride for the hideous monster of his own creation.],
@@ -713,22 +713,22 @@ movie: Air Hawks (1935)
 :: Title
 Air Hawks
 
+:: Date
+1935-05-07
+
 :: Description
 Pilot Barry Eldon is the owner of Independent Transcontinental Lines whose
 airline is in direct competition with Martin Drewen, owner of Consolidated
 Airlines. Drewen used a death ray to shoot down Eldon's airplanes.
 
-:: Date
-1935-05-07
-
 :: References
 https://en.wikipedia.org/wiki/Air_Hawks
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 death ray [Shulter invents a death ray that Drewen plots to use to bring down three of Eldon's aircraft.],
@@ -746,21 +746,21 @@ movie: The Tunnel (1935)
 :: Title
 The Tunnel
 
+:: Date
+1935-10-27
+
 :: Description
 A group of wealthy industrialists commission the engineer Richard McAllan to
 spearhead the building of a transatlantic tunnel between New York and London.
 
-:: Date
-1935-10-27
-
 :: References
 https://en.wikipedia.org/wiki/The_Tunnel_(1935_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 undersea tunnel [A group of wealthy industrialists build of a transatlantic tunnel between New York and London.],
@@ -786,6 +786,9 @@ movie: The Invisible Ray (1936)
 :: Title
 The Invisible Ray
 
+:: Date
+1936-01-20
+
 :: Description
 A scientist creates a telescope-like device that captures light-waves from the
 Andromeda Galaxy, giving him a way to view the distant past. Using this
@@ -795,17 +798,14 @@ poisonous unknown element, "Radium X". After exposure to its rays begins to
 make him glow in the dark, his touch becomes deadly, and he begins to be slowly
 driven mad.
 
-:: Date
-1936-01-20
-
 :: References
 https://en.wikipedia.org/wiki/The_Invisible_Ray_(1936_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 science for war or peace [Janos Rukh harnessed the power of Radium X for evil but Felix Benet wished to use it for the good of society by using to to cure people of illness.],
@@ -832,21 +832,21 @@ movie: Cosmic Voyage (1936)
 :: Title
 Cosmic Voyage
 
+:: Date
+1936-01-21
+
 :: Description
 In the year 1946, Professor Pavel Ivanovich Sedikh leads the first manned
 exploration to the moon as part of the Soviet space program.
 
-:: Date
-1936-01-21
-
 :: References
 https://en.wikipedia.org/wiki/Cosmic_Voyage_(1936_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 interplanetary space travel [Professor Pavel Sedikh and his assistants make a successful landing on the Moon.],
@@ -866,20 +866,20 @@ movie: The Walking Dead (1936)
 :: Title
 The Walking Dead
 
-:: Description
-A wrongly executed man who is restored to life by a scientist.
-
 :: Date
 1936-02-29
+
+:: Description
+A wrongly executed man who is restored to life by a scientist.
 
 :: References
 https://en.wikipedia.org/wiki/The_Walking_Dead_(1936_film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 revival long after death [John Ellman is restored to life after being hanged for a crime he didn't commit.],
@@ -902,22 +902,22 @@ movie: Ghost Patrol (1936)
 :: Title
 Ghost Patrol
 
+:: Date
+1936-08-03
+
 :: Description
 A scientific genius has invented a machine capable of causing planes to crash.
 He uses it on planes loaded with valuables. Various characters become involved
 in conspiracies and double crosses in an attempt to stop him.
 
-:: Date
-1936-08-03
-
 :: References
 https://en.wikipedia.org/wiki/Ghost_Patrol
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 death ray [A scientist invents a ray capable of knocking down airplanes out of the sky.],
@@ -934,21 +934,21 @@ movie: The Man Who Changed His Mind (1936)
 :: Title
 The Man Who Changed His Mind
 
+:: Date
+1936-09-11
+
 :: Description
 A mad scientist swaps the minds of a crippled man and a well known
 philanthropist.
 
-:: Date
-1936-09-11
-
 :: References
 https://en.wikipedia.org/wiki/The_Man_Who_Changed_His_Mind
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 mind transfer technology [Dr. Laurience transfered the mind of Clayton into philanthropist Lord Haslewood. He also transfered the mind from one chimp into another.],
@@ -972,21 +972,21 @@ movie: Things to Come (1936)
 :: Title
 Things to Come
 
+:: Date
+1936-09-14
+
 :: Description
 A 1936 British black-and-white science fiction film based on the H. G. Wells
 novel The Shape of Things to Come.
 
-:: Date
-1936-09-14
-
 :: References
 https://en.wikipedia.org/wiki/Things_to_Come
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 war of mutual annihilation [An aerial bombing raid on Everytown city results in general mobilisation and then global war that throws the world into a dark age],
@@ -1012,21 +1012,21 @@ movie: Non-Stop New York (1937)
 :: Title
 Non-Stop New York
 
+:: Date
+1937-09-13
+
 :: Description
 A woman who can clear an innocent man of the charge of murder is pursued by
 gangsters onto a luxurious transatlantic flying boat.
 
-:: Date
-1937-09-13
-
 :: References
 https://en.wikipedia.org/wiki/Non-Stop_New_York
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 speculative vehicle [Jennie snuck aboard the Atlantic Airlines "Libson Clipper", a giant transatlantic flying boat.],
@@ -1045,20 +1045,20 @@ movie: Son of Frankenstein (1939)
 :: Title
 Son of Frankenstein
 
-:: Description
-Dr. Frankenstein's son revives finds his father's monster and revives it.
-
 :: Date
 1939-01-13
+
+:: Description
+Dr. Frankenstein's son revives finds his father's monster and revives it.
 
 :: References
 https://en.wikipedia.org/wiki/Son_of_Frankenstein
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the desire for redemption [Baron Wolf von Frankenstein made a bid to redeem his father's soiled reputation by reviving the monster.],
@@ -1083,20 +1083,20 @@ movie: The Man They Could Not Hang (1939)
 :: Title
 The Man They Could Not Hang
 
-:: Description
-Dr. Savaard is obsessed with bringing the dead back to life. A young medical student offers his services to him, but before he can bring him back to life, Savaard is arrested, convicted, and sentenced to hang. He vows revenge on the judge and the jury before his hanging. His assistant claims his body and revives him by using his technique. The vengeful Savaard goes on a killing spree.
-
 :: Date
 1939-08-17
+
+:: Description
+Dr. Savaard is obsessed with bringing the dead back to life. A young medical student offers his services to him, but before he can bring him back to life, Savaard is arrested, convicted, and sentenced to hang. He vows revenge on the judge and the jury before his hanging. His assistant claims his body and revives him by using his technique. The vengeful Savaard goes on a killing spree.
 
 :: References
 https://en.wikipedia.org/wiki/The_Man_They_Could_Not_Hang
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the quest for immortality [It was Dr. Henryk Savaard's goal in life to bestow humankind with the gift of eternal life. This he planned to do by replacing people's failing organs with artificial ones.],
@@ -1121,21 +1121,21 @@ movie: The Return of Doctor X (1939)
 :: Title
 The Return of Doctor X
 
+:: Date
+1939-12-02
+
 :: Description
 Dr. Maurice Xavier is revived from the dead using synthetic blood to sustain
 him.
 
-:: Date
-1939-12-02
-
 :: References
 https://en.wikipedia.org/wiki/The_Return_of_Doctor_X
 
-:: Ratings
-1 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>,
 
 :: Major Themes
 revival long after death [Flegg revives Dr. Maurice Xavier from the dead using synthetic blood.],

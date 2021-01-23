@@ -7,14 +7,14 @@ William Shakespeare Plays
 :: Date
 1602-1606
 
-:: Collections
-Collection: William Shakespeare Plays
-
 :: Description
 Plays written by the English playwright, poet, and actor William Shakespeare.
 
 :: References
 https://en.wikipedia.org/wiki/Shakespeare%27s_plays
+
+:: Collections
+Collection: William Shakespeare Plays
 
 
 play: The Taming of the Shrew (1592)
@@ -23,22 +23,22 @@ play: The Taming of the Shrew (1592)
 :: Title
 The Taming of the Shrew
 
-:: Authors
-William Shakespeare
+:: Date
+1592
 
 :: Description
 The Taming of the Shrew is a comedy by William Shakespeare, believed to have been written between 1590 and 1592. The play begins with a framing device, often referred to as the induction,[a] in which a mischievous nobleman tricks a drunken tinker named Christopher Sly into believing he is actually a nobleman himself. The nobleman then has the play performed for Sly's diversion.
 
 The main plot depicts the courtship of Petruchio and Katherina, the headstrong, obdurate shrew. Initially, Katherina is an unwilling participant in the relationship; however, Petruchio "tames" her with various psychological torments, such as keeping her from eating and drinking, until she becomes a desirable, compliant, and obedient bride. The subplot features a competition between the suitors of Katherina's younger sister, Bianca, who is seen as the "ideal" woman. The question of whether the play is misogynistic has become the subject of considerable controversy, particularly among modern scholars, audiences, and readers.
 
-:: Date
-1592
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 male gold digging [Petruchio overtly wooed "cursed" Katherina only for the sake of her father's money],
@@ -65,22 +65,22 @@ play: Henry VI Part I (1592)
 :: Title
 Henry VI, Part 1
 
-:: Authors
-William Shakespeare
+:: Date
+1592
 
 :: Description
 Henry VI, Part 1, often referred to as 1 Henry VI, is a history play by William Shakespeare—possibly in collaboration with Christopher Marlowe and Thomas Nashe—believed to have been written in 1591. It is set during the lifetime of King Henry VI of England.
 
 Whereas Henry VI, Part 2 deals with the King's inability to quell the bickering of his nobles and the inevitability of armed conflict and Henry VI, Part 3 deals with the horrors of that conflict, Henry VI, Part 1 deals with the loss of England's French territories and the political machinations leading up to the Wars of the Roses, as the English political system is torn apart by personal squabbles and petty jealousy.
 
-:: Date
-1592
-
-:: Ratings
-3 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Henry_VI,_Part_1
+
+:: Ratings
+3 <mikael>,
 
 :: Choice Themes
 war [England lost its French territories and we saw the beginning of the Wars of the Roses],
@@ -101,20 +101,20 @@ play: The Two Gentlemen of Verona (1593)
 :: Title
 The Two Gentlemen of Verona
 
-:: Authors
-William Shakespeare
+:: Date
+1593
 
 :: Description
 The Two Gentlemen of Verona is a comedy by William Shakespeare, believed to have been written between 1589 and 1593. It is considered by some to be Shakespeare's first play,[a] and is often seen as showing his first tentative steps in laying out some of the themes and motifs with which he would later deal in more detail; for example, it is the first of his plays in which a heroine dresses as a boy. The play deals with the themes of friendship and infidelity, the conflict between friendship and love, and the foolish behaviour of people in love. The highlight of the play is considered by some to be Launce, the clownish servant of Proteus, and his dog Crab, to whom "the most scene-stealing non-speaking role in the canon" has been attributed.
 
-:: Date
-1593
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 love vs. friendship [Valentine and Proteus are fast friends but finds themselves competing for Silvia and must choose whether to pursue love or retain their friendship.],
@@ -143,19 +143,19 @@ play: Titus Andronicus (1594)
 :: Title
 Titus Andronicus
 
-:: Authors
-William Shakespeare, George Peele
-
-:: Description
-
 :: Date
 1594
 
-:: Ratings
-5 <mikael>,
+:: Description
+
+:: Authors
+William Shakespeare, George Peele
 
 :: References
 https://en.wikipedia.org/wiki/Titus_Andronicus
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 the desire for vengeance [Tamora plotted vengeance on Titus and Rome],
@@ -196,22 +196,22 @@ play: Henry VI Part 2 (1594)
 :: Title
 Henry VI, Part 2
 
-:: Authors
-William Shakespeare
+:: Date
+1594
 
 :: Description
 Henry VI, Part 2 (often written as 2 Henry VI) is a history play by William Shakespeare believed to have been written in 1591 and set during the lifetime of King Henry VI of England. Whereas Henry VI, Part 1 deals primarily with the loss of England's French territories and the political machinations leading up to the Wars of the Roses, and Henry VI, Part 3 deals with the horrors of that conflict, 2 Henry VI focuses on the King's inability to quell the bickering of his nobles, the death of his trusted adviser Humphrey, Duke of Gloucester, the rise of the Duke of York and the inevitability of armed conflict. As such, the play culminates with the opening battle of the War, the First Battle of St Albans (1455).
 
 Although the Henry VI trilogy may not have been written in chronological order, the three plays are often grouped together with Richard III to form a tetralogy covering the entire Wars of the Roses saga, from the death of Henry V in 1422 to the rise to power of Henry VII in 1485. It was the success of this sequence of plays that firmly established Shakespeare's reputation as a playwright.
 
-:: Date
-1594
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Henry_VI,_Part_2
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 courtly intrigues [Suffolk, Margaret, and others intrigued for power by capturing the King and getting Gloucester killed],
@@ -246,22 +246,22 @@ play: Richard II (1595)
 :: Title
 Richard II
 
-:: Authors
-William Shakespeare
+:: Date
+1595
 
 :: Description
 The Life and Death of King Richard the Second, commonly called Richard II, is a history play by William Shakespeare believed to have been written in approximately 1595. It is based on the life of King Richard II of England (ruled 1377–1399) and is the first part of a tetralogy, referred to by some scholars as the Henriad, followed by three plays concerning Richard's successors: Henry IV, Part 1; Henry IV, Part 2; and Henry V.
 
 Although the First Folio (1623) edition of Shakespeare's works lists the play as a history play, the earlier Quarto edition of 1597 calls it The tragedie of King Richard the second.
 
-:: Date
-1595
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Richard_II_(play)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 civil war [the exiled Bolingbroke returned to England to overthrow Richard II who had angered the nobility with his cloddishness],
@@ -291,20 +291,20 @@ play: The Comedy of Errors (1595)
 :: Title
 The Comedy of Errors
 
-:: Authors
-William Shakespeare
+:: Date
+1595
 
 :: Description
 The Comedy of Errors is one of William Shakespeare's early plays. It is his shortest and one of his most farcical comedies, with a major part of the humour coming from slapstick and mistaken identity, in addition to puns and word play. The Comedy of Errors is, along with The Tempest, one of only two Shakespearean plays to observe the Aristotelian principle of unity of time—that is, that the events of a play should occur over 24 hours. It has been adapted for opera, stage, screen and musical theatre numerous times worldwide. In the centuries following its premiere, the play's title has entered the popular English lexicon as an idiom for "an event or series of events made ridiculous by the number of errors that were made throughout".
 
-:: Date
-1595
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/The_Comedy_of_Errors
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 
@@ -324,20 +324,20 @@ play: Henry VI Part 3 (1595)
 :: Title
 Henry VI, Part 3
 
-:: Authors
-William Shakespeare
+:: Date
+1595
 
 :: Description
 Henry VI, Part 3 (often written as 3 Henry VI) is a history play by William Shakespeare believed to have been written in 1591 and set during the lifetime of King Henry VI of England. Whereas 1 Henry VI deals with the loss of England's French territories and the political machinations leading up to the Wars of the Roses and 2 Henry VI focuses on the King's inability to quell the bickering of his nobles, and the inevitability of armed conflict, 3 Henry VI deals primarily with the horrors of that conflict, with the once stable nation thrown into chaos and barbarism as families break down and moral codes are subverted in the pursuit of revenge and power.
 
-:: Date
-1595
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Henry_VI,_Part_3
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 the desire for vengeance [Clifford particularly sought vengeance for his father; Magaret tormented York in her lustful vengeance; Warwick swore vengeance; there were many other incidents of that sort and the war became something of a vendetta],
@@ -367,20 +367,20 @@ play: Henry IV Part 1 (1597)
 :: Title
 Henry IV, Part 1
 
-:: Authors
-William Shakespeare
+:: Date
+1597
 
 :: Description
 Henry IV, Part 1 is a history play by William Shakespeare, believed to have been written no later than 1597. It is the second play in Shakespeare's tetralogy dealing with the successive reigns of Richard II, Henry IV (two plays, including Henry IV, Part 2), and Henry V. Henry IV, Part 1 depicts a span of history that begins with Hotspur's battle at Homildon in Northumberland against Douglas late in 1402 and ends with the defeat of the rebels at Shrewsbury in the middle of 1403. From the start, it has been an extremely popular play both with the public and critics.
 
-:: Date
-1597
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Henry_IV,_Part_1
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 
@@ -403,20 +403,20 @@ play: Richard III (1597)
 :: Title
 Richard III
 
-:: Authors
-William Shakespeare
+:: Date
+1597
 
 :: Description
 Richard III is a play by William Shakespeare. It was probably written around 1593. It is labeled a history in the First Folio, and is usually considered one, but it is sometimes called a tragedy, as in the quarto edition.[citation needed] Richard III concludes Shakespeare's first tetralogy (also containing Henry VI, Part 1, and Henry VI, Part 2, and Henry VI, Part 3) and depicts the Machiavellian rise to power and subsequent short reign of King Richard III of England.
 
-:: Date
-1597
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Richard_III_(play)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 the lust for power [Richard was notably hungry for power],
@@ -457,20 +457,20 @@ play: Romeo and Juliet (1597)
 :: Title
 Romeo and Juliet
 
-:: Authors
-William Shakespeare
+:: Date
+1597
 
 :: Description
 Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young star-crossed lovers whose deaths ultimately reconcile their feuding families. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers.
 
-:: Date
-1597
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Romeo_and_Juliet
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 star-crossed lovers [Romeo and Juliet are the archetypal ill-fated lovers],
@@ -509,20 +509,20 @@ play: Love's Labour's Lost (1598)
 :: Title
 Love's Labour's Lost
 
-:: Authors
-William Shakespeare
+:: Date
+1598
 
 :: Description
 Love's Labour's Lost is one of William Shakespeare's early comedies, believed to have been written in the mid-1590s for a performance at the Inns of Court before Queen Elizabeth I. It follows the King of Navarre and his three companions as they attempt to swear off the company of women for three years in order to focus on study and fasting. Their subsequent infatuation with the Princess of France and her ladies makes them forsworn. In an untraditional ending for a comedy, the play closes with the death of the Princess's father, and all weddings are delayed for a year. The play draws on themes of masculine love and desire, reckoning and rationalisation, and reality versus fantasy.
 
-:: Date
-1598
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Love%27s_Labour%27s_Lost
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 
@@ -543,22 +543,22 @@ movie: The Merchant of Venice (1598)
 :: Title
 The Merchant of Venice
 
-:: Authors
-William Shakespeare
-
 :: Date
 1598
-
-:: Ratings
-5 <mikael>,
 
 :: Description
 The Merchant of Venice is a 16th-century play written by William Shakespeare in which a merchant in Venice named Antonio defaults on a large loan provided by a Jewish moneylender, Shylock. It is believed to have been written between 1596 and 1599.
 
 Although classified as a comedy in the First Folio and sharing certain aspects with Shakespeare's other romantic comedies, the play is most remembered for its dramatic scenes, and it is best known for Shylock and his famous "Hath not a Jew eyes?" speech on humanity. Also notable is Portia's speech about "the quality of mercy".
 
+:: Authors
+William Shakespeare
+
 :: References
 https://en.wikipedia.org/wiki/The_Merchant_of_Venice
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 the desire for vengeance [towards the end Shylock refused an offered fortune to forgo his vengeance],
@@ -588,20 +588,20 @@ play: King John (1598)
 :: Title
 King John
 
-:: Authors
-William Shakespeare
+:: Date
+1598
 
 :: Description
 The Life and Death of King John, a history play by William Shakespeare, dramatises the reign of John, King of England (ruled 1199–1216), son of Henry II of England and Eleanor of Aquitaine and father of Henry III of England. It is believed to have been written in the mid-1590s but was not published until it appeared in the First Folio in 1623.
 
-:: Date
-1598
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/King_John_(play)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 war of succession [the war happened because France supported Arthur's claim to the throne that John possessed],
@@ -627,22 +627,22 @@ play: Henry IV Part 2 (1599)
 :: Title
 Henry IV, Part 2
 
-:: Authors
-William Shakespeare
+:: Date
+1599
 
 :: Description
 Henry IV, Part 2 is a history play by William Shakespeare believed to have been written between 1596 and 1599. It is the third part of a tetralogy, preceded by Richard II and Henry IV, Part 1 and succeeded by Henry V.
 
 The play is often seen as an extension of aspects of Henry IV, Part 1, rather than a straightforward continuation of the historical narrative, placing more emphasis on the highly popular character of Falstaff and introducing other comic figures as part of his entourage, including Ancient Pistol, Doll Tearsheet, and Justice Robert Shallow. Several scenes specifically parallel episodes in Part 1.
 
-:: Date
-1599
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Henry_IV,_Part_2
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 
@@ -674,20 +674,20 @@ play: Henry V (1599)
 :: Title
 Henry V
 
-:: Authors
-William Shakespeare
+:: Date
+1599
 
 :: Description
 Henry V is a history play by William Shakespeare, believed to have been written near 1599. It tells the story of King Henry V of England, focusing on events immediately before and after the Battle of Agincourt (1415) during the Hundred Years' War. In the First Quarto text, it was titled The Chronicle History of Henry the fifth, which became The Life of Henry the Fifth in the First Folio text.
 
-:: Date
-1599
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Henry_V_(play)
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 
@@ -714,22 +714,22 @@ play: Julius Caesar (1599)
 :: Title
 Julius Caesar
 
-:: Authors
-William Shakespeare
+:: Date
+1599
 
 :: Description
 The Tragedy of Julius Caesar is a history play and tragedy by William Shakespeare first performed in 1599. It is one of four plays written by Shakespeare based on true events from Roman history, the others being Coriolanus, Titus Andronicus, and Antony and Cleopatra.
 
 Set in Rome in 44 BC, the play depicts the moral dilemma of Brutus as he joins a conspiracy led by Cassius to murder Julius Caesar to prevent him from becoming dictator of Rome. Following Caesar's death, Rome is thrust into a period of civil war, and the republic the conspirators sought to preserve is lost forever.
 
-:: Date
-1599
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Julius_Caesar_(play)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 choosing between conflicting loyalties [Brutus and his co-conspirators choose to be loyal to their Republican ideal instead of to their leader and once-friend Julius Caesar],
@@ -761,20 +761,20 @@ play: A Midsummer Night's Dream (1600)
 :: Title
 A Midsummer Night's Dream
 
-:: Authors
-William Shakespeare
+:: Date
+1600
 
 :: Description
 A Midsummer Night's Dream is a comedy written by William Shakespeare in 1595/96. The play is set in Athens and consists of several subplots that revolve around the marriage of Theseus and Hippolyta. One subplot involves a conflict between four Athenian lovers. Another follows a group of six amateur actors rehearsing the play which they are to perform before the wedding. Both groups find themselves in a forest inhabited by fairies who manipulate the humans and are engaged in their own domestic intrigue. The play is one of Shakespeare's most popular and is widely performed.
 
-:: Date
-1600
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 romantic love [Hermia and Lysander; later various people induced by the magical nectar from the flower love-in-idleness],
@@ -802,22 +802,22 @@ play: Much Ado About Nothing (1600)
 :: Title
 Much Ado About Nothing
 
-:: Authors
-William Shakespeare
+:: Date
+1600
 
 :: Description
 Much Ado About Nothing is a comedy by William Shakespeare thought to have been written in 1598 and 1599. The play was included in the First Folio, published in 1623.
 
 Through "noting" (sounding like "nothing", and meaning gossip, rumour, overhearing), Benedick and Beatrice are tricked into confessing their love for each other, and Claudio is tricked into believing that Hero is not a maiden (virgin). Claudio therefore rejects Hero at the altar. However, Hero is vindicated, and marriages are arranged for both pairs.
 
-:: Date
-1600
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Much_Ado_About_Nothing
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 romantic love [Benedick and Beatrice; Claudio and Hero],
@@ -846,20 +846,20 @@ movie: The Merry Wives of Windsor (1598)
 :: Title
 The Merry Wives of Windsor
 
-:: Authors
-William Shakespeare
-
 :: Date
 1602
-
-:: Ratings
-3 <mikael>,
 
 :: Description
 The Merry Wives of Windsor or Sir John Falstaff and the Merry Wives of Windsor is a comedy by William Shakespeare first published in 1602, though believed to have been written in or before 1597. The Windsor of the play's title is a reference to the town of Windsor, also the location of Windsor Castle, in Berkshire, England. Though nominally set in the reign of Henry IV or early in the reign of Henry V, the play makes no pretence to exist outside contemporary Elizabethan era English middle class life. It features the character Sir John Falstaff, the fat knight who had previously been featured in Henry IV, Part 1 and Part 2. It has been adapted for the opera at least ten times. The play is one of Shakespeare's lesser-regarded works among literary critics.
 
+:: Authors
+William Shakespeare
+
 :: References
 https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor
+
+:: Ratings
+3 <mikael>,
 
 :: Choice Themes
 romantic jealousy [the husbands of the wives Falstaff pursued were jealous],
@@ -885,20 +885,20 @@ play: Twelfth Night (1602)
 :: Title
 Twelfth Night
 
-:: Authors
-William Shakespeare
+:: Date
+1602
 
 :: Description
 Twelfth Night, or What You Will is a romantic comedy by William Shakespeare, believed to have been written around 1601–1602 as a Twelfth Night's entertainment for the close of the Christmas season. The play centres on the twins Viola and Sebastian, who are separated in a shipwreck. Viola (who is disguised as Cesario) falls in love with Duke Orsino, who in turn is in love with Countess Olivia. Upon meeting Viola, Countess Olivia falls in love with her thinking she is a man.
 
-:: Date
-1602
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Twelfth_Night
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 infatuation [Orsino, Olivia, and Viola/Cesario all spoke about their romantic feelings; Orsino lectured Cesario on the nature of love],
@@ -926,20 +926,20 @@ play: Hamlet (1602)
 :: Title
 Hamlet
 
-:: Authors
-William Shakespeare
+:: Date
+1602
 
 :: Description
 The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by William Shakespeare sometime between 1599 and 1602. Set in Denmark, the play depicts Prince Hamlet and his revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother.
 
-:: Date
-1602
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Hamlet
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 regicide [Claudius killed King Hamlet; Hamlet killed King Claudius],
@@ -983,20 +983,20 @@ play: Troilus and Cressida (1603)
 :: Title
 Troilus and Cressida
 
-:: Authors
-William Shakespeare
+:: Date
+1603
 
 :: Description
 Troilus and Cressida (/ˈtrɔɪləs ... ˈkrɛsɪdə/) is a tragedy by William Shakespeare, believed to have been written in 1602. It was described by Frederick S. Boas as one of Shakespeare's problem plays. The play ends on a very bleak note with the death of the noble Trojan Hector and destruction of the love between Troilus and Cressida. The work has in recent years "stimulated exceptionally lively critical debate".
 
-:: Date
-1603
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Troilus_and_Cressida
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 war [the story concerned the Trojan war],
@@ -1027,20 +1027,20 @@ play: Othello (1603)
 :: Title
 Othello
 
-:: Authors
-William Shakespeare
+:: Date
+1603
 
 :: Description
 Othello (The Tragedy of Othello, the Moor of Venice) is a tragedy by William Shakespeare, believed to have been written in 1603. It is based on the story Un Capitano Moro ("A Moorish Captain") by Cinthio (a disciple of Boccaccio's), first published in 1565.[2] The story revolves around its two central characters: Othello, a Moorish general in the Venetian army, and his treacherous ensign, Iago. Given its varied and enduring themes of racism, love, jealousy, betrayal, revenge, and repentance, Othello is still often performed in professional and community theatre alike, and has been the source for numerous operatic, film, and literary adaptations.
 
-:: Date
-1603
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Othello
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 jealousy [Iago at Cassio for promotion; Othello vv. Cassio about Desdemona],
@@ -1080,22 +1080,22 @@ play: Measure for Measure (1604)
 :: Title
 Measure for Measure
 
-:: Authors
-William Shakespeare
+:: Date
+1604
 
 :: Description
 Measure for Measure is a play by William Shakespeare, believed to have been written in 1603 or 1604. Originally published in the First Folio of 1623, where it was listed as a comedy, the play's first recorded performance occurred in 1604. The play's main themes include justice, "morality and mercy in Vienna", and the dichotomy between corruption and purity: "some rise by sin, and some by virtue fall". Mercy and virtue prevail, as the play does not end tragically, with virtues such as compassion and forgiveness being exercised at the end of the production. While the play focuses on justice overall, the final scene illustrates that Shakespeare intended for moral justice to temper strict civil justice: a number of the characters receive understanding and leniency, instead of the harsh punishment to which they, according to the law, could have been sentenced.
 
 Measure for Measure is often called one of Shakespeare's problem plays. It continues to be classified as a comedy, although its tone sometimes defies this classification.
 
-:: Date
-1604
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Measure_for_Measure
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 mercy [it was noted that the old Duke would have been much more merciful than was the ruthless Angelo],
@@ -1130,20 +1130,20 @@ play: Timon of Athens (1606)
 :: Title
 Timon of Athens
 
-:: Authors
-William Shakespeare
+:: Date
+1606
 
 :: Description
 Timon of Athens (The Life of Tymon of Athens) is a play by William Shakespeare, probably written in collaboration with Thomas Middleton in about 1605–1606, which was published in the First Folio in 1623. It is about the fortunes of an Athenian named Timon. The central character is a beloved citizen of Athens who through tremendous generosity spends his entire fortune on corrupt hangers-on only interested in getting the next payout.
 
-:: Date
-1606
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Timon_of_Athens
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 false friend [a point of the story was that Timon was generous to a fault to people he thought were his friends, yet when he needed help his so-called friends turned their backs on him (note: some may perhaps be better described as fair-weather friends)],
@@ -1168,20 +1168,20 @@ play: Macbeth (1606)
 :: Title
 Macbeth
 
-:: Authors
-William Shakespeare
+:: Date
+1606
 
 :: Description
 Macbeth (/məkˈbɛθ/; full title The Tragedy of Macbeth) is a tragedy by William Shakespeare; it is thought to have been first performed in 1606. It dramatises the damaging physical and psychological effects of political ambition on those who seek power for its own sake. Of all the plays that Shakespeare wrote during the reign of James I, who was patron of Shakespeare's acting company, Macbeth most clearly reflects the playwright's relationship with his sovereign. It was first published in the Folio of 1623, possibly from a prompt book, and is Shakespeare's shortest tragedy.
 
-:: Date
-1606
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Macbeth
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 betrayal [the Macbeth's murdered their liege lord King Duncan to usurp his position],
@@ -1217,20 +1217,20 @@ play: King Lear (1606)
 :: Title
 King Lear
 
-:: Authors
-William Shakespeare
+:: Date
+1606
 
 :: Description
 King Lear is a tragedy written by William Shakespeare. It tells the tale of a king who bequeaths his power and land to two of his three daughters, after they declare their love for him in an extremely fawning and obsequious manner. His third daughter gets nothing, because she will not flatter him as her sisters had done. When he feels disrespected by the two daughters who now have his wealth and power, he becomes furious to the point of madness. He eventually becomes tenderly reconciled to his third daughter, just before tragedy strikes her and then the king.
 
-:: Date
-1606
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/King_Lear
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 father and daughter [King Lear's complicated relationship with his daughter was central to the tale],
@@ -1272,22 +1272,22 @@ play: Antony and Cleopatra (1607)
 :: Title
 Antony and Cleopatra
 
-:: Authors
-William Shakespeare
+:: Date
+1607
 
 :: Description
 Antony and Cleopatra (First Folio title: The Tragedie of Anthonie, and Cleopatra) is a tragedy by William Shakespeare. The play was first performed, by the King's Men, at either the Blackfriars Theatre or the Globe Theatre in around 1607; its first appearance in print was in the Folio of 1623.
 
 The plot is based on Thomas North's 1579 English translation of Plutarch's Lives (in Ancient Greek) and follows the relationship between Cleopatra and Mark Antony from the time of the Sicilian revolt to Cleopatra's suicide during the Final War of the Roman Republic. The major antagonist is Octavius Caesar, one of Antony's fellow triumvirs of the Second Triumvirate and the first emperor of the Roman Empire. The tragedy is mainly set in the Roman Republic and Ptolemaic Egypt and is characterized by swift shifts in geographical location and linguistic register as it alternates between sensual, imaginative Alexandria and a more pragmatic, austere Rome.
 
-:: Date
-1607
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Antony_and_Cleopatra
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 star-crossed lovers [the passionate relationship between Antony and Cleopatra ultimately lead to their destruction as the match was not politically apt],
@@ -1313,20 +1313,20 @@ play: Pericles Prince of Tyre (1609)
 :: Title
 Pericles, Prince of Tyre
 
-:: Authors
-William Shakespeare, George Wilkins
+:: Date
+1609
 
 :: Description
 Pericles, Prince of Tyre is a Jacobean play written at least in part by William Shakespeare and included in modern editions of his collected works despite questions over its authorship, as it was not included in the First Folio. Whilst various arguments support that Shakespeare is the sole author of the play (notably DelVecchio and Hammond's Cambridge edition of the play), modern editors generally agree that Shakespeare is responsible for almost exactly half the play—827 lines—the main portion after scene 9 that follows the story of Pericles and Marina. Modern textual studies indicate that the first two acts of 835 lines detailing the many voyages of Pericles were written by a collaborator, which strong evidence suggests to have been the victualler, panderer, dramatist and pamphleteer George Wilkins.
 
-:: Date
-1609
-
-:: Ratings
-4 <mikael>,
+:: Authors
+William Shakespeare, George Wilkins
 
 :: References
 https://en.wikipedia.org/wiki/Pericles,_Prince_of_Tyre
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 reunion with a loved one [Pericles, Thaisa, and Marina had each assumed the others lost but were in the end reunited],
@@ -1357,22 +1357,22 @@ play: Coriolanus (1610)
 :: Title
 Coriolanus
 
-:: Authors
-William Shakespeare
+:: Date
+1610
 
 :: Description
 Coriolanus is a tragedy by William Shakespeare, believed to have been written between 1605 and 1608. The play is based on the life of the legendary Roman leader Caius Marcius Coriolanus. It is one of the last two tragedies written by Shakespeare, along with Antony and Cleopatra.
 
 Coriolanus is the name given to a Roman general after his military success against various uprisings challenging the government of Rome. Following this success, Coriolanus becomes active in politics and seeks political leadership. His temperament is unsuited for popular leadership and he is quickly deposed, whereupon he aligns himself to set matters straight according to his own will. The alliances he forges along the way result in his ultimate downfall.
 
-:: Date
-1610
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Coriolanus
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 heroism [Marcius was a valorous hero reluctant to be worshiped as he were],
@@ -1404,20 +1404,20 @@ play: The Winter's Tale (1611)
 :: Title
 The Winter's Tale
 
-:: Authors
-William Shakespeare
+:: Date
+1611
 
 :: Description
 The Winter's Tale is a play by William Shakespeare originally published in the First Folio of 1623. Although it was grouped among the comedies, many modern editors have relabelled the play as one of Shakespeare's late romances. Some critics consider it to be one of Shakespeare's "problem plays" because the first three acts are filled with intense psychological drama, while the last two acts are comic and supply a happy ending.
 
-:: Date
-1611
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/The_Winter%27s_Tale
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 mistrust leading to group dysfunction [Leontes suspected his wife and best friend of having had an affair; these suspicions lead to the family being torn apart and the friends alienated for 16 years],
@@ -1453,20 +1453,20 @@ play: The Tempest (1611)
 :: Title
 The Tempest
 
-:: Authors
-William Shakespeare
+:: Date
+1611
 
 :: Description
 The Tempest is a play by William Shakespeare, probably written in 1610–1611, and thought to be one of the last plays that Shakespeare wrote alone. After the first scene, which takes place on a ship at sea during a tempest, the rest of the story is set on a remote island, where the sorcerer Prospero, a complex and contradictory character, lives with his daughter Miranda, and his two servants—Caliban, a savage monster figure, and Ariel, an airy spirit. The play contains music and songs that evoke the spirit of enchantment on the island. It explores many themes, including magic, betrayal, revenge, and family. In Act IV, a wedding masque serves as a play-within-the play, and contributes spectacle, allegory, and elevated language.
 
-:: Date
-1611
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/The_Tempest
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 treason [Prospero resented having been usurped by Antonio as Duke of Milan, 12 years ago; Sebastian and Antonio were about to murder others in their sleep; Caliban sided with Stephano and plotted agains his former master Prospero],
@@ -1491,20 +1491,20 @@ play: Cymbeline (1611)
 :: Title
 Cymbeline
 
-:: Authors
-William Shakespeare
+:: Date
+1611
 
 :: Description
 Cymbeline, also known as The Tragedie of Cymbeline or Cymbeline, King of Britain, is a play by William Shakespeare set in Ancient Britain (c. 10–14)[a] and based on legends that formed part of the Matter of Britain concerning the early Celtic British King Cunobeline. Although listed as a tragedy in the First Folio, modern critics often classify Cymbeline as a romance or even a comedy. Like Othello and The Winter's Tale, it deals with the themes of innocence and jealousy. While the precise date of composition remains unknown, the play was certainly produced as early as 1611.
 
-:: Date
-1611
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/Cymbeline
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 
@@ -1538,22 +1538,22 @@ play: Henry VIII (1613)
 :: Title
 Henry VIII
 
-:: Authors
-William Shakespeare, John Fletcher
+:: Date
+1613
 
 :: Description
 Henry VIII is a collaborative history play, written by William Shakespeare and John Fletcher, based on the life of Henry VIII. An alternative title, All Is True, is recorded in contemporary documents, with the title Henry VIII not appearing until the play's publication in the First Folio of 1623. Stylistic evidence indicates that individual scenes were written by either Shakespeare or his collaborator and successor, John Fletcher. It is also somewhat characteristic of the late romances in its structure. It is noted for having more stage directions than any of Shakespeare's other plays.
 
 Aliases: All Is True
 
-:: Date
-1613
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare, John Fletcher
 
 :: References
 https://en.wikipedia.org/wiki/Henry_VIII_(play)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 fall from grace [various characters lost their lofty statuses: Buckingham, Queen Katherine, Cardinal Wolsey],
@@ -1575,21 +1575,21 @@ play: All's Well That Ends Well (1623)
 :: Title
 All's Well That Ends Well
 
-:: Authors
-William Shakespeare
+:: Date
+1623
 
 :: Description
 All's Well That Ends Well is a play by William Shakespeare, published in the First Folio in 1623, where it is listed among the comedies. No records of the early performances of All's Well That Ends Well have been found. There is a debate regarding the dating of the composition of the play, with possible dates ranging from 1598 to 1608. The play is considered one of Shakespeare's "problem plays"; a play that poses complex ethical dilemmas that require more than typically simple solutions.
 
-:: Date
-1623
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/All%27s_Well_That_Ends_Well
 https://en.wikipedia.org/wiki/Summary_of_Decameron_tales#Ninth_tale_(III,_9)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 unrequited love [the plot was driven by Helena's hopeless love of Bertram, who was far above her and wanted nothing to do with her],
@@ -1615,22 +1615,22 @@ play: As You Like It (1623)
 :: Title
 As You Like It
 
-:: Authors
-William Shakespeare
+:: Date
+1623
 
 :: Description
 "As You Like I"t is a pastoral comedy by William Shakespeare believed to have been written in 1599 and first published in the First Folio in 1623. The play's first performance is uncertain, though a performance at Wilton House in 1603 has been suggested as a possibility.
 
 "As You Like It" follows its heroine Rosalind as she flees persecution in her uncle's court, accompanied by her cousin Celia to find safety and, eventually, love, in the Forest of Arden.
 
-:: Date
-1623
-
-:: Ratings
-5 <mikael>,
+:: Authors
+William Shakespeare
 
 :: References
 https://en.wikipedia.org/wiki/As_You_Like_It
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 romantic love [the main point of the story was to poke fun at human courtship and feelings of love and lust],

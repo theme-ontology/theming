@@ -7,9 +7,6 @@ Game of Thrones
 :: Date
 2011
 
-:: Collections
-Collection: Game of Thrones
-
 :: Description
 Game of Thrones is an American fantasy drama television series created by
 David Benioff and D. B. Weiss. It is an adaptation of A Song of Ice and Fire,
@@ -23,12 +20,18 @@ eighth season premiering in 2019.
 :: References
 https://en.wikipedia.org/wiki/Game_of_Thrones
 
+:: Collections
+Collection: Game of Thrones
+
 
 tvseries: GoT7x01
 =================
 
 :: Title
 Dragonstone
+
+:: Date
+2017-07-16
 
 :: Description
 At the Twins, Arya fatally poisons the remaining lords of House Frey. The
@@ -46,9 +49,6 @@ and a chance to kill Theon and Yara. Cersei declines citing trust as a
 concern, so Euron promises to return with a "gift" to prove his loyalty.
 Daenerys arrives at Dragonstone, the home of House Targaryen once occupied by
 Stannis, with her army and dragons.
-
-:: Date
-2017-07-16
 
 :: Choice Themes
 the desire for vengeance [Arya's purpose in life],
@@ -69,6 +69,9 @@ tvseries: GoT7x02
 :: Title
 Stormborn
 
+:: Date
+2017-07-23
+
 :: Description
 Daenerys sends the Dornishmen with Yara's fleet to Sunspear and the Unsullied
 to Casterly Rock, deciding to place King's Landing under siege. She questions
@@ -88,9 +91,6 @@ Ellaria, Tyene, and Yara are captured. Theon shows flashes of his time as
 Reek, hesitating to challenge Euron before fleeing the carnage by jumping into
 the sea.
 
-:: Date
-2017-07-23
-
 :: Choice Themes
 loyalty [Daenerys wants from Jon, Cerci seeks from various, Arya's wolf, Theon to Yara, Sand girls to their mother],
 war of succession [Cerci v Daenerys],
@@ -109,6 +109,9 @@ tvseries: GoT7x03
 :: Title
 The Queen's Justice
 
+:: Date
+2017-07-30
+
 :: Description
 Jon arrives at Dragonstone. Daenerys demands his fealty. He refuses and
 focuses instead on convincing her to fight the Army of the Dead. Following
@@ -126,9 +129,6 @@ Highgarden, while Euron's fleet ambushes and destroys the Unsullied's ships.
 The Lannister forces overwhelm Olenna's army. Jaime induces Olenna to drink
 poison, offering her a quick and painless death. After drinking it, she
 confesses to poisoning Joffrey.
-
-:: Date
-2017-07-30
 
 :: Choice Themes
 the art of war [diversions, sieges, secret passages, ...],
@@ -152,6 +152,9 @@ tvseries: GoT7x04
 :: Title
 The Spoils of War
 
+:: Date
+2017-08-06
+
 :: Description
 Arya returns to Winterfell, where she reunites with Sansa and spars with
 Brienne, both of whom are unnerved by her exceptional fighting skills. Bran
@@ -170,9 +173,6 @@ forces. Drogon is wounded during the fight by a spear fired from the scorpion
 ballista being manned by Bronn. Jaime mounts a desperate charge on horseback
 at a vulnerable Daenerys, but Drogon spews fire in time to thwart the attack.
 Bronn tackles Jaime into the river in time to save him.
-
-:: Date
-2017-08-06
 
 :: Choice Themes
 military tactics [the organization of the armies was amply featured as they engaged],
@@ -200,6 +200,9 @@ tvseries: GoT7x05
 :: Title
 Eastwatch
 
+:: Date
+2017-08-13
+
 :: Description
 Jaime and Bronn return to King's Landing. Against Tyrion's advice, Daenerys
 has Drogon burn Randyll and Dickon Tarly alive for remaining allegiant to
@@ -217,9 +220,6 @@ letter written by Sansa from his room. Jon, Jorah, and Gendry, joined by the
 Hound, the Brotherhood, and a group of the Free Folk led by Tormund, leave
 Eastwatch and pass the Wall, intending to capture a wight as evidence for
 Cersei that the Army of the Dead is real.
-
-:: Date
-2017-08-13
 
 :: Choice Themes
 cooperation vs. competition [Daenerys vs. Jon vs. Cerci],
@@ -244,6 +244,9 @@ tvseries: GoT7x06
 :: Title
 Beyond the Wall
 
+:: Date
+2017-08-20
+
 :: Description
 At Winterfell, Littlefinger plots to isolate Sansa. Tensions between Arya and
 Sansa grow following Arya's discovery of the letter Sansa sent as a child
@@ -261,9 +264,6 @@ is unable to save Jon. Benjen Stark intervenes and sacrifices himself to allow
 Jon to escape. When Jon and Daenerys are reunited, Jon pledges himself and the
 North to Daenerys as Queen. The Night King resurrects Viserion, making the
 dragon a part of his army.
-
-:: Date
-2017-08-20
 
 :: Choice Themes
 cooperation [more and more everyone is cooperating and seems becoming a recurrent pointed theme],
@@ -286,6 +286,9 @@ tvseries: GoT7x07
 :: Title
 The Dragon and the Wolf
 
+:: Date
+2017-08-27
+
 :: Description
 At King's Landing, the wight is presented to the Lannisters. Cersei demands
 Jon's neutrality in the Great War, but he upholds his oath to Daenerys,
@@ -303,9 +306,6 @@ Targaryen named Aegon and valid heir to the Iron Throne, with his
 parents—Rhaegar Targaryen and Lyanna Stark—having married in secret. At
 Eastwatch, an undead Viserion damages the Wall, allowing the Army of the Dead
 to march south.
-
-:: Date
-2017-08-27
 
 :: Choice Themes
 cooperation vs. competition [Daenerys vs. Jon vs. Cerci],

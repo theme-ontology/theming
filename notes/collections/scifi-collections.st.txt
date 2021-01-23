@@ -7,15 +7,15 @@ The Twilight Zone Films
 :: Date
 1983-1994
 
-:: Collections
-Collection: The Twilight Zone Films
-
 :: Description
 Stories from the two Twilight Zone films: Twilight Zone: The Movie (1984) and Twilight Zone: Rod Serling's Lost Classics (1994).
 
 :: References
 https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
 https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
+
+:: Collections
+Collection: The Twilight Zone Films
 
 :: Component Stories
 tz1983a
@@ -35,14 +35,14 @@ Bill and Ted Films
 :: Date
 1989-2020
 
-:: Collections
-Collection: Bill and Ted Films
-
 :: Description
 The three films in the Bill & Ted film series.
 
 :: References
 https://en.wikipedia.org/wiki/Bill_%26_Ted#Films
+
+:: Collections
+Collection: Bill and Ted Films
 
 :: Component Stories
 movie: Bill and Teds Excellent Adventure (1989)
@@ -59,14 +59,14 @@ Watchers
 :: Date
 1988-1998
 
-:: Collections
-Collection: Watchers
-
 :: Description
 The four films in the Watchers film series.
 
 :: References
 https://en.wikipedia.org/wiki/Watchers_(film)
+
+:: Collections
+Collection: Watchers
 
 :: Component Stories
 movie: Watchers (1988)
@@ -84,14 +84,14 @@ Re-Animator Films
 :: Date
 1985-2003
 
-:: Collections
-Collection: ReAnimator Films
-
 :: Description
 The three films in the Re-Animator film series.
 
 :: References
 https://en.wikipedia.org/wiki/Re-Animator_(film_series)
+
+:: Collections
+Collection: ReAnimator Films
 
 :: Component Stories
 movie: ReAnimator (1985)
@@ -108,14 +108,14 @@ TekWar Films
 :: Date
 1994
 
-:: Collections
-Collection: TekWar Films
-
 :: Description
 The four television films in the TekWar media franchise.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_TekWar_episodes#Season_1_.281994.29
+
+:: Collections
+Collection: TekWar Films
 
 :: Component Stories
 movie: TekWar: The Movie (1994)
@@ -133,14 +133,14 @@ Babylon 5 Films
 :: Date
 1993-2002
 
-:: Collections
-Collection: Babylon 5 Films
-
 :: Description
 The six television films in the Babylon 5 media franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Babylon_5_(franchise)#Television_movies
+
+:: Collections
+Collection: Babylon 5 Films
 
 :: Component Stories
 movie: Babylon 5: The Gathering (1993)
@@ -160,14 +160,14 @@ Alien Nation Films
 :: Date
 1988-1997
 
-:: Collections
-Collection: Alien Nation Films
-
 :: Description
 The six television films in the Alien Nation media franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Alien_Nation
+
+:: Collections
+Collection: Alien Nation Films
 
 :: Component Stories
 movie: Alien Nation (1988)
@@ -187,14 +187,14 @@ Cyborg
 :: Date
 1989-1995
 
-:: Collections
-Collection: Cyborg
-
 :: Description
 Albert Pyun's Cyborg Trilogy.
 
 :: References
 https://en.wikipedia.org/wiki/Cyborg_(film)
+
+:: Collections
+Collection: Cyborg
 
 :: Component Stories
 movie: Cyborg (1989)
@@ -211,9 +211,6 @@ Honey I Shrunk the Kids
 :: Date
 1989-1997
 
-:: Collections
-Collection: Honey I Shrunk the Kids
-
 :: Description
 The Honey, I Shrunk the Kids film franchise consists of a series of American
 family-science fiction-comedy films, based on a concept created by Stuart
@@ -222,6 +219,9 @@ and Ed Naha.
 
 :: References
 https://en.wikipedia.org/wiki/Honey,_I_Shrunk_the_Kids_(franchise)#Film
+
+:: Collections
+Collection: Honey I Shrunk the Kids
 
 :: Component Stories
 movie: Honey I Shrunk the Kids (1989)
@@ -238,9 +238,6 @@ X-men
 :: Date
 2000-2019
 
-:: Collections
-Collection: X-men
-
 :: Description
 X-Men is an American superhero film series based on the fictional superhero
 team of the same name, who originally appeared in a series of comic books
@@ -248,6 +245,9 @@ created by Stan Lee and Jack Kirby and published by Marvel Comics.
 
 :: References
 https://en.wikipedia.org/wiki/X-Men_(film_series)
+
+:: Collections
+Collection: X-men
 
 :: Component Stories
 movie: X-Men (2000)
@@ -273,14 +273,14 @@ Transformers
 :: Date
 1986-2018
 
-:: Collections
-Collection: Transformers
-
 :: Description
 Films based on the Transformers franchise which centers on extraterrestrial factions of sentient self-configuring modular robotic lifeforms in an endless civil war.
 
 :: References
 https://en.wikipedia.org/wiki/Transformers_(film_series)#Films
+
+:: Collections
+Collection: Transformers
 
 :: Component Stories
 movie: The Transformers: The Movie (1986)
@@ -301,14 +301,14 @@ Critters
 :: Date
 1986-2019
 
-:: Collections
-Collection: Critters
-
 :: Description
 The five films to date in Critters series which is about a group of malevolent carnivorous aliens from outer space, called Krites, that have the power to roll into balls (cf. hedgehogs) and to combine into a sphere that can roll across a landscape and cause mayhem.
 
 :: References
 https://en.wikipedia.org/wiki/Critters_(franchise)
+
+:: Collections
+Collection: Critters
 
 :: Component Stories
 movie: Critters (1986)
@@ -327,14 +327,14 @@ Giant monster films
 :: Date
 1933-2019
 
-:: Collections
-Collection: Giant monster films
-
 :: Description
 Films featuring giant monsters.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_films_featuring_giant_monsters
+
+:: Collections
+Collection: Giant monster films
 
 :: Component Stories
 movie: King Kong (1933)
@@ -407,14 +407,14 @@ Superman
 :: Date
 1951-2017
 
-:: Collections
-Collection: Superman
-
 :: Description
 The nine feature films in the Superman series.
 
 :: References
 https://en.wikipedia.org/wiki/Superman_in_film
+
+:: Collections
+Collection: Superman
 
 :: Component Stories
 movie: Superman and the Mole-Men (1951)
@@ -438,14 +438,14 @@ Godzilla
 :: Date
 1954-2020
 
-:: Collections
-Collection: Godzilla
-
 :: Description
 Films featuring the giant monster Godzilla.
 
 :: References
 https://en.wikipedia.org/wiki/Godzilla_(franchise)#Filmography
+
+:: Collections
+Collection: Godzilla
 
 :: Component Stories
 movie: Godzilla (1954)
@@ -478,14 +478,14 @@ Quatermass
 :: Date
 1955-1967
 
-:: Collections
-Collection: Quatermass
-
 :: Description
 Three adventures of Professor Bernard Quatermass in film.
 
 :: References
 https://en.wikipedia.org/wiki/Mad_Max_(franchise)
+
+:: Collections
+Collection: Quatermass
 
 :: Component Stories
 movie: The Quatermass Xperiment (1955)
@@ -502,14 +502,14 @@ The Blob
 :: Date
 1958-1988
 
-:: Collections
-Collection: The Blob
-
 :: Description
 The three films in The Blob film series.
 
 :: References
 https://en.wikipedia.org/wiki/The_Blob
+
+:: Collections
+Collection: The Blob
 
 :: Component Stories
 movie: The Blob (1958)
@@ -526,14 +526,14 @@ The Fly
 :: Date
 1958-1989
 
-:: Collections
-Collection: The Fly
-
 :: Description
 The five films in the The Fly series.
 
 :: References
 https://www.imdb.com/list/ls071470502/
+
+:: Collections
+Collection: The Fly
 
 :: Component Stories
 movie: The Fly (1958)
@@ -552,14 +552,14 @@ The Nutty Professor
 :: Date
 1963-2008
 
-:: Collections
-Collection: The Nutty Professor
-
 :: Description
 The four films to date in the The Nutty Professor series.
 
 :: References
 https://www.imdb.com/list/ls002112609/
+
+:: Collections
+Collection: The Nutty Professor
 
 :: Component Stories
 movie: The Nutty Professor (1963)
@@ -577,14 +577,14 @@ Super Giant
 :: Date
 1964
 
-:: Collections
-Collection: Super Giant
-
 :: Description
 The four films in American adaptation of the Japanese Super Giant serial film series.
 
 :: References
 https://en.wikipedia.org/wiki/Super_Giant
+
+:: Collections
+Collection: Super Giant
 
 :: Component Stories
 movie: Atomic Rulers (1964)
@@ -602,14 +602,14 @@ Gamera
 :: Date
 1965-2006
 
-:: Collections
-Collection: Gamera
-
 :: Description
 Films featuring the giant turtle-like monster Gamera.
 
 :: References
 https://en.wikipedia.org/wiki/Gamera#Filmography
+
+:: Collections
+Collection: Gamera
 
 :: Component Stories
 movie: Gamera the Giant Monster (1965)
@@ -635,15 +635,15 @@ Planet of the Apes
 :: Date
 1968-2017
 
-:: Collections
-Collection: Planet of the Apes
-
 :: Description
 The nine films in the Planet of the Apes series.
 
 :: References
 https://en.wikipedia.org/wiki/Planet_of_the_Apes
 https://www.imdb.com/list/ls068557256/
+
+:: Collections
+Collection: Planet of the Apes
 
 :: Component Stories
 movie: Planet of the Apes (1968)
@@ -666,15 +666,15 @@ The Six Million Dollar Man
 :: Date
 1973-1994
 
-:: Collections
-Collection: The Six Million Dollar Man
-
 :: Description
 The six made for television films in the The Six Million Dollar Man series.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_The_Six_Million_Dollar_Man_episodes#Television_movies_(1973)
 https://en.wikipedia.org/wiki/List_of_The_Six_Million_Dollar_Man_episodes#Television_movies_(1987%E2%80%9394)
+
+:: Collections
+Collection: The Six Million Dollar Man
 
 :: Component Stories
 movie: The Six Million Dollar Man: The Moon and the Desert (1973)
@@ -694,14 +694,14 @@ The Stepford Wives
 :: Date
 1975-2004
 
-:: Collections
-Collection: The Stepford Wives
-
 :: Description
 The Stepford Wives original film, its television film sequels, and feature film remake.
 
 :: References
 https://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)
+
+:: Collections
+Collection: The Stepford Wives
 
 :: Component Stories
 movie: The Stepford Wives (1975)
@@ -720,14 +720,14 @@ Man from Atlantis
 :: Date
 1977
 
-:: Collections
-Collection: Man from Atlantis
-
 :: Description
 The four television films that preceded the Man from Atlantis American science fiction television series that ran for 13 episodes on the NBC network during the 1977–78 season
 
 :: References
 https://en.wikipedia.org/wiki/Man_from_Atlantis
+
+:: Collections
+Collection: Man from Atlantis
 
 :: Component Stories
 movie: Man from Atlantis (1977)
@@ -745,14 +745,14 @@ The Incredible Hulk
 :: Date
 1977-2008
 
-:: Collections
-Collection: The Incredible Hulk
-
 :: Description
 Films featuring the Marvel Comics character The Hulk as the main character.
 
 :: References
 https://en.wikipedia.org/wiki/Hulk_in_other_media#Live-action
+
+:: Collections
+Collection: The Incredible Hulk
 
 :: Component Stories
 movie: The Incredible Hulk (1977)
@@ -774,14 +774,14 @@ Spider-Man
 :: Date
 1977-2019
 
-:: Collections
-Collection: Spider-Man
-
 :: Description
 Films centered on the Marvel Comics character Spider-Man.
 
 :: References
 https://en.wikipedia.org/wiki/Spider-Man_in_film
+
+:: Collections
+Collection: Spider-Man
 
 :: Component Stories
 movie: Spider-Man (1977)
@@ -806,14 +806,14 @@ Star Wars
 :: Date
 1977-2019
 
-:: Collections
-Collection: Star Wars
-
 :: Description
 A collection of any and all films set in George Lucas' Star Wars universe.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_Star_Wars_films_and_television_series
+
+:: Collections
+Collection: Star Wars
 
 :: Component Stories
 movie: Star Wars (1977)
@@ -842,14 +842,14 @@ Star Trek Films
 :: Date
 1979-2016
 
-:: Collections
-Collection: Star Trek Films
-
 :: Description
 Star Trek feature films.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_Star_Trek_films_and_television_series#Feature_films
+
+:: Collections
+Collection: Star Trek Films
 
 :: Component Stories
 movie: Star Trek: The Motion Picture (1979)
@@ -876,14 +876,14 @@ Alien
 :: Date
 1979-2017
 
-:: Collections
-Collection: Alien
-
 :: Description
 The six feature films to date in the Alien franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Alien_(franchise)#Films
+
+:: Collections
+Collection: Alien
 
 :: Component Stories
 movie: Alien (1979)
@@ -903,14 +903,14 @@ Max Max
 :: Date
 1979-2015
 
-:: Collections
-Collection: Mad Max
-
 :: Description
 The four films in the Australian dystopian action film series Mad Max, created by George Miller and Byron Kennedy.
 
 :: References
 https://en.wikipedia.org/wiki/Mad_Max_(franchise)
+
+:: Collections
+Collection: Mad Max
 
 :: Component Stories
 movie: Mad Max (1979)
@@ -928,14 +928,14 @@ Trancers
 :: Date
 1984-2002
 
-:: Collections
-Collection: Trancers
-
 :: Description
 The six feature films and one short film in the Trancers film series.
 
 :: References
 https://en.wikipedia.org/wiki/Trancers_(film_series)
+
+:: Collections
+Collection: Trancers
 
 :: Component Stories
 movie: Trancers (1984)
@@ -956,14 +956,14 @@ Ghostbusters
 :: Date
 1984-2016
 
-:: Collections
-Collection: Ghostbusters
-
 :: Description
 The three feature films to date in the Ghostbusters franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Ghostbusters_(franchise)#Films
+
+:: Collections
+Collection: Ghostbusters
 
 :: Component Stories
 movie: Ghostbusters (1984)
@@ -980,14 +980,14 @@ The Terminator
 :: Date
 1984-2019
 
-:: Collections
-Collection: The Terminator
-
 :: Description
 The six feature films to date in The Terminator franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Terminator_(franchise)#Films
+
+:: Collections
+Collection: The Terminator
 
 :: Component Stories
 movie: The Terminator (1984)
@@ -1007,14 +1007,14 @@ Back to the Future
 :: Date
 1985-1990
 
-:: Collections
-Collection: Back to the Future
-
 :: Description
 The three feature films in the Back to the Future series
 
 :: References
 https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)
+
+:: Collections
+Collection: Back to the Future
 
 :: Component Stories
 movie: Back to the Future (1985)
@@ -1031,14 +1031,14 @@ Not Quite Human
 :: Date
 1987-1992
 
-:: Collections
-Collection: Not Quite Human
-
 :: Description
 The three made for television films based on the eponymous series of young adult novels by Seth McEvoy about a scientist and his android creation which resembles a teenager.
 
 :: References
 https://en.wikipedia.org/wiki/Not_Quite_Human
+
+:: Collections
+Collection: Not Quite Human
 
 :: Component Stories
 movie: Not Quite Human (1987)
@@ -1055,14 +1055,14 @@ Robocop
 :: Date
 1987-2014
 
-:: Collections
-Collection: Robocop
-
 :: Description
 The four feature films to date in the Robocop franchise.
 
 :: References
 https://en.wikipedia.org/wiki/RoboCop_(franchise)#Films
+
+:: Collections
+Collection: Robocop
 
 :: Component Stories
 movie: RoboCop (1987)
@@ -1080,14 +1080,14 @@ Predator
 :: Date
 1987-2018
 
-:: Collections
-Collection: Predator
-
 :: Description
 The four feature films to date in the original Predator franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
+
+:: Collections
+Collection: Predator
 
 :: Component Stories
 movie: Predator (1987)
@@ -1105,14 +1105,14 @@ Jurassic Park
 :: Date
 1993-2018
 
-:: Collections
-Collection: Jurassic Park
-
 :: Description
 The five feature films to date in the Jurassic Park franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Jurassic_Park#Film_series
+
+:: Collections
+Collection: Jurassic Park
 
 :: Component Stories
 movie: Jurassic Park (1993)
@@ -1131,14 +1131,14 @@ Men in Black
 :: Date
 1997-2019
 
-:: Collections
-Collection: Men in Black
-
 :: Description
 The four films in the American science fiction action comedy film series based the on Malibu / Marvel comic book series The Men in Black by Lowell Cunningham.
 
 :: References
 https://en.wikipedia.org/wiki/Men_in_Black_(film_series)
+
+:: Collections
+Collection: Men in Black
 
 :: Component Stories
 movie: Men in Black (1997)
@@ -1156,14 +1156,14 @@ The Matrix
 :: Date
 1999-2003
 
-:: Collections
-Collection: The Matrix
-
 :: Description
 The Matrix film trilogy.
 
 :: References
 https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
+
+:: Collections
+Collection: The Matrix
 
 :: Component Stories
 movie: The Matrix (1999)
@@ -1180,14 +1180,14 @@ Marvel Cinematic Universe
 :: Date
 2008-2019
 
-:: Collections
-Collection: Marvel Cinematic Universe
-
 :: Description
 Films from the Marvel Cinematic Universe which is an American media franchise and shared universe centered on a series of superhero films, independently produced by Marvel Studios and based on characters that appear in American comic books published by Marvel Comics.
 
 :: References
 https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+
+:: Collections
+Collection: Marvel Cinematic Universe
 
 :: Component Stories
 movie: Iron Man (2008)

@@ -4,6 +4,9 @@ Collection: Star Trek: The Original Series
 :: Title
 Star Trek: The Original Series
 
+:: Date
+1966-1969
+
 :: Description
 Star Trek is an American science fiction television series created by Gene
 Roddenberry that follows the adventures of the starship USS Enterprise
@@ -11,21 +14,18 @@ Roddenberry that follows the adventures of the starship USS Enterprise
 Original Series (Star Trek: TOS or simply TOS) to distinguish the show within
 the media franchise that it began.
 
-:: Date
-1966-1969
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series
 
 :: Genre
 sci-fi
 
-:: Major Themes
-
-:: Minor Themes
-
 :: Collections
 Collection: Star Trek: The Original Series
 
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series
+:: Major Themes
+
+:: Minor Themes
 
 
 tos0x01
@@ -34,18 +34,18 @@ tos0x01
 :: Title
 The Cage
 
+:: Date
+1988-10-04
+
 :: Description
 The crew of the Enterprise follow a distress signal to the planet Talos IV,
 where Captain Pike is taken captive by a group of telepathic aliens.
 
-:: Date
-1988-10-04
+:: Genre
 
 :: Ratings
 3 <Paul>
 2 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 escape from reality [Talosians],
@@ -108,20 +108,20 @@ tos1x05
 :: Title
 The Man Trap
 
+:: Date
+1966-09-08
+
 :: Description
 The Enterprise visits planet M-113 for a routine medical inspection of the
 husband-wife archaeological team stationed there, but the crew finds that the
 wife has been replaced by a deadly, shape-shifting creature.
 
-:: Date
-1966-09-08
+:: Genre
+romance
 
 :: Ratings
 5 <Paul>
 4 <Mikael>
-
-:: Genre
-romance
 
 :: Choice Themes
 nostalgic love [McCoy to Nancy] <McCoy>,
@@ -187,20 +187,20 @@ tos1x07
 :: Title
 Charlie X
 
+:: Date
+1966-09-15
+
 :: Description
 While traveling aboard the Enterprise, a dangerous young man named Charlie
 Evans terrorizes the crew with his unusual mental powers. This episode serves
 as the backstory for the unofficial mini-series Star Trek: Of Gods and Men .
 
-:: Date
-1966-09-15
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 unbounded thought powers [Charlie manifested an array of formidable psionic powers.],
@@ -270,20 +270,20 @@ tos1x01
 :: Title
 Where No Man Has Gone Before
 
+:: Date
+1966-09-22
+
 :: Description
 After the Enterprise attempts to cross the Great Barrier at the edge of the
 galaxy , crew members Gary Mitchell and Elizabeth Dehner develop "godlike"
 psychic powers which threaten the safety of the crew.
 
-:: Date
-1966-09-22
+:: Genre
+fantasy, action
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-fantasy, action
 
 :: Choice Themes
 unbounded thought powers [Gary developed a wide array of formidable psychic powers after a strange encouter at the edge of the galaxy.],
@@ -344,20 +344,20 @@ tos1x06
 :: Title
 The Naked Time
 
+:: Date
+1966-09-29
+
 :: Description
 A strange, intoxicating infection, which lowers the crew's emotional
 inhibitions, spreads throughout the Enterprise. As the madness spreads, the
 entire ship is endangered.
 
-:: Date
-1966-09-29
+:: Genre
+flight of fancy, comedy
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-flight of fancy, comedy
 
 :: Choice Themes
 inebriated interaction [everyone under the influence of polywater] <Kirk, Kevin Riley, Spock, McCoy, Scotty, Sulu, Joe Tormalen, Janice Rand, Scotty>,
@@ -420,19 +420,19 @@ tos1x04
 :: Title
 The Enemy Within
 
+:: Date
+1966-10-06
+
 :: Description
 While beaming up from planet Alpha 177, a transporter accident splits Captain
 Kirk into two beings: one "good," who is weak and indecisive, and one "evil,"
 who is overly aggressive and domineering.
 
-:: Date
-1966-10-06
+:: Genre
 
 :: Ratings
 5 <Paul>
 3 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 the human capacity for good and evil [Good Kirk vs. Evil Kirk],
@@ -487,6 +487,9 @@ tos1x03
 :: Title
 Mudd's Women
 
+:: Date
+1966-10-13
+
 :: Description
 The Enterprise pursues a vessel and rescues its occupants, interstellar con
 man Harry Mudd , who is arrested on outstanding charges, and three incredibly
@@ -497,15 +500,12 @@ Finally, Mudd's deception is revealed as the women are, in fact, very plain
 and only appear beautiful due to taking illegal Venus drugs. Kirk obtains the
 crystals he needs and takes Mudd back into custody.
 
-:: Date
-1966-10-13
+:: Genre
+social awareness
 
 :: Ratings
 5 <Paul>
 3 <Mikael>
-
-:: Genre
-social awareness
 
 :: Choice Themes
 self-confidence [Mudd's women],
@@ -572,6 +572,9 @@ tos1x09
 :: Title
 What Are Little Girls Made Of?
 
+:: Date
+1966-10-20
+
 :: Description
 In search of Nurse Chapel's fiancé, renowned exobiologist Roger Korby, the
 Enterprise visits the icy planet Exo III, where Korby has discovered an
@@ -580,15 +583,12 @@ android replacement. Korby plans to use the machine to spread controlled
 androids throughout the Federation , and replaces Captain Kirk with such a
 duplicate in an effort to take over the Enterprise .
 
-:: Date
-1966-10-20
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 android clone of a person [Korby made an android clone of Kirk.],
@@ -643,20 +643,20 @@ tos1x11
 :: Title
 Miri
 
+:: Date
+1966-10-27
+
 :: Description
 After discovering what appears to be a duplicate of the planet Earth , Captain
 Kirk and his landing party find a population ravaged by a strange disease,
 which only children appear to have survived.
 
-:: Date
-1966-10-27
+:: Genre
+human drama
 
 :: Ratings
 1 <Paul>
 2 <Mikael>
-
-:: Genre
-human drama
 
 :: Choice Themes
 human-made pandemic [a man-made virus turned everyone into zombies] <Onlies>,
@@ -701,6 +701,9 @@ tos1x10
 :: Title
 Dagger of the Mind
 
+:: Date
+1966-11-03
+
 :: Description
 While on a re-supply mission to a rehabilitation colony for the criminally
 insane, the Enterprise crew discover that the chief doctor has been using a
@@ -708,15 +711,12 @@ device which destroys the human mind. Kirk and a female crew member, down on
 the planet, must deal with the problem up close and personal. Spock performs a
 mind meld for the first time in this episode.
 
-:: Date
-1966-11-03
+:: Genre
+thriller
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-thriller
 
 :: Choice Themes
 unethical psychological experimentation [Adams with his contraption],
@@ -775,20 +775,20 @@ tos1x02
 :: Title
 The Corbomite Maneuver
 
+:: Date
+1966-11-10
+
 :: Description
 The Enterprise is menaced by a gigantic alien ship whose commander condemns
 the crew to death. The alien ship appears all-powerful and the alien commander
 refuses all attempts at negotiation, forcing Kirk to employ an unorthodox
 strategy to save the ship.
 
-:: Date
-1966-11-10
+:: Genre
 
 :: Ratings
 5 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 cracking under pressure [Bailey in confrontation with Balok; especially during Sulu's countdown] <Dave Bailey>,
@@ -861,21 +861,21 @@ tos1x15
 :: Title
 The Menagerie, Part I
 
+:: Date
+1966-11-17
+
 :: Description
 Spock hijacks the Enterprise to take his crippled former captain, Christopher
 Pike , to the forbidden world of Talos IV . He then demands a court martial
 where he uses the events of " The Cage " to tell the tale of Pike's captivity
 on the planet years earlier.
 
-:: Date
-1966-11-17
+:: Genre
+courtroom drama
 
 :: Ratings
 2 <Mikael>
 4 <Paul>
-
-:: Genre
-courtroom drama
 
 :: Choice Themes
 loyalty to a leader [Spock to Pike] <Spock>,
@@ -921,21 +921,21 @@ tos1x16
 :: Title
 The Menagerie, Part II
 
+:: Date
+1966-11-24
+
 :: Description
 Spock continues detailing the events of " The Cage " to the tribunal. After
 witnessing the Talosians' capabilities of mental illusion, Kirk realizes that
 Spock intends to return Pike to the planet to live a life of illusion,
 unencumbered by his crippled condition.
 
-:: Date
-1966-11-24
+:: Genre
+courtroom drama
 
 :: Ratings
 2 <Mikael>
 4 <Paul>
-
-:: Genre
-courtroom drama
 
 :: Choice Themes
 loyalty to a leader [Spock to Pike] <Spock>,
@@ -994,6 +994,9 @@ tos1x12
 :: Title
 The Conscience of the King
 
+:: Date
+1966-12-08
+
 :: Description
 While visiting an old friend, Kirk suspects a Shakespearean actor may actually
 be the murderous former governor of Tarsus IV where Kirk grew up. Kirk invites
@@ -1001,15 +1004,12 @@ the acting troupe aboard the Enterprise in order to investigate, but soon
 assassination attempts are made on Kirk and another crewman who was an
 eyewitness to the murders.
 
-:: Date
-1966-12-08
+:: Genre
+detective drama, whodunnit
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-detective drama, whodunnit
 
 :: Choice Themes
 the desire for vengeance [Kirk and others to Kodos] <Kirk>,
@@ -1081,6 +1081,9 @@ tos1x08
 :: Title
 Balance of Terror
 
+:: Date
+1966-12-15
+
 :: Description
 While investigating a series of destroyed outposts, the Enterprise discovers a
 lone Romulan vessel with a cloaking device . The Romulans, having never been
@@ -1088,15 +1091,12 @@ seen by humans, are revealed to visually resemble Vulcans , casting doubt on
 Mr. Spock's loyalty as the two ships become locked in a cat-and-mouse battle
 through space.
 
-:: Date
-1966-12-15
+:: Genre
+action
 
 :: Ratings
 5 <Mikael>
 4 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 military tactics [legendary cat and mouse game between Federation and Romulan starships],
@@ -1157,6 +1157,9 @@ tos1x17
 :: Title
 Shore Leave
 
+:: Date
+1966-12-29
+
 :: Description
 Captain Kirk orders shore leave for the Enterprise crew on a seemingly
 uninhabited planet in the Omicron Delta system. The landing parties begin to
@@ -1166,15 +1169,12 @@ Finnegan, a rival from his Starfleet Academy days. Spock discovers that the
 planet seems to be drawing a large amount of energy from the ship's engines,
 placing the Enterprise in danger.
 
-:: Date
-1966-12-29
+:: Genre
+romance, flight of fancy
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-romance, flight of fancy
 
 :: Choice Themes
 speculative geoengineering [A planet in the Omicron Delta region was transformed into a magical amusement park by an unknown alien race.],
@@ -1229,6 +1229,9 @@ tos1x13
 :: Title
 The Galileo Seven
 
+:: Date
+1967-01-05
+
 :: Description
 Spock and a scientific party are sent to study the Murasaki 312 quasar aboard
 the shuttle Galileo. During the survey, the Galileo is forced to make an
@@ -1237,15 +1240,12 @@ dangerous inhabitants. As the crew begin to make repairs, Scotty determines
 that the shuttle does not have enough fuel to reach orbit carrying all seven
 passengers, and Spock must contemplate leaving some of his fellow crew behind.
 
-:: Date
-1967-01-05
+:: Genre
+survival drama
 
 :: Ratings
 3 <Mikael>
 5 <Paul>
-
-:: Genre
-survival drama
 
 :: Choice Themes
 leadership [Spock] <Spock>,
@@ -1301,20 +1301,20 @@ tos1x18
 :: Title
 The Squire of Gothos
 
+:: Date
+1967-01-12
+
 :: Description
 The Enterprise discovers a rogue planet drifting through space, inhabited by
 an eccentric being named Trelane who uses his apparently unlimited power over
 matter and form to manipulate the crew.
 
-:: Date
-1967-01-12
+:: Genre
+flight of fancy
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-flight of fancy
 
 :: Choice Themes
 transcendental being [Trelane] <Trelane's Species>,
@@ -1390,6 +1390,9 @@ tos1x19
 :: Title
 Arena
 
+:: Date
+1967-01-19
+
 :: Description
 The Enterprise comes under attack by unknown aliens while investigating the
 near destruction of the Cestus III colony. While chasing the aliens into
@@ -1398,15 +1401,12 @@ Kirk and the alien captain (later identified as a member of the Gorn race) to
 trial by combat: the winner's vessel will be set free, while the loser's ship
 will be destroyed.
 
-:: Date
-1967-01-19
+:: Genre
+action
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 brains vs. brawn [Kirk and Gorn] <Kirk/Gorn captain>,
@@ -1467,6 +1467,9 @@ tos1x21
 :: Title
 Tomorrow is Yesterday
 
+:: Date
+1967-01-26
+
 :: Description
 After accidentally traveling back in time to 1969, the Enterprise rescues USAF
 Captain John Christopher from his crippled fighter jet. The crew struggles to
@@ -1474,14 +1477,11 @@ return to their own time, while simultaneously returning Christopher to the
 Air Force, removing his knowledge of the future and all record of contact with
 the Enterprise .
 
-:: Date
-1967-01-26
+:: Genre
 
 :: Ratings
 2 <Mikael>
 1 <Paul>
-
-:: Genre
 
 :: Choice Themes
 time travel [Enterprise travels back to 1960s],
@@ -1537,21 +1537,21 @@ tos1x14
 :: Title
 Court Martial
 
+:: Date
+1967-02-02
+
 :: Description
 Captain Kirk is placed on trial for negligence after a crewman is killed
 during a severe ion storm. Kirk maintains that his actions were proper and
 should not have led to the officer's death, but the evidence seems strong
 against him. Will Kirk's crew be able to save the captain from conviction?
 
-:: Date
-1967-02-02
+:: Genre
+courtroom drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-courtroom drama
 
 :: Choice Themes
 the desire for vengeance [Finney at Kirk] <Benjamin Finney>,
@@ -1623,21 +1623,21 @@ tos1x22
 :: Title
 The Return of the Archons
 
+:: Date
+1967-02-09
+
 :: Description
 The Enterprise discovers a planetary population controlled by a powerful being
 called Landru. While investigating, Captain Kirk and his landing party are
 taken captive and discover that the Enterprise crew will be the next to be
 "absorbed" into Landru's control.
 
-:: Date
-1967-02-09
+:: Genre
+thriller
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-thriller
 
 :: Choice Themes
 order vs. freedom [harmony under Landru at the price of freedom] <Children of Landru>,
@@ -1697,6 +1697,9 @@ tos1x24
 :: Title
 Space Seed
 
+:: Date
+1967-02-16
+
 :: Description
 The Enterprise discovers an ancient sleeper ship, the SS Botany Bay, which
 escaped from Earth's Eugenics Wars in the late 20th century. The genetically
@@ -1704,15 +1707,12 @@ engineered passengers, led by war criminal Khan Noonien Singh , seize control
 of the Enterprise and attempt to destroy the ship. (This episode serves as the
 backstory to the second Star Trek film ).
 
-:: Date
-1967-02-16
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 1 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 eugenics [Khan and the eugenics wars],
@@ -1800,6 +1800,9 @@ tos1x23
 :: Title
 A Taste of Armageddon
 
+:: Date
+1967-02-23
+
 :: Description
 On Eminiar VII, the Enterprise finds a civilization at war with its planetary
 neighbor. Unable to discern any signs of battle from orbit, Captain Kirk leads
@@ -1809,15 +1812,12 @@ casualties still report to termination booths to be killed for real. After the
 Enterprise is destroyed in an attack simulation, Kirk must fight to keep his
 crew from death.
 
-:: Date
-1967-02-23
+:: Genre
+action
 
 :: Ratings
 5 <Paul>
 4 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 computer simulated war [Eminians and People of Vendikar],
@@ -1890,6 +1890,9 @@ tos1x25
 :: Title
 This Side of Paradise
 
+:: Date
+1967-03-02
+
 :: Description
 Despite exposure to fatal radiation , the Federation colony on Omicron Ceti
 III appears to be thriving. A landing party from the Enterprise investigates,
@@ -1899,14 +1902,11 @@ that seem to impose a state of pure bliss on all exposed to its spores (even
 Spock), but at the cost of ambition and self-discipline. Will the Enterprise
 crew succumb to the effects?
 
-:: Date
-1967-03-02
+:: Genre
 
 :: Ratings
 3 <Paul>
 2 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 neo-Luddist utopia [The colonists strove to create a utopia of this variety.] <Colonists of Omicron Ceti III>,
@@ -1978,6 +1978,9 @@ tos1x26
 :: Title
 The Devil in the Dark
 
+:: Date
+1967-03-09
+
 :: Description
 Dispatched to the mining colony on Janus VI, the Enterprise is tasked to
 investigate rumors of a strange, subterranean creature responsible for
@@ -1986,14 +1989,11 @@ discover a silicon-based life form , a Horta, which lives in the surrounding
 rock. After Kirk and his Vulcan first officer find the strange creature, Spock
 performs a mind meld , discovering the reason behind the Horta's attacks.
 
-:: Date
-1967-03-09
+:: Genre
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 silicon-based being [the horta] <Horta>,
@@ -2047,6 +2047,9 @@ tos1x27
 :: Title
 Errand of Mercy
 
+:: Date
+1967-03-23
+
 :: Description
 Peace negotiations have collapsed between the Federation and the warlike
 Klingon Empire . The Enterprise is ordered to protect Organia, a peaceful
@@ -2058,14 +2061,11 @@ of the Organian people. As both Federation and Klingon fleets converge above
 the planet, Kirk and Spock execute a daring raid on the Klingon headquarters
 in an effort to destabilize their control over the planet.
 
-:: Date
-1967-03-23
+:: Genre
 
 :: Ratings
 5 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 war is petty [from Organian point of view],
@@ -2153,15 +2153,15 @@ tos1x20
 :: Title
 The Alternative Factor
 
+:: Date
+1967-03-30
+
 :: Description
 While orbiting an apparently dead planet, the Enterprise seems to experience a
 strange moment of "nonexistence." Captain Kirk discovers a man named Lazarus
 on the planet below, who claims the effect was caused by his "enemy," later
 revealed to be an insane version of Lazarus from an alternate dimension . The
 sane version of Lazarus asks for Kirk's help in defeating his counterpart.
-
-:: Date
-1967-03-30
 
 :: Ratings
 3 <Paul>
@@ -2221,6 +2221,9 @@ tos1x28
 :: Title
 The City on the Edge of Forever
 
+:: Date
+1967-04-06
+
 :: Description
 After accidentally overdosing on a powerful stimulant, Dr. McCoy becomes
 unbalanced and disappears through the Guardian of Forever , a newly discovered
@@ -2229,9 +2232,6 @@ McCoy somehow changed history. Arriving in the 1930s, the duo meet Edith
 Keeler, a New York social worker who gives them a place to stay. As the days
 pass, and McCoy is nowhere to be seen, Kirk finds himself falling in love with
 Keeler... but Spock discovers that Keeler must die to restore the timeline.
-
-:: Date
-1967-04-06
 
 :: Ratings
 3 <Paul>
@@ -2307,6 +2307,9 @@ tos1x29
 :: Title
 Operation -- Annihilate!
 
+:: Date
+1967-04-13
+
 :: Description
 The Enterprise arrives at Deneva - the home of Captain Kirk's brother, Sam and
 his family - and discovers that the entire planet has been infested with
@@ -2314,9 +2317,6 @@ large, amoeba -like aliens that have attacked and killed much of the human
 population. One of these aliens attaches itself to Spock, who volunteers to
 become a subject in Dr. McCoy's medical tests. Can McCoy and Kirk find a cure
 in time to save Spock and the remainder of the Denevan population?
-
-:: Date
-1967-04-13
 
 :: Ratings
 3 <Paul>
@@ -2372,21 +2372,21 @@ tos2x05
 :: Title
 Amok Time
 
+:: Date
+1967-09-15
+
 :: Description
 When Mr. Spock begins behaving aggressively, Kirk discovers his first officer
 must return home to Vulcan to be married, or die. Kirk disobeys his orders to
 save Spock, only to find the unbalanced Vulcan at his throat when the bride
 forces Spock into a duel – and chooses the captain as her champion.
 
-:: Date
-1967-09-15
+:: Genre
+action
 
 :: Ratings
 5 <Paul>
 3 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 friendship [Kirk and Spock] <Kirk/Spock>,
@@ -2450,18 +2450,18 @@ tos2x04
 :: Title
 Who Mourns for Adonais?
 
+:: Date
+1967-09-22
+
 :: Description
 The crew of the Enterprise are held captive by an alien who claims to be the
 Greek god Apollo .
 
-:: Date
-1967-09-22
+:: Genre
 
 :: Ratings
 4 <Paul>
 3 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 infatuation [Apollo and Carolyn] <Apollo/Carolyn Palamas>,
@@ -2539,19 +2539,19 @@ tos2x08
 :: Title
 The Changeling
 
+:: Date
+1967-09-29
+
 :: Description
 The crew of the Enterprise deals with Nomad—an indestructible, planet-
 destroying space probe that thinks Kirk is its creator. Star Trek: The Motion
 Picture was in part an expansion of this episode.
 
-:: Date
-1967-09-29
+:: Genre
 
 :: Ratings
 4 <Paul>
 3 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 rise of the machines [Nomad determined to sterilize all biological life] <Nomad>,
@@ -2601,21 +2601,21 @@ tos2x10
 :: Title
 Mirror, Mirror
 
+:: Date
+1967-10-06
+
 :: Description
 A transporter mishap slips Captain Kirk and his companions into a parallel
 universe , where the Enterprise serves a barbaric Empire instead of the
 Federation. This episode spun off several plotlines in Deep Space Nine and
 Enterprise .
 
-:: Date
-1967-10-06
+:: Genre
+flight of fancy
 
 :: Ratings
 5 <Paul>
 3 <Mikael>
-
-:: Genre
-flight of fancy
 
 :: Choice Themes
 parallel universe [the mirror universe],
@@ -2683,18 +2683,18 @@ tos2x09
 :: Title
 The Apple
 
+:: Date
+1967-10-13
+
 :: Description
 The crew of the Enterprise visits a mysterious and deadly paradise planet
 which they discover is controlled by a machine called Vaal.
 
-:: Date
-1967-10-13
+:: Genre
 
 :: Ratings
 5 <Paul>
 2 <Mikael>,
-
-:: Genre
 
 :: Choice Themes
 order vs. freedom [order but stagnation under Vaal],
@@ -2765,6 +2765,9 @@ tos2x06
 :: Title
 The Doomsday Machine
 
+:: Date
+1967-10-20
+
 :: Description
 After losing his entire crew to an alien planet-eating machine, Commodore
 Matthew Decker pulls rank on Kirk in order to play a game of cat-and-mouse
@@ -2772,14 +2775,11 @@ with the mechanical adversary. His efforts to destroy the menace place the
 Enterprise in grave danger. This episode serves as the back story for the Star
 Trek 25th Anniversary Game Boy game .
 
-:: Date
-1967-10-20
+:: Genre
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 obsession [Decker with destroying the space worm] <Matt Decker>,
@@ -2852,19 +2852,19 @@ tos2x01
 :: Title
 Catspaw
 
+:: Date
+1967-10-27
+
 :: Description
 Two powerful aliens threaten the well-being of the Enterprise and her crew
 with their magical powers.
 
-:: Date
-1967-10-27
+:: Genre
+horror
 
 :: Ratings
 3 <Paul>
 4 <Mikael>
-
-:: Genre
-horror
 
 :: Choice Themes
 the supernatural [the hocus-pocus stuff],
@@ -2928,12 +2928,12 @@ tos2x12
 :: Title
 I, Mudd
 
+:: Date
+1967-11-03
+
 :: Description
 Captain Kirk and the crew has a second run in with the con man, Harry Mudd ,
 this time finding him as the king of a planet of androids .
-
-:: Date
-1967-11-03
 
 :: Ratings
 4 <Paul>
@@ -3015,19 +3015,19 @@ tos2x02
 :: Title
 Metamorphosis
 
+:: Date
+1967-11-10
+
 :: Description
 A shuttle crew from the Enterprise encounters a castaway (who appears to be
 Zefram Cochrane , the inventor of warp drive ) and his mysterious alien
 companion.
 
-:: Date
-1967-11-10
+:: Genre
 
 :: Ratings
 4 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 forbidden love [Cochrane and companion] <Zefram Cochrane, Companion>,
@@ -3084,20 +3084,20 @@ tos2x15
 :: Title
 Journey to Babel
 
+:: Date
+1967-11-17
+
 :: Description
 While transporting dignitaries to an important peace conference the Enterprise
 is pursued by a mysterious vessel and an assassin is discovered among the
 passengers.
 
-:: Date
-1967-11-17
+:: Genre
+political drama [what a ridiculously combobulated plot!], medical drama, whodunnit
 
 :: Ratings
 3 <Paul>
 4 <Mikael>
-
-:: Genre
-political drama [what a ridiculously combobulated plot!], medical drama, whodunnit
 
 :: Choice Themes
 international politics [the Babel conference],
@@ -3166,19 +3166,19 @@ tos2x03
 :: Title
 Friday's Child
 
+:: Date
+1967-12-01
+
 :: Description
 The crew of the Enterprise become entangled in a planet's tribal power
 struggle.
 
-:: Date
-1967-12-01
+:: Genre
+action
 
 :: Ratings
 2 <Paul>
 2 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 diplomacy [the mining rights],
@@ -3246,18 +3246,18 @@ tos2x11
 :: Title
 The Deadly Years
 
+:: Date
+1967-12-08
+
 :: Description
 Strange radiation exposes the command crew of the Enterprise to the effects of
 rapid aging.
 
-:: Date
-1967-12-08
+:: Genre
 
 :: Ratings
 2 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 coping with aging [Kirk and landing party] <Kirk, Spock, McCoy, Arlene Galway>,
@@ -3340,18 +3340,18 @@ tos2x18
 :: Title
 Obsession
 
+:: Date
+1967-12-15
+
 :: Description
 Captain Kirk becomes obsessed with destroying a murderous entity that killed
 many of the crew of his old ship.
 
-:: Date
-1967-12-15
+:: Genre
 
 :: Ratings
 3 <Paul>
 3 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 obsession [Kirk to kill dikironium cloud creature] <Kirk>,
@@ -3413,11 +3413,11 @@ tos2x07
 :: Title
 Wolf in the Fold
 
-:: Description
-Mr. Scott is implicated in a series of bizarre murders.
-
 :: Date
 1967-12-22
+
+:: Description
+Mr. Scott is implicated in a series of bizarre murders.
 
 :: Ratings
 3 <Paul>
@@ -3498,12 +3498,12 @@ tos2x13
 :: Title
 The Trouble with Tribbles
 
+:: Date
+1967-12-29
+
 :: Description
 Tribbles – purring, limbless, and fertile – disrupt the exploitation of a
 disputed planet between the Klingons and Federation.
-
-:: Date
-1967-12-29
 
 :: Ratings
 5 <Paul>
@@ -3569,20 +3569,20 @@ tos2x17
 :: Title
 The Gamesters of Triskelion
 
+:: Date
+1968-01-05
+
 :: Description
 Captain Kirk , Chekhov and Uhura are kidnapped by powerful disembodied aliens
 and forced to fight in gladiatorial contests for the aliens' gambling
 entertainment.
 
-:: Date
-1968-01-05
+:: Genre
+action
 
 :: Ratings
 4 <Paul>
 2 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 slavery [the brains collected slaves from around the galaxy],
@@ -3645,19 +3645,19 @@ tos2x20
 :: Title
 A Piece of the Action
 
+:: Date
+1968-01-12
+
 :: Description
 The Enterprise visits a planet with a violent culture based on Americas 1920s
 prohibition era.
 
-:: Date
-1968-01-12
+:: Genre
+gangster, flight of fancy, action
 
 :: Ratings
 3 <Paul>
 2 <Mikael>
-
-:: Genre
-gangster, flight of fancy, action
 
 :: Choice Themes
 the gangster stereotype [a planet full of 1920s era gangsters] <Sigma Iotian>,
@@ -3703,17 +3703,17 @@ tos2x19
 :: Title
 The Immunity Syndrome
 
+:: Date
+1968-01-19
+
 :: Description
 The crew of the Enterprise encounters an energy-draining space creature.
 
-:: Date
-1968-01-19
+:: Genre
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 giant space amoeba [with interesting ideas such as that we would seem like a virus to it] <Giant Space Amoeba>,
@@ -3761,19 +3761,19 @@ tos2x16
 :: Title
 A Private Little War
 
+:: Date
+1968-02-02
+
 :: Description
 Captain Kirk must decide how to save a primitive people from the technological
 interference of the Klingons .
 
-:: Date
-1968-02-02
+:: Genre
+action
 
 :: Ratings
 2 <Paul>
 2 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 the ethics of interfering in less advanced societies [Should the Federation arm the hill people?],
@@ -3836,18 +3836,18 @@ tos2x22
 :: Title
 Return to Tomorrow
 
+:: Date
+1968-02-09
+
 :: Description
 Telepathic aliens take control of Kirk and Spock's bodies with the intention
 to build new, mechanized bodies for themselves.
 
-:: Date
-1968-02-09
+:: Genre
 
 :: Ratings
 4 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 transcendental being [Sargon's species] <Sargon's Species>,
@@ -3916,18 +3916,18 @@ tos2x23
 :: Title
 Patterns of Force
 
+:: Date
+1968-02-16
+
 :: Description
 The crew of the Enterprise visits a planet dominated by a Nazi culture and at
 war with its planetary neighbor.
 
-:: Date
-1968-02-16
+:: Genre
 
 :: Ratings
 2 <Paul>
 1 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 the Nazi stereotype [An alien race patterned after the Nazis right down to the uniforms.] <Ekosian>,
@@ -4006,19 +4006,19 @@ tos2x21
 :: Title
 By Any Other Name
 
+:: Date
+1968-02-23
+
 :: Description
 Beings from the Andromeda Galaxy steal the Enterprise , technically modify it,
 and attempt to return home.
 
-:: Date
-1968-02-23
+:: Genre
+human drama
 
 :: Ratings
 4 <Paul>
 2 <Mikael>
-
-:: Genre
-human drama
 
 :: Choice Themes
 the nature of human emotions [much ado about Kelvans experiencing the world through human senses],
@@ -4094,19 +4094,19 @@ tos2x25
 :: Title
 The Omega Glory
 
+:: Date
+1968-03-01
+
 :: Description
 Captain Kirk must battle a deadly virus and a treacherous fellow starship
 captain to stop a meaningless intertribal war.
 
-:: Date
-1968-03-01
+:: Genre
+action
 
 :: Ratings
 2 <Paul>
 1 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 the ethics of interfering in less advanced societies [Captain Tracy violated Prime Directive] <Ron Tracy>,
@@ -4155,17 +4155,17 @@ tos2x24
 :: Title
 The Ultimate Computer
 
+:: Date
+1968-03-08
+
 :: Description
 A new computer system causes havoc while being tested aboard the Enterprise .
 
-:: Date
-1968-03-08
+:: Genre
 
 :: Ratings
 3 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 obsession [Daystrom] <Richard Daystrom>,
@@ -4228,19 +4228,19 @@ tos2x14
 :: Title
 Bread and Circuses
 
+:: Date
+1968-03-15
+
 :: Description
 Captain Kirk and his companions are forced to fight in gladiatorial games on a
 planet modeled after the Roman Empire.
 
-:: Date
-1968-03-15
+:: Genre
+action
 
 :: Ratings
 3 <Paul>
 2 <Mikael>
-
-:: Genre
-action
 
 :: Choice Themes
 what if the Roman Empire never fell [space Romans],
@@ -4313,12 +4313,12 @@ tos2x26
 :: Title
 Assignment: Earth
 
+:: Date
+1968-03-29
+
 :: Description
 During a historical research mission in 1968, the Enterprise encounters Gary
 Seven , a human from the future who appears to be attempting to alter history.
-
-:: Date
-1968-03-29
 
 :: Ratings
 1 <Paul>
@@ -4381,17 +4381,17 @@ tos3x06
 :: Title
 Spock's Brain
 
+:: Date
+1968-09-20
+
 :: Description
 Captain Kirk pursues aliens who have stolen Spock's brain.
 
-:: Date
-1968-09-20
+:: Genre
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 great need vs. human rights [do they have the right to take Spocks brain?],
@@ -4436,18 +4436,18 @@ tos3x04
 :: Title
 The Enterprise Incident
 
+:: Date
+1968-09-27
+
 :: Description
 The crew of the Enterprise attempts to steal a Romulan cloaking device.
 
-:: Date
-1968-09-27
+:: Genre
+spy drama, action
 
 :: Ratings
 4 <Paul>
 4 <Mikael>
-
-:: Genre
-spy drama, action
 
 :: Choice Themes
 arms race [Federation and Romulans],
@@ -4512,19 +4512,19 @@ tos3x03
 :: Title
 The Paradise Syndrome
 
+:: Date
+1968-10-04
+
 :: Description
 A mysterious alien device on a planet with a predominantly American Indian
 culture erases Captain Kirk's memory, and he begins a life with them as a
 member of their tribe.
 
-:: Date
-1968-10-04
+:: Genre
 
 :: Ratings
 1 <Paul>
 1 <Mikael> [but a small plus for the unconventional and cruel ending!]
-
-:: Genre
 
 :: Choice Themes
 noble savage utopia [Amerinds textbook noble savages] <Natives of Amerind>,
@@ -4594,19 +4594,19 @@ tos3x05
 :: Title
 And the Children Shall Lead
 
+:: Date
+1968-10-11
+
 :: Description
 The crew of the Enterprise rescues a group of children stranded on a planet,
 along with their evil "imaginary" friend.
 
-:: Date
-1968-10-11
+:: Genre
+fantasy
 
 :: Ratings
 1 <Paul>
 1 <Mikael>
-
-:: Genre
-fantasy
 
 :: Choice Themes
 the human capacity for good and evil [Gorgon was pure evil in contrast to the innocent and pure children.],
@@ -4666,19 +4666,19 @@ tos3x07
 :: Title
 Is There in Truth No Beauty?
 
+:: Date
+1968-10-18
+
 :: Description
 The Enterprise travels with an alien ambassador who must travel inside a
 special black case because his appearance causes insanity.
 
-:: Date
-1968-10-18
+:: Genre
+human drama
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
-human drama
 
 :: Choice Themes
 coping with a disability [Miranda Jones is blind] <Miranda Jones>,
@@ -4752,13 +4752,13 @@ tos3x01
 :: Title
 Spectre of the Gun
 
+:: Date
+1968-10-25
+
 :: Description
 For trespassing on an alien world, Captain Kirk and his companions are forced
 to re-enact the famous shoot-out at the O.K. Corral with themselves cast as
 the losing side.
-
-:: Date
-1968-10-25
 
 :: Ratings
 4 <Paul>
@@ -4832,19 +4832,19 @@ tos3x11
 :: Title
 Day of the Dove
 
+:: Date
+1968-11-01
+
 :: Description
 An alien energy-based life form that feeds on negative emotions (such as fear,
 anger, hatred) drives the crew of the Enterprise into brutal conflict with the
 Klingons .
 
-:: Date
-1968-11-01
+:: Genre
 
 :: Ratings
 1 <Paul>
 2 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 cooperation [Humans and Klingons must cooperate to overcome alien entity],
@@ -4911,6 +4911,9 @@ tos3x10
 :: Title
 For the World is Hollow and I Have Touched the Sky
 
+:: Date
+1968-11-08
+
 :: Description
 As McCoy discovers he is dying of an incurable disease, the crew of the
 Enterprise rush to stop an asteroid from colliding with a Federation world,
@@ -4919,14 +4922,11 @@ find an entire civilization living in the ship who believe they are actually
 on a planet and a dictatorial "Oracle" who forbids any attempt to discover the
 truth.
 
-:: Date
-1968-11-08
+:: Genre
 
 :: Ratings
 5 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 multi-generational spaceship [Yonadan asteroid],
@@ -4989,18 +4989,18 @@ tos3x09
 :: Title
 The Tholian Web
 
+:: Date
+1968-11-15
+
 :: Description
 Captain Kirk is caught between dimensions while the Enterprise is trapped by
 an energy draining web spun by mysterious aliens.
 
-:: Date
-1968-11-15
+:: Genre
 
 :: Ratings
 4 <Paul>
 3 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 the qualities of a good leader [Spock] <Spock>,
@@ -5054,13 +5054,13 @@ tos3x12
 :: Title
 Plato's Stepchildren
 
+:: Date
+1968-11-22
+
 :: Description
 The crew of the Enterprise encounters an ageless and mischievous race of
 psychic humanoids who claim to have organized their society around Ancient
 Greek ideals.
-
-:: Date
-1968-11-22
 
 :: Ratings
 5 <Paul>
@@ -5168,19 +5168,19 @@ tos3x13
 :: Title
 Wink of an Eye
 
+:: Date
+1968-11-29
+
 :: Description
 Invisible "time-accelerated" aliens take over the Enterprise and attempt to
 abduct the crew for use as "genetic stock".
 
-:: Date
-1968-11-29
+:: Genre
+romance
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
-romance
 
 :: Choice Themes
 great need vs. human rights [Scalosians need breeding stock],
@@ -5239,12 +5239,12 @@ tos3x08
 :: Title
 The Empath
 
+:: Date
+1968-12-06
+
 :: Description
 While visiting a doomed planet, the landing party is subject to torturous
 experiments to test an empathic race.
-
-:: Date
-1968-12-06
 
 :: Ratings
 1 <Paul>
@@ -5305,19 +5305,19 @@ tos3x02
 :: Title
 Elaan of Troyius
 
+:: Date
+1968-12-20
+
 :: Description
 Captain Kirk hosts a spoiled princess , who must bring peace to a star system
 at war.
 
-:: Date
-1968-12-20
+:: Genre
+romance
 
 :: Ratings
 3 <Paul>
 3 <Mikael>
-
-:: Genre
-romance
 
 :: Choice Themes
 conflict of cultural norms [The Elasians expected everyone else to show their royalty the same respect they did. They were mighty offended when Kirk would not up with it put and threatened to put the petulent princess over his knee.],
@@ -5392,12 +5392,12 @@ tos3x16
 :: Title
 Whom Gods Destroy
 
+:: Date
+1969-01-03
+
 :: Description
 Captain Kirk visits a mental health facility and confronts an insane starship
 captain who believes he is destined to control the universe .
-
-:: Date
-1969-01-03
 
 :: Ratings
 3 <Paul>
@@ -5477,19 +5477,19 @@ tos3x15
 :: Title
 Let That Be Your Last Battlefield
 
+:: Date
+1969-01-10
+
 :: Description
 The Enterprise picks up the last two survivors of a war-torn planet who are
 still committed to destroying each other aboard the ship.
 
-:: Date
-1969-01-10
+:: Genre
+social awareness, political drama
 
 :: Ratings
 3 <Paul>
 4 <Mikael>
-
-:: Genre
-social awareness, political drama
 
 :: Choice Themes
 racism in society [Bele, who was black on the right side and white on the left, was of the view that Lokai and his people, who were colored in a reverse manner, were incapable of self-discipline, making a negotiated peace between their peoples impossible. Lokai held similar views of Bele and his people, and these prejudices and antagonisms were central to the unfolding of the story.],
@@ -5563,18 +5563,18 @@ tos3x17
 :: Title
 The Mark of Gideon
 
+:: Date
+1969-01-17
+
 :: Description
 An overpopulated race of aliens abduct Kirk to solve their problem.
 
-:: Date
-1969-01-17
+:: Genre
+mystery, social awareness
 
 :: Ratings
 4 <Paul>
 2 <Mikael> [incoherent premise]
-
-:: Genre
-mystery, social awareness
 
 :: Choice Themes
 overpopulated world [There was a planet where people were living shoulder to shoulder.],
@@ -5623,18 +5623,18 @@ tos3x14
 :: Title
 That Which Survives
 
+:: Date
+1969-01-24
+
 :: Description
 The crew of the Enterprise visits an abandoned outpost guarded by a mysterious
 computer.
 
-:: Date
-1969-01-24
+:: Genre
 
 :: Ratings
 3 <Paul>
 2 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 artificial planet [the Kalandans built one] <Kalandan artificial planet>,
@@ -5690,19 +5690,19 @@ tos3x18
 :: Title
 The Lights of Zetar
 
+:: Date
+1969-01-31
+
 :: Description
 Strange, energy-based alien life forms threaten the Memory Alpha station and
 the Enterprise crew.
 
-:: Date
-1969-01-31
+:: Genre
+romance
 
 :: Ratings
 2 <Paul>
 2 <Mikael>
-
-:: Genre
-romance
 
 :: Choice Themes
 infatuation [Scotty and Mira] <Scotty/Mira Romaine>,
@@ -5760,19 +5760,19 @@ tos3x21
 :: Title
 Requiem for Methuselah
 
+:: Date
+1969-02-14
+
 :: Description
 The crew of the Enterprise encounters an immortal human who lives as a recluse
 on his own planet.
 
-:: Date
-1969-02-14
+:: Genre
+human drama
 
 :: Ratings
 5 <Paul>
 5 <Mikael>
-
-:: Genre
-human drama
 
 :: Choice Themes
 immortal living secretly among us [Flint lived on Earth for thousands of years],
@@ -5853,19 +5853,19 @@ tos3x20
 :: Title
 The Way to Eden
 
+:: Date
+1969-02-21
+
 :: Description
 The Enterprise is hijacked by a criminal doctor and his loyal, hippie -like
 followers who are attempting to find paradise.
 
-:: Date
-1969-02-21
+:: Genre
+social awareness
 
 :: Ratings
 2 <Paul>
 3 <Mikael>
-
-:: Genre
-social awareness
 
 :: Choice Themes
 the hippie stereotype [motley crew of hippies led by the evil Doctor Sevrin],
@@ -5941,18 +5941,18 @@ tos3x19
 :: Title
 The Cloud Minders
 
+:: Date
+1969-02-28
+
 :: Description
 Kirk races against time to acquire plague-fighting minerals from a world in
 the midst of a civil uprising.
 
-:: Date
-1969-02-28
+:: Genre
 
 :: Ratings
 3 <Paul>
 4 <Mikael>
-
-:: Genre
 
 :: Choice Themes
 social oppression [The Troglytes were systematically oppressed by Stratos city dwellers.],
@@ -6011,12 +6011,12 @@ tos3x22
 :: Title
 The Savage Curtain
 
+:: Date
+1969-03-07
+
 :: Description
 Aliens force Kirk and Spock to battle illusionary villains in a test of good
 versus evil.
-
-:: Date
-1969-03-07
 
 :: Ratings
 3 <Paul>
@@ -6087,12 +6087,12 @@ tos3x23
 :: Title
 All Our Yesterdays
 
+:: Date
+1969-03-14
+
 :: Description
 Kirk, Spock, and McCoy are trapped in the past on a world threatened by a
 super nova.
-
-:: Date
-1969-03-14
 
 :: Ratings
 5 <Paul>
@@ -6153,19 +6153,19 @@ tos3x24
 :: Title
 Turnabout Intruder
 
+:: Date
+1969-06-03
+
 :: Description
 Kirk's consciousness becomes trapped in the body of a woman bent on killing
 him and taking over his command while inhabiting his body.
 
-:: Date
-1969-06-03
+:: Genre
+courtroom drama
 
 :: Ratings
 5 <Paul>
 3 <Mikael>
-
-:: Genre
-courtroom drama
 
 :: Choice Themes
 misandry [Janice hated men, especially Kirk.] <Janice Lester>,

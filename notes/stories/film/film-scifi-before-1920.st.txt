@@ -7,14 +7,14 @@ Science fiction films before 1920
 :: Date
 1895-1919
 
-:: Collections
-Collection: Science fiction films before 1920
-
 :: Description
 Science fiction films that premiered prior to 1 January 1920.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_science_fiction_films_before_1920
+
+:: Collections
+Collection: Science fiction films before 1920
 
 
 movie: La Charcuterie mécanique (1895)
@@ -23,21 +23,21 @@ movie: La Charcuterie mécanique (1895)
 :: Title
 La Charcuterie mécanique
 
+:: Date
+1895
+
 :: Description
 A film purporting to show a machine that automatically turns a live pig into
 various pork products.
 
-:: Date
-1895
-
 :: References
 https://en.wikipedia.org/wiki/La_Charcuterie_m%C3%A9canique
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 speculative device [A live pig in placed into a box-like machine that automatically butchered it into various cuts of meat.],
@@ -49,20 +49,20 @@ movie: Gugusse and the Automaton (1897)
 :: Title
 Gugusse and the Automaton
 
-:: Description
-A clown is amazed and confused by the mechanical movements of an automaton.
-
 :: Date
 1897
+
+:: Description
+A clown is amazed and confused by the mechanical movements of an automaton.
 
 :: References
 https://en.wikipedia.org/wiki/Gugusse_and_the_Automaton
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 mechanical man [a clown is amazed and confused by mechanical man],
@@ -74,20 +74,20 @@ movie: The X-Rays (1897)
 :: Title
 The X-Rays
 
-:: Description
-A courting couple is exposed to X-rays.
-
 :: Date
 1897-10
+
+:: Description
+A courting couple is exposed to X-rays.
 
 :: References
 https://en.wikipedia.org/wiki/The_X-Rays
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 X-rays [An X-ray machine was used on a courting couple to humorous effect.],
@@ -100,20 +100,20 @@ movie: A Novice at X-rays (1898)
 :: Title
 A Novice at X-rays
 
-:: Description
-A man has his skeleton extracted by a scientist using an X-ray machine.
-
 :: Date
 1898
+
+:: Description
+A man has his skeleton extracted by a scientist using an X-ray machine.
 
 :: References
 https://www.imdb.com/title/tt0000210/
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 X-rays [An unsuspecting man had his skeleton extracted by an X-ray machine operating scientist.],
@@ -125,22 +125,22 @@ movie: A Trip to the Moon (1902)
 :: Title
 A Trip to the Moon
 
+:: Date
+1902-10-04
+
 :: Description
 A group of astronomers who travel to the Moon in a cannon-propelled capsule,
 explore the Moon's surface, escape from an underground group of lunar
 inhabitants, and return to Earth with one of them.
 
-:: Date
-1902-10-04
-
 :: References
 https://en.wikipedia.org/wiki/A_Trip_to_the_Moon
 
-:: Ratings
-5 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 space gun [A group of astronomers shot themselves to the Moon in a bullet-like spacecraft.],
@@ -157,22 +157,22 @@ movie: Under the Seas (1907)
 :: Title
 Under the Seas
 
+:: Date
+1907
+
 :: Description
 A fisherman who dreams of traveling by submarine to the bottom of the ocean,
 where he encounters both realistic and fanciful sea creatures, including a
 chorus of naiads.
 
-:: Date
-1907
-
 :: References
 https://en.wikipedia.org/wiki/Under_the_Seas
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 speculative submarine [a fisherman Yves is lead to a submarine that he uses to explore the sea],
@@ -187,21 +187,21 @@ movie: The Eclipse, or the Courtship of the Sun and Moon (1907)
 :: Title
 The Eclipse, or the Courtship of the Sun and Moon
 
+:: Date
+1907
+
 :: Description
 A professor and his students behold a mildly flirtatious eclipse between an
 anthropomorphic sun and moon.
 
-:: Date
-1907
-
 :: References
 https://en.wikipedia.org/wiki/The_Eclipse,_or_the_Courtship_of_the_Sun_and_Moon
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 solar eclipse [A group of astronomers observed the sun and moon have a romantic encounter during a fanciful depiction of an eclipse.],
@@ -214,21 +214,21 @@ movie: The Airship Destroyer (1909)
 :: Title
 The Airship Destroyer
 
+:: Date
+1909
+
 :: Description
 A fleet of airships begin an attack on England, bombing an armored vehicle, a
 signal box and a town.
 
-:: Date
-1909
-
 :: References
 https://en.wikipedia.org/wiki/The_Airship_Destroyer
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 aerial bombing of cities [an armada of airships bomb England],
@@ -243,20 +243,20 @@ movie: Frankenstein (1910)
 :: Title
 Frankenstein
 
-:: Description
-The first motion picture adaptation of Mary Shelley's Frankenstein.
-
 :: Date
 1910-03-18
+
+:: Description
+The first motion picture adaptation of Mary Shelley's Frankenstein.
 
 :: References
 https://en.wikipedia.org/wiki/Frankenstein_(1910_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 the dangers of unfettered scientific advancement [Frankenstein applies his scientific knowledge to the creation of a monster to society.],
@@ -279,23 +279,23 @@ movie: The Conquest of the Pole (1912)
 :: Title
 The Conquest of the Pole
 
+:: Date
+1912-05-03
+
 :: Description
 A film loosely inspired by contemporary events and by Jules Verne's Voyages
 Extraordinaires, follows the comic misadventures of an international group of
 explorers on an expedition to the North Pole, where they encounter a man-
 eating frost giant and a dangerous magnetic needle.
 
-:: Date
-1912-05-03
-
 :: References
 https://en.wikipedia.org/wiki/The_Conquest_of_the_Pole
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 polar exploration [An international group of explorers went on an expedition to the North Pole.],
@@ -314,20 +314,20 @@ movie: The Extraordinary Adventures of Saturnino Farandola (1913)
 :: Title
 The Extraordinary Adventures of Saturnino Farandola
 
-:: Description
-Saturnino Farandola goes on a series of extraordinary adventures.
-
 :: Date
 1913
+
+:: Description
+Saturnino Farandola goes on a series of extraordinary adventures.
 
 :: References
 https://en.wikipedia.org/wiki/Le_avventure_straordinarissime_di_Saturnino_Farandola
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the need for adventure [Saturnino and Misora travel the world getting into one adventure after another, including an encounter with a whale at the bottom of the sea, finding the lost white elephant of the Siamese king, going to the source of the Nile, and taking a cruise along the coast of the Americas],
@@ -348,21 +348,21 @@ movie: A Message from Mars (1913)
 :: Title
 A Message from Mars
 
+:: Date
+1913-07
+
 :: Description
 A wealthy young man who is exceedingly selfish and self-centered is shown the
 error of his ways by a messenger from Mars on Christmas Eve.
 
-:: Date
-1913-07
-
 :: References
 https://en.wikipedia.org/wiki/A_Message_from_Mars_(1913_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 selfishness [Horace Parker is the embodiment of selfishness],
@@ -385,6 +385,9 @@ movie: Tales of Hoffman (1916)
 :: Title
 Tales of Hoffman
 
+:: Date
+1916
+
 :: Description
 A silent film depicting a trio of adventures of E.T.A. Hoffman. In the first,
 Hoffman becomes infatuated with a realistic looking mechanical puppet when he
@@ -393,17 +396,14 @@ world to appear alive. In the second, he gets into a sword fighting duel over
 a beautiful woman. In the third, he falls in love with a woman who dies
 tragically from a disease caused by singing.
 
-:: Date
-1916
-
 :: References
 https://en.wikipedia.org/wiki/Tales_of_Hoffmann_(film)
 
-:: Ratings
-2 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>,
 
 :: Major Themes
 infatuation [Hoffman becomes infatuated with a realistic looking mechanical puppet when he dons special glasses that make him see dead things in the world look alive; Hoffman at Giulietta; Hoffman and Antonia],
@@ -424,21 +424,21 @@ movie: The End of the World (1916)
 :: Title
 The End of the World
 
+:: Date
+1916
+
 :: Description
 A worldwide catastrophe when an errant comet passes by Earth and causes
 natural disasters and social unrest.
 
-:: Date
-1916
-
 :: References
 https://en.wikipedia.org/wiki/The_End_of_the_World_(1916_film)
 
-:: Ratings
-3 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 close encounter with a passing astronomical object [An errant comet passes by Earth and causes natural disasters.],
@@ -455,21 +455,21 @@ movie: 20000 Leagues Under the Sea (1916)
 :: Title
 20000 Leagues Under the Sea
 
+:: Date
+1916-12-24
+
 :: Description
 A film adaptation of the novel Twenty Thousand Leagues Under the Sea by Jules
 Verne.
 
-:: Date
-1916-12-24
-
 :: References
 https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1916_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 voyage under the sea [Nemo and Arronax explored the ocean depths together in the high-tech submarine the Nautilis.],
@@ -499,22 +499,22 @@ movie: A Trip to Mars (1918)
 :: Title
 A Trip to Mars
 
+:: Date
+1918-02-22
+
 :: Description
 Captain Avanti Planetaros leads an expedition to the planet Mars where he and
 his fellow companions encounter a highly advanced civilization of pacifist
 vegetarian Martians.
 
-:: Date
-1918-02-22
-
 :: References
 https://en.wikipedia.org/wiki/A_Trip_to_Mars
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 transnational institution for peace [Avanti Planetaros leads and expedition to Mars where he encounters a highly advanced civilization of pacifist vegetarian Martians. Avanti returns to Earth with a message to his fellow Earthlings that world peace can be achieved.],

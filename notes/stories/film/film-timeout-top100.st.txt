@@ -7,14 +7,14 @@ Time Out magazine's Top 100 films
 :: Date
 1920-2017
 
-:: Collections
-Collection: Time Out magazine's Top 100 films
-
 :: Description
 This is a collection of movies that the magazine Time Out has listed as being among the top 100 movies of all times.
 
 :: References
 https://www.timeout.com/london/film/the-100-best-movies-of-all-time
+
+:: Collections
+Collection: Time Out magazine's Top 100 films
 
 
 movie: The Cabinet of Dr Caligari (1920)
@@ -23,11 +23,11 @@ movie: The Cabinet of Dr Caligari (1920)
 :: Title
 The Cabinet of Dr. Caligari
 
-:: Description
-The Cabinet of Dr. Caligari (German: Das Cabinet des Dr. Caligari) is a 1920 German silent horror film, directed by Robert Wiene and written by Hans Janowitz and Carl Mayer. Considered the quintessential work of German Expressionist cinema, it tells the story of an insane hypnotist (Werner Krauss) who uses a somnambulist (Conrad Veidt) to commit murders. The film features a dark and twisted visual style, with sharp-pointed forms, oblique and curving lines, structures and landscapes that lean and twist in unusual angles, and shadows and streaks of light painted directly onto the sets.
-
 :: Date
 1920-02-26
+
+:: Description
+The Cabinet of Dr. Caligari (German: Das Cabinet des Dr. Caligari) is a 1920 German silent horror film, directed by Robert Wiene and written by Hans Janowitz and Carl Mayer. Considered the quintessential work of German Expressionist cinema, it tells the story of an insane hypnotist (Werner Krauss) who uses a somnambulist (Conrad Veidt) to commit murders. The film features a dark and twisted visual style, with sharp-pointed forms, oblique and curving lines, structures and landscapes that lean and twist in unusual angles, and shadows and streaks of light painted directly onto the sets.
 
 :: References
 https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari
@@ -55,11 +55,11 @@ movie: Nosferatu A Symphony of Horror (1922)
 :: Title
 Nosferatu: A Symphony of Horror
 
-:: Description
-Nosferatu: A Symphony of Horror (German: Nosferatu, eine Symphonie des Grauens), or simply Nosferatu, is a 1922 German Expressionist horror film, directed by F. W. Murnau, starring Max Schreck as the vampire Count Orlok. The silent film, shot in 1921 and released the following year, was an unauthorized adaptation of Bram Stoker's Dracula (1897); the Stoker Estate had refused permission. Various names and other details were changed from the novel: for instance, vampire became Nosferatu, and Count Dracula was renamed Count Orlok.
-
 :: Date
 1922-03-04
+
+:: Description
+Nosferatu: A Symphony of Horror (German: Nosferatu, eine Symphonie des Grauens), or simply Nosferatu, is a 1922 German Expressionist horror film, directed by F. W. Murnau, starring Max Schreck as the vampire Count Orlok. The silent film, shot in 1921 and released the following year, was an unauthorized adaptation of Bram Stoker's Dracula (1897); the Stoker Estate had refused permission. Various names and other details were changed from the novel: for instance, vampire became Nosferatu, and Count Dracula was renamed Count Orlok.
 
 :: References
 https://en.wikipedia.org/wiki/Nosferatu
@@ -88,11 +88,11 @@ movie: Battleship Potemkin (1925)
 :: Title
 Battleship Potemkin
 
-:: Description
-Battleship Potemkin (Russian: Бронено́сец «Потёмкин», Bronenosets Potyomkin), sometimes rendered as Battleship Potyomkin, is a 1925 Soviet silent film directed by Sergei Eisenstein and produced by Mosfilm. It presents a dramatized version of the mutiny that occurred in 1905 when the crew of the Russian battleship Potemkin rebelled against its officers.
-
 :: Date
 1925-12-21
+
+:: Description
+Battleship Potemkin (Russian: Бронено́сец «Потёмкин», Bronenosets Potyomkin), sometimes rendered as Battleship Potyomkin, is a 1925 Soviet silent film directed by Sergei Eisenstein and produced by Mosfilm. It presents a dramatized version of the mutiny that occurred in 1905 when the crew of the Russian battleship Potemkin rebelled against its officers.
 
 :: References
 https://en.wikipedia.org/wiki/Battleship_Potemkin
@@ -118,11 +118,11 @@ movie: The General (1926)
 :: Title
 The General
 
-:: Description
-The General is a 1926 American silent comedy film released by United Artists. It was inspired by the Great Locomotive Chase, a true story of an event that occurred during the American Civil War. The story was adapted from the memoir The Great Locomotive Chase by William Pittenger. The film stars Buster Keaton who co-directed it with Clyde Bruckman.
-
 :: Date
 1926-12-31
+
+:: Description
+The General is a 1926 American silent comedy film released by United Artists. It was inspired by the Great Locomotive Chase, a true story of an event that occurred during the American Civil War. The story was adapted from the memoir The Great Locomotive Chase by William Pittenger. The film stars Buster Keaton who co-directed it with Clyde Bruckman.
 
 :: References
 https://en.wikipedia.org/wiki/The_General_(1926_film)
@@ -153,11 +153,11 @@ movie: The Passion of Joan of Arc (1928)
 :: Title
 The Passion of Joan of Arc
 
-:: Description
-The Passion of Joan of Arc (French: La Passion de Jeanne d'Arc) is a 1928 silent French historical film based on the actual record of the trial of Joan of Arc. The film was directed by Carl Theodor Dreyer and stars Renée Jeanne Falconetti as Joan. It is widely regarded as a landmark of cinema, especially for its production, Dreyer's direction and Falconetti's performance, which is often listed as one of the finest in cinema history. The film summarizes the time that Joan of Arc was a captive of England, depicting her trial and execution.
-
 :: Date
 1928-04-21
+
+:: Description
+The Passion of Joan of Arc (French: La Passion de Jeanne d'Arc) is a 1928 silent French historical film based on the actual record of the trial of Joan of Arc. The film was directed by Carl Theodor Dreyer and stars Renée Jeanne Falconetti as Joan. It is widely regarded as a landmark of cinema, especially for its production, Dreyer's direction and Falconetti's performance, which is often listed as one of the finest in cinema history. The film summarizes the time that Joan of Arc was a captive of England, depicting her trial and execution.
 
 :: References
 https://en.wikipedia.org/wiki/The_Passion_of_Joan_of_Arc
@@ -191,11 +191,11 @@ movie: City Lights (1931)
 :: Title
 City Lights
 
-:: Description
-City Lights is a 1931 American pre-Code silent romantic comedy film written, produced, directed by, and starring Charlie Chaplin. The story follows the misadventures of Chaplin's Tramp as he falls in love with a blind girl (Virginia Cherrill) and develops a turbulent friendship with an alcoholic millionaire (Harry Myers).
-
 :: Date
 1931-01-30
+
+:: Description
+City Lights is a 1931 American pre-Code silent romantic comedy film written, produced, directed by, and starring Charlie Chaplin. The story follows the misadventures of Chaplin's Tramp as he falls in love with a blind girl (Virginia Cherrill) and develops a turbulent friendship with an alcoholic millionaire (Harry Myers).
 
 :: References
 https://en.wikipedia.org/wiki/City_Lights
@@ -237,11 +237,11 @@ movie: M (1931)
 :: Title
 M
 
-:: Description
-M (German: M – Eine Stadt sucht einen Mörder— M – A City Searches for a Murderer) is a 1931 German thriller film directed by Fritz Lang and starring Peter Lorre. The film was written by Lang and his wife Thea von Harbou and was the director's first sound film.
-
 :: Date
 1931-05-11
+
+:: Description
+M (German: M – Eine Stadt sucht einen Mörder— M – A City Searches for a Murderer) is a 1931 German thriller film directed by Fritz Lang and starring Peter Lorre. The film was written by Lang and his wife Thea von Harbou and was the director's first sound film.
 
 :: References
 https://en.wikipedia.org/wiki/M_(1931_film)
@@ -274,11 +274,11 @@ movie: Duck Soup (1933)
 :: Title
 Duck Soup
 
-:: Description
-Duck Soup is a 1933 pre-Code Marx Brothers comedy film written by Bert Kalmar and Harry Ruby, with additional dialogue by Arthur Sheekman and Nat Perrin, and directed by Leo McCarey. First released theatrically by Paramount Pictures on November 17, 1933, it starred what were then billed as the "Four Marx Brothers" (Groucho, Harpo, Chico, and Zeppo) and also featured Margaret Dumont, Louis Calhern, Raquel Torres and Edgar Kennedy. It was the last Marx Brothers film to feature Zeppo, and the last of five Marx Brothers movies released by Paramount Pictures.
-
 :: Date
 1933-11-17
+
+:: Description
+Duck Soup is a 1933 pre-Code Marx Brothers comedy film written by Bert Kalmar and Harry Ruby, with additional dialogue by Arthur Sheekman and Nat Perrin, and directed by Leo McCarey. First released theatrically by Paramount Pictures on November 17, 1933, it starred what were then billed as the "Four Marx Brothers" (Groucho, Harpo, Chico, and Zeppo) and also featured Margaret Dumont, Louis Calhern, Raquel Torres and Edgar Kennedy. It was the last Marx Brothers film to feature Zeppo, and the last of five Marx Brothers movies released by Paramount Pictures.
 
 :: References
 https://en.wikipedia.org/wiki/Duck_Soup_(1933_film)
@@ -302,11 +302,11 @@ movie: It Happened One Night (1934)
 :: Title
 It Happened One Night
 
-:: Description
-It Happened One Night is a 1934 pre-Code American romantic comedy film with elements of screwball comedy directed and co-produced by Frank Capra, in collaboration with Harry Cohn, in which a pampered socialite (Claudette Colbert) tries to get out from under her father's thumb and falls in love with a roguish reporter (Clark Gable). The plot is based on the August 1933 short story "Night Bus" by Samuel Hopkins Adams, which provided the shooting title. Classified as a "pre-Code" production, the film is among the last romantic comedies created before the MPPDA began rigidly enforcing the 1930 Motion Picture Production Code in July 1934. It Happened One Night was released just four months prior to that enforcement.
-
 :: Date
 1934-02-22
+
+:: Description
+It Happened One Night is a 1934 pre-Code American romantic comedy film with elements of screwball comedy directed and co-produced by Frank Capra, in collaboration with Harry Cohn, in which a pampered socialite (Claudette Colbert) tries to get out from under her father's thumb and falls in love with a roguish reporter (Clark Gable). The plot is based on the August 1933 short story "Night Bus" by Samuel Hopkins Adams, which provided the shooting title. Classified as a "pre-Code" production, the film is among the last romantic comedies created before the MPPDA began rigidly enforcing the 1930 Motion Picture Production Code in July 1934. It Happened One Night was released just four months prior to that enforcement.
 
 :: References
 https://en.wikipedia.org/wiki/It_Happened_One_Night
@@ -334,11 +334,11 @@ movie: Modern Times (1936)
 :: Title
 Modern Times
 
-:: Description
-Modern Times is a 1936 American comedy film written and directed by Charlie Chaplin in which his iconic Little Tramp character struggles to survive in the modern, industrialized world. The film is a comment on the desperate employment and financial conditions many people faced during the Great Depression — conditions created, in Chaplin's view, by the efficiencies of modern industrialization. The movie stars Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin. It is notable for being the last time that Chaplin portrayed the iconic Little Tramp character.
-
 :: Date
 1936-02-05
+
+:: Description
+Modern Times is a 1936 American comedy film written and directed by Charlie Chaplin in which his iconic Little Tramp character struggles to survive in the modern, industrialized world. The film is a comment on the desperate employment and financial conditions many people faced during the Great Depression — conditions created, in Chaplin's view, by the efficiencies of modern industrialization. The movie stars Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin. It is notable for being the last time that Chaplin portrayed the iconic Little Tramp character.
 
 :: References
 https://en.wikipedia.org/wiki/Modern_Times_(film)
@@ -375,11 +375,11 @@ movie: La Grande Illusion (1937)
 :: Title
 La Grande Illusion
 
-:: Description
-La Grande Illusion (also known as The Grand Illusion) is a 1937 French war film directed by Jean Renoir, who co-wrote the screenplay with Charles Spaak. The story concerns class relationships among a small group of French officers who are prisoners of war during World War I and are plotting an escape. The title of the film comes from the book The Great Illusion by British journalist Norman Angell, which argued that war is futile because of the common economic interests of all European nations. The perspective of the film is generously humanistic to its characters of various nationalities.
-
 :: Date
 1937-06-08
+
+:: Description
+La Grande Illusion (also known as The Grand Illusion) is a 1937 French war film directed by Jean Renoir, who co-wrote the screenplay with Charles Spaak. The story concerns class relationships among a small group of French officers who are prisoners of war during World War I and are plotting an escape. The title of the film comes from the book The Great Illusion by British journalist Norman Angell, which argued that war is futile because of the common economic interests of all European nations. The perspective of the film is generously humanistic to its characters of various nationalities.
 
 :: References
 https://en.wikipedia.org/wiki/La_Grande_Illusion
@@ -408,11 +408,11 @@ movie: The Rules of the Game (1939)
 :: Title
 The Rules of the Game
 
-:: Description
-The Rules of the Game (original French title: La Règle du Jeu) is a 1939 French comedy-drama satirical film directed by Jean Renoir. It features an ensemble cast of Nora Gregor, Paulette Dubost, Mila Parély, Marcel Dalio, Julien Carette, Roland Toutain, Gaston Modot, Pierre Magnier and Jean Renoir himself. Renoir's portrayal of the wise, mournful Octave anchors the fatalistic mood of this pensive comedy of manners. The film depicts members of upper-class French society and their servants just before the beginning of World War II, showing their moral callousness on the eve of impending destruction.
-
 :: Date
 1939-07-07
+
+:: Description
+The Rules of the Game (original French title: La Règle du Jeu) is a 1939 French comedy-drama satirical film directed by Jean Renoir. It features an ensemble cast of Nora Gregor, Paulette Dubost, Mila Parély, Marcel Dalio, Julien Carette, Roland Toutain, Gaston Modot, Pierre Magnier and Jean Renoir himself. Renoir's portrayal of the wise, mournful Octave anchors the fatalistic mood of this pensive comedy of manners. The film depicts members of upper-class French society and their servants just before the beginning of World War II, showing their moral callousness on the eve of impending destruction.
 
 :: References
 https://en.wikipedia.org/wiki/The_Rules_of_the_Game
@@ -446,11 +446,11 @@ movie: His Girl Friday (1940)
 :: Title
 His Girl Friday
 
-:: Description
-His Girl Friday is a 1940 American screwball comedy film directed by Howard Hawks, starring Rosalind Russell and Cary Grant. It was released by Columbia Pictures. The plot centers on a newspaper editor named Walter Burns who is about to lose his ace reporter and ex-wife Hildy Johnson, newly engaged to another man. Burns suggests they cover one more story together, getting themselves entangled in the case of murderer Earl Williams as Burns desperately tries to win back his wife. The screenplay was adapted from the play The Front Page by Ben Hecht and Charles MacArthur. This was the second time the play had been adapted for the screen, the first occasion being the 1931 film also called The Front Page.
-
 :: Date
 1940-01-11
+
+:: Description
+His Girl Friday is a 1940 American screwball comedy film directed by Howard Hawks, starring Rosalind Russell and Cary Grant. It was released by Columbia Pictures. The plot centers on a newspaper editor named Walter Burns who is about to lose his ace reporter and ex-wife Hildy Johnson, newly engaged to another man. Burns suggests they cover one more story together, getting themselves entangled in the case of murderer Earl Williams as Burns desperately tries to win back his wife. The screenplay was adapted from the play The Front Page by Ben Hecht and Charles MacArthur. This was the second time the play had been adapted for the screen, the first occasion being the 1931 film also called The Front Page.
 
 :: References
 https://en.wikipedia.org/wiki/His_Girl_Friday
@@ -483,11 +483,11 @@ movie: Citizen Kane (1941)
 :: Title
 Citizen Kane
 
-:: Description
-Citizen Kane is a 1941 American drama film by Orson Welles, its producer, co-screenwriter, director and star. The picture was Welles's first feature film. Nominated for Academy Awards in nine categories, it won an Academy Award for Best Writing (Original Screenplay) by Herman J. Mankiewicz and Welles. Considered by many critics, filmmakers, and fans to be the greatest film ever made, Citizen Kane was voted as such in five consecutive British Film Institute Sight & Sound polls of critics, and it topped the American Film Institute's 100 Years ... 100 Movies list in 1998, as well as its 2007 update. Citizen Kane is particularly praised for Gregg Toland's cinematography, Robert Wise's editing, Bernard Herrmann's music, and its narrative structure, all of which have been considered innovative and precedent-setting.
-
 :: Date
 1941-05-01
+
+:: Description
+Citizen Kane is a 1941 American drama film by Orson Welles, its producer, co-screenwriter, director and star. The picture was Welles's first feature film. Nominated for Academy Awards in nine categories, it won an Academy Award for Best Writing (Original Screenplay) by Herman J. Mankiewicz and Welles. Considered by many critics, filmmakers, and fans to be the greatest film ever made, Citizen Kane was voted as such in five consecutive British Film Institute Sight & Sound polls of critics, and it topped the American Film Institute's 100 Years ... 100 Movies list in 1998, as well as its 2007 update. Citizen Kane is particularly praised for Gregg Toland's cinematography, Robert Wise's editing, Bernard Herrmann's music, and its narrative structure, all of which have been considered innovative and precedent-setting.
 
 :: References
 https://en.wikipedia.org/wiki/Citizen_Kane
@@ -530,11 +530,11 @@ movie: The Maltese Falcon (1941)
 :: Title
 The Maltese Falcon
 
-:: Description
-The Maltese Falcon is a 1941 film noir directed and scripted by John Huston in his directorial debut, based on the 1930 novel of the same name by Dashiell Hammett. It stars Humphrey Bogart as private investigator Sam Spade and Mary Astor as his femme fatale client. Gladys George, Peter Lorre, and Sydney Greenstreet co-star, with the latter appearing in his film debut. The story follows a San Francisco private detective and his dealings with three unscrupulous adventurers, all of whom are competing to obtain a jewel-encrusted falcon statuette.
-
 :: Date
 1941-10-03
+
+:: Description
+The Maltese Falcon is a 1941 film noir directed and scripted by John Huston in his directorial debut, based on the 1930 novel of the same name by Dashiell Hammett. It stars Humphrey Bogart as private investigator Sam Spade and Mary Astor as his femme fatale client. Gladys George, Peter Lorre, and Sydney Greenstreet co-star, with the latter appearing in his film debut. The story follows a San Francisco private detective and his dealings with three unscrupulous adventurers, all of whom are competing to obtain a jewel-encrusted falcon statuette.
 
 :: References
 https://en.wikipedia.org/wiki/The_Maltese_Falcon_(1941_film)
@@ -566,11 +566,11 @@ movie: Double Indemnity (1944)
 :: Title
 Double Indemnity
 
-:: Description
-Double Indemnity is a 1944 film noir crime drama directed by Billy Wilder, co-written by Wilder and Raymond Chandler, and produced by Buddy DeSylva and Joseph Sistrom. The screenplay was based on James M. Cain's 1943 novella of the same name, which originally appeared as an eight-part serial in Liberty magazine, beginning in February 1936.
-
 :: Date
 1944-07-03
+
+:: Description
+Double Indemnity is a 1944 film noir crime drama directed by Billy Wilder, co-written by Wilder and Raymond Chandler, and produced by Buddy DeSylva and Joseph Sistrom. The screenplay was based on James M. Cain's 1943 novella of the same name, which originally appeared as an eight-part serial in Liberty magazine, beginning in February 1936.
 
 :: References
 https://en.wikipedia.org/wiki/Double_Indemnity_(film)
@@ -607,11 +607,11 @@ movie: Rome Open City (1945)
 :: Title
 Rome, Open City
 
-:: Description
-Open City or Rome, Open City (Italian: Roma città aperta) is a 1945 Italian neorealist drama film directed by Roberto Rossellini. The picture features Aldo Fabrizi, Anna Magnani and Marcello Pagliero, and is set in Rome during the Nazi occupation in 1944. The title refers to Rome being declared an open city after 14 August 1943. The film won several awards at various film festivals, including the most prestigious Cannes Grand Prix and was nominated for the Best Adapted Screenplay Oscar at the 19th Academy Awards.
-
 :: Date
 1945-09-27
+
+:: Description
+Open City or Rome, Open City (Italian: Roma città aperta) is a 1945 Italian neorealist drama film directed by Roberto Rossellini. The picture features Aldo Fabrizi, Anna Magnani and Marcello Pagliero, and is set in Rome during the Nazi occupation in 1944. The title refers to Rome being declared an open city after 14 August 1943. The film won several awards at various film festivals, including the most prestigious Cannes Grand Prix and was nominated for the Best Adapted Screenplay Oscar at the 19th Academy Awards.
 
 :: References
 https://en.wikipedia.org/wiki/Rome,_Open_City
@@ -649,11 +649,11 @@ movie: The Red Shoes (1948)
 :: Title
 The Red Shoes
 
-:: Description
-The Red Shoes is a 1948 British drama film written, directed, and produced by Michael Powell and Emeric Pressburger, and starring Moira Shearer, Anton Walbrook, and Marius Goring. It follows a ballerina who joins an established ballet company under an acclaimed director, ultimately testing her dedication to her craft when she must choose between her career and a romance with a composer. It marked the feature film debut of Shearer, an established ballerina, and also features Robert Helpmann, Léonide Massine, and Ludmilla Tchérina, other renowned dancers from the ballet world. The plot is based on the eponymous fairytale by Hans Christian Andersen, and features a ballet within it by the same title, also adapted from the Andersen work.
-
 :: Date
 1948-09-06
+
+:: Description
+The Red Shoes is a 1948 British drama film written, directed, and produced by Michael Powell and Emeric Pressburger, and starring Moira Shearer, Anton Walbrook, and Marius Goring. It follows a ballerina who joins an established ballet company under an acclaimed director, ultimately testing her dedication to her craft when she must choose between her career and a romance with a composer. It marked the feature film debut of Shearer, an established ballerina, and also features Robert Helpmann, Léonide Massine, and Ludmilla Tchérina, other renowned dancers from the ballet world. The plot is based on the eponymous fairytale by Hans Christian Andersen, and features a ballet within it by the same title, also adapted from the Andersen work.
 
 :: References
 https://en.wikipedia.org/wiki/The_Red_Shoes_(1948_film)
@@ -683,11 +683,11 @@ movie: Bicycle Thieves (1948)
 :: Title
 Bicycle Thieves
 
-:: Description
-Bicycle Thieves (Italian: Ladri di biciclette; sometimes known in the United States as The Bicycle Thief) is a 1948 Italian drama film directed by Vittorio De Sica. The film follows the story of a poor father searching post-World War II Rome for his stolen bicycle, without which he will lose the job which was to be the salvation of his young family.
-
 :: Date
 1948-11-24
+
+:: Description
+Bicycle Thieves (Italian: Ladri di biciclette; sometimes known in the United States as The Bicycle Thief) is a 1948 Italian drama film directed by Vittorio De Sica. The film follows the story of a poor father searching post-World War II Rome for his stolen bicycle, without which he will lose the job which was to be the salvation of his young family.
 
 :: References
 https://en.wikipedia.org/wiki/Bicycle_Thieves
@@ -717,11 +717,11 @@ movie: Singin in the Rain (1952)
 :: Title
 Singin' in the Rain
 
-:: Description
-Singin' in the Rain is a 1952 American musical romantic comedy film directed and choreographed by Gene Kelly and Stanley Donen, starring Kelly, Donald O'Connor, and Debbie Reynolds. It offers a lighthearted depiction of Hollywood in the late 1920s, with the three stars portraying performers caught up in the transition from silent films to "talkies".
-
 :: Date
 1952-03-27
+
+:: Description
+Singin' in the Rain is a 1952 American musical romantic comedy film directed and choreographed by Gene Kelly and Stanley Donen, starring Kelly, Donald O'Connor, and Debbie Reynolds. It offers a lighthearted depiction of Hollywood in the late 1920s, with the three stars portraying performers caught up in the transition from silent films to "talkies".
 
 :: References
 https://en.wikipedia.org/wiki/Singin%27_in_the_Rain
@@ -754,11 +754,11 @@ movie: Tokyo Story (1953)
 :: Title
 Tokyo Story
 
-:: Description
-Tokyo Story (東京物語, Tōkyō Monogatari) is a 1953 Japanese drama film directed by Yasujirō Ozu and starring Chishū Ryū and Chieko Higashiyama. It tells the story of an aging couple who travel to Tokyo to visit their grown children. The film contrasts the behavior of their children, who are too busy to pay them much attention, with that of their widowed daughter-in-law, who treats them with kindness.
-
 :: Date
 1953-11-03
+
+:: Description
+Tokyo Story (東京物語, Tōkyō Monogatari) is a 1953 Japanese drama film directed by Yasujirō Ozu and starring Chishū Ryū and Chieko Higashiyama. It tells the story of an aging couple who travel to Tokyo to visit their grown children. The film contrasts the behavior of their children, who are too busy to pay them much attention, with that of their widowed daughter-in-law, who treats them with kindness.
 
 :: References
 https://en.wikipedia.org/wiki/Tokyo_Story
@@ -795,11 +795,11 @@ movie: Sansho the Bailiff (1954)
 :: Title
 Sansho the Bailiff
 
-:: Description
-Sansho the Bailiff (山椒大夫, Sanshō Dayū) (known by its Japanese title in the United Kingdom and Ireland) is a 1954 Japanese period film directed by Kenji Mizoguchi. Based on a short story of the same name by Mori Ōgai, which in turn was based on a legendary folklore, it follows two aristocratic children who are sold into slavery.
-
 :: Date
 1954-03-31
+
+:: Description
+Sansho the Bailiff (山椒大夫, Sanshō Dayū) (known by its Japanese title in the United Kingdom and Ireland) is a 1954 Japanese period film directed by Kenji Mizoguchi. Based on a short story of the same name by Mori Ōgai, which in turn was based on a legendary folklore, it follows two aristocratic children who are sold into slavery.
 
 :: References
 https://en.wikipedia.org/wiki/Sansho_the_Bailiff
@@ -833,11 +833,11 @@ movie: Pather Panchali (1955)
 :: Title
 Pather Panchali
 
-:: Description
-Pather Panchali (Bengali pronunciation: ; transl. Song of the Little Road) is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray and produced by the Government of West Bengal. It is based on Bibhutibhushan Bandyopadhyay's 1929 Bengali novel of the same name and is Ray's directorial debut. It features Subir Banerjee, Kanu Banerjee, Karuna Banerjee, Uma Dasgupta and Chunibala Devi. The first film in The Apu Trilogy, Pather Panchali depicts the childhood of the protagonist Apu (Subir Banerjee) and his elder sister Durga (Uma Dasgupta) and the harsh village life of their poor family.
-
 :: Date
 1955-08-26
+
+:: Description
+Pather Panchali (Bengali pronunciation: ; transl. Song of the Little Road) is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray and produced by the Government of West Bengal. It is based on Bibhutibhushan Bandyopadhyay's 1929 Bengali novel of the same name and is Ray's directorial debut. It features Subir Banerjee, Kanu Banerjee, Karuna Banerjee, Uma Dasgupta and Chunibala Devi. The first film in The Apu Trilogy, Pather Panchali depicts the childhood of the protagonist Apu (Subir Banerjee) and his elder sister Durga (Uma Dasgupta) and the harsh village life of their poor family.
 
 :: References
 https://en.wikipedia.org/wiki/Pather_Panchali
@@ -873,11 +873,11 @@ movie: The Searchers (1956)
 :: Title
 The Searchers
 
-:: Description
-The Searchers is a 1956 American Technicolor VistaVision Western film directed by John Ford, based on the 1954 novel by Alan Le May, set during the Texas–Indian wars, and starring John Wayne as a middle-aged Civil War veteran who spends years looking for his abducted niece (Natalie Wood), accompanied by his adoptive nephew (Jeffrey Hunter). Critic Roger Ebert found Wayne's character, Ethan Edwards, "one of the most compelling characters Ford and Wayne ever created".
-
 :: Date
 1956-05-16
+
+:: Description
+The Searchers is a 1956 American Technicolor VistaVision Western film directed by John Ford, based on the 1954 novel by Alan Le May, set during the Texas–Indian wars, and starring John Wayne as a middle-aged Civil War veteran who spends years looking for his abducted niece (Natalie Wood), accompanied by his adoptive nephew (Jeffrey Hunter). Critic Roger Ebert found Wayne's character, Ethan Edwards, "one of the most compelling characters Ford and Wayne ever created".
 
 :: References
 https://en.wikipedia.org/wiki/The_Searchers
@@ -910,11 +910,11 @@ movie: Aparajito (1956)
 :: Title
 Aparajito
 
-:: Description
-Aparajito is a 1956 Indian Bengali drama film written and directed by Satyajit Ray (1921–1992), and is the second part of The Apu Trilogy. It is adapted from the last one-fifth of Bibhutibhushan Bannerjee's novel Pather Panchali (1929) and the first one-third of its sequel Aparajito (1932). It starts off where the previous film Pather Panchali (1955) ended, with Apu's family moving to Varanasi, and chronicles Apu's life from childhood to adolescence in college, right up to his mother's death, when he is left all alone.
-
 :: Date
 1956-10-11
+
+:: Description
+Aparajito is a 1956 Indian Bengali drama film written and directed by Satyajit Ray (1921–1992), and is the second part of The Apu Trilogy. It is adapted from the last one-fifth of Bibhutibhushan Bannerjee's novel Pather Panchali (1929) and the first one-third of its sequel Aparajito (1932). It starts off where the previous film Pather Panchali (1955) ended, with Apu's family moving to Varanasi, and chronicles Apu's life from childhood to adolescence in college, right up to his mother's death, when he is left all alone.
 
 :: References
 https://en.wikipedia.org/wiki/Aparajito
@@ -948,17 +948,17 @@ movie: The Seventh Seal (1957)
 :: Title
 The Seventh Seal
 
-:: Description
-The Seventh Seal (Swedish: Det sjunde inseglet) is a 1957 Swedish historical fantasy film written and directed by Ingmar Bergman. Set in Sweden during the Black Death, it tells of the journey of a medieval knight (Max von Sydow) and a game of chess he plays with the personification of Death (Bengt Ekerot), who has come to take his life. Bergman developed the film from his own play Wood Painting. The title refers to a passage from the Book of Revelation, used both at the very start of the film, and again towards the end, beginning with the words "And when the Lamb had opened the seventh seal, there was silence in heaven about the space of half an hour". Here, the motif of silence refers to the "silence of God", which is a major theme of the film.
-
 :: Date
 1957-02-16
 
-:: Collections
-Collection: Ingmar Bergman
+:: Description
+The Seventh Seal (Swedish: Det sjunde inseglet) is a 1957 Swedish historical fantasy film written and directed by Ingmar Bergman. Set in Sweden during the Black Death, it tells of the journey of a medieval knight (Max von Sydow) and a game of chess he plays with the personification of Death (Bengt Ekerot), who has come to take his life. Bergman developed the film from his own play Wood Painting. The title refers to a passage from the Book of Revelation, used both at the very start of the film, and again towards the end, beginning with the words "And when the Lamb had opened the seventh seal, there was silence in heaven about the space of half an hour". Here, the motif of silence refers to the "silence of God", which is a major theme of the film.
 
 :: References
 https://en.wikipedia.org/wiki/The_Seventh_Seal
+
+:: Collections
+Collection: Ingmar Bergman
 
 :: Ratings
 5 <mikael>,
@@ -990,11 +990,11 @@ movie: Sweet Smell of Success (1957)
 :: Title
 Sweet Smell of Success
 
-:: Description
-Sweet Smell of Success is a 1957 American film directed by Alexander Mackendrick, starring Burt Lancaster, Tony Curtis, Susan Harrison, and Martin Milner, and written by Clifford Odets, Ernest Lehman, and Mackendrick from the novelette by Lehman. The shadowy noir cinematography filmed on location in New York City was shot by James Wong Howe. The picture was produced by James Hill of Hecht-Hill-Lancaster Productions and released by United Artists. The supporting cast features Sam Levene, Barbara Nichols, Joe Frisco, Edith Atwater, David White and Emile Meyer. The musical score was arranged and conducted by Elmer Bernstein and the film also features jazz performances by the Chico Hamilton Quintet. Mary Grant designed the costumes.
-
 :: Date
 1957-06-27
+
+:: Description
+Sweet Smell of Success is a 1957 American film directed by Alexander Mackendrick, starring Burt Lancaster, Tony Curtis, Susan Harrison, and Martin Milner, and written by Clifford Odets, Ernest Lehman, and Mackendrick from the novelette by Lehman. The shadowy noir cinematography filmed on location in New York City was shot by James Wong Howe. The picture was produced by James Hill of Hecht-Hill-Lancaster Productions and released by United Artists. The supporting cast features Sam Levene, Barbara Nichols, Joe Frisco, Edith Atwater, David White and Emile Meyer. The musical score was arranged and conducted by Elmer Bernstein and the film also features jazz performances by the Chico Hamilton Quintet. Mary Grant designed the costumes.
 
 :: References
 https://en.wikipedia.org/wiki/Sweet_Smell_of_Success
@@ -1031,11 +1031,11 @@ movie: Paths of Glory (1957)
 :: Title
 Paths of Glory
 
-:: Description
-Paths of Glory is a 1957 American anti-war film directed by Stanley Kubrick, based on the novel of the same name by Humphrey Cobb. Set during World War I, the film stars Kirk Douglas as Colonel Dax, the commanding officer of French soldiers who refuse to continue a suicidal attack, after which Dax attempts to defend them against a charge of cowardice in a court-martial.
-
 :: Date
 1957-12-25
+
+:: Description
+Paths of Glory is a 1957 American anti-war film directed by Stanley Kubrick, based on the novel of the same name by Humphrey Cobb. Set during World War I, the film stars Kirk Douglas as Colonel Dax, the commanding officer of French soldiers who refuse to continue a suicidal attack, after which Dax attempts to defend them against a charge of cowardice in a court-martial.
 
 :: References
 https://en.wikipedia.org/wiki/Paths_of_Glory
@@ -1076,11 +1076,11 @@ movie: Vertigo (1958)
 :: Title
 Vertigo
 
-:: Description
-Vertigo is a 1958 American film noir psychological thriller film directed and produced by Alfred Hitchcock. The story was based on the 1954 novel D'entre les morts (From Among the Dead) by Boileau-Narcejac. The screenplay was written by Alec Coppel and Samuel A. Taylor.
-
 :: Date
 1958-05-09
+
+:: Description
+Vertigo is a 1958 American film noir psychological thriller film directed and produced by Alfred Hitchcock. The story was based on the 1954 novel D'entre les morts (From Among the Dead) by Boileau-Narcejac. The screenplay was written by Alec Coppel and Samuel A. Taylor.
 
 :: References
 https://en.wikipedia.org/wiki/Vertigo_(film)
@@ -1116,11 +1116,11 @@ movie: Some Like It Hot (1959)
 :: Title
 Some Like It Hot
 
-:: Description
-Some Like It Hot is a 1959 American black-and-white romantic comedy film directed and produced by Billy Wilder, starring Marilyn Monroe, Tony Curtis, and Jack Lemmon. The supporting cast includes George Raft, Pat O'Brien, Joe E. Brown, Joan Shawlee, and Nehemiah Persoff. The screenplay by Billy Wilder and I. A. L. Diamond is based on a screenplay by Robert Thoeren and Michael Logan from the French film Fanfare of Love. The film is about two musicians who dress in drag in order to escape from mafia gangsters whom they witnessed committing a crime (inspired by the Saint Valentine's Day Massacre).
-
 :: Date
 1959-03-29
+
+:: Description
+Some Like It Hot is a 1959 American black-and-white romantic comedy film directed and produced by Billy Wilder, starring Marilyn Monroe, Tony Curtis, and Jack Lemmon. The supporting cast includes George Raft, Pat O'Brien, Joe E. Brown, Joan Shawlee, and Nehemiah Persoff. The screenplay by Billy Wilder and I. A. L. Diamond is based on a screenplay by Robert Thoeren and Michael Logan from the French film Fanfare of Love. The film is about two musicians who dress in drag in order to escape from mafia gangsters whom they witnessed committing a crime (inspired by the Saint Valentine's Day Massacre).
 
 :: References
 https://en.wikipedia.org/wiki/Some_Like_It_Hot
@@ -1152,11 +1152,11 @@ movie: The World of Apu (1959)
 :: Title
 The World of Apu
 
-:: Description
-The World of Apu is a 1959 Indian Bengali drama film written and directed by Satyajit Ray. It is the third part of The Apu Trilogy, about the childhood and early adulthood of a young Bengali named Apu in the early twentieth century Indian subcontinent. (The first two parts of the trilogy are Pather Panchali and Aparajito.) The film is based on the last two-thirds of the 1932 Bengali novel, Aparajito, by Bibhutibhushan Bandopadhyay.
-
 :: Date
 1959-05-01
+
+:: Description
+The World of Apu is a 1959 Indian Bengali drama film written and directed by Satyajit Ray. It is the third part of The Apu Trilogy, about the childhood and early adulthood of a young Bengali named Apu in the early twentieth century Indian subcontinent. (The first two parts of the trilogy are Pather Panchali and Aparajito.) The film is based on the last two-thirds of the 1932 Bengali novel, Aparajito, by Bibhutibhushan Bandopadhyay.
 
 :: References
 https://en.wikipedia.org/wiki/The_World_of_Apu
@@ -1186,11 +1186,11 @@ movie: The 400 Blows (1959)
 :: Title
 The 400 Blows
 
-:: Description
-The 400 Blows (French: Les Quatre Cents Coups) is a 1959 French New Wave drama film, and the directorial debut of François Truffaut. The film, shot in DyaliScope, stars Jean-Pierre Léaud, Albert Rémy, and Claire Maurier. One of the defining films of the French New Wave, it displays many of the characteristic traits of the movement. Written by Truffaut and Marcel Moussy, the film is about Antoine Doinel, a misunderstood adolescent in Paris who struggles with his parents and teachers due to his rebellious behavior. Filmed on location in Paris and Honfleur, it is the first in a series of five films in which Léaud plays the semi-autobiographical character.
-
 :: Date
 1959-05-04
+
+:: Description
+The 400 Blows (French: Les Quatre Cents Coups) is a 1959 French New Wave drama film, and the directorial debut of François Truffaut. The film, shot in DyaliScope, stars Jean-Pierre Léaud, Albert Rémy, and Claire Maurier. One of the defining films of the French New Wave, it displays many of the characteristic traits of the movement. Written by Truffaut and Marcel Moussy, the film is about Antoine Doinel, a misunderstood adolescent in Paris who struggles with his parents and teachers due to his rebellious behavior. Filmed on location in Paris and Honfleur, it is the first in a series of five films in which Léaud plays the semi-autobiographical character.
 
 :: References
 https://en.wikipedia.org/wiki/The_400_Blows
@@ -1221,11 +1221,11 @@ movie: North by Northwest (1959)
 :: Title
 North by Northwest
 
-:: Description
-North by Northwest is a 1959 American thriller film directed by Alfred Hitchcock and starring Cary Grant, Eva Marie Saint and James Mason. The screenplay was by Ernest Lehman, who wanted to write "the Hitchcock picture to end all Hitchcock pictures".
-
 :: Date
 1959-07-01
+
+:: Description
+North by Northwest is a 1959 American thriller film directed by Alfred Hitchcock and starring Cary Grant, Eva Marie Saint and James Mason. The screenplay was by Ernest Lehman, who wanted to write "the Hitchcock picture to end all Hitchcock pictures".
 
 :: References
 https://en.wikipedia.org/wiki/North_by_Northwest
@@ -1251,11 +1251,11 @@ movie: La Dolce Vita (1960)
 :: Title
 La Dolce Vita
 
-:: Description
-La Dolce Vita (Italian pronunciation: ; Italian for "the sweet life" or "the good life") is a 1960 Italian drama film directed and co-written by Federico Fellini. The film follows Marcello Rubini (Marcello Mastroianni), a journalist writing for gossip magazines, over seven days and nights on his journey through the "sweet life" of Rome in a fruitless search for love and happiness. La Dolce Vita won the Palme d'Or (Golden Palm) at the 1960 Cannes Film Festival and the Oscar for Best Costumes. The film was a massive box office hit in Europe with 13,617,148 admissions in Italy and 2,956,094 admissions in France.
-
 :: Date
 1960-02-05
+
+:: Description
+La Dolce Vita (Italian pronunciation: ; Italian for "the sweet life" or "the good life") is a 1960 Italian drama film directed and co-written by Federico Fellini. The film follows Marcello Rubini (Marcello Mastroianni), a journalist writing for gossip magazines, over seven days and nights on his journey through the "sweet life" of Rome in a fruitless search for love and happiness. La Dolce Vita won the Palme d'Or (Golden Palm) at the 1960 Cannes Film Festival and the Oscar for Best Costumes. The film was a massive box office hit in Europe with 13,617,148 admissions in Italy and 2,956,094 admissions in France.
 
 :: References
 https://en.wikipedia.org/wiki/La_Dolce_Vita
@@ -1293,11 +1293,11 @@ movie: Breathless (1960)
 :: Title
 Breathless
 
-:: Description
-Breathless (French: À bout de souffle; "out of breath") is a 1960 French crime and drama film written and directed by Jean-Luc Godard about a wandering criminal (Jean-Paul Belmondo) and his American girlfriend (Jean Seberg). It was Godard's first feature-length work and represented Belmondo's breakthrough as an actor.
-
 :: Date
 1960-03-16
+
+:: Description
+Breathless (French: À bout de souffle; "out of breath") is a 1960 French crime and drama film written and directed by Jean-Luc Godard about a wandering criminal (Jean-Paul Belmondo) and his American girlfriend (Jean Seberg). It was Godard's first feature-length work and represented Belmondo's breakthrough as an actor.
 
 :: References
 https://en.wikipedia.org/wiki/Breathless_(1960_film)
@@ -1321,11 +1321,11 @@ movie: Psycho (1960)
 :: Title
 Psycho
 
-:: Description
-Psycho is a 1960 American psychological horror film directed and produced by Alfred Hitchcock, and written by Joseph Stefano. It stars Anthony Perkins, Janet Leigh, John Gavin, Vera Miles, and Martin Balsam, and was based on the 1959 novel of the same name by Robert Bloch. The film centers on an encounter between a secretary, Marion Crane (Leigh), who ends up at a secluded motel after stealing money from her employer, and the motel's owner-manager, Norman Bates (Perkins), and its aftermath.
-
 :: Date
 1960-06-16
+
+:: Description
+Psycho is a 1960 American psychological horror film directed and produced by Alfred Hitchcock, and written by Joseph Stefano. It stars Anthony Perkins, Janet Leigh, John Gavin, Vera Miles, and Martin Balsam, and was based on the 1959 novel of the same name by Robert Bloch. The film centers on an encounter between a secretary, Marion Crane (Leigh), who ends up at a secluded motel after stealing money from her employer, and the motel's owner-manager, Norman Bates (Perkins), and its aftermath.
 
 :: References
 https://en.wikipedia.org/wiki/Psycho_(1960_film)
@@ -1363,11 +1363,11 @@ movie: Lawrence of Arabia (1962)
 :: Title
 Lawrence of Arabia
 
-:: Description
-Lawrence of Arabia is a 1962 British epic historical drama film based on the life of T. E. Lawrence. It was directed by David Lean and produced by Sam Spiegel through his British company Horizon Pictures and Columbia Pictures, with the screenplay by Robert Bolt and Michael Wilson and starring Peter O'Toole in the title role. The film, a British and American co-production, depicts Lawrence's experiences in the Ottoman Empire's provinces of Hejaz and Greater Syria during World War I, in particular his attacks on Aqaba and Damascus and his involvement in the Arab National Council. Its themes include Lawrence's emotional struggles with the personal violence inherent in war, his own identity, and his divided allegiance between his native Britain and its army, and his new-found comrades within the Arabian desert tribes. The film also stars Alec Guinness, Jack Hawkins, Anthony Quinn, Omar Sharif, Anthony Quayle, Claude Rains and Arthur Kennedy.
-
 :: Date
 1962-12-10
+
+:: Description
+Lawrence of Arabia is a 1962 British epic historical drama film based on the life of T. E. Lawrence. It was directed by David Lean and produced by Sam Spiegel through his British company Horizon Pictures and Columbia Pictures, with the screenplay by Robert Bolt and Michael Wilson and starring Peter O'Toole in the title role. The film, a British and American co-production, depicts Lawrence's experiences in the Ottoman Empire's provinces of Hejaz and Greater Syria during World War I, in particular his attacks on Aqaba and Damascus and his involvement in the Arab National Council. Its themes include Lawrence's emotional struggles with the personal violence inherent in war, his own identity, and his divided allegiance between his native Britain and its army, and his new-found comrades within the Arabian desert tribes. The film also stars Alec Guinness, Jack Hawkins, Anthony Quinn, Omar Sharif, Anthony Quayle, Claude Rains and Arthur Kennedy.
 
 :: References
 https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)
@@ -1401,11 +1401,11 @@ movie: Dr Strangelove (1964)
 :: Title
 Dr. Strangelove
 
-:: Description
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, more commonly known simply as Dr. Strangelove, is a 1964 political satire black comedy film that satirizes the Cold War fears of a nuclear conflict between the Soviet Union and the United States. The film was directed, produced, and co-written by Stanley Kubrick, stars Peter Sellers, George C. Scott, Sterling Hayden and Slim Pickens. Production took place in the United Kingdom. The film is loosely based on Peter George's thriller novel Red Alert (1958).
-
 :: Date
 1964-01-29
+
+:: Description
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, more commonly known simply as Dr. Strangelove, is a 1964 political satire black comedy film that satirizes the Cold War fears of a nuclear conflict between the Soviet Union and the United States. The film was directed, produced, and co-written by Stanley Kubrick, stars Peter Sellers, George C. Scott, Sterling Hayden and Slim Pickens. Production took place in the United Kingdom. The film is loosely based on Peter George's thriller novel Red Alert (1958).
 
 :: References
 https://en.wikipedia.org/wiki/Dr._Strangelove
@@ -1439,11 +1439,11 @@ movie: The Umbrellas of Cherbourg (1964)
 :: Title
 The Umbrellas of Cherbourg
 
-:: Description
-The Umbrellas of Cherbourg (French: Les Parapluies de Cherbourg) is a 1964 musical romantic drama film directed and written by Jacques Demy and starring Catherine Deneuve and Nino Castelnuovo. The music was composed by Michel Legrand. The film dialogue is all sung as recitative, including casual conversation, and is sung-through, or through-composed like some operas and stage musicals.
-
 :: Date
 1964-02-19
+
+:: Description
+The Umbrellas of Cherbourg (French: Les Parapluies de Cherbourg) is a 1964 musical romantic drama film directed and written by Jacques Demy and starring Catherine Deneuve and Nino Castelnuovo. The music was composed by Michel Legrand. The film dialogue is all sung as recitative, including casual conversation, and is sung-through, or through-composed like some operas and stage musicals.
 
 :: References
 https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg
@@ -1478,11 +1478,11 @@ movie: The Battle of Algiers (1966)
 :: Title
 The Battle of Algiers
 
-:: Description
-The Battle of Algiers (Italian: La battaglia di Algeri; Arabic: معركة الجزائر‎, romanized: Maʿrakat al-Jazāʾir) is a 1966 Italian-Algerian historical war film co-written and directed by Gillo Pontecorvo and starring Jean Martin and Saadi Yacef. It is based on events by rebels during the Algerian War (1954–62) against the French government in North Africa; the most prominent being the titular Battle of Algiers, the capital of Algeria. It was shot on location and the film's score was composed by Ennio Morricone. The film was shot in a Roberto Rossellini-inspired newsreel style: in black and white with documentary-type editing to add to its sense of historical authenticity. It is often associated with Italian neorealist cinema.
-
 :: Date
 1966-08-31
+
+:: Description
+The Battle of Algiers (Italian: La battaglia di Algeri; Arabic: معركة الجزائر‎, romanized: Maʿrakat al-Jazāʾir) is a 1966 Italian-Algerian historical war film co-written and directed by Gillo Pontecorvo and starring Jean Martin and Saadi Yacef. It is based on events by rebels during the Algerian War (1954–62) against the French government in North Africa; the most prominent being the titular Battle of Algiers, the capital of Algeria. It was shot on location and the film's score was composed by Ennio Morricone. The film was shot in a Roberto Rossellini-inspired newsreel style: in black and white with documentary-type editing to add to its sense of historical authenticity. It is often associated with Italian neorealist cinema.
 
 :: References
 https://en.wikipedia.org/wiki/The_Battle_of_Algiers
@@ -1512,17 +1512,17 @@ movie: Persona (1966)
 :: Title
 Persona
 
-:: Description
-Persona is a 1966 Swedish psychological drama film, written and directed by Ingmar Bergman and starring Bibi Andersson and Liv Ullmann. The story revolves around a young nurse named Alma (Andersson) and her patient, well-known stage actress Elisabet Vogler (Ullmann), who has suddenly stopped speaking. They move to a cottage, where Alma cares for Elisabet, confides in her and begins having trouble distinguishing herself from her patient.
-
 :: Date
 1966-08-31
 
-:: Collections
-Collection: Ingmar Bergman
+:: Description
+Persona is a 1966 Swedish psychological drama film, written and directed by Ingmar Bergman and starring Bibi Andersson and Liv Ullmann. The story revolves around a young nurse named Alma (Andersson) and her patient, well-known stage actress Elisabet Vogler (Ullmann), who has suddenly stopped speaking. They move to a cottage, where Alma cares for Elisabet, confides in her and begins having trouble distinguishing herself from her patient.
 
 :: References
 https://en.wikipedia.org/wiki/Persona_(1966_film)
+
+:: Collections
+Collection: Ingmar Bergman
 
 :: Ratings
 5 <mikael>,
@@ -1555,11 +1555,11 @@ movie: Andrei Rublev (1966)
 :: Title
 Andrei Rublev
 
-:: Description
-Andrei Rublev is a 1969 Soviet biographical historical drama film directed by Andrei Tarkovsky and co-written with Andrei Konchalovsky. The film was remade and re-edited from the 1966 film titled The Passion According to Andrei by Tarkovsky which was censored during the first decade of the Brezhnev era in the Soviet Union. The film is loosely based on the life of Andrei Rublev, the 15th-century Russian icon painter. The film features Anatoly Solonitsyn, Nikolai Grinko, Ivan Lapikov, Nikolai Sergeyev, Nikolai Burlyayev and Tarkovsky's wife Irma Raush. Savva Yamshchikov, a famous Russian restorer and art historian, was a scientific consultant of the film.
-
 :: Date
 1966-12
+
+:: Description
+Andrei Rublev is a 1969 Soviet biographical historical drama film directed by Andrei Tarkovsky and co-written with Andrei Konchalovsky. The film was remade and re-edited from the 1966 film titled The Passion According to Andrei by Tarkovsky which was censored during the first decade of the Brezhnev era in the Soviet Union. The film is loosely based on the life of Andrei Rublev, the 15th-century Russian icon painter. The film features Anatoly Solonitsyn, Nikolai Grinko, Ivan Lapikov, Nikolai Sergeyev, Nikolai Burlyayev and Tarkovsky's wife Irma Raush. Savva Yamshchikov, a famous Russian restorer and art historian, was a scientific consultant of the film.
 
 :: References
 https://en.wikipedia.org/wiki/Andrei_Rublev_(film)
@@ -1589,11 +1589,11 @@ movie: Bonnie and Clyde (1967)
 :: Title
 Bonnie and Clyde
 
-:: Description
-Bonnie and Clyde is a 1967 American biographical crime film directed by Arthur Penn and starring Warren Beatty and Faye Dunaway as the title characters Clyde Barrow and Bonnie Parker. Also featured were Michael J. Pollard, Gene Hackman, and Estelle Parsons. The screenplay was written by David Newman and Robert Benton. Robert Towne and Beatty provided uncredited contributions to the script; Beatty produced the film. The soundtrack was composed by Charles Strouse.
-
 :: Date
 1967-08-13
+
+:: Description
+Bonnie and Clyde is a 1967 American biographical crime film directed by Arthur Penn and starring Warren Beatty and Faye Dunaway as the title characters Clyde Barrow and Bonnie Parker. Also featured were Michael J. Pollard, Gene Hackman, and Estelle Parsons. The screenplay was written by David Newman and Robert Benton. Robert Towne and Beatty provided uncredited contributions to the script; Beatty produced the film. The soundtrack was composed by Charles Strouse.
 
 :: References
 https://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film)
@@ -1627,11 +1627,11 @@ movie: Night of the Living Dead (1968)
 :: Title
 Night of the Living Dead
 
-:: Description
-Night of the Living Dead is a 1968 American independent horror film written, directed, photographed and edited by George A. Romero, co-written by John Russo, and starring Duane Jones and Judith O'Dea. The story follows seven people who are trapped in a rural farmhouse in western Pennsylvania, which is besieged by a large and growing group of "living dead" monsters.
-
 :: Date
 1968-10-01
+
+:: Description
+Night of the Living Dead is a 1968 American independent horror film written, directed, photographed and edited by George A. Romero, co-written by John Russo, and starring Duane Jones and Judith O'Dea. The story follows seven people who are trapped in a rural farmhouse in western Pennsylvania, which is besieged by a large and growing group of "living dead" monsters.
 
 :: References
 https://en.wikipedia.org/wiki/Night_of_the_Living_Dead
@@ -1669,11 +1669,11 @@ movie: Once Upon a Time in the West (1968)
 :: Title
 Once Upon a Time in the West
 
-:: Description
-Once Upon a Time in the West (Italian: C'era una volta il West, lit. "Once upon a time (there was) the West") is a 1968 epic Spaghetti Western film co-written and directed by Sergio Leone. It stars Henry Fonda, cast against type, as the villain, Charles Bronson as his nemesis, Claudia Cardinale as a newly widowed homesteader, and Jason Robards as a bandit. The screenplay was written by Sergio Donati and Leone, from a story by Dario Argento, Bernardo Bertolucci and Leone. The widescreen cinematography was by Tonino Delli Colli, and the acclaimed film score was by Ennio Morricone.
-
 :: Date
 1968-12-20
+
+:: Description
+Once Upon a Time in the West (Italian: C'era una volta il West, lit. "Once upon a time (there was) the West") is a 1968 epic Spaghetti Western film co-written and directed by Sergio Leone. It stars Henry Fonda, cast against type, as the villain, Charles Bronson as his nemesis, Claudia Cardinale as a newly widowed homesteader, and Jason Robards as a bandit. The screenplay was written by Sergio Donati and Leone, from a story by Dario Argento, Bernardo Bertolucci and Leone. The widescreen cinematography was by Tonino Delli Colli, and the acclaimed film score was by Ennio Morricone.
 
 :: References
 https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West
@@ -1704,11 +1704,11 @@ movie: The Conformist (1970)
 :: Title
 The Conformist
 
-:: Description
-The Conformist (Italian: Il conformista) is a 1970 political drama film directed by Bernardo Bertolucci, whose screenplay is based on the 1951 novel The Conformist by Alberto Moravia. The film stars Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin, Enzo Tarascio, Fosco Giachetti, José Quaglio, Dominique Sanda and Pierre Clémenti. The film was a co-production of Italian, French, and West German film companies.
-
 :: Date
 1970-07-01
+
+:: Description
+The Conformist (Italian: Il conformista) is a 1970 political drama film directed by Bernardo Bertolucci, whose screenplay is based on the 1951 novel The Conformist by Alberto Moravia. The film stars Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin, Enzo Tarascio, Fosco Giachetti, José Quaglio, Dominique Sanda and Pierre Clémenti. The film was a co-production of Italian, French, and West German film companies.
 
 :: References
 https://en.wikipedia.org/wiki/The_Conformist_(1970_film)
@@ -1745,11 +1745,11 @@ movie: The Godfather (1972)
 :: Title
 The Godfather
 
-:: Description
-The Godfather is a 1972 American crime film directed by Francis Ford Coppola and produced by Albert S. Ruddy, based on Mario Puzo's best-selling novel of the same name. It stars Marlon Brando and Al Pacino as the leaders of a fictional New York crime family. The story, spanning 1945 to 1955, chronicles the family under the patriarch Vito Corleone (Brando), focusing on the transformation of Michael Corleone (Pacino) from reluctant family outsider to ruthless mafia boss.
-
 :: Date
 1972-03-15
+
+:: Description
+The Godfather is a 1972 American crime film directed by Francis Ford Coppola and produced by Albert S. Ruddy, based on Mario Puzo's best-selling novel of the same name. It stars Marlon Brando and Al Pacino as the leaders of a fictional New York crime family. The story, spanning 1945 to 1955, chronicles the family under the patriarch Vito Corleone (Brando), focusing on the transformation of Michael Corleone (Pacino) from reluctant family outsider to ruthless mafia boss.
 
 :: References
 https://en.wikipedia.org/wiki/The_Godfather
@@ -1791,11 +1791,11 @@ movie: The Bitter Tears of Petra von Kant (1972)
 :: Title
 The Bitter Tears of Petra von Kant
 
-:: Description
-The Bitter Tears of Petra von Kant (German: Die bitteren Tränen der Petra von Kant) is a 1972 German film directed by Rainer Werner Fassbinder, based on his own play. The film has an all-female cast, and it is set in the home of the narcissistic protagonist Petra von Kant. It follows the changing dynamics in her relationships with the other women. Petra's story is told in a theater-like fashion in four different acts, each depicting the states of mind of the main character hinted visually by her clothes and hair. The film was entered into the 22nd Berlin International Film Festival.
-
 :: Date
 1972-06-25
+
+:: Description
+The Bitter Tears of Petra von Kant (German: Die bitteren Tränen der Petra von Kant) is a 1972 German film directed by Rainer Werner Fassbinder, based on his own play. The film has an all-female cast, and it is set in the home of the narcissistic protagonist Petra von Kant. It follows the changing dynamics in her relationships with the other women. Petra's story is told in a theater-like fashion in four different acts, each depicting the states of mind of the main character hinted visually by her clothes and hair. The film was entered into the 22nd Berlin International Film Festival.
 
 :: References
 https://en.wikipedia.org/wiki/The_Bitter_Tears_of_Petra_von_Kant
@@ -1837,11 +1837,11 @@ movie: The Discreet Charm of the Bourgeoisie (1972)
 :: Title
 The Discreet Charm of the Bourgeoisie
 
-:: Description
-The Discreet Charm of the Bourgeoisie (French: Le Charme discret de la bourgeoisie) is a 1972 surrealist film directed by Luis Buñuel and written by Jean-Claude Carrière in collaboration with the director. The film was made in France and is mainly in French, with some dialogue in Spanish.
-
 :: Date
 1972-09-15
+
+:: Description
+The Discreet Charm of the Bourgeoisie (French: Le Charme discret de la bourgeoisie) is a 1972 surrealist film directed by Luis Buñuel and written by Jean-Claude Carrière in collaboration with the director. The film was made in France and is mainly in French, with some dialogue in Spanish.
 
 :: References
 https://en.wikipedia.org/wiki/The_Discreet_Charm_of_the_Bourgeoisie
@@ -1874,11 +1874,11 @@ movie: Aguirre the Wrath of God (1972)
 :: Title
 Aguirre, the Wrath of God
 
-:: Description
-Aguirre, the Wrath of God (German: Aguirre, der Zorn Gottes), known in the UK as Aguirre, Wrath of God, is a 1972 epic historical drama film written and directed by Werner Herzog. Klaus Kinski stars in the title role. The soundtrack was composed and performed by West German kosmische band Popol Vuh. The story follows the travels of Spanish soldier Lope de Aguirre, who leads a group of conquistadores down the Amazon River in South America in search of the legendary city of gold, El Dorado.
-
 :: Date
 1972-12-29
+
+:: Description
+Aguirre, the Wrath of God (German: Aguirre, der Zorn Gottes), known in the UK as Aguirre, Wrath of God, is a 1972 epic historical drama film written and directed by Werner Herzog. Klaus Kinski stars in the title role. The soundtrack was composed and performed by West German kosmische band Popol Vuh. The story follows the travels of Spanish soldier Lope de Aguirre, who leads a group of conquistadores down the Amazon River in South America in search of the legendary city of gold, El Dorado.
 
 :: References
 https://en.wikipedia.org/wiki/Aguirre,_the_Wrath_of_God
@@ -1908,11 +1908,11 @@ movie: Dont Look Now (1973)
 :: Title
 Don't Look Now
 
-:: Description
-Don't Look Now (Italian: A Venezia... un Dicembre rosso shocking, lit. "In Venice... a shocking red December") is a 1973 English-language film directed by Nicolas Roeg. It is a thriller adapted from the short story by Daphne du Maurier. Julie Christie and Donald Sutherland portray a married couple who travel to Venice following the recent accidental death of their daughter, after the husband accepts a commission to restore a church. They encounter two sisters, one of whom claims to be clairvoyant and informs them that their daughter is trying to contact them and warn them of danger. The husband at first dismisses their claims, but starts to experience mysterious sightings himself.
-
 :: Date
 1973-10-16
+
+:: Description
+Don't Look Now (Italian: A Venezia... un Dicembre rosso shocking, lit. "In Venice... a shocking red December") is a 1973 English-language film directed by Nicolas Roeg. It is a thriller adapted from the short story by Daphne du Maurier. Julie Christie and Donald Sutherland portray a married couple who travel to Venice following the recent accidental death of their daughter, after the husband accepts a commission to restore a church. They encounter two sisters, one of whom claims to be clairvoyant and informs them that their daughter is trying to contact them and warn them of danger. The husband at first dismisses their claims, but starts to experience mysterious sightings himself.
 
 :: References
 https://en.wikipedia.org/wiki/Don%27t_Look_Now
@@ -1942,11 +1942,11 @@ movie: Chinatown (1974)
 :: Title
 Chinatown
 
-:: Description
-Chinatown is a 1974 American neo-noir mystery film directed by Roman Polanski from a screenplay by Robert Towne, starring Jack Nicholson and Faye Dunaway. The film was inspired by the California Water Wars, a series of disputes over southern California water at the beginning of the 20th century, by which Los Angeles interests secured water rights in the Owens Valley. The Robert Evans production, released by Paramount Pictures, was the director's last film in the United States and features many elements of film noir, particularly a multi-layered story that is part mystery and part psychological drama.
-
 :: Date
 1974-06-20
+
+:: Description
+Chinatown is a 1974 American neo-noir mystery film directed by Roman Polanski from a screenplay by Robert Towne, starring Jack Nicholson and Faye Dunaway. The film was inspired by the California Water Wars, a series of disputes over southern California water at the beginning of the 20th century, by which Los Angeles interests secured water rights in the Owens Valley. The Robert Evans production, released by Paramount Pictures, was the director's last film in the United States and features many elements of film noir, particularly a multi-layered story that is part mystery and part psychological drama.
 
 :: References
 https://en.wikipedia.org/wiki/Chinatown_(1974_film)
@@ -1976,11 +1976,11 @@ movie: The Texas Chain Saw Massacre (1974)
 :: Title
 The Texas Chain Saw Massacre
 
-:: Description
-The Texas Chain Saw Massacre is a 1974 American slasher film directed by Tobe Hooper and written and co-produced by Hooper and Kim Henkel. It stars Marilyn Burns, Paul A. Partain, Edwin Neal, Jim Siedow and Gunnar Hansen, who respectively portray Sally Hardesty, Franklin Hardesty, the hitchhiker, the proprietor, and Leatherface. The film follows a group of friends who fall victim to a family of cannibals while on their way to visit an old homestead. The film was marketed as being based on true events to attract a wider audience and to act as a subtle commentary on the era's political climate; although the character of Leatherface and minor story details were inspired by the crimes of murderer Ed Gein, its plot is largely fictional.
-
 :: Date
 1974-10-11
+
+:: Description
+The Texas Chain Saw Massacre is a 1974 American slasher film directed by Tobe Hooper and written and co-produced by Hooper and Kim Henkel. It stars Marilyn Burns, Paul A. Partain, Edwin Neal, Jim Siedow and Gunnar Hansen, who respectively portray Sally Hardesty, Franklin Hardesty, the hitchhiker, the proprietor, and Leatherface. The film follows a group of friends who fall victim to a family of cannibals while on their way to visit an old homestead. The film was marketed as being based on true events to attract a wider audience and to act as a subtle commentary on the era's political climate; although the character of Leatherface and minor story details were inspired by the crimes of murderer Ed Gein, its plot is largely fictional.
 
 :: References
 https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre
@@ -2010,11 +2010,11 @@ movie: A Woman Under the Influence (1974)
 :: Title
 A Woman Under the Influence
 
-:: Description
-A Woman Under the Influence is a 1974 American drama film written and directed by John Cassavetes. The story follows a woman (Gena Rowlands) whose unusual behavior leads to conflict with her blue-collar husband (Peter Falk) and family. It received two Academy Award nominations for Best Actress and Best Director. In 1990, the film was selected for preservation in the United States National Film Registry as being "culturally, historically, or aesthetically significant", one of the first fifty films to be so honored.
-
 :: Date
 1974-11-18
+
+:: Description
+A Woman Under the Influence is a 1974 American drama film written and directed by John Cassavetes. The story follows a woman (Gena Rowlands) whose unusual behavior leads to conflict with her blue-collar husband (Peter Falk) and family. It received two Academy Award nominations for Best Actress and Best Director. In 1990, the film was selected for preservation in the United States National Film Registry as being "culturally, historically, or aesthetically significant", one of the first fifty films to be so honored.
 
 :: References
 https://en.wikipedia.org/wiki/A_Woman_Under_the_Influence
@@ -2049,13 +2049,13 @@ movie: Jeanne Dielman 23 Quai du Commerce 1080 Bruxelles (1975)
 :: Title
 Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles
 
+:: Date
+1975-05-14
+
 :: Description
 Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles is a 1975 arthouse film by Belgian filmmaker Chantal Akerman.
 
 Jeanne Dielman examines a single mother's regimented schedule of cooking, cleaning and mothering over three days. The mother, Jeanne Dielman (whose name is only derived from the title and from a letter she reads to her son), has sex with male clients in her house daily for her and her son's subsistence. Like her other activities, Jeanne's sex work is part of the routine she performs every day by rote and is uneventful. But on the second and third day, Jeanne's routine begins to unravel subtly, as she overcooks the potatoes that she's preparing for dinner, and drops a newly washed spoon. These alterations to Jeanne's existence prepare for the climax on the third day, during which she murders a client.
-
-:: Date
-1975-05-14
 
 :: References
 https://en.wikipedia.org/wiki/Jeanne_Dielman,_23_quai_du_Commerce,_1080_Bruxelles
@@ -2085,11 +2085,11 @@ movie: Nashville (1975)
 :: Title
 Nashville
 
-:: Description
-Nashville is a 1975 American satirical musical ensemble comedy-drama film directed by Robert Altman. The film follows various people involved in the country and gospel music businesses in Nashville, Tennessee over a five-day period, leading up to a gala concert for a populist outsider running for President on the Replacement Party ticket.
-
 :: Date
 1975-06-11
+
+:: Description
+Nashville is a 1975 American satirical musical ensemble comedy-drama film directed by Robert Altman. The film follows various people involved in the country and gospel music businesses in Nashville, Tennessee over a five-day period, leading up to a gala concert for a populist outsider running for President on the Replacement Party ticket.
 
 :: References
 https://en.wikipedia.org/wiki/Nashville_(film)
@@ -2130,11 +2130,11 @@ movie: Jaws (1975)
 :: Title
 Jaws
 
-:: Description
-Jaws is a 1975 American thriller film directed by Steven Spielberg and based on Peter Benchley's 1974 novel of the same name. In the film, a giant man-eating great white shark attacks beachgoers at a New England summer resort town, prompting police chief Martin Brody (Roy Scheider) to hunt it with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw). Murray Hamilton plays the mayor, and Lorraine Gary portrays Brody's wife. The screenplay is credited to Benchley, who wrote the first drafts, and actor-writer Carl Gottlieb, who rewrote the script during principal photography.
-
 :: Date
 1975-06-20
+
+:: Description
+Jaws is a 1975 American thriller film directed by Steven Spielberg and based on Peter Benchley's 1974 novel of the same name. In the film, a giant man-eating great white shark attacks beachgoers at a New England summer resort town, prompting police chief Martin Brody (Roy Scheider) to hunt it with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw). Murray Hamilton plays the mayor, and Lorraine Gary portrays Brody's wife. The screenplay is credited to Benchley, who wrote the first drafts, and actor-writer Carl Gottlieb, who rewrote the script during principal photography.
 
 :: References
 https://en.wikipedia.org/wiki/Jaws_(film)
@@ -2166,11 +2166,11 @@ movie: Barry Lyndon (1975)
 :: Title
 Barry Lyndon
 
-:: Description
-Barry Lyndon is a 1975 period drama film written and directed by Stanley Kubrick, based on the 1844 novel The Luck of Barry Lyndon by William Makepeace Thackeray. It stars Ryan O'Neal, Marisa Berenson, Patrick Magee, Leonard Rossiter and Hardy Krüger. The film recounts the early exploits and later unravelling of a fictional 18th-century Irish rogue and opportunist who marries a rich widow to climb the social ladder and assume her late husband's aristocratic position.
-
 :: Date
 1975-12-18
+
+:: Description
+Barry Lyndon is a 1975 period drama film written and directed by Stanley Kubrick, based on the 1844 novel The Luck of Barry Lyndon by William Makepeace Thackeray. It stars Ryan O'Neal, Marisa Berenson, Patrick Magee, Leonard Rossiter and Hardy Krüger. The film recounts the early exploits and later unravelling of a fictional 18th-century Irish rogue and opportunist who marries a rich widow to climb the social ladder and assume her late husband's aristocratic position.
 
 :: References
 https://en.wikipedia.org/wiki/Barry_Lyndon
@@ -2214,11 +2214,11 @@ movie: Taxi Driver (1976)
 :: Title
 Taxi Driver
 
-:: Description
-Taxi Driver is a 1976 American psychological thriller film directed by Martin Scorsese, written by Paul Schrader, and starring Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle, Leonard Harris and Albert Brooks. Set in a decaying and morally bankrupt New York City following the Vietnam War, the film tells the story of a lonely veteran (De Niro) working as a taxi driver, who descends into insanity as he plots to assassinate both the presidential candidate (Harris) for whom the woman he is infatuated with (Shepherd) works, and the pimp (Keitel) of an underage prostitute (Foster) he befriends.
-
 :: Date
 1976-02-08
+
+:: Description
+Taxi Driver is a 1976 American psychological thriller film directed by Martin Scorsese, written by Paul Schrader, and starring Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle, Leonard Harris and Albert Brooks. Set in a decaying and morally bankrupt New York City following the Vietnam War, the film tells the story of a lonely veteran (De Niro) working as a taxi driver, who descends into insanity as he plots to assassinate both the presidential candidate (Harris) for whom the woman he is infatuated with (Shepherd) works, and the pimp (Keitel) of an underage prostitute (Foster) he befriends.
 
 :: References
 https://en.wikipedia.org/wiki/Taxi_Driver
@@ -2253,11 +2253,11 @@ movie: All the Presidents Men (1976)
 :: Title
 All the President's Men
 
-:: Description
-All the President's Men is a 1976 American political thriller film about the Watergate scandal, which brought down the presidency of Richard M. Nixon. Directed by Alan J. Pakula with a screenplay by William Goldman, it is based on the 1974 non-fiction book of the same name by Carl Bernstein and Bob Woodward, the two journalists investigating the Watergate scandal for The Washington Post. The film stars Robert Redford and Dustin Hoffman as Woodward and Bernstein, respectively; it was produced by Walter Coblenz for Redford's Wildwood Enterprises.
-
 :: Date
 1976-04-09
+
+:: Description
+All the President's Men is a 1976 American political thriller film about the Watergate scandal, which brought down the presidency of Richard M. Nixon. Directed by Alan J. Pakula with a screenplay by William Goldman, it is based on the 1974 non-fiction book of the same name by Carl Bernstein and Bob Woodward, the two journalists investigating the Watergate scandal for The Washington Post. The film stars Robert Redford and Dustin Hoffman as Woodward and Bernstein, respectively; it was produced by Walter Coblenz for Redford's Wildwood Enterprises.
 
 :: References
 https://en.wikipedia.org/wiki/All_the_President%27s_Men_(film)
@@ -2282,11 +2282,11 @@ movie: Annie Hall (1977)
 :: Title
 Annie Hall
 
-:: Description
-Annie Hall is a 1977 American romantic comedy film directed by Woody Allen from a screenplay he co-wrote with Marshall Brickman. Produced by Allen's manager, Charles H. Joffe, the film stars the director as Alvy Singer, who tries to figure out the reasons for the failure of his relationship with the film's eponymous female lead, played by Diane Keaton in a role written specifically for her.
-
 :: Date
 1977-04-20
+
+:: Description
+Annie Hall is a 1977 American romantic comedy film directed by Woody Allen from a screenplay he co-wrote with Marshall Brickman. Produced by Allen's manager, Charles H. Joffe, the film stars the director as Alvy Singer, who tries to figure out the reasons for the failure of his relationship with the film's eponymous female lead, played by Diane Keaton in a role written specifically for her.
 
 :: References
 https://en.wikipedia.org/wiki/Annie_Hall
@@ -2322,11 +2322,11 @@ movie: Killer of Sheep (1978)
 :: Title
 Killer of Sheep
 
-:: Description
-Killer of Sheep is a 1978 American drama film edited, shot, written, produced, and directed by Charles Burnett. Shot primarily in 1972 and 1973, it was originally submitted by Burnett to the UCLA School of Film in 1977 as his Master of Fine Arts thesis. It features Henry G. Sanders, Kaycee Moore, and Charles Bracy, among others, in acting roles.
-
 :: Date
 1978-11-14
+
+:: Description
+Killer of Sheep is a 1978 American drama film edited, shot, written, produced, and directed by Charles Burnett. Shot primarily in 1972 and 1973, it was originally submitted by Burnett to the UCLA School of Film in 1977 as his Master of Fine Arts thesis. It features Henry G. Sanders, Kaycee Moore, and Charles Bracy, among others, in acting roles.
 
 :: References
 https://en.wikipedia.org/wiki/Killer_of_Sheep
@@ -2357,11 +2357,11 @@ movie: Apocalypse Now (1979)
 :: Title
 Apocalypse Now
 
-:: Description
-Apocalypse Now is a 1979 American epic war film about the Vietnam War, directed, produced and co-written by Francis Ford Coppola. It stars Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Laurence Fishburne, and Dennis Hopper. Harrison Ford also makes an appearance in a small role. The screenplay, co-written by Coppola and John Milius and narration written by Michael Herr, was loosely based on the 1899 novella Heart of Darkness by Joseph Conrad. The setting was changed from late 19th-century Congo to the Vietnam War. The film follows a river journey from South Vietnam into Cambodia undertaken by Captain Benjamin L. Willard (a character based on Conrad's Marlow and played by Sheen), who is on a secret mission to assassinate Colonel Kurtz (Brando, with the character being based on Conrad's Mr. Kurtz), a renegade Army Special Forces officer accused of murder and who is presumed insane.
-
 :: Date
 1979-05-10
+
+:: Description
+Apocalypse Now is a 1979 American epic war film about the Vietnam War, directed, produced and co-written by Francis Ford Coppola. It stars Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Laurence Fishburne, and Dennis Hopper. Harrison Ford also makes an appearance in a small role. The screenplay, co-written by Coppola and John Milius and narration written by Michael Herr, was loosely based on the 1899 novella Heart of Darkness by Joseph Conrad. The setting was changed from late 19th-century Congo to the Vietnam War. The film follows a river journey from South Vietnam into Cambodia undertaken by Captain Benjamin L. Willard (a character based on Conrad's Marlow and played by Sheen), who is on a secret mission to assassinate Colonel Kurtz (Brando, with the character being based on Conrad's Mr. Kurtz), a renegade Army Special Forces officer accused of murder and who is presumed insane.
 
 :: References
 https://en.wikipedia.org/wiki/Apocalypse_Now
@@ -2393,11 +2393,11 @@ movie: The Shining (1980)
 :: Title
 The Shining
 
-:: Description
-The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. The film is based on Stephen King's 1977 novel of the same name and stars Jack Nicholson, Shelley Duvall, Scatman Crothers, and Danny Lloyd.
-
 :: Date
 1980-05-23
+
+:: Description
+The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. The film is based on Stephen King's 1977 novel of the same name and stars Jack Nicholson, Shelley Duvall, Scatman Crothers, and Danny Lloyd.
 
 :: References
 https://en.wikipedia.org/wiki/The_Shining_(film)
@@ -2426,11 +2426,11 @@ movie: Airplane (1980)
 :: Title
 Airplane!
 
-:: Description
-Airplane! (alternatively titled Flying High!) is a 1980 American satirical disaster film written and directed by David and Jerry Zucker and Jim Abrahams, and produced by Jon Davison. It stars Robert Hays and Julie Hagerty and features Leslie Nielsen, Robert Stack, Lloyd Bridges, Peter Graves, Kareem Abdul-Jabbar, and Lorna Patterson. The film is a parody of the disaster film genre, particularly the 1957 Paramount film Zero Hour!, from which it borrows the plot and the central characters, as well as many elements from Airport 1975 and other films in the Airport film series. The film is known for its use of surreal humor and its fast-paced slapstick comedy, including visual and verbal puns, gags, and obscure humor.
-
 :: Date
 1980-06-27
+
+:: Description
+Airplane! (alternatively titled Flying High!) is a 1980 American satirical disaster film written and directed by David and Jerry Zucker and Jim Abrahams, and produced by Jon Davison. It stars Robert Hays and Julie Hagerty and features Leslie Nielsen, Robert Stack, Lloyd Bridges, Peter Graves, Kareem Abdul-Jabbar, and Lorna Patterson. The film is a parody of the disaster film genre, particularly the 1957 Paramount film Zero Hour!, from which it borrows the plot and the central characters, as well as many elements from Airport 1975 and other films in the Airport film series. The film is known for its use of surreal humor and its fast-paced slapstick comedy, including visual and verbal puns, gags, and obscure humor.
 
 :: References
 https://en.wikipedia.org/wiki/Airplane!
@@ -2456,11 +2456,11 @@ movie: Raging Bull (1980)
 :: Title
 Raging Bull
 
-:: Description
-Raging Bull is a 1980 American biographical sports drama film directed by Martin Scorsese, produced by Robert Chartoff and Irwin Winkler and adapted by Paul Schrader and Mardik Martin from Jake LaMotta's memoir Raging Bull: My Story. The film, distributed by United Artists, stars Robert De Niro as Jake LaMotta, an Italian-American middleweight boxer whose self-destructive and obsessive rage, sexual jealousy, and animalistic appetite destroyed his relationship with his wife and family. Also featured in the film are Joe Pesci as Joey, LaMotta's well-intentioned brother and manager who tries to help Jake battle his inner demons, and Cathy Moriarty as his wife. Nicholas Colasanto, Theresa Saldana, and Frank Vincent all play supporting roles in the film.
-
 :: Date
 1980-11-14
+
+:: Description
+Raging Bull is a 1980 American biographical sports drama film directed by Martin Scorsese, produced by Robert Chartoff and Irwin Winkler and adapted by Paul Schrader and Mardik Martin from Jake LaMotta's memoir Raging Bull: My Story. The film, distributed by United Artists, stars Robert De Niro as Jake LaMotta, an Italian-American middleweight boxer whose self-destructive and obsessive rage, sexual jealousy, and animalistic appetite destroyed his relationship with his wife and family. Also featured in the film are Joe Pesci as Joey, LaMotta's well-intentioned brother and manager who tries to help Jake battle his inner demons, and Cathy Moriarty as his wife. Nicholas Colasanto, Theresa Saldana, and Frank Vincent all play supporting roles in the film.
 
 :: References
 https://en.wikipedia.org/wiki/Raging_Bull
@@ -2491,20 +2491,20 @@ movie: Raiders of the Lost Ark (1981)
 :: Title
 Raiders of the Lost Ark
 
-:: Description
-Raiders of the Lost Ark (later marketed as Indiana Jones and the Raiders of the Lost Ark) is a 1981 American action adventure film directed by Steven Spielberg, written by Lawrence Kasdan from a story by George Lucas and Philip Kaufman. It was produced by Frank Marshall for Lucasfilm Ltd., with Lucas and Howard Kazanjian as executive producers.
-
 :: Date
 1981-06-12
+
+:: Description
+Raiders of the Lost Ark (later marketed as Indiana Jones and the Raiders of the Lost Ark) is a 1981 American action adventure film directed by Steven Spielberg, written by Lawrence Kasdan from a story by George Lucas and Philip Kaufman. It was produced by Frank Marshall for Lucasfilm Ltd., with Lucas and Howard Kazanjian as executive producers.
 
 :: References
 https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark
 
-:: Ratings
-3 <mikael>,
-
 :: Genre
 action, adventure,
+
+:: Ratings
+3 <mikael>,
 
 :: Choice Themes
 ancient puzzle [Jones raided a tomb with elaborate traps, and then solved an ancient riddle to find the ark of the covenant],
@@ -2530,11 +2530,11 @@ movie: This Is Spinal Tap (1984)
 :: Title
 This Is Spinal Tap
 
-:: Description
-This Is Spinal Tap (stylized as This Is Spın̈al Tap: A Rockumentary by Martin Di Bergi) is a 1984 American mockumentary film directed and co-written by Rob Reiner. It stars Christopher Guest, Michael McKean, and Harry Shearer as members of the fictional English heavy metal band Spinal Tap (who are characterized as "one of England's loudest bands"), and Reiner as Martin "Marty" Di Bergi, a documentary filmmaker who follows them on their American tour. The film satirizes the behavior and musical pretensions of rock bands and the hagiographic tendencies of rock documentaries such as Gimme Shelter (1970), The Song Remains the Same (1976), and The Last Waltz (1978). Most of its dialogue was improvised and dozens of hours were filmed.
-
 :: Date
 1984-03-02
+
+:: Description
+This Is Spinal Tap (stylized as This Is Spın̈al Tap: A Rockumentary by Martin Di Bergi) is a 1984 American mockumentary film directed and co-written by Rob Reiner. It stars Christopher Guest, Michael McKean, and Harry Shearer as members of the fictional English heavy metal band Spinal Tap (who are characterized as "one of England's loudest bands"), and Reiner as Martin "Marty" Di Bergi, a documentary filmmaker who follows them on their American tour. The film satirizes the behavior and musical pretensions of rock bands and the hagiographic tendencies of rock documentaries such as Gimme Shelter (1970), The Song Remains the Same (1976), and The Last Waltz (1978). Most of its dialogue was improvised and dozens of hours were filmed.
 
 :: References
 https://en.wikipedia.org/wiki/This_Is_Spinal_Tap
@@ -2563,11 +2563,11 @@ movie: Come and See (1985)
 :: Title
 Come and See
 
-:: Description
-Come and See (Russian: Иди и смотри, Idi i smotri; Belarusian: Ідзі і глядзі, Idzi i hlyadzi) is a 1985 Belarusian film directed by Elem Klimov filmed in the Soviet Union, with a screenplay written by Klimov and Ales Adamovich based on the 1978 book I Am from the Fiery Village (original title: Я из огненной деревни, Ya iz ognennoj Derevni, 1977) by Adamovich et al.. The film stars Aleksei Kravchenko and Olga Mironova. Come and See is generally viewed as one of the most important anti-war movies ever made, and one of the great movies in history with the most historically accurate depictions of the crimes on the Eastern Front.patriotism
-
 :: Date
 1985-07
+
+:: Description
+Come and See (Russian: Иди и смотри, Idi i smotri; Belarusian: Ідзі і глядзі, Idzi i hlyadzi) is a 1985 Belarusian film directed by Elem Klimov filmed in the Soviet Union, with a screenplay written by Klimov and Ales Adamovich based on the 1978 book I Am from the Fiery Village (original title: Я из огненной деревни, Ya iz ognennoj Derevni, 1977) by Adamovich et al.. The film stars Aleksei Kravchenko and Olga Mironova. Come and See is generally viewed as one of the most important anti-war movies ever made, and one of the great movies in history with the most historically accurate depictions of the crimes on the Eastern Front.patriotism
 
 :: References
 https://en.wikipedia.org/wiki/Come_and_See
@@ -2596,11 +2596,11 @@ movie: Women on the Verge of a Nervous Breakdown (1988)
 :: Title
 Women on the Verge of a Nervous Breakdown
 
-:: Description
-Women on the Verge of a Nervous Breakdown (Spanish: Mujeres al borde de un ataque de nervios) is a 1988 Spanish black comedy-drama film written and directed by Pedro Almodóvar, starring Carmen Maura and Antonio Banderas. The film brought Almodóvar to widespread international attention: it was nominated for the 1988 Academy Award for Best Foreign Language Film, and won five Goya Awards including Best Film and Best Actress in a Leading Role for Maura. It was released on 11 November 1988.
-
 :: Date
 1988-03-25
+
+:: Description
+Women on the Verge of a Nervous Breakdown (Spanish: Mujeres al borde de un ataque de nervios) is a 1988 Spanish black comedy-drama film written and directed by Pedro Almodóvar, starring Carmen Maura and Antonio Banderas. The film brought Almodóvar to widespread international attention: it was nominated for the 1988 Academy Award for Best Foreign Language Film, and won five Goya Awards including Best Film and Best Actress in a Leading Role for Maura. It was released on 11 November 1988.
 
 :: References
 https://en.wikipedia.org/wiki/Women_on_the_Verge_of_a_Nervous_Breakdown
@@ -2631,11 +2631,11 @@ movie: Die Hard (1988)
 :: Title
 Die Hard
 
-:: Description
-Die Hard is a 1988 American action thriller film directed by John McTiernan, written by Jeb Stuart and Steven E. de Souza. Based on Roderick Thorp's 1979 novel Nothing Lasts Forever, it was produced by the Gordon Company and Silver Pictures, and distributed by 20th Century Fox. The film follows off-duty New York City Police Department officer John McClane (Bruce Willis) who is caught in a Los Angeles skyscraper on Christmas Eve during a heist led by criminal mastermind Hans Gruber (Alan Rickman).
-
 :: Date
 1988-07-12
+
+:: Description
+Die Hard is a 1988 American action thriller film directed by John McTiernan, written by Jeb Stuart and Steven E. de Souza. Based on Roderick Thorp's 1979 novel Nothing Lasts Forever, it was produced by the Gordon Company and Silver Pictures, and distributed by 20th Century Fox. The film follows off-duty New York City Police Department officer John McClane (Bruce Willis) who is caught in a Los Angeles skyscraper on Christmas Eve during a heist led by criminal mastermind Hans Gruber (Alan Rickman).
 
 :: References
 https://en.wikipedia.org/wiki/Die_Hard
@@ -2664,11 +2664,11 @@ movie: Do the Right Thing (1989)
 :: Title
 Do the Right Thing
 
-:: Description
-Do the Right Thing is a 1989 American comedy-drama film produced, written, and directed by Spike Lee. It stars Lee, Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson, Giancarlo Esposito, Bill Nunn, John Turturro, and Samuel L. Jackson, and is the feature film debut of Martin Lawrence and Rosie Perez. The story follows a Brooklyn neighborhood's simmering racial tension, which culminates in tragedy on a hot summer day.
-
 :: Date
 1989-05-19
+
+:: Description
+Do the Right Thing is a 1989 American comedy-drama film produced, written, and directed by Spike Lee. It stars Lee, Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson, Giancarlo Esposito, Bill Nunn, John Turturro, and Samuel L. Jackson, and is the feature film debut of Martin Lawrence and Rosie Perez. The story follows a Brooklyn neighborhood's simmering racial tension, which culminates in tragedy on a hot summer day.
 
 :: References
 https://en.wikipedia.org/wiki/Do_the_Right_Thing
@@ -2699,11 +2699,11 @@ movie: Goodfellas (1990)
 :: Title
 Goodfellas
 
-:: Description
-Goodfellas (stylized GoodFellas) is a 1990 American crime film directed by Martin Scorsese. It is an adaptation of the 1985 non-fiction book Wiseguy by Nicholas Pileggi, who co-wrote the screenplay with Scorsese. The film narrates the rise and fall of mob associate Henry Hill and his friends and family from 1955 to 1980.
-
 :: Date
 1990-09-09
+
+:: Description
+Goodfellas (stylized GoodFellas) is a 1990 American crime film directed by Martin Scorsese. It is an adaptation of the 1985 non-fiction book Wiseguy by Nicholas Pileggi, who co-wrote the screenplay with Scorsese. The film narrates the rise and fall of mob associate Henry Hill and his friends and family from 1955 to 1980.
 
 :: References
 https://en.wikipedia.org/wiki/Goodfellas
@@ -2741,11 +2741,11 @@ movie: Daughters of the Dust (1991)
 :: Title
 Daughters of the Dust
 
-:: Description
-Daughters of the Dust is a 1991 independent film written, directed and produced by Julie Dash and is the first feature film directed by an African-American woman distributed theatrically in the United States. Set in 1902, it tells the story of three generations of Gullah (also known as Geechee) women in the Peazant family on Saint Helena Island as they prepare to migrate to the North on the mainland.
-
 :: Date
 1991-01
+
+:: Description
+Daughters of the Dust is a 1991 independent film written, directed and produced by Julie Dash and is the first feature film directed by an African-American woman distributed theatrically in the United States. Set in 1902, it tells the story of three generations of Gullah (also known as Geechee) women in the Peazant family on Saint Helena Island as they prepare to migrate to the North on the mainland.
 
 :: References
 https://en.wikipedia.org/wiki/Daughters_of_the_Dust
@@ -2777,11 +2777,11 @@ movie: Pulp Fiction (1994)
 :: Title
 Pulp Fiction
 
-:: Description
-Pulp Fiction is a 1994 American crime film written and directed by Quentin Tarantino, who conceived it with Roger Avary. Starring John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames, and Uma Thurman, it tells several stories of criminal Los Angeles. The title refers to the pulp magazines and hardboiled crime novels popular during the mid-20th century, known for their graphic violence and punchy dialogue.
-
 :: Date
 1994-05-21
+
+:: Description
+Pulp Fiction is a 1994 American crime film written and directed by Quentin Tarantino, who conceived it with Roger Avary. Starring John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames, and Uma Thurman, it tells several stories of criminal Los Angeles. The title refers to the pulp magazines and hardboiled crime novels popular during the mid-20th century, known for their graphic violence and punchy dialogue.
 
 :: References
 https://en.wikipedia.org/wiki/Pulp_Fiction
@@ -2819,11 +2819,11 @@ movie: Seven (1995)
 :: Title
 Seven
 
-:: Description
-Seven (stylized as SE7EN) is a 1995 American crime thriller film was directed by David Fincher and written by Andrew Kevin Walker. It stars Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Kevin Spacey and John C. McGinley. The film tells the story of David Mills, a detective who partners with the retiring William Somerset to track down a serial killer who uses the seven deadly sins as a motif in his murders.
-
 :: Date
 1995-09-15
+
+:: Description
+Seven (stylized as SE7EN) is a 1995 American crime thriller film was directed by David Fincher and written by Andrew Kevin Walker. It stars Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Kevin Spacey and John C. McGinley. The film tells the story of David Mills, a detective who partners with the retiring William Somerset to track down a serial killer who uses the seven deadly sins as a motif in his murders.
 
 :: References
 https://en.wikipedia.org/wiki/Seven_(1995_film)
@@ -2856,11 +2856,11 @@ movie: Toy Story (1995)
 :: Title
 Toy Story
 
-:: Description
-Toy Story is a 1995 American computer-animated buddy comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The feature film directorial debut of John Lasseter, it was the first entirely computer-animated feature film, as well as the first feature film from Pixar. The screenplay was written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow from a story by Lasseter, Stanton, Pete Docter, and Joe Ranft. The film features music by Randy Newman, and was executive-produced by Steve Jobs and Edwin Catmull. It features the voices of Tom Hanks, Tim Allen, Don Rickles, Wallace Shawn, John Ratzenberger, Jim Varney, Annie Potts, R. Lee Ermey, John Morris, Laurie Metcalf, and Erik von Detten.
-
 :: Date
 1995-11-19
+
+:: Description
+Toy Story is a 1995 American computer-animated buddy comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The feature film directorial debut of John Lasseter, it was the first entirely computer-animated feature film, as well as the first feature film from Pixar. The screenplay was written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow from a story by Lasseter, Stanton, Pete Docter, and Joe Ranft. The film features music by Randy Newman, and was executive-produced by Steve Jobs and Edwin Catmull. It features the voices of Tom Hanks, Tim Allen, Don Rickles, Wallace Shawn, John Ratzenberger, Jim Varney, Annie Potts, R. Lee Ermey, John Morris, Laurie Metcalf, and Erik von Detten.
 
 :: References
 https://en.wikipedia.org/wiki/Toy_Story
@@ -2895,11 +2895,11 @@ movie: Heat (1995)
 :: Title
 Heat
 
-:: Description
-Heat is a 1995 American crime film written, produced, and directed by Michael Mann, starring Al Pacino, Robert De Niro, and Val Kilmer. De Niro plays Neil McCauley, a seasoned professional at robberies, and Pacino plays Lt. Vincent Hanna, an LAPD robbery-homicide detective tracking down Neil's crew after a botched heist leaves three security guards dead. The story is based on the former Chicago police officer Chuck Adamson's pursuit during the 1960s of a criminal named McCauley, after whom De Niro's character is named. Heat is a remake by Mann of an unproduced television series he had worked on, the pilot of which was released as the TV movie L.A. Takedown in 1989.
-
 :: Date
 1995-12-15
+
+:: Description
+Heat is a 1995 American crime film written, produced, and directed by Michael Mann, starring Al Pacino, Robert De Niro, and Val Kilmer. De Niro plays Neil McCauley, a seasoned professional at robberies, and Pacino plays Lt. Vincent Hanna, an LAPD robbery-homicide detective tracking down Neil's crew after a botched heist leaves three security guards dead. The story is based on the former Chicago police officer Chuck Adamson's pursuit during the 1960s of a criminal named McCauley, after whom De Niro's character is named. Heat is a remake by Mann of an unproduced television series he had worked on, the pilot of which was released as the TV movie L.A. Takedown in 1989.
 
 :: References
 https://en.wikipedia.org/wiki/Heat_(1995_film)
@@ -2932,11 +2932,11 @@ movie: Secrets  Lies (1996)
 :: Title
 Secrets & Lies
 
-:: Description
-Secrets & Lies is a 1996 drama film written and directed by Mike Leigh. Led by an ensemble cast consisting of many Leigh regulars, it stars Marianne Jean-Baptiste as Hortense, a well-educated black middle-class London optometrist, who was adopted as a baby and has chosen to trace her family history – only to discover that her birth mother, Cynthia, played by Brenda Blethyn, is a working-class white woman with a dysfunctional family. Claire Rushbrook co-stars as Cynthia's other daughter Roxanne, while Timothy Spall and Phyllis Logan portray Cynthia's brother and sister-in-law, who have secrets of their own affecting their everyday family life.
-
 :: Date
 1996-05
+
+:: Description
+Secrets & Lies is a 1996 drama film written and directed by Mike Leigh. Led by an ensemble cast consisting of many Leigh regulars, it stars Marianne Jean-Baptiste as Hortense, a well-educated black middle-class London optometrist, who was adopted as a baby and has chosen to trace her family history – only to discover that her birth mother, Cynthia, played by Brenda Blethyn, is a working-class white woman with a dysfunctional family. Claire Rushbrook co-stars as Cynthia's other daughter Roxanne, while Timothy Spall and Phyllis Logan portray Cynthia's brother and sister-in-law, who have secrets of their own affecting their everyday family life.
 
 :: References
 https://en.wikipedia.org/wiki/Secrets_%26_Lies_(film)
@@ -2971,11 +2971,11 @@ movie: Beau Travail (1999)
 :: Title
 Beau Travail
 
-:: Description
-Beau Travail (pronounced , French for "good work") is a 1999 French film directed by Claire Denis that is loosely based on Herman Melville's 1888 novella Billy Budd. The story is set in Djibouti, where the protagonists are soldiers in the French Foreign Legion. Parts of the soundtrack of the movie are from Benjamin Britten's opera based on the novella.
-
 :: Date
 1999
+
+:: Description
+Beau Travail (pronounced , French for "good work") is a 1999 French film directed by Claire Denis that is loosely based on Herman Melville's 1888 novella Billy Budd. The story is set in Djibouti, where the protagonists are soldiers in the French Foreign Legion. Parts of the soundtrack of the movie are from Benjamin Britten's opera based on the novella.
 
 :: References
 https://en.wikipedia.org/wiki/Beau_Travail
@@ -3003,11 +3003,11 @@ movie: The Blair Witch Project (1999)
 :: Title
 The Blair Witch Project
 
-:: Description
-The Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo Sánchez. It tells the fictional story of three student filmmakers—Heather Donahue, Michael C. Williams, and Joshua Leonard—who hike in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappeared, but their equipment and footage is discovered a year later. The purportedly "recovered footage" is the film the viewer sees.
-
 :: Date
 1999-01-25
+
+:: Description
+The Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo Sánchez. It tells the fictional story of three student filmmakers—Heather Donahue, Michael C. Williams, and Joshua Leonard—who hike in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappeared, but their equipment and footage is discovered a year later. The purportedly "recovered footage" is the film the viewer sees.
 
 :: References
 https://en.wikipedia.org/wiki/The_Blair_Witch_Project
@@ -3037,11 +3037,11 @@ movie: In the Mood for Love (2000)
 :: Title
 In the Mood for Love
 
-:: Description
-In the Mood for Love is a 2000 Hong Kong romantic drama film written, produced, and directed by Wong Kar-wai. It tells the story of a man (played by Tony Leung) and a woman (Maggie Cheung) whose spouses have an affair together and who slowly develop feelings for each other.
-
 :: Date
 2000-05-20
+
+:: Description
+In the Mood for Love is a 2000 Hong Kong romantic drama film written, produced, and directed by Wong Kar-wai. It tells the story of a man (played by Tony Leung) and a woman (Maggie Cheung) whose spouses have an affair together and who slowly develop feelings for each other.
 
 :: References
 https://en.wikipedia.org/wiki/In_the_Mood_for_Love
@@ -3068,11 +3068,11 @@ movie: Mulholland Drive (2001)
 :: Title
 Mulholland Drive
 
-:: Description
-Mulholland Drive (stylized as Mulholland Dr.) is a 2001 American neo-noir mystery film written and directed by David Lynch and starring Naomi Watts, Laura Harring, Justin Theroux, Ann Miller, Mark Pellegrino and Robert Forster. It tells the story of an aspiring actress named Betty Elms (Watts), newly arrived in Los Angeles, who meets and befriends an amnesiac woman (Harring) recovering from a car accident. The story follows several other vignettes and characters, including a Hollywood film director (Theroux).
-
 :: Date
 2001-05-16
+
+:: Description
+Mulholland Drive (stylized as Mulholland Dr.) is a 2001 American neo-noir mystery film written and directed by David Lynch and starring Naomi Watts, Laura Harring, Justin Theroux, Ann Miller, Mark Pellegrino and Robert Forster. It tells the story of an aspiring actress named Betty Elms (Watts), newly arrived in Los Angeles, who meets and befriends an amnesiac woman (Harring) recovering from a car accident. The story follows several other vignettes and characters, including a Hollywood film director (Theroux).
 
 :: References
 https://en.wikipedia.org/wiki/Mulholland_Drive_(film)
@@ -3111,11 +3111,11 @@ movie: Spirited Away (2001)
 :: Title
 Spirited Away
 
-:: Description
-Spirited Away (Japanese: 千と千尋の神隠し, Hepburn: Sen to Chihiro no Kamikakushi, "Sen and Chihiro's Spiriting Away") is a 2001 Japanese animated coming-of-age fantasy drama film. It was written and directed by Hayao Miyazaki, animated by Studio Ghibli for Tokuma Shoten, Nippon Television Network, Dentsu, Buena Vista Home Entertainment, Tohokushinsha Film and Mitsubishi and distributed by Toho. The film stars Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takeshi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara. Spirited Away tells the story of Chihiro Ogino (Hiiragi), a moody 10-year-old girl who, while moving to a new neighbourhood, enters the world of Kami (spirits) of Japanese Shinto folklore. After her parents are turned into pigs by the witch Yubaba (Natsuki), Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world.
-
 :: Date
 2001-07-20
+
+:: Description
+Spirited Away (Japanese: 千と千尋の神隠し, Hepburn: Sen to Chihiro no Kamikakushi, "Sen and Chihiro's Spiriting Away") is a 2001 Japanese animated coming-of-age fantasy drama film. It was written and directed by Hayao Miyazaki, animated by Studio Ghibli for Tokuma Shoten, Nippon Television Network, Dentsu, Buena Vista Home Entertainment, Tohokushinsha Film and Mitsubishi and distributed by Toho. The film stars Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takeshi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara. Spirited Away tells the story of Chihiro Ogino (Hiiragi), a moody 10-year-old girl who, while moving to a new neighbourhood, enters the world of Kami (spirits) of Japanese Shinto folklore. After her parents are turned into pigs by the witch Yubaba (Natsuki), Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world.
 
 :: References
 https://en.wikipedia.org/wiki/Spirited_Away
@@ -3149,11 +3149,11 @@ movie: Lost in Translation (2003)
 :: Title
 Lost in Translation
 
-:: Description
-Lost in Translation is a 2003 romantic comedy-drama film written and directed by Sofia Coppola. It stars Bill Murray as aging actor Bob Harris, who befriends college graduate Charlotte (Scarlett Johansson) in a Tokyo hotel. The movie explores themes of loneliness, insomnia, existential ennui, and culture shock against the backdrop of a modern Japanese city.
-
 :: Date
 2003-08-29
+
+:: Description
+Lost in Translation is a 2003 romantic comedy-drama film written and directed by Sofia Coppola. It stars Bill Murray as aging actor Bob Harris, who befriends college graduate Charlotte (Scarlett Johansson) in a Tokyo hotel. The movie explores themes of loneliness, insomnia, existential ennui, and culture shock against the backdrop of a modern Japanese city.
 
 :: References
 https://en.wikipedia.org/wiki/Lost_in_Translation_(film)
@@ -3190,11 +3190,11 @@ movie: Brokeback Mountain (2005)
 :: Title
 Brokeback Mountain
 
-:: Description
-Brokeback Mountain is a 2005 American romantic drama film directed by Ang Lee and produced by Diana Ossana and James Schamus. Adapted from the 1997 short story of the same name by Annie Proulx, the screenplay was written by Ossana and Larry McMurtry. The film stars Heath Ledger, Jake Gyllenhaal, Anne Hathaway, and Michelle Williams and depicts the complex emotional and sexual relationship between Ennis Del Mar and Jack Twist in the American West from 1963 to 1983.
-
 :: Date
 2005-09-02
+
+:: Description
+Brokeback Mountain is a 2005 American romantic drama film directed by Ang Lee and produced by Diana Ossana and James Schamus. Adapted from the 1997 short story of the same name by Annie Proulx, the screenplay was written by Ossana and Larry McMurtry. The film stars Heath Ledger, Jake Gyllenhaal, Anne Hathaway, and Michelle Williams and depicts the complex emotional and sexual relationship between Ennis Del Mar and Jack Twist in the American West from 1963 to 1983.
 
 :: References
 https://en.wikipedia.org/wiki/Brokeback_Mountain
@@ -3237,11 +3237,11 @@ movie: There Will Be Blood (2007)
 :: Title
 There Will Be Blood
 
-:: Description
-There Will Be Blood is a 2007 American epic drama film written and directed by Paul Thomas Anderson, loosely based on the novel Oil! by Upton Sinclair. It stars Daniel Day-Lewis as a silver miner-turned-oilman on a ruthless quest for wealth during Southern California's oil boom of the late 19th and early 20th centuries. Paul Dano, Kevin J. O'Connor, Ciarán Hinds, and Dillon Freasier also feature in the film.
-
 :: Date
 2007-09-27
+
+:: Description
+There Will Be Blood is a 2007 American epic drama film written and directed by Paul Thomas Anderson, loosely based on the novel Oil! by Upton Sinclair. It stars Daniel Day-Lewis as a silver miner-turned-oilman on a ruthless quest for wealth during Southern California's oil boom of the late 19th and early 20th centuries. Paul Dano, Kevin J. O'Connor, Ciarán Hinds, and Dillon Freasier also feature in the film.
 
 :: References
 https://en.wikipedia.org/wiki/There_Will_Be_Blood
@@ -3286,11 +3286,11 @@ movie: The Dark Knight (2008)
 :: Title
 The Dark Knight
 
-:: Description
-The Dark Knight is a 2008 superhero film directed, co-produced, and co-written by Christopher Nolan. Based on the DC Comics character Batman, the film is the second installment of Nolan's The Dark Knight Trilogy and a sequel to 2005's Batman Begins, starring Christian Bale and supported by Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, and Morgan Freeman. In the film, Bruce Wayne / Batman (Bale), Police Lieutenant James Gordon (Oldman) and District Attorney Harvey Dent (Eckhart) form an alliance to dismantle organized crime in Gotham City, but are menaced by an anarchistic mastermind known as the Joker (Ledger), who seeks to undermine Batman's influence and turn the city to chaos.
-
 :: Date
 2008-07-14
+
+:: Description
+The Dark Knight is a 2008 superhero film directed, co-produced, and co-written by Christopher Nolan. Based on the DC Comics character Batman, the film is the second installment of Nolan's The Dark Knight Trilogy and a sequel to 2005's Batman Begins, starring Christian Bale and supported by Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, and Morgan Freeman. In the film, Bruce Wayne / Batman (Bale), Police Lieutenant James Gordon (Oldman) and District Attorney Harvey Dent (Eckhart) form an alliance to dismantle organized crime in Gotham City, but are menaced by an anarchistic mastermind known as the Joker (Ledger), who seeks to undermine Batman's influence and turn the city to chaos.
 
 :: References
 https://en.wikipedia.org/wiki/The_Dark_Knight_(film)
@@ -3329,11 +3329,11 @@ movie: Boyhood (2014)
 :: Title
 Boyhood
 
-:: Description
-Boyhood is a 2014 American coming-of-age drama film written and directed by Richard Linklater, and starring Patricia Arquette, Ellar Coltrane, Lorelei Linklater, and Ethan Hawke. Filmed from 2001 to 2013, Boyhood depicts the childhood and adolescence of Mason Evans Jr. (Coltrane) from ages six to eighteen as he grows up in Texas with divorced parents (Arquette and Hawke). Richard Linklater's daughter Lorelei plays Mason's sister, Samantha.
-
 :: Date
 2014-01-19
+
+:: Description
+Boyhood is a 2014 American coming-of-age drama film written and directed by Richard Linklater, and starring Patricia Arquette, Ellar Coltrane, Lorelei Linklater, and Ethan Hawke. Filmed from 2001 to 2013, Boyhood depicts the childhood and adolescence of Mason Evans Jr. (Coltrane) from ages six to eighteen as he grows up in Texas with divorced parents (Arquette and Hawke). Richard Linklater's daughter Lorelei plays Mason's sister, Samantha.
 
 :: References
 https://en.wikipedia.org/wiki/Boyhood_(film)
@@ -3374,11 +3374,11 @@ movie: Get Out (2017)
 :: Title
 Get Out
 
-:: Description
-Get Out is a 2017 American horror film, written and directed by Jordan Peele in his directorial debut. It stars Daniel Kaluuya, Allison Williams, Lil Rel Howery, Bradley Whitford, Caleb Landry Jones, Stephen Root, and Catherine Keener. Get Out follows Chris Washington (Kaluuya), a young African-American man who uncovers a disturbing secret when he meets the family of his white girlfriend, Rose Armitage (Williams).
-
 :: Date
 2017-01-23
+
+:: Description
+Get Out is a 2017 American horror film, written and directed by Jordan Peele in his directorial debut. It stars Daniel Kaluuya, Allison Williams, Lil Rel Howery, Bradley Whitford, Caleb Landry Jones, Stephen Root, and Catherine Keener. Get Out follows Chris Washington (Kaluuya), a young African-American man who uncovers a disturbing secret when he meets the family of his white girlfriend, Rose Armitage (Williams).
 
 :: References
 https://en.wikipedia.org/wiki/Get_Out

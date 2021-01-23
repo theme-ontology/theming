@@ -7,9 +7,6 @@ Babylon 5
 :: Date
 1993-1998
 
-:: Collections
-Collection: Babylon 5
-
 :: Description
 Babylon 5 is an American science fiction television series created by writer
 and producer J. Michael Straczynski, under the Babylonian Productions label,
@@ -27,6 +24,9 @@ along with Douglas Netter.
 
 :: References
 https://en.wikipedia.org/wiki/Babylon_5
+
+:: Collections
+Collection: Babylon 5
 
 :: Major Themes
 transnational institution for peace [Babylon 5 essentially functions as the United Nations but in space.],
@@ -478,10 +478,6 @@ By Any Means Necessary
 :: Date
 1994-05-11
 
-:: Ratings
-4 <mikael>,
-4 <paul>,
-
 :: Description
 An accident in the docking bays starts a series of problems on Babylon 5, when
 a Narn freighter is destroyed and one of the workers is killed. The dock
@@ -489,6 +485,10 @@ workers demand better conditions or they'll go on strike. And G'Kar has to get
 a replacement G'Quan-Eth plant for an important religious ceremony.
 
 Directed by: Jim Johnston. Story by: Kathryn M. Drennan.
+
+:: Ratings
+4 <mikael>,
+4 <paul>,
 
 :: Choice Themes
 labor strikes in society [The docking bay workers went on strike for better working conditions.],
@@ -516,16 +516,16 @@ Signs and Portents
 :: Date
 1994-05-18
 
-:: Ratings
-2 <mikael>,
-1 <paul>,
-
 :: Description
 A Centauri noble comes to Babylon 5 to transport an important Centauri relic
 in Londo's possession back to the homeworld. And a mysterious man visits all
 the alien ambassadors asking them an unusual question.
 
 Directed by: Janet Greek. Story by: J. Michael Straczynski.
+
+:: Ratings
+2 <mikael>,
+1 <paul>,
 
 :: Choice Themes
 

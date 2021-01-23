@@ -7,12 +7,6 @@ Amazing Stories
 :: Date
 1926-2019
 
-:: Genre
-sci-fi
-
-:: Collections
-Collection: Amazing Stories
-
 :: Description
 Amazing Stories is an American science fiction magazine launched in April 1926 by Hugo Gernsback's Experimenter Publishing. It was the first magazine devoted solely to science fiction. Science fiction stories had made regular appearances in other magazines, including some published by Gernsback, but Amazing helped define and launch a new genre of pulp fiction.
 
@@ -22,6 +16,12 @@ http://www.philsp.com/mags/amazing_stories.html
 https://onlinebooks.library.upenn.edu/webbin/serial?id=amazingstories
 https://archive.org/details/amazingstoriesmagazine
 https://en.wikisource.org/wiki/Amazing_Stories
+
+:: Genre
+sci-fi
+
+:: Collections
+Collection: Amazing Stories
 
 
 shortstory: The Man from the Atom (1926)
@@ -33,21 +33,21 @@ The Man from the Atom
 :: Date
 1926-04
 
-:: Authors
-Green Peyton Wertenbaker
-
 :: Description
 A man uses a device to increase himself in size to truly cosmic proportions.
 
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+Green Peyton Wertenbaker
 
 :: References
 https://archive.org/details/AmazingSerials02WertenbakerTheManFromTheAtom192645
 https://en.wikisource.org/wiki/Amazing_Stories/Volume_01/Number_01/The_Man_From_the_Atom
+
+:: Genre
+sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 what if I grew in size [Kirby used Professor Martyn's device to grow himself to cosmic proportions.],
@@ -71,21 +71,21 @@ The Man Who Saved the Earth
 :: Date
 1926-04
 
-:: Authors
-Austin Hall
-
 :: Description
 A man by the name of Charley Huyck sacrifices himself in a last ditched effort to prevent the theft of Earth's ocean waters.
 
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+Austin Hall
 
 :: References
 https://archive.org/details/TheManWhoSavedTheEarth/page/n1
 https://en.wikisource.org/wiki/Amazing_Stories/Volume_01/Number_01/The_Man_Who_Saved_the_Earth
+
+:: Genre
+sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 weapons of mass destruction [Martians used a mysterious death ray like beam, which emanated from a mountaintop apparatus, to devastate the Earth. They made a mountain vanish in the wink of an eye and cut a channel clear through North America.],
@@ -112,20 +112,20 @@ Whispering Ether
 :: Date
 1926-06
 
-:: Authors
-Charles S. Wolfe
-
 :: Description
 A scientist invents a machine that pick up other peoples' thoughts out of the ether.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Charles S. Wolfe
+
+:: References
+https://archive.org/details/AmazingStoriesVolume01Number03/page/n55
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume01Number03/page/n55
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 mind reading technology [Proctor invented a machine that picked up other peoples thoughts out of the ether. In turned out that intense thinking propagated as electromagnetic waves through the ether, and the original thoughts were reconstructed in audible form by the machine.],
@@ -140,20 +140,20 @@ The Eggs from Lake Tanganyika
 :: Date
 1926-07
 
-:: Authors
-Curt Siodmak
-
 :: Description
 Four gigantic, blood-sucking flies get loose in Berlin and must be destroyed at all cost.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Curt Siodmak
+
+:: References
+https://archive.org/details/AmazingStoriesVolume01Number04/page/n57
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume01Number04/page/n57
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 cryptid [Professor Meyer-Maier brought four giant eggs back to Berlin from Africa that hatched into giant flies. The Africans who inhabited the region near where Meyer-Maier found they eggs warned him of the existence of giant creatures that were unknown to European science, but Mayer-Maier didn't take them seriously.],
@@ -173,20 +173,20 @@ Through the Crater's Rim
 :: Date
 1926-09
 
-:: Authors
-Alpheus Hyatt Verrill
-
 :: Description
 An adventurer hacks his way through man-eating trees to find an hitherto uncontacted people living in the crater of an extinct volcano.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Alpheus Hyatt Verrill
+
+:: References
+https://archive.org/details/AmazingStoriesVolume01Number09/page/n37
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume01Number09/page/n37
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 a god and its people [The hidden city dwellers thought Hazen a god by all appearances, and treated him accordingly.],
@@ -207,20 +207,20 @@ The Telepathic Pick-Up
 :: Date
 1926-12
 
-:: Authors
-Samuel M. Sargent Jr.
-
 :: Description
 A man invents a sort of radio that allows him to hear other peoples' thoughts.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Samuel M. Sargent Jr.
+
+:: References
+https://archive.org/details/AmazingStoriesVolume01Number09/page/n59
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume01Number09/page/n59
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 mind reading technology [Dr. Spalding invented a radio apparatus that could be used to tune in on other peoples' thoughts. He used the device to hear the thoughts of his brother as he was being executed in the electric chair.],
@@ -241,20 +241,20 @@ Advanced Chemistry
 :: Date
 1927-03
 
-:: Authors
-Jack G. Huekels
-
 :: Description
 Professor Carbonic discovers how to revive the dead using the power of electricity.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Jack G. Huekels
+
+:: References
+https://en.wikisource.org/wiki/Amazing_Stories/Volume_01/Number_12/Advanced_Chemistry
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikisource.org/wiki/Amazing_Stories/Volume_01/Number_12/Advanced_Chemistry
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 revival long after death [Professor Carbonic a brain-injectable chemical cocktail that revived the dead to life.],
@@ -269,20 +269,20 @@ The Plague of the Living Dead
 :: Date
 1927-04
 
-:: Authors
-A. Hyatt Verrill
-
 :: Description
 Dr. Gordon Farnham unwittingly creates a mob of zombies when he injects his immortality serum into people who died in a volcanic eruption.
 
-:: Ratings
-5 <paul>,
+:: Authors
+A. Hyatt Verrill
+
+:: References
+https://comicbookplus.com/?dlid=39014
 
 :: Genre
 sci-fi
 
-:: References
-https://comicbookplus.com/?dlid=39014
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 zombie [A mob of zombies ensued when Dr. Gordon Farnham injected a number of dead people with his immortality serum.],
@@ -314,20 +314,20 @@ The Fate of the Poseidonia
 :: Date
 1927-06
 
-:: Authors
-Clare Wigner Harris
-
 :: Description
 Martians hatch a plot to steal Earth's water.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Clare Wigner Harris
+
+:: References
+https://archive.org/details/TheFateOfThePoseidonia/page/n3
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/TheFateOfThePoseidonia/page/n3
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 Martian extraterrestrial [Martians stole a sizable proportion of water from Earth's oceans.],
@@ -349,20 +349,20 @@ The Four-dimensional Roller Press
 :: Date
 1927-06
 
-:: Authors
-Bob Olsen
-
 :: Description
 A young genius invents a machine that compresses or expands objects by manipulating them in their fourth dimension.
 
-:: Ratings
-5 <paul>,
+:: Authors
+Bob Olsen
+
+:: References
+https://archive.org/details/AmazingStoriesVolume02Number03/page/n95
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume02Number03/page/n95
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 four-dimensional space [Young genius William James Sidelburg invented that could compress or expands objects by manipulating them in their fourth dimension. He used it to expand a steel cylinder, the monkey Jocko, and finally himself.],
@@ -378,20 +378,20 @@ The Man with the Strange Head
 :: Date
 1927-07
 
-:: Authors
-Miles J. Breuer
-
 :: Description
 Anstruther leaped upon the hold-up man; the driver said he head Anstruther'S muscles crunch savagely, as with little apparent effort he flung the man over the Ford.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Miles J. Breuer
+
+:: References
+https://archive.org/details/AmazingStoriesVolume01Number10/page/n67
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume01Number10/page/n67
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 cyborg [Anstruther was a radium powered cyborg.],
@@ -409,20 +409,20 @@ Radio Mates
 :: Date
 1927-07
 
-:: Authors
-Benjamin Witwer
-
 :: Description
 An amateur radio enthusiast seeks revenge against a romantic rival.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Benjamin Witwer
+
+:: References
+https://archive.org/details/AmazingStoriesV02N04192707/page/n57
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesV02N04192707/page/n57
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 teleportation device [Bromley Cranston invented a teleporter from radio equipment and radioactive isotopes. He successfully teleported a guinea pig and some cats in his laboratory, and later he transported himself and Venice into some kind of netherworld.],
@@ -446,20 +446,20 @@ The Retreat to Mars
 :: Date
 1927-08
 
-:: Authors
-Cecil B. White
-
 :: Description
 An archaeologist tells an astronomer about the time he discovered a Martian spaceship deep inside Africa.
 
-:: Ratings
-5 <paul>,
+:: Authors
+Cecil B. White
+
+:: References
+https://archive.org/details/TheRetreatToMars
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/TheRetreatToMars
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 Martian extraterrestrial [Hargraves found incontrovertible evidence that Martians had colonized the Earth some hundreds of thousands of years ago.],
@@ -489,21 +489,21 @@ The Tissue-Culture King
 :: Date
 1927-08
 
-:: Authors
-Julian Huxley
-
 :: Description
 The story tells of biologist captured by an African tribe. It incorporates the idea of immortality based on reproduction from a tissue culture and an early mention of tin foil hats.
 
-:: Ratings
-4 <paul> [The biologist and Hascombe used telepathy-proof "caps of metal foil" in their escape attempt.],
-
-:: Genre
-sci-fi
+:: Authors
+Julian Huxley
 
 :: References
 https://en.wikipedia.org/wiki/The_Tissue-Culture_King
 https://archive.org/details/AmazingStoriesVolume02Number05/page/n35
+
+:: Genre
+sci-fi
+
+:: Ratings
+4 <paul> [The biologist and Hascombe used telepathy-proof "caps of metal foil" in their escape attempt.],
 
 :: Major Themes
 the lust for power [Bugala struck a deal with Hascombe to protect him so long as Hascombe used his scientific powers to help Bugala ascend to the high-priesthood of the national religion.],
@@ -533,21 +533,21 @@ The Color Out of Space
 :: Date
 1927-09
 
-:: Authors
-H. P. Lovecraft
-
 :: Description
 An unnamed narrator pieces together the story of an area known by the locals as the "blasted heath" in the wild hills west of the fictional town of Arkham, Massachusetts. The narrator discovers that many years ago a meteorite crashed there, poisoning every living being nearby; vegetation grows large but foul tasting, animals are driven mad and deformed into grotesque shapes, and the people go insane or die one by one.
 
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi, horror,
+:: Authors
+H. P. Lovecraft
 
 :: References
 https://en.wikipedia.org/wiki/The_Colour_Out_of_Space
 https://archive.org/details/Amazing_Stories_v02n06_1927-09/page/n35
+
+:: Genre
+sci-fi, horror,
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 human vs. inexplicable adversity [The narrator, and everyone else, was at a loss to explain how it came to be that everything went to hell after in Arkham after a meteor had crashed there.],
@@ -571,20 +571,20 @@ The Machine Man of Arthadia
 :: Date
 1927-11
 
-:: Authors
-Francis Flagg
-
 :: Description
 An unsuspecting man is visited by a human descendant from twenty-eight thousand years in the future.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Francis Flagg
+
+:: References
+https://archive.org/details/AmazingStoriesVolume02Number08/page/n79
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume02Number08/page/n79
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 time travel [Matthews conversed with a distant descendant of humankind who traveled back in time twenty-eight thousand years.],
@@ -611,20 +611,20 @@ The Comet Doom
 :: Date
 1928-01
 
-:: Authors
-Edmond Hamilton
-
 :: Description
 The world's scientists are confident that an approaching comet poses no danger to the Earth, but three oung men discover otherwise.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Edmond Hamilton
+
+:: References
+http://famous-and-forgotten-fiction.com/writings/hamilton-stories/hamilton-the-comet-doom.html
 
 :: Genre
 sci-fi
 
-:: References
-http://famous-and-forgotten-fiction.com/writings/hamilton-stories/hamilton-the-comet-doom.html
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 attack from outer space by a genocidal enemy [A race of comet dwelling cyborg plotted to whisk the Earth away out of its orbit and use the planet for natural resources.],
@@ -652,20 +652,20 @@ The Revolt of the Pedestrians
 :: Date
 1928-02
 
-:: Authors
-David H. Keller
-
 :: Description
 In a not too distant future, regular legged people are persecuted by people with atrophied legs who ride in wheel chair-like cars.
 
-:: Ratings
-4 <paul>,
+:: Authors
+David H. Keller
+
+:: References
+https://archive.org/details/AmazingStoriesVolume02Number11/page/n27
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume02Number11/page/n27
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 the future of human evolution [We saw a future where there was a bifurcation in human evolution. One line of humans had evolved tiny stubs for legs that suited their car riding habits. The other remained like us.],
@@ -696,20 +696,20 @@ Sub-Satellite
 :: Date
 1928-03
 
-:: Authors
-Charles Cloukey
-
 :: Description
 A professor builds a rocketship to fly on a return mission to the Moon but his disgruntled assistant has other plans.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Charles Cloukey
+
+:: References
+http://www.isfdb.org/cgi-bin/title.cgi?54846
 
 :: Genre
 sci-fi
 
-:: References
-http://www.isfdb.org/cgi-bin/title.cgi?54846
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 interplanetary space travel [The narrator Kornfield recounted the story of Dr. D. Francis Jarvis' voyage to the Moon.],
@@ -736,20 +736,20 @@ The Miracle of the Lily
 :: Date
 1928-04
 
-:: Authors
-Clare Winger Harris
-
 :: Description
 The future people of Earth offer to help the Venusians with their insect problem.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Clare Winger Harris
+
+:: References
+https://archive.org/details/AmazingStoriesVolume03Number01/page/n47
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume03Number01/page/n47
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 displacement by a rising new species [Insects evolved intelligence and challenged humans for dominion over the Earth.],
@@ -783,20 +783,20 @@ A Visitor from the Twentieth Century
 :: Date
 1928-05
 
-:: Authors
-Harold Donitz
-
 :: Description
 A contemporary architect wakes up in a future New York City - or was it only a dream?
 
-:: Ratings
-4 <paul>,
+:: Authors
+Harold Donitz
+
+:: References
+https://archive.org/details/AmazingStoriesVolume03Number02/page/n73
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/AmazingStoriesVolume03Number02/page/n73
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 technologically enabled utopia [Future New York City was made a hydroelectrically powered utopia complete with gigantic buildings that comfortably fit 10,000 people, moving sidewalks, and people tubes for transport.],
@@ -818,20 +818,20 @@ Flight to Venus
 :: Date
 1928-12
 
-:: Authors
-Edwin K. Sloat
-
 :: Description
 A man plots to dupe the public into believing that he made an expedition to the planet Venus.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Edwin K. Sloat
+
+:: References
+https://archive.org/details/Amazing_Stories_v03n09_1928-12_Missing_ibcbc_AK/page/n13
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/Amazing_Stories_v03n09_1928-12_Missing_ibcbc_AK/page/n13
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 interplanetary space travel [Professor Randall Morteshang commandeered a rocketship to Venus. Failed manned missions to Mars and the Moon were also mentioned.],
@@ -859,20 +859,20 @@ The Appendix and the Spectacles
 :: Date
 1928-12
 
-:: Authors
-Miles J. Breuer
-
 :: Description
 A man's appendix is removed without his being cut open.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Miles J. Breuer
+
+:: References
+http://www.sf-encyclopedia.com/entry/breuer_miles_j
 
 :: Genre
 sci-fi
 
-:: References
-http://www.sf-encyclopedia.com/entry/breuer_miles_j
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 four-dimensional space [Bookstrom removed the businessman Cladgett's appendix without cutting him open by using a surgery machine that allowed him to access the fourth dimension.],
@@ -888,20 +888,20 @@ The Metal Man
 :: Date
 1928-12
 
-:: Authors
-Jack Williamson
-
 :: Description
 A radium prospector is turned to metal.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Jack Williamson
+
+:: References
+https://archive.org/details/Amazing_Stories_v03n09_1928-12_Missing_ibcbc_AK/page/n25
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/Amazing_Stories_v03n09_1928-12_Missing_ibcbc_AK/page/n25
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 the dangers of radioactivity [The story centered around a radium prospector who got more than he bargained for while on an expedition to the radium rich El Rio de la Sangre (i.e. The River of Blood).],
@@ -922,20 +922,20 @@ The Captured Cross-section
 :: Date
 1929-02
 
-:: Authors
-Miles J. Breuer
-
 :: Description
 A man discovers that we are inhabiting a three-dimensional subspace of a four-dimensional reality. He goes on to experience the fourth-dimension in terms of three-dimensional cross sections.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Miles J. Breuer
+
+:: References
+https://en.wikipedia.org/wiki/Miles_J._Breuer
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/Miles_J._Breuer
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 four-dimensional space [The story follows Jiles Heagley as he searches for his fiancée Sheila in a four-dimensional world. This world he experiences in terms of three-dimensional cross sections. Also, it was populated by flesh-and-blood four-dimensional people.],
@@ -957,20 +957,20 @@ The Last Man
 :: Date
 1929-02
 
-:: Authors
-Wallace G. West
-
 :: Description
 The evolutionary descendants of the human race keep a man as a curiosity to behold.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Wallace G. West
+
+:: References
+https://en.wikipedia.org/wiki/Wallace_West
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/Wallace_West
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 what if I was held captive and made an exhibition object [M-1, who was the last man on Earth, was kept in a glass display case in a dusty museum.],
@@ -1000,21 +1000,21 @@ The Worm
 :: Date
 1929-03
 
-:: Authors
-David H. Keller
-
 :: Description
 A giant worm bores up through the basement floor of an old gristmill.
 
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+David H. Keller
 
 :: References
 https://en.wikipedia.org/wiki/David_H._Keller
 https://archive.org/details/AmazingStoriesVolume04Number04/page/n13/mode/2up
+
+:: Genre
+sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 monster [The story concerned a giant, stone devouring worm.],
@@ -1034,20 +1034,20 @@ Futility
 :: Date
 1929-07
 
-:: Authors
-S. P. Meek
-
 :: Description
 A man invents a machine that predicts future events with uncanny accuracy.
 
-:: Ratings
-4 <paul>,
+:: Authors
+S. P. Meek
+
+:: References
+https://en.wikipedia.org/wiki/S._P._Meek
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/S._P._Meek
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 one cannot cheat fate [Tom was resigned to the fact that he was fated to die in an automobile accident on the day of December 10th. Of this he was convinced because his predictograph machine had predicted it. And low and behold it came to pass.],
@@ -1071,21 +1071,21 @@ The Superperfect Bride
 :: Date
 1929-07
 
-:: Authors
-Bob Olsen
-
 :: Description
 A man meets in a supposedly surgically assembled composite woman the perfect bride.
 
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+Bob Olsen
 
 :: References
 https://en.wikipedia.org/wiki/Bob_Olsen
 https://archive.org/details/AmazingStoriesVolume04Number04/page/n13/mode/2up
+
+:: Genre
+sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 father and daughter [Doctor Goddard and his daughter Eve hatched an elaborate plot to court for her the man she loved.],
@@ -1114,20 +1114,20 @@ The Chamber of Life
 :: Date
 1929-10
 
-:: Authors
-G. Peyton Wertenbaker
-
 :: Description
 A man finds himself in a futuristic, technocratic utopia, remembering neither how he had arrived there or even what was his name.
 
-:: Ratings
-4 <paul>,
+:: Authors
+G. Peyton Wertenbaker
+
+:: References
+https://archive.org/stream/thechamberoflife25862gut/pg25862.txt
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/stream/thechamberoflife25862gut/pg25862.txt
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 technologically enabled utopia [Barrett spend six months living in a futuristic, technocratic utopia - mind you all of this was a simulated reality. It was a socialistic, or even communist system, in which machines pervaded every aspect of life.],
@@ -1150,21 +1150,21 @@ The Undersea Tube
 :: Date
 1929-11
 
-:: Authors
-L. Taylor Hansen
-
 :: Description
 A man makes a most surprising discovery while traversing a trans-Atlantic tunnel from New York to Liverpool.
 
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+L. Taylor Hansen
 
 :: References
 https://en.wikipedia.org/wiki/L._Taylor_Hansen
 https://www.gutenberg.org/files/27609/27609-h/27609-h.htm
+
+:: Genre
+sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 undersea tunnel [The main point of the story was to lay out how an undersea pneumatic tube from New York to Liverpool might function.],
@@ -1183,20 +1183,20 @@ A Baby on Neptune
 :: Date
 1929-12
 
-:: Authors
-Clare Winger Harris, Miles J. Breuer
-
 :: Description
 A radio transmission is received from Neptune, but a pair of pioneering astronauts find the planet to be a wasteland, seemingly devoid of life.
 
-:: Ratings
-4 <paul>,
+:: Authors
+Clare Winger Harris, Miles J. Breuer
+
+:: References
+https://archive.org/details/Amazing_Stories_v04n09_1929-12_-ifc_ibc_bc_sas/page/n23/mode/2up
 
 :: Genre
 sci-fi
 
-:: References
-https://archive.org/details/Amazing_Stories_v04n09_1929-12_-ifc_ibc_bc_sas/page/n23/mode/2up
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 Neptunian extraterrestrial [Humanity made contact with a gaseous physicist on Neptune, named Elzar, but communication was made difficult by the fact that it operated on a comparatively slow timescale.],
@@ -1226,21 +1226,21 @@ Letter of the Twenty-Fourth Century
 :: Date
 1929-12
 
-:: Authors
-Leslie F. Stone
-
 :: Description
 A 24th century man's letter to a friend describes in passing some of the progress made by humankind.
 
-:: Ratings
-4 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+Leslie F. Stone
 
 :: References
 https://en.wikipedia.org/wiki/Leslie_F._Stone
 https://archive.org/details/Amazing_Stories_v04n09_1929-12_-ifc_ibc_bc_sas/page/n91/mode/2up
+
+:: Genre
+sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 information technology in society [Harry described a system, much like the Internet, which enabled people to attend business meeting from home, have their children taught lesson by far away living teachers, watch movies, listen to music, read information from all around the world, and tune in on the "World Court" to learn of its decisions in real time.],
@@ -1261,21 +1261,21 @@ Vampires of the Desert
 :: Date
 1929-12
 
-:: Authors
-A. Hyatt Verrill
-
 :: Description
 A sudden change in the climatic conditions leads to the sprouting of an ancient species of man-eating plant.
 
-:: Ratings
-3 <paul>,
-
-:: Genre
-sci-fi
+:: Authors
+A. Hyatt Verrill
 
 :: References
 https://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
 https://archive.org/details/Amazing_Stories_v04n09_1929-12_-ifc_ibc_bc_sas/page/n7/mode/2up
+
+:: Genre
+sci-fi
+
+:: Ratings
+3 <paul>,
 
 :: Major Themes
 crackpot theory [The main idea of the story is that the seeds of some ancient man-eating plants sprouted and the resulting plants crept around, killing everyone.],

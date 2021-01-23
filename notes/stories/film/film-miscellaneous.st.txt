@@ -4,12 +4,12 @@ movie: A Farewell to Arms (1932)
 :: Title
 A Farewell to Arms
 
+:: Date
+1932
+
 :: Description
 A 1932 American film about a romantic love affair between an American
 ambulance driver and an English nurse in Italy during World War I.
-
-:: Date
-1932
 
 :: Genre
 drama
@@ -35,20 +35,20 @@ movie: Scrooge (1951)
 :: Title
 Scrooge
 
-:: Description
-A British film and an adaptation of Charles Dickens' A Christmas Carol (1843). It stars Alastair Sim as Ebenezer Scrooge, and was produced and directed by Brian Desmond Hurst, with a screenplay by Noel Langley. It was released as A Christmas Carol in the United States.
-
 :: Date
 1951-11-22
+
+:: Description
+A British film and an adaptation of Charles Dickens' A Christmas Carol (1843). It stars Alastair Sim as Ebenezer Scrooge, and was produced and directed by Brian Desmond Hurst, with a screenplay by Noel Langley. It was released as A Christmas Carol in the United States.
 
 :: References
 https://en.wikipedia.org/wiki/Scrooge_(1951_film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 drama, fantasy,
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 miserliness [Scrooge was the epitome of a miser.],
@@ -81,6 +81,9 @@ movie: Spartacus (1960)
 :: Title
 Spartacus
 
+:: Date
+1960-10-06
+
 :: Description
 Spartacus is a 1960 American epic historical drama film directed by Stanley
 Kubrick, written by Dalton Trumbo, and based on the novel of the same title by
@@ -92,17 +95,14 @@ for Best Supporting Actor, as slave trader Lentulus Batiatus, John Gavin as
 Julius Caesar, Jean Simmons as Varinia, Charles Laughton as Sempronius
 Gracchus, and Tony Curtis as Antoninus.
 
-:: Date
-1960-10-06
-
 :: References
 https://en.wikipedia.org/wiki/Spartacus_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 historical drama
+
+:: Ratings
+4 <paul>,
 
 :: Major Themes
 slavery [Spartacus led a slave revolt against the Romans.],
@@ -121,22 +121,22 @@ movie: The Leopard (1963)
 :: Title
 The Leopard
 
+:: Date
+1963-03-27
+
 :: Description
 The story follows The Prince Salina in 1860s Sicily, as he struggles to cope
 and come to terms with the social upheaval and the shift in power from old
 aristocracy to newly rich bourgeois.
 
-:: Date
-1963-03-27
-
 :: References
 https://en.wikipedia.org/wiki/The_Leopard_(1963_film)
 
-:: Ratings
-5 <Mikael>,
-
 :: Genre
 historical drama
+
+:: Ratings
+5 <Mikael>,
 
 :: Choice Themes
 coping with aging [the prince feels his age to the bones],
@@ -167,11 +167,11 @@ movie: Death on the Nile (1978)
 :: Title
 Death on the Nile
 
-:: Description
-Death on the Nile is a 1978 British mystery film based on Agatha Christie's 1937 novel of the same name, directed by John Guillermin and adapted by Anthony Shaffer. The film features the Belgian detective Hercule Poirot, played by Peter Ustinov, plus an all-star supporting cast including Maggie Smith, Angela Lansbury, Bette Davis, Mia Farrow, David Niven, George Kennedy and Jack Warden.
-
 :: Date
 1978-09-29
+
+:: Description
+Death on the Nile is a 1978 British mystery film based on Agatha Christie's 1937 novel of the same name, directed by John Guillermin and adapted by Anthony Shaffer. The film features the Belgian detective Hercule Poirot, played by Peter Ustinov, plus an all-star supporting cast including Maggie Smith, Angela Lansbury, Bette Davis, Mia Farrow, David Niven, George Kennedy and Jack Warden.
 
 :: References
 https://en.wikipedia.org/wiki/Death_on_the_Nile_(1978_film)
@@ -205,11 +205,11 @@ movie: Full Metal Jacket (1987)
 :: Title
 Full Metal Jacket
 
-:: Description
-Full Metal Jacket is a 1987 war film directed, co-written, and produced by Stanley Kubrick and starring Matthew Modine, R. Lee Ermey, Vincent D'Onofrio and Adam Baldwin. The screenplay by Kubrick, Michael Herr, and Gustav Hasford was based on Hasford's novel The Short-Timers (1979). The storyline follows a platoon of U.S. Marines through their boot camp training in Marine Corps Recruit Depot Parris Island, South Carolina, primarily focusing on two privates, Joker and Pyle, who struggle under their abusive drill instructor, Gunnery Sergeant Hartman, and the experiences of two of the platoon's Marines in Vietnamese cities of Da Nang and Huế during the Tet Offensive of the Vietnam War. The film's title refers to the full metal jacket bullet used by military servicemen. The film was released in the United States on June 26, 1987. It was the last of Kubrick's films to be released during his lifetime.
-
 :: Date
 1987-06-17
+
+:: Description
+Full Metal Jacket is a 1987 war film directed, co-written, and produced by Stanley Kubrick and starring Matthew Modine, R. Lee Ermey, Vincent D'Onofrio and Adam Baldwin. The screenplay by Kubrick, Michael Herr, and Gustav Hasford was based on Hasford's novel The Short-Timers (1979). The storyline follows a platoon of U.S. Marines through their boot camp training in Marine Corps Recruit Depot Parris Island, South Carolina, primarily focusing on two privates, Joker and Pyle, who struggle under their abusive drill instructor, Gunnery Sergeant Hartman, and the experiences of two of the platoon's Marines in Vietnamese cities of Da Nang and Huế during the Tet Offensive of the Vietnam War. The film's title refers to the full metal jacket bullet used by military servicemen. The film was released in the United States on June 26, 1987. It was the last of Kubrick's films to be released during his lifetime.
 
 :: References
 https://en.wikipedia.org/wiki/Full_Metal_Jacket
@@ -240,6 +240,9 @@ movie: Glory (1989)
 :: Title
 Glory
 
+:: Date
+1989-12-14
+
 :: Description
 The film is about one of the first military units of the Union Army, during
 the American Civil War, to consist entirely of African-American men (except
@@ -247,17 +250,14 @@ for its officers), as told from the point of view of Colonel Shaw, its white
 commanding officer. The regiment is known especially for its heroic actions at
 Fort Wagner.
 
-:: Date
-1989-12-14
-
 :: References
 https://en.wikipedia.org/wiki/Glory_(1989_film)
 
-:: Ratings
-4 <Mikael>,
-
 :: Genre
 historical drama
+
+:: Ratings
+4 <Mikael>,
 
 :: Choice Themes
 American Civil War [all part of this historical event],
@@ -282,22 +282,22 @@ movie: It (1990)
 :: Title
 It
 
+:: Date
+1990-11-18
+
 :: Description
 Seven kids, the losers club, work together to defeat a mysterious evil in the
 form of a clown who is killing children in their little town. 30 years later
 as they are adults, the evil comes back and must be confronted once again.
 
-:: Date
-1990-11-18
-
 :: References
 https://en.wikipedia.org/wiki/It_(miniseries)
 
-:: Ratings
-5 <Mikael>,
-
 :: Genre
 horror, fantasy
+
+:: Ratings
+5 <Mikael>,
 
 :: Choice Themes
 coping with post-traumatic stress [when seen as an allegory for coping with traumatic experiences in childhood],
@@ -334,20 +334,20 @@ movie: Naked Lunch (1991)
 :: Title
 Naked Lunch
 
-:: Description
-An exterminator comes under the delusion that he is a secret agent as a result of exposure to an insecticide. It is an adaptation of William S. Burroughs' 1959 novel of the same name.
-
 :: Date
 1991-12-27
+
+:: Description
+An exterminator comes under the delusion that he is a secret agent as a result of exposure to an insecticide. It is an adaptation of William S. Burroughs' 1959 novel of the same name.
 
 :: References
 https://en.wikipedia.org/wiki/Naked_Lunch_(film)
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 drama
+
+:: Ratings
+4 <paul>,
 
 :: Choice Themes
 delusional point of view [The viewer is shown the world through the eyes of a man who'd come under the delusion that he was a secret agent, who's boss was a giant talking beetle, as a result of exposure to an insecticide.],
@@ -374,11 +374,11 @@ movie: Howards End (1992)
 :: Title
 Howards End
 
-:: Description
-Howards End is a 1992 romantic drama film based upon the novel of the same name by E. M. Forster (published in 1910), a story of class relations in turn-of-the-20th-century Britain. The film — produced by Merchant Ivory Productions as their third adaptation of a Forster novel (following A Room with a View in 1985 and Maurice in 1987) — was the first film to be released by Sony Pictures Classics. The screenplay was written by Ruth Prawer Jhabvala, directed by James Ivory, and produced by Ismail Merchant.
-
 :: Date
 1992-03-13
+
+:: Description
+Howards End is a 1992 romantic drama film based upon the novel of the same name by E. M. Forster (published in 1910), a story of class relations in turn-of-the-20th-century Britain. The film — produced by Merchant Ivory Productions as their third adaptation of a Forster novel (following A Room with a View in 1985 and Maurice in 1987) — was the first film to be released by Sony Pictures Classics. The screenplay was written by Ruth Prawer Jhabvala, directed by James Ivory, and produced by Ismail Merchant.
 
 :: References
 https://en.wikipedia.org/wiki/Howards_End_(film)
@@ -410,6 +410,9 @@ movie: Scent of a Woman (1992)
 :: Title
 Scent of a Woman
 
+:: Date
+1992-12-23
+
 :: Description
 The story of a preparatory school student who takes a job as an assistant to
 an irritable, blind, medically retired Army officer. The film is a remake of
@@ -419,17 +422,14 @@ and from the 1974 screenplay by Ruggero Maccari and Dino Risi. The film stars
 Al Pacino and Chris O'Donnell, with James Rebhorn, Philip Seymour Hoffman and
 Gabrielle Anwar.
 
-:: Date
-1992-12-23
-
-:: Ratings
-5 <mikael>,
+:: References
+https://en.wikipedia.org/wiki/Scent_of_a_Woman_(1992_film)
 
 :: Genre
 drama
 
-:: References
-https://en.wikipedia.org/wiki/Scent_of_a_Woman_(1992_film)
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 contemplating suicide [Frank wanted to take his own life after a weekend of wild merrymaking],
@@ -457,12 +457,6 @@ The Merchant of Venice
 :: Date
 2004-12-03
 
-:: Ratings
-5 <mikael>,
-
-:: Genre
-drama
-
 :: Description
 The Merchant of Venice is a 2004 romantic drama film based on Shakespeare's
 play of the same name. It is the first full-length sound film in English of
@@ -481,6 +475,12 @@ been cast out of the Jewish ghetto in Venice.
 
 :: References
 https://en.wikipedia.org/wiki/The_Merchant_of_Venice_(2004_film)
+
+:: Genre
+drama
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 the desire for vengeance [towards the end Shylock refused an offered fortune to forgo his vengeance],
@@ -502,11 +502,11 @@ movie: Stardust (2007)
 :: Title
 Stardust
 
-:: Description
-Stardust is a 2007 romantic fantasy adventure film directed by Matthew Vaughn and co-written by Vaughn and Jane Goldman. Based on Neil Gaiman's 1999 novel of the same name, the film features an ensemble cast led by Claire Danes, Charlie Cox, Sienna Miller, Ricky Gervais, Jason Flemyng, Rupert Everett, Peter O'Toole, Michelle Pfeiffer, and Robert De Niro, with narration by Ian McKellen.
-
 :: Date
 2007-08-10
+
+:: Description
+Stardust is a 2007 romantic fantasy adventure film directed by Matthew Vaughn and co-written by Vaughn and Jane Goldman. Based on Neil Gaiman's 1999 novel of the same name, the film features an ensemble cast led by Claire Danes, Charlie Cox, Sienna Miller, Ricky Gervais, Jason Flemyng, Rupert Everett, Peter O'Toole, Michelle Pfeiffer, and Robert De Niro, with narration by Ian McKellen.
 
 :: References
 https://en.wikipedia.org/wiki/Stardust_(2007_film)
@@ -540,22 +540,22 @@ movie: Attack the Block (2011)
 :: Title
 Attack the Block
 
+:: Date
+2011-03-12
+
 :: Description
 A gang of hoodies in a run-down London block are up to no good when they come
 across an alien creature. They kill it but soon find themselves pursued by
 much more ferocious versions of the same thing.
 
-:: Date
-2011-03-12
-
 :: References
 https://en.wikipedia.org/wiki/Attack_the_Block
 
-:: Ratings
-3 <Mikael>,
-
 :: Genre
 sci-fi, action
+
+:: Ratings
+3 <Mikael>,
 
 :: Choice Themes
 facing a ferocious beast [they did with various implements],
@@ -578,6 +578,9 @@ movie: Imaginaerum (2012)
 :: Title
 Imaginaerum
 
+:: Date
+2012-11-23
+
 :: Description
 Imaginaerum (also promoted as Imaginaerum by Nightwish) is a 2012 Finnish-
 Canadian musical fantasy film co-written and directed by Stobe Harju. It was
@@ -586,9 +589,6 @@ Nightwish's seventh studio album of the same name; Nightwish's keyboardist and
 songwriter Tuomas Holopainen co-wrote the film. Imaginaerum, which is produced
 by Markus Selin from Solar Films Inc. along with Nightwish, is the feature
 film debut of Stobe Harju.
-
-:: Date
-2012-11-23
 
 :: References
 https://en.wikipedia.org/wiki/Imaginaerum_(film)
@@ -613,14 +613,14 @@ movie: Master of the Shadowless Kick: Wong Kei-Ying (2016)
 :: Title
 Master of the Shadowless Kick: Wong Kei-Ying
 
+:: Date
+2016-12-26
+
 :: Description
 A Kung-Fu movie set during the opium controversy in mid-19th century China.
 Wong Kei-ying is an honorable apothecary and martial artist who comes into
 conflict with both drug dealing gangs, greedy westerners and corrupt
 officials.
-
-:: Date
-2016-12-26
 
 :: Ratings
 2 <mikael>,
@@ -650,6 +650,9 @@ movie: The Monkey King 3 (2018)
 :: Title
 The Monkey King 3
 
+:: Date
+2018-02-16
+
 :: Description
 A 2018 Chinese fantasy film based on the classic novel Journey to the West by
 Wu Cheng'en. The film is the third installment of the Monkey King franchise,
@@ -657,14 +660,11 @@ after The Monkey King (2014) and The Monkey King 2 (2016). Directed by Cheang
 Pou-soi, it stars Aaron Kwok, Feng Shaofeng, Zhao Liying, Xiaoshenyang and Him
 Law.
 
-:: Date
-2018-02-16
+:: References
+https://en.wikipedia.org/wiki/The_Monkey_King_3
 
 :: Ratings
 4 <mikael>,
-
-:: References
-https://en.wikipedia.org/wiki/The_Monkey_King_3
 
 :: Choice Themes
 female-only society [The four heroes were thrown into a realm inhabited solely by women.],
@@ -681,20 +681,20 @@ movie: Parasite (2019)
 :: Title
 Parasite
 
-:: Description
-Parasite (Korean: 기생충; RR: Gisaengchung) is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who also co-wrote the screenplay with Han Jin-won. It stars Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, and Lee Jung-eun, and follows the members of a poor family who scheme to become employed by a wealthy family and infiltrate their household by posing as unrelated, highly qualified individuals.
-
 :: Date
 2019-05-21
+
+:: Description
+Parasite (Korean: 기생충; RR: Gisaengchung) is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who also co-wrote the screenplay with Han Jin-won. It stars Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, and Lee Jung-eun, and follows the members of a poor family who scheme to become employed by a wealthy family and infiltrate their household by posing as unrelated, highly qualified individuals.
 
 :: References
 https://en.wikipedia.org/wiki/Parasite_(2019_film)
 
-:: Ratings
-4 <mikael>,
-
 :: Genre
 Drama, Thriller, Comedy
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 social inequality [the story contrasted the rich Park family with the Poor Kim family, and then again with the completely impoverished Moon-gwang and Geun-sae],

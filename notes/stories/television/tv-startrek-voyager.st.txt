@@ -4,6 +4,9 @@ Collection: Star Trek: Voyager
 :: Title
 Star Trek: Voyager
 
+:: Date
+1995-2001
+
 :: Description
 Star Trek: Voyager is a science fiction television series set in the Star Trek
 universe that debuted in 1995 and ended its original run in 2001, with a
@@ -31,19 +34,16 @@ seasons), and Kenneth Biller (EP/showrunner – seventh season). Star Trek:
 Voyager aired on UPN and was the network's second-longest-running series. UPN
 itself would end its production run in 2006.
 
-:: Date
-1995-2001
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_Voyager
+
+:: Collections
+Collection: Star Trek: Voyager
 
 :: Major Themes
 interstellar space travel [Star Trek is all about zipping around in space, seeing what we can find, and building an intergalactic civilization],
 
 :: Minor Themes
-
-:: Collections
-Collection: Star Trek: Voyager
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_Voyager
 
 
 voy1x01/02
@@ -52,6 +52,9 @@ voy1x01/02
 :: Title
 Caretaker
 
+:: Date
+1995-01-16
+
 :: Description
 While searching for a missing Maquis ship with a Starfleet spy aboard, USS
 Voyager is swept away to the Delta Quadrant, more than 70,000 light-years from
@@ -59,9 +62,6 @@ home, by an incredibly powerful being known as the "Caretaker."
 
 Directed by: Winrich Kolbe. Story by: Rick Berman, Michael Piller and Jeri
 Taylor.
-
-:: Date
-1995-01-16
 
 :: Ratings
 3 <mikael>
@@ -120,15 +120,15 @@ voy1x03
 :: Title
 Parallax
 
+:: Date
+1995-01-23
+
 :: Description
 Voyager is trapped in a quantum singularity's event horizon, and Captain
 Janeway must decide between Lt. Carey and former Maquis B'Elanna Torres to be
 the new chief engineer.
 
 Directed by: Kim Friedman. Story by: Jim Trombetta.
-
-:: Date
-1995-01-23
 
 :: Ratings
 2 <mikael>
@@ -168,15 +168,15 @@ voy1x04
 :: Title
 Time and Again
 
+:: Date
+1995-01-30
+
 :: Description
 Investigating a planet just devastated by a polaric explosion, Janeway and
 Paris are engulfed by a subspace fracture and transported in time to before
 the accident.
 
 Directed by: Les Landau. Story by: David Kemper.
-
-:: Date
-1995-01-30
 
 :: Ratings
 3 <paul>
@@ -212,14 +212,14 @@ voy1x05
 :: Title
 Phage
 
+:: Date
+1995-02-06
+
 :: Description
 An organ-harvesting species known as the Vidiians steal Neelix's lungs,
 leaving him to die.
 
 Directed by: Winrich Kolbe. Story by: Timothy DeHaas.
-
-:: Date
-1995-02-06
 
 :: Ratings
 3 <mikael>
@@ -260,14 +260,14 @@ voy1x06
 :: Title
 The Cloud
 
+:: Date
+1995-02-13
+
 :: Description
 The crew enter a nebula to collect samples before realizing it is a living
 organism, but not before doing it injury.
 
 Directed by: David Livingston. Story by: Brannon Braga.
-
-:: Date
-1995-02-13
 
 :: Ratings
 2 <mikael>
@@ -312,14 +312,14 @@ voy1x07
 :: Title
 Eye of the Needle
 
+:: Date
+1995-02-20
+
 :: Description
 A micro-wormhole is discovered that leads to the Alpha Quadrant, and the crew
 make contact with a Romulan ship on the other side.
 
 Directed by: Winrich Kolbe. Story by: Hilary J. Bader.
-
-:: Date
-1995-02-20
 
 :: Ratings
 3 <mikael>
@@ -355,14 +355,14 @@ voy1x08
 :: Title
 Ex Post Facto
 
+:: Date
+1995-02-27
+
 :: Description
 Tom Paris is convicted of murder on an alien world, and his punishment is to
 witness the murder from the victim's perspective every 14 hours.
 
 Directed by: LeVar Burton. Story by: Evan Carlos Somers.
-
-:: Date
-1995-02-27
 
 :: Ratings
 3 <mikael>
@@ -407,14 +407,14 @@ voy1x09
 :: Title
 Emanations
 
+:: Date
+1995-03-13
+
 :: Description
 Harry Kim is transported to an alien world at the same time as a dead woman's
 body arrives on Voyager.
 
 Directed by: David Livingston. Story by: Brannon Braga.
-
-:: Date
-1995-03-13
 
 :: Ratings
 1 <mikael>
@@ -449,14 +449,14 @@ voy1x10
 :: Title
 Prime Factors
 
+:: Date
+1995-03-20
+
 :: Description
 A race that could shorten Voyager's journey with a transportation device will
 not share its technology.
 
 Directed by: Les Landau. Story by: David R. George III and Eric A. Stillwell.
-
-:: Date
-1995-03-20
 
 :: Ratings
 4 <mikael>
@@ -497,14 +497,14 @@ voy1x11
 :: Title
 State of Flux
 
+:: Date
+1995-04-10
+
 :: Description
 Janeway and the other senior officers attempt to flush out a spy who is
 sending information to the Kazon.
 
 Directed by: Robert Scheerer. Story by: Paul Robert Coyle.
-
-:: Date
-1995-04-10
 
 :: Ratings
 2 <mikael>
@@ -537,14 +537,14 @@ voy1x12
 :: Title
 Heroes and Demons
 
+:: Date
+1995-04-24
+
 :: Description
 The holographic doctor must rescue crew members who were turned to light
 energy in a Holodeck simulation of Beowulf.
 
 Directed by: Les Landau. Story by: Naren Shankar.
-
-:: Date
-1995-04-24
 
 :: Ratings
 2 <mikael>
@@ -581,15 +581,15 @@ voy1x13
 :: Title
 Cathexis
 
+:: Date
+1995-05-01
+
 :: Description
 A shuttlecraft with Chakotay and Tuvok aboard is attacked; Chakotay is left
 brain-dead, while Tuvok begins acting strangely. An unknown force begins
 controlling crewmembers.
 
 Directed by: Kim Friedman. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1995-05-01
 
 :: Ratings
 1 <mikael>
@@ -634,13 +634,13 @@ voy1x14
 :: Title
 Faces
 
+:: Date
+1995-05-08
+
 :: Description
 B'Elanna Torres is split into her human and Klingon halves by the Vidiians.
 
 Directed by: Winrich Kolbe. Story by: Jonathan Glassner and Kenneth Biller.
-
-:: Date
-1995-05-08
 
 :: Ratings
 3 <mikael>
@@ -677,15 +677,15 @@ voy1x15
 :: Title
 Jetrel
 
+:: Date
+1995-05-15
+
 :: Description
 A member of the Haakonians, a race warring with the Talaxians, arrives on
 Voyager, much to the dismay of Neelix, whose family was killed by a weapon of
 mass destruction this particular individual devised.
 
 Directed by: Kim Friedman. Story by: James Thomton and Scott Nimerfro.
-
-:: Date
-1995-05-15
 
 :: Ratings
 2 <mikael>
@@ -726,15 +726,15 @@ voy1x16
 :: Title
 Learning Curve
 
+:: Date
+1995-05-22
+
 :: Description
 Tuvok trains several Maquis members who have not fully integrated into the
 Voyager crew.
 
 Directed by: David Livingston. Story by: Ronald Wilkerson and Jean Louise
 Matthias.
-
-:: Date
-1995-05-22
 
 :: Ratings
 2 <mikael>
@@ -775,14 +775,14 @@ voy2x01
 :: Title
 The 37s
 
+:: Date
+1995-08-28
+
 :: Description
 A group of humans from the 1930s are found in stasis on a seemingly abandoned
 planet, including the lost Amelia Earhart.
 
 Directed by: James L. Conway. Story by: Jeri Taylor and Brannon Braga.
-
-:: Date
-1995-08-28
 
 :: Ratings
 1 <mikael>
@@ -825,14 +825,14 @@ voy2x02
 :: Title
 Initiations
 
+:: Date
+1995-09-04
+
 :: Description
 Chakotay encounters a Kazon youth who is on an initiation rite: to earn his
 name by killing an enemy or be killed in the attempt.
 
 Directed by: Winrich Kolbe. Story by: Kenneth Biller.
-
-:: Date
-1995-09-04
 
 :: Ratings
 -1 <mikael>
@@ -868,15 +868,15 @@ voy2x03
 :: Title
 Projections
 
+:: Date
+1995-09-11
+
 :: Description
 The Doctor becomes delusional after an accident, causing him to believe that
 he is a flesh-and-blood person and his time on USS Voyager is a holodeck
 program.
 
 Directed by: Jonathan Frakes. Story by: Brannon Braga.
-
-:: Date
-1995-09-11
 
 :: Ratings
 4 <mikael>
@@ -912,15 +912,15 @@ voy2x04
 :: Title
 Elogium
 
+:: Date
+1995-09-18
+
 :: Description
 Space-dwelling life-forms cause Kes to enter the Ocampan fertile phase called
 Elogium, putting pressure on her relationship with Neelix when she wants to
 have his child.
 
 Directed by: Winrich Kolbe. Story by: Jimmy Diggs and Steve J. Kay.
-
-:: Date
-1995-09-18
 
 :: Ratings
 1 <mikael>
@@ -955,14 +955,14 @@ voy2x05
 :: Title
 Non Sequitur
 
+:: Date
+1995-09-25
+
 :: Description
 Harry Kim wakes up in 24th century San Francisco with no record of him on
 Voyager.
 
 Directed by: David Livingston. Story by: Brannon Braga.
-
-:: Date
-1995-09-25
 
 :: Ratings
 1 <mikael>
@@ -997,13 +997,13 @@ voy2x06
 :: Title
 Twisted
 
+:: Date
+1995-10-02
+
 :: Description
 A region of space distorts the interior of Voyager.
 
 Directed by: Kim Friedman. Story by: Arnold Rudnick and Rich Hosek.
-
-:: Date
-1995-10-02
 
 :: Ratings
 2 <mikael>
@@ -1039,13 +1039,13 @@ voy2x07
 :: Title
 Parturition
 
+:: Date
+1995-10-09
+
 :: Description
 Neelix and Tom Paris fight over Kes, but are sent on an away mission together.
 
 Directed by: Jonathan Frakes. Story by: Tom Szollosi.
-
-:: Date
-1995-10-09
 
 :: Ratings
 -1 <mikael>
@@ -1084,14 +1084,14 @@ voy2x08
 :: Title
 Persistence of Vision
 
+:: Date
+1995-10-30
+
 :: Description
 The crew experiences hallucinations brought on by an alien that put them into
 a trance-like state.
 
 Directed by: James L. Conway. Story by: Jeri Taylor.
-
-:: Date
-1995-10-30
 
 :: Ratings
 1 <mikael>
@@ -1129,14 +1129,14 @@ voy2x09
 :: Title
 Tattoo
 
+:: Date
+1995-11-06
+
 :: Description
 Chakotay encounters non-humans who have the same tattoo on their foreheads
 that he has.
 
 Directed by: Alexander Singer. Story by: Larry Brody.
-
-:: Date
-1995-11-06
 
 :: Ratings
 1 <mikael>
@@ -1174,14 +1174,14 @@ voy2x10
 :: Title
 Cold Fire
 
+:: Date
+1995-11-13
+
 :: Description
 An Ocampan helps Kes with her mental abilities as the crew encounter a being
 who appears to be the Caretaker's female counterpart.
 
 Directed by: Cliff Bole. Story by: Anthony Williams.
-
-:: Date
-1995-11-13
 
 :: Ratings
 0 <mikael>
@@ -1226,14 +1226,14 @@ voy2x11
 :: Title
 Maneuvers
 
+:: Date
+1995-11-20
+
 :: Description
 Kazon Nistrim board Voyager and steal a transporter module in an attempt to
 unite the Kazon sects.
 
 Directed by: David Livingston. Story by: Kenneth Biller.
-
-:: Date
-1995-11-20
 
 :: Ratings
 1 <mikael>
@@ -1270,14 +1270,14 @@ voy2x12
 :: Title
 Resistance
 
+:: Date
+1995-11-27
+
 :: Description
 A mission to acquire Telerium goes wrong causing Tuvok and B'Elanna to be
 captured and believed to be with the resistance.
 
 Directed by: Winrich Kolbe. Story by: Michael Jan Friedman and Kevin J. Ryan.
-
-:: Date
-1995-11-27
 
 :: Ratings
 2 <mikael>
@@ -1313,14 +1313,14 @@ voy2x13
 :: Title
 Prototype
 
+:: Date
+1996-01-15
+
 :: Description
 The crew finds and reactivates a robot's body which was adrift in space only
 to find themselves in the middle of a war when B'Elanna is abducted.
 
 Directed by: Jonathan Frakes. Story by: Nicholas Corea.
-
-:: Date
-1996-01-15
 
 :: Ratings
 3 <mikael>
@@ -1359,14 +1359,14 @@ voy2x14
 :: Title
 Alliances
 
+:: Date
+1996-01-22
+
 :: Description
 Janeway attempts to form an alliance with the Kazon to improve Voyager's
 standing in the Delta Quadrant.
 
 Directed by: Les Landau. Story by: Jeri Taylor.
-
-:: Date
-1996-01-22
 
 :: Ratings
 1 <mikael>
@@ -1408,14 +1408,14 @@ voy2x15
 :: Title
 Threshold
 
+:: Date
+1996-01-29
+
 :: Description
 Tom Paris breaks the transwarp threshold in the Shuttlecraft Cochrane,
 designed to reach warp 10, but there are some peculiar side effects.
 
 Directed by: Alexander Singer. Story by: Michael De Luca.
-
-:: Date
-1996-01-29
 
 :: Ratings
 1 <mikael>
@@ -1454,14 +1454,14 @@ voy2x16
 :: Title
 Meld
 
+:: Date
+1996-02-05
+
 :: Description
 Crewman Lon Suder murders an Engineering crewman for no apparent reason. Tuvok
 mind melds with him to ascertain his motive.
 
 Directed by: Cliff Bole. Story by: Mike Sussman.
-
-:: Date
-1996-02-05
 
 :: Ratings
 2 <mikael>
@@ -1501,14 +1501,14 @@ voy2x17
 :: Title
 Dreadnought
 
+:: Date
+1996-02-12
+
 :: Description
 A highly advanced Cardassian AI missile that had been reprogrammed by B'Elanna
 Torres is found in the Delta Quadrant.
 
 Directed by: LeVar Burton. Story by: Gary Holland.
-
-:: Date
-1996-02-12
 
 :: Ratings
 2 <mikael>
@@ -1547,14 +1547,14 @@ voy2x18
 :: Title
 Death Wish
 
+:: Date
+1996-02-19
+
 :: Description
 The crew encounter a member of the Q Continuum seeking to end his immortal
 life.
 
 Directed by: James L. Conway. Story by: Shawn Piller.
-
-:: Date
-1996-02-19
 
 :: Ratings
 2 <mikael>
@@ -1594,13 +1594,13 @@ voy2x19
 :: Title
 Lifesigns
 
+:: Date
+1996-02-26
+
 :: Description
 The Doctor helps a Phage-ridden Vidiian woman.
 
 Directed by: Cliff Bole. Story by: Kenneth Biller.
-
-:: Date
-1996-02-26
 
 :: Ratings
 2 <mikael>
@@ -1649,14 +1649,14 @@ voy2x20
 :: Title
 Investigations
 
+:: Date
+1996-03-13
+
 :: Description
 Neelix tries to flush out the traitor on board who has been colluding with the
 Kazon Nistrim.
 
 Directed by: Les Landau. Story by: Jeff Schnaufer and Ed Bond.
-
-:: Date
-1996-03-13
 
 :: Ratings
 1 <mikael>
@@ -1689,14 +1689,14 @@ voy2x21
 :: Title
 Deadlock
 
+:: Date
+1996-03-18
+
 :: Description
 Attempting to evade the Vidiians, a duplicate Voyager is created after it
 passes through a spatial scission.
 
 Directed by: David Livingston. Story by: Brannon Braga.
-
-:: Date
-1996-03-18
 
 :: Ratings
 2 <mikael>
@@ -1732,13 +1732,13 @@ voy2x22
 :: Title
 Innocence
 
+:: Date
+1996-04-08
+
 :: Description
 Tuvok crash-lands on a moon and finds children who have been abandoned.
 
 Directed by: James L. Conway. Story by: Anthony Williams.
-
-:: Date
-1996-04-08
 
 :: Ratings
 2 <mikael>
@@ -1779,14 +1779,14 @@ voy2x23
 :: Title
 The Thaw
 
+:: Date
+1996-04-29
+
 :: Description
 The crew finds aliens mentally connected to a computer that has created a
 being that feeds on their fear.
 
 Directed by: Marvin V. Rush. Story by: Richard Gadas.
-
-:: Date
-1996-04-29
 
 :: Ratings
 4 <mikael>,4 <paul>
@@ -1823,13 +1823,13 @@ voy2x24
 :: Title
 Tuvix
 
+:: Date
+1996-05-06
+
 :: Description
 A transporter accident merges Tuvok and Neelix into a new person.
 
 Directed by: Cliff Bole. Story by: Andrew Shepard Price and Mark Gaberman.
-
-:: Date
-1996-05-06
 
 :: Ratings
 4 <mikael>
@@ -1865,14 +1865,14 @@ voy2x25
 :: Title
 Resolutions
 
+:: Date
+1996-05-13
+
 :: Description
 Janeway and Chakotay must adapt to life quarantined on a planet after they
 contract an incurable disease.
 
 Directed by: Alexander Singer. Story by: Jeri Taylor.
-
-:: Date
-1996-05-13
 
 :: Ratings
 2 <mikael>
@@ -1909,14 +1909,14 @@ voy2x26
 :: Title
 Basics, Part I
 
+:: Date
+1996-05-20
+
 :: Description
 Seska and the Kazon-Nistrim take control of Voyager and maroon its crew on a
 primitive planet.
 
 Directed by: Winrich Kolbe. Story by: Michael Piller.
-
-:: Date
-1996-05-20
 
 :: Ratings
 1 <mikael>
@@ -1956,14 +1956,14 @@ voy3x01
 :: Title
 Basics, Part II
 
+:: Date
+1996-09-04
+
 :: Description
 The crew must learn to survive on the inhospitable planet as the Doctor,
 Crewman Suder and Paris attempt to regain control of the ship.
 
 Directed by: Winrich Kolbe. Story by: Michael Piller.
-
-:: Date
-1996-09-04
 
 :: Ratings
 1 <mikael>
@@ -2001,15 +2001,15 @@ voy3x02
 :: Title
 Flashback
 
+:: Date
+1996-09-11
+
 :: Description
 Tuvok experiences brain-damaging flashbacks to his service on the Excelsior.
 He and the captain attempt to find the reason for the flashbacks, believed to
 be a suppressed memory, through a joint mindmeld.
 
 Directed by: David Livingston. Story by: Brannon Braga.
-
-:: Date
-1996-09-11
 
 :: Ratings
 3 <mikael>
@@ -2050,15 +2050,15 @@ voy3x03
 :: Title
 The Chute
 
+:: Date
+1996-09-18
+
 :: Description
 Tom Paris and Harry Kim are trapped in a prison. Tom gets stabbed trying to
 protect Kim, leaving him to try to find an escape plan alone. Simultaneously,
 Voyager is trying to find a way to prove their innocence.
 
 Directed by: Les Landau. Story by: Clayvon C. Harris.
-
-:: Date
-1996-09-18
 
 :: Ratings
 1 <mikael>
@@ -2092,15 +2092,15 @@ voy3x04
 :: Title
 The Swarm
 
+:: Date
+1996-09-25
+
 :: Description
 Voyager encounters a swarm of ships while trying to take a shortcut through a
 space belonging to a hostile species, while the Doctor begins to experience
 memory loss.
 
 Directed by: Alexander Singer. Story by: Mike Sussman.
-
-:: Date
-1996-09-25
 
 :: Ratings
 3 <mikael>
@@ -2133,14 +2133,14 @@ voy3x05
 :: Title
 False Profits
 
+:: Date
+1996-10-02
+
 :: Description
 The crew encounters the Delta Quadrant terminus of the Barzan wormhole...and
 the two Ferengi from "The Price" now posing as gods on a nearby planet.
 
 Directed by: Cliff Bole. Story by: George Brozak.
-
-:: Date
-1996-10-02
 
 :: Ratings
 1 <mikael>
@@ -2173,13 +2173,13 @@ voy3x06
 :: Title
 Remember
 
+:: Date
+1996-10-09
+
 :: Description
 B'Elanna experiences vivid dreams.
 
 Directed by: Winrich Kolbe. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1996-10-09
 
 :: Ratings
 1 <mikael>
@@ -2221,13 +2221,13 @@ voy3x07
 :: Title
 Sacred Ground
 
+:: Date
+1996-10-30
+
 :: Description
 Kes is left comatose after contacting an energy field around a rock.
 
 Directed by: Robert Duncan McNeill. Story by: Geo Cameron.
-
-:: Date
-1996-10-30
 
 :: Ratings
 2 <mikael>
@@ -2259,14 +2259,14 @@ voy3x08
 :: Title
 Future's End, Part I
 
+:: Date
+1996-11-06
+
 :: Description
 A 29th century timeship causes a time paradox when it accidentally sends
 itself and Voyager to two different periods in 20th century Earth.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1996-11-06
 
 :: Ratings
 0 <mikael>
@@ -2301,14 +2301,14 @@ voy3x09
 :: Title
 Future's End, Part II
 
+:: Date
+1996-11-13
+
 :: Description
 Janeway must prevent the destruction of the solar system by a 20th century
 entrepreneur who has acquired the timeship.
 
 Directed by: Cliff Bole. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1996-11-13
 
 :: Ratings
 0 <mikael>
@@ -2340,14 +2340,14 @@ voy3x10
 :: Title
 Warlord
 
+:: Date
+1996-11-20
+
 :: Description
 Kes is controlled by an alien warlord named Tieran.
 
 Directed by: David Livingston. Story by: Andrew Shepard Price and Mark
 Gaberman.
-
-:: Date
-1996-11-20
 
 :: Ratings
 0 <mikael>
@@ -2388,14 +2388,14 @@ voy3x11
 :: Title
 The Q and the Grey
 
+:: Date
+1996-11-27
+
 :: Description
 Q visits Voyager with a proposal for Janeway as civil war breaks out in the Q
 Continuum.
 
 Directed by: Cliff Bole. Story by: Shawn Piller.
-
-:: Date
-1996-11-27
 
 :: Ratings
 1 <mikael>
@@ -2431,15 +2431,15 @@ voy3x12
 :: Title
 Macrocosm
 
+:: Date
+1996-12-11
+
 :: Description
 Voyager answers help from a mining colony about a viral outbreak that manages
 to sneak onto Voyager through the transporter, leaving only Janeway and the
 Doctor to stop it.
 
 Directed by: Alexander Singer. Story by: Brannon Braga.
-
-:: Date
-1996-12-11
 
 :: Ratings
 1 <mikael>
@@ -2468,14 +2468,14 @@ voy3x13
 :: Title
 Fair Trade
 
+:: Date
+1997-01-08
+
 :: Description
 Voyager approaches the edge of Neelix's knowledge and a trading station.
 
 Directed by: Jesús Salvador Treviño. Story by: Ronald Wilkerson and Jean
 Louise Matthias.
-
-:: Date
-1997-01-08
 
 :: Ratings
 0 <mikael>
@@ -2512,14 +2512,14 @@ voy3x14
 :: Title
 Alter Ego
 
+:: Date
+1997-01-15
+
 :: Description
 The crew enjoys a luau on the holodeck and Tuvok discovers an unusual
 hologram.
 
 Directed by: Robert Picardo. Story by: Joe Menosky.
-
-:: Date
-1997-01-15
 
 :: Ratings
 2 <mikael>
@@ -2556,14 +2556,14 @@ voy3x15
 :: Title
 Coda
 
+:: Date
+1997-01-29
+
 :: Description
 Janeway appears to be trapped in a time loop with different events, but all
 ending in her death.
 
 Directed by: Nancy Malone. Story by: Jeri Taylor.
-
-:: Date
-1997-01-29
 
 :: Ratings
 0 <mikael>
@@ -2607,13 +2607,13 @@ voy3x16
 :: Title
 Blood Fever
 
+:: Date
+1997-02-05
+
 :: Description
 Vorik passes on the Pon farr to B'Elanna.
 
 Directed by: Andrew Robinson. Story by: Lisa Klink.
-
-:: Date
-1997-02-05
 
 :: Ratings
 2 <mikael>
@@ -2655,15 +2655,15 @@ voy3x17
 :: Title
 Unity
 
+:: Date
+1997-02-12
+
 :: Description
 Chakotay answers a call for help on a planet and finds himself in the middle
 of a shoot-out between two groups of people. Meanwhile, the Voyager crew
 discovers an abandoned Borg ship.
 
 Directed by: Robert Duncan McNeill. Story by: Kenneth Biller.
-
-:: Date
-1997-02-12
 
 :: Ratings
 1 <mikael>
@@ -2694,14 +2694,14 @@ voy3x18
 :: Title
 Darkling
 
+:: Date
+1997-02-19
+
 :: Description
 The Doctor tries to graft other personalities into his program, but the
 resulting 'upgrade' causes him to develop an evil alternate personality.
 
 Directed by: Alexander Singer. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1997-02-19
 
 :: Ratings
 1 <mikael>
@@ -2739,14 +2739,14 @@ voy3x19
 :: Title
 Rise
 
+:: Date
+1997-02-26
+
 :: Description
 Voyager helps a planet with asteroid problems. Tuvok and Neelix crash-land on
 the planet and attempt to fix a maglev space elevator.
 
 Directed by: Robert Scheerer. Story by: Jimmy Diggs.
-
-:: Date
-1997-02-26
 
 :: Ratings
 1 <mikael>
@@ -2783,13 +2783,13 @@ voy3x20
 :: Title
 Favorite Son
 
+:: Date
+1997-03-19
+
 :: Description
 Harry Kim is drawn to a planet that is nearly all women.
 
 Directed by: Marvin V. Rush. Story by: Lisa Klink.
-
-:: Date
-1997-03-19
 
 :: Ratings
 1 <mikael>
@@ -2827,14 +2827,14 @@ voy3x21
 :: Title
 Before and After
 
+:: Date
+1997-04-09
+
 :: Description
 Shortly before her death in the future, Kes begins to travel backwards in
 time, with a portion of events occurring in the Year of Hell.
 
 Directed by: Allan Kroeker. Story by: Kenneth Biller.
-
-:: Date
-1997-04-09
 
 :: Ratings
 0 <mikael>
@@ -2867,13 +2867,13 @@ voy3x22
 :: Title
 Real Life
 
+:: Date
+1997-04-23
+
 :: Description
 The Doctor creates a family on the holodeck.
 
 Directed by: Anson Williams. Story by: Harry 'Doc' Kloor.
-
-:: Date
-1997-04-23
 
 :: Ratings
 3 <mikael>
@@ -2920,15 +2920,15 @@ voy3x23
 :: Title
 Distant Origin
 
+:: Date
+1997-04-30
+
 :: Description
 A reptilian scientist trying to prove his heretical theories kidnaps Chakotay
 and draws the entire crew in conflict between his race's doctrine and the
 startling truth about its origin.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1997-04-30
 
 :: Ratings
 3 <mikael>
@@ -2977,13 +2977,13 @@ voy3x24
 :: Title
 Displaced
 
+:: Date
+1997-05-07
+
 :: Description
 Crew members are replaced one-by-one with aliens from an unknown race.
 
 Directed by: Allan Kroeker. Story by: Lisa Klink.
-
-:: Date
-1997-05-07
 
 :: Ratings
 1 <mikael>
@@ -3011,14 +3011,14 @@ voy3x25
 :: Title
 Worst Case Scenario
 
+:: Date
+1997-05-14
+
 :: Description
 B'Elanna Torres discovers a holodeck program where Chakotay and the Maquis
 rebel against Janeway.
 
 Directed by: Alexander Singer. Story by: Kenneth Biller.
-
-:: Date
-1997-05-14
 
 :: Ratings
 2 <mikael>
@@ -3051,14 +3051,14 @@ voy3x26
 :: Title
 Scorpion, Part I
 
+:: Date
+1997-05-21
+
 :: Description
 Voyager must pass through Borg space, only to discover a new alien race that
 is even deadlier than the Borg.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1997-05-21
 
 :: Ratings
 1 <mikael>
@@ -3096,15 +3096,15 @@ voy4x01
 :: Title
 Scorpion, Part II
 
+:: Date
+1997-09-03
+
 :: Description
 Janeway and Tuvok work with the Borg and meet Seven of Nine as they
 collaborate on developing a weapon against Species 8472 in exchange for safe
 passage through Borg space.
 
 Directed by: Winrich Kolbe. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1997-09-03
 
 :: Ratings
 1 <mikael>
@@ -3134,13 +3134,13 @@ voy4x02
 :: Title
 The Gift
 
+:: Date
+1997-09-10
+
 :: Description
 Kes' mental abilities develop to a point where they endanger Voyager.
 
 Directed by: Anson Williams. Story by: Joe Menosky.
-
-:: Date
-1997-09-10
 
 :: Ratings
 1 <mikael>
@@ -3177,14 +3177,14 @@ voy4x03
 :: Title
 Day of Honor
 
+:: Date
+1997-09-17
+
 :: Description
 B'Elanna tries to observe the Klingon Day of Honor after the warp core is
 lost.
 
 Directed by: Jesús Salvador Treviño. Story by: Jeri Taylor.
-
-:: Date
-1997-09-17
 
 :: Ratings
 2 <mikael>
@@ -3221,13 +3221,13 @@ voy4x04
 :: Title
 Nemesis
 
+:: Date
+1997-09-24
+
 :: Description
 Chakotay helps fight in an alien war.
 
 Directed by: Alexander Singer. Story by: Kenneth Biller.
-
-:: Date
-1997-09-24
 
 :: Ratings
 3 <mikael>
@@ -3261,14 +3261,14 @@ voy4x05
 :: Title
 Revulsion
 
+:: Date
+1997-10-01
+
 :: Description
 A hologram contacts Voyager and the Doctor is excited to meet another
 hologram.
 
 Directed by: Kenneth Biller. Story by: Lisa Klink.
-
-:: Date
-1997-10-01
 
 :: Ratings
 1 <mikael>
@@ -3306,14 +3306,14 @@ voy4x06
 :: Title
 The Raven
 
+:: Date
+1997-10-08
+
 :: Description
 Seven of Nine experiences Borg flashbacks as she attempts to become more
 human.
 
 Directed by: LeVar Burton. Story by: Bryan Fuller.
-
-:: Date
-1997-10-08
 
 :: Ratings
 1 <mikael>
@@ -3349,14 +3349,14 @@ voy4x07
 :: Title
 Scientific Method
 
+:: Date
+1997-10-29
+
 :: Description
 The crew have unexplained illnesses as they are closely observed by unseen
 intruders.
 
 Directed by: David Livingston. Story by: Sherry Klein and Harry 'Doc' Kloor.
-
-:: Date
-1997-10-29
 
 :: Ratings
 4 <mikael>
@@ -3394,15 +3394,15 @@ voy4x08
 :: Title
 Year of Hell, Part I
 
+:: Date
+1997-11-05
+
 :: Description
 Voyager creates a new Astrometrics lab, which maps a new course that brings
 them into contact with a Krenim temporal ship that can erase things from
 history.
 
 Directed by: Allan Kroeker. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1997-11-05
 
 :: Ratings
 1 <mikael>
@@ -3444,15 +3444,15 @@ voy4x09
 :: Title
 Year of Hell, Part II
 
+:: Date
+1997-11-12
+
 :: Description
 A badly damaged Voyager hides in a nebula as a skeleton crew attempts repairs;
 meanwhile the Krenim commander proposes a compromise to Chakotay and Tom
 Paris.
 
 Directed by: Mike Vejar. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1997-11-12
 
 :: Ratings
 1 <mikael>
@@ -3487,14 +3487,14 @@ voy4x10
 :: Title
 Random Thoughts
 
+:: Date
+1997-11-19
+
 :: Description
 Torres is arrested while visiting a world of telepaths where violent thoughts
 are a crime.
 
 Directed by: Alexander Singer. Story by: Kenneth Biller.
-
-:: Date
-1997-11-19
 
 :: Ratings
 3 <mikael>
@@ -3533,14 +3533,14 @@ voy4x11
 :: Title
 Concerning Flight
 
+:: Date
+1997-11-26
+
 :: Description
 Aliens steal several key components of Voyager, which are retrieved with
 assistance from a holographic Leonardo da Vinci.
 
 Directed by: Jesús Salvador Treviño. Story by: Jimmy Diggs and Joe Menosky.
-
-:: Date
-1997-11-26
 
 :: Ratings
 1 <mikael>
@@ -3574,15 +3574,15 @@ voy4x12
 :: Title
 Mortal Coil
 
+:: Date
+1997-12-17
+
 :: Description
 Neelix dies in an attempt to sample proto-matter from a nebula. Seven of Nine
 helps resuscitate him using Borg nanoprobes, but Neelix, having no memory of
 an afterlife of any kind, experiences a spiritual crisis.
 
 Directed by: Allan Kroeker. Story by: Bryan Fuller.
-
-:: Date
-1997-12-17
 
 :: Ratings
 1 <mikael>
@@ -3622,15 +3622,15 @@ voy4x13
 :: Title
 Waking Moments
 
+:: Date
+1998-01-14
+
 :: Description
 The crew becomes trapped in a shared nightmare generated by alien technology.
 Only Chakotay, through his Native American spiritual capabilities, can save
 them.
 
 Directed by: Alexander Singer. Story by: André Bormanis.
-
-:: Date
-1998-01-14
 
 :: Ratings
 2 <Mikael>
@@ -3667,6 +3667,9 @@ voy4x14
 :: Title
 Message in a Bottle
 
+:: Date
+1998-01-21
+
 :: Description
 The Doctor's program is sent to an advanced Starfleet vessel via a vast
 ancient communications network, but he soon discovers that only he and the
@@ -3674,9 +3677,6 @@ ship's own EMH remain to fight against Romulans who have taken over the ship
 and are attempting to return to Romulan space with it.
 
 Directed by: Nancy Malone. Story by: Rick Williams.
-
-:: Date
-1998-01-21
 
 :: Ratings
 3 <Mikael>
@@ -3708,14 +3708,14 @@ voy4x15
 :: Title
 Hunters
 
+:: Date
+1998-02-11
+
 :: Description
 A transmission from Starfleet Command gets held at a Hirogen relay station and
 Janeway sets course to retrieve it.
 
 Directed by: David Livingston. Story by: Jeri Taylor.
-
-:: Date
-1998-02-11
 
 :: Ratings
 2 <Mikael>
@@ -3749,14 +3749,14 @@ voy4x16
 :: Title
 Prey
 
+:: Date
+1998-02-18
+
 :: Description
 Voyager rescues a Hirogen survivor who tells them a new kind of prey is on the
 loose.
 
 Directed by: Allan Eastman. Story by: Brannon Braga.
-
-:: Date
-1998-02-18
 
 :: Ratings
 1 <Mikael>
@@ -3791,6 +3791,9 @@ voy4x17
 :: Title
 Retrospect
 
+:: Date
+1998-02-25
+
 :: Description
 After experiencing unsettling hallucinations, Seven of Nine is hypnotized by
 the Doctor whose analysis reveals a trader might have extracted Borg
@@ -3798,9 +3801,6 @@ technology from Seven without her consent.
 
 Directed by: Jesús Salvador Treviño. Story by: Andrew Shepard Price and Mark
 Gaberman.
-
-:: Date
-1998-02-25
 
 :: Ratings
 2 <paul>
@@ -3836,15 +3836,15 @@ voy4x18
 :: Title
 The Killing Game
 
+:: Date
+1998-03-04
+
 :: Description
 The Hirogen implant devices into the crew making them believe they are
 characters within the holodecks being used for hunts, all set in World War II
 Europe.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1998-03-04
 
 :: Ratings
 2 <paul>
@@ -3880,15 +3880,15 @@ voy4x19
 :: Title
 The Killing Game
 
+:: Date
+1998-03-04
+
 :: Description
 The Hirogen implant devices into the crew making them believe they are
 characters within the holodecks being used for hunts, all set in World War II
 Europe.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1998-03-04
 
 :: Ratings
 2 <paul>
@@ -3929,15 +3929,15 @@ voy4x20
 :: Title
 Vis à Vis
 
+:: Date
+1998-04-08
+
 :: Description
 An alien shuttle with a prototype propulsion system suddenly appears and
 requires assistance. Paris is restless and volunteers to help the pilot,
 Steth, repair the shuttle.
 
 Directed by: Jesús Salvador Treviño. Story by: Robert J. Doherty.
-
-:: Date
-1998-04-08
 
 :: Ratings
 2 <paul>
@@ -3970,14 +3970,14 @@ voy4x21
 :: Title
 The Omega Directive
 
+:: Date
+1998-04-15
+
 :: Description
 Janeway undertakes the Omega Directive, an order to destroy Omega molecules,
 even if it means violating the Prime Directive.
 
 Directed by: Victor Lobl. Story by: Jimmy Diggs and Steve J. Kay.
-
-:: Date
-1998-04-15
 
 :: Ratings
 1 <paul>
@@ -4010,14 +4010,14 @@ voy4x22
 :: Title
 Unforgettable
 
+:: Date
+1998-04-22
+
 :: Description
 An alien female from a cloaked ship asks for Chakotay by name and requests
 asylum on Voyager from her people.
 
 Directed by: Andrew Robinson. Story by: Greg Elliot and Michael Perricone.
-
-:: Date
-1998-04-22
 
 :: Ratings
 1 <paul>
@@ -4047,14 +4047,14 @@ voy4x23
 :: Title
 Living Witness
 
+:: Date
+1998-04-29
+
 :: Description
 A Kyrian museum curator 700 years in the future hopes a Voyager relic
 containing a copy of the Doctor can confirm their version of history.
 
 Directed by: Tim Russ. Story by: Brannon Braga.
-
-:: Date
-1998-04-29
 
 :: Ratings
 4 <paul>
@@ -4093,14 +4093,14 @@ voy4x24
 :: Title
 Demon
 
+:: Date
+1998-05-06
+
 :: Description
 Tom Paris and Harry Kim take a shuttle down to an extremely inhospitable
 planet to obtain fuel.
 
 Directed by: Anson Williams. Story by: André Bormanis.
-
-:: Date
-1998-05-06
 
 :: Ratings
 3 <paul>
@@ -4138,15 +4138,15 @@ voy4x25
 :: Title
 One
 
+:: Date
+1998-05-13
+
 :: Description
 Seven of Nine is left alone on Voyager when a nebula's deadly radiation forces
 the rest of the crew to stay in stasis and the Doctor's hologram projectors
 are disrupted.
 
 Directed by: Kenneth Biller. Story by: Jeri Taylor.
-
-:: Date
-1998-05-13
 
 :: Ratings
 2 <paul>
@@ -4179,6 +4179,9 @@ voy4x26
 :: Title
 Hope and Fear
 
+:: Date
+1998-05-20
+
 :: Description
 Paris and Neelix return from a mission with a passenger named Arturis who
 knows more than 4,000 languages. He manages to decode a message from Starfleet
@@ -4186,9 +4189,6 @@ that could lead to a way home.
 
 Directed by: Winrich Kolbe. Story by: Rick Berman, Brannon Braga and Joe
 Menosky.
-
-:: Date
-1998-05-20
 
 :: Ratings
 0 <mikael>
@@ -4217,14 +4217,14 @@ voy5x01
 :: Title
 Night
 
+:: Date
+1998-10-14
+
 :: Description
 Voyager loses power traversing a dark region of space containing theta
 radiation.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1998-10-14
 
 :: Ratings
 0 <mikael>
@@ -4260,15 +4260,15 @@ voy5x02
 :: Title
 Drone
 
+:: Date
+1998-10-21
+
 :: Description
 The Doctor's mobile emitter is damaged while beaming back from an away
 mission, merging with Seven of Nine's Borg nanoprobes and the DNA of a male
 Ensign to create a 29th century Borg.
 
 Directed by: Les Landau. Story by: Bryan Fuller and Harry 'Doc' Kloor.
-
-:: Date
-1998-10-21
 
 :: Ratings
 1 <mikael>
@@ -4303,14 +4303,14 @@ voy5x03
 :: Title
 Extreme Risk
 
+:: Date
+1998-10-28
+
 :: Description
 B'Elanna purposely puts herself into increasingly dangerous situations.
 Meanwhile the crew decides to build a new shuttlecraft, the Delta Flyer.
 
 Directed by: Cliff Bole. Story by: Kenneth Biller.
-
-:: Date
-1998-10-28
 
 :: Ratings
 0 <mikael>
@@ -4345,13 +4345,13 @@ voy5x04
 :: Title
 In the Flesh
 
+:: Date
+1998-11-04
+
 :: Description
 The ship encounters a training facility for an alien invasion of Earth.
 
 Directed by: David Livingston. Story by: Nick Sagan.
-
-:: Date
-1998-11-04
 
 :: Ratings
 1 <mikael>
@@ -4386,14 +4386,14 @@ voy5x05
 :: Title
 Once Upon a Time
 
+:: Date
+1998-11-11
+
 :: Description
 Neelix looks after Naomi Wildman when her mother is injured on an away
 mission.
 
 Directed by: John Kretchmer. Story by: Michael Taylor.
-
-:: Date
-1998-11-11
 
 :: Ratings
 1 <mikael>
@@ -4424,15 +4424,15 @@ voy5x06
 :: Title
 Timeless
 
+:: Date
+1998-11-18
+
 :: Description
 Fifteen years in the future, Chakotay and Harry Kim attempt to prevent the
 Voyager from crash-landing on an ice planet.
 
 Directed by: LeVar Burton. Story by: Rick Berman and Brannon Braga and Joe
 Menosky.
-
-:: Date
-1998-11-18
 
 :: Ratings
 1 <paul>
@@ -4464,15 +4464,15 @@ voy5x07
 :: Title
 Infinite Regress
 
+:: Date
+1998-11-25
+
 :: Description
 When Voyager brings aboard an advanced piece of Borg technology from a
 salvaged Borg cube, Seven of Nine begins to take on the personalities of the
 people assimilated by the cube.
 
 Directed by: David Livingston. Story by: Robert J. Doherty and Jimmy Diggs.
-
-:: Date
-1998-11-25
 
 :: Ratings
 0 <mikael
@@ -4499,14 +4499,14 @@ voy5x08
 :: Title
 Nothing Human
 
+:: Date
+1998-12-02
+
 :: Description
 A wounded alien is brought on board from a stranded vessel and attaches itself
 to B'Elanna Torres.
 
 Directed by: David Livingston. Story by: Jeri Taylor.
-
-:: Date
-1998-12-02
 
 :: Ratings
 2 <mikael>
@@ -4546,14 +4546,14 @@ voy5x09
 :: Title
 Thirty Days
 
+:: Date
+1998-12-09
+
 :: Description
 Tom Paris disregards orders by helping an aquatic world and is demoted to
 Ensign.
 
 Directed by: Winrich Kolbe. Story by: Scott Miller.
-
-:: Date
-1998-12-09
 
 :: Ratings
 3 <paul>
@@ -4601,14 +4601,14 @@ voy5x10
 :: Title
 Counterpoint
 
+:: Date
+1998-12-16
+
 :: Description
 While passing through Devore space, Voyager is routinely searched for
 telepaths.
 
 Directed by: Les Landau. Story by: Michael Taylor.
-
-:: Date
-1998-12-16
 
 :: Ratings
 1 <mikael>
@@ -4645,14 +4645,14 @@ voy5x11
 :: Title
 Latent Image
 
+:: Date
+1999-01-20
+
 :: Description
 The Doctor finds out that some of his memories have been blocked.
 
 Directed by: Mike Vejar. Story by: Eileen Connors, Brannon Braga and Joe
 Menosky.
-
-:: Date
-1999-01-20
 
 :: Ratings
 3 <mikael>
@@ -4687,14 +4687,14 @@ voy5x12
 :: Title
 Bride of Chaotica!
 
+:: Date
+1999-01-27
+
 :: Description
 Paris' latest holodeck adventure The Adventures of Captain Proton takes an
 unexpected turn.
 
 Directed by: Allan Kroeker. Story by: Bryan Fuller.
-
-:: Date
-1999-01-27
 
 :: Ratings
 4 <paul>
@@ -4724,15 +4724,15 @@ voy5x13
 :: Title
 Gravity
 
+:: Date
+1999-02-03
+
 :: Description
 Tuvok and Paris crash on a planet stuck in a pocket of subspace, where they
 meet a female named Noss.
 
 Directed by: Terry Windell. Story by: Jimmy Diggs, Bryan Fuller and Nick
 Sagan.
-
-:: Date
-1999-02-03
 
 :: Ratings
 2 <paul>
@@ -4766,14 +4766,14 @@ voy5x14
 :: Title
 Bliss
 
+:: Date
+1999-02-10
+
 :: Description
 A large organism telepathically deceives the Voyager crew into flying into its
 digestive chamber.
 
 Directed by: Cliff Bole. Story by: Bill Prady.
-
-:: Date
-1999-02-10
 
 :: Ratings
 4 <paul>
@@ -4811,6 +4811,9 @@ voy5x15-16
 :: Title
 Dark Frontier
 
+:: Date
+1999-02-17
+
 :: Description
 Janeway plans to steal a transwarp coil from a disabled Borg ship to shorten
 their journey home. Seven of Nine experiences memories of her past just before
@@ -4822,9 +4825,6 @@ humanity.)
 Directed by: Cliff Bole
 
 Terry Windell. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1999-02-17
 
 :: Ratings
 1 <paul>
@@ -4867,14 +4867,14 @@ voy5x17
 :: Title
 The Disease
 
+:: Date
+1999-02-24
+
 :: Description
 Kim finds love when the crew encounters a Varro generational ship that needs
 assistance repairing its warp drive.
 
 Directed by: David Livingston. Story by: Kenneth Biller.
-
-:: Date
-1999-02-24
 
 :: Ratings
 2 <paul>
@@ -4917,14 +4917,14 @@ voy5x18
 :: Title
 Course: Oblivion
 
+:: Date
+1999-03-03
+
 :: Description
 After Torres and Paris get married, subspace radiation causes the crew and
 their ship to disintegrate.
 
 Directed by: Anson Williams. Story by: Bryan Fuller.
-
-:: Date
-1999-03-03
 
 :: Ratings
 5 <paul>
@@ -4961,14 +4961,14 @@ voy5x19
 :: Title
 The Fight
 
+:: Date
+1999-03-24
+
 :: Description
 Chakotay lies in sickbay as he attempts to communicate with aliens through
 hallucinations.
 
 Directed by: Winrich Kolbe. Story by: Michael Taylor.
-
-:: Date
-1999-03-24
 
 :: Ratings
 3 <paul>
@@ -5006,13 +5006,13 @@ voy5x20
 :: Title
 Think Tank
 
+:: Date
+1999-03-31
+
 :: Description
 Voyager is being chased by the Hazari when a think tank offers assistance.
 
 Directed by: Terrence O'Hara. Story by: Rick Berman and Brannon Braga.
-
-:: Date
-1999-03-31
 
 :: Ratings
 4 <paul>
@@ -5040,14 +5040,14 @@ voy5x21
 :: Title
 Juggernaut
 
+:: Date
+1999-04-26
+
 :: Description
 The crew responds to a distress call from Malon escape pods contaminated with
 radiation.
 
 Directed by: Allan Kroeker. Story by: Bryan Fuller.
-
-:: Date
-1999-04-26
 
 :: Ratings
 3 <paul>
@@ -5082,13 +5082,13 @@ voy5x22
 :: Title
 Someone to Watch Over Me
 
+:: Date
+1999-04-28
+
 :: Description
 Seven of Nine explores dating with some help from the Doctor.
 
 Directed by: Robert Duncan McNeill. Story by: Brannon Braga.
-
-:: Date
-1999-04-28
 
 :: Ratings
 3 <paul>
@@ -5123,13 +5123,13 @@ voy5x23
 :: Title
 11:59
 
+:: Date
+1999-05-05
+
 :: Description
 Janeway reminisces about one of her ancestors, Shannon O'Donnell from Indiana.
 
 Directed by: David Livingston. Story by: Brannon Braga and Joe Menosky.
-
-:: Date
-1999-05-05
 
 :: Ratings
 4 <paul>
@@ -5167,13 +5167,13 @@ voy5x24
 :: Title
 Relativity
 
+:: Date
+1999-05-12
+
 :: Description
 Captain Braxton recruits Seven of Nine to stop Voyager being sabotaged.
 
 Directed by: Allan Eastman. Story by: Nick Sagan.
-
-:: Date
-1999-05-12
 
 :: Ratings
 1 <paul>
@@ -5204,15 +5204,15 @@ voy5x25
 :: Title
 Warhead
 
+:: Date
+1999-05-19
+
 :: Description
 The crew rescues a device with artificial intelligence embedded in rock, that
 then proceeds to take control of The Doctor and reveals itself to be a weapon
 of mass destruction.
 
 Directed by: John Kretchmer. Story by: Brannon Braga.
-
-:: Date
-1999-05-19
 
 :: Ratings
 2 <paul>
@@ -5246,15 +5246,15 @@ voy5x26
 :: Title
 Equinox, Part I
 
+:: Date
+1999-05-26
+
 :: Description
 Voyager finds another Federation ship, the USS Equinox, under attack from
 flying nucleogenic lifeforms.
 
 Directed by: David Livingston. Story by: Rick Berman, Brannon Braga and Joe
 Menosky.
-
-:: Date
-1999-05-26
 
 :: Ratings
 3 <paul>
@@ -5298,15 +5298,15 @@ voy6x01
 :: Title
 Equinox, Part II
 
+:: Date
+1999-09-22
+
 :: Description
 The crew of the USS Equinox attempts to elude the USS Voyager in order to
 exploit the nucleogenic lifeforms in a bid to return home.
 
 Directed by: David Livingston. Story by: Rick Berman, Brannon Braga and Joe
 Menosky.
-
-:: Date
-1999-09-22
 
 :: Ratings
 3 <paul>
@@ -5345,14 +5345,14 @@ voy6x02
 :: Title
 Survival Instinct
 
+:: Date
+1999-09-29
+
 :: Description
 Three Borg from Seven's past appear, and ask to be completely separated from
 the Collective.
 
 Directed by: Terry Windell. Story by: Ronald D. Moore.
-
-:: Date
-1999-09-29
 
 :: Ratings
 2 <paul>
@@ -5382,14 +5382,14 @@ voy6x03
 :: Title
 Barge of the Dead
 
+:: Date
+1999-10-06
+
 :: Description
 B'Elanna's shuttle is hit by an ion storm and she awakens to find herself
 among Klingons in the Barge of the Dead, on the way to Klingon Hell.
 
 Directed by: Mike Vejar. Story by: Ronald D. Moore and Bryan Fuller.
-
-:: Date
-1999-10-06
 
 :: Ratings
 1 <paul>
@@ -5420,6 +5420,9 @@ voy6x04
 :: Title
 Tinker, Tenor, Doctor, Spy
 
+:: Date
+1999-10-13
+
 :: Description
 The Doctor adds daydreaming to his program, imagining himself as the Emergency
 Command Hologram (ECH) aboard Voyager; but aliens, tapping into his
@@ -5427,9 +5430,6 @@ perceptions to observe the crew, prepare an attack when they believe that what
 they are seeing in the daydreams is real.
 
 Directed by: John Bruno. Story by: Bill Vallely.
-
-:: Date
-1999-10-13
 
 :: Ratings
 4 <paul>
@@ -5463,14 +5463,14 @@ voy6x05
 :: Title
 Alice
 
+:: Date
+1999-10-20
+
 :: Description
 Tom Paris becomes obsessed with a salvaged alien shuttlecraft, which appears
 to have a mind of its own.
 
 Directed by: David Livingston. Story by: Juliann deLayne.
-
-:: Date
-1999-10-20
 
 :: Ratings
 3 <mikael>
@@ -5500,14 +5500,14 @@ voy6x06
 :: Title
 Riddles
 
+:: Date
+1999-11-03
+
 :: Description
 Returning from a diplomatic mission, Tuvok is attacked by a cloaked intruder
 and suffers neurological damage.
 
 Directed by: Roxann Dawson. Story by: André Bormanis.
-
-:: Date
-1999-11-03
 
 :: Ratings
 3 <paul>
@@ -5538,14 +5538,14 @@ voy6x07
 :: Title
 Dragon's Teeth
 
+:: Date
+1999-11-10
+
 :: Description
 Voyager discovers a network of subspace passageways, but is forced to land on
 a planet after being attacked.
 
 Directed by: Winrich Kolbe. Story by: Michael Taylor.
-
-:: Date
-1999-11-10
 
 :: Ratings
 1 <mikael>
@@ -5574,14 +5574,14 @@ voy6x08
 :: Title
 One Small Step
 
+:: Date
+1999-11-17
+
 :: Description
 Voyager is nearly hit by a mysterious subspace mass and the crew theorize that
 the debris of an ancient Earth–Mars ship is inside.
 
 Directed by: Robert Picardo. Story by: Mike Wollaeger and Jessica Scott.
-
-:: Date
-1999-11-17
 
 :: Ratings
 2 <mikael>
@@ -5611,15 +5611,15 @@ voy6x09
 :: Title
 The Voyager Conspiracy
 
+:: Date
+1999-11-24
+
 :: Description
 After assimilating Voyager's data from the past six years, through an
 enhancement to her Borg implants, Seven of Nine suspects the ship did not
 arrive in the Delta Quadrant by accident.
 
 Directed by: Terry Windell. Story by: Joe Menosky.
-
-:: Date
-1999-11-24
 
 :: Ratings
 2 <mikael>
@@ -5649,14 +5649,14 @@ voy6x10
 :: Title
 Pathfinder
 
+:: Date
+1999-12-01
+
 :: Description
 Barclay gets over-involved with holographic recreations of the Voyager crew in
 his attempts to contact them. This episode also features Deanna Troi.
 
 Directed by: Mike Vejar. Story by: David Zabel.
-
-:: Date
-1999-12-01
 
 :: Ratings
 2 <mikael>
@@ -5691,14 +5691,14 @@ voy6x11
 :: Title
 Fair Haven
 
+:: Date
+2000-01-12
+
 :: Description
 The crew enjoys a respite inside a holodeck creation designed by Tom Paris,
 while Voyager faces the threat of an oncoming storm in space.
 
 Directed by: Allan Kroeker. Story by: Robin Burger.
-
-:: Date
-2000-01-12
 
 :: Ratings
 4 <mikael>
@@ -5732,15 +5732,15 @@ voy6x12
 :: Title
 Blink of an Eye
 
+:: Date
+2000-01-19
+
 :: Description
 Voyager is trapped in orbit about a planet with a space-time differential such
 that, while its inhabitants live through years, Voyager experiences mere
 minutes.
 
 Directed by: Gabrielle Beaumont. Story by: Michael Taylor.
-
-:: Date
-2000-01-19
 
 :: Ratings
 3 <paul>
@@ -5771,15 +5771,15 @@ voy6x13
 :: Title
 Virtuoso
 
+:: Date
+2000-01-26
+
 :: Description
 Visiting aliens who have never before encountered music become fascinated with
 the Doctor's Opera singing, and ask him to leave Voyager and join their
 society.
 
 Directed by: Les Landau. Story by: Raf Green.
-
-:: Date
-2000-01-26
 
 :: Ratings
 5 <paul>
@@ -5813,14 +5813,14 @@ voy6x14
 :: Title
 Memorial
 
+:: Date
+2000-02-02
+
 :: Description
 Chakotay, Tom Paris, Harry Kim, and Neelix begin to experience horrific
 flashbacks after an away mission.
 
 Directed by: Allan Kroeker. Story by: Brannon Braga.
-
-:: Date
-2000-02-02
 
 :: Ratings
 2 <paul>
@@ -5856,15 +5856,15 @@ voy6x15
 :: Title
 Tsunkatse
 
+:: Date
+2000-02-09
+
 :: Description
 Seven of Nine and Tuvok are kidnapped while on shore leave, and Seven is
 forced to fight in a gladiatorial contest to the death. (Guest stars Dwayne
 Johnson.)
 
 Directed by: Mike Vejar. Story by: Gannon Kenney.
-
-:: Date
-2000-02-09
 
 :: Ratings
 2 <mikael>
@@ -5896,14 +5896,14 @@ voy6x16
 :: Title
 Collective
 
+:: Date
+2000-02-16
+
 :: Description
 Chakotay, Kim, Paris, and Neelix are taken hostage when the Delta Flyer is
 captured by Borg children in a derelict Cube.
 
 Directed by: Allison Liddi. Story by: Andrew Shepard Price and Mark Gaberman.
-
-:: Date
-2000-02-16
 
 :: Ratings
 1 <paul>
@@ -5939,15 +5939,15 @@ voy6x17
 :: Title
 Spirit Folk
 
+:: Date
+2000-02-23
+
 :: Description
 Problems arise from running the holographic Irish village of Fair Haven non-
 stop, when a malfunction leads the holographic characters to become self-
 aware.
 
 Directed by: David Livingston. Story by: Bryan Fuller.
-
-:: Date
-2000-02-23
 
 :: Ratings
 2 <paul>
@@ -5979,14 +5979,14 @@ voy6x18
 :: Title
 Ashes to Ashes
 
+:: Date
+2000-03-01
+
 :: Description
 A deceased crew member resurfaces, claiming to have been resurrected by an
 alien race who have since adopted her.
 
 Directed by: Terry Windell. Story by: Ronald Wilkerson.
-
-:: Date
-2000-03-01
 
 :: Ratings
 1 <paul>
@@ -6025,15 +6025,15 @@ voy6x19
 :: Title
 Child's Play
 
+:: Date
+2000-03-08
+
 :: Description
 The family of Icheb, one of the Borg children, is found, but he is reluctant
 to rejoin them. Seven, too, is reluctant for him to leave the ship; and his
 parents are concealing the real reason for desiring his return.
 
 Directed by: Mike Vejar. Story by: Paul Brown.
-
-:: Date
-2000-03-08
 
 :: Ratings
 1 <paul>
@@ -6070,13 +6070,13 @@ voy6x20
 :: Title
 Good Shepherd
 
+:: Date
+2000-03-15
+
 :: Description
 Three crew members who are under-performing are taken on a mission by Janeway.
 
 Directed by: Winrich Kolbe. Story by: Dianna Gitto.
-
-:: Date
-2000-03-15
 
 :: Ratings
 2 <paul>
@@ -6120,13 +6120,13 @@ voy6x21
 :: Title
 Live Fast and Prosper
 
+:: Date
+2000-04-19
+
 :: Description
 Con artists impersonate Janeway and Tuvok.
 
 Directed by: LeVar Burton. Story by: Robin Burger.
-
-:: Date
-2000-04-19
 
 :: Ratings
 1 <paul> [almost gave it a 2 because of that delightful scene with The Doctor and the nut]
@@ -6152,15 +6152,15 @@ voy6x22
 :: Title
 Muse
 
+:: Date
+2000-04-26
+
 :: Description
 Torres is stranded on a bronze-age planet after a crash in the Delta Flyer,
 where she helps a playwright adapt the story of Voyager to the stage. Also,
 Kim is missing in an escape pod.
 
 Directed by: Mike Vejar. Story by: Joe Menosky.
-
-:: Date
-2000-04-26
 
 :: Ratings
 3 <paul>
@@ -6190,14 +6190,14 @@ voy6x23
 :: Title
 Fury
 
+:: Date
+2000-05-03
+
 :: Description
 A much older and more powerful Kes returns to Voyager, and attempts to travel
 back in time to change her history.
 
 Directed by: John Bruno. Story by: Rick Berman and Brannon Braga.
-
-:: Date
-2000-05-03
 
 :: Ratings
 1 <paul>
@@ -6234,6 +6234,9 @@ voy6x24
 :: Title
 Life Line
 
+:: Date
+2000-05-10
+
 :: Description
 The Doctor's creator, Lewis Zimmerman, is dying in the Alpha Quadrant from a
 disease similar to the Vidiian phage. The Doctor's compressed matrix is
@@ -6241,9 +6244,6 @@ transferred to Zimmerman's lab on the Jupiter station, to assist Mr. Barclay
 and Counselor Troi in attempting to treat the illness.
 
 Directed by: Terry Windell. Story by: John Bruno and Robert Picardo.
-
-:: Date
-2000-05-10
 
 :: Ratings
 3 <paul>
@@ -6275,14 +6275,14 @@ voy6x25
 :: Title
 The Haunting of Deck Twelve
 
+:: Date
+2000-05-17
+
 :: Description
 As Voyager travels through a nebula, all ship's power is turned off, giving
 Neelix an opportunity to tell the Borg children a ghost story.
 
 Directed by: David Livingston. Story by: Mike Sussman.
-
-:: Date
-2000-05-17
 
 :: Ratings
 1 <paul>
@@ -6312,14 +6312,14 @@ voy6x26
 :: Title
 Unimatrix Zero, Part I
 
+:: Date
+2000-05-24
+
 :: Description
 Janeway, B'Elanna and Tuvok infiltrate a Borg Cube in an attempt to save Borg
 drones who are trying to develop individuality.
 
 Directed by: Allan Kroeker. Story by: Mike Sussman.
-
-:: Date
-2000-05-24
 
 :: Ratings
 -1 <mikael>
@@ -6354,15 +6354,15 @@ voy7x01
 :: Title
 Unimatrix Zero, Part II
 
+:: Date
+2000-10-04
+
 :: Description
 Janeway, B'Elanna and Tuvok are assimilated by the Borg while attempting to
 save the group of drones who have developed individuality.
 
 Directed by: Mike Vejar. Story by: Mike Sussman, Brannon Braga and Joe
 Menosky.
-
-:: Date
-2000-10-04
 
 :: Ratings
 1 <paul>
@@ -6394,14 +6394,14 @@ voy7x02
 :: Title
 Imperfection
 
+:: Date
+2000-10-11
+
 :: Description
 When her cortical implant malfunctions, Seven of Nine needs a life-saving
 transplant.
 
 Directed by: David Livingston. Story by: André Bormanis.
-
-:: Date
-2000-10-11
 
 :: Ratings
 1 <paul>
@@ -6440,15 +6440,15 @@ voy7x03
 :: Title
 Drive
 
+:: Date
+2000-10-18
+
 :: Description
 The crew of Voyager enters the Delta Flyer in a sub-warp race, crewed by Tom
 Paris and B'Elanna Torres, and events conspire to encourage Tom to propose to
 her.
 
 Directed by: Winrich Kolbe. Story by: Michael Taylor.
-
-:: Date
-2000-10-18
 
 :: Ratings
 1 <mikael>
@@ -6481,14 +6481,14 @@ voy7x04
 :: Title
 Repression
 
+:: Date
+2000-10-25
+
 :: Description
 Ex-Maquis crew members are attacked after a data stream arrives from
 Starfleet.
 
 Directed by: Winrich Kolbe. Story by: Kenneth Biller.
-
-:: Date
-2000-10-25
 
 :: Ratings
 1 <mikael>
@@ -6524,14 +6524,14 @@ voy7x05
 :: Title
 Critical Care
 
+:: Date
+2000-11-01
+
 :: Description
 The Doctor's program is stolen and he is forced to work in an alien hospital,
 where he skillfully manipulates the system to provide ethical medical care.
 
 Directed by: Terry Windell. Story by: Kenneth Biller and Robert J. Doherty.
-
-:: Date
-2000-11-01
 
 :: Ratings
 2 <mikael> [it had potential but the conceits and hypocrisies were just too many to bear]
@@ -6564,6 +6564,9 @@ voy7x06
 :: Title
 Inside Man
 
+:: Date
+2000-11-08
+
 :: Description
 A hologram of Reginald Barclay is sent to Voyager, supposedly to implement a
 dangerous plan to bring them home; but the hologram has been tampered with by
@@ -6571,9 +6574,6 @@ some Ferengi, who are trying to steal valuable Borg nanoprobes from Seven of
 Nine.
 
 Directed by: Allan Kroeker. Story by: Robert J. Doherty.
-
-:: Date
-2000-11-08
 
 :: Ratings
 1 <mikael>
@@ -6603,15 +6603,15 @@ voy7x07
 :: Title
 Body and Soul
 
+:: Date
+2000-11-15
+
 :: Description
 During an emergency on a mission, The Doctor is forced to upload his program
 into Seven of Nine's Borg implants, allowing him to experience real sensations
 for the first time.
 
 Directed by: Robert Duncan McNeill. Story by: Michael Taylor.
-
-:: Date
-2000-11-15
 
 :: Ratings
 3 <mikael> [+1 only because Jeri Ryan acted the Doctor rather well]
@@ -6648,14 +6648,14 @@ voy7x08
 :: Title
 Nightingale
 
+:: Date
+2000-11-22
+
 :: Description
 Harry Kim takes command of an alien ship that has lost its officers in an
 attack.
 
 Directed by: LeVar Burton. Story by: Robert Lederman and Dave Long.
-
-:: Date
-2000-11-22
 
 :: Ratings
 1 <mikael>
@@ -6684,6 +6684,9 @@ voy7x09/10
 :: Title
 Flesh and Blood
 
+:: Date
+2000-11-29
+
 :: Description
 Voyager's hologram technology, which Janeway had previously donated to the
 Hirogen, has been modified to make the holographic "prey" more cunning,
@@ -6692,9 +6695,6 @@ enabling the hologram characters to rebel against their new masters.
 Directed by: Mike Vejar
 
 David Livingston. Story by: Jack Monaco, Bryan Fuller and Raf Green.
-
-:: Date
-2000-11-29
 
 :: Ratings
 2 <mikael>
@@ -6735,15 +6735,15 @@ voy7x11
 :: Title
 Shattered
 
+:: Date
+2001-01-17
+
 :: Description
 Voyager is fractured into several time periods by an accident, and only
 Chakotay is able to move between them, in the process meeting old friends and
 old foes from the previous six seasons.
 
 Directed by: Terry Windell. Story by: Mike Sussman and Michael Taylor.
-
-:: Date
-2001-01-17
 
 :: Ratings
 0 <mikael>
@@ -6769,6 +6769,9 @@ voy7x12
 :: Title
 Lineage
 
+:: Date
+2001-01-24
+
 :: Description
 Now married to Tom Paris, B'Elanna Torres discovers she is pregnant. The
 Doctor tells her to expect a daughter; but B'Elanna's unresolved fear of the
@@ -6776,9 +6779,6 @@ childhood traumas, which she suffered as a part-Klingon girl growing up among
 humans, makes her determined to remove her child's Klingon DNA.
 
 Directed by: Peter Lauritson. Story by: James Kahn.
-
-:: Date
-2001-01-24
 
 :: Ratings
 3 <mikael>
@@ -6812,14 +6812,14 @@ voy7x13
 :: Title
 Repentance
 
+:: Date
+2001-01-31
+
 :: Description
 Prisoners are brought onto Voyager from a damaged alien vessel, and the crew
 must deliver them to their destination – for execution.
 
 Directed by: Mike Vejar. Story by: Mike Sussman and Robert J. Doherty.
-
-:: Date
-2001-01-31
 
 :: Ratings
 3 <mikael>
@@ -6856,6 +6856,9 @@ voy7x14
 :: Title
 Prophecy
 
+:: Date
+2001-02-07
+
 :: Description
 Voyager encounters an ancient Klingon battlecruiser. The Klingons aboard it
 had set out long ago to find their savior, and they believe it to be Tom and
@@ -6863,9 +6866,6 @@ B'Elanna's unborn child.
 
 Directed by: Terry Windell. Story by: Larry Nemecek, J. Kelley Burke, Raf
 Green and Kenneth Biller.
-
-:: Date
-2001-02-07
 
 :: Ratings
 0 <mikael> [groan]
@@ -6897,14 +6897,14 @@ voy7x15
 :: Title
 The Void
 
+:: Date
+2001-02-14
+
 :: Description
 Voyager is pulled into a void, where the ships that have become trapped attack
 each other for food and resources.
 
 Directed by: Mike Vejar. Story by: Raf Green and Kenneth Biller.
-
-:: Date
-2001-02-14
 
 :: Ratings
 2 <mikael>
@@ -6938,6 +6938,9 @@ voy7x16
 :: Title
 Workforce, Part I
 
+:: Date
+2001-02-21
+
 :: Description
 The Voyager crew is brainwashed into taking new jobs on an industrialized
 planet that has a severe labor shortage, leaving only Chakotay, Kim and Neelix
@@ -6945,9 +6948,6 @@ planet that has a severe labor shortage, leaving only Chakotay, Kim and Neelix
 has become the Emergency Command Hologram) to save them.
 
 Directed by: Allan Kroeker. Story by: Kenneth Biller and Bryan Fuller.
-
-:: Date
-2001-02-21
 
 :: Ratings
 1 <paul>
@@ -6981,14 +6981,14 @@ voy7x17
 :: Title
 Workforce, Part II
 
+:: Date
+2001-02-28
+
 :: Description
 Chakotay and Neelix take jobs on the new planet, and try to rescue their
 amnesiac crewmates – who don't want to leave.
 
 Directed by: Roxann Dawson. Story by: Kenneth Biller and Bryan Fuller.
-
-:: Date
-2001-02-28
 
 :: Ratings
 1 <paul>
@@ -7022,13 +7022,13 @@ voy7x18
 :: Title
 Human Error
 
+:: Date
+2001-03-07
+
 :: Description
 Seven practices her social skills on the holodeck.
 
 Directed by: Allan Kroeker. Story by: André Bormanis and Kenneth Biller.
-
-:: Date
-2001-03-07
 
 :: Ratings
 2 <mikael>
@@ -7068,13 +7068,13 @@ voy7x19
 :: Title
 Q2
 
+:: Date
+2001-04-11
+
 :: Description
 Q leaves his son (Q2) on Voyager to learn from the crew.
 
 Directed by: LeVar Burton. Story by: Kenneth Biller.
-
-:: Date
-2001-04-11
 
 :: Ratings
 2 <paul>
@@ -7112,14 +7112,14 @@ voy7x20
 :: Title
 Author, Author
 
+:: Date
+2001-04-18
+
 :: Description
 The Doctor writes a holo-novel to be published in the Alpha Quadrant,
 featuring characters who closely resemble – but do not flatter – the crew.
 
 Directed by: David Livingston. Story by: Brannon Braga.
-
-:: Date
-2001-04-18
 
 :: Ratings
 5 <mikael>
@@ -7156,15 +7156,15 @@ voy7x21
 :: Title
 Friendship One
 
+:: Date
+2001-04-25
+
 :: Description
 The crew is sent on its first mission by Starfleet in nearly seven years: to
 find a lost probe sent by Earth in the 21st century that has ended up in the
 Delta Quadrant.
 
 Directed by: Mike Vejar. Story by: Michael Taylor and Bryan Fuller.
-
-:: Date
-2001-04-25
 
 :: Ratings
 1 <mikael>
@@ -7200,13 +7200,13 @@ voy7x22
 :: Title
 Natural Law
 
+:: Date
+2001-05-02
+
 :: Description
 Seven and Chakotay are stranded on a planet with primitive humanoids.
 
 Directed by: Terry Windell. Story by: Kenneth Biller and James Kahn.
-
-:: Date
-2001-05-02
 
 :: Ratings
 3 <paul>
@@ -7233,14 +7233,14 @@ voy7x23
 :: Title
 Homestead
 
+:: Date
+2001-05-09
+
 :: Description
 Voyager encounters a Talaxian settlement leaving Neelix with the difficult
 decision of whether to leave the crew.
 
 Directed by: LeVar Burton. Story by: Raf Green.
-
-:: Date
-2001-05-09
 
 :: Ratings
 2 <paul>
@@ -7278,13 +7278,13 @@ voy7x24
 :: Title
 Renaissance Man
 
+:: Date
+2001-05-16
+
 :: Description
 The Doctor is forced to help aliens steal Voyager's warp core.
 
 Directed by: Mike Vejar. Story by: Andrew Shepard Price and Mark Gaberman.
-
-:: Date
-2001-05-16
 
 :: Ratings
 2 <paul>
@@ -7323,6 +7323,9 @@ voy7x25/26
 :: Title
 Endgame
 
+:: Date
+2001-05-23
+
 :: Description
 In the future where it took Voyager 23 years to get home, Admiral Janeway
 devises a plan to alter history. As the crew enters a final showdown with the
@@ -7332,9 +7335,6 @@ to get home.
 
 Directed by: Allan Kroeker. Story by: Rick Berman, Kenneth Biller and Brannon
 Braga.
-
-:: Date
-2001-05-23
 
 :: Ratings
 2 <paul>

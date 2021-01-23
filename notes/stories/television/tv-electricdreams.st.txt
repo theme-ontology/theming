@@ -7,9 +7,6 @@ Electric Dreams
 :: Date
 2017-2018
 
-:: Collections
-Collection: Electric Dreams
-
 :: Description
 Philip K. Dick's Electric Dreams, or simply Electric Dreams, is a science
 fiction television anthology series based on the works of Philip K. Dick. The
@@ -21,12 +18,18 @@ on 17 September 2017, and in the United States on Amazon Video on 12 January
 :: References
 https://en.wikipedia.org/wiki/Electric_Dreams_(2017_TV_series)
 
+:: Collections
+Collection: Electric Dreams
+
 
 pkded1x01
 =========
 
 :: Title
 The Hood Maker
+
+:: Date
+2017-09-17
 
 :: Description
 In an authoritarian regime called the Free Union, a minority of humans have
@@ -37,15 +40,12 @@ relationship with her handler, Agent Ross. The pair investigate when a
 mysterious individual calling himself the "Hood Maker" begins distributing
 telepathy-proof hoods throughout the city.
 
-:: Date
-2017-09-17
+:: Genre
+sci-fi
 
 :: Ratings
 3 <mikael>,
 3 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 hatred of exceptional people [Ordinary people hated the telepathic "Teeps" because they often worked for the oppressive government and rooted out subversion.],
@@ -71,6 +71,9 @@ pkded1x02
 :: Title
 Impossible Planet
 
+:: Date
+2017-09-24
+
 :: Description
 Two bored space tourism guides, Norton and Andrews, are approached by a very
 elderly woman, Irma Louise Gordon, who offers them a large sum of money to
@@ -81,15 +84,12 @@ subterfuge. Irma has a very specific dream about her grandparents swimming in
 a river in Carolina, and wants to re-enact this with Norton, who is identical
 to her grandfather.
 
-:: Date
-2017-09-24
+:: Genre
+sci-fi
 
 :: Ratings
 4 <mikael>,
 4 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 compromising one's ethical principles for personal advantage [Should Brian take Irma's money and offer her a comforting lie?],
@@ -124,6 +124,9 @@ pkded1x03
 :: Title
 The Commuter
 
+:: Date
+2017-10-01
+
 :: Description
 Ed Jacobson is a railway worker at Woking station. His life takes a turn for
 the worse when his son, Sam, begins experiencing psychotic episodes. Shortly
@@ -134,15 +137,12 @@ traumas are wiped away. On his return home, he discovers his son never
 existed, and he returns to Macon Heights to find Linda and demand she restore
 his original life.
 
-:: Date
-2017-10-01
+:: Genre
+sci-fi
 
 :: Ratings
 4 <mikael>,
 5 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 be careful what you wish for [Ed must have absentmindedly wished his son away],
@@ -170,6 +170,9 @@ pkded1x04
 :: Title
 Crazy Diamond
 
+:: Date
+2017-10-08
+
 :: Description
 Ed Morris works at a company which produces synthetic humanoids called Jacks
 and Jills, and the QCs ("quantum consciousness") which give them intelligence
@@ -177,15 +180,12 @@ and emotions. He is approached by a dying Jill, who wants him to help her
 steal ten QCs – one to extend her own lifespan, and the rest to sell to give
 Ed a chance to start a new life with his wife, Sally.
 
-:: Date
-2017-10-08
+:: Genre
+sci-fi
 
 :: Ratings
 4 <mikael>,
 3 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 AI prejudice in society [The "normals" treated the "synthetics" as second class citizens.],
@@ -222,6 +222,9 @@ pkded1x05
 :: Title
 Real Life
 
+:: Date
+2017-10-15
+
 :: Description
 Sarah is a policewoman living in the future who shares headspace with George,
 a brilliant game designer, each pursuing violent killers whose plans could
@@ -229,15 +232,12 @@ have shattering consequences. In a race against time, sharing a bond that no
 one else can see, they learn the very thing that connects them can also
 destroy them.
 
-:: Date
-2017-10-15
+:: Genre
+sci-fi
 
 :: Ratings
 4 <mikael>,
 4 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 what if I lived an alternate life [Sarah lived in a dream world as George and vice versa.],
@@ -276,6 +276,9 @@ pkded1x06
 :: Title
 Human Is
 
+:: Date
+2017-10-29
+
 :: Description
 Mission director Vera Herrick is trapped in a loveless marriage with military
 hero Colonel Silas Herrick. Silas returns to the planet of Rexor IV to obtain
@@ -285,15 +288,12 @@ apparently survived, and Vera finds him uncharacteristically kind and
 considerate. The couple are arrested by the State, who believe that Silas has
 been taken over by a Rexorian consciousness.
 
-:: Date
-2017-10-29
+:: Genre
+sci-fi
 
 :: Ratings
 4 <mikael>,
 4 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 husband and wife [Vera was trapped in a loveless marriage with Silas, but all that changed when he apparently returned from a dangerous mission the planet of Rexor IV.],
@@ -326,6 +326,9 @@ pkded1x07
 :: Title
 The Father Thing
 
+:: Date
+2018-02-26
+
 :: Description
 Eleven-year-old Charlie has a close relationship with his father, sharing a
 love of baseball. One night, while camping out, they see glowing orbs slowly
@@ -334,15 +337,12 @@ at home, Charlie is uncertain that his father is who, or what, he appears to
 be, and he is not alone. Charlie and his best friend eventually find a field
 filled with body doubles grown by the aliens.
 
-:: Date
-2018-02-26
+:: Genre
+sci-fi
 
 :: Ratings
 2 <mikael>,
 2 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 what if people around me started behaving strangely one by one [The local kids were perplexed as adults started acting oddly. It became apparent that adults were being replaced with alien facsimiles.],
@@ -375,6 +375,9 @@ pkded1x08
 :: Title
 Autofac
 
+:: Date
+2017-03-05
+
 :: Description
 Twenty years after a nuclear war, a small community of survivors are
 challenged by an automated corporate factory, which uses drones to send them
@@ -383,15 +386,12 @@ diminishing as the natural world around them fades away, which they believe is
 due to pollution caused by the mega-factory. They plan to bypass the deadly
 defenses of the factory and shut it down.
 
-:: Date
-2017-03-05
+:: Genre
+sci-fi
 
 :: Ratings
 5 <mikael>,
 5 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 AI takeover [Autofac, a totally automated factory/distribution center, had people replaced with sentient machines in order to make them better customers for its goods.],
@@ -419,6 +419,9 @@ pkded1x09
 :: Title
 Safe and Sound
 
+:: Date
+2018-03-12
+
 :: Description
 In a near-future dystopia, the United States is divided between high-tech,
 hysterically paranoid "safe" cities and "bubble" communities where invasive
@@ -427,15 +430,12 @@ for a year of negotiations and life in the big city. While the mother tries to
 negotiate better treatment of the bubbles, her daughter struggles to adapt to
 school life, its social oddities, and the pervasive technologies around her.
 
-:: Date
-2018-03-12
+:: Genre
+sci-fi
 
 :: Ratings
 2 <paul>,
 4 <mikael>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 security vs. freedom [The story confronts the viewer with this central question: To what extent should we accept privacy-invasive technologies in the name of security from threats such as terrorist attacks?],
@@ -466,6 +466,9 @@ pkded1x10
 :: Title
 Kill All Others
 
+:: Date
+2018-03-19
+
 :: Description
 In the near future, video advertising is everywhere. North America is a single
 nation with a single presidential Candidate. Philbert Noyce is less than
@@ -478,15 +481,12 @@ political system. Eventually, Philbert is driven onto an ad where a hanging
 victim has been left, lambasting the government's callousness, and declares
 that everyone is an "Other".
 
-:: Date
-2018-03-19
+:: Genre
+sci-fi
 
 :: Ratings
 5 <mikael>,
 5 <paul>,
-
-:: Genre
-sci-fi
 
 :: Choice Themes
 creeping authoritarianism [All aspects of society was controlled by the single "candidate" in the upcoming election. Elections were about national unity. People who did not subscribe to approved ideas became "others" and were persecuted.],

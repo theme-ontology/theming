@@ -4,6 +4,9 @@ Collection: Star Trek: The Animated Series
 :: Title
 Star Trek: The Animated Series
 
+:: Date
+1973-1974
+
 :: Description
 Star Trek: The Animated Series (originally known simply as Star Trek but also
 known as The Animated Adventures of Gene Roddenberry's Star Trek) is a 1973
@@ -17,21 +20,18 @@ revival, led to The Animated Series from 1973–1974, as the source of new
 adventures of the Enterprise crew, the next being the live-action feature film
 Star Trek: The Motion Picture (1979).
 
-:: Date
-1973-1974
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series
 
 :: Genre
 sci-fi
 
-:: Major Themes
-
-:: Minor Themes
-
 :: Collections
 Collection: Star Trek: The Animated Series
 
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series
+:: Major Themes
+
+:: Minor Themes
 
 
 tas1x01
@@ -39,6 +39,9 @@ tas1x01
 
 :: Title
 Beyond the Farthest Star
+
+:: Date
+1973-09-08
 
 :: Description
 While exploring on the outermost rim of the galaxy the USS Enterprise is
@@ -49,9 +52,6 @@ They also learn that the ship's crew self-destructed rather than carry a
 malevolent entity to other worlds. The entity is still alive and it beams
 aboard the Enterprise. Captain Kirk must find a way to get rid of the invader,
 without destroying his ship in the process.
-
-:: Date
-1973-09-08
 
 :: Ratings
 3 <Paul>
@@ -87,11 +87,11 @@ tas1x02
 :: Title
 Yesteryear
 
-:: Description
-Spock must travel to the past to rescue his younger self from danger.
-
 :: Date
 1973-09-15
+
+:: Description
+Spock must travel to the past to rescue his younger self from danger.
 
 :: Ratings
 1 <Mikael>
@@ -130,14 +130,14 @@ tas1x03
 :: Title
 One of Our Planets Is Missing
 
+:: Date
+1973-09-22
+
 :: Description
 The Enterprise encounters a giant cloud creature that feeds on the energy of
 the planets that lie in its path. They determine it is heading for Mantilles,
 home to a Federation colony governed by former Starfleet officer Bob Wesley
 (featured in the ST/TOS episode " The Ultimate Computer )".
-
-:: Date
-1973-09-22
 
 :: Ratings
 3 <Mikael>
@@ -175,6 +175,9 @@ tas1x04
 :: Title
 The Lorelei Signal
 
+:: Date
+1973-09-29
+
 :: Description
 Investigating a sector of space where starships have disappeared every 27
 years, the Enterprise finds a race of beautiful women living on the planet
@@ -186,9 +189,6 @@ begins to age rapidly as a result of life-draining headbands they are forced
 to wear. On board the Enterprise, Uhura has taken command due to Scotty's
 irrational behavior. Uhura orders an all-female landing party to transport
 down to rescue the men.
-
-:: Date
-1973-09-29
 
 :: Ratings
 2 <Mikael>
@@ -220,6 +220,9 @@ tas1x05
 :: Title
 More Tribbles, More Troubles
 
+:: Date
+1973-10-06
+
 :: Description
 While the USS Enterprise escorts two robot cargo ships carrying
 quintotriticale, a new seed grain, to famine stricken Sherman's Planet, it
@@ -240,9 +243,6 @@ Klingons offer to settle for just the glommer. Kirk agrees and returns
 it—along with several well-fed (and huge) tribbles that scare it away. McCoy
 injects the remaining tribbles on the Enterprise with a serum to slow down
 their metabolic rate. They are finally "safe".
-
-:: Date
-1973-10-06
 
 :: Ratings
 2 <Paul>
@@ -275,13 +275,13 @@ tas1x06
 :: Title
 The Survivor
 
+:: Date
+1973-10-13
+
 :: Description
 Patrolling near the Romulan Neutral Zone , the USS Enterprise finds a ship
 manned by Carter Winston, a Federation citizen and philanthropist who has been
 missing for five years.
-
-:: Date
-1973-10-13
 
 :: Ratings
 3 <Mikael>
@@ -316,6 +316,9 @@ tas1x07
 :: Title
 The Infinite Vulcan
 
+:: Date
+1973-10-20
+
 :: Description
 While visiting the newly discovered planet Phylos, Lt. Sulu picks up a walking
 plant, called a Retlaw, and is poisoned. The alien species that inhabit the
@@ -327,9 +330,6 @@ Spock in order to clone him and create an intergalactic peacemaker, at the
 expense of the original Spock's life. (Although Kirk never actually says "Beam
 me up, Scotty" in the series, in this episode he does say "Beam us up,
 Scotty.")
-
-:: Date
-1973-10-20
 
 :: Ratings
 2 <Paul>
@@ -366,6 +366,9 @@ tas1x08
 :: Title
 The Magicks of Megas-Tu
 
+:: Date
+1973-10-27
+
 :: Description
 While exploring near the center of the galaxy, the USS Enterprise is caught
 inside an energy/matter vortex and all her computer systems fail. A being
@@ -374,9 +377,6 @@ crew to explore his planet, Megas-Tu. On this planet, magic and witchcraft are
 quite normal. The Megans are an ageless species that had, at one time, lived
 on Earth, and were responsible for the legends about witches. Lucien, their
 guide, is in reality the Lucifer of Earth mythology.
-
-:: Date
-1973-10-27
 
 :: Ratings
 1 <Paul>
@@ -424,6 +424,9 @@ tas1x09
 :: Title
 Once Upon a Planet
 
+:: Date
+1973-11-03
+
 :: Description
 The Enterprise crew revisits the "amusement park" planet first seen in the
 Classic Trek episode " Shore Leave " hoping for some rest and relaxation. The
@@ -436,9 +439,6 @@ computer. He convinces it that its best course is to resume business as usual,
 as it will be rewarded with social contact by the many guests attracted by the
 planet's facilities and can, in time, learn everything it could possibly want
 to without even being put to the inconvenience of leaving its home planet.
-
-:: Date
-1973-11-03
 
 :: Ratings
 2 <Paul>
@@ -472,13 +472,13 @@ tas1x10
 :: Title
 Mudd's Passion
 
+:: Date
+1973-11-10
+
 :: Description
 The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd ,
 who is accused of selling fake love crystals. Intercepting Harry on the mining
 colony of Motherlode, they bring him aboard the Enterprise .
-
-:: Date
-1973-11-10
 
 :: Ratings
 2 <Paul>
@@ -517,12 +517,12 @@ tas1x11
 :: Title
 The Terratin Incident
 
+:: Date
+1973-11-17
+
 :: Description
 While observing a burnt-out supernova, the USS Enterprise picks up a strange
 message transmitted in a two-hundred-year-old code.
-
-:: Date
-1973-11-17
 
 :: Ratings
 4 <Paul>
@@ -554,14 +554,14 @@ tas1x12
 :: Title
 The Time Trap
 
+:: Date
+1973-11-24
+
 :: Description
 While exploring the Delta Triangle, where many starships have disappeared, the
 USS Enterprise is attacked by several Klingon vessels. During the battle they
 are caught in an ion storm. The Enterprise and one Klingon battlecruiser are
 drawn into a spacetime vortex and end up in a timeless dimension.
-
-:: Date
-1973-11-24
 
 :: Ratings
 2 <Paul>
@@ -594,14 +594,14 @@ tas1x13
 :: Title
 The Ambergris Element
 
+:: Date
+1973-12-01
+
 :: Description
 While exploring the water planet Argo, Captain Kirk and Mr. Spock are
 transformed into water breathers by the planet's undersea inhabitants, the
 Aquans. In order to return to their normal selves, they must enlist the help
 of the Aquans to capture a giant sur-snake, whose venom holds the antidote.
-
-:: Date
-1973-12-01
 
 :: Ratings
 3 <Paul>
@@ -636,13 +636,13 @@ tas1x14
 :: Title
 The Slaver Weapon
 
+:: Date
+1973-12-15
+
 :: Description
 In the shuttlecraft Copernicus , Mr. Spock, Uhura, and Sulu are en-route to
 Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when
 the Kzinti intervene.
-
-:: Date
-1973-12-15
 
 :: Ratings
 4 <Paul>
@@ -680,6 +680,9 @@ tas1x15
 :: Title
 The Eye of the Beholder
 
+:: Date
+1974-01-05
+
 :: Description
 The disappearance of a scientific team lures the USS Enterprise to investigate
 near Lactra VII. The starship Ariel is located there, abandoned, with its
@@ -688,9 +691,6 @@ down to discover a series of unusual environments. On the planet the crew
 meets the Lactrans, a group of twenty foot slugs with intelligent capacities
 far beyond their own. The team is captured by the Lactrans to be made part of
 a zoo collection.
-
-:: Date
-1974-01-05
 
 :: Ratings
 4 <Paul>
@@ -723,13 +723,13 @@ tas1x16
 :: Title
 The Jihad
 
+:: Date
+1974-01-12
+
 :: Description
 The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr.
 Spock have been summoned to learn about a stolen religious artifact, the "Soul
 of the Skorr", whose theft could ignite a galactic holy war.
-
-:: Date
-1974-01-12
 
 :: Ratings
 1 <Paul>
@@ -766,12 +766,12 @@ tas2x01
 :: Title
 The Pirates of Orion
 
+:: Date
+1974-09-07
+
 :: Description
 Spock contracts a fatal illness, and the cure can only be found with dangerous
 Orion pirates .
-
-:: Date
-1974-09-07
 
 :: Ratings
 2 <Paul>
@@ -807,12 +807,12 @@ tas2x02
 :: Title
 Bem
 
+:: Date
+1974-09-14
+
 :: Description
 The Enterprise crew is taken captive by a race of primitives on a newly
 discovered planet.
-
-:: Date
-1974-09-14
 
 :: Ratings
 4 <Paul>
@@ -845,12 +845,12 @@ tas2x03
 :: Title
 The Practical Joker
 
+:: Date
+1974-09-21
+
 :: Description
 A strange energy field causes the Enterprise computer to play practical jokes
 on the crew, but the humor soon turns to danger.
-
-:: Date
-1974-09-21
 
 :: Ratings
 2 <Paul>
@@ -885,12 +885,12 @@ tas2x04
 :: Title
 Albatross
 
+:: Date
+1974-09-28
+
 :: Description
 Doctor McCoy is arrested for allegedly causing a deadly plague which once
 ravaged the planet Dramia.
-
-:: Date
-1974-09-28
 
 :: Ratings
 3 <Paul>
@@ -927,12 +927,12 @@ tas2x05
 :: Title
 How Sharper Than a Serpent's Tooth
 
+:: Date
+1974-10-05
+
 :: Description
 A mysterious being threatens to destroy the Enterprise if the crew is unable
 to solve an ancient puzzle.
-
-:: Date
-1974-10-05
 
 :: Ratings
 1 <Paul>
@@ -970,12 +970,12 @@ tas2x06
 :: Title
 The Counter-Clock Incident
 
+:: Date
+1974-10-12
+
 :: Description
 An unusual spaceship pulls the Enterprise into a "negative universe " where
 time seems to flow backwards.
-
-:: Date
-1974-10-12
 
 :: Ratings
 1 <Paul>

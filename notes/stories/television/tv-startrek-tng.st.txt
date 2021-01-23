@@ -4,6 +4,9 @@ Collection: Star Trek: The Next Generation
 :: Title
 Star Trek: The Next Generation
 
+:: Date
+1987-1994
+
 :: Description
 Star Trek: The Next Generation (abbreviated as TNG and ST:TNG) is an American
 science-fiction television series in the Star Trek franchise created by Gene
@@ -22,8 +25,11 @@ regions of the Milky Way galaxy, the Alpha Quadrant. The first episode takes
 place in the year 2364, 99 years after the start of the five-year mission
 described in the original series, which began in 2265.
 
-:: Date
-1987-1994
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
+
+:: Collections
+Collection: Star Trek: The Next Generation
 
 :: Major Themes
 
@@ -32,12 +38,6 @@ teleportation device [The Enterprise transporter.],
 speculative spaceship [The starship USS Enterprise.],
 interstellar space travel [The Enterprise is on a mission to explore the galaxy.],
 
-:: Collections
-Collection: Star Trek: The Next Generation
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
-
 
 tng1x01/02
 ==========
@@ -45,21 +45,21 @@ tng1x01/02
 :: Title
 Encounter at Farpoint
 
+:: Date
+1987-09-28
+
 :: Description
 The new starship Enterprise begins her maiden voyage by uncovering the
 mysteries of an advanced space station. The crew's mission is threatened by an
 omnipotent being named Q , who puts them (and specifically, Captain Jean-Luc
 Picard ) on trial for the crimes of all humanity.
 
-:: Date
-1987-09-28
+:: Genre
+mystery
 
 :: Ratings
 5 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 transcendental being [Q] <The Q>,
@@ -147,19 +147,19 @@ tng1x03
 :: Title
 The Naked Now
 
+:: Date
+1987-10-05
+
 :: Description
 A mysterious, communicable contaminant causes the crew to experience symptoms
 similar to alcohol intoxication.
 
-:: Date
-1987-10-05
+:: Genre
+human drama
 
 :: Ratings
 5 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 inebriated interaction [entire crew down to the last android] <Picard, Wesley, Data, Beverly, Riker, Tasha, Geordi, Jim Shimoda>,
@@ -223,19 +223,19 @@ tng1x04
 :: Title
 Code of Honor
 
+:: Date
+1987-10-12
+
 :: Description
 Lt. Yar is abducted by the leader of a people who abide by a strict code of
 honor, which requires her participation in a fight to the death.
 
-:: Date
-1987-10-12
+:: Genre
+human drama, action
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-human drama, action
 
 :: Choice Themes
 honor [Lutan in his dealings with Federation] <Lutan>,
@@ -299,18 +299,18 @@ tng1x05
 :: Title
 The Last Outpost
 
+:: Date
+1987-10-19
+
 :: Description
 An unknown force immobilizes the Enterprise during the Federation's first
 encounter with a new alien threat—the Ferengi .
 
-:: Date
-1987-10-19
+:: Genre
 
 :: Ratings
 5 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 civilization vs. savagery [civilized Federation vs. savage Ferengi],
@@ -365,20 +365,20 @@ tng1x06
 :: Title
 Where No One Has Gone Before
 
+:: Date
+1987-10-26
+
 :: Description
 Warp efficiency tests send the Enterprise traveling far beyond known space,
 where the crew's imagination takes on real form. First appearance of Eric
 Menyuk as The Traveler.
 
-:: Date
-1987-10-26
+:: Genre
+fantasy
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-fantasy
 
 :: Choice Themes
 unbounded thought powers [The Traveler had the ability to alter reality.],
@@ -437,19 +437,19 @@ tng1x07
 :: Title
 Lonely Among Us
 
+:: Date
+1987-11-02
+
 :: Description
 An alien entity possesses Dr. Crusher , Worf , and Picard while the Enterprise
 is transporting delegates from two feuding planets.
 
-:: Date
-1987-11-02
+:: Genre
+mystery
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 alien point of view [An incorporeal alien entity struggled to comprehend what was going on when the Enterprise inadvertently whisked it away from the energy cloud in space that it called home.],
@@ -513,12 +513,12 @@ tng1x08
 :: Title
 Justice
 
+:: Date
+1987-11-09
+
 :: Description
 Wesley breaks an idyllic world's trivial law by accidentally stepping on
 flowers and faces the death sentence.
-
-:: Date
-1987-11-09
 
 :: Ratings
 3 <Mikael>
@@ -584,14 +584,14 @@ tng1x09
 :: Title
 The Battle
 
+:: Date
+1987-11-16
+
 :: Description
 A Ferengi captain returns the abandoned Stargazer to its former captain, Jean-
 Luc Picard . Picard, who experiences severe headaches, begins to relive the
 "Battle of Maxia" in which he lost the ship. Guest star Frank Corsentino as
 DaiMon Bok.
-
-:: Date
-1987-11-16
 
 :: Ratings
 2 <Mikael>
@@ -651,19 +651,19 @@ tng1x10
 :: Title
 Hide and Q
 
+:: Date
+1987-11-23
+
 :: Description
 Q returns to the Enterprise to tempt Commander Riker into joining the Q
 Continuum with the lure of Q's powers.
 
-:: Date
-1987-11-23
+:: Genre
+fantasy
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-fantasy
 
 :: Choice Themes
 power corrupts [Riker utterly corrupted by Q],
@@ -727,19 +727,19 @@ tng1x11
 :: Title
 Haven
 
+:: Date
+1987-11-30
+
 :: Description
 Lwaxana Troi visits her daughter, Counselor Troi, and prepares her for an
 arranged marriage.
 
-:: Date
-1987-11-30
+:: Genre
+romance
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 matrimonial love [Troi and Wyatt] <Troi, Wyatt Miller>,
@@ -809,19 +809,19 @@ tng1x12
 :: Title
 The Big Goodbye
 
+:: Date
+1988-01-11
+
 :: Description
 A computer malfunction traps Picard , Data , Beverly , and Whalen in a Dixon
 Hill holodeck program set in early-20th-century Earth.
 
-:: Date
-1988-01-11
+:: Genre
+mystery
 
 :: Ratings
 3 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 what is sentience [The viewer is confronted with the question of whether or not the holodeck characters are sentient.],
@@ -885,14 +885,14 @@ tng1x13
 :: Title
 Datalore
 
+:: Date
+1988-01-18
+
 :: Description
 The Enterprise crew finds a disassembled android identical to Data at the site
 of the Omicron Theta colony—where Data was found—which was destroyed by a life
 form dubbed "the Crystalline Entity ." The reassembled android, Lore , brings
 the Crystalline Entity to the Enterprise .
-
-:: Date
-1988-01-18
 
 :: Ratings
 4 <Mikael>
@@ -957,12 +957,12 @@ tng1x14
 :: Title
 Angel One
 
+:: Date
+1988-01-25
+
 :: Description
 The Enterprise visits a world dominated by women to rescue survivors of a
 downed freighter.
-
-:: Date
-1988-01-25
 
 :: Ratings
 3 <Mikael>
@@ -1042,19 +1042,19 @@ tng1x15
 :: Title
 11001001
 
+:: Date
+1988-02-01
+
 :: Description
 Bynars upgrade the Enterprise's computers in spacedock. Riker and Picard
 become distracted by a surprisingly realistic holodeck character.
 
-:: Date
-1988-02-01
+:: Genre
+romance
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 desperation [Bynars] <One Zero, Zero One>,
@@ -1113,21 +1113,21 @@ tng1x16
 :: Title
 Too Short a Season
 
+:: Date
+1988-02-08
+
 :: Description
 The Enterprise transports a legendary geriatric admiral who must once again
 negotiate a hostage situation involving a man from decades earlier in his
 career. The admiral however, is mysteriously growing younger the farther along
 their mission progresses.
 
-:: Date
-1988-02-08
+:: Genre
+political drama
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 the desire for redemption [Jameson about past dealings with Karnass] <Mark Jameson>,
@@ -1191,20 +1191,20 @@ tng1x17
 :: Title
 When The Bough Breaks
 
+:: Date
+1988-02-15
+
 :: Description
 A planet formerly existing only in legend uncloaks and requests help from the
 Enterprise . Planet's inhabitants are sterile and want to adopt children from
 the Enterprise —by force, if necessary.
 
-:: Date
-1988-02-15
+:: Genre
+human drama, social awareness
 
 :: Ratings
 2 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama, social awareness
 
 :: Choice Themes
 slaves to technology [Aldeans were completely reliant on their central computer system] <Aldean>,
@@ -1273,18 +1273,18 @@ tng1x18
 :: Title
 Home Soil
 
+:: Date
+1988-02-22
+
 :: Description
 The crew of the Enterprise discovers a crystalline lifeform with murderous
 intelligence that has been killing the scientists on a terraforming project.
 
-:: Date
-1988-02-22
+:: Genre
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 microscopic sentient life form [the microbrains] <Microbrains of Velara III>,
@@ -1336,12 +1336,12 @@ tng1x19
 :: Title
 Coming of Age
 
+:: Date
+1988-03-14
+
 :: Description
 While Wesley takes a Starfleet Academy entrance exam, the senior staff of the
 Enterprise are placed under investigation by Starfleet .
-
-:: Date
-1988-03-14
 
 :: Ratings
 2 <Mikael>
@@ -1414,19 +1414,19 @@ tng1x20
 :: Title
 Heart of Glory
 
+:: Date
+1988-03-21
+
 :: Description
 Fugitive Klingons seeking battle attempt to hijack the Enterprise , and ask
 Worf to join them.
 
-:: Date
-1988-03-21
+:: Genre
+action
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 belonging [Worf with Klingon brethren] <Worf>,
@@ -1483,19 +1483,19 @@ tng1x21
 :: Title
 The Arsenal of Freedom
 
+:: Date
+1988-04-11
+
 :: Description
 Trapped on the surface of an abandoned planet, an away team becomes unwitting
 participants in the demonstration of an advanced weapons system.
 
-:: Date
-1988-04-11
+:: Genre
+social awareness, action
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-social awareness, action
 
 :: Choice Themes
 rise of the machines [autonomous adaptive machines killed everyone on planet],
@@ -1555,13 +1555,13 @@ tng1x22
 :: Title
 Symbiosis
 
+:: Date
+1988-04-18
+
 :: Description
 Picard tries to mediate a trade dispute between two neighboring planets, one
 of which is the sole supplier of a drug to treat the other's apparently fatal
 disease.
-
-:: Date
-1988-04-18
 
 :: Ratings
 4 <Mikael>
@@ -1619,18 +1619,18 @@ tng1x23
 :: Title
 Skin of Evil
 
+:: Date
+1988-04-25
+
 :: Description
 An evil, tar-like creature holds Troi hostage on an alien world. During the
 rescue mission, one of the Enterprise crew is killed.
 
-:: Date
-1988-04-25
+:: Genre
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the human capacity for good and evil [Armus was an embodiment of pure evil],
@@ -1694,19 +1694,19 @@ tng1x24
 :: Title
 We'll Always Have Paris
 
+:: Date
+1988-05-02
+
 :: Description
 Picard meets an old flame, whose husband has been affected by an accident
 involving a dimensional experiment.
 
-:: Date
-1988-05-02
+:: Genre
+romance
 
 :: Ratings
 4 <Mikael>
 2 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 the dangers of unfettered scientific advancement [Manheim's experiment nearly destroys the universe],
@@ -1760,20 +1760,20 @@ tng1x25
 :: Title
 Conspiracy
 
+:: Date
+1988-05-09
+
 :: Description
 The strange behavior of high-ranking officers—which earlier prompted the
 investigation of the crew (in " Coming of Age ")—leads Picard to uncover a
 conspiracy within Starfleet .
 
-:: Date
-1988-05-09
+:: Genre
+horror
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-horror
 
 :: Choice Themes
 facing a conspiracy [Picard faces bug alien take over of Star Fleet] <Picard>,
@@ -1834,20 +1834,20 @@ tng1x26
 :: Title
 The Neutral Zone
 
+:: Date
+1988-05-16
+
 :: Description
 A derelict satellite is found containing cryonically frozen humans from the
 21st century as the Enterprise is sent to investigate the destruction of
 outposts near Romulan space.
 
-:: Date
-1988-05-16
+:: Genre
+human drama
 
 :: Ratings
 5 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 past point of view [frozen people] <Clare Raymond, Ralph Offenhouse, L.Q. Sonny Clemonds>,
@@ -1908,20 +1908,20 @@ tng2x01
 :: Title
 The Child
 
+:: Date
+1988-11-21
+
 :: Description
 Dr. Pulaski joins the Enterprise while La Forge prepares the Enterprise to
 transport dangerous plague specimens; Deanna spontaneously becomes pregnant
 and gives birth to a mysterious child.
 
-:: Date
-1988-11-21
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 the thirst for knowledge [Ian wants to know the world from a human point of view] <Ian>,
@@ -1982,19 +1982,19 @@ tng2x02
 :: Title
 Where Silence Has Lease
 
+:: Date
+1988-11-28
+
 :: Description
 The Enterprise becomes trapped in a spatial phenomena. Here they are subjected
 to unusual experiments by the whim of a being unlike any they've encountered
 before.
 
-:: Date
-1988-11-28
+:: Genre
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 alien point of view [Nagilum] <Nagilum, Nagilum>,
@@ -2064,20 +2064,20 @@ tng2x03
 :: Title
 Elementary, Dear Data
 
+:: Date
+1988-12-05
+
 :: Description
 After Data easily solves an ordinary Sherlock Holmes holodeck mystery, Geordi
 asks the computer to make a Holmes villain capable of defeating him. The
 resultant Professor Moriarty soon becomes far more powerful than expected.
 
-:: Date
-1988-12-05
+:: Genre
+mystery
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 AI rights [should Moriarty have the usual rights that come with being a person, if he was one],
@@ -2125,20 +2125,20 @@ tng2x04
 :: Title
 The Outrageous Okona
 
+:: Date
+1988-12-12
+
 :: Description
 The Enterprise is caught up in the schemes of a flamboyant space rogue on the
 run, while Data explores humor with the help of a holodeck comedian (played by
 Joe Piscopo ).
 
-:: Date
-1988-12-12
+:: Genre
+flight of fancy, comedy
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-flight of fancy, comedy
 
 :: Choice Themes
 forbidden love [Benzan and Yanar] <Benzan/Yanar>,
@@ -2202,19 +2202,19 @@ tng2x05
 :: Title
 Loud As A Whisper
 
+:: Date
+1989-01-09
+
 :: Description
 The Enterprise hosts a deaf, telepathic ambassador who mediates difficult
 peace negotiations with the assistance of his trio of telepathic interpreters.
 
-:: Date
-1989-01-09
+:: Genre
+romance, political drama
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-romance, political drama
 
 :: Choice Themes
 coping with a disability [Riva with being deaf] <Riva>,
@@ -2269,19 +2269,19 @@ tng2x06
 :: Title
 The Schizoid Man
 
+:: Date
+1989-01-23
+
 :: Description
 Brilliant scientist Dr. Ira Graves cheats death by uploading his memories and
 personality into the android Data .
 
-:: Date
-1989-01-23
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 the quest for immortality [Ira transferred his consciousness into Data to stave off death.] <Ira Graves>,
@@ -2343,20 +2343,20 @@ tng2x07
 :: Title
 Unnatural Selection
 
+:: Date
+1989-01-30
+
 :: Description
 The Enterprise receives a distress call from the USS Lantree, discovering
 their crew has apparently died of old age. The race is on to solve the mystery
 before scientists on a research colony suffer the same fate.
 
-:: Date
-1989-01-30
+:: Genre
+medical drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-medical drama
 
 :: Choice Themes
 playing God with nature [genetically engineering the kids],
@@ -2419,19 +2419,19 @@ tng2x08
 :: Title
 A Matter Of Honor
 
+:: Date
+1989-02-06
+
 :: Description
 Riker is assigned to a Klingon vessel via an officer exchange program between
 the Federation and the Klingon Empire.
 
-:: Date
-1989-02-06
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 cultural exchange [Riker went aboard a Klingon vessel, and a Benzite named Mordock came aboard the Enterprise, in an attempt to foster cross cultural understanding.],
@@ -2485,20 +2485,20 @@ tng2x09
 :: Title
 The Measure Of A Man
 
+:: Date
+1989-02-13
+
 :: Description
 When Data refuses orders to be dismantled for research purposes, a hearing is
 convened to determine if he is a legal citizen or property of the Federation .
 Guest stars Amanda McBroom as JAG Philippa Louvois.
 
-:: Date
-1989-02-13
+:: Genre
+courtroom drama
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-courtroom drama
 
 :: Choice Themes
 AI rights [Data's personhood challenged in a court of law],
@@ -2556,19 +2556,19 @@ tng2x10
 :: Title
 The Dauphin
 
+:: Date
+1989-02-20
+
 :: Description
 When the Enterprise hosts the young leader of Daled IV, Wesley soon finds
 himself falling in love with her. Guest stars Paddi Edwards as Anya.
 
-:: Date
-1989-02-20
+:: Genre
+romance
 
 :: Ratings
 4 <Mikael>
 2 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 infatuation [Wesley and Salia] <Wesley, Salia>,
@@ -2618,18 +2618,18 @@ tng2x11
 :: Title
 Contagion
 
+:: Date
+1989-03-20
+
 :: Description
 A dangerous alien computer virus runs rampant through the Enterprise after
 causing the destruction of her sister ship, the USS Yamato.
 
-:: Date
-1989-03-20
+:: Genre
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 arms race [Romulans wanted to use the gateway for war, but Picard destroyed them on behalf of the Federation],
@@ -2693,19 +2693,19 @@ tng2x12
 :: Title
 The Royale
 
+:: Date
+1989-03-27
+
 :: Description
 Riker , Worf , and Data investigate a structure on the surface of an icy gas
 giant , which appears to be a hotel from 20th century Earth.
 
-:: Date
-1989-03-27
+:: Genre
+mystery, surreal, flight of fancy
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery, surreal, flight of fancy
 
 :: Choice Themes
 alien point of view [the aliens had though the book was reality] <Casino Royale Makers>,
@@ -2757,18 +2757,18 @@ tng2x13
 :: Title
 Time Squared
 
+:: Date
+1989-04-03
+
 :: Description
 Picard encounters his future self, when the Enterprise becomes caught in a
 time loop.
 
-:: Date
-1989-04-03
+:: Genre
 
 :: Ratings
 2 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 time travel [Enterprise stuck in a time loop],
@@ -2814,20 +2814,20 @@ tng2x14
 :: Title
 The Icarus Factor
 
+:: Date
+1989-04-24
+
 :: Description
 Riker 's estranged father visits to brief him on the command he's been
 offered, and Worf's friends discover he is about to miss an important Klingon
 rite of passage.
 
-:: Date
-1989-04-24
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 father and son [Riker and Kyle Riker] <Riker/Kyle Riker>,
@@ -2892,18 +2892,18 @@ tng2x15
 :: Title
 Pen Pals
 
+:: Date
+1989-05-01
+
 :: Description
 The Prime Directive is threatened when Data befriends the child of a pre-warp
 planet.
 
-:: Date
-1989-05-01
+:: Genre
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the ethics of interfering in less advanced societies [Data, seconded by Picard, violates Prime Directive to save Sarjenka] <Picard>,
@@ -2967,19 +2967,19 @@ tng2x16
 :: Title
 Q Who
 
+:: Date
+1989-05-08
+
 :: Description
 Q flings the Enterprise 7,000 light years beyond Federation space and
 introduces them to the deadly Borg .
 
-:: Date
-1989-05-08
+:: Genre
+action, adventure
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-action, adventure
 
 :: Choice Themes
 collectively intelligent beings [Borg] <Borg>,
@@ -3056,19 +3056,19 @@ tng2x17
 :: Title
 Samaritan Snare
 
+:: Date
+1989-05-15
+
 :: Description
 A group of seemingly dimwitted aliens, the Pakleds , kidnap Geordi to "make
 their ship go".
 
-:: Date
-1989-05-15
+:: Genre
+medical drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-medical drama
 
 :: Choice Themes
 primitive-minded spacefaring alien [Pakled] <Pakled>,
@@ -3123,19 +3123,19 @@ tng2x18
 :: Title
 Up The Long Ladder
 
+:: Date
+1989-05-22
+
 :: Description
 Picard must find a way to bring two radically incompatible cultures together,
 lest both of them suffer extinction.
 
-:: Date
-1989-05-22
+:: Genre
+flight of fancy
 
 :: Ratings
 3 <Mikael>
 1 <Paul>
-
-:: Genre
-flight of fancy
 
 :: Choice Themes
 cooperation [the Bringloidi and Mariposans must mate together to survive],
@@ -3211,19 +3211,19 @@ tng2x19
 :: Title
 Manhunt
 
+:: Date
+1989-06-19
+
 :: Description
 Deanna 's mother is in the market for a new husband, and she's set her sights
 on Picard .
 
-:: Date
-1989-06-19
+:: Genre
+flight of fancy
 
 :: Ratings
 2 <Mikael>
 1 <Paul>
-
-:: Genre
-flight of fancy
 
 :: Choice Themes
 coping with menopause [Lwaxana with Betazoid PMS] <Lwaxana>,
@@ -3286,19 +3286,19 @@ tng2x20
 :: Title
 The Emissary
 
+:: Date
+1989-06-26
+
 :: Description
 Worf 's former lover comes aboard Enterprise to help deal with ship of Klingon
 sleeper agents unaware they are no longer at war.
 
-:: Date
-1989-06-26
+:: Genre
+romance
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 nostalgic love [Worf and K'Ehleyr] <Worf, K'Ehleyr>,
@@ -3362,19 +3362,19 @@ tng2x21
 :: Title
 Peak Performance
 
+:: Date
+1989-07-10
+
 :: Description
 The Enterprise and USS Hathaway face off in simulated combat maneuvers. Data
 fails to beat a humanoid at a game of Strategema and exhibits self-doubt.
 
-:: Date
-1989-07-10
+:: Genre
+action
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 leadership [Riker showcases his leadership abilities as captain of the Hathaway; contrasted with Picard] <Picard, Riker>,
@@ -3437,20 +3437,20 @@ tng2x22
 :: Title
 Shades of Gray
 
+:: Date
+1989-07-17
+
 :: Description
 Riker is poisoned into a coma where he relives various moments of his service
 aboard the Enterprise . (Clip show as a result of the 1988 Writers Guild of
 America strike .)
 
-:: Date
-1989-07-17
+:: Genre
+medical drama
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-medical drama
 
 :: Choice Themes
 coping with a loved one being gravely ill [Troi stayed by Riker's side while he lay in a delirium on his deathbed.],
@@ -3484,18 +3484,18 @@ tng3x01
 :: Title
 Evolution
 
+:: Date
+1989-09-25
+
 :: Description
 Nanites escape Wesley 's lab and form a collective intelligence, threatening
 the Enterprise . Guest star Ken Jenkins as Dr. Paul Stubbs.
 
-:: Date
-1989-09-25
+:: Genre
 
 :: Ratings
 5 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 obsession [Stubs] <Paul Stubbs>,
@@ -3573,19 +3573,19 @@ tng3x02
 :: Title
 The Ensigns of Command
 
+:: Date
+1989-10-02
+
 :: Description
 Data must persuade a stubborn colony to evacuate their homeland under threat
 of a powerful and mysterious race.
 
-:: Date
-1989-10-02
+:: Genre
+political drama
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 leadership [Data's leadership skills put to the test against those of Ghosheven] <Data, Gosheven>,
@@ -3655,21 +3655,21 @@ tng3x03
 :: Title
 The Survivors
 
+:: Date
+1989-10-09
+
 :: Description
 The Enterprise investigates the last two survivors of an annihilated world, as
 the entire surface has been transformed to dust except their one little garden
 and house. Guest stars John Anderson and Anne Haney as Kevin and Rishon
 Uxbridge.
 
-:: Date
-1989-10-09
+:: Genre
+mystery
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 pacifism [Kevin] <Kevin Uxbridge>,
@@ -3751,19 +3751,19 @@ tng3x04
 :: Title
 Who Watches The Watchers
 
+:: Date
+1989-10-16
+
 :: Description
 Deanna and Riker must rectify the damage done when two primitives from Mintaka
 III catch glimpse of a Federation observation team and eventually conclude
 that Captain Picard is a god.
 
-:: Date
-1989-10-16
+:: Genre
 
 :: Ratings
 3 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the ethics of interfering in less advanced societies [crew must undo harm done by violation of Prime Directive],
@@ -3815,19 +3815,19 @@ tng3x05
 :: Title
 The Bonding
 
+:: Date
+1989-10-23
+
 :: Description
 A mysterious entity seeks to comfort a boy who has lost his mother in an
 accident on its planet. Guest star Gabriel Damon as Jeremy Aster.
 
-:: Date
-1989-10-23
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 coping with the death of a parent [Jeremy with the death of his mother] <Jeremy Aster>,
@@ -3889,21 +3889,21 @@ tng3x06
 :: Title
 Booby Trap
 
+:: Date
+1989-10-30
+
 :: Description
 The Enterprise falls victim to an ancient booby trap set to snare starships;
 while in an effort to find an escape, Geordi finds himself falling for the
 holodeck 's representation of a famous Federation engineer. Guest star Susan
 Gibney as Dr. Leah Brahms.
 
-:: Date
-1989-10-30
+:: Genre
+romance
 
 :: Ratings
 2 <Mikael>
 4 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 virtual person [Geordi simulated Leah on the holodeck],
@@ -3957,19 +3957,19 @@ tng3x07
 :: Title
 The Enemy
 
+:: Date
+1989-11-06
+
 :: Description
 Geordi is trapped on a harsh planet with a hostile Romulan , and the two must
 work together to survive.
 
-:: Date
-1989-11-06
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 male bonding [Geordi and Bochra] <Geordi/Bochra>,
@@ -4039,21 +4039,21 @@ tng3x08
 :: Title
 The Price
 
+:: Date
+1989-11-13
+
 :: Description
 Troi falls in love with a charismatic negotiator who vies for rights to a
 wormhole . But several different groups, including the Ferengi , are after the
 wormhole as it may be the only known stable wormhole in existence. Guest star
 Dan Shor as Dr. Arridor.
 
-:: Date
-1989-11-13
+:: Genre
+romance, political drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-romance, political drama
 
 :: Choice Themes
 negotiation [much ado about the art of the deal, especially around Riker],
@@ -4131,18 +4131,18 @@ tng3x09
 :: Title
 The Vengeance Factor
 
+:: Date
+1989-11-20
+
 :: Description
 Riker exposes an assassin in the midst of critical peace talks.
 
-:: Date
-1989-11-20
+:: Genre
+political drama, romance
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama, romance
 
 :: Choice Themes
 reconciliation between two peoples [Acamarians and Gatherers] <Acamarian/Acamarian Outcasts>,
@@ -4215,19 +4215,19 @@ tng3x10
 :: Title
 The Defector
 
+:: Date
+1990-01-01
+
 :: Description
 Determined to avert a war, a Romulan officer defects to warn Picard of his
 Empire's invasion plans.
 
-:: Date
-1990-01-01
+:: Genre
+political drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 treason [Jarok was accused of committing treason by the Romulans] <Alidar Jarok>,
@@ -4300,19 +4300,19 @@ tng3x11
 :: Title
 The Hunted
 
+:: Date
+1990-01-08
+
 :: Description
 A genetically modified soldier reveals the social problems of a world hoping
 to join the Federation . Guest star James Cromwell as Prime Minister Nayrok.
 
-:: Date
-1990-01-08
+:: Genre
+social awareness, action
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-social awareness, action
 
 :: Choice Themes
 prisoners' rights [Dangerous supersoldier war veterans were being imprisoned indefinitely on a moon.],
@@ -4388,19 +4388,19 @@ tng3x12
 :: Title
 The High Ground
 
+:: Date
+1990-01-29
+
 :: Description
 Dr. Crusher is kidnapped by terrorists who need medical assistance as the
 technology employed in their attacks is detrimental to their own health.
 
-:: Date
-1990-01-29
+:: Genre
+action, social awareness
 
 :: Ratings
 3 <Mikael>
 1 <Paul>
-
-:: Genre
-action, social awareness
 
 :: Choice Themes
 terrorist or freedom fighter [the terrorists saw themselves as fighting for their autonomy],
@@ -4472,18 +4472,18 @@ tng3x13
 :: Title
 Deja Q
 
+:: Date
+1990-02-05
+
 :: Description
 The Q Continuum strips Q of his powers, and dumps him aboard the Enterprise .
 
-:: Date
-1990-02-05
+:: Genre
+flight of fancy
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-flight of fancy
 
 :: Choice Themes
 mercy [Picard and the crew toward Q] <Picard>,
@@ -4552,19 +4552,19 @@ tng3x14
 :: Title
 A Matter of Perspective
 
+:: Date
+1990-02-12
+
 :: Description
 Riker is accused of murder, and the holodeck is used to reconstruct the events
 from different perspectives.
 
-:: Date
-1990-02-12
+:: Genre
+courtroom drama, whodunnit
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-courtroom drama, whodunnit
 
 :: Choice Themes
 guilt and evidence [Riker put on holo-trial],
@@ -4639,19 +4639,19 @@ tng3x15
 :: Title
 Yesterday's Enterprise
 
+:: Date
+1990-02-19
+
 :: Description
 The Enterprise-C arrives from the past, causing a shift in reality—and the
 return of the deceased Tasha Yar .
 
-:: Date
-1990-02-19
+:: Genre
+action, romance
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-action, romance
 
 :: Choice Themes
 selfless service [Tasha travels back in time to face certain death at the hands of the Klingons] <Tasha>,
@@ -4724,20 +4724,20 @@ tng3x16
 :: Title
 The Offspring
 
+:: Date
+1990-03-12
+
 :: Description
 Data creates a young gynoid, which he considers his daughter, "Lal". But a
 Starfleet admiral arrives demanding she be removed from the Enterprise. Guest
 star Hallie Todd as Lal.
 
-:: Date
-1990-03-12
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 father and daughter [Data and Lal] <Data/Lal>,
@@ -4795,20 +4795,20 @@ tng3x17
 :: Title
 Sins of the Father
 
+:: Date
+1990-03-19
+
 :: Description
 Worf goes on trial to prove his father's innocence after the Klingon High
 Council declares that Worf's father is a traitor, and worked with the Romulans
 all along.
 
-:: Date
-1990-03-19
+:: Genre
+political drama, courtroom drama
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-political drama, courtroom drama
 
 :: Choice Themes
 honor [Worf's family honor on the line] <Worf>,
@@ -4873,20 +4873,20 @@ tng3x18
 :: Title
 Allegiance
 
+:: Date
+1990-03-26
+
 :: Description
 Aliens kidnap Picard and replace him with a duplicate, who sends the
 Enterprise to a pulsar . Meanwhile, the real Picard and three other captives
 try to escape from their prison.
 
-:: Date
-1990-03-26
+:: Genre
+mystery
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 cooperation [Picard and prisoners must cooperate to escape alien experiment],
@@ -4954,19 +4954,19 @@ tng3x19
 :: Title
 Captain's Holiday
 
+:: Date
+1990-04-02
+
 :: Description
 Picard is convinced to take some much needed shore leave, but gets wrapped up
 in a woman's treasure hunt. Guest star Max Grodenchik as Sovak.
 
-:: Date
-1990-04-02
+:: Genre
+adventure, romance, flight of fancy
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-adventure, romance, flight of fancy
 
 :: Choice Themes
 infatuation [Picard and Vash] <Picard/Vash>,
@@ -5031,19 +5031,19 @@ tng3x20
 :: Title
 Tin Man
 
+:: Date
+1990-04-23
+
 :: Description
 A gifted telepath whom Deanna Troi once treated as a patient comes aboard to
 establish first contact with an unknown vessel near an unstable star before
 the Romulans do.
 
-:: Date
-1990-04-23
+:: Genre
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 what if I heard all the thoughts around me [Tam was driven crazy by the hearing of other people's thoughts] <Tam Elbrun>,
@@ -5120,19 +5120,19 @@ tng3x21
 :: Title
 Hollow Pursuits
 
+:: Date
+1990-04-30
+
 :: Description
 Lt. Barclay 's use of the holodeck as an escape interferes with his duties.
 Meanwhile, the Enterprise suffers from mysterious and random malfunctions.
 
-:: Date
-1990-04-30
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 workplace relations [what to do with Barclay],
@@ -5204,18 +5204,18 @@ tng3x22
 :: Title
 The Most Toys
 
+:: Date
+1990-05-07
+
 :: Description
 An obsessed collector is determined to add Data to his private collection of
 unique items. Guest star Saul Rubinek as Kivas Fajo.
 
-:: Date
-1990-05-07
+:: Genre
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the human capacity for good and evil [Data was preeminently good whereas Fajo was almost pure sadistic evil],
@@ -5297,6 +5297,9 @@ tng3x23
 :: Title
 Sarek
 
+:: Date
+1990-05-14
+
 :: Description
 The Enterprise is plagued by an outbreak of violence when it is visited by the
 renowned Vulcan ambassador, Sarek . Discovering that Sarek is suffering from
@@ -5304,15 +5307,12 @@ an incurable disease, Captain Picard must allow a mind-meld with him so that
 the ambassador can complete a last vital negotiation between the Federation
 and the Legaran .
 
-:: Date
-1990-05-14
+:: Genre
+political drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 coping with senility [Sarek] <Sarek>,
@@ -5396,18 +5396,18 @@ tng3x24
 :: Title
 Ménage à Troi
 
+:: Date
+1990-05-28
+
 :: Description
 The Ferengi kidnap Deanna , her mother and Riker .
 
-:: Date
-1990-05-28
+:: Genre
+romance, adventure
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-romance, adventure
 
 :: Choice Themes
 obsession [Daimon Tog] <Tog>,
@@ -5472,18 +5472,18 @@ tng3x25
 :: Title
 Transfigurations
 
+:: Date
+1990-06-04
+
 :: Description
 The Enterprise rescues a humanoid with amnesia and incredible healing powers.
 
-:: Date
-1990-06-04
+:: Genre
+mystery
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 what if I underwent a physical metamorphosis [John Doe apotheosis] <John Doe>,
@@ -5545,19 +5545,19 @@ tng3x26
 :: Title
 The Best of Both Worlds
 
+:: Date
+1990-06-18
+
 :: Description
 Picard is kidnapped by the Borg, who begin their invasion of Federation
 space.
 
-:: Date
-1990-06-18
+:: Genre
+action
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 clash of wills [Riker and Shelby] <Riker/Shelby>,
@@ -5628,6 +5628,9 @@ tng4x01
 :: Title
 The Best of Both Worlds, Part II
 
+:: Date
+1990-09-24
+
 :: Description
 Picard is rescued from the Borg as the Enterprise races to save Earth. A great
 number of Starfleet ships are destroyed by the lone Borg ship, although an
@@ -5635,15 +5638,12 @@ away team finally rescues Picard. Data interfaces with the half-Borg Picard
 and finds a way to shut down the Borg ship. Guest star Elizabeth Dennehy as
 Starfleet Commander Shelby.
 
-:: Date
-1990-09-24
+:: Genre
+action
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 attack from outer space by a powerful conquering enemy [The Borg launched an invasion of Earth.] <Borg>,
@@ -5706,21 +5706,21 @@ tng4x02
 :: Title
 Family
 
+:: Date
+1990-10-01
+
 :: Description
 While the Enterprise is going under repairs at Earth, Captain Picard visits
 his brother's family in France, Lt. Worf 's adoptive human parents come to see
 him aboard the ship and Dr. Crusher gives her son Wesley a personal holo-
 recording left by his late father shortly after the boy's birth.
 
-:: Date
-1990-10-01
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 family affairs [the Picard's, the Crushers, and the Worf's],
@@ -5803,19 +5803,19 @@ tng4x03
 :: Title
 Brothers
 
+:: Date
+1990-10-08
+
 :: Description
 Data is summoned by his creator Noonien Soong who is still alive, and they are
 joined by Lore .
 
-:: Date
-1990-10-08
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 android [Data and Lore] <Data, Lore, Soong Type Android>,
@@ -5883,18 +5883,18 @@ tng4x04
 :: Title
 Suddenly Human
 
+:: Date
+1990-10-15
+
 :: Description
 Picard must help a human boy, raised by aliens, to decide his fate.
 
-:: Date
-1990-10-15
+:: Genre
+human drama
 
 :: Ratings
 5 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 belonging [Jono feels more at home with aliens than with humans] <Jono>,
@@ -5961,20 +5961,20 @@ tng4x05
 :: Title
 Remember Me
 
+:: Date
+1990-10-22
+
 :: Description
 After an apparent failure of a warp-field experiment, people begin to
 disappear from the Enterprise with only Dr. Crusher remembering that they ever
 existed.
 
-:: Date
-1990-10-22
+:: Genre
+mystery
 
 :: Ratings
 2 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 what if I couldn't trust the veracity of my senses [Beverly in bubble universe] <Beverly>,
@@ -6033,19 +6033,19 @@ tng4x06
 :: Title
 Legacy
 
+:: Date
+1990-10-29
+
 :: Description
 Tasha Yar 's sister Ishara seeks to restore order on their conflict-ridden
 colony world.
 
-:: Date
-1990-10-29
+:: Genre
+action, human drama
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-action, human drama
 
 :: Choice Themes
 betrayal [Data by Ishara] <Data>,
@@ -6114,19 +6114,19 @@ tng4x07
 :: Title
 Reunion
 
+:: Date
+1990-11-05
+
 :: Description
 Worf 's ex-girlfriend returns, and along with Picard , the two mediate a
 Klingon power dispute and Worf discovers more family.
 
-:: Date
-1990-11-05
+:: Genre
+action, human drama, political drama
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-action, human drama, political drama
 
 :: Choice Themes
 honor [Worf and Klingons generally and the Klingon abhorrence of the use of poison in assassination] <Worf>,
@@ -6202,19 +6202,19 @@ tng4x08
 :: Title
 Future Imperfect
 
+:: Date
+1990-11-12
+
 :: Description
 Riker finds himself sixteen years in the future, his memory of the interim
 erased by a dormant virus.
 
-:: Date
-1990-11-12
+:: Genre
+mystery
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 what if I couldn't trust the veracity of my senses [Riker in Barash's simulated fantasy world] <Riker>,
@@ -6274,19 +6274,19 @@ tng4x09
 :: Title
 Final Mission
 
+:: Date
+1990-11-19
+
 :: Description
 Wesley sets off on his final mission with the Enterprise accompanied by Picard
 , but they become stranded on a desert planet.
 
-:: Date
-1990-11-19
+:: Genre
+adventure, social awareness
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-adventure, social awareness
 
 :: Choice Themes
 the qualities of a good leader [Picard takes charge in the desert] <Picard>,
@@ -6352,19 +6352,19 @@ tng4x10
 :: Title
 The Loss
 
+:: Date
+1990-12-31
+
 :: Description
 An unknown force captures the Enterprise and causes Deanna to lose her
 empathic powers.
 
-:: Date
-1990-12-31
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 coping with a disability [Troi loses empathic powers and the 2D beings with the loss of a dimension] <Troi>,
@@ -6418,20 +6418,20 @@ tng4x11
 :: Title
 Data's Day
 
+:: Date
+1991-01-07
+
 :: Description
 Data gets dancing lessons from Dr. Crusher in preparation of Chief O'Brien 's
 wedding as the Enterprise brings Ambassador T'Pel to the Romulans for
 negotiations.
 
-:: Date
-1991-01-07
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 AI point of view [the entire episode is seen from Data's point of view] <Data>,
@@ -6505,18 +6505,18 @@ tng4x12
 :: Title
 The Wounded
 
+:: Date
+1991-01-28
+
 :: Description
 A rogue Starfleet Captain jeopardizes the Cardassian peace treaty.
 
-:: Date
-1991-01-28
+:: Genre
+action, human drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-action, human drama
 
 :: Choice Themes
 the desire for vengeance [Maxwell toward Cardassians] <Benjamin Maxwell>,
@@ -6577,20 +6577,20 @@ tng4x13
 :: Title
 Devil's Due
 
+:: Date
+1991-02-04
+
 :: Description
 A powerful mythic figure from a millennium ago returns to enslave a planet in
 accordance with a contract. However Picard is convinced she is an
 opportunistic charlatan. Guest star Marta DuBois as Ardra.
 
-:: Date
-1991-02-04
+:: Genre
+human drama, comedy, satire, social awareness
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-human drama, comedy, satire, social awareness
 
 :: Choice Themes
 science as magic to the primitive [Ardra's parlor tricks were assumed to be the work of the devil by the Ventaxians] <Ventaxian>,
@@ -6669,20 +6669,20 @@ tng4x14
 :: Title
 Clues
 
+:: Date
+1991-02-11
+
 :: Description
 The crew, with the exception of Data , is rendered unconscious for 30 seconds
 after going through a localized wormhole . However, various clues suggest they
 were unconscious for an entire day.
 
-:: Date
-1991-02-11
+:: Genre
+mystery
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 duty vs. duty [Data was ordered by Picard to lie and then not to lie] <Data>,
@@ -6748,19 +6748,19 @@ tng4x15
 :: Title
 First Contact
 
+:: Date
+1991-02-18
+
 :: Description
 Riker is hospitalized during a botched pre-first contact mission. Xenophobia
 results in increasing hostility toward his presence.
 
-:: Date
-1991-02-18
+:: Genre
+political drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 conservative vs. liberal [Malcorians struggle to decide whether to open relations with the Federation or keep to themsleves],
@@ -6822,21 +6822,21 @@ tng4x16
 :: Title
 Galaxy's Child
 
+:: Date
+1991-03-11
+
 :: Description
 The Enterprise accidentally kills a space creature, and the crew rush to save
 its unborn offspring. Meanwhile, Geordi meets the engineer he fell in love
 with and finds to his shock, she's nothing like the woman he encountered on
 the holodeck . Guest star Susan Gibney as Dr. Leah Brahms.
 
-:: Date
-1991-03-11
+:: Genre
+romance
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 killing to survive [The space whale was fired on in self-defense.],
@@ -6892,19 +6892,19 @@ tng4x17
 :: Title
 Night Terrors
 
+:: Date
+1991-03-18
+
 :: Description
 The Enterprise is trapped in a rift. The crew succumbs to REM sleep
 deprivation, while Deanna has a recurring nightmare.
 
-:: Date
-1991-03-18
+:: Genre
+mystery
 
 :: Ratings
 5 <Mikael>
 3 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 coping with insomnia [everyone but with emphasis on Picard, Riker, and Beverly] <Picard, Riker, Beverly>,
@@ -6967,19 +6967,19 @@ tng4x18
 :: Title
 Identity Crisis
 
+:: Date
+1991-03-25
+
 :: Description
 Geordi transforms into an alien creature with strong instinct to return to its
 planet of origin.
 
-:: Date
-1991-03-25
+:: Genre
+mystery, whodunnit
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-mystery, whodunnit
 
 :: Choice Themes
 what if I underwent a physical metamorphosis [Geordi transforms into bioluminiscent creature] <Geordi>,
@@ -7025,18 +7025,18 @@ tng4x19
 :: Title
 The Nth Degree
 
+:: Date
+1991-04-01
+
 :: Description
 After an encounter with an alien probe Barclay experiences great leaps in
 confidence and intelligence.
 
-:: Date
-1991-04-01
+:: Genre
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 self-confidence [Barclay does from feeling inferior to his colleagues to being a super intelligent being] <Barclay>,
@@ -7117,11 +7117,11 @@ tng4x20
 :: Title
 Qpid
 
-:: Description
-Q returns to test Picard 's love for an old flame.
-
 :: Date
 1991-04-22
+
+:: Description
+Q returns to test Picard 's love for an old flame.
 
 :: Ratings
 2 <Mikael>
@@ -7193,19 +7193,19 @@ tng4x21
 :: Title
 The Drumhead
 
+:: Date
+1991-04-29
+
 :: Description
 A witchhunt ensues for suspected Romulan spies aboard the Enterprise . Guest
 star Jean Simmons as Rear Admiral Norah Satie.
 
-:: Date
-1991-04-29
+:: Genre
+courtroom drama
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-courtroom drama
 
 :: Choice Themes
 obsession [Satie with witch-hunt] <Norah Satie>,
@@ -7277,19 +7277,19 @@ tng4x22
 :: Title
 Half a Life
 
+:: Date
+1991-05-06
+
 :: Description
 Lwaxana Troi finally finds love, but discovers her man must undergo a
 ritualistic suicide. Guest star David Ogden Stiers as Timicin.
 
-:: Date
-1991-05-06
+:: Genre
+romance
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 euthanasia [Timicin was expected and pressured to commit suicide at the age of 65],
@@ -7364,20 +7364,20 @@ tng4x23
 :: Title
 The Host
 
+:: Date
+1991-05-13
+
 :: Description
 Dr. Crusher falls in love with Odan, only to discover that Odan is a symbiote,
 which is implanted into Riker after his original host dies. Odan continues
 peace negotiations using Riker as a temporary host.
 
-:: Date
-1991-05-13
+:: Genre
+political drama, romance
 
 :: Ratings
 5 <Mikael>
 4 <Paul>
-
-:: Genre
-political drama, romance
 
 :: Choice Themes
 infatuation [Beverly and Odan] <Beverly, Odan>,
@@ -7437,17 +7437,17 @@ tng4x24
 :: Title
 The Mind's Eye
 
+:: Date
+1991-05-27
+
 :: Description
 The Romulans brainwash Geordi to carry out a covert mission.
 
-:: Date
-1991-05-27
+:: Genre
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
 
 :: Choice Themes
 mind control technology [Romulans used technology to mentally condition Geordi],
@@ -7507,18 +7507,18 @@ tng4x25
 :: Title
 In Theory
 
+:: Date
+1991-06-03
+
 :: Description
 Data participates in a romantic relationship with a fellow crew member.
 
-:: Date
-1991-06-03
+:: Genre
+mystery, romance
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-mystery, romance
 
 :: Choice Themes
 infatuation [Data and Jenna] <Data, Jenna D'Sora>,
@@ -7584,19 +7584,19 @@ tng4x26
 :: Title
 Redemption
 
+:: Date
+1991-06-17
+
 :: Description
 Worf leaves the Enterprise to fight on behalf of Gowron in a Klingon civil
 war.
 
-:: Date
-1991-06-17
+:: Genre
+political drama
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 the desire for redemption [Worf and Kurn want to redeem their father's soiled reputation] <Worf, Kurn>,
@@ -7654,19 +7654,19 @@ tng5x01
 :: Title
 Redemption II
 
+:: Date
+1991-09-23
+
 :: Description
 A fleet of 23 Federation ships blockades Romulan support to the Duras family,
 resulting in Gowron's installation as Chancellor.
 
-:: Date
-1991-09-23
+:: Genre
+political drama, action
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-political drama, action
 
 :: Choice Themes
 AI prejudice in society [Picard initially did not assign Data command of a ship, but after Data questioned him about the omission, Picard gave him command of the Sutherland. Data's first officer aboard the Sutherland was extremely bigoted against his new android captain.],
@@ -7727,18 +7727,18 @@ tng5x02
 :: Title
 Darmok
 
+:: Date
+1991-09-30
+
 :: Description
 Picard must learn to communicate with an alien captain who speaks in metaphors
 before a dangerous beast kills them both. Guest star Paul Winfield as Dathan.
 
-:: Date
-1991-09-30
+:: Genre
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 male bonding [Picard and Dathon] <Picard/Dathon>,
@@ -7794,19 +7794,19 @@ tng5x03
 :: Title
 Ensign Ro
 
+:: Date
+1991-10-07
+
 :: Description
 After an attack on a Federation outpost, Picard is sent to locate a Bajoran
 terrorist, with the help of Ensign Ro Laren .
 
-:: Date
-1991-10-07
+:: Genre
+human drama, action
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-human drama, action
 
 :: Choice Themes
 terrorist or freedom fighter [the Maquis],
@@ -7875,12 +7875,12 @@ tng5x04
 :: Title
 Silicon Avatar
 
+:: Date
+1991-10-14
+
 :: Description
 The crew, with the help of a scientist whose son lived on Data's home world,
 attempt to communicate with the Crystalline Entity .
-
-:: Date
-1991-10-14
 
 :: Ratings
 4 <Mikael>
@@ -7953,19 +7953,19 @@ tng5x05
 :: Title
 Disaster
 
+:: Date
+1991-10-21
+
 :: Description
 The Enterprise is without power, trapping Picard in a turbolift with three
 children and trapping others in various locations. Command of the bridge falls
 to Counselor Troi , who feels ill-prepared.
 
-:: Date
-1991-10-21
+:: Genre
 
 :: Ratings
 4 <Mikael>
 2 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the calculus of human life [Troi forced to make life or death decisions in the face of uncertainty] <Troi>,
@@ -8028,19 +8028,19 @@ tng5x06
 :: Title
 The Game
 
+:: Date
+1991-10-28
+
 :: Description
 Wesley visits the Enterprise , but finds the crew addicted to a mind-altering
 computer game. Guest star Ashley Judd as Robin Lefler.
 
-:: Date
-1991-10-28
+:: Genre
+romance, thriller, erotica, teenage drama
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-romance, thriller, erotica, teenage drama
 
 :: Choice Themes
 mind control technology [the video game],
@@ -8108,19 +8108,19 @@ tng5x07
 :: Title
 Unification I
 
+:: Date
+1991-11-04
+
 :: Description
 Spock is reported to have defected to the Romulans. Picard and Data travel to
 Romulus on a cloaked Klingon vessel to investigate.
 
-:: Date
-1991-11-04
+:: Genre
+political drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 father and son [Sarek and Spock] <Sarek/Spock>,
@@ -8190,19 +8190,19 @@ tng5x08
 :: Title
 Unification II
 
+:: Date
+1991-11-11
+
 :: Description
 Spock attempts to unify the Vulcans and Romulans in peace, but falls into a
 Romulan trap.
 
-:: Date
-1991-11-11
+:: Genre
+political drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 resistance movement [Spock was cultivating underground movement on Romulus],
@@ -8284,19 +8284,19 @@ tng5x09
 :: Title
 A Matter of Time
 
+:: Date
+1991-11-18
+
 :: Description
 An apparent historian from the 26th century visits the Enterprise , while they
 help a planet prevent a nuclear winter . Guest star Matt Frewer as Berlinghoff
 Rasmussen.
 
-:: Date
-1991-11-18
+:: Genre
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the calculus of human life [if Picard does nothing and thousands must die, take action and millions might die] <Picard>,
@@ -8381,19 +8381,19 @@ tng5x10
 :: Title
 New Ground
 
+:: Date
+1992-01-06
+
 :: Description
 Worf tries to be a father to his son, Alexander, while the Enterprise helps to
 test a new propulsion technology.
 
-:: Date
-1992-01-06
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 1 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 human parenting [Worf must raise an unruly Alexander] <Worf>,
@@ -8464,18 +8464,18 @@ tng5x11
 :: Title
 Hero Worship
 
+:: Date
+1992-01-27
+
 :: Description
 Data saves the life of an orphaned boy, who begins to emulate him.
 
-:: Date
-1992-01-27
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 android [Data emulated by Timothy] <Data, Soong Type Android>,
@@ -8538,19 +8538,19 @@ tng5x12
 :: Title
 Violations
 
+:: Date
+1992-02-03
+
 :: Description
 An alien traveling aboard the Enterprise telepathically molests Troi and
 invades the minds of Beverly Crusher and William Riker .
 
-:: Date
-1992-02-03
+:: Genre
+horror
 
 :: Ratings
 4 <Mikael>
 2 <Paul>
-
-:: Genre
-horror
 
 :: Choice Themes
 telepathic society [Ullians were telepathic historians],
@@ -8609,19 +8609,19 @@ tng5x13
 :: Title
 The Masterpiece Society
 
+:: Date
+1992-02-10
+
 :: Description
 The Enterprise helps a far-flung eugenic human colony avoid destruction, but
 upsets its delicate balance by ending 200 years of isolation.
 
-:: Date
-1992-02-10
+:: Genre
+romance
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 genetic engineering utopia [the colonists lived in an artificial environment biospehere],
@@ -8691,19 +8691,19 @@ tng5x14
 :: Title
 Conundrum
 
+:: Date
+1992-02-17
+
 :: Description
 The crew's memory is erased, and they discover they are being manipulated into
 being the key part of a war.
 
-:: Date
-1992-02-17
+:: Genre
+mystery, romance
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery, romance
 
 :: Choice Themes
 wrestling with one's conscience [Picard about following his orders to destroy the Lysian base] <Picard>,
@@ -8768,19 +8768,19 @@ tng5x15
 :: Title
 Power Play
 
+:: Date
+1992-02-24
+
 :: Description
 Troi , O'Brien , and Data are possessed by entities who want control of the
 ship.
 
-:: Date
-1992-02-24
+:: Genre
+action
 
 :: Ratings
 1 <Mikael>
 2 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 dealing with terrorists [Picard with disembodied prisoners],
@@ -8854,19 +8854,19 @@ tng5x16
 :: Title
 Ethics
 
+:: Date
+1992-03-02
+
 :: Description
 Worf becomes paralyzed—and suicidal—and Dr. Crusher consults a risk-taking
 researcher to save his life.
 
-:: Date
-1992-03-02
+:: Genre
+medical drama
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-medical drama
 
 :: Choice Themes
 euthanasia [Worf wanted to end his life after being paralysed],
@@ -8936,19 +8936,19 @@ tng5x17
 :: Title
 The Outcast
 
+:: Date
+1992-03-16
+
 :: Description
 Riker falls in love with an androgynous person after rescuing some others
 trapped in "null space."
 
-:: Date
-1992-03-16
+:: Genre
+romance
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 forbidden love [Riker and Soren] <Riker/Soren>,
@@ -9010,19 +9010,19 @@ tng5x18
 :: Title
 Cause and Effect
 
+:: Date
+1992-03-23
+
 :: Description
 The Enterprise becomes stuck in a causality loop, but the crew retain some
 memory of previous instances. Guest star Kelsey Grammer as Morgan Bateson.
 
-:: Date
-1992-03-23
+:: Genre
+mystery
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 time loop [temporal causality loop],
@@ -9076,19 +9076,19 @@ tng5x19
 :: Title
 The First Duty
 
+:: Date
+1992-03-30
+
 :: Description
 Wesley is questioned over a Starfleet Academy flight-training accident. Guest
 star Ray Walston as Boothby.
 
-:: Date
-1992-03-30
+:: Genre
+high school drama, teenage drama
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-high school drama, teenage drama
 
 :: Choice Themes
 peer pressure [Locarno pressures Nova Squadron members to cover up space maneuver botchrequlting in squadron member death],
@@ -9162,20 +9162,20 @@ tng5x20
 :: Title
 Cost of Living
 
+:: Date
+1992-04-20
+
 :: Description
 Deanna 's mother, Lwaxana , arrives to marry a man she has never met. Worf has
 difficulty rearing Alexander, which is exacerbated when Lwaxana takes the boy
 under her wing.
 
-:: Date
-1992-04-20
+:: Genre
+human drama
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 father and son [Worf and Alexander] <Worf/Alexander Rozhenko>,
@@ -9245,20 +9245,20 @@ tng5x21
 :: Title
 The Perfect Mate
 
+:: Date
+1992-04-27
+
 :: Description
 Picard forces himself to resist the charms of a female empathic metamorph, who
 is sent to marry an alien leader as a peace offering. Guest star Famke Janssen
 as Kamala.
 
-:: Date
-1992-04-27
+:: Genre
+romance, political drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-romance, political drama
 
 :: Choice Themes
 forbidden love [Picard and Kamala] <Picard/Kamala>,
@@ -9335,12 +9335,12 @@ tng5x22
 :: Title
 Imaginary Friend
 
+:: Date
+1992-05-04
+
 :: Description
 A child's imaginary playmate takes on real form and threatens the well-being
 of the Enterprise .
-
-:: Date
-1992-05-04
 
 :: Ratings
 1 <Mikael>
@@ -9397,18 +9397,18 @@ tng5x23
 :: Title
 I Borg
 
+:: Date
+1992-05-11
+
 :: Description
 The Enterprise rescues a Borg survivor, and Picard plans to use him as a
 weapon against his nemesis by exposing him to a computer virus .
 
-:: Date
-1992-05-11
+:: Genre
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 forming one's own distinct personality [Hugh grappled with the concept being an individual separate from the Borg collective mind from which he'd recently become disconnected.],
@@ -9465,19 +9465,19 @@ tng5x24
 :: Title
 The Next Phase
 
+:: Date
+1992-05-18
+
 :: Description
 A transporter accident traps Geordi and Ensign Ro out of phase; while the
 others plan their funeral they must find a way to reverse the process and save
 the Enterprise from destruction.
 
-:: Date
-1992-05-18
+:: Genre
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
 
 :: Choice Themes
 what if I were a ghost [Geordi and Ro were ghosts aboard the Enterprise for all intents and purposes] <Geordi, Ro Laren>,
@@ -9520,20 +9520,20 @@ tng5x25
 :: Title
 The Inner Light
 
+:: Date
+1992-06-01
+
 :: Description
 A space probe creates a telepathic tether and causes Picard to experience, in
 twenty-five minutes, a lifetime as a married man on a world that was destroyed
 a millennium ago.
 
-:: Date
-1992-06-01
+:: Genre
+human drama
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 what if I lived an alternate life [Picard lived out complete life on planet] <Picard>,
@@ -9595,20 +9595,20 @@ tng5x26
 :: Title
 Time's Arrow
 
+:: Date
+1992-06-15
+
 :: Description
 A 500-year-old artifact is uncovered on Earth: Data 's severed head. The
 Enterprise investigates alien involvement in Earth's past and Data fulfills
 his destiny.
 
-:: Date
-1992-06-15
+:: Genre
+horror
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-horror
 
 :: Choice Themes
 destiny [Data destined to die in the 19th century],
@@ -9665,21 +9665,21 @@ tng6x01
 :: Title
 Time's Arrow, Part II
 
+:: Date
+1992-09-21
+
 :: Description
 The Enterprise crew follow Data to San Francisco of the 1890s. The crew deals
 with Samuel Clemens (and run into Jack London), while trying to find a way to
 prevent aliens from interfering with 19th-century Earth. Guest star: Jerry
 Hardin as Samuel Clemens.
 
-:: Date
-1992-09-21
+:: Genre
+horror
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-horror
 
 :: Choice Themes
 time travel [crew travel back to 19th century San Francisco],
@@ -9724,18 +9724,18 @@ tng6x02
 :: Title
 Realm of Fear
 
+:: Date
+1992-09-28
+
 :: Description
 Barclay must overcome his fear of the transporter to solve a mystery.
 
-:: Date
-1992-09-28
+:: Genre
+thriller, comedy
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-thriller, comedy
 
 :: Choice Themes
 facing one's darkest fear [Barclay of going through the transporter] <Barclay>,
@@ -9784,19 +9784,19 @@ tng6x03
 :: Title
 Man of the People
 
+:: Date
+1992-10-05
+
 :: Description
 A psychic ambassador uses Deanna 's mind to influence the outcome of his
 mission.
 
-:: Date
-1992-10-05
+:: Genre
+political drama, erotica
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-political drama, erotica
 
 :: Choice Themes
 the ethics of valuing human lives [Alkar sacrifices multiple women to achieve his diplomatic goals],
@@ -9875,6 +9875,9 @@ tng6x04
 :: Title
 Relics
 
+:: Date
+1992-10-12
+
 :: Description
 The Enterprise investigates a vessel that crashed on the surface of a Dyson
 sphere 75 years ago. An undegraded pattern is found in the transporter buffer,
@@ -9882,15 +9885,12 @@ that of Mr. Scott . Feeling out of place and obsolete, Scotty agrees to return
 to his vessel with Geordi to help restore the logs, and they become the only
 hope when the Enterprise is accidentally pulled inside the sphere.
 
-:: Date
-1992-10-12
+:: Genre
+fandom
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-fandom
 
 :: Choice Themes
 Dyson sphere [Scotty crash landed on the outer shell of a Dyson sphere],
@@ -9962,18 +9962,18 @@ tng6x05
 :: Title
 Schisms
 
+:: Date
+1992-10-19
+
 :: Description
 Several members of the crew are abducted and experimented on while they sleep.
 
-:: Date
-1992-10-19
+:: Genre
+mystery, horror
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery, horror
 
 :: Choice Themes
 alien abduction [Riker abducted on multiple occasions by aliens] <Solanogen-based Lifeform>,
@@ -10030,19 +10030,19 @@ tng6x06
 :: Title
 True Q
 
+:: Date
+1992-10-26
+
 :: Description
 Q reveals a secret about a young woman from Kansas who is visiting the
 Enterprise . Guest star: Olivia d'Abo as Amanda Rogers.
 
-:: Date
-1992-10-26
+:: Genre
+human drama
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 unbounded thought powers [Amanda and Q had virtual god-like powers.],
@@ -10112,20 +10112,20 @@ tng6x07
 :: Title
 Rascals
 
+:: Date
+1992-11-02
+
 :: Description
 A transporter malfunction turns Picard , Keiko , Ro and Guinan into children,
 who become the ship's only hope when they are left aboard while the adult crew
 are forced to perform dangerous labor by Ferengi pirates.
 
-:: Date
-1992-11-02
+:: Genre
+human drama, comedy
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama, comedy
 
 :: Choice Themes
 what if I had a second childhood [Picard, Ro, Guinan, and Keiko were youthenised] <Picard, Ro Laren, Guinan, Keiko O'Brien>,
@@ -10188,19 +10188,19 @@ tng6x08
 :: Title
 A Fistful of Datas
 
+:: Date
+1992-11-09
+
 :: Description
 Data 's mind is connected to the ship's computer, which creates unforeseen
 effects on the holodeck .
 
-:: Date
-1992-11-09
+:: Genre
+western
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-western
 
 :: Choice Themes
 father and son [Worf and Alexander] <Worf/Alexander Rozhenko>,
@@ -10250,20 +10250,20 @@ tng6x09
 :: Title
 The Quality of Life
 
+:: Date
+1992-11-16
+
 :: Description
 Data observes self-guided "tools" used at a mining station display signs of
 sentience, and fights for their preservation, even risking Captain Picard's
 life on the ground that it is unacceptable to kill one sentient being to save
 another.
 
-:: Date
-1992-11-16
+:: Genre
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 duty vs. conscience [Data must decide whether to side with his orders or with protecting the exocomps] <Data>,
@@ -10318,20 +10318,20 @@ tng6x10
 :: Title
 Chain of Command, Part I
 
+:: Date
+1992-12-14
+
 :: Description
 Captain Jellico is assigned command of the Enterprise , while Picard is sent
 on a covert mission into Cardassian territory. Guest star: Ronny Cox as Edward
 Jellico.
 
-:: Date
-1992-12-14
+:: Genre
+political drama, action, office drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama, action, office drama
 
 :: Choice Themes
 coping with a bad boss [Riker among others at Jellico] <Riker>,
@@ -10391,19 +10391,19 @@ tng6x11
 :: Title
 Chain of Command, Part II
 
+:: Date
+1992-12-21
+
 :: Description
 Picard , having been captured, is tortured by a sadistic Cardassian
 interrogator (played by David Warner).
 
-:: Date
-1992-12-21
+:: Genre
+political drama, thriller
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
-political drama, thriller
 
 :: Choice Themes
 prisoners of war [Picard's treatment as prisoner of war],
@@ -10473,19 +10473,19 @@ tng6x12
 :: Title
 Ship in a Bottle
 
+:: Date
+1993-01-25
+
 :: Description
 Barclay accidentally awakens Prof. Moriarty on the holodeck , who uses the
 powers at his disposal to coerce the crew into finding a way to allow him to
 leave the holodeck. Guest star: Daniel Davis as Professor Moriarty.
 
-:: Date
-1993-01-25
+:: Genre
 
 :: Ratings
 5 <Mikael>
 5 <Paul>
-
-:: Genre
 
 :: Choice Themes
 what is sentience [Was Dr. Moriarty sentient or was he merely a hologram?],
@@ -10546,19 +10546,19 @@ tng6x13
 :: Title
 Aquiel
 
+:: Date
+1993-02-01
+
 :: Description
 Geordi falls for an alien Starfleet officer who is suspected of murder. Guest
 star Renée Jones as Aquiel Uhnari.
 
-:: Date
-1993-02-01
+:: Genre
+romance, whodunnit
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-romance, whodunnit
 
 :: Choice Themes
 infatuation [Geordi with Aquiel] <Geordi>,
@@ -10624,19 +10624,19 @@ tng6x14
 :: Title
 Face of the Enemy
 
+:: Date
+1993-02-08
+
 :: Description
 Deanna is involuntarily recruited to assist in the transport of Romulan
 defectors across the border.
 
-:: Date
-1993-02-08
+:: Genre
+spy drama
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-spy drama
 
 :: Choice Themes
 patriotism [Romulans for the Empire],
@@ -10691,19 +10691,19 @@ tng6x15
 :: Title
 Tapestry
 
+:: Date
+1993-02-15
+
 :: Description
 An accident kills Picard , and he finds an afterlife with Q analyzing his past
 choices.
 
-:: Date
-1993-02-15
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 what if I had a second chance at life [Picard technically also had a third chance] <Picard>,
@@ -10769,20 +10769,20 @@ tng6x16
 :: Title
 Birthright, Part I
 
+:: Date
+1993-02-22
+
 :: Description
 Worf is told on Deep Space Nine his father is alive, and being held prisoner
 by the Romulans . Meanwhile an engineering experiment accidentally results in
 Data 's first dream. Guest star: James Cromwell as Jaglom Shrek.
 
-:: Date
-1993-02-22
+:: Genre
+adventure
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-adventure
 
 :: Choice Themes
 honor [Worf] <Worf>,
@@ -10845,19 +10845,19 @@ tng6x17
 :: Title
 Birthright, Part II
 
+:: Date
+1993-03-01
+
 :: Description
 Worf , now a prisoner, tries to teach the Klingon refugees the ways of the
 warrior.
 
-:: Date
-1993-03-01
+:: Genre
+human drama
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 the need for cultural heritage [Worf insists the Klingon detainees need to keep their cultural heritage] <Worf>,
@@ -10916,19 +10916,19 @@ tng6x18
 :: Title
 Starship Mine
 
+:: Date
+1993-03-29
+
 :: Description
 Thieves attempt to steal trilithium from the Enterprise during a Baryon sweep
 at the Remmler Array , and Picard alone must thwart them.
 
-:: Date
-1993-03-29
+:: Genre
+action
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 heroism [Picard takes it upon himself to thwart space burglary of Enterprise by terrorists] <Picard>,
@@ -10999,19 +10999,19 @@ tng6x19
 :: Title
 Lessons
 
+:: Date
+1993-04-05
+
 :: Description
 Picard becomes involved with a woman who is serving on the Enterprise , but he
 must send her into a dangerous mission.
 
-:: Date
-1993-04-05
+:: Genre
+romance
 
 :: Ratings
 4 <Mikael>
 2 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 infatuation [Picard and Daren] <Picard/Nella Daren>,
@@ -11059,20 +11059,20 @@ tng6x20
 :: Title
 The Chase
 
+:: Date
+1993-04-26
+
 :: Description
 Picard tries to solve an ancient genetic mystery uncovered by his
 archaeological mentor, and faces stiff competition. Guest star: Norman Lloyd
 as Richard Galen.
 
-:: Date
-1993-04-26
+:: Genre
+adventure
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-adventure
 
 :: Choice Themes
 alien origin of the human race [the primordial humanoid revealed that all the major humanoid races were descended from his stock],
@@ -11151,19 +11151,19 @@ tng6x21
 :: Title
 Frame of Mind
 
+:: Date
+1993-05-03
+
 :: Description
 Riker finds himself prisoner in an alien mental institution, which resembles
 scenes from Beverly's play.
 
-:: Date
-1993-05-03
+:: Genre
+psychological thriller
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-psychological thriller
 
 :: Choice Themes
 what if I couldn't trust the veracity of my senses [Riker in insane asylum] <Riker>,
@@ -11225,19 +11225,19 @@ tng6x22
 :: Title
 Suspicions
 
+:: Date
+1993-05-10
+
 :: Description
 Dr. Crusher risks her career to solve the murder of Ferengi scientist Dr.
 Reyga and vindicate his research.
 
-:: Date
-1993-05-10
+:: Genre
+whodunnit
 
 :: Ratings
 3 <Mikael>
 3 <Paul>
-
-:: Genre
-whodunnit
 
 :: Choice Themes
 personal conviction [Reyga and Beverly in proving Reyga's metaphasic shielding worked] <Reyga, Beverly>,
@@ -11296,19 +11296,19 @@ tng6x23
 :: Title
 Rightful Heir
 
+:: Date
+1993-05-17
+
 :: Description
 Worf experiences a crisis of faith, and travels to a Klingon holy site where
 the mythic figure Kahless returns to lead the Klingon people.
 
-:: Date
-1993-05-17
+:: Genre
+adventure
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-adventure
 
 :: Choice Themes
 faith vs. reason [Klingons must decide whether to take the path or religion with Kahless clone or reason],
@@ -11362,19 +11362,19 @@ tng6x24
 :: Title
 Second Chances
 
+:: Date
+1993-05-24
+
 :: Description
 Riker encounters a duplicate of himself created by a transporter malfunction
 stranded on a planet. "Thomas" vies for Deanna's affections.
 
-:: Date
-1993-05-24
+:: Genre
+romance
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-romance
 
 :: Choice Themes
 personal identity [there are two Rikers],
@@ -11442,18 +11442,18 @@ tng6x25
 :: Title
 Timescape
 
+:: Date
+1993-06-14
+
 :: Description
 The Enterprise is caught in temporal stasis, and on the brink of destruction
 by a Romulan ship.
 
-:: Date
-1993-06-14
+:: Genre
 
 :: Ratings
 1 <Mikael>
 3 <Paul>
-
-:: Genre
 
 :: Choice Themes
 time slow down process [Picard, Data, Geordi, Troi were astounded to see that time had slowed to nearly a halt upon returning to the Enterprise.],
@@ -11499,19 +11499,19 @@ tng6x26
 :: Title
 Descent
 
+:: Date
+1993-06-21
+
 :: Description
 The crew encounter a group of Borg acting individually, and Data briefly
 experiences emotions. Professor Stephen Hawking makes a guest appearance.
 
-:: Date
-1993-06-21
+:: Genre
+action
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 anger [Data experiences the emotion of blind rage] <Data>,
@@ -11582,19 +11582,19 @@ tng7x01
 :: Title
 Descent, Part II
 
+:: Date
+1993-09-20
+
 :: Description
 The Borg are being led by Lore. Data falls under his control by being fed
 negative emotions.
 
-:: Date
-1993-09-20
+:: Genre
+action
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 kill all humans utopia [Lore's dream was to kill all humans],
@@ -11663,20 +11663,20 @@ tng7x02
 :: Title
 Liaisons
 
+:: Date
+1993-09-27
+
 :: Description
 Worf and Troi reluctantly play host to two Lyraan ambassadors, while Picard
 crashes in a shuttle with another Lyraan. He is rescued by a human female who
 exhibits strange behavior.
 
-:: Date
-1993-09-27
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 alien point of view [Iyaaran diplomats were puzzled by the most basic Human behaviors] <Iyaaran>,
@@ -11740,17 +11740,17 @@ tng7x03
 :: Title
 Interface
 
+:: Date
+1993-10-04
+
 :: Description
 Geordi tries to rescue his mother's starship via a remotely controlled probe.
 
-:: Date
-1993-10-04
+:: Genre
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
 
 :: Choice Themes
 coping with the death of a parent [Geordi with his mother] <Geordi>,
@@ -11799,20 +11799,20 @@ tng7x04
 :: Title
 Gambit, Part I
 
+:: Date
+1993-10-11
+
 :: Description
 The Enterprise crew investigate the apparent murder of Captain Picard during
 an archaeological trip. Riker is kidnapped by mercenaries and finds Picard
 working as part of their crew.
 
-:: Date
-1993-10-11
+:: Genre
+action, adventure, whodunnit
 
 :: Ratings
 1 <Mikael>
 3 <Paul>
-
-:: Genre
-action, adventure, whodunnit
 
 :: Choice Themes
 coping with the death of a friend [command crew at Picard] <Riker, Troi>,
@@ -11881,19 +11881,19 @@ tng7x05
 :: Title
 Gambit, Part II
 
+:: Date
+1993-10-18
+
 :: Description
 Picard and Riker help mercenaries collect archaeological artifacts to prevent
 an ancient Vulcan weapon falling into the wrong hands.
 
-:: Date
-1993-10-18
+:: Genre
+action, adventure
 
 :: Ratings
 1 <Mikael>
 3 <Paul>
-
-:: Genre
-action, adventure
 
 :: Choice Themes
 the lust for power [Tallera secretly wants to take over Vulcan] <Tallera>,
@@ -11949,19 +11949,19 @@ tng7x06
 :: Title
 Phantasms
 
+:: Date
+1993-10-25
+
 :: Description
 Data experiences strange dreams, while the Enterprise has issues with its new
 Warp-core. But all is not as it seems.
 
-:: Date
-1993-10-25
+:: Genre
+horror
 
 :: Ratings
 3 <Mikael>
 2 <Paul>
-
-:: Genre
-horror
 
 :: Choice Themes
 human thinking about self [Data was seeking meaning in his nightmares.],
@@ -12026,19 +12026,19 @@ tng7x07
 :: Title
 Dark Page
 
+:: Date
+1993-11-01
+
 :: Description
 A psychic breakdown puts Lwaxana Troi in a coma, and Deanna works to save her
 life. Features a young Kirsten Dunst , playing the little girl Hedril.
 
-:: Date
-1993-11-01
+:: Genre
+fantasy, human drama
 
 :: Ratings
 1 <Mikael>
 2 <Paul>
-
-:: Genre
-fantasy, human drama
 
 :: Choice Themes
 coping with the death of a child [Lwaxana at Kestra] <Lwaxana>,
@@ -12105,20 +12105,20 @@ tng7x08
 :: Title
 Attached
 
+:: Date
+1993-11-08
+
 :: Description
 Reclusive aliens imprison Picard and Dr. Crusher on charges of espionage, and
 experimental implants linking their minds telepathically cause them to face
 their latent feelings for each other.
 
-:: Date
-1993-11-08
+:: Genre
+adventure, romance
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-adventure, romance
 
 :: Choice Themes
 diplomacy [The Kes tried to manipulate the Federation in order to gain an advantage over the Prytt.],
@@ -12175,18 +12175,18 @@ tng7x09
 :: Title
 Force of Nature
 
+:: Date
+1993-11-15
+
 :: Description
 A pair of scientists show that warp drives are harming the fabric of space.
 
-:: Date
-1993-11-15
+:: Genre
+social awareness
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-social awareness
 
 :: Choice Themes
 sacrifice for one's beliefs [Serova killed herself to prove warp drive was destroying the fabric of space] <Serova>,
@@ -12254,18 +12254,18 @@ tng7x10
 :: Title
 Inheritance
 
+:: Date
+1993-11-22
+
 :: Description
 Data encounters a woman claiming to be his "mother".
 
-:: Date
-1993-11-22
+:: Genre
+human drama
 
 :: Ratings
 4 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 mother and son [Juliana and Data] <Juliana Tainer/Data>,
@@ -12324,18 +12324,18 @@ tng7x11
 :: Title
 Parallels
 
+:: Date
+1993-11-29
+
 :: Description
 Worf finds himself randomly shifting between alternate realities.
 
-:: Date
-1993-11-29
+:: Genre
+mystery
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 what if I found myself in an alternate reality [Worf was flung from one multiple reality to the next] <Worf>,
@@ -12392,20 +12392,20 @@ tng7x12
 :: Title
 The Pegasus
 
+:: Date
+1994-01-10
+
 :: Description
 Riker 's former Captain boards the Enterprise to retrieve the USS Pegasus .
 Picard investigates the circumstances of its loss and finds that there has
 been a cover-up . Features Terry O'Quinn as Admiral Eric Pressman.
 
-:: Date
-1994-01-10
+:: Genre
+political drama
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-political drama
 
 :: Choice Themes
 confronting an old ghost [Riker confronts his past actions as first officer on the Pegasus] <Riker>,
@@ -12467,19 +12467,19 @@ tng7x13
 :: Title
 Homeward
 
+:: Date
+1994-01-17
+
 :: Description
 Worf 's human foster brother violates the Prime Directive to save a doomed
 primitive race.
 
-:: Date
-1994-01-17
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 4 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 reconciliation [Worf and Nikolai] <Worf/Nikolai Rozhenko>,
@@ -12545,12 +12545,12 @@ tng7x14
 :: Title
 Sub Rosa
 
+:: Date
+1994-01-31
+
 :: Description
 Dr. Crusher attends her grandmother's funeral, and takes on an unusual family
 tradition.
-
-:: Date
-1994-01-31
 
 :: Ratings
 1 <Mikael>
@@ -12622,19 +12622,19 @@ tng7x15
 :: Title
 Lower Decks
 
+:: Date
+1994-02-07
+
 :: Description
 Junior officers buck for promotion as one of them is assigned the dangerous
 task of helping a Cardassian spy.
 
-:: Date
-1994-02-07
+:: Genre
+office drama
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-office drama
 
 :: Choice Themes
 the desire to advance one's career [Junior officers] <Sito Jaxa, Sam Lavelle, Taurik>,
@@ -12701,19 +12701,19 @@ tng7x16
 :: Title
 Thine Own Self
 
+:: Date
+1994-02-14
+
 :: Description
 Data loses his memory after retrieving radioactive fragments on a planet's
 surface and endangers the humanoid settlement he encounters, while Deanna
 studies to become a bridge officer.
 
-:: Date
-1994-02-14
+:: Genre
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
 
 :: Choice Themes
 the desire to advance one's career [Troi takes test to become command level officer] <Troi>,
@@ -12787,19 +12787,19 @@ tng7x17
 :: Title
 Masks
 
+:: Date
+1994-02-21
+
 :: Description
 The Enterprise finds an ancient library that recreates its civilization by
 taking possession of Data and transforming the ship.
 
-:: Date
-1994-02-21
+:: Genre
+adventure
 
 :: Ratings
 2 <Mikael>
 3 <Paul>
-
-:: Genre
-adventure
 
 :: Choice Themes
 polytheism [space Egyptians worshipped many gods],
@@ -12856,19 +12856,19 @@ tng7x18
 :: Title
 Eye of the Beholder
 
+:: Date
+1994-02-28
+
 :: Description
 Deanna investigates the suicide of a crewman and uncovers a murder that took
 place during construction of the Enterprise .
 
-:: Date
-1994-02-28
+:: Genre
+detective drama, fantasy
 
 :: Ratings
 1 <Mikael>
 2 <Paul>
-
-:: Genre
-detective drama, fantasy
 
 :: Choice Themes
 romantic jealousy [We saw Pierce murder his lover after finding her in the arms of another man. In a parallel development, Troi killer Worf under similar circumstances in her dream.] <Troi, Walter Pierce>,
@@ -12921,21 +12921,21 @@ tng7x19
 :: Title
 Genesis
 
+:: Date
+1994-03-21
+
 :: Description
 A routine medical treatment inadvertently creates a virus that begins to de-
 evolve the Enterprise crew while Picard and Data are on an away mission. This
 is the first and only episode to be directed by Gates McFadden, who plays Dr.
 Crusher.
 
-:: Date
-1994-03-21
+:: Genre
+horror, flight of fancy
 
 :: Ratings
 3 <Mikael>
 4 <Paul>
-
-:: Genre
-horror, flight of fancy
 
 :: Choice Themes
 devolution [the crew devolve into various animals],
@@ -12997,21 +12997,21 @@ tng7x20
 :: Title
 Journey's End
 
+:: Date
+1994-03-28
+
 :: Description
 Wesley considers his future, as the Enterprise is ordered to remove Native
 American colonists from a planet that is about to fall under Cardassian
 jurisdiction. Guest star Richard Poe as Gul Evek. Final appearance of Eric
 Menyuk as The Traveler.
 
-:: Date
-1994-03-28
+:: Genre
+social awareness, political drama, fantasy
 
 :: Ratings
 1 <Mikael>
 1 <Paul>
-
-:: Genre
-social awareness, political drama, fantasy
 
 :: Choice Themes
 forced resettlement [Federation must resettled the space Native Americans],
@@ -13092,19 +13092,19 @@ tng7x21
 :: Title
 Firstborn
 
+:: Date
+1994-04-25
+
 :: Description
 Worf attempts to convince his son Alexander to embrace his warrior heritage.
 Guest star James Sloyan as K'mtar.
 
-:: Date
-1994-04-25
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 1 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 father and son [Worf and Alexander] <Worf/Alexander Rozhenko>,
@@ -13176,19 +13176,19 @@ tng7x22
 :: Title
 Bloodlines
 
+:: Date
+1994-05-02
+
 :: Description
 DaiMon Bok returns to exact revenge on Picard , by trying to kill the son
 Picard never knew he had. Guest star Lee Arenberg as DaiMon Bok.
 
-:: Date
-1994-05-02
+:: Genre
+human drama
 
 :: Ratings
 2 <Mikael>
 2 <Paul>
-
-:: Genre
-human drama
 
 :: Choice Themes
 the desire for vengeance [Bok against Picard over the Battle of Maxia] <Bok>,
@@ -13268,18 +13268,18 @@ tng7x23
 :: Title
 Emergence
 
+:: Date
+1994-05-09
+
 :: Description
 The Enterprise becomes an emergent intelligence.
 
-:: Date
-1994-05-09
+:: Genre
+mystery
 
 :: Ratings
 4 <Mikael>
 5 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 emergently intelligent being [the holodeck came alive] <Keystone City Emergent Lifeform>,
@@ -13336,19 +13336,19 @@ tng7x24
 :: Title
 Preemptive Strike
 
+:: Date
+1994-05-16
+
 :: Description
 Lieutenant Ro graduates from advanced tactical training, and is sent by Picard
 to lure Maquis terrorists into a trap. Guest star Richard Poe as Gul Evek.
 
-:: Date
-1994-05-16
+:: Genre
+action
 
 :: Ratings
 2 <Mikael>
 1 <Paul>
-
-:: Genre
-action
 
 :: Choice Themes
 betrayal [Ro betrayed Picard],
@@ -13413,20 +13413,20 @@ tng7x25-26
 :: Title
 All Good Things...
 
+:: Date
+1994-05-23
+
 :: Description
 Picard finds himself being transported between three time periods thanks to Q
 , with a spacetime distortion that threatens to destroy reality growing larger
 in the past, and smaller in the future.
 
-:: Date
-1994-05-23
+:: Genre
+mystery
 
 :: Ratings
 4 <Mikael>
 3 <Paul>
-
-:: Genre
-mystery
 
 :: Choice Themes
 what if I couldn't trust the veracity of my senses [Picard] <Picard>,

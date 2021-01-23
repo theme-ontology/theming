@@ -7,14 +7,14 @@ Henrik Ibsen Plays
 :: Date
 1882-1894
 
-:: Collections
-Collection: Henrik Ibsen Plays
-
 :: Description
 Plays written by the Norwegian playwright and theater director Henrik Ibsen.
 
 :: References
 https://en.wikipedia.org/wiki/Henrik_Ibsen#Plays
+
+:: Collections
+Collection: Henrik Ibsen Plays
 
 
 play: Ghosts (1882)
@@ -23,8 +23,8 @@ play: Ghosts (1882)
 :: Title
 Ghosts
 
-:: Authors
-Henrik Ibsen
+:: Date
+1882
 
 :: Description
 It was written in 1881 and first staged in 1882 in Chicago, Illinois, in a production by a
@@ -37,13 +37,13 @@ standpoint of modern tragedy Ghosts strikes off in a new direction.... Regular t
 with the unhappy consequences of breaking the moral code. Ghosts, on the contrary, deals with the
 consequences of not breaking it."
 
-:: Date
-1882
-
-:: Ratings
+:: Authors
+Henrik Ibsen
 
 :: References
 https://en.wikipedia.org/wiki/Ghosts_(play)
+
+:: Ratings
 
 :: Major Themes
 
@@ -56,21 +56,21 @@ play: The Wild Duck (1884)
 :: Title
 The Wild Duck
 
-:: Authors
-Henrik Ibsen
+:: Date
+1884-01-09
 
 :: Description
 The Wild Duck (original Norwegian title: Vildanden) is an 1884 play by the Norwegian playwright
 Henrik Ibsen. It is considered the first modern masterpiece in the genre of tragicomedy.
 
-:: Date
-1884-01-09
-
-:: Ratings
-5 <mikael>,
+:: Authors
+Henrik Ibsen
 
 :: References
 https://en.wikipedia.org/wiki/The_Wild_Duck
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 father and daughter [Hjalmar and Hedvig],
@@ -96,18 +96,18 @@ play: Hedda Gabler (1891)
 :: Title
 Hedda Gabler
 
-:: Authors
-Henrik Ibsen
-
-:: Description
-
 :: Date
 1891-01-31
 
-:: Ratings
+:: Description
+
+:: Authors
+Henrik Ibsen
 
 :: References
 https://en.wikipedia.org/wiki/Hedda_Gabler
+
+:: Ratings
 
 :: Major Themes
 
@@ -120,20 +120,20 @@ play: The Master Builder (1893)
 :: Title
 The Master Builder
 
-:: Authors
-Henrik Ibsen
+:: Date
+1893-01-19
 
 :: Description
 The Master Builder (Norwegian: Bygmester Solness) is a play by Norwegian playwright Henrik Ibsen.
 It was first published in December 1892 and is regarded as one of Ibsen's most significant and revealing works.
 
-:: Date
-1893-01-19
-
-:: Ratings
+:: Authors
+Henrik Ibsen
 
 :: References
 https://en.wikipedia.org/wiki/The_Master_Builder
+
+:: Ratings
 
 :: Major Themes
 
@@ -146,20 +146,20 @@ play: Little Eyolf (1894)
 :: Title
 Little Eyolf
 
-:: Authors
-Henrik Ibsen
+:: Date
+1894-01-12
 
 :: Description
 Little Eyolf (Lille Eyolf in the original Norwegian title) is an 1894 play by Norwegian playwright Henrik
 Ibsen. The play was first performed on January 12, 1895 in the Deutsches Theater in Berlin.
 
-:: Date
-1894-01-12
-
-:: Ratings
+:: Authors
+Henrik Ibsen
 
 :: References
 https://en.wikipedia.org/wiki/Little_Eyolf
+
+:: Ratings
 
 :: Major Themes
 

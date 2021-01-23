@@ -7,20 +7,20 @@ Strange Case of Dr Jekyll and Mr Hyde
 :: Date
 1886
 
-:: Authors
-Robert Louis Stevenson
-
 :: Description
 A London legal practitioner investigates strange occurrences between his old friend, Dr Henry Jekyll, and the evil Edward Hyde.
 
-:: Ratings
-5 <paul>,
+:: Authors
+Robert Louis Stevenson
+
+:: References
+https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde
 
 :: Genre
 sci-fi, drama, horror,
 
-:: References
-https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde
+:: Ratings
+5 <paul>,
 
 :: Major Themes
 friendship [The protagonist of the story Mr. Utterson was a close and longtime friend of both Dr. Jekyll and Dr. Lanyon.],
@@ -49,20 +49,20 @@ The Time Machine
 :: Date
 1895
 
-:: Authors
-H. G. Wells
-
 :: Description
 A Victorian English scientist and gentleman builds a time machine and uses it to travel into the distant future.
 
-:: Ratings
-5 <paul>,
+:: Authors
+H. G. Wells
+
+:: References
+https://en.wikipedia.org/wiki/The_Time_Machine
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/The_Time_Machine
+:: Ratings
+5 <paul>,
 
 :: Choice Themes
 time machine [The Time Traveler constructed a vehicle that he used to travel to the year 802,701 AD.],
@@ -89,20 +89,20 @@ The Island of Doctor Moreau
 :: Date
 1896
 
-:: Authors
-H. G. Wells
-
 :: Description
 The text of the novel is the narration of Edward Prendick who is a shipwrecked man rescued by a passing boat. He is left on the island home of Doctor Moreau, a mad scientist who creates human-like hybrid beings from animals via vivisection. The novel deals with a number of philosophical themes, including pain and cruelty, moral responsibility, human identity, and human interference with nature.
 
-:: Ratings
-5 <paul>,
+:: Authors
+H. G. Wells
+
+:: References
+https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau
+:: Ratings
+5 <paul>,
 
 :: Choice Themes
 species uplifting [Dr. Moreau created a wide variety of human-like hybrid beings from animals via vivisection. We learned that he had been on the island for eleven years and had been striving to make a complete transformation of an animal to a human.],
@@ -131,20 +131,20 @@ The Invisible Man
 :: Date
 1897
 
-:: Authors
-H. G. Wells
-
 :: Description
 A scientist who has devoted himself to research into optics invents a way to change a body's refractive index to that of air so that it neither absorbs nor reflects light and thus becomes invisible. He successfully carries out this procedure on himself, but fails in his attempt to reverse it.
 
-:: Ratings
-3 <paul>,
+:: Authors
+H. G. Wells
+
+:: References
+https://en.wikipedia.org/wiki/The_Invisible_Man
 
 :: Genre
 sci-fi, drama, horror,
 
-:: References
-https://en.wikipedia.org/wiki/The_Invisible_Man
+:: Ratings
+3 <paul>,
 
 :: Choice Themes
 personal invisibility cloak [Griffin found a way to make himself invisible by changing the body's refractive index to that of air so that it neither absorbs nor reflects light.],
@@ -176,20 +176,20 @@ The War of the Worlds
 :: Date
 1898
 
-:: Authors
-H. G. Wells
-
 :: Description
 A first-person narrative of both an unnamed protagonist in Surrey and of his younger brother in London as southern England is invaded by Martians.
 
-:: Ratings
-5 <paul>,
+:: Authors
+H. G. Wells
+
+:: References
+https://en.wikipedia.org/wiki/The_War_of_the_Worlds
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/The_War_of_the_Worlds
+:: Ratings
+5 <paul>,
 
 :: Choice Themes
 attack from outer space by a powerful conquering enemy [The story follows a first hand account of a dramatic Martian invasion of England, and by extension the Earth.],
@@ -221,21 +221,21 @@ shortstory: The Celestial Omnibus (1911)
 :: Title
 The Celestial Omnibus
 
-:: Authors
-E. M. Forster
+:: Date
+1911
 
 :: Description
 A boy comes across an unusual omnibus that takes him to a fantasy land where
 he meets imaginary and historical figures.
 
-:: Date
-1911
-
-:: Ratings
-4 <mikael>,
+:: Authors
+E. M. Forster
 
 :: References
 https://en.wikipedia.org/wiki/The_Celestial_Omnibus
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 what if I met an historical figure [boy and Septimus met various historical and mythological figures such as Shelley and Achilles],
@@ -259,20 +259,20 @@ Herland
 :: Date
 1915
 
-:: Authors
-Charlotte Perkins Gilman
-
 :: Description
 The book describes an isolated society composed entirely of women, who reproduce via parthenogenesis. The result is an ideal social order: free of war, conflict, and domination.
 
-:: Ratings
-3 <paul>,
+:: Authors
+Charlotte Perkins Gilman
+
+:: References
+https://en.wikipedia.org/wiki/Herland_(novel)
 
 :: Genre
 sci-fi
 
-:: References
-https://en.wikipedia.org/wiki/Herland_(novel)
+:: Ratings
+3 <paul>,
 
 :: Choice Themes
 utopia [A trio of male explorers discovered an isolated, female-only society that was free of war, conflict, and exploitation.],
@@ -311,8 +311,8 @@ novel: We (1920)
 :: Title
 We
 
-:: Authors
-Yevgeny Zamyatin
+:: Date
+1920
 
 :: Description
 We is set in the future. D-503, a spacecraft engineer, lives in the One State,
@@ -325,14 +325,14 @@ primary justification for the laws or the construct of the society. The
 individual's behaviour is based on logic by way of formulas and equations
 outlined by the One State.
 
-:: Date
-1920
-
-:: Ratings
-3 <mikael>,
+:: Authors
+Yevgeny Zamyatin
 
 :: References
 https://en.wikipedia.org/wiki/We_(novel)
+
+:: Ratings
+3 <mikael>,
 
 :: Choice Themes
 totalitarian dystopia [One State is the definition of a totalitarian state: people have been reduced to mere numbers and must act almost entirely according to a state mandated protocol throughout their lives.],
@@ -352,8 +352,8 @@ novel: A Passage to India (1924)
 :: Title
 A Passage to India
 
-:: Authors
-E.M. Forster
+:: Date
+1924-06-04
 
 :: Description
 A Passage to India (1924) is a novel by English author E. M. Forster set
@@ -365,8 +365,8 @@ Memorial Prize for fiction. Time magazine included the novel in its "All Time
 deriving the title from Walt Whitman's 1870 poem "Passage to India" in Leaves
 of Grass.
 
-:: Date
-1924-06-04
+:: Authors
+E.M. Forster
 
 :: References
 https://en.wikipedia.org/wiki/A_Passage_to_India
@@ -394,11 +394,11 @@ novel: Radetzky March (1932)
 :: Title
 Radetzky March
 
-:: Description
-Radetzky March (German: Radetzkymarsch) is a 1932 novel by Joseph Roth chronicling the decline and fall of the Austro-Hungarian Empire via the story of the Trotta family. Radetzkymarsch is an early example of a story that features the recurring participation of a historical figure, in this case the Emperor Franz Joseph I of Austria (1830–1916). Roth continues his account of the Trotta family to the time of the Anschluss in his The Emperor's Tomb (Kapuzinergruft, 1938). The novel was published in English translation in 1933, and in a new, more literal, translation in 1995.
-
 :: Date
 1932
+
+:: Description
+Radetzky March (German: Radetzkymarsch) is a 1932 novel by Joseph Roth chronicling the decline and fall of the Austro-Hungarian Empire via the story of the Trotta family. Radetzkymarsch is an early example of a story that features the recurring participation of a historical figure, in this case the Emperor Franz Joseph I of Austria (1830–1916). Roth continues his account of the Trotta family to the time of the Anschluss in his The Emperor's Tomb (Kapuzinergruft, 1938). The novel was published in English translation in 1933, and in a new, more literal, translation in 1995.
 
 :: References
 https://en.wikipedia.org/wiki/Radetzky_March_(novel)
@@ -437,8 +437,8 @@ nonfiction: Down and Out in Paris and London (1933)
 :: Title
 Down and Out in Paris and London
 
-:: Authors
-George Orwell
+:: Date
+1933
 
 :: Description
 Down and Out in Paris and London is the first full-length work by the English
@@ -450,8 +450,8 @@ London from the tramp's perspective, with descriptions of the types of hostel
 accommodation available and some of the characters to be found living on the
 margins.
 
-:: Date
-1933
+:: Authors
+George Orwell
 
 :: References
 https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
@@ -483,11 +483,11 @@ novel: We the Living (1936)
 :: Title
 We the Living
 
-:: Description
-We the Living is the debut novel of the Russian American novelist Ayn Rand. It is a story of life in post-revolutionary Russia and was Rand's first statement against communism. Rand observes in the foreword that We the Living was the closest she would ever come to writing an autobiography. Rand finished writing the novel in 1934, but it was rejected by several publishers before being released by Macmillan Publishing in 1936. It has since sold more than three million copies.
-
 :: Date
 1936
+
+:: Description
+We the Living is the debut novel of the Russian American novelist Ayn Rand. It is a story of life in post-revolutionary Russia and was Rand's first statement against communism. Rand observes in the foreword that We the Living was the closest she would ever come to writing an autobiography. Rand finished writing the novel in 1934, but it was rejected by several publishers before being released by Macmillan Publishing in 1936. It has since sold more than three million copies.
 
 :: References
 https://en.wikipedia.org/wiki/We_the_Living
@@ -520,8 +520,8 @@ novel: The Fall (1956)
 :: Title
 The Fall
 
-:: Authors
-Albert Camus
+:: Date
+1956
 
 :: Description
 Set in Amsterdam, The Fall consists of a series of dramatic monologues by the
@@ -532,8 +532,8 @@ colleagues; his crisis, and his ultimate "fall" from grace, was meant to
 invoke, in secular terms, The Fall of Man in the Garden of Eden. The Fall
 explores themes of innocence, imprisonment, non-existence, and truth.
 
-:: Date
-1956
+:: Authors
+Albert Camus
 
 :: Ratings
 5 <mikael>,
@@ -562,22 +562,22 @@ novel: Stoner (1965)
 :: Title
 Stoner
 
-:: Authors
-John Williams
+:: Date
+1965
 
 :: Description
 Stoner has been categorized under the genre of the academic novel, or the campus novel.
 Stoner follows William Stoner's undistinguished career and workplace politics, his marriage
 to Edith, his affair with his colleague Katherine, and his love and pursuit of literature.
 
-:: Date
-1965
-
-:: Ratings
-5 <mikael>,
+:: Authors
+John Williams
 
 :: References
 https://en.wikipedia.org/wiki/Stoner_(novel)
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 academia [Most of the novel is set on a campus, and the we follow the protagonist's career as a professor of English literature.],
@@ -609,26 +609,23 @@ novel: The Moon Is a Harsh Mistress (1966)
 :: Title
 The Moon Is a Harsh Mistress
 
-:: Authors
-Robert A. Heinlein
-
-:: Genre
-sci-fi
+:: Date
+1966-06-02
 
 :: Description
 The story follows a lunar colony's revolt against rule from Earth.
 
-:: Date
-1966-06-02
+:: Authors
+Robert A. Heinlein
 
 :: References
 https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress
 
-:: Ratings
-4 <paul>,
-
 :: Genre
 sci-fi
+
+:: Ratings
+4 <paul>,
 
 :: Choice Themes
 sentient computer [A HOLMES IV computer on the Moon achieved self-awareness, befriended a small group of revolutionaries, and helped them to the overthrow the Earth-backed Lunar Authority.],
@@ -673,8 +670,8 @@ novel: The Driver's Seat (1970)
 :: Title
 The Driver's Seat
 
-:: Authors
-Muriel Spark
+:: Date
+1970
 
 :: Description
 Lise is a spinster, working in an accountancy firm somewhere in Northern
@@ -684,14 +681,14 @@ clothing. Lise travels to a South European city, probably Rome, ostensibly to
 meet her illusory boyfriend. She is eventually found murdered but had to an
 extent planned this murder herself.
 
-:: Date
-1970
-
-:: Ratings
-4 <mikael>,
+:: Authors
+Muriel Spark
 
 :: References
 https://en.wikipedia.org/wiki/The_Driver%27s_Seat_(novel)
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 mental illness [Lise is clearly mad],
@@ -709,8 +706,8 @@ novel: The Futurological Congress (1971)
 :: Title
 The Futurological Congress
 
-:: Authors
-Stanisław Lem
+:: Date
+1971
 
 :: Description
 The Futurological Congress (Polish: Kongres futurologiczny) is a 1971 black
@@ -720,14 +717,14 @@ Eighth World Futurological Congress at a Hilton Hotel in Costa Rica. The book
 is Lem's take on the common science fictional trope of an apparently Utopian
 future that turns out to be an illusion.
 
-:: Date
-1971
-
-:: Ratings
-4 <mikael>,
+:: Authors
+Stanisław Lem
 
 :: References
 https://en.wikipedia.org/wiki/The_Futurological_Congress
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 overpopulated dystopia [the future Tichy experiences ends up being overpopulated but we get the impression that his present is as well],
@@ -755,21 +752,21 @@ novel: Dragon's Egg (1980)
 :: Title
 Dragon's Egg
 
-:: Authors
-Robert L. Forward
+:: Date
+1980
 
 :: Description
 Dragon's Egg is a neutron star with a surface gravity 67 billion times that of
 Earth, and inhabited by cheela, intelligent creatures the size of a sesame
 seed who live, think and develop a million times faster than humans.
 
-:: Date
-1980
-
-:: Ratings
+:: Authors
+Robert L. Forward
 
 :: Genre
 hard science fiction
+
+:: Ratings
 
 :: Choice Themes
 the ascent of man [Cheela develop from an agricultural people into a technologically advanced one in the blink of an eye],
@@ -786,22 +783,22 @@ novel: Never Let Me Go (2005)
 :: Title
 Never Let Me Go
 
-:: Authors
-Kazuo Ishiguro
+:: Date
+2005
 
 :: Description
 The story follows Kathy and some of her friends from childhood to early
 adulthood. It is gradually revealed that they are all clones that will have to
 donate their organs and thus die young.
 
-:: Date
-2005
-
-:: Ratings
-5 <mikael>,
+:: Authors
+Kazuo Ishiguro
 
 :: Genre
 sci-fi, romance, drama, coming of age
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 human childhood [goes with the coming of age genre],
@@ -827,8 +824,8 @@ novel: Children of Time (2015)
 :: Title
 Children of Time
 
-:: Authors
-Adrian Tchaikovsky
+:: Date
+2015
 
 :: Description
 The book's plot involves a planet inhabited by evolved spiders uplifted by
@@ -836,8 +833,8 @@ human scientists, and their later discovery by the last humans alive in the
 universe. The work plays off the contrast between the societal development of
 the spiders and the barbaric descent of the starship crew of the last humans.
 
-:: Date
-2015
+:: Authors
+Adrian Tchaikovsky
 
 :: References
 https://en.wikipedia.org/wiki/Children_of_Time_(novel)
@@ -873,8 +870,8 @@ novel: The Buried Giant (2015)
 :: Title
 The Buried Giant
 
-:: Authors
-Kazuo Ishiguro
+:: Date
+2015-03-03
 
 :: Description
 The story is set in a time of decline after the rule of the great peace maker
@@ -883,14 +880,14 @@ such as their hatred for each other and former enemies live peacefully side by
 side. An elderly couple gets caught up in a quest that centers on the slaying
 of a dragon that is the cause of the mist.
 
-:: Date
-2015-03-03
-
-:: Ratings
-5 <mikael>,
+:: Authors
+Kazuo Ishiguro
 
 :: Genre
 fantasy
+
+:: Ratings
+5 <mikael>,
 
 :: Choice Themes
 coming to terms with one's own death [Axl and especially Beatrice, Gawain to an extent.],
@@ -918,8 +915,8 @@ novel: Seveneves (2015)
 :: Title
 Seveneves
 
-:: Authors
-Neal Stephenson
+:: Date
+2015-05-19
 
 :: Description
 Seveneves is a hard science fiction novel by Neal Stephenson published in
@@ -928,14 +925,14 @@ wake of apocalyptic events on Earth following the unexplained disintegration
 of the Moon, and the remaking of human society as a space-based civilization
 after a severe genetic bottleneck.
 
-:: Date
-2015-05-19
-
-:: Ratings
-4 <mikael>,
+:: Authors
+Neal Stephenson
 
 :: References
 https://en.wikipedia.org/wiki/Seveneves
+
+:: Ratings
+4 <mikael>,
 
 :: Choice Themes
 moon slowly spiraling into a planet [the remnants of Earth's old moon started falling down on the planet and rendering it uninhabitable],

@@ -7,12 +7,6 @@ Alfred Hitchcock Presents
 :: Date
 1955-1965
 
-:: Genre
-drama
-
-:: Collections
-Collection: Alfred Hitchcock Presents
-
 :: Description
 Alfred Hitchcock Presents is an American television anthology series created,
 hosted, and produced by Alfred Hitchcock, and aired on CBS and NBC between 1955
@@ -22,6 +16,12 @@ small number of episodes.
 
 :: References
 https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents
+
+:: Genre
+drama
+
+:: Collections
+Collection: Alfred Hitchcock Presents
 
 
 ahp1x01
@@ -1029,12 +1029,12 @@ Mollie Glessing
 
 Directed by: Alfred Hitchcock. Story by: John Collier, Francis Cockrell.
 
+:: Related Stories
+talesoftheunexpected2x14
+
 :: Ratings
 3 <mikael>,
 3 <paul>,
-
-:: Related Stories
-talesoftheunexpected2x14
 
 :: Choice Themes
 spouse murder [Herbert killed Hermione and buried her in the cellar just before their indefinite trip to Los Angeles.],
@@ -1298,12 +1298,12 @@ Edna Holland, Mollie Glessing
 Directed by: James Neilson. Story by: Stanley Ellin, Victor Wolfson & Robert
 C. Dennis.
 
+:: Related Stories
+talesoftheunexpected2x15
+
 :: Ratings
 3 <mikael>,
 3 <paul>,
-
-:: Related Stories
-talesoftheunexpected2x15
 
 :: Choice Themes
 
@@ -1776,12 +1776,12 @@ Captain Smollett (Williams) will take the blame for the murder.
 
 Directed by: Alfred Hitchcock. Story by: John Collier, Marian Cockrell.
 
+:: Related Stories
+talesoftheunexpected7x08
+
 :: Ratings
 3 <paul>,
 4 <mikael>,
-
-:: Related Stories
-talesoftheunexpected7x08
 
 :: Choice Themes
 breaking the law to cover up another crime [Mr. Princey went to elaborate lengths to frame Captain Smollet for a murder that George's own daughter had committed. George committed various crimes in the process, including assault and battery.],
