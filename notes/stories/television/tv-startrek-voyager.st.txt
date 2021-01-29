@@ -103,15 +103,15 @@ woman in charge [Janeway]
 womanizing man [Tom and Betazoid]
 
 :: Other Keywords
-red alert<19:22>
-hypospray<12:00, 23:40>
+red alert <19:22>
+hypospray <12:00, 23:40>
 plasma storm
 console explosion
 hoedown
 tricorder
 medical tricorder
 banjo
-last second transport<1:21:45> [Chakotay]
+last second transport <1:21:45> [Chakotay]
 
 
 voy1x03
@@ -158,7 +158,7 @@ anger [B'Elanna broke a guy's nose in three places]
 the need to be treated with respect [The Doctor was treated like crap by the crew]
 
 :: Other Keywords
-red alert<9:45>
+red alert <9:45>
 Hippocrates {historical character}
 
 
@@ -236,7 +236,7 @@ natural pandemic [Viidians decimated by plague]
 romantic love [Kes and Neelix]
 
 :: Minor Themes
-artificial body part<lung> [The Doctor gave holographic lungs to Neelix.]
+artificial body part <lung> [The Doctor gave holographic lungs to Neelix.]
 coping with bad cooking [somebody about Neelix's cooking]
 coping with stress at work [The Doctor coping with being understaffed and unappreciated]
 donating an organ to save a life [Kes wanted to donate a lung to save Neelix.]
@@ -251,7 +251,7 @@ why good people do bad things [Viidians explained they used to be good people an
 :: Other Keywords
 rogue planetoid
 tricorder
-hypospray<9:30, 11:38, 29:13> [The Doctor to Neelix, The Doctor to Neelix, The Doctor to Neelix]
+hypospray <9:30, 11:38, 29:13> [The Doctor to Neelix, The Doctor to Neelix, The Doctor to Neelix]
 
 
 voy1x06
@@ -297,8 +297,8 @@ romantic love [Kes and Neelix]
 shamanism [Chakotay's animal guide]
 
 :: Other Keywords
-red alert<12:28, 32:10>
-yellow alert<29:30>
+red alert <12:28, 32:10>
+yellow alert <29:30>
 Carl Jung {historical character}
 holodeck
 French stereotyping
@@ -394,11 +394,11 @@ treason [the Benean doctor]
 mind reading ability [Tuvok mind-melded with Tom.]
 
 :: Other Keywords
-red alert<36:50>
+red alert <36:50>
 Galen {historical character}
 Johnas Salk {historical character}
 mind meld [Tuvok and Tom Paris]
-hypospray<34:42> [The Doctor to Tuvok]
+hypospray <34:42> [The Doctor to Tuvok]
 
 
 voy1x09
@@ -439,7 +439,7 @@ fear [Ptera upon waking up in the afterlife, i.e., sickbay]
 
 :: Other Keywords
 tricorder
-hypospray<15:29, 16:24, 40:48> [The Doctor to Ptera, The Doctor to Ptera, The Doctor to Harry]
+hypospray <15:29, 16:24, 40:48> [The Doctor to Ptera, The Doctor to Ptera, The Doctor to Harry]
 stargazing [Kes, Harry]
 
 
@@ -488,7 +488,7 @@ the desire for prestige [Jaret wanted the story collection]
 workplace relations [crew bonding in opening segment]
 
 :: Other Keywords
-yellow alert<2:25>
+yellow alert <2:25>
 
 
 voy1x11
@@ -622,9 +622,9 @@ mind reading ability [Tuvok mind-melded with Kes.]
 holodeck
 holonovel
 British stereotyping
-hypospray<4:40, 31:18> [The Doctor to Chakotay, Tom Paris to Janeway]
+hypospray <4:40, 31:18> [The Doctor to Chakotay, Tom Paris to Janeway]
 full diagnostic
-intruder alert<20:12>
+intruder alert <20:12>
 mind meld [Tuvok to Kes]
 
 
@@ -717,7 +717,7 @@ the horrors of war [Neelix spoke on the suffering engendered by the WMD use]
 stargazing [Janeway]
 holodeck
 billiards
-surreptitious hypospray<36:18> [Jetrel to Neelix]
+surreptitious hypospray <36:18> [Jetrel to Neelix]
 
 
 voy1x16
@@ -762,7 +762,7 @@ selfless service [Tuvok goes back to save Gerron]
 virtual reality room [Janeway in victorian fantasy]
 
 :: Other Keywords
-red alert<25:15>
+red alert <25:15>
 holodeck
 English stereotyping
 holonovel
@@ -798,7 +798,7 @@ future point of view [first the car then the frozen people]
 what if I found myself in the future [A group of humans from the 1930s were revived from stasis on a seemingly abandoned planet.]
 where to make one's home [crew about whether to stay on cozy planet or continue voyage home]
 woman in charge [Amelia Earhart and Janeway both leader figures]
-historical figure<Amelia Earhart> [A Captain Janeway led away team encountered this aviation pioneer.]
+historical figure <Amelia Earhart> [A Captain Janeway led away team encountered this aviation pioneer.]
 
 :: Minor Themes
 Morse code [Having recreated an antique car radio, Tom Paris picked up an old fashioned AM signal that turned out to represent the old SOS message, a Morse code concept.]
@@ -811,9 +811,9 @@ trust [frozen people and crew]
 universal translation device [mentioned briefly]
 
 :: Other Keywords
-blue alert<8:10>
+blue alert <8:10>
 Amelia Earhart {historical character}
-hypospray<18:04, 18:05, 18:07, 18:08> [Tom Paris to Nogami , Harry Kim to Amelia Earhart, Kes to Fred Noonan, Kes to Jack Hayes]
+hypospray <18:04, 18:05, 18:07, 18:08> [Tom Paris to Nogami , Harry Kim to Amelia Earhart, Kes to Fred Noonan, Kes to Jack Hayes]
 J. Edgar Hoover {historical character}
 H. G. Wells {historical character}
 Jules Verne {historical character}
@@ -903,7 +903,7 @@ trust [The Doctor]
 what if everyone vanished and I was all alone [Doctor was all alon for a while]
 
 :: Other Keywords
-hypospray<9:30> [The Doctor to Janeway]
+hypospray <9:30> [The Doctor to Janeway]
 
 
 voy2x04
@@ -987,7 +987,7 @@ mutual trust [Tom to Harry]
 workplace relations [Harry's colleague was disappointed in Harry because he forgot his presentation slides at home]
 
 :: Other Keywords
-intruder alert<39:28>
+intruder alert <39:28>
 Italian stereotyping
 
 
@@ -1073,9 +1073,9 @@ reptilian being [reptohumanoid]
 seeing the error of one's ways [Neelix about being jealous]
 
 :: Other Keywords
-red alert<30:10>
+red alert <30:10>
 heat a rock with a phaser {phaser trick}
-hypospray<37:10> [Tom Paris to reptilian hatchling]
+hypospray <37:10> [Tom Paris to reptilian hatchling]
 
 
 voy2x08
@@ -1119,7 +1119,7 @@ self-confidence [Tom derided by his dad]
 unrequited love [Lord Burleigh at Janeway]
 
 :: Other Keywords
-intruder alert<22:12>
+intruder alert <22:12>
 holodeck
 
 
@@ -1164,7 +1164,7 @@ planetary weather control system [Sky Spirit people used]
 the instinct for violence [Sky Spirit complained about it]
 
 :: Other Keywords
-red alert<34:18>
+red alert <34:18>
 American Indian stereotyping
 
 
@@ -1215,8 +1215,8 @@ what if I heard all the thoughts around me [Tuvok was teaching Kes how to shut o
 pyrokinetic ability [Tanis trained Kes to be able to conjure up and wield fire.]
 
 :: Other Keywords
-yellow alert<35:36>
-red alert<40:45>
+yellow alert <35:36>
+red alert <40:45>
 Vulcan mind meld [Tuvok to Kes]
 
 
@@ -1260,8 +1260,8 @@ the lust for power [Cullah fantasized about being the most powerful Magh in the 
 vendetta [Kazon sects]
 
 :: Other Keywords
-intruder alert<5:45>
-red alert<38:40>
+intruder alert <5:45>
+red alert <38:40>
 
 
 voy2x12
@@ -1304,7 +1304,7 @@ to tell the truth vs. offering a comforting lie [Janeway to Caylem about his wif
 treatment of the mentally ill in society [The town fool Caylem was ridiculed and ostracized by his fellow twonspeople.]
 
 :: Other Keywords
-Vulcan neck pinch<37:30> [Tukov to guard]
+Vulcan neck pinch <37:30> [Tukov to guard]
 
 
 voy2x13
@@ -1350,7 +1350,7 @@ fortitude [B'Elanna at getting mechanical man working]
 the need for sleep [B'Elanna]
 
 :: Other Keywords
-yellow alert<20:08>
+yellow alert <20:08>
 
 
 voy2x14
@@ -1395,11 +1395,11 @@ sexism in society [Cullah to female leaders]
 treason [Hogan]
 
 :: Other Keywords
-yellow alert<25:58>
-red alert<26:18, 41:32>
-hypospray<1:50> [Kes to Kurt Bendera]
+yellow alert <25:58>
+red alert <26:18, 41:32>
+hypospray <1:50> [Kes to Kurt Bendera]
 Vulcan spice tea
-hypospray<31:22> [The Doctor to Trabe boy]
+hypospray <31:22> [The Doctor to Trabe boy]
 
 
 voy2x15
@@ -1442,7 +1442,7 @@ treason [Michael Jonas]
 virtual reality room [holodeck used to test theory]
 
 :: Other Keywords
-level three security alert<36:35> {security alert}
+level three security alert <36:35> {security alert}
 Orville Wright {historical character}
 Neil Armstrong {historical character}
 Zephram Cochrane {fictional historical character}
@@ -1538,7 +1538,7 @@ treason [traitor appeared]
 tardiness [Tom was late.]
 
 :: Other Keywords
-red alert<20:06, 30:00>
+red alert <20:06, 30:00>
 
 
 voy2x18
@@ -1583,7 +1583,7 @@ understanding by metaphor [The Q Continuum was only comprehensible to human inte
 woman in charge [Q comments upon]
 
 :: Other Keywords
-red alert<3:10>
+red alert <3:10>
 Isaac Newton {historical character}
 Thadius Riker {fictional historical character}
 
@@ -1637,7 +1637,7 @@ treason [traitor featured]
 tardiness [Tom was late.]
 
 :: Other Keywords
-hypospray<1:37> [The Doctor to Danara Pel]
+hypospray <1:37> [The Doctor to Danara Pel]
 holography
 Hippocrates {historical character}
 I Only Have Eyes for You {song}
@@ -1721,8 +1721,8 @@ what if I met my double [Janeway]
 teleportation device [The Vidiians used an advanced medical gizmo to effectively teleport organs directly out of living humanoids.]
 
 :: Other Keywords
-red alert<5:57, 34:57>
-perimeter alert<34:48>
+red alert <5:57, 34:57>
+perimeter alert <34:48>
 all stop
 
 
@@ -1813,7 +1813,7 @@ planet scorching solar flare [Kohl settlement destroyed by solar flare]
 womanizing man [Tom and Harry]
 
 :: Other Keywords
-red alert<34:40>
+red alert <34:40>
 Napoleon {historical character}
 Chulak {fictional historical character}
 
@@ -1856,7 +1856,7 @@ gardening [Tuvok cultivated orchids as a hobby.]
 pleasure in nature [Neelix and Tuvok debated taking pleasure in the beauty of the nature on the planet where they were foraging for food.]
 
 :: Other Keywords
-intruder alert<15:16>
+intruder alert <15:16>
 stargazing [Janeway]
 
 
@@ -1900,8 +1900,8 @@ the carpentry profession [Stranded on a planet with Janeway, Chakotay revealed h
 gardening [Janeway demonstrated a penchant for gardening by cultivating Talaxian tomatoes and commenting on tomato bugs.]
 
 :: Other Keywords
-red alert<34:47>
-hypospray<38:16> [The Doctor to redshirt]
+red alert <34:47>
+hypospray <38:16> [The Doctor to redshirt]
 
 
 voy2x26
@@ -1947,8 +1947,8 @@ shamanism [Chakotay goes on vision quest]
 the battle of the sexes [Kazon vs. Janeway]
 
 :: Other Keywords
-red alert<13:28, 18:32, 26:02>
-intruder alert<33:48>
+red alert <13:28, 18:32, 26:02>
+intruder alert <33:48>
 
 
 voy3x01
@@ -2039,10 +2039,10 @@ trust [Tuvok and Janeway]
 mind reading ability [Tuvok mind-melded with Janeway.]
 
 :: Other Keywords
-red alert<33:24>
-intruder alert<38:18>
+red alert <33:24>
+intruder alert <38:18>
 Vulcan mind meld [Tuvok to Janeway]
-Vulcan nerve pinch<39:20> [Tuvok to Janice Rand]
+Vulcan nerve pinch <39:20> [Tuvok to Janice Rand]
 
 
 voy3x03
@@ -2124,8 +2124,8 @@ maker and machine [Zimmerman and The Doctor]
 opera [The Doctor attempted to sing "O, soave fanciulla", a duet from Act 1 of the Earth opera La boheme by Puccini, on the holodeck with a holographic re-creation of Giuseppina Pentangeli.]
 
 :: Other Keywords
-red alert<32:06>
-battle stations<36:10>
+red alert <32:06>
+battle stations <36:10>
 
 
 voy3x05
@@ -2165,7 +2165,7 @@ matter replicator [Arridor and Kol proliferated matter replicator technology on 
 
 :: Other Keywords
 all stop
-hypospray<41:32> [The Doctor to Murphy]
+hypospray <41:32> [The Doctor to Murphy]
 
 
 voy3x06
@@ -2251,7 +2251,7 @@ psychedelic experience [Janeway had a psychedelic-like experience after getting 
 
 :: Other Keywords
 shore leave
-hypospray<33:32> [The Doctor to Kes]
+hypospray <33:32> [The Doctor to Kes]
 
 
 voy3x08
@@ -2293,7 +2293,7 @@ time traveler living secretly among us [Henry Starling as high powered CEO]
 what it is like to be homeless [Captain Braxton was living as a vagrant on the streets of 1996 Los Angeles.]
 
 :: Other Keywords
-red alert<3:33, 30:47>
+red alert <3:33, 30:47>
 
 
 voy3x09
@@ -2380,7 +2380,7 @@ transsexualism [Tiernan became a Kes]
 what if my partner switched gender [Nori and Tiernan]
 
 :: Other Keywords
-hypospray<6:00, 6:20> [Kes to Tieran, Kes to Tieran]
+hypospray <6:00, 6:20> [Kes to Tieran, Kes to Tieran]
 
 
 voy3x11
@@ -2422,8 +2422,8 @@ supernova [chain of supernova explosions]
 attitude of superiority [The female Q thought her race of god-like beings was above copulating with humans, but Q begged to differ.]
 
 :: Other Keywords
-intruder alert<1:55, 2:05>
-red alert<16:10>
+intruder alert <1:55, 2:05>
+red alert <16:10>
 
 
 voy3x12
@@ -2456,11 +2456,11 @@ human vs. beast [Doctor vs. macroscopic virus]
 problem of language and meaning [Tak Tak language, though also containing speech had an important component of ritualistic gestures.]
 
 :: Other Keywords
-captain's log<0:39-0:53> [Janeway]
-hypospray<31:30, 34:50> [The Doctor to Janeway, The Doctor to macrovirus]
-red alert<32:05>
+captain's log <0:39-0:53> [Janeway]
+hypospray <31:30, 34:50> [The Doctor to Janeway, The Doctor to macrovirus]
+red alert <32:05>
 ship-wide epidemic
-intruder alert<35:40>
+intruder alert <35:40>
 
 
 voy3x13
@@ -2548,7 +2548,7 @@ sentient computer
 the nature of love [Tuvok discussed with Harry]
 
 :: Other Keywords
-intruder alert<29:20>
+intruder alert <29:20>
 
 
 voy3x15
@@ -2598,7 +2598,7 @@ what if I had a near-death experience [Janeway]
 mind reading ability [Tuvok mind-melded with Kes.]
 
 :: Other Keywords
-hypospray<6:34, 16:15, 21:24, 21:49, 38:10> [Chakotay to Janeway, The Doctor to Janeway, The Doctor to Janewa, The Doctor to Janeway, The Doctor to Janeway]
+hypospray <6:34, 16:15, 21:24, 21:49, 38:10> [Chakotay to Janeway, The Doctor to Janeway, The Doctor to Janewa, The Doctor to Janeway, The Doctor to Janeway]
 Vulcan mind meld [Tuvok to Kes]
 
 
@@ -2647,7 +2647,7 @@ prudishness [Tuvok]
 resisting a temptation [Tom about not having sex with B'Elanna]
 
 :: Other Keywords
-hypospray<25:00> [The Doctor to Vorik]
+hypospray <25:00> [The Doctor to Vorik]
 
 
 voy3x17
@@ -2685,7 +2685,7 @@ anarchy [liberated Borg besieged by bad guy Borg]
 coping with the death of a colleague [Chakotay mourned the loss of Ensign Kaplan.]
 
 :: Other Keywords
-red alert<10:07>
+red alert <10:07>
 stargazing [Janeway, Chakotay]
 
 
@@ -2731,7 +2731,7 @@ what if I met an historical figure [Gandhi and Lord Byron on holodeck]
 what if I was at the mercy of a mad person [The Doctor, who had gone dangerously insane, was going to torture B'Elanna in Sickbay.]
 
 :: Other Keywords
-hypospray<9:14, 24:42, 25:48, 26:54, 27:30, 28:35> [The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elann]
+hypospray <9:14, 24:42, 25:48, 26:54, 27:30, 28:35> [The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elanna, The Doctor to B'Elann]
 
 
 voy3x19
@@ -2819,7 +2819,7 @@ second guessing one's self [Harry about attacking the Nasari ship]
 what if I underwent a physical metamorphosis [Harry transformed into an alien]
 
 :: Other Keywords
-red alert<1:22>
+red alert <1:22>
 
 
 voy3x21
@@ -2940,7 +2940,7 @@ antiscience in society [The reptilian Galileo Forra Gegen was persecuted for his
 faith vs. reason [The reptilian Galileo Forra Gegen was persecuted for his heretical scientific theories.]
 intelligent dinosaurs [We saw an intelligent offshoot of the dinosaurs.]
 order vs. progress [The establishment opposed emerging scientific ideas on the origin of reptilians.]
-historical figure<Galileo Galilei> [Forra Gegen was the reptilian version of Galileo Galilei, we understand.]
+historical figure <Galileo Galilei> [Forra Gegen was the reptilian version of Galileo Galilei, we understand.]
 
 :: Major Themes
 alien point of view [they saw us as disgusting mammals]
@@ -2968,8 +2968,8 @@ virtual reality room [holodeck used for palentological purposes]
 genetics [Gegen used the knowledge that saurians shared 47 genetic markers with hadrosaurs to infer that they had a common evolutionary ancestor.]
 
 :: Other Keywords
-intruder alert<17:20>
-red alert<23:07>
+intruder alert <17:20>
+red alert <23:07>
 
 
 voy3x24
@@ -3003,7 +3003,7 @@ what if people around me started disappearing one by one [crew members from Voya
 anger [B'Elanna flipped out at Tom after Bathelt practice]
 
 :: Other Keywords
-red alert<5:34>
+red alert <5:34>
 
 
 voy3x25
@@ -3043,7 +3043,7 @@ ruthlessness [Seska]
 the need for rest and recreation [Janeway prescribed]
 
 :: Other Keywords
-intruder alert<21:24>
+intruder alert <21:24>
 
 
 voy3x26
@@ -3075,7 +3075,7 @@ facing an overpowering adversary [Species 8472]
 trust in a potential foe [crew in Borg]
 
 :: Minor Themes
-historical figure<Leonardo da Vinci> [Janeway was in Leonardo da Vinci's workshop.]
+historical figure <Leonardo da Vinci> [Janeway was in Leonardo da Vinci's workshop.]
 a leopard can't change its spots [Chakotay told scorpion and fox fable]
 biological spaceship [Species 8472 ships biologically regenerated]
 coping with a loved one being gravely ill [The Voyager crew members were shaken up when Harry was critically injured in an attack by Species 8472.]
@@ -3088,7 +3088,7 @@ virtual reality room [da Vinci workshop]
 what if I met an historical figure [Janeway and da Vinci]
 
 :: Other Keywords
-red alert<10:10>
+red alert <10:10>
 
 
 voy4x01
@@ -3169,7 +3169,7 @@ the need to feel useful to society [Seven]
 telepathic ability [Kes remarked that her telepathic abilities had never been stronger.]
 
 :: Other Keywords
-intruder alert<23:10>
+intruder alert <23:10>
 
 
 voy4x03
@@ -3334,7 +3334,7 @@ loyalty to a friend [Seven to Janeway]
 xenophobic isolationist society [Voyager negotiated passage through the space of the isolationist and paranoid B'omar.]
 
 :: Minor Themes
-historical figure<Leonardo da Vinci> [Leonardo da Vinci's workshop was featured.]
+historical figure <Leonardo da Vinci> [Leonardo da Vinci's workshop was featured.]
 fear [Seven of the raven]
 pleasure in eating [Neelix spoke of a "certain satisfaction" that comes with eating food that has been "carefully prepared".]
 reminiscence about one's youth [Seven recalled life with her parents before the Borg assimilation incident.]
@@ -3385,7 +3385,7 @@ rapid aging process [Chakotay aged rapidly until he looked like an old man.]
 working together in spite of disagreement [B'Elanna vs. Seven]
 
 :: Other Keywords
-red alert<38:14>
+red alert <38:14>
 the sinking of the Titanic [Tom’s Voyager hull modifications inspired by the Titanic]
 
 
@@ -3433,9 +3433,9 @@ there is strength in unity [Janeway refuses to split up]
 pridefulness [The Doctor gave a self-aggrandizing speech.]
 
 :: Other Keywords
-yellow alert<6:53>
-tactical alert<11:04>
-red alert<19:53>
+yellow alert <6:53>
+tactical alert <11:04>
+red alert <19:53>
 Twenty Thousand Leagues Under the Sea [Nemo reference]
 
 
@@ -3556,7 +3556,7 @@ the need for freedom [while the Doctor lamented the loss of his, Leonardo was ha
 AI point of view [Leonardo]
 the pirate stereotype [The robber aliens were patterned after pirates.]
 virtual person [da Vinci began to question his nature]
-historical figure<Leonardo da Vinci> [The story featured Leonardo da Vinci manifested in a fictional future through the magic of science.]
+historical figure <Leonardo da Vinci> [The story featured Leonardo da Vinci manifested in a fictional future through the magic of science.]
 theft in society [the space pirates]
 the thirst for knowledge [Leonardo]
 
@@ -3566,7 +3566,7 @@ boredom [The Doctor when confined to sickbay without his mobile emitter]
 anti-intellectualism in society [Leonardo da Vinci complained about the people of Florence]
 
 :: Other Keywords
-red alert<39:21>
+red alert <39:21>
 
 
 voy4x12
@@ -3659,7 +3659,7 @@ coping with insomnia [crew at end]
 tardiness [Tom was late for breakfast with B'Elanna. Tom and Harry showed up late for duty.]
 
 :: Other Keywords
-red alert<24:54>
+red alert <24:54>
 
 
 voy4x14
@@ -3741,7 +3741,7 @@ the desire for prestige [Hirogen captain wanted Seven's intestines to impress hi
 pridefulness [The Doctor got a bit full of himself at the prospect of being welcomed to the Alpha Quadrant as a hero.]
 
 :: Other Keywords
-red alert<35:42>
+red alert <35:42>
 
 
 voy4x16
@@ -3782,8 +3782,8 @@ fitting in at work [The Doctor was mentoring Seven on how to fit in with the cre
 hunting [It was explained that Hunting was a central part of Hirogen society.]
 
 :: Other Keywords
-red alert<4:47>
-intruder alert<17:40>
+red alert <4:47>
+intruder alert <17:40>
 
 
 voy4x17
@@ -3962,7 +3962,7 @@ laziness [Tom is shirking his duties]
 attitude of superiority [The Doctor felt rather pleased with himself upon falsely deducing that Tom, who was training as a medic under him, was trying to live up to his abilities.]
 
 :: Other Keywords
-red alert<3:36>
+red alert <3:36>
 
 
 voy4x21
@@ -4038,8 +4038,8 @@ future point of view [Chakotay was using ancient writing implements]
 political asylum [Kellin aboard Voyager]
 
 :: Other Keywords
-red alert<1:07>
-intruder alert<34:58>
+red alert <1:07>
+intruder alert <34:58>
 
 
 voy4x23
@@ -4084,8 +4084,8 @@ coping with being separated from someone you love [The Doctor on waking up in th
 biological weapons [Janeway allegedly used against Kyrians]
 
 :: Other Keywords
-intruder alert<19:30>
-red alert<32:43>
+intruder alert <19:30>
+red alert <32:43>
 
 
 voy4x24
@@ -4128,9 +4128,9 @@ the need for privacy [The Doctor vs. Neelix]
 alternate points of view [Harry sees beauty in the barren planet]
 
 :: Other Keywords
-gray mode<0:57> {alert}
-code blue<17:42, 44:52> {alert}
-blue alert<17:44> {alert}
+gray mode <0:57> {alert}
+code blue <17:42, 44:52> {alert}
+blue alert <17:44> {alert}
 
 
 voy4x25
@@ -4252,7 +4252,7 @@ boredom [crew in the void]
 nature conservationism [toxic waste dumping]
 
 :: Other Keywords
-red alert<40:10>
+red alert <40:10>
 
 
 voy5x02
@@ -4295,7 +4295,7 @@ claustrophobia [B'Elanna mentioned on shuttlecraft]
 inferiority complex [Seven seemed to feel a bit to One]
 
 :: Other Keywords
-red alert<10:32, 40:00>
+red alert <10:32, 40:00>
 
 
 voy5x03
@@ -4376,9 +4376,9 @@ the thirst for knowledge [Valarie in human culture]
 annihilation by WMDs [Voyager crew threatened Species 8472 with Borg nanoprobes]
 
 :: Other Keywords
-security alert<10:35>
-red alert<30:44>
-tactical alert<32:47>
+security alert <10:35>
+red alert <30:44>
+tactical alert <32:47>
 
 
 voy5x05
@@ -4456,7 +4456,7 @@ romantic love [Chakotay and Tessa]
 grandfather paradox [episode closed with a message from Harry Kim to Harry Kim]
 
 :: Other Keywords
-tactical alert<27:32>
+tactical alert <27:32>
 
 
 voy5x07
@@ -4538,7 +4538,7 @@ pridefulness [The Doctor presented a self-aggrandizing slideshow on his achievem
 racism in society [B'Elanna hated Cardassians and was of the mind that they were all cold-blooded killers.]
 
 :: Other Keywords
-red alert<14:00>
+red alert <14:00>
 
 
 voy5x09
@@ -4590,10 +4590,10 @@ human vs. institution [Riga and Tom vs. Monean government]
 unrequited love [Harry for wrong sister]
 delivering bad news [alien did not like]
 friendship [Tom and Harry]
-ruthlessness<Janeway> [Janeway prepared to destroy Tom]
+ruthlessness <Janeway> [Janeway prepared to destroy Tom]
 
 :: Other Keywords
-red alert<10:46, 21:56>
+red alert <10:46, 21:56>
 
 
 voy5x10
@@ -4637,7 +4637,7 @@ attitude of superiority [Torat was a textbook pompous scientist.]
 hatred of exceptional people [Kashyk expressed a view that the concept of trust was unknown to telepathic races.]
 
 :: Other Keywords
-red alert<13:52>
+red alert <13:52>
 
 
 voy5x11
@@ -4758,7 +4758,7 @@ coping with being separated from someone you love [Tuvok over wife]
 suppressed emotion [Tuvok was accused of suppressing his feelings of love.]
 
 :: Other Keywords
-red alert<24:12>
+red alert <24:12>
 
 
 voy5x14
@@ -4802,8 +4802,8 @@ obsession with a life-dedicated project [Qatai with killing the creature]
 fear of an unknown future [Seven was accused of worrying about returning to Earth]
 
 :: Other Keywords
-yellow alert<3:12>
-security alert<19:11>
+yellow alert <3:12>
+security alert <19:11>
 
 
 voy5x15-16
@@ -4858,8 +4858,8 @@ mother and daughter [Seven and Erin]
 father and daughter [Seven and Magnus]
 
 :: Other Keywords
-intruder alert<28:28>
-red alert<1:33:10>
+intruder alert <28:28>
+red alert <1:33:10>
 
 
 voy5x17
@@ -4909,7 +4909,7 @@ sexually transmitted disease in society [Derran sexual transmitted to Harry what
 resistance movement [Varro underground movement on generational starship]
 
 :: Other Keywords
-bio alert<15:55> {alert}
+bio alert <15:55> {alert}
 
 
 voy5x18
@@ -4953,7 +4953,7 @@ killing to survive [Janeway decided not to kill aliens to survive at that Y-clas
 human vs. inexplicable adversity [The crew was at a loss to explain why everyone was slowly, but inexorably, decomposing.]
 
 :: Other Keywords
-red alert<29:02>
+red alert <29:02>
 
 
 voy5x19
@@ -5032,7 +5032,7 @@ career choice [Seven had opportunity to leave Voyager to explore Delta Quadrant 
 ruthlessness [Think Tank aliens were particularly merciless in their dealings with aliens in need]
 
 :: Other Keywords
-intruder alert<12:32>
+intruder alert <12:32>
 
 
 voy5x21
@@ -5196,7 +5196,7 @@ the desire for vengeance [psychotic Braxton to some extent]
 resentment [psychotic Braxton]
 
 :: Other Keywords
-intruder alert<39:08>
+intruder alert <39:08>
 
 
 voy5x25
@@ -5290,7 +5290,7 @@ resisting a temptation [Equinox crew succumbed to temptation to use nucleogenic 
 remorse [some Equinox crewmembers, especially Marla over using nucleogenic aliens as fuel]
 
 :: Other Keywords
-red alert<3:38>
+red alert <3:38>
 
 
 voy6x01
@@ -5455,7 +5455,7 @@ bluffing [The Doctor feigned to possess a powerful weapon known as "the photonic
 invasion of privacy [The Doctor felt bad about people seeing his seedy fantasies.]
 
 :: Other Keywords
-red alert<16:50>
+red alert <16:50>
 
 
 voy6x05
@@ -5603,7 +5603,7 @@ risk taking vs. playing it safe [Seven tried to convince Janeway that exploring 
 the game of baseball [Twenty-first century astronaut John Kelly was a big New York Yankees fan.]
 
 :: Other Keywords
-yellow alert<6:08>
+yellow alert <6:08>
 
 
 voy6x09
@@ -5683,7 +5683,7 @@ virtual reality room [holodeck featured]
 master and pet [Barclay and his cat Neelix]
 
 :: Other Keywords
-intruder alert<33:22>
+intruder alert <33:22>
 
 
 voy6x11
@@ -5724,7 +5724,7 @@ one night stand [Sullivan down in the dumps after Janeway left him after they sp
 human vs. space anomaly [Voyager traversed a neutronic wavefront]
 
 :: Other Keywords
-yellow alert<7:52>
+yellow alert <7:52>
 
 
 voy6x12
@@ -5763,7 +5763,7 @@ prime numbers [Aliens transmitted prime numbers to Voyager in effort to communic
 what if I lived an alternate life [The Doctor even had a kid on the planet]
 
 :: Other Keywords
-intruder alert<31:47>
+intruder alert <31:47>
 
 
 voy6x13
@@ -5848,7 +5848,7 @@ female stereotype [Tom watching TV while B'Elanna chats]
 male stereotype [Tom watching TV while B'Elanna chats]
 
 :: Other Keywords
-red alert<29:43>
+red alert <29:43>
 
 
 voy6x15
@@ -5931,7 +5931,7 @@ peer pressure [Borg child leader pressured children to follow his wishes]
 ruthlessness [Janeway reiterated that she would use the pathogen]
 
 :: Other Keywords
-red alert<6:37>
+red alert <6:37>
 
 
 voy6x17
@@ -6017,7 +6017,7 @@ trust in a potential foe [Janeway about Lyndsay initially]
 revival long after death [Lyndsay was revived from the dead by aliens]
 
 :: Other Keywords
-red alert<31:40>
+red alert <31:40>
 
 
 voy6x19
@@ -6062,7 +6062,7 @@ coping with saying goodbye forever [Seven at Icheb]
 destiny [Icheb felt it was his destiny to be used as a weapon against the Borg]
 
 :: Other Keywords
-red alert<37:38>
+red alert <37:38>
 
 
 voy6x20
@@ -6111,7 +6111,7 @@ selfless service [Mortimer tried to be a hero by flying into the dark matter ali
 heroism [Mortimer tried to be a hero by flying into the dark matter aliens]
 
 :: Other Keywords
-red alert<21:49>
+red alert <21:49>
 red alert in Telfer's brain {alert}
 
 
@@ -6224,9 +6224,9 @@ what if my enemy and my ally looked exactly alike and I had to choose between th
 seeing the error of one's ways [Kes changed her plan to take vengeance on Voyager crew at end]
 
 :: Other Keywords
-intruder alert<5:21>
-tactical alert<12:20>
-red alert<37:42>
+intruder alert <5:21>
+tactical alert <12:20>
+red alert <37:42>
 
 
 voy6x24
@@ -6346,7 +6346,7 @@ long-distance relationship [Auxum on other side of the galaxy and met Seven in u
 attack from outer space by a powerful conquering enemy [Voyager stumbled on a Borg assimilated colony.]
 
 :: Other Keywords
-yellow alert<8:43>
+yellow alert <8:43>
 
 
 voy7x01
@@ -6516,7 +6516,7 @@ security vs. freedom [did Tuvok have the right to read peoples' letters?]
 conspiracy theory [Bolian Maquis became paranoid about a conspiracy to murder Maquis crewmembers]
 
 :: Other Keywords
-yellow alert<6:45>
+yellow alert <6:45>
 
 
 voy7x05
@@ -6556,7 +6556,7 @@ extramarital affair [Adultress alien was bored with her husband and expressed ro
 justification for torture [Neelix and Tuvok psychologically tortured Gar in the brig]
 
 :: Other Keywords
-red alert<12:33>
+red alert <12:33>
 
 
 voy7x06
@@ -6727,7 +6727,7 @@ ruthlessness [Iden toward organics]
 interplanetary war [The Kraylor and the Annari were fighting each other in what was described as an interplanetary war.]
 
 :: Other Keywords
-red alert<36:24>
+red alert <36:24>
 
 
 voy7x11
@@ -6889,7 +6889,7 @@ coping with a crisis of faith [Some Klingons were disappointed their savior was 
 what if I had to fight to the death [Tom accepted a fight to the death]
 
 :: Other Keywords
-red alert<6:50>
+red alert <6:50>
 
 
 voy7x15
@@ -6930,7 +6930,7 @@ problem of language and meaning [The Doctor and Seven trying to communicate with
 cooking [Seven began preparing her own daily meals and even cooked dinner for the senior officers.]
 
 :: Other Keywords
-intruder alert<14:05>
+intruder alert <14:05>
 
 
 voy7x16
@@ -6973,7 +6973,7 @@ coping with bad cooking [Janeway and Jeffen with Janeway's cooking]
 clash of wills [The Doctor and Harry wrangled over who better to be in command]
 
 :: Other Keywords
-intruder alert<15:47>
+intruder alert <15:47>
 
 
 voy7x17
@@ -7060,7 +7060,7 @@ laziness [Seven was late for a duty shift.]
 tardiness [Seven was late for a duty shift.]
 
 :: Other Keywords
-red alert<37:55>
+red alert <37:55>
 
 
 voy7x19
@@ -7315,7 +7315,7 @@ seeing the error of one's ways [The Doctor confessed all his regrets on his deat
 attitude of superiority [The Doctor was proud of being a hologram.]
 
 :: Other Keywords
-red alert<25:34>
+red alert <25:34>
 
 
 voy7x25/26
@@ -7375,7 +7375,7 @@ mind-computer merging [Admiral Janeway had a neural interface she used to interf
 coping with getting dumped [Chakotay by Seven again]
 
 :: Other Keywords
-red alert<41:55>
+red alert <41:55>
 red alert chili
 
 

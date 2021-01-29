@@ -81,8 +81,8 @@ coping with saying goodbye forever [Picard bids farewell to O'Brien in the trans
 the game of baseball [Benjamin talked about baseball with the wormhole aliens.]
 
 :: Other Keywords
-red alert<0:30, 1:14:46>
-yellow alert<54:52>
+red alert <0:30, 1:14:46>
+yellow alert <54:52>
 
 
 ds91x03
@@ -258,7 +258,7 @@ Bussard ramjet [O'Brien described how a "ramscoop" could be used to capture stel
 genetic engineering in society [Tosk was engineered to be hunted by hunting aliens.]
 
 :: Other Keywords
-yellow alert<1:17>
+yellow alert <1:17>
 
 
 ds91x07
@@ -372,7 +372,7 @@ brinkmanship [release the tractor beam or everyone dies!]
 pride in an achievement [Bashir boasted of his achievements in medicine to Kira in the shuttlecraft.]
 
 :: Other Keywords
-security alert yellow<34:14> {alert}
+security alert yellow <34:14> {alert}
 
 
 ds91x10
@@ -649,9 +649,9 @@ personality rights [the Jadzia from Julian's mind conjured into reality]
 choosing who dies and who lives [Rumpelstiltskin offered to save the space station if Miles sacrificed his child]
 
 :: Other Keywords
-intruder alert<9:07>
-yellow alert<15:30, 41:48>
-red alert<35:24>
+intruder alert <9:07>
+yellow alert <15:30, 41:48>
+red alert <35:24>
 
 
 ds91x17
@@ -1031,7 +1031,7 @@ Directed by: Winrich Kolbe. Story by: Evan Carlos Somers.
 4 <paul>
 
 :: Choice Themes
-coping with a disability<Melora Pazlar> [Melora with being confined to a wheelchair]
+coping with a disability <Melora Pazlar> [Melora with being confined to a wheelchair]
 the role of the disabled in society [Melor could do her work just fine dangnammit]
 the need to get there on one's own merits [Melora took pains not depend on others]
 infatuation [Bashir and Melora]
@@ -1298,9 +1298,9 @@ silicon-based being [Weld Ram discovered silicon-based life form on the planet]
 what if I was a specimen animal in a zoo [Odo complained being a laboratory specimen on Bajor]
 
 :: Other Keywords
-yellow alert<19:40>
-intruder alert<26:40>
-red alert<29:10>
+yellow alert <19:40>
+intruder alert <26:40>
+red alert <29:10>
 
 
 ds92x13
@@ -1514,7 +1514,7 @@ teen romance [Jake confided in Benjamin about his love for a dabo girl]
 father and son [Benjamin scolded Jake for falling in love with a dabo girl]
 
 :: Other Keywords
-yellow alert<31:03>
+yellow alert <31:03>
 
 
 ds92x18
@@ -1891,7 +1891,7 @@ pleasure in nature [Benjamin's love of nature on camping trip contrasted with Qu
 civilization vs. savagery [Quark accused humans of double standards in this respect]
 
 :: Other Keywords
-yellow alert<27:28>
+yellow alert <27:28>
 
 
 ds93x01
@@ -1935,7 +1935,7 @@ the need for privacy [Odo wanted privacy when rooming with Quark]
 going over someone's head [Odo didn't like following orders.]
 
 :: Other Keywords
-red alert<3:29, 24:20>
+red alert <3:29, 24:20>
 
 
 ds93x02
@@ -2268,7 +2268,7 @@ coping with the rigors of command [Kira with too many requests]
 the life of a loved one vs. the lives of many [Benjamin negotiated to have Tom Riker handed over to Cardassian custody in return for saving the Defiant and its crew]
 
 :: Other Keywords
-red alert<21:08>
+red alert <21:08>
 
 
 ds93x10
@@ -2535,7 +2535,7 @@ male brutishness [Cardassian female scientist argued Cardassian males were boneh
 unrequited love [Gilora at O'Brien]
 
 :: Other Keywords
-red alert<36:42>
+red alert <36:42>
 
 
 ds93x16
@@ -2790,7 +2790,7 @@ attack from outer space by a genocidal enemy [Founders were about to be wiped ou
 loyalty to one's species [Founders helped fellow shapeshifter Odo escape]
 
 :: Other Keywords
-red alert<4:14>
+red alert <4:14>
 
 
 ds93x22
@@ -3059,8 +3059,8 @@ racism in society [Garak wondered why Klingons had become racist against the Car
 the game of baseball [Benjamin and Kasidy contemplate taking a trip to Cestus III to watch a baseball game.]
 
 :: Other Keywords
-yellow alert<58:00>
-red alert<1:04:10, 1:12:52>
+yellow alert <58:00>
+red alert <1:04:10, 1:12:52>
 
 
 ds94x03
@@ -3268,7 +3268,7 @@ the dangers of radioactivity [The Defiant crew became imperiled after getting tr
 the game of baseball [Benjamin invited Kira to join him for some baseball in the holosuites.]
 
 :: Other Keywords
-red alert<2:43>
+red alert <2:43>
 
 
 ds94x08
@@ -3931,7 +3931,7 @@ genetically engineered soldier [Jem'Hadar soldier discussed having been genetica
 coping with being famous [Odo was annoyed at being fawned over by Jem'Hadar and Weyoun who all considered him a god]
 
 :: Other Keywords
-red alert<6:30>
+red alert <6:30>
 
 
 ds94x24
@@ -4052,7 +4052,7 @@ the desire for vengeance [Shapshifter made her feeling about wanting to get reve
 coping with living in a foreign culture [Odo amongst the humanoids]
 
 :: Other Keywords
-combat alert<43:28>
+combat alert <43:28>
 
 
 ds95x01
@@ -4273,7 +4273,7 @@ the desire for vengeance [Arne Darvin hatched an elaborate plot to travel back i
 facing a vermin infestation [Tribbles on Enterprise and Space Station K-7]
 the desire for redemption [Arne Darvin wanted to kill Kirk in the past so that he wouldn't be an outcast from the Klingon in the present]
 future point of view [DS9 staff at quaint 23rd century technology; women crew-members wearing skimpy uniforms; Miles and Julian unfamiliar with old fashioned equipment]
-human vs. beast<Tribble> [crew vs. Tribbles]
+human vs. beast <Tribble> [crew vs. Tribbles]
 
 :: Minor Themes
 what if I met an historical figure [Benjamin and others meet the great Captain James T. Kirk]
@@ -4281,12 +4281,12 @@ appearance altering technology [Arne Darvin was a Klingon surgically altered to 
 speculative genetic engineering [Worf explained how Klingon's from Kirk's era had genetic engineering away their cranial ridges.]
 genetically engineered person [Worf explained how Klingon's from Kirk's era used genetic engineering to remove their cranial ridges.]
 grandfather paradox [Julian and Miles discussed the possibility that Watley was his grandmother]
-invasive life form from outer space<Tribble> [Tribbles]
+invasive life form from outer space <Tribble> [Tribbles]
 female sexuality [Jadzia commented on Spock being a hunk and 23rd century males]
 pride in one's team [Scotty started a bar fight when a Klingon boasted that the Enterprise was worthy of being hauled off as garbage.]
 
 :: Other Keywords
-red alert<19:00>
+red alert <19:00>
 
 
 ds95x07
@@ -4492,7 +4492,7 @@ killer microdrone [Silaran Prin employed a small drone to kill]
 taking the law into one's own hands [Kira decided to do some extra-judicial killing]
 
 :: Other Keywords
-red alert<25:30>
+red alert <25:30>
 
 
 ds95x12
@@ -4617,7 +4617,7 @@ coping with the death of a parent [Garak father Enabran Tain died in prison]
 grief [Garak over the death of his father Enabran Tain]
 
 :: Other Keywords
-yellow alert<24:10>
+yellow alert <24:10>
 
 
 ds95x15
@@ -4835,7 +4835,7 @@ social activism [Kira hoped Tekeny Ghemor would lead a political movement to ove
 grandfather and grandson [Tekeny felt almost like a grandfather to Kira's almost son]
 
 :: Other Keywords
-red alert<21:50>
+red alert <21:50>
 
 
 ds95x20
@@ -4922,7 +4922,7 @@ what if I had to fight to the death [Work fought Martok in fight to the death fo
 sacrifice for a friend [Worf allowed himself to lose fight to the death with Martok to help Martok regain his Klingon confidence]
 
 :: Other Keywords
-tactical alert<40:10>
+tactical alert <40:10>
 
 
 ds95x22
@@ -5300,7 +5300,7 @@ crew's attachment to their ship [Benjamin was reluctant to leave command of the 
 the limits of language [Female Changeling discussed about feeling confined by language in communication with Odo]
 
 :: Other Keywords
-intruder alert<39:50>
+intruder alert <39:50>
 
 
 ds96x05
@@ -6025,7 +6025,7 @@ coping with being separated from someone you love [Dorian Collins was homesick f
 falling out of friendship [Jake and Nog had a brief falling out of friendship while aboard the Valiant]
 
 :: Other Keywords
-red alert<25:35>
+red alert <25:35>
 
 
 ds96x23
@@ -6599,7 +6599,7 @@ coping with mortality [Nog explained to Vic about how he realized he was mortal 
 virtual person [sentient hologram Vic Fontaine complained to Nog of being tired after having his program run for an extended period of time; Miles and Nog discussed the sentience of Vic]
 
 :: Minor Themes
-artificial body part<leg> [Nog had a perfect leg replacement but he used a cane for psychological reasons.]
+artificial body part <leg> [Nog had a perfect leg replacement but he used a cane for psychological reasons.]
 future point of view [Nog was confounded when Vic talked about being bigger than Elvis and was clueless as to the purpose of a cigarette lighter]
 father and son [Rom concerned over Rom's wellbeing]
 falling out of friendship [Nog accosted Jake in the holo suite night club]

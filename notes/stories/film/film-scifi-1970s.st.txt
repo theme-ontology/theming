@@ -2080,9 +2080,9 @@ super strength [Steve Austin used his nuclear powered robotic arm to accomplish 
 
 :: Minor Themes
 interplanetary space travel [Steve Austin went to the Moon in an Apollo program era rocket.]
-artificial body part<arm> [Steve was fitted with a nuclear powered robotic arm that was "infinitely more powerful" than his original arm.]
-artificial body part<eye> [Steve lost an eye in the accident which the doctors replaced with an artificial one.]
-artificial body part<leg> [Steve was fitted robotic legs that allowed him to run a 4 minute mile.]
+artificial body part <arm> [Steve was fitted with a nuclear powered robotic arm that was "infinitely more powerful" than his original arm.]
+artificial body part <eye> [Steve lost an eye in the accident which the doctors replaced with an artificial one.]
+artificial body part <leg> [Steve was fitted robotic legs that allowed him to run a 4 minute mile.]
 unrequited love [Steve's nurse Jean Manners professed her love for Steve to him, but he appeared to be unmoved.]
 nuclear fission power [Steve's robotic arm was nuclear powered.]
 
@@ -2524,9 +2524,9 @@ the Cold War [Setve got mixed up with Russian agents.]
 flirtation [Steve with Cynthia "Cyn" Holland and Soviet operative Katrina Volana.]
 
 :: Minor Themes
-artificial body part<arm> [Steve used his bionic arm and legs to swim at a speed in excess of 35 knots.]
-artificial body part<eye> [It was revealed that Steve's bionic eye was equipped with night vision.]
-artificial body part<leg> [Steve used his bionic arm and legs to swim at a speed in excess of 35 knots.]
+artificial body part <arm> [Steve used his bionic arm and legs to swim at a speed in excess of 35 knots.]
+artificial body part <eye> [It was revealed that Steve's bionic eye was equipped with night vision.]
+artificial body part <leg> [Steve used his bionic arm and legs to swim at a speed in excess of 35 knots.]
 super strength [Steve pinched closed a machine gun barrel and smashed himself clear through a concrete wall.]
 
 
@@ -2610,10 +2610,10 @@ infatuation [Steve and Contessa.]
 :: Minor Themes
 diplomacy [U.S. diplomat William Henry Cameron was kidnapped on his way to negotiate with the Chinese.]
 memory implantation technology [The injection of a dead man's neurons into Dr. Erica Bergner's brain resulted in her acquiring some of the dead man's memories.]
-artificial body part<arm> [Steve used his bionic arm to punch things.]
+artificial body part <arm> [Steve used his bionic arm to punch things.]
 government secrecy [U.S. government officials kept the diplomat Cameron's abduction secret from the public.]
-artificial body part<eye> [Steve used his bionic eye to read Contessa's passport in the dark.]
-artificial body part<leg> [Steve used his bionic leg to crush a pistol.]
+artificial body part <eye> [Steve used his bionic eye to read Contessa's passport in the dark.]
+artificial body part <leg> [Steve used his bionic leg to crush a pistol.]
 
 
 movie: Westworld (1973)
@@ -3935,7 +3935,7 @@ political assassination [The resistance group plotted to assassinate the preside
 
 :: Minor Themes
 suspended animation [Frankenstein was flown in to the race site in suspended animation.]
-artificial body part<arm> [Frankenstein had a robotic arm that enabled him to shift gears very quickly.]
+artificial body part <arm> [Frankenstein had a robotic arm that enabled him to shift gears very quickly.]
 coping with being disfigured [We are led to believe that Frankenstein wore a black mask to conceal his horribly mangled face. But his faced actually looked just fine.]
 euthanasia [A Pennsylvania hospital deliberately wheeled a number of elderly people out onto the road to get hit by death race cars.]
 racism in society [The driver of the Nazi race team spoke about a superior race.]
