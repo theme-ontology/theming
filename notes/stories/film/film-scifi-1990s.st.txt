@@ -1067,7 +1067,7 @@ human vs. sentient machine [The self-repairing, killer robot Mark 13 ran amok in
 the dangers of radioactivity [Ambient radiation was known to me making people sick and causing people to have abnormal offspring.]
 
 :: Minor Themes
-artificial body part<hand> [Mo had a robotic right hand.]
+artificial body part <hand> [Mo had a robotic right hand.]
 the visual arts [Jill was metal sculptor.]
 Christmas traditions [Mo an old drone head to Jill as a Christmas present.]
 human overpopulation [The government passed an emergency population control bill that involved sterilizing people who had high levels of radioactivity.]
@@ -1115,7 +1115,7 @@ the need to belong [The 13-year-old orphan boy Miltie found a home with the Roll
 belonging [The 13-year-old orphan boy Miltie found a home with the Rollerboys gang, or so he thought.]
 resentment [Griffin resented his deceased father for being a drunk who'd failed him and his little brother.]
 voyeurism in society [Two law enforcement officers delighted in surveilling Griffin while he got it on with Casey.]
-historical figure<Adolf Hitler> [The young narcotics-kingpin Gary Lee was rumored to be the great-grandson of Adolf Hitler.]
+historical figure <Adolf Hitler> [The young narcotics-kingpin Gary Lee was rumored to be the great-grandson of Adolf Hitler.]
 betrayal [Griffin betrayed his childhood neighbor become drug king-pin Gary Lee by infiltrating his gang and selling him out to the police.]
 
 
@@ -1837,7 +1837,7 @@ the secret agent profession [The movie star Neville Sinclair turned out to be a 
 
 :: Minor Themes
 acting [The movie star Neville Sinclair was shown working on the set of his latest swashbuckling film. Jenny was an aspiring actress.]
-historical figure<Adolf Hitler> [A news report made mention that Hitler had assured the Western powers that he was not amassing troops at the Czech border.]
+historical figure <Adolf Hitler> [A news report made mention that Hitler had assured the Western powers that he was not amassing troops at the Czech border.]
 passion for vehicles [The stunt pilot Cliff Secord had an undeniable passion for flying.]
 motor sports [The career stunt pilot Cliff planned to enter a national competition with his Gee Bee Model Z airplane before it got destroyed.]
 
@@ -3364,20 +3364,21 @@ movie: The Wicked City (1992)
 :: Title
 The Wicked City
 
-:: Description
-The film tells fictional story of conflicts and relationship between demon-like creatures and humans in 1990s' Hong Kong.
-
 :: Date
 1992-11-27
+
+:: Description
+The film tells fictional story of conflicts and relationship between demon-
+like creatures and humans in 1990s' Hong Kong.
 
 :: References
 https://en.wikipedia.org/wiki/The_Wicked_City_(1992_film)
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>
 
 :: Major Themes
 impostor living secretly among us [The Reptoids shapeshifted to appear as humans and were living secretly among them.]
@@ -3572,20 +3573,22 @@ movie: American Cyborg: Steel Warrior (1993)
 :: Title
 American Cyborg: Steel Warrior
 
-:: Description
-In a near-future where people are sterile, an android assassin tries to kill a woman who was able to give life to a fetus, but a mercenary cyborg vows to protect her.
-
 :: Date
 1993-03-14
+
+:: Description
+In a near-future where people are sterile, an android assassin tries to kill a
+woman who was able to give life to a fetus, but a mercenary cyborg vows to
+protect her.
 
 :: References
 https://en.wikipedia.org/wiki/American_Cyborg:_Steel_Warrior
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>
 
 :: Major Themes
 android [The story follow Mary and Austin as they are stalked by the Terminator-like android assassin Killer Cyborg Assassin.]
@@ -3652,20 +3655,24 @@ movie: Body Snatchers (1993)
 :: Title
 Body Snatchers
 
-:: Description
-The plot is centered around the discovery that people working at a military base in Alabama are being replaced by perfect physical imitations grown from plantlike pods. The duplicates are indistinguishable from normal people except for their utter lack of emotion. It is loosely based on the 1955 novel The Body Snatchers by Jack Finney.
-
 :: Date
 1993-05-15
+
+:: Description
+The plot is centered around the discovery that people working at a military
+base in Alabama are being replaced by perfect physical imitations grown from
+plantlike pods. The duplicates are indistinguishable from normal people except
+for their utter lack of emotion. It is loosely based on the 1955 novel The
+Body Snatchers by Jack Finney.
 
 :: References
 https://en.wikipedia.org/wiki/Body_Snatchers_(1993_film)
 
-:: Ratings
-2 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>
 
 :: Choice Themes
 spacefaring plants [Spacefaring pod plants hatched a nefarious plot to replace everyone in the world with utterly emotionless replicas.]
@@ -3767,7 +3774,7 @@ speculative spaceship [A spaceship en route to Earth suffered a critical malfunc
 Christmas traditions [the crew of a spaceship were shown celebrating Christmas Eve in space.]
 space travel [One gathers that the exploded spaceship was returning to Earth from some great distance away.]
 colonization of Venus [Rena spoke of having lived in a subterrenean settlement on Venus.]
-artificial body part<arm> [Q-Three had a robotic left arm.]
+artificial body part <arm> [Q-Three had a robotic left arm.]
 terrorism [The Venusian colonists were considered to be terrorists by some.]
 coping with a disability [Terman feigned being blind for virtually the entire film.]
 killing to survive [Terman snapped the neck of a critically injured man who had only 12 hours to life to extend the oxygen supply for the rest of the people on the escape pod.]
@@ -3821,20 +3828,20 @@ movie: Arcade (1993)
 :: Title
 Arcade
 
-:: Description
-A group of teenage friends become trapped in a virtual reality video game.
-
 :: Date
 1993-07-20
+
+:: Description
+A group of teenage friends become trapped in a virtual reality video game.
 
 :: References
 https://en.wikipedia.org/wiki/Arcade_(film)
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>
 
 :: Choice Themes
 speculative virtual reality [The main novelty of the film is a virtual reality game, called Arcade, that used a murdered boy's brain cells in order to make the game's villain more realistic.]
@@ -3854,20 +3861,21 @@ movie: Alien Intruder (1993)
 :: Title
 Alien Intruder
 
-:: Description
-Commander Skyler and his crew of space convicts embark on a dangerous mission into uncharted deep space.
-
 :: Date
 1993-10-05
+
+:: Description
+Commander Skyler and his crew of space convicts embark on a dangerous mission
+into uncharted deep space.
 
 :: References
 https://en.wikipedia.org/wiki/Alien_Intruder
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>
 
 :: Major Themes
 obsessive infatuation [It turned out that Commander Skyler's secret reason for commandeering a mission to G Sector was that he had an obsessive desire to be with Ariel.]
@@ -3979,20 +3987,21 @@ movie: Body Melt (1993)
 :: Title
 Body Melt
 
-:: Description
-The residents of a quiet Melbourne suburb become the unknowing test subjects for a new dietary supplement pill with terrible side effects.
-
 :: Date
 1993-12-15
+
+:: Description
+The residents of a quiet Melbourne suburb become the unknowing test subjects
+for a new dietary supplement pill with terrible side effects.
 
 :: References
 https://en.wikipedia.org/wiki/Body_Melt
 
-:: Ratings
-2 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>
 
 :: Major Themes
 human enhancement technology [The Vimuville dietary supplement pills were designed to produce the ultimate healthy human, but they caused horrible side effects, including madness, mutations, and ultimately rapid, body-wide cellular degeneration.]
@@ -4872,14 +4881,14 @@ arms trade [The terrorists were involved in arms dealing.]
 
 :: Minor Themes
 doctor-patient confidentiality [Dr. Jamie Sommers refused to discuss Kimberly's frame of mind with Oscar on the ground that it would be a violation of doctor-patient confidentiality.]
-artificial body part<ear> [Jamie could hear people talk well outside of an ordinary human's earshot because of her bionic ear.]
+artificial body part <ear> [Jamie could hear people talk well outside of an ordinary human's earshot because of her bionic ear.]
 super hearing [Jamie could hear people talk well outside of an ordinary human's earshot.]
-artificial body part<eye> [Steve used his bionic eye to zoom in on a nuclear armed Scud missile.]
+artificial body part <eye> [Steve used his bionic eye to zoom in on a nuclear armed Scud missile.]
 coping with aging [Jamie coped with the reality that her bionics were breaking down and worried that she couldn't keep up with Steve's expectations for her to beat him at racket ball. However, in the end it turned out that her bionics were fine and it was just a computer virus.]
-artificial body part<leg> [Steve used his bionic legs to jump onto a water tower.]
+artificial body part <leg> [Steve used his bionic legs to jump onto a water tower.]
 mother and daughter [Kimberly and her mother.]
 the dangers of radioactivity [Technicians in full radiation suits were sent to investigate for fallout around the nuclear armed Scud missile.]
-artificial body part<arm> [Steve bent a gun barrel with his bionic arm.]
+artificial body part <arm> [Steve bent a gun barrel with his bionic arm.]
 super speed [Steve used his bionic legs to run down a truck.]
 marriage ceremony [The film concluded with Steve and Jamie being pronounced husband and wife.]
 
@@ -6340,10 +6349,10 @@ what if my life was secretly stage managed [A secret government agency implanted
 father and son [John shot some hoops in front of the garage with two boys who were posing as his sons.]
 memory implantation technology [John had been implanted with memories of a life he'd never lived.]
 coping with the death of one's entire family [John yelled "Why!!!" at the top of his lungs upon being informed that Drake had had his wife and only child, a daughter, killed.]
-artificial body part<lung> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.]
-artificial body part<heart> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.]
-artificial body part<stomach> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.]
-artificial body part<brain> [Dr. Sarah Flint informed John that he was equipped with an artificial brain among other organs.]
+artificial body part <lung> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.]
+artificial body part <heart> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.]
+artificial body part <stomach> [Dr. Sarah Flint informed John that he was equipped with artificial lungs, an artificial heart, and an artificial stomach.]
+artificial body part <brain> [Dr. Sarah Flint informed John that he was equipped with an artificial brain among other organs.]
 coping with being tortured [Drake threatened to cut off Sarah's eyelids unless she provided him with the information he wanted.]
 facing organized pursuit [John and Sarah were on the run from government secret agents off and on throughout the film.]
 father and daughter [John was reunited with his biological daughter toward the end of the film.]

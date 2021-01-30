@@ -1663,7 +1663,7 @@ remorse [Vir for abetting genocide]
 shame [Vir for abetting genocide]
 arms trade [G'Kar sought to buy weapons on the black market]
 the historical figure was really an alien [We learn that Jack the Ripper was abducted by aliens and given perpetual life to atone for his sins.]
-historical figure<Jack the Ripper> [We learn that Jack the Ripper was abducted by aliens and given perpetual life to atone for his sins.]
+historical figure <Jack the Ripper> [We learn that Jack the Ripper was abducted by aliens and given perpetual life to atone for his sins.]
 
 
 bbf2x22
@@ -2779,7 +2779,7 @@ romantic love [Sheridan and Delenn]
 the desire for vengeance [Delenn in her anger started the Minbari-Earth war]
 
 :: Minor Themes
-artificial body part<eye> [G'Kar got a new eye.]
+artificial body part <eye> [G'Kar got a new eye.]
 loyalty [Zak expressed loyalty to Garibaldi, Lennier expressed to Delenn]
 racial supremacism [Some Minbari expressed concern about racial purity.]
 war propaganda [Earth demonization of BB5 was noted]
