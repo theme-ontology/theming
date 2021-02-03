@@ -2804,7 +2804,7 @@ describe the murder convincingly.
 Directed by: Robert Stevens. Story by: Alec Coppel, Francis Cockrell.
 
 :: Ratings
-3 <mikael*>
+3 <mikael>
 1 <paul>
 
 :: Choice Themes
@@ -2847,7 +2847,7 @@ Directed by: Robert Stevens. Story by: Alec Coppel, Francis Cockrell.
 :: Major Themes
 law enforcement [A Scotland Yard inspector and his assistant were investigating the murder of Count Mattoni.]
 murder in society [The story concerned a murder mystery: Count Mattoni had been shot dead.]
-crime against justice [Four people were conspiring to prevent the resolution of a murder investigation] {PS: obstruction of justice?}
+obstruction of justice [Four people were conspiring to prevent the resolution of a murder investigation.]
 
 :: Minor Themes
 suicide [Mrs. Mattoni said she had threatened suicide.]
@@ -2856,6 +2856,7 @@ spouse murder [Mrs. Mattoni confessed to having accidentally kill her husband du
 father and daughter [Lord Sorrington confessed to having murdered Count Mattoni in order to protect the true killer: his daughter Helen.]
 gambling [Mullet told the investigators that he'd taken money from Count Mattoni's wallet in order to pay off a gambling debt he'd incurred at the dog races.]
 theft in society [Mullet confessed to having stolen money from from Count Mattoni's wallet to pay a gambling debt.]
+
 
 
 ahp2x28
@@ -2882,13 +2883,13 @@ Directed by: Alfred Hitchcock. Story by: F. J. Smith, James Cavanagh.
 :: Choice Themes
 
 :: Major Themes
-spouse murder [The story follows Sam as he tries to dispose of the body of his wife whose head he'd bashed in with a fire iron. In the preamble, Alfred Hitchcock spoke of King Henry VIII sending Anne Boleyn to have her head chopped off.] {MO: point of order! Henry VIII had two of his exes (Anne Boleyn and Catherine Howard) legally executed for treason some days after each marriage was annulled, so technically speaking neither was a spouse nor murdered.}
+spouse murder [The story follows Sam as he tries to dispose of the body of his wife whose head he'd bashed in with a fire iron. In the preamble, Alfred Hitchcock spoke of King Henry VIII sending Anne Boleyn to have her head chopped off. But note that Hitchcock expressed an incorrect understanding of history. Henry VIII had two of his exes (Anne Boleyn and Catherine Howard) legally executed for treason some days after each marriage was annulled, so technically speaking neither was a spouse nor murdered.]
 law enforcement [Sam was being pestered by a motorcycle cop over a faulty tail light.]
 ironic twist of fate [Sam was disposing of his murdered wife's body when, through an ironic twist of fate, his dodgey tail light attracted the attention of an overzealous police officer; through a further sequence of ironic fate twists, Sam thought variously that he was off the hook then on the hook again.]
+dangerous driving in society [The motorcycle cop was pestered Sam over a faulty tail light out of concern that it might cause an accident.]
 
 :: Minor Themes
 romantic relationship issue [Sam and his wife had a heated argument that ended with Sam bashing her head in with a fire iron.]
-dangerous driving in society [The motorcycle cop was pestered Sam over a faulty tail light out of concern that it might cause an accident.]
 
 
 ahp2x29
@@ -2911,7 +2912,7 @@ protege.
 Directed by: Paul Henreid. Story by: Evan Hunter, Bernard C. Schoenfeld.
 
 :: Ratings
-3 <paul>
+3 <paul*>
 3 <mikael>
 
 :: Choice Themes
