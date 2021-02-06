@@ -462,31 +462,6 @@ A character strives consciously to ignore their innate sexual urges.
 exercising self-control
 
 
-violent crime
-=============
-
-:: Description
-This is the category of themes that relate to prescribed actions involving
-violence or the threat of violence. The action must be understood in the
-context of the story to constitute a crime, be it against written law or
-unwritten customs (for example against God or other notions of morality).
-
-:: Parents
-law and order issue
-
-:: Notes
-Because of their notoriety, we consider that a "crime in society" theme is
-topical to the story when a character unambiguously commits such a crime. For
-example "murder in society" becomes topical if a murder is committed. Common
-sense is required here: For example, Action movies frequently feature actions
-that would arguably be "crimes" yet are not treated as such in the story for
-one reason or another (action heroes often appear to be above the law). It is
-not the purpose of this category to catalog such things.
-
-:: References
-https://en.wikipedia.org/wiki/Crime
-
-
 artificial body part
 ====================
 
@@ -524,15 +499,6 @@ requirement that it be otherwise "correct" in what it has to say.
 historical figure <name>
 <name>: *
 
-
-crime of passion
-================
-
-:: Description
-
-
-:: Parents
-violent crime
 
 
 framing someone for a crime
@@ -601,17 +567,6 @@ the hitman profession
 
 :: Parents
 human occupational activity
-
-
-crime and punishment
-====================
-
-:: Description
-What acts are to be criminal, how they should be punished and otherwise
-handled, and their impact on society in general are discussed.
-
-:: Parents
-law and order issue
 
 
 how to handle a hostage situation
@@ -704,6 +659,30 @@ practical joking
 humans interacting
 
 
+speculative megaopolis
+======================
+
+:: Description
+
+:: Parents
+speculative habitat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 obstruction of justice
 ======================
 
@@ -713,12 +692,261 @@ obstruction of justice
 crime against justice
 
 
-speculative megaopolis
-======================
+violent crime
+=============
+
+:: Description
+This is the category of themes that relate to prescribed actions involving
+violence or the threat of violence. The action must be understood in the
+context of the story to constitute a crime, be it against written law or
+unwritten customs (for example against God or other notions of morality).
+
+:: Parents
+law and order issue
+
+:: Notes
+Because of their notoriety, we consider that a "crime in society" theme is
+topical to the story when a character unambiguously commits such a crime. For
+example "murder in society" becomes topical if a murder is committed. Common
+sense is required here: For example, Action movies frequently feature actions
+that would arguably be "crimes" yet are not treated as such in the story for
+one reason or another (action heroes often appear to be above the law). It is
+not the purpose of this category to catalog such things.
+
+:: References
+https://en.wikipedia.org/wiki/Crime
+
+
+crime of passion
+================
 
 :: Description
 
-:: Parents
-speculative habitat
 
+:: Parents
+violent crime
+
+
+crime and punishment
+====================
+
+:: Description
+What acts are to be criminal, how they should be punished and otherwise
+handled, and their impact on society in general are discussed.
+
+:: Parents
+law and order issue
+
+
+aircraft hijacking in society
+=============================
+
+:: Description
+One or more people unlawfully seize control of an aircraft, typically for the
+purpose of extortion or terrorism.
+
+:: Parents
+crime in society
+
+:: Examples
+In talesoftheunexpected4x17 "Hijack", a lone aircraft passenger barricades
+himself mid-flight with a stewardess in the lavatory and threatens to set off
+an explosive unless he gets a million dollars and leave to parachute to safety
+at a suitable location.
+
+:: References
+https://en.wikipedia.org/wiki/Aircraft_hijacking
+
+
+archaeological looting
+======================
+
+:: Description
+Someone illicitly removes artifacts from an archaeological site, or the like.
+Grave robbery is a specific example of such looting.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Archaeological_looting
+
+
+arson in society
+================
+
+:: Description
+The crime of willfully and maliciously setting fire to property is featured.
+For example, burning down a house or starting a forest fire may count as
+arson.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Arson
+
+
+art forgery in society
+======================
+
+:: Description
+The crime of creating and peddling falsely accredited artwork is featured. For
+example, a skilled painter may copy an old masterpiece, take pains to make it
+look aged, and then sell it under the pretense that it is the original.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Art_forgery
+
+
+bank robbery in society
+=======================
+
+:: Description
+The crime of stealing from a bank (or comparable venue) by physically gaining
+entry to its facilities and unlawfully removing large amounts of money or
+valuables, is featured. Bank-like outfits in this case include other venues
+that may have vaults, for example casinos or Fort Knox.
+
+:: Parents
+crime in society
+
+:: Notes
+In real life most bank robberies are made at gunpoint, i.e., by threatening
+bank employees with violence. In fiction there are often clever schemes to
+gain entry clandestinely, for example by tunneling in during off-hours, or
+using deception.
+
+:: Examples
+In talesoftheunexpected5x06 "The Moles", two old friends whose business faced
+financial ruin hatched a clever plan to tunnel their way into a certain bank
+vault from an antique shop adjacent to it.
+
+:: References
+https://en.wikipedia.org/wiki/Bank_robbery
+https://en.wikipedia.org/wiki/List_of_bank_robbers_and_robberies
+
+
+black markets in society
+========================
+
+:: Description
+The covert covert trade in government prohibited or stolen goods is featured.
+
+:: Parents
+law and order issue
+
+:: Examples
+Steve Austin was sent on a mission to stop an arms dealer from selling stolen
+nuclear missiles on the black market in "The Six Million Dollar Man: Wine,
+Women and War" (1973).
+
+:: References
+https://en.wikipedia.org/wiki/Black_market
+
+
+blackmail in society
+====================
+
+:: Description
+The social problem of blackmailing people is discussed.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Blackmail
+
+
+body snatching in society
+=========================
+
+:: Description
+Body snatching is the secret removal of corpses from burial sites for the
+purpose of dissection and anatomy studies.
+
+:: Parents
+law and order issue
+
+:: Notes
+The Wikipedia definition is slightly broader. We restrict the usage here to
+body snatching for the purpose of medical studies, as there are a number of
+mostly 19:th century stories that feature this distinctive social issue.
+
+:: References
+https://en.wikipedia.org/wiki/Body_snatching
+https://en.wikipedia.org/wiki/Burke_and_Hare_murders
+
+
+bullying
+========
+
+:: Description
+The ramifications of bullying in society are explored.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Bullying
+https://en.wikipedia.org/wiki/Cyberbullying
+
+
+burglary in society
+===================
+
+:: Description
+The unlawful entry into a building or other location for the purposes of
+stealing from there is featured.
+
+:: Parents
+theft in society
+
+:: References
+https://en.wikipedia.org/wiki/Burglary
+
+
+cannibalism
+===========
+
+:: Description
+A person consumes the flesh of another person.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Human_cannibalism
+
+
+capital punishment
+==================
+
+:: Description
+We are asked how and when, if ever, it is acceptable to punish a criminal by
+death.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Capital_punishment
+
+
+child abduction
+===============
+
+:: Description
+The crime of unauthorized removal of a minor (a child under the age of legal
+adulthood) from the custody of the child's natural parents or legally
+appointed guardians, is featured.
+
+:: Parents
+crime in society
+
+:: References
+https://en.wikipedia.org/wiki/Child_abduction
 
