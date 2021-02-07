@@ -484,7 +484,7 @@ first crush [Peter had a secret crush on his neighbor Mary Jane Watson since chi
 secret crush [Peter had a secret crush on his neighbor Mary Jane Watson since childhood.]
 super strength [Peter acquired the strength of a man-sized spider after being bitten by a genetically engineered super spider. This enabled him to scale building walls and be generally super strong.]
 super reflexes [Peter had arachnid-quick reflexes.]
-crime in society [After graduating from high school, Peter moved to New York City and started fighting street crime. He ultimately ended up coming into conflict with the super villain Green Goblin.]
+crime [After graduating from high school, Peter moved to New York City and started fighting street crime. He ultimately ended up coming into conflict with the super villain Green Goblin.]
 unethical business practices [Norman Osborn made Oscorp the biggest supplier to the United States military. Also Oscopr held a "Unity Festival" in Times Square.]
 love triangle [Harry started dating Mary Jane even though he knew his friend Peter had had a crush on her for years.]
 the lust for power [Norman Osborn's alter ego Green Goblin]
@@ -496,7 +496,7 @@ facing a genius adversary [Peter took on the disgruntled genius Norman Osborn (a
 human vs. self [There was a battle going on inside Norman Osborn between his normal self and his evil Green Goblin alter ego.]
 
 :: Minor Themes
-bullying [Peer and Harry were bulled a bit by a couple of fellow students on the class trip to a Colombia University science lab.]
+childish bullying [Peer and Harry were bulled a bit by a couple of fellow students on the class trip to a Colombia University science lab.]
 speculative genetic engineering [Some Colombia University scientists were genetically combining ordinary spiders into super spiders.]
 husband and wife [Ben and May Parker.]
 coping with time passing you by [Sixty-eight year old fired electrician Ben Parker's efforts to find a new job owing to his lack of computer skills.]
@@ -618,7 +618,7 @@ sci-fi
 pre-crime responsibility [We are made to ponder the ethics of putting people away for murders that they are predicted to commit by special people who receive ore or less reliable visions of the future.]
 law enforcement [The film follows a police department, known as PreCrime, that stops murderers before they act.]
 precognition [A trio of "precogs" saw murders being committed before they happened.]
-murder in society [The film follows a police department, known as PreCrime, that stops murderers before they act.]
+murder [The film follows a police department, known as PreCrime, that stops murderers before they act.]
 coping with the death of a child [John grappled with the loss of his young son Sean, who was abducted from a public swimming pool and presumably murdered.]
 historical determinism [One revelation of the film is that people can change their future once they become aware of it.]
 free will [One revelation of the film is that people can change their future once they become aware of it.]
@@ -636,7 +636,7 @@ divorce [It was revealed that John and Lara divorced soon after their young son 
 father and son [We saw John interacting with his young son Sean in a John's dream.]
 collectively intelligent beings [We learned that the trio of "precogs" formed a hive mind.]
 speculative virtual reality [Convicted would-be murderers were imprisoned in a benevolent virtual reality. Additionally, John visited a sleazy shop in which people were indulging in various fantasies inside personal virtual reality pods.]
-serial murder in society [John seemingly uncovered that Sean's killer was a serial child murderer.]
+serial murder [John seemingly uncovered that Sean's killer was a serial child murderer.]
 the desire for vengeance [John was momentarily overcome with a raging desire to make pay the man he was manipulated into believing was his young son's murderer.]
 ironic twist of fate [The director of the program to apprehend would-be murderers was himself exposed as a would-be murderer by the very program.]
 suicide [Crow killed himself in an effort t ensure his family's financial well-being. Lamar deliberately shot himself dead at the conclusion of the film.]
@@ -1146,7 +1146,7 @@ opposites attract [The film concluded with spontaneous extrovert Clementine and 
 :: Minor Themes
 the need for closure [Joel desperately needed to figure out what happened to Clementine.]
 coping with getting dumped [Joel coped with getting dumped by Clementine by having all memories of her erased.]
-drunk driving in society [Clementine hit a fire hydrant while driving Joel's car drunk.]
+drunk driving [Clementine hit a fire hydrant while driving Joel's car drunk.]
 reminiscence about one's youth [Joel was taken back to his life as a 4 year old in the 1970s. Other childhood memories he revisited included being goaded hitting a dead bird with a hammer and getting caught jerking off by his mother.]
 secret crush [Mary confessed to her boss Howard that she had been in love with him for a long time. It turned out that they had previously been involved, but that Mary had had her memories of it erased. And to further complicate matters Stan confessed to Mary that he loved her toward the end of the film.]
 husband and wife [Howard's wife caught him kissing his employee Mary.]
@@ -1238,7 +1238,7 @@ descent into madness [Otto Octavius, a.k.a. Doctor Octopus, went dangerously ins
 obsession [Otto Octavius became obsessed with developing fusion power.]
 coping with personal failure [The story followed the aftermath of Otto Octavius dramatically failing in his life's work to make commercially viable generation of electricity using nuclear fusion a reality. He coped with this failure by becoming a mentally unbalanced super villain.]
 friendship [Peter's longtime friend Harry harbored a growing resentment toward Peter because Peter refused to reveal Spider-Man's identity, and Harry held Spider-Man responsible for his father's death.]
-crime in society [Spider-Man was fighting street crime in New York City off and on.]
+crime [Spider-Man was fighting street crime in New York City off and on.]
 mad scientist stereotype [Otto Octavius, a.k.a. Doctor Octopus, fit the bill of mad scientist to a tee.]
 heroism [Peter came out of retirement as Spider-Man to save the people of New York City from the evil genius Doctor Octopus.]
 facing a genius adversary [Peter came out of retirement as Spider-Man to save the people of New York City from the criminal genius Doctor Octopus.]
@@ -1658,7 +1658,7 @@ super strength [Peter had the strength of a man-sized spider.]
 super reflexes [Peter had arachnid-quick reflexes.]
 boyfriend and girlfriend [Peter and Mary Jane were officially an item.]
 romantic love [Peter and Mary Jane.]
-crime in society [Spider-Man was fighting crime, petty or otherwise, in New York City.]
+crime [Spider-Man was fighting crime, petty or otherwise, in New York City.]
 the desire for vengeance [Peter's old friend Harry was on an insane mission to kill Peter out of revenge over his misplaced notion that Peter had murdered his father. Peter became consumed with a desire to track down his uncle's killer and make him pay. Eddie wanted to kill Peter for getting him canned and then taking the girl he like to a jazz bar.]
 heroism [Spider-Man was celebrated as a hero all across New York City.]
 coping with personal failure [Mary Jane was utterly crushed after getting fired from a Broadway show in the wake of a bad review.]
@@ -1788,20 +1788,23 @@ movie: Stargate: The Ark of Truth (2008)
 :: Title
 Stargate: The Ark of Truth
 
-:: Description
-Stargate: The Ark of Truth is a 2008 Canadian-American, military science fiction, direct-to-video film in the Stargate franchise, acting as a sequel to the television series Stargate SG-1. It is the first of two Stargate SG-1 direct-to-DVD films, the second one being Stargate: Continuum.
-
 :: Date
 2008-03-11
+
+:: Description
+Stargate: The Ark of Truth is a 2008 Canadian-American, military science
+fiction, direct-to-video film in the Stargate franchise, acting as a sequel to
+the television series Stargate SG-1. It is the first of two Stargate SG-1
+direct-to-DVD films, the second one being Stargate: Continuum.
 
 :: References
 https://en.wikipedia.org/wiki/Stargate:_The_Ark_of_Truth
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>
 
 :: Major Themes
 religious fundamentalism [The Prior aliens served as evangelists for the Ori, killing anyone who refused to believe in the sacred Book of Origin of the Ori.]
@@ -1911,20 +1914,22 @@ movie: Stargate: Continuum (2008)
 :: Title
 Stargate: Continuum
 
-:: Description
-Stargate: Continuum is a 2008 Canadian-American, military science fiction, direct-to-video film in the Stargate franchise. It is the second sequel to television series Stargate SG-1 following The Ark of Truth.
-
 :: Date
 2008-07-29
+
+:: Description
+Stargate: Continuum is a 2008 Canadian-American, military science fiction,
+direct-to-video film in the Stargate franchise. It is the second sequel to
+television series Stargate SG-1 following The Ark of Truth.
 
 :: References
 https://en.wikipedia.org/wiki/Stargate:_Continuum
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+1 <paul>
 
 :: Major Themes
 space portal [The the main novelty of the film are the Stargates: ring-shaped portal devices that enable travel to a similar devices elsewhere in the universe.]
@@ -2018,7 +2023,7 @@ the human capacity for good and evil [The nerdy and shy Harold Kelp turned into 
 just be yourself [In the end Harold Kelp learned that all he had to go was to be himself and Polly would like him.]
 self-confidence [Harold Kelp lacked confidence and turned to his alter ego Jack to impress Polly.]
 facing one's darkest fear [Harold Kelp facing down the fear monster of his subconscious mind was a metaphor for his facing down of people who were bullying him in life.]
-bullying [Harold Kelp was bullied on campus by some jocks.]
+childish bullying [Harold Kelp was bullied on campus by some jocks.]
 what if I had multiple personalities [Julius Kelp invented a serum that his nerdy grandson Harold Kelp used turned himself into Jack: a handsome, suave, charming and brash girl-chasing hipster.]
 mad scientist stereotype [Grandpa Julius was a legendary scientist who invented a serum that his nerdy grandson Harold Kelp used turned himself into a cool alter ego Jack.]
 
@@ -2152,7 +2157,7 @@ friendship [We saw Kirk and Spock forming the initial bonds of their what was kn
 :: Minor Themes
 flying car [A hoverbike-like riding police officer chased a young James Kirk on the highway.]
 racism in society [Young Spock was bullied by three school mates for being the child of a human mother. It was implied that Young Spock's being only half Vulcan made him somehow inferior.]
-bullying [Young Spock was bullied by three school mates for being the child of a human mother.]
+childish bullying [Young Spock was bullied by three school mates for being the child of a human mother.]
 space station [A large space station was depicted in orbit around Earth.]
 black hole [Nero used a drop of "red matter" to create a black hole at the center of the planet Vulcan.]
 teleportation device [Chekov transported Kirk and Spock up to the Enterprise just as they were about to free fall on to the surface of Vulcan.]

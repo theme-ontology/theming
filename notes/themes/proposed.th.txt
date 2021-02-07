@@ -500,7 +500,6 @@ historical figure <name>
 <name>: *
 
 
-
 framing someone for a crime
 ===========================
 
@@ -664,29 +663,16 @@ speculative megaopolis
 
 :: Description
 
+
 :: Parents
 speculative habitat
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 obstruction of justice
 ======================
 
 :: Description
+
 
 :: Parents
 crime against justice
@@ -722,6 +708,7 @@ crime of passion
 
 :: Description
 
+
 :: Parents
 violent crime
 
@@ -730,8 +717,8 @@ legal duty
 ==========
 
 :: Description
-Featured is a codified duty in the sens of criminal law, i.e., an obligation 
-to act under which failure to act (omission), results in criminal liability. 
+Featured is a codified duty in the sens of criminal law, i.e., an obligation
+to act under which failure to act (omission), results in criminal liability.
 
 :: Parents
 law and order issue
@@ -744,18 +731,15 @@ social dysfunction
 Featured is a broad institutional social ill that in itself is reasonably
 distinct, unambiguous and uncontroversially identified.
 
-:: Notes
-Corruption, poverty, and failing order are examples of things that most 
-people will agree are "social ills", though proposed solutions may be 
-controversial. 
-Capitalism and Socialism, however, are notable examples of things that do not
-fall in the same category. 
-Such political controversies are categorized elsewhere.
-
 :: Parents
 domestic social issue
 
-
+:: Notes
+Corruption, poverty, and failing order are examples of things that most people
+will agree are "social ills", though proposed solutions may be controversial.
+Capitalism and Socialism, however, are notable examples of things that do not
+fall in the same category. Such political controversies are categorized
+elsewhere.
 
 
 aircraft hijacking
@@ -829,7 +813,7 @@ bank robbery
 :: Description
 The crime of stealing from a bank (or comparable venue) by physically gaining
 entry to its facilities and unlawfully removing large amounts of money or
-valuables, is featured. Bank-like outfits include other venues that have 
+valuables, is featured. Bank-like outfits include other venues that have
 vaults, for example casinos or Fort Knox.
 
 :: Parents
@@ -837,11 +821,12 @@ robbery
 
 :: Notes
 In real life most bank robberies are made at gunpoint, i.e., by threatening
-bank employees with violence. In fiction (more than reality) there are sometimes 
-clever schemes to gain entry clandestinely, for example by tunneling in during 
-off-hours, or using deception. The latter is technically a case of "burglary"
-when violence is not used, but is categorized as "bank robbery" for convenience.
-This definition may well (and rightly should) be revisited in the future.
+bank employees with violence. In fiction (more than reality) there are
+sometimes clever schemes to gain entry clandestinely, for example by tunneling
+in during off-hours, or using deception. The latter is technically a case of
+"burglary" when violence is not used, but is categorized as "bank robbery" for
+convenience. This definition may well (and rightly should) be revisited in the
+future.
 
 :: Examples
 In talesoftheunexpected5x06 "The Moles", two old friends whose business faced
@@ -875,10 +860,17 @@ blackmail
 =========
 
 :: Description
-The act of blackmailing is featured in a way that is (arguably) considered 
-criminal in the context. Blackmail is an act of coercion using the threat of revealing or publicizing either substantially true or false information about a person or people unless certain demands are met. 
+The act of blackmailing is featured in a way that is (arguably) considered
+criminal in the context. Blackmail is an act of coercion using the threat of
+revealing or publicizing either substantially true or false information about
+a person or people unless certain demands are met.
 
-It is often damaging information, and may be revealed to family members or associates rather than to the general public. It may involve using threats of physical, mental or emotional harm, or of criminal prosecution, against the victim or someone close to the victim. It is normally carried out for personal gain, most commonly of position, money, or property. It is also used, sometimes by state agencies, to exert influence.
+It is often damaging information, and may be revealed to family members or
+associates rather than to the general public. It may involve using threats of
+physical, mental or emotional harm, or of criminal prosecution, against the
+victim or someone close to the victim. It is normally carried out for personal
+gain, most commonly of position, money, or property. It is also used,
+sometimes by state agencies, to exert influence.
 
 :: Parents
 crime against property
@@ -911,20 +903,20 @@ childish bullying
 =================
 
 :: Description
-The ramifications of people bullying each other, in ways that are unlikely
-to be prosecutable as crimes, are explored. Bullying is the use of force, 
-coercion, hurtful teasing or threat, to abuse, aggressively dominate or 
-intimidate. 
-
-:: Notes
-This theme is typically used when the children treat each other badly.
-The theme is typically not used when adults use violence and the threat
-thereof. It may be used when adults act like children. As a rule of thumb,
-it applies when the actions referred to fall below the bar for what is
-likely to be considered a legally punishable offense in the context.
+The ramifications of people bullying each other, in ways that are unlikely to
+be prosecutable as crimes, are explored. Bullying is the use of force,
+coercion, hurtful teasing or threat, to abuse, aggressively dominate or
+intimidate.
 
 :: Parents
 sociocultural issue
+
+:: Notes
+This theme is typically used when the children treat each other badly. The
+theme is typically not used when adults use violence and the threat thereof.
+It may be used when adults act like children. As a rule of thumb, it applies
+when the actions referred to fall below the bar for what is likely to be
+considered a legally punishable offense in the context.
 
 :: References
 https://en.wikipedia.org/wiki/Bullying
@@ -992,10 +984,10 @@ child abuse
 ===========
 
 :: Description
-Child abuse is featured in a context where it is arguably criminal.
-Child abuse or child maltreatment is physical, sexual, and/or psychological 
-maltreatment or neglect of a child or children, especially by a parent or 
-a caregiver.
+Child abuse is featured in a context where it is arguably criminal. Child
+abuse or child maltreatment is physical, sexual, and/or psychological
+maltreatment or neglect of a child or children, especially by a parent or a
+caregiver.
 
 :: Parents
 crime against the person
@@ -1054,8 +1046,8 @@ courtly intrigues
 =================
 
 :: Description
-Persons with political power in a royal court or suchlike setting, maneuver 
-and scheme with various motives, usually to get more power, wealth, and 
+Persons with political power in a royal court or suchlike setting, maneuver
+and scheme with various motives, usually to get more power, wealth, and
 influence.
 
 :: Parents
@@ -1084,14 +1076,14 @@ normally punishable by contemporary states.
 law and order issue
 
 :: Notes
-Because of their notoriety, we consider that a "crime" theme is
-topical to the story when a character unambiguously commits such a crime. For
-example "murder" becomes topical if a murder is committed. Common
-sense is required here: For example, action movies frequently feature actions
-that would arguably be "crimes" to a thoughtful conscientious viewer, 
-yet are not treated as such in the story for one reason or another 
-(action heroes often appear to be above the law). It is not the purpose 
-of this category to catalog such things.
+Because of their notoriety, we consider that a "crime" theme is topical to the
+story when a character unambiguously commits such a crime. For example
+"murder" becomes topical if a murder is committed. Common sense is required
+here: For example, action movies frequently feature actions that would
+arguably be "crimes" to a thoughtful conscientious viewer, yet are not treated
+as such in the story for one reason or another (action heroes often appear to
+be above the law). It is not the purpose of this category to catalog such
+things.
 
 :: References
 https://en.wikipedia.org/wiki/Crime
@@ -1139,16 +1131,16 @@ how to handle a hostage situation
 :: Description
 Featured is the dilemma of whether and how to negotiate with hostage takers.
 
-:: Notes
-Hostage situations are typically when someone holds innocent people at gunpoint
-and threaten to execute them unless certain demands are met.
-Especially in fiction, hostage situations may also arise when terrorist have
-planted bombs or designed doomsday weapons that threaten buildings, cities,
-countries, or entire planets.
-
 :: Parents
 violent crime
 social ethical dilemma
+
+:: Notes
+Hostage situations are typically when someone holds innocent people at
+gunpoint and threaten to execute them unless certain demands are met.
+Especially in fiction, hostage situations may also arise when terrorist have
+planted bombs or designed doomsday weapons that threaten buildings, cities,
+countries, or entire planets.
 
 :: Examples
 Captain Picard negotiated to free Beverly from the clutches of terrorists in
@@ -1305,8 +1297,8 @@ the control of deadly weapons
 =============================
 
 :: Description
-The story tackles the issue of guns and other deadly weapons being
-available to the public, and the implications this may have for a society.
+The story tackles the issue of guns and other deadly weapons being available
+to the public, and the implications this may have for a society.
 
 :: Parents
 violence in society
@@ -1319,6 +1311,5 @@ public in the film "Time After Time" (1979).
 
 :: References
 https://en.wikipedia.org/wiki/Gun_violence
-
 
 
