@@ -722,20 +722,38 @@ crime of passion
 
 :: Description
 
-
 :: Parents
 violent crime
 
 
-crime and punishment
-====================
+legal duty
+==========
 
 :: Description
-What acts are to be criminal, how they should be punished and otherwise
-handled, and their impact on society in general are discussed.
+Featured is a codified duty in the sens of criminal law, i.e., an obligation 
+to act under which failure to act (omission), results in criminal liability. 
 
 :: Parents
 law and order issue
+
+
+social dysfunction
+==================
+
+:: Description
+Featured is a broad institutional social ill that in itself is reasonably
+distinct, unambiguous and uncontroversially identified.
+
+:: Notes
+Corruption, poverty, and failing order are examples of things that most 
+people will agree are "social ills", though proposed solutions may be 
+controversial. 
+Capitalism and Socialism, however, are notable examples of things that do not
+fall in the same category. 
+Such political controversies are categorized elsewhere.
+
+:: Parents
+domestic social issue
 
 
 
@@ -748,7 +766,8 @@ One or more people unlawfully seize control of an aircraft, typically for the
 purpose of extortion or terrorism.
 
 :: Parents
-crime against property, violent crime
+crime against property
+violent crime
 
 :: Examples
 In talesoftheunexpected4x17 "Hijack", a lone aircraft passenger barricades
@@ -947,7 +966,8 @@ We are asked how and when, if ever, it is acceptable to punish a criminal by
 death.
 
 :: Parents
-legal punishment, social ethical dilemma
+legal punishment
+social ethical dilemma
 
 :: References
 https://en.wikipedia.org/wiki/Capital_punishment
@@ -978,7 +998,8 @@ maltreatment or neglect of a child or children, especially by a parent or
 a caregiver.
 
 :: Parents
-crime against the person, violent crime
+crime against the person
+violent crime
 
 :: References
 https://en.wikipedia.org/wiki/Child_abuse
@@ -1039,4 +1060,265 @@ influence.
 
 :: Parents
 political issue
+
+
+crime and punishment
+====================
+
+:: Description
+What acts are to be criminal, how they should be punished and otherwise
+handled, and their impact on society in general are discussed.
+
+:: Parents
+social ethical dilemma
+
+
+crime
+=====
+
+:: Description
+This is the category of themes that relate to proscribed actions that are
+normally punishable by contemporary states.
+
+:: Parents
+law and order issue
+
+:: Notes
+Because of their notoriety, we consider that a "crime" theme is
+topical to the story when a character unambiguously commits such a crime. For
+example "murder" becomes topical if a murder is committed. Common
+sense is required here: For example, action movies frequently feature actions
+that would arguably be "crimes" to a thoughtful conscientious viewer, 
+yet are not treated as such in the story for one reason or another 
+(action heroes often appear to be above the law). It is not the purpose 
+of this category to catalog such things.
+
+:: References
+https://en.wikipedia.org/wiki/Crime
+
+
+criminal gangs
+==============
+
+:: Description
+There is a criminal gang and their influence on society is featured.
+
+:: Parents
+organized crime
+
+:: Examples
+Moses in "Attack the Block" (2011) headed a criminal youth gang in a rundown
+area of London.
+
+:: References
+https://en.wikipedia.org/wiki/Gang
+
+
+dangerous driving in society
+============================
+
+:: Description
+The issue of people sometimes choosing to drive their vehicles in a way that
+poses an unacceptable danger to themselves and others, is discussed. Most
+typically, this happens when a character is caught speeding.
+
+:: Parents
+crime against the public
+
+:: References
+https://en.wikipedia.org/wiki/Dangerous_driving
+https://en.wikipedia.org/wiki/Reckless_driving
+
+:: Aliases
+reckless driving in society
+
+
+how to handle a hostage situation
+=================================
+
+:: Description
+Featured is the dilemma of whether and how to negotiate with hostage takers.
+
+:: Notes
+Hostage situations are typically when someone holds innocent people at gunpoint
+and threaten to execute them unless certain demands are met.
+Especially in fiction, hostage situations may also arise when terrorist have
+planted bombs or designed doomsday weapons that threaten buildings, cities,
+countries, or entire planets.
+
+:: Parents
+violent crime
+social ethical dilemma
+
+:: Examples
+Captain Picard negotiated to free Beverly from the clutches of terrorists in
+tng3x12 "The High Ground", but ended up himself a hostage.
+
+
+defamation of character vs. freedom of speech
+=============================================
+
+:: Description
+We are made to ponder where the limits of free speech should be drawn. Should
+outright lies that hurt someone else's reputation be persecuted or is that a
+slippery slope towards totalitarianism?
+
+:: Parents
+social ethical issue
+
+
+divorce procedures
+==================
+
+:: Description
+The legal niceties required in order for a married couple to be formally
+divorced, are featured.
+
+:: Parents
+law and order issue
+
+:: Examples
+In talesoftheunexpected7x13 "The Reconciliation", various complications
+involved in obtaining a divorce in the UK were explained to James by his
+lawyer.
+
+:: References
+https://en.wikipedia.org/wiki/Divorce
+
+
+domestic violence
+=================
+
+:: Description
+Violence or other abuse by one person against another in a domestic setting,
+such as in marriage or cohabitation.
+
+:: Parents
+crime against the person
+violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Domestic_violence
+
+
+drunk driving
+=============
+
+:: Description
+The social problem of people driving while under the influence of alcohol (or
+other impairing drugs) is discussed.
+
+:: Parents
+dangerous driving in society
+
+:: References
+https://en.wikipedia.org/wiki/Driving_under_the_influence
+
+
+duty to disobey illegal orders
+==============================
+
+:: Description
+We are asked whether an excuse like "I was merely following orders" is
+acceptable in some scenario where something illegal or unethical has been
+perpetrated.
+
+:: Parents
+legal duty
+
+:: References
+https://en.wikipedia.org/wiki/Superior_orders
+
+:: Aliases
+superior orders defense
+Nuremberg defense
+just following orders
+
+
+duty to rescue
+==============
+
+:: Description
+The idea, found in some legal codes, that a person sometimes has a legal duty
+to come to the rescue of another person is discussed.
+
+:: Parents
+legal duty
+
+:: Examples
+In "Vertigo" (1958), detective John Ferguson attends a hearing regarding
+Madeleine's death. The judge chastises John for the various ways in which John
+failed to intervene, and laments that the law unfortunately doesn't have much
+to say about actions never taken.
+
+:: References
+https://en.wikipedia.org/wiki/Duty_to_rescue
+
+
+false rape accusations
+======================
+
+:: Description
+The social issue that accusation of rape are sometimes false is discussed.
+
+:: Parents
+crime against the person
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/False_accusation_of_rape
+
+
+forced confession
+=================
+
+:: Description
+Whether and to what extent society should consider confessions of crime that
+were acquired from the defendant while under any form of duress (whether
+extended isolation or outright torture) is considered.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Forced_confession
+
+
+criminal fraud
+==============
+
+:: Description
+The ramifications of legal fraud in society are explored.
+
+:: Parents
+crime against property
+
+:: Examples
+Ardra conned an entire planet by pretending to be their Antichrist in tng4x13
+"Devil's Due".
+
+:: References
+https://en.wikipedia.org/wiki/Fraud
+
+
+the control of deadly weapons
+=============================
+
+:: Description
+The story tackles the issue of guns and other deadly weapons being
+available to the public, and the implications this may have for a society.
+
+:: Parents
+violence in society
+political issue
+
+:: Examples
+H. G. Wells, upon time traveling to 20th century San Fransisco from Victorian
+Britain, expressed his disapproval of guns being sold on mass to the general
+public in the film "Time After Time" (1979).
+
+:: References
+https://en.wikipedia.org/wiki/Gun_violence
+
+
 
