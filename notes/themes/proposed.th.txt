@@ -738,15 +738,17 @@ handled, and their impact on society in general are discussed.
 law and order issue
 
 
-aircraft hijacking in society
-=============================
+
+
+aircraft hijacking
+==================
 
 :: Description
 One or more people unlawfully seize control of an aircraft, typically for the
 purpose of extortion or terrorism.
 
 :: Parents
-crime in society
+crime against property, violent crime
 
 :: Examples
 In talesoftheunexpected4x17 "Hijack", a lone aircraft passenger barricades
@@ -766,14 +768,14 @@ Someone illicitly removes artifacts from an archaeological site, or the like.
 Grave robbery is a specific example of such looting.
 
 :: Parents
-crime in society
+theft
 
 :: References
 https://en.wikipedia.org/wiki/Archaeological_looting
 
 
-arson in society
-================
+arson
+=====
 
 :: Description
 The crime of willfully and maliciously setting fire to property is featured.
@@ -781,14 +783,14 @@ For example, burning down a house or starting a forest fire may count as
 arson.
 
 :: Parents
-crime in society
+crime against property
 
 :: References
 https://en.wikipedia.org/wiki/Arson
 
 
-art forgery in society
-======================
+art forgery
+===========
 
 :: Description
 The crime of creating and peddling falsely accredited artwork is featured. For
@@ -796,29 +798,31 @@ example, a skilled painter may copy an old masterpiece, take pains to make it
 look aged, and then sell it under the pretense that it is the original.
 
 :: Parents
-crime in society
+criminal fraud
 
 :: References
 https://en.wikipedia.org/wiki/Art_forgery
 
 
-bank robbery in society
-=======================
+bank robbery
+============
 
 :: Description
 The crime of stealing from a bank (or comparable venue) by physically gaining
 entry to its facilities and unlawfully removing large amounts of money or
-valuables, is featured. Bank-like outfits in this case include other venues
-that may have vaults, for example casinos or Fort Knox.
+valuables, is featured. Bank-like outfits include other venues that have 
+vaults, for example casinos or Fort Knox.
 
 :: Parents
-crime in society
+robbery
 
 :: Notes
 In real life most bank robberies are made at gunpoint, i.e., by threatening
-bank employees with violence. In fiction there are often clever schemes to
-gain entry clandestinely, for example by tunneling in during off-hours, or
-using deception.
+bank employees with violence. In fiction (more than reality) there are sometimes 
+clever schemes to gain entry clandestinely, for example by tunneling in during 
+off-hours, or using deception. The latter is technically a case of "burglary"
+when violence is not used, but is categorized as "bank robbery" for convenience.
+This definition may well (and rightly should) be revisited in the future.
 
 :: Examples
 In talesoftheunexpected5x06 "The Moles", two old friends whose business faced
@@ -830,14 +834,14 @@ https://en.wikipedia.org/wiki/Bank_robbery
 https://en.wikipedia.org/wiki/List_of_bank_robbers_and_robberies
 
 
-black markets in society
-========================
+black markets
+=============
 
 :: Description
 The covert covert trade in government prohibited or stolen goods is featured.
 
 :: Parents
-law and order issue
+crime against the public
 
 :: Examples
 Steve Austin was sent on a mission to stop an arms dealer from selling stolen
@@ -848,28 +852,31 @@ Women and War" (1973).
 https://en.wikipedia.org/wiki/Black_market
 
 
-blackmail in society
-====================
+blackmail
+=========
 
 :: Description
-The social problem of blackmailing people is discussed.
+The act of blackmailing is featured in a way that is (arguably) considered 
+criminal in the context. Blackmail is an act of coercion using the threat of revealing or publicizing either substantially true or false information about a person or people unless certain demands are met. 
+
+It is often damaging information, and may be revealed to family members or associates rather than to the general public. It may involve using threats of physical, mental or emotional harm, or of criminal prosecution, against the victim or someone close to the victim. It is normally carried out for personal gain, most commonly of position, money, or property. It is also used, sometimes by state agencies, to exert influence.
 
 :: Parents
-crime in society
+crime against property
 
 :: References
 https://en.wikipedia.org/wiki/Blackmail
 
 
-body snatching in society
-=========================
+body snatching
+==============
 
 :: Description
 Body snatching is the secret removal of corpses from burial sites for the
-purpose of dissection and anatomy studies.
+purpose of dissection and anatomy studies. This is featured as a crime.
 
 :: Parents
-law and order issue
+crime against the public
 
 :: Notes
 The Wikipedia definition is slightly broader. We restrict the usage here to
@@ -881,22 +888,32 @@ https://en.wikipedia.org/wiki/Body_snatching
 https://en.wikipedia.org/wiki/Burke_and_Hare_murders
 
 
-bullying
-========
+childish bullying
+=================
 
 :: Description
-The ramifications of bullying in society are explored.
+The ramifications of people bullying each other, in ways that are unlikely
+to be prosecutable as crimes, are explored. Bullying is the use of force, 
+coercion, hurtful teasing or threat, to abuse, aggressively dominate or 
+intimidate. 
+
+:: Notes
+This theme is typically used when the children treat each other badly.
+The theme is typically not used when adults use violence and the threat
+thereof. It may be used when adults act like children. As a rule of thumb,
+it applies when the actions referred to fall below the bar for what is
+likely to be considered a legally punishable offense in the context.
 
 :: Parents
-law and order issue
+sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Bullying
 https://en.wikipedia.org/wiki/Cyberbullying
 
 
-burglary in society
-===================
+burglary
+========
 
 :: Description
 The unlawful entry into a building or other location for the purposes of
@@ -916,7 +933,7 @@ cannibalism
 A person consumes the flesh of another person.
 
 :: Parents
-crime in society
+murder
 
 :: References
 https://en.wikipedia.org/wiki/Human_cannibalism
@@ -930,7 +947,7 @@ We are asked how and when, if ever, it is acceptable to punish a criminal by
 death.
 
 :: Parents
-law and order issue
+legal punishment, social ethical dilemma
 
 :: References
 https://en.wikipedia.org/wiki/Capital_punishment
@@ -945,8 +962,81 @@ adulthood) from the custody of the child's natural parents or legally
 appointed guardians, is featured.
 
 :: Parents
-crime in society
+crime against the person
 
 :: References
 https://en.wikipedia.org/wiki/Child_abduction
+
+
+child abuse
+===========
+
+:: Description
+Child abuse is featured in a context where it is arguably criminal.
+Child abuse or child maltreatment is physical, sexual, and/or psychological 
+maltreatment or neglect of a child or children, especially by a parent or 
+a caregiver.
+
+:: Parents
+crime against the person, violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Child_abuse
+
+
+collective punishment
+=====================
+
+:: Description
+The rulers punish not only the criminal but also the criminal's family,
+society, people, etc.
+
+:: Parents
+legal punishment
+
+:: References
+https://en.wikipedia.org/wiki/Collective_punishment
+
+
+con artistry
+============
+
+:: Description
+There is a character who plays an elaborate confidence trick of some sort on
+another character.
+
+:: Parents
+criminal fraud
+
+
+corporal punishment
+===================
+
+:: Description
+The once accepted, but now usually proscribed, practice of letting authority
+figures correct the behavior of their subordinates by inflicting physical
+pain, is discussed.
+
+:: Parents
+legal punishment
+
+:: Examples
+In talesoftheunexpected2x03 "Galloping Foxley", young Perkins was regularly
+caned by the older boy called Galloping Foxley, a prefect, (who would
+sometimes cane at a gallop) to whom he had been assigned as a slave.
+
+:: References
+https://en.wikipedia.org/wiki/Corporal_punishment
+
+
+courtly intrigues
+=================
+
+:: Description
+Persons with political power in a royal court or suchlike setting, maneuver 
+and scheme with various motives, usually to get more power, wealth, and 
+influence.
+
+:: Parents
+political issue
 
