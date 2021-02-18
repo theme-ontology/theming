@@ -42,7 +42,7 @@ law and order issue
 :: Notes
 Because of their notoriety, we consider that a "crime in society" theme is
 topical to the story when a character unambiguously commits such a crime. For
-example "murder in society" becomes topical if a murder is committed. Common
+example "murder" becomes topical if a murder is committed. Common
 sense is required here: For example, Action movies frequently feature actions
 that would arguably be "crimes" yet are not treated as such in the story for
 one reason or another (action heroes often appear to be above the law). It is
@@ -50,6 +50,22 @@ not the purpose of this category to catalog such things.
 
 :: References
 https://en.wikipedia.org/wiki/Crime
+
+
+
+murder
+======
+
+:: Description
+The crime of unlawful and intentional homicide is featured.
+
+:: Parents
+violent crime
+crime against the person
+
+:: References
+https://en.wikipedia.org/wiki/List_of_types_of_killing
+
 
 
 crime against justice
@@ -726,7 +742,7 @@ A character murders a defenseless little baby, and it is featured as being a
 crime.
 
 :: Parents
-murder in society
+murder
 
 :: Examples
 In "The Winter's Tale" (1611), King Leontes ordered the newborn child he
