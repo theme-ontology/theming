@@ -390,7 +390,7 @@ lie detector [Tuvok used]
 master and pet [Lidell Ren and Neeka]
 mentor and protégé [The Doctor and Kes]
 the dangers of smoking [Tom tells Liddell Ren smoking is bad for your health]
-treason [the Benean doctor]
+high treason [the Benean doctor]
 mind reading ability [Tuvok mind-melded with Tom.]
 
 :: Other Keywords
@@ -511,9 +511,9 @@ Directed by: Robert Scheerer. Story by: Paul Robert Coyle.
 3 <paul>
 
 :: Choice Themes
-betrayal
+betrayal []
 what if I were being framed for a crime [Seska and Carey were suspected of being Kazon spies.]
-treason
+high treason []
 
 :: Major Themes
 the ethics of interfering in less advanced societies [why giving tech is wrong]
@@ -1392,7 +1392,7 @@ cultural exchange [ridiculous Kazon demand]
 diplomacy [Janeway tried to negotiate a temporary alliance with the treacherous Kazon.]
 grief [Chakotay for Kurt Bendera]
 sexism in society [Cullah to female leaders]
-treason [Hogan]
+high treason [Hogan]
 
 :: Other Keywords
 yellow alert <25:58>
@@ -1438,7 +1438,7 @@ living up to expectations [Tom about living up to father's expectations]
 risk taking vs. playing it safe [Tom wants to fly mission with 2% chance of death]
 theory of relativity [Tom traveled at infinite velocity and was simultaneously at all places in universe.]
 anti-intellectualism in society [Neelix vs. the smart people]
-treason [Michael Jonas]
+high treason [Michael Jonas]
 virtual reality room [holodeck used to test theory]
 
 :: Other Keywords
@@ -1533,7 +1533,7 @@ clash of wills [Chakotay and Tom]
 expecting parents [Ensign Wildman about naming baby]
 laziness [Tom]
 the difficulty of picking a name for a baby [Doctor and expecting mother both]
-treason [traitor appeared]
+high treason [traitor appeared]
 tardiness [Tom was late.]
 
 :: Other Keywords
@@ -1632,7 +1632,7 @@ expressing feelings [The Doctor about his love for Danara]
 passion for vehicles [The Doctor availed himself of Tom's holodeck simulated 1957 Chevrolet Bel Air convertible.]
 self-confidence [Danara]
 social awkwardness [The Doctor in professing his love to Danara]
-treason [traitor featured]
+high treason [traitor featured]
 tardiness [Tom was late.]
 
 :: Other Keywords
@@ -1674,7 +1674,7 @@ figuring out what to do with one's life [Tom about leaving Voyager to serve on m
 fitting in at work [Tom pretended to be disgruntled on the job]
 journalism [Michael Jonas was revealed to be a traitor thanks to Neelix's investigative journalism.]
 the need for freedom [Tom]
-treason [Michael Jonas]
+high treason [Michael Jonas]
 
 :: Minor Themes
 freedom of the press [Janeway tried to discourage Neelix from pursuing the traitor and reporting on it]
@@ -2775,7 +2775,7 @@ lesson in humility [Tuvok about the need to not be a jerk others and Neelix abou
 logic vs. gut feeling [Tuvok opposed Neelix's plan because it was based on Neelix's "funny feeling" rather than reason.]
 seeing the error of one's ways [Tuvok about the need to not be a jerk others]
 becoming a nicer person [Tuvok reflected on how it was important for him not to be a condescending jerk to other people around him.]
-treason [Sklar betrayed the Nezu by aiding Etanian invasion]
+high treason [Sklar betrayed the Nezu by aiding Etanian invasion]
 
 
 voy3x20
@@ -6580,7 +6580,7 @@ Directed by: Allan Kroeker. Story by: Robert J. Doherty.
 2 <paul>
 
 :: Choice Themes
-fraud in society [The Ferengi, in league with Barclay's ex-girlfriend Leosa, played an elaborate confidence trick on the Voyager crew in an effort to steal Seven of Nine's nanoprobes. Barclay was hustled by a dabo girl.]
+criminal fraud [The Ferengi, in league with Barclay's ex-girlfriend Leosa, played an elaborate confidence trick on the Voyager crew in an effort to steal Seven of Nine's nanoprobes. Barclay was hustled by a dabo girl.]
 betrayal [holo-Barclay betrayed the trust of Voyager crew; Dabo girl betrayed poor Barclay]
 
 :: Major Themes
