@@ -7469,14 +7469,16 @@ A character is subjected to lousily prepared food.
 human interpersonal relationship
 
 
-coping with being a cuckold
-===========================
+coping with having a cuckold reputation
+=======================================
 
 :: Description
 A male character has to handle the information that their female love partner
-has been physically unfaithful with another man.
+has been physically unfaithful with another man, and that this is publicly
+known to some extent.
 
 :: Parents
+coping with having a bad reputation
 romantic relationship issue
 
 
@@ -11582,7 +11584,7 @@ measures taken, or efforts to get the epidemic under control when it is at its
 apogee.
 
 :: Parents
-public health issue
+contagious disease in society
 
 :: Examples
 In "Nosferatu: A Symphony of Horror" (1922), people believed that the many
