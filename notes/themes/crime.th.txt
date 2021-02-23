@@ -23,10 +23,6 @@ things.
 https://en.wikipedia.org/wiki/Crime
 
 
-
-
-
-
 violent crime
 =============
 
@@ -38,15 +34,6 @@ unwritten customs (for example against God or other notions of morality).
 
 :: Parents
 crime
-
-:: Notes
-Because of their notoriety, we consider that a "crime in society" theme is
-topical to the story when a character unambiguously commits such a crime. For
-example "murder" becomes topical if a murder is committed. Common
-sense is required here: For example, Action movies frequently feature actions
-that would arguably be "crimes" yet are not treated as such in the story for
-one reason or another (action heroes often appear to be above the law). It is
-not the purpose of this category to catalog such things.
 
 :: References
 https://en.wikipedia.org/wiki/Crime
@@ -175,11 +162,6 @@ law and order issue
 https://en.wikipedia.org/wiki/Punishment
 
 
-
-
-
-
-
 the control of deadly weapons
 =============================
 
@@ -211,8 +193,8 @@ deprive a victim of a legal right, is featured.
 crime against property
 
 :: Examples
-Ardra conned an entire planet by pretending to be their Antichrist in tng4x13
-"Devil's Due".
+Ardra conned the gullible inhabitants of Ventax II by pretending to be their
+devil in tng4x13 "Devil's Due".
 
 :: References
 https://en.wikipedia.org/wiki/Fraud
@@ -263,8 +245,6 @@ hunting
 
 :: References
 https://en.wikipedia.org/wiki/Poaching
-
-
 
 
 divorce procedures
@@ -434,8 +414,8 @@ social ethical dilemma
 
 :: Notes
 Hostage situations are typically when someone holds innocent people at
-gunpoint and threaten to execute them unless certain demands are met.
-Especially in fiction, hostage situations may also arise when terrorist have
+gunpoint and threatens to execute them unless certain demands are met.
+Especially in fiction, hostage situations may also arise when terrorists have
 planted bombs or designed doomsday weapons that threaten buildings, cities,
 countries, or entire planets.
 
@@ -713,52 +693,11 @@ crime against the public
 :: Notes
 The Wikipedia definition is slightly broader. We restrict the usage here to
 body snatching for the purpose of medical studies, as there are a number of
-mostly 19:th century stories that feature this distinctive social issue.
+mostly 19th century stories that feature this distinctive social issue.
 
 :: References
 https://en.wikipedia.org/wiki/Body_snatching
 https://en.wikipedia.org/wiki/Burke_and_Hare_murders
-
-
-
-obstruction of justice
-======================
-
-:: Description
-
-
-:: Parents
-crime against justice
-
-
-crime of passion
-================
-
-:: Description
-
-
-:: Parents
-violent crime
-
-
-bribery
-=======
-
-:: Description
-
-
-:: Parents
-crime
-
-
-framing someone for a crime
-===========================
-
-:: Description
-
-
-:: Parents
-law and order issue
 
 
 infanticide
@@ -790,7 +729,7 @@ The ramifications of drugs and drug trade in society are explored.
 crime against property
 
 :: Examples
-The Brekkians found that trading a certain drug to the Ornarans was such a
+The Brekkians found that trading a certain narcotic to the Ornarans was such a
 lucrative enterprise that they needed no other industry whatsoever in tng1x22
 "Symbiosis".
 
@@ -810,19 +749,6 @@ law and order issue
 
 :: References
 https://en.wikipedia.org/wiki/Impartiality
-
-
-unlawful detention
-==================
-
-:: Description
-
-:: Parents
-legal punishment
-
-:: References
-https://en.wikipedia.org/wiki/False_imprisonment
-
 
 
 insurance fraud
@@ -854,7 +780,7 @@ relatively short period of time and in close geographic proximity is featured.
 murder
 
 :: Examples
-New York police detective investigates a series of mass murders in "God Told
+A New York police detective investigates a series of mass murders in "God Told
 Me To" (1976).
 
 :: References
@@ -908,9 +834,9 @@ mutilation as punishment
 ========================
 
 :: Description
-The practice found in some archaic law codes of prescribing amputation of
-limbs and other mutilations (such as blinding or tongue slitting) for crimes,
-is featured.
+The practice found in some law codes of prescribing amputation of limbs and
+other mutilations (such as blinding or tongue slitting) for crimes, is
+featured.
 
 :: Parents
 legal punishment
@@ -941,24 +867,6 @@ sociotechnological issue
 
 :: Examples
 https://en.wikipedia.org/wiki/End-user_license_agreement
-
-
-organ theft
-===========
-
-:: Description
-The crime of 
-
-:: Parents
-crime against the person
-violent crime
-
-:: Examples
-Spock's brain was harvested by aliens who wanted it as a computer in tos3x06
-"Spock's Brain".
-
-:: References
-https://en.wikipedia.org/wiki/Organ_procurement
 
 
 organized crime
@@ -1221,6 +1129,13 @@ legal punishment
 
 :: References
 https://en.wikipedia.org/wiki/Solitary_confinement
+
+
+
+
+
+
+
 
 
 band of outlaws
@@ -1501,8 +1416,72 @@ sexual crime
 https://en.wikipedia.org/wiki/Adultery
 
 
+obstruction of justice
+======================
+
+:: Description
 
 
+:: Parents
+crime against justice
 
 
+crime of passion
+================
+
+:: Description
+
+
+:: Parents
+violent crime
+
+
+bribery
+=======
+
+:: Description
+
+
+:: Parents
+crime
+
+
+framing someone for a crime
+===========================
+
+:: Description
+
+
+:: Parents
+law and order issue
+
+
+unlawful detention
+==================
+
+:: Description
+
+:: Parents
+legal punishment
+
+:: References
+https://en.wikipedia.org/wiki/False_imprisonment
+
+
+organ theft
+===========
+
+:: Description
+The crime of 
+
+:: Parents
+crime against the person
+violent crime
+
+:: Examples
+Spock's brain was harvested by aliens who wanted it as a computer in tos3x06
+"Spock's Brain".
+
+:: References
+https://en.wikipedia.org/wiki/Organ_procurement
 
