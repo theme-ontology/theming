@@ -232,28 +232,39 @@ practice makes perfect
 ======================
 
 :: Description
-
+It is pointedly mentioned or illustrated that people get better at a 
+particular task the more they practice performing that task.
 
 :: Parents
 human idea about life
+
+:: References
+https://en.wiktionary.org/wiki/practice_makes_perfect
 
 
 self-destruct tactic
 ====================
 
 :: Description
-Combatants decide to destroy themselves and their vessel rather than to
-surrender, and perhaps in order to kill their opponents with themselves.
+Combatants decide to destroy themselves and whatever abode, vessel, etc.
+they are defending rather than surrender. Sometimes the goal is also to 
+kill their opponents along with themselves.
 
 :: Parents
 the art of war
+
+:: Examples
+In tng1x15 "11001001", for the contingency that they should fail to take back 
+control of the ship's bridge, Picard and Riker activated the ship's auto-destruct 
+feature in order to stop the Bynars from hijacking it.
 
 
 mentally linked beings
 ======================
 
 :: Description
-Beings that link with each other in semi-permanent telepathic communication.
+There are beings that link with each other in semi-permanent telepathic 
+communication.
 
 :: Parents
 mentally distinguished being
@@ -274,8 +285,7 @@ dark matter
 ===========
 
 :: Description
-The physical notion of "dark matter", thought to make up 85% of the matter in
-the universe, is featured.
+The physics hypothesis of "dark matter", thought to make up 85% of the matter in the universe, is featured.
 
 :: Parents
 physics
@@ -372,7 +382,7 @@ We are made to ponder to hypothetical prospect of being subjected to perpetual
 torment with practically no hope of escape - not even death.
 
 :: Parents
-coping with a problematic person
+what if I were in a tight spot
 
 
 friendly competition in groups
@@ -410,7 +420,7 @@ what is sentience
 :: Description
 The definition of sentience is discussed. Here as in most sci-fi the word
 "sentient" is taken to mean intelligent and self-aware. That, however, still
-leaves much to be questioned.
+leaves much to ponder.
 
 :: Parents
 metaphysics
@@ -443,6 +453,13 @@ A character leads a life free from anxiety and responsibility.
 :: Parents
 human way of life
 
+:: Examples
+In tz1959e3x36 "Cavender Is Coming", happy-go-lucky Miss Agnes Grep 
+didn't seem to much care that she couldn't hold down a job and had 
+trouble making rent. In fact, when the angel Cavender bestows upon
+her a mansion and lots of money, we learn that she much prefers the
+carefree simplicity of her old life to the various complications of 
+high society.
 
 
 repressing one's romantic desires
@@ -459,8 +476,8 @@ artificial body part
 ====================
 
 :: Description
-Someone has a mechanical device in place of a flesh and blood organ, limb or
-extremity.
+Someone has a mechanical or otherwise manufactured prosthetic device in 
+place of a flesh and blood organ, limb or extremity.
 
 :: Parents
 human enhancement technology
@@ -472,7 +489,7 @@ into the body of a younger man.
 
 :: Template
 artificial body part <part>
-<part>: arm, hand, leg, blood, brain, ear, eye, heart, gland, lung, stomach,
+<part>: arm, hand, leg, blood, brain, ear, eye, heart, gland, lung, stomach
 
 
 historical figure
