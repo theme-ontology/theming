@@ -1420,46 +1420,72 @@ obstruction of justice
 ======================
 
 :: Description
-
+Featured is a crime that consists of obstructing prosecutors, investigators, 
+or other government officials. This may involve, for example, 
+perjury, making false statements to officials, witness tampering, 
+jury tampering, destruction of evidence, etc.
 
 :: Parents
 crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/Obstruction_of_justice
 
 
 crime of passion
 ================
 
 :: Description
-
+Featured is a violent crime, typically homicide, in which the perpetrator 
+commits the act because of sudden strong impulse such as sudden rage 
+rather than as a premeditated crime.
 
 :: Parents
 violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Crime_of_passion
 
 
 bribery
 =======
 
 :: Description
-
+The act of offering, giving, receiving, or soliciting of any item of 
+value to influence the actions of an official, or other person, in 
+charge of a public or legal duty, is featured as a crime.
 
 :: Parents
 crime
+
+:: References
+https://en.wikipedia.org/wiki/Bribery
 
 
 framing someone for a crime
 ===========================
 
 :: Description
-
+The crime of providing false evidence or false testimony in order to 
+falsely prove someone guilty of a crime, is featured.
 
 :: Parents
-law and order issue
+crime against the person
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/Frameup
 
 
 unlawful detention
 ==================
 
 :: Description
+The act of intentionally restricting another person’s movement within 
+any area without legal authority, justification, or the restrained 
+person's permission, is featured as a crime. Notably, this situation
+tends to arise in fiction when police or similar forces overstep
+the bounds.
 
 :: Parents
 legal punishment
@@ -1472,7 +1498,8 @@ organ theft
 ===========
 
 :: Description
-The crime of 
+The forcible removal of a person's organs to be used as transplants and 
+sold on the black market is featured as a crime.
 
 :: Parents
 crime against the person
@@ -1483,5 +1510,6 @@ Spock's brain was harvested by aliens who wanted it as a computer in tos3x06
 "Spock's Brain".
 
 :: References
-https://en.wikipedia.org/wiki/Organ_procurement
+https://en.wikipedia.org/wiki/Organ_theft
+
 
