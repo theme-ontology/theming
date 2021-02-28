@@ -718,8 +718,8 @@ lying
 =====
 
 :: Description
-A character perpetrates an outright falsehood in an outright effort to
-deceive others with whom the character is intimately acquainted.
+A character perpetrates a falsehood in an outright effort to
+deceive others with whom they are intimately acquainted.
 
 :: Parents
 humans interacting
@@ -738,7 +738,7 @@ legal duty
 
 :: Description
 Featured is a codified duty in the sens of criminal law, i.e., an obligation
-to act under which failure to act (omission), results in criminal liability.
+to act under which failure to act (omission) results in criminal liability.
 
 :: Parents
 law and order issue
@@ -749,7 +749,7 @@ social dysfunction
 
 :: Description
 Featured is a broad institutional social ill that in itself is reasonably
-distinct, unambiguous and uncontroversially identified.
+distinct, unambiguous, and uncontroversially identified.
 
 :: Parents
 national social issue
@@ -798,6 +798,13 @@ influence.
 :: Parents
 political issue
 
+:: Examples
+In the play "Hamlet" (1602), the drama takes place in the royal court 
+of Denmark where people were jostling for power, marriage, and prestige.
+Prince Hamlet's uncle had usurped the throne by murdering Hamlet's 
+father, and was further maneuvering to rid himself of the troublesome,
+bereaved, and eponymous prince.
+
 
 crime and punishment
 ====================
@@ -809,6 +816,11 @@ handled, and their impact on society in general are discussed.
 :: Parents
 social ethical dilemma
 
+:: Examples
+In blackmirror2x02 "White Bear", we must ponder several ethical dilemmas
+regarding the treatment of putative criminals. The woman did not remember her
+crime. Moreover, her punishment was turned into a public spectacle, if not for
+profit certainly for fame. Her punishment was certainly both cruel and unusual.
 
 
 defamation of character vs. freedom of speech
@@ -828,6 +840,8 @@ alien hand syndrome
 ===================
 
 :: Description
+A character experiences their limbs acting seemingly on their own, without
+conscious control over the actions.
 
 :: Parents
 mental illness
@@ -835,12 +849,27 @@ mental illness
 :: References
 https://en.wikipedia.org/wiki/Alien_hand_syndrome
 
+:: Aliases
+Dr. Strangelove syndrome
+
+:: Examples
+In ahp2x32 "The Hands of Mr. Ottermole", Sargent Ottermole claimed 
+that his murderous impulse resided solely in his hands, which acted 
+quite on their own accord.
 
 
 faster than light travel
 ========================
 
 :: Description
+There is a space faring vehicle that can move faster than
+299,792,458 m/s through space.
+
+:: Notes
+This theme is used only when the space is traversed in a more 
+or less conventional contiguous path fashion. Travel through
+wormholes or other speculative instant point-to-point relocations
+are a different matter.
 
 :: Parents
 speculative spaceship
