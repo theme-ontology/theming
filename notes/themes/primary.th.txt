@@ -1700,6 +1700,27 @@ human phobia
 https://en.wikipedia.org/wiki/Agoraphobia
 
 
+aircraft hijacking
+==================
+
+:: Description
+One or more people unlawfully seize control of an aircraft, typically for the
+purpose of extortion or terrorism.
+
+:: Parents
+crime against property
+violent crime
+
+:: Examples
+In talesoftheunexpected4x17 "Hijack", a lone aircraft passenger barricades
+himself mid-flight with a stewardess in the lavatory and threatens to set off
+an explosive unless he gets a million dollars and leave to parachute to safety
+at a suitable location.
+
+:: References
+https://en.wikipedia.org/wiki/Aircraft_hijacking
+
+
 alchemy
 =======
 
@@ -1956,7 +1977,7 @@ aliens meddling in ancient history
 :: Description
 The theory that intelligent extraterrestrial beings visited humans in
 antiquity or prehistoric times is featured. In the version of this theory
-popularized by Erich von DÃ¤niken, the technologies and religions of our
+popularized by Erich von Däniken, the technologies and religions of our
 ancient civilizations were given to them by aliens whom they welcomed as gods.
 
 :: Parents
@@ -2282,7 +2303,7 @@ animal rights
 =============
 
 :: Description
-We are made to ponder what rights, if any, various animals should have vis-Ã -
+We are made to ponder what rights, if any, various animals should have vis-à-
 vis human society.
 
 :: Parents
@@ -2621,6 +2642,26 @@ medicine
 https://en.wikipedia.org/wiki/Aphasia
 
 
+apostacy
+========
+
+:: Description
+The crime of abandoning a state mandated religion, or challenging such a
+religion's beliefs, is featured.
+
+:: Parents
+crime against the public
+
+:: References
+https://en.wikipedia.org/wiki/Heresy
+https://en.wikipedia.org/wiki/Apostasy
+
+:: Note
+To apply, the act must be considered (at least potentially) as a crime in
+the cultural context of the story. Many acts that would have been criminal
+apostacy in medieval times would not normally be so in a modern setting.
+
+
 appearance altering technology
 ==============================
 
@@ -2704,6 +2745,20 @@ into a Jefferies tube filled with twenty Talarian hook spiders in tng6x02
 
 :: References
 https://en.wikipedia.org/wiki/Apprehension
+
+
+archaeological looting
+======================
+
+:: Description
+Someone illicitly removes artifacts from an archaeological site, or the like.
+The robbing of ancient graves is a specific example of such looting.
+
+:: Parents
+theft
+
+:: References
+https://en.wikipedia.org/wiki/Archaeological_looting
 
 
 archaeology
@@ -2817,6 +2872,21 @@ Time".
 https://en.wikipedia.org/wiki/Arranged_marriage
 
 
+arson
+=====
+
+:: Description
+The crime of willfully and maliciously setting fire to property is featured.
+For example, burning down a house or starting a forest fire may count as
+arson.
+
+:: Parents
+crime against property
+
+:: References
+https://en.wikipedia.org/wiki/Arson
+
+
 art discussion
 ==============
 
@@ -2832,6 +2902,21 @@ Picard's painting of a nude model in tng3x14 "A Matter of Perspective".
 
 :: References
 https://en.wikipedia.org/wiki/Art_criticism
+
+
+art forgery
+===========
+
+:: Description
+The crime of creating and peddling falsely accredited artwork is featured. For
+example, a skilled painter may copy an old masterpiece, take pains to make it
+look aged, and then sell it under the pretense that it is the original.
+
+:: Parents
+criminal fraud
+
+:: References
+https://en.wikipedia.org/wiki/Art_forgery
 
 
 art related activity
@@ -3542,6 +3627,47 @@ A being that is basically a bouncing ball.
 shape distinguished being
 
 
+band of outlaws
+===============
+
+:: Description
+
+
+:: Parents
+organized crime
+
+
+bank robbery
+============
+
+:: Description
+The crime of stealing from a bank (or comparable venue) by physically gaining
+entry to its facilities and unlawfully removing large amounts of money or
+valuables, is featured. Bank-like outfits include other venues that have
+vaults, for example casinos or Fort Knox.
+
+:: Parents
+robbery
+
+:: Notes
+In real life most bank robberies are made at gunpoint, i.e., by threatening
+bank employees with violence. In fiction (more than reality) there are
+sometimes clever schemes to gain entry clandestinely, for example by tunneling
+in during off-hours, or using deception. The latter is technically a case of
+"burglary" when violence is not used, but is categorized as "bank robbery" for
+convenience. This definition may well (and rightly should) be revisited in the
+future.
+
+:: Examples
+In talesoftheunexpected5x06 "The Moles", two old friends whose business faced
+financial ruin hatched a clever plan to tunnel their way into a certain bank
+vault from an antique shop adjacent to it.
+
+:: References
+https://en.wikipedia.org/wiki/Bank_robbery
+https://en.wikipedia.org/wiki/List_of_bank_robbers_and_robberies
+
+
 be careful what you wish for
 ============================
 
@@ -4183,6 +4309,24 @@ the supernatural
 https://en.wikipedia.org/wiki/Black_magic
 
 
+black markets
+=============
+
+:: Description
+The covert covert trade in government prohibited or stolen goods is featured.
+
+:: Parents
+crime against the public
+
+:: Examples
+Steve Austin was sent on a mission to stop an arms dealer from selling stolen
+nuclear missiles on the black market in "The Six Million Dollar Man: Wine,
+Women and War" (1973).
+
+:: References
+https://en.wikipedia.org/wiki/Black_market
+
+
 black sheep
 ===========
 
@@ -4199,6 +4343,29 @@ in tng1x13 "Datalore".
 
 :: References
 https://en.wikipedia.org/wiki/Black_sheep
+
+
+blackmail
+=========
+
+:: Description
+The act of blackmailing is featured in a way that is (arguably) considered
+criminal in the context. Blackmail is an act of coercion using the threat of
+revealing or publicizing either substantially true or false information about
+a person or people unless certain demands are met.
+
+It is often damaging information, and may be revealed to family members or
+associates rather than to the general public. It may involve using threats of
+physical, mental or emotional harm, or of criminal prosecution, against the
+victim or someone close to the victim. It is normally carried out for personal
+gain, most commonly of position, money, or property. It is also used,
+sometimes by state agencies, to exert influence.
+
+:: Parents
+crime against property
+
+:: References
+https://en.wikipedia.org/wiki/Blackmail
 
 
 blobform
@@ -4272,6 +4439,26 @@ human enhancement technology
 
 :: References
 https://en.wikipedia.org/wiki/Organ_transplantation_in_fiction
+
+
+body snatching
+==============
+
+:: Description
+Body snatching is the secret removal of corpses from burial sites for the
+purpose of dissection and anatomy studies. This is featured as a crime.
+
+:: Parents
+crime against the public
+
+:: Notes
+The Wikipedia definition is slightly broader. We restrict the usage here to
+body snatching for the purpose of medical studies, as there are a number of
+mostly 19th century stories that feature this distinctive social issue.
+
+:: References
+https://en.wikipedia.org/wiki/Body_snatching
+https://en.wikipedia.org/wiki/Burke_and_Hare_murders
 
 
 body swap
@@ -4580,6 +4767,21 @@ expected of them by their society's norms and traditions.
 contemplating suicide
 
 
+bribery
+=======
+
+:: Description
+The act of offering, giving, receiving, or soliciting any item of value to
+influence the actions of an official, or other person, in charge of a public
+or legal duty, is featured as a crime.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Bribery
+
+
 bridezilla
 ==========
 
@@ -4702,6 +4904,20 @@ series of seemingly pointless bureaucratic procedures.
 dystopia
 
 
+burglary
+========
+
+:: Description
+The unlawful entry into a building or other location for the purposes of
+stealing from there is featured.
+
+:: Parents
+theft
+
+:: References
+https://en.wikipedia.org/wiki/Burglary
+
+
 calligraphy
 ===========
 
@@ -4761,6 +4977,19 @@ food alive in tng1x07 "Lonely Among Us".
 https://en.wikipedia.org/wiki/List_of_mammalian_alien_species
 
 
+cannibalism
+===========
+
+:: Description
+A person consumes the flesh of another person.
+
+:: Parents
+murder
+
+:: References
+https://en.wikipedia.org/wiki/Human_cannibalism
+
+
 cannibalism to survive
 ======================
 
@@ -4771,6 +5000,21 @@ other person first.
 
 :: Parents
 personal life and death dilemma
+
+
+capital punishment
+==================
+
+:: Description
+We are asked how and when, if ever, it is acceptable to punish a criminal by
+death.
+
+:: Parents
+legal punishment
+social ethical dilemma
+
+:: References
+https://en.wikipedia.org/wiki/Capital_punishment
 
 
 capitalism
@@ -5111,6 +5355,38 @@ into the evil Mr. Edward Hyde.
 
 :: References
 https://en.wikipedia.org/wiki/Chemistry
+
+
+child abduction
+===============
+
+:: Description
+The crime of unauthorized removal of a minor (a child under the age of legal
+adulthood) from the custody of the child's natural parents or legally
+appointed guardians, is featured.
+
+:: Parents
+crime against the person
+
+:: References
+https://en.wikipedia.org/wiki/Child_abduction
+
+
+child abuse
+===========
+
+:: Description
+Child abuse is featured in a context where it is arguably criminal. Child
+abuse or child maltreatment is physical, sexual, and/or psychological
+maltreatment or neglect of a child or children, especially by a parent or a
+caregiver.
+
+:: Parents
+crime against the person
+violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Child_abuse
 
 
 child exploitation
@@ -5776,6 +6052,20 @@ information from one to the other in it.
 
 :: Parents
 superstition
+
+
+collective punishment
+=====================
+
+:: Description
+The rulers punish not only the criminal but also the criminal's family,
+society, people, etc.
+
+:: Parents
+legal punishment
+
+:: References
+https://en.wikipedia.org/wiki/Collective_punishment
 
 
 collectively intelligent beings
@@ -6497,6 +6787,17 @@ the day in tng3x06 "Booby Trap".
 https://en.wikipedia.org/wiki/Computer_simulation
 
 
+con artistry
+============
+
+:: Description
+There is a character who plays an elaborate confidence trick of some sort on
+another character.
+
+:: Parents
+criminal fraud
+
+
 conflict of cultural norms
 ==========================
 
@@ -7158,6 +7459,22 @@ abide a family member that they find embarrassing.
 https://en.wikipedia.org/wiki/Dysfunctional_family
 
 
+coping with a problematic person
+================================
+
+:: Description
+A character must put up with a person who they cannot avoid but find if
+difficult to deal with for whatever reason.
+
+:: Parents
+human challenge in life
+
+:: Examples
+Examples of problematic people that others have coped with in stories include
+panicky relatives, practical jokers, jealous lovers, enamoured groupies, and
+obnoxious jerks.
+
+
 coping with a spoiled brat
 ==========================
 
@@ -7470,19 +7787,6 @@ A character is subjected to lousily prepared food.
 
 :: Parents
 human interpersonal relationship
-
-
-coping with having a cuckold reputation
-=======================================
-
-:: Description
-A male character has to handle the information that their female love partner
-has been physically unfaithful with another man, and that this is publicly
-known to some extent.
-
-:: Parents
-coping with having a bad reputation
-romantic relationship issue
 
 
 coping with being a danger to those around you
@@ -7813,7 +8117,7 @@ wedding day draws near.
 romantic relationship issue
 
 :: Examples
-Keiko O'Brien, nÃ©e Ishikawa, experienced some last minute jitters over
+Keiko O'Brien, née Ishikawa, experienced some last minute jitters over
 marrying Miles O'Brien in tng4x11 "Data's Day".
 
 
@@ -7933,6 +8237,19 @@ the doctor and onerous treatment procedures.
 human health condition
 
 
+coping with having a cuckold reputation
+=======================================
+
+:: Description
+A male character has to handle the information that their female love partner
+has been physically unfaithful with another man, and that this is publicly
+known to some extent.
+
+:: Parents
+coping with having a bad reputation
+romantic relationship issue
+
+
 coping with having a headache
 =============================
 
@@ -8036,7 +8353,7 @@ Someone feels guilty at having been responsible for injuring another person.
 human interpersonal relationship
 
 :: Examples
-McCoy unintentionally blinded Spock in tos1x29 "Operation â€“ Annihilate!".
+McCoy unintentionally blinded Spock in tos1x29 "Operation – Annihilate!".
 
 
 coping with having let someone down
@@ -8283,22 +8600,6 @@ having served in the Angosian military in tng3x11 "The Hunted".
 
 :: References
 https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder
-
-
-coping with a problematic person
-================================
-
-:: Description
-A character must put up with a person who they cannot avoid but find if
-difficult to deal with for whatever reason.
-
-:: Parents
-human challenge in life
-
-:: Examples
-Examples of problematic people that others have coped with in stories include
-panicky relatives, practical jokers, jealous lovers, enamoured groupies, and
-obnoxious jerks.
 
 
 coping with puberty
@@ -8759,6 +9060,26 @@ wearing of boots that are not quite large enough.
 coping with life issues
 
 
+corporal punishment
+===================
+
+:: Description
+The once accepted, but now usually proscribed, practice of letting authority
+figures correct the behavior of their subordinates by inflicting physical
+pain, is discussed.
+
+:: Parents
+legal punishment
+
+:: Examples
+In talesoftheunexpected2x03 "Galloping Foxley", young Perkins was regularly
+caned by the older boy called Galloping Foxley, a prefect, (who would
+sometimes cane at a gallop) to whom he had been assigned as a slave.
+
+:: References
+https://en.wikipedia.org/wiki/Corporal_punishment
+
+
 corporation interfering in politics
 ===================================
 
@@ -9064,6 +9385,139 @@ billiards
 snooker
 
 
+crime
+=====
+
+:: Description
+This is the category of themes that relate to proscribed actions that are
+normally punishable by contemporary states.
+
+:: Parents
+law and order issue
+
+:: Notes
+Because of their notoriety, we consider that a "crime" theme is topical to the
+story when a character unambiguously commits such a crime. For example
+"murder" becomes topical if a murder is committed. Common sense is required
+here: For example, action movies frequently feature actions that would
+arguably be "crimes" to a thoughtful conscientious viewer, yet are not treated
+as such in the story for one reason or another (action heroes often appear to
+be above the law). It is not the purpose of this category to catalog such
+things.
+
+:: References
+https://en.wikipedia.org/wiki/Crime
+
+
+crime against justice
+=====================
+
+:: Description
+Featured is a crime that prevents the justice system itself from operating as
+it is meant to. This may involve, for example, false accusations, tampering
+with evidence, and perjury.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Perverting_the_course_of_justice
+https://en.wikipedia.org/wiki/Obstruction_of_justice
+
+
+crime against property
+======================
+
+:: Description
+Featured is a crime that involves private property, for example burglary,
+larceny, theft, motor vehicle theft, arson, shoplifting, and vandalism.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Property_crime
+
+
+crime against the person
+========================
+
+:: Description
+Featured is a crime that involves direct physical harm or force being applied
+to another person.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Offence_against_the_person
+
+
+crime against the public
+========================
+
+:: Description
+Featured is a crime where all of society is the aggrieved party, according to
+the law. This may include things like "drunk driving" which is criminal even
+if no one actually got hurt because anyone and everyone was put at risk.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Criminal_law
+
+
+crime of passion
+================
+
+:: Description
+Featured is a violent crime, typically homicide, in which the perpetrator
+commits the act because of sudden strong impulse such as sudden rage rather
+than as a premeditated crime.
+
+:: Parents
+violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Crime_of_passion
+
+
+criminal fraud
+==============
+
+:: Description
+The crime of intentional deception to secure unfair or unlawful gain, or to
+deprive a victim of a legal right, is featured.
+
+:: Parents
+crime against property
+
+:: Examples
+Ardra conned the gullible inhabitants of Ventax II by pretending to be their
+devil in tng4x13 "Devil's Due".
+
+:: References
+https://en.wikipedia.org/wiki/Fraud
+
+
+criminal gangs
+==============
+
+:: Description
+There is a criminal gang and their influence on society is featured.
+
+:: Parents
+organized crime
+
+:: Examples
+Moses in "Attack the Block" (2011) headed a criminal youth gang in a rundown
+area of London.
+
+:: References
+https://en.wikipedia.org/wiki/Gang
+
+
 cross cultural issue
 ====================
 
@@ -9137,18 +9591,6 @@ A being patterned after crustaceans.
 
 :: Parents
 animal and plant patterned being
-
-
-suspended animation punishment
-==============================
-
-:: Description
-People convicted of crimes are frozen by means of cryogenic technology for
-some time and as a punishment.
-
-:: Parents
-suspended animation
-speculative punishment
 
 
 cryogenic technology
@@ -9481,6 +9923,25 @@ the fine arts and the humanities
 :: Examples
 Beverly "the dancing doctor" got a kick out of teaching Data the art of tap
 dancing in tng4x11 "Data's Day".
+
+
+dangerous driving in society
+============================
+
+:: Description
+The issue of people sometimes choosing to drive their vehicles in a way that
+poses an unacceptable danger to themselves and others, is discussed. Most
+typically, this happens when a character is caught speeding.
+
+:: Parents
+crime against the public
+
+:: References
+https://en.wikipedia.org/wiki/Dangerous_driving
+https://en.wikipedia.org/wiki/Reckless_driving
+
+:: Aliases
+reckless driving in society
 
 
 dark family secret
@@ -10492,6 +10953,25 @@ family affairs
 https://en.wikipedia.org/wiki/Divorce
 
 
+divorce procedures
+==================
+
+:: Description
+The legal niceties required in order for a married couple to be formally
+divorced, are featured.
+
+:: Parents
+law and order issue
+
+:: Examples
+In talesoftheunexpected7x13 "The Reconciliation", various complications
+involved in obtaining a divorce in the UK were explained to James by his
+lawyer.
+
+:: References
+https://en.wikipedia.org/wiki/Divorce
+
+
 doctor and patient
 ==================
 
@@ -10613,6 +11093,21 @@ engineered colonists in tng5x13 "The Masterpiece Society".
 https://en.wikipedia.org/wiki/Domed_city
 
 
+domestic violence
+=================
+
+:: Description
+A crime involving violence or other abuse by one person against another in a
+domestic setting, such as in marriage or cohabitation, is featured.
+
+:: Parents
+crime against the person
+violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Domestic_violence
+
+
 dominicide
 ==========
 
@@ -10642,7 +11137,7 @@ else's life.
 human self-sacrifice for another
 
 
-doppelgÃ¤nger
+doppelgänger
 ============
 
 :: Description
@@ -10780,6 +11275,22 @@ that keep us happy.
 dystopia
 
 
+drunk driving
+=============
+
+:: Description
+The offense of driving, operating, or being in control of a vehicle while
+impaired by alcohol or other drugs (including recreational drugs and those
+prescribed by physicians), to a level that renders the driver incapable of
+operating a motor vehicle safely, is featured.
+
+:: Parents
+dangerous driving in society
+
+:: References
+https://en.wikipedia.org/wiki/Driving_under_the_influence
+
+
 dumb blonde stereotype
 ======================
 
@@ -10825,6 +11336,46 @@ The technology to duplicate a person, or at least a person's mind.
 
 :: Parents
 mind altering technology
+
+
+duty to disobey illegal orders
+==============================
+
+:: Description
+We are asked whether an excuse like "I was merely following orders" is
+acceptable in some scenario where something illegal or unethical has been
+perpetrated.
+
+:: Parents
+legal duty
+
+:: References
+https://en.wikipedia.org/wiki/Superior_orders
+
+:: Aliases
+superior orders defense
+Nuremberg defense
+just following orders
+
+
+duty to rescue
+==============
+
+:: Description
+The idea, found in some legal codes, that a person sometimes has a legal duty
+to come to the rescue of another person is discussed.
+
+:: Parents
+legal duty
+
+:: Examples
+In "Vertigo" (1958), detective John Ferguson attends a hearing regarding
+Madeleine's death. The judge chastises John for the various ways in which John
+failed to intervene, and laments that the law unfortunately doesn't have much
+to say about actions never taken.
+
+:: References
+https://en.wikipedia.org/wiki/Duty_to_rescue
 
 
 duty vs. compassion
@@ -10958,7 +11509,7 @@ speculative society
 http://sf-encyclopedia.com/entry/dystopias
 
 
-dÃ©jÃ  vu
+déjà vu
 =======
 
 :: Description
@@ -10969,14 +11520,14 @@ experienced has happened in the past means it did in fact happen in the past.
 crackpot theory
 
 :: Examples
-Beverly and her poker buddies experienced dÃ©jÃ  vu when they got stuck in a
+Beverly and her poker buddies experienced déjà vu when they got stuck in a
 time loop in tng5x18 "Cause and Effect".
 
 :: References
 https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu
 
 
-dÃ©tente
+détente
 =======
 
 :: Description
@@ -12122,7 +12673,7 @@ extraterrestrial civilization
 :: Description
 Human civilization encounters an alien civilization. Note: This theme is not
 used when any mere alien is featured unless that alien's whole civilization is
-referenced and discussed vis-Ã -vis human civilization.
+referenced and discussed vis-à-vis human civilization.
 
 :: Parents
 extraterrestrial being
@@ -12751,6 +13302,20 @@ all ruse and fabrication carefully conceived by Iago in order to get revenge
 on those he envies or dislikes, including on Othello himself. It is only after
 he has killed his own wife in jealous rage that Othello becomes aware of what
 a false and malign "friend" Iago has been.
+
+
+false rape accusations
+======================
+
+:: Description
+The crime of reporting a rape where no rape has occurred, is featured.
+
+:: Parents
+crime against the person
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/False_accusation_of_rape
 
 
 familial love
@@ -13653,7 +14218,7 @@ body part transplant
 https://en.wikipedia.org/wiki/Fetal_tissue_implant
 
 
-fiancÃ©e and fiancÃ©e
+fiancée and fiancée
 ===================
 
 :: Description
@@ -14209,12 +14774,27 @@ existential risk to civilization
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 
 
+forced confession
+=================
+
+:: Description
+Whether and to what extent society should consider confessions of crime that
+were acquired from the defendant while under any form of duress (whether
+extended isolation or outright torture) is considered.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Forced_confession
+
+
 forced fatherhood
 =================
 
 :: Description
 Someone becomes a father against their will and we are asked what this
-person's responsibilities vis-Ã -vis his unwanted child should morally be.
+person's responsibilities vis-à-vis his unwanted child should morally be.
 
 :: Parents
 gender issue
@@ -14433,6 +15013,21 @@ speculative reality
 :: References
 https://en.wikipedia.org/wiki/Fourth_dimension_in_literature
 http://www.sf-encyclopedia.com/entry/dimensions
+
+
+framing someone for a crime
+===========================
+
+:: Description
+The crime of providing false evidence or false testimony in order to falsely
+prove someone guilty of a crime, is featured.
+
+:: Parents
+crime against the person
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/Frameup
 
 
 fratricide
@@ -16532,6 +17127,20 @@ was pitted in a fight to the death.
 https://en.wikipedia.org/wiki/High_ground
 
 
+high treason
+============
+
+:: Description
+A member of a faction decides to take up the cause of an enemy faction against
+their own.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Treason
+
+
 historical determinism
 ======================
 
@@ -16756,7 +17365,7 @@ human characters in contrast
 
 :: Examples
 In "His Girl Friday" (1940), the blue eyed and sincere insurance salesman
-Bruce Baldwin is contrasted with his fiancÃ©e's ex-husband Walter Burns, who is
+Bruce Baldwin is contrasted with his fiancée's ex-husband Walter Burns, who is
 a scrupulous, lying rogue working as news paper editor.
 
 
@@ -16921,6 +17530,28 @@ strategies, heavy machines, and explosives.
 
 :: References
 https://en.wikipedia.org/wiki/Safe-cracking
+
+
+how to handle a hostage situation
+=================================
+
+:: Description
+Featured is the dilemma of whether and how to negotiate with hostage takers.
+
+:: Parents
+violent crime
+social ethical dilemma
+
+:: Notes
+Hostage situations are typically when someone holds innocent people at
+gunpoint and threatens to execute them unless certain demands are met.
+Especially in fiction, hostage situations may also arise when terrorists have
+planted bombs or designed doomsday weapons that threaten buildings, cities,
+countries, or entire planets.
+
+:: Examples
+Captain Picard negotiated to free Beverly from the clutches of terrorists in
+tng3x12 "The High Ground", but ended up himself a hostage.
 
 
 how to murder someone and get away with it
@@ -17407,8 +18038,8 @@ human nature
 ============
 
 :: Description
-The distinguishing characteristicsâ€”including ways of thinking, feeling, and
-actingâ€”which humans tend to have naturally.
+The distinguishing characteristics—including ways of thinking, feeling, and
+acting—which humans tend to have naturally.
 
 :: Parents
 classical philosophy
@@ -18382,7 +19013,7 @@ humans in pairs
 
 :: Description
 This is the category of themes that examine the respective interactions and
-attitudes of two people vis-Ã -vis each other.
+attitudes of two people vis-à-vis each other.
 
 :: Parents
 the human condition
@@ -18644,6 +19275,24 @@ human idea about life
 https://en.wiktionary.org/wiki/ignorance_is_bliss
 
 
+illegal drug trade
+==================
+
+:: Description
+The ramifications of drugs and drug trade in society are explored.
+
+:: Parents
+crime against property
+
+:: Examples
+The Brekkians found that trading a certain narcotic to the Ornarans was such a
+lucrative enterprise that they needed no other industry whatsoever in tng1x22
+"Symbiosis".
+
+:: References
+https://en.wikipedia.org/wiki/Illegal_drug_trade
+
+
 illiteracy in society
 =====================
 
@@ -18746,6 +19395,20 @@ another.
 :: Examples
 Mr. Flynn of tos3x21 "Requiem for Methuselah", a.k.a. Methuselah, was born
 with that most coveted mixed blessing of all: immortality.
+
+
+impartiality in the legal system
+================================
+
+:: Description
+The problem of ensuring impartiality in the legal system is highlighted. We
+all suffer from various preconceptions and judges are no exception.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Impartiality
 
 
 imperialism
@@ -19108,6 +19771,25 @@ social inequality
 https://en.wikipedia.org/wiki/Race_in_the_United_States_criminal_justice_system
 
 
+infanticide
+===========
+
+:: Description
+A character murders a defenseless little baby, and it is featured as being a
+crime.
+
+:: Parents
+murder
+
+:: Examples
+In "The Winter's Tale" (1611), King Leontes ordered the newborn child he
+thought was his wife's bastard to be slain. Although it appeared was legally
+in his right to do so, being the King and slighted husband, it was also
+featured as being morally reprehensible and therefore a crime against the
+customs of society. We also know that, in the historical context, Christianity
+proscribed infanticide.
+
+
 infatuation
 ===========
 
@@ -19201,6 +19883,25 @@ bequest is to be allotted.
 https://en.wikipedia.org/wiki/Inheritance
 
 
+inherited liability
+===================
+
+:: Description
+We are asked to what extent descendants are answerable for the actions of
+their ancestors.
+
+:: Parents
+law and order issue
+
+:: Examples
+For Javier Maribona Picard's role in the reconquest of New Mexico in the
+1690's, all of Captain Picard's family was deemed to wear a stain of blood
+until this day in tng7x20 "Journey's End".
+
+:: References
+https://en.wikipedia.org/wiki/Sins_of_the_Father
+
+
 inhospitable environment dwelling being
 =======================================
 
@@ -19277,6 +19978,24 @@ human life choice
 
 :: References
 https://en.wikipedia.org/wiki/Institutionalisation#The_mentally_ill
+
+
+insurance fraud
+===============
+
+:: Description
+A character fakes or deliberately causes an injury or loss of property in
+order to illicitly get compensation from an insurance company.
+
+:: Parents
+criminal fraud
+
+:: Examples
+In "Double Indemnity" (1944), Walter and Phyllis hatch an elaborate plot to
+kill Phyllis' husband and claim his life insurance, which they first take out
+in his name but without his knowledge. They must then make the murder look
+like an accident, in order to trigger the indemnity clause and double the
+payout.
 
 
 intangibility ability
@@ -20510,10 +21229,24 @@ human childhood
 
 :: Examples
 Wesley wrestled with leaving the comfortable confines of the Enterprise-D to
-enter Starfleet Academy in tng3x24 "MÃ©nage Ã  Troi".
+enter Starfleet Academy in tng3x24 "Ménage à Troi".
 
 :: References
 https://en.wikipedia.org/wiki/Leaving_the_nest
+
+
+legal punishment
+================
+
+:: Description
+Discussed is a type of punishment that is considered legitimate by virtue of
+being set out in a law code by a recognized government.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Punishment
 
 
 legendary being
@@ -20823,8 +21556,8 @@ living dinosaur
 ===============
 
 :: Description
-The theory that non-avian dinosaurs have survived the Cretaceousâ€“Paleogene
-(Kâ€“Pg) extinction event is entertained.
+The theory that non-avian dinosaurs have survived the Cretaceous–Paleogene
+(K–Pg) extinction event is entertained.
 
 :: Parents
 cryptid
@@ -21052,6 +21785,23 @@ prejudice in society
 
 :: References
 https://en.wikipedia.org/wiki/Lookism
+
+
+looting
+=======
+
+:: Description
+Featured is the crime of stealing, or the taking of goods by force, in the
+midst of a military, political, or other social crisis, such as war, natural
+disasters (where law and civil enforcement are temporarily ineffective), or
+rioting. The proceeds of all these activities can be described as booty, loot,
+plunder, spoils, or pillage.
+
+:: Parents
+theft
+
+:: References
+https://en.wikipedia.org/wiki/Looting
 
 
 lord and vassal
@@ -21789,7 +22539,7 @@ male stereotype
 
 :: Notes
 A midlife crisis is a transition of identity and self-confidence that can
-occur in middle-aged individuals, typically 45â€“64 years old.
+occur in middle-aged individuals, typically 45–64 years old.
 
 :: References
 https://en.wikipedia.org/wiki/Midlife_crisis
@@ -22107,6 +22857,24 @@ chamber or two in tos1x22 "The Return of the Archons".
 https://en.wikipedia.org/wiki/Brainwashing
 
 
+mass murder
+===========
+
+:: Description
+The crime of murdering a number of people, typically simultaneously or over a
+relatively short period of time and in close geographic proximity is featured.
+
+:: Parents
+murder
+
+:: Examples
+A New York police detective investigates a series of mass murders in "God Told
+Me To" (1976).
+
+:: References
+https://en.wikipedia.org/wiki/Mass_murder
+
+
 mass radiation poisoning
 ========================
 
@@ -22121,6 +22889,21 @@ The Scalosians were nearly wiped out by radiation in tos3x13 "Wink of an Eye".
 
 :: References
 https://en.wikipedia.org/wiki/Acute_radiation_syndrome
+
+
+mass surveillance
+=================
+
+:: Description
+The question of whether and to what extent we should have large scale
+surveillance systems in place is discussed.
+
+:: Parents
+law and order issue
+sociotechnological issue
+
+:: References
+https://en.wikipedia.org/wiki/Surveillance
 
 
 master and pet
@@ -22171,6 +22954,20 @@ ruling elite utopia
 The plant-like Phylosians were so superior that they once decided to take
 control of the galaxy for its own good, we were told, in tas1x07 "The Infinite
 Vulcan". The attempt was abortive.
+
+
+match fixing
+============
+
+:: Description
+The problem of criminals rigging games and sports matches by various means in
+order to profit from betting and spectator revenues, is discussed.
+
+:: Parents
+criminal fraud
+
+:: References
+https://en.wikipedia.org/wiki/Match_fixing
 
 
 matchmaking technology
@@ -22256,7 +23053,7 @@ parricide
 
 :: Examples
 In "Psycho" (1960), we learn that young Norman Bates had murdered his widowed
-mother and her new fiancÃ©e out of jealousy when Mrs. Bates planned to remarry.
+mother and her new fiancée out of jealousy when Mrs. Bates planned to remarry.
 
 :: References
 https://en.wikipedia.org/wiki/Matricide
@@ -22592,7 +23389,7 @@ on.
 speculative being
 
 
-mentor and protÃ©gÃ©
+mentor and protégé
 ==================
 
 :: Description
@@ -22759,7 +23556,7 @@ state's own armed forces.
 civil war
 
 :: Examples
-In "Akira" (1988), Colonel Shikishima led a coup d'Ã©tat against the Neo Tokyo
+In "Akira" (1988), Colonel Shikishima led a coup d'état against the Neo Tokyo
 government and directed all of its military forces to destroy a young man who
 had acquired near god-like telekinetic abilities.
 
@@ -23601,6 +24398,20 @@ home.
 romantic relationship issue
 
 
+mugging
+=======
+
+:: Description
+The crime of robbing people in public places, particularly on streets, is
+featured.
+
+:: Parents
+robbery
+
+:: References
+https://en.wikipedia.org/wiki/Robbery
+
+
 multi-gendered being
 ====================
 
@@ -23746,6 +24557,20 @@ Robot vs. the Aztec Mummy" (1958).
 https://en.wikipedia.org/wiki/Mummy_(monster)
 
 
+murder
+======
+
+:: Description
+The crime of unlawful and intentional homicide is featured.
+
+:: Parents
+violent crime
+crime against the person
+
+:: References
+https://en.wikipedia.org/wiki/List_of_types_of_killing
+
+
 mushroom-like being
 ===================
 
@@ -23780,6 +24605,28 @@ Enterprise-D in tng6x19 "Lessons".
 
 :: References
 https://en.wikipedia.org/wiki/Music_appreciation
+
+
+mutilation as punishment
+========================
+
+:: Description
+The practice found in some law codes of prescribing amputation of limbs and
+other mutilations (such as blinding or tongue slitting) for crimes, is
+featured.
+
+:: Parents
+legal punishment
+
+:: Examples
+In talesoftheunexpected9x08 "The Finger of Suspicion", we learned that Stephen
+had had his right hand cut off as punishment for theft in the Arab country
+where he lived.
+
+:: References
+https://en.wikipedia.org/wiki/Amputation#Legal_punishment
+https://en.wikipedia.org/wiki/Hudud
+https://en.wikipedia.org/wiki/Mutilation#Mutilation_as_human_punishment
 
 
 mutual respect
@@ -24198,6 +25045,22 @@ was a hypersphere.
 https://en.wikipedia.org/wiki/Non-Euclidean_geometry
 
 
+nonconsensual voyeurism
+=======================
+
+:: Description
+Voyeurism is the sexual interest in or practice of spying on people engaged in
+intimate behaviours, such as undressing, sexual activity, or other actions
+usually considered to be of a private nature. Discussed is the perceived
+social issue associated with the prevalence of this often criminal activity.
+
+:: Parents
+sexual crime
+
+:: References
+https://en.wikipedia.org/wiki/Voyeurism
+
+
 nonlinear system
 ================
 
@@ -24428,6 +25291,22 @@ https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder
 OCD
 
 
+obstruction of justice
+======================
+
+:: Description
+Featured is a crime that consists of obstructing prosecutors, investigators,
+or other government officials. This may involve, for example, perjury, making
+false statements to officials, witness tampering, jury tampering, destruction
+of evidence, etc.
+
+:: Parents
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/Obstruction_of_justice
+
+
 ocean planet
 ============
 
@@ -24641,6 +25520,23 @@ Helen Noel reminded Captain Kirk about what happened between them when he
 dropped in at the science lab Christmas party in tos1x10 "Dagger of the Mind".
 
 
+onerous license agreements
+==========================
+
+:: Description
+When purchasing purchasing and services customers are sometimes asked to sign
+or tacitly agree to lengthy licensing agreements that few of us will read
+carefully. We are made to contemplate this situation and ponder whether and to
+what extent we should accept the practice as a social good.
+
+:: Parents
+law and order issue
+sociotechnological issue
+
+:: Examples
+https://en.wikipedia.org/wiki/End-user_license_agreement
+
+
 open romantic relationship
 ==========================
 
@@ -24817,6 +25713,39 @@ discussed.
 
 :: Parents
 contraposed political ideologies
+
+
+organ theft
+===========
+
+:: Description
+The forcible removal of a person's organs to be used as transplants and sold
+on the black market is featured as a crime.
+
+:: Parents
+crime against the person
+violent crime
+
+:: Examples
+Spock's brain was harvested by aliens who wanted it as a computer in tos3x06
+"Spock's Brain".
+
+:: References
+https://en.wikipedia.org/wiki/Organ_theft
+
+
+organized crime
+===============
+
+:: Description
+The particular social problem of large centralized enterprises that engage in
+criminal activity is displayed.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Organized_crime
 
 
 organized religion
@@ -25532,6 +26461,20 @@ textbook on Earth history in tos2x23 "Patterns of Force".
 https://en.wikipedia.org/wiki/Pedagogy
 
 
+pedophiles
+==========
+
+:: Description
+We are made to contemplate how adults that are sexually attracted to minors
+affect society, and how such individuals ought to be treated.
+
+:: Parents
+sexual crime
+
+:: References
+https://en.wikipedia.org/wiki/Pedophilia
+
+
 peer pressure
 =============
 
@@ -25701,6 +26644,19 @@ tos1x03 "Mudd's Women".
 
 :: References
 https://en.wikipedia.org/wiki/Performance-enhancing_substance
+
+
+perjury
+=======
+
+:: Description
+The matter of perjury in relation to miscarriages of justice is explored.
+
+:: Parents
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/Perjury
 
 
 perpetual energy machine
@@ -26366,6 +27322,21 @@ knowledge necessary to surgically restore Spock's brain to the Vulcan's body
 in tos3x06 "Spock's Brain".
 
 
+poaching
+========
+
+:: Description
+The illegal hunting or capturing of wild animals, usually associated with land
+use rights, is featured.
+
+:: Parents
+crime against property
+hunting
+
+:: References
+https://en.wikipedia.org/wiki/Poaching
+
+
 pod or booth-like device
 ========================
 
@@ -26402,7 +27373,7 @@ In nightgallery2x19a "Deliveries in the Rear", Dr. Fletcher is perfectly
 content to look the other way while innocent people are murdered in order to
 provide cadavers for dissection in his anatomy class. Eventually, in an ironic
 twist of fate, he uncovers a new corpse only to find that it is his own
-beloved fiancÃ©e that has become the victim.
+beloved fiancée that has become the victim.
 
 :: References
 https://en.wikipedia.org/wiki/Poetic_justice
@@ -26421,6 +27392,19 @@ the fine arts and the humanities
 https://en.wikipedia.org/wiki/Poetry
 
 
+poison murder
+=============
+
+:: Description
+The crime of murdering someone using poison is discussed.
+
+:: Parents
+murder
+
+:: References
+https://en.wikipedia.org/wiki/List_of_poisonings
+
+
 polar exploration
 =================
 
@@ -26429,6 +27413,20 @@ Someone faces the dangers inherent to exploring unfamiliar arctic regions.
 
 :: Parents
 charting unknown territory
+
+
+police brutality
+================
+
+:: Description
+The problem of police sometimes willfully using excessive force and violence
+to brutalize either criminals or the innocent is explored.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Police_brutality
 
 
 political apathy in society
@@ -26918,6 +27916,26 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Inflation
+
+
+price rigging
+=============
+
+:: Description
+Two or more parties conspire to influence prices in such a way as to achieve
+higher profits at the expense of the consumer.
+
+:: Parents
+criminal fraud
+
+:: Examples
+Adam Smith in "The Wealth of Nations" wrote that: People of the same trade
+seldom meet together, even for merriment and diversion, but the conversation
+ends in a conspiracy against the public, or in some contrivance to raise
+prices.
+
+:: References
+https://www.investopedia.com/terms/p/price_rigging.asp
 
 
 pride
@@ -27516,6 +28534,17 @@ astronomy
 https://en.wikipedia.org/wiki/Pulsar
 
 
+punishment as a deterrent to crime
+==================================
+
+:: Description
+It is discussed to what extent different kinds of prescribed punishments can
+work to deter people from committing crimes in the first place.
+
+:: Parents
+legal punishment
+
+
 punishment in the afterlife
 ===========================
 
@@ -27826,6 +28855,21 @@ Worf tacitly questioned Data's randomization of a deck of cards in tng5x18
 
 :: References
 https://en.wikipedia.org/wiki/Randomization
+
+
+ransom kidnapping
+=================
+
+:: Description
+The crime of unlawful transportation, asportation and confinement of a person
+against their will for the purposes of extortion, is featured.
+
+:: Parents
+crime against property
+crime against the person
+
+:: References
+https://en.wikipedia.org/wiki/Kidnapping
 
 
 rapid aging process
@@ -28251,7 +29295,7 @@ the studying and teaching of religious doctrine, is engaged in their craft.
 human occupational activity
 
 :: Examples
-In tz1959e5x26 "I Am the Nightâ€”Color Me Black", a black reverend has words
+In tz1959e5x26 "I Am the Night—Color Me Black", a black reverend has words
 with a man who is about to be hanged.
 
 :: References
@@ -28900,6 +29944,21 @@ prestige.
 human interpersonal relationship
 
 
+robbery
+=======
+
+:: Description
+The crime of taking something of value by force, threat of force, or by
+putting the victim in fear, is featured or otherwise discussed.
+
+:: Parents
+violent crime
+theft
+
+:: References
+https://en.wikipedia.org/wiki/Robbery
+
+
 robot helper
 ============
 
@@ -29491,6 +30550,20 @@ Riker could have saved mining colonists and a dead child with his new Q-powers
 in tng1x10 "Hide and Q" if he had broken his word to Picard.
 
 
+scams against the elderly
+=========================
+
+:: Description
+The social issue of criminals and other immoral characters trying to cheat the
+elderly out of their hard-earned savings is discussed.
+
+:: Parents
+criminal fraud
+
+:: References
+https://en.wikipedia.org/wiki/Elder_financial_abuse
+
+
 schizophrenia
 =============
 
@@ -29504,6 +30577,29 @@ human mental condition
 
 :: References
 https://en.wikipedia.org/wiki/Schizophrenia
+
+
+school shooting
+===============
+
+:: Description
+The social problem, most notable in the contemporary United States, of
+educational institutions becoming the target of more or less indiscriminate
+attacks with firearms, is explored. The perpetrators may be, for example, lone
+troubled students, or organized terrorist groups.
+
+:: Parents
+terrorism
+
+:: Examples
+In tz2002e1x29 "Into the Light", a teacher, Rachel Stark, during her last days
+of work caught wind of the fact that Ben, a bullied and angry student, was
+planning to go on a killing spree and shoot up the school. She managed
+narrowly to avert the tragedy by tackling Ben off the roof, where he had
+strategically stationed himself with a rifle.
+
+:: References
+https://en.wikipedia.org/wiki/School_shooting
 
 
 science as magic to the primitive
@@ -29752,7 +30848,7 @@ self-coup
 =========
 
 :: Description
-A form of putsch or coup d'Ã©tat in which a nation's leader, despite having
+A form of putsch or coup d'état in which a nation's leader, despite having
 come to power through legal means, dissolves or renders powerless the national
 legislature and unlawfully assumes extraordinary powers not granted under
 normal circumstances.
@@ -30104,6 +31200,25 @@ extraterrestrial origin helped save a property development threatened
 apartment block from being demolished.
 
 
+serial murder
+=============
+
+:: Description
+An individual murderer (as opposed to an organization) kills three or more
+people on separate occasions, for their own twisted reasons.
+
+:: Parents
+murder
+
+:: Notes
+There is no widely accepted and precise definition for this category of crime.
+Prefer to omit this theme if it is unclear whether a serial murder was part of
+the story.
+
+:: References
+https://en.wikipedia.org/wiki/Serial_killer
+
+
 sex to control soldiers
 =======================
 
@@ -30156,6 +31271,39 @@ https://en.wikipedia.org/wiki/Sexism
 
 :: Aliases
 gender discrimination
+
+
+sexual assault
+==============
+
+:: Description
+The crime of sexually touching another person without that person's consent,
+or coercing or physically forcing a person to engage in a sexual act against
+their will is featured.
+
+:: Parents
+sexual crime
+violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Sexual_assault
+
+:: Aliases
+rape in society
+
+
+sexual crime
+============
+
+:: Description
+A character commits a crime that involves activities considered sexual in
+nature.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Sex_and_the_law
 
 
 sexual debut
@@ -30711,6 +31859,24 @@ wielders hand to some extent.
 :: References
 
 
+smuggling
+=========
+
+:: Description
+The crime of the illegal transportation of such things as objects substances,
+information or people is featured.
+
+:: Parents
+crime against property
+
+:: Examples
+In sherlock1x02 "The Blind Banker", Sherlock Holmes and Watson connected a
+pair of enigmatic murders to a Chinese smuggling ring.
+
+:: References
+https://en.wikipedia.org/wiki/Smuggling
+
+
 sneak attack tactic
 ===================
 
@@ -31181,6 +32347,22 @@ Alas, it transpired that Adam was quite correct.
 
 :: References
 https://en.wikipedia.org/wiki/Solipsism_syndrome
+
+
+solitary confinement as a punishment
+====================================
+
+:: Description
+Someone is imprisoned in isolation from other people as a punishment. Note
+that while solitary confinement may sometimes be used out of necessity to
+protect people, its use merely as a punishment is controversial and may
+constitute torture due to its adverse psychological effects.
+
+:: Parents
+legal punishment
+
+:: References
+https://en.wikipedia.org/wiki/Solitary_confinement
 
 
 sonar-based artificial vision
@@ -32637,6 +33819,24 @@ https://en.wikipedia.org/wiki/Stasis_(fiction)
 http://www.sf-encyclopedia.com/entry/stasis_field
 
 
+statute of limitations
+======================
+
+:: Description
+A statutory maximum time that may elapse between a crime and the initiation of
+legal proceedings for that crime is featured.
+
+:: Parents
+law and order issue
+
+:: Examples
+Did Kodos the Executioner really deserve to be persecuted 20 years after his
+alleged crime in tos1x12 "The Conscience of the King"?
+
+:: References
+https://en.wikipedia.org/wiki/Statute_of_limitations
+
+
 stellar engineering
 ===================
 
@@ -33466,6 +34666,18 @@ https://en.wikipedia.org/wiki/Stasis_(fiction)
 http://www.sf-encyclopedia.com/entry/suspended_animation
 
 
+suspended animation punishment
+==============================
+
+:: Description
+People convicted of crimes are frozen by means of cryogenic technology for
+some time and as a punishment.
+
+:: Parents
+suspended animation
+speculative punishment
+
+
 sympathetic magic
 =================
 
@@ -33518,7 +34730,7 @@ organism in "Escape" (1971).
 https://en.wikipedia.org/wiki/Synthetic_biology#Synthetic_life
 
 
-sÃ©ance
+séance
 ======
 
 :: Description
@@ -33656,6 +34868,19 @@ in tng3x01 "Evolution".
 
 :: References
 https://en.wikipedia.org/wiki/Tardiness
+
+
+tax evasion
+===========
+
+:: Description
+A character tries to get out of paying their due taxes in an illegal way.
+
+:: Parents
+crime against property
+
+:: References
+https://en.wikipedia.org/wiki/Tax_evasion
 
 
 taxation in society
@@ -33921,6 +35146,22 @@ A totalitarian government used television to dumb people down in order to
 prevent revolution and thinking in "Fahrenheit 451" (1966).
 
 
+terrorism
+=========
+
+:: Description
+Attacks are characterized as "terrorism" by others. There is no objective
+definition, but the attacks typically target civilians and the attacker is not
+a conventional military carrying out normal war operations.
+
+:: Parents
+crime against the public
+violent crime
+
+:: References
+https://en.wikipedia.org/wiki/Terrorism
+
+
 terrorist or freedom fighter
 ============================
 
@@ -34173,7 +35414,7 @@ the French Resistance
 
 :: Description
 A collection of French movements that fought against the Nazi German
-occupation of France and against the collaborationist Vichy rÃ©gime during the
+occupation of France and against the collaborationist Vichy régime during the
 Second World War
 
 :: Parents
@@ -34671,6 +35912,26 @@ respiratory virus in tng1x14 "Angel One".
 https://en.wikipedia.org/wiki/Common_cold
 
 
+the control of deadly weapons
+=============================
+
+:: Description
+The story tackles the issue of guns and other deadly weapons being available
+to the public, and the implications this may have for a society.
+
+:: Parents
+violence in society
+political issue
+
+:: Examples
+H. G. Wells, upon time traveling to 20th century San Fransisco from Victorian
+Britain, expressed his disapproval of guns being sold on mass to the general
+public in the film "Time After Time" (1979).
+
+:: References
+https://en.wikipedia.org/wiki/Gun_violence
+
+
 the control of fire
 ===================
 
@@ -34697,6 +35958,30 @@ human occupational activity
 :: Notes
 This typically means, businessmen, CEOs, board members, and sometimes
 secretaries. It typically does not mean factory workers and janitors.
+
+
+the crime of adultery
+=====================
+
+:: Description
+There is extramarital sex that is considered objectionable on social,
+religious, moral, or legal grounds. Although the sexual activities that
+constitute adultery vary, as well as the social, religious, and legal
+consequences, the concept exists in many cultures and is similar in
+Christianity, Judaism and Islam. The act is featured as being criminal in the
+context of the story.
+
+:: Parents
+sexual crime
+
+:: References
+https://en.wikipedia.org/wiki/Adultery
+
+:: Note
+Many modern stories, naturally, feature extramarital sex without this act being
+considered in any way criminal. For the theme to apply it must be clear that
+the perpetrator(s) could, at least hypothetically, be caught and legally punished
+in the setting of the story.
 
 
 the dangers of blind obedience
@@ -35881,6 +37166,21 @@ do their bidding.
 human self-actualization need
 
 
+the making of a monster to society
+==================================
+
+:: Description
+The social factors involved in the development of a psychopathic criminal are
+explored.
+
+:: Parents
+law and order issue
+
+:: Examples
+Armus became a being of pure evil when the Titans left him behind in tng1x23
+"Skin of Evil".
+
+
 the maritime professions
 ========================
 
@@ -36649,6 +37949,24 @@ potential to influence and shape people and society.
 aesthetics
 
 
+the presumption of innocence
+============================
+
+:: Description
+The pros and cons of the presumption of innocence as a legal right are
+explored.
+
+:: Parents
+law and order issue
+
+:: Examples
+On Tanuga IV, by contrast with the Federation, people were presumed to be
+guilty until proven innocent in tng3x14 "A Matter of Perspective".
+
+:: References
+https://en.wikipedia.org/wiki/Presumption_of_innocence
+
+
 the price of freedom is eternal vigilance
 =========================================
 
@@ -36723,7 +38041,7 @@ sell a book.
 art related occupation
 
 :: Examples
-In talesoftheunexpected6x10 "The Luncheon", Tony spent his last Â£37 on lunch
+In talesoftheunexpected6x10 "The Luncheon", Tony spent his last £37 on lunch
 with the wife of a famous film producer in an effort to secure a film deal for
 his novel.
 
@@ -36834,8 +38152,8 @@ seemed to appear in the flesh in tng4x13 "Devil's Due".
 https://en.wikipedia.org/wiki/End_time
 
 :: Aliases
-GÃ¶tterdÃ¤mmerung
-RagnarÃ¶k
+Götterdämmerung
+Ragnarök
 Apocalypse
 
 
@@ -37368,6 +38686,25 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Will_to_live
+
+
+theft
+=====
+
+:: Description
+The taking of another (legal) person's (property or services or scrap money
+without that person's permission or consent with the intent to deprive the
+rightful owner of it, is featured.
+
+:: Parents
+crime against property
+
+:: Notes
+The legal person who is deprived may be for example an individual, a company,
+or a state.
+
+:: References
+https://en.wikipedia.org/wiki/Theft
 
 
 theocracy
@@ -38067,6 +39404,49 @@ https://en.wikipedia.org/wiki/Wormhole
 http://www.sf-encyclopedia.com/entry/wormholes
 
 
+treatment of migrants
+=====================
+
+:: Description
+We are made to ponder how the government ought (or ought not) to treat
+immigrants into our society, illegal and otherwise.
+
+:: Parents
+law and order issue
+immigration in society
+
+:: Examples
+In tz2019e1x08 "Point of Origin", we saw how suspected illegal immigrants were
+herded together in cold and brutal internment camps by a ruthless government
+agency. The cultural context makes it clear that we must think of the way ICE
+in the USA have been said to treat immigrants.
+
+
+treatment of prisoners
+======================
+
+:: Description
+We are asked how prisons ought to be organized. Day-care centre for adults, or
+hell-on-Earth?
+
+:: Parents
+legal punishment
+
+:: References
+https://en.wikipedia.org/wiki/Prisoners%27_rights
+
+
+treatment of the criminally insane
+==================================
+
+:: Description
+We are asked how the criminally insane ought to be treated. Just like any
+other prisoner, or with more compassion?
+
+:: Parents
+legal punishment
+
+
 treatment of the mentally ill in society
 ========================================
 
@@ -38582,6 +39962,22 @@ child and it is pondered who the real parent is, is featured.
 family affairs
 
 
+unlawful detention
+==================
+
+:: Description
+The act of intentionally restricting another person’s movement within any area
+without legal authority, justification, or the restrained person's permission,
+is featured as a crime. Notably, this situation tends to arise in fiction when
+police or similar forces overstep the bounds.
+
+:: Parents
+legal punishment
+
+:: References
+https://en.wikipedia.org/wiki/False_imprisonment
+
+
 unmanned spacecraft
 ===================
 
@@ -38752,6 +40148,31 @@ https://en.wikipedia.org/wiki/Vampire
 http://www.sf-encyclopedia.com/entry/vampires
 
 
+vandalism
+=========
+
+:: Description
+The deliberately destroying or damaging to public or private property is
+featured as being a crime.
+
+:: Parents
+crime against property
+
+:: Examples
+The Troglytes of Ardana were none too happy with their status as lowly miners
+and used vandalism to voice their displeasure in tos3x19 "The Cloud Minders".
+
+:: References
+https://en.wikipedia.org/wiki/Vandalism
+
+:: Note
+Acts that any thoughtful viewer would probably themselves label as vandalism
+are frequently featured in stories without really being considered as
+criminal in the context of that story. An indication that the act is indeed
+thought of as a crime may be that the perpetrator worries about getting
+caught.
+
+
 vanity
 ======
 
@@ -38784,6 +40205,29 @@ human way of life
 
 :: References
 https://en.wikipedia.org/wiki/Vegetarianism
+
+
+vendetta
+========
+
+:: Description
+There is a bitter, destructive and escalating feud between two factions within
+one society.
+
+:: Parents
+crime against the person
+violent crime
+
+:: Examples
+Yuta of the vanquished clan Tralesta was genetically altered and spent 100
+years tracking down members of the Lornak clan in a vendetta in tng3x09 "The
+Vengeance Factor".
+
+:: References
+https://en.wikipedia.org/wiki/Feud
+
+:: Aliases
+blood feud
 
 
 video game addiction
@@ -38860,6 +40304,36 @@ Earth".
 
 :: References
 https://en.wikipedia.org/wiki/Teleconference
+
+
+vigilante justice
+=================
+
+:: Description
+Extrajudicial punishment that is motivated by the nonexistence of law and
+order or dissatisfaction with justice is featured.
+
+:: Parents
+crime against justice
+
+:: References
+https://en.wikipedia.org/wiki/Frontier_justice
+
+
+violent crime
+=============
+
+:: Description
+This is the category of themes that relate to prescribed actions involving
+violence or the threat of violence. The action must be understood in the
+context of the story to constitute a crime, be it against written law or
+unwritten customs (for example against God or other notions of morality).
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Crime
 
 
 virgin birth
@@ -39139,6 +40613,21 @@ international issue
 https://en.wikipedia.org/wiki/War
 
 
+war crime
+=========
+
+:: Description
+An act that constitutes a serious violation of the laws of war that gives rise
+to individual criminal responsibility is featured.
+
+:: Parents
+crime
+war
+
+:: References
+https://en.wikipedia.org/wiki/War_crime
+
+
 war due to diplomatic miscalculation
 ====================================
 
@@ -39271,6 +40760,21 @@ legendary being
 
 :: References
 https://en.wikipedia.org/wiki/Warlock
+
+
+wartime comfort women
+=====================
+
+:: Description
+An occupying military force presses women to service as prostitutes for their
+soldiers' "comfort".
+
+:: Parents
+war crime
+
+:: References
+https://en.wikipedia.org/wiki/Comfort_women
+https://en.wikipedia.org/wiki/Wartime_sexual_violence
 
 
 waste management
