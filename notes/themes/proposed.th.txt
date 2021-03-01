@@ -1010,24 +1010,46 @@ compound interest
 =================
 
 :: Description
+Interest is calculated on top on interest, in addition to the principal sum.
+When the compounding is done at relatively short intervals (or continuously) 
+over a relatively long time, the result is an exponential growth of capital
+which can be ample food for the imagination.
 
 :: Parents
 mathematics
+
+:: References
+https://en.wikipedia.org/wiki/Compound_interest
+
+:: Examples
+In rd1988e1x06 "Me2", Holly explained that Lister now owned 98% of Earth's wealth 
+thanks to compound interest accruing on the £17.50 he had in his bank account 3 million 
+years ago.
 
 
 wicked stepmother stereotype
 ============================
 
 :: Description
+There is a stepmother who is stereotypically mean towards her stepchildren in
+particular.
 
 :: Parents
 female stereotype
+
+:: Examples
+In apuleius180tgab10inset1 "The Golden Ass: The Tale of the Murderous Wife",
+a wicked stepmother tried to poison murder her stepson after he refused to sleep 
+with her. Through an ironic twist of fate she ended up killing her treasured 
+biological son instead.
 
 
 are we alone in the universe
 ============================
 
 :: Description
+The question of whether or not there may be other intelligent lifeforms somewhere
+in the Universe, is discussed.
 
 :: Parents
 metaphysics
@@ -1037,9 +1059,15 @@ golf
 ====
 
 :: Description
+Golf is a club-and-ball sport in which players use various clubs to hit balls into 
+a series of holes on a course in as few strokes as possible. Such a game is
+featured in the story.
 
 :: Parents
 sports
+
+:: References
+https://en.wikipedia.org/wiki/Golf
 
 
 what if I were being framed for a crime
