@@ -587,6 +587,9 @@ movie: Universal Soldier: Day of Reckoning (2012)
 :: Title
 Universal Soldier: Day of Reckoning
 
+:: Date
+2012-08-23
+
 :: Description
 Luc Devereaux has created a terrifying army of cloned UniSols determined to
 infiltrate the government which they hold responsible for their pain. A
@@ -594,18 +597,15 @@ special agent called John, willing to avenge his murdered family, is pitted
 against Deveraux and a new clone of Andrew Scott. It is the sixth and final
 installment in the Universal Soldier film series.
 
-:: Date
-2012-08-23
-
 :: References
 https://en.wikipedia.org/wiki/Universal_Soldier:_Day_of_Reckoning
-
-:: Ratings
-2 <paul>
 
 :: Genre
 sci-fi
 action
+
+:: Ratings
+2 <paul>
 
 :: Major Themes
 supersoldier [The former UniSol supersoldier Luc Devereaux was leading a cult-like separatist group of wayward UniSols, like himself.]
@@ -2757,7 +2757,10 @@ Nemesis 5: The New Model
 2017-12-09
 
 :: Description
-A woman who is well-versed in the art of killing cyborgs travels back in time to 2077 Los Angeles to prevent a band of cyborg terrorists from taking dominion of the Earth. It is the fifth and final installment in the Nemesis film series.
+A woman who is well-versed in the art of killing cyborgs travels back in time
+to 2077 Los Angeles to prevent a band of cyborg terrorists from taking
+dominion of the Earth. It is the fifth and final installment in the Nemesis
+film series.
 
 :: References
 https://www.imdb.com/title/tt7008310/
