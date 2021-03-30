@@ -73,8 +73,7 @@ Theming is also a good personal way to reflect on what really goes on in the sto
 ### Files
 
 Story definitions may be entered into any file with the extension `.st.txt`. Theme definitions may be entered into any file 
-with the extension `.th.txt`. There are no technical restrictions apart from that. Some conventions are aparent that make
-the organization more managable.
+with the extension `.th.txt`. The format of these files is straightforward and should be aparent from what is already there.
 
 ### Story data
 
@@ -93,7 +92,6 @@ the variations are considered different and should have different story entries.
 of films.
 
 Every story must also be assigned a unique ID. While all text files are encoded in UTF-8, the story ID should be composed
-only of normal English characters and punctuation directly mappable to ASCII. There are no technical restrictions apart from that.
-A number of conventions are aparent.
+only of normal English characters and punctuation directly mappable to ASCII. A number of conventions are aparent.
 
 
