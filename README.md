@@ -15,14 +15,14 @@ To be admissible, a story entry must merely:
 Conventional published sources such as books and movies are nearly always acceptable.
 Any determined themer can purchase their copy from one vendor or another.
 Some examples of works that are not admissible have emerged:
-Lost works (commentary may exist that ellucidate themes but we have no way of reviewing the work for ourselves) are not accepted. 
+Lost works (commentary may exist that elucidate themes but we have no way of reviewing the work for ourselves) are not accepted. 
 Works, such as many school essays, which may only be obtainable via some url online are generally not acceptable since urls frequently become broken.
 
 
 ## What is a Theme?
 
 A theme is any topic of interest that is featured in a story.
-A central theme is a theme that is topical throughout most of the story, either because it is featured continously or because it pertains to the main storyline in its entirity. 
+A central theme is a theme that is topical throughout most of the story, either because it is featured continuously or because it pertains to the main storyline in its entirety. 
 For example a "moral of the story" may be revealed only towards the end, yet is considered central because it is what most of the story was leading up to.
 A peripheral theme is any theme of interest that is featured briefly.
 
@@ -46,7 +46,7 @@ There are a few rules of thumb:
 
 ## What is The Ontology?
 
-The ontology is a hierarhical ordering of a large number of themes such that:
+The ontology is a hierarchical ordering of a large number of themes such that:
 Theme A is "a parent" of theme B if whenever B is topical in a story, then A is also topical in that story.
 Thus if theme B is found in a story, theme A is there implicitly.
 Theme A is not explicitly added but many statistical analyses infer it from the presence of B to come up with interesting results.
@@ -73,12 +73,12 @@ Theming is also a good personal way to reflect on what really goes on in the sto
 ### Files
 
 Story definitions may be entered into any file with the extension `.st.txt`. Theme definitions may be entered into any file 
-with the extension `.th.txt`. The format of these files is straightforward and should be aparent from what is already there.
+with the extension `.th.txt`. The format of these files is straightforward and should be apparent from what is already there.
 
 ### Story data
 
 Every story requires a *title*, a *date*, and a *description*. Insofar as possible, a link to the relevant Wikipedia page
-is recommended as one of *references*. Most stories are unambigously identified by their date and title. For works of
+is recommended as one of *references*. Most stories are unambiguously identified by their date and title. For works of
 literature, the *authors* is good information to specify as well. The description is meant merely for convenience, but
 may conceivably be used to distinguish between variations of a work.
 
@@ -92,6 +92,25 @@ the variations are considered different and should have different story entries.
 of films.
 
 Every story must also be assigned a unique ID. While all text files are encoded in UTF-8, the story ID should be composed
-only of normal English characters and punctuation directly mappable to ASCII. A number of conventions are aparent.
+only of normal English characters and punctuation directly mappable to ASCII. A number of conventions are apparent.
+
+### Theme data
+
+Most importantly a theme entry should have a name. The name is also its database ID and must be unique. 
+The name should be in English but may use foreign expressions and characters where it is common to do so in English writing. 
+For example, the French expression "déjà vu" is commonly used in English, and has been adopted as a theme.
+Insofar as is possible, this name should readily make it clear what theme is expressed.
+
+The entry should also have a *description*. 
+The description should set out necessary and sufficient conditions for when the theme applies in a story.
+Relatively objective conditions are preferred as a starting point.
+The more subjective an entry is, the more difficult it will be to reach a consensus about when it applies.
+Exceptions, interpretations, and other subtleties may be explained either in the description or as *notes*.
+
+*Parents* may contain any other theme that is logically implied by the present theme.
+For example the theme "fatherly disappointment in a son" implies the theme "father and son".
+It is recommended that the list of parents begin with a carefully chosen place to anchor the theme in the main taxonomy of the ontology.
+For example if the theme concerns the relationship between two countries, it may have "international issue" as a first parent.
+
 
 
