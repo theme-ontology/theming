@@ -16,7 +16,7 @@ Conventional published sources such as books and movies are nearly always accept
 Any determined themer can purchase their copy from one vendor or another.
 Some examples of works that are not admissible have emerged:
 Lost works (commentary may exist that elucidate themes but we have no way of reviewing the work for ourselves) are not accepted. 
-Works, such as many school essays, which may only be obtainable via some url online are generally not acceptable since urls frequently become broken.
+Works, such those arising from student creative writing assignments, which may only be obtainable via some url online are generally not acceptable since urls frequently become broken.
 
 
 ## What is a Theme?
