@@ -5,15 +5,15 @@ https://www.themeontology.org/
 
 ## What is a Story?
 
-Any publicly known narrative that can be referenced and analyzed may be a "story" in this project.
-To be admissible, a story entry must merely:
+Any publicly known work of fiction that can be referenced and analyzed may be a "story" in this project.
+A story may take the form of a work of literature (e.g., a novel, a short story, a poem, a play), a film, a comic book, a television drama episode, a video game plot, and so on. To be admissible, a story entry must merely:
 
 - Unambiguously identify a story from the data entered, chiefly by date and title.
 - Indicate a story that's obtainable to anyone who wishes to review the themes of it.
 - Come with a reasonable expectation that the previous conditions will continue to hold for a very long time.
 
 Conventional published sources such as books and movies are nearly always acceptable.
-Any determined themer can purchase their copy from one vendor or another.
+Any determined themer (i.e., a person actively engaged in assigning themes to stories) can purchase their copy from one vendor or another.
 Some examples of works that are not admissible have emerged:
 Lost works (commentary may exist that elucidate themes but we have no way of reviewing the work for ourselves) are not accepted. 
 Works, such those arising from student creative writing assignments, which may only be obtainable via some url online are generally not acceptable since urls frequently become broken.
@@ -28,7 +28,7 @@ A peripheral theme is any theme of interest that is featured briefly.
 
 In the notes, peripheral themes are called "minor". 
 Central themes are called "major" or "choice".
-Choice themes are whatever the themer (a person actively engaged in assigning themes to stories) may care to consider truly important in the story.
+Choice themes are whatever the themer may care to consider truly important in the story.
 
 There are no strict rules for what makes a good theme to include.
 There are a few rules of thumb:
