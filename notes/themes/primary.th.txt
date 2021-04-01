@@ -19400,30 +19400,6 @@ hybrid being
 extraterrestrial being
 
 
-human-amphibian hybrid
-======================
-
-:: Description
-There is a part human, part amphibian being.
-
-:: Parents
-hybrid being
-
-
-human-ape hybrid
-================
-
-:: Description
-There is a part human, part ape being.
-
-:: Parents
-hybrid being
-
-:: Examples
-Julio Krallman was transformed into a human-ape hybrid after being
-transplanted with a gorilla's heart in "Night of the Bloody Apes" (1969).
-
-
 human-arachnid hybrid
 =====================
 
@@ -19453,7 +19429,8 @@ human-canine hybrid
 There is a part human, part dog being.
 
 :: Parents
-hybrid being
+human-animal hybrid
+canine-like being
 
 
 human-fish hybrid
@@ -19518,6 +19495,7 @@ There is a part human, part reptile being.
 
 :: Parents
 hybrid being
+reptilian being
 
 :: Examples
 Dr. Curt Connors transformed himself into a lizard-man with super regenerative
