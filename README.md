@@ -96,10 +96,10 @@ only of normal English characters and punctuation directly mappable to ASCII. A 
 
 ### Theme data
 
-Most importantly a theme entry should have a name. The name is also its database ID and must be unique. 
+A theme entry should start with a theme "name". The name is also its database ID and must be unique. 
 The name should be in English but may use foreign expressions and characters where it is common to do so in English writing. 
 For example, the French expression "déjà vu" is commonly used in English, and has been adopted as a theme.
-Insofar as is possible, this name should readily make it clear what theme is expressed.
+Insofar as is possible, this name should readily make it clear what the idea the theme expresses is.
 
 The entry should also have a *description*. 
 The description should set out necessary and sufficient conditions for when the theme applies in a story.
