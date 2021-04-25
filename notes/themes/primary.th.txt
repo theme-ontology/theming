@@ -1270,14 +1270,14 @@ a leopard can't change its spots
 ================================
 
 :: Description
-The human fact that it is often hard or impossible to change such habits as
+That it is often hard, or impossible, for humans to change such habits as
 are long ingrained or inborn, is featured.
 
 :: Parents
-human nature
+human idea about life
 
 :: References
-https://www.merriam-webster.com/dictionary/a%20leopard%20can't%20change%20its%20spots
+https://en.wiktionary.org/wiki/a_leopard_cannot_change_its_spots
 
 
 a person and their clone
@@ -2014,7 +2014,7 @@ A popular superstition is explained as having originated because of the
 activities of extraterrestrials.
 
 :: Parents
-crackpot theory
+alien origin of an aspect of human civilization
 
 :: Examples
 In tng7x14 "Sub Rosa" we are given to understand that the incorporeal alien
@@ -2031,23 +2031,12 @@ extraterrestrial origin is featured. This typically occurs when an alien
 technology is discovered and reverse-engineered by humans.
 
 :: Parents
-crackpot theory
+alien origin of an aspect of human civilization
 
 :: Examples
 In "Transformers" (2007), it was revealed that the microchip, among other
 things, was invented by studying the design of a Transformer that was
 discovered frozen in the Arctic by 19th century explorers.
-
-
-alien origin of near-death experiences
-======================================
-
-:: Description
-The crackpot notion that aliens are somehow behind the various weird things
-people may experience when they are on the brink of death.
-
-:: Parents
-crackpot theory
 
 
 alien origin of religious claims
@@ -2058,7 +2047,7 @@ The theory that aliens were behind some aspect of religions on Earth is
 featured.
 
 :: Parents
-crackpot theory
+alien origin of an aspect of human civilization
 
 :: Examples
 In bbf2x22 "The Fall of Night" it is revealed that the Vorlon appear to us as
@@ -2072,7 +2061,7 @@ alien origin of the human race
 The crackpot notion that aliens came to Earth and created the human race.
 
 :: Parents
-crackpot theory
+alien origin of an aspect of human civilization
 
 :: Examples
 The renown Federation archaeologist Richard Galen was hot on the trail of an
@@ -3336,7 +3325,7 @@ The study of the movements and relative positions of celestial objects as a
 means for divining information about human affairs and terrestrial events.
 
 :: Parents
-superstition
+divination
 
 :: References
 https://en.wikipedia.org/wiki/Astrology
@@ -5934,7 +5923,10 @@ choosing between equally futile actions
 
 :: Description
 A character must decide which action to take even though all potential actions
-appear equally unappealing. This situation is also allegorically known as
+appear equally unappealing. 
+
+:: Notes
+This situation is also allegorically known as
 "Sheridan's Ass" after renowned theme enthusiast Paul Sheridan who noted that
 it is a mirror reflection of "Burridan's Ass".
 
@@ -8057,16 +8049,6 @@ coping with a problematic person
 Mr. Lurry, manager of Deep Space Station K-7, coped with verbal abuse at the
 hands of Captain Kirk after having issued an unnecessary Code One alert in
 tos2x13 "The Trouble with Tribbles".
-
-
-coping with an overbearing parent
-=================================
-
-:: Description
-A child has to put up with a parent who is overly controlling and domineering.
-
-:: Parents
-coping with a problematic person
 
 
 coping with an overly affectionate parent
@@ -15526,7 +15508,7 @@ There is a character or object (e.g. a fortune cookie) that purports to be
 able to divine other characters' future fates, through mysterious means.
 
 :: Parents
-superstition
+divination
 
 :: Examples
 Fortune teller Abner Suggs assailed Captain Lindemann with with a number of
@@ -22744,7 +22726,7 @@ The way we can sometimes dream with full awareness and control of our dream is
 featured.
 
 :: Parents
-human nature
+human mental condition
 
 :: References
 https://en.wikipedia.org/wiki/Lucid_dream
@@ -24621,7 +24603,7 @@ The embarrassingly human tendency for unhappy people to want other people to
 be unhappy as well, is featured.
 
 :: Parents
-human nature
+human idea about life
 
 
 misfortune unites
@@ -38236,16 +38218,6 @@ human nature
 
 :: References
 https://en.wikipedia.org/wiki/Love
-
-
-the nature of meditation
-========================
-
-:: Description
-The experience and/or value of meditation is discussed.
-
-:: Parents
-human nature
 
 
 the nature of memory
