@@ -222,9 +222,6 @@ public policy, typically in a nefarious way in fiction, is featured.
 :: Parents
 military issue
 
-:: Examples
-
-
 :: References
 https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex
 
@@ -251,7 +248,9 @@ choosing whether to return found property
 =========================================
 
 :: Description
-
+A character finds something that another has lost, for example
+a wallet with money. They must decide whether to keep it for
+themself or try to return it to its rightful owner.
 
 :: Parents
 breaking the law for personal advantage
@@ -261,7 +260,8 @@ money is the root of all evil
 =============================
 
 :: Description
-
+The idea is put forth that money is the source of many, most, or
+even all, social ills or individual shortcoming.
 
 :: Parents
 human idea about life
@@ -271,6 +271,9 @@ duty to return lost property
 ============================
 
 :: Description
+The idea, found in some law codes, that the finder of a piece of 
+presumably lost property has a duty to do something in order to return it 
+to the rightful owner, is featured.
 
 :: Parents
 legal duty
@@ -280,6 +283,8 @@ coping with being in debt
 =========================
 
 :: Description
+A character struggles with various such problems that may arise from
+being in debt to another.
 
 :: Parents
 coping with life issues
@@ -319,7 +324,14 @@ what if I got into trouble in a foreign country
 ===============================================
 
 :: Description
-Tourists in a foreign country...
+A character is in a country that is foreign to them and gets into 
+some sort of trouble that is compounded by international bureaucracy
+and the foreignness of the country's institutions and language.
+
+:: Examples
+In ahp3x10 "The Diplomatic Corpse", Evan and Janet find themselves in
+a spot of trouble with the authorities in Tijuana, Mexico, when
+their car containing Janet's late aunt's corpse is stolen.
 
 :: Parents
 what if I were in a tight spot
