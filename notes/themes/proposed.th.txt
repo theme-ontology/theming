@@ -337,18 +337,6 @@ their car containing Janet's late aunt's corpse is stolen.
 what if I were in a tight spot
 
 
-speculative robot
-=================
-
-:: Description
-
-:: Parents
-speculative technology
-
-:: References
-https://en.wikipedia.org/wiki/Robots_in_literature#cite_note-Glaser/Rossbach-1
-
-
 homesickness
 ============
 
@@ -369,6 +357,7 @@ miscarriage of justice
 ======================
 
 :: Description
+A character is convicted and punished for a crime that he or she did not actually commit.
 
 :: Parents
 law and order issue
@@ -381,6 +370,16 @@ speculative social institution
 ==============================
 
 :: Description
+The story features a notable social institution of some sort that, for all
+intents and purposes, has not hitherto been extant in any human society.
+It may, for example, be premised on some technology or fantastical idea that
+humanity has not (yet) achieved.
+
+:: Notes
+A "social institution" in its broadest meaning is the activities of a large number 
+of people that have banded together for some specific purpose. Typically it means
+that there is some recognized practice of doing something within a society. This may 
+be related to education, business, governance, diplomacy, so on and so forth.
 
 :: Parents
 speculative society
@@ -390,6 +389,8 @@ what if I got accidentally locked in somewhere
 ==============================================
 
 :: Description
+We are made to imagine what it would be like to get accidentally locked in a room
+or some other relatively limited space, with no immediate way of escaping.
 
 :: Parents
 what if I were in a tight spot
@@ -399,6 +400,8 @@ superior and subordinate
 ========================
 
 :: Description
+The relationship between a person and someone that person has a position of direct
+authority over, is featured.
 
 :: Parents
 human interpersonal relationship
@@ -408,6 +411,8 @@ legendary magic wielder
 =======================
 
 :: Description
+There is a human or human-like being with an innate ability to use magic
+of one sort or another. This may include wizards, sorcerers, witches, etc.
 
 :: Parents
 legendary being
@@ -417,18 +422,35 @@ flying carpet
 =============
 
 :: Description
+There is a carpet on which one may be swiftly transported through the air.
 
 :: Parents
 magic object
+
+:: References
+https://en.wikipedia.org/wiki/Magic_carpet
 
 
 meditation
 ==========
 
 :: Description
+Meditation is a practice where an individual uses a technique to train attention and awareness, 
+and achieve a mentally clear and emotionally calm and stable state. Such a practice is
+featured in a more or less formalized way.
+
+:: Notes
+The theme is used when it is reasonably obvious that special techniques for the purpose are
+implied, or the word meditation is explicitly used. The theme is, for example, not used merely
+when a character closes their eyes and tries to calm down,breather slowly, and relax, 
+as this might be a fairly normal thing to do even for someone who does not consider themself 
+as practicing meditation.
 
 :: Parents
 human recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Meditation
 
 
 alien origin of an aspect of human civilization
@@ -512,4 +534,16 @@ human health condition
 https://en.wikipedia.org/wiki/Motion_sickness
 
 
+
+
+speculative robot
+=================
+
+:: Description
+
+:: Parents
+speculative technology
+
+:: References
+https://en.wikipedia.org/wiki/Robots_in_literature#cite_note-Glaser/Rossbach-1
 
