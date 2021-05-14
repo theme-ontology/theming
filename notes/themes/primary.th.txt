@@ -2331,6 +2331,7 @@ A robot designed to look and act like a human.
 :: Parents
 artificial being
 artificial intelligence
+speculative robot
 
 :: References
 https://en.wikipedia.org/wiki/Android_(robot)
@@ -23687,7 +23688,7 @@ mecha robot
 Featured is a giant, humanoid, mobile robot controlled by people.
 
 :: Parents
-speculative technology
+speculative robot
 
 :: Examples
 The powerful "Gun Unit Heavy Elimination Device" (GUNHED) mecha was used by
@@ -23707,6 +23708,7 @@ an insect in some ways.
 
 :: Parents
 artificial intelligence
+speculative robot
 
 :: Examples
 In blackmirror3x06 "Hated in the Nation" enormous swarms of mechanical bees
@@ -23724,6 +23726,7 @@ An automaton that resembles a human being is featured.
 
 :: Parents
 artificial intelligence
+speculative robot
 
 
 medical assistance to the enemy
@@ -30633,6 +30636,7 @@ helper.
 :: Parents
 artificial being
 artificial intelligence
+speculative robot
 
 :: Examples
 The immortal Mr. Flint had a hovering robot helped named M-4 in tos3x21
@@ -30648,6 +30652,7 @@ pre-arranged and rule-bound combat competitions.
 
 :: Parents
 artificial intelligence
+speculative robot
 
 :: Examples
 In tz1959e5x02 "Steel", the story is set in a near future when regular boxing
@@ -31953,8 +31958,7 @@ A "fully functional" android of one gender or another, designed to please its
 masters in matters of the flesh.
 
 :: Parents
-artificial being
-artificial intelligence
+android
 
 
 sexism in society
