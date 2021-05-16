@@ -1270,8 +1270,8 @@ a leopard can't change its spots
 ================================
 
 :: Description
-That it is often hard, or impossible, for humans to change such habits as
-are long ingrained or inborn, is featured.
+That it is often hard, or impossible, for humans to change such habits as are
+long ingrained or inborn, is featured.
 
 :: Parents
 human idea about life
@@ -2039,6 +2039,18 @@ things, was invented by studying the design of a Transformer that was
 discovered frozen in the Arctic by 19th century explorers.
 
 
+alien origin of an aspect of human civilization
+===============================================
+
+:: Description
+A technology, religious claim, superstition, or something else of note in
+human civilization, possibly civilization itself, is postulated to have come
+about as the result of the activities of extraterrestrial beings.
+
+:: Parents
+crackpot theory
+
+
 alien origin of religious claims
 ================================
 
@@ -2331,6 +2343,7 @@ A robot designed to look and act like a human.
 :: Parents
 artificial being
 artificial intelligence
+speculative robot
 
 :: References
 https://en.wikipedia.org/wiki/Android_(robot)
@@ -2816,6 +2829,19 @@ https://en.wikipedia.org/wiki/Heresy
 https://en.wikipedia.org/wiki/Apostasy
 
 
+apotheosis
+==========
+
+:: Description
+A mortal character is transformed into a being of godlike stature.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Apotheosis
+
+
 appearance altering technology
 ==============================
 
@@ -3194,6 +3220,24 @@ speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_island
+
+
+artificial life
+===============
+
+:: Description
+Someone creates a living, functioning being (organic or otherwise) from non-
+living components by scientific means.
+
+:: Parents
+speculative technology
+
+:: Examples
+Mad scientist Dr. Charles Walding tried to create the first man-made living
+organism in "Escape" (1971).
+
+:: References
+https://en.wikipedia.org/wiki/Synthetic_biology#Synthetic_life
 
 
 artificial planet
@@ -4439,6 +4483,17 @@ modern science
 https://en.wikipedia.org/wiki/Biology
 
 
+biotechnological risk to civilization
+=====================================
+
+:: Description
+People come up with a nifty way to modify living organisms using technology,
+but there are consequences, unforeseen or otherwise, and everybody dies.
+
+:: Parents
+technological risk to civilization
+
+
 bird in a gilded cage
 =====================
 
@@ -5251,6 +5306,27 @@ other person first.
 personal life and death dilemma
 
 
+capital punishment
+==================
+
+:: Description
+We are asked how and when, if ever, it is acceptable to punish a criminal by
+death.
+
+:: Parents
+legal punishment
+social ethical dilemma
+
+:: Notes
+An innocent person being sentenced to death within the framework of a modern
+criminal justice system is typically grounds for applying this theme. This is
+on account that such a happening invites the story partaker to consider about
+the general moral issues surrounding this controversial legal punishment.
+
+:: References
+https://en.wikipedia.org/wiki/Capital_punishment
+
+
 capitalism
 ==========
 
@@ -5923,15 +5999,15 @@ choosing between equally futile actions
 
 :: Description
 A character must decide which action to take even though all potential actions
-appear equally unappealing. 
-
-:: Notes
-This situation is also allegorically known as
-"Sheridan's Ass" after renowned theme enthusiast Paul Sheridan who noted that
-it is a mirror reflection of "Burridan's Ass".
+appear equally unappealing.
 
 :: Parents
 personal practical dilemma
+
+:: Notes
+This situation is also allegorically known as "Sheridan's Ass" after renowned
+theme enthusiast Paul Sheridan who noted that it is a mirror reflection of
+"Burridan's Ass".
 
 
 choosing between equally unappealing possibilities
@@ -6021,6 +6097,18 @@ personal ethical dilemma
 
 :: References
 https://en.wikipedia.org/wiki/Euthanasia
+
+
+choosing whether to return found property
+=========================================
+
+:: Description
+A character finds something that another has lost, for example a wallet with
+money. They must decide whether to keep it for themself or try to return it to
+its rightful owner.
+
+:: Parents
+breaking the law for personal advantage
 
 
 choosing who dies and who lives
@@ -6409,6 +6497,20 @@ A well-known archaeologist discovered the site of a hundreds of thousands of
 years old Martian colony deep inside Africa in "The Retreat to Mars" (1926).
 
 
+colonization of Jupiter
+=======================
+
+:: Description
+There is a permanent human settlement on or around the Jovian planetary
+system.
+
+:: Parents
+space colonization
+
+:: References
+https://en.wikipedia.org/wiki/Exploration_of_Jupiter#Potential_for_colonization
+
+
 colonization of Mars
 ====================
 
@@ -6433,6 +6535,19 @@ space colonization
 
 :: References
 https://en.wikipedia.org/wiki/Space_colonization#Mercury
+
+
+colonization of Neptune
+=======================
+
+:: Description
+There is a permanent human settlement on or around the planet Neptune.
+
+:: Parents
+space colonization
+
+:: References
+https://en.wikipedia.org/wiki/Colonization_of_the_outer_Solar_System#Neptune
 
 
 colonization of Pluto
@@ -7451,6 +7566,17 @@ their own benefit.
 contraposed political ideologies
 
 
+coping someone suffering from a health condition
+================================================
+
+:: Description
+A character must cope with the fact that someone they care about suffers from
+a, more or less, serious health complication.
+
+:: Parents
+human interpersonal relationship
+
+
 coping with a bad boss
 ======================
 
@@ -8296,6 +8422,17 @@ human challenge in life
 https://en.wikipedia.org/wiki/Heat_wave
 
 
+coping with being in debt
+=========================
+
+:: Description
+A character struggles with various such problems that may arise from being in
+debt to another.
+
+:: Parents
+coping with life issues
+
+
 coping with being injured
 =========================
 
@@ -8872,24 +9009,6 @@ lost love Nancy on Planet M-113 In tos1x05 "The Man Trap".
 lamentation over a lost love
 
 
-menopause
-=========
-
-:: Description
-A character, typically a woman aged 45-50, experiences menopausal symptoms.
-
-:: Parents
-human health condition
-coping with aging
-
-:: Examples
-Lwaxana coped with a characteristically Betazoid form of menopause in tng2x19
-"Man Hunt".
-
-:: References
-https://en.wikipedia.org/wiki/Menopause
-
-
 coping with mortality
 =====================
 
@@ -8980,27 +9099,6 @@ in the hospital in "X the Unknown" (1956).
 
 :: References
 https://en.wikipedia.org/wiki/Acute_radiation_syndrome
-
-
-reintegrating into society
-==========================
-
-:: Description
-Someone has been away from anything resembling normal society for a long time,
-for example due to a lengthy prison term, and tries to re-adjust to life
-amongst normal people again.
-
-:: Parents
-human social position
-coping with life issues
-
-:: Examples
-In "Universal Soldier: Regeneration" (2009), the former mindless supersoldier
-Luc Deveraux was undergoing rehabilitation therapy in Switzerland with the
-goal of rejoining society.
-
-:: References
-https://en.wikipedia.org/wiki/Prisoner_reentry
 
 
 coping with romantic rejection
@@ -10321,41 +10419,6 @@ legendary being
 https://en.wikipedia.org/wiki/Cyclopes
 
 
-déjà vu
-=======
-
-:: Description
-The unscientific notion that the sensation that an event currently being
-experienced has happened in the past means it did in fact happen in the past.
-
-:: Parents
-crackpot theory
-
-:: Examples
-Beverly and her poker buddies experienced déjà vu when they got stuck in a
-time loop in tng5x18 "Cause and Effect".
-
-:: References
-https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu
-
-
-de-escalating a conflict
-========================
-
-:: Description
-Two parties in a conflict, like the Cold War, try to gradually back down and
-defuse the situation.
-
-:: Parents
-international issue
-
-:: References
-https://en.wikipedia.org/wiki/D%C3%A9tente
-
-:: Aliases
-détente
-
-
 dancing
 =======
 
@@ -10442,6 +10505,23 @@ https://en.wikipedia.org/wiki/Information_privacy
 
 :: Aliases
 information privacy
+
+
+de-escalating a conflict
+========================
+
+:: Description
+Two parties in a conflict, like the Cold War, try to gradually back down and
+defuse the situation.
+
+:: Parents
+international issue
+
+:: References
+https://en.wikipedia.org/wiki/D%C3%A9tente
+
+:: Aliases
+détente
 
 
 deadbeat parent
@@ -10971,17 +11051,6 @@ their own survival as a people?
 social ethical dilemma
 
 
-biotechnological risk to civilization
-=====================================
-
-:: Description
-People come up with a nifty way to modify living organisms using technology,
-but there are consequences, unforeseen or otherwise, and everybody dies.
-
-:: Parents
-technological risk to civilization
-
-
 developing one's social skills
 ==============================
 
@@ -11343,6 +11412,22 @@ the art of war
 
 :: References
 https://en.wikipedia.org/wiki/Divide_and_rule
+
+
+divination
+==========
+
+:: Description
+The attempt to gain insight into a question or situation by way of an
+occultic, standardized process or ritual, is featured. This may involve
+reading entrails, reading stars, using knuckle bones, tarot cards, ouija
+boards etc.
+
+:: Parents
+superstition
+
+:: References
+https://en.wikipedia.org/wiki/Divination
 
 
 divine balance
@@ -11872,6 +11957,18 @@ to say about actions never taken.
 https://en.wikipedia.org/wiki/Duty_to_rescue
 
 
+duty to return lost property
+============================
+
+:: Description
+The idea, found in some law codes, that the finder of a piece of presumably
+lost property has a duty to do something in order to return it to the rightful
+owner, is featured.
+
+:: Parents
+legal duty
+
+
 duty vs. compassion
 ===================
 
@@ -12001,6 +12098,24 @@ speculative social institution
 
 :: References
 http://sf-encyclopedia.com/entry/dystopias
+
+
+déjà vu
+=======
+
+:: Description
+The unscientific notion that the sensation that an event currently being
+experienced has happened in the past means it did in fact happen in the past.
+
+:: Parents
+crackpot theory
+
+:: Examples
+Beverly and her poker buddies experienced déjà vu when they got stuck in a
+time loop in tng5x18 "Cause and Effect".
+
+:: References
+https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu
 
 
 early computer
@@ -13106,17 +13221,6 @@ romantic infidelity
 
 :: References
 https://en.wikipedia.org/wiki/Affair#Extramarital_affair
-
-
-speculative experience
-======================
-
-:: Description
-Someone finds themself in such an unusual circumstance as no one would
-normally expect to face in their lifetime.
-
-:: Parents
-speculative fiction theme
 
 
 extrasensory perception
@@ -14582,6 +14686,24 @@ female stereotype
 https://en.wikipedia.org/wiki/Hypersexuality
 
 
+female seeking to find a superior mate
+======================================
+
+:: Description
+A female character is determined to find a partner who will secure for her the
+most "fit" possible offspring. The term "fitness", being subjective, could
+refer to being genetically superior, socially well-connected, lavishly
+wealthy, etc.
+
+:: Parents
+female sexuality
+
+:: Examples
+In the film "Species" (1995), the seductive extraterrestrial-human hybrid Sil
+instinctively sought out a peak human male with whom to mate, gruesomely
+killing any partner who didn't meet her minimum standards.
+
+
 female sexuality
 ================
 
@@ -15146,6 +15268,19 @@ https://en.wikipedia.org/wiki/Flying_car_(aircraft)
 https://en.wikipedia.org/wiki/Hovercar
 
 
+flying carpet
+=============
+
+:: Description
+There is a carpet on which one may be swiftly transported through the air.
+
+:: Parents
+magic object
+
+:: References
+https://en.wikipedia.org/wiki/Magic_carpet
+
+
 flying drone
 ============
 
@@ -15375,7 +15510,8 @@ foreign customs
 
 :: Description
 Someone exhibits bemusement, stress, surprise, amusement, offense, and so on
-over observing, being subjected to, or participating in customs, habits and institutions of a culture not their own.
+over observing, being subjected to, or participating in customs, habits and
+institutions of a culture not their own.
 
 :: Parents
 foreign point of view
@@ -16618,6 +16754,26 @@ humans in hierarchy
 https://en.wikipedia.org/wiki/Command_hierarchy
 
 
+gold digging
+============
+
+:: Description
+A character engages in a romantic relationship with the primary objective of
+acquiring money, and with little concern for love.
+
+:: Parents
+the lust for gold
+romantic relationship
+
+:: Examples
+In talesoftheunexpected2x15 "The Orderly World of Mr Appleby", we learn that
+Mr. Appleby serially married older women for their money and then sought to
+bring about their premature demises.
+
+:: References
+https://en.wikipedia.org/wiki/Gold_digging
+
+
 golem
 =====
 
@@ -17858,6 +18014,22 @@ The Christian practice of confessing their sins to a priest is featured.
 Christianity
 
 
+homesickness
+============
+
+:: Description
+A character is distressed on account that they are away from their home. The
+affected character may be taking a short trip to a nearby place, such as
+summer camp, or they may be taking a long trip or have even moved to a
+different country.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Homesickness
+
+
 homework shirking
 =================
 
@@ -18163,6 +18335,28 @@ in order to defend ourselves?
 
 :: Parents
 social ethical dilemma
+
+
+hubris
+======
+
+:: Description
+Someone exhibits excessive pride or self-confidence. This theme is typically
+used when someone gets a little too full of themselves and ends up getting a
+lesson in humility.
+
+:: Parents
+pride
+
+:: Examples
+Riker was riding on his high horse after having been granted Q powers in
+tng1x10 "Hide and Q".
+
+:: References
+https://en.wikipedia.org/wiki/Hubris
+
+:: Aliases
+pride goes before a fall
 
 
 human AI relationship
@@ -19343,6 +19537,31 @@ hybrid being
 extraterrestrial being
 
 
+human-animal hybrid
+===================
+
+:: Description
+There is a being that incorporates elements from both humans and at least one
+non-human animal.
+
+:: Parents
+hybrid being
+
+:: References
+https://en.wikipedia.org/wiki/Human%E2%80%93animal_hybrid
+
+
+human-bug hybrid
+================
+
+:: Description
+There being that is part human and part insect or creature that resembles an
+insect.
+
+:: Parents
+hybrid being
+
+
 human-canine hybrid
 ===================
 
@@ -20160,6 +20379,40 @@ undead being
 
 :: References
 https://en.wikipedia.org/wiki/Spirit
+
+
+indecent exposure
+=================
+
+:: Description
+The deliberate public exposure by a person of a portion of their body in a
+manner contrary to local standards of appropriate behavior is featured in a
+way that it is understood to be a crime in the sociocultural context of the
+story.
+
+:: Parents
+sexual crime
+
+:: References
+https://en.wikipedia.org/wiki/Indecent_exposure
+
+
+indefinite detention
+====================
+
+:: Description
+The ramifications of allowing governments to detain people indefinitely are
+discussed.
+
+:: Parents
+legal punishment
+
+:: Examples
+The Romulans had kept Klingon war prisoners from the Khitomer Massacre in a
+prison camp for many years in tng6x17 "Birthright, Part II".
+
+:: References
+https://en.wikipedia.org/wiki/Indefinite_detention_without_trial
 
 
 independence struggle
@@ -21815,6 +22068,17 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Legendary_creature
+
+
+legendary magic wielder
+=======================
+
+:: Description
+There is a human or human-like being with an innate ability to use magic of
+one sort or another. This may include wizards, sorcerers, witches, etc.
+
+:: Parents
+legendary being
 
 
 leprechaun
@@ -23538,6 +23802,17 @@ speculative device
 https://en.wikipedia.org/wiki/Matchmaking
 
 
+material possessions isn't everything
+=====================================
+
+:: Description
+The idea is put forth that we ought to see material possessions as less
+important in favor of other considerations, for example relationships.
+
+:: Parents
+human idea about life
+
+
 maternal love
 =============
 
@@ -23687,7 +23962,7 @@ mecha robot
 Featured is a giant, humanoid, mobile robot controlled by people.
 
 :: Parents
-speculative technology
+speculative robot
 
 :: Examples
 The powerful "Gun Unit Heavy Elimination Device" (GUNHED) mecha was used by
@@ -23707,6 +23982,7 @@ an insect in some ways.
 
 :: Parents
 artificial intelligence
+speculative robot
 
 :: Examples
 In blackmirror3x06 "Hated in the Nation" enormous swarms of mechanical bees
@@ -23724,6 +24000,7 @@ An automaton that resembles a human being is featured.
 
 :: Parents
 artificial intelligence
+speculative robot
 
 
 medical assistance to the enemy
@@ -23812,6 +24089,29 @@ superstition
 https://en.wikipedia.org/wiki/Medicine_wheel
 
 
+meditation
+==========
+
+:: Description
+Meditation is a practice where an individual uses a technique to train
+attention and awareness, and achieve a mentally clear and emotionally calm and
+stable state. Such a practice is featured in a more or less formalized way.
+
+:: Parents
+human recreational activity
+
+:: Notes
+The theme is used when it is reasonably obvious that special techniques for
+the purpose are implied, or the word meditation is explicitly used. The theme
+is, for example, not used merely when a character closes their eyes and tries
+to calm down, breather slowly, and relax, as this might be a fairly normal
+thing to do even for someone who does not consider themself as practicing
+meditation.
+
+:: References
+https://en.wikipedia.org/wiki/Meditation
+
+
 meeting the parents
 ===================
 
@@ -23891,6 +24191,24 @@ crackpot theory
 https://en.wikipedia.org/wiki/Men_in_black
 
 
+menopause
+=========
+
+:: Description
+A character, typically a woman aged 45-50, experiences menopausal symptoms.
+
+:: Parents
+human health condition
+coping with aging
+
+:: Examples
+Lwaxana coped with a characteristically Betazoid form of menopause in tng2x19
+"Man Hunt".
+
+:: References
+https://en.wikipedia.org/wiki/Menopause
+
+
 mental illness
 ==============
 
@@ -23952,6 +24270,21 @@ communication.
 
 :: Parents
 mentally distinguished being
+
+
+mentor and protégé
+==================
+
+:: Description
+The relationship between a mentor and the person they are mentoring is
+featured.
+
+:: Parents
+human interpersonal relationship
+
+:: Examples
+The Traveler played the role of mentor to Wesley in tng1x06 "Where No One Has
+Gone Before".
 
 
 mercy
@@ -24533,6 +24866,20 @@ human character
 https://en.wikipedia.org/wiki/Misanthropy
 
 
+miscarriage of justice
+======================
+
+:: Description
+A character is convicted and punished for a crime that he or she did not
+actually commit.
+
+:: Parents
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Miscarriage_of_justice
+
+
 miserliness
 ===========
 
@@ -24741,6 +25088,31 @@ This age old adage is demonstrated, refuted, or otherwise discussed.
 
 :: Parents
 human idea about life
+
+
+money is the root of all evil
+=============================
+
+:: Description
+The idea is put forth that money is the source of many, most, or even all,
+social ills or individual shortcoming.
+
+:: Parents
+human idea about life
+
+
+money isn't everything
+======================
+
+:: Description
+The idea is put forth that we ought to see money as less important in favor of
+other considerations, for example relationships.
+
+:: Parents
+material possessions isn't everything
+
+:: References
+https://idioms.thefreedictionary.com/money+isn%27t+everything
 
 
 monitoring implant
@@ -25503,6 +25875,18 @@ political issue
 https://en.wikipedia.org/wiki/Nepotism
 
 
+nested universe
+===============
+
+:: Description
+There is a whole other universe somehow contained within a portion of our
+normal (or some other) universe. For example, there might be a universe
+contained in an atom, every atom, a box, or a marble.
+
+:: Parents
+speculative reality
+
+
 neural parasite
 ===============
 
@@ -26174,6 +26558,22 @@ history
 https://en.wikipedia.org/wiki/History_of_opium_in_China
 https://en.wikipedia.org/wiki/First_Opium_War
 https://en.wikipedia.org/wiki/Second_Opium_War
+
+
+opposite world
+==============
+
+:: Description
+There is a hypothetical world (maybe a parallel universe or a fantasy land)
+where some or several laws of nature (or suchlike aspects of reality) are
+reversed.
+
+:: Parents
+speculative reality
+
+:: Examples
+The Enterprise got sucked into just such a universe in tas2x06 "The Counter-
+Clock Incident".
 
 
 opposites attract
@@ -26856,11 +27256,11 @@ parricide
 :: Description
 A character murders a close relative of theirs.
 
-:: Notes
-This theme is also applied in cases where a close in-law relative is killed.
-
 :: Parents
 murder
+
+:: Notes
+This theme is also applied in cases where a close in-law relative is killed.
 
 :: Examples
 In ahp1x24 "The Perfect Murder", two greedy nephews conspire to murder their
@@ -26995,17 +27395,6 @@ stopping the violence.
 
 :: Parents
 diplomacy
-
-
-telepathic utopia
-=================
-
-:: Description
-Society is nice and amicable because people can hear each others' thoughts and
-have learned to control their anti-social instincts, etc.
-
-:: Parents
-utopia based on a view of human nature
 
 
 pecking order
@@ -27228,6 +27617,19 @@ tos1x03 "Mudd's Women".
 
 :: References
 https://en.wikipedia.org/wiki/Performance-enhancing_substance
+
+
+perilous voyage at sea
+======================
+
+:: Description
+Someone finds themself on a perilous voyage on the high seas.
+
+:: Parents
+speculative travel
+
+:: References
+https://en.wikipedia.org/wiki/Nautical_fiction
 
 
 perjury
@@ -28217,6 +28619,22 @@ organized religion
 
 :: References
 https://en.wikipedia.org/wiki/Polytheism
+
+
+pornography
+===========
+
+:: Description
+Pornography is the portrayal of sexual subject matter for the exclusive
+purpose of sexual arousal. The story deals with attitudes towards pornography
+in general, and especially the question of whether and to what extent it
+should be tolerated in society.
+
+:: Parents
+sexual norms in society
+
+:: References
+https://en.wikipedia.org/wiki/Pornography
 
 
 pornography addiction
@@ -29829,6 +30247,27 @@ the soul
 https://en.wikipedia.org/wiki/Reincarnation
 
 
+reintegrating into society
+==========================
+
+:: Description
+Someone has been away from anything resembling normal society for a long time,
+for example due to a lengthy prison term, and tries to re-adjust to life
+amongst normal people again.
+
+:: Parents
+human social position
+coping with life issues
+
+:: Examples
+In "Universal Soldier: Regeneration" (2009), the former mindless supersoldier
+Luc Deveraux was undergoing rehabilitation therapy in Switzerland with the
+goal of rejoining society.
+
+:: References
+https://en.wikipedia.org/wiki/Prisoner_reentry
+
+
 rejuvenation technology
 =======================
 
@@ -30398,6 +30837,17 @@ person he thought of as his mother. Alas, it transpired that she was just an
 android facsimile of the genuine article.
 
 
+reverse aging
+=============
+
+:: Description
+There is a character who starts life as old and then becomes younger as time
+passes.
+
+:: Parents
+speculative natural process
+
+
 reverse psychology
 ==================
 
@@ -30633,6 +31083,7 @@ helper.
 :: Parents
 artificial being
 artificial intelligence
+speculative robot
 
 :: Examples
 The immortal Mr. Flint had a hovering robot helped named M-4 in tos3x21
@@ -30648,6 +31099,7 @@ pre-arranged and rule-bound combat competitions.
 
 :: Parents
 artificial intelligence
+speculative robot
 
 :: Examples
 In tz1959e5x02 "Steel", the story is set in a near future when regular boxing
@@ -30983,26 +31435,6 @@ social ethical dilemma
 :: Examples
 This argument is sometimes raised in discussions about America's use of
 nuclear bombs on Japan in the second world war.
-
-
-séance
-======
-
-:: Description
-The idea that a trained mystic can help us communicate with the dead.
-
-:: Parents
-communicating with the dead
-
-:: Examples
-Prefect Jaris of Argelius II figured that this with be a good way to resolve
-the murder case brought against Scotty in tos2x07 "Wolf in the Fold".
-
-:: References
-https://en.wikipedia.org/wiki/S%C3%A9ance
-
-:: Aliases
-seance
 
 
 sacred ground
@@ -31364,6 +31796,21 @@ once speculative device
 
 :: References
 https://en.wikipedia.org/wiki/Database
+
+
+seasickness
+===========
+
+:: Description
+Seasickness is a form of terrestrial motion sickness characterized by a
+feeling of nausea and, in extreme cases, vertigo experienced after spending
+time on a boat. This condition is featured.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Motion_sickness
 
 
 second guessing one's self
@@ -31953,8 +32400,7 @@ A "fully functional" android of one gender or another, designed to please its
 masters in matters of the flesh.
 
 :: Parents
-artificial being
-artificial intelligence
+android
 
 
 sexism in society
@@ -33712,6 +34158,17 @@ stipulated, or when the evolutionary history of fictional beings is explained.
 speculative natural process
 
 
+speculative experience
+======================
+
+:: Description
+Someone finds themself in such an unusual circumstance as no one would
+normally expect to face in their lifetime.
+
+:: Parents
+speculative fiction theme
+
+
 speculative fiction theme
 =========================
 
@@ -33983,6 +34440,44 @@ that real people can't ever do.
 
 :: Parents
 speculative ability related to another being
+
+
+speculative robot
+=================
+
+:: Description
+There is a mobile machine equipped with an advanced artificial intelligence,
+like and android or a Robby the Robot style mechanical man.
+
+:: Parents
+speculative technology
+
+:: Notes
+For this theme to apply, the machinery itself or the artificial intelligence
+must be well beyond what is possible when the story was first released.
+
+:: References
+https://en.wikipedia.org/wiki/Robots_in_literature
+
+
+speculative social institution
+==============================
+
+:: Description
+The story features a notable social institution of some sort that, for all
+intents and purposes, has not hitherto been extant in any human society. It
+may, for example, be premised on some technology or fantastical idea that
+humanity has not (yet) achieved.
+
+:: Parents
+speculative society
+
+:: Notes
+A "social institution" in its broadest meaning is the activities of a large
+number of people that have banded together for some specific purpose.
+Typically it means that there is some recognized practice of doing something
+within a society. This may be related to education, business, governance,
+diplomacy, so on and so forth.
 
 
 speculative society
@@ -35076,6 +35571,17 @@ Dexter Riley ate a bowl of chemically enhanced cereal that granted him super
 strength in "The World's Strongest Man" (1975).
 
 
+superior and subordinate
+========================
+
+:: Description
+The relationship between a person and someone that person has a position of
+direct authority over, is featured.
+
+:: Parents
+human interpersonal relationship
+
+
 supernatural ability
 ====================
 
@@ -35431,6 +35937,26 @@ Humanity's food supply was produced in chemistry labs after the year 2900 in
 "The Miracle of the Lily" (1928).
 
 
+séance
+======
+
+:: Description
+The idea that a trained mystic can help us communicate with the dead.
+
+:: Parents
+communicating with the dead
+
+:: Examples
+Prefect Jaris of Argelius II figured that this with be a good way to resolve
+the murder case brought against Scotty in tos2x07 "Wolf in the Fold".
+
+:: References
+https://en.wikipedia.org/wiki/S%C3%A9ance
+
+:: Aliases
+seance
+
+
 table manners
 =============
 
@@ -35478,6 +36004,17 @@ risk taking vs. playing it safe
 In talesoftheunexpected2x07 "Taste", Mike thought he had an almost sure thing
 going so he accepted a bet of his daughter's hand in marriage against Pratt's
 two houses, after much deliberation.
+
+
+taking a test
+=============
+
+:: Description
+A character takes a more or less formal test for something such as in school,
+a driving test, etc.
+
+:: Parents
+human childhood
 
 
 taking control of one's fears
@@ -35791,6 +36328,17 @@ speculative society
 https://en.wikipedia.org/wiki/Telepathy
 
 
+telepathic utopia
+=================
+
+:: Description
+Society is nice and amicable because people can hear each others' thoughts and
+have learned to control their anti-social instincts, etc.
+
+:: Parents
+utopia based on a view of human nature
+
+
 teleportation ability
 =====================
 
@@ -35995,6 +36543,23 @@ https://en.wikipedia.org/wiki/Future_of_an_expanding_universe
 
 :: Aliases
 the heat death of the universe
+
+
+the Big Crunch
+==============
+
+:: Description
+The Big Crunch is a hypothetical scenario for the ultimate fate of the
+universe, in which the expansion of the universe eventually reverses and the
+universe recollapses, ultimately causing the cosmic scale factor to reach
+zero, an event potentially followed by a reformation of the universe starting
+with another Big Bang. This idea is featured in the story.
+
+:: Parents
+astronomy
+
+:: References
+https://en.wikipedia.org/wiki/Big_Crunch
 
 
 the British Raj
@@ -37955,6 +38520,21 @@ privates.
 human occupational activity
 
 
+the military-industrial complex in society
+==========================================
+
+:: Description
+There is an informal alliance between a nation's military and the defense
+industry that supplies it, seen together as a vested interest which influences
+public policy, typically in a nefarious way in fiction, is featured.
+
+:: Parents
+military issue
+
+:: References
+https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex
+
+
 the millennium shift
 ====================
 
@@ -38558,6 +39138,24 @@ human character stereotype
 https://en.wikipedia.org/wiki/Nerd
 
 
+the number pi
+=============
+
+:: Description
+3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164
+0628620899 8628034825 3421170679 8214808651 3282306647 09384460...
+
+:: Parents
+mathematics
+
+:: Examples
+Wily Spock ordered the computer to compute pi to the last digit in tos2x07
+"Wolf in the Fold".
+
+:: References
+https://en.wikipedia.org/wiki/Pi
+
+
 the origin of life
 ==================
 
@@ -39038,6 +39636,17 @@ romanticized ideas of secret agents as heroes.
 https://en.wikipedia.org/wiki/Espionage
 
 
+the senselessness of war
+========================
+
+:: Description
+The idea is put forth that war is an immature and undignified way to resolve
+problems.
+
+:: Parents
+war
+
+
 the ship Titanic
 ================
 
@@ -39322,24 +39931,6 @@ Whether and to what extent our imagination is of benefit to us is discussed.
 
 :: Parents
 human nature
-
-
-the number pi
-=============
-
-:: Description
-3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164
-0628620899 8628034825 3421170679 8214808651 3282306647 09384460...
-
-:: Parents
-mathematics
-
-:: Examples
-Wily Spock ordered the computer to compute pi to the last digit in tos2x07
-"Wolf in the Fold".
-
-:: References
-https://en.wikipedia.org/wiki/Pi
 
 
 the visual arts
@@ -39781,6 +40372,24 @@ people.
 :: Parents
 time travel
 impostor living secretly among us
+
+
+time traveler meddling in history
+=================================
+
+:: Description
+A person travels back in time and changes history somehow.
+
+:: Parents
+time travel
+people meddling in history
+
+:: Examples
+In tz1985e1x20a "Profile in Silver", we saw history professor Dr. Joseph
+Fitzgerald travel back in time from the year 2172 to quietly observe President
+John F. Kennedy. Alas, when the sinister moment arrived Joseph could not stop
+himself but impulsively intervened to save the much admired President. This
+action had unexpected and dire consequences for the world.
 
 
 time traveler's dilemma
@@ -40428,6 +41037,24 @@ monster
 https://en.wikipedia.org/wiki/Undead
 
 
+undead mummy
+============
+
+:: Description
+There is an as undead creature wrapped in bandages.
+
+:: Parents
+living corpse
+
+:: Examples
+The mad scientist Dr. Krupp hatched a plot to steal a golden breastplate and a
+bracelet from the tomb of the centuries-old living mummy Popocain in "The
+Robot vs. the Aztec Mummy" (1958).
+
+:: References
+https://en.wikipedia.org/wiki/Mummy_(monster)
+
+
 undead skeleton
 ===============
 
@@ -40911,6 +41538,23 @@ https://en.wikipedia.org/wiki/Feud
 blood feud
 
 
+ventriloquism
+=============
+
+:: Description
+Ventriloquism, or ventriloquy, is an act of stagecraft in which a person (a
+ventriloquist) creates the illusion that their voice is coming from elsewhere,
+usually a puppeteered prop, known as a "dummy". This activity is featured in
+the story.
+
+:: Parents
+stand-up comedy
+stage magic
+
+:: References
+https://en.wikipedia.org/wiki/Ventriloquism
+
+
 video game addiction
 ====================
 
@@ -41257,19 +41901,6 @@ organized religion
 https://en.wikipedia.org/wiki/Vow_of_silence
 
 
-perilous voyage at sea
-======================
-
-:: Description
-Someone finds themself on a perilous voyage on the high seas.
-
-:: Parents
-speculative travel
-
-:: References
-https://en.wikipedia.org/wiki/Nautical_fiction
-
-
 voyage under the sea
 ====================
 
@@ -41330,17 +41961,6 @@ war due to diplomatic miscalculation
 :: Description
 Neither faction in a diplomatic negotiation really wants war but fluke and
 miscalculation threaten to pull them into a military confrontation anyway.
-
-:: Parents
-war
-
-
-the senselessness of war
-========================
-
-:: Description
-The idea is put forth that war is an immature and undignified way to 
-resolve problems.
 
 :: Parents
 war
@@ -42140,6 +42760,35 @@ from assistance, perhaps while spelunking or mountaineering.
 
 :: Parents
 what if I were in a tight spot
+
+
+what if I got accidentally locked in somewhere
+==============================================
+
+:: Description
+We are made to imagine what it would be like to get accidentally locked in a
+room or some other relatively limited space, with no immediate way of
+escaping.
+
+:: Parents
+what if I were in a tight spot
+
+
+what if I got into trouble in a foreign country
+===============================================
+
+:: Description
+A character is in a country that is foreign to them and gets into some sort of
+trouble that is compounded by international bureaucracy and the foreignness of
+the country's institutions and language.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+In ahp3x10 "The Diplomatic Corpse", Evan and Janet find themselves in a spot
+of trouble with the authorities in Tijuana, Mexico, when their car containing
+Janet's late aunt's corpse is stolen.
 
 
 what if I grew in size
@@ -43873,6 +44522,24 @@ what it is like to travel
 :: References
 
 
+what it is like on a passenger liner
+====================================
+
+:: Description
+We are shown what it might be like for a passenger to make a lengthy ocean
+journey aboard a ship made primarily for this purpose.
+
+:: Parents
+what it is like to travel
+
+:: Notes
+Passenger liners are understood to have come about first in the mid-19:th
+century.
+
+:: References
+https://en.wikipedia.org/wiki/Ocean_liner
+
+
 what it is like to be different
 ===============================
 
@@ -44730,6 +45397,19 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Counterculture_of_the_1960s
+
+
+youthful ideological convictions
+================================
+
+:: Description
+There is a relatively young character holding some strong ideological
+conviction of a political nature. There is a suggested connection between that
+character's age and their conviction, for example by the contrasting presence
+of an older and more sombre character.
+
+:: Parents
+human childhood
 
 
 youthful indiscretion
