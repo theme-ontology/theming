@@ -1,6 +1,6 @@
 ---
 name: Revise an existing theme
-about: Propose an idea for how to better name or define an existing theme
+about: Suggest an idea for how to better name or define an existing theme
 title: ''
 labels: ''
 assignees: ''

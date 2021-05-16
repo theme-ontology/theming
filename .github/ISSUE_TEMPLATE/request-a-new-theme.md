@@ -1,6 +1,6 @@
 ---
 name: Request a new theme
-about: Propose an idea for a new theme.
+about: Suggest an idea for a new theme.
 title: ''
 labels: ''
 assignees: ''
