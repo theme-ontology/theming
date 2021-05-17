@@ -1,6 +1,27 @@
-# Theming
+<p align="center">
+  <a href="https://www.themeontology.org/">
+    <img src="https://github.com/theme-ontology/tstp/blob/master/projects/favicon2021/avatar-384x384.png?raw=true" alt="LTO avatar" width="200" height="200">
+  </a>
+</p>
 
-https://www.themeontology.org/  
+<h3 align="center">Theme Ontology</h3>
+
+<p align="center">
+  An open access, community-based, knowledgebase of literary themes and thematically annotated stories.
+  <br>
+  <a href="https://themeontology.org/themes"><strong>Explore the themes »</strong></a>
+  ||
+  <a href="https://themeontology.org/stories"><strong>Explore the stories »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/theme-ontology/theming/issues/new?template=request-a-new-theme.md">Request a theme</a>
+  ·
+  <a href="https://github.com/theme-ontology/theming/issues/new?template=propose-to-revise-an-existing-theme.md">Revise a theme</a>
+</p>
+
+# Welcome to the Theme Ontology Community
+
+Visit our website: [https://www.themeontology.org/](https://www.themeontology.org/)
 
 
 ## What is a Story?
