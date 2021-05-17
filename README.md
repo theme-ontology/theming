@@ -7,7 +7,7 @@
 <h3 align="center">Theme Ontology</h3>
 
 <p align="center">
-  An open access, community-based, knowledgebase of literary themes and thematically annotated stories.
+  A community-based, open access knowledgebase of literary themes and thematically annotated stories.
   <br>
   <a href="https://themeontology.org/themes"><strong>Explore the themes »</strong></a>
   ||
