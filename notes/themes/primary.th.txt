@@ -6694,7 +6694,7 @@ gay.
 
 :: Parents
 romantic relationship issue
-human life choice
+life choice
 
 :: Examples
 Riker helped Soren, a member of the gender neutral J'naii species, to explore
@@ -10605,6 +10605,7 @@ transportation of expired souls from the Land of the Living to the Hereafter.
 
 :: Parents
 legendary being
+personification of a concept
 
 :: Examples
 In tz1985e1x17a "Welcome to Winfield", we see a modern agent of Death dressed
@@ -11507,21 +11508,6 @@ receives some sort of revelation.
 organized religion
 
 
-diving suit
-===========
-
-:: Description
-A garment or device designed to protect a diver from the underwater
-environment is featured in a manner that makes it clear it is a future
-technological achievement.
-
-:: Parents
-speculative suit
-
-:: References
-https://en.wikipedia.org/wiki/Diving_suit
-
-
 divorce
 =======
 
@@ -12418,6 +12404,7 @@ water, air, and fire).
 
 :: Parents
 legendary being
+personification of a concept
 
 :: Examples
 In the video game "Final Fantasy" (1987), it is up to the Light Warriors to
@@ -12675,23 +12662,6 @@ from policy makers has been lackluster and negligent in the extreme.
 
 :: References
 https://en.wikipedia.org/wiki/Environmental_issue
-
-
-environmental suit
-==================
-
-:: Description
-There is a suit designed specifically for a particular environment, usually
-one otherwise hostile to humans, such as outer space.
-
-:: Parents
-speculative suit
-
-:: Notes
-This is used when the suit is presented as something futuristic.
-
-:: References
-https://en.wikipedia.org/wiki/Environmental_suit
 
 
 environmentalism
@@ -13892,7 +13862,14 @@ false friend
 
 :: Description
 There is a character acts openly as a friend to another character yet
-conspires behind their back in a way that is most unfriendly.
+conspires behind their back in a way that is most unfriendly and meant to
+cause harm.
+
+:: Notes
+This theme is not used when someone poses as a friend to someone because they 
+merely wish exploit that person for some other purpose than to cause them harm.
+It does, for example, not typically apply to confidence tricks as the purpose
+of such tricks is generally to make a profit by any means available.
 
 :: Parents
 human interpersonal relationship
@@ -16525,6 +16502,7 @@ environment where they have little chance of being private from each other.
 
 :: Parents
 humans in group
+psychological stress
 
 :: Examples
 In tz2019e1x06 "Six Degrees of Freedom", we saw the interactions among a group
@@ -24129,7 +24107,7 @@ attention and awareness, and achieve a mentally clear and emotionally calm and
 stable state. Such a practice is featured in a more or less formalized way.
 
 :: Parents
-recreational activity
+human recreational activity
 
 :: Notes
 The theme is used when it is reasonably obvious that special techniques for
@@ -24290,17 +24268,6 @@ on.
 
 :: Parents
 speculative being
-
-
-mentally linked beings
-======================
-
-:: Description
-There are beings that link with each other in semi-permanent telepathic
-communication.
-
-:: Parents
-mentally distinguished being
 
 
 mentor and protégé
@@ -33886,20 +33853,6 @@ The pod plants of Omicron Ceti III had arrived after traversing space as a
 cloud of spores in tos1x25 "This Side of Paradise".
 
 
-spacesuit
-=========
-
-:: Description
-A garment worn to keep a human alive in the harsh environment of outer space.
-
-:: Parents
-speculative suit
-
-:: References
-https://en.wikipedia.org/wiki/Space_suit
-http://www.sf-encyclopedia.com/entry/spacesuits
-
-
 spacetime manipulating technology
 =================================
 
@@ -34570,22 +34523,6 @@ speculative vehicle
 :: References
 https://en.wikipedia.org/wiki/Submarine
 http://www.sf-encyclopedia.com/entry/submarines
-
-
-speculative suit
-================
-
-:: Description
-There is a futuristic suit of some sort, like a spacesuit or a powered
-exoskeleton.
-
-:: Parents
-speculative wearable device
-
-:: Examples
-Sidney Stratton makes a brilliantly white suit from an everlasting fabric made
-of a special polymer that repelled dirt using static electricity in "The Man
-in the White Suit" (1951).
 
 
 speculative technology
@@ -40719,6 +40656,7 @@ traversed.
 
 :: Parents
 space travel
+speculative natural object
 
 :: References
 https://en.wikipedia.org/wiki/Wormhole
@@ -42933,11 +42871,11 @@ what if I had an evil hand
 ==========================
 
 :: Description
-A character is transplanted with a body part that seems to have an evil mind
-of its own.
+A character has a limb that seems to have an evil mind of its own.
 
 :: Parents
 what if my personal identity came into question
+alien hand syndrome
 
 
 what if I had multiple personalities
@@ -43562,11 +43500,11 @@ Captain Picard and some of his team were trapped in an eternal live enactment
 of a second rate 20th century novel in tng2x12 "The Royale".
 
 
-what if I was trapped in a void of nothingness
-==============================================
+what if I found myself in a void of nothingness
+===============================================
 
 :: Description
-A character is trapped in a void.
+A character is trapped in a "void" of some sort.
 
 :: Parents
 what if I found myself in a strange place
