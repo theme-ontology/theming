@@ -2966,7 +2966,6 @@ could be self-sustainable, for example.
 
 :: Parents
 speculative city
-speculative habitat
 
 :: References
 https://en.wikipedia.org/wiki/Arcology
@@ -11651,7 +11650,6 @@ A city protected by some manner of a dome-shaped barrier.
 
 :: Parents
 speculative city
-speculative habitat
 
 :: Examples
 The Enterprise-D was diverted to save a doomed domed city of genetically
@@ -15221,7 +15219,6 @@ A city suspended in air by means of anti-gravitational technology.
 
 :: Parents
 speculative city
-speculative habitat
 
 :: Examples
 The political elite on Ardana lived in a floating city named Stratos in
@@ -17194,35 +17191,6 @@ landed on a barely habitable desert moon in tng4x09 "Final Mission".
 
 :: References
 https://en.wikipedia.org/wiki/Habitability_of_natural_satellites
-
-
-habitable planet in a binary star system
-========================================
-
-:: Description
-A planet in a binary star system, that is hospitable to humanoid life.
-
-:: Parents
-speculative habitat
-
-:: Examples
-Harry Mudd fled the Enterprise in an absconded shuttlecraft to planet in a
-binary star system inhabited by a giant, menacing worm in tas1x10 "Mudd's
-Passion".
-
-
-habitable planet in a trinary star system
-=========================================
-
-:: Description
-A planet in a trinary star system, that is hospitable to humanoid life.
-
-:: Parents
-speculative habitat
-
-:: Examples
-A trio of disembodied brain aliens ran a humanoid fighting ring on just such a
-planet in tos2x17 "The Gamesters of Triskellion".
 
 
 hallucination of a non-existing person
@@ -34078,7 +34046,7 @@ There is a futuristic city requiring a degree of engineering ability beyond
 our present capabilities, such as an arcology or a floating city.
 
 :: Parents
-sub-planetary-scale engineering
+speculative habitat
 
 :: Examples
 The film "Demolition Man" (1993) is set 2032 San Angeles: a vast megalopolis
@@ -41113,7 +41081,6 @@ somehow, or it may be inhabited by water breathers.
 
 :: Parents
 speculative city
-speculative habitat
 
 
 unemployment in society
