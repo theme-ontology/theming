@@ -13863,14 +13863,14 @@ There is a character acts openly as a friend to another character yet
 conspires behind their back in a way that is most unfriendly and meant to
 cause harm.
 
-:: Notes
-This theme is not used when someone poses as a friend to someone because they 
-merely wish exploit that person for some other purpose than to cause them harm.
-It does, for example, not typically apply to confidence tricks as the purpose
-of such tricks is generally to make a profit by any means available.
-
 :: Parents
 human interpersonal relationship
+
+:: Notes
+This theme is not used when someone poses as a friend to someone because they
+merely wish exploit that person for some other purpose than to cause them
+harm. It does, for example, not typically apply to confidence tricks as the
+purpose of such tricks is generally to make a profit by any means available.
 
 :: Examples
 In "Othello" (1603), sly Iago poses as confident and most reluctantly reveals
@@ -33709,8 +33709,8 @@ space station
 =============
 
 :: Description
-There is a structure in space capable of supporting crewmembers, which is 
-designed to remain in space for an extended period of time, and often for 
+There is a structure in space capable of supporting crewmembers, which is
+designed to remain in space for an extended period of time, and often for
 spacecraft to dock.
 
 :: Parents

@@ -587,22 +587,22 @@ movie: Starship Troopers: Invasion (2012)
 :: Title
 Starship Troopers: Invasion
 
+:: Date
+2012-07-21
+
 :: Description
 A team of troopers is sent on a mission to locate a missing starship. It is
 the fourth installment of the Starship Troopers film series.
 
-:: Date
-2012-07-21
-
 :: References
 https://en.wikipedia.org/wiki/Starship_Troopers:_Invasion
-
-:: Ratings
-1 <paul> [direct to video]
 
 :: Genre
 sci-fi
 action
+
+:: Ratings
+1 <paul> [direct to video]
 
 :: Major Themes
 insectoid being [Federation forces were battling bug aliens, known as Arachnids.]
@@ -2605,23 +2605,23 @@ movie: Starship Troopers: Traitor of Mars (2017)
 :: Title
 Starship Troopers: Traitor of Mars
 
-:: Description
-It is up to Johnny Rico and his team of young recruits to stop bug aliens
-from overrunning a Federation colony on Mars. It is the fifth installment of
-the Starship Troopers film series.
-
 :: Date
 2017-08-21
+
+:: Description
+It is up to Johnny Rico and his team of young recruits to stop bug aliens from
+overrunning a Federation colony on Mars. It is the fifth installment of the
+Starship Troopers film series.
 
 :: References
 https://en.wikipedia.org/wiki/Starship_Troopers:_Traitor_of_Mars
 
-:: Ratings
-1 <paul>
-
 :: Genre
 sci-fi
 action
+
+:: Ratings
+1 <paul>
 
 :: Major Themes
 insectoid being [Federation forces were battling bug aliens, known as Arachnids.]
@@ -3052,6 +3052,9 @@ movie: Deep Blue Sea 2 (2018)
 :: Title
 Deep Blue Sea 2
 
+:: Date
+2018-04-17
+
 :: Description
 In the film, a shark conservationist is hired to consult on a top-secret
 project involving genetically-enhanced bull sharks funded by a pharmaceutical
@@ -3059,17 +3062,14 @@ billionaire. However, the highly intelligent super-sharks turn on their
 masters and begin to pick them off one by one. It is a stand-alone sequel to
 the 1999 film Deep Blue Sea.
 
-:: Date
-2018-04-17
-
 :: References
 https://en.wikipedia.org/wiki/Deep_Blue_Sea_2
 
-:: Ratings
-2 <paul>
-
 :: Genre
 sci-fi
+
+:: Ratings
+2 <paul>
 
 :: Choice Themes
 human vs. beast [The people trapped in the sea-based facility were being terrorized by multiple genetically engineered bull sharks.]
