@@ -1,5 +1,5 @@
-Collection: Star Trek: The Original Series
-==========================================
+tvseries: Star Trek: The Original Series
+========================================
 
 :: Title
 Star Trek: The Original Series
@@ -17,11 +17,8 @@ the media franchise that it began.
 :: References
 https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series
 
-:: Genre
-sci-fi
-
 :: Collections
-Collection: Star Trek: The Original Series
+tvseries: Star Trek: The Original Series
 
 :: Major Themes
 

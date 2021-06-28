@@ -1,5 +1,5 @@
-Collection: Futurama
-====================
+tvseries: Futurama
+==================
 
 :: Title
 Futurama
@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Futurama
 sci-fi
 
 :: Collections
-Collection: Futurama
+tvseries: Futurama
 
 :: Minor Themes
 people tubes [People routinely got around New New York City by traveling in pneumatic tubes.]
