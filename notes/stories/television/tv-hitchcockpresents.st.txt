@@ -1,5 +1,5 @@
-Collection: Alfred Hitchcock Presents
-=====================================
+tvseries: Alfred Hitchcock Presents
+===================================
 
 :: Title
 Alfred Hitchcock Presents
@@ -17,11 +17,8 @@ relatively small number of episodes.
 :: References
 https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents
 
-:: Genre
-drama
-
 :: Collections
-Collection: Alfred Hitchcock Presents
+tvseries: Alfred Hitchcock Presents
 
 
 ahp1x01

@@ -1,5 +1,5 @@
-Collection: Babylon 5
-=====================
+tvseries: Babylon 5
+===================
 
 :: Title
 Babylon 5
@@ -26,7 +26,7 @@ along with Douglas Netter.
 https://en.wikipedia.org/wiki/Babylon_5
 
 :: Collections
-Collection: Babylon 5
+tvseries: Babylon 5
 
 :: Major Themes
 transnational institution for peace [Babylon 5 essentially functions as the United Nations but in space.]

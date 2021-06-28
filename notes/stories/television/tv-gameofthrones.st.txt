@@ -1,11 +1,11 @@
-Collection: Game of Thrones
-===========================
+tvseries: Game of Thrones
+=========================
 
 :: Title
 Game of Thrones
 
 :: Date
-2011
+2011-2019
 
 :: Description
 Game of Thrones is an American fantasy drama television series created by
@@ -21,7 +21,7 @@ eighth season premiering in 2019.
 https://en.wikipedia.org/wiki/Game_of_Thrones
 
 :: Collections
-Collection: Game of Thrones
+tvseries: Game of Thrones
 
 
 tvseries: GoT7x01

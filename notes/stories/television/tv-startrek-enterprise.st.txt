@@ -1,5 +1,5 @@
-Collection: Star Trek: Enterprise
-=================================
+tvseries: Star Trek: Enterprise
+===============================
 
 :: Title
 Star Trek: Enterprise
@@ -21,11 +21,8 @@ galaxy.
 :: References
 https://en.wikipedia.org/wiki/Star_Trek:_Enterprise
 
-:: Genre
-sci-fi
-
 :: Collections
-Collection: Star Trek: Enterprise
+tvseries: Star Trek: Enterprise
 
 :: Major Themes
 

@@ -1,5 +1,5 @@
-Collection: Star Trek: Deep Space Nine
-======================================
+tvseries: Star Trek: Deep Space Nine
+====================================
 
 :: Title
 Star Trek: Deep Space Nine
@@ -21,11 +21,8 @@ series' primary setting.
 :: References
 https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
 
-:: Genre
-sci-fi
-
 :: Collections
-Collection: Star Trek: Deep Space Nine
+tvseries: Star Trek: Deep Space Nine
 
 :: Major Themes
 space station [Deep Space Nine space station.]

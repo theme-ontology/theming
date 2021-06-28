@@ -1,5 +1,5 @@
-Collection: Star Trek: The Animated Series
-==========================================
+tvseries: Star Trek: The Animated Series
+========================================
 
 :: Title
 Star Trek: The Animated Series
@@ -23,11 +23,8 @@ Star Trek: The Motion Picture (1979).
 :: References
 https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series
 
-:: Genre
-sci-fi
-
 :: Collections
-Collection: Star Trek: The Animated Series
+tvseries: Star Trek: The Animated Series
 
 :: Major Themes
 
