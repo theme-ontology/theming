@@ -1,5 +1,5 @@
-Collection: Star Trek: Discovery
-================================
+tvseries: Star Trek: Discovery
+==============================
 
 :: Title
 Star Trek: Discovery
@@ -21,11 +21,8 @@ Goldsman; Kurtzman began serving as showrunner during the second season.
 :: References
 https://en.wikipedia.org/wiki/Star_Trek:_Discovery
 
-:: Genre
-sci-fi
-
 :: Collections
-Collection: Star Trek: Discovery
+tvseries: Star Trek: Discovery
 
 :: Major Themes
 

@@ -1,5 +1,5 @@
-Collection: Alfred Hitchcock Presents
-=====================================
+tvseries: Alfred Hitchcock Presents
+===================================
 
 :: Title
 Alfred Hitchcock Presents
@@ -17,11 +17,8 @@ relatively small number of episodes.
 :: References
 https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents
 
-:: Genre
-drama
-
 :: Collections
-Collection: Alfred Hitchcock Presents
+tvseries: Alfred Hitchcock Presents
 
 
 ahp1x01
@@ -4928,7 +4925,7 @@ Directed by: Robert Stevens. Story by: Ann Bridge, Stirling Silliphant.
 haunted vehicle [Laura bough an eponymous yellow sedan and started hearing the voice of a deceased countess who had previously owned the vehicle.]
 husband and wife [The story follows Laura as she goes to Hong Kong to join her husband James.]
 communicating with the dead [When inside her automobile Laura could hear, and indeed spoke back to, the disembodied voice of a French woman who was talking to her lover.]
-romantic infidelity [It is revealed at the end that Laura has stumbled upon information about a passionate love affair her husband had had in the past. We do not know whether he was married to Laura at the time, but must ponder the possibility.] 
+romantic infidelity [It is revealed at the end that Laura has stumbled upon information about a passionate love affair her husband had had in the past. We do not know whether he was married to Laura at the time, but must ponder the possibility.]
 
 :: Minor Themes
 genie in a lamp [In his monologue, Alfred Hitchcock feigned to have conjured up a genie in the image of Alfred Hitchcock by rubbing the picture tube.]
