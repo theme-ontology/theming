@@ -1,5 +1,5 @@
-Collection: Futurama
-====================
+tvseries: Futurama
+==================
 
 :: Title
 Futurama
@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Futurama
 sci-fi
 
 :: Collections
-Collection: Futurama
+tvseries: Futurama
 
 :: Minor Themes
 people tubes [People routinely got around New New York City by traveling in pneumatic tubes.]
@@ -945,7 +945,7 @@ information technology in society [America Online was mentioned and references w
 :: Minor Themes
 virtual reality suit [The Planet Express team used special suits to access the Internet.]
 speculative virtual reality [The Internet was portrayed as a simulated reality.]
-ads everywhere dystopia [The Internet had ads all over the place when the Planet Express Team explored it using virtual reality suits.]
+pervasive marketing in society [The Internet had ads all over the place when the Planet Express Team explored it using virtual reality suits.]
 video gaming [Fry enjoyed video games excessively.]
 shapeshifter [Alcazar was a shapeshifter.]
 sacrifice for one's people [Should Leela stay with the low-life jerk Alcazar in order to perpetuate their species?]
@@ -1725,8 +1725,9 @@ what it is like in a legal proceeding [Fry and Bender were tried for bank robber
 flying car [There were flying police cruisers.]
 facing a hostage situation [Roberto held the Planet Express team hostage.]
 the importance of being frugal [Zoidberg found out that his pension fund was empty because he had never paid into it, and Fry wasted his retirement money on lottery tickets.]
-elitism [Judge Whitey was extremely elitist, and considered the theft of money to be the most henious of crimes.]
+elitism [Judge Whitey was extremely elitist, and considered the theft of money to be the most heinous of crimes.]
 the legal professions [The Hyper-Chicken represented Fry and Bender when they were charged with bank robbery.]
+witness tampering [A witness stand seated Fry thought better of identifying Roberto as the real bank robber after a disguised-with-a-fake-beard Robert gestured at him with a knife from the spectator area.]
 
 
 futurama3x13
@@ -3350,6 +3351,7 @@ mother and son [Mom and her three idiot sons.]
 beating one's self up [Fry felt terrible over having posted a humiliating video of Leela online.]
 coping with humiliation [A humiliating video of Leela was posted online.]
 what if everyone turned into zombies [Mom used a computer worm to turn millions of people into mass tech gadget consuming zombies.]
+pervasive marketing in society [Fry was outraged to find out that the beaming of ads directly into people dreams was a commonplace practice in New New York city of the year 3000.]
 
 
 futurama6x04

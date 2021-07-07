@@ -1,5 +1,5 @@
-Collection: Star Trek: Voyager
-==============================
+tvseries: Star Trek: Voyager
+============================
 
 :: Title
 Star Trek: Voyager
@@ -37,11 +37,8 @@ itself would end its production run in 2006.
 :: References
 https://en.wikipedia.org/wiki/Star_Trek:_Voyager
 
-:: Genre
-sci-fi
-
 :: Collections
-Collection: Star Trek: Voyager
+tvseries: Star Trek: Voyager
 
 :: Major Themes
 interstellar space travel [Star Trek is all about zipping around in space, seeing what we can find, and building an intergalactic civilization]

@@ -1,5 +1,5 @@
-Collection: Sherlock
-====================
+tvseries: Sherlock
+==================
 
 :: Title
 Sherlock
@@ -16,11 +16,8 @@ Doctor John Watson.
 :: References
 https://en.wikipedia.org/wiki/Sherlock_(TV_series)
 
-:: Genre
-drama
-
 :: Collections
-Collection: Sherlock
+tvseries: Sherlock
 
 
 sherlock1x01
