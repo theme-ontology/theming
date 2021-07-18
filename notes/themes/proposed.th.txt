@@ -208,8 +208,8 @@ moderation in all things
 ========================
 
 :: Description
-More or less explicitly featured is the philosophy that one should not do anything 
-too much, nor too little.
+More or less explicitly featured is the philosophy that one should not do
+anything too much, nor too little.
 
 :: Parents
 human idea about life
@@ -222,12 +222,10 @@ witness tampering
 =================
 
 :: Description
-The act of attempting to improperly influence, alter or prevent the testimony of witnesses 
-within criminal or civil proceedings is featured. Most typically this is featured in stories 
-when criminals intimidate witnesses to lie or be silent in court.
-
-:: Aliases
-witness intimidation
+The act of attempting to improperly influence, alter or prevent the testimony
+of witnesses within criminal or civil proceedings is featured. Most typically
+this is featured in stories when criminals intimidate witnesses to lie or be
+silent in court.
 
 :: Parents
 obstruction of justice
@@ -235,14 +233,18 @@ obstruction of justice
 :: References
 https://en.wikipedia.org/wiki/Witness_tampering
 
+:: Aliases
+witness intimidation
+
 
 circus skill
 ============
 
 :: Description
-Circus skills are a group of disciplines that have been performed as entertainment in 
-circus, sideshow, busking, or variety, vaudeville, or music hall shows.
-Such a skill is notably featured in the story and in a circus-like context.
+Circus skills are a group of disciplines that have been performed as
+entertainment in circus, sideshow, busking, or variety, vaudeville, or music
+hall shows. Such a skill is notably featured in the story and in a circus-like
+context.
 
 :: Parents
 performance art
@@ -255,13 +257,14 @@ performance art
 ===============
 
 :: Description
-The performing arts are arts such as music, dance, and drama which are performed for an audience.
-It is different from visual arts, which is when artists use paint, canvas or various materials 
-to create physical or static art objects. 
-Performing arts include a range of disciplines which are performed in front of a live audience, 
-including theatre, music, and dance.
-It can also include circus skills, vaudeville, professional wrestling, to name a few examples of
-activities that some may be reluctant to consider "art" in the normal sense.
+The performing arts are arts such as music, dance, and drama which are
+performed for an audience. It is different from visual arts, which is when
+artists use paint, canvas or various materials to create physical or static
+art objects. Performing arts include a range of disciplines which are
+performed in front of a live audience, including theatre, music, and dance. It
+can also include circus skills, vaudeville, professional wrestling, to name a
+few examples of activities that some may be reluctant to consider "art" in the
+normal sense.
 
 :: Parents
 the fine arts and the humanities
@@ -274,7 +277,8 @@ mining and tunneling
 ====================
 
 :: Description
-There is a professional whose jobs involve excavation perilously deep underground.
+There is a professional whose jobs involve excavation perilously deep
+underground.
 
 :: Parents
 human occupational activity
@@ -288,12 +292,12 @@ the Korean War
 ==============
 
 :: Description
-The Korean War was a war between North Korea, with military support from China and the Soviet 
-Union, and South Korea, backed by personnel from the United Nations (principally the 
-United States). The war began on 25 June 1950 when North Korea invaded South Korea following 
-clashes along the border and insurrections in the south.
-The war ended unofficially on 27 July 1953 in an armistice. 
-This historical human conflict is featured in the story.
+The Korean War was a war between North Korea, with military support from China
+and the Soviet Union, and South Korea, backed by personnel from the United
+Nations (principally the United States). The war began on 25 June 1950 when
+North Korea invaded South Korea following clashes along the border and
+insurrections in the south. The war ended unofficially on 27 July 1953 in an
+armistice. This historical human conflict is featured in the story.
 
 :: Parents
 history
@@ -306,6 +310,7 @@ pervasive marketing in society
 ==============================
 
 :: Description
+
 
 :: Parents
 social dysfunction
@@ -321,6 +326,7 @@ coping with a spendthrift
 
 :: Description
 
+
 :: Parents
 coping with a problematic person
 
@@ -332,6 +338,7 @@ spendthrift
 ===========
 
 :: Description
+
 
 :: Parents
 human character
@@ -347,9 +354,9 @@ recreational illicit drug use
 =============================
 
 :: Description
-A character takes a controlled or outright illegal chemical substance in 
+A character takes a controlled or outright illegal chemical substance in
 moderation for enjoyment, rather than for medical reasons or out of a desire
-to feed an addiction. 
+to feed an addiction.
 
 :: Parents
 recreational activity
@@ -372,6 +379,131 @@ sports
 
 :: References
 https://en.wikipedia.org/wiki/Ice_hockey
+
+
+life in late imperial China
+===========================
+
+:: Description
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/History_of_opium_in_China
+https://en.wikipedia.org/wiki/First_Opium_War
+https://en.wikipedia.org/wiki/Second_Opium_War
+
+
+parent's right to make decisions for their child
+================================================
+
+:: Description
+
+:: Parents
+human parenting
+
+
+racial segregation
+==================
+
+:: Description
+
+:: Parents
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Apartheid
+
+
+social media dystopia
+=====================
+
+:: Description
+
+:: Parents
+dystopia
+
+
+sonar sensory ability
+=====================
+
+:: Description
+
+:: Parents
+speculative ability
+
+:: Examples
+The blind telepath Miranda Jones wore a sonar-based sensor web dress that
+helped her to compensate for her disability in tos3x07 "Is There in Truth No
+Beauty?".
+
+
+speculative healing device
+==========================
+
+:: Description
+There is a device that heals wounds and injuries with extraordinary quickness.
+
+:: Parents
+speculative device
+
+
+the nature of beauty
+====================
+
+:: Description
+The question of what "beauty" really is, is discussed. Why do we call some
+things "beautiful"?
+
+:: Parents
+aesthetics
+
+:: Examples
+McCoy pondered what it is that attracts us to cute little Tribbles in tos2x13
+"The Trouble with Tribbles".
+
+
+wax sculpture
+=============
+
+:: Description
+
+:: Parents
+sculpture
+
+:: References
+https://en.wikipedia.org/wiki/Wax_sculpture
+
+:: Aliases
+wax doll
+
+
+torture
+=======
+
+:: Description
+We are made to ponder the human practice of sometimes deliberately inflicting 
+severe physical or psychological suffering on each other.
+
+:: Parents
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Torture
+https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
+
+
+delusion of being someone one is not
+====================================
+
+:: Description
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Delusional_disorder
 
 
 
