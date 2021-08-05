@@ -24009,12 +24009,27 @@ narcissism
 ==========
 
 :: Description
-Someone is obsessed with (and normally deluded about) their own grandeur,
-powers, and abilities.
+There is a character that, like Narcisuss in the ancient Greek story, has an
+excessive, lasting, and obsessive admiration their own self-image and/or other 
+attributes.
+
+:: Notes
+"Pride" themes like "attitude of superiority" involve a character comparing themselves
+to others. Such themes do not necessarily mean that narcissism is implied. It is 
+possible for a character, rightly or wrongly, to believe themselves superior and take 
+pride in that supposed fact, without them obsessively and lastingly admiring themselves.
+
+To judge whether we describe a character as "narcissistic" we inspect the character's
+self-admiring behavior and gauge whether we think that they, like Narcissus did, could
+have behaved the same way when alone.
+
+If a character admires themselves habitually but in a way that is not describable as
+"obsessive" then the theme "vanity" is applicable.
 
 :: Parents
 human character
 human mental condition
+vanity
 
 :: Examples
 Garth of Izar suffered from delusions of grandeur in tos3x16 "Whom Gods
@@ -24022,10 +24037,17 @@ Destroy".
 
 :: References
 https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
+https://en.wikipedia.org/wiki/Narcissism
 
 :: Aliases
 narcissistic personality disorder
 megalomania
+
+:: Related Themes
+attitude of superiority
+pride
+hubris
+vanity
 
 
 national social issue
@@ -39292,9 +39314,6 @@ in the eponymous episode tos1x03 "Mudd's Women".
 
 :: References
 https://en.wikipedia.org/wiki/Vanity
-
-:: Aliases
-narcissism
 
 
 vegetarianism
