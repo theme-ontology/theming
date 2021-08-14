@@ -2269,6 +2269,7 @@ Directed by: Ed Bye. Story by: Doug Naylor & Paul Alexander.
 
 :: Ratings
 1 <paul>
+0 <mikael>
 
 :: Major Themes
 mechanical man [The humanoid robot Kryten is a main character.]
@@ -2280,7 +2281,7 @@ what it is like in prison [The story presents a caricature of what it might be l
 :: Minor Themes
 speculative spaceship [The story is partly set aboard the futuristic Red Dwarf.]
 sentient computer [The sentient computer Holly chimed in with a quip here and there.]
-gender issue [The male mechanoid Kryten objected to being classified as a woman and confined to the female detention area.]
+gender issue [The male mechanoid Kryten objected to being classified as a woman and confined to the female detention area.] {MO: gender bending?}
 flying saucer [The prison movie night offering showed a stereotypical 1950s era flying saucer chasing people around.]
 extraterrestrial being [The prison movie night offering concerned giant invisible aliens.]
 attack from outer space [The prison movie night offering concerned an attack on Earth by giant invisible aliens.]
@@ -2288,6 +2289,7 @@ the art of salesmanship [Kryten started a pirate entertainment show for the male
 the art of entrepreneurship [] {PS: Merge with the above theme?}
 resisting a temptation [Try as they might, Lister and Rimmer couldn't peel their eyes away from live streamed video footage from the female prisoners group shower.]
 invasion of privacy [Kochanski confronted Lister for having watched her in the shower.]
+unrequited love [Lister was pining for Kochanski.]
 
 
 rd1988e8x06
@@ -2311,15 +2313,26 @@ Directed by: Ed Bye. Story by: Doug Naylor.
 
 :: Ratings
 1 <paul>
+0 <mikael>
 
 :: Major Themes
 mechanical man [The humanoid robot Kryten is a main character.]
 felinoid being [The cat-man Cat is a main character.]
-
+what it is like in prison [The story presents a caricature of what it might be like to be incarcerated in a contemporary prison: Cat was beaten by the guards, Lister and his friends were forced to play basketball against the guards as a punishment, Rimmer coped with bad prison food, Lister and Rimmer were sent to "the hole" for two months, etc.]
+human vs. captivity [Lister and friends were stuck in the Red Dwarf prison and were trying to use a time manipulating device to escape..]
 
 :: Minor Themes
 speculative spaceship [The story is partly set aboard the futuristic Red Dwarf.]
 sentient computer [The sentient computer Holly chimed in with a quip here and there.]
+practical joking [Rimmer and Lister had played some sort of prank on Mr. Ackerman.]
+sadism [Mr. Ackerman and his cronies were stereotypical sadistic prison guards.]
+the game of basketball [There was a game of basketball meant somehow to settle differences between prisoners and guards.]
+human cloning [Lister hypothesized that they were being fed the products of cloning experiments gone awry.]
+time freezing device [There was a phallic blue device that essentially froze time.]
+time travel [There was a phallic blue device that could transform things and people into past or future versions of themselves.]
+giant monster [The bird Pete was turned into a man-eating dinosaur by means of a phallic blue device.]
+human vs. beast [The story ended with Lister and his friends being chased by a voracious T. Rex.] {PS: This case sort of blurs the line between beast and monster.}
+coping with bad cooking [Rimmer explained that his "grandmother's buttocks deep fried in chip fat" would taste better than his prison issue dinner.]
 
 
 rd1988e8x07
