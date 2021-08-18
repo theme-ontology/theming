@@ -583,20 +583,6 @@ A virtual Sigmund Freud psychoanalyzed Data on the holodeck in tng7x06
 https://en.wikipedia.org/wiki/Psychoanalysis
 
 
-the Golden Rule
-===============
-
-:: Description
-Someone lives by the "do unto others as you would have them do unto you"
-motto.
-
-:: Parents
-human idea about life
-
-:: References
-https://en.wikipedia.org/wiki/Golden_Rule
-
-
 Hollow Earth
 ============
 
@@ -747,7 +733,10 @@ A character believes themselves to be a divinely chosen leader and savior of
 their people.
 
 :: Parents
-human mental condition
+delusion of grandeur
+
+:: References
+https://en.wikipedia.org/wiki/Messiah_complex
 
 
 Moon people
@@ -2653,6 +2642,17 @@ modern science
 
 :: References
 https://en.wikipedia.org/wiki/Archaeology
+
+
+are humans more than machines
+=============================
+
+:: Description
+Discussed is whether and to what extent humans are nothing more than
+sophisticated mechanical contraptions of some sort or another.
+
+:: Parents
+metaphysics
 
 
 are we alone in the universe
@@ -5565,6 +5565,22 @@ personal ethical dilemma
 https://en.wiktionary.org/wiki/Sophie%27s_choice
 
 
+circus skill
+============
+
+:: Description
+Circus skills are a group of disciplines that have been performed as
+entertainment in circus, sideshow, busking, or variety, vaudeville, or music
+hall shows. Such a skill is notably featured in the story and in a circus-like
+context.
+
+:: Parents
+performance art
+
+:: References
+https://en.wikipedia.org/wiki/List_of_circus_skills
+
+
 city planet
 ===========
 
@@ -7284,6 +7300,23 @@ panicky relatives, practical jokers, jealous lovers, enamoured groupies, and
 obnoxious jerks.
 
 
+coping with a spendthrift
+=========================
+
+:: Description
+A character is troubled because someone they are connected with frivolously
+spends too much money. A spouse might, for example, be troubled because their
+partner is shopping or gambling to an extent that it threatens the family's
+financial security.
+
+:: Parents
+coping with a problematic person
+spendthrift
+
+:: References
+https://en.wikipedia.org/wiki/Spendthrift
+
+
 coping with a spoiled brat
 ==========================
 
@@ -7759,16 +7792,6 @@ In "The Blair Witch Project" (1999), we saw three young filmmakers get
 irrevocably lost in a large forest while making a documentary about the local
 legend. While trying to find their way out, they were chased by something
 supernatural and eventually perished.
-
-
-obesity
-=======
-
-:: Description
-Someone struggles with being grossly over-weight.
-
-:: Parents
-human health condition
 
 
 coping with being separated from one's family
@@ -8787,6 +8810,22 @@ political issue
 
 :: References
 https://en.wikipedia.org/wiki/Corruption
+
+
+cosmic balance
+==============
+
+:: Description
+The idea that the universe somehow maintains an equilibrium between opposing,
+typically dualistic forces (e.g. good and evil, light and dark, male and
+female, etc.), is featured.
+
+:: Parents
+metaphysics
+
+:: References
+https://en.wikipedia.org/wiki/Yin_and_yang
+https://en.wikipedia.org/wiki/Maat
 
 
 courage
@@ -9846,6 +9885,26 @@ human interpersonal relationship
 :: Examples
 Captain Picard had the unpleasant duty of informing Jeremy Aster that his
 mother Marla had died on an away mission in tng3x05 "The Bonding".
+
+
+delusion of being someone one is not
+====================================
+
+:: Description
+A character is portrayed as having the crazy delusion that they are someone
+they are not. Typically this happens when a person believes themself to be
+someone famous, like Jesus or Napoleon.
+
+:: Parents
+human mental condition
+
+:: Notes
+This theme is typically not applicable in fantastical stories where magic or
+technology is used to alter a person's mind in such a way that it arguably has
+been transformed into the mind of that person they now think they are.
+
+:: References
+https://en.wikipedia.org/wiki/Delusional_disorder
 
 
 delusion of grandeur
@@ -11839,6 +11898,16 @@ anthropomorphic object come to life
 :: References
 https://en.wikipedia.org/wiki/Haunted_doll
 https://en.wikipedia.org/wiki/Killer_toy
+
+
+evil hand
+=========
+
+:: Description
+A character has a limb that seems to have an evil mind of its own.
+
+:: Parents
+what if my personal identity came into question
 
 
 exaggerating the importance of humanity's place in the universe
@@ -14012,7 +14081,8 @@ ease with his silver tongue in tng5x09 "A Matter of Time".
 https://en.wikipedia.org/wiki/Flattery
 
 :: Aliases
-sucking
+sucking up
+sycophancy
 
 
 flee to fight another day
@@ -14863,6 +14933,23 @@ unfailingly ten times in a row, but would loose a little finger should he fail
 but once.
 
 
+garbage planet
+==============
+
+:: Description
+There is a planet that is systematically and extensively used as a dumping
+ground for refuse. It may be a designated garbage dump of some spacefaring
+civilization, or merely a convenient place for passers by to unload their
+junk.
+
+:: Parents
+speculative habitat
+
+:: Examples
+The presumed dead body of Sergeant Todd was unceremoniously dumped on the
+Arcadia 234 waste disposal planet in "Soldier" (1998).
+
+
 gardening
 =========
 
@@ -15678,23 +15765,6 @@ The relationship between a grandfather and his grandson is featured.
 human familial relationship
 
 
-grandfather paradox
-===================
-
-:: Description
-The following kind of paradox is featured: If I go back in time and do
-something that would prevent me from later going back in time (such as killing
-my own grandfather), then I can't have gone back in time. But then I won't
-have been prevented from going and so I went, and so on.
-
-:: Parents
-time travel
-metaphysics
-
-:: References
-https://en.wikipedia.org/wiki/Grandfather_paradox
-
-
 grandmother and granddaughter
 =============================
 
@@ -15918,6 +15988,59 @@ landed on a barely habitable desert moon in tng4x09 "Final Mission".
 
 :: References
 https://en.wikipedia.org/wiki/Habitability_of_natural_satellites
+
+
+habitable planet in a binary star system
+========================================
+
+:: Description
+There is a planet in a binary star system, that is hospitable to human life.
+
+:: Parents
+habitable planet in a multiple star system
+
+:: Examples
+Harry Mudd fled the Enterprise in an absconded shuttlecraft to planet in a
+binary star system inhabited by a giant, menacing worm in tas1x10 "Mudd's
+Passion".
+
+:: References
+https://en.wikipedia.org/wiki/Habitability_of_binary_star_systems
+
+
+habitable planet in a multiple star system
+==========================================
+
+:: Description
+There is a planet in a star system consisting of two or more stars, that is
+hospitable to human life.
+
+:: Parents
+speculative habitat
+
+:: Examples
+Four stars were shown in the sky of the garbage planet Arcadia 234 in
+"Soldier" (1998).
+
+:: References
+https://en.wikipedia.org/wiki/Star_system#Multiple_star_systems
+
+
+habitable planet in a trinary star system
+=========================================
+
+:: Description
+There is a planet in a trinary star system, that is hospitable to human life.
+
+:: Parents
+habitable planet in a multiple star system
+
+:: Examples
+A trio of disembodied brain aliens ran a humanoid fighting ring on just such a
+planet in tos2x17 "The Gamesters of Triskellion".
+
+:: References
+https://en.wikipedia.org/wiki/Star_system#Triple_star_systems
 
 
 hallucination of a non-existing person
@@ -16297,24 +16420,6 @@ The Edo were quickly revealed to be full-blown sexual hedonists in tng1x08
 
 :: References
 https://en.wikipedia.org/wiki/Hedonism
-
-
-overprotective parent
-=====================
-
-:: Description
-A parent pays unusually close attention to a child's experiences and problems,
-particularly at educational institutions. Figuratively, the parent hovers over
-the child like a helicopter.
-
-:: Parents
-human parenting
-
-:: References
-https://en.wikipedia.org/wiki/Helicopter_parent
-
-:: Aliases
-helicopter parenting
 
 
 hell hath no fury like a woman scorned
@@ -16919,9 +17024,8 @@ hubris
 ======
 
 :: Description
-Someone exhibits excessive pride or self-confidence. This theme is typically
-used when someone gets a little too full of themselves and ends up getting a
-lesson in humility.
+Pride is so excessive that a character deigns to put themself on par, or 
+even above, the gods.
 
 :: Parents
 pride
@@ -18488,6 +18592,22 @@ The Eymorg civilization had collapsed when they entered an ice age in tos3x06
 
 :: References
 https://en.wikipedia.org/wiki/Ice_age
+
+
+ice hockey
+==========
+
+:: Description
+Ice hockey is a contact team sport played on ice, usually in an indoor or
+outdoor rink, in which two teams of skaters use their sticks to shoot a
+vulcanized rubber puck into their opponent's net to score goals. This game is
+featured.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Ice_hockey
 
 
 ice planet
@@ -22315,24 +22435,6 @@ matter manipulating technology
 http://www.sf-encyclopedia.com/entry/transmutation
 
 
-mecha robot
-===========
-
-:: Description
-Featured is a giant, humanoid, mobile robot controlled by people.
-
-:: Parents
-speculative robot
-
-:: Examples
-The powerful "Gun Unit Heavy Elimination Device" (GUNHED) mecha was used by
-Brooklyn to foil a highly advanced AI's plans for world domination in "Gunhed"
-(1989).
-
-:: References
-https://en.wikipedia.org/wiki/Mecha
-
-
 mechanical insect
 =================
 
@@ -23038,17 +23140,6 @@ to the Enterprise-D computer when he developed super-intelligence in tng4x19
 "The Nth Degree".
 
 
-thought-controlled vehicle
-==========================
-
-:: Description
-There is a vehicle that is controlled simply by thinking, without using knobs,
-wheels, levers, etc.
-
-:: Parents
-speculative vehicle
-
-
 mindwipe punishment
 ===================
 
@@ -23090,6 +23181,21 @@ matter manipulating technology
 :: References
 https://en.wikipedia.org/wiki/Size_change_in_fiction
 http://www.sf-encyclopedia.com/entry/miniaturization
+
+
+mining and tunneling
+====================
+
+:: Description
+There is a professional whose jobs involve excavation perilously deep
+underground.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Tunnel_construction
+https://en.wikipedia.org/wiki/Mining#Underground_Mining
 
 
 miracle
@@ -23277,6 +23383,20 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Mobile_phone_overuse
+
+
+moderation in all things
+========================
+
+:: Description
+More or less explicitly featured is the philosophy that one should not do
+anything too much, nor too little.
+
+:: Parents
+human idea about life
+
+:: References
+https://idioms.thefreedictionary.com/moderation+in+all+things
 
 
 modern science
@@ -23874,16 +23994,44 @@ https://en.wikipedia.org/wiki/Dwarf_(mythology)
 dwarf
 
 
+mythological siren
+==================
+
+:: Description
+The sirens are dangerous creatures from Greek mythology, that lure unwary
+sailors to their doom. Such or similar creatures are featured.
+
+:: Parents
+legendary being
+
+:: References
+https://en.wikipedia.org/wiki/Siren_(mythology)
+
+
 narcissism
 ==========
 
 :: Description
-Someone is obsessed with (and normally deluded about) their own grandeur,
-powers, and abilities.
+There is a character that, like Narcisuss in the ancient Greek story, has an
+excessive, lasting, and obsessive admiration their own self-image and/or other 
+attributes.
+
+:: Notes
+"Pride" themes like "attitude of superiority" involve a character comparing themselves
+to others. Such themes do not necessarily mean that narcissism is implied. It is 
+possible for a character, rightly or wrongly, to believe themselves superior and take 
+pride in that supposed fact, without them obsessively and lastingly admiring themselves.
+
+To judge whether we describe a character as "narcissistic" we inspect the character's
+self-admiring behavior and gauge whether we think that they, like Narcissus did, could
+have behaved the same way when alone.
+
+If a character admires themselves habitually but in a way that is not describable as
+"obsessive" then the theme "vanity" is applicable.
 
 :: Parents
-human character
 human mental condition
+vanity
 
 :: Examples
 Garth of Izar suffered from delusions of grandeur in tos3x16 "Whom Gods
@@ -23891,6 +24039,7 @@ Destroy".
 
 :: References
 https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
+https://en.wikipedia.org/wiki/Narcissism
 
 :: Aliases
 narcissistic personality disorder
@@ -24242,6 +24391,9 @@ social issue associated with the prevalence of this often criminal activity.
 :: Parents
 sexual crime
 
+:: Aliases
+peeping tom
+
 :: References
 https://en.wikipedia.org/wiki/Voyeurism
 
@@ -24272,6 +24424,20 @@ The kind of love a person feels springing from the memory of a bygone passion.
 
 :: Parents
 romantic love
+
+
+nothing ventured nothing gained
+===============================
+
+:: Description
+The idea is explicitly mentioned that if one takes no risks, one will not gain
+any benefits.
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wiktionary.org/wiki/nothing_ventured,_nothing_gained
 
 
 nuclear fission power
@@ -24378,6 +24544,16 @@ https://en.wikipedia.org/wiki/Naturism
 
 :: Aliases
 naturism
+
+
+obesity
+=======
+
+:: Description
+Someone struggles with being grossly over-weight.
+
+:: Parents
+human health condition
 
 
 obsession
@@ -25086,6 +25262,24 @@ Gideon".
 https://en.wikipedia.org/wiki/Human_overpopulation
 
 
+overprotective parent
+=====================
+
+:: Description
+A parent pays unusually close attention to a child's experiences and problems,
+particularly at educational institutions. Figuratively, the parent hovers over
+the child like a helicopter.
+
+:: Parents
+human parenting
+
+:: References
+https://en.wikipedia.org/wiki/Helicopter_parent
+
+:: Aliases
+helicopter parenting
+
+
 overregulated dystopia
 ======================
 
@@ -25294,6 +25488,27 @@ parent and child
 :: Examples
 Riker settled his long-standing rivalry with his father Kyle in the anbo-
 jtytsu dohyo tng2x14 "The Icarus Factor".
+
+
+parent's right to make decisions for their child
+================================================
+
+:: Description
+Discussed is to what extent parents should be legally able to make important
+decisions on their child's behalf. For example, to what extent should parents
+dictate that their child undergo life-altering operations, say a sex-change,
+or prevent their child receiving medical attention when it might be of
+benefit? To what extent should parents be able to indoctrinate their child in
+a religion or cult?
+
+:: Parents
+human parenting
+social ethical issue
+
+:: Examples
+In bbf1x10 "Believers", we must ponder whether it was right that Shon's
+parents could refuse Shon receiving a life saving surgery from Babylon 5's
+Doctor Franklin.
 
 
 parental controls in society
@@ -25710,6 +25925,26 @@ Markham observed people getting around a future New York City in penumatic
 tubes in "A Visitor from the Twentieth Century" by Harold Donitz (1928).
 
 
+performance art
+===============
+
+:: Description
+The performing arts are arts such as music, dance, and drama which are
+performed for an audience. It is different from visual arts, which is when
+artists use paint, canvas or various materials to create physical or static
+art objects. Performing arts include a range of disciplines which are
+performed in front of a live audience, including theatre, music, and dance. It
+can also include circus skills, vaudeville, professional wrestling, to name a
+few examples of activities that some may be reluctant to consider "art" in the
+normal sense.
+
+:: Parents
+the fine arts and the humanities
+
+:: References
+https://en.wikipedia.org/wiki/Performing_arts
+
+
 performance-enhancing drugs
 ===========================
 
@@ -25951,6 +26186,38 @@ shape up and take charge of his life. He must also take responsibility for it
 and stop blaming everyone else for his misfortunes.
 
 
+personification of a concept
+============================
+
+:: Description
+There is a living, perhaps even breathing being that represents a tangible
+thing (e.g. earth, water, air, fire) or an abstraction (e.g. death, time,
+nature).
+
+:: Parents
+speculative being
+
+:: References
+https://en.wikipedia.org/wiki/Personification
+
+
+pervasive marketing in society
+==============================
+
+:: Description
+Corporate market practices such as different kinds of advertisement
+strategies, often perceived as a nuisance, are discussed from a societal
+perspective.
+
+:: Parents
+social dysfunction
+sociocultural issue
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Marketing
+
+
 pesticides in society
 =====================
 
@@ -26043,6 +26310,25 @@ modern science
 
 :: References
 https://en.wikipedia.org/wiki/Physics
+
+
+piloted creature-shaped vehicle
+===============================
+
+:: Description
+There is a belimbed (or betentacled etc.) mobile machine that is piloted by
+someone residing within it.
+
+:: Parents
+speculative vehicle
+
+:: Examples
+The powerful "Gun Unit Heavy Elimination Device" (GUNHED) mecha was used by
+Brooklyn to foil a highly advanced AI's plans for world domination in "Gunhed"
+(1989).
+
+:: References
+https://en.wikipedia.org/wiki/Mecha
 
 
 pity
@@ -27848,6 +28134,27 @@ A character questions whether their beliefs are really rational.
 human worrying about self
 
 
+racial segregation
+==================
+
+:: Description
+Racial segregation is the systematic separation of people into racial or other
+ethnic groups in daily life. Such practices in a society are discussed.
+
+:: Parents
+socioeconomic issue
+sociocultural issue
+
+:: Examples
+In "District 9" (2009), aliens trapped on Earth were forced to live separate
+from humans, in what had become sprawling slums with harsh, impoverished,
+conditions.
+
+:: References
+https://en.wikipedia.org/wiki/Racial_segregation
+https://en.wikipedia.org/wiki/Apartheid
+
+
 racial supremacism
 ==================
 
@@ -28123,6 +28430,21 @@ activity.
 
 :: Parents
 human regular activity
+
+
+recreational illicit drug use
+=============================
+
+:: Description
+A character takes a controlled or outright illegal chemical substance in
+moderation for enjoyment, rather than for medical reasons or out of a desire
+to feed an addiction.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Recreational_drug_use
 
 
 reflecting on the person one might have been
@@ -29483,8 +29805,8 @@ struggle against some vicious foe.
 personal ethical dilemma
 
 
-sacrificing one's self to contain a pandemic
-============================================
+sacrificing one's self to stop a contagion
+==========================================
 
 :: Description
 A character does a self-sacrificial thing in order to contain a highly
@@ -31001,6 +31323,24 @@ human addiction
 https://en.wikipedia.org/wiki/Social_media_addiction
 
 
+social media dystopia
+=====================
+
+:: Description
+There is a society in which life is depressing, to our eyes, because of the
+pervasive presence of some form of social media.
+
+:: Parents
+dystopia
+
+:: Examples
+In blackmirror3x01 "Nosedive", everyone were obsessed with rating each other
+on social media, and receiving good ratings. Having a good rating was crucial
+in order to have a job, somewhere to live etc. This lead most people to act to
+each other in a way that seems entirely false, and to become stressed or
+suicidal because of a slip in their rating.
+
+
 social media in society
 =======================
 
@@ -31319,6 +31659,27 @@ legal punishment
 
 :: References
 https://en.wikipedia.org/wiki/Solitary_confinement
+
+
+sonar sensory ability
+=====================
+
+:: Description
+A character is able to sense the shape of the world around them by way of
+sonar, i.e., by somehow making use of information contained in sound waves
+around them. The character may or may not emit sound waves themselves for this
+purpose.
+
+:: Parents
+speculative ability
+
+:: Examples
+The blind telepath Miranda Jones wore a sonar-based sensor web dress that
+helped her to compensate for her disability in tos3x07 "Is There in Truth No
+Beauty?".
+
+:: References
+https://en.wikipedia.org/wiki/Sonar
 
 
 sonic shower
@@ -31852,6 +32213,21 @@ There is a futuristic device, machine, or gizmo of some sort or another.
 speculative technology
 
 
+speculative diving suit
+=======================
+
+:: Description
+A garment or wearable contraption designed to protect a diver from an
+underwater environment is featured in a manner that makes clear it is a future
+technological achievement.
+
+:: Parents
+speculative environmental suit
+
+:: References
+https://en.wikipedia.org/wiki/Diving_suit
+
+
 speculative energy generation technology
 ========================================
 
@@ -31874,6 +32250,21 @@ capabilities.
 
 :: Parents
 speculative technology
+
+
+speculative environmental suit
+==============================
+
+:: Description
+A garment or wearable contraption designed to keep someone alive in an
+environment hostile to life is featured in a manner that makes clear it is a
+future technological achievement.
+
+:: Parents
+speculative full body outfit
+
+:: References
+https://en.wikipedia.org/wiki/Environmental_suit
 
 
 speculative evolution
@@ -31912,6 +32303,23 @@ supernatural fiction as well as combinations thereof.
 
 :: References
 https://en.wikipedia.org/wiki/Speculative_fiction
+
+
+speculative full body outfit
+============================
+
+:: Description
+A garment (or wearable contraption) covering more or less the whole body that
+dramatically enhances an ability of its wearer is featured in a manner that
+makes clear it is a future technological achievement.
+
+:: Parents
+speculative wearable device
+
+:: Examples
+Sidney Stratton makes a brilliantly white business suit from an everlasting
+fabric made of a special polymer that repelled dirt using static electricity
+in "The Man in the White Suit" (1951).
 
 
 speculative future event
@@ -32006,6 +32414,22 @@ hand.
 
 :: Parents
 speculative device
+
+
+speculative healing device
+==========================
+
+:: Description
+There is a device that heals wounds and injuries with extraordinary quickness.
+
+:: Parents
+speculative device
+
+:: Examples
+In ent2x04 "Dead Stop", Phlox used a medical regenerator of some sort to
+repair a severe leg injury Malcolm had sustained while trying to disarm a
+mine. The outcome was complete recovery without even a scar, and Malcolm
+walked away feeling no pain.
 
 
 speculative human
@@ -32176,15 +32600,21 @@ speculative robot
 =================
 
 :: Description
-There is a mobile machine equipped with an advanced artificial intelligence,
-like and android or a Robby the Robot style mechanical man.
+There is a mobile machine equipped with an advanced artificial intelligence.
+For example, an android or a robotic dog that looks and behaves much like the
+real article.
 
 :: Parents
-speculative technology
+artificial intelligence
 
 :: Notes
 For this theme to apply, the machinery itself or the artificial intelligence
-must be well beyond what is possible when the story was first released.
+must be well beyond what is possible when the story was first released. The
+theme does not apply to creature-like machines that lack relatively advanced
+AI. For example, the theme does not apply to animal-shaped vehicles like the
+iconic AT-AT walker from Star Wars or the mechas from Japanese anime, even
+though these things are sometimes referred to as robots. The "piloted
+creature-shaped vehicle" theme is used to cover such contraptions.
 
 :: References
 https://en.wikipedia.org/wiki/Robots_in_literature
@@ -32233,6 +32663,21 @@ speculative vehicle
 :: References
 https://en.wikipedia.org/wiki/Spacecraft
 http://sf-encyclopedia.com/entry/spaceships
+
+
+speculative spacesuit
+=====================
+
+:: Description
+A garment or wearable contraption designed to keep someone alive in the harsh
+environment of outer space is featured in a manner that makes clear it is a
+future technological achievement.
+
+:: Parents
+speculative environmental suit
+
+:: References
+https://en.wikipedia.org/wiki/Space_suit
 
 
 speculative subliminal stimuli
@@ -32435,6 +32880,23 @@ universe can travel.
 
 :: Parents
 theory of relativity
+
+
+spendthrift
+===========
+
+:: Description
+There is a character who chronically and frivolously spends more money than
+they really can afford to spend.
+
+:: Parents
+human character
+
+:: References
+https://en.wikipedia.org/wiki/Spendthrift
+
+:: Aliases
+profligacy
 
 
 spirit possession
@@ -33405,6 +33867,20 @@ industry they have shares in.
 socioeconomic issue
 
 
+supreme judge being
+===================
+
+:: Description
+There is a being with powers vastly greater than those of ordinary humans who
+sees itself as an enforcer of cosmic justice.
+
+:: Parents
+transcendental being
+
+:: References
+https://en.wikipedia.org/wiki/Divine_judgment
+
+
 surveillance capitalism
 =======================
 
@@ -34243,6 +34719,20 @@ Second World War
 World War II
 
 
+the Golden Rule
+===============
+
+:: Description
+Someone lives by the "do unto others as you would have them do unto you"
+motto.
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wikipedia.org/wiki/Golden_Rule
+
+
 the Holy Chalice
 ================
 
@@ -34305,6 +34795,24 @@ The Zeons were persecuted by Ekosians dressed in full Nazi regalia in tos2x23
 
 :: References
 https://en.wikipedia.org/wiki/Stereotypes_of_Jews
+
+
+the Korean War
+==============
+
+:: Description
+The Korean War was a war between North Korea, with military support from China
+and the Soviet Union, and South Korea, backed by personnel from the United
+Nations (principally the United States). The war began on 25 June 1950 when
+North Korea invaded South Korea following clashes along the border and
+insurrections in the south. The war ended unofficially on 27 July 1953 in an
+armistice. This historical human conflict is featured in the story.
+
+:: Parents
+history
+
+:: References
+https://en.wikipedia.org/wiki/Korean_War
 
 
 the Native American stereotype
@@ -35158,24 +35666,6 @@ show business
 showbiz
 
 
-the ethics of thinking immoral thoughts
-=======================================
-
-:: Description
-We are made to ponder whether merely pondering a supposedly immoral act might
-be ethical or unethical.
-
-:: Parents
-ethics
-
-:: Examples
-In tz2019e2x09 "Try, Try", Marc was stuck in a peculiar loop where he repeated
-the same day over again indefinitely, here at least for the ten-thousandth
-time. The story turned on the ethical question of whether Claudia, in Marc's
-daily re-run, was like a figment of his imagination that he could treat as he
-liked since she would remember nothing the next time around.
-
-
 the ethics of interfering in less advanced societies
 ====================================================
 
@@ -35205,6 +35695,24 @@ social ethical dilemma
 
 :: References
 https://en.wikipedia.org/wiki/Interventionism_(politics)#Foreign_interventionism
+
+
+the ethics of thinking immoral thoughts
+=======================================
+
+:: Description
+We are made to ponder whether merely pondering a supposedly immoral act might
+be ethical or unethical.
+
+:: Parents
+ethics
+
+:: Examples
+In tz2019e2x09 "Try, Try", Marc was stuck in a peculiar loop where he repeated
+the same day over again indefinitely, here at least for the ten-thousandth
+time. The story turned on the ethical question of whether Claudia, in Marc's
+daily re-run, was like a figment of his imagination that he could treat as he
+liked since she would remember nothing the next time around.
 
 
 the ethics of valuing human lives
@@ -36064,6 +36572,21 @@ human nature
 :: Examples
 Suppressed animal instincts come to the surface as the crew begins to de-
 evolve in tng7x19 "Genesis".
+
+
+the nature of beauty
+====================
+
+:: Description
+The question of what "beauty" really is, is discussed. Why do we call some
+things "beautiful"?
+
+:: Parents
+aesthetics
+
+:: Examples
+McCoy pondered what it is that attracts us to cute little Tribbles in tos2x13
+"The Trouble with Tribbles".
 
 
 the nature of creativity
@@ -37503,6 +38026,17 @@ appear as out of thin air.
 speculative ability related to physical things
 
 
+thought-controlled vehicle
+==========================
+
+:: Description
+There is a vehicle that is controlled simply by thinking, without using knobs,
+wheels, levers, etc.
+
+:: Parents
+speculative vehicle
+
+
 thoughtcrime society
 ====================
 
@@ -37771,6 +38305,21 @@ and being honest on the other.
 
 :: Parents
 personal ethical dilemma
+
+
+torture
+=======
+
+:: Description
+We are made to ponder the practice of some humans to deliberately inflict
+severe physical or psychological suffering on people that are in their power.
+
+:: Parents
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Torture
+https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
 
 
 totalitarian dystopia
@@ -38765,9 +39314,6 @@ in the eponymous episode tos1x03 "Mudd's Women".
 :: References
 https://en.wikipedia.org/wiki/Vanity
 
-:: Aliases
-narcissism
-
 
 vegetarianism
 =============
@@ -39341,6 +39887,24 @@ There is a planet that is almost 100% water through and through.
 speculative habitat
 
 
+wax sculpture
+=============
+
+:: Description
+The art and artifice of making depictions out of wax like substances, is
+featured. For example, a wax museum filled with wax effigies of famous people
+might be pointedly featured.
+
+:: Parents
+sculpture
+
+:: References
+https://en.wikipedia.org/wiki/Wax_sculpture
+
+:: Aliases
+wax doll
+
+
 we need a balance between rationality and emotionality
 ======================================================
 
@@ -39771,6 +40335,16 @@ place.
 speculative experience
 
 
+what if I found myself in a void of nothingness
+===============================================
+
+:: Description
+A character is trapped in a "void" of some sort.
+
+:: Parents
+what if I found myself in a strange place
+
+
 what if I found myself in a zero gravity environment
 ====================================================
 
@@ -40037,16 +40611,6 @@ not even remembering his own name.
 :: References
 https://en.wikipedia.org/wiki/Amnesia
 http://www.sf-encyclopedia.com/entry/amnesia
-
-
-evil hand
-=========
-
-:: Description
-A character has a limb that seems to have an evil mind of its own.
-
-:: Parents
-what if my personal identity came into question
 
 
 what if I had multiple personalities
@@ -40590,16 +41154,6 @@ what if I found myself in a strange place
 :: Examples
 Captain Picard and some of his team were trapped in an eternal live enactment
 of a second rate 20th century novel in tng2x12 "The Royale".
-
-
-what if I found myself in a void of nothingness
-===============================================
-
-:: Description
-A character is trapped in a "void" of some sort.
-
-:: Parents
-what if I found myself in a strange place
 
 
 what if I was trapped inside a game
@@ -41707,6 +42261,21 @@ down and live out at least a good portion of their life.
 human life choice
 
 
+white hole
+==========
+
+:: Description
+There is a hypothetical region of spacetime called a "white hole", that cannot
+be entered from the outside, although energy-matter, light and information can
+escape from it.
+
+:: Parents
+speculative natural object
+
+:: References
+https://en.wikipedia.org/wiki/White_hole
+
+
 wicked character vs. virtuous character
 =======================================
 
@@ -41944,6 +42513,25 @@ A character isolates themself from their family, friends, and or community.
 
 :: Parents
 human mental condition
+
+
+witness tampering
+=================
+
+:: Description
+The act of attempting to improperly influence, alter or prevent the testimony
+of witnesses within criminal or civil proceedings is featured. Most typically
+this is featured in stories when criminals intimidate witnesses to lie or be
+silent in court.
+
+:: Parents
+obstruction of justice
+
+:: References
+https://en.wikipedia.org/wiki/Witness_tampering
+
+:: Aliases
+witness intimidation
 
 
 woman in charge
