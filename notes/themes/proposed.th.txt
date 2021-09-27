@@ -10,8 +10,6 @@ bodies alike.
 :: Parents
 what if I found myself in a strange place
 
-:: References
-
 
 religious hypocrisy
 ===================
@@ -46,9 +44,10 @@ time travel paradox
 ===================
 
 :: Description
-There is an apparent contradiction, or logical contradiction associated with the 
-idea of time and time travel. Typically, temporal paradoxes fall into two broad groups:
-consistency paradoxes exemplified by the grandfather paradox, and causal loops.
+There is an apparent contradiction, or logical contradiction associated with
+the  idea of time and time travel. Typically, temporal paradoxes fall into two
+broad groups: consistency paradoxes exemplified by the grandfather paradox,
+and causal loops.
 
 :: Parents
 time travel
@@ -78,6 +77,8 @@ what if I found out that a loved one was not the person I thought they were
 ===========================================================================
 
 :: Description
+A character finds that a person they care about has a highly problematic or
+troubling side of themself.
 
 :: Parents
 what if someone around me changed
@@ -87,6 +88,9 @@ speculative effect
 ==================
 
 :: Description
+There is a novel physical phenomenon that is not found in the real world as
+it is presently understood. The phenomenon may be mediated by magic,
+technology, or any other means.
 
 :: Parents
 speculative fiction theme
@@ -96,6 +100,8 @@ speculative love inducing effect
 ================================
 
 :: Description
+There is an effect that functions to create feeling of love in one person for
+another.
 
 :: Parents
 speculative effect
@@ -105,6 +111,7 @@ speculative invisibility inducing effect
 ========================================
 
 :: Description
+There is an effect that renders someone or something invisible to the eye.
 
 :: Parents
 speculative effect
@@ -114,6 +121,8 @@ speculative luck inducing effect
 ================================
 
 :: Description
+There is an effect that causes good fortune to be showed on someone much more
+than would be expected by chance.
 
 :: Parents
 speculative effect
@@ -123,6 +132,8 @@ speculative prediction of the future
 ====================================
 
 :: Description
+There is an effect that gives someone the means to predict the future with
+near perfect accuracy.
 
 :: Parents
 speculative effect
@@ -132,6 +143,8 @@ speculative time manipulating effect
 ====================================
 
 :: Description
+There is an effect that enables the past be rewritten or the future to be
+changed.
 
 :: Parents
 speculative effect
@@ -141,6 +154,8 @@ abandoning someone to save one's self
 =====================================
 
 :: Description
+A character contemplates leaving someone they care about in a tight spot to
+save their own skin.
 
 :: Parents
 personal ethical dilemma
@@ -165,6 +180,8 @@ mountaineering
 ==============
 
 :: Description
+A character is enthusiastic about the set of outdoor activities that involves
+ascending tall mountains.
 
 :: Parents
 recreational activity
@@ -177,6 +194,11 @@ zoology
 =======
 
 :: Description
+Zoology is the branch of biology that studies the animal kingdom, including
+the structure, embryology, evolution, classification, habits, and distribution
+of all animals, both living and extinct, and how they interact with their
+ecosystems. This theme is used whenever an aspect of this science is featured
+in the story.
 
 :: Parents
 biology
@@ -189,22 +211,44 @@ the desire to survive
 =====================
 
 :: Description
+A character is determined to live in spite of an adverse situation.
 
 :: Parents
 human safety need
 
-:: References
 
+mass hysteria
+=============
+
+:: Description
+Allusions of a threat spread through a group causing panic, each person's fear
+reinforcing that of the next and in a vicious circle.
+
+:: Parents
+humans in group
+
+:: References
+https://en.wikipedia.org/wiki/Mass_hysteria
+
+:: Examples
+The people of Maple Street gradually transform into an hysterical mob when
+they thought an alien monster was masquerading amongst them in "The Twilight
+Zone" (1959) story "The Monsters Are Due on Maple Street" (tz1959e1x22).
 
 
 cheating
 ========
 
 :: Description
-A characer subverts rules in a non-criminal way to obtain an unfair advantage over others with whom they are acquainted.
+A character subverts rules in a non-criminal way to obtain an unfair advantage
+over others with whom they are acquainted.
 
 :: Parents
 humans interacting
+
+:: Notes
+The theme "criminal fraud" is to be preferred when the when the act is clearly
+criminal in context.
 
 :: References
 https://en.wikipedia.org/wiki/Cheating
