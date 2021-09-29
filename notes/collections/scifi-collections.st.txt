@@ -1,3 +1,29 @@
+Collection: Skyline Films
+=========================
+
+:: Title
+Skyline Films
+
+:: Date
+2010-2020
+
+:: Description
+The films in the Skyline film franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Skyline_(2010_film)
+https://en.wikipedia.org/wiki/Beyond_Skyline
+https://en.wikipedia.org/wiki/Skylines_(film)
+
+:: Collections
+Collection: Skyline Films
+
+:: Component Stories
+movie: Skyline (2010)
+movie: Beyond Skyline (2017)
+movie: Skylines (2020)
+
+
 Collection: Deep Blue Sea
 =========================
 
@@ -588,6 +614,13 @@ movie: Godzilla 2000: Millennium (1999)
 movie: Godzilla vs Megaguirus (2000)
 movie: Godzilla Mothra and King Ghidorah: Giant Monsters AllOut Attack (2001)
 movie: Godzilla Against Mechagodzilla (2002)
+movie: Godzilla: Tokyo SOS (2003)
+movie: Godzilla: Final Wars (2004)
+movie: Godzilla (2014)
+movie: Shin Godzilla (2016)
+movie: Godzilla: Planet of the Monsters (2017)
+movie: Godzilla: City on the Edge of Battle (2018)
+movie: Godzilla: The Planet Eater (2018)
 
 
 Collection: Superman
@@ -667,6 +700,13 @@ movie: Godzilla 2000: Millennium (1999)
 movie: Godzilla vs Megaguirus (2000)
 movie: Godzilla Mothra and King Ghidorah: Giant Monsters AllOut Attack (2001)
 movie: Godzilla Against Mechagodzilla (2002)
+movie: Godzilla: Tokyo SOS (2003)
+movie: Godzilla: Final Wars (2004)
+movie: Godzilla (2014)
+movie: Shin Godzilla (2016)
+movie: Godzilla: Planet of the Monsters (2017)
+movie: Godzilla: City on the Edge of Battle (2018)
+movie: Godzilla: The Planet Eater (2018)
 
 
 Collection: Quatermass
