@@ -7,9 +7,6 @@ The Twilight Zone Franchise
 :: Date
 1959-2020
 
-:: Collections
-Collection: The Twilight Zone Franchise
-
 :: Description
 All Twilight Zone television and film stories.
 
@@ -20,6 +17,9 @@ https://en.wikipedia.org/wiki/The_Twilight_Zone_(2002_TV_series)
 https://en.wikipedia.org/wiki/The_Twilight_Zone_(2019_TV_series)
 https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
 https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
+
+:: Collections
+Collection: The Twilight Zone Franchise
 
 :: Component Stories
 tz1959e1x01
@@ -357,3 +357,5 @@ tz1983c
 tz1983d
 tz1994a
 tz1994b
+
+
