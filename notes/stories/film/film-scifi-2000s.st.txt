@@ -24,6 +24,9 @@ movie: Supernova (2000)
 :: Title
 Supernova
 
+:: Date
+2000-01-14
+
 :: Description
 Supernova is a 2000 science fiction horror film written by David C. Wilson,
 William Malone and Daniel Chuba and directed by Walter Hill, credited as
@@ -32,9 +35,6 @@ William Malone and Daniel Chuba and directed by Walter Hill, credited as
 Synopsis: A search and rescue medical ship crew in deep space discovers a
 potentially dangerous alien artifact form after responding to a distress
 signal.
-
-:: Date
-2000-01-14
 
 :: References
 https://en.wikipedia.org/wiki/Supernova_(2000_film)
@@ -72,9 +72,12 @@ movie: Pitch Black (2000)
 :: Title
 Pitch Black
 
+:: Date
+2000-02-18
+
 :: Description
-Pitch Black (titled The Chronicles of Riddick: Pitch Black on its DVD
-re-release) is a 2000 American science fiction action horror film directed by
+Pitch Black (titled The Chronicles of Riddick: Pitch Black on its DVD re-
+release) is a 2000 American science fiction action horror film directed by
 David Twohy and co-written by Twohy and brothers Ken and Jim Wheat from a
 story conceived by the latter.
 
@@ -84,9 +87,6 @@ makes an emergency crash landing on an empty desert planet, Riddick escapes.
 However, when predatory alien creatures begin attacking the survivors, Riddick
 joins forces with the surviving crew and other passengers to develop a plan to
 escape the planet.
-
-:: Date
-2000-02-18
 
 :: References
 https://en.wikipedia.org/wiki/Pitch_Black_(film)
@@ -112,7 +112,7 @@ organized religion [The Muslim preacher Imam and his three young acolytes were t
 role models [The tomboy Jack immediately took a liking to the hardened criminal Riddick and soon thereafter began to emulate him.]
 fear [The marooned Hunter-Gratzner crew and passengers pointedly discussed their fears, or lack thereof, of the vicious creatures that went flying around the desert planet at night, killing anything in their path.]
 gender bending [Riddick and the others were surprised to find that the teenager Jack was actually a girl who'd dressed as a boy and adopted a male persona to avoid attracting unwelcome attention. Jack generally behaved as a stereotypical tomboy.]
-abandoning someone to save one's self [Riddick forced Carolyn to choose between leaving her fellow marooned travelers for dead on the planet and escaping with him, and staying behind on the planet to die together with them.] 
+abandoning someone to save one's self [Riddick forced Carolyn to choose between leaving her fellow marooned travelers for dead on the planet and escaping with him, and staying behind on the planet to die together with them.]
 
 :: Other Keywords
 bounty hunter [It turned out that Johns was transporting Riddick to prison to collect a bounty.]
@@ -168,6 +168,9 @@ movie: What Planet Are You From (2000)
 :: Title
 What Planet Are You From?
 
+:: Date
+2000-03-03
+
 :: Description
 What Planet Are You From? is a 2000 American science fiction comedy film
 directed by Mike Nichols and written by Michael Leeson, Garry Shandling, Ed
@@ -175,9 +178,6 @@ Solomon, and Peter Tolan based on a story by Leeson and Shandling.
 
 Synopsis: A space alien is sent to Earth on a mission to impregnate a human
 female.
-
-:: Date
-2000-03-03
 
 :: References
 https://en.wikipedia.org/wiki/What_Planet_Are_You_From%3F
@@ -229,6 +229,9 @@ movie: Mission to Mars (2000)
 :: Title
 Mission to Mars
 
+:: Date
+2000-03-10
+
 :: Description
 Mission to Mars is a 2000 American science fiction adventure film directed by
 Brian De Palma, written by Jim Thomas, John Thomas, and Graham Yost, and
@@ -236,9 +239,6 @@ inspired by Disney's theme park attraction of the same name.
 
 Synopsis: When the first manned Mars exploration mission goes awry, a rescue
 mission is dispatched to return any survivors to Earth.
-
-:: Date
-2000-03-10
 
 :: References
 https://en.wikipedia.org/wiki/Mission_to_Mars
@@ -271,6 +271,9 @@ movie: Battlefield Earth (2000)
 :: Title
 Battlefield Earth
 
+:: Date
+2000-05-10
+
 :: Description
 Battlefield Earth (also referred to as Battlefield Earth: A Saga of the Year
 3000) is a 2000 American science fiction action film based on the 1982 novel
@@ -278,9 +281,6 @@ by Scientology founder L. Ron Hubbard.
 
 Synopsis: The film follows a rebellion against the alien Psychlos, a brutal
 race of humanoid aliens who have ruled Earth for 1,000 years.
-
-:: Date
-2000-05-10
 
 :: References
 https://en.wikipedia.org/wiki/Battlefield_Earth_(film)
@@ -318,17 +318,17 @@ movie: Titan AE (2000)
 :: Title
 Titan A.E.
 
+:: Date
+2000-06-16
+
 :: Description
 Titan A.E. is a 2000 American animated post-apocalyptic science fiction
-adventure film directed by Don Bluth and Gary Goldman and starring the
-voices of Matt Damon, Bill Pullman, Drew Barrymore, John Leguizamo, Nathan
-Lane, Janeane Garofalo, Ron Perlman and Tone Loc.
+adventure film directed by Don Bluth and Gary Goldman and starring the voices
+of Matt Damon, Bill Pullman, Drew Barrymore, John Leguizamo, Nathan Lane,
+Janeane Garofalo, Ron Perlman and Tone Loc.
 
 Synopsis: A young man who has been given a mysterious map by his father finds
 that the fate of humanity rests on his shoulders.
-
-:: Date
-2000-06-16
 
 :: References
 https://en.wikipedia.org/wiki/Titan_A.E.
@@ -471,7 +471,7 @@ asteroid impact [Sherman Klump had a dream in which a giant asteroid collided wi
 father and son [Sherman Klump had a heart to heart talk with his father Cletus about getting back together with Denise.]
 
 :: Other Keywords
-giant hamster []
+giant hamster
 
 
 movie: Hollow Man (2000)
@@ -479,6 +479,9 @@ movie: Hollow Man (2000)
 
 :: Title
 Hollow Man
+
+:: Date
+2000-08-04
 
 :: Description
 Hollow Man is a 2000 science fiction horror film directed by Paul Verhoeven
@@ -488,9 +491,6 @@ Synopsis: A scientist volunteers to be the first human test subject for a
 serum that renders the user invisible. When his fellow scientists are unable
 to restore him back to normal, he eventually becomes violently insane and goes
 on a murderous rampage.
-
-:: Date
-2000-08-04
 
 :: References
 https://en.wikipedia.org/wiki/Hollow_Man
@@ -530,6 +530,9 @@ movie: The Cell (2000)
 :: Title
 The Cell
 
+:: Date
+2000-08-18
+
 :: Description
 The Cell is a 2000 science fiction psychological horror film directed by
 Tarsem Singh in his directorial debut, and starring Jennifer Lopez, Vince
@@ -538,9 +541,6 @@ Vaughn, and Vincent D'Onofrio.
 Synopsis: A team of researchers use an experimental technology to enter the
 mind of a comatose serial killer in order to locate where he has hidden his
 latest kidnap victim.
-
-:: Date
-2000-08-18
 
 :: References
 https://en.wikipedia.org/wiki/The_Cell
@@ -570,15 +570,15 @@ movie: Happy Accidents (2000)
 :: Title
 Happy Accidents
 
+:: Date
+2000-08-24
+
 :: Description
 Happy Accidents is a 2000 American romantic comedy film starring Marisa Tomei
 and Vincent D'Onofrio.
 
 Synopsis: A New York City woman with a string of failed relationships falls in
 love with a man who claims to be from the year 2470.
-
-:: Date
-2000-08-24
 
 :: References
 https://en.wikipedia.org/wiki/Happy_Accidents_(film)
@@ -618,6 +618,9 @@ movie: Possible Worlds (2000)
 :: Title
 Possible Worlds
 
+:: Date
+2000-09-04
+
 :: Description
 Possible Worlds is a 2000 Canadian film adaptation of the 1990 play of the
 same name by John Mighton.
@@ -625,9 +628,6 @@ same name by John Mighton.
 Synopsis: A mathematician falls in love with the same woman in multiple
 parallel realities, as a police detective tries to apprehend a brain stealing
 serial killer.
-
-:: Date
-2000-09-04
 
 :: References
 https://en.wikipedia.org/wiki/Possible_Worlds_(film)
@@ -658,6 +658,9 @@ movie: The 6th Day (2000)
 :: Title
 The 6th Day
 
+:: Date
+2000-10-28
+
 :: Description
 The 6th Day is a 2000 American science fiction action film directed by Roger
 Spottiswoode and starring Arnold Schwarzenegger, Tony Goldwyn, Michael
@@ -669,9 +672,6 @@ businessman, and is thrust into a struggle to clear his name and protect his
 family from the conspirators who seek to keep the cloning a secret. The title
 refers to the Christian Genesis creation narrative, where God created mankind
 on the sixth day.
-
-:: Date
-2000-10-28
 
 :: References
 https://en.wikipedia.org/wiki/The_6th_Day
@@ -755,15 +755,15 @@ movie: Red Planet (2000)
 :: Title
 Red Planet
 
+:: Date
+2000-11-10
+
 :: Description
 Red Planet is a 2000 science fiction action film directed by Antony Hoffman,
 starring Val Kilmer, Carrie-Anne Moss, and Tom Sizemore.
 
 Synopsis: A pioneering team of astronauts are sent to Mars as a prelude to
 colonization, as the Earth is dying from an ecological crisis.
-
-:: Date
-2000-11-10
 
 :: References
 https://en.wikipedia.org/wiki/Red_Planet_(film)
@@ -801,6 +801,9 @@ movie: Unbreakable (2000)
 :: Title
 Unbreakable
 
+:: Date
+2000-11-21
+
 :: Description
 Unbreakable is a 2000 American neo-noir superhero thriller film written,
 produced, and directed by M. Night Shyamalan, and starring Bruce Willis,
@@ -812,9 +815,6 @@ with no injuries, leading to him discovering that he harbors superhuman
 abilities. As he begins to grapple with this discovery, he comes to the
 attention of disabled comic book store owner Elijah Price, who manipulates
 David in order to understand him.
-
-:: Date
-2000-11-21
 
 :: References
 https://en.wikipedia.org/wiki/Unbreakable_(film)
@@ -846,6 +846,9 @@ movie: The One (2001)
 :: Title
 The One
 
+:: Date
+2001-11-02
+
 :: Description
 The One is a 2001 American science fiction action film directed by James Wong,
 written by Wong and Glen Morgan, and starring Jet Li, Delroy Lindo, Carla
@@ -853,9 +856,6 @@ Gugino, and Jason Statham.
 
 Synopsis: A rogue agent travels to parallel realities in order for him to kill
 other versions of himself to become a mythical super-being known as "The One".
-
-:: Date
-2001-11-02
 
 :: References
 https://en.wikipedia.org/wiki/The_One_(2001_film)
@@ -887,6 +887,9 @@ movie: Vanilla Sky (2001)
 :: Title
 Vanilla Sky
 
+:: Date
+2001-12-14
+
 :: Description
 Vanilla Sky is a 2001 American science fiction psychological thriller film
 directed, written, and co-produced by Cameron Crowe. It is an English-language
@@ -894,9 +897,6 @@ adaptation of Alejandro Amenábar's 1997 Spanish film Open Your Eyes.
 
 Synopsis: The life of a young man who has it all is thrown into disarray after
 a car accident leaves his face horribly disfigured.
-
-:: Date
-2001-12-14
 
 :: References
 https://en.wikipedia.org/wiki/Vanilla_Sky
@@ -934,15 +934,15 @@ movie: Godzilla Mothra and King Ghidorah: Giant Monsters AllOut Attack (2001)
 :: Title
 Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack
 
+:: Date
+2001-12-15
+
 :: Description
 The film places Godzilla in an antagonistic role, possessed by the souls of
 those that were killed during the Pacific War, while Mothra, King Ghidorah,
 and Baragon team up to defeat it. It is the 25th film in the Godzilla
 franchise and the third film in the franchise's Millennium era, as well as the
 25th Godzilla film produced by Toho.
-
-:: Date
-2001-12-15
 
 :: References
 https://en.wikipedia.org/wiki/Godzilla,_Mothra_and_King_Ghidorah:_Giant_Monsters_All-Out_Attack
@@ -974,17 +974,17 @@ movie: Donnie Darko (2001)
 :: Title
 Donnie Darko
 
+:: Date
+2001-01-19
+
 :: Description
 Donnie Darko is a 2001 American science fiction psychological thriller film
-written and directed by Richard Kelly and produced by Flower Films. 
+written and directed by Richard Kelly and produced by Flower Films.
 
 Synopsis: The troubled teen Donnie Darko narrowly escapes a bizarre accident
 and has visions of Frank, a mysterious figure in a rabbit costume who informs
 him that the world will end in just over 28 days. Frank begins to manipulate
 Donnie to commit several crimes.
-
-:: Date
-2001-01-19
 
 :: References
 https://en.wikipedia.org/wiki/Donnie_Darko
@@ -1037,17 +1037,17 @@ movie: Avalon (2001)
 :: Title
 Avalon
 
+:: Date
+2001-01-20
+
 :: Description
-Avalon (Japanese: アヴァロン, Hepburn: Avaron), also known as Gate to Avalon,
-is a 2001 Polish-language Japanese science fiction drama film directed by
-Mamoru Oshii and written by Kazunori Itō.
+Avalon (Japanese: アヴァロン, Hepburn: Avaron), also known as Gate to Avalon, is a
+2001 Polish-language Japanese science fiction drama film directed by Mamoru
+Oshii and written by Kazunori Itō.
 
 Synopsis: A player in an illegal virtual reality video game has her sense of
 reality is challenged as she attempts to unravel the true nature and purpose
 of the game.
-
-:: Date
-2001-01-20
 
 :: References
 https://en.wikipedia.org/wiki/Avalon_(2001_film)
@@ -1074,6 +1074,9 @@ movie: Evolution (2001)
 :: Title
 Evolution
 
+:: Date
+2001-06-08
+
 :: Description
 Evolution is a 2001 American comic science fiction film directed by Ivan
 Reitman.
@@ -1081,9 +1084,6 @@ Reitman.
 Synopsis: A pair of college professors investigate a meteorite crash in
 Arizona. They discover that the meteorite harbors extraterrestrial lifeforms,
 which are evolving very quickly into large, diverse and outlandish creatures.
-
-:: Date
-2001-06-08
 
 :: References
 https://en.wikipedia.org/wiki/Evolution_(2001_film)
@@ -1155,7 +1155,7 @@ coping with being abandoned [Monica drove David to the forest and abandoned him 
 
 :: Minor Themes
 cryogenic technology [Martin was placed it cryogenic suspension for 5 years after he had contracted a rare disease.]
-grief [Monica faced the reality that her son Martin was cryogenically suspended because he had an incurable disease, and in all likelihood he would never be revived. But then to get great surprised he was cured.]
+coping with the death of a child [Monica faced the reality that her son Martin was cryogenically suspended because he had an incurable disease, and in all likelihood he would never be revived. But then to get great surprised he was cured.]
 jealousy [David was jealous of Martin for the added attention he got from their mother.]
 resentment [Martin resented David and played tricks on him to get him in trouble with Monica and Henry.]
 coping with a disability [Martin wore leg braces after his recovery from the rare illness.]
@@ -1218,17 +1218,17 @@ movie: Mimic 2 (2001)
 :: Title
 Mimic 2
 
+:: Date
+2001-07-17
+
 :: Description
 Mimic 2 is a 2001 science fiction horror film, directed by Jean de Segonzac,
 with a script inspired by a short story of the same name by Donald A.
 Wollheim. The movie was a direct-to-DVD sequel to Mimic (1997), and was
 followed by Mimic 3: Sentinel (2003).
 
-Synopsis: It falls on an entomophilic school teacher to stop a murderous
-human mimicking cockroach-like bug.
-
-:: Date
-2001-07-17
+Synopsis: It falls on an entomophilic school teacher to stop a murderous human
+mimicking cockroach-like bug.
 
 :: References
 https://en.wikipedia.org/wiki/Mimic_2
@@ -1250,7 +1250,7 @@ what it is like in school [The elementary school student Sal read his report abo
 coping with unwelcome romantic attention [Remi was creeped out when a flower-bearing and highly awkward Jason showed up unannounced at her apartment door. Remi brushed off her former student Nicky when he asked her out on a date.]
 obsession [Remi's love life suffered as a direct result of her extreme interest in all things bug. Her superior Morrie Deaver went so far as to claim that she was "pathologically unable to sustain a proximate intrapersonal relationship" owing to her fascination with insects.]
 endangered species [Lincoln Trahn had sold endangered species on the black market. This somehow resulted in 200 species of arthropods going extinct.]
-human childhood [The youngster Sal did such youngster things as read a report he'd done on bugs in front of his class, go searching for bugs in a abandoned building, etc.] 
+human childhood [The youngster Sal did such youngster things as read a report he'd done on bugs in front of his class, go searching for bugs in a abandoned building, etc.]
 domestic abuse [Nicky was being physically abused by his father.]
 zoology [The entomologist Remi Panos explained how the giant cockroach-like creature was using an evolutionary strategy by which it mimicked its only real predator: humans.]
 speculative genetic engineering [It was revealed that the giant cockroach-monster was a product of genetic engineering. In particular, it had evolved from a cockroach that had been spliced with ant and termite DNA.]
@@ -1262,19 +1262,19 @@ movie: Jason X (2001)
 :: Title
 Jason X
 
+:: Date
+2001-07-24
+
 :: Description
 Jason X is a 2001 American science fiction slasher film directed by Jim Isaac,
 written by Todd Farmer and starring Lexa Doig, Lisa Ryder, Chuck Campbell, and
-Kane Hodder in his fourth and final cinematic appearance as Jason Voorhees.
-It is the tenth installment in the Friday the 13th franchise, the first one
-since 1993's Jason Goes to Hell: The Final Friday.
+Kane Hodder in his fourth and final cinematic appearance as Jason Voorhees. It
+is the tenth installment in the Friday the 13th franchise, the first one since
+1993's Jason Goes to Hell: The Final Friday.
 
 Synopsis: Jason is cryogenically frozen for 445 years and awakens in 2455,
 after being found by a group of students, whom he subsequently stalks and
 kills one by one.
-
-:: Date
-2001-07-24
 
 :: References
 https://en.wikipedia.org/wiki/Jason_X
@@ -1358,15 +1358,15 @@ movie: The Lost Skeleton of Cadavra (2001)
 :: Title
 The Lost Skeleton of Cadavra
 
+:: Date
+2001-10-08
+
 :: Description
 The Lost Skeleton of Cadavra is a 2001 American independent science-fiction
 parody film directed by Larry Blamire.
 
 Synopsis: A scientist and his wife get mixed up with space aliens, a deranged
 scientist, a mutant monster, and a cranky living skeleton.
-
-:: Date
-2001-10-08
 
 :: References
 https://en.wikipedia.org/wiki/The_Lost_Skeleton_of_Cadavra
@@ -1409,6 +1409,9 @@ movie: Ghosts of Mars (2001)
 :: Title
 Ghosts of Mars
 
+:: Date
+2001-08-24
+
 :: Description
 Ghosts of Mars (titled onscreen as John Carpenter's Ghosts of Mars) is a 2001
 American science fiction action horror film written, directed and scored by
@@ -1416,9 +1419,6 @@ John Carpenter.
 
 Synopsis: A police officer is sent to a remote Martian mining outpost to
 transport a notorious prisoner.
-
-:: Date
-2001-08-24
 
 :: References
 https://en.wikipedia.org/wiki/Ghosts_of_Mars
@@ -1452,6 +1452,9 @@ movie: Replicant (2001)
 :: Title
 Replicant
 
+:: Date
+2001-09-18
+
 :: Description
 Replicant is a 2001 American science fiction action film directed by Ringo
 Lam, and starring Jean-Claude Van Damme and Michael Rooker.
@@ -1459,9 +1462,6 @@ Lam, and starring Jean-Claude Van Damme and Michael Rooker.
 Synopsis: A recently retired police detective is recruited into a secret
 government program to track down his old nemesis, a notorious serial killer
 with a penchant for brutally murdering Seattle area mothers.
-
-:: Date
-2001-09-18
 
 :: References
 https://en.wikipedia.org/wiki/Replicant_(film)
@@ -1495,14 +1495,14 @@ movie: The American Astronaut (2001)
 :: Title
 The American Astronaut
 
+:: Date
+2001-10-12
+
 :: Description
 The American Astronaut is a 2001 space Western musical film directed by and
 starring Cory McAbee.
 
 Synopsis: An interplanetary trader sets out to transport a boy to Venus.
-
-:: Date
-2001-10-12
 
 :: References
 https://en.wikipedia.org/wiki/The_American_Astronaut
@@ -1567,18 +1567,18 @@ movie: KPAX (2001)
 :: Title
 K-PAX
 
+:: Date
+2001-10-26
+
 :: Description
 K-PAX is a 2001 American-German science fiction-mystery film based on Gene
-Brewer's 1995 novel of the same name, directed by Iain Softley, starring Kevin 
+Brewer's 1995 novel of the same name, directed by Iain Softley, starring Kevin
 Spacey, Jeff Bridges, Mary McCormack, and Alfre Woodard.
 
 Synopsis: A psychiatric patient claims to be an alien from the planet K-PAX.
 During his treatment, the patient demonstrates an outlook on life that
 ultimately proves inspirational for his fellow patients and especially for his
 psychiatrist.
-
-:: Date
-2001-10-26
 
 :: References
 https://en.wikipedia.org/wiki/K-PAX_(film)
@@ -1617,6 +1617,9 @@ movie: Jimmy Neutron: Boy Genius (2001)
 :: Title
 Jimmy Neutron: Boy Genius
 
+:: Date
+2001-12-21
+
 :: Description
 Jimmy Neutron: Boy Genius is a 2001 American computer-animated science fiction
 comedy film produced by Nickelodeon Movies, O Entertainment and DNA
@@ -1624,9 +1627,6 @@ Productions, and distributed by Paramount Pictures.
 
 Synopsis: A schoolboy with super-genius intelligence must save all of the
 parents of the world from a race of egg-like aliens known as the Yolkians.
-
-:: Date
-2001-12-21
 
 :: References
 https://en.wikipedia.org/wiki/Jimmy_Neutron:_Boy_Genius
@@ -1807,7 +1807,7 @@ uncle and nephew [Peter was living with Aunt May and Uncle Ben.]
 standing up to a bully [Peter used his newly found super fast reflexes and super strength to humiliate his high school bully Flash.]
 photography [Peter planned to make his way to New York City after graduation to pursue a career in photography.]
 combat sports in society [Peter entered a cage fight against Bonesaw McGraw in an effort to win $3000 in prize money.]
-grief [Peter and Aunt May mourned the death of Ben who had been shot dead in a car jacking.]
+coping with the death of a spouse [Aunt May mourned the death of her husband Ben who had been shot dead in a car jacking.]
 what it is like in high school [The first half of the film depicted Peter Parker's life in high school.]
 boyfriend and girlfriend [Harry and Mary Jane became an item.]
 choosing who dies and who lives [Green Goblin put Peter in a situation where he had to choose between saving his love Mary Jane on the one hand, and a cable car of kids on the other.]
@@ -1817,6 +1817,7 @@ the desire for vengeance [Harry swore on his father's grave that Spider-man woul
 romantic love [The film concluded with Mary Jane proclaiming her love for Peter, but Peter told her he could only offer her his friendship.]
 with great power comes great responsibility [Ben shared exactly this aphorism with Peter.]
 journalism [Peter sold photos of Spider-Man to the Daily Bugle tabloid newspaper.]
+coping with the death of a family member [Peter mourned the death of his uncle Ben who had been shot dead in a car jacking.]
 
 
 movie: Star Wars: Episode II - Attack of the Clones (2002)
@@ -1882,7 +1883,6 @@ father and son [Jango Fet and his cloned son Boba Fett.]
 a person and their clone [Jango Fet and his cloned son Boba Fett and other clones too.]
 accelerated growth rate therapy [Clones had been genetically engineered to grow fast.]
 slavery [Wotto sold Shmi Skywalker to another owner.]
-grief [Anakin reacted to his mother's death by slaughtering her captors and their families.]
 coping with the death of a parent [Anakin reacted to his mother's death by slaughtering her captors and their families.]
 beating one's self up [Anakin wouldn't forgive himself for not reaching his mother in time.]
 hatred [Anakin became consumed with hatred after his mother's death.]
@@ -2020,16 +2020,16 @@ movie: 28 Days Later (2002)
 :: Title
 28 Days Later
 
+:: Date
+2002-11-01
+
 :: Description
-28 Days Later is a 2002 British post-apocalyptic horror drama film directed
-by Danny Boyle, written by Alex Garland, and starring Cillian Murphy, Naomie
+28 Days Later is a 2002 British post-apocalyptic horror drama film directed by
+Danny Boyle, written by Alex Garland, and starring Cillian Murphy, Naomie
 Harris, Christopher Eccleston, Megan Burns and Brendan Gleeson.
 
 Synopsis: Four survivors of an apocalyptic pandemic cope with the destruction
 of the lives they once knew while evading those infected by the virus.
-
-:: Date
-2002-11-01
 
 :: References
 https://en.wikipedia.org/wiki/28_Days_Later
@@ -2104,8 +2104,7 @@ telepathic ability [Troi used her telepathic ability to somehow communicate with
 factions joining forces against a common enemy [The Romulans joined forces with the Federation to prevent Shinzon from annihilating the earth.]
 a common enemy unites [The Romulans joined forces with the Federation to prevent Shinzon from annihilating the earth.]
 human self-sacrifice [Data gave his life to blow up Shinzon's ship and save the earth from being annihilated.]
-grief [The command crew mourned the death of Data at the conclusion of the film.]
-coping with the death of a colleague [The command crew mourned the death of Data at the conclusion of the film.]
+coping with the death of a friend [The command crew mourned the death of their longtime crew member and friend Data at the conclusion of the film.]
 space dock [The Enterprise was shown being repaired in a giant space dock in orbit around the earth at the conclusion of the film.]
 
 
@@ -2115,15 +2114,15 @@ movie: Godzilla Against Mechagodzilla (2002)
 :: Title
 Godzilla Against Mechagodzilla
 
-:: Description
-Godzilla Against Mechagodzilla (ゴジラ×メカゴジラ, Gojira tai Mekagojira,
-released in Japan as Godzilla vs. Mechagodzilla) is a 2002 Japanese kaiju
-film directed by Masaaki Tezuka, written by Wataru Mimura, and produced by
-Shogo Tomiyama. It is the 27th film in the Godzilla franchise and the fourth
-film in the franchise's Millennium period.
-
 :: Date
 2002-12-14
+
+:: Description
+Godzilla Against Mechagodzilla (ゴジラ×メカゴジラ, Gojira tai Mekagojira, released in
+Japan as Godzilla vs. Mechagodzilla) is a 2002 Japanese kaiju film directed by
+Masaaki Tezuka, written by Wataru Mimura, and produced by Shogo Tomiyama. It
+is the 27th film in the Godzilla franchise and the fourth film in the
+franchise's Millennium period.
 
 :: References
 https://en.wikipedia.org/wiki/Godzilla_Against_Mechagodzilla
@@ -2186,8 +2185,7 @@ mad scientist stereotype [Dr. Herbert West was obsessed with reanimating dead bo
 :: Minor Themes
 journalism [The investigative journalist Laura Olney was working to uncover what was going on at the prison.]
 the medical professions [Dr. Howard Phillips took a position at the prison medical center.]
-grief [Howard grieved the death of his sister who'd perished in a zombie attack.]
-coping with the death of a sibling [Howard wanted to bring his sister back to live after she died in a zombie attack.]
+coping with the death of a family member [Howard wanted to bring his sister back to live after she died in a zombie attack.]
 the scientist profession [Dr. Herbert West and Dr. Howard Phillips were experimenting with reviving corpses in a makeshift prison laboratory.]
 disembodied head [Laura's disembodied head was taunting Howard toward the film's conclusion.]
 
@@ -2253,7 +2251,7 @@ unrequited love [Logan was into Jean but she as already married to Cyclops.]
 misanthropy [Magneto so despised humans that he secretly reversed Colonel Stryker's plot to kill all mutants to kill all humans instead.]
 human self-sacrifice [Jean seemingly gave her life to stop a wall of water from engulfing the X-men jet cruiser.]
 time slow down ability [Xavier twice froze everyone in time at the White House.]
-grief [Xavier and Cyclops commiserated over Jean's apparent death.]
+coping with the death of a loved one [Xavier and Cyclops commiserated over Jean's apparent death.]
 intangibility ability [Kitty Pryde had the ability to walk through walls.]
 directed energy shooting ability [Cyclops and Storm had this power.]
 
@@ -2398,7 +2396,6 @@ fiancée and fiancée [Kate Brewster and her fiancée.]
 father and daughter [Lieutenant General Robert Brewster and Kate Brewster.]
 post-apocalyptic dystopia [Los Angeles of 2029 was a post atomic horror wasteland in which humans were in a desperate war for survival against machines.]
 sentient computer [Skynet became self-aware.]
-grief [Kate grieved over the death of first her fiancée and then her father.]
 coping with the death of a lover [Kate grieved over the death of first her fiancée and then her father.]
 coping with the death of a parent [Kate grieved over the death of first her fiancée and then her father.]
 romantic love [John and Kate.]
@@ -2448,7 +2445,6 @@ powered exoskeleton [Captain Roland, and many of his fellow resistance fighters,
 courage [Captain Roland died in a blaze of glory battling the intelligent machines.]
 lucky charms [Link agreed to wear the special necklace that Zee gave him even though he didn't believe it would help him in any way.]
 coping with the death of a lover [Neo mourned the loss of his girlfriend Trinity.]
-grief [Neo mourned the loss of his girlfriend Trinity.]
 coping with a disability [Neo was somehow blinded and had to compensate by using his other senses.]
 free will [A point was made about free will when Neo answered with "Because I choose to." to Agent Smith's question about why he keeps on fighting against all odds.]
 
@@ -2459,21 +2455,21 @@ movie: Godzilla: Tokyo SOS (2003)
 :: Title
 Godzilla: Tokyo S.O.S.
 
+:: Date
+2003-12-13
+
 :: Description
-Godzilla: Tokyo S.O.S. (ゴジラ×モスラ×メカゴジラ 東京SOS, Gojira x Mosura x
-Mekagojira Tōkyō Esu Ō Esu, released in Japan as Godzilla × Mothra ×
-Mechagodzilla: Tokyo SOS) is a 2003 Japanese kaiju film directed by Masaaki
-Tezuka, written by Tezuka and Masahiro Yokotani, and produced by Shogo
-Tomiyama. Produced and distributed by Toho Studios, it is the 28th film in the
-Godzilla franchise, the fifth film in the franchise's Millennium series, the
-27th Godzilla film produced by Toho, and a direct sequel to the 2002 film
-Godzilla Against Mechagodzilla.
+Godzilla: Tokyo S.O.S. (ゴジラ×モスラ×メカゴジラ 東京SOS, Gojira x Mosura x Mekagojira
+Tōkyō Esu Ō Esu, released in Japan as Godzilla × Mothra × Mechagodzilla: Tokyo
+SOS) is a 2003 Japanese kaiju film directed by Masaaki Tezuka, written by
+Tezuka and Masahiro Yokotani, and produced by Shogo Tomiyama. Produced and
+distributed by Toho Studios, it is the 28th film in the Godzilla franchise,
+the fifth film in the franchise's Millennium series, the 27th Godzilla film
+produced by Toho, and a direct sequel to the 2002 film Godzilla Against
+Mechagodzilla.
 
 Synopsis: Mechagodzilla and Mothra face off against Godzilla as the fate of
 Tokyo hangs in the balance.
-
-:: Date
-2003-12-13
 
 :: References
 https://en.wikipedia.org/wiki/Godzilla:_Tokyo_S.O.S.
@@ -2599,16 +2595,16 @@ movie: The Chronicles of Riddick (2004)
 :: Title
 The Chronicles of Riddick
 
+:: Date
+2004-06-11
+
 :: Description
 The Chronicles of Riddick is a 2004 American science fiction action film
 written and directed by David Twohy. It is the second installment in the
 Riddick film series.
 
-Synopsis: It is up to the notorious wanted criminal Riddick to save a
-peoples from being exterminated by army of religious fanatics. 
-
-:: Date
-2004-06-11
+Synopsis: It is up to the notorious wanted criminal Riddick to save a peoples
+from being exterminated by army of religious fanatics.
 
 :: References
 https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick
@@ -2729,14 +2725,13 @@ tragic love [Peter and Mary Jane loved one another but could not be together bec
 
 :: Minor Themes
 fiancée and fiancée [Mary Jane got engaged to astronaut John Jameson.]
-grief [Aunt May struggled to hit over the loss of her husband Uncle Ben, who was murdered two years prior.]
 family financial problem [Both Peter and Aunt May were struggling pay their bills.]
 facing being evicted from one's home [Aunt May was giving a few weeks to leave her home.]
 husband and wife [Otto Octavius and his dedicated wife and assistant Rosalie.]
 the theater [Mary Jane scored a leading role in a new theatrical release of the Oscar Wilde play "The Importance of Being Earnest".]
 acting [Mary Jane moved to New York City to become an actress.]
 brain-computer interface [Otto Octavius controlled his robotic octopus appendages through a direct link to his brain.]
-coping with the death of a spouse [Otto Octavius had the death of his dedicated wife on his conscience after she perished in his catastrophic fusion power experiment.]
+coping with the death of a spouse [Otto Octavius had the death of his dedicated wife on his conscience after she perished in his catastrophic fusion power experiment. Aunt May struggled to hit over the loss of her husband Uncle Ben, who was murdered two years prior.]
 photography [Peter garnered some income by working as a freelance photographer.]
 uncle and nephew [Peter was counseled by his departed uncle Ben in a dream.]
 beating one's self up [Both Peter and Aunt May blamed themselves for the death of Uncle Ben.]
@@ -2852,7 +2847,6 @@ helping a stranger in need [Malcolm helping the siblings]
 :: Major Themes
 mind reading ability [River had learned of government secrets by reading minds.]
 technologically enabled utopia [a chemical agent was supposed to have removed angry feelings]
-grief [various]
 technological risk to civilization [chemical agent turned people into mad reavers]
 coping with a loose cannon [River could go off any time]
 sacrifice for a loved one [various]
@@ -2939,7 +2933,7 @@ coping with opposing a friend [Logan has to kill his love Jean to save the world
 :: Minor Themes
 virtual reality room [Logan led an X-men battle training session in a virtual reality environment.]
 coping with the death of a lover [Scott had a hard time getting over his girlfriend Jean's death.]
-grief [Cyclops had a hard time getting over his girlfriend Jean's death. Logan and Storm wept at Xavier's wheelchair in the immediate aftermath of his death at the hands of Jean.]
+coping with the death of someone [Logan and Storm wept at Xavier's wheelchair in the immediate aftermath of his death at the hands of Jean.]
 shapeshifting [Mystique had an innate ability to alter her shape and voice to mimic any human being.]
 coping with a disability [Xavier was confined to a wheelchair.]
 father and son [Worthington Labs head Warren Worthington II and his mutant son Warren Worthington III]
@@ -3037,9 +3031,8 @@ the horrors of war [people suffered from it left and right]
 mass infertility [We saw a future where the women of the world had all become infertile.]
 
 :: Major Themes
-grief [especially Theo over Jasper]
-coping with the death of a friend [especially Theo over Jasper]
-coping with the death of a lover [Theo over Julian]
+coping with the death of a friend [Theo is harrowed by the deaths and killings of people he knows, and by the death of Jasper in particular.]
+coping with the death of a lover [Theo is harrowed by the sudden killing of the estranged wife, Julian, with whom he briefly got reacquainted.]
 social activism [Jasper and various others]
 
 :: Minor Themes
@@ -3056,6 +3049,9 @@ movie: Deja Vu (2006)
 :: Title
 Déjà Vu
 
+:: Date
+2006-11-22
+
 :: Description
 Déjà Vu is a 2006 American science fiction action film directed by Tony Scott,
 written by Bill Marsilii and Terry Rossio, and produced by Jerry Bruckheimer.
@@ -3063,9 +3059,6 @@ written by Bill Marsilii and Terry Rossio, and produced by Jerry Bruckheimer.
 Synopsis: An ATF agent travels back in time in an attempt to prevent a
 domestic terrorist attack that takes place in New Orleans and to save a woman
 with whom he falls in love.
-
-:: Date
-2006-11-22
 
 :: References
 https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)
@@ -3224,7 +3217,7 @@ role models [A man in the street wondered aloud who his daughter would look up t
 romantic jealousy [Peter tried to make Mary Jane jealous by dancing with Gwen Stacy in front of Mary Jane at the jazz bar.]
 facing a hostage situation [Peter and Harry put their differences aside and teamed together to save Mary Jane.]
 putting differences aside [Peter and Harry put their differences aside and teamed together to save Mary Jane.]
-grief [Harry was torn up over the death of his father.]
+coping with the death of a parent [Harry was torn up over the death of his father.]
 coping with humiliation [Eddie contended that Peter had humiliated him by getting him fired and taking his girl, and he strove to repay the favor.]
 remorse [Flint Marko assured Peter that he spent a lot of nights wishing he could take back murdering his uncle.]
 shapeshifter [A freak accident left Flint Marko (a.k.a. Sandman) with the ability to shapeshift.]
@@ -3404,18 +3397,18 @@ movie: Godzilla: Final Wars (2004)
 :: Title
 Godzilla: Final Wars
 
+:: Date
+2004-11-29
+
 :: Description
 Godzilla: Final Wars (ゴジラ FINAL WARS, Gojira Fainaru Uōzu) is a 2004 kaiju
 film directed by Ryuhei Kitamura, written by Isao Kiriyama and Wataru Mimura,
 and produced by Shogo Tomiyama. It is the 29th film in the Godzilla franchise,
 the sixth and final film in the franchise's Millennium series and the 28th
-Godzilla film produced by Toho. 
+Godzilla film produced by Toho.
 
 Synopsis: The Earth Defence Forces rely on Godzilla to save humanity from
 nefarious aliens who seek to make humans their food supply.
-
-:: Date
-2004-11-29
 
 :: References
 https://en.wikipedia.org/wiki/Godzilla:_Final_Wars
@@ -3512,7 +3505,6 @@ womanizing man [The genius inventor Tony Stark was a consummate playboy.]
 duty vs. conscience [Should Tony, who had recently come to the realization that weapons are not play things, use his power to shutdown weapons manufacturing operations at his company?]
 the corporate world [We saw a fanciful depiction of what it might be like to be an executive at a high-tech weapons manufacturing corporation.]
 unethical business practices [Stark Industries was selling weapons to both the U.S. military and the insurgents they were fighting in Afghanistan.]
-narcissism [Tony is a stereotypical narcissistic tech company CEO.]
 
 :: Minor Themes
 human vs. captivity [Tony and Yinsen were held captive for three months by the Ten Rings insurgents.]
@@ -3856,7 +3848,6 @@ teleportation device [Chekov transported Kirk and Spock up to the Enterprise jus
 genocide [Nero launched a genocidal attack on Vulcan.]
 telepathic ability [Old Spock mind melded with Kirk.]
 time travel [Old Spock traveled back in time.]
-grief [Spock mourned the murder of his mother which he had witnessed.]
 coping with the death of a parent [Spock mourned the murder of his mother which he had witnessed.]
 emotional overwhelm [Spock became overwhelmed with emotion over the death of his mother and assaulted Kirk on the Enterprise bridge.]
 infatuation [There was something going on between Spock and Uhura.]
@@ -3893,7 +3884,7 @@ betrayal [Logan was betrayed by his half-brother, Victor, and then his girlfrien
 brother and brother [The story follows Logan as he seeks vengeance against his half-brother James.]
 self-healing ability [Wolverine's body automatically healed itself after any physical injury.]
 coping with opposing a friend [Logan has to oppose his own half-brother who was turning evil.]
-coping with the death of a lover [Logan thought that his girlfriend Kayla had been murdered.]
+coping with the death of a lover [Logan gave a howl of mourning upon finding his girlfriend Kayla's apparently dead body in the woods.]
 immortality [Logan and his half-brother Victor had lived without any signs of physical aging since the time of the American Civil War.]
 supersoldier [Major Stryler was masterminding a plan to create an elite fighting force of experimentally enhanced mutants.]
 romantic love [Logan and Kayla were happily living together as a couple, had a falling out of sorts, but rekindled their love for one another toward the conclusion of the film.]
@@ -3908,7 +3899,6 @@ teleportation ability [John Wraith had an innate ability to teleport himself ove
 super reflexes [Wade Wilson could deflect flying bullets with his sword. Agent Zero had enhanced agility and reflexes.]
 electricity manipulation ability [Chris Bradley had an innate ability to manipulate electricity and electronic objects.]
 boyfriend and girlfriend [Logan was living in northern Canada with his girlfriend Kayla.]
-grief [Logan gave a howl of mourning upon finding Kayla's apparently dead body in the woods.]
 kindness [A farmer and his wife took in Logan and cared for him.]
 hospitality [A farmer and his wife took in Logan and cared for him.]
 obesity [Fred Dukes was training as a boxer in an effort to lose weight as he had become morbidly obese.]
@@ -4092,6 +4082,9 @@ movie: Avatar (2009)
 :: Title
 Avatar
 
+:: Date
+2009-12-10
+
 :: Description
 Avatar (marketed as James Cameron's Avatar) is a 2009 American epic science
 fiction film directed, written, produced, and co-edited by James Cameron and
@@ -4103,9 +4096,6 @@ habitable moon of a gas giant in the Alpha Centauri star system, in order to
 mine the valuable mineral unobtanium. The expansion of the mining colony
 threatens the continued existence of a local tribe of Na'vi – a humanoid
 species indigenous to Pandora.
-
-:: Date
-2009-12-10
 
 :: References
 https://en.wikipedia.org/wiki/Avatar_(2009_film)
@@ -4147,4 +4137,5 @@ betrayal [Neytiri pointedly accused Jake of having betrayed her clan for not hav
 coping with the death of a parent [Neytiri released a scream of mourning upon seeing the body of her slaughtered father.]
 shamanism [Mo'at performed a shamanistic ritual over Jake's body.]
 coping with the death of someone [Jake mourned the deaths of his comrades in arms Trudy and Grace.]
+
 
