@@ -7061,15 +7061,16 @@ family affairs
 https://en.wikipedia.org/wiki/Dysfunctional_family
 
 
-coping with a greedy heir
-=========================
+greedy heir
+===========
 
 :: Description
 Someone, usually an aging or sick character, is bothered by a potential
 beneficiary who is overly concerned about their future inheritance.
 
 :: Parents
-coping with a problematic person
+human character
+the lust for gold
 
 
 coping with a grumpy old coot
@@ -8206,7 +8207,7 @@ entirely get over.
 :: Parents
 romantic relationship issue
 human emotional issue
-human dreaming
+remembrance
 
 :: Examples
 McCoy found himself in a "romantic haze" at the prospect of meeting his long-
@@ -8503,16 +8504,6 @@ coping with the death of a family member
 Lwaxana mourned the death of her daughter Kestra in tng7x07 "Dark Page".
 
 
-coping with the death of a colleague
-====================================
-
-:: Description
-A character grieves after a colleague has passed away.
-
-:: Parents
-coping with the death of someone
-
-
 coping with the death of a family member
 ========================================
 
@@ -8521,21 +8512,6 @@ A character must come to terms with having lost a family member.
 
 :: Parents
 coping with the death of someone
-
-
-coping with the death of a fellow compatriot
-============================================
-
-:: Description
-A character grieves over the death of a fellow countryman who they, for
-example, share nationality or common cause with.
-
-:: Parents
-coping with the death of someone
-
-:: Examples
-Worf coped with the death of a renegade Klingon compatriot by unleashing a
-thunderous death howl in tng1x20 "Heart of Glory".
 
 
 coping with the death of a friend
@@ -8591,20 +8567,6 @@ coping with the death of someone
 
 :: Examples
 Spock mourned the loss of his pet sehlat in tas1x02 "Yesteryear".
-
-
-coping with the death of a sibling
-==================================
-
-:: Description
-A character grieves over the death of a sibling.
-
-:: Parents
-coping with the death of a family member
-
-:: Examples
-Rabal mourned the loss of his sister, and fellow environmental activist,
-Serova in tng7x09 "Forces of Nature".
 
 
 coping with the death of a spouse
@@ -9591,8 +9553,8 @@ Beverly "the dancing doctor" got a kick out of teaching Data the art of tap
 dancing in tng4x11 "Data's Day".
 
 
-dangerous driving in society
-============================
+dangerous driving
+=================
 
 :: Description
 The issue of people sometimes choosing to drive their vehicles in a way that
@@ -9607,7 +9569,8 @@ https://en.wikipedia.org/wiki/Dangerous_driving
 https://en.wikipedia.org/wiki/Reckless_driving
 
 :: Aliases
-reckless driving in society
+reckless driving
+speeding
 
 
 dark family secret
@@ -10894,7 +10857,7 @@ prescribed by physicians), to a level that renders the driver incapable of
 operating a motor vehicle safely, is featured.
 
 :: Parents
-dangerous driving in society
+dangerous driving
 
 :: References
 https://en.wikipedia.org/wiki/Driving_under_the_influence
@@ -14987,12 +14950,12 @@ gender bending
 A character challenges our typical preconceptions of gender roles and
 attitudes, for example by behaving like the opposite sex that they are.
 
-:: Notes
-A character simply disguising themselves as the opposite sex is not
-in itself a motivation for this theme.
-
 :: Parents
 gender issue
+
+:: Notes
+A character simply disguising themselves as the opposite sex is not in itself
+a motivation for this theme.
 
 :: References
 https://en.wikipedia.org/wiki/Gender_bender
@@ -17009,8 +16972,8 @@ hubris
 ======
 
 :: Description
-Pride is so excessive that a character deigns to put themself on par, or 
-even above, the gods.
+Pride is so excessive that a character deigns to put themself on par, or even
+above, the gods.
 
 :: Parents
 pride
@@ -23968,25 +23931,26 @@ narcissism
 
 :: Description
 There is a character that, like Narcisuss in the ancient Greek story, has an
-excessive, lasting, and obsessive admiration their own self-image and/or other 
+excessive, lasting, and obsessive admiration their own self-image and/or other
 attributes.
-
-:: Notes
-"Pride" themes like "attitude of superiority" involve a character comparing themselves
-to others. Such themes do not necessarily mean that narcissism is implied. It is 
-possible for a character, rightly or wrongly, to believe themselves superior and take 
-pride in that supposed fact, without them obsessively and lastingly admiring themselves.
-
-To judge whether we describe a character as "narcissistic" we inspect the character's
-self-admiring behavior and gauge whether we think that they, like Narcissus did, could
-have behaved the same way when alone.
-
-If a character admires themselves habitually but in a way that is not describable as
-"obsessive" then the theme "vanity" is applicable.
 
 :: Parents
 human mental condition
 vanity
+
+:: Notes
+"Pride" themes like "attitude of superiority" involve a character comparing
+themselves to others. Such themes do not necessarily mean that narcissism is
+implied. It is possible for a character, rightly or wrongly, to believe
+themselves superior and take pride in that supposed fact, without them
+obsessively and lastingly admiring themselves.
+
+To judge whether we describe a character as "narcissistic" we inspect the
+character's self-admiring behavior and gauge whether we think that they, like
+Narcissus did, could have behaved the same way when alone.
+
+If a character admires themselves habitually but in a way that is not
+describable as "obsessive" then the theme "vanity" is applicable.
 
 :: Examples
 Garth of Izar suffered from delusions of grandeur in tos3x16 "Whom Gods
@@ -24347,11 +24311,11 @@ social issue associated with the prevalence of this often criminal activity.
 sexual crime
 invasion of privacy
 
-:: Aliases
-peeping tom
-
 :: References
 https://en.wikipedia.org/wiki/Voyeurism
+
+:: Aliases
+peeping tom
 
 
 nostalgia
