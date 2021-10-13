@@ -3103,7 +3103,7 @@ Atrocities, such as torture or the mass killing of civilians, are carried out
 during the course of a war.
 
 :: Parents
-war
+the horrors of war
 
 :: References
 https://en.wikipedia.org/wiki/War_crime
@@ -5645,7 +5645,7 @@ food confiscated, homes destroyed, or been put in an internment camp for fear
 of espionage.
 
 :: Parents
-war
+the horrors of war
 
 :: References
 https://en.wikipedia.org/wiki/Civilian_casualties
@@ -8504,16 +8504,6 @@ coping with the death of a family member
 Lwaxana mourned the death of her daughter Kestra in tng7x07 "Dark Page".
 
 
-coping with the death of a colleague
-====================================
-
-:: Description
-A character grieves after a colleague has passed away.
-
-:: Parents
-coping with the death of someone
-
-
 coping with the death of a family member
 ========================================
 
@@ -8522,21 +8512,6 @@ A character must come to terms with having lost a family member.
 
 :: Parents
 coping with the death of someone
-
-
-coping with the death of a fellow compatriot
-============================================
-
-:: Description
-A character grieves over the death of a fellow countryman who they, for
-example, share nationality or common cause with.
-
-:: Parents
-coping with the death of someone
-
-:: Examples
-Worf coped with the death of a renegade Klingon compatriot by unleashing a
-thunderous death howl in tng1x20 "Heart of Glory".
 
 
 coping with the death of a friend
@@ -8592,20 +8567,6 @@ coping with the death of someone
 
 :: Examples
 Spock mourned the loss of his pet sehlat in tas1x02 "Yesteryear".
-
-
-coping with the death of a sibling
-==================================
-
-:: Description
-A character grieves over the death of a sibling.
-
-:: Parents
-coping with the death of a family member
-
-:: Examples
-Rabal mourned the loss of his sister, and fellow environmental activist,
-Serova in tng7x09 "Forces of Nature".
 
 
 coping with the death of a spouse
@@ -38064,16 +38025,6 @@ tidally locked planet Dytallix B in tng1x15 "Conspiracy".
 https://en.wikipedia.org/wiki/Tidal_locking
 
 
-time freezing device
-====================
-
-:: Description
-There is a machine that can be used to freeze time itself.
-
-:: Parents
-spacetime manipulating technology
-
-
 time loop
 =========
 
@@ -38143,35 +38094,6 @@ otherwise frozen objects and persons.
 
 :: Parents
 speculative ability related to reality at large
-
-
-time slow down process
-======================
-
-:: Description
-Time itself is observed to slow to a crawl or perhaps freeze altogether.
-
-:: Parents
-speculative natural process
-
-:: Aliases
-time freeze
-time stop
-
-
-time speed up
-=============
-
-:: Description
-Time moves faster for some.
-
-:: Parents
-speculative natural process
-
-:: Examples
-The Scalosians had been subjected to radiation that made them speed up in time
-in tos3x13 "Wink of an Eye". The radiation had its negative effects also,
-rendering them sterile.
 
 
 time travel
@@ -41458,17 +41380,6 @@ childbearing age got pregnant at the same time.
 
 :: Parents
 speculative future event
-
-
-what if everybody and everything was frozen in time
-===================================================
-
-:: Description
-A character experiences what it would be like if everybody and everything was
-frozen in time except for themself.
-
-:: Parents
-what if the people around me changed
 
 
 what if everyone lost control of their inhibitions
