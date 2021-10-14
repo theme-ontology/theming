@@ -479,14 +479,14 @@ appropriately to them.
 human characters in contrast
 
 
-El Dorado
-=========
+the legend of El Dorado
+=======================
 
 :: Description
 This fabled city in South America is featured.
 
 :: Parents
-speculative habitat
+cultural history
 
 :: Examples
 In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
@@ -1525,7 +1525,7 @@ The branch of philosophy dealing with the nature of art, beauty, and taste;
 and with the creation and appreciation of beauty.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Aesthetics
@@ -2638,7 +2638,7 @@ The scientific study of human activity through excavation of old sites,
 analysis of artefacts, etc.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Archaeology
@@ -3053,7 +3053,7 @@ astronomy
 Topics about celestial objects and other celestial phenomena.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Astronomy
@@ -4013,7 +4013,7 @@ Biology is the natural science that studies life and living organisms. This
 theme is used whenever an aspect of this science is featured in the story.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Biology
@@ -5099,7 +5099,7 @@ Artificially synthesized compounds (a.k.a. chemicals) are used for some novel
 purpose.
 
 :: Parents
-modern science
+science
 
 :: Examples
 In the novel "Strange Case of Dr Jekyll and Mr Hyde" (1886), Dr. Henry Jekyll
@@ -5741,8 +5741,8 @@ recreational activity
 the fine arts and the humanities
 
 
-classical philosophy
-====================
+philosophy
+==========
 
 :: Description
 The category of themes that fall neatly in the traditional domains of
@@ -11179,7 +11179,7 @@ The scientific study of interactions among organisms and their environment,
 involving all of biology, geography, and Earth science.
 
 :: Parents
-modern science
+science
 
 :: Examples
 Invasive species' such as the Tribbles could have a profound impact on ecology
@@ -11742,7 +11742,7 @@ The branch of philosophy that involves systematizing, defending, and
 recommending moral principles.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Ethics
@@ -15196,7 +15196,7 @@ science and planetary science. This theme is used whenever a topic in this
 science is notably featured.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Geology
@@ -16548,20 +16548,6 @@ educational issue
 https://en.wikipedia.org/wiki/Historical_revisionism
 
 
-historiography
-==============
-
-:: Description
-The methodology of historians studying history. This involves things like the
-role of primary evidence.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/Historiography
-
-
 history
 =======
 
@@ -17428,7 +17414,7 @@ The distinguishing characteristics - including ways of thinking, feeling, and
 acting - which humans tend to have naturally.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Human_nature
@@ -22252,7 +22238,7 @@ Featured is some aspect of number theory, algebra, geometry, or other type of
 study which is popularly categorized under the rubric of "mathematics".
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Mathematics
@@ -22464,7 +22450,7 @@ treatment, and prevention of disease. This theme is used whenever an aspect of
 this science is featured in the story.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Medicine
@@ -22707,7 +22693,7 @@ The branch of philosophy concerned with the fundamental nature of reality and
 such basic concepts as existence, matter, space, time and causation.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Metaphysics
@@ -23332,8 +23318,8 @@ human idea about life
 https://idioms.thefreedictionary.com/moderation+in+all+things
 
 
-modern science
-==============
+science
+=======
 
 :: Description
 Featured is a systematic enterprise that builds and organizes knowledge in the
@@ -26229,7 +26215,7 @@ through space and time, and the related entities of energy and force. This
 theme is used whenever an aspect of this science is featured in the story.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Physics
@@ -27474,7 +27460,7 @@ Featured is a practical problem that arises when people who communicate
 differently, i.e. who use very different languages, have to interact.
 
 :: Parents
-society
+philosophy
 
 
 professional politics
@@ -27706,7 +27692,7 @@ of conscious and unconscious phenomena, as well as feeling and thought. This
 theme is used whenever a topic in this science is notably featured.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Psychology
@@ -28265,21 +28251,6 @@ ravages of war are featured.
 
 :: Parents
 socioeconomic issue
-
-
-recapitulation theory
-=====================
-
-:: Description
-A largely discredited hypothesis advanced by Ernst Haeckel that in developing
-from embryo to adult, animals pass through stages resembling successive stages
-in the evolution of remote ancestors.
-
-:: Parents
-superseded scientific theory
-
-:: References
-https://en.wikipedia.org/wiki/Recapitulation_theory
 
 
 reclusiveness
@@ -31470,7 +31441,7 @@ aspects of society, including cultural norms, expectations, and context, on
 the way language is used, and society's effect on language.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Sociolinguistics
@@ -34181,7 +34152,7 @@ technology
 The application of scientific knowledge in building contraptions is featured.
 
 :: Parents
-modern science
+science
 
 
 technology-free utopia
@@ -41833,7 +41804,7 @@ even such a thing, and if so is it knowable and how can it be confidently
 recognized?
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Truth
