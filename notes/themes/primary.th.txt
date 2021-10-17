@@ -2854,8 +2854,8 @@ artificial intelligence
 =======================
 
 :: Description
-There is a machine with roughly human-level intelligence, such as androids,
-sentient computers, etc.
+There is an automaton (typically a machine) with roughly human-level intelligence, 
+such as androids, sentient computers, etc.
 
 :: Parents
 speculative technology
@@ -19456,6 +19456,7 @@ transformed into a genius.
 
 :: Parents
 mind altering technology
+artificial intelligence
 
 
 intelligent animal
