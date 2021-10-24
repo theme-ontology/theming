@@ -391,15 +391,32 @@ supernatural luck
 =================
 
 :: Description
-A character's good or bad fortune is interpreted to be an attribute of
-themself or some object, or the result of a favorable or unfavorable view of
-a deity upon them.
+A character's good or bad fortune is interpreted in terms of the supernatural,
+such as an attribute of themself or some magical object, or the result of a
+favorable or unfavorable view of a deity upon them.
 
 :: Parents
 folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Luck
+
+
+god and follower
+================
+
+:: Description
+A personal relationship between a deity and a (more or less) devout follower
+of theirs, is featured.
+
+:: Notes
+This theme should only be used when someone is in direct, typically verbal
+communication with their chosen god. The simple voicing of a prayer, for
+instance, does not meet the bar.
+
+:: Parents
+organized religion
+human interpersonal relationship
 
 
 drugged up dystopia
