@@ -2,7 +2,8 @@ what if I were stranded on a deserted planet
 ============================================
 
 :: Description
-
+We imagine what it would be like to be stranded on a deserted planet, cut off
+from civilization.
 
 :: Parents
 what if I found myself in a strange place
@@ -276,6 +277,8 @@ picking up a hitchhiker
 =======================
 
 :: Description
+A character traveling in a vehicle goes out of their way to help a stranger
+who is waiting along the side of the road in search of a ride.
 
 :: Parents
 helping a stranger in need
@@ -284,22 +287,12 @@ helping a stranger in need
 https://en.wikipedia.org/wiki/Hitchhiking
 
 
-love thy neighbor
-=================
-
-:: Description
-
-:: Parents
-human idea about life
-
-:: References
-https://en.wikipedia.org/wiki/Love_Thy_Neighbor
-
-
 child unhealthily attached to a parent
 ======================================
 
 :: Description
+A character maintains an unhealthy dependence on a parent at an age when the
+character is expected to be self-reliant.
 
 :: Parents
 parent and child
@@ -313,6 +306,7 @@ water sports
 ============
 
 :: Description
+There is a sport which takes place either in or on liquid water.
 
 :: Parents
 sports
@@ -370,6 +364,55 @@ time slow down
 time stop
 
 
+folk belief
+===========
+
+:: Description
+This is the category of themes that are about faith-based popular beliefs and
+cultural traditions that fall outside of the typical framework of organized
+religious doctrines and practices.
+
+:: Parents
+the pursuit of knowledge
+
+:: References
+https://en.wikipedia.org/wiki/Folk_belief
+https://en.wikipedia.org/wiki/Popular_belief
+https://en.wikipedia.org/wiki/Superstition
+
+
+supernatural luck
+=================
+
+:: Description
+A character's good or bad fortune is interpreted in terms of the supernatural,
+such as an attribute of themself or some magical object, or the result of a
+favorable or unfavorable view of a deity upon them.
+
+:: Parents
+folk belief
+
+:: References
+https://en.wikipedia.org/wiki/Luck
+
+
+god and follower
+================
+
+:: Description
+A personal relationship between a deity and a (more or less) devout follower
+of theirs, is featured.
+
+:: Notes
+This theme should only be used when someone is in direct, typically verbal
+communication with their chosen god. The simple voicing of a prayer, for
+instance, does not meet the bar.
+
+:: Parents
+organized religion
+human interpersonal relationship
+
+
 drugged up dystopia
 ===================
 
@@ -385,6 +428,8 @@ the desire to get away from it all
 ==================================
 
 :: Description
+A character wants nothing more than to rid themselves of their various
+burdens in life for an extended period of time, or perhaps even permanently. 
 
 :: Parents
 human self-actualization need
@@ -394,6 +439,10 @@ speculative place
 =================
 
 :: Description
+There is a domain amenable to human habitation that falls outside the
+present scope of where human beings have so far set foot. These hypothetical
+domains range from futuristic cities to space habitats to habitable exoplanets
+to fabled lands to magical kingdoms in the clouds.
 
 :: Parents
 speculative fiction theme
@@ -403,32 +452,11 @@ legendary place
 ===============
 
 :: Description
+A fictional realm from Earth mythology, is featured. Examples include
+Atlantis, El Dorado, and the Garden of Eden. 
 
 :: Parents
 speculative place
-
-
-folklore
-========
-
-:: Description
-
-:: Parents
-the pursuit of knowledge
-
-:: References
-https://en.wikipedia.org/wiki/Folklore
-
-
-mythology
-=========
-
-:: Description
-
-:: Parents
-
-:: References
-https://en.wikipedia.org/wiki/Myth
 
 
 what if someone dangerous was after me
@@ -440,3 +468,4 @@ is out to kill or otherwise cause them significant harm.
 
 :: Parents
 what if I were in a tight spot
+
