@@ -479,14 +479,14 @@ appropriately to them.
 human characters in contrast
 
 
-El Dorado
-=========
+the legend of El Dorado
+=======================
 
 :: Description
 This fabled city in South America is featured.
 
 :: Parents
-speculative habitat
+cultural history
 
 :: Examples
 In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
@@ -622,7 +622,7 @@ featured. There may, for example, be nature spirits or deities with Japanese
 names.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 In "Spirited Away" (2001), the young Japanese girl Chihiro found her self in a
@@ -733,7 +733,10 @@ A character believes themselves to be a divinely chosen leader and savior of
 their people.
 
 :: Parents
-human mental condition
+delusion of grandeur
+
+:: References
+https://en.wikipedia.org/wiki/Messiah_complex
 
 
 Moon people
@@ -1101,16 +1104,6 @@ Tamarian Captain Dathon finally figured out how to communicate in tng5x02
 
 :: References
 https://www.scientificamerican.com/article/how-the-stress-of-disaster-brings-people-together/
-
-
-a god and its people
-====================
-
-:: Description
-The relationship between a god his, her, or its people is investigated.
-
-:: Parents
-organized religion
 
 
 a leopard can't change its spots
@@ -1522,7 +1515,7 @@ The branch of philosophy dealing with the nature of art, beauty, and taste;
 and with the creation and appreciation of beauty.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Aesthetics
@@ -2161,7 +2154,7 @@ with a focus on behavior under natural conditions, and viewing behavior as an
 evolutionarily adaptive trait.
 
 :: Parents
-biology
+zoology
 
 :: Notes
 This theme is used in, for example, nature documentaries that explain how
@@ -2522,7 +2515,7 @@ apotheosis
 A mortal character is transformed into a being of godlike stature.
 
 :: Parents
-organized religion
+what if I underwent a physical metamorphosis
 
 :: References
 https://en.wikipedia.org/wiki/Apotheosis
@@ -2635,7 +2628,7 @@ The scientific study of human activity through excavation of old sites,
 analysis of artefacts, etc.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Archaeology
@@ -2851,8 +2844,8 @@ artificial intelligence
 =======================
 
 :: Description
-There is a machine with roughly human-level intelligence, such as androids,
-sentient computers, etc.
+There is an automaton (typically a machine) with roughly human-level intelligence, 
+such as androids, sentient computers, etc.
 
 :: Parents
 speculative technology
@@ -3050,7 +3043,7 @@ astronomy
 Topics about celestial objects and other celestial phenomena.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Astronomy
@@ -3100,7 +3093,7 @@ Atrocities, such as torture or the mass killing of civilians, are carried out
 during the course of a war.
 
 :: Parents
-war
+the horrors of war
 
 :: References
 https://en.wikipedia.org/wiki/War_crime
@@ -3443,7 +3436,7 @@ An omen that signifies ill luck according to some tradition, is featured in
 just such a way.
 
 :: Parents
-superstition
+supernatural luck
 
 :: Examples
 In ahp1x14 "A Bullet for Baldwin", a cleaner informs Mr. Stepp that opening an
@@ -4010,7 +4003,7 @@ Biology is the natural science that studies life and living organisms. This
 theme is used whenever an aspect of this science is featured in the story.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Biology
@@ -5096,7 +5089,7 @@ Artificially synthesized compounds (a.k.a. chemicals) are used for some novel
 purpose.
 
 :: Parents
-modern science
+science
 
 :: Examples
 In the novel "Strange Case of Dr Jekyll and Mr Hyde" (1886), Dr. Henry Jekyll
@@ -5642,7 +5635,7 @@ food confiscated, homes destroyed, or been put in an internment camp for fear
 of espionage.
 
 :: Parents
-war
+the horrors of war
 
 :: References
 https://en.wikipedia.org/wiki/Civilian_casualties
@@ -5738,8 +5731,8 @@ recreational activity
 the fine arts and the humanities
 
 
-classical philosophy
-====================
+philosophy
+==========
 
 :: Description
 The category of themes that fall neatly in the traditional domains of
@@ -5849,17 +5842,6 @@ recreational activity
 
 :: References
 https://en.wikipedia.org/wiki/Psychology_of_collecting
-
-
-collective dreaming
-===================
-
-:: Description
-The idea that people can literally share the same dream and transmit
-information from one to the other in it.
-
-:: Parents
-superstition
 
 
 collective punishment
@@ -6291,7 +6273,7 @@ The practice of communicating with the spirits of the dead and living human
 beings.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Mediumship
@@ -7058,15 +7040,16 @@ family affairs
 https://en.wikipedia.org/wiki/Dysfunctional_family
 
 
-coping with a greedy heir
-=========================
+greedy heir
+===========
 
 :: Description
 Someone, usually an aging or sick character, is bothered by a potential
 beneficiary who is overly concerned about their future inheritance.
 
 :: Parents
-coping with a problematic person
+human character
+the lust for gold
 
 
 coping with a grumpy old coot
@@ -7295,6 +7278,23 @@ human challenge in life
 Examples of problematic people that others have coped with in stories include
 panicky relatives, practical jokers, jealous lovers, enamoured groupies, and
 obnoxious jerks.
+
+
+coping with a spendthrift
+=========================
+
+:: Description
+A character is troubled because someone they are connected with frivolously
+spends too much money. A spouse might, for example, be troubled because their
+partner is shopping or gambling to an extent that it threatens the family's
+financial security.
+
+:: Parents
+coping with a problematic person
+spendthrift
+
+:: References
+https://en.wikipedia.org/wiki/Spendthrift
 
 
 coping with a spoiled brat
@@ -8186,7 +8186,7 @@ entirely get over.
 :: Parents
 romantic relationship issue
 human emotional issue
-human dreaming
+remembrance
 
 :: Examples
 McCoy found himself in a "romantic haze" at the prospect of meeting his long-
@@ -8483,16 +8483,6 @@ coping with the death of a family member
 Lwaxana mourned the death of her daughter Kestra in tng7x07 "Dark Page".
 
 
-coping with the death of a colleague
-====================================
-
-:: Description
-A character grieves after a colleague has passed away.
-
-:: Parents
-coping with the death of someone
-
-
 coping with the death of a family member
 ========================================
 
@@ -8501,21 +8491,6 @@ A character must come to terms with having lost a family member.
 
 :: Parents
 coping with the death of someone
-
-
-coping with the death of a fellow compatriot
-============================================
-
-:: Description
-A character grieves over the death of a fellow countryman who they, for
-example, share nationality or common cause with.
-
-:: Parents
-coping with the death of someone
-
-:: Examples
-Worf coped with the death of a renegade Klingon compatriot by unleashing a
-thunderous death howl in tng1x20 "Heart of Glory".
 
 
 coping with the death of a friend
@@ -8571,20 +8546,6 @@ coping with the death of someone
 
 :: Examples
 Spock mourned the loss of his pet sehlat in tas1x02 "Yesteryear".
-
-
-coping with the death of a sibling
-==================================
-
-:: Description
-A character grieves over the death of a sibling.
-
-:: Parents
-coping with the death of a family member
-
-:: Examples
-Rabal mourned the loss of his sister, and fellow environmental activist,
-Serova in tng7x09 "Forces of Nature".
 
 
 coping with the death of a spouse
@@ -9571,8 +9532,8 @@ Beverly "the dancing doctor" got a kick out of teaching Data the art of tap
 dancing in tng4x11 "Data's Day".
 
 
-dangerous driving in society
-============================
+dangerous driving
+=================
 
 :: Description
 The issue of people sometimes choosing to drive their vehicles in a way that
@@ -9587,7 +9548,8 @@ https://en.wikipedia.org/wiki/Dangerous_driving
 https://en.wikipedia.org/wiki/Reckless_driving
 
 :: Aliases
-reckless driving in society
+reckless driving
+speeding
 
 
 dark family secret
@@ -9867,6 +9829,26 @@ Captain Picard had the unpleasant duty of informing Jeremy Aster that his
 mother Marla had died on an away mission in tng3x05 "The Bonding".
 
 
+delusion of being someone one is not
+====================================
+
+:: Description
+A character is portrayed as having the crazy delusion that they are someone
+they are not. Typically this happens when a person believes themself to be
+someone famous, like Jesus or Napoleon.
+
+:: Parents
+human mental condition
+
+:: Notes
+This theme is typically not applicable in fantastical stories where magic or
+technology is used to alter a person's mind in such a way that it arguably has
+been transformed into the mind of that person they now think they are.
+
+:: References
+https://en.wikipedia.org/wiki/Delusional_disorder
+
+
 delusion of grandeur
 ====================
 
@@ -10139,11 +10121,11 @@ destiny
 =======
 
 :: Description
-The idea that some or all of what will happen to us is pre-determined and
+The idea that some or all of what will happen to us is predetermined and
 cannot be influenced by our decisions.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 Data was destined to find his own severed head in tng5x26 "Time's Arrow".
@@ -10505,7 +10487,7 @@ reading entrails, reading stars, using knuckle bones, tarot cards, ouija
 boards etc.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Divination
@@ -10822,17 +10804,6 @@ https://en.wikipedia.org/wiki/Substance_dependence
 substance abuse
 
 
-drugged up dystopia
-===================
-
-:: Description
-There is a world in which existence is blissful thanks to one or more drugs
-that keep us happy.
-
-:: Parents
-dystopia
-
-
 drugs for military use
 ======================
 
@@ -10854,7 +10825,7 @@ prescribed by physicians), to a level that renders the driver incapable of
 operating a motor vehicle safely, is featured.
 
 :: Parents
-dangerous driving in society
+dangerous driving
 
 :: References
 https://en.wikipedia.org/wiki/Driving_under_the_influence
@@ -11176,7 +11147,7 @@ The scientific study of interactions among organisms and their environment,
 involving all of biology, geography, and Earth science.
 
 :: Parents
-modern science
+science
 
 :: Examples
 Invasive species' such as the Tribbles could have a profound impact on ecology
@@ -11739,7 +11710,7 @@ The branch of philosophy that involves systematizing, defending, and
 recommending moral principles.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Ethics
@@ -11881,7 +11852,7 @@ Earth and humanity must be at the physical center of creation. There are,
 however, variations.
 
 :: Parents
-superstition
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
@@ -12684,11 +12655,11 @@ fairies
 =======
 
 :: Description
-The notion of fairy folk, from primarily North European folk lore, is brought
+The notion of fairy folk, from primarily North European folklore, is brought
 up.
 
 :: Parents
-superstition
+folk belief
 legendary being
 
 :: References
@@ -12704,7 +12675,7 @@ intervention in spiritual and physical healing, especially in the context of
 Christian religion.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Faith_healing
@@ -12719,7 +12690,7 @@ state of the art medical science and therefore puts public health at risk to
 lesser or greater extent.
 
 :: Parents
-organized religion
+medical ethical issue
 
 :: Examples
 A contemporary debate rages in some places about the use of vaccination.
@@ -12899,25 +12870,6 @@ honor
 
 :: References
 https://en.wikipedia.org/wiki/Family_honor
-
-
-family life
-===========
-
-:: Description
-The everyday life of a possible human family is featured.
-
-:: Parents
-family affairs
-
-:: Examples
-In voy3x22 "Real Life" The Doctor created a stereotypical idealized American
-family on the holodeck with which he played out classical motifs such as the
-husband coming home from work to a loving house wife and sitting down to an
-orderly family dinner. Objecting to this unrealistic fantasy, B'Elanna
-introduced various elements of dysfunction: The wife became overworked and
-testy, their teenage son got caught up with a bad crowd of rowdy Klingons,
-their younger daughter wanted to engage in dangerous activities, etc.
 
 
 family vs. career
@@ -14041,7 +13993,8 @@ ease with his silver tongue in tng5x09 "A Matter of Time".
 https://en.wikipedia.org/wiki/Flattery
 
 :: Aliases
-sucking
+sucking up
+sycophancy
 
 
 flee to fight another day
@@ -14968,6 +14921,10 @@ attitudes, for example by behaving like the opposite sex that they are.
 :: Parents
 gender issue
 
+:: Notes
+A character simply disguising themselves as the opposite sex is not in itself
+a motivation for this theme.
+
 :: References
 https://en.wikipedia.org/wiki/Gender_bender
 
@@ -15207,7 +15164,7 @@ science and planetary science. This theme is used whenever a topic in this
 science is notably featured.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Geology
@@ -15581,6 +15538,7 @@ the exact opposite.
 
 :: Parents
 organized religion
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Good_and_evil
@@ -15722,23 +15680,6 @@ The relationship between a grandfather and his grandson is featured.
 
 :: Parents
 human familial relationship
-
-
-grandfather paradox
-===================
-
-:: Description
-The following kind of paradox is featured: If I go back in time and do
-something that would prevent me from later going back in time (such as killing
-my own grandfather), then I can't have gone back in time. But then I won't
-have been prevented from going and so I went, and so on.
-
-:: Parents
-time travel
-metaphysics
-
-:: References
-https://en.wikipedia.org/wiki/Grandfather_paradox
 
 
 grandmother and granddaughter
@@ -16187,7 +16128,7 @@ haunted object
 There is an object to which a ghost, or suchlike spirit, is attached.
 
 :: Parents
-superstition
+folk belief
 
 
 haunted painting
@@ -16487,7 +16428,7 @@ The idea that someone can be cursed with, for example, ill-fortune is
 featured.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Curse
@@ -16574,20 +16515,6 @@ educational issue
 
 :: References
 https://en.wikipedia.org/wiki/Historical_revisionism
-
-
-historiography
-==============
-
-:: Description
-The methodology of historians studying history. This involves things like the
-role of primary evidence.
-
-:: Parents
-history
-
-:: References
-https://en.wikipedia.org/wiki/Historiography
 
 
 history
@@ -17000,9 +16927,8 @@ hubris
 ======
 
 :: Description
-Someone exhibits excessive pride or self-confidence. This theme is typically
-used when someone gets a little too full of themselves and ends up getting a
-lesson in humility.
+Pride is so excessive that a character deigns to put themself on par, or even
+above, the gods.
 
 :: Parents
 pride
@@ -17457,7 +17383,7 @@ The distinguishing characteristics - including ways of thinking, feeling, and
 acting - which humans tend to have naturally.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Human_nature
@@ -19499,6 +19425,7 @@ transformed into a genius.
 
 :: Parents
 mind altering technology
+artificial intelligence
 
 
 intelligent animal
@@ -20798,7 +20725,7 @@ The idea that people have some sort of vital energy that can (usually) be used
 and depleted much like a liquid.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Energy_(esotericism)
@@ -21487,10 +21414,10 @@ lucky charms
 ============
 
 :: Description
-Someone believes a certain object gives them luck.
+Someone believes a certain object gives them good luck.
 
 :: Parents
-superstition
+supernatural luck
 
 :: References
 https://en.wikipedia.org/wiki/Good_luck_charm
@@ -21621,7 +21548,7 @@ There is an object with some fantastical property that cannot be explained by
 science.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Category:Magic_objects
@@ -21683,7 +21610,7 @@ The use of spoken words to invoke magical energies is featured. Note: A stage
 magician uttering "Abracadabra" before performing a trick does not count.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Magic_word
@@ -21984,7 +21911,7 @@ The legend that humanoid-shaped Mandrake root is produced by the semen of
 hanged men under the gallows.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Alraune#Legend
@@ -22084,20 +22011,6 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Consumerism
-
-
-mass hysteria
-=============
-
-:: Description
-Allusions of a threat spread through a group causing panic, each person's fear
-reinforcing that of the next and in a vicious circle.
-
-:: Parents
-humans in group
-
-:: References
-https://en.wikipedia.org/wiki/Mass_hysteria
 
 
 mass infertility
@@ -22295,7 +22208,7 @@ Featured is some aspect of number theory, algebra, geometry, or other type of
 study which is popularly categorized under the rubric of "mathematics".
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Mathematics
@@ -22308,11 +22221,10 @@ mating behavior
 The ways in which animals behave with regard to mating is studied.
 
 :: Parents
-biology
+zoology
 
 :: References
 https://en.wikipedia.org/wiki/Animal_sexual_behaviour
-https://en.wikipedia.org/wiki/Human_mating_strategies
 
 
 matriarchy
@@ -22508,7 +22420,7 @@ treatment, and prevention of disease. This theme is used whenever an aspect of
 this science is featured in the story.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Medicine
@@ -22751,7 +22663,7 @@ The branch of philosophy concerned with the fundamental nature of reality and
 such basic concepts as existence, matter, space, time and causation.
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Metaphysics
@@ -23376,8 +23288,8 @@ human idea about life
 https://idioms.thefreedictionary.com/moderation+in+all+things
 
 
-modern science
-==============
+science
+=======
 
 :: Description
 Featured is a systematic enterprise that builds and organizes knowledge in the
@@ -23512,19 +23424,6 @@ socioeconomic issue
 
 :: References
 https://en.wikipedia.org/wiki/Monopoly
-
-
-monotheism
-==========
-
-:: Description
-A creed which involves a single supreme entity (usually "God") is described.
-
-:: Parents
-organized religion
-
-:: References
-https://en.wikipedia.org/wiki/Monotheism
 
 
 monster
@@ -23823,21 +23722,6 @@ speculative spaceship
 https://en.wikipedia.org/wiki/Multistage_rocket
 
 
-multiverse
-==========
-
-:: Description
-The hypothetical set of finite and infinite possible universes, including the
-universe in which we live.
-
-:: Parents
-speculative reality
-
-:: References
-https://en.wikipedia.org/wiki/Multiverse
-http://www.sf-encyclopedia.com/entry/multiverse
-
-
 murder
 ======
 
@@ -23989,12 +23873,27 @@ narcissism
 ==========
 
 :: Description
-Someone is obsessed with (and normally deluded about) their own grandeur,
-powers, and abilities.
+There is a character that, like Narcisuss in the ancient Greek story, has an
+excessive, lasting, and obsessive admiration their own self-image and/or other
+attributes.
 
 :: Parents
-human character
 human mental condition
+vanity
+
+:: Notes
+"Pride" themes like "attitude of superiority" involve a character comparing
+themselves to others. Such themes do not necessarily mean that narcissism is
+implied. It is possible for a character, rightly or wrongly, to believe
+themselves superior and take pride in that supposed fact, without them
+obsessively and lastingly admiring themselves.
+
+To judge whether we describe a character as "narcissistic" we inspect the
+character's self-admiring behavior and gauge whether we think that they, like
+Narcissus did, could have behaved the same way when alone.
+
+If a character admires themselves habitually but in a way that is not
+describable as "obsessive" then the theme "vanity" is applicable.
 
 :: Examples
 Garth of Izar suffered from delusions of grandeur in tos3x16 "Whom Gods
@@ -24002,6 +23901,7 @@ Destroy".
 
 :: References
 https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
+https://en.wikipedia.org/wiki/Narcissism
 
 :: Aliases
 narcissistic personality disorder
@@ -24352,9 +24252,13 @@ social issue associated with the prevalence of this often criminal activity.
 
 :: Parents
 sexual crime
+invasion of privacy
 
 :: References
 https://en.wikipedia.org/wiki/Voyeurism
+
+:: Aliases
+peeping tom
 
 
 nostalgia
@@ -24760,7 +24664,7 @@ The idea that we are given mysterious signs that, if only noticed and
 interpreted, tell us something important about the future.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 Worf used the Boraalan people's belief in omens to his advantage in tng7x13
@@ -24805,7 +24709,7 @@ The conviction that the future events of one's live are written in the stars,
 so to speak, and cannot be changed.
 
 :: Parents
-superstition
+destiny
 
 
 one night stand
@@ -25110,7 +25014,7 @@ out-of-body experience
 A character experiences a feeling being outside of their own physical body.
 
 :: Parents
-superstition
+speculative experience
 
 :: References
 https://en.wikipedia.org/wiki/Out-of-body_experience
@@ -25389,10 +25293,13 @@ the latter case we use "four-dimensional space" as a theme.
 
 :: References
 https://en.wikipedia.org/wiki/Parallel_universes_in_fiction
+https://en.wikipedia.org/wiki/Multiverse
 http://www.sf-encyclopedia.com/entry/parallel_worlds
+http://www.sf-encyclopedia.com/entry/multiverse
 
 :: Aliases
 parallel dimension
+multiverse
 
 
 paralysis device
@@ -25447,6 +25354,27 @@ parent and child
 :: Examples
 Riker settled his long-standing rivalry with his father Kyle in the anbo-
 jtytsu dohyo tng2x14 "The Icarus Factor".
+
+
+parent's right to make decisions for their child
+================================================
+
+:: Description
+Discussed is to what extent parents should be legally able to make important
+decisions on their child's behalf. For example, to what extent should parents
+dictate that their child undergo life-altering operations, say a sex-change,
+or prevent their child receiving medical attention when it might be of
+benefit? To what extent should parents be able to indoctrinate their child in
+a religion or cult?
+
+:: Parents
+human parenting
+social ethical issue
+
+:: Examples
+In bbf1x10 "Believers", we must ponder whether it was right that Shon's
+parents could refuse Shon receiving a life saving surgery from Babylon 5's
+Doctor Franklin.
 
 
 parental controls in society
@@ -26139,6 +26067,23 @@ speculative being
 https://en.wikipedia.org/wiki/Personification
 
 
+pervasive marketing in society
+==============================
+
+:: Description
+Corporate market practices such as different kinds of advertisement
+strategies, often perceived as a nuisance, are discussed from a societal
+perspective.
+
+:: Parents
+social dysfunction
+sociocultural issue
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Marketing
+
+
 pesticides in society
 =====================
 
@@ -26227,7 +26172,7 @@ through space and time, and the related entities of energy and force. This
 theme is used whenever an aspect of this science is featured in the story.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Physics
@@ -26284,7 +26229,7 @@ placing blame
 
 :: Description
 One character places the blame for some misfortune squarely on another
-character.
+character, to a seemingly unjustifiable degree.
 
 :: Parents
 humans interacting
@@ -26912,7 +26857,7 @@ A character sees something that they interpret, sincerely, as a sign that good
 fortune, of one sort or another, is imminent.
 
 :: Parents
-superstition
+supernatural luck
 
 :: Examples
 In tz1959e2x16 "A Penny for Your Thoughts", a tossed coin that stood on its
@@ -27203,7 +27148,7 @@ There is a "rain" of something that is entirely unnatural in falling from the
 sky, such as frogs, blood, or nuts.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 In rd1988e1x05 "Confidence and Paranoia", it was momentarily raining fish in
@@ -27472,7 +27417,7 @@ Featured is a practical problem that arises when people who communicate
 differently, i.e. who use very different languages, have to interact.
 
 :: Parents
-society
+philosophy
 
 
 professional politics
@@ -27704,7 +27649,7 @@ of conscious and unconscious phenomena, as well as feeling and thought. This
 theme is used whenever a topic in this science is notably featured.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Psychology
@@ -27946,11 +27891,11 @@ quackery
 ========
 
 :: Description
-The fradulent practice of peddling unproven "medicines" that are highly
+The fraudulent practice of peddling unproven "medicines" that are highly
 unlikely to work as advertised.
 
 :: Parents
-superstition
+con artistry
 
 :: References
 https://en.wikipedia.org/wiki/Quackery
@@ -28053,6 +27998,27 @@ A character questions whether their beliefs are really rational.
 
 :: Parents
 human worrying about self
+
+
+racial segregation
+==================
+
+:: Description
+Racial segregation is the systematic separation of people into racial or other
+ethnic groups in daily life. Such practices in a society are discussed.
+
+:: Parents
+socioeconomic issue
+sociocultural issue
+
+:: Examples
+In "District 9" (2009), aliens trapped on Earth were forced to live separate
+from humans, in what had become sprawling slums with harsh, impoverished,
+conditions.
+
+:: References
+https://en.wikipedia.org/wiki/Racial_segregation
+https://en.wikipedia.org/wiki/Apartheid
 
 
 racial supremacism
@@ -28242,21 +28208,6 @@ ravages of war are featured.
 
 :: Parents
 socioeconomic issue
-
-
-recapitulation theory
-=====================
-
-:: Description
-A largely discredited hypothesis advanced by Ernst Haeckel that in developing
-from embryo to adult, animals pass through stages resembling successive stages
-in the evolution of remote ancestors.
-
-:: Parents
-superseded scientific theory
-
-:: References
-https://en.wikipedia.org/wiki/Recapitulation_theory
 
 
 reclusiveness
@@ -28484,7 +28435,7 @@ Someone believes that a recent streak of luck is indicative of future outcomes
 in some game of chance or the like.
 
 :: Parents
-superstition
+supernatural luck
 
 
 religion as a control mechanism
@@ -29705,8 +29656,8 @@ struggle against some vicious foe.
 personal ethical dilemma
 
 
-sacrificing one's self to contain a pandemic
-============================================
+sacrificing one's self to stop a contagion
+==========================================
 
 :: Description
 A character does a self-sacrificial thing in order to contain a highly
@@ -30595,7 +30546,7 @@ with powers of healing, divination, and protection against bad magic conjured
 by others.
 
 :: Parents
-superstition
+organized religion
 
 :: Examples
 Captain Kirk was made a genuine space shaman after he lost his memories on the
@@ -31223,6 +31174,24 @@ human addiction
 https://en.wikipedia.org/wiki/Social_media_addiction
 
 
+social media dystopia
+=====================
+
+:: Description
+There is a society in which life is depressing, to our eyes, because of the
+pervasive presence of some form of social media.
+
+:: Parents
+dystopia
+
+:: Examples
+In blackmirror3x01 "Nosedive", everyone were obsessed with rating each other
+on social media, and receiving good ratings. Having a good rating was crucial
+in order to have a job, somewhere to live etc. This lead most people to act to
+each other in a way that seems entirely false, and to become stressed or
+suicidal because of a slip in their rating.
+
+
 social media in society
 =======================
 
@@ -31429,7 +31398,7 @@ aspects of society, including cultural norms, expectations, and context, on
 the way language is used, and society's effect on language.
 
 :: Parents
-modern science
+science
 
 :: References
 https://en.wikipedia.org/wiki/Sociolinguistics
@@ -31541,6 +31510,27 @@ legal punishment
 
 :: References
 https://en.wikipedia.org/wiki/Solitary_confinement
+
+
+sonar sensory ability
+=====================
+
+:: Description
+A character is able to sense the shape of the world around them by way of
+sonar, i.e., by somehow making use of information contained in sound waves
+around them. The character may or may not emit sound waves themselves for this
+purpose.
+
+:: Parents
+speculative ability
+
+:: Examples
+The blind telepath Miranda Jones wore a sonar-based sensor web dress that
+helped her to compensate for her disability in tos3x07 "Is There in Truth No
+Beauty?".
+
+:: References
+https://en.wikipedia.org/wiki/Sonar
 
 
 sonic shower
@@ -32277,6 +32267,22 @@ hand.
 speculative device
 
 
+speculative healing device
+==========================
+
+:: Description
+There is a device that heals wounds and injuries with extraordinary quickness.
+
+:: Parents
+speculative device
+
+:: Examples
+In ent2x04 "Dead Stop", Phlox used a medical regenerator of some sort to
+repair a severe leg injury Malcolm had sustained while trying to disarm a
+mine. The outcome was complete recovery without even a scar, and Malcolm
+walked away feeling no pain.
+
+
 speculative human
 =================
 
@@ -32727,6 +32733,23 @@ universe can travel.
 theory of relativity
 
 
+spendthrift
+===========
+
+:: Description
+There is a character who chronically and frivolously spends more money than
+they really can afford to spend.
+
+:: Parents
+human character
+
+:: References
+https://en.wikipedia.org/wiki/Spendthrift
+
+:: Aliases
+profligacy
+
+
 spirit possession
 =================
 
@@ -32735,7 +32758,7 @@ An entity such as an anima, demon, god, or other spirit takes control of a
 human body.
 
 :: Parents
-superstition
+folk belief
 
 :: Notes
 The concept of spirit possession exists in many religions, including
@@ -32754,7 +32777,7 @@ A character pursues a higher ideal like those of the world religions, for
 example the Christian salvation or the Buddhist Nirvana.
 
 :: Parents
-organized religion
+human self improvement
 
 
 spontaneous generation
@@ -32867,7 +32890,7 @@ One spouse in a married couple seeks to bring about the death of their
 partner.
 
 :: Parents
-law and order issue
+murder
 
 :: Examples
 In nightgallery2x19b "Stop Killing Me", Francis Turchin arrives at the local
@@ -33614,20 +33637,6 @@ turning them into elite soldiers.
 https://en.wikipedia.org/wiki/Supersoldier
 
 
-superstition
-============
-
-:: Description
-Beliefs that are neither rational nor fall within the typical framework of
-organized religious activity. They range from faith healing to spirit worship.
-
-:: Parents
-the pursuit of knowledge
-
-:: References
-https://en.wikipedia.org/wiki/Superstition
-
-
 superstition in society
 =======================
 
@@ -33797,6 +33806,7 @@ which others perished.
 
 :: Parents
 human mental condition
+remorse
 
 :: References
 https://en.wikipedia.org/wiki/Survivor_guilt
@@ -33842,7 +33852,7 @@ There is a kind of supposed magic that involves effigies and images of a
 target, e.g., voodoo dolls and the like.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 Extradimensional aliens found memories of such things in the human
@@ -33967,7 +33977,7 @@ The belief that making a picture of someone is somehow directly detrimental to
 their soul or spirit, etc., is featured.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 In tz1985e1x14a "Still Life", a photograph took photos of Kurukai natives and
@@ -34086,7 +34096,7 @@ technology
 The application of scientific knowledge in building contraptions is featured.
 
 :: Parents
-modern science
+science
 
 
 technology-free utopia
@@ -34569,7 +34579,7 @@ A mythological artifact within the Christian religion that has been at the
 center of countless stories over the centuries.
 
 :: Parents
-organized religion
+Christianity
 
 :: References
 https://en.wikipedia.org/wiki/Holy_Chalice
@@ -36402,6 +36412,21 @@ Suppressed animal instincts come to the surface as the crew begins to de-
 evolve in tng7x19 "Genesis".
 
 
+the nature of beauty
+====================
+
+:: Description
+The question of what "beauty" really is, is discussed. Why do we call some
+things "beautiful"?
+
+:: Parents
+aesthetics
+
+:: Examples
+McCoy pondered what it is that attracts us to cute little Tribbles in tos2x13
+"The Trouble with Tribbles".
+
+
 the nature of creativity
 ========================
 
@@ -37009,6 +37034,7 @@ with the existence of an omnipotent, omnibenevolent, and omniscient God.
 
 :: Parents
 organized religion
+philosophy
 
 :: Examples
 "The Epicurian paradox" famously goes as follows: Is God willing to prevent
@@ -37399,7 +37425,7 @@ rational inquiry and experimentation are featured. Typically ghosts, spirits,
 and the like.
 
 :: Parents
-superstition
+folk belief
 
 :: Examples
 Two extradimensional aliens used their mysterious abilities to conjure up a
@@ -37915,16 +37941,6 @@ tidally locked planet Dytallix B in tng1x15 "Conspiracy".
 https://en.wikipedia.org/wiki/Tidal_locking
 
 
-time freezing device
-====================
-
-:: Description
-There is a machine that can be used to freeze time itself.
-
-:: Parents
-spacetime manipulating technology
-
-
 time loop
 =========
 
@@ -37994,35 +38010,6 @@ otherwise frozen objects and persons.
 
 :: Parents
 speculative ability related to reality at large
-
-
-time slow down process
-======================
-
-:: Description
-Time itself is observed to slow to a crawl or perhaps freeze altogether.
-
-:: Parents
-speculative natural process
-
-:: Aliases
-time freeze
-time stop
-
-
-time speed up
-=============
-
-:: Description
-Time moves faster for some.
-
-:: Parents
-speculative natural process
-
-:: Examples
-The Scalosians had been subjected to radiation that made them speed up in time
-in tos3x13 "Wink of an Eye". The radiation had its negative effects also,
-rendering them sterile.
 
 
 time travel
@@ -38118,6 +38105,21 @@ and being honest on the other.
 
 :: Parents
 personal ethical dilemma
+
+
+torture
+=======
+
+:: Description
+We are made to ponder the practice of some humans to deliberately inflict
+severe physical or psychological suffering on people that are in their power.
+
+:: Parents
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Torture
+https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
 
 
 totalitarian dystopia
@@ -39112,9 +39114,6 @@ in the eponymous episode tos1x03 "Mudd's Women".
 :: References
 https://en.wikipedia.org/wiki/Vanity
 
-:: Aliases
-narcissism
-
 
 vegetarianism
 =============
@@ -39391,10 +39390,10 @@ vision quest
 
 :: Description
 A Native American ritual used to establish contact with an ancestral spirit to
-ask for  guidance during a difficult time.
+ask for guidance during a difficult time.
 
 :: Parents
-superstition
+organized religion
 
 :: Examples
 The mystic Traveler posing as a space Native American mystic embarked Wesley
@@ -39481,7 +39480,6 @@ person in various way. A person may, for example, be subjected to various
 afflictions when needles are inserted into relevant parts of their effigy.
 
 :: Parents
-superstition
 sympathetic magic
 
 :: References
@@ -39523,7 +39521,7 @@ wacky dream interpretation
 Dreams are interpreted in a highly metaphorical or otherwise esoteric way.
 
 :: Parents
-superstition
+folk belief
 
 
 war
@@ -39686,6 +39684,24 @@ There is a planet that is almost 100% water through and through.
 
 :: Parents
 speculative habitat
+
+
+wax sculpture
+=============
+
+:: Description
+The art and artifice of making depictions out of wax like substances, is
+featured. For example, a wax museum filled with wax effigies of famous people
+might be pointedly featured.
+
+:: Parents
+sculpture
+
+:: References
+https://en.wikipedia.org/wiki/Wax_sculpture
+
+:: Aliases
+wax doll
 
 
 we need a balance between rationality and emotionality
@@ -41224,7 +41240,7 @@ A character experiences what it is like to know that someone is out to take
 their life.
 
 :: Parents
-what if I were in a tight spot
+what if someone dangerous was after me
 
 
 what if a loved one became possessed by another being
@@ -41262,7 +41278,7 @@ We imagine what it would be like to be chased by potentially dangerous
 criminals, for one reason or another.
 
 :: Parents
-what if I were in a tight spot
+what if someone dangerous was after me
 
 :: Examples
 In futurama7x12 "Viva Mars Vegas", Dr. Zoidberg finds and spends some money
@@ -41279,17 +41295,6 @@ childbearing age got pregnant at the same time.
 
 :: Parents
 speculative future event
-
-
-what if everybody and everything was frozen in time
-===================================================
-
-:: Description
-A character experiences what it would be like if everybody and everything was
-frozen in time except for themself.
-
-:: Parents
-what if the people around me changed
 
 
 what if everyone lost control of their inhibitions
@@ -41743,7 +41748,7 @@ even such a thing, and if so is it knowable and how can it be confidently
 recognized?
 
 :: Parents
-classical philosophy
+philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Truth
@@ -42221,7 +42226,7 @@ needs, desires (etc. etc.) something then occasionally reality can magically
 make that thing come true.
 
 :: Parents
-superstition
+folk belief
 
 :: Notes
 This is not a reliable "ability", but something that happens more or less as a
@@ -42263,7 +42268,7 @@ A character uses magical abilities of a type that witches and warlocks tend to
 use in folklore, especially the Western variety.
 
 :: Parents
-superstition
+folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Witchcraft

@@ -1,3 +1,97 @@
+Collection: Cube Film Series
+============================
+
+:: Title
+Cube Film Series
+
+:: Date
+1997-2004
+
+:: Description
+Cube is a Canadian science fiction horror film series.
+
+The films are centered, with slight variations, on the same science-fictional
+setting: a gigantic, mechanized cubical structure of unknown purpose and
+origin, made up of numerous smaller cubical rooms, in which most or all of the
+principal characters inexplicably awaken in the opening scenes. Each of these
+rooms has six heavy vault doors, one on each face of the cube, which lead into
+adjacent, largely identical rooms, differing occasionally by color of
+lighting. Some of these rooms are "safe", while others are equipped with
+deadly booby traps such as flamethrowers and razorwire. In some cases it is
+possible to detect a trap by throwing an object into the room first, although
+this method is not always reliable due to the trigger mechanism of certain
+traps.
+
+In each case, a group of strangers awakens in this mysterious structure,
+without any knowledge of how or why they are there. In order to escape from
+the prison, they must band together and use their combined skills and talents
+to avoid the traps and navigate out of the maze, while also trying to solve
+the mystery of what the cube is and why they are in it.
+
+:: References
+https://en.wikipedia.org/wiki/Cube_(film_series)
+
+:: Collections
+Collection: Cube Film Series
+
+:: Component Stories
+movie: Cube (1997)
+movie: Cube 2: Hypercube (2002)
+movie: Cube Zero (2004)
+
+
+Collection: Mimic Film Series
+=============================
+
+:: Title
+Mimic Film Series
+
+:: Date
+1997-2003
+
+:: Description
+Mimic is a science fiction action horror film series created in 1997.
+
+:: References
+https://en.wikipedia.org/wiki/Mimic_(film)
+https://en.wikipedia.org/wiki/Mimic_2
+https://en.wikipedia.org/wiki/Mimic_3:_Sentinel
+
+:: Collections
+Collection: Mimic Film Series
+
+:: Component Stories
+movie: Mimic (1997)
+movie: Mimic 2 (2001)
+movie: Mimic 3: Sentinel (2003)
+
+
+Collection: The Chronicles of Riddick Film Series
+=================================================
+
+:: Title
+The Chronicles of Riddick Film Series
+
+:: Date
+2010-2020
+
+:: Description
+The Chronicles of Riddick, is a science fiction action space Western film
+franchise created in 2000 by brothers Ken and Jim Wheat and later continued by
+writer-director David Twohy, spanning three live-action feature films,
+
+:: References
+https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick_(franchise)
+
+:: Collections
+Collection: The Chronicles of Riddick Film Series
+
+:: Component Stories
+movie: Pitch Black (2000)
+movie: The Chronicles of Riddick (2004)
+movie: Riddick (2013)
+
+
 Collection: Skyline Films
 =========================
 
@@ -614,6 +708,13 @@ movie: Godzilla 2000: Millennium (1999)
 movie: Godzilla vs Megaguirus (2000)
 movie: Godzilla Mothra and King Ghidorah: Giant Monsters AllOut Attack (2001)
 movie: Godzilla Against Mechagodzilla (2002)
+movie: Godzilla: Tokyo SOS (2003)
+movie: Godzilla: Final Wars (2004)
+movie: Godzilla (2014)
+movie: Shin Godzilla (2016)
+movie: Godzilla: Planet of the Monsters (2017)
+movie: Godzilla: City on the Edge of Battle (2018)
+movie: Godzilla: The Planet Eater (2018)
 
 
 Collection: Superman
@@ -693,6 +794,13 @@ movie: Godzilla 2000: Millennium (1999)
 movie: Godzilla vs Megaguirus (2000)
 movie: Godzilla Mothra and King Ghidorah: Giant Monsters AllOut Attack (2001)
 movie: Godzilla Against Mechagodzilla (2002)
+movie: Godzilla: Tokyo SOS (2003)
+movie: Godzilla: Final Wars (2004)
+movie: Godzilla (2014)
+movie: Shin Godzilla (2016)
+movie: Godzilla: Planet of the Monsters (2017)
+movie: Godzilla: City on the Edge of Battle (2018)
+movie: Godzilla: The Planet Eater (2018)
 
 
 Collection: Quatermass

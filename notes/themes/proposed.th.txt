@@ -1,91 +1,14 @@
-pervasive marketing in society
-==============================
+what if I were stranded on a deserted planet
+============================================
 
 :: Description
-Corporate market practices such as different kinds of advertisement strategies,
-often perceived as a nuisance, are discussed from a societal perspective.
+
 
 :: Parents
-social dysfunction
-sociocultural issue
-socioeconomic issue
+what if I found myself in a strange place
 
-:: References
-https://en.wikipedia.org/wiki/Marketing
-
-
-coping with a spendthrift
-=========================
-
-:: Description
-A character is troubled because someone they are connected with
-frivolously spends too much money. A spouse might, for example, be
-troubled because their partner is shopping or gambling to an extent that
-it threatens the family's financial security.
-
-:: Parents
-coping with a problematic person
-spendthrift
-
-:: References
-https://en.wikipedia.org/wiki/Spendthrift
-
-
-spendthrift
-===========
-
-:: Description
-There is a character who chronically and frivolously spends more money
-than they really can afford to spend.
-
-:: Parents
-human character
-
-:: References
-https://en.wikipedia.org/wiki/Spendthrift
-
-:: Aliases
-profligacy
-
-
-parent's right to make decisions for their child
-================================================
-
-:: Description
-Discussed is to what extent parents should be legally able to make important
-decisions on their child's behalf. For example, to what extent should parents
-dictate that their child undergo life-altering operations, say a sex-change, or 
-prevent their child receiving medical attention when it might be of 
-benefit? To what extent should parents be able to indoctrinate their child in 
-a religion or cult?
-
-:: Parents
-human parenting
-social ethical issue
-
-:: Examples
-In bbf1x10 "Believers", we must ponder whether it was right that Shon's parents 
-could refuse Shon receiving a life saving surgery from Babylon 5's Doctor Franklin.
-
-
-racial segregation
-==================
-
-:: Description
-Racial segregation is the systematic separation of people into racial or other ethnic 
-groups in daily life. Such practices in a society are discussed.
-
-:: Parents
-socioeconomic issue
-sociocultural issue
-
-:: References
-https://en.wikipedia.org/wiki/Racial_segregation
-https://en.wikipedia.org/wiki/Apartheid
-
-:: Examples
-In "District 9" (2009), aliens trapped on Earth were forced to live separate from humans,  
-in what had become sprawling slums with harsh, impoverished, conditions.
+:: Notes
+This theme is used for planets and other planet-like celestial bodies alike.
 
 
 religious hypocrisy
@@ -117,126 +40,432 @@ what life is like
 https://en.wikipedia.org/wiki/Refugee
 
 
-social media dystopia
+time travel paradox
+===================
+
+:: Description
+There is an apparent contradiction, or logical contradiction associated with
+the  idea of time and time travel. Typically, temporal paradoxes fall into two
+broad groups: consistency paradoxes exemplified by the grandfather paradox,
+and causal loops.
+
+:: Parents
+time travel
+metaphysics
+
+:: References
+https://en.wikipedia.org/wiki/Temporal_paradox
+
+
+grandfather paradox
+===================
+
+:: Description
+The following kind of paradox is featured: If I go back in time and do
+something that would prevent me from later going back in time (such as killing
+my own grandfather), then I can't have gone back in time. But then I won't
+have been prevented from going and so I went, and so on.
+
+:: Parents
+time travel paradox
+
+:: References
+https://en.wikipedia.org/wiki/Grandfather_paradox
+
+
+what if I found out that a loved one was not the person I thought they were
+===========================================================================
+
+:: Description
+A character finds that a person they care about has a highly problematic or
+troubling side of themself.
+
+:: Parents
+what if someone around me changed
+
+
+speculative effect
+==================
+
+:: Description
+There is a novel physical phenomenon that is not found in the real world as it
+is presently understood. The phenomenon may be mediated by magic, technology,
+or any other means.
+
+:: Parents
+speculative fiction theme
+
+
+speculative love inducing effect
+================================
+
+:: Description
+There is an effect that functions to create feeling of love in one person for
+another.
+
+:: Parents
+speculative effect
+
+
+speculative invisibility inducing effect
+========================================
+
+:: Description
+There is an effect that renders someone or something invisible to the eye.
+
+:: Parents
+speculative effect
+
+
+speculative luck inducing effect
+================================
+
+:: Description
+There is an effect that causes good fortune to be showed on someone much more
+than would be expected by chance.
+
+:: Parents
+speculative effect
+
+
+speculative prediction of the future
+====================================
+
+:: Description
+There is an effect that gives someone the means to predict the future with
+near perfect accuracy.
+
+:: Parents
+speculative effect
+
+
+speculative time manipulating effect
+====================================
+
+:: Description
+There is an effect that enables the past be rewritten or the future to be
+changed.
+
+:: Parents
+speculative effect
+
+
+abandoning someone to save one's self
+=====================================
+
+:: Description
+A character contemplates leaving someone they care about in a tight spot to
+save their own skin.
+
+:: Parents
+personal ethical dilemma
+
+
+rotational simulated gravity
+============================
+
+:: Description
+Rotation is used to induce centrifugal forces to simulate gravity. The still
+hypothetical rotating wheel space station, for example, uses this mechanism to
+generate Earth-like gravity.
+
+:: Parents
+artificial gravity technology
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_gravity
+
+
+mountaineering
+==============
+
+:: Description
+A character is enthusiastic about the set of outdoor activities that involves
+ascending tall mountains.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Mountaineering
+
+
+zoology
+=======
+
+:: Description
+Zoology is the branch of biology that studies the animal kingdom, including
+the structure, embryology, evolution, classification, habits, and distribution
+of all animals, both living and extinct, and how they interact with their
+ecosystems. This theme is used whenever an aspect of this science is featured
+in the story.
+
+:: Parents
+biology
+
+:: References
+https://en.wikipedia.org/wiki/Zoology
+
+
+the desire to survive
 =====================
 
 :: Description
-There is a society in which life is depressing, to our eyes, because of the pervasive
-presence of some form of social media. 
+A character is determined to live in spite of an adverse situation.
+
+:: Parents
+human safety need
+
+
+mass hysteria
+=============
+
+:: Description
+Allusions of a threat spread through a group causing panic, each person's fear
+reinforcing that of the next and in a vicious circle.
+
+:: Parents
+humans in group
+
+:: Examples
+The people of Maple Street gradually transform into an hysterical mob when
+they thought an alien monster was masquerading amongst them in "The Twilight
+Zone" (1959) story "The Monsters Are Due on Maple Street" (tz1959e1x22).
+
+:: References
+https://en.wikipedia.org/wiki/Mass_hysteria
+
+
+cheating
+========
+
+:: Description
+A character subverts rules in a non-criminal way to obtain an unfair advantage
+over others with whom they are acquainted.
+
+:: Parents
+humans interacting
+
+:: Notes
+The theme "criminal fraud" is to be preferred when the when the act is clearly
+criminal in context.
+
+:: Examples
+Johnny infuriated the Swede by cheating at the card game High Five "The Blue
+Hotel" (1977).
+
+:: References
+https://en.wikipedia.org/wiki/Cheating
+
+
+self-fulfilling prophesy
+========================
+
+:: Description
+A prediction causes itself to become true through some usually roundabout
+means.
+
+:: Parents
+classical philosophy
+
+:: References
+https://en.wikipedia.org/wiki/Self-fulfilling_prophecy#Literature,_media,_and_the_arts
+
+
+picking up a hitchhiker
+=======================
+
+:: Description
+
+:: Parents
+helping a stranger in need
+
+:: References
+https://en.wikipedia.org/wiki/Hitchhiking
+
+
+love thy neighbor
+=================
+
+:: Description
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wikipedia.org/wiki/Love_Thy_Neighbor
+
+
+child unhealthily attached to a parent
+======================================
+
+:: Description
+
+:: Parents
+parent and child
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Mother%27s_boy
+
+
+water sports
+============
+
+:: Description
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/List_of_water_sports
+
+
+what if time passed at different rates for different people
+===========================================================
+
+:: Description
+Two characters experience the passage of time such that time goes faster for
+the one and slower for the other.
+
+:: Notes
+For this theme to apply, the experience of the passage of time must be
+depicted from the point of view of each character. In particular, this theme
+does not apply when one character simply freezes time or slows time to a
+crawl.
+
+:: Parents
+speculative experience
+
+:: Examples
+The Scalosians had been subjected to radiation that made them speed up in time
+relative to the Enterprise crew in tos3x13 "Wink of an Eye". The radiation had
+its negative effects also, rendering them sterile.
+
+
+time slow down
+==============
+
+:: Description
+Time itself is observed to slow to a crawl.
+
+:: Notes
+The theme "time freeze" is used in the limiting case when time comes to a
+complete and utter stop.
+
+:: Parents
+speculative time manipulating effect
+
+
+time freeze
+===========
+
+:: Description
+Time itself comes to a complete stop.
+
+:: Parents
+time slow down
+
+:: Aliases
+time stop
+
+
+folk belief
+===========
+
+:: Description
+This is the category of themes that are about faith-based popular beliefs and
+cultural traditions that fall outside of the typical framework of organized
+religious doctrines and practices.
+
+:: Parents
+the pursuit of knowledge
+
+:: References
+https://en.wikipedia.org/wiki/Folk_belief
+https://en.wikipedia.org/wiki/Popular_belief
+https://en.wikipedia.org/wiki/Superstition
+
+
+supernatural luck
+=================
+
+:: Description
+A character's good or bad fortune is interpreted in terms of the supernatural,
+such as an attribute of themself or some magical object, or the result of a
+favorable or unfavorable view of a deity upon them.
+
+:: Parents
+folk belief
+
+:: References
+https://en.wikipedia.org/wiki/Luck
+
+
+god and follower
+================
+
+:: Description
+A personal relationship between a deity and a (more or less) devout follower
+of theirs, is featured.
+
+:: Notes
+This theme should only be used when someone is in direct, typically verbal
+communication with their chosen god. The simple voicing of a prayer, for
+instance, does not meet the bar.
+
+:: Parents
+organized religion
+human interpersonal relationship
+
+
+drugged up dystopia
+===================
+
+:: Description
+There is a world in which stability is maintained thanks to one or more drugs
+that keep people under control, perhaps by making them feel perpetually happy.
 
 :: Parents
 dystopia
 
-:: Examples
-In blackmirror3x01 "Nosedive", everyone were obsessed with rating each other on
-social media, and receiving good ratings. Having a good rating was crucial
-in order to have a job, somewhere to live etc. This lead most people to act to
-each other in a way that seems entirely false, and to become stressed or suicidal
-because of a slip in their rating.
 
-
-sonar sensory ability
-=====================
+the desire to get away from it all
+==================================
 
 :: Description
-A character is able to sense the shape of the world around them by way of sonar,
-i.e., by somehow making use of information contained in sound waves around them.
-The character may or may not emit sound waves themselves for this purpose.
 
 :: Parents
-speculative ability
-
-:: Examples
-The blind telepath Miranda Jones wore a sonar-based sensor web dress that
-helped her to compensate for her disability in tos3x07 "Is There in Truth No
-Beauty?".
-
-:: References
-https://en.wikipedia.org/wiki/Sonar
+human self-actualization need
 
 
-speculative healing device
-==========================
+speculative place
+=================
 
 :: Description
-There is a device that heals wounds and injuries with extraordinary quickness.
 
 :: Parents
-speculative device
-
-:: Examples
-In ent2x04 "Dead Stop", Phlox used a medical regenerator of some sort to repair
-a severe leg injury Malcolm had sustained while trying to disarm a mine. The
-outcome was complete recovery without even a scar, and Malcolm walked away
-feeling no pain.
+speculative fiction theme
 
 
-the nature of beauty
-====================
+legendary place
+===============
 
 :: Description
-The question of what "beauty" really is, is discussed. Why do we call some
-things "beautiful"?
 
 :: Parents
-aesthetics
-
-:: Examples
-McCoy pondered what it is that attracts us to cute little Tribbles in tos2x13
-"The Trouble with Tribbles".
+speculative place
 
 
-wax sculpture
-=============
+what if someone dangerous was after me
+======================================
 
 :: Description
-The art and artifice of making depictions out of wax like substances, is featured.
-For example, a wax museum filled with wax effigies of famous people might be
-pointedly featured.
+A character experiences what it is like to know that some dangerous person
+is out to kill or otherwise cause them significant harm.
 
 :: Parents
-sculpture
-
-:: References
-https://en.wikipedia.org/wiki/Wax_sculpture
-
-:: Aliases
-wax doll
-
-
-torture
-=======
-
-:: Description
-We are made to ponder the practice of some humans deliberately inflicting
-severe physical or psychological suffering on people that are in their power.
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/Torture
-https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
-
-
-delusion of being someone one is not
-====================================
-
-:: Description
-A character is portrayed as having the crazy delusion that they are someone
-they are not. Typically this happens when a person believes themself to be
-someone famous, like Jesus or Napoleon. 
-
-:: Notes
-This theme is typically not applicable in fantastical stories where magic or 
-technology is used to alter a person's mind in such a way that it arguably
-has been transformed into the mind of that person they now think they are.
-
-:: Parents
-human mental condition
-
-:: References
-https://en.wikipedia.org/wiki/Delusional_disorder
+what if I were in a tight spot
 
 
 cheating
