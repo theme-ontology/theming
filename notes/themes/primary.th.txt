@@ -276,10 +276,12 @@ Atlantis
 ========
 
 :: Description
-An advanced ancient civilization that was destroyed in a great flood.
+The legendary island state that is said to have fallen out of favor with the
+deities and submerged into the Atlantic Ocean, is featured.
 
 :: Parents
 crackpot theory
+legendary place
 
 :: Examples
 Aquan underwater civilization on the planet Argo was preceded by a land
@@ -487,6 +489,7 @@ This fabled city in South America is featured.
 
 :: Parents
 cultural history
+legendary place
 
 :: Examples
 In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
@@ -2855,8 +2858,8 @@ https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction
 http://www.sf-encyclopedia.com/entry/ai
 
 
-artificial island
-=================
+speculative artificial island
+=============================
 
 :: Description
 An island that has been constructed by people rather than formed by natural
@@ -2864,7 +2867,7 @@ means.
 
 :: Parents
 sub-planetary-scale engineering
-speculative habitat
+speculative place
 
 :: References
 https://en.wikipedia.org/wiki/Artificial_island
@@ -2896,7 +2899,7 @@ An entire planet designed and constructed by some sentient race.
 
 :: Parents
 planetary-scale engineering
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 A mysterious planetoid turned out to be a wholly artificial artifact of a long
@@ -5579,6 +5582,7 @@ There is a planet the surface of which is one enormous city.
 
 :: Parents
 speculative city
+speculative habitable celestial body
 
 :: References
 https://en.wikipedia.org/wiki/Ecumenopolis
@@ -5735,8 +5739,9 @@ philosophy
 ==========
 
 :: Description
-The category of themes that fall neatly in the traditional domains of
-philosophy: ethics, metaphysics, aesthetics, and thoughts about human nature.
+This is the category of themes that discuss ideas in philosophy, i.e., the
+study of general and fundamental questions, such as those about existence,
+reason, knowledge, values, mind, and language.
 
 :: Parents
 the pursuit of knowledge
@@ -8897,8 +8902,8 @@ crackpot theory
 
 :: Description
 There is a theory that is presented as scientific, but does not in fact adhere
-to accepted scientific standards. They range from the Bermuda Triangle and
-flying saucers, to the idea that the Devil was really an alien.
+to accepted scientific standards. Examples include ideas about the Bermuda
+Triangle, flying saucers, and Bigfoot.
 
 :: Parents
 speculative fiction theme
@@ -9498,7 +9503,7 @@ A theory in which the universe follows infinite, or indefinite, self-
 sustaining cycles is featured.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: References
 https://en.wikipedia.org/wiki/Cyclic_model
@@ -10048,7 +10053,7 @@ There is a planet where nearly all land is arid, hot and sandy so that it
 resembles nothing more than one gigantic desert.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: References
 https://en.wikipedia.org/wiki/Desert_planet
@@ -10191,7 +10196,7 @@ creature of an earlier stage in its evolutionary history. E.g., a human could
 become an ape-like "australopithecus", or a rat-like "repenomamus", etc.
 
 :: Parents
-speculative natural process
+speculative evolution
 
 :: References
 https://en.wikipedia.org/wiki/Devolution_(biology)
@@ -11183,7 +11188,7 @@ A hypothetical untraversable border around the universe which cannot be
 traversed.
 
 :: Parents
-speculative natural object
+speculative cosmos
 
 :: Examples
 The Traveler used his powers of thought a little bit too hard and tossed the
@@ -12910,7 +12915,7 @@ has such whimsical qualities as one may expect the imagination to come up with
 during a dream, day-dream, or nightmare.
 
 :: Parents
-speculative habitat
+speculative place
 
 :: Examples
 In tz1959e5x36 "The Bewitchin' Pool", two children flee from their parent's
@@ -14450,7 +14455,7 @@ willful access to four spatial dimensions rather than the three we are
 accustomed to.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: References
 https://en.wikipedia.org/wiki/Fourth_dimension_in_literature
@@ -14855,7 +14860,7 @@ civilization, or merely a convenient place for passers by to unload their
 junk.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 The presumed dead body of Sergeant Todd was unceremoniously dumped on the
@@ -15883,7 +15888,7 @@ habitable asteroid
 An asteroid that is hypothetically amenable to human life.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 Zefram Cochrane, the inventor of warp drive, was found living on a habitable
@@ -15897,7 +15902,7 @@ habitable moon
 A moon that is hypothetically amenable to human life.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 Captain Picard, Wesley, and the irascible mining shuttle captain Dirgo crash
@@ -15933,7 +15938,7 @@ There is a planet in a star system consisting of two or more stars, that is
 hospitable to human life.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 Four stars were shown in the sky of the garbage planet Arcadia 234 in
@@ -16521,9 +16526,11 @@ history
 =======
 
 :: Description
-This academic discipline that is the study of recorded history is featured.
-Note that the past may be studied in other ways under other headings, for
-example in archeology and geology.
+This is the category of themes that discuss the study of history, or
+historical events as they are commonly understood. For example, the themes may
+present a reasonable idea of how a historical event might have transpired,
+what a time and place in history might have been like for its inhabitants, or
+what a historical figure might have been like.
 
 :: Parents
 the pursuit of knowledge
@@ -16575,7 +16582,7 @@ An asteroid has been turned into a living space suitable for humans.
 
 :: Parents
 planetary-scale engineering
-speculative habitat
+speculative place
 
 
 hologram
@@ -17286,9 +17293,10 @@ human idea about life
 =====================
 
 :: Description
-This is the assorted category of themes that seek to illustrate some
-generality about what human life may be like. They are often be tidbits of
-folksy wisdom that can be summed up using one pithy aphorism or another.
+This is the category of themes that seek to illustrate some generality about
+what human life may be like. For example, the themes may be practical advice
+on how one ought to lead ones life. Many of these themes are tidbits of folksy
+wisdom summed up in readily recognizable pithy aphorisms.
 
 :: Parents
 the human condition
@@ -18274,7 +18282,7 @@ humans in group
 
 :: Description
 This is the category of themes that examine human group dynamics, or some
-experience simultanously applicable to each member of a group of people.
+experience simultaneously applicable to each member of a group of people.
 
 :: Parents
 the human condition
@@ -18521,7 +18529,7 @@ There is a planet that is more or less entirely covered in ice so that the
 whole of it resembles nothing so much as an arctic wasteland.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: References
 https://en.wikipedia.org/wiki/Ice_planet
@@ -19528,9 +19536,9 @@ international issue
 ===================
 
 :: Description
-This is the category of themes that examine how sovereign states interact.
-This is where themes about war, peace, diplomacy, international trade, and
-globalization belong.
+This is the category of themes that examine how sovereign states interact. For
+example, this is where themes about war, peace, diplomacy, international
+trade, and globalization belong.
 
 :: Parents
 society
@@ -19875,7 +19883,7 @@ remote and isolated to such an extent that many features from prehistoric
 times are still extant in present time.
 
 :: Parents
-speculative habitat
+speculative place
 
 :: Notes
 "Prehistoric" indicates time from before there were written records. These
@@ -21110,11 +21118,13 @@ lost continent of Mu
 ====================
 
 :: Description
-Mu is thought by some to be a lost continent with an advanced ancient
-civilization, once located in the Pacific Ocean.
+The far-fetched notion that a continent, once located in the Pacific Ocean and
+inhabited by a technologically advanced civilization in pre-history, has since
+disappeared as a result of catastrophic geological phenomena.
 
 :: Parents
 crackpot theory
+legendary place
 
 :: References
 https://en.wikipedia.org/wiki/Mu_(lost_continent)
@@ -21623,7 +21633,7 @@ magical land in the sky
 There is a land, a kingdom perhaps, above the clouds.
 
 :: Parents
-speculative habitat
+speculative place
 
 :: Notes
 This kind of theme is common fare for fairy tales and religions, and the exact
@@ -23292,8 +23302,9 @@ science
 =======
 
 :: Description
-Featured is a systematic enterprise that builds and organizes knowledge in the
-form of testable explanations and predictions about the universe.
+This is the category of themes that discuss some textbook aspect of mainstream
+modern science, or another. For example, themes featuring uncontroversial
+ideas about relativity theory, DNA sequencing, or cryptography belong here.
 
 :: Parents
 the pursuit of knowledge
@@ -24131,7 +24142,7 @@ normal (or some other) universe. For example, there might be a universe
 contained in an atom, every atom, a box, or a marble.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 
 neural parasite
@@ -24229,7 +24240,7 @@ Space as it would be if the rules and axioms of geometry were suddenly
 different from what we know.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: Examples
 The Enterprise flew at warp speed in a straight line only to find itself back
@@ -24520,7 +24531,7 @@ A hypothetical type of exoplanet wherein the surface is completely covered by
 water.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 Captain Kirk and Spock were transformed into fish-like humanoids on the water-
@@ -24538,7 +24549,7 @@ There is a prison somewhere away from any inhabited planet. Typically it is on
 a moon, asteroid, spaceship or the like.
 
 :: Parents
-speculative habitat
+speculative place
 
 
 office politics
@@ -24796,7 +24807,7 @@ where some or several laws of nature (or suchlike aspects of reality) are
 reversed.
 
 :: Parents
-speculative reality
+speculative place
 
 :: Examples
 The Enterprise got sucked into just such a universe in tas2x06 "The Counter-
@@ -24933,9 +24944,8 @@ organized religion
 ==================
 
 :: Description
-The category of doctrines and practices that tend to be a part of organized
-religion. They range from beliefs about the afterlife to pronouncements about
-the end of the world.
+This is the category of themes pertaining to the doctrines and practices that
+tend to be features of institutional religions.
 
 :: Parents
 the pursuit of knowledge
@@ -25283,7 +25293,7 @@ parallel universe
 A hypothetical self-contained universe co-existing with our own.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: Notes
 The word "dimension" is used in two different sense in fiction. Sometimes what
@@ -29386,7 +29396,7 @@ Featured is a rotating structure in outer space that is habitable on its inner
 surface.
 
 :: Parents
-speculative habitat
+speculative place
 
 :: Examples
 A libertarian space colony lived in a rotating space habitat, possibly an
@@ -31132,7 +31142,8 @@ social ethical issue
 
 :: Description
 We are asked to contemplate what is "right" and what is "wrong" with respect
-to potential social policy.
+to social policy. The social policies may be such that are use in practice or
+such that have been proposed and could potentially be implemented.
 
 :: Parents
 society
@@ -31273,11 +31284,9 @@ society
 =======
 
 :: Description
-Themes pertaining to individuals involved in persistent social interaction, or
-a large social group sharing the same geographical or social territory,
-typically subject to the same political authority and dominant cultural
-expectations. These are themes about the interactions and patterns of
-relationships within or between different societies.
+This is the category of themes that are about large social groupings of
+people. For example, the themes may discuss “all of humanity”, countries,
+ethnic groups, cultures, or organizations.
 
 :: Parents
 
@@ -31892,8 +31901,8 @@ speculative ability
 ===================
 
 :: Description
-There is a character who as a particular ability of the kind that humans today
-may dream, but can't normally have. Notably, this includes various "super
+There is a character who has an ability of the kind that humans today may
+dream of, but can't normally have. Notably, this includes various "super
 powers" that have been described in fiction.
 
 :: Parents
@@ -32002,8 +32011,8 @@ speculative being
 =================
 
 :: Description
-There is a novel being not found in the real world as it is presently
-understood.
+There is a novel creature or living entity not found in the real world as it
+is presently understood.
 
 :: Parents
 speculative fiction theme
@@ -32036,7 +32045,7 @@ There is a futuristic city requiring a degree of engineering ability beyond
 our present capabilities, such as an arcology or a floating city.
 
 :: Parents
-speculative habitat
+speculative place
 
 :: Examples
 The film "Demolition Man" (1993) is set 2032 San Angeles: a vast megalopolis
@@ -32134,8 +32143,8 @@ speculative experience
 ======================
 
 :: Description
-Someone finds themself in such an unusual circumstance as no one would
-normally expect to face in their lifetime.
+A character finds themself in such an unusual circumstance as no one would
+expect to face in their lifetime.
 
 :: Parents
 speculative fiction theme
@@ -32145,10 +32154,12 @@ speculative fiction theme
 =========================
 
 :: Description
-Themes related to subject matter falling outside of reality as it is presently
-understood. This includes, but is not limited to, science fiction, fantasy,
-superhero fiction, science fantasy, horror, utopian and dystopian fiction,
-supernatural fiction as well as combinations thereof.
+This is the category of themes that are about matters falling outside of
+reality as it is presently understood. For example, the themes may discuss
+the future, alternate histories, other worlds, or magic. These are the sorts
+of themes that are typically explored in science fiction, fantasy, superhero
+fiction, science fantasy, horror, utopian and dystopian fiction, supernatural
+fiction as well as combinations thereof.
 
 :: Parents
 
@@ -32244,16 +32255,6 @@ see electromagnetic radiation beyond the visible spectrum.
 
 :: Parents
 speculative wearable device
-
-
-speculative habitat
-===================
-
-:: Description
-Speculative places (on and off Earth) that humans might one day call home.
-
-:: Parents
-speculative fiction theme
 
 
 speculative handheld device
@@ -32355,17 +32356,6 @@ https://en.wikipedia.org/wiki/Nanotechnology_in_fiction
 http://www.sf-encyclopedia.com/entry/nanotechnology
 
 
-speculative natural object
-==========================
-
-:: Description
-There is a hypothetical material objected of natural origin, such as a a dark
-matter nebula or even a universe that fits inside a box.
-
-:: Parents
-speculative reality
-
-
 speculative natural process
 ===========================
 
@@ -32376,7 +32366,7 @@ natural processes, such as a form of super accelerated evolution or time
 running backwards, rather than objects or events.
 
 :: Parents
-speculative reality
+speculative fiction theme
 
 
 speculative personal body manipulation
@@ -32418,22 +32408,23 @@ speculative punishment
 ======================
 
 :: Description
-People convicted of crimes are punished in futuristic or otherwise novel ways
-that are not really present in human history.
+People convicted of crimes are systematically punished in some novel, perhaps
+fantastical way that has likely never been used in the course of human history
+as it is commonly understood.
 
 :: Parents
 speculative fiction theme
 
 
-speculative reality
-===================
+speculative cosmos
+==================
 
 :: Description
-A basic aspect of reality, for example the laws of nature, is posited to be
-different from how we conventionally understand it.
+A universe that is fundamentally different in some novel, non-supernatural
+respect to the one we inhabit, is featured.
 
 :: Parents
-speculative fiction theme
+speculative place
 
 
 speculative remote living body manipulation
@@ -32495,8 +32486,8 @@ speculative society
 ===================
 
 :: Description
-We imagine a society that is different from what we normally experience in
-some interesting respect.
+There is a society that is different from what we normally experience in some
+novel respect.
 
 :: Parents
 speculative fiction theme
@@ -33429,7 +33420,7 @@ We imagine what the world would be like if some beings in it "evolved" at a
 much accelerated rate.
 
 :: Parents
-speculative natural process
+speculative evolution
 
 
 super growth therapy
@@ -33602,8 +33593,8 @@ superseded scientific theory
 ============================
 
 :: Description
-The category of scientific theories that were once widely accepted but have
-since been superseded or outright discarded.
+The category of scientific theories that were once more or less accepted but
+have since been largely rejected by the scientific community.
 
 :: Parents
 the pursuit of knowledge
@@ -34933,8 +34924,9 @@ the art of war
 ==============
 
 :: Description
-The best ways to conduct fights and warfare are discussed. Humanity should be
-embarrassed that this is such a large theme group.
+This is the category of themes that pertain to the discussion of how one most
+effectively conduct fights and warfare. Humanity should be ashamed and
+embarrassed that this is such a large group of themes.
 
 :: Parents
 the pursuit of knowledge
@@ -36006,11 +35998,12 @@ the human condition
 ===================
 
 :: Description
-The inner and outer experiences of individuals be they about private life,
-interactions with others around them, or on the level of society taken as a
-whole. These are themes about wants, needs, emotions, relationships; about
-what we want in life, the challenges we have to face and the hardships we
-endure.
+This is the category of themes that are primarily about individual humans,
+their inner experiences, their experiences of the world they inhabit, or their
+experiences with other individuals. For example, the themes may discuss the
+individual experiences of members in a small group of people, interpersonal
+relationships, the trials and tribulations an individual may encounter in
+their journey through life, or emotions and other internal mental states.
 
 :: Parents
 
@@ -37091,10 +37084,10 @@ the pursuit of knowledge
 ========================
 
 :: Description
-Themes pertaining to the expression of a view about how the world of nature
-operates, and how humans fit in relation to it. Put another way, these are
-themes about scientific, religious, philosophical, artistic, and humanist
-views on the nature of reality.
+This is the category of themes that are primarily about how world and the
+universe operates irrespective of its human inhabitants. For example, the
+themes may discuss scientific, religious, philosophical, artistic, and
+humanist views on the nature of reality.
 
 :: Parents
 
@@ -37579,7 +37572,7 @@ We must ponder the possibility that reality as we know it is simply the dream
 of one's self, or of some other sentient entity.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: Examples
 In tz1985e1x23a "Shadow Play", Adam was convinced that his execution wouldn't
@@ -37597,7 +37590,7 @@ We must ponder the possibility that all we know is just a simulation within a
 larger reality.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: Notes
 Typically the simulation is featured as being within a computer, but this is
@@ -38347,8 +38340,8 @@ A passage through space-time that would allow vast distances to be quickly
 traversed.
 
 :: Parents
+astronomy
 space travel
-speculative natural object
 
 :: References
 https://en.wikipedia.org/wiki/Wormhole
@@ -38571,7 +38564,7 @@ twin earth
 A hypothetical planet that is a near duplicate of Earth.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 :: Examples
 Earth Two was discovered in tos1x11 "Miri" and found to be populated only by
@@ -38622,7 +38615,7 @@ two-dimensional space
 A world confined to two spatial dimensions.
 
 :: Parents
-speculative reality
+speculative cosmos
 
 :: Examples
 The Enterprise-D got stuck in a plane of two-dimensional beings in tng4x10
@@ -39686,7 +39679,7 @@ water planet to the core
 There is a planet that is almost 100% water through and through.
 
 :: Parents
-speculative habitat
+speculative habitable celestial body
 
 
 wax sculpture
@@ -41990,9 +41983,9 @@ what life is like
 =================
 
 :: Description
-An aspect of life may be like for an  individual of some interesting category
-of individuals (for example poor black people in America) broadly or in some
-particular situation (for example in high school).
+An aspect of what life may be like for an individual of some interesting
+category of individuals (for example a visible minority group) broadly or in
+some particular situation (for example in high school).
 
 :: Parents
 the human condition
@@ -42061,7 +42054,7 @@ be entered from the outside, although energy-matter, light and information can
 escape from it.
 
 :: Parents
-speculative natural object
+astronomy
 
 :: References
 https://en.wikipedia.org/wiki/White_hole
