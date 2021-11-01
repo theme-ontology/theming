@@ -481,25 +481,6 @@ appropriately to them.
 human characters in contrast
 
 
-the legend of El Dorado
-=======================
-
-:: Description
-This fabled city in South America is featured.
-
-:: Parents
-cultural history
-legendary place
-
-:: Examples
-In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
-meat their doom on the Amazon River while obsessively pursuing the chimera of
-El Dorado.
-
-:: References
-https://en.wikipedia.org/wiki/El_Dorado
-
-
 European dragon
 ===============
 
@@ -1151,6 +1132,17 @@ human idea about life
 In tz1959e3x03 "The Shelter", we saw how a previously friendly group of
 neighborhood friends and families turned on each other and behaved  with
 selfishness and spite when they thought a nuclear apocalypse was impending.
+
+
+abandoning someone to save one's self
+=====================================
+
+:: Description
+A character contemplates leaving someone they care about in a tight spot to
+save their own skin.
+
+:: Parents
+personal ethical dilemma
 
 
 ability to communicate with animals
@@ -2847,8 +2839,8 @@ artificial intelligence
 =======================
 
 :: Description
-There is an automaton (typically a machine) with roughly human-level intelligence, 
-such as androids, sentient computers, etc.
+There is an automaton (typically a machine) with roughly human-level
+intelligence, such as androids, sentient computers, etc.
 
 :: Parents
 speculative technology
@@ -2856,21 +2848,6 @@ speculative technology
 :: References
 https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction
 http://www.sf-encyclopedia.com/entry/ai
-
-
-speculative artificial island
-=============================
-
-:: Description
-An island that has been constructed by people rather than formed by natural
-means.
-
-:: Parents
-sub-planetary-scale engineering
-speculative place
-
-:: References
-https://en.wikipedia.org/wiki/Artificial_island
 
 
 artificial life
@@ -3463,7 +3440,8 @@ band of outlaws
 ===============
 
 :: Description
-
+There is a group of outcasts to society who go around committing crimes in an
+organized manner.
 
 :: Parents
 organized crime
@@ -5070,6 +5048,28 @@ quarters in the middle of the night in tng4x13 "Devil's Due".
 https://en.wikipedia.org/wiki/Chastity
 
 
+cheating
+========
+
+:: Description
+A character subverts rules in a non-criminal way to obtain an unfair advantage
+over others with whom they are acquainted.
+
+:: Parents
+humans interacting
+
+:: Notes
+The theme "criminal fraud" is to be preferred when the when the act is clearly
+criminal in context.
+
+:: Examples
+Johnny infuriated the Swede by cheating at the card game High Five "The Blue
+Hotel" (1977).
+
+:: References
+https://en.wikipedia.org/wiki/Cheating
+
+
 chemical weapons
 ================
 
@@ -5188,6 +5188,21 @@ war
 
 :: References
 https://en.wikipedia.org/wiki/Children_in_the_military
+
+
+child unhealthily attached to a parent
+======================================
+
+:: Description
+A character maintains an unhealthy dependence on a parent at an age when the
+character is expected to be self-reliant.
+
+:: Parents
+parent and child
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Mother%27s_boy
 
 
 child's need to be loved
@@ -5733,21 +5748,6 @@ A character is enthusiastic about old movies of cultural significance.
 :: Parents
 recreational activity
 the fine arts and the humanities
-
-
-philosophy
-==========
-
-:: Description
-This is the category of themes that discuss ideas in philosophy, i.e., the
-study of general and fundamental questions, such as those about existence,
-reason, knowledge, values, mind, and language.
-
-:: Parents
-the pursuit of knowledge
-
-:: References
-https://en.wikipedia.org/wiki/Philosophy
 
 
 claustrophobia
@@ -7043,18 +7043,6 @@ family affairs
 
 :: References
 https://en.wikipedia.org/wiki/Dysfunctional_family
-
-
-greedy heir
-===========
-
-:: Description
-Someone, usually an aging or sick character, is bothered by a potential
-beneficiary who is overly concerned about their future inheritance.
-
-:: Parents
-human character
-the lust for gold
 
 
 coping with a grumpy old coot
@@ -10809,6 +10797,17 @@ https://en.wikipedia.org/wiki/Substance_dependence
 substance abuse
 
 
+drugged up dystopia
+===================
+
+:: Description
+There is a world in which stability is maintained thanks to one or more drugs
+that keep people under control, perhaps by making them feel perpetually happy.
+
+:: Parents
+dystopia
+
+
 drugs for military use
 ======================
 
@@ -14151,6 +14150,35 @@ The heroes of the "Final Fantasy I" (1987) video game are able to zip around
 from one location in their world to another in an archetypal flying galleon.
 
 
+folk belief
+===========
+
+:: Description
+This is the category of themes that are about faith-based popular beliefs and
+cultural traditions that fall outside of the typical framework of organized
+religious doctrines and practices.
+
+:: Parents
+the pursuit of knowledge
+
+:: References
+https://en.wikipedia.org/wiki/Folk_belief
+https://en.wikipedia.org/wiki/Popular_belief
+https://en.wikipedia.org/wiki/Superstition
+
+
+following through on a promise that is unpleasant
+=================================================
+
+:: Description
+A character struggles with the decision of whether to be honest and follow
+through on a promise they have made, or to break it just because it's somehow
+unpleasant or distasteful.
+
+:: Parents
+human life choice
+
+
 food crop pandemic
 ==================
 
@@ -14590,21 +14618,6 @@ metaphysics
 
 :: References
 https://en.wikipedia.org/wiki/Free_will
-
-
-freedom from torture
-====================
-
-:: Description
-We are made to ponder what treatments are to be considered "torture" and when,
-if ever, it may be morally justified to employ it.
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/United_Nations_Convention_against_Torture
-https://en.wikipedia.org/wiki/Torture#Laws_against_torture
 
 
 freedom of the press
@@ -15454,6 +15467,23 @@ Price".
 https://en.wikipedia.org/wiki/Gluttony
 
 
+god and follower
+================
+
+:: Description
+A personal relationship between a deity and a (more or less) devout follower
+of theirs, is featured.
+
+:: Parents
+organized religion
+human interpersonal relationship
+
+:: Notes
+This theme should only be used when someone is in direct, typically verbal
+communication with their chosen god. The simple voicing of a prayer, for
+instance, does not meet the bar.
+
+
 godparent and godchild
 ======================
 
@@ -15687,6 +15717,22 @@ The relationship between a grandfather and his grandson is featured.
 human familial relationship
 
 
+grandfather paradox
+===================
+
+:: Description
+The following kind of paradox is featured: If I go back in time and do
+something that would prevent me from later going back in time (such as killing
+my own grandfather), then I can't have gone back in time. But then I won't
+have been prevented from going and so I went, and so on.
+
+:: Parents
+time travel paradox
+
+:: References
+https://en.wikipedia.org/wiki/Grandfather_paradox
+
+
 grandmother and granddaughter
 =============================
 
@@ -15751,6 +15797,18 @@ only way to protect your own people?
 
 :: Parents
 social ethical dilemma
+
+
+greedy heir
+===========
+
+:: Description
+Someone, usually an aging or sick character, is bothered by a potential
+beneficiary who is overly concerned about their future inheritance.
+
+:: Parents
+human character
+the lust for gold
 
 
 gremlin
@@ -20569,6 +20627,17 @@ one sort or another. This may include wizards, sorcerers, witches, etc.
 legendary being
 
 
+legendary place
+===============
+
+:: Description
+A fictional realm from Earth mythology, is featured. Examples include
+Atlantis, El Dorado, and the Garden of Eden.
+
+:: Parents
+speculative place
+
+
 leprechaun
 ==========
 
@@ -22023,6 +22092,25 @@ sociocultural issue
 https://en.wikipedia.org/wiki/Consumerism
 
 
+mass hysteria
+=============
+
+:: Description
+Allusions of a threat spread through a group causing panic, each person's fear
+reinforcing that of the next and in a vicious circle.
+
+:: Parents
+humans in group
+
+:: Examples
+The people of Maple Street gradually transform into an hysterical mob when
+they thought an alien monster was masquerading amongst them in "The Twilight
+Zone" (1959) story "The Monsters Are Due on Maple Street" (tz1959e1x22).
+
+:: References
+https://en.wikipedia.org/wiki/Mass_hysteria
+
+
 mass infertility
 ================
 
@@ -23298,21 +23386,6 @@ human idea about life
 https://idioms.thefreedictionary.com/moderation+in+all+things
 
 
-science
-=======
-
-:: Description
-This is the category of themes that discuss some textbook aspect of mainstream
-modern science, or another. For example, themes featuring uncontroversial
-ideas about relativity theory, DNA sequencing, or cryptography belong here.
-
-:: Parents
-the pursuit of knowledge
-
-:: References
-https://en.wikipedia.org/wiki/Science
-
-
 mole people
 ===========
 
@@ -23582,6 +23655,20 @@ sports
 
 :: References
 https://en.wikipedia.org/wiki/Motorsport
+
+
+mountaineering
+==============
+
+:: Description
+A character is enthusiastic about the set of outdoor activities that involves
+ascending tall mountains.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Mountaineering
 
 
 move fast or take it slow in a romantic relationship
@@ -26127,6 +26214,21 @@ human way of life
 https://en.wikipedia.org/wiki/Philanthropy
 
 
+philosophy
+==========
+
+:: Description
+This is the category of themes that discuss ideas in philosophy, i.e., the
+study of general and fundamental questions, such as those about existence,
+reason, knowledge, values, mind, and language.
+
+:: Parents
+the pursuit of knowledge
+
+:: References
+https://en.wikipedia.org/wiki/Philosophy
+
+
 photographic memory ability
 ===========================
 
@@ -26186,6 +26288,20 @@ science
 
 :: References
 https://en.wikipedia.org/wiki/Physics
+
+
+picking up a hitchhiker
+=======================
+
+:: Description
+A character traveling in a vehicle goes out of their way to help a stranger
+who is waiting along the side of the road in search of a ride.
+
+:: Parents
+helping a stranger in need
+
+:: References
+https://en.wikipedia.org/wiki/Hitchhiking
 
 
 piloted creature-shaped vehicle
@@ -28515,6 +28631,20 @@ political ideology
 https://en.wikipedia.org/wiki/Fundamentalism#Religious
 
 
+religious hypocrisy
+===================
+
+:: Description
+A religious person neglects to practice what they preach.
+
+:: Parents
+hypocritical character
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Hypocrisy
+
+
 religious occupation
 ====================
 
@@ -29406,6 +29536,21 @@ O'Neil cylinder, in "Libra" (1978).
 https://en.wikipedia.org/wiki/O%27Neill_cylinder
 
 
+rotational simulated gravity
+============================
+
+:: Description
+Rotation is used to induce centrifugal forces to simulate gravity. The still
+hypothetical rotating wheel space station, for example, uses this mechanism to
+generate Earth-like gravity.
+
+:: Parents
+artificial gravity technology
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_gravity
+
+
 rule by strength of arm
 =======================
 
@@ -29790,6 +29935,21 @@ strategically stationed himself with a rifle.
 https://en.wikipedia.org/wiki/School_shooting
 
 
+science
+=======
+
+:: Description
+This is the category of themes that discuss some textbook aspect of mainstream
+modern science, or another. For example, themes featuring uncontroversial
+ideas about relativity theory, DNA sequencing, or cryptography belong here.
+
+:: Parents
+the pursuit of knowledge
+
+:: References
+https://en.wikipedia.org/wiki/Science
+
+
 science as magic to the primitive
 =================================
 
@@ -30076,6 +30236,20 @@ speculative vehicle
 
 :: References
 https://en.wikipedia.org/wiki/Self-driving_car
+
+
+self-fulfilling prophesy
+========================
+
+:: Description
+A prediction causes itself to become true through some usually roundabout
+means.
+
+:: Parents
+philosophy
+
+:: References
+https://en.wikipedia.org/wiki/Self-fulfilling_prophecy#Literature,_media,_and_the_arts
 
 
 self-healing ability
@@ -32007,6 +32181,21 @@ https://en.wikipedia.org/wiki/Airship
 http://www.sf-encyclopedia.com/entry/airships
 
 
+speculative artificial island
+=============================
+
+:: Description
+An island that has been constructed by people rather than formed by natural
+means.
+
+:: Parents
+sub-planetary-scale engineering
+speculative place
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_island
+
+
 speculative being
 =================
 
@@ -32063,6 +32252,17 @@ humans in reality can't communicate with.
 speculative ability related to another being
 
 
+speculative cosmos
+==================
+
+:: Description
+A universe that is fundamentally different in some novel, non-supernatural
+respect to the one we inhabit, is featured.
+
+:: Parents
+speculative place
+
+
 speculative device
 ==================
 
@@ -32086,6 +32286,18 @@ speculative environmental suit
 
 :: References
 https://en.wikipedia.org/wiki/Diving_suit
+
+
+speculative effect
+==================
+
+:: Description
+There is a novel physical phenomenon that is not found in the real world as it
+is presently understood. The phenomenon may be mediated by magic, technology,
+or any other means.
+
+:: Parents
+speculative fiction theme
 
 
 speculative energy generation technology
@@ -32155,9 +32367,9 @@ speculative fiction theme
 
 :: Description
 This is the category of themes that are about matters falling outside of
-reality as it is presently understood. For example, the themes may discuss
-the future, alternate histories, other worlds, or magic. These are the sorts
-of themes that are typically explored in science fiction, fantasy, superhero
+reality as it is presently understood. For example, the themes may discuss the
+future, alternate histories, other worlds, or magic. These are the sorts of
+themes that are typically explored in science fiction, fantasy, superhero
 fiction, science fantasy, horror, utopian and dystopian fiction, supernatural
 fiction as well as combinations thereof.
 
@@ -32257,6 +32469,17 @@ see electromagnetic radiation beyond the visible spectrum.
 speculative wearable device
 
 
+speculative habitable celestial body
+====================================
+
+:: Description
+There is a large body in space (e.g. an asteroid, a planet, and perhaps even a
+star) that is amenable to human life.
+
+:: Parents
+speculative place
+
+
 speculative handheld device
 ===========================
 
@@ -32336,6 +32559,38 @@ speculative spaceship
 https://en.wikipedia.org/wiki/Interstellar_probe
 
 
+speculative invisibility inducing effect
+========================================
+
+:: Description
+There is an effect that renders someone or something invisible to the eye.
+
+:: Parents
+speculative effect
+
+
+speculative love inducing effect
+================================
+
+:: Description
+There is an effect that functions to create feeling of love in one person for
+another.
+
+:: Parents
+speculative effect
+
+
+speculative luck inducing effect
+================================
+
+:: Description
+There is an effect that causes good fortune to be showed on someone much more
+than would be expected by chance.
+
+:: Parents
+speculative effect
+
+
 speculative nanotechnology
 ==========================
 
@@ -32404,6 +32659,30 @@ may for example be impervious to bullets, or able to walk through fire.
 speculative ability related to own body
 
 
+speculative place
+=================
+
+:: Description
+There is a domain amenable to human habitation that falls outside the present
+scope of where human beings have so far set foot. These hypothetical domains
+range from futuristic cities to space habitats to habitable exoplanets to
+fabled lands to magical kingdoms in the clouds.
+
+:: Parents
+speculative fiction theme
+
+
+speculative prediction of the future
+====================================
+
+:: Description
+There is an effect that gives someone the means to predict the future with
+near perfect accuracy.
+
+:: Parents
+speculative effect
+
+
 speculative punishment
 ======================
 
@@ -32414,17 +32693,6 @@ as it is commonly understood.
 
 :: Parents
 speculative fiction theme
-
-
-speculative cosmos
-==================
-
-:: Description
-A universe that is fundamentally different in some novel, non-supernatural
-respect to the one we inhabit, is featured.
-
-:: Parents
-speculative place
 
 
 speculative remote living body manipulation
@@ -32596,6 +32864,17 @@ speculative geoengineering
 :: References
 https://en.wikipedia.org/wiki/Terraforming
 http://www.sf-encyclopedia.com/entry/terraforming
+
+
+speculative time manipulating effect
+====================================
+
+:: Description
+There is an effect that enables the past be rewritten or the future to be
+changed.
+
+:: Parents
+speculative effect
 
 
 speculative torture device
@@ -33574,6 +33853,21 @@ In tz2002e1x42 "Sunrise", an ancient Aztec curse that blotted out the sun was
 unleashed. Earth was mere hours from becoming an icy tomb when the curse was
 narrowly countermanded by means of a human sacrifice. Or so believed four
 college students who ritually murdered their friend.
+
+
+supernatural luck
+=================
+
+:: Description
+A character's good or bad fortune is interpreted in terms of the supernatural,
+such as an attribute of themself or some magical object, or the result of a
+favorable or unfavorable view of a deity upon them.
+
+:: Parents
+folk belief
+
+:: References
+https://en.wikipedia.org/wiki/Luck
 
 
 supernova
@@ -34558,11 +34852,11 @@ motto.
 :: Parents
 human idea about life
 
-:: Aliases
-love thy neighbor
-
 :: References
 https://en.wikipedia.org/wiki/Golden_Rule
+
+:: Aliases
+love thy neighbor
 
 
 the Holy Chalice
@@ -35420,6 +35714,17 @@ Adventures of Pinocchio" (1883) is a wooden puppet who dreams of becoming a
 real boy.
 
 
+the desire to get away from it all
+==================================
+
+:: Description
+A character wants nothing more than to rid themselves of their various burdens
+in life for an extended period of time, or perhaps even permanently.
+
+:: Parents
+human self-actualization need
+
+
 the desire to have children
 ===========================
 
@@ -35457,6 +35762,16 @@ favor, that they feel they own to someone else.
 
 :: Parents
 human character
+
+
+the desire to survive
+=====================
+
+:: Description
+A character is determined to live in spite of an adverse situation.
+
+:: Parents
+human safety need
 
 
 the difficulty of picking a name for a baby
@@ -36037,6 +36352,18 @@ human idea about life
 https://en.wikipedia.org/wiki/Frugality
 
 
+the importance of being honest
+==============================
+
+:: Description
+It is illustrated that being seen as honest is important and, conversely, that
+deceiving those around you can lead to disaster.
+
+:: Parents
+human idea about life
+honesty
+
+
 the importance of faith
 =======================
 
@@ -36167,6 +36494,25 @@ human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Legal_proceeding
+
+
+the legend of El Dorado
+=======================
+
+:: Description
+This fabled city in South America is featured.
+
+:: Parents
+cultural history
+legendary place
+
+:: Examples
+In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
+meat their doom on the Amazon River while obsessively pursuing the chimera of
+El Dorado.
+
+:: References
+https://en.wikipedia.org/wiki/El_Dorado
 
 
 the legend of King Arthur
@@ -37937,6 +38283,19 @@ tidally locked planet Dytallix B in tng1x15 "Conspiracy".
 https://en.wikipedia.org/wiki/Tidal_locking
 
 
+time freeze
+===========
+
+:: Description
+Time itself comes to a complete stop.
+
+:: Parents
+time slow down
+
+:: Aliases
+time stop
+
+
 time loop
 =========
 
@@ -37996,6 +38355,20 @@ speculative ability related to reality at large
 time travel
 
 
+time slow down
+==============
+
+:: Description
+Time itself is observed to slow to a crawl.
+
+:: Parents
+speculative time manipulating effect
+
+:: Notes
+The theme "time freeze" is used in the limiting case when time comes to a
+complete and utter stop.
+
+
 time slow down ability
 ======================
 
@@ -38021,6 +38394,23 @@ speculative travel
 https://en.wikipedia.org/wiki/Time_travel
 https://en.wikipedia.org/wiki/Time_travel_in_fiction
 http://www.sf-encyclopedia.com/entry/time_travel
+
+
+time travel paradox
+===================
+
+:: Description
+There is an apparent contradiction, or logical contradiction associated with
+the  idea of time and time travel. Typically, temporal paradoxes fall into two
+broad groups: consistency paradoxes exemplified by the grandfather paradox,
+and causal loops.
+
+:: Parents
+time travel
+metaphysics
+
+:: References
+https://en.wikipedia.org/wiki/Temporal_paradox
 
 
 time traveler living secretly among us
@@ -38572,21 +38962,6 @@ children.
 
 :: References
 https://en.wikipedia.org/wiki/Earth_analog
-
-
-two heads are better than one
-=============================
-
-:: Description
-The advantage of discussing ideas with others is illustrated.
-
-:: Parents
-cooperation
-human idea about life
-
-:: Examples
-Geordi conjured up Leah Brahms on the holodeck and it turned out that together
-they could do what neither could alone in tng3x06 "Booby Trap".
 
 
 two-dimensional being
@@ -39682,6 +40057,19 @@ There is a planet that is almost 100% water through and through.
 speculative habitable celestial body
 
 
+water sports
+============
+
+:: Description
+There is a sport which takes place either in or on liquid water.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/List_of_water_sports
+
+
 wax sculpture
 =============
 
@@ -40259,6 +40647,17 @@ simulated personality within some program in a computer, or the like.
 
 :: Parents
 what if my personal identity came into question
+
+
+what if I found out that a loved one was not the person I thought they were
+===========================================================================
+
+:: Description
+A character finds that a person they care about has a highly problematic or
+troubling side of themself.
+
+:: Parents
+what if someone around me changed
 
 
 what if I got a limb stuck in rock in the middle of nowhere
@@ -41141,6 +41540,20 @@ what if I found myself in a strange place
 https://en.wikipedia.org/wiki/Castaway#Castaways_in_popular_culture
 
 
+what if I were stranded on a deserted planet
+============================================
+
+:: Description
+We imagine what it would be like to be stranded on a deserted planet, cut off
+from civilization.
+
+:: Parents
+what if I found myself in a strange place
+
+:: Notes
+This theme is used for planets and other planet-like celestial bodies alike.
+
+
 what if I were stranded without food and water
 ==============================================
 
@@ -41551,6 +41964,17 @@ lost all memories of them.
 what if someone around me changed
 
 
+what if someone dangerous was after me
+======================================
+
+:: Description
+A character experiences what it is like to know that some dangerous person is
+out to kill or otherwise cause them significant harm.
+
+:: Parents
+what if I were in a tight spot
+
+
 what if the Nazis had won
 =========================
 
@@ -41619,6 +42043,28 @@ inconsistently around us.
 
 :: Parents
 what if I were in a tight spot
+
+
+what if time passed at different rates for different people
+===========================================================
+
+:: Description
+Two characters experience the passage of time such that time goes faster for
+the one and slower for the other.
+
+:: Parents
+speculative experience
+
+:: Notes
+For this theme to apply, the experience of the passage of time must be
+depicted from the point of view of each character. In particular, this theme
+does not apply when one character simply freezes time or slows time to a
+crawl.
+
+:: Examples
+The Scalosians had been subjected to radiation that made them speed up in time
+relative to the Enterprise crew in tos3x13 "Wink of an Eye". The radiation had
+its negative effects also, rendering them sterile.
 
 
 what if we all lost our memories
@@ -41915,6 +42361,21 @@ century.
 https://en.wikipedia.org/wiki/Ocean_liner
 
 
+what it is like to be a refugee
+===============================
+
+:: Description
+The experiences of someone has crossed national boundaries and who cannot or
+is unwilling to return home due to well-founded fear of persecution, are
+featured.
+
+:: Parents
+what life is like
+
+:: References
+https://en.wikipedia.org/wiki/Refugee
+
+
 what it is like to be different
 ===============================
 
@@ -42126,30 +42587,6 @@ devoted older man with a cruel, selfish, and self-indulgent younger wife named
 Flora.
 
 
-wicked witch
-============
-
-:: Description
-There is a female-looking being (possibly but not necessarily a normal human
-woman) who uses magic to attain evil ends. She must either fit the stereotype
-of a wicked witch or be describe as such in the story.
-
-:: Parents
-legendary magic wielder
-
-:: Notes
-It should be clear that she uses magic, and is not merely some old woman with
-a knowledge of herbs (cf. "old woman as a witch stereotype").
-
-:: Examples
-The elderly aunt Ada used black magic in an effort to transfer her soul into
-the body of her niece in the "Night Gallery: Since Aunt Ada Came to Stay"
-(1971).
-
-:: References
-https://en.wikipedia.org/wiki/Witchcraft
-
-
 wilderness survival
 ===================
 
@@ -42236,6 +42673,30 @@ Henry's wish that Bolie had won the boxing match would stay granted, was if
 Bolie well and truly believed in it. Bolie could not find it in himself to
 believe in such a wacky thing. Therefore reality reverted, and Bolie found
 himself again having lost the boxing match.
+
+
+witch
+=====
+
+:: Description
+There is a female-looking being (possibly but not necessarily a normal human
+woman) who is described as a "witch", or who uses magic of the kind that is
+traditionally described as "witchcraft".
+
+:: Parents
+legendary magic wielder
+
+:: Notes
+It should be clear that she uses magic, and is not merely some old woman with
+a knowledge of herbs (cf. "old woman as a witch stereotype").
+
+:: Examples
+The elderly aunt Ada used black magic in an effort to transfer her soul into
+the body of her niece in the "Night Gallery: Since Aunt Ada Came to Stay"
+(1971).
+
+:: References
+https://en.wikipedia.org/wiki/Witchcraft
 
 
 witch-hunt
@@ -42793,5 +43254,22 @@ living corpse
 :: References
 https://en.wikipedia.org/wiki/Zombie
 http://www.sf-encyclopedia.com/entry/zombies
+
+
+zoology
+=======
+
+:: Description
+Zoology is the branch of biology that studies the animal kingdom, including
+the structure, embryology, evolution, classification, habits, and distribution
+of all animals, both living and extinct, and how they interact with their
+ecosystems. This theme is used whenever an aspect of this science is featured
+in the story.
+
+:: Parents
+biology
+
+:: References
+https://en.wikipedia.org/wiki/Zoology
 
 
