@@ -21147,20 +21147,6 @@ theft
 https://en.wikipedia.org/wiki/Looting
 
 
-lord and vassal
-===============
-
-:: Description
-A relationship between a ruler and a person who is feudally bound to them is
-featured.
-
-:: Parents
-human interpersonal relationship
-
-:: References
-https://en.wikipedia.org/wiki/Vassal
-
-
 loser character
 ===============
 
@@ -22387,6 +22373,7 @@ matter at a level of precision beyond our current capabilities.
 
 :: Parents
 speculative technology
+speculative matter manipulating effect
 
 
 matter replicator
@@ -36352,12 +36339,12 @@ human idea about life
 https://en.wikipedia.org/wiki/Frugality
 
 
-the importance of being honest
-==============================
+the importance of keeping one's promises
+========================================
 
 :: Description
-It is illustrated that being seen as honest is important and, conversely, that
-deceiving those around you can lead to disaster.
+It is illustrated that being seen as a person of one's word is important 
+and, conversely, that deceiving those around you can lead to disaster.
 
 :: Parents
 human idea about life
@@ -41185,6 +41172,7 @@ an entirely new person.
 
 :: Parents
 speculative experience
+speculative matter manipulating effect
 
 :: Examples
 Geordi gradually transformed into a non-sentient, bioluminiscent creature in
