@@ -20557,12 +20557,15 @@ or grab a fresh new (but unknown and risky) opportunity on the other.
 human life choice
 
 
-leaving the nest
-================
+child leaving the nest
+======================
 
 :: Description
 A juvenile reaches that stage in life when it is time to take leave of mom and
 dad and face the world.
+
+:: Notes
+The situation can be featured from either the child's or a parent's point of view. Children may find it hard to leave, or parents may find it hard to let them.
 
 :: Parents
 human childhood
@@ -21145,20 +21148,6 @@ theft
 
 :: References
 https://en.wikipedia.org/wiki/Looting
-
-
-lord and vassal
-===============
-
-:: Description
-A relationship between a ruler and a person who is feudally bound to them is
-featured.
-
-:: Parents
-human interpersonal relationship
-
-:: References
-https://en.wikipedia.org/wiki/Vassal
 
 
 loser character
@@ -22387,6 +22376,7 @@ matter at a level of precision beyond our current capabilities.
 
 :: Parents
 speculative technology
+speculative matter manipulating effect
 
 
 matter replicator
@@ -36352,12 +36342,12 @@ human idea about life
 https://en.wikipedia.org/wiki/Frugality
 
 
-the importance of being honest
-==============================
+the importance of keeping one's promises
+========================================
 
 :: Description
-It is illustrated that being seen as honest is important and, conversely, that
-deceiving those around you can lead to disaster.
+It is illustrated that being seen as a person of one's word is important 
+and, conversely, that deceiving those around you can lead to disaster.
 
 :: Parents
 human idea about life
@@ -41185,6 +41175,7 @@ an entirely new person.
 
 :: Parents
 speculative experience
+speculative matter manipulating effect
 
 :: Examples
 Geordi gradually transformed into a non-sentient, bioluminiscent creature in
