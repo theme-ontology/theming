@@ -576,12 +576,25 @@ Richards as Vince, and Vincent Schiavelli as the Priest. Narrated by Don
 Novello. Written by Rod Ash and Mark Curtiss. Directed by Peter Medak.
 
 :: Ratings
+<<<<<<< HEAD
 5 <paul>
 5 <mikael>
 
 :: Choice Themes
 the importance of being honest [Pinocchio learned that it was wrong to tell lies.]
 human self improvement [Pinocchio learned to be a kind and caring person.]
+=======
+5 <paul*>
+5 <mikael>
+
+:: Choice Themes
+lying [] {For discussion: basically the importance of being truthful, which I think we encountered in some form in other fairy tales here}
+taking responsibility for one's actions [] {For discussion: 26:00}
+human self improvement [Pinocchio learned to be a kind and caring person]
+taking the easy way out [https://www.quora.com/What-is-the-moral-of-the-tale-of-Pinocchio]
+being obedient to your parents [] {For discussion}
+homework vs. play [] {MO: not quite right, but a point here was that Pinocchio time and again choose to do what was fun at the moment, rather than carrying out his duties.}
+>>>>>>> master
 human self-sacrifice for another [The fairy spelled out that one reason Pinocchio deserved to be a real boy is because he had learned to care for others before himself. He had done so by risking his life to save his father.]
 
 :: Major Themes
@@ -589,6 +602,7 @@ the desire to become more human-like [The titular living marionette Pinocchio lo
 anthropomorphic object come to life [Pinocchio was a living wooden puppet.]
 fairies [The Blue Fairy (of wooden objects) first granted life to Gepetto's marionette, and later transformed him into a human boy.]
 father and son [Central to the story is the relationship between Gepetto and his son Pinocchio.]
+<<<<<<< HEAD
 parental love [Gepetto loved his son Pinocchio with all his heart.]
 what if I underwent a physical metamorphosis [The story culminated with the living marionette Pinocchio being transformed into a human boy. Pinocchio was transformed in to a donkey by a malicious Gypsy.]
 stereotypically innocent character [Pinocchio was naïvely unprepared for the world around him.]
@@ -598,21 +612,46 @@ remorse [Pinocchio came to regret it every time he did something wrong on accoun
 seeing the error of one's ways [Pinocchio came to regret it every time he did something wrong on account that his nose grew to an uncomfortable degree.]
 lying [Pinocchio's nose grew in length each time he told a fib.]
 working hard vs. taking it easy in life [Pinocchio time and again choose to do what was fun at the moment, rather than carrying out his duties.]
+=======
+resisting a temptation [Pinocchio succumbed to temptation and squandered the money he was given to by schoolbooks on a ticket to a stage play.] {For discussion: Are there more instances of temptation than just this one?}
+parental love [Gepetto loved his son Pinocchio with all his heart.]
+what if I underwent a physical metamorphosis [The story culminated with the living marionette Pinocchio being transformed into a human boy. Pinocchio was transformed in to a donkey by a malicious Gypsy.]
+child's point of view [] {For discussion apropos Pinocchio}
+innocence [] {Proposed for discussion: Very similar to Lal}
+exercising self-control [] {FD the second time Pinocchio's nose grew it was apparently because he let himself be dragged into watching a funny show instead of buying a school book}
+be wary of strangers [Two times Pinocchio got into trouble it was because he got hoodwinked by strange people he met in the street.]
+father and son [Gepetto and Pinocchio were as father and son.]
+>>>>>>> master
 
 :: Minor Themes
 human occupational activity [Gepetto was a puppet maker by trade.]
 the desire to have children [Gepetto wished that he might have a little son of his own.] 
 wish-granting being [The Blue Fairy granted Gepetto's wish for a son by imbuing Gepetto's wooden marionette with life, and later transforming him into a human boy.]
+<<<<<<< HEAD
+=======
+coping with being impoverished [Gepetto was destitute, having not even enough money to buy food for Pinocchio and himself.] {MO: knock up? money was a recurring theme.}
+>>>>>>> master
 friendship [Antonio advised his friend Gepetto to refrain from going around telling people the harebrained story that Pinocchio was a marionette come to life.]
 theft [Pinocchio stole fruit from Antonio's shop and then lied about it to Gepetto.]
 the theater [Pinocchio was in stitches watching a farcical stage play.]
 con artistry [Two scoundrels hoodwinked Pinocchio into burying his money, telling him that he'd come back to find five times as much should he leave it in the ground overnight. The scoundrels, of course, plotted to take them money for themselves.]
+<<<<<<< HEAD
 religious occupation [Gepetto consulted a bible holding Catholic priest, whom by him own admission "had seen a lot of boys", as to the whereabouts of Pinocchio.]
 neighbor and neighbor [Gepetto walked around the neighborhood, cheerfully greeting people who mostly ignored him.]
 what if I turned into an animal [Pinocchio was transformed in to a braying donkey by a malicious Gypsy, who later also transformed his own two goons in the same manner.]
 coping with a loved one being missing [Gepetto and Pinocchio were variously distressed by the other one being missing.]
 resisting a temptation [Pinocchio succumbed to temptation and squandered the money he was given to by schoolbooks on a ticket to a stage play.]
 exercising self-control [The second time Pinocchio's nose grew it was apparently because he let himself be dragged into watching a funny show instead of buying a school book.]
+=======
+religious profession [Gepetto consulted a bible holding Catholic priest, whom by him own admission "had seen a lot of boys", as to the whereabouts of Pinocchio.]
+remorse [Pinocchio pointedly lamented that Gepetto ended up getting trapped in the belly of a whale on account of his naughty behavior.]
+coping with being disfigured [Pinocchio with his nose.] {For discussion}
+neighbor and neighbor [Gepetto walked around the neighborhood, cheerfully greeting people who mostly ignored him.]
+religious occupation [Gepetto spoke to a clergyman of some sort.]
+what if I turned into an animal [Pinocchio was transformed in to a braying donkey by a malicious Gypsy, who later also transformed his own two goons in the same manner.]
+some theme about persisting within a large animal such as a whale [] {prop FD: a biblical theme...}
+coping with a loved one being missing [Gepetto and Pinocchio were variously distressed by the other one being missing.]
+>>>>>>> master
 
 :: Other Keywords
 what if I were trapped in the belly of a whale [Gepetto and Pinocchio found themselves in just such a predicament.]
@@ -641,17 +680,30 @@ by Maryedith Burrell. Directed by Michael Lindsay-Hogg.
 4 <mikael>
 
 :: Choice Themes
+<<<<<<< HEAD
 people should stick to their own kind [This is a moral of the story according to fairy tale researchers and folklorists Iona and Peter Opie. The story has been interpreted as an allegory about people trying to get above their station by mingling with their social betters. In particular, the lower classes (i.e. the animals) should not deign to mingle with higher class beings like humans.]
+=======
+greed [https://study.com/academy/lesson/thumbelina-by-hans-christian-anderson-themes-analysis.html] {a starting point for discussion}
+people should be with their own kid [] {MO: a moral with racist overtones perhaps, but what can you do: https://en.wikipedia.org/wiki/Thumbelina#Commentaries}
+relations between social groups in society [] {FD: the story has been interpreted as an allegory about people trying to get above their station by mingling with their social betters}
+>>>>>>> master
 
 :: Major Themes
 mother and daughter [Thumbelina longed to be reunited with her mother, and in the end she was.]
 Lilliputian being [The titular Thumbelina was about thumb tall young girl.]
+<<<<<<< HEAD
 arranged marriage [Efforts were made to coerce Thumbelina into tying the knot with the boorish old Mr. Mole.]
 coping with being lost [Thumbelina wandered the big wide world, not knowing how to get home.]
+=======
+arranged marriage [Efforts were made to coerce Thumbelina into tying the knot with a grotesque toad boy, and later the boorish old Mr. Mole.] {MO: the toad one seems more like a case of https://en.wikipedia.org/wiki/Forced_marriage although I see it has been analyzed as an allegory of arranged marriag: https://en.wikipedia.org/wiki/Thumbelina#Commentaries}
+human in danger [Thumbelina traveling the big wide world.] {For discussion}
+compassion [The field mouse took pity on a freezing cold Thumbelina and invited her to winter with him in his burrow. Thumbelina took compassion on a badly injured swallow and nursed it back to health.]
+>>>>>>> master
 
 :: Minor Themes
 the desire to have children [Thumbelina's mother wished to have a child above all else.]
 the theory of evolution [Thumbelina puzzled over how yaks could have evolved from a "primal soup".]
+<<<<<<< HEAD
 human vs. captivity [Mother Toad kidnapped Thumbelina and ever so briefly imprisoned her on a lily pad.]
 mother and son [Mother Toad and her bumbling son Herman.]
 helping a stranger in need [The field mouse invited Thumbelina to winter in his burrow upon finding her trying to survive the elements.]
@@ -664,6 +716,18 @@ compassion [The field mouse took pity on a freezing cold Thumbelina and invited 
 
 :: Other Keywords
 forced marriage [Thumbelia was abducted and nearly forced into marrying a grotesque toad boy.]
+=======
+human vs. captivity [Mother Toad kidnapped Thumbelina and imprisoned her on a lily pad.] {MO: I know they said that, but she actually just woke up, had a quick conversation, and then was set loose}
+mother and son [Mother Toad and her bumbling son Herman.]
+helping a stranger in need [The field mouse invited Thumbelina to winter in his burrow upon finding her trying to survive the elements.] {PS: Make a child of compassion?}
+romanticization of the past [Mr. Mole broke out into song, lamenting progress and praising all things past.]
+nostalgia [Mr. Mole saw antiquity through rose tinted glasses.]
+fairies [] {For discussion apropos the Flower Prince}
+ability to communicate with animals [] {For discussion: It seems, based on the mother's interaction with the swallow, that only Thumbelina could understand the language of the animals.}
+coping with a loved one being missing [Thumbelina's mother was worried over the girl's sudden disappearance.]
+marriage ceremony [Thumbelina and the Flower Prince were united in matrimony at the conclusion of the story.]
+dream walking [We heard that the flower Prince had the ability to enter people's dreams.]
+>>>>>>> master
 
 
 ftt1982e3x05
@@ -690,7 +754,10 @@ the moat of her stepmother's castle.
 
 :: Ratings
 5 <paul>
+<<<<<<< HEAD
 4 <mikael>
+=======
+>>>>>>> master
 
 :: Choice Themes
 vanity [The queen was exceedingly vain. She spoke again and again of her beauty, and fished for reassurances of her beauty from her talking mirror.]
@@ -698,12 +765,21 @@ the desire to be beautiful [The queen was determined to be the most beautiful wo
 true beauty comes from within [The queen could not be more beautiful than Snow White because the queen was rotten and evil on the inside.]
 
 :: Major Themes
+<<<<<<< HEAD
 stepmother and stepdaughter [The queen was hellbent on killing the only woman more beautiful that her in all the land: her deep red lipped, fair skinned stepdaughter Snow White.]
 jealousy [The queen couldn't accept that Snow White surpassed her in beauty.]
 cruelty [The queen callously tried to murder her own stepdaughter, Snow White, merely on account that the princess was more beautiful than her.]
 romantic love [Snow White found her prince charming in the end.]
 mythological dwarf [The story famously features the Seven Dwarves who like to mine.]
 be wary of strangers [Snow White fell afoul of two passers by, who were in fact the witch queen in magic disguise. She was admonished to not trust strangers.]
+=======
+stepmother and stepdaughter [The queen was hellbent on killing the only woman more beautiful that her in all the land: her deep red lipped, fair skinned stepdaughter snow White.]
+jealousy [The queen couldn't accept that Snow White surpassed her in beauty.]
+vanity [The queen was exceedingly vain. She spoke again and again of her beauty, and fished for reassurances of her beauty from her talking mirror.]
+the desire to be beautiful [The queen was determined to be the most beautiful woman in her kingdom.]
+cruelty [The queen callously tried to murder her own stepdaughter, Snow White, merely on account that the princess was more beautiful than her.] {for discussion}
+romantic love [Snow White found her prince charming in the end.] {For discussion: could well be minor}
+>>>>>>> master
 
 :: Minor Themes
 the desire to have children [Snow White's mother desired to have a child with "lips of deep red" and so she did.]
@@ -711,6 +787,7 @@ flattery [The queen fished for compliments about her beauty from her talking mir
 coping with aging [The queen remarked that "the years do not effect my beauty", showing that she was aware she was no spring chicken.]
 compassion [The huntsman took compassion on Snow White by letting Snow White live, rather than cutting out her heart and returning it to the queen in a box as he had been ordered to do.]
 coping with being lost in the woods [Snow White wandering around in the woods until she stumbled on the Seven Dwarves' lodging.]
+<<<<<<< HEAD
 invasion of privacy [The Seven Dwarves were initially off-put to find that Snow White had trespassed into their lodging and taken liberties with their things.]
 hospitality [The Seven Dwarves welcomes Snow White into their humble home.]
 magic potion [The queen prepared a bubbling concoction that when drank, transformed her into an old woman.]
@@ -720,6 +797,15 @@ coping with the death of someone [The Seven Dwarves mourned Snow White's apparen
 legendary magic wielder [A magician turned the vain queen's mirrors black for evermore.]
 witch [The queen prepared a wicked concoction in a stereotypical wicked witch's cauldron, implying she was a witch as well as a queen. A dwarf also named her such.]
 resisting a temptation [Snow White new she shouldn't, but she couldn't resist the ruby red apple.]
+=======
+invasion of privacy [The dwarves were initially off-put to find that Snow White had trespassed into their lodging and taken liberties with their things.]
+hospitality [The Seven Dwarves welcomes Snow White into their humble home.]
+magic potion [The queen prepared a bubbling concoction that when drank, transformed her into an old woman.]
+poison murder [The queen tried to know off Snow White by giving her a poison apple.]
+loneliness [The prince revealed to the queen that he felt lonely.] {39:00}
+coping with the death of someone [The dwarves mourned Snow White's apparent death.]
+hexes and curses [A magician that turned the vain queen's mirrors black for evermore.] {PS: I guess this constitutes a kind of curse}
+>>>>>>> master
 
 
 ftt1982e3x06
