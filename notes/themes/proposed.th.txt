@@ -1,5 +1,5 @@
 
-speculative matter manipulating effect
+sspeculative matter manipulating effect
 ======================================
 
 :: Description
@@ -17,22 +17,23 @@ nature vs. artifice
 ===================
 
 :: Description
-Something perceived as "natural" is compared and contrasted with something that is artificial, i.e., man-made.
+Something perceived as "natural" is compared and contrasted with something
+that is artificial, i.e., human-made.
 
 :: Notes
-Usually, the associated moral ends up being that the natural thing is superior to the artificial thing in at least some sense.
+Usually, the associated moral ends up being that the natural thing is superior
+to the artificial thing in at least some sense.
 
 :: Parents
 philosophy
-
-:: References
 
 
 famine 
 ======
 
 :: Description
-There is a widespread scarcity of food in a society, to such an extent that many people struggle to get what they need to live.
+There is a widespread scarcity of food in a society, to such an extent that
+many people struggle to get what they need to live.
 
 :: Parents
 public health issue
@@ -46,6 +47,8 @@ the importance of being honest
 ==============================
 
 :: Description
+It is illustrated that being untruthful can be bad for you and those around
+you.
 
 :: Parents
 human idea about life
@@ -67,6 +70,9 @@ fishing
 =======
 
 :: Description
+A character is notably engaged in the catching of wild aquatic animals.
+Typically the character is either a professional fisherman, or sees fishing
+as a hobby.
 
 :: Parents
 human regular activity
@@ -76,6 +82,8 @@ anti-gravity
 ============
 
 :: Description
+There is an effect that causes a place or object that is free from the force
+of gravity.
 
 :: Parents
 speculative effect
@@ -100,6 +108,8 @@ stereotypically innocent character
 ==================================
 
 :: Description
+There is a character who has an optimistic view of the world because they lack
+knowledge and experience of life's hardships.
 
 :: Parents
 human character stereotype
@@ -109,6 +119,8 @@ people should stick to their own kind
 =====================================
 
 :: Description
+The idea is put forth that people are better off not straying outside of their
+own social group (e.g., class, race, nation).
 
 :: Parents
 human idea about life
@@ -119,15 +131,35 @@ coping with being lost
 ======================
 
 :: Description
+A character is in mortal danger because they have gotten lost and can't find
+their way to safety.
 
 :: Parents
 human in danger
+
+
+coping with being lost in the forest
+====================================
+
+:: Description
+A character copes with being lost in the woods.
+
+:: Parents
+coping with being lost
+
+:: Examples
+In "The Blair Witch Project" (1999), we saw three young filmmakers get
+irrevocably lost in a large forest while making a documentary about the local
+legend. While trying to find their way out, they were chased by something
+supernatural and eventually perished.
 
 
 change is part of life
 ======================
 
 :: Description
+The idea is explicitly voiced or pointedly illustrated, that things can never
+stay the way they are on account that change is an inevitable part of life.
 
 :: Parents
 human idea about life
@@ -137,9 +169,98 @@ speculative robotics
 ====================
 
 :: Description
+There is a non-sentient, task-performing machine that is currently beyond our
+ability to engineer.
 
 :: Parents
 speculative technology
+
+:: References
+https://en.wikipedia.org/wiki/Robotics
+
+
+The Russian Revolution
+======================
+
+:: Description
+The Russian Revolution was a period of political and social revolution 
+that took place in the former Russian Empire and began during the First 
+World War. Commencing in 1917 with the fall of the House of Romanov, 
+it concluded in 1923 with the Bolshevik establishment of the Soviet Union.
+This event and period of Russian history is featured.
+
+:: References
+https://en.wikipedia.org/wiki/Russian_Revolution
+
+:: Parents
+history
+revolution in society
+
+
+the importance of being hardworking
+===================================
+
+:: Description
+The idea is put forth that being diligent about one's work is a virtue worthy
+of praise.
+
+:: Parents
+human idea about life
+
+:: Aliases
+hard work pays off
+with great effort comes great reward
+the importance of being diligent
+
+
+fairy godmother
+===============
+
+:: Description
+There is a fairy with magical powers who acts as a mentor or guardian to
+someone.
+
+:: Parents
+fairies
+godparent and godchild
+
+:: References
+https://en.wikipedia.org/wiki/Fairy_godmother
+
+
+the desire to marry above one's station
+=======================================
+
+:: Description
+A character marries, or seeks to marry, someone from a wealthier or more
+powerful family.
+
+:: References
+https://en.wikipedia.org/wiki/Hypergamy
+
+:: Parents
+human self-actualization need
+
+:: Aliases
+hypergamy
+
+
+pluralistic ignorance
+=====================
+
+:: Description
+Members of a social group knowingly go along with something they privately
+hold to be wrong because they assume, incorrectly, that most others accept it.
+
+:: References
+https://en.wikipedia.org/wiki/Pluralistic_ignorance
+
+:: Parents
+humans in group
+
+:: Aliases
+the Emperor's New Clothes phenomenon
+
 
 
 

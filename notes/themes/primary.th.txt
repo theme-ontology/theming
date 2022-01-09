@@ -7755,23 +7755,6 @@ The sentient space probe Nomad coped briefly with being lost in space, parted
 from its maker Jackson Roykirk, in tos2x08 "The Changeling".
 
 
-coping with being lost in the forest
-====================================
-
-:: Description
-A character is in mortal danger because they have gotten lost, typically in a
-forest, and can't find their way to safety.
-
-:: Parents
-coping with being lost
-
-:: Examples
-In "The Blair Witch Project" (1999), we saw three young filmmakers get
-irrevocably lost in a large forest while making a documentary about the local
-legend. While trying to find their way out, they were chased by something
-supernatural and eventually perished.
-
-
 coping with being separated from one's family
 =============================================
 
@@ -13023,7 +13006,7 @@ fatherly disappointment in a son
 A son is not all that his father wishes him to be.
 
 :: Parents
-parental disappointment in child
+parental disappointment in a child
 father and son
 
 
@@ -14240,15 +14223,15 @@ romantic love
 https://en.wikipedia.org/wiki/Societal_attitudes_toward_homosexuality
 
 
-force field generator
-=====================
+force field
+===========
 
 :: Description
 Technology used to produce a (more or less) invisible and impenetrable wall of
 "force".
 
 :: Parents
-speculative device
+speculative technology
 
 :: References
 https://en.wikipedia.org/wiki/Force_field_(fiction)
@@ -15132,6 +15115,7 @@ who summons them is featured.
 
 :: Parents
 wish-granting being
+wish-granting magic object
 
 :: Notes
 This is not to be confused with the jinn from Islamic mythology.
@@ -16706,7 +16690,7 @@ A child must choose what is more important to them: boring homework or
 frivolous play.
 
 :: Parents
-human life choice
+working hard vs. taking it easy in life
 
 :: Examples
 Alexander was very much swayed by Lwaxana's arguments for choosing play over
@@ -18553,14 +18537,17 @@ female stereotype
 https://en.wikipedia.org/wiki/Female_hysteria
 
 
-ice age
-=======
+global cooling
+==============
 
 :: Description
 A planet becomes so cold that glaciers advance and civilization collapses.
 
 :: Parents
 force of nature existential risk to civilization
+
+:: Aliases
+coming ice age
 
 :: Examples
 The Eymorg civilization had collapsed when they entered an ice age in tos3x06
@@ -21585,20 +21572,6 @@ supernatural efficacy.
 magic object
 
 
-magic lamp with genie
-=====================
-
-:: Description
-There is an object akin to Aladdin's magic oil lamp that hosts a genie who, if
-one rubs the lamp, is obligated to grant some wishes.
-
-:: Parents
-wish-granting magic object
-
-:: References
-https://en.wikipedia.org/wiki/Aladdin
-
-
 magic object
 ============
 
@@ -22268,7 +22241,7 @@ maternal love
 The love of a mother for her child is featured.
 
 :: Parents
-familial love
+parental love
 
 :: Examples
 Beverly expressed her love for Wesley in tng1x03 "The Naked Now" by slapping
@@ -23617,7 +23590,7 @@ motherly disappointment in a son
 A son is not all that his mother wishes him to be.
 
 :: Parents
-parental disappointment in child
+parental disappointment in a child
 mother and son
 
 :: Examples
@@ -24159,6 +24132,9 @@ humans in group
 
 :: References
 https://en.wikipedia.org/wiki/Negotiation
+
+:: Aliases
+haggling
 
 
 neighbor and neighbor
@@ -25471,8 +25447,8 @@ educational issue
 https://en.wikipedia.org/wiki/Parental_controls
 
 
-parental disappointment in child
-================================
+parental disappointment in a child
+==================================
 
 :: Description
 A child is not all that a parent wishes them to be.
@@ -25619,7 +25595,7 @@ paternal love
 The love of a father for his child is featured.
 
 :: Parents
-familial love
+parental love
 
 
 pathological lying
@@ -34633,6 +34609,7 @@ Britain, is featured.
 
 :: Parents
 history
+revolution in society
 
 :: References
 https://en.wikipedia.org/wiki/American_Revolution
@@ -34954,6 +34931,7 @@ included worker strikes, peasant unrest, and military mutinies.
 
 :: Parents
 history
+revolution in society
 
 :: Examples
 The film "Battleship Potemkin" (1925) romanticizes a mutiny aboard the
