@@ -19762,6 +19762,7 @@ human sight.
 
 :: Parents
 speculative personal body manipulation
+invisibility
 
 :: Notes
 This condition is often described as a semi-permanent feature that the
@@ -19782,6 +19783,7 @@ There is a technology that renders someone or something invisible.
 
 :: Parents
 speculative technology
+invisibility
 
 :: References
 https://en.wikipedia.org/wiki/Invisibility_in_fiction
@@ -29421,25 +29423,6 @@ that involve a romantic relationship and that are often portrayed in fiction.
 https://en.wikipedia.org/wiki/Intimate_relationship
 
 
-romantic seduction
-==================
-
-:: Description
-A character explicitly and purposefully attempts to entice another character
-to engage in a romantic relation or activity.
-
-:: Parents
-romantic relationship issue
-
-:: Notes
-It is unclear how to draw a line between "flirtation" and "seduction." Use
-seduction when the sequence of actions taken is so prolonged and deliberate
-that merely calling it a "flirtation" seems egregiously insufficient.
-
-:: References
-https://en.wikipedia.org/wiki/Seduction
-
-
 romanticization of the past
 ===========================
 
@@ -32504,8 +32487,8 @@ speculative spaceship
 https://en.wikipedia.org/wiki/Interstellar_probe
 
 
-speculative invisibility inducing effect
-========================================
+invisibility
+============
 
 :: Description
 There is an effect that renders someone or something invisible to the eye.
@@ -36745,15 +36728,15 @@ The experience of fear and its root causes is discussed.
 human nature
 
 
-the nature of human courtship
-=============================
+romantic courtship
+==================
 
 :: Description
-The complex ins and outs (no pun intended) of human mating rituals are
+The complex ins and outs of human mating rituals are
 discussed.
 
 :: Parents
-human nature
+romantic relationship
 
 :: References
 https://en.wikipedia.org/wiki/Courtship
