@@ -34,7 +34,7 @@ Visit the Theme Ontology website: [https://www.themeontology.org/](https://www.t
 The Theme Ontology Project is a community-based undertaking that is focused on developing a literary thematic knowledgebase to underpin computational analyses in fiction studies.
 This project repository contains a collection of carefully defined [literary themes](https://github.com/theme-ontology/theming/wiki/What-is-a-Literary-Theme%3F) together with thematically annotated [stories](https://github.com/theme-ontology/theming/wiki/What-is-a-Story%3F).
 The themes are organized into a [hierarchy](https://github.com/theme-ontology/theming/wiki/What-is-Literary-Theme-Ontology%3F).
-Data from this repository can easily be incorporated into the Theme Ontology [website](https://www.themeontology.org/].
+Data from this repository can easily be incorporated into the Theme Ontology [website](https://www.themeontology.org/).
 From there it can be downloaded and analyzed in various ways.
 This tells us interesting things about the kind of stories we humans invent.
 Theming is also a good personal way to reflect on what really goes on in the stories we enjoy.
