@@ -322,6 +322,11 @@ artisan profession
 ==================
 
 :: Description
+Featured is the professional activities of a skilled craft worker who makes or creates material objects partly or entirely by hand.
+This may include blacksmiths, shoemakers, weavers and watchmakers. 
+
+:: Notes
+The category is taken to exclude people who are though of as artists, which is for example most painters and sculptors.
 
 :: Parents
 human occupational activity
@@ -334,6 +339,7 @@ retiring from one's job
 =======================
 
 :: Description
+A character formally retires from work, typically because they have reached a certain retirement age.
 
 :: Parents
 humans at work
@@ -346,6 +352,7 @@ child living on the streets
 ===========================
 
 :: Description
+There is a homeless child living on the streets of a city or town.
 
 :: Parents
 human childhood
@@ -376,7 +383,7 @@ voodoo magic
 ============
 
 :: Description
-
+There is magic of the type that is popularly thought of as Voodoo. This often involves witch-doctors and curses in a stereotypical tropical jungle setting.
 
 :: Parents
 sympathetic magic
