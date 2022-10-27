@@ -1526,12 +1526,11 @@ human childhood
 https://en.wikipedia.org/wiki/Adolescence
 
 
-adopting a child
-================
+adoption of a child
+===================
 
 :: Description
-A character struggles with the major life decision of whether to adopt a
-child.
+The relationship between a parent and their adopted child is featured significantly.
 
 :: Parents
 human parenting
@@ -1990,7 +1989,7 @@ We are shown how something in particular may appear quite different from the
 respective perspectives of two different people.
 
 :: Parents
-cross cultural issue
+humans in group
 
 :: Notes
 This theme is typically used when the story switches between two character's
@@ -4378,24 +4377,6 @@ romantic relationship issue
 
 :: References
 https://en.wikipedia.org/wiki/Bondage_(BDSM)
-
-
-boredom
-=======
-
-:: Description
-Someone feels compelled to give attention to something or someone for which
-they have contempt or disinterest, but do not feel "disgust" over.
-
-:: Parents
-human emotion
-
-:: Examples
-Reading the 20th century novel "Hotel Royale" bored Captain Picard nearly to
-death in tng2x12 "The Royale".
-
-:: References
-https://en.wikipedia.org/wiki/Boredom
 
 
 boss and employee
@@ -7639,6 +7620,7 @@ Someone has to deal with a noisy, or otherwise troublesome, neighbor.
 
 :: Parents
 coping with a problematic person
+neighbor and neighbor
 
 
 coping with an obsessive fan
@@ -7763,8 +7745,15 @@ coping with being an outcast
 Someone struggles with being rejected and isolated from a social group that is
 (financially, emotionally, or otherwise) important to them.
 
+:: References
+https://en.wikipedia.org/wiki/Ostracism
+
+:: Aliases
+ostracism
+
 :: Parents
 coping with life issues
+humans in group
 
 
 coping with being disfigured
@@ -8620,7 +8609,7 @@ coping with the death of a child
 ================================
 
 :: Description
-A character grieves over the loss of their child.
+A character grieves over the loss of their own son or daughter (or any other person they have regarded more or less as their offspring).
 
 :: Parents
 coping with the death of a family member
@@ -8969,6 +8958,7 @@ to help said friend evade the law.
 
 :: Parents
 personal ethical dilemma
+obstruction of justice
 
 :: Examples
 In talesoftheunexpected4x08 "Never Speak Ill of the Dead", Bob and Sim came to
@@ -10021,7 +10011,7 @@ We are shown what things might be like from a mentally ill person's point of
 view.
 
 :: Parents
-mental illness
+human mental condition
 
 
 demagoguery
@@ -11314,11 +11304,11 @@ as we are shown in tas1x05 "More Tribbles, More Troubles".
 https://en.wikipedia.org/wiki/Ecology
 
 
-economic depression
-===================
+economic downturn
+=================
 
 :: Description
-The ramifications of an economic depression on society are explored.
+The ramifications of a severe economic downturn, like an economic depression or recession, on society are explored.
 
 :: Parents
 socioeconomic issue
@@ -11330,6 +11320,7 @@ Forever".
 
 :: References
 https://en.wikipedia.org/wiki/Depression_(economics)
+https://en.wikipedia.org/wiki/Recession
 
 
 edge of the universe
@@ -11720,24 +11711,6 @@ engineered space structure
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure#Trans-orbital_structures
-
-
-ennui
-=====
-
-:: Description
-Someone is feeling bored and depressed with their life and existence.
-
-:: Parents
-human mental condition
-
-:: Examples
-General Trelane (retired), a.k.a. the Squire of Gothos, held an enterprise
-landing party against their will to help spice up his life in tos1x18 "The
-Squire of Gothos".
-
-:: References
-https://en.wikipedia.org/wiki/Boredom
 
 
 environmental issue
@@ -13690,20 +13663,6 @@ https://en.wikipedia.org/wiki/Independent_woman
 
 :: Aliases
 independent woman
-
-
-female promiscuousness
-======================
-
-:: Description
-There is a stereotypically sex-obsessed female character, perhaps a borderline
-nymphomaniac.
-
-:: Parents
-female stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Hypersexuality
 
 
 female seeking to find a superior mate
@@ -17624,7 +17583,7 @@ life. A typical example is "career choice".
 human tough decision
 
 :: Examples
-"human life choice" themes include "adopting a child", "choosing between love
+"human life choice" themes include "choosing between love
 and family", "deciding whether to be a parent", "figuring out what to do with
 one's life", and "to settle down vs. to keep on trekking".
 
@@ -21608,6 +21567,7 @@ Someone shows constant support to a friend.
 
 :: Parents
 loyalty
+friendship
 
 
 loyalty to a group
@@ -21998,20 +21958,6 @@ homosexuality in TNG.
 https://en.wikipedia.org/wiki/Homosexuality
 
 
-male lasciviousness
-===================
-
-:: Description
-A male character is stereotypically licentious, i.e., makes offensive comments
-of a sexual nature or otherwise expresses an offensive preoccupation with sex.
-
-:: Parents
-male stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Lascivious_behavior
-
-
 male midlife crisis
 ===================
 
@@ -22040,21 +21986,6 @@ females, is demonstrated.
 
 :: Parents
 male stereotype
-
-
-male promiscuousness
-====================
-
-:: Description
-There is a male character that is excessively preoccupied with trying to have
-sex with many different partners to such an extent that this sexist stereotype
-is apparent.
-
-:: Parents
-male stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Promiscuity#Male_promiscuity
 
 
 male protectiveness
@@ -28639,6 +28570,7 @@ activity.
 
 :: Parents
 human regular activity
+human pleasure
 
 
 recreational illicit drug use
@@ -40950,12 +40882,11 @@ troubling side of themself.
 what if someone around me changed
 
 
-what if I got a limb stuck in rock in the middle of nowhere
-===========================================================
+what if I was incapacitated and stuck in the middle of nowhere
+==============================================================
 
 :: Description
-We imagine what it would be like to get stuck in rock (or suchlike) far away
-from assistance, perhaps while spelunking or mountaineering.
+We imagine what it would be like to, for example, get stuck in rock or suchlike far away from assistance, say, while spelunking or mountaineering.
 
 :: Parents
 what if I were in a tight spot
@@ -43103,6 +43034,7 @@ A man engages in numerous casual love affairs with different women.
 
 :: Parents
 male stereotype
+promiscuity
 
 :: Examples
 Thadiun Okona flirted with every skirt in sight in tng2x04 "The Outrageous
@@ -43602,5 +43534,19 @@ biology
 
 :: References
 https://en.wikipedia.org/wiki/Zoology
+
+
+male lasciviousness
+===================
+
+:: Description
+A male character is stereotypically licentious, i.e., makes offensive comments
+of a sexual nature or otherwise expresses an offensive preoccupation with sex.
+
+:: Parents
+male stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Lascivious_behavior
 
 
