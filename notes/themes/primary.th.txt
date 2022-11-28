@@ -1989,7 +1989,7 @@ We are shown how something in particular may appear quite different from the
 respective perspectives of two different people.
 
 :: Parents
-cross cultural issue
+humans in group
 
 :: Notes
 This theme is typically used when the story switches between two character's
@@ -3579,6 +3579,9 @@ be careful what you wish for
 Someone gets what they desire only to find out that they really shouldn't have
 desired it in the first place.
 
+:: Notes
+This proverb is normally used when a person does not have the maturity or sophistication to understand what the outcome of their desire will actually mean to themself. It is notably not applied in situations where there is hidden information about the outcome that makes it undesirable, and that no person could possibly have known beforehand irrespective of such things as maturity.
+
 :: Parents
 human idea about life
 
@@ -4379,24 +4382,6 @@ romantic relationship issue
 https://en.wikipedia.org/wiki/Bondage_(BDSM)
 
 
-boredom
-=======
-
-:: Description
-Someone feels compelled to give attention to something or someone for which
-they have contempt or disinterest, but do not feel "disgust" over.
-
-:: Parents
-human emotion
-
-:: Examples
-Reading the 20th century novel "Hotel Royale" bored Captain Picard nearly to
-death in tng2x12 "The Royale".
-
-:: References
-https://en.wikipedia.org/wiki/Boredom
-
-
 boss and employee
 =================
 
@@ -5030,7 +5015,7 @@ centaur
 This mythological half-man half-horse being is featured.
 
 :: Parents
-hybrid being
+human-animal hybrid
 legendary being
 
 :: References
@@ -7638,6 +7623,7 @@ Someone has to deal with a noisy, or otherwise troublesome, neighbor.
 
 :: Parents
 coping with a problematic person
+neighbor and neighbor
 
 
 coping with an obsessive fan
@@ -7762,8 +7748,15 @@ coping with being an outcast
 Someone struggles with being rejected and isolated from a social group that is
 (financially, emotionally, or otherwise) important to them.
 
+:: References
+https://en.wikipedia.org/wiki/Ostracism
+
+:: Aliases
+ostracism
+
 :: Parents
 coping with life issues
+humans in group
 
 
 coping with being disfigured
@@ -8619,7 +8612,7 @@ coping with the death of a child
 ================================
 
 :: Description
-A character grieves over the loss of their child.
+A character grieves over the loss of their own son or daughter (or any other person they have regarded more or less as their offspring).
 
 :: Parents
 coping with the death of a family member
@@ -11723,24 +11716,6 @@ engineered space structure
 https://en.wikipedia.org/wiki/Megastructure#Trans-orbital_structures
 
 
-ennui
-=====
-
-:: Description
-Someone is feeling bored and depressed with their life and existence.
-
-:: Parents
-human mental condition
-
-:: Examples
-General Trelane (retired), a.k.a. the Squire of Gothos, held an enterprise
-landing party against their will to help spice up his life in tos1x18 "The
-Squire of Gothos".
-
-:: References
-https://en.wikipedia.org/wiki/Boredom
-
-
 environmental issue
 ===================
 
@@ -13693,20 +13668,6 @@ https://en.wikipedia.org/wiki/Independent_woman
 independent woman
 
 
-female promiscuousness
-======================
-
-:: Description
-There is a stereotypically sex-obsessed female character, perhaps a borderline
-nymphomaniac.
-
-:: Parents
-female stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Hypersexuality
-
-
 female seeking to find a superior mate
 ======================================
 
@@ -14219,7 +14180,7 @@ Playful and seductive manners are employed to subtly express romantic
 interests in a prospective partner.
 
 :: Parents
-romantic relationship
+romantic courtship
 
 :: Examples
 Thadiun Okona, a self-described rogue, not so subtly expressed his romantic
@@ -18052,28 +18013,6 @@ they do so with a desire to improve on themself.
 :: References
 
 
-human thought virus
-===================
-
-:: Description
-There is an "information" virus that can invade the thought processes of a
-human and transmit itself to other humans by means of communication. It is
-thus more like a computer virus than a biological virus, except in that it
-infects biological information systems rather than machines.
-
-:: Parents
-speculative natural process
-
-:: Examples
-In tz1985e1x21a "Need to Know", we saw how people in a little village started
-going insane one after the other because of a confounding and viral idea about
-the meaning of life, that was whispered by an infected person to someone who
-would become the next victim in turn.
-
-:: Aliases
-memetic virus
-
-
 human tough decision
 ====================
 
@@ -21609,6 +21548,7 @@ Someone shows constant support to a friend.
 
 :: Parents
 loyalty
+friendship
 
 
 loyalty to a group
@@ -21975,6 +21915,7 @@ The idea that men are inherently competitive is expressed.
 
 :: Parents
 male stereotype
+competitiveness
 
 :: References
 https://www.ncbi.nlm.nih.gov/pubmed/9639863
@@ -21997,20 +21938,6 @@ homosexuality in TNG.
 
 :: References
 https://en.wikipedia.org/wiki/Homosexuality
-
-
-male lasciviousness
-===================
-
-:: Description
-A male character is stereotypically licentious, i.e., makes offensive comments
-of a sexual nature or otherwise expresses an offensive preoccupation with sex.
-
-:: Parents
-male stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Lascivious_behavior
 
 
 male midlife crisis
@@ -22041,21 +21968,6 @@ females, is demonstrated.
 
 :: Parents
 male stereotype
-
-
-male promiscuousness
-====================
-
-:: Description
-There is a male character that is excessively preoccupied with trying to have
-sex with many different partners to such an extent that this sexist stereotype
-is apparent.
-
-:: Parents
-male stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Promiscuity#Male_promiscuity
 
 
 male protectiveness
@@ -26930,7 +26842,7 @@ poetic justice
 
 :: Description
 An evildoer ironically falls victim to the very wickedness that they themself
-intended for someone else.
+intended for (or meted out to) someone else.
 
 :: Parents
 ethics
@@ -30787,8 +30699,7 @@ serial murder
 =============
 
 :: Description
-An individual murderer (as opposed to an organization) kills three or more
-people on separate occasions, for their own twisted reasons.
+An individual murderer (as opposed to an organization) kills three or more people on separate occasions in service of abnormal psychological gratification, with a significant period of time taking place in between the murders.
 
 :: Parents
 murder
@@ -30796,7 +30707,7 @@ murder
 :: Notes
 There is no widely accepted and precise definition for this category of crime.
 Prefer to omit this theme if it is unclear whether a serial murder was part of
-the story.
+the story. Do not use this theme if the murders are primarily motivated by, for example, good old greed (not an abnormal psychological gratification).
 
 :: References
 https://en.wikipedia.org/wiki/Serial_killer
@@ -40952,12 +40863,11 @@ troubling side of themself.
 what if someone around me changed
 
 
-what if I got a limb stuck in rock in the middle of nowhere
-===========================================================
+what if I was incapacitated and stuck in the middle of nowhere
+==============================================================
 
 :: Description
-We imagine what it would be like to get stuck in rock (or suchlike) far away
-from assistance, perhaps while spelunking or mountaineering.
+We imagine what it would be like to, for example, get stuck in rock or suchlike far away from assistance, say, while spelunking or mountaineering.
 
 :: Parents
 what if I were in a tight spot
@@ -42992,6 +42902,7 @@ traditionally described as "witchcraft".
 
 :: Parents
 legendary magic wielder
+witchcraft
 
 :: Notes
 It should be clear that she uses magic, and is not merely some old woman with
@@ -43105,6 +43016,7 @@ A man engages in numerous casual love affairs with different women.
 
 :: Parents
 male stereotype
+promiscuity
 
 :: Examples
 Thadiun Okona flirted with every skirt in sight in tng2x04 "The Outrageous
@@ -43604,5 +43516,19 @@ biology
 
 :: References
 https://en.wikipedia.org/wiki/Zoology
+
+
+male lasciviousness
+===================
+
+:: Description
+A male character is stereotypically licentious, i.e., makes offensive comments
+of a sexual nature or otherwise expresses an offensive preoccupation with sex.
+
+:: Parents
+male stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Lascivious_behavior
 
 
