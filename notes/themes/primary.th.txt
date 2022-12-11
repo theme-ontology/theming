@@ -7088,6 +7088,9 @@ coping with a bad hangover
 :: Description
 Someone experiences the effects of a bad hangover.
 
+:: Notes
+If someone is said to have severe alcohol induced effects like blackouts, this theme may be motivated on account that the character surely also had a hangover.
+
 :: Parents
 human health condition
 
@@ -10015,20 +10018,6 @@ view.
 
 :: Parents
 human mental condition
-
-
-demagoguery
-===========
-
-:: Description
-Someone uses fine words, speeches, rhetorical tricks etc. to influence a group
-of people.
-
-:: Parents
-humans in group
-
-:: References
-https://en.wikipedia.org/wiki/Demagogue
 
 
 democracy
