@@ -7822,6 +7822,9 @@ meaning friends.
 :: Parents
 human health condition
 
+:: Aliases
+convalescence
+
 
 coping with being ill on the job
 ================================
@@ -10672,6 +10675,9 @@ divorce
 :: Description
 Two characters who were formally married go through a divorce.
 
+:: Notes
+Although legally distinct, we theme annulments as divorces for the time being.
+
 :: Parents
 family affairs
 
@@ -11252,6 +11258,7 @@ carried out in the name of the natural environment.
 
 :: Parents
 environmental issue
+terrorism
 
 :: Examples
 Militant activists from Hekaras II placed space mines to stop space ships from
@@ -30799,6 +30806,8 @@ inappropriate promise of rewards in exchange for sexual favors.
 
 :: Parents
 gender issue
+sexual crime
+harassment
 
 :: References
 https://en.wikipedia.org/wiki/Sexual_harassment
@@ -41015,7 +41024,9 @@ what if my personal identity came into question
 This theme is typically used in fantastical scenarios where the clinical
 condition of multiple personality (aka. dissociative identity) disorder is not
 sincerely featured but distinct personalities nevertheless inhabit the same
-body.
+body. As a rule of thumb, it is used when at least one of the personalities
+at least some of the time is aware of its own condition of having multiple
+personalities.
 
 :: Examples
 Norman Osborn struggled with his deranged alter ago the Green Goblin in
