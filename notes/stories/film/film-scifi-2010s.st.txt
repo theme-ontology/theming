@@ -138,6 +138,9 @@ movie: Resident Evil: Afterlife (2010)
 :: Title
 Resident Evil: Afterlife
 
+:: Date
+2010-09-02
+
 :: Description
 Resident Evil: Afterlife is a 2010 science fiction action horror film written
 and directed by Paul W. S. Anderson. A direct sequel to Resident Evil:
@@ -147,9 +150,6 @@ series, which is loosely based on the video game series of the same name.
 Synopsis: A zombie bashing heroine searches for and rescues some survivors of
 a world-wide zombie outbreak, and teams up with them to bring the pain to the
 head of the nefarious corporation that caused the outbreak.
-
-:: Date
-2010-09-02
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil:_Afterlife
@@ -287,7 +287,6 @@ https://en.wikipedia.org/wiki/Source_Code
 
 :: Major Themes
 speculative virtual reality [A main novelty of the film is a technology that uses collected memories of people who died in a train bombing to simulate an elaborate eight-minute long digital recreation of the events leading up to the explosion. Captain Colter Stevens was placed in the digital recreation in the body of one of the passengers.]
-terrorism [It was up to Captain Colter Stevens to figure out the identity of the domestic terrorist who'd blown up a passenger train before the same man set of a dirty bomb in downtown Chicago.]
 what if I repeated a portion of my life over again [The story follows Captain Colter Stevens as he repeatedly lives out the eight-minute lead up to the terrorist bombing of a passenger train. He carried over his memories from the previous times each new time he went through.]
 speculative technology [A main novelty of the film is a machine that somehow sent its occupant to parallel realities that were slightly different from the "real" reality.]
 parallel universe [A grand revelation of the story is that the machine was not merely creating a simulation of the events leading up to the bombing of the train, but rather the machine had tapped into a parallel reality.]
@@ -819,18 +818,18 @@ movie: Resident Evil: Retribution (2012)
 :: Title
 Resident Evil: Retribution
 
+:: Date
+2012-09-03
+
 :: Description
 Resident Evil: Retribution is a 2012 science fiction action horror film
-written and directed by Paul W. S. Anderson. A direct sequel to Resident
-Evil: Afterlife (2010), it is the fifth installment in the Resident Evil film
+written and directed by Paul W. S. Anderson. A direct sequel to Resident Evil:
+Afterlife (2010), it is the fifth installment in the Resident Evil film
 series, loosely based on the video game franchise of the same name.
 
 Synopsis: A zombie bashing heroine is captured by a nefarious corporation,
-forcing her to make her escape from an underwater facility, used for testing
-a zombie creating virus.
-
-:: Date
-2012-09-03
+forcing her to make her escape from an underwater facility, used for testing a
+zombie creating virus.
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil:_Retribution
@@ -929,7 +928,6 @@ https://en.wikipedia.org/wiki/Iron_Man_3
 
 :: Major Themes
 personal flying contraption [The Iron Man and Iron Patriot suits.]
-terrorism [The Mandarin was the face of a national terrorism campaign on the United States.]
 human enhancement technology [The scientist Maya Hansen invented an experimental regenerative treatment named Extremis that allowed recovery from crippling injuries.]
 self-healing ability [Aldrich Killian used an experimental regenerative treatment on himself and his minions that allowed recovery from crippling injuries.]
 boyfriend and girlfriend [Tony and Pepper were living together as boyfriend and girlfriend.]
@@ -972,7 +970,6 @@ interstellar space travel [Travel among the stars is a fundamental reality in th
 the desire for vengeance [Captain Kirk was prepared to extrajudicially execute Khan (a.k.a. John Harrison) for Khan having killed a number of innocent people on Earth in a bombing, including Kirk's mentor Captain Pike. Spock beat the crap out of Khan in a rage over Khan having killed his friend Kirk. Khan somehow wanted revenge against Starfleet.]
 genetically engineered person [Khan and his crew members had been genetically engineered to have superior strength and intelligence.]
 friendship [Spock came to realize that Kirk came back to rescue him on Nibiru because Kirk was his friend.]
-terrorism [Khan twice attacked Starfleet headquarters.]
 
 :: Minor Themes
 the ethics of interfering in less advanced societies [Captain Kirk lost his command of the Enterprise after flagrantly violating the Prime Directive on the planet Nibiru.]
@@ -1169,15 +1166,15 @@ movie: Riddick (2013)
 :: Title
 Riddick
 
+:: Date
+2013-09-04
+
 :: Description
 Riddick (also known as Riddick: Rule the Dark) is a 2013 American science
 fiction action film and the third installment in the Riddick film series.
 
 Synopsis: The titular antihero Riddick is pursued by two rival bands of
 mercenaries on a scorpion-like creature infested planet.
-
-:: Date
-2013-09-04
 
 :: References
 https://en.wikipedia.org/wiki/Riddick_(film)
@@ -1281,7 +1278,6 @@ order vs. freedom [Robot police officers came with the promise of ridding the st
 matrimonial love [Clara loved her husband Alex so much that she consented to have him turned into a cyborg, rather than letting him die after he was mortally wounded in an attack.]
 
 :: Minor Themes
-terrorism [A suicide bomber attacked while a journalist was reporting from Tehran.]
 doctor's opinion vs. patient preference [Alex asked his doctor to just let him die once he realized he was nothing more than a head and lungs in an exoskeleton, but the doctor refused to do so on ethical grounds.]
 free will [A scientist explained that RoboCop was operating under the illusion that it had free will.]
 father and son [Alex/RoboCop and David Murphy.]
@@ -1556,7 +1552,6 @@ boss and employee [Cade made a point that he was Lucas' boss, and that they were
 friendship [It was clear that Cade and Lucas were pals even though Cade insisted that he was Lucas' boss.]
 coping with the death of a friend [Cade and his daughter Tessa mourned the death of their friend Lucas.]
 the Japanese stereotype [One of the Autobots was patterned after a samurai warrior who spoke in a Japanese accent was much concerned with honor.]
-terrorism [The government official Harold Attinger accused the Autobots of having committed an act of terror.]
 speculative spaceship [Galvatron commanded a large prison spaceship.]
 mysterious maker alien race [We learned that a mysterious alien race known as the Creators used devices called Seeds to cover Earth with a special alloy in the age of the dinosaurs. This alloy was a programmable material that the Transformers were made out of, and one gathers that the Creators were the makers of the Transformers.]
 
@@ -1615,6 +1610,9 @@ movie: Appleseed Alpha (2014)
 :: Title
 Appleseed Alpha
 
+:: Date
+2014-07-15
+
 :: Description
 Appleseed Alpha (also styled as Appleseed α) is a computer-animated military
 science fiction cyberpunk film. It is the third installment in the Appleseed
@@ -1623,9 +1621,6 @@ film series.
 Synopsis: A battle hardened soldier and her cyborg companion work to protect
 two people who claim to be from a supposedly legendary city where war is a
 thing of the past.
-
-:: Date
-2014-07-15
 
 :: References
 https://en.wikipedia.org/wiki/Appleseed_Alpha
@@ -1651,16 +1646,16 @@ movie: Lucy (2014)
 :: Title
 Lucy
 
+:: Date
+2014-07-25
+
 :: Description
 Lucy is a 2014 French science fiction action film written and directed by Luc
-Besson for his company EuropaCorp, and produced by his wife, Virginie
-Besson-Silla.
+Besson for his company EuropaCorp, and produced by his wife, Virginie Besson-
+Silla.
 
 Synopsis: A woman gains psychokinetic abilities when a nootropic, psychedelic
 drug is absorbed into her bloodstream.
-
-:: Date
-2014-07-25
 
 :: References
 https://en.wikipedia.org/wiki/Lucy_(2014_film)
@@ -2079,7 +2074,6 @@ https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens
 :: Choice Themes
 good vs. evil [Some used the Force for good, and others for evil.]
 the supernatural [The Force seemed to be a mystical energy field that pervaded the universe and could be learned to be controlled with proper training.]
-resistance movement [The Resistance, a movement backed by the Republic and led by General Leia Organa, opposed the First Order which had risen from the fallen Galactic Empire.]
 
 :: Major Themes
 interstellar space travel [In this universe people travel between stars regularly.]
@@ -2183,7 +2177,6 @@ https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice
 2 <paul>
 
 :: Major Themes
-terrorism [It was suspected that the cargo of the White Portuguese was a dirty bomb but it turned out to be Kryptonite. Lex Luthor bombed the Senate when Superman was about to testify. Also there were some Russian terrorists about.]
 super strength [Superman was more powerful than a locomotive.]
 powered exoskeleton [Bruce Wayne invented a powered exoskeleton in preparation to battle Superman.]
 vigilante justice [Superman took exception to Batman's vigilante style of justice and tried to expose his secret identity.]
@@ -2242,7 +2235,6 @@ friendship [Steve was reunited with his old pal Bucky.]
 cryogenic technology [Six brainwashed "Winter Soldiers" were being kept in cryogenic stasis at a Siberian Hydra base.]
 mind control technology [It was revealed that the supersoldier Bucky had been brainwashed into committing all sorts of heinous act, including the murder of Tony's parents back in 1991.]
 android [The Stark Industries created android vision.]
-terrorism [Helmut Zemo masterminded a terrorist bombing at a United Nations conference in Vienna.]
 
 
 movie: X-Men: Apocalypse (2016)
@@ -2485,7 +2477,6 @@ https://en.wikipedia.org/wiki/Rogue_One
 :: Choice Themes
 good vs. evil [Some used the Force for good, awhile others, like Darth Vader, used it for evil.]
 the supernatural [The Force seemed to be a mystical energy field that pervaded the universe and could be learned to be controlled with proper training.]
-resistance movement [The Rebel Alliance was trying to stop the Empire from building a planet killing superweapon.]
 
 :: Major Themes
 annihilation by a planet busting device [The Empire was building the planet killing Death Star superweapon.]
@@ -2509,6 +2500,9 @@ movie: Resident Evil: The Final Chapter (2016)
 :: Title
 Resident Evil: The Final Chapter
 
+:: Date
+2016-12-23
+
 :: Description
 Resident Evil: The Final Chapter is a 2016 science fiction action horror film
 written and directed by Paul W. S. Anderson. A direct sequel to Resident Evil:
@@ -2519,9 +2513,6 @@ video game series of the same name.
 Synopsis: A heroine and her allies are betrayed by an evil clone, who gathers
 the entire forces of a nefarious corporation into one final strike against the
 survivors of a zombie apocalypse.
-
-:: Date
-2016-12-23
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil:_The_Final_Chapter
@@ -3145,7 +3136,6 @@ attack from outer space by a powerful conquering enemy [Steppenwolf and his legi
 speculative terraforming [Steppenwolf plotted to terraform the Earth into something similar to his own hellish world.]
 
 :: Minor Themes
-terrorism [Wonder Woman foiled a terrorist plot to detonate a bomb that was calculated to destroy four city blocks.]
 father and son [The Flash struggled with his father being incarcerated.]
 super speed [The Flash could run really fast.]
 aquatic ability [Aqua Man could swim around in the sea and talk to fish.]
@@ -3239,7 +3229,6 @@ rise of the machines [It was up to Ari to prevent a cyborg terrorist organizatio
 genetically engineered person [Ari explained to Eve how the "war goddess" Alex was designed in a lab to be a genetically engineered human.]
 mentor and protégé [Alex took on Ari and trained her in the art of killing cyborgs.]
 time travel [Ari traveled back in time to 2077 Los Angeles to prevent a band of terrorist cyborgs from taking over Earth.]
-terrorism [The Red Army Hammerheads cyborg terrorist organization was making a bid for global domination.]
 war propaganda [The cyborg terrorists spread propaganda over television news to discredit the Los Angeles Police Department in the eyes of the people.]
 brother and sister [A cyberneticallu-enhanced Barbarella took offense when her brother lamented that she'd lost her humanity.]
 
@@ -3274,7 +3263,6 @@ but they were originally fantasy characters from a far away galaxy.]
 :: Choice Themes
 good vs. evil [Some used the Force for good, and others for evil.]
 the supernatural [The Force seemed to be a mystical energy field that pervaded the universe and could be learned to be controlled with proper training.]
-resistance movement [The Resistance, a movement backed by the Republic and led by General Leia Organa, opposed the First Order which had risen from the fallen Galactic Empire.]
 
 :: Major Themes
 mentor and protégé [Luke Skywalker and Rey. Snoke and Kylo Ren.]
@@ -3338,7 +3326,6 @@ speculative vehicle [The Wakandans flew around in futuristic, vibranium-based ai
 super strength [The Black Panther suit was said to endow its wearer with super strength.]
 super speed [The Black Panther suit was said to endow its wearer with super speed.]
 super reflexes [The Black Panther suit was said to endow its wearer with a heightened sense of anticipation.]
-terrorism [King T'Chaka was killed in a terrorist attack.]
 mother and son [T'Challa and his mother Queen Ramonda.]
 mother and daughter [T'Challa's 16-year-old sister Shuri and her mother Queen Ramonda.]
 brother and sister [T'Challa and his 16-year-old inventor sister Shuri.]
@@ -4183,7 +4170,6 @@ father and daughter [The story explored Dr. Mark Russell's troubled relationship
 husband and wife [Dr. Mark Russell worked to disabuse his ex-wife, Dr. Emma Russell, see the error of her conviction that humans and Titans can co-exist peacefully.]
 nature's revenge [According to Dr. Emma Russell, the Earth had released the Titans as a sort of "fever" to fight the "infection" that was humanity. From this perspective, the film is a story about Mother Nature unleashing a hoard of giant monsters to exterminate humanity in order to heal the Earth from the damages that humans had caused.]
 mother and daughter [Madison gradually came to see that her mother, Dr. Emma Russell, was misguided in her efforts to release a variety of giant monsters upon the earth in the hopes solving the climate change crisis, and ultimately got her to change her mind.]
-eco-terrorism [Colonel Jonah led a group of eco-terrorists who'd unleashed a variety of giant monsters upon the earth in the hopes dramatically reducing the human population.]
 coping with the death of a child [Dr. Emma Russell deranged ideas about the virtues of unleashing a variety of giant monsters upon the earth were a reaction to her inability to cope with the death of her son, Andrew. Dr. Mark Russell grieved for his son, Andrew, who'd perished some years prior in a Godzilla attack on San Fransisco.]
 reconciliation [The story built up to Dr. Mark Russell setting things right with his estranged ex-wife and teenage daughter.]
 
@@ -4467,7 +4453,6 @@ speculative genetic engineering [It was touched on that Junior had been genetica
 lying [Junior confronted his adoptive father, Clay Varris, over having lied about Junior's own past. Clay had told Junior that he was an orphan when in really Clay had cloned Junior.]
 orphanhood [Junior grew up believing that his real parents had left him at the fire department as a baby and scuttled off.]
 parental love [Clay Varris twice told his adoptive son Junior that he loved him.]
-terrorism [Henry was led to believe that the man he'd assassinated was a bio-terrorist.]
 
 
 movie: Terminator: Dark Fate (2019)
@@ -4502,7 +4487,6 @@ shapeshifter [The advanced shapeshifting Rev-9 Terminator Gabriel was sent back 
 what if a killer was after me [Dani was being hunted down by the advanced shapeshifting Rev-9 Terminator Gabriel.]
 post-apocalyptic dystopia [The scene in 2042 was that of a post atomic horror wasteland in which humans were in a desperate war for survival against machines.]
 coping with the death of a child [Sarah Connor hunted Terminators and drank herself into blackouts in order to cope with the murder of her young son John at the hands of a Terminator.]
-resistance movement [We saw a group of dedicated resistance fighters struggling to stop machines from exterminating humankind. The year was 2042.]
 
 :: Minor Themes
 the desire for fame [Dani's younger brother Diego wanted to be more famous than Bruno Mars.]
@@ -4547,7 +4531,6 @@ good vs. evil [A battle between the light side of the force and its dark side.]
 
 :: Major Themes
 interstellar space travel [Everyone were flying around in space all over the galaxy - typical space opera.]
-resistance movement [Rey, Finn, and Poe Dameron as they led the Resistance's final stand against Kylo Ren and the First Order.]
 facing an overpowering adversary [Rey, Finn, and Poe Dameron as they led the Resistance's final stand against Kylo Ren and the First Order.]
 the supernatural [The Force mumbo jumbo.]
 the desire for vengeance [Rey wanted to hunt down Palpatine and kill him to avenge his killing of her parents when she was only a child.]
