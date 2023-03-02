@@ -9,9 +9,9 @@
 <p align="center">
   A community-based, open access knowledgebase of literary themes and thematically annotated stories.
   <br>
-  <a href="https://themeontology.org/themes"><strong>Explore the themes »</strong></a>
+  <a href="https://www.themeontology.org/themes"><strong>Explore the themes »</strong></a>
   ||
-  <a href="https://themeontology.org/stories"><strong>Explore the stories »</strong></a>
+  <a href="https://www.themeontology.org/stories"><strong>Explore the stories »</strong></a>
   <br>
   <br>
   <a href="https://github.com/theme-ontology/theming/issues/new?template=request-a-new-theme.md">Request a theme</a>

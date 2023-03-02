@@ -1530,7 +1530,8 @@ adoption of a child
 ===================
 
 :: Description
-The relationship between a parent and their adopted child is featured significantly.
+The relationship between a parent and their adopted child is featured
+significantly.
 
 :: Parents
 human parenting
@@ -2972,7 +2973,7 @@ pod or booth-like device
 https://en.wikipedia.org/wiki/Artificial_womb
 
 
-artisan profession
+artisan occupation
 ==================
 
 :: Description
@@ -3579,11 +3580,16 @@ be careful what you wish for
 Someone gets what they desire only to find out that they really shouldn't have
 desired it in the first place.
 
-:: Notes
-This proverb is normally used when a person does not have the maturity or sophistication to understand what the outcome of their desire will actually mean to themself. It is notably not applied in situations where there is hidden information about the outcome that makes it undesirable, and that no person could possibly have known beforehand irrespective of such things as maturity.
-
 :: Parents
 human idea about life
+
+:: Notes
+This proverb is normally used when a person does not have the maturity or
+sophistication to understand what the outcome of their desire will actually
+mean to themself. It is notably not applied in situations where there is
+hidden information about the outcome that makes it undesirable, and that no
+person could possibly have known beforehand irrespective of such things as
+maturity.
 
 :: References
 https://en.wiktionary.org/wiki/be_careful_what_you_wish_for
@@ -5015,7 +5021,7 @@ centaur
 This mythological half-man half-horse being is featured.
 
 :: Parents
-hybrid being
+human-animal hybrid
 legendary being
 
 :: References
@@ -7091,6 +7097,11 @@ Someone experiences the effects of a bad hangover.
 :: Parents
 human health condition
 
+:: Notes
+If someone is said to have severe alcohol induced effects like blackouts, this
+theme may be motivated on account that the character surely also had a
+hangover.
+
 :: Examples
 Scotty coped with the effects of a bad hangover after drinking the Kelvan
 Tomar under the table in tos2x21 "By Any Other Name". The engineer again
@@ -7748,15 +7759,15 @@ coping with being an outcast
 Someone struggles with being rejected and isolated from a social group that is
 (financially, emotionally, or otherwise) important to them.
 
+:: Parents
+coping with life issues
+humans in group
+
 :: References
 https://en.wikipedia.org/wiki/Ostracism
 
 :: Aliases
 ostracism
-
-:: Parents
-coping with life issues
-humans in group
 
 
 coping with being disfigured
@@ -7818,6 +7829,9 @@ meaning friends.
 
 :: Parents
 human health condition
+
+:: Aliases
+convalescence
 
 
 coping with being ill on the job
@@ -8612,7 +8626,8 @@ coping with the death of a child
 ================================
 
 :: Description
-A character grieves over the loss of their own son or daughter (or any other person they have regarded more or less as their offspring).
+A character grieves over the loss of their own son or daughter (or any other
+person they have regarded more or less as their offspring).
 
 :: Parents
 coping with the death of a family member
@@ -10017,20 +10032,6 @@ view.
 human mental condition
 
 
-demagoguery
-===========
-
-:: Description
-Someone uses fine words, speeches, rhetorical tricks etc. to influence a group
-of people.
-
-:: Parents
-humans in group
-
-:: References
-https://en.wikipedia.org/wiki/Demagogue
-
-
 democracy
 =========
 
@@ -10686,6 +10687,9 @@ Two characters who were formally married go through a divorce.
 :: Parents
 family affairs
 
+:: Notes
+Although legally distinct, we theme annulments as divorces for the time being.
+
 :: References
 https://en.wikipedia.org/wiki/Divorce
 
@@ -11263,6 +11267,7 @@ carried out in the name of the natural environment.
 
 :: Parents
 environmental issue
+terrorism
 
 :: Examples
 Militant activists from Hekaras II placed space mines to stop space ships from
@@ -11311,7 +11316,8 @@ economic downturn
 =================
 
 :: Description
-The ramifications of a severe economic downturn, like an economic depression or recession, on society are explored.
+The ramifications of a severe economic downturn, like an economic depression
+or recession, on society are explored.
 
 :: Parents
 socioeconomic issue
@@ -12909,7 +12915,7 @@ false friend
 ============
 
 :: Description
-There is a character acts openly as a friend to another character yet
+There is a character that acts openly as a friend to another character yet
 conspires behind their back in a way that is most unfriendly and meant to
 cause harm.
 
@@ -13827,14 +13833,17 @@ special interest group issue
 https://en.wikipedia.org/wiki/Feral_child
 
 
-fiancée and fiancée
-===================
+engaged couple
+==============
 
 :: Description
 The relationship between two people engaged to be married is featured.
 
 :: Parents
 human familial relationship
+
+:: Aliases
+fiancé and fiancée
 
 
 fictional character come to life
@@ -15434,7 +15443,8 @@ getting fired from one's job
 
 :: Description
 A character is informed that they have been sacked, laid off, or otherwise
-terminated from their employment.
+terminated from their employment (or copes with the immediate aftermath of
+such a communication).
 
 :: Parents
 humans at work
@@ -17062,6 +17072,7 @@ another, and avoid getting caught.
 
 :: Parents
 speculative experience
+crime
 
 :: Notes
 This theme is not used in extraordinary circumstances, such as in the wake of
@@ -17120,6 +17131,7 @@ getting caught.
 
 :: Parents
 how to commit a crime and get away with it
+murder
 
 :: Notes
 This theme is not used in extraordinary circumstances, such as on a
@@ -17586,9 +17598,9 @@ life. A typical example is "career choice".
 human tough decision
 
 :: Examples
-"human life choice" themes include "choosing between love
-and family", "deciding whether to be a parent", "figuring out what to do with
-one's life", and "to settle down vs. to keep on trekking".
+"human life choice" themes include "choosing between love and family",
+"deciding whether to be a parent", "figuring out what to do with one's life",
+and "to settle down vs. to keep on trekking".
 
 
 human mental condition
@@ -18013,28 +18025,6 @@ they do so with a desire to improve on themself.
 :: References
 
 
-human thought virus
-===================
-
-:: Description
-There is an "information" virus that can invade the thought processes of a
-human and transmit itself to other humans by means of communication. It is
-thus more like a computer virus than a biological virus, except in that it
-infects biological information systems rather than machines.
-
-:: Parents
-speculative natural process
-
-:: Examples
-In tz1985e1x21a "Need to Know", we saw how people in a little village started
-going insane one after the other because of a confounding and viral idea about
-the meaning of life, that was whispered by an infected person to someone who
-would become the next victim in turn.
-
-:: Aliases
-memetic virus
-
-
 human tough decision
 ====================
 
@@ -18062,6 +18052,7 @@ that it beggars belief.
 
 :: Parents
 human vs. institution
+bureaucracy
 
 :: Examples
 Eponymous Franz Kafka describes such a bureaucracy in "The Trial" (1925),
@@ -26864,7 +26855,7 @@ poetic justice
 
 :: Description
 An evildoer ironically falls victim to the very wickedness that they themself
-intended for someone else.
+intended for (or meted out to) someone else.
 
 :: Parents
 ethics
@@ -27673,6 +27664,7 @@ desire to stop.
 
 :: Parents
 human addiction
+gambling
 
 :: References
 https://en.wikipedia.org/wiki/Problem_gambling
@@ -27690,6 +27682,7 @@ those other than the gambler, are explored.
 
 :: Parents
 public health issue
+problem gambling
 
 :: Examples
 The pursuit of a good gamble had turned the Triskelian society into one of
@@ -30721,7 +30714,10 @@ serial murder
 =============
 
 :: Description
-An individual murderer (as opposed to an organization) kills three or more people on separate occasions in service of abnormal psychological gratification, with a significant period of time taking place in between the murders.
+An individual murderer (as opposed to an organization) kills three or more
+people on separate occasions in service of abnormal psychological
+gratification, with a significant period of time taking place in between the
+murders.
 
 :: Parents
 murder
@@ -30729,7 +30725,8 @@ murder
 :: Notes
 There is no widely accepted and precise definition for this category of crime.
 Prefer to omit this theme if it is unclear whether a serial murder was part of
-the story. Do not use this theme if the murders are primarily motivated by, for example, good old greed (not an abnormal psychological gratification).
+the story. Do not use this theme if the murders are primarily motivated by,
+for example, good old greed (not an abnormal psychological gratification).
 
 :: References
 https://en.wikipedia.org/wiki/Serial_killer
@@ -30830,6 +30827,8 @@ inappropriate promise of rewards in exchange for sexual favors.
 
 :: Parents
 gender issue
+sexual crime
+harassment
 
 :: References
 https://en.wikipedia.org/wiki/Sexual_harassment
@@ -35349,8 +35348,8 @@ https://en.wikipedia.org/wiki/Afterlife
 afterlife
 
 
-the archaeology profession
-==========================
+archaeology occupation
+======================
 
 :: Description
 An archaeologist is engaged in their chosen occupation.
@@ -35440,8 +35439,8 @@ is featured more or less in the whole.
 history
 
 
-the astronomy profession
-========================
+astronomy occupation
+====================
 
 :: Description
 An astronomer is engaged in their chosen occupation.
@@ -35538,8 +35537,8 @@ are typically left ambiguous in real stories.
 personal life and death dilemma
 
 
-the carpentry profession
-========================
+carpentry occupation
+====================
 
 :: Description
 A character works professionally with creating things out of wood and related
@@ -36316,8 +36315,8 @@ book about Chicago Mobs and promptly became stereotypical gangsters in tos2x20
 https://en.wikipedia.org/wiki/Gangster
 
 
-the geology profession
-======================
+geology occupation
+==================
 
 :: Description
 A geologist is engaged in their chosen occupation.
@@ -36454,8 +36453,8 @@ fact a fantastically long lived extraterrestrial from the planet "Vinci",
 where he was the dumbest of his kind.
 
 
-the history profession
-======================
+history occupation
+==================
 
 :: Description
 A historian is engaged in their chosen occupation.
@@ -36467,8 +36466,8 @@ academia
 https://en.wikipedia.org/wiki/Historian
 
 
-the hitman profession
-=====================
+hitman occupation
+=================
 
 :: Description
 A character has made a profession out of killing people in return for payment.
@@ -36726,8 +36725,8 @@ human occupational activity
 https://en.wikipedia.org/wiki/Language_industry
 
 
-the legal professions
-=====================
+legal occupation
+================
 
 :: Description
 A character working directly with the interpretation of law, for example a
@@ -36878,8 +36877,8 @@ Armus became a being of pure evil when the Titans left him behind in tng1x23
 "Skin of Evil".
 
 
-the maritime professions
-========================
+maritime occupation
+===================
 
 :: Description
 Someone working on or with a seafaring vessel is engaged in their chosen
@@ -36897,8 +36896,8 @@ all the way to a volcanic island inhabited by dinosaurs.
 https://en.wikipedia.org/wiki/Sailor
 
 
-the medical professions
-=======================
+medical occupation
+==================
 
 :: Description
 A character working with health care, typically in a hospital or comparable
@@ -36923,8 +36922,8 @@ decisively.
 political ideology
 
 
-the military professions
-========================
+military related work
+=====================
 
 :: Description
 There is a character whose main occupation involves being part of the armed
@@ -36934,6 +36933,10 @@ privates.
 
 :: Parents
 human occupational activity
+
+:: Aliases
+military occupation
+military profession
 
 
 the military-industrial complex in society
@@ -37584,8 +37587,8 @@ granted.
 human idea about life
 
 
-the private investigator profession
-===================================
+private investigator occupation
+===============================
 
 :: Description
 A professional private investigation is engaged in their chosen occupation.
@@ -37851,8 +37854,8 @@ The Angosians tucked their genetically engineered war veterans safely away on
 a shabby little moon in tng3x11 "The Hunted".
 
 
-the scientist profession
-========================
+scientist occupation
+====================
 
 :: Description
 A scientist is engaged in their chosen occupation.
@@ -37864,8 +37867,8 @@ academia
 https://en.wikipedia.org/wiki/Scientist
 
 
-the secret agent profession
-===========================
+secret agent occupation
+=======================
 
 :: Description
 A character working with espionage or the like is engaged in their chosen
@@ -37975,8 +37978,8 @@ tos2x01 "Catspaw".
 https://en.wikipedia.org/wiki/Supernatural
 
 
-the teaching profession
-=======================
+teaching occupation
+===================
 
 :: Description
 There is a school teacher, or the like, engaged in their chosen profession.
@@ -37999,8 +38002,8 @@ chosen occupation.
 human occupational activity
 
 
-the tech support profession
-===========================
+tech support occupation
+=======================
 
 :: Description
 A character is employed to tend to the machines that other people are using.
@@ -40063,6 +40066,7 @@ afflictions when needles are inserted into relevant parts of their effigy.
 
 :: Parents
 voodoo magic
+magic object
 
 :: References
 https://en.wikipedia.org/wiki/Voodoo_doll
@@ -40513,8 +40517,9 @@ what if I became witness to a crime
 
 :: Description
 We imagine what it would be like to see something that seems to imply a
-serious crime, typically murder, has been committed. Typically we are left to ponder what
-one should do: Should we investigate, contact the police, or drop the matter?
+serious crime, typically murder, has been committed. Typically we are left to
+ponder what one should do: Should we investigate, contact the police, or drop
+the matter?
 
 :: Parents
 what if I were in a tight spot
@@ -40889,7 +40894,8 @@ what if I was incapacitated and stuck in the middle of nowhere
 ==============================================================
 
 :: Description
-We imagine what it would be like to, for example, get stuck in rock or suchlike far away from assistance, say, while spelunking or mountaineering.
+We imagine what it would be like to, for example, get stuck in rock or
+suchlike far away from assistance, say, while spelunking or mountaineering.
 
 :: Parents
 what if I were in a tight spot
@@ -41045,7 +41051,9 @@ what if my personal identity came into question
 This theme is typically used in fantastical scenarios where the clinical
 condition of multiple personality (aka. dissociative identity) disorder is not
 sincerely featured but distinct personalities nevertheless inhabit the same
-body.
+body. As a rule of thumb, it is used when at least one of the personalities at
+least some of the time is aware of its own condition of having multiple
+personalities.
 
 :: Examples
 Norman Osborn struggled with his deranged alter ago the Green Goblin in
@@ -42924,6 +42932,7 @@ traditionally described as "witchcraft".
 
 :: Parents
 legendary magic wielder
+witchcraft
 
 :: Notes
 It should be clear that she uses magic, and is not merely some old woman with
