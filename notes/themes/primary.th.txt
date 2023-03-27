@@ -2113,8 +2113,7 @@ A robot designed to look and act like a human.
 
 :: Parents
 artificial being
-artificial intelligence
-speculative robot
+humanoid robot
 
 :: References
 https://en.wikipedia.org/wiki/Android_(robot)
@@ -16099,25 +16098,6 @@ social ethical dilemma
 https://en.wikipedia.org/wiki/Evidential_burden
 
 
-gunpowder
-=========
-
-:: Description
-Gunpowder is a mixture of sulfur, charcoal, and potassium nitrate (saltpeter)
-with the sulfur and charcoal acting as fuels, while the saltpeter functions as
-an oxidizer.
-
-:: Parents
-technology
-
-:: Examples
-Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
-the legendary fight to the death in tos1x19 "Arena".
-
-:: References
-https://en.wikipedia.org/wiki/Gunpowder
-
-
 habitable asteroid
 ==================
 
@@ -22543,7 +22523,7 @@ had been created to pollinate plants, because real bees had died out.
 https://en.wikipedia.org/wiki/RoboBee
 
 
-mechanical man
+humanoid robot
 ==============
 
 :: Description
@@ -25895,8 +25875,9 @@ pedophiles
 ==========
 
 :: Description
-We are made to contemplate how adults that are sexually attracted to minors
-affect society, and how such individuals ought to be treated.
+We are made to contemplate how adults that are sexually attracted to 
+prepubescent minors affect society, and how such individuals ought to 
+be treated.
 
 :: Parents
 sexual crime
@@ -29460,7 +29441,6 @@ A sophisticated but not quite sentient mobile machine that serves man as his
 helper.
 
 :: Parents
-artificial being
 artificial intelligence
 speculative robot
 
