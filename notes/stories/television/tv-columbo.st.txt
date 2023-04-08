@@ -8,7 +8,11 @@ Columbo
 1971-2003
 
 :: Description
-Columbo (/kəˈlʌmboʊ/) is an American crime drama television series starring Peter Falk as Lieutenant Columbo, a homicide detective with the Los Angeles Police Department. After two pilot episodes in 1968 and 1971, the show originally aired on NBC from 1971 to 1978 as one of the rotating programs of The NBC Mystery Movie. Columbo then aired less frequently on ABC from 1989 to 2003. 
+Columbo is an American crime drama television series starring Peter Falk as
+Lieutenant Columbo, a homicide detective with the Los Angeles Police
+Department. After two pilot episodes in 1968 and 1971, the show originally
+aired on NBC from 1971 to 1978 as one of the rotating programs of The NBC
+Mystery Movie. Columbo then aired less frequently on ABC from 1989 to 2003. 
 
 :: References
 https://en.wikipedia.org/wiki/Columbo
@@ -17,8 +21,8 @@ https://en.wikipedia.org/wiki/Columbo
 tvseries: Columbo
 
 
-columbo1971e01
-==============
+columbo1971e0x01
+================
 
 :: Title
 Prescription: Murder
@@ -27,9 +31,9 @@ Prescription: Murder
 1968-02-20
 
 :: Description
-Dr. Ray Flemming (Gene Barry), a psychiatrist, murders his wife (Nina Foch)
-and persuades his mistress Joan Hudson (Katherine Justice), who is an actress
-and one of his patients, to support his alibi by impersonating her.
+Dr. Ray Flemming, a psychiatrist, murders his wife and persuades his mistress
+Joan Hudson, who is an actress and one of his patients, to support his alibi
+by impersonating her.
 
 Final clue/twist: Columbo stages the suicide of Flemming’s mistress, then
 urges him to confess now that the love of his life has killed herself for him.
@@ -37,20 +41,45 @@ Flemming mocks Columbo's words, saying he never cared deeply for Joan and
 would have gotten rid of her eventually, anyway. Joan, listening in, agrees to
 testify against Flemming.
 
-Directed by: Richard Irving. Story by: Richard Levinson & William Link, based
-on their play.
+Directed by: Richard Irving. Story by: Richard Levinson and William Link,
+based on their play.
 
 :: Ratings
+2 <paul> [Good story, but this version of Columbo is too hostile and threatening. It's unsettling to watch.]
+3 <atsuki>
+4 <mikael>
+5 <rie>
 
 :: Choice Themes
+how to murder someone and get away with it [Psychiatrist Dr. Ray Flemming murdered his wife with the help of his mistress and made it look as if the victim had been strangled by a burglar. He would have gotten away with her crime had it not been for the meddlesome Lt. Columbo.]
+spouse murder [Psychiatrist Dr. Ray Flemming murdered his wife with the help of his mistress and made it look as if the victim had been strangled by a burglar. He would have gotten away with her crime had it not been for the meddlesome Lt. Columbo.]
 
 :: Major Themes
+medical occupation [The villain of the story Dr. Ray Flemming was a psychiatrist. He was shown practicing his craft at his clinic. He indulged Columbo by psychoanalyzing a hypothetical murderer, i.e., himself.] 
+husband and wife [Ray and Carol Flemming. The story turns on Ray strangling Carol to death so that he could be together with his mistress, Joan, without going through a scandal mired and financially ruinous divorce. The story opens with Ray and Carol celebrating their 10th wedding anniversary at home in the company of many friends. Columbo shared some anecdotes about his own wife: she considers him to be forgetful, the pair were thinking of taking a vacation, and she'd prefer he smoke a pipe over those smelly cigars.]
+extramarital affair [The story turns on Ray offing his wife ostensibly to be with his young, ginger haired mistress, Joan.]
+man and mistress [The story turns on Ray offing his wife ostensibly to be with his young, ginger haired mistress, Joan.]
+romantic love [The story turns on Ray offing his wife ostensibly to be with his young, ginger haired mistress, Joan.]
+law enforcement [It was up to the sharp-witted, but shabbily dressed homicide detective Lt. Columbo to prove that the psychiatrist Dr. Ray Flemming had strangled his wife in cold blood and made it look like she was killed by a burglar.]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind. Ray psychoanalyzed Columbo thusly: "You never stop do you? The insinuation, the change of pace. You're a bag of tricks, Columbo, right down to that prop cigar you use. I'm going to tell you something about yourself: You say you need a psychiatrist; maybe you do and maybe you don't. But you are the textbook example of compensation... adaptability. You're an intelligent man, Columbo, but you hide it. You pretend you're something you are not. Why? Because of your appearance. You think you cannot get by on looks or polish, so you turn a defect into a virtue. You take people by surprise. They underestimate you, and that's where you trip them up. Like coming here tonight."]
+pride goes before a fall [A recurring motif was Dr. Flemming's self-assured conviction that, thanks to his immense intellect, there was no conceivable way a mere police investigator could find him out. Lt. Columbo later pointed out that while Dr. Flemming might indeed outgun him in the brainpower department, Lt. Columbo's lengthy experience with murders counted for a lot more.]
 
 :: Minor Themes
+divorce [Carol informed Ray she'd be calling her lawyers in morning about filing for divorce when he came home after stepping out from their wedding anniversary party to see his mistress. She changed her mind after falling for Ray's lies.]
+gold digging [Carol and Ray half-joked that he married her for her father's money.]
+the inclination to believe what one wants to believe [A disguised Joan doubted that she would pass for Ray's wife, Carol. Ray, however, assuaged her anxiety by citing the so-called "Principle of Association", which he summed up as something to the effect of "people see what they expect to see, and not what is really there".]
+burglary [Ray staged a burglary of his own home as part of a calculated plot to off his wife.]
+beating one's self up [Ray theatrically feigned to blame himself for his wife's plight.]
+funeral rite [A funeral was held for Carol.]
+acting [Joan spoke of her acting career. She was costumed as an Ancient Greco-Roman woman at the studio.]
+suicide [Columbo staged Joan's suicide.]
+coping with a loved one being in peril [Dr. Flemming feigned distress after he got the news that his wife was in a coma-like state following a murder attempt.]
+romantic jealousy [Carol became jealous when she thought, correctly as it were, that Ray had been seeing his mistress again.]
+humans interacting [Ray and Carol Flemming celebrated their 10th wedding anniversary in the company of friends at home.]
 
 
-columbo1971e02
-==============
+columbo1971e0x02
+================
 
 :: Title
 Ransom for a Dead Man
@@ -59,25 +88,44 @@ Ransom for a Dead Man
 1971-03-01
 
 :: Description
-Leslie Williams (Lee Grant), a brilliant and ruthless lawyer, murders her
-husband Paul (Harlan Warde) to get his money, arranging the act to look as if
-he had been kidnapped and killed by his captors.
+Leslie Williams, a brilliant and ruthless lawyer, murders her husband Paul to
+get his money, arranging the act to look as if he had been kidnapped and
+killed by his captors.
 
-Final clue/twist: Margaret (Patricia Mattick), who hates her stepmother
-Leslie, tells Leslie she will go away if Leslie gives her a lot of money. When
-Leslie pays Margaret off with some of the ransom cash, Columbo, who had
-persuaded Margaret to demand money from Leslie, has the final proof he needs.
+Final clue/twist: Margaret, who hates her stepmother Leslie, tells Leslie she
+will go away if Leslie gives her a lot of money. When Leslie pays Margaret off
+with some of the ransom cash, Columbo, who had persuaded Margaret to demand
+money from Leslie, has the final proof he needs.
 
-Directed by: Richard Irving. Story by: Richard Levinson & William Link;, Dean
+Directed by: Richard Irving. Story by: Richard Levinson William Link, Dean
 Hargrove.
 
 :: Ratings
+5 <paul>
+4 <atsuki>
+4 <mikael>
+3 <rie>
 
 :: Choice Themes
+how to murder someone and get away with it [The brilliant lawyer Leslie Williams shot her husband dead and made it look as if he had been kidnapped, and later killed by the kidnappers. She would have gotten away with her crime had it not been for the meddlesome Lt. Columbo.]
+spouse murder [The tort attorney Leslie Williams murdered her husband, Paul, and made it look as if he had been kidnapped, and later killed by the kidnappers.]
 
 :: Major Themes
+legal occupation [The tale's murderess, Leslie Williams, was a brilliant and ruthless lawyer. She was shown working her craft throughout the story.]
+husband and wife [Leslie Williams murdered her husband, Paul, and made it look as if he had been kidnapped, and later killed by the kidnappers. The viewer learns many details about their marriage during the course of Columbo's investigation. For example, Leslie married the significantly older and more established Paul to advance her career.]
+law enforcement [It was up to the bumbling but astute homicide detective Lt. Columbo to prove that the tort attorney Leslie Williams shot her husband dead in cold blood and made it look like a botched ransom kidnapping.]
+ransom kidnapping [The tort attorney Leslie Williams murdered her husband, Paul, and made it look as if he had been kidnapped with a $300,000 ransom demand, and later killed by the kidnappers.]
+the lust for gold [Leslie murdered her husband to get his money.]
+stepmother and stepdaughter [Leslie had a troubled relationship with her entitled stepdaughter, Margaret.]
+the desire to advance one's career [Leslie was a career woman at heart. She'd married the significantly older Paul, a renown attorney, to advance her career in law.]
+gold digging [It was evident that Leslie married her significantly older husband both in order to advance her career in law and for his money.]
+pride goes before a fall [Leslie Williams was a brilliant lawyer and knew very well that no mere police investigator could catch her out in the crime she had so carefully orchestrated. She at one point taunted Columbo in her office. She had sorely underestimated Lt. Columbo.]
 
 :: Minor Themes
+what it is like in a legal proceeding [The tort attorney Leslie was shown practicing her craft in a courtroom setting.]
+insurance fraud [Leslie represented an insurance company against a blue-collar man making what it deemed to be a fraudulent claim.]
+class prejudice in society [Leslie played on the prejudices of the white-collar heavy jury to secure a desirable outcome in a case against a blue-collar man.]
+fear of flying [A visibly nervous Columbo asked if there was something wrong with the helicopter motor without the slightest sign of anything being amiss. Leslie took Columbo out of his comfort zone by flying him around in her personal aircraft.]
 
 
 columbo1971e1x01
@@ -90,36 +138,33 @@ Murder by the Book
 1971-09-15
 
 :: Description
-Ken Franklin (Jack Cassidy) is one-half of a mystery writing team, but partner
-Jim Ferris (Martin Milner) wants to go solo, exposing the fact that Ferris did
-all the actual writing, and thus leave the high-living Franklin without his
-cash cow. However, the pair have an insurance policy on which Franklin can
-collect if Ferris dies during the partnership. Franklin makes it look like
-Ferris was investigating gangsters. He tricks Ferris into taking a trip to
-Franklin's remote cabin two hours away. They stop at a general store, where,
-as Franklin makes a phone call to Ferris's wife (Rosemary Forsyth) to
-establish an alibi, the owner Lilly La Sanka (Barbara Colby)—obviously smitten
-with Franklin—peers outside to see whom Franklin brought with him and sees
-Ferris in the passenger seat of the car. At the cabin, Franklin convinces
-Ferris to call his wife and tell her he's working late at the office. During
-the phone call, Franklin shoots Ferris. He drives two hours back to his house
-with his dead partner in the trunk, dumping the corpse on his own lawn.  La
-Sanka tracks Franklin to Los Angeles when he is out on a date and loudly
-approaches him, making it clear that she knows Franklin killed Ferris, forcing
-him to cancel his date. He brings her the $15,000 she wants for her silence,
-feigning interest in her. The two have an intimate dinner in the back of her
-store, then he bludgeons her and puts her body in a boat, which he capsizes to
-make her death appear accidental. Final clue/twist: After hearing that Ferris
-habitually wrote down ideas for his mystery novels on whatever paper was
-handy, Columbo searches his office and house and finds a note with the fake
-phone call/alibi scheme. He confronts Franklin with it, and Franklin
-confesses. Upon his arrest, Franklin makes a startling comment: the alibi idea
-was in fact his, the only good one he ever had. Jack Cassidy played the
-murderer in three Columbo episodes: this one, episode 22 "Publish or Perish"
-(Season 3), and episode 36 "Now You See Him" (Season 5). Note: In 1997 TV
-Guide ranked this episode number 16 on its '100 Greatest Episodes of All Time'
-list. (Coincidentally, in real life Barbara Colby was a murder victim in
-1975.)
+Ken Franklin is one-half of a mystery writing team, but partner Jim Ferris
+wants to go solo, exposing the fact that Ferris did all the actual writing,
+and thus leave the high-living Franklin without his cash cow. However, the
+pair have an insurance policy on which Franklin can collect if Ferris dies
+during the partnership. Franklin makes it look like Ferris was investigating
+gangsters. He tricks Ferris into taking a trip to Franklin's remote cabin two
+hours away. They stop at a general store, where, as Franklin makes a phone
+call to Ferris's wife to establish an alibi, the owner Lilly La
+Sanka—obviously smitten with Franklin—peers outside to see whom Franklin
+brought with him and sees Ferris in the passenger seat of the car. At the
+cabin, Franklin convinces Ferris to call his wife and tell her he's working
+late at the office. During the phone call, Franklin shoots Ferris. He drives
+two hours back to his house with his dead partner in the trunk, dumping the
+corpse on his own lawn. La Sanka tracks Franklin to Los Angeles when he is out
+on a date and loudly approaches him, making it clear that she knows Franklin
+killed Ferris, forcing him to cancel his date. He brings her the $15,000 she
+wants for her silence, feigning interest in her. The two have an intimate
+dinner in the back of her store, then he bludgeons her and puts her body in a
+boat, which he capsizes to make her death appear accidental.
+
+Final clue/twist: After hearing that Ferris habitually wrote down ideas for
+his mystery novels on whatever paper was handy, Columbo searches his office
+and house and finds a note with the fake phone call/alibi scheme. He confronts
+Franklin with it, and Franklin confesses. Upon his arrest, Franklin makes a
+startling comment: the alibi idea was in fact his, the only good one he ever
+had. Note: In 1997 TV Guide ranked this episode number 16 on its '100 Greatest
+Episodes of All Time' list.
 
 The Mrs. Melville novel that is frequently seen in the episode is named
 "Prescription: Murder", the same name as Columbo's first pilot episode.
@@ -127,12 +172,34 @@ The Mrs. Melville novel that is frequently seen in the episode is named
 Directed by: Steven Spielberg. Story by: Steven Bochco.
 
 :: Ratings
+3 <mikael>
+5 <paul>
+2 <rie>
+5 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [The famous mystery writer Ken Franklin thought he had the perfect plan to off his troublesome writing partner, Jim Ferris. Trick Jim into coming to place A from where Jim is to call his wife and claim to be at place B, just as Ken shoots him. Alas, Ken did not reckon with Lt. Columbo's unyielding interlocutions.]
+murder [Ken Franklin and Jim Ferris formed a mystery writing duo. The plot turns on Columbo proving that Ken murdered Jim to keep him from going solo and exposing Ken as the less talented of the two.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: The murder of the mystery writer Jim Ferris.]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+falling out of friendship [Ken and Jim had been fast friends in the past and through a writing career of many books, but the friendship had clearly fallen apart. In the office they talked about "burying the hatchet". Under the ruse of doing so, Ken instead murdered Jim.]
+husband and wife [Jim's wife spoke about her late husband at length.]
+coping with being famous [Ken complained about the burdens of being famous as he walked in with a signed copy of one of his books to Lilly La Sanka. Lilly later blackmailed him into two romantic dates in addition to $15,000 hard cash.]
+blackmail [Ken was blackmailed by Lilly La Sanka and murdered her in a way that Columbo thought was most unclever compared to the first murder.]
+creative writing [The villain of the story, Ken Franklin, was an untalented writer of murder mysteries. So was his victim, his writing partner, Jim Ferris.]
+human interpersonal relationship [The mystery writing duo Ken Franklin and Ken Ferris. Ken murdered Jim to keep him from going solo and exposing Ken as the less talented of the two.]
+the lust for gold [Ken Franklin murdered his writing partner to collect on an insurance policy that he needed to fund his conspicuously luxurious lifestyle.]
+coping with humiliation [Ken Franklin arguably killed Jim because Jim going solo would be a hit to Ken's pride.]
+pride [Ken prided himself on being a great writer of murder mysteries, but in reality he was a talentless hack, and murdered his writing partner to keep the public from knowing this truth.]
+attitude of superiority [Ken Franklin patronizing explained to Columbo how he should go about solving the murder mystery. He later spoke arrogantly about his luxurious lifestyle.]
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks. Columbo was exceptionally modest in conceding to take advise on his own work from the pompous mystery writer Ken Franklin.]
+pride goes before a fall [Ken Franklin was a pompous ass who thought he had the perfect plan to get away with murder. Lt. Columbo caught him out by means of a clever trick.]
 
 :: Minor Themes
+coping with the death of a spouse [Joanna reacted to news of her husband Jim's murder.]
+organized crime [Columbo didn't buy Ken's theory that Jim was killed in a mob hit.]
 
 
 columbo1971e1x02
@@ -145,49 +212,67 @@ Death Lends a Hand
 1971-10-06
 
 :: Description
-Carl Brimmer (Robert Culp), the very tough, hard-nosed head of a private
-detective agency, with unfortunate and fateful anger issues, is hired by
-Arthur Kennicut (Ray Milland), a powerful publishing magnate who suspects his
-wife, Lenore (Pat Crowley), of infidelity. Although Brimmer indeed finds
-evidence of her being unfaithful, instead of reporting this fact to his
-client, he attempts to blackmail Lenore into obtaining business and political
-secrets from her husband. She refuses and tells him she will expose his plot
-to her husband, at which point Brimmer accidentally kills her in a fit of
-rage. He dumps her body at a scrapyard and later joins the investigation into
-Lenore's death with Columbo. Brimmer secretly starts to divert suspicion away
-from himself and even offers Columbo a job.  Final clue/twist: Columbo becomes
-suspicious when he realizes a cut on the victim's face matches Brimmer's ring.
-He disables Brimmer's car, causing the vehicle to be garaged for repair. He
-has Lenore's body exhumed, then claims that one of her contact lenses was not
-with the body and is missing. He tells Brimmer the lens must be either at the
-crime scene or in the car the murderer used to transport the body. After
-searching for it in his home, Brimmer goes to the garage after-hours and
-searches for it in the trunk of his car. He finds a contact lens, but is
-caught by Columbo, with Kennicut in tow. When Brimmer tries to throw the lens
-away the police stop him, and he confesses. After Brimmer is led away Columbo
-admits to Kennicut he had arranged everything, and that there never was a
-missing contact lens. Robert Culp played the murderer in three Columbo
-episodes: this one, episode 12 ("The Most Crucial Game"), and episode 21
-("Double Exposure").  He also appeared (as the father of the murderer) in
-"Columbo Goes to College". Notes: This episode won an Emmy for writing and is
-known for the "glasses effect" after Brimmer kills Lenore, in which both
-lenses of Brimmer's glasses simultaneously show different images on-screen of
-him cleaning the scene of the crime.
+Carl Brimmer, the very tough, hard-nosed head of a private detective agency,
+with unfortunate and fateful anger issues, is hired by Arthur Kennicut, a
+powerful publishing magnate who suspects his wife, Lenore, of infidelity.
+Although Brimmer indeed finds evidence of her being unfaithful, instead of
+reporting this fact to his client, he attempts to blackmail Lenore into
+obtaining business and political secrets from her husband. She refuses and
+tells him she will expose his plot to her husband, at which point Brimmer
+accidentally kills her in a fit of rage. He dumps her body at a scrapyard and
+later joins the investigation into Lenore's death with Columbo. Brimmer
+secretly starts to divert suspicion away from himself and even offers Columbo
+a job.
+
+Final clue/twist: Columbo becomes suspicious when he realizes a cut on the
+victim's face matches Brimmer's ring. He disables Brimmer's car, causing the
+vehicle to be garaged for repair. He has Lenore's body exhumed, then claims
+that one of her contact lenses was not with the body and is missing. He tells
+Brimmer the lens must be either at the crime scene or in the car the murderer
+used to transport the body. After searching for it in his home, Brimmer goes
+to the garage after-hours and searches for it in the trunk of his car. He
+finds a contact lens, but is caught by Columbo, with Kennicut in tow. When
+Brimmer tries to throw the lens away the police stop him, and he confesses.
+After Brimmer is led away Columbo admits to Kennicut he had arranged
+everything, and that there never was a missing contact lens. Notes: This
+episode won an Emmy for writing and is known for the "glasses effect" after
+Brimmer kills Lenore, in which both lenses of Brimmer's glasses simultaneously
+show different images on-screen of him cleaning the scene of the crime.
 
 Brimmer is the first of a small number of Columbo killers who appear
 sympathetic after Columbo catches them as Brimmer apologetically tells
 Kennicut that the killing was an accident and that he didn't want to hurt
 either one of them.
 
-Directed by: Bernard Kowalski. Story by: Richard Levinson, & William Link.
+Directed by: Bernard Kowalski. Story by: Richard Levinson, William Link.
 
 :: Ratings
+5 <paul>
+2 <rie>
+3 <mikael>
+5 <atsuki>
 
 :: Choice Themes
+what if I killed someone by accident [The hard-nosed head of a private detective agency Carl Brimmer killed the wife of a publishing magnate in a fit of rage and made it look as if she'd been killed in a scuffle with muggers. He would have gotten away with his crime had it not been for Columbo.]
+murder [The plot turns on Columbo proving the hard-nosed head of a private detective agency Carl Brimmer murdered the wife of a publishing magnate and dumped her body in a scrapyard.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: The battering to death of the glamorous wife of a publishing magnate.]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+private investigator occupation [The villain of the story, Carl Brimmer, was the head of a high-profile private detective agency. The viewer is provided an inside look into the operations of the agency.]
+extramarital affair [Lenore having been unfaithful to her husband was a key plot element.]
+blackmail [Carl tried to blackmail Lenore into supplying him with business and political secrets in exchange for keeping quiet about her romantic infidelity.]
+anger management issues [The villain Carl Brimmer's bad temper proved to be his undoing. He killed the wife of a publishing magnate in a fit of rage. Later, Columbo used the fact that Carl had anger issues to gain an advantage over him.]
+honesty [It was a notable, and fatal, virtue of the victim's that made her resist Carl's blackmailing of her. Her high mindedness and her faithfulness to her husband (her infidelity notwithstanding) were pointed out in conversation.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+the publishing industry [Arthur Kennicut was a powerful publishing magnate.]
+husband and wife [Arthur and Lenore Kennicut. The viewer learns that Arthur loved Lenore very dearly, and was taken aback to by the revelation that she'd been unfaithful to him.]
+coping with the death of a spouse [Arthur mourned the death of his beloved wife, Lenore.]
+mugging [Carl attempted to cast Lenore's death as a mugging gone wrong.]
+choosing between job opportunities [After some faux consideration, Columbo declined a lucrative offer to join a high-profile detective agency, citing something to the effect that he wished to follow through on the Lenore Kennicut murder investigation.]
+resisting a temptation [If Lt. Columbo wasn't briefly tempted to take Carl Brimmer's offer and quite the force for a private job and three times the salary, the viewer must certainly have hypothesized that he might have been. Carl arguably thought Columbo was on the hook.]
 
 
 columbo1971e1x03
@@ -200,13 +285,10 @@ Dead Weight
 1971-10-27
 
 :: Description
-Major General Martin Hollister (Eddie Albert), a retired Marine Corps war
-hero, learns he is being investigated for embezzling military funds, then
-shoots his skittish accomplice, Col. Dutton (John Kerr). The act is partially
-witnessed by Helen Stewart (Suzanne Pleshette), who was in a passing boat. She
-is wooed by Hollister into doubting her own story. Noted Canadian actress Kate
-Reid plays Helen's disbelieving mother, who is favorably impressed by the
-distinguished Hollister.
+Major General Martin Hollister, a retired Marine Corps war hero, learns he is
+being investigated for embezzling military funds, then shoots his skittish
+accomplice, Col. Dutton. The act is partially witnessed by Helen Stewart, who
+was in a passing boat. She is wooed by Hollister into doubting her own story.
 
 Final clue/twist: After an encounter with his nostalgia-crazy cook, Columbo
 realizes that Hollister would never have let go of his signature revolver, the
@@ -219,12 +301,37 @@ said about the exhibit's weapon being merely a replica.
 Directed by: Jack Smight. Story by: John T. Dugan.
 
 :: Ratings
+5 <paul>
+2 <rie>
+3 <mikael>
+5 <atsuki>
 
 :: Choice Themes
+murder [The plot turns on Columbo proving that the retired war hero Major General Martin Hollister shot a man dead and dumped the body at sea.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following alleged murder mystery: Did Major General Hollister shoot a man dead in the Major General's own living room in the middle of the day?]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind. A police officer mistook Columbo for a mere civilian because he was driving a beaten up old Peugeot.]
+how to dispose of a corpse and get away with it [After shooting his accomplice dead, the retired war hero Major General Martin Hollister his the corpse in a secret compartment behind his closet, and later dumped it far out at sea. He would have gotten away with his crime had it not been for a young female witness and the ever-pesky Lieutenant Columbo.]
+military related work [The villain of the story Major General Martin Hollister was a retired war hero who was being honored with a museum display about his distinguished life in the service.]
+criminal fraud [General Hollister murdered his accomplice to cover up their history of embezzling military funds.]
+romantic courtship [The wealthy General Hollister successfully wooed a young divorcee, her having recently witnessed him shoot a man in cold blood notwithstanding.]
+young and old romance [The aged but wealthy General Hollister successfully wooed a young divorcee, her having recently witnessed him shoot a man in cold blood notwithstanding.]
+pride goes before a fall [In the end, Columbo pointed out that General Hollister had hidden his signature revolver in plain sight in the museum cabinet display case, whereas any criminal worth his salt would have disposed of the incriminating murder weapon long ago.]
+womanizing man [General Hollister was described as an exceptionally charismatic man and the way he switched on the charm to seduce Helen because it suited him more than suggests that he had had plenty of practice over the years. He was a stereotypical seducer.]
+heroism [General Hollister was something of a war hero. A museum exhibit was being made in his honor.]
+what if I became witness to a crime [Helen Stewart looked up from her sailing and happened to witness General Hollister shoot dead his partner in crime in his mansion in broad daylight.]
+what if I told the truth and nobody would believe me [People wouldn't believe Helen when she told them that she'd seen a man, later identified as the distinguished General Hollister, shoot another man dead in broad daylight.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+mother and daughter [Helen had a somewhat troubled relationship with her disapproving mother.]
+divorce [Helen wore the yolk of divorce over her neck.]
+sculpture [Helen showed a clay sculpture, allegedly of a llama, she'd made to Columbo.]
+fishing [Columbo feigned to be fishing from the general's wharf.]
+seasickness [Despite alleging a relation to the great seafarer Christopher of the same family name, Lt. Columbo suffered terribly at sea.]
+gold digging [General Hollister's ostentatious wealth was perhaps one of the reasons why Helen fell for him.]
+the Korean War [General Hollister had fought with distinction in this war.]
 
 
 columbo1971e1x04
@@ -237,31 +344,51 @@ Suitable for Framing
 1971-11-17
 
 :: Description
-Art critic Dale Kingston (Ross Martin) murders his uncle and tries to frame
-his aunt (Kim Hunter) to inherit his uncle's very valuable art collection. He
-later murders his lover and accomplice in the crime, the gullible art student,
-Tracy (Rosanna Huffman). Final clue/twist: Kingston hides the paintings that
-he stole after the murder in his aunt's house to frame her, then arranges for
-the police to find them. Columbo, arriving late on the scene, accuses Kingston
-of the murder and says he can prove it with fingerprints. Kingston replies
-that his fingerprints being all over the paintings prove nothing. Columbo
-retorts that it is his own fingerprints that prove the case, from when he
-touched the paintings early in the investigation, when he visited Kingston in
-his home. Shaken, Kingston insists that Columbo must have touched the
-paintings moments ago, to frame him. Columbo takes his hands out of his
-pockets to show that he has been wearing gloves the whole time.
+Art critic Dale Kingston murders his uncle and tries to frame his aunt to
+inherit his uncle's very valuable art collection. He later murders his lover
+and accomplice in the crime, the gullible art student, Tracy.
 
-Don Ameche portrays the family lawyer, Frank Simpson.
+Final clue/twist: Kingston hides the paintings that he stole after the murder
+in his aunt's house to frame her, then arranges for the police to find them.
+Columbo, arriving late on the scene, accuses Kingston of the murder and says
+he can prove it with fingerprints. Kingston replies that his fingerprints
+being all over the paintings prove nothing. Columbo retorts that it is his own
+fingerprints that prove the case, from when he touched the paintings early in
+the investigation, when he visited Kingston in his home. Shaken, Kingston
+insists that Columbo must have touched the paintings moments ago, to frame
+him. Columbo takes his hands out of his pockets to show that he has been
+wearing gloves the whole time.
 
 Directed by: Hy Averback. Story by: Jackson Gillis.
 
 :: Ratings
+5 <paul>
+3 <rie>
+4 <mikael>
+5 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [The art critic Dale Kingston shot his uncle dead and tried to frame his aunt for the crime all in a bid to inherit his uncle's valuable art collection. He would have gotten away with it too had it not been for the ever-pesky Lt. Columbo.]
+framing someone for a crime [The art critic Dale Kingston shot his uncle dead and tried to frame his aunt for the crime all in a bid to inherit his uncle's valuable art collection. He would have gotten away with it too had it not been for the ever-pesky Lt. Columbo.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with the following murder mystery: Who had murdered a famous art collector and absconded with his two prized Degas paintings.]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+art related occupation [The villain of the story Dale Kingston was an art critic of some renown. The viewer is shown Dale engaging in his profession: he critiqued the paintings on display at an art showing, filmed an art criticism segment to be aired on television, and conversed about the art of painting with Columbo.]
+greedy heir [The art critic Dale shot his uncle dead to inherit the old man's valuable art collection.]
+aunt and nephew [The art critic Dale tried to frame his aunt for the cold blooded murder of his uncle.]
+the lust for gold [The art critic Dale murdered his uncle in cold blood to take possession of the uncle's famed art collection.]
+parricide [The art critic Dale Kingston shot his uncle dead and tried to frame his aunt for the crime all in a bid to inherit his uncle's valuable art collection.]
+art discussion [Dale Kingston was a renowned art critic and spoke about paintings on several occasions. Lt. Columbo made a nuisance of himself, among other things, by showing up with paintings and asking Dale to comment on them.]
+theft [Dale staged the theft of two Degas paintings.]
+false friend [The art critic Dale betrayed his young lover, Tracy. He led her to believe she was a talented painter. But in reality he was only using her to help him commit the perfect murder. He killed her in the end to make sure she wouldn't be around to blab about the crime.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+uncle and nephew [The art critic Dale shot his uncle dead to inherit the old man's valuable art collection.]
+what if I were being framed for a crime [A completely innocent Edna was taken aback when the police search of her home netted the stolen paintings. Her nephew, Dale, planted them there so the police would conclude she murdered Rudy.]
+murder of a lover [Dale murdered his young lover, Tracy, in cold blood.]
+philanthropist way of life [It turned out that Rudy disinherited Dale of the art collection because Rudy preferred for the paintings to be put on public display after his death.]
 
 
 columbo1971e1x05
@@ -274,39 +401,56 @@ Lady in Waiting
 1971-12-15
 
 :: Description
-Beth Chadwick (Susan Clark) murders her domineering older brother, Bryce
-(Richard Anderson), after he attempts to break up her relationship with one of
-his executives, Peter Hamilton (played by Leslie Nielsen), a man he thinks is
-only interested in Beth for ulterior motives. His mailing a letter threatening
-to terminate Peter's employment if he didn't break things off with Beth causes
-her to reach the tipping point and to act to gain control of her own life and,
-it turns out, the family business (as there are no other siblings).
-Complications in Beth's plan contribute to Columbo's suspicions. Beth had
-planned to claim the shooting was an accident. She removed his house key from
-his key chain thinking it would require him, late at night, to try to enter
-the house via her bedroom. However, Bryce had a spare key which he had hidden
-under a flowerpot thus entering the house without ado. She improvises as best
-she can but her story will ultimately be undermined as a result of this turn
-of events. Meanwhile, her true personality emerges, showing a very different
-side than that shown earlier, before the murder.  Final clue/twist: When
-Columbo re-reads the testimony of Peter Hamilton, who had driven to the house
-after receiving the letter from Bryce, he notices that Hamilton climbed over
-the gates and heard the gunshots before the alarm went off, not after. The
-detail is enough to undo her entire story. Columbo tells Beth that Hamilton
-won't like doing it, but he will testify to what he knows.
+Beth Chadwick murders her domineering older brother, Bryce, after he attempts
+to break up her relationship with one of his executives, Peter Hamilton, a man
+he thinks is only interested in Beth for ulterior motives. His mailing a
+letter threatening to terminate Peter's employment if he didn't break things
+off with Beth causes her to reach the tipping point and to act to gain control
+of her own life and, it turns out, the family business (as there are no other
+siblings). Complications in Beth's plan contribute to Columbo's suspicions.
+Beth had planned to claim the shooting was an accident. She removed his house
+key from his key chain thinking it would require him, late at night, to try to
+enter the house via her bedroom. However, Bryce had a spare key which he had
+hidden under a flowerpot thus entering the house without ado. She improvises
+as best she can but her story will ultimately be undermined as a result of
+this turn of events. Meanwhile, her true personality emerges, showing a very
+different side than that shown earlier, before the murder.
 
-The Chadwick siblings' mother is played by veteran actress Jessie Royce Landis
-in her final performance not long before her death.
+Final clue/twist: When Columbo re-reads the testimony of Peter Hamilton, who
+had driven to the house after receiving the letter from Bryce, he notices that
+Hamilton climbed over the gates and heard the gunshots before the alarm went
+off, not after. The detail is enough to undo her entire story. Columbo tells
+Beth that Hamilton won't like doing it, but he will testify to what he knows.
 
-Directed by: Norman Lloyd. Story by: Barney Slater;, Steven Bochco.
+Directed by: Norman Lloyd. Story by: Barney Slater, Steven Bochco.
 
 :: Ratings
+4 <rie>
+4 <mikael>
+5 <atsuki>
+5 <paul>
 
 :: Choice Themes
+how to murder someone and get away with it [The wealthy heiress Beth Chadwick hatched the following plan to dispose of her meddlesome brother to gain control of the family firm and retain her lover: She would steal his key to the house and then invite her brother to enter it by coming through her bedroom windows, promising to deactivate the alarm. Then she'd shoot him and pretend that she'd done so in a delirium after just waking up and mistaking him for a burglar. All went to plan but for a minor miscalculation or two, and the ever troublesome, oh-so intrepid, Lt. Columbo.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with the following murder mystery: The seemingly accidental killing of Bryce Chadwick.]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+fratricide [Beth shot her brother Bryce dead because he stood in the way of her aspirations and a dalliance.]
+the lust for gold [Contrary to initial expectations, in the end Beth proved herself to be the money grubbing one having committed murder in part to splurge on new luxuries and gain control of the family firm, while her lover Peter was actually not a gold digger at all.]
+gold digging [Bryce was convinced that Peter was a gold digger, and circumstances seemed rather to support this supposition. In the end, however, Peter proved himself to be in it only for love, and not at all for the money.]
+engaged couple [Beth announced her engagement to Peter, neglecting to consult the husband-to-be beforehand.]
+mother and daughter [Beth and Bryce's mother slapped Beth hard after she murdered her brother. She was also upset when Beth proceeded to wrest control of the family firm.]
+controlling family member [Beth shot her brother, Bryce, dead to get out from under his thumb. It was also mentioned that Beth had been previously domineered by her father.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+blackmail [Bryce tried to blackmail Peter into leaving Beth. Shortly thereafter Bryce revealed this to Beth, Beth killed him. It is somewhat ambiguous whether this alone set Beth off on killing her brother: as Columbo noted, she had already ordered an expensive car long before the murder indicating that the plan was some time in the making. Perhaps it was just the final straw.]
+the business world [The villain of the story, Beth Chadwick, took over the family business and began modernizing it as she saw fit.]
+nepotism [Beth immediately promoted her lover and, unbeknownst to the man himself, fiancé upon taking control of the family firm.]
+mother and son [Bryce's mother grieved over her son and spoke about him.]
+coping with the death of a child [Bryce's mother grieved over her son who was shot dead by her daughter.]
+master and servant [The Chadwick staff appeared now and then.]
 
 
 columbo1971e1x06
@@ -319,16 +463,14 @@ Short Fuse
 1972-01-19
 
 :: Description
-Roger Stanford (Roddy McDowall) is a chemist whose uncle, David (James
-Gregory), has taken over a business that his parents built and his aunt (Ida
-Lupino) controls. David plans to sell the business to a conglomerate, and uses
-dirty tricks to get Roger to go along. Roger double crosses and murders his
-uncle with a booby trapped box of cigars rigged to explode as he drives
-through the mountains with his chauffeur. William Windom guest stars as
-Everett Logan, the next-in-line vice president whom Roger discredits as part
-of the offshoot of the murder, so Roger can take over the company. Anne
-Francis plays David's secretary, who is romantically involved with Roger.
-Lawrence Cook plays David's chauffeur and right hand man.
+Roger Stanford is a chemist whose uncle, David, has taken over a business that
+his parents built and his aunt controls. David plans to sell the business to a
+conglomerate, and uses dirty tricks to get Roger to go along. Roger double
+crosses and murders his uncle with a booby trapped box of cigars rigged to
+explode as he drives through the mountains with his chauffeur. Everett Logan,
+the next-in-line vice president whom Roger discredits as part of the offshoot
+of the murder, so Roger can take over the company. David's secretary is
+romantically involved with Roger.
 
 Final clue/twist: Columbo tricks Roger into incriminating himself by having
 him believe the fateful accident was a result of treacherous driving
@@ -341,16 +483,42 @@ not from the death scene, that he had just got it and scuffed it up to look
 like it had been. Realizing he has been tricked, Roger can only laugh
 hysterically.
 
-Directed by: Edward M. Abroms. Story by: Lester Pine, & Tina Pine;, Jackson
+Directed by: Edward M. Abroms. Story by: Lester Pine, Tina Pine, Jackson
 Gillis.
 
 :: Ratings
+2 <rie>
+3 <mikael>
+5 <paul>
+5 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [Roger hatched the following plot to do away with his troublesome and blackmailing uncle: Roger planted a booby trapped box of cigars in the uncle's car and rigged it to explode as he drove through a mountainous area with his chauffeur.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with the following murder mystery: The murky disappearance of the Stanford Chemicals company CEO David Buckner.]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+uncle and nephew [Roger did not much car for his step-uncle David, so he murdered him.]
+aunt and nephew [Roger liked his aunt Doris very much, and the feeling was reciprocated.]
+the lust for gold [David and Roger both wanted control of the family business all to themselves. David wanted to cash out by selling the company to a conglomerate.]
+blackmail [David tried to blackmail Roger into convincing his aunt to approve the sale of their family chemical company to a conglomerate. In exchange, David would keep a lid on Roger's various past indiscretions, including the racking up of gambling debts in Vegas, a drug habit in college, an unspecified "mess" in Acapulco, and a car theft.]
+avunculicide [Roger hatched the following plot to do away with his troublesome and blackmailing uncle: Roger planted a booby trapped box of cigars in the uncle's car and rigged it to explode as he drove through a mountainous area with his chauffeur.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks. In this episode, he remarked to a genius chemist that he took wood shop in high school instead of chemistry.]
+master and servant [The family-company chauffeur as well as the mechanic exchanged words with both uncle and nephew.]
+coping with the death of a spouse [Aunt Doris showed a conspicuous lack of emotion when relayed the news of her husbands demise.]
+chemicals [Columbo queried his suspect about chemistry and bomb-making.]
+practical joking [Roger was something of a practical joker, attacking his unsuspecting victims with (apparently a new invention at the time) cans of silly-string.]
+photography [Roger frequently snapped photos of people and places he encountered. Columbo was caught rummaging in Rogers private darkroom.]
+fear of heights [Columbo was visibly nervous as the aerial tram motored its way up to the mountaintop.]
+extramarital affair [Roger made sure that Aunt Doris came to learn that her recently deceased husband, David, had been carrying on with the secretary behind her back.]
+getting fired from one's job [Both the corporate executive Everett Logan and the secretary Valerie Bishop were issued pink slips by Aunt Doris.]
+gambling [David used his knowledge of Roger's history of gambling in Vegas against him.]
+theft [Roger did not deny that he'd stolen a car, probably in his youth, when his blackmailer confronted him about it.]
+recreational illicit drug use [Roger's blackmailer knew about his "drug thing" in college.]
+the business world [Roger and David were rivaling for control of the family chemical company Stanford Chemicals. The viewer is shown the company's operations from the point of view of various of its executives.]
+mechanic occupation [Roger distracted the mechanic working on David's car so that he could plant a booby trapped box of cigars inside the vehicle.]
 
 
 columbo1971e1x07
@@ -363,38 +531,62 @@ Blueprint for Murder
 1972-02-09
 
 :: Description
-Elliot Markham (Patrick O'Neal) is an architect with a vision for a city of
-the future, and a penchant for classical music. His latest project is being
-bankrolled by the young wife of Beau Williamson (Forrest Tucker), a wealthy
-industrialist who has been away on a lengthy overseas business trip. When
-Williamson returns and finds out how his money is being spent, he is furious,
-and intends to cut off the funds. Markham decides that the only way he can
-continue his work is to eliminate Williamson. Simply killing him, however,
-poses a problem, because his money reverts to a trust fund when he dies.
-Markham comes up with a clever plan to conceal the body and make it appear as
-if Beau has gone on another long foreign trip. With Pamela Austin and Janis
-Paige as the wives, present and past, in Williamson's life. Final clue/twist:
-Markham repeatedly goads Columbo into excavating a building site to search for
-Williamson's body, until Columbo finally does so. It yields nothing. Later
-that night Markham returns to that site with the body, assuming no-one would
-ever look there again. However Columbo has known what Markham has been up to
-all along, he emerges from the shadows with other policemen and arrests
-Markham. Columbo reveals that he knew something had happened to Williamson
-when he checked his car and found the radio turned to a classical music
-station, something odd for Williamson, who only listened to country music.
-John Fiedler portrays Williamson's doctor.
+Elliot Markham is an architect with a vision for a city of the future, and a
+penchant for classical music. His latest project is being bankrolled by the
+young wife of Bo Williamson, a wealthy industrialist who has been away on a
+lengthy overseas business trip. When Williamson returns and finds out how his
+money is being spent, he is furious, and intends to cut off the funds. Markham
+decides that the only way he can continue his work is to eliminate Williamson.
+Simply killing him, however, poses a problem, because his money reverts to a
+trust fund when he dies. Markham comes up with a clever plan to conceal the
+body and make it appear as if Beau has gone on another long foreign trip.
 
-This is the only episode Peter Falk directed.
+Final clue/twist: Markham repeatedly goads Columbo into excavating a building
+site to search for Williamson's body, until Columbo finally does so. It yields
+nothing. Later that night Markham returns to that site with the body, assuming
+no-one would ever look there again. However Columbo has known what Markham has
+been up to all along, he emerges from the shadows with other policemen and
+arrests Markham. Columbo reveals that he knew something had happened to
+Williamson when he checked his car and found the radio turned to a classical
+music station, something odd for Williamson, who only listened to country
+music.
 
-Directed by: Peter Falk. Story by: William Kelley;, Steven Bochco.
+Directed by: Peter Falk. Story by: William Kelley, Steven Bochco.
 
 :: Ratings
+4 <rie>
+4 <mikael>
+5 <paul>
+5 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [Elliot hatched the following plot to dispose of his young lover's uncooperative but wealthy husband: Elliot simply shot the husband and hid his body in a barn, then tricked Lt. Columbo into digging up a huge sky scraper cement pile to look for the body. His plan was then to dump the body under the now-cleared cement pile and replace it. But the ever tenacious Lt. Columbo was one step ahead of him.]
+how to dispose of a corpse and get away with it [Elliot hatched the following plot to dispose of his young lover's uncooperative but wealthy husband: Elliot simply shot the husband and hid his body in a barn, then tricked Lt. Columbo into digging up a huge sky scraper cement pile to look for the body. His plan was then to dump the body under the now-cleared cement pile and replace it. But the ever tenacious Lt. Columbo was one step ahead of him.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following alleged murder mystery: Did an illustrious architect murder his financier and bury the body in the foundation of his newly under construction building?]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+husband and wife [Bo Williams had a young wife who spoke of him with disinterest, and an ex-wife who spoke of him with affection and respect.]
+extramarital affair [Jennifer was carrying on with Elliot behind her husband Bo's back when the latter was away.]
+architect occupation [The villain of the story, Elliot Markham, was an architect of some renown. The viewer is shown a window into his designing and building a so-called city of the future.]
+the lust for gold [Bo Williamson accused Elliot of being a con artist who seduced Beau's wife to build an unprofitable, so-called "city of the future". The ex-wife of Beau planted a bloody hat so she could collect on the 25% of his estate that she had bequeathed to her.]
+coping with humiliation [Columbo seemingly had egg on his face upon finding no body buried under the cement pile he had dug up at great expense. This was all because Elliot carefully goaded and manipulated Columbo into digging up the cement pile all along, or so he thought.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+divorce [Beau Williamson had divorced his first wife, Goldie, but they were still good friends and she said that the divorce arrangements were very good for her.]
+old flames [Beau Williamson had divorced his first wife, Goldie, but they were still good friends and she said that the divorce arrangements were very good for her.]
+friendship [Goldie told Columbo that she was friends with Beau Williamson's new wife, and that she was on good terms with her.]
+con artistry [Bo Williamson considered Elliot Markham to be nothing but a conman.]
+medical occupation [Bo Williamson's physician gave Columbo an impromptu medical examination.]
+the dangers of smoking [A physician admonished Columbo for smoking cigars.]
+the game of tennis [Jennifer discovered what appeared to be Bo's bloodstained cowboy hat while searching for an errant ball from her tennis game with Elliot.]
+human vs. Kafkaesque institution [After being made to wait for hours in line, chase forms forms through the building, and then returning to find a seemingly available clerk unwilling to help because he was on his lunch break, left Columbo beside himself, because the situation Columbo encountered beggard his mind.]
+bureaucracy [After an exasperatingly long wait in line at the Building & Safety municipal office, Columbo was informed he'd need to get departmental approval under regulation 613 of the municipal code, file the proper permits and requisition slips, and wait for approval from the mayor's office, if he really wanted to have a certain cement pile excavated.]
+human aspiration [Elliot aspired to build a so-called "city of the future" and lied, seduced, and ultimately turned to murder to make it a reality.]
+
+:: Other Keywords
+irony [Elliot plotted to bury Bo Williamson's dead body in the foundation of "Williamson City" - a visionary "city" of the future. The irony being that Mr. Williamson's death marked the birth of a "city".]
 
 
 columbo1971e2x01
@@ -407,37 +599,54 @@ columbo1971e2x01
 1972-09-17
 
 :: Description
-Alex Benedict (John Cassavetes), the married conductor of the Los Angeles
-Philharmonic Orchestra who resembles the famous conductor Leonard Bernstein,
-murders his mistress, Jennifer Welles (Anjanette Comer), after she insists on
-going public with their affair, and tries to make it look like a suicide.
-Columbo searches for clues to place Benedict at the murder scene. Final
-clue/twist: During the murder, Benedict loses his signature boutonnière. While
-conducting that night's concert he realizes its loss and goes back to the now
-police-crowded crime scene. He recovers the flower and puts it back on. A TV
-news team records him leaving the house with it, while the recording of the
-earlier concert shows him being without it. Columbo insists this proves that
-Benedict must have been there the night of the murder. Witnessing their
+Alex Benedict, the married conductor of the Los Angeles Philharmonic Orchestra
+who resembles the famous conductor Leonard Bernstein, murders his mistress,
+Jennifer Welles, after she insists on going public with their affair, and
+tries to make it look like a suicide. Columbo searches for clues to place
+Benedict at the murder scene.
+
+Final clue/twist: During the murder, Benedict loses his signature boutonnière.
+While conducting that night's concert he realizes its loss and goes back to
+the now police-crowded crime scene. He recovers the flower and puts it back
+on. A TV news team records him leaving the house with it, while the recording
+of the earlier concert shows him being without it. Columbo insists this proves
+that Benedict must have been there the night of the murder. Witnessing their
 confrontation, Benedict's wife refuses to support his alibi. Note: It is
 highly unlikely the District Attorney would take the case to trial with such
 weak evidence.
 
-Blythe Danner and Myrna Loy guest star as Benedict's beautiful wealthy wife
-and her mother, respectively. Pat Morita cameos in one scene as Benedict's
-butler. During filming Danner was pregnant with her daughter Gwyneth Paltrow,
-who was born ten days after the episode aired. The episode was directed by
-Nicholas Colasanto, who later became known for his role as Coach in Cheers.
-
-Directed by: Nicholas Colasanto. Story by: Richard Levinson, & William Link;,
+Directed by: Nicholas Colasanto. Story by: Richard Levinson, William Link,
 Steven Bochco.
 
 :: Ratings
+5 <atsuki>
+4 <paul>
+3 <mikael>
+2 <rie>
 
 :: Choice Themes
+how to murder someone and get away with it [The orchestra conductor Alex Benedict murdered his mistress to stop her from going public about their affair and made it look as if she'd committed suicide. Alex evidently would have gotten away with it had Columbo not inferred that he dropped his signature boutonnière at the scene of the crime.]
+murder of a lover [The orchestra conductor Alex Benedict murdered his mistress to stop her from going public about their affair and made it look as if she'd committed suicide.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: Who murdered a talented young musician with everything to live for and made it look like she committed suicide?]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+husband and wife [Alex and Janice Benedict.]
+man and mistress [The renown orchestra conductor Alex Benedict murdered his mistress, Jennifer Welles, to stop her from going public about their affair.]
+extramarital affair [The renown orchestra conductor Alex Benedict was running around with the talented, young musician Jennifer Welles behind his wife's back. He murdered Jennifer to keep her from going public about their affair.]
+music [The villain of the story, Alex Benedict, was a famed orchestra conductor. He was shown at his craft.]
+the lust for gold [Alex murdered his mistress to stop her from going public about their affair. If she did, he stood to lose the backing of his wealthy mother-in-law, and kicked him out of the orchestra, leaving him ruined.]
+romantic jealousy [Janice acted jealous when she noticed various things about Alex' behavior, and evermore so when she started piecing two and two together regarding his affair and the sordid murder.]
+gold digging [Alex married Janice because he wanted to be on good terms with her mother who owned and controlled Los Angeles Philharmonic Orchestra in which he was lucratively employed as conductor, so much so that he could afford a $750,000 house, about $200,000 worth of furniture and five permanent staff.]
+suicide [Alex murdered Jennifer and made it look like she'd committed suicide.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+mother-in-law and son-in-law [Alex cursorily interacted with his wealthy mother-in-law, Lizzy Fielding.]
+divorce [Jennifer was ineffectively trying to blackmail Alex into divorcing Janice.]
+blackmail [Jennifer was ineffectively trying to blackmail Alex into divorcing Janice by threatening to create a scandal.]
+mother and daughter [Lizzy Fielding and Janice.]
+love triangle [Alex, Janice, and Jennifer were all acquainted. Alex was married to Janice but sleeping with Jennifer.]
 
 
 columbo1971e2x02
@@ -450,36 +659,55 @@ The Greenhouse Jungle
 1972-10-15
 
 :: Description
-Jarvis Goodland (Ray Milland) and his nephew, Tony (Bradford Dillman), stage
-Tony's kidnapping in order to break into his trust fund and use his half to
-hold on to his wife, to whom he wishes to remain married, despite her
-expensive tastes and separate social and romantic life. Jarvis, disgusted at
-the notion, shoots and kills Tony, whom he has always despised, once the
-ransom is paid, and a careful swapping of guns with Tony's wife casts
-suspicion in her direction.  Final clue/twist: After Columbo remembers that
-Jarvis Goodland had years earlier fired a gun at a burglar but only managed to
-hit a flowerpot, Columbo searches the greenhouse with a metal detector for the
-old slug. It turns out to be identical to the bullet with which Tony was
-murdered, proving Goodland killed his nephew, and that the gun evidence
-against Tony's wife was part of a frame-up. This episode marks the first
-appearance of Bob Dishy as Columbo's newly assigned and totally unwanted
-neophyte partner, Sergeant Frederick Wilson, full of the latest techniques
-from Berkeley. He appears again in Now You See Him... (Season 5, Episode 5).
-It is also the first episode in which the main crime is committed after
-Columbo's initial appearance.
+Jarvis Goodland and his nephew, Tony, stage Tony's kidnapping in order to
+break into his trust fund and use his half to hold on to his wife, to whom he
+wishes to remain married, despite her expensive tastes and separate social and
+romantic life. Jarvis, disgusted at the notion, shoots and kills Tony, whom he
+has always despised, once the ransom is paid, and a careful swapping of guns
+with Tony's wife casts suspicion in her direction.
 
-Gloria, Tony's mistress, who believes Tony's wife is the killer and wants to
-collect a reward, is played by Arlene Martel.
+Final clue/twist: After Columbo remembers that Jarvis Goodland had years
+earlier fired a gun at a burglar but only managed to hit a flowerpot, Columbo
+searches the greenhouse with a metal detector for the old slug. It turns out
+to be identical to the bullet with which Tony was murdered, proving Goodland
+killed his nephew, and that the gun evidence against Tony's wife was part of a
+frame-up.
+
+This episode marks the first appearance of Bob Dishy as Columbo's newly
+assigned and totally unwanted neophyte partner, Sergeant Frederick Wilson,
+full of the latest techniques from Berkeley. He appears again in Now You See
+Him... (Season 5, Episode 5). It is also the first episode in which the main
+crime is committed after Columbo's initial appearance.
 
 Directed by: Boris Sagal. Story by: Jonathan Latimer.
 
 :: Ratings
+5 <atsuki>
+5 <paul>
+3 <mikael>
+3 <rie>
 
 :: Choice Themes
+how to murder someone and get away with it [Orchid enthusiast Jarvis Goodland together with his nephew staged a kidnapping in order to gain access to said nephew's lavish trust fund. But Jarvis double crossed and murdered his nephew, making it look like the kidnapping had been botched, to in order to purloin the whole of the booty for himself. He evidently would have gotten away with it had it not been for the ever-pesky Lt. Columbo.]
+parricide [Orchid enthusiast Jarvis Goodland murdered his adult nephew to gain access to a trust fund in the nephew's name and made it look like a ransom kidnapping gone wrong.]
+the lust for gold [Jarvis shot his nephew dead in cold blood to get the nephew's trust fund money, in the form of a ransom, to help fund his costly orchid hobby.]
+theft [Orchid enthusiast Jarvis Goodland together with his nephew staged a kidnapping in order to gain access to said nephew's lavish trust fund. But Jarvis double crossed and murdered his nephew, making it look like the kidnapping had been botched, to in order to purloin the whole of the booty for himself.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: Was Tony Goodland killed by his kidnappers or was there something more sinister afoot?]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+uncle and nephew [Jarvis Goodland murdered his nephew, Tony, whom he detested, to gain access to the nephew's trust fund to help fund his costly orchid hobby (one might surmise).]
+husband and wife [Tony loved his wife, Cathy, in spite of her philandering ways.]
+ransom kidnapping [Jarvis and Tony staged Tony's kidnapping with a view toward collecting on a hefty ransom from Tony's trust fund. Jarvis, however, shot Tony dead and took the entire ransom for himself.]
+betrayal [Jarvis betrayed his co-conspirator and nephew, Tony, by shooting him dead after they'd together collected the ransom for a kidnapping of Tony.]
+romantic infidelity [It was an open secret that Cathy had serially cheated on her husband, Tony.]
+gardening [After using his wife's wilted African violet as an excuse to serially pester Jarvis in his tropical greenhouse, Columbo finally confronted this most callous villain in the very same titular hothouse and presented evidence of murder chancely concealed in the garden dirt.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks. He gracefully deferred to his neophyte partner's newfangled and time consuming police methods when a lesser man would have bristled.]
+what if I were being framed for a crime [Cathy was dumbfounded when the murder weapon was found stashed away in one of her shoe compartments. It had been planted there by Jarvis to frame her for the murder of his nephew Tony.]
+framing someone for a crime [Jarvis nearly succeeded in framing Cathy for Tony's murder.]
+work partner and work partner [Columbo interacted with his newly assigned and totally unwanted neophyte partner, Sergeant Frederick Wilson, who was full of the latest techniques from Berkeley.]
 
 
 columbo1971e2x03
@@ -492,19 +720,18 @@ The Most Crucial Game
 1972-11-05
 
 :: Description
-Paul Hanlon (Robert Culp), the general manager of the Los Angeles Rockets
-football team, wants to create a sports empire, but Eric Wagner (Dean
-Stockwell), who inherited the team, lacks ambition. Hanlon sneaks out of the
-stadium during the national anthem by disguising himself as an ice cream truck
-driver. He drives to a pay phone near Wagner's home, knowing Wagner's phones
-have been bugged, during which Hanlon makes it appear he's in his private box
-at the stadium by holding a radio to the receiver. He then drives to Wagner's
-house, bludgeons him with a blow to the head with a heavy piece of ice, which
-melts in the swimming pool, to make it appear to be an accident. Complicating
-matters is Eve Babcock (Valerie Harper), ostensibly a secretary but actually a
-call girl and an operative placed in Eric's home by a private detective (Val
-Avery) who was, in turn, hired by Eric's attorney, Walter Cannell (Dean
-Jagger). James Gregory plays the football team’s coach.
+Paul Hanlon, the general manager of the Los Angeles Rockets football team,
+wants to create a sports empire, but Eric Wagner, who inherited the team,
+lacks ambition. Hanlon sneaks out of the stadium during the national anthem by
+disguising himself as an ice cream truck driver. He drives to a pay phone near
+Wagner's home, knowing Wagner's phones have been bugged, during which Hanlon
+makes it appear he's in his private box at the stadium by holding a radio to
+the receiver. He then drives to Wagner's house, bludgeons him with a blow to
+the head with a heavy piece of ice, which melts in the swimming pool, to make
+it appear to be an accident. Complicating matters is Eve Babcock, ostensibly a
+secretary but actually a call girl and an operative placed in Eric's home by a
+private detective who was, in turn, hired by Eric's attorney, Walter Cannell.
+James Gregory plays the football team’s coach.
 
 Final clue/twist: Columbo notices that the tape of the phone call Hanlon made
 to establish his alibi, which Hanlon insists was made from his private box in
@@ -515,12 +742,28 @@ Hanlon’s phone call was not made from his private box.
 Directed by: Jeremy Kagan. Story by: John T. Dugan.
 
 :: Ratings
+4 <atsuki>
+5 <paul>
+3 <mikael> [first story, I think, where the Villain doesn't tie himself in a knot trying to explain why Columbo's reasoning is wrong but instead just shrugs like "that's your job"]
 
 :: Choice Themes
+how to murder someone and get away with it [Paul Hanlon, the general manager of a professional American football team, hatched a seemingly foolproof plot to murder the team's lackadaisical owner, Eric, so that he could take over the team and go on to create a sports empire: He set out on his foul deed disguised as an ice cream man and stopped mid-journey to make a telephone call (that he knew would be recorded) but with a radio carefully placed so that he would seem to be in his box at the stadium. Thus believing he had a foolproof alibi, Paul proceeded to batter Eric to death with a block of ice in the family swimming pool.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with the following murder mystery: Did the famous sports team owner Eric Wagner die alone in a swimming pool by accident, or was he killed?]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+the lust for gold [Paul Hanlon, the general manager of a professional American football team, hatched a seemingly foolproof plot to murder the team's unambitious owner so that he could take over the team and go on to create a sports empire.]
+pride in one's own creation [Paul Hanlon was exceedingly proud in the sports empire he had built up and resorted to murder when the empire's former owner's lackadaisical successor's lazy behavior threatened to bring about its ruin.]
+human aspiration [Paul Hanlon aspired to build an unrivaled sports empire, so much so that he resorted to murder when the former owner's lackadaisical successor threatened to birng about its ruin.]
+American football [The story follows Lt. Columbo as he investigates the general manager of a professional American football team for having murdered the team's owner. The viewer is shown what the day to day life of a general manager might be like, short scenes of on field football action, and a view in the the locker room after a game.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+romantic infidelity [Shirley Wagner knew of her husband Eric's philandering and seemed at peace with it.]
+husband and wife [Shirley Wagner knew of her husband Eric's philandering and seemed at peace with it.]
+prostitution [In one scene, Columbo questioned an evidently self-employed call girl in her apartment as she awaited a client.]
+the game of basketball [Lt. Columbo questioned Paul Hanlon at a basketball practice for pro players.]
+boss and employee [Paul and the coach had some vociferous arguments about how to organize the play.]
 
 
 columbo1971e2x04
@@ -533,44 +776,62 @@ Dagger of the Mind
 1972-11-26
 
 :: Description
-When Sir Roger Haversham (John Williams) realizes that actors Nicholas Frame
-(Richard Basehart) and his wife, Lillian Stanhope (Honor Blackman), have
-manipulated him into backing their theater production, he confronts the
-couple, and is accidentally killed during the ensuing scuffle. The pair cover
-up the killing by stuffing the body into a trunk, taking it home to his
-estate, and staging an apparent fall down the stairs.  Columbo is visiting
-London to study British police techniques as the guest of Scotland Yard
-Detective Chief Superintendent William Durk (Bernard Fox), who is called to
-investigate the incident. Sharon Johansen plays Miss Dudley, an attractive
-young understudy Frame has his eye on, and thus intensely disliked by
-Stanhope. Wilfrid Hyde-White plays the butler who covers for the couple but
-later tries to blackmail them and is murdered by Frame. Arthur Malet is the
-theater doorman who comes into possession of the dead man's umbrella, which
-becomes vital to the resolution of the case. Final clue/twist: Columbo
-engineers a situation whereby, before witnesses, they search the dead man’s
-closed umbrella, on exhibit in a wax museum, for a pearl from Lillian
-Stanhope's broken necklace. According to Columbo this could only have gotten
-there during the killing. When the umbrella is opened and a pearl is revealed,
-the increasingly unstable Frame starts babbling, and Stanhope, now
-overwhelmed, confesses to how they killed Sir Roger. (Columbo had, however,
-used his childhood marble-playing skills to shoot the pearl into the umbrella
-moments before it was opened.)
+When Sir Roger Haversham realizes that actors Nicholas Frame and his wife,
+Lillian Stanhope, have manipulated him into backing their theater production,
+he confronts the couple, and is accidentally killed during the ensuing
+scuffle. The pair cover up the killing by stuffing the body into a trunk,
+taking it home to his estate, and staging an apparent fall down the stairs.
+Columbo is visiting London to study British police techniques as the guest of
+Scotland Yard Detective Chief Superintendent William Durk, who is called to
+investigate the incident. Miss Dudley, an attractive young understudy Frame
+has his eye on, is intensely disliked by Stanhope. Haversham's butler covers
+for the couple but later tries to blackmail them and is murdered by Frame.
+The theater doorman comes into possession of the dead man's umbrella, which
+becomes vital to the resolution of the case.
+
+Final clue/twist: Columbo engineers a situation whereby, before witnesses,
+they search the dead man’s closed umbrella, on exhibit in a wax museum, for a
+pearl from Lillian Stanhope's broken necklace. According to Columbo this could
+only have gotten there during the killing. When the umbrella is opened and a
+pearl is revealed, the increasingly unstable Frame starts babbling, and
+Stanhope, now overwhelmed, confesses to how they killed Sir Roger. (Columbo
+had, however, used his childhood marble-playing skills to shoot the pearl into
+the umbrella moments before it was opened.)
 
 The first of several episodes to feature locations outside the United States,
 it was filmed in both London and Hollywood. Although scenes with Wilfrid Hyde-
 White were set in London, due to the actor's tax problems all his character's
 scenes were filmed in California.
 
-Directed by: Richard Quine. Story by: Richard Levinson, & William Link;,
-Jackson Gillis.
+Directed by: Richard Quine. Story by: Richard Levinson, William Link, Jackson
+Gillis.
 
 :: Ratings
+4 <atsuki>
+4 <paul>
+4 <mikael>
 
 :: Choice Themes
+what if I killed someone by accident [The Shakespearean acting couple Nicholas Frame and Lillian Stanhope accidentally killed the wealthy backer of their latest theatrical production in a scuffle. The pair tried to cover up the killing by stuffing the body into a trunk, taking it home to his estate, and staging an apparent fall down the stairs. They would have gotten away with it had it not been for the ever-tenacious Lt. Columbo.]
+how to cover up a murder [The Shakespearean acting couple Nicholas Frame and Lillian Stanhope accidentally killed the wealthy backer of their latest theatrical production in a scuffle. The pair tried to cover up the killing by stuffing the body into a trunk, taking it home to his estate, and staging an apparent fall down the stairs. They would have gotten away with it had it not been for the ever-tenacious Lt. Columbo.]
+murder [The Shakespearean acting couple Nicholas Frame and Lillian Stanhope accidentally killed the wealthy backer of their latest theatrical production in a scuffle. The pair tried to cover up the killing by stuffing the body into a trunk, taking it home to his estate, and staging an apparent fall down the stairs. They would have gotten away with it had it not been for the ever-tenacious Lt. Columbo.]
+acting [The story's villans Nicholas Frame and Lillian Stanhope were esteemed Shakespearean actors. Acting is alluded to in the title. They were shown acting in a theatrical production of Macbeth. Columbo commented on Nicholas and Lillian's theaterical performances while interrogating them.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following alleged murder mystery: Did Sir Roger Haversham meet his death by falling down a staircase or was he killed?]
+appearances can be deceiving [Witnesses and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+husband and wife [The esteemed Shakespearean actors Nicholas Frame and Lillian Stanhope were married. The story follows their accidentally having killed the backer of their current theatrical production.]
+the theater [The story concerned a theatrical production of Macbeth.]
+foreign point of view [British culture was seen through the eyes of the American police detective Lt. Columbo.]
+learning about a foreign culture [British culture was seen through the eyes of the American police detective Lt. Columbo.]
+foreign customs [British culture was seen through the eyes of the American police detective Lt. Columbo.]
+the desire to advance one's career [Nicholas Frame and Lillian Stanhope were exceedingly concerned with thier careers as famous Shakespearean actors to the point where they got into a scuffle with their backer and accidentally killed him when he threatened to ruin their reputations.]
+coping with having a bad reputation [Nicholas Frame and Lillian Stanhope were exceedingly concerned with thier careers as famous Shakespearean actors to the point where they got into a scuffle with their backer and accidentally killed him when he threatened to ruin their reputations.]
+the lust for gold [The Shakespearean acting couple Nicholas Frame and Lillian Stanhope took measures to secure part of their backer's fortune after accidentally killing him. ]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks. He also went and opened his own car door rather than let his, subsequently gobsmacked, British host open it for him.]
+master and servant [Sir Haversham's butler covered for Nicholas and Lillian.]
 
 
 columbo1971e2x05
@@ -583,36 +844,58 @@ Requiem for a Falling Star
 1973-01-21
 
 :: Description
-Jean Davis (Pippa Scott), personal assistant to aging movie star Nora Chandler
-(Anne Baxter), is engaged to gossip reporter Jerry Parks (Mel Ferrer), and she
-has secret information about Chandler. Nora deflates the tire of Jean's car so
-that the engaged couple will have to switch vehicles. Chandler starts a
-gasoline fire just as Parks's car (being driven by Davis) pulls into his
-garage. It initially appears that the murderer's intended victim was Parks,
-but actually Jean was the target. Columbo solves the case after connecting it
-to the mysterious disappearance of Chandler's husband a decade earlier. Kevin
-McCarthy appears as a physician and friend of Chandler.  Final clue/twist:
-Columbo is not sure of anything. He watches one of Nora's old movies in which
-she disguised herself as a man to commit a murder. He remembers some facts
-about the disappearance of her husband years before, that the fountain in
-Nora's garden does not work, and learns it was purchased the day after her
-husband disappeared. He tricks Nora into thinking her husband's body might
-have been discovered. When she rushes home and runs straight to her garden,
-Columbo, lying in wait, confronts her. She confesses that she killed her
-husband and buried his body under the fountain, and that Jean knew it and that
-is why she killed her.
+Jean Davis, personal assistant to aging movie star Nora Chandler, is engaged
+to gossip reporter Jerry Parks, and she has secret information about Chandler.
+Nora deflates the tire of Jean's car so that the engaged couple will have to
+switch vehicles. Chandler starts a gasoline fire just as Parks's car (being
+driven by Davis) pulls into his garage. It initially appears that the
+murderer's intended victim was Parks, but actually Jean was the target.
+Columbo solves the case after connecting it to the mysterious disappearance of
+Chandler's husband a decade earlier.
 
-Oscar-winning costume designer Edith Head made a cameo appearance as herself.
+Final clue/twist: Columbo is not sure of anything. He watches one of Nora's
+old movies in which she disguised herself as a man to commit a murder. He
+remembers some facts about the disappearance of her husband years before, that
+the fountain in Nora's garden does not work, and learns it was purchased the
+day after her husband disappeared. He tricks Nora into thinking her husband's
+body might have been discovered. When she rushes home and runs straight to her
+garden, Columbo, lying in wait, confronts her. She confesses that she killed
+her husband and buried his body under the fountain, and that Jean knew it and
+that is why she killed her.
 
 Directed by: Richard Quine. Story by: Jackson Gillis.
 
 :: Ratings
+4 <paul>
+4 <atsuki>
+4 <rie>
+3 <mikael>
 
 :: Choice Themes
+how to murder someone and get away with it [The aging movie star Nora Chandler murdered her personal assistant, Jean, to keep her from sharing an incriminating tidbit of information with a gossip reporter to whom Jean had recently become engaged. Nora came up with this seemingly foolproof method: she deflated the tire of  Jean's car so that she'd be compelled to switch vehicles with her fiancé. Then Nora started a gasoline fire just as Jean pulled up into the gossip reporter's driveway, leaving Jean charred to a crisp and everyone thinking that the gossip reporter was the true target of the killer. The aforementioned incriminating tidbit, to top it all off, was that Nora had murdered her husband years prior and buried his body under a fountain in her garden. She would have gotten away with both crimes, one may presume, had it not been for the ever-pesky Lieutenant Columbo.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: An apparent attempt on the life of the Hollywood gossip reporter Jerry Parks that resulted, not uncoincidentally as it happened, in the death of Nora Chandler's personal assistant Jean Davis.]
+appearances can be deceiving [Witness and villains alike are caught off guard by Lieutenant Columbo's bumbling façade, which invariably proves to conceal a laser-focused mind.]
+the entertainment industry [The story centers around an aging movie star who is strangely reluctant to cash out on the failing film studio that she inherited from her mysteriously disappeared husband.]
+blackmail [The gossip reporter Jerry Parks was strongly suspected of having been blackmailing Nora.]
+spouse murder [The grand revelation of the story was that Nora had long ago murdered her husband and buried the body under the fountain in her garden.]
+how to dispose of a corpse and get away with it [The grand revelation of the story was that Nora had long ago murdered her husband and buried the body under the fountain in her garden.]
+coping with being washed up [] {For discussion about Nora. She was past her prime, sure, but washed up? Not quite...}
+coping with personal failure [] {For discussion: Nora's recent movies flopped big time}
+coping with aging [] {FD since it's all over the discussion and arguably implied in the title - I contend that Nora coped gracefully with ageing, but that is also a way to cope and since it was pointedly illustrated the theme is topical.}
+boss and employee [The story concerns Nora and her personal assistant, Jean, whom she murdered callously and feigned to grieve over.]
 
 :: Minor Themes
+humility [Lieutenant Columbo is prone to make modest and self-deprecating remarks.]
+acting [Nora was shown acting on the set of a television show.]
+engaged couple [Jean and Jerry were engaged.]
+coping with being famous [Columbo feigned (or not?) to be starstruck by the legendary movie star Nora Nora Chandler. The movie star Nora Chandler was swarmed by fans while entering her car.]
+husband and wife [It came to light that Nora had murdered her some years prior. Columbo asked Jean to call his wife to say hello. Columbo confided in Nora about how his wife steals ashtrays where ever they go to keep as mementos.]
+arson [The gasoline fire at Jerry Parks' garage was being investigated as an act of arson.]
+journalism [Jerry Parks was a Hollywood gossip reporter.]
+position in exchange for sexual favors [The gossip reporter Jerry Parks touched on the "casting couch" while being questioned by Columbo.] {PS: Make child of "abuse of authority"?}
+coping with the death of someone [Nora pretended to be upset over the death of Jean, her personal assistant.]
 
 
 columbo1971e2x06
@@ -625,34 +908,35 @@ A Stitch in Crime
 1973-02-11
 
 :: Description
-Cardiac surgeon Dr. Barry Mayfield (Leonard Nimoy) and Dr. Edmund Hiedemann
-(Will Geer) have pioneered a major medical breakthrough that Mayfield wants to
-publish about immediately, but Hiedemann wants to wait and do more tests. When
-Dr. Hiedemann's heart condition worsens, requiring the insertion of a heart
-valve, Mayfield performs the surgery using non-permanent sutures, that will
-kill his partner when it dissolves in his body. Nurse Sharon Martin (Anne
-Francis), a friend of Hiedemann, who has never trusted or liked Mayfield,
-uncovers a suspicious piece of suture, which she takes with her from the
-operating room. Mayfield observes her doing this and later kills Martin in the
-hospital garage parking area, staging it as an apparent mugging. He later
-tries to pin the crime on her ex-boyfriend, a former drug addict (portrayed by
-Jared Martin), whom he kills as well. This episode contains one of the rare
-occasions when Columbo loses (or appears to lose) his temper; suddenly
+Cardiac surgeon Dr. Barry Mayfield and Dr. Edmund Hiedemann have pioneered a
+major medical breakthrough that Mayfield wants to publish about immediately,
+but Hiedemann wants to wait and do more tests. When Dr. Hiedemann's heart
+condition worsens, requiring the insertion of a heart valve, Mayfield performs
+the surgery using non-permanent sutures, that will kill his partner when it
+dissolves in his body. Nurse Sharon Martin, a friend of Hiedemann, who has
+never trusted or liked Mayfield, uncovers a suspicious piece of suture, which
+she takes with her from the operating room. Mayfield observes her doing this
+and later kills Martin in the hospital garage parking area, staging it as an
+apparent mugging. He later tries to pin the crime on her ex-boyfriend, a
+former drug addict, whom he kills as well. This episode contains one of the
+rare occasions when Columbo loses (or appears to lose) his temper; suddenly
 slamming a coffee pot down onto Mayfield's desk he angrily warns him that if
 Hiedemann dies, the police will have his body autopsied to check what sutures
-were used in his operation.  Final clue/twist: Mayfield operates on Heidemann
-again, ostensibly for medical reasons but actually to replace the dissolving
-sutures. As soon as the procedure is completed, police swarm the operating
-suite and search for the removed sutures. Mayfield loses his composure,
-demanding to be allowed to leave the operating room and shoving Columbo in the
-process. Just as it seems that no sutures are to be found and that Mayfield is
-in the clear, Columbo re-enters the doctor's office and reveals that he was
-puzzled as to why Mayfield, always so calm and collected, would have shoved
-him, then realized that Mayfield used the scuffle to rid himself of the
-sutures. Here, Columbo pulls the sutures from the pocket of the surgical
-scrubs he, Columbo himself, had worn in the operating room - "the only thing
-not searched". The hitherto impassive Mayfield shows the first signs of
-distress. Nita Talbot plays Marsha, Sharon Martin's roommate.
+were used in his operation.
+
+Final clue/twist: Mayfield operates on Heidemann again, ostensibly for medical
+reasons but actually to replace the dissolving sutures. As soon as the
+procedure is completed, police swarm the operating suite and search for the
+removed sutures. Mayfield loses his composure, demanding to be allowed to
+leave the operating room and shoving Columbo in the process. Just as it seems
+that no sutures are to be found and that Mayfield is in the clear, Columbo
+re-enters the doctor's office and reveals that he was puzzled as to why
+Mayfield, always so calm and collected, would have shoved him, then realized
+that Mayfield used the scuffle to rid himself of the sutures. Here, Columbo
+pulls the sutures from the pocket of the surgical scrubs he, Columbo himself,
+had worn in the operating room - "the only thing not searched". The hitherto
+impassive Mayfield shows the first signs of distress. Nita Talbot plays
+Marsha, Sharon Martin's roommate.
 
 Apart from season 10's "No Time to Die", which had no murderer and is a vast
 divergence from the series formula, this is the only Columbo episode in which
@@ -661,12 +945,31 @@ a murderer fails to kill his intended target.
 Directed by: Hy Averback. Story by: Shirl Hendryx.
 
 :: Ratings
+5 <mikael> [He should have left the incriminating sutures inside Dr. Barry's chest]
+5 <rie>
+5 <atsuki>
+5 <paul>
 
 :: Choice Themes
+how to murder someone and get away with it [Heart surgeon Dr. Barry Mayfield found himself presented with an opportunity to ingeniously get rid of one his senior colleagues that was standing in the way of his career: Dr. Mayfield was called on to perform heart surgery on said colleague. While doing so, he clandestinely replaced the normal sutures to be used with dissolving sutures dyed to look the same. These would have dissolved a few days later and the patient would have died of heart failure that would have been hard to pin on anyone. He would surely have gotten away with it had it not been for the timely intervention of Lieutenant Columbo. Dr. Mayfield also murdered a hospital nurse and a recovered drug addict to cover his tracks.]
+medical occupation [The story is set in a hospital and showcases the working life of doctors and nurses. We even see surgeons at work.]
+anger management issues [Columbo flew off the bat and slammed a coffee pot down on Dr. Mayfield's desk causing the latter to perform open heart surgery.]
 
 :: Major Themes
+doctor and patient [Dr. Mayfield and Dr. Hiedemann became a stereotypical doctor and patient couple, quarreling about the latter's environment and what was good for him.]
+the desire to advance one's career [Dr. Mayfield tried to commit murder because he wanted to advance his career more quickly. He wanted to announce success in his research project, but Dr. Hiedemann stood in the way.]
+drug abuse [Dr. Mayfield tried to lead Columbo astray by planting purloined morphine bottles in nurse Sharon's apartment so it would seem like she was abusing it or supplying another addict or both.]
+boss and employee [Nurse Sharon was stuck in an awkward situation when she began suspecting that Dr. Barry might be trying to botch his surgery on Dr. Edmund.]
+medical risk taking [The research colleagues Dr. Mayfield and Dr. Hiedemann were at odds over whether to announce their apparent medical breakthrough immediately or wait for the results of more tests. Dr. Mayfield was eager to publish their result. The elder partner, Dr. Hiedemann, had a more cautious attitude, and insisted on performing some additional tests. Dr. Mayfield resorted to an elaborate attempt on Dr. Hiedemann's life in a bid to get his way.]
 
 :: Minor Themes
+husband and wife [Columbo mentioned that his wife was having stomach trouble.]
+coping with having a chronic condition [Dr. Hiedemann had a bad ticker.]
+coping with the death of someone [Sharon's roommate nearly broke down in tears upon being informed of her violent death.]
+illegal drug trade [Dr. Mayfield tried to paint the hospital nurse Sharon as a petty morpheme trafficker.]
+human health condition [Columbo complained of an upset stomach. Columbo had a sneezing fit, perhaps an allergic reaction to the crab meat.]
+overcoming an addiction [Sharon's former love interest was a recovered heroin addict.]
+drug abuse [Dr. Mayfield made it look like Tom, a recovered heroin addict, died of an overdoes of the stuff.]
 
 
 columbo1971e2x07
@@ -679,35 +982,56 @@ The Most Dangerous Match
 1973-03-04
 
 :: Description
-When Chess Grandmaster Emmett Clayton (Laurence Harvey) loses an impromptu
-game to Eastern European champion Tomlin Dudek (Jack Kruschen) the night
-before their championship match, Clayton decides to kill Dudek. The hearing
-impaired Clayton shoves him into a garbage grinder in the basement. Dudek
-survives so Clayton poisons his rival in the hospital before he can regain
-consciousness. Heidi Brühl plays Linda Robinson, who follows in her mother's
-footsteps in looking after Dudek. Lloyd Bochner plays Dudek's accompanying
-coach, Mazoor Berozski. Final clue/twist: Columbo learns that Dudek's injuries
-were caused by the fall into the grinder rather than by the grinder itself,
-and that the machinery automatically shuts off if something falls into it
-while it is in operation. Realizing that someone wanting to kill Dudek would
-merely have had to turn the grinder back on after it shut itself off, Columbo
-concludes that since it was not turned back on it means Dudek’s attacker did
-not know the grinder had shut itself off. This in turn means the culprit must
-be deaf.
+When Chess Grandmaster Emmett Clayton loses an impromptu game to Eastern
+European champion Tomlin Dudek the night before their championship match,
+Clayton decides to kill Dudek. The hearing impaired Clayton shoves him into a
+garbage grinder in the basement. Dudek survives so Clayton poisons his rival
+in the hospital before he can regain consciousness. Heidi Brühl plays Linda
+Robinson, who follows in her mother's footsteps in looking after Dudek. Lloyd
+Bochner plays Dudek's accompanying coach, Mazoor Berozski.
+
+Final clue/twist: Columbo learns that Dudek's injuries were caused by the fall
+into the grinder rather than by the grinder itself, and that the machinery
+automatically shuts off if something falls into it while it is in operation.
+Realizing that someone wanting to kill Dudek would merely have had to turn the
+grinder back on after it shut itself off, Columbo concludes that since it was
+not turned back on it means Dudek’s attacker did not know the grinder had shut
+itself off. This in turn means the culprit must be deaf.
 
 This is one of two episodes (the other is season 10's "A Bird in the Hand...")
 in which Columbo himself is present at a victim's death.
 
-Directed by: Edward M. Abroms. Story by: Richard Levinson, & William Link;,
+Directed by: Edward M. Abroms. Story by: Richard Levinson, William Link,
 Jackson Gillis.
 
 :: Ratings
+5 <rie>
+4 <mikael>
+5 <paul>
+5 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [Emmett Clayton realized he was about to loose to Tomlin Dudek in a fated chess game and therefore tried to dispose of his rival in the following seemingly clever way: He would trick Tomlin into writing a farewell note in his native language then push him into a garbage grinder in the basement. Alas, being deaf he failed to notice that the garbage grinder did not start. Even so he might have gotten away with it had it not been for the ever-pesky Lieutenant Columbo.]
 
 :: Major Themes
+the desire for fame [Emmett was so driven by his need to be the best chess player that he stooped to murder his rival when it became apparent that he was about to be beaten.]
+lesson in humility [Tomlin administered a sorely needed lesson in humility to the puffed up chess master Emmett, after gorging himself on escargot at a french restaurant.]
+pride goes before a fall [Emmett was arrogant beyond belief regarding his chess abilities, and had two major setbacks in the story: First he was defeated by Tomlin in an impromptu game at a French restaurant. Later he was distracted by Columbo and lost to a novice player in a few opening moves.]
+coping with a disability [Emmett Clayton being deaf factored prominently into the plot.]
+tabletop games [The story concerns a chess master who murders his opponent the night before their high profile match was scheduled to take place. Columbo was playing checkers with the veterinarian.]
+competitiveness [Emmet Clayton was an extraordinarily competitive chess player.]
+pride [The chess master Emmett Clayton murdered his rival Tomlin Dudek rather than losing to him in their big match, and taking a resulting hit in his pride. Emmett also delighted in showing off his skills by playing eight decidedly inferior chess players at once.]
 
 :: Minor Themes
+gastronomy [The snail eating habit of the French was on display when Tomlin demonstrated his weakness for this culinary delight.]
+medical occupation [Tomlin was treated by Dr. Sullivan, among other medical professionals, after being unceremoniously thrown into a garbage grinder. Columbo took his unnamed Basset hound to the vet for treatment.]
+master and pet [Columbo took his unnamed Basset hound to the vet for treatment.]
+husband and wife [Columbo mentioned that his wife was away.]
+human health condition [Tomlin Dudek was under the care of a personal physician for his raging diabetes and also circulatory problems.]
+old flames [Emmett interacted with his ex-fiancée, Linda.]
+anger [Emmett tore out his hearing aid and smashed it to smithereens when he was defeated at chess by Tomlin.]
+boss and employee [Tomlin had an entourage of attendants that saw to his various needs, including a personal physician and a coach.]
+cracking under pressure [The chess master Emmett Clayton made it look like Tomlin bugged out and flew to Mexico to avoid a humiliating defeat to him in their upcoming big match.]
 
 
 columbo1971e2x08
@@ -721,20 +1045,19 @@ Double Shock
 
 :: Description
 Flamboyant television chef Dexter Paris and his identical twin brother,
-conservative banker Norman (both played by Martin Landau), are supposedly not
-talking to one another. But both disapprove that their uncle Clifford Paris
-(Paul Stewart) has become engaged to young, beautiful Lisa Chambers (Julie
-Newmar). One of the brothers kills uncle Clifford by dropping an electric
-mixer into the bathtub while he is bathing, electrocuting him. The body is
-moved to the gym to make it seem like he had a heart attack while using an
-exercise bike. Clifford's lawyer, Michael Hathaway (Tim O'Connor) reveals to
-the twins that a new will exists, one which he is willing to "lose" for a
-price. However, Chambers, who became fearful when Columbo questioned her, also
-has a copy of the will, and thus she is murdered too. Unlike most Columbo
-episodes, this has a whodunit element which is not resolved until the end of
-the episode. Dabney Coleman plays Columbo's colleague, Detective Murray.
-Jeanette Nolan plays Mrs. Peck, a sharp-tongued, fastidious, loyal housekeeper
-who is appalled by the "terrible mess" Columbo makes in the house.
+conservative banker Norman, are supposedly not talking to one another. But
+both disapprove that their uncle Clifford Paris has become engaged to young,
+beautiful Lisa Chambers. One of the brothers kills uncle Clifford by dropping
+an electric mixer into the bathtub while he is bathing, electrocuting him. The
+body is moved to the gym to make it seem like he had a heart attack while
+using an exercise bike. Clifford's lawyer, Michael Hathaway reveals to the
+twins that a new will exists, one which he is willing to "lose" for a price.
+However, Chambers, who became fearful when Columbo questioned her, also has a
+copy of the will, and thus she is murdered too. Unlike most Columbo episodes,
+this has a whodunit element which is not resolved until the end of the
+episode. Dabney Coleman plays Columbo's colleague, Detective Murray. Jeanette
+Nolan plays Mrs. Peck, a sharp-tongued, fastidious, loyal housekeeper who is
+appalled by the "terrible mess" Columbo makes in the house.
 
 Final clue/twist: The audience has seen one of the twin brothers commit the
 murder, but does not know which one. During much of the episode both twins try
@@ -746,16 +1069,43 @@ the dead body out of the bathtub and prop it up on a stationary bike, he
 realizes the brothers must have worked together. When confronted, Norman
 admits to what they did, while Dexter screams at him to shut up.
 
-Directed by: Robert Butler. Story by: Jackson Gillis,, Richard Levinson, &
-William Link;, Steven Bochco.
+Directed by: Robert Butler. Story by: Jackson Gillis, Richard Levinson,
+William Link, Steven Bochco.
 
 :: Ratings
+3 <rie>
+2 <mikael> [several plot malfunctions]
+4 <paul>
+5 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [Identical twins Dexter and Norman came up with the following foolproof-seeming scheme to murder their rich uncle before he got married and left his nephews without inheritance: One of them would electrocute him in his bath so it would look like heart attack and the other would stand by to immediately replace the fuse that would invariable blow. Furthermore, one of them provided the other with an alibi by leaving in the other's guise beforehand. They might have gotten away with it had it not been for the ever-pesky Lt. Columbo.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with solving the following alleged murder mystery: Did a wealthy old man in fine physical condition for his age die of natural causes or was he done in by a greedy heir or two?]
+appearances can be deceiving [Columbo acted as an uncouth dumb-klutz getting cigar ashes all over the floor and breaking a prized pitcher in the beginning. Later he broke a television set and was thrown out on his ear for being cloddish. He therefore caught the snickering twins somewhat unawares when he used his laser-focused mind to piece together their nefarious plot, and got the better of them.]
+greedy heir [The two twins were after their rich uncle's estate, unawares that he had already bequeathed it in a will to his young fiancée. By contrast, Lisa Chambers was remarkably uninterested in money.]
+engaged couple [Mr. Clifford, a wealthy old man who was young at heat, was engaged to a woman, Lisa Chambers, who was young enough to be his granddaughter, according to his longtime housekeeper, Mrs. Peck.]
+young and old romance [Mr. Clifford, a wealthy old man who was young at heat, was engaged to a woman, Lisa Chambers, who was young enough to be his granddaughter, according to his longtime housekeeper, Mrs. Peck.]
+identical twins [Identical twins Dexter and Norman hated each other and hadn't spoken for 20 years until they saw fit to commit murder together.]
+uncle and nephew [The two twins were after their rich uncle's estate, unawares that he had already bequeathed it in a will to his young fiancée.]
+parricide [Identical twins Dexter and Norman knocked off their rich uncle before he got married and left his nephews without inheritance.]
+sibling rivalry [Identical twins Dexter and Norman were apparently estranged and at each other's throats.]
+cooking [The story's villain Norman hosted a television cooking program, in which Columbo was invited to partake.]
+coping with the death of a lover [Lisa Chambers was shocked to discover the freshly deceased body of her aged fiancé Mr. Clifford on an exercise bike.]
+coping with a problematic person [The housekeeper Mrs. Peck was driven to her wit's end by Columbo and his antics.]
 
 :: Minor Themes
+human regular activity [Mr. Clifford and Lisa Chambers were enthusiastic about sports and fitness.]
+coping with aging [Mr. Clifford over-compensated for his advanced age by engaging in physical activity befitting of a man half his age.]
+female sexuality [Lisa Chambers' unusual libido and interest in the dried up bodies of septuagenarians was pointedly illustrated.]
+fencing [The elderly Mr. Clifford put his vitality on display by fencing with an old friend in the opening scene.]
+master and servant [The fastidious Mrs. Peck was Mr. Clifford's housekeeper of 33 years.]
+husband and wife [Columbo revealed that his wife cooks all of the TV chef Dexter's recipes.]
+problem gambling [Norman had racked up $37,500 in gambling debts in Vegas.]
+legal occupation [Mr. Hathaway, the attorney for Mr. Clifford's estate, proved himself to be exceedingly corrupt when he offered to procure and destroy Lisa's copy of Mr. Clifford's will.]
+gold digging [Lisa Chambers was suspected of being a gold digger. Evidence proved her to be nothing of the kind in the fullness of the plot.]
+human characters in contrast [The flamboyant television chef Dexter was compared and contrasted with his twin brother, the conservative banker Norman.]
 
 
 columbo1971e3x01
@@ -768,35 +1118,56 @@ Lovely but Lethal
 1973-09-23
 
 :: Description
-Cosmetics queen Viveca Scott (Vera Miles) has developed a seemingly magic
-wrinkle remover, but her former lover, Karl Lessing (Martin Sheen), a chemist
-for her company, knows the formula and intends to sell it to Scott's rival,
-David Lang (Vincent Price). Lessing refuses to sell it back to her at any
-price, and when he taunts Scott, she bludgeons him to death and covers up her
-tracks as best she can. Lang's secretary, Shirley Blaine (Sian Barbara Allen),
-has been giving information to Scott about his operation, and, knowing about
-Lessing's negotiations with Lang, she attempts to blackmail Scott. So Scott
-kills her too. Final clue/twist: Columbo notices Viveca itching and, as he
-suffers in the same way, he realizes they both have poison ivy and must have
-contacted it from the same source. Scott suspects the wrinkle remover is
-responsible for her itching. However, Columbo tells her the poison ivy was
-actually on the slide of Lessing's microscope, shards of which they both
-touched – he while examining the crime scene, while she could only have done
-it around the time that Lessing was killed.
+Cosmetics queen Viveca Scott has developed a seemingly magic wrinkle remover,
+but her former lover, Karl Lessing, a chemist for her company, knows the
+formula and intends to sell it to Scott's rival, David Lang. Lessing refuses
+to sell it back to her at any price, and when he taunts Scott, she bludgeons
+him to death and covers up her tracks as best she can. Lang's secretary,
+Shirley Blaine, has been giving information to Scott about his operation, and,
+knowing about Lessing's negotiations with Lang, she attempts to blackmail
+Scott. So Scott kills her too.
 
-There is a sly reference to the film Psycho, in which Miles appeared, when
-Scott claims to Columbo that she "couldn't even hurt a fly". It is very
-similar to a notable line said by the Norman Bates character in the 1960 film.
+Final clue/twist: Columbo notices Viveca itching and, as he suffers in the
+same way, he realizes they both have poison ivy and must have contacted it
+from the same source. Scott suspects the wrinkle remover is responsible for
+her itching. However, Columbo tells her the poison ivy was actually on the
+slide of Lessing's microscope, shards of which they both touched – he while
+examining the crime scene, while she could only have done it around the time
+that Lessing was killed.
 
-Directed by: Jeannot Szwarc. Story by: Myrna Bercovici;, Jackson Gillis.
+Directed by: Jeannot Szwarc. Story by: Myrna Bercovici, Jackson Gillis.
 
 :: Ratings
+2 <mikael>
+3 <paul> [Viveca Scott's dart pierced photo on the dart board was an excellent touch.]
+4 <atsuki>
 
 :: Choice Themes
 
 :: Major Themes
+how to murder someone and get away with it [Viveca hatched a clever plot to do away with her blackmailer Shirley: She put a somatic drug or poison in a cigarette and gave it to Shirley just before Shirley was about to drive, causing Shirley to have a fatal accident.]
+what if I killed someone by accident [Viveca, in a sudden burst of rage, battered Karl to death with his own microscope. The rest of the story followed her futile attempts to evade responsibility for this crime as the ever-intrepid Lt. Columbo hounded in on her trail.]
+boss and employee [Karl was employed at Viveca's firm as a chemist, but double crossed her and tried to blackmail her. Cosmetics company owner David Lang was betrayed by his secretary, Shirley, who was angling for a cushy executive position from his rival.]
+betrayal [Karl betrayed his boss and former lover, Viveca, by blackmailing her over a secret chemical formula only he knew. David Lang was betrayed by his own secretary who was supplying a rival with confidential information.]
+blackmail [Karl tried to blackmail Viveca into giving him money, partnership, and maybe marriage. Shirley tried to blackmail Viveca into giving her a cushy executive job.]
+the lust for gold [Various people wanted to get rich, by fair means or foul, off of the supposed miracle cream that made wrinkles literally vanish.]
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: Who had battered a corporate chemist to death with his own microscope?]
+rivalry [Cosmetics company owners Viveca Scott and David Lang were rivaling for who would bring the miracle wrinkle remover cream to market. Their attitudes toward one another at the fashion show made the competitive nature of their relationship clear.]
+the desire to be beautiful [The gracefully aging Viveca Scott was the public face for the cosmetics company she owned and ran. In her person was symbolized the struggle to keep one's beauty through the use of cosmetics. Her company was developing a miracle cream that would be coveted by aging women around the world.]
+coping with aging [The gracefully aging Viveca Scott was the public face for the cosmetics company she owned and ran. In her person was symbolized the struggle to keep one's beauty through the use of cosmetics. Her company was developing a miracle cream that would be coveted by aging women around the world.]
+rejuvenation technology [A novelty of the story was the miracle cream that made wrinkles literally disappear for a day.]
+the business world [The viewer is show how the rivaling cosmetics company owners, Viveca and David, were both using every dirty trick in the book to be first to bring a miracle wrinkle remover cream to market.]
 
 :: Minor Themes
+the fashion industry [Viveca attended a fashion show, complete with runway models.]
+husband and wife [Columbo revealed that his wife was a user of Beauty Mark cosmetics, and later implied she could use a stint at the fat farm.]
+photography [Columbo pestered Viveca at a fashion photo shoot. The shoot was of an acoustic guitar holding, novelty sunglasses wearing model who was sitting on an ivy swing.]
+alcohol abuse [Dr. Murcheson had a drinking problem.]
+the dangers of smoking [Columbo gently admonished the Shirley for her excessive smoking.]
+the desire to advance one's career [The secretary Shirley Blaine wanted a leg up in the business and tried to blackmail Viveca into getting it.]
+chemicals [The corporate chemist Karl Lessing invented a miracle cream that made wrinkles literally vanish. Karl kept the chemical formula secret, by never writing it down.]
+old flames [Viveca Scott flew into a rage and bludgeoned her former lover, Karl Lessing, to death with his own microscope.]
+
 
 
 columbo1971e3x02
@@ -809,19 +1180,18 @@ Any Old Port in a Storm
 1973-10-07
 
 :: Description
-Wine connoisseur Adrian Carsini (Donald Pleasence) runs a small winery
-specializing in unprofitable but prized wines. He is about to be named the
-wine industry's Man-of-the-Year. His half-brother, Rick (Gary Conway), only
-wants to spend money on various hobbies and interests like sports and fast
-cars and has also been married several times. When Rick gets tired of Adrian's
-indulgences, he announces his decision to sell the land to mass producers of
-cheap, profitable wines. Adrian knocks him unconscious and leaves him to die
-in an airtight wine cellar. He travels to New York to accept the award and
-attend wine auctions, at the same time establishing his alibi. Upon his
-return, he concocts a scuba diving accident to explain Rick's death by
-suffocation. Julie Harris plays Adrian's formidable secretary, who realizes
-that Columbo suspects Carsini of killing his brother, and has plans of her own
-for Carsini.
+Wine connoisseur Adrian Carsini runs a small winery specializing in
+unprofitable but prized wines. He is about to be named the wine industry's
+Man-of-the-Year. His half-brother, Rick, only wants to spend money on various
+hobbies and interests like sports and fast cars and has also been married
+several times. When Rick gets tired of Adrian's indulgences, he announces his
+decision to sell the land to mass producers of cheap, profitable wines. Adrian
+knocks him unconscious and leaves him to die in an airtight wine cellar. He
+travels to New York to accept the award and attend wine auctions, at the same
+time establishing his alibi. Upon his return, he concocts a scuba diving
+accident to explain Rick's death by suffocation. Julie Harris plays Adrian's
+formidable secretary, who realizes that Columbo suspects Carsini of killing
+his brother, and has plans of her own for Carsini.
 
 Final clue/twist: Columbo realizes Carsini had locked Rick in the airtight
 wine cellar with the air conditioning turned off, and realizes further that
@@ -837,15 +1207,38 @@ Carsini is caught in the act by Columbo and confesses, expressing relief that
 at least he does not any more have to deal with his secretary, who had guessed
 the truth and was pressuring him to marry her.
 
-Directed by: Leo Penn. Story by: Larry Cohen;, Stanley Ralph Ross.
+Directed by: Leo Penn. Story by: Larry Cohen, Stanley Ralph Ross.
 
 :: Ratings
+5 <mikael>
+5 <atsuki>
+5 <paul>
 
 :: Choice Themes
+how to murder someone and get away with it [Having knocked Rick unconscious in a fit of rage, Adrian quickly improvised the following device for disposing of his troublesome half-brother: He left Rick to die of asphyxiation in an airtight wine cellar, then dressed Rick's corpse in diving gear and dumped in in the ocean so that it would seem like Rick had succumbed to a diving accident. This was carefully timed so that the actual death occurred while Adrian was out of town with an alibi. Alas, the ever-intrepid Lt. Columbo soon put two and two together and proceeded to snare the homicidal oenophile in a fiendish little trap.]
+gastronomy [As puntifically alluded to in the title, the plot turns on subtle properties of fine old wines. Lt. Colombo had to learn this craft, to an extent, in order to catch the murderer.]
 
 :: Major Themes
+what if I were in a tight spot [Adrian, in a sudden burst of rage, knocked Rick unconscious with the butt of a trophy cup. Having thus crossed the line to serious felony, he went all in and left Rick to die of asphyxiation in an airtight wine cellar.]
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with solving the following murder mystery: Did Rick Carsini really die in an uncharacteristic diving accident, or was there foul play afoot?]
+brother and brother [Adrian was at odds with his half-brother Rick, and ultimately killed Rick to prevent him from selling the family vineyards which Adrian held so dear.]
+fratricide [Adrian killed his half-brother Rick to prevent him from selling the family vineyards which Adrian held so dear.]
+the desire for prestige [Adrian Carsini was motivated above all, one gathers, by the status that came with being owner of a highly regarded winery. Much was made of Adrian being self-satisfied to named the wine industry's Man-of-the-Year.]
+pleasure in eating and drinking [Adrian was over-the-top passionate about wines.]
+boss and employee [Adrian deliberately kept a professional distance from his longtime secretary, Karen, who had something more than a professional interest in him.]
 
 :: Minor Themes
+humility [Lieutenant Columbo made the following self-deprecating remarks: he claimed that 1) he was not very good with details, and 2) his handwriting was so bad he should have been a doctor.]
+what it is like on a passenger flight [It was noteworthy that there was a live pianist in Adrian's first class flight to New York.]
+engaged couple [Rick and Stacey planned to marry in Acapulco.]
+coping with a loved one being missing [Stacey went to the police to report her lover, Rick, had been missing for three days.]
+coping with the death of a lover [Stacey was emotionally overwhelmed upon being informed of her fiancé Rick's death in an apparent scuba diving mishap.]
+snobbishness [The winery owner Adrian Carsini was the epitome of a wine snob.]
+passion for vehicles [It was said that Rick loved his Ferrari more than he did his girlfriend.]
+husband and wife [Columbo called his wife from Adrian's winery to check whether it was last Tuesday that they'd gone on a picnic. Columbo's wife wasn't able to attend the fancy dinner on account that they couldn't secure a babysitter.]
+anger [Adrian threw a temper tantrum at the restaurant upon being served a spoiled wine.]
+unrequited love [Adrian responded with cold indifference when his loyal secretary of 12 years, Karen, let her true feeling for him be know.]
+blackmail [Karen tried to blackmail Adrian into marrying her.]
 
 
 columbo1971e3x03
@@ -858,42 +1251,63 @@ Candidate for Crime
 1973-11-04
 
 :: Description
-Harry Stone (Ken Swofford), a campaign manager for Nelson Hayward (Jackie
-Cooper), is coercing the womanizing senatorial candidate  to end his affair
-with his wife Vickie (Joanne Linville)'s personal secretary Linda (Tisha
-Sterling), which Stone regards as too risky during a campaign. Stone is also
-the mastermind of a publicity stunt that involves fabricating death threats
-against Hayward, to promote his tough stance against crime. Hayward uses this
-to his advantage: he lures Stone to his own beach house (while driving
-Hayward's car and wearing Hayward's coat), where the candidate shoots and
-kills Stone, making it look like a case of mistaken identity at the hands of
-the phantom assassins. Final clue/twist: Hayward, realizing that Columbo is
-coming closer to solving the murder, stages a phony assassination attempt on
-himself. He fires a silenced gun through a balcony window into his private
-hotel room. He later gets rid of the gun. Hours later he returns to the room,
-ignites a firecracker to mimic a gunshot, and claims that someone has just
-shot at him from outside. When the police express shock at the brazenness of
-the alleged shooter, he feigns outrage at them doubting his word, and demands
-that the bullet be removed from the wall and analyzed. Columbo reveals that
-the ballistics of the bullet are already in, and that it indeed was fired from
-the murder weapon. He explains that after Hayward had been alone in the room
-(a time when he ostensibly was making phone calls), Columbo had searched it
-and found the hole in the window and the bullet in the wall. He had done this
-hours before Hayward claimed someone had just shot at him.
+Harry Stone, a campaign manager for Nelson Hayward, is coercing the womanizing
+senatorial candidate  to end his affair with his wife Vickie's personal
+secretary Linda, which Stone regards as too risky during a campaign. Stone is
+also the mastermind of a publicity stunt that involves fabricating death
+threats against Hayward, to promote his tough stance against crime. Hayward
+uses this to his advantage: he lures Stone to his own beach house (while
+driving Hayward's car and wearing Hayward's coat), where the candidate shoots
+and kills Stone, making it look like a case of mistaken identity at the hands
+of the phantom assassins.
 
-Joanne Linville plays Hayward's wife. A young Katey Sagal has a small role as
-a secretary. Her father, Boris Sagal, directed the episode.
+Final clue/twist: Hayward, realizing that Columbo is coming closer to solving
+the murder, stages a phony assassination attempt on himself. He fires a
+silenced gun through a balcony window into his private hotel room. He later
+gets rid of the gun. Hours later he returns to the room, ignites a firecracker
+to mimic a gunshot, and claims that someone has just shot at him from outside.
+When the police express shock at the brazenness of the alleged shooter, he
+feigns outrage at them doubting his word, and demands that the bullet be
+removed from the wall and analyzed. Columbo reveals that the ballistics of the
+bullet are already in, and that it indeed was fired from the murder weapon. He
+explains that after Hayward had been alone in the room (a time when he
+ostensibly was making phone calls), Columbo had searched it and found the hole
+in the window and the bullet in the wall. He had done this hours before
+Hayward claimed someone had just shot at him.
 
-Directed by: Boris Sagal. Story by: Larry Cohen;, Irving Pearlberg,, Alvin R.
-Friedman,, Roland Kibbee, & Dean Hargrove.
+Directed by: Boris Sagal. Story by: Larry Cohen, Irving Pearlberg, Alvin R.
+Friedman, Roland Kibbee, Dean Hargrove.
 
 :: Ratings
+5 <atsuki>
+5 <paul>
+3 <mikael>
 
 :: Choice Themes
+how to murder someone and get away with it [The politician Nelson Hayward shot his campaign manager dead in cold blood and tried make it look like a botched mob hit aimed at himself. He would have surely gotten away with it too had the ever-persistent Lt. Columbo not been on the case.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lieutenant Columbo was tasked with the following murder mystery: Did a mob assassin mistake the campaign manager of a tough-on-crime politician for the politician himself and shot him dead, or was something still more foul afoot?]
+professional politics [The villain of the story Nelson Hayward running for the United States Senate in a special election.]
+man and mistress [Nelson Hayward wanted to have his cake and eat it too when it came to carrying on a potentially scandalizing relationship with his wife's personal secretary, Linda Johnson, while running for a seat in the United States Senate.]
+husband and wife [Nelson and Vickie Hayward. Nelson was running around with Vickie's personal secretary right under her nose. Columbo let it be know that his wife was an avid supporter of Hayward in his campaign for the United States Senate. Columbo, meanwhile, was undecided.]
+extramarital affair [Nelson was running around with his wife Vickie's personal secretary right under her nose.]
+romantic love [The Senatorial candidate Nelson Hayward resorted to murder to be with his mistress, Linda. Linda professed her love for Nelson to his campaign manager.]
+love triangle [Nelson was running around with his wife Vickie's personal secretary right under her nose.]
 
 :: Minor Themes
+organized crime [The politician Nelson Hayward shot his campaign manager dead in cold blood and tried make it look like a botched mob hit aimed at himself.]
+medical occupation [Columbo was ill at ease in the chair of his stereotypically Italian dentist.]
+racism in society [Columbo's Italian dentist complained of how Italian-Americans were stereotyped as gangsters, and not honest working people, like himself and his police detective patient.]
+humans interacting [Nelson arranged a surprise birthday party for his wife, Vickie.]
+divorce [Vickie threatened to file for divorce before the election, because she sensed that Nelson was being unfaithful.]
+mechanic occupation [A mechanic worked on Columbo's beat up, old Peugeot to get it into a roadworthy state.]
+the game of poker [Some cops were sitting around a table, playing poker to pass the time on election night.]
+political apathy in society [A TV newscaster reported how polls showed apathy among college campus voters in regard to the upcoming special election for the United States Senate.]
+electioneering in society [Harry Stone was busy planning and plotting the electoral campaign of the wayward Senatorial candidate Nelson Hayward.]
+false friend [Nelson feigned to be distressed over his dear old friend Harry's death, even though Nelson was the one that had killed him.]
+the importance of reputation [Divorce would have had such negative impact on Nelson's public image that his electoral chance would have been ruined. Harry couldn't let this happen and so tried to blackmail Nelson into leaving his mistress to save his marriage.]
+blackmail [Harry tried to blackmail Nelson into leaving his mistress. Harry mentioned that he "knew where all the bodies were buried" and expected therefore to get his way. Alas, all he got was a bullet.]
 
 
 columbo1971e3x04
@@ -906,10 +1320,10 @@ Double Exposure
 1973-12-16
 
 :: Description
-Dr. Bart Keppel (Robert Culp) is a "motivation research specialist" at Impulse
-Research Labs who has become an expert practitioner of subliminal advertising
-(which involves inserting frames of an advertised product into the reels of a
-film, so viewers' subconscious minds react to what is pictured). Keppel's more
+Dr. Bart Keppel is a "motivation research specialist" at Impulse Research Labs
+who has become an expert practitioner of subliminal advertising (which
+involves inserting frames of an advertised product into the reels of a film,
+so viewers' subconscious minds react to what is pictured). Keppel's more
 lucrative sideline is blackmail: he takes pictures of married clients with
 attractive women he hired to get them in compromising positions. When his
 latest victim, Vic Norris, refuses to be blackmailed and threatens to expose
@@ -921,15 +1335,16 @@ narrating the film as it is playing, but in reality the clients are hearing
 Keppel's voice playing from a tape recorder. When Norris is lured out, Keppel
 shoots him in the building lobby. Keppel has already set in motion a scheme to
 make it seem that the crime was committed by Norris's wife. Keppel's
-projectionist, Roger White (Chuck McCann), then discovers the cuts in the film
-and pieces together Keppel's scheme, forcing Keppel to murder him as well when
-Roger tries to blackmail him. Final clue/twist: Columbo uses Keppel’s
-technique against him. He arranges to splice into a film, which Keppel will
-soon view, many subliminal cuts of images of Columbo closely searching areas
-where the murder weapon must be. On seeing the cuts, an alarmed Keppel rushes
-to his office to make sure the weapon is still where he left it. Columbo is
-waiting there, hidden, and when Keppel retrieves the evidence, Columbo is
-there to seize it.
+projectionist, Roger White, then discovers the cuts in the film and pieces
+together Keppel's scheme, forcing Keppel to murder him as well when Roger
+tries to blackmail him.
+
+Final clue/twist: Columbo uses Keppel’s technique against him. He arranges to
+splice into a film, which Keppel will soon view, many subliminal cuts of
+images of Columbo closely searching areas where the murder weapon must be. On
+seeing the cuts, an alarmed Keppel rushes to his office to make sure the
+weapon is still where he left it. Columbo is waiting there, hidden, and when
+Keppel retrieves the evidence, Columbo is there to seize it.
 
 This episode received the Emmy Award in the category for Outstanding Limited
 Series.
@@ -937,12 +1352,30 @@ Series.
 Directed by: Richard Quine. Story by: Stephen J. Cannell.
 
 :: Ratings
+4 <paul>
+5 <atsuki>
+4 <mikael>
 
 :: Choice Themes
+how to murder someone and get away with it [The high-profile marketing specialist Dr. Bart Keppel drew on his expertise in subliminal advertising to cleverly murder a client who was intent on outing him for the unscrupulous blackmailer that he was. Dr. Keppel later shot dead his own prospective blackmailer. One gathers he would have gotten away with his crimes had it not been for the meddlesome Lt. Columbo.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with solved the following murder mystery: Who shot the businessman, Vic Norris, dead at a water cooler, and why was he so thirsty in the first place?]
+framing someone for a crime [Dr. Keppel went to elaborate lengths to pin Vic Norris' murder on his loving wife, Mrs. Norris.]
+the business world [The story's villain Dr. Bart Keppel ran a cutting-edge, marketing research company that specialized in shaping peoples subconscious desires with subliminal advertising messages.]
+speculative subliminal stimuli [The idea of shaping peoples desires by inserting subconsciously perceived messages into films was a main novelty of the story. Dr. Keppel surgically inserted a "subliminal cut" of an iced tea in his client's promotional video to manipulate the client into going to the water fountain for a drink, where Dr. Keppel summarily shot him dead. Later, Columbo marveled as a film technician showed him a "subliminal cut" of a hamburger in a car racing film. The story culminated with Columbo using "subliminal cuts" in a video to manipulate Dr. Keppel into leading him to the murder weapon.]
+blackmail [Vic was murdered for threatening to expose the story's villain, Dr. Keppel, as the unscrupulous blackmailer that he was. Dr. Keppel killed his own prospective blackmailer rather than leave him around as a potential liability.]
+pride goes before a fall [Dr. Bart Keppel was exceedingly confident in his ability to outwit Lt. Columbo, but the experienced investigator came up with a clever ruse and tricked Keppel into revealing himself the murderer.]
 
 :: Minor Themes
+husband and wife [Mrs. Norris was reluctant to believe Dr. Keppel's allegation that her recently murdered husband, Vic, had been running around with a swimsuit model behind her back.]
+extramarital affair [Dr. Keppel perpetrated the false allegation that Vic had been carrying on with a swimsuit model behind his wife's back. This was to shift attention away from himself in connection with Vic's murder, and onto Vic's wife.]
+what if I were being framed for a crime [Dr. Keppel went to elaborate lengths to pin Vic Norris' murder on his loving wife, Mrs. Norris.]
+human self-esteem need [The projectionist Roger White was studying about real-estate as a means to better his lot in life.]
+coping with having a lousy dead-end job [The projectionist Roger White was studying about real-estate as a means to better his lot in life. Desperate to get out of his lousy current job, he tried to blackmail his employer for $50,000 in starting capital.]
+golf [Columbo threw Dr. Keppel off his game on the golf course.]
+technology [The smoking gun of the mystery unexpectedly turned out to be a caliber conversion sleeve, referred to as a "caliber converter". This is an interesting enough aspect of how firearms work that the episode was mentioned on the Wikipedia article for such modification devices.]
+gastronomy [Columbo commented on the exorbitant price of the Royal lranian beluga caviar with which he had just stuffed his face.]
 
 
 columbo1971e3x05
@@ -955,21 +1388,21 @@ Publish or Perish
 1974-01-13
 
 :: Description
-Publisher Riley Greenleaf (Jack Cassidy) decides to kill his prolific author
-Alan Mallory (Mickey Spillane), for the insurance and also to keep him from
-defecting to another publisher. He hires ex-con and avid homemade bomb
-enthusiast Eddie Kane (John Chandler) to do the job. While Greenleaf is
-getting drunk at a nearby bar, Kane walks into Mallory's office and shoots
-him. To cover his tracks, Greenleaf then kills Kane with one of his own bombs,
-making it look like an accident. Columbo must discover the link between the
-two crimes. Final clue/twist: Greenleaf hands over an old synopsis to Columbo,
-claiming it was Kane’s, which allegedly proves that Kane had the idea for
-Mallory's latest book, and murdered him out of revenge for Mallory's having
-stolen it. Columbo finds out, however, that the ending of the book was
-actually developed very shortly before the murder, by Mallory and his agent
-(played by Mariette Hartley), to make sure the book was more appealing for a
-Hollywood film adaptation. Kane could not have known the new ending, so the
-synopsis must have been done by Greenleaf.
+Publisher Riley Greenleaf decides to kill his prolific author Alan Mallory,
+for the insurance and also to keep him from defecting to another publisher. He
+hires ex-con and avid homemade bomb enthusiast Eddie Kane to do the job. While
+Greenleaf is getting drunk at a nearby bar, Kane walks into Mallory's office
+and shoots him. To cover his tracks, Greenleaf then kills Kane with one of his
+own bombs, making it look like an accident. Columbo must discover the link
+between the two crimes.
+
+Final clue/twist: Greenleaf hands over an old synopsis to Columbo, claiming it
+was Kane’s, which allegedly proves that Kane had the idea for Mallory's latest
+book, and murdered him out of revenge for Mallory's having stolen it. Columbo
+finds out, however, that the ending of the book was actually developed very
+shortly before the murder, by Mallory and his agent, to make sure the book was
+more appealing for a Hollywood film adaptation. Kane could not have known the
+new ending, so the synopsis must have been done by Greenleaf.
 
 This episode has a split screen of Greenleaf's alibi and Mallory's murder.
 Mariette Hartley's role is similar to the one she played in Season 7's "Try
@@ -980,12 +1413,32 @@ Murder by the Book and Now You See Him...
 Directed by: Robert Butler. Story by: Peter S. Fischer.
 
 :: Ratings
+5 <atsuki>
+4 <paul>
+2 <mikael>
 
 :: Choice Themes
+how to murder someone and get away with it [The publisher Riley Greenleaf arranged for an unhinged war veteran to take out his cash-cow author Alan Mallory. He planned to collect on a life insurance policy on Alan. He also wished to prevent Alan from defecting to a rival publisher. Greenleaf made it look like the war veteran killed Mallory for stealing the war vet's idea for a prospective bestseller set in Vietnam during the war. He would have no doubt gotten away with it not been for the meddlesome Lt. Columbo.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with the following murder mystery: Did an unhinged Vietnam war veteran shoot the famous potboiler novel writer Alan Mallory dead for stealing his idea for a prospective bestseller about the war, or was something still more convoluted afoot?]
+the publishing industry [The plot turns on the publisher Riley Greenleaf trying to get away with having his cash-cow author killed before he could defect to a rival publishing house with a manuscript for a prospective bestseller set in Vietnam during the war.]
+what if I were being framed for a crime [Columbo made it seem like Riley was being framed for Alan's murder as a ploy to lure Riley deeper into his trap.]
+betrayal [The publisher Riley Greenleaf took it personally when word came out that his cash-cow author Alan Mallory was defecting to a rival publishing house.]
+creative writing [Alan Mallory was busy writing the prospective first bestseller about Vietnam, entitled "Sixty Miles to Saigon", when he got shot.]
 
 :: Minor Themes
+human pleasure [The unhinged Vietnam war veteran Eddie Kane was fascinated with explosives.]
+inebriated interaction [Riley deliberately made a drunken scene at the bar and elsewhere to secure his alibi.]
+drunk driving [Riley deliberated hit a Volkswagen van while drunk at the wheel. He was later arrested for being drunk at the wheel while parked in a public space.]
+the Vietnam War [The unhinged explosives enthusiast Eddie Kane was a veteran of the Vietnam Wat. Alan Mallory was writing what was anticipated to become the first bestselling novel about this same war.]
+legal occupation [Riley repeatedly disregarded his attorney's advice about not answering Columbo's various questions.]
+poison murder [Riley took out Eddie with poison laced champagne.]
+human characters in contrast [Columbo ordering chili at a fancy restaurant was compared and contrasted with the publisher industry people ordering dainty dishes.]
+plagiarism [Riley made it look as if Alan Mallory plagiarized the work of a Vietnam war veteran.]
+explosives [The homemade bomb enthusiast Eddie Kane was trying to get his book, entitled "Blow Up Anything in 10 Easy Steps", published.]
+the desire for prestige [Eddie Kane was exceedingly eager to publish his book on explosives seemingly more in order to be known as an expert on the subject than for the money.]
+jealousy [Riley told Alan that Alan would never write for anyone else. Riley then murdered Alan rather than allow him to defect to another publisher.]
 
 
 columbo1971e3x06
@@ -998,18 +1451,16 @@ Mind over Mayhem
 1974-02-10
 
 :: Description
-When Dr. Howard Nicholson (Lew Ayres) threatens to expose Neil Cahill (Robert
-Walker Jr.) for plagiarizing a paper from a recently deceased scientist,
-Neil's father, Dr. Marshall Cahill (José Ferrer), director of a high-tech
-Pentagon think tank, kills Nicholson to protect his son's reputation. He
-programs a cybernetic robot codenamed MM-7 (Robby the Robot) to take his place
-overseeing a war exercise. The elder Cahill steals a car from the motor pool
-and drives to Nicholson's house. In the driveway, Cahill runs over Nicholson,
-then carries his body into the house, ransacking it to make it look like a
-burglary. To cover up damage the car received from the impact, Cahill backs
-his own car into it, with many witnesses to the accident. Jessica Walter plays
-Nicholson's wife, who happens to be Neil's psychotherapist. Robby the Robot
-guest stars as MM-7.
+When Dr. Howard Nicholson threatens to expose Neil Cahill for plagiarizing a
+paper from a recently deceased scientist, Neil's father, Dr. Marshall Cahill,
+director of a high-tech Pentagon think tank, kills Nicholson to protect his
+son's reputation. He programs a cybernetic robot codenamed MM-7 to take his
+place overseeing a war exercise. The elder Cahill steals a car from the motor
+pool and drives to Nicholson's house. In the driveway, Cahill runs over
+Nicholson, then carries his body into the house, ransacking it to make it look
+like a burglary. To cover up damage the car received from the impact, Cahill
+backs his own car into it, with many witnesses to the accident. Nicholson's
+wife happens to be Neil's psychotherapist.
 
 Final clue/twist: Columbo realizes early on that Marshall is the likely
 murderer after finding a burned match at Nicholson's home (Nicholson's wife
@@ -1020,16 +1471,44 @@ his love for his son. Columbo frames and arrests the son, which causes the
 father to confess. This episode provides perhaps the most glaring example of
 Columbo using ethically dubious means to secure a murderer’s apprehension.
 
-Directed by: Alf Kjellin. Story by: Robert Specht;, Steven Bochco,, Dean
-Hargrove, & Roland Kibbee.
+Directed by: Alf Kjellin. Story by: Robert Specht, Steven Bochco, Dean
+Hargrove, Roland Kibbee.
 
 :: Ratings
+3 <mikael>
+5 <paul>
+4 <atsuki>
 
 :: Choice Themes
+how to murder someone and get away with it [Research institute director Dr. Marshall Cahill performed the following elaborate plot in order to save his son from scandal and rid himself of Dr. Nicholson: Marshall programmed a robot to do his job while he went to Howard's house and ran him over with a borrowed car. He also made it look like a burglary, and tried to cover his tracks by backing into the borrowed car with his own later on. Thus, covering over the dent made by hitting Dr. Nicholson. He would have undoubtedly gotten away with it not been for the meddlesome Lt. Columbo.]
+father and son [Dr. Marshall Cahill was so obsessed with looking out for his son Neil that he committed murder in order to save the son from disgrace. Later he confessed to the crime only in order to save his son from the murder charge. The plot turns on the director of a prestigious research institute, Dr. Marshall Cahill, electing to protect his beloved son, Neil Cahill, from being exposed as a scientific fraud by the simple expedient of murdering Neil's outer, Dr. Nicholson, before he went to the press.]
+paternal love [In the end, Dr. Marshall Cahill confessed to the murder, which he had indeed committed, to prevent his beloved son from taking the rap.]
 
 :: Major Themes
+law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with the following murder mystery: Was a distinguished scientist killed in a botched burglary, or was he perhaps killed by a cigar smoking manslaughter to keep him from outing a certain research institute's son as a plagiarist and a fraud?]
+scientist occupation [The viewer is shown the day-to-day activities of various scientists at the high-tech Pentagon research institute where the story is mainly set.]
+military related work [Dr. Marshall Cahill was the director of a high-tech Pentagon think tank. We saw various presumably high-ranking military type people performing strategical war games in a command center.]
+benefiting from someone else's work [Neil Cahill was named the Scientist of the Year for a plagiarized "theory of molecular matter". The plot turns on Neil's father resorting to murder to prevent his son from being outed as a fraud.]
+plagiarism [Central to the story was the idea that Neil had cheated in some non-criminal but highly unethical way by taking credit for a discovery that had actually been proposed, though never verified or published, by an older scientist who had died.]
+parental pride [Dr. Marshall Cahill took pride in his son, Neil Cahill, being named Scientist of the Year and resorted to murder to prevent Neil from being outed as a fraud. The elder Cahill said "I'm proud of you" to Neil, and later acknowledged to Columbo that he was proud of his son.]
+robot helper [The comically maladroit MM-7 programmable humanoid robot, who the viewer may recognize as Robby the Robot, was programmed to become Dr. Cahill's unwitting accomplice in the murder of Dr. Nicholson. MM-7 carried out tasks at a computer terminal so that it seemed Howard was there. It additionally understood natural language, could walk a dog, and proved to be a particularly sore loser at chess. In addition, Dr. Marshall Cahill programmed the MM-7 to take his place overseeing a war exercise.]
+second guessing one's self [Neil was torn up inside over having plagiarized the recently deceased Professor Finch's "theory of molecular matter".]
+the desire for prestige [Neil Cahill was so eager to become Scientist of the Year that he plagiarized the recently deceased Dr. Finch's "theory of molecular" matter. The elder Cahill was possibly even more eager for his son, Neil, to win the award, presumably feeling that his son's newly acquired prestige would rub off on himself.]
 
 :: Minor Themes
+World War III [Institute researchers and military men simulated an all out war between the Western and Eastern powers, described as World War III, that ended in a "total defeat" for the Western powers with a 75% mortality rate in the Western hemisphere alone.]
+tabletop games [The MM-7 robot flipped the chess board over in anger after being checkmated by a boy, albeit a boy-genius.]
+mechanic occupation [The auto mechanic Murph was hampered in his efforts to repair an institute car by the presence of Columbo's Basset hound.]
+husband and wife [Dr. Nicholson had a much younger wife, Margaret.]
+young and old romance [Dr. Nicholson had a much younger wife, Margaret.]
+burglary [Dr. Marshall Cahill covered up his killing a fellow scientist by making it look like a botched burglary.]
+master and pet [After picking up his conspicuously unnamed Basset hound from obedience school, Columbo took the creature around with him for the day as he investigated a murder.]
+early computer [Columbo was impressed by the futuristic K-44 mainframe-style computer.]
+human childhood [There was a stereotypical boy-genius, named Steve, working at the institute. The mechanic took him out to see an R-rated movie at Dr. Marshall Cahill's insistent.]
+doctor-patient confidentiality [The psychologist Margaret Nicholson likened her relationship to her patient, Neil, to that of a penitent and priest.]
+medical occupation [Margaret Nicholson was a psychologist.]
+extramarital affair [Columbo uncovered that Neil had been carrying on a liaison with Dr. Nicholson's much younger wife, Margaret.]
+once speculative device [Natural gas powered cars were being tested at the research institute.]
 
 
 columbo1971e3x07
@@ -1042,20 +1521,19 @@ Swan Song
 1974-03-03
 
 :: Description
-Gospel-singing superstar Tommy Brown (Johnny Cash) is hugely successful, but
-he is unable to enjoy the usual benefits of fame and wealth. His zealous wife
-Edna (Ida Lupino) can prove he had committed statutory rape with one of his
-backup singers, Maryann. She watches him carefully when he is touring, and
-even blackmails him into giving all the proceeds from his concerts to her
-ministry. Tommy decides to kill Edna and Maryann. He drugs both women to sleep
-while piloting a small, private plane flying to Los Angeles, then parachutes
-from the plane before it crashes into desert mountains. Brown lands roughly,
-hurting his leg. He hides the parachute and lies down near the burning plane
-wreckage, making it seem like he was thrown clear in a tragic crash caused by
-flying through bad weather. The FAA investigator (John Dehner) is ready to
-rule the crash was an accident. Edna's brother, Luke (Bill McKinney) appeals
-to Columbo to consider the case a possible homicide, based on his mistrust of
-Tommy.
+Gospel-singing superstar Tommy Brown is hugely successful, but he is unable to
+enjoy the usual benefits of fame and wealth. His zealous wife Edna can prove
+he had committed statutory rape with one of his backup singers, Maryann. She
+watches him carefully when he is touring, and even blackmails him into giving
+all the proceeds from his concerts to her ministry. Tommy decides to kill Edna
+and Maryann. He drugs both women to sleep while piloting a small, private
+plane flying to Los Angeles, then parachutes from the plane before it crashes
+into desert mountains. Brown lands roughly, hurting his leg. He hides the
+parachute and lies down near the burning plane wreckage, making it seem like
+he was thrown clear in a tragic crash caused by flying through bad weather.
+The FAA investigator is ready to rule the crash was an accident. Edna's
+brother, Luke appeals to Columbo to consider the case a possible homicide,
+based on his mistrust of Tommy.
 
 Final clue/twist: Columbo’s investigation leads him to conclude that Brown
 must have used a home-made parachute to jump from the plane in midair, which
@@ -1070,15 +1548,40 @@ Columbo, hiding in wait. A relieved Brown asks Columbo if he's afraid to be
 alone with a killer; Columbo plays Brown's songs and says anyone who sings
 that well can't be all bad.
 
-Directed by: Nicholas Colasanto. Story by: Stanley Ralph Ross;, David Rayfiel.
+Directed by: Nicholas Colasanto. Story by: Stanley Ralph Ross, David Rayfiel.
 
 :: Ratings
+3 <mikael>
+4 <atsuki>
+5 <paul>
 
 :: Choice Themes
+how to murder someone and get away with it [When Tommy Brown was blackmailed by his wife Edna over having slept with an underage girl in the past, he came up with the following elaborate plot to rid himself of both the wife and the victim: During a private plane flight he would personally pilot, he would fake getting lost and losing control to crash the plane. In fact, he drugged the girls and jumped himself to safety with a homemade parachute before the impact.]
+spouse murder [When Tommy Brown was blackmailed by his wife Edna over having slept with an underage girl in the past, he came up with an elaborate plot to rid himself of both the wife and the victim.]
 
 :: Major Themes
+sexual crime [Tommy Brown was seemingly guilty of statutory rape on account of having had sex with a 16-year old in motels. He was being blackmailed over it and resorted to killing the blackmailers.]
+blackmail [Edna and Maryann pulled Tommy's strings by threatening to out him for statutory rape since they had evidence that he had slept with Maryann when she was 16.]
+husband and wife [Tommy was stranded with a domineering wife who wouldn't let him sleep around with his adoring young fans.]
+law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with the following murder mystery: Was the plane crash that killed Tommy Brown's wife and a gospel singing girl but left himself unscathed really an accident, or was it a carefully staged homicide?]
+controlling partner [Edna was a stereotypically domineering wife to Tommy, who wouldn't let him spend any of the fortune they were collecting on tour or let him sleep around with his adoring young fans.]
+the lust for gold [Tommy Brown murdered his sanctimonious, blackmailing wife to get out from under her yolk and come into control of the fortune they were both contesting for control over.]
+music [The villain of the story Tommy Brown was a famous pop gospel singer.]
+Christianity [Tommy Brown was gospel-singing superstar with a zealously Christian wife who wanted to use their profits to build a $5 million "tabernacle" of worship.]
 
 :: Minor Themes
+boss and employee [Tommy treated Luke as a servant when he ordered Luke to take the guitar on the bus.]
+brother-in-law and brother-in-law [Edna's brother, Luke, did not trust or get along with her husband Tommy one bit.]
+brother and sister [Luke was convinced that his sister, Edna, had been murdered by Tommy. They interacted passingly in the scene where Edna admonished Tommy for sleeping with Maryann.]
+romantic jealousy [Edna scowled at Tommy as he was being mobbed by a throng of young female fans.]
+journalism [A TV newsman was reporting from the scene of the plane crash.]
+fear of flying [Columbo was visibly shaken upon exiting the two seater aircraft, after previously having revealed that his ears pop in an elevator and he "didn't even like being this tall".]
+the art of salesmanship [The funeral director pulled out all the stops in his sales pitch to Columbo.]
+human occupational activity [Columbo consulted with a chatty, old seamstress about the number of square yards a certain roll of fabric measured.]
+emotional attachment to a thing [Tommy cherished his expensive guitar. In what seemed an unusual move, he had Luke take the guitar to Los Angeles by bus, rather than take it himself aboard the plane, which only Tommy knew was destined to crash in the mountains.]
+the Korean War [It came to light that both Columbo and Tommy had served in the Korean War; Columbo as military police, and Tommy as a parachute rigger in the Air Force.]
+military related work [Colonel Mayehoff was proud that he remembered everyone who had served for him in the Air Force.]
+remorse [In the end, Tommy Brown expressed regret over having murdered his wife and backup singer, and confided in Columbo that would have confessed eventually had he not been caught.]
 
 
 columbo1971e3x08
@@ -1091,14 +1594,14 @@ A Friend in Deed
 1974-05-05
 
 :: Description
-When Hugh Caldwell (Michael McGuire) accidentally kills his wife during a
-fight, he calls his friend and neighbor, LAPD Deputy Commissioner Mark
-Halperin (Richard Kiley). Halperin helps Caldwell cover up the crime, then
-forces him to assist the following night in the drowning-murder of Halperin's
-own wife (Rosemary Murphy), a wealthy heiress whose money Halperin covets.
-Halperin arranges the situation to make it seem that a cat burglar (Val
-Avery), who has recently been active in their neighborhood, is the culprit in
+When Hugh Caldwell accidentally kills his wife during a fight, he calls his
+friend and neighbor, LAPD Deputy Commissioner Mark Halperin. Halperin helps
+Caldwell cover up the crime, then forces him to assist the following night in
+the drowning-murder of Halperin's own wife, a wealthy heiress whose money
+Halperin covets. Halperin arranges the situation to make it seem that a cat
+burglar, who has recently been active in their neighborhood, is the culprit in
 both killings, and orders Columbo to tailor his investigation to that theory.
+
 Final clue/twist: Columbo enlists the burglar's help in trapping the true
 murderers. Columbo creates fake files for the "burglary investigation" on
 which Halperin had ordered him to concentrate. While perusing the file,
@@ -1118,12 +1621,39 @@ and is seen only as a corpse. The actress playing the part is unknown.
 Directed by: Ben Gazzara. Story by: Peter S. Fischer.
 
 :: Ratings
+4 <mikael>
+5 <atsuki>
+5 <paul> [Haven't you ever heard of future shock? Future shock!]
 
 :: Choice Themes
+how to murder someone and get away with it [When Hugh came to Mark for help after Hugh had accidentally killed his wife in a rage, Mark quickly hatched a plot to rid himself of his own disfavored life partner: He simply strangled her in her bath, then cajoled Hugh into making it look like the robber had come back to silence a witness.]
+spouse murder [When Hugh came to Mark for help after Hugh had accidentally killed his wife in a rage, Mark quickly hatched a plot to rid himself of his own disfavored spouse.]
 
 :: Major Themes
+burglary [The first murder was framed as a burglary gone wrong, and the crime was pinned on a professional burglar who mentioned three other burglaries that he had, in fact, committed.]
+what if I killed someone by accident [Hugh had strangled his wife to death in a blind rage and was pondering whether to go to the police or try and cover up the killing.]
+law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with the following murder mystery: Was Hugh's wife really slain by a burglar who later came back to silence LAPD Deputy Commissioner Mark's wife for being a witness, or was there a conspiracy afoot?]
+friendship [Mark seemed like a true friend to Hugh when he helped Hugh cover up the accidental killing of his wife. Alas, Mark had the ulterior motive of seeing an opportunity to use Hugh to dispose of Mark's own disfavored wife.]
+husband and wife [Mark and his wife went through the motions of being affectionate all the while sniping sarcastically at each other. Then Mark killed her to get her heiress money.]
+covering up a crime to save a friend [Mark seemed like a true friend to Hugh when he helped Hugh cover up the accidental killing of his wife. Alas, Mark had the ulterior motive of seeing an opportunity to use Hugh to dispose of Mark's own disfavored wife.]
+gold digging [Mark coveted his wife's wealth. He hatched a plot to kill her and inherit her fortune before she succeeded in giving the lion's share of it away to charity.]
+framing someone for a crime [Richard tried to pin two murders on an area burglar.]
+what if I were being framed for a crime [Local burglar Artie Jessup was being framed for the murders of two women.]
+blackmail [Columbo staged for Artie to blackmail Hugh as part of a plot to expose Richard's involvement in the murders.]
 
 :: Minor Themes
+romantic infidelity [It was an open secret that Janice Caldwell had penchant for running around with young men behind her husband's back.]
+romantic jealousy [Hugh killed his wife Janice in a jealous rage.]
+gambling [Mark's wife made snide remarks about not having to cut him a check for once, after he returned home from an evening of unusually successful gambling.]
+generosity [Margaret had been donating enough of her fortune to charity to cause alarm with Richard.]
+charitable organization [Margaret was donating to a charity that helps ex-cons.]
+coping with the death of a spouse [Hugh genuinely grieved for his wife, whom he'd strangled in a rage. Mark, by contrast, shed alligator tears for his wife, whom he'd drown in the bathtub.]
+helping a stranger in need [A good Samaritan drove Columbo to the gas station when his car broke down without it ever coming to light that Columbo was on the LAPD.]
+funeral rite [Hugh and Mark attended Janice's closed casket funeral.]
+the art of salesmanship [A used car salesman tried to make Columbo an offer he couldn't refuse on a trade in for his beat up, old Peugeot.]
+anger [The career burglar Artie Jessup had a short fuse. He flew off the handle at his wife. He again did so when Columbo came to question him about two recent murders.]
+remorse [Hugh was remorseful over having strangled his wife in a jealous rage.]
+second guessing one's self [Hugh expressed regret that he hadn't just gone to the police in the first place to report he'd killed his wife in a rage.]
 
 
 columbo1971e4x01
@@ -1136,28 +1666,25 @@ An Exercise in Fatality
 1974-09-15
 
 :: Description
-Renowned exercise guru Milo Janus (Robert Conrad) runs a chain of successful
-gyms. His charm is not enough to calm the anger of franchise owner Gene
-Stafford (Philip Bruns), who has found out how Janus overcharges his
-franchises for equipment and supplies, depositing the profits in offshore bank
-accounts. When Stafford threatens to organize other victims of Janus and to go
-public with a class action suit, Janus kills him. He makes it look like
-Stafford was working out, trying to lift weights too heavy for him, with the
-result being that the barbell fell and crushed his windpipe. Collin Wilcox
-plays Ruth Stafford (the victim's distraught and sometimes boozy ex-
-wife/widow, who thoroughly mistrusts Janus), Gretchen Corbett plays Janus's
-secretary, and Pat Harrington, Jr. plays a shifty business associate of Janus.
+Renowned exercise guru Milo Janus runs a chain of successful gyms. His charm
+is not enough to calm the anger of franchise owner Gene Stafford, who has
+found out how Janus overcharges his franchises for equipment and supplies,
+depositing the profits in offshore bank accounts. When Stafford threatens to
+organize other victims of Janus and to go public with a class action suit,
+Janus kills him. He makes it look like Stafford was working out, trying to
+lift weights too heavy for him, with the result being that the barbell fell
+and crushed his windpipe.
 
 Final clue/twist: From the way the shoelaces on the corpse were tied, Columbo
 deduces that Stafford did not tie his own sport shoes. Columbo concludes that
 the murderer must have put the shoes on Stafford’s feet, when he dressed the
 corpse in exercise clothing, and only Janus knew before the discovery of the
-body that Stafford was wearing exercise gear.  Throughout the episode multiple
+body that Stafford was wearing exercise gear. Throughout the episode multiple
 hints to the solution are given (including a sustained close-up of the
 victim's shoes, Columbo tying his own shoes several times, Columbo discussing
 his shoes with other characters, and by a character named "Lacy").
 
-Directed by: Bernard Kowalski. Story by: Larry Cohen;, Peter S. Fischer.
+Directed by: Bernard Kowalski. Story by: Larry Cohen, Peter S. Fischer.
 
 :: Ratings
 
@@ -1178,34 +1705,32 @@ Negative Reaction
 1974-10-14
 
 :: Description
-After years of marriage to his domineering wife, Frances (Antoinette Bower),
-professional photographer Paul Galesko (Dick Van Dyke) decides to kill her. He
-hires ex-con Alvin Deschler (Don Gordon) to rent an isolated ranch house.
-Galesko persuades his wife to accompany him there and she grudgingly agrees.
-He ties her to a chair, photographs the scene, and then shoots her. He sets
-things up so it will appear he is elsewhere when the pictures were taken.
-Galesko meets Deschler at a junkyard. After shooting Deschler with a revolver,
-Galesko shoots himself in the leg with the pistol used in the first murder,
-then plants that gun on Deschler so that it will appear the "kidnapper" was
-killed in self-defense. JoAnna Cameron plays Galesko's assistant, with whom he
-is planning a romantic getaway. Michael Strong, Larry Storch, Vito Scotti, and
-John Ashton guest star, as does Joyce Van Patten, playing a nun running a
-homeless shelter who assumes, when she meets Columbo, that he is down and out
-and in need of some food and a better coat.  Final clue/twist: Columbo stages
-a false accusation using a mirror-inverted version of the kidnapping photo
-Galesko used to fabricate an alibi. The reverse negative shows a different
-time on a clock in the photo, a time for which Galesko has no alibi. An
-increasingly riled Galesko accuses Columbo of framing him with false evidence,
-and becomes more incensed when Columbo tells him the original photo was
-accidentally destroyed. Galesko grabs a camera from a shelf where there are
-twelve other cameras, and shows Columbo a negative that is still inside it.
-Galesko says the negative proves him right about which way the clock is
-pointing in the original photograph. Galesko has thus given himself away. He
-had no way of knowing which camera had been used as part of the kidnapping
-scheme, or that the negative was still in the back of that camera. Galesko,
-defeated, realizes that Columbo had staged the false arrest with the exact
-purpose of getting him to lose his cool so he would rashly identify the
-camera. The outside set of Deschler's hotel room is the set of Psycho.
+After years of marriage to his domineering wife, Frances, professional
+photographer Paul Galesko decides to kill her. He hires ex-con Alvin Deschler
+to rent an isolated ranch house. Galesko persuades his wife to accompany him
+there and she grudgingly agrees. He ties her to a chair, photographs the
+scene, and then shoots her. He sets things up so it will appear he is
+elsewhere when the pictures were taken. Galesko meets Deschler at a junkyard.
+After shooting Deschler with a revolver, Galesko shoots himself in the leg
+with the pistol used in the first murder, then plants that gun on Deschler so
+that it will appear the "kidnapper" was killed in self-defense. JoAnna Cameron
+plays Galesko's assistant, with whom he is planning a romantic getaway.
+
+Final clue/twist: Columbo stages a false accusation using a mirror-inverted
+version of the kidnapping photo Galesko used to fabricate an alibi. The
+reverse negative shows a different time on a clock in the photo, a time for
+which Galesko has no alibi. An increasingly riled Galesko accuses Columbo of
+framing him with false evidence, and becomes more incensed when Columbo tells
+him the original photo was accidentally destroyed. Galesko grabs a camera from
+a shelf where there are twelve other cameras, and shows Columbo a negative
+that is still inside it. Galesko says the negative proves him right about
+which way the clock is pointing in the original photograph. Galesko has thus
+given himself away. He had no way of knowing which camera had been used as
+part of the kidnapping scheme, or that the negative was still in the back of
+that camera. Galesko, defeated, realizes that Columbo had staged the false
+arrest with the exact purpose of getting him to lose his cool so he would
+rashly identify the camera. The outside set of Deschler's hotel room is the
+set of Psycho.
 
 Directed by: Alf Kjellin. Story by: Peter S. Fischer.
 
@@ -3103,4 +3628,5 @@ Directed by: Jeffrey Reiner. Story by: Michael Alaimo.
 :: Major Themes
 
 :: Minor Themes
+
 

@@ -1530,7 +1530,8 @@ adoption of a child
 ===================
 
 :: Description
-The relationship between a parent and their adopted child is featured significantly.
+The relationship between a parent and their adopted child is featured
+significantly.
 
 :: Parents
 human parenting
@@ -2112,8 +2113,7 @@ A robot designed to look and act like a human.
 
 :: Parents
 artificial being
-artificial intelligence
-speculative robot
+humanoid robot
 
 :: References
 https://en.wikipedia.org/wiki/Android_(robot)
@@ -3579,11 +3579,16 @@ be careful what you wish for
 Someone gets what they desire only to find out that they really shouldn't have
 desired it in the first place.
 
-:: Notes
-This proverb is normally used when a person does not have the maturity or sophistication to understand what the outcome of their desire will actually mean to themself. It is notably not applied in situations where there is hidden information about the outcome that makes it undesirable, and that no person could possibly have known beforehand irrespective of such things as maturity.
-
 :: Parents
 human idea about life
+
+:: Notes
+This proverb is normally used when a person does not have the maturity or
+sophistication to understand what the outcome of their desire will actually
+mean to themself. It is notably not applied in situations where there is
+hidden information about the outcome that makes it undesirable, and that no
+person could possibly have known beforehand irrespective of such things as
+maturity.
 
 :: References
 https://en.wiktionary.org/wiki/be_careful_what_you_wish_for
@@ -7088,11 +7093,13 @@ coping with a bad hangover
 :: Description
 Someone experiences the effects of a bad hangover.
 
-:: Notes
-If someone is said to have severe alcohol induced effects like blackouts, this theme may be motivated on account that the character surely also had a hangover.
-
 :: Parents
 human health condition
+
+:: Notes
+If someone is said to have severe alcohol induced effects like blackouts, this
+theme may be motivated on account that the character surely also had a
+hangover.
 
 :: Examples
 Scotty coped with the effects of a bad hangover after drinking the Kelvan
@@ -7751,15 +7758,15 @@ coping with being an outcast
 Someone struggles with being rejected and isolated from a social group that is
 (financially, emotionally, or otherwise) important to them.
 
+:: Parents
+coping with life issues
+humans in group
+
 :: References
 https://en.wikipedia.org/wiki/Ostracism
 
 :: Aliases
 ostracism
-
-:: Parents
-coping with life issues
-humans in group
 
 
 coping with being disfigured
@@ -8068,7 +8075,7 @@ A former lovebird deals with the emotional fallout of having been dumped like
 a sack of potatoes.
 
 :: Parents
-romantic relationship issue
+coping with romantic rejection
 
 
 coping with having a bad day
@@ -8618,7 +8625,8 @@ coping with the death of a child
 ================================
 
 :: Description
-A character grieves over the loss of their own son or daughter (or any other person they have regarded more or less as their offspring).
+A character grieves over the loss of their own son or daughter (or any other
+person they have regarded more or less as their offspring).
 
 :: Parents
 coping with the death of a family member
@@ -10675,11 +10683,11 @@ divorce
 :: Description
 Two characters who were formally married go through a divorce.
 
-:: Notes
-Although legally distinct, we theme annulments as divorces for the time being.
-
 :: Parents
 family affairs
+
+:: Notes
+Although legally distinct, we theme annulments as divorces for the time being.
 
 :: References
 https://en.wikipedia.org/wiki/Divorce
@@ -11307,7 +11315,8 @@ economic downturn
 =================
 
 :: Description
-The ramifications of a severe economic downturn, like an economic depression or recession, on society are explored.
+The ramifications of a severe economic downturn, like an economic depression
+or recession, on society are explored.
 
 :: Parents
 socioeconomic issue
@@ -12905,7 +12914,7 @@ false friend
 ============
 
 :: Description
-There is a character acts openly as a friend to another character yet
+There is a character that acts openly as a friend to another character yet
 conspires behind their back in a way that is most unfriendly and meant to
 cause harm.
 
@@ -13831,6 +13840,9 @@ The relationship between two people engaged to be married is featured.
 
 :: Parents
 human familial relationship
+
+:: Aliases
+fiancé and fiancée
 
 
 fictional character come to life
@@ -15430,7 +15442,8 @@ getting fired from one's job
 
 :: Description
 A character is informed that they have been sacked, laid off, or otherwise
-terminated from their employment (or copes with the immediate aftermath of such a communication).
+terminated from their employment (or copes with the immediate aftermath of
+such a communication).
 
 :: Parents
 humans at work
@@ -15517,8 +15530,8 @@ size distinguished being
 https://en.wikipedia.org/wiki/Giant
 
 
-girl power
-==========
+female empowerment
+==================
 
 :: Description
 The idea that women are more capable of feats than perhaps society and
@@ -15532,7 +15545,7 @@ https://en.wikipedia.org/wiki/Girl_power
 https://en.wikipedia.org/wiki/Women%27s_empowerment
 
 :: Aliases
-women's empowerment
+girl power
 
 
 girlfriend and girlfriend
@@ -16083,25 +16096,6 @@ social ethical dilemma
 
 :: References
 https://en.wikipedia.org/wiki/Evidential_burden
-
-
-gunpowder
-=========
-
-:: Description
-Gunpowder is a mixture of sulfur, charcoal, and potassium nitrate (saltpeter)
-with the sulfur and charcoal acting as fuels, while the saltpeter functions as
-an oxidizer.
-
-:: Parents
-technology
-
-:: Examples
-Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
-the legendary fight to the death in tos1x19 "Arena".
-
-:: References
-https://en.wikipedia.org/wiki/Gunpowder
 
 
 habitable asteroid
@@ -17058,6 +17052,7 @@ another, and avoid getting caught.
 
 :: Parents
 speculative experience
+crime
 
 :: Notes
 This theme is not used in extraordinary circumstances, such as in the wake of
@@ -17116,6 +17111,7 @@ getting caught.
 
 :: Parents
 how to commit a crime and get away with it
+murder
 
 :: Notes
 This theme is not used in extraordinary circumstances, such as on a
@@ -17582,9 +17578,9 @@ life. A typical example is "career choice".
 human tough decision
 
 :: Examples
-"human life choice" themes include "choosing between love
-and family", "deciding whether to be a parent", "figuring out what to do with
-one's life", and "to settle down vs. to keep on trekking".
+"human life choice" themes include "choosing between love and family",
+"deciding whether to be a parent", "figuring out what to do with one's life",
+and "to settle down vs. to keep on trekking".
 
 
 human mental condition
@@ -18036,6 +18032,7 @@ that it beggars belief.
 
 :: Parents
 human vs. institution
+bureaucracy
 
 :: Examples
 Eponymous Franz Kafka describes such a bureaucracy in "The Trial" (1925),
@@ -20586,7 +20583,7 @@ law and order issue
 ===================
 
 :: Description
-This is the category of national social issues that relate to behaviours that
+This is the category of national social issues that relate to behaviors that
 are broadly considered to be against the law in civilized societies. These are
 themes about crimes and the measures we take to punish, deter, and prevent
 crime.
@@ -20596,7 +20593,7 @@ national social issue
 
 :: Notes
 Discussions about what ought or oughtn't be law belong elsewhere. For example,
-torny constitutional law controversies may be better described as political
+thorny constitutional law controversies may be better described as political
 issues.
 
 :: Examples
@@ -21800,6 +21797,10 @@ magic word
 The use of spoken words to invoke magical energies is featured. Note: A stage
 magician uttering "Abracadabra" before performing a trick does not count.
 
+:: Notes
+A stage magician uttering "Abracadabra" before performing a trick does not
+meet the bar for applying this theme.
+
 :: Parents
 folk belief
 
@@ -22031,7 +22032,7 @@ least a hint of secrecy about the arrangement. The interpersonal relationship
 between the two characters is featured.
 
 :: Parents
-romantic relationship
+paramour and paramour
 
 :: References
 https://en.wikipedia.org/wiki/Mistress_(lover)
@@ -22526,7 +22527,7 @@ had been created to pollinate plants, because real bees had died out.
 https://en.wikipedia.org/wiki/RoboBee
 
 
-mechanical man
+humanoid robot
 ==============
 
 :: Description
@@ -23036,9 +23037,9 @@ mind altering technology
 ========================
 
 :: Description
-A novel technology is used to alter (enhance or diminish perhaps) a person's
+A novel technology is used to alter (enhance or perhaps diminish) a person's 
 mental ability. These are themes that posit technology to manipulate the human
-mind by cloning it, wiping it, moving it, controlling it, etc.
+mind by cloning it, wiping it, moving it, controlling it, and so on.
 
 :: Parents
 speculative technology
@@ -25878,8 +25879,9 @@ pedophiles
 ==========
 
 :: Description
-We are made to contemplate how adults that are sexually attracted to minors
-affect society, and how such individuals ought to be treated.
+We are made to contemplate how adults that are sexually attracted to 
+prepubescent minors affect society, and how such individuals ought to 
+be treated.
 
 :: Parents
 sexual crime
@@ -26691,14 +26693,14 @@ A character takes great pleasure in preparing or imbuing the black heavenly
 nectar colloquially known as "coffee".
 
 :: Parents
-pleasure in eating
+pleasure in eating and drinking
 
 
-pleasure in eating
-==================
+pleasure in eating and drinking
+===============================
 
 :: Description
-The natural human predilection for reveling in food far beyond nutritional
+The natural human predilection for reveling in food and/or drink beyond nutritional
 necessity is illustrated.
 
 :: Parents
@@ -27569,7 +27571,8 @@ primitive point of view
 
 :: Description
 We are shown what things might be like from the point of view of a person that
-comes from a technologically less advanced culture than our own.
+comes from a technologically less advanced culture than the one depicted in
+the story.
 
 :: Parents
 cross cultural issue
@@ -29443,7 +29446,6 @@ A sophisticated but not quite sentient mobile machine that serves man as his
 helper.
 
 :: Parents
-artificial being
 artificial intelligence
 speculative robot
 
@@ -30697,7 +30699,10 @@ serial murder
 =============
 
 :: Description
-An individual murderer (as opposed to an organization) kills three or more people on separate occasions in service of abnormal psychological gratification, with a significant period of time taking place in between the murders.
+An individual murderer (as opposed to an organization) kills three or more
+people on separate occasions in service of abnormal psychological
+gratification, with a significant period of time taking place in between the
+murders.
 
 :: Parents
 murder
@@ -30705,7 +30710,8 @@ murder
 :: Notes
 There is no widely accepted and precise definition for this category of crime.
 Prefer to omit this theme if it is unclear whether a serial murder was part of
-the story. Do not use this theme if the murders are primarily motivated by, for example, good old greed (not an abnormal psychological gratification).
+the story. Do not use this theme if the murders are primarily motivated by,
+for example, good old greed (not an abnormal psychological gratification).
 
 :: References
 https://en.wikipedia.org/wiki/Serial_killer
@@ -33005,7 +33011,7 @@ speculative technology
 :: Description
 A technology falling somewhere on the spectrum from being a realistic
 elaboration on a currently existing technology (e.g. a fully developed self-
-driving care), to a scientifically plausible portrayal of a technology far
+driving car), to a scientifically plausible portrayal of a technology far
 beyond our current capabilities (e.g. a Dyson sphere), to a technology that is
 unsupported by science as we know it (e.g. a time machine).
 
@@ -36913,6 +36919,10 @@ privates.
 :: Parents
 human occupational activity
 
+:: Aliases
+military occupation
+military profession
+
 
 the military-industrial complex in society
 ==========================================
@@ -40492,8 +40502,9 @@ what if I became witness to a crime
 
 :: Description
 We imagine what it would be like to see something that seems to imply a
-serious crime, typically murder, has been committed. Typically we are left to ponder what
-one should do: Should we investigate, contact the police, or drop the matter?
+serious crime, typically murder, has been committed. Typically we are left to
+ponder what one should do: Should we investigate, contact the police, or drop
+the matter?
 
 :: Parents
 what if I were in a tight spot
@@ -40868,7 +40879,8 @@ what if I was incapacitated and stuck in the middle of nowhere
 ==============================================================
 
 :: Description
-We imagine what it would be like to, for example, get stuck in rock or suchlike far away from assistance, say, while spelunking or mountaineering.
+We imagine what it would be like to, for example, get stuck in rock or
+suchlike far away from assistance, say, while spelunking or mountaineering.
 
 :: Parents
 what if I were in a tight spot
@@ -41024,8 +41036,8 @@ what if my personal identity came into question
 This theme is typically used in fantastical scenarios where the clinical
 condition of multiple personality (aka. dissociative identity) disorder is not
 sincerely featured but distinct personalities nevertheless inhabit the same
-body. As a rule of thumb, it is used when at least one of the personalities
-at least some of the time is aware of its own condition of having multiple
+body. As a rule of thumb, it is used when at least one of the personalities at
+least some of the time is aware of its own condition of having multiple
 personalities.
 
 :: Examples
