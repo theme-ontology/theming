@@ -7882,13 +7882,14 @@ coping with being injured
 :: Description
 Someone who is injured is featured as trying to cope with their situation.
 
-Note: Since injuries are extremely common in fiction, the bar for using this
-theme ought to be high, i.e., the comment should cite something explicit that
-makes it clear why the coping was featured which is not necessarily the case
-just because there was an injury in passing and someone saying "ouch".
-
 :: Parents
 human in danger
+
+:: Notes
+Since injuries are extremely common in fiction, the bar for using this theme
+ought to be high, i.e., the comment should cite something explicit that makes
+it clear why the coping was featured which is not necessarily the case just
+because there was an injury in passing and someone saying "ouch".
 
 
 coping with being lost
@@ -12012,7 +12013,7 @@ something, and that obeying them is undesirable. The character makes a
 reasonable attempt not to do so.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Notes
 There are two contraposed formulas for when the theme applies: wanting to do
@@ -17799,7 +17800,7 @@ A character in the story contemplates their own person and some way in which
 they can better themself.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 "lesson in humility" is a "human self improvement" theme because it implies
@@ -17965,20 +17966,20 @@ status in a group is lowered.
 :: References
 
 
-human thinking about self
-=========================
+human self-reflection
+=====================
 
 :: Description
-This is the category of themes that deal with introspection, i.e., a character
-pondering their own person.
+This a general theme pertaining to the examination of one's own person, for
+example, desires, motives, one's own conscience, etc.
 
 :: Parents
 individual humans
 
 :: Examples
-"human self improvement" is the main sub-category of "human thinking about
-self" because most often when a character is considering themself it seems
-they do so with a desire to improve on themself.
+"human self improvement" is the main specialization of this theme because most
+often when a character is considering themself it seems they do so with a
+desire to improve on themself.
 
 :: References
 
@@ -17987,7 +17988,8 @@ human tough decision
 ====================
 
 :: Description
-A character struggles with a decision that must made.
+This is a general theme that pertains to an individual struggling with a
+decision which must be made
 
 :: Parents
 individual humans
@@ -18258,8 +18260,8 @@ human way of life
 =================
 
 :: Description
-This is the category of themes that deal with the various ideas people may
-have about how they want to lead their lives.
+This a general theme pertaining to the various ideas people may have about how
+they want to lead their lives.
 
 :: Parents
 individual humans
@@ -18285,7 +18287,7 @@ This is the category of themes that deal with the various concerns a person
 may have when thinking about their own condition.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 "second guessing one's self" and "beating one's self up " are "human worrying
@@ -18439,8 +18441,8 @@ humans at work
 ==============
 
 :: Description
-This is the category of themes that describe the experience of people as they
-seek to collaborate in a workplace.
+This is a general theme pertaining to the experience of people as they seek to
+collaborate in a workplace.
 
 :: Parents
 humans in group
@@ -18490,9 +18492,8 @@ humans in hierarchy
 ===================
 
 :: Description
-This is the category of "humans in group" themes that relate to a hierarchical
-structure wherein some characters are put above and in charge of other
-characters.
+This is a general theme pertaining to a hierarchical structure wherein some
+characters are put above and in charge of other characters.
 
 :: Parents
 humans in group
@@ -18535,8 +18536,8 @@ humans interacting
 ==================
 
 :: Description
-This is the category of themes that illustrate the interactions between two or
-more humans.
+This is a general theme pertaining to the interactions between two or more
+humans.
 
 :: Parents
 humans in group
@@ -19242,7 +19243,8 @@ inebriated interaction
 ======================
 
 :: Description
-A character is inebriated in a social setting.
+A character is inebriated in a social setting. Typically the character makes a
+right fool of themself.
 
 :: Parents
 humans in group
@@ -20814,7 +20816,7 @@ used when someone has trouble moving on after a, to them, important person has
 passed away.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 In tz1985e3x05 "Dream Me a Life", both Roger and Laurel were miserable because
@@ -22334,8 +22336,8 @@ speculative device
 https://en.wikipedia.org/wiki/Matchmaking
 
 
-material possessions isn't everything
-=====================================
+material possessions aren't everything
+======================================
 
 :: Description
 The idea is put forth that we ought to see material possessions as less
@@ -28047,15 +28049,15 @@ purpose in life
 ===============
 
 :: Description
-Featured is one of those topics about what drives us and makes us act with
-what we perceive as "purpose". These are themes about our aspirations and
-needs, pleasures and cherished beliefs.
+This is a general theme pertaining to what drives us and makes us act with
+what we perceive as "purpose". This theme is about our aspirations, needs,
+pleasures, cherished beliefs and such.
 
 :: Parents
 individual humans
 
 :: Examples
-The category is further subdivided into: human aspiration (hopes, dreams, and
+The theme is further specialized into: human aspiration (hopes, dreams, and
 questions of what we want out of life), human need (things we need in order to
 consider ourselves fulfilled in life), human pleasure (things we may simply
 enjoy).
@@ -28527,8 +28529,8 @@ recreational activity
 =====================
 
 :: Description
-A character is notably engaged in a hobby or other more or less for-fun
-activity.
+This is a general theme pertaining to activities that are more or less done
+for fun, for example, hobbies.
 
 :: Parents
 human regular activity
@@ -30326,7 +30328,7 @@ self-deception
 A character notably refuses to face uncomfortable truths.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 In tng3x23 "Sarek", the eponymous Vulcan refuses to acknowledge the obvious
@@ -30440,7 +30442,7 @@ actions are just even though the motives seem self-serving and the
 justifications weak.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 In tng1x17 "When The Bough Breaks", when Radue's proposed exchange was turned
