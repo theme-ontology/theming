@@ -17434,8 +17434,8 @@ human familial relationship
 ===========================
 
 :: Description
-This is the category of themes that deal with the interpersonal relationship
-between two somewhat closely related characters, i.e., "family".
+The interpersonal relationship between two individuals bound by such a close
+social bond that they might be called "family" is featured.
 
 :: Parents
 humans in pairs
@@ -17462,9 +17462,10 @@ human health condition
 ======================
 
 :: Description
-This is the category of themes that discuss human mental and physiological
-well-being. It is usually done with respect to some factor, such as disease or
-infirmity, that is seen as detrimental to a human's well-being.
+There is a character whose mental or physiological well-being is featured
+because they suffer from some condition or another that is considered to be
+pathological. Such a condition is usually detrimental to the individual's
+well-being.
 
 :: Parents
 human challenge in life
@@ -17503,8 +17504,7 @@ human in danger
 ===============
 
 :: Description
-This is the category of themes that relate to what it is like for a human to
-find themselves in a dangerous situation of one sort or another.
+A character finds themself in a dangerous situation of one sort or another.
 
 :: Parents
 human challenge in life
@@ -17520,10 +17520,9 @@ human life choice
 =================
 
 :: Description
-A character is made to reflect on a tough decision that involve choices that
+A character is made to reflect on a tough decision that involves choices that
 are hard, not because of ethical issues or uncertainty regarding the outcome,
-but because the decision that will have a major impact on the course of their
-life. A typical example is "career choice".
+but because the decision will have a major impact on the course of their life.
 
 :: Parents
 human tough decision
@@ -17572,8 +17571,10 @@ human need
 ==========
 
 :: Description
-The things we humans tend to need in order to consider ourselves healthy,
-content, and fulfilled in life.
+This is a general theme pertaining to the things people tend to need in order
+to consider ourselves healthy, content, and fulfilled in life. The immediate
+specializations break down according to a simplified version of Maslow's
+hierarchy of needs.
 
 :: Parents
 purpose in life
@@ -17666,7 +17667,8 @@ human pleasure
 ==============
 
 :: Description
-A character takes marked pleasure in an activity such as a hobby.
+A character engages in an activity for the pure enjoyment of it, such as
+savoring a tasty meal or engaging in a cherished pastime.
 
 :: Parents
 purpose in life
@@ -17830,8 +17832,8 @@ human self-sacrifice
 ====================
 
 :: Description
-A character helps another character, or cause, at a significant cost or risk
-to themself.
+A character helps another character, or does something for a worthy cause, at
+a significant cost or risk to themself.
 
 :: Parents
 human tough decision
@@ -18257,8 +18259,7 @@ human worrying about self
 =========================
 
 :: Description
-This is the category of themes that deal with the various concerns a person
-may have when thinking about their own condition.
+A character ponders a concern they have regarding their own person.
 
 :: Parents
 human self-reflection
