@@ -8095,7 +8095,7 @@ A character copes with having one of those days when everything that seemingly
 can go wrong, does go wrong.
 
 :: Parents
-human emotional issue
+coping with life issues
 
 
 coping with having a bad reputation
@@ -8288,7 +8288,7 @@ coping with life issues
 
 :: Description
 A character has to live through one or another of those adverse conditions
-that has been known to plague human life from time to time.
+that have been known to plague human life from time to time.
 
 :: Parents
 human challenge in life
@@ -8345,7 +8345,7 @@ entirely get over.
 
 :: Parents
 romantic relationship issue
-human emotional issue
+coping with life issues
 remembrance
 
 :: Examples
@@ -8468,7 +8468,7 @@ struggles with how to take their leave.
 
 :: Parents
 humans in pairs
-human emotional issue
+coping with life issues
 
 
 coping with senility
@@ -11362,8 +11362,8 @@ educating a child
 =================
 
 :: Description
-This is the category of themes that relate to how an adult may go about
-deliberately shaping a child's mind as he or she grows up.
+An adult character goes about deliberately shaping a child's mind as he or she
+grows up.
 
 :: Parents
 human parenting
@@ -12493,7 +12493,8 @@ facing adversity
 
 :: Description
 A character confronts something difficult that they actively endeavor to
-overcome. This includes matters of survival and making a self-sacrifice.
+overcome. This includes matters of survival, for example, making a
+self-sacrifice for (typically) someone.
 
 :: Parents
 human challenge in life
@@ -13716,9 +13717,9 @@ female stereotype
 =================
 
 :: Description
-The category of themes that (correctly or incorrectly) highlight attributes
-that are believed to be typical of contemporary women. Many of these may be
-considered sexist today.
+Correctly or incorrectly, highlighted is one of those attributes that someone
+thinks to be typical women. Such themes may sometimes be considered sexist by
+contemporary standards.
 
 :: Parents
 human character stereotype
@@ -17202,8 +17203,8 @@ human aspiration
 ================
 
 :: Description
-A basic human hope, dream, or the question of what we want out of life is
-featured.
+A character expresses a hope, a dream, or ponders the question of what they
+want out of life.
 
 :: Parents
 purpose in life
@@ -17297,8 +17298,8 @@ human character stereotype
 ==========================
 
 :: Description
-There is a person whose character fits a recognizable, well-defined,
-stereotype to a remarkable degree.
+There is a person in the story whose character fits a recognizable,
+well-defined, stereotype to a remarkable degree.
 
 :: Parents
 human character
@@ -17308,8 +17309,7 @@ human characters in contrast
 ============================
 
 :: Description
-This is the category of themes that illustrate and contrast two or more
-different personalities.
+The personalities of two characters are pointedly compared and contrasted.
 
 :: Parents
 human character
@@ -17326,8 +17326,8 @@ human childhood
 ===============
 
 :: Description
-Featured is one of the various problems someone may face during the early
-parts of their life, i.e., childhood and adolescence.
+A young character faces one of those problems people tend to go through during
+the early parts of their lives, typically during childhood or adolescence.
 
 :: Parents
 family affairs
@@ -17406,32 +17406,6 @@ individual humans
 https://en.wikipedia.org/wiki/Emotion
 
 
-human emotional issue
-=====================
-
-:: Description
-A character struggles with undesirable emotional consequences stemming from
-some practicality of living, such as any of us might experience during the
-course of our duration on Earth.
-
-:: Parents
-human challenge in life
-
-:: Notes
-Themes in this category generally apply when the emotions are more central to
-the story than is whatever may have caused the emotions.
-
-:: Examples
-"coping with having a bad day" is a "human emotional issue" as the character
-in question is generally concerned with their own state of mind and may have
-little expection that they can do much about whatever situation made the day
-bad.
-
-:: References
-https://en.wikipedia.org/wiki/Emotional_well-being
-https://en.wikipedia.org/wiki/Emotion
-
-
 human empathy for babies
 ========================
 
@@ -17460,8 +17434,8 @@ human familial relationship
 ===========================
 
 :: Description
-This is the category of themes that deal with the interpersonal relationship
-between two somewhat closely related characters, i.e., "family".
+The interpersonal relationship between two individuals bound by such a close
+social bond that they might be called "family" is featured.
 
 :: Parents
 humans in pairs
@@ -17488,9 +17462,10 @@ human health condition
 ======================
 
 :: Description
-This is the category of themes that discuss human mental and physiological
-well-being. It is usually done with respect to some factor, such as disease or
-infirmity, that is seen as detrimental to a human's well-being.
+There is a character whose mental or physiological well-being is featured
+because they suffer from some condition or another that is considered to be
+pathological. Such a condition is usually detrimental to the individual's
+well-being.
 
 :: Parents
 human challenge in life
@@ -17529,8 +17504,7 @@ human in danger
 ===============
 
 :: Description
-This is the category of themes that relate to what it is like for a human to
-find themselves in a dangerous situation of one sort or another.
+A character finds themself in a dangerous situation of one sort or another.
 
 :: Parents
 human challenge in life
@@ -17546,10 +17520,9 @@ human life choice
 =================
 
 :: Description
-A character is made to reflect on a tough decision that involve choices that
+A character is made to reflect on a tough decision that involves choices that
 are hard, not because of ethical issues or uncertainty regarding the outcome,
-but because the decision that will have a major impact on the course of their
-life. A typical example is "career choice".
+but because the decision will have a major impact on the course of their life.
 
 :: Parents
 human tough decision
@@ -17564,8 +17537,9 @@ human mental condition
 ======================
 
 :: Description
-This is the subcategory of "human health condition" themes that relate to the
-mind.
+There is a character whose mental well-being is featured because they suffer
+from some condition or another that is considered to be pathological. Such a
+condition is usually detrimental to the individual's well-being.
 
 :: Parents
 human health condition
@@ -17598,8 +17572,10 @@ human need
 ==========
 
 :: Description
-The things we humans tend to need in order to consider ourselves healthy,
-content, and fulfilled in life.
+This is a general theme pertaining to the things people tend to need in order
+to consider ourselves healthy, content, and fulfilled in life. The immediate
+specializations break down according to a simplified version of Maslow's
+hierarchy of needs.
 
 :: Parents
 purpose in life
@@ -17673,8 +17649,8 @@ human physiological need
 ========================
 
 :: Description
-This is the category of themes that relate to a person's physiological needs.
-I.e., the need for things like food, water, sleep, and (in some sense) sex.
+One or another of a character's physiological needs is featured. For example,
+the theme may pertain to the need for things like food, water, sleep, and sex.
 
 :: Parents
 human need
@@ -17692,7 +17668,8 @@ human pleasure
 ==============
 
 :: Description
-A character takes marked pleasure in an activity such as a hobby.
+A character engages in an activity for the pure enjoyment of it, such as
+savoring a tasty meal or engaging in a cherished pastime.
 
 :: Parents
 purpose in life
@@ -17774,8 +17751,8 @@ human safety need
 =================
 
 :: Description
-This is the category of themes that relate to human's need to feel safe from
-danger of all kinds, including physical, financial, and health risks.
+A character's need to feel save from all kinds of dangers is featured. Dangers
+may include physical dangers, financial dangers, and health risks.
 
 :: Parents
 human need
@@ -17817,9 +17794,9 @@ human self-actualization need
 =============================
 
 :: Description
-This is the category of themes about human needs that specifically deal with
-an individual's desire to grow as a person and to realize their full
-potential.
+A character's desire to grow as a person and to realize their full potential
+is featured. For example, the theme may pertain to a character's aspirations
+or purpose in life
 
 :: Parents
 human need
@@ -17837,8 +17814,9 @@ human self-esteem need
 ======================
 
 :: Description
-This is the category of themes that examine a person's ego needs, i.e., the
-need for things like recognition, status, importance, and respect from others.
+One or another of a character's ego related needs is featured. For example,
+the theme may pertain to the need for things like recognition, status,
+importance, and respect from others.
 
 :: Parents
 human need
@@ -17856,8 +17834,8 @@ human self-sacrifice
 ====================
 
 :: Description
-A character helps another character, or cause, at a significant cost or risk
-to themself.
+A character helps another character, or does something for a worthy cause, at
+a significant cost or risk to themself.
 
 :: Parents
 human tough decision
@@ -18283,8 +18261,7 @@ human worrying about self
 =========================
 
 :: Description
-This is the category of themes that deal with the various concerns a person
-may have when thinking about their own condition.
+A character ponders a concern they have regarding their own person.
 
 :: Parents
 human self-reflection
@@ -21288,9 +21265,9 @@ love
 ====
 
 :: Description
-This category of themes concern that feeling of deep affection and attachment
-toward someone or (occasionally) something. Sexuality may or may not be
-involved.
+This is a general theme dealing with that feeling of deep affection and
+attachment toward someone or (occasionally) something. If sexuality is
+featured then the specialization "romantic love" is used.
 
 :: Parents
 human emotion
@@ -21494,8 +21471,9 @@ loyalty
 =======
 
 :: Description
-The category of themes that deal with loyalty, e.g., between friends, from a
-subordinate to a superior, etc..
+A character is pointedly faithful to someone or something. For example, the
+theme may pertain to an individual demonstrating their loyalty (or pointed
+lack thereof) to a friend, a cause, or their nation.
 
 :: Parents
 human character
@@ -23532,7 +23510,7 @@ The idea is put forth that we ought to see money as less important in favor of
 other considerations, for example relationships.
 
 :: Parents
-material possessions isn't everything
+material possessions aren't everything
 
 :: References
 https://idioms.thefreedictionary.com/money+isn%27t+everything
@@ -29589,7 +29567,8 @@ romantic relationship
 =====================
 
 :: Description
-Two characters engage in a romantic relationship.
+Two or more characters engage in an interpersonal relationship, or web of such
+relationships, that is characterized by romantic intimacy.
 
 :: Parents
 humans in pairs
@@ -29602,9 +29581,8 @@ romantic relationship issue
 ===========================
 
 :: Description
-This is the category of themes that relate to the relationship between two (or
-more) individuals who are, or may become, intimately and sexually involved
-with each other.
+The relationship between two (or more) individuals who are, or may become,
+intimately and sexually involved with each other, is featured.
 
 :: Parents
 humans in pairs
@@ -35038,56 +35016,6 @@ Christianity
 https://en.wikipedia.org/wiki/Holy_Chalice
 
 
-the Irish stereotype
-====================
-
-:: Description
-A stereotypical Irish character is featured. This typically involves heavy
-drinking, lots of green, and whimsical, singsongy accents.
-
-:: Parents
-human character stereotype
-
-:: Examples
-The Enterprise-D transported a group of technophobic space-colonists of Irish
-descent, the Bringloidi, in tng2x18 "Up The Long Ladder".
-
-:: References
-https://en.wikipedia.org/wiki/Culture_of_Ireland
-
-
-the Japanese stereotype
-=======================
-
-:: Description
-A stereotypically Japanese character is notably featured. This may involve
-excessive stoicism, notions of honor, and ritual suicide.
-
-:: Parents
-human character stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Culture_of_Japan
-
-
-the Jewish stereotype
-=====================
-
-:: Description
-A stereotypical Jewish character is featured in what is a sometimes prejudiced
-and antisemitic nature.
-
-:: Parents
-human character stereotype
-
-:: Examples
-The Zeons were persecuted by Ekosians dressed in full Nazi regalia in tos2x23
-"Patterns of Force".
-
-:: References
-https://en.wikipedia.org/wiki/Stereotypes_of_Jews
-
-
 the Korean War
 ==============
 
@@ -35177,24 +35105,6 @@ witch-hunt
 For the intents and purposes of thematic annotation we shall assume that any
 witch trials referenced as taking place in colonial Massachusetts, in fact the
 Salem Witch trials, unless otherwise is said explicitly.
-
-
-the Scottish stereotype
-=======================
-
-:: Description
-A stereotypical Scottish character is featured. This typically involves kilts,
-haggis, and bagpipes.
-
-:: Parents
-human character stereotype
-
-:: Examples
-Beverly Crusher attended her grandmother's funeral on a planet colonized by
-Scottish admirers in tng7x14 "Sub Rosa".
-
-:: References
-https://en.wikipedia.org/wiki/Culture_of_Scotland
 
 
 the Star Trek franchise
