@@ -2873,7 +2873,7 @@ retrained by a dog behavioral specialist.
 Directed by: James Frawley. Story by: Anthony Lawrence, Tom Lazarus.
 
 :: Ratings
-4 <atsuki*>
+4 <atsuki>
 3 <paul>
 4 <mikael>
 
@@ -2882,25 +2882,26 @@ One of very few stories where Lt. Columbo's own life was threatened in the end.
 
 :: Choice Themes
 how to murder someone and get away with it [The self-help seminar guru Dr. Eric Mason executed an elaborate plan to kill his longtime friend without getting caught. He trained two Doberman Pinschers to react violently in response to hearing the secret word "Rosebud". He then manipulated the friend into saying "Rosebud" in the lone presence of the dogs, giving the friend's resulting death by mauling the air of a freak occurrence. One gathers that he would have gotten away with his crime not been for the meddlesome Lt. Columbo.]
-the desire for vengeance [The villain of the story Dr. Eric Mason killed his longtime friend to pay the friend back for having had an affair with his wife. It was also suggested that Dr. Mason arranged for his wife to drive off a cliff to her death for the same reason.]
+the desire for vengeance [The villain of the story Dr. Eric Mason killed his longtime friend to pay the friend back for having had an affair with his wife. It was also suggested that Dr. Mason arranged for his wife to drive off a cliff to her death for cheating on him.]
 
 :: Major Themes
 law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with solving the following alleged murder mystery: Was the fatal mauling of Charlie Hunter by two Doberman Pinschers an unfortunate freak occurrence, or did someone, perhaps even a longtime friend hellbent on revenge, carefully arrange for the dogs to tear Charlie to pieces?]
 medical occupation [The villain of the story Dr. Eric Mason was a self-described "life control" psychologist. He told to a paying audience that people are conditioned by words from birth with the idea that they'd learn about methods to free themselves from the control of words in his seminars. He spoke of the practice of "gestalting" to Columbo. A physician gave Dr. Mason a routine heart examination.]
 friendship [The plot turns on Dr. Eric Mason killing his "best friend" Dr. Charlie Hunter to avenge a past transgression.]
+betrayal [The villain of the story Dr. Eric Mason killed his longtime friend to pay the friend back for having had an affair with his wife.]
 extramarital affair [The villain of the story Dr. Eric Mason killed his longtime friend to pay the friend back for having had an affair with his wife.]
-human pleasure [Dr. Eric Mason was a film memorabilia junkie. An entire room in his home was dedicated to such curios, which included the iconic "Rosebud" sled from the movie "Citizen Kane". The iconic gate from the same movie served as the main gate to his property.]
-classic films [Eric's passion for classic films, and for "Citizen Kane" in particular, became hi undoing when Lt. Columbo tricked him into recording the secret word "Rosebud" Eric had trained his dogs to respond violently to.]
-pride before a fall [Dr. Eric Mason was supremely self-confident in his ability to manipulate and outwit Lt. Columbo. Like everyone, he was brought low in the end.]
+collecting objects [Dr. Eric Mason was a film memorabilia junkie. An entire room in his home was dedicated to such curios, which included the iconic "Rosebud" sled from the movie "Citizen Kane". The iconic gate from the same movie served as the main gate to his property.]
+classic films [Eric's passion for classic films, and for "Citizen Kane" in particular, became his undoing when Lt. Columbo tricked him into recording the secret word, "Rosebud", that Eric had trained his dogs to respond violently to.]
+pride goes before a fall [Dr. Eric Mason was supremely self-confident in his ability to manipulate and outwit Lt. Columbo. Like anyone foolish enough to pit themself against Columbo, he was brought low in the end.]
 
 :: Minor Themes
 coping with the death of a spouse [Dr. Mason starred wistfully at his deceased wife Lorraine's photo.]
-master and pet [Dr. Eric Mason used his two trained Doberman Pinschers, Laurel and Hardy, to maul his "best friend" Dr. Charlie Hunter to
-death.]
+master and pet [Dr. Eric Mason used his two trained Doberman Pinschers, Laurel and Hardy, to maul his "best friend" Dr. Charlie Hunter to death. Columbo's Basset hound proved to be untrainable.]
 emotional attachment to a thing [The psychologically troubled college girl Joanne Nichols liked to talk things over with her teddy bear, Sigmund.]
-human occupational activity [The dog trainer Miss Cochran was shown training a rather large dog to attack.]
+human occupational activity <dog trainer> [The dog trainer Miss Cochran was shown training a rather large dog to attack.]
 animal behavior [That notion that dogs can be trained to attack on command is explored.]
 spouse murder [It was suggested that Dr. Mason arranged for his wife to drive off a cliff to her death.]
+cultural history <Citizen Kane> [Dr. Eric Mason was an ardent fan of the film "Citizen Kane". He was the owner of the sled and gate featured in this iconic movie.]
 
 
 columbo1971e7x05
@@ -2951,15 +2952,12 @@ Directed by: Leo Penn. Story by: Pat Robison, Howard Berk.
 4 <mikael>
 
 :: Choice Themes
-how to commit murder and get away with it [The Irish poet, author, raconteur, and secret IRA operative Joe Devlin shot dead an illicit arms dealer without leaving a trace of evidence to connect him to the crime - or so he thought. One gathers that he would have gotten away with it not been for the meddlesome Lt. Columbo.] {MO: This is neither a planned murder nor an accidental one.}
-murder []
-the Irish stereotype [lol]
+murder [The Irish poet, author, raconteur, and secret IRA operative Joe Devlin shot dead an illicit arms dealer without leaving a trace of evidence to connect him to the crime - or so he thought. One gathers that he would have gotten away with it not been for the meddlesome Lt. Columbo.]
 
 :: Major Themes
 law enforcement [The bumbling but sharp-witted homicide detective Lt. Columbo was tasked with solving the following murder mystery: Who shot dead the arms dealer Vincent Pauley?]
 arms trade [Joe Devlin and his fellow conspirators were working with illicit arms dealers to smuggle firearms into Northern Ireland.]
 independence struggle [The plot turns on Joe Devlin and his fellow conspirators endeavoring to smuggle firearms into Belfast to support the Irish Republican Army in its fight to end British rule.]
-terrorist or freedom fighter [Joe Devlin and his fellow conspirators were terrorist gun-runners from the law's point of view, but saw themselves as fighting to free Northern Ireland from being under the yolk of the British.]
 terrorism [Joe Devlin and his fellow conspirators hatched a plot to smuggle firearms to the Irish Republican Army. Joe Devlin had spent time in prison as a teenager for attempting a terrorist attack on English soil. It came to light that an Irish terrorist, named Michael Dolan, had been hanged for the murders of five people, including one child.]
 the desire for vengeance [The villain of the story Joe Devlin shot the illicit arms dealer Vincent Pauley dead for what Joe saw as Pauley betraying their common cause of freeing Northern Ireland from British rule. Joe's placing of a whiskey bottle with the slogan "Let each man be paid in full" on the label next to the dead body belied his motive of revenge.]
 
@@ -2967,10 +2965,11 @@ the desire for vengeance [The villain of the story Joe Devlin shot the illicit a
 alcohol abuse [Joe Devlin made no bones about being a heavy drinker. He put the words "you think I drink too much" into the mouth of his assistant, Kerry.]
 music [Joe Devlin charmed the fundraiser attendees with his the piano and banjo playing, complete with vocal accompaniment.]
 the game of darts [Columbo bested Joe Devlin in a game of darts at the pub.]
-coping with a disability [Mrs. O'Connell was electric wheel-chair bound.]
+coping with a disability [Mrs. O'Connell was in an electric wheel-chair.]
 poetry [Columbo exchanged limericks with Joe at the pub to the delight of all.]
 creative writing [Joe Devlin signed copies of his autobiography, "Up from Ignorance", during at event held for that purpose at the bookstore.]
 betrayal [Joe Devlin was upset about being betrayed by the arms dealer he had trusted and performed an execution style murder.]
+terrorist or freedom fighter [Joe Devlin and his fellow conspirators were terrorist gun-runners from the law's point of view, but saw themselves as fighting to free Northern Ireland from being under the yolk of the British.]
 
 
 columbo1971e8x01
@@ -3011,7 +3010,7 @@ rigged the guillotine, he is unharmed.
 Directed by: Leo Penn. Story by: William Read Woodfield.
 
 :: Ratings
-3 <paul>
+3 <paul*>
 3 <atsuki>
 2 <mikael> [The Elliot actor played Sebastian in Brideshead Revisited - it was weird seeing him here]
 
@@ -3154,8 +3153,7 @@ romantic infidelity [The plot turns on Joan reacting to stumbling on her lover, 
 love triangle [The plot turns on Joan reacting to stumbling on her lover, David, doing the pelvic peanuckle with her assistant, Cindy.]
 the desire for vengeance [The plot turns on Joan shooting her lover, David, dead out of revenge for sleeping with her assistant. In Joan's own words, she wished to "make him pay for the anguish and the humiliation and all the loneliness to come".]
 fantasy romance [The plain Jane sex therapist Dr. Joan Allenby masqueraded as a glamorous prostitute to satisfy her sexual fantasy.]
-prostitution [The sex therapist Dr. Joan Allenby had published a best-selling book, entitled "The Courtesan Complex", in which she advanced the theory that being a high-class prostitute is one of the most common sexual fantasies among women. Joan herself masqueraded as a sexually aggressive, glamorous prostitute named
-"Lisa", wearing a black wig and sexy black clothing.]
+prostitution [The sex therapist Dr. Joan Allenby had published a best-selling book, entitled "The Courtesan Complex", in which she advanced the theory that being a high-class prostitute is one of the most common sexual fantasies among women. Joan herself masqueraded as a sexually aggressive, glamorous prostitute named "Lisa", wearing a black wig and sexy black clothing.]
 unrequited love [Dr. Allenby at David; Dr. Neff at Joan] {For discussion}
 
 :: Minor Themes
