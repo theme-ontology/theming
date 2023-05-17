@@ -274,7 +274,6 @@ magic object
 :: Examples
 
 
-
 human thought virus
 ===================
 
@@ -349,19 +348,6 @@ how to commit a crime and get away with it
 https://en.wikipedia.org/wiki/Disposal_of_human_corpses#Criminal_disposal
 
 
-facing a stalker
-================
-
-:: Description
-
-
-:: Parents
-human vs. human
-
-:: References
-https://en.wikipedia.org/wiki/Stalking
-
-
 what it is like to be buried alive
 ==================================
 
@@ -396,30 +382,6 @@ personal practical dilemma
 https://en.wikipedia.org/wiki/Plea_bargain
 
 
-how to fake one's own death
-===========================
-
-:: Description
-
-
-:: Parents
-how to commit a crime and get away with it
-
-:: References
-https://en.wikipedia.org/wiki/Faked_death
-
-
-love vs. conscience
-===================
-
-:: Description
-
-
-:: Parents
-personal ethical dilemma
-human romantic relationship choice
-
-
 reliability of eyewitness testimony
 ===================================
 
@@ -444,43 +406,6 @@ another person's life and liberty.
 
 :: References
 https://en.wikipedia.org/wiki/Eyewitness_testimony
-
-
-architect occupation
-====================
-
-:: Description
-
-:: Parents
-art related occupation
-
-:: References
-https://en.wikipedia.org/wiki/Architect
-https://en.wikipedia.org/wiki/Architecture
-
-:: Aliases
-architecture
-
-
-work partner and work partner
-=============================
-
-:: Description
-
-:: Parents
-humans in pairs
-
-:: References
-
-
-how to cover up a murder
-========================
-
-:: Description
-
-:: Parents
-speculative experience
-crime
 
 
 what if I were trapped in the belly of a whale
@@ -593,29 +518,6 @@ human emotion
 https://en.wikipedia.org/wiki/Comfort_object
 
 
-health and fitness
-===================
-
-:: Description
-
-:: Parents
-human regular activity
-
-:: References
-https://en.wikipedia.org/wiki/Physical_fitness
-
-
-corporate executive
-===================
-
-:: Description
-
-:: Parents
-human occupational activity
-
-:: References
-
-
 paramour and paramour
 =====================
 
@@ -662,18 +564,6 @@ requirement that it be otherwise "correct" in what it has to say.
 :: References
 
 
-sailing
-=======
-
-:: Description
-
-:: Parents
-human regular activity
-
-:: References
-https://en.wikipedia.org/wiki/Sailing
-
-
 greedy heir
 ===========
 
@@ -684,6 +574,98 @@ beneficiary who is overly concerned about their future inheritance.
 :: Parents
 human character
 the lust for gold
+
+
+human aspiration
+================
+
+:: Description
+A basic human hope, dream, or the question of what we want out of life is
+featured.
+
+:: Parents
+human self-actualization need
+
+
+facing a stalker
+================
+
+:: Description
+A character experiences what it is like to be serially surveilled and harassed
+by someone for that someone's own deranged reasons. A character being
+aggressively pursued by a former lover is a stereotypical example.
+
+:: Parents
+human vs. human
+
+:: References
+https://en.wikipedia.org/wiki/Stalking
+
+
+how to fake one's own death
+===========================
+
+:: Description
+We are made to ponder elaborate ways in which someone might purposely deceive
+other people into believing that the individual is dead, when the person is,
+in fact, still alive.
+
+:: Parents
+how to commit a crime and get away with it
+
+:: Aliases
+staged death
+pseudocide
+
+:: References
+https://en.wikipedia.org/wiki/Faked_death
+
+
+love vs. conscience
+===================
+
+:: Description
+A character must choose between opposing someone that they love one on one
+hand, and doing what they feel is right on the other.
+
+:: Parents
+personal ethical dilemma
+human romantic relationship choice
+
+
+health and fitness
+===================
+
+:: Description
+
+:: Parents
+human regular activity
+
+:: References
+https://en.wikipedia.org/wiki/Physical_fitness
+
+
+corporate executive
+===================
+
+:: Description
+
+:: Parents
+human occupational activity
+
+:: References
+
+
+sailing
+=======
+
+:: Description
+
+:: Parents
+human regular activity
+
+:: References
+https://en.wikipedia.org/wiki/Sailing
 
 
 meditation
@@ -698,15 +680,41 @@ recreational activity
 https://en.wikipedia.org/wiki/Meditation
 
 
-human aspiration
-================
+architect occupation
+====================
 
 :: Description
-A basic human hope, dream, or the question of what we want out of life is
-featured.
 
 :: Parents
-human self-actualization need
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Architect
+https://en.wikipedia.org/wiki/Architecture
+
+:: Aliases
+architecture
+
+
+work partner and work partner
+=============================
+
+:: Description
+
+:: Parents
+humans in pairs
+
+:: References
+
+
+how to cover up a murder
+========================
+
+:: Description
+
+:: Parents
+speculative experience
+crime
 
 
 legendary historical figure
