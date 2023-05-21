@@ -1007,10 +1007,9 @@ World War II
 ============
 
 :: Description
-A global war that lasted from 1939 to 1945. It was the most widespread war in
-history and directly involved more than 100 million people from over 30
-countries. Towards the end the participants had formed two opposing military
-alliances called "the Allies" and "the Axis".
+World War II was global war that lasted from 1939 to 1945. Towards the end the
+participants had formed two opposing military alliances called "the Allies"
+and "the Axis". The theme is used whenever this war comes up in the story.
 
 :: Parents
 historical event
@@ -1336,8 +1335,8 @@ political issue
 https://en.wikipedia.org/wiki/Abuse_of_power
 
 
-academia
-========
+academic occupation
+===================
 
 :: Description
 A character working in an academic institution is engaged in their chosen
@@ -6762,9 +6761,9 @@ conflict of duty
 ================
 
 :: Description
-A common category of tough decisions that involve choosing between ones "duty"
-to something (typically a job or a leader) on one hand, and some conflicting
-cause or impulse on the other.
+A character must choose between their "duty" to something (for example, a
+leader) on one hand, and a conflicting impulse (for example, a noble cause) on
+the other.
 
 :: Parents
 personal ethical dilemma
@@ -6978,8 +6977,8 @@ contraposed political ideologies
 ================================
 
 :: Description
-This is the category of themes that contrast two or more reasonably well-
-defined political ideologies.
+Two or more reasonably well-defined political ideologies are pointedly
+contrasted.
 
 :: Parents
 political ideology
@@ -9174,13 +9173,17 @@ crime
 =====
 
 :: Description
-This is the category of themes that relate to proscribed actions that are
-normally punishable by contemporary states.
+One or another of those proscribed actions that are normally punishable by
+contemporary states, is featured.
 
 :: Parents
 law and order issue
 
 :: Notes
+The action must be understood in the context of the story to constitute a
+crime, be it against written law or unwritten customs (for example against God
+or other notions of morality).
+
 Because of their notoriety, we consider that a "crime" theme is topical to the
 story when a character unambiguously commits such a crime. For example
 "murder" becomes topical if a murder is committed. Common sense is required
@@ -17690,11 +17693,12 @@ human rights issue
 ==================
 
 :: Description
-This is the category of themes that discusses issues that relate to whatever
-people typically like to label as human rights. It may, for example, involve
-practical concerns around safeguarding such rights, discuss ethical questions
-around what counts as a right, or weight two conflicting human rights
-considerations in a particular situation.
+Explored is one of those ideas of "rights", such as the right to not be
+tortured, that we sometimes say people (or other beings that are to be treated
+as people) are inalienably entitled to merely by virtue of existing. It may,
+for example, involve practical concerns around safeguarding such rights,
+discuss ethical questions around what counts as a right, or weight two
+conflicting human rights considerations in a particular situation.
 
 Examples of rights and freedoms which are often thought of as human rights
 include civil and political rights, such as the right to life, liberty, and
@@ -17705,12 +17709,6 @@ education.
 
 :: Parents
 social ethical issue
-
-:: Examples
-"homosexuality in society" is a "human rights issue" because an overwhelming
-number of people now believe that systematically discriminated against someone
-on account of their sexuality would be an infringement on that person's
-rights.
 
 :: References
 https://en.wikipedia.org/wiki/Human_rights
@@ -17908,9 +17906,9 @@ human social need
 =================
 
 :: Description
-This is the category themes that relate to a persons need to have good
-connections with other people, i.e., belonging to a social group, having
-friends, family, etc.
+A character's need to have good connections with other people is featured. For
+example, the theme may pertain to belonging to a social group, friendship,
+maintaining family relations, etc.
 
 :: Parents
 human need
@@ -18046,8 +18044,8 @@ human vs. human
 ===============
 
 :: Description
-This is the category of themes that describe a conflict situation between a
-person and other people.
+This is a general theme pertaining to conflict situations between a person and
+other people.
 
 :: Parents
 facing adversity
@@ -21942,9 +21940,9 @@ male stereotype
 ===============
 
 :: Description
-The category of themes that (correctly or incorrectly) highlight attributes
-that are believed to be typical of contemporary men. Many of these may be
-considered sexist today.
+Highlighted is one of those attributes that someone thinks, correctly or
+incorrectly, to be typical of men. Such themes may sometimes be considered
+sexist by contemporary standards.
 
 :: Parents
 human character stereotype
@@ -22510,9 +22508,8 @@ medical ethical issue
 =====================
 
 :: Description
-This is the important subcategory of "social ethical issue" themes that relate
-to how doctor's and other health care workers ought to behave in various
-situation.
+Ethical issues relating to how physicians and other health care providers
+ought to behave in various situation, is explored.
 
 :: Parents
 social ethical issue
@@ -25661,7 +25658,7 @@ We are shown a highly parodical version of what life in academia might seem to
 be like.
 
 :: Parents
-academia
+academic occupation
 
 
 parricide
@@ -26923,18 +26920,18 @@ political ideology
 ==================
 
 :: Description
-This is the category of themes that relate to those relatively well known,
-well defined, ideas about how society ought to be organized, that we call
-"political ideologies" and often label with "-isms".
+One of those relatively well known, reasonably well defined, ideas about how
+society ought to be organized, that we call "political ideologies" and often
+label with "-isms", is featured.
 
 :: Parents
 form of government
 
 :: Notes
-The goal of this project is in no way to provoke political controversy. When
-using a word that references a political stance it is advisable to consult,
-for example, Wikipedia and use the word only in ways that appear mainstream
-and are relatively uncontroversial.
+TLike Wikipedia, this project aims to remain neutral in regard to political
+questions. When using a word that references a political stance it is
+advisable to consult, for example, Wikipedia and use the word only in ways
+that appear mainstream and are relatively uncontroversial.
 
 :: Examples
 "Capitalism", "communism", "fascism", and "democracy" are some political
@@ -28633,8 +28630,8 @@ relations between social groups in society
 
 :: Description
 There are two different and notably distinct social groups within a society,
-for example two ethnicities, and some aspect of the relationship between these
-two groups are featured. Notably, this is the category of themes that explore
+for example two ethnic groups, and some aspect of the relationship between
+these two groups is featured. Notably, this is a general theme pertaining to
 different types of hatred and prejudice in society.
 
 :: Parents
@@ -35224,7 +35221,7 @@ archaeology occupation
 An archaeologist is engaged in their chosen occupation.
 
 :: Parents
-academia
+academic occupation
 archaeology
 
 :: Examples
@@ -35315,7 +35312,7 @@ astronomy occupation
 An astronomer is engaged in their chosen occupation.
 
 :: Parents
-academia
+academic occupation
 
 :: References
 https://en.wikipedia.org/wiki/Astronomer
@@ -36191,7 +36188,7 @@ geology occupation
 A geologist is engaged in their chosen occupation.
 
 :: Parents
-academia
+academic occupation
 
 :: References
 https://en.wikipedia.org/wiki/Geology
@@ -36329,7 +36326,7 @@ history occupation
 A historian is engaged in their chosen occupation.
 
 :: Parents
-academia
+academic occupation
 
 :: References
 https://en.wikipedia.org/wiki/Historian
@@ -37734,7 +37731,7 @@ scientist occupation
 A scientist is engaged in their chosen occupation.
 
 :: Parents
-academia
+academic occupation
 
 :: References
 https://en.wikipedia.org/wiki/Scientist
@@ -39721,10 +39718,8 @@ violent crime
 =============
 
 :: Description
-This is the category of themes that relate to prescribed actions involving
-violence or the threat of violence. The action must be understood in the
-context of the story to constitute a crime, be it against written law or
-unwritten customs (for example against God or other notions of morality).
+One or another of those proscribed actions involving violence or the threat of
+violence, is featured.
 
 :: Parents
 crime
@@ -40238,11 +40233,11 @@ weapons of mass destruction
 ===========================
 
 :: Description
-A weapon of mass destruction (WMD) is a nuclear, radiological, chemical,
-biological, or any other weapon that can kill and bring significant harm to a
-large number of humans or cause great damage to human-made structures (e.g.,
-buildings), natural structures (e.g., mountains), or the biosphere. This is
-the category of themes that relate to the use of such weapons in war.
+A weapon of mass destruction is a nuclear, radiological, chemical, biological,
+or any other weapon that can kill and bring significant harm to a large number
+of humans or cause great damage to human-made structures (e.g., buildings),
+natural structures (e.g., mountains), or the biosphere. The use of such
+weapons in war is featured.
 
 :: Parents
 war
