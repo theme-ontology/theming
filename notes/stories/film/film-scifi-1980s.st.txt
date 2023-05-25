@@ -7220,7 +7220,7 @@ attack from outer space by a powerful conquering enemy [A spacecraft from Mars l
 mind control technology [The Martian invaders mind controlled people, using receivers on the backs of their necks, as part of an elaborate plot to steal Earth's copper.]
 
 :: Minor Themes
-astronomy occupation [David enthusiastically watched a meteor shower, had all sorts of space posters in his bedroom, and expressed a desire to become an astronaut when he grew up.]
+scientist occupation <astronomer> [David enthusiastically watched a meteor shower, had all sorts of space posters in his bedroom, and expressed a desire to become an astronaut when he grew up.]
 speculative spaceship [David watched on as a strange alien spacecraft landed over the hill beyond his house.]
 father and son [David felt creeped out after his father had become co-opted by Martians.]
 mother and son [David avoided his mother as much as possible once it became apparent that she'd become co-opted by Martians.]
@@ -10085,7 +10085,7 @@ foreign point of view [Celeste, a beautiful alien undercover agent, repeatedly s
 romantic love [Steven fell passionately in love with the beautiful alien Celeste and the soon married.]
 husband and wife [Steven and the alien Celeste lived as husband and wife from about the mid point in the film.]
 stepmother and stepdaughter [The beautiful alien Celeste became Jessie's stepmother.]
-astronomy occupation [The radar astronomer Steven Mills was fired from his job at a government SETI institute after he nearly blew up the place by harnessing lightning from a passing thunderstorm to boost the power of the Klystron machine he was using. Aliens later got him rehired.]
+scientist occupation <astronomy. [The radar astronomer Steven Mills was fired from his job at a government SETI institute after he nearly blew up the place by harnessing lightning from a passing thunderstorm to boost the power of the Klystron machine he was using. Aliens later got him rehired.]
 accidental alien destruction of planetary civilization [Celeste's home world was going to be destroyed unless Steven succeeded in resending the radio transmission he sent to the planet in the first place. The idea, such as it was, is that the radar bean Steven inadvertently sent into the planet's atmosphere made the planet's gravity increase continuously, jeopardizing the civilization thereon; repeating the transmission would somehow reverse the process, and save Celeste's planet from destruction.]
 
 :: Minor Themes
@@ -10425,7 +10425,7 @@ human vs. monster [The crew of a underwater geological facility were stalked and
 unethical business practices [Tri-Oceanic Corporation executives left the crew of their company's underwater geological facility for dead rather than risk exposing themselves to a potential market loss that might result from attempting to pick them up.]
 
 :: Minor Themes
-geology occupation [The geologist Steven Beck supervised an undersea mining operation.]
+scientist occupation <geology> [The geologist Steven Beck supervised an undersea mining operation.]
 medical occupation [Dr. Glen 'Doc' Thompson was treating the underwater geological facility various crew members when they started to manifest strange lesions on their bodies.]
 speculative diving suit [The underwater geological facility was equipped with high-tech diving suits that allowed the crew to walk around on the ocean floor.]
 
