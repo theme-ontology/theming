@@ -2650,7 +2650,7 @@ putting differences aside [Professors Challenger and Summerlee agreed to put the
 hexes and curses [Palulu was convinced that his tribe was cursed after the Belgian colonists killed a sacred dinosaur in cold blood.]
 science as magic to the primitive [Professor Summerlee remarked about how their scientific tools must seem miraculous to the secluded African tribes people who'd come to regard him and his party members as gods.]
 academic occupation [Challenger and Summerlee were both stereotypically haughty, British professors.]
-geology occupation [Professor Summerlee, a geologist by training, was adamant that Professor Challenger's plan to prevent a volcanic eruption by detonating a high-explosive in its core would never work.]
+scientist occupation <geology> [Professor Summerlee, a geologist by training, was adamant that Professor Challenger's plan to prevent a volcanic eruption by detonating a high-explosive in its core would never work.]
 romantic love [Edward Malone and Jenny Nielson shared a passionate kiss toward the end of the film.]
 reconciliation [The feuding professors Challenger and Summerlee shook hands and buried the hatched at the film's conclusion.]
 the dangers of unfettered scientific advancement [Professor Challenger said he would destroy the formula for the high-explosive he'd invented, even though he succeed in using it to prevent a volcanic eruption, because it was too dangerous in the wrong hands.]
@@ -2809,7 +2809,7 @@ human vs. monster [Tom and Doc Roller were doing everything they could to exterm
 
 :: Minor Themes
 romantic jealousy [Heidi's sort-of boyfriend Brad was jealous over her ex-boyfriend Tom was staying at her bed and breakfast.]
-geology occupation [The geologist Tom Baines was sent to Comet Valley to study a meteor that'd been discovered there. Notably, Tom explained the difference between a meteorite and a meteor while presenting some slides to the townspeople.]
+scientist occupation <geology> [The geologist Tom Baines was sent to Comet Valley to study a meteor that'd been discovered there. Notably, Tom explained the difference between a meteorite and a meteor while presenting some slides to the townspeople.]
 aunt and niece [The teenager Kim was under the care of her aunt, Heidi.]
 
 :: Not Themes
@@ -9995,7 +9995,7 @@ coping with the death of a parent [Brandon was struggling go get over the death 
 journalism [The local newspaper reporter Paul Bateman was covering the giant amphibian monster attacking Malau story.]
 healthcare in society [The American Jack Elway was pointedly, yet pleasantly surprised to discover that healthcare was free on the island Nation of Malau.]
 pollution in society [It was revealed that some companies had illegally dumped thousands of containers full of chemical pollutants into an ocean ridge somewhere off the coast of Malau.]
-geology occupation [Dr. Ralph Hale was on Malau conducting geological research.]
+scientist occupation <geology> [Dr. Ralph Hale was on Malau conducting geological research.]
 
 
 movie: Godzilla (1998)
