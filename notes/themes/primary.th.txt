@@ -15043,17 +15043,16 @@ unfailingly ten times in a row, but would loose a little finger should he fail
 but once.
 
 
-garbage planet
-==============
+off-world garbage dump
+======================
 
 :: Description
-There is a planet that is systematically and extensively used as a dumping
-ground for refuse. It may be a designated garbage dump of some spacefaring
-civilization, or merely a convenient place for passers by to unload their
-junk.
+There is a garbage dump somewhere away from any inhabited world. 
+The place in question may for example be a moon, a planet, or merely a 
+Lagrange point.
 
 :: Parents
-speculative habitable celestial body
+speculative place
 
 :: Examples
 The presumed dead body of Sergeant Todd was unceremoniously dumped on the
@@ -29223,7 +29222,7 @@ A fantasy world where time runs in reverse, e.g., people are born old and die
 young.
 
 :: Parents
-speculative effect
+speculative time manipulating effect
 opposite world
 
 :: Examples
@@ -38375,7 +38374,7 @@ time loop
 A repeated period of time that is typically re-experienced by those within it.
 
 :: Parents
-speculative effect
+speculative time manipulating effect
 
 :: References
 https://en.wikipedia.org/wiki/Time_loop
