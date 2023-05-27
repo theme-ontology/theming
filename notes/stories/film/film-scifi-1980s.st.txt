@@ -1446,10 +1446,11 @@ facing a hostage situation [Snake Plissken was given 24 hours to rescue the U.S.
 lonewolf way of life [The story's antihero Snake Plissken was the kind of guy who wasn't looking to make any friends and called no man mister.]
 
 :: Minor Themes
-terrorism [A group of revolutionaries hijacked the U.S. President airplane and flew it into a Manhattan building.]
+terrorism [A group of revolutionaries hijacked the U.S. President’s airplane and flew it into a Manhattan building.]
 what if I had to fight to the death [The Duke pitted Snake Plissken in a fight to the death against a mountain of a man.]
 boyfriend and girlfriend [Brain and Maggy.]
 fusion power [The President was heading to a global summit to reveal something about nuclear fusion.]
+aircraft hijacking [A group of revolutionaries hijacked the U.S. President’s airplane and flew it into a Manhattan building.]
 
 
 movie: Heavy Metal (1981)
@@ -2368,7 +2369,7 @@ https://en.wikipedia.org/wiki/Arcadia_of_My_Youth
 facing an invading force [The resistors plotted to rise up in rebellion against their alien oppressors, but it failed.]
 friendship [Tochiro pledged friendship between his and Harlock's two bloodlines for all eternity.]
 social oppression [Aliens]
-resistance movement [Green, humanoid aliens from the Illumidus Empire had conquered Earth and enslaved humanity.]
+resistance movement [The Free Arcadia resistance movement urged people to maintain hope in a new and beautiful future over and over again, even though prospects for such a future looked grim.]
 hope [The Free Arcadia resistance movement radio urged people to maintain hope in a new and beautiful future over and over again, even though prospects for such a future looked grim.]
 
 :: Minor Themes
@@ -3001,7 +3002,8 @@ socialism [The Women's Army led an opposition to a big brother socialist governm
 facing persecution by the government [The Women's Army led the opposition against a big brother government that was overseeing policies that systematically discriminated against women and minorities.]
 lesbianism [The Women's Army was an all female, all lesbian militia. Also something was made of Adelaide being in a relationship with another woman.]
 social oppression [The government, and society more generally, was undermining the economic and social position of women and minorities.]
-resistance movement [The Women's Army spearheaded a resistance against the big brother, socialist government, and this culminated with bombing the World Trade Centers.]
+resistance movement [The government cast the Women's Army as a terrorist organization after some of the members preempted a televised presidential address with a message from one of their leaders. In the end, they bombed the World Trade Centers.]
+terrorism [The government cast the Women's Army as a terrorist organization after some of the members preempted a televised presidential address with a message from one of their leader. In the end, they bombed the World Trade Centers.]
 
 :: Minor Themes
 unemployment in society [Angry, unemployed people were protesting and rioting in the streets. A group of women construction workers were protesting for jobs, chanting the slogan "We want a J.O.B. so we can E.A.T.".]
@@ -3010,7 +3012,6 @@ abortion [The government reigned in funding to an abortion program.]
 suicide [Adelaide was said to have hanged herself in prison, although there was evidence suggesting she was murdered by federal agents.]
 crime [We saw street crime going on here and there. For example, a couple of men assaulted a woman on the street.]
 antigovernment militia movement [The Women's Army went around with guns opposing the big brother, socialist government.]
-terrorism [The government cast the Women's Army as a terrorist organization after some of the members preempted a televised presidential address with a message from one of their leader. In the end, they bombed the World Trade Centers.]
 price inflation in society [A news reported stated that inflation was a problem in this society.]
 
 
@@ -5684,7 +5685,7 @@ human vs. Kafkaesque institution [Sam Lowry, a low-level government employee, wa
 
 :: Major Themes
 escape from reality [Sam frequently daydreamed of himself as a winged warrior saving a damsel in distress.]
-terrorism [The government was battling a terrorist insurgency.]
+terrorist or freedom fighter [The underground resistance movement was brand as a terrorist organization by the totalitarian state that it was fighting to undermine.]
 romantic love [Sam and Jill fell passionately in love.]
 mass consumerism [Consumers for Christ]
 
@@ -7219,7 +7220,7 @@ attack from outer space by a powerful conquering enemy [A spacecraft from Mars l
 mind control technology [The Martian invaders mind controlled people, using receivers on the backs of their necks, as part of an elaborate plot to steal Earth's copper.]
 
 :: Minor Themes
-astronomy occupation [David enthusiastically watched a meteor shower, had all sorts of space posters in his bedroom, and expressed a desire to become an astronaut when he grew up.]
+scientist occupation <astronomer> [David enthusiastically watched a meteor shower, had all sorts of space posters in his bedroom, and expressed a desire to become an astronaut when he grew up.]
 speculative spaceship [David watched on as a strange alien spacecraft landed over the hill beyond his house.]
 father and son [David felt creeped out after his father had become co-opted by Martians.]
 mother and son [David avoided his mother as much as possible once it became apparent that she'd become co-opted by Martians.]
@@ -10084,7 +10085,7 @@ foreign point of view [Celeste, a beautiful alien undercover agent, repeatedly s
 romantic love [Steven fell passionately in love with the beautiful alien Celeste and the soon married.]
 husband and wife [Steven and the alien Celeste lived as husband and wife from about the mid point in the film.]
 stepmother and stepdaughter [The beautiful alien Celeste became Jessie's stepmother.]
-astronomy occupation [The radar astronomer Steven Mills was fired from his job at a government SETI institute after he nearly blew up the place by harnessing lightning from a passing thunderstorm to boost the power of the Klystron machine he was using. Aliens later got him rehired.]
+scientist occupation <astronomy. [The radar astronomer Steven Mills was fired from his job at a government SETI institute after he nearly blew up the place by harnessing lightning from a passing thunderstorm to boost the power of the Klystron machine he was using. Aliens later got him rehired.]
 accidental alien destruction of planetary civilization [Celeste's home world was going to be destroyed unless Steven succeeded in resending the radio transmission he sent to the planet in the first place. The idea, such as it was, is that the radar bean Steven inadvertently sent into the planet's atmosphere made the planet's gravity increase continuously, jeopardizing the civilization thereon; repeating the transmission would somehow reverse the process, and save Celeste's planet from destruction.]
 
 :: Minor Themes
@@ -10424,7 +10425,7 @@ human vs. monster [The crew of a underwater geological facility were stalked and
 unethical business practices [Tri-Oceanic Corporation executives left the crew of their company's underwater geological facility for dead rather than risk exposing themselves to a potential market loss that might result from attempting to pick them up.]
 
 :: Minor Themes
-geology occupation [The geologist Steven Beck supervised an undersea mining operation.]
+scientist occupation <geology> [The geologist Steven Beck supervised an undersea mining operation.]
 medical occupation [Dr. Glen 'Doc' Thompson was treating the underwater geological facility various crew members when they started to manifest strange lesions on their bodies.]
 speculative diving suit [The underwater geological facility was equipped with high-tech diving suits that allowed the crew to walk around on the ocean floor.]
 
@@ -11116,7 +11117,7 @@ sports [Stepan was fencing with a fellow crewman.]
 interplanetary space travel [Maggie arrived on the Moon on a flight from Europa.]
 corruption in society [A highly placed Soviet official was taking bribes to cover up acts of corporate malfeasance on the part of Cruise-McKinney Mines, Inc.]
 unethical business practices [Cruise-McKinney Mines, Inc. was bribing a high level Soviet official in order to not have to pay the Soviets the profits that'd been agreed to under a treaty.]
-terrorism [It was mentioned that terrorists had blown up the Dome of the Rock on a bright sunny day at the high of the tourist season.]
+terrorism [It was mentioned that terrorists had blown up the Dome of the Rock on a bright sunny day at the height of tourist season.]
 invasion of privacy [Louise Mackey was outraged to find out that the Cruise-McKinney Mines corporation had installed surveillance cameras in every module of the Moon base where she worked under in their employ, including in her private quarters.]
 transsexualism [Stepan and Maggie pieced together that Louise Mackey had undergone a sex change operation, and that her true identity was that of the international terrorist John Pedro Vogler. The Moon base commander Dennis Huff, who showed signs of being romantically interested in Louise, was particularly unsettled by this revelation.]
 

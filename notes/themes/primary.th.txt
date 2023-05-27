@@ -1,3 +1,17 @@
+astronomy
+=========
+
+:: Description
+The scientific study of celestial objects and other celestial phenomena is
+featured.
+
+:: Parents
+science
+
+:: References
+https://en.wikipedia.org/wiki/Astronomy
+
+
 AI assistant
 ============
 
@@ -1561,8 +1575,9 @@ aesthetics
 ==========
 
 :: Description
-The branch of philosophy dealing with the nature of art, beauty, and taste;
-and with the creation and appreciation of beauty.
+Aesthetics is the branch of philosophy dealing with the nature of art, beauty,
+taste, as well as with the creation and appreciation of beauty. The theme is
+used whenever an aspect of this branch of philosophy is featured in the story.
 
 :: Parents
 philosophy
@@ -3115,19 +3130,6 @@ speculative technology
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure
-
-
-astronomy
-=========
-
-:: Description
-Topics about celestial objects and other celestial phenomena.
-
-:: Parents
-science
-
-:: References
-https://en.wikipedia.org/wiki/Astronomy
 
 
 atheism
@@ -8829,7 +8831,8 @@ coping with ill-fitting clothes
 
 :: Description
 A character finds themself subject to this most disagreeable circumstance: the
-wearing of items of clothing, for example boots, that are not quite the right size.
+wearing of items of clothing, for example boots, that are not quite the right
+size.
 
 :: Parents
 coping with life issues
@@ -12495,8 +12498,8 @@ facing adversity
 
 :: Description
 A character confronts something difficult that they actively endeavor to
-overcome. This includes matters of survival, for example, making a
-self-sacrifice for (typically) someone.
+overcome. This includes matters of survival, for example, making a self-
+sacrifice for (typically) someone.
 
 :: Parents
 human challenge in life
@@ -14332,9 +14335,8 @@ folk belief
 ===========
 
 :: Description
-This is the category of themes that are about faith-based popular beliefs and
-cultural traditions that fall outside of the typical framework of organized
-religious doctrines and practices.
+A faith-based popular belief or cultural tradition falling outside of the
+doctrines and practices of established religious institutions, is featured.
 
 :: Parents
 the natural world
@@ -17300,8 +17302,8 @@ human character stereotype
 ==========================
 
 :: Description
-There is a person in the story whose character fits a recognizable,
-well-defined, stereotype to a remarkable degree.
+There is a person in the story whose character fits a recognizable, well-
+defined, stereotype to a remarkable degree.
 
 :: Parents
 human character
@@ -18441,13 +18443,13 @@ simultaneously applicable to each member of a group of people.
 personal human experience
 
 :: Notes
-We distinguish between "individual humans", "humans in pairs", and
-"humans in groups" with reference to whose experiences are relevant to the
-thematic idea that is being expressed. For example "coping with problematic
-people" clearly implies the presence of two or more people but the theme is
-only concerned with the experiences of a single observer at a time. "romantic
-relationship", on the other hand, is a category of themes that most often
-examine the interaction between two people and discuss both their experiences
+We distinguish between "individual humans", "humans in pairs", and "humans in
+groups" with reference to whose experiences are relevant to the thematic idea
+that is being expressed. For example "coping with problematic people" clearly
+implies the presence of two or more people but the theme is only concerned
+with the experiences of a single observer at a time. "romantic relationship",
+on the other hand, is a category of themes that most often examine the
+interaction between two people and discuss both their experiences
 simultaneously. Likewise "humans in group" imply themes that examine the
 constitution of a whole group of people, for example the idea that "lack of
 trust can lead to group dysfunction."
@@ -18492,13 +18494,13 @@ attitudes of two people vis-à-vis each other.
 personal human experience
 
 :: Notes
-We distinguish between "individual humans", "humans in pairs", and
-"humans in groups" with reference to whose experiences are relevant to the
-thematic idea that is being expressed. For example "coping with problematic
-people" clearly implies the presence of two or more people but the theme is
-only concerned with the experiences of a single observer at a time. "romantic
-relationship", on the other hand, is a category of themes that most often
-examine the interaction between two people and discuss both their experiences
+We distinguish between "individual humans", "humans in pairs", and "humans in
+groups" with reference to whose experiences are relevant to the thematic idea
+that is being expressed. For example "coping with problematic people" clearly
+implies the presence of two or more people but the theme is only concerned
+with the experiences of a single observer at a time. "romantic relationship",
+on the other hand, is a category of themes that most often examine the
+interaction between two people and discuss both their experiences
 simultaneously. Likewise "humans in group" imply themes that examine the
 constitution of a whole group of people, for example the idea that "lack of
 trust can lead to group dysfunction."
@@ -19148,13 +19150,13 @@ experiences.
 personal human experience
 
 :: Notes
-We distinguish between "individual humans", "humans in pairs", and
-"humans in groups" with reference to whose experiences are relevant to the
-thematic idea that is being expressed. For example "coping with problematic
-people" clearly implies the presence of two or more people but the theme is
-only concerned with the experiences of a single observer at a time. "romantic
-relationship", on the other hand, is a category of themes that most often
-examine the interaction between two people and discuss both their experiences
+We distinguish between "individual humans", "humans in pairs", and "humans in
+groups" with reference to whose experiences are relevant to the thematic idea
+that is being expressed. For example "coping with problematic people" clearly
+implies the presence of two or more people but the theme is only concerned
+with the experiences of a single observer at a time. "romantic relationship",
+on the other hand, is a category of themes that most often examine the
+interaction between two people and discuss both their experiences
 simultaneously. Likewise "humans in group" imply themes that examine the
 constitution of a whole group of people, for example the idea that "lack of
 trust can lead to group dysfunction."
@@ -21752,12 +21754,12 @@ magic word
 The use of spoken words to invoke magical energies is featured. Note: A stage
 magician uttering "Abracadabra" before performing a trick does not count.
 
+:: Parents
+folk belief
+
 :: Notes
 A stage magician uttering "Abracadabra" before performing a trick does not
 meet the bar for applying this theme.
-
-:: Parents
-folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Magic_word
@@ -22797,8 +22799,10 @@ metaphysics
 ===========
 
 :: Description
-The branch of philosophy concerned with the fundamental nature of reality and
-such basic concepts as existence, matter, space, time and causation.
+Metaphysics is the branch of philosophy concerned with the fundamental nature
+of reality and such basic concepts as existence, matter, space, time and
+causation. The theme is used whenever a notable idea from this branch of
+philosophy is featured in the story.
 
 :: Parents
 philosophy
@@ -22990,7 +22994,7 @@ mind altering technology
 ========================
 
 :: Description
-A novel technology is used to alter (enhance or perhaps diminish) a person's 
+A novel technology is used to alter (enhance or perhaps diminish) a person's
 mental ability. These are themes that posit technology to manipulate the human
 mind by cloning it, wiping it, moving it, controlling it, and so on.
 
@@ -25110,8 +25114,7 @@ organized religion
 ==================
 
 :: Description
-This is the category of themes pertaining to the doctrines and practices that
-tend to be features of institutional religions.
+A doctrine or practice of an institutionalized religion is featured.
 
 :: Parents
 the natural world
@@ -25831,9 +25834,9 @@ pedophiles
 ==========
 
 :: Description
-We are made to contemplate how adults that are sexually attracted to 
-prepubescent minors affect society, and how such individuals ought to 
-be treated.
+We are made to contemplate how adults that are sexually attracted to
+prepubescent minors affect society, and how such individuals ought to be
+treated.
 
 :: Parents
 sexual crime
@@ -26310,8 +26313,8 @@ philosophy
 ==========
 
 :: Description
-This is a general theme that discusses ideas in philosophy, i.e., the study of
-general and fundamental questions, such as those about existence, reason,
+This is a general theme pertaining to ideas in philosophy, that is, the study
+of general and fundamental questions such as those about existence, reason,
 knowledge, values, mind, and language.
 
 :: Parents
@@ -26652,8 +26655,8 @@ pleasure in eating and drinking
 ===============================
 
 :: Description
-The natural human predilection for reveling in food and/or drink beyond nutritional
-necessity is illustrated.
+The natural human predilection for reveling in food and/or drink beyond
+nutritional necessity is illustrated.
 
 :: Parents
 human pleasure
@@ -30047,9 +30050,9 @@ science
 =======
 
 :: Description
-This is the category of themes that discuss some textbook aspect of mainstream
-modern science, or another. For example, themes featuring uncontroversial
-ideas about relativity theory, DNA sequencing, or cryptography belong here.
+This is a general theme pertaining to science, that is, the systematic
+endeavor that builds and organizes knowledge in the form of testable
+explanations and predictions about the universe.
 
 :: Parents
 the natural world
@@ -31563,17 +31566,21 @@ society
 =======
 
 :: Description
-This is the most general theme about social groupings of people sufficiently large that not everyone personally knows everyone else. For example, the theme may discuss world society as a whole, intra- or inter-societal issues, forms of government, or past and present hot button social issues.
+This is the most general theme about social groupings of people sufficiently
+large that not everyone personally knows everyone else. For example, the theme
+may discuss world society as a whole, intra- or inter-societal issues, forms
+of government, or past and present hot button social issues.
+
+:: Parents
+the human world
 
 :: Notes
-This theme does not apply to small-scale human social interactions, e.g., everyday face-to-face interactions, family life, workplace dynamics, etc.
+This theme does not apply to small-scale human social interactions, e.g.,
+everyday face-to-face interactions, family life, workplace dynamics, etc.
 
 :: References
 https://en.wikipedia.org/wiki/Society
 https://en.wikipedia.org/wiki/Macrosociology
-
-:: Parents
-the human world
 
 
 society consisting of only children
@@ -32478,15 +32485,20 @@ alternate reality
 =================
 
 :: Description
-This is the most general theme about views on the nature of reality considered outside of mainstream thought in a past or present society of significant size relative to the global population. For example, the theme may discuss speculative futures, alternate histories, other worlds, Bigfoot, or magic.
+This is the most general theme about views on the nature of reality considered
+outside of mainstream thought in a past or present society of significant size
+relative to the global population. For example, the theme may discuss
+speculative futures, alternate histories, other worlds, Bigfoot, or magic.
+
+:: Parents
 
 :: Notes
-This is the sort of theme that is often explored in science fiction, fantasy, superhero fiction, science fantasy, horror, utopian and dystopian fiction, supernatural fiction as well as combinations thereof.
+This is the sort of theme that is often explored in science fiction, fantasy,
+superhero fiction, science fantasy, horror, utopian and dystopian fiction,
+supernatural fiction as well as combinations thereof.
 
 :: References
 https://en.wikipedia.org/wiki/Speculative_fiction
-
-:: Parents
 
 
 speculative full body outfit
@@ -34025,8 +34037,8 @@ superseded scientific theory
 ============================
 
 :: Description
-The category of scientific theories that were once more or less accepted but
-have since been largely rejected by the scientific community.
+A scientific theory that was once more or less accepted but has since been
+largely rejected by mainstream science, is featured.
 
 :: Parents
 the natural world
@@ -35282,9 +35294,8 @@ the art of war
 ==============
 
 :: Description
-This is the category of themes that pertain to the discussion of how one most
-effectively conduct fights and warfare. Humanity should be ashamed and
-embarrassed that this is such a large group of themes.
+Featured is how one most effectively conducts warfare. Humanity should be
+ashamed and embarrassed that this is such a large group of themes.
 
 :: Parents
 the natural world
@@ -35303,19 +35314,6 @@ is featured more or less in the whole.
 
 :: Parents
 history
-
-
-astronomy occupation
-====================
-
-:: Description
-An astronomer is engaged in their chosen occupation.
-
-:: Parents
-academic occupation
-
-:: References
-https://en.wikipedia.org/wiki/Astronomer
 
 
 the battle of the sexes
@@ -36181,19 +36179,6 @@ book about Chicago Mobs and promptly became stereotypical gangsters in tos2x20
 https://en.wikipedia.org/wiki/Gangster
 
 
-geology occupation
-==================
-
-:: Description
-A geologist is engaged in their chosen occupation.
-
-:: Parents
-academic occupation
-
-:: References
-https://en.wikipedia.org/wiki/Geology
-
-
 the god is an alien
 ===================
 
@@ -36395,13 +36380,22 @@ personal human experience
 =========================
 
 :: Description
-This is the most general theme about individual humans, their inner experiences, their experiences interacting with other individuals, and their experiences of the world they inhabit. For example, the theme may discuss the individual experiences of members making up a small group of people. Or it may discuss the interpersonal relationship of two people vis-à-vis each other. Or it may discuss the trials and tribulations an individual encounters in their journey through life. Or it may discuss an individual's emotions, desires, and driving passions, etc.
-
-:: Notes
-This theme, and the more specific themes below it by extension, is defined with the perspective of individuals at the center and should be motivated accordingly.
+This is the most general theme about individual humans, their inner
+experiences, their experiences interacting with other individuals, and their
+experiences of the world they inhabit. For example, the theme may discuss the
+individual experiences of members making up a small group of people. Or it may
+discuss the interpersonal relationship of two people vis-à-vis each other. Or
+it may discuss the trials and tribulations an individual encounters in their
+journey through life. Or it may discuss an individual's emotions, desires, and
+driving passions, etc.
 
 :: Parents
 the human world
+
+:: Notes
+This theme, and the more specific themes below it by extension, is defined
+with the perspective of individuals at the center and should be motivated
+accordingly.
 
 
 the human mind and big numbers
@@ -37528,17 +37522,24 @@ the natural world
 =================
 
 :: Description
-This is the most general theme about mainstream views, be they past or present, on the operations of the world absent humans. The theme may discuss widely held existential claims, moral precepts, or views on human nature. It may particularly discuss scientific, religious, philosophical, artistic, and humanist views on the nature of reality.
+This is the most general theme about mainstream views, be they past or
+present, on the operations of the world absent humans. The theme may discuss
+widely held existential claims, moral precepts, or views on human nature. It
+may particularly discuss scientific, religious, philosophical, artistic, and
+humanist views on the nature of reality.
+
+:: Parents
 
 :: Notes
-A view of reality is "mainstream" when it is broadly accepted in society. Fringe notions belong in "alternate reality".
+A view of reality is "mainstream" when it is broadly accepted in society.
+Fringe notions belong in "alternate reality".
 
-The societies falling under the scope of this theme are ones that presently exist on the face of the earth, and past societies the world views of which are reasonably well understood.
+The societies falling under the scope of this theme are ones that presently
+exist on the face of the earth, and past societies the world views of which
+are reasonably well understood.
 
 :: References
 https://en.wikipedia.org/wiki/Nature
-
-:: Parents
 
 
 the qualities of a good leader
