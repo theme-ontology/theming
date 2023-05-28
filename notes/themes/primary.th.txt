@@ -15043,17 +15043,16 @@ unfailingly ten times in a row, but would loose a little finger should he fail
 but once.
 
 
-garbage planet
-==============
+off-world garbage dump
+======================
 
 :: Description
-There is a planet that is systematically and extensively used as a dumping
-ground for refuse. It may be a designated garbage dump of some spacefaring
-civilization, or merely a convenient place for passers by to unload their
-junk.
+There is a garbage dump somewhere away from any inhabited world. 
+The place in question may for example be a moon, a planet, or merely a 
+Lagrange point.
 
 :: Parents
-speculative habitable celestial body
+speculative place
 
 :: Examples
 The presumed dead body of Sergeant Todd was unceremoniously dumped on the
@@ -20902,7 +20901,7 @@ Seen is a process, perhaps aided by technology or magic, in which "life force"
 person to another.
 
 :: Parents
-speculative natural process
+speculative effect
 
 :: Examples
 Taurean women put life force draining headbands on men in tas1x04 "The Lorelei
@@ -25448,7 +25447,7 @@ The hypothesis that life exists throughout the universe and is distributed
 naturally by asteroids and comets or perhaps even at the direction of aliens.
 
 :: Parents
-speculative natural process
+speculative effect
 
 :: References
 https://en.wikipedia.org/wiki/Panspermia
@@ -29125,7 +29124,7 @@ retarded aging process
 A hypothetical process that makes you age much slower than normal.
 
 :: Parents
-speculative natural process
+speculative effect
 
 :: Examples
 McCoy's tricorder scans of the Vaalians in tos2x09 "The Apple" revealed them
@@ -29195,7 +29194,7 @@ There is a character who starts life as old and then becomes younger as time
 passes.
 
 :: Parents
-speculative natural process
+speculative effect
 
 
 reverse psychology
@@ -29223,7 +29222,7 @@ A fantasy world where time runs in reverse, e.g., people are born old and die
 young.
 
 :: Parents
-speculative natural process
+speculative time manipulating effect
 opposite world
 
 :: Examples
@@ -32330,7 +32329,7 @@ speculative being
 =================
 
 :: Description
-There is a novel creature or living entity not found in the real world as it
+There is a novel creature, or living entity, not found in the real world as it
 is presently understood.
 
 :: Parents
@@ -32467,7 +32466,7 @@ This may for example be when an alternative evolutionary history is
 stipulated, or when the evolutionary history of fictional beings is explained.
 
 :: Parents
-speculative natural process
+speculative effect
 
 
 speculative experience
@@ -32737,19 +32736,6 @@ https://en.wikipedia.org/wiki/Nanotechnology_in_fiction
 http://www.sf-encyclopedia.com/entry/nanotechnology
 
 
-speculative natural process
-===========================
-
-:: Description
-There is a hypothetical, and perhaps highly speculative, regularity imposed by
-nature according to which objects in the world interact. These are fanciful
-natural processes, such as a form of super accelerated evolution or time
-running backwards, rather than objects or events.
-
-:: Parents
-alternate reality
-
-
 speculative personal body manipulation
 ======================================
 
@@ -32789,10 +32775,15 @@ speculative place
 =================
 
 :: Description
-There is a domain amenable to human habitation that falls outside the present
-scope of where human beings have so far set foot. These hypothetical domains
-range from futuristic cities to space habitats to habitable exoplanets to
-fabled lands to magical kingdoms in the clouds.
+There is a domain that falls outside the present scope of places that human
+beings have gleaned or set foot in. These hypothetical domains range from
+futuristic cities, to space habitats, to habitable exoplanets, to fabled
+lands, to magical kingdoms in the clouds.
+
+:: Notes
+From a theming point of view these places tend only to be interesting, and by
+extension used as themes, if they are amenable to human habitation or at the
+very least are hypothetically visitable.
 
 :: Parents
 alternate reality
@@ -34041,7 +34032,7 @@ A scientific theory that was once more or less accepted but has since been
 largely rejected by mainstream science, is featured.
 
 :: Parents
-the natural world
+science
 
 :: References
 https://en.wikipedia.org/wiki/Superseded_scientific_theories
@@ -38388,7 +38379,7 @@ time loop
 A repeated period of time that is typically re-experienced by those within it.
 
 :: Parents
-speculative natural process
+speculative time manipulating effect
 
 :: References
 https://en.wikipedia.org/wiki/Time_loop
