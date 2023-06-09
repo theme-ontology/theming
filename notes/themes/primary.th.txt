@@ -1,17 +1,3 @@
-astronomy
-=========
-
-:: Description
-The scientific study of celestial objects and other celestial phenomena is
-featured.
-
-:: Parents
-science
-
-:: References
-https://en.wikipedia.org/wiki/Astronomy
-
-
 AI assistant
 ============
 
@@ -493,6 +479,24 @@ appropriately to them.
 
 :: Parents
 human characters in contrast
+
+
+El Dorado
+=========
+
+:: Description
+This fabled city in South America is featured.
+
+:: Parents
+legendary place
+
+:: Examples
+In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
+meat their doom on the Amazon River while obsessively pursuing the chimera of
+El Dorado.
+
+:: References
+https://en.wikipedia.org/wiki/El_Dorado
 
 
 European dragon
@@ -2021,6 +2025,26 @@ perspective which is implicitly compared with the viewers assumed normal
 perspective.
 
 
+alternate reality
+=================
+
+:: Description
+This is the most general theme about views on the nature of reality considered
+outside of mainstream thought in a past or present society of significant size
+relative to the global population. For example, the theme may discuss
+speculative futures, alternate histories, other worlds, Bigfoot, or magic.
+
+:: Parents
+
+:: Notes
+This is the sort of theme that is often explored in science fiction, fantasy,
+superhero fiction, science fantasy, horror, utopian and dystopian fiction,
+supernatural fiction as well as combinations thereof.
+
+:: References
+https://en.wikipedia.org/wiki/Speculative_fiction
+
+
 alternative medicine
 ====================
 
@@ -2726,6 +2750,42 @@ science
 https://en.wikipedia.org/wiki/Archaeology
 
 
+archaeology occupation
+======================
+
+:: Description
+An archaeologist is engaged in their chosen occupation.
+
+:: Parents
+academic occupation
+archaeology
+
+:: Examples
+Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
+was rudely cut short by Q in tng4x20 "Qpid".
+
+:: References
+https://en.wikipedia.org/wiki/Archaeology
+
+
+architect occupation
+====================
+
+:: Description
+A character is engaged in the planning, design, and supervision of the
+construction of buildings.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Architect
+https://en.wikipedia.org/wiki/Architecture
+
+:: Aliases
+architecture
+
+
 are humans more than machines
 =============================
 
@@ -3130,6 +3190,20 @@ speculative technology
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure
+
+
+astronomy
+=========
+
+:: Description
+The scientific study of celestial objects and other celestial phenomena is
+featured.
+
+:: Parents
+science
+
+:: References
+https://en.wikipedia.org/wiki/Astronomy
 
 
 atheism
@@ -3771,6 +3845,17 @@ their enemy.
 human worrying about self
 
 
+beholding the Earth from space
+==============================
+
+:: Description
+A character takes pointed satisfaction in viewing the planet Earth from the
+vantage point of outer space.
+
+:: Parents
+pleasure in nature
+
+
 being ashamed of who you are
 ============================
 
@@ -3804,6 +3889,20 @@ facing organized pursuit
 :: Examples
 In ahp1x16 "You Got to Have Luck", Sam is a felon escaped from prison and
 tries to evade recapture by the police.
+
+
+being physically conjoined to another
+=====================================
+
+:: Description
+We are made to imagine what it would be like to be physically connected, like
+a conjoined twin, to another person.
+
+:: Parents
+speculative experience
+
+:: References
+https://en.wikipedia.org/wiki/Conjoined_twins
 
 
 being that feeds on electricity
@@ -3965,6 +4064,21 @@ The ramifications of big banking in society are explored.
 
 :: Parents
 socioeconomic issue
+
+
+bigamy
+======
+
+:: Description
+In cultures where monogamy is mandated, bigamy is the act of entering into a
+marriage with one person while still legally married to another.
+
+:: Parents
+polygamy
+sexual crime
+
+:: References
+https://en.wikipedia.org/wiki/Bigamy
 
 
 binary star system
@@ -4394,6 +4508,27 @@ romantic relationship issue
 
 :: References
 https://en.wikipedia.org/wiki/Bondage_(BDSM)
+
+
+boredom
+=======
+
+:: Description
+Someone is feeling bored and depressed with their life and existence.
+
+:: Parents
+human emotion
+
+:: Examples
+General Trelane (retired), a.k.a. the Squire of Gothos, held an enterprise
+landing party against their will to help spice up his life in tos1x18 "The
+Squire of Gothos".
+
+:: References
+https://en.wikipedia.org/wiki/Boredom
+
+:: Aliases
+ennui
 
 
 boss and employee
@@ -4889,6 +5024,17 @@ human way of life
 https://en.wikipedia.org/wiki/Carpe_diem
 
 
+carpentry occupation
+====================
+
+:: Description
+A character works professionally with creating things out of wood and related
+materials.
+
+:: Parents
+human occupational activity
+
+
 carrot vs. stick
 ================
 
@@ -5105,6 +5251,23 @@ In tz1959e4x08 "Miniature", Charley kept looking into a museum doll house and
 finding it alive with activity that no one else perceived. After long pining
 for this world, he is suddenly transported into it himself and becomes one of
 its actors.
+
+
+charitable organization
+=======================
+
+:: Description
+A charitable organization, or "charity", is a non-profit organization whose
+primary objectives are philanthropy and social well-being of persons.
+
+:: Parents
+national social issue
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Charitable_organization
 
 
 charitable volunteering
@@ -6405,6 +6568,16 @@ intellects. The story concludes with a disheveled Stalker complaining about
 those idiotic intellectuals.
 
 
+communal mistrust
+=================
+
+:: Description
+People are duly or unduly mistrustful of a member of their community.
+
+:: Parents
+humans interacting
+
+
 communicating with deaf people
 ==============================
 
@@ -6732,6 +6905,18 @@ another character.
 criminal fraud
 
 
+confessing to a wrongdoing vs. keeping quiet
+============================================
+
+:: Description
+A character considers whether to "come clean" and owe up to something they did
+that they should not have done, or whether to simply stay silent and hope they
+wont be found out.
+
+:: Parents
+self-preservation vs. conscience
+
+
 conflict of cultural norms
 ==========================
 
@@ -6872,6 +7057,28 @@ coming to terms with things
 Kodos the Executioner, a.k.a. Anton Karidian, was haunted by his decision to
 sentence some 4,000 colonists to death as governor of Tarsus IV in tos1x12
 "The Conscience of the King".
+
+
+conjoined twins
+===============
+
+:: Description
+There are a pair of twins that were physically joined in utero, that is,
+before they were born.
+
+:: Parents
+twin and twin
+being physically conjoined to another
+
+:: Examples
+In tftc1989e2x17 "My Brother's Keeper", Frank and Eddie are Siamese twins and
+literally joined at the hip. Their combined epidermis merged there, and they
+share a circulatory system. An eccentric German physician gives them each a
+50/50 chance of surviving a separation procedure, should they choose to
+undergo it.
+
+:: References
+https://en.wikipedia.org/wiki/Conjoined_twins
 
 
 conservative vs. liberal
@@ -8260,6 +8467,18 @@ of others.
 human social position
 
 
+coping with ill-fitting clothes
+===============================
+
+:: Description
+A character finds themself subject to this most disagreeable circumstance: the
+wearing of items of clothing, for example boots, that are not quite the right
+size.
+
+:: Parents
+coping with life issues
+
+
 coping with infertility
 =======================
 
@@ -8826,18 +9045,6 @@ Captain Picard was mortified to have his former lover Vash aboard the
 Enterprise-D in tng4x20 "Qpid".
 
 
-coping with ill-fitting clothes
-===============================
-
-:: Description
-A character finds themself subject to this most disagreeable circumstance: the
-wearing of items of clothing, for example boots, that are not quite the right
-size.
-
-:: Parents
-coping with life issues
-
-
 corporal punishment
 ===================
 
@@ -8856,6 +9063,20 @@ sometimes cane at a gallop) to whom he had been assigned as a slave.
 
 :: References
 https://en.wikipedia.org/wiki/Corporal_punishment
+
+
+corporate executive
+===================
+
+:: Description
+A character working at large firm in a senior management capacity is engaged
+in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Corporate_title
 
 
 corporation interfering in politics
@@ -10045,6 +10266,27 @@ view.
 human mental condition
 
 
+demagoguery
+===========
+
+:: Description
+Someone, typically an aspiring popular leader or a "rabble-rouser", in a
+political context uses speeches, fine or incendiary words, rhetorical tricks
+and the like, to whip up the passions of the crowd.
+
+:: Parents
+persuasion of groups by rhetoric
+
+:: Notes
+It is often the case that the "crowd" consists of commoners and that they are
+being organized in opposition to an elite. This is not a logical necessity.
+The theme would also apply in a story if a group of aristocrats were being
+agitated against the lower classes, to take but one example.
+
+:: References
+https://en.wikipedia.org/wiki/Demagogue
+
+
 democracy
 =========
 
@@ -10914,6 +11156,16 @@ the fine arts and the humanities
 https://en.wikipedia.org/wiki/Drawing
 
 
+dream interpretation
+====================
+
+:: Description
+Dreams are interpreted in a highly metaphorical or otherwise esoteric way.
+
+:: Parents
+folk belief
+
+
 dream recorder
 ==============
 
@@ -11599,6 +11851,22 @@ secret Vulcan mating urges to Captain Kirk in tos2x05 "Amok Time".
 https://en.wikipedia.org/wiki/Embarrassment
 
 
+embezzlement
+============
+
+:: Description
+Embezzlement is a type of financial fraud involving the misappropriation of
+assets. Typically it is used with regards to the theft of money from an
+organization or company such as an employer. For example, a lawyer might
+embezzle funds from the trust accounts of their clients; a financial advisor
+might embezzle the funds of investors; and a husband or a wife might embezzle
+funds from a bank account jointly held with the spouse or peer.
+
+:: Parents
+theft
+criminal fraud
+
+
 emergently intelligent being
 ============================
 
@@ -11611,6 +11879,20 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Noogenesis
+
+
+emotional attachment to a thing
+===============================
+
+:: Description
+A character has a significant emotional attachment to an inanimate object,
+typically a cherished possession.
+
+:: Parents
+human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Comfort_object
 
 
 emotional overwhelm
@@ -11696,6 +11978,19 @@ corrupt and over-regulated Earth from its ongoing energy crisis.
 
 :: References
 https://en.wikipedia.org/wiki/Energy_crisis
+
+
+engaged couple
+==============
+
+:: Description
+The relationship between two people engaged to be married is featured.
+
+:: Parents
+human familial relationship
+
+:: Aliases
+fiancé and fiancée
 
 
 engineered orbital structure
@@ -12171,6 +12466,26 @@ conspires to keep the other weak in order to have a more lopsided bargain.
 social ethical dilemma
 
 
+explosives
+==========
+
+:: Description
+The chemistry and technology of making things that explode is featured.
+Gunpowder, for example, is a mixture of sulfur, charcoal, and potassium
+nitrate (saltpeter) with the sulfur and charcoal acting as fuels, while the
+saltpeter functions as an oxidizer.
+
+:: Parents
+technology
+
+:: Examples
+Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
+the legendary fight to the death in tos1x19 "Arena".
+
+:: References
+https://en.wikipedia.org/wiki/Gunpowder
+
+
 exponential growth
 ==================
 
@@ -12482,6 +12797,20 @@ human vs. human
 A ragtag band of space hippies took over the Enterprise with the intention of
 commandeering the vessel and taking it to the mythical planet Eden in tos3x20
 "The Way to Eden".
+
+
+facing a stalker
+================
+
+:: Description
+A character is illicitly and repeatedly surveilled by someone, for example, by
+a former lover.
+
+:: Parents
+human vs. human
+
+:: References
+https://en.wikipedia.org/wiki/Stalking
 
 
 facing a vermin infestation
@@ -13668,6 +13997,24 @@ university.
 https://en.wikipedia.org/wiki/Female_education
 
 
+female empowerment
+==================
+
+:: Description
+The idea that women are more capable of feats than perhaps society and
+themselves give them credit for.
+
+:: Parents
+gender issue
+
+:: References
+https://en.wikipedia.org/wiki/Girl_power
+https://en.wikipedia.org/wiki/Women%27s_empowerment
+
+:: Aliases
+girl power
+
+
 female independence
 ===================
 
@@ -13846,19 +14193,6 @@ special interest group issue
 
 :: References
 https://en.wikipedia.org/wiki/Feral_child
-
-
-engaged couple
-==============
-
-:: Description
-The relationship between two people engaged to be married is featured.
-
-:: Parents
-human familial relationship
-
-:: Aliases
-fiancé and fiancée
 
 
 fictional character come to life
@@ -15045,22 +15379,6 @@ unfailingly ten times in a row, but would loose a little finger should he fail
 but once.
 
 
-off-world garbage dump
-======================
-
-:: Description
-There is a garbage dump somewhere away from any inhabited world. 
-The place in question may for example be a moon, a planet, or merely a 
-Lagrange point.
-
-:: Parents
-speculative place
-
-:: Examples
-The presumed dead body of Sergeant Todd was unceremoniously dumped on the
-Arcadia 234 waste disposal planet in "Soldier" (1998).
-
-
 gardening
 =========
 
@@ -15129,6 +15447,24 @@ https://en.wikipedia.org/wiki/Gender_bender
 
 :: Aliases
 androgyny
+
+
+gender in crime statistics
+==========================
+
+:: Description
+Discussed are the differences between men and women as the perpetrators or
+victims of crime, in aggregate.
+
+:: Parents
+gender issue
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Sex_differences_in_crime
+
+:: Aliases
+sex differences in crime
 
 
 gender in sports
@@ -15544,24 +15880,6 @@ size distinguished being
 https://en.wikipedia.org/wiki/Giant
 
 
-female empowerment
-==================
-
-:: Description
-The idea that women are more capable of feats than perhaps society and
-themselves give them credit for.
-
-:: Parents
-gender issue
-
-:: References
-https://en.wikipedia.org/wiki/Girl_power
-https://en.wikipedia.org/wiki/Women%27s_empowerment
-
-:: Aliases
-girl power
-
-
 girlfriend and girlfriend
 =========================
 
@@ -15948,6 +16266,20 @@ The relationship between a grandmother and her grandson is featured.
 human familial relationship
 
 
+grave robbery
+=============
+
+:: Description
+Grave robbery, tomb robbing, or tomb raiding is the act of uncovering a grave,
+tomb or crypt to steal commodities.
+
+:: Parents
+theft
+
+:: References
+https://en.wikipedia.org/wiki/Grave_robbery
+
+
 gravity manipulating technology
 ===============================
 
@@ -15989,6 +16321,18 @@ only way to protect your own people?
 
 :: Parents
 social ethical dilemma
+
+
+greedy heir
+===========
+
+:: Description
+Someone, usually an aging or sick character, is bothered by a potential
+beneficiary who is overly concerned about their future inheritance.
+
+:: Parents
+human character
+the lust for gold
 
 
 gremlin
@@ -16466,6 +16810,20 @@ happened after a great social upheaval such as was World War 2.
 political issue
 
 
+health and fitness
+==================
+
+:: Description
+A character incorporates noncompetitive exercise and healthy eating habits
+into their general lifestyle.
+
+:: Parents
+human regular activity
+
+:: References
+https://en.wikipedia.org/wiki/Physical_fitness
+
+
 healthcare in society
 =====================
 
@@ -16711,6 +17069,22 @@ metaphysics
 https://en.wikipedia.org/wiki/Historical_determinism
 
 
+historical event
+================
+
+:: Description
+An event from real human history is discussed or otherwise featured.
+
+:: Parents
+history
+
+:: Notes
+The story must clearly identify the event in question, but there is no
+requirement that it be otherwise "correct" in what it has to say.
+
+:: References
+
+
 historical figure
 =================
 
@@ -16759,6 +17133,32 @@ society
 
 :: References
 https://en.wikipedia.org/wiki/History
+
+
+history occupation
+==================
+
+:: Description
+A historian is engaged in their chosen occupation.
+
+:: Parents
+academic occupation
+
+:: References
+https://en.wikipedia.org/wiki/Historian
+
+
+hitman occupation
+=================
+
+:: Description
+A character has made a profession out of killing people in return for payment.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Contract_killing
 
 
 hoaxes in society
@@ -17062,6 +17462,17 @@ a general disaster, where the opportunity might present itself through mere
 chance.
 
 
+how to cover up a murder
+========================
+
+:: Description
+A character takes measures to prevent the authorities from discovering the
+truth about a murder that has been committed.
+
+:: Parents
+how to commit a crime and get away with it
+
+
 how to crack a safe
 ===================
 
@@ -17080,6 +17491,41 @@ strategies, heavy machines, and explosives.
 
 :: References
 https://en.wikipedia.org/wiki/Safe-cracking
+
+
+how to dispose of a corpse and get away with it
+===============================================
+
+:: Description
+We are made to ponder clever ways in which one might contrive to illicitly and
+quietly dispose of a corpse one has been inconveniently hampered with. The
+usual scenario is that the character saddled with the dilemma produced said
+corpse in the first place by, intentionally or otherwise, killing the living
+person that preceded it.
+
+:: Parents
+how to commit a crime and get away with it
+
+:: References
+https://en.wikipedia.org/wiki/Disposal_of_human_corpses#Criminal_disposal
+
+
+how to fake one's own death
+===========================
+
+:: Description
+A character purposely deceives others into believing they are dead when, in
+fact, they are not.
+
+:: Parents
+how to commit a crime and get away with it
+
+:: References
+https://en.wikipedia.org/wiki/Faked_death
+
+:: Aliases
+staged death
+pseudocide
 
 
 how to handle a hostage situation
@@ -17831,6 +18277,24 @@ form of recognition from others.
 https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Self-esteem
 
 
+human self-reflection
+=====================
+
+:: Description
+This a general theme pertaining to the examination of one's own person, for
+example, desires, motives, one's own conscience, etc.
+
+:: Parents
+individual humans
+
+:: Examples
+"human self improvement" is the main specialization of this theme because most
+often when a character is considering themself it seems they do so with a
+desire to improve on themself.
+
+:: References
+
+
 human self-sacrifice
 ====================
 
@@ -17945,22 +18409,26 @@ status in a group is lowered.
 :: References
 
 
-human self-reflection
-=====================
+human thought virus
+===================
 
 :: Description
-This a general theme pertaining to the examination of one's own person, for
-example, desires, motives, one's own conscience, etc.
+There is an "information" virus that can invade the thought processes of a
+human and transmit itself to other humans by means of communication. It is
+thus more like a computer virus than a biological virus, except in that it
+infects biological information systems rather than machines.
 
 :: Parents
-individual humans
+speculative mind altering effect
 
 :: Examples
-"human self improvement" is the main specialization of this theme because most
-often when a character is considering themself it seems they do so with a
-desire to improve on themself.
+In tz1985e1x21a "Need to Know", we saw how people in a little village started
+going insane one after the other because of a confounding and viral idea about
+the meaning of life, that was whispered by an infected person to someone who
+would become the next victim in turn.
 
-:: References
+:: Aliases
+memetic virus
 
 
 human tough decision
@@ -18415,6 +18883,17 @@ https://en.wikipedia.org/wiki/Mutants_in_fiction
 http://www.sf-encyclopedia.com/entry/mutants
 
 
+humanoid robot
+==============
+
+:: Description
+An automaton that resembles a human being is featured.
+
+:: Parents
+artificial intelligence
+speculative robot
+
+
 humans at work
 ==============
 
@@ -18672,6 +19151,21 @@ speculative habitable celestial body
 
 :: References
 https://en.wikipedia.org/wiki/Ice_planet
+
+
+identical twins
+===============
+
+:: Description
+There's a monozygotic pair of twins (or higher order multiple), i.e., two
+twins that are virtually identical on account of having the same DNA. The
+relationship between these two characters is featured.
+
+:: Parents
+twin and twin
+
+:: References
+https://en.wikipedia.org/wiki/Twin#Monozygotic_(identical)_twins
 
 
 if it ain't broke don't fix it
@@ -20665,6 +21159,20 @@ law and order issue
 https://en.wikipedia.org/wiki/Law_of_obligations
 
 
+legal occupation
+================
+
+:: Description
+A character working directly with the interpretation of law, for example a
+lawyer, prosecutor, or judge, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Legal_proceeding
+
+
 legal punishment
 ================
 
@@ -20690,6 +21198,18 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Legendary_creature
+
+
+legendary historical figure
+===========================
+
+:: Description
+A person who has been suggested to have been a real historical figure but for
+whose existence there is no accepted historical evidence, is discussed or
+otherwise featured.
+
+:: Parents
+history
 
 
 legendary magic wielder
@@ -21392,6 +21912,18 @@ career choice
 human romantic relationship choice
 
 
+love vs. conscience
+===================
+
+:: Description
+A character is made to choose between love one on one hand, and doing what
+they feel is right on the other.
+
+:: Parents
+personal ethical dilemma
+human romantic relationship choice
+
+
 love vs. faith
 ==============
 
@@ -21660,6 +22192,21 @@ human character stereotype
 https://en.wikipedia.org/wiki/Category:Mad_scientist_films
 
 
+madness inducing painting
+=========================
+
+:: Description
+There is a painting, or similarly visual work of art, that entices its
+beholders towards insanity.
+
+:: Parents
+speculative madness inducing effect
+magic object
+
+:: Examples
+
+
+
 magic bag
 =========
 
@@ -21896,6 +22443,20 @@ homosexuality in TNG.
 https://en.wikipedia.org/wiki/Homosexuality
 
 
+male lasciviousness
+===================
+
+:: Description
+A male character is stereotypically licentious, i.e., makes offensive comments
+of a sexual nature or otherwise expresses an offensive preoccupation with sex.
+
+:: Parents
+male stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Lascivious_behavior
+
+
 male midlife crisis
 ===================
 
@@ -22076,6 +22637,25 @@ https://en.wikipedia.org/wiki/Etiquette
 
 :: Aliases
 etiquette
+
+
+maritime occupation
+===================
+
+:: Description
+Someone working on or with a seafaring vessel is engaged in their chosen
+occupation. Typically this means sailors, captains, and other naval officers.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
+
+:: References
+https://en.wikipedia.org/wiki/Sailor
 
 
 marriage ceremony
@@ -22469,6 +23049,24 @@ matter manipulating technology
 http://www.sf-encyclopedia.com/entry/transmutation
 
 
+mechanic occupation
+===================
+
+:: Description
+A character works professionally with building, maintaining, or repairing
+machinery. In particular they may be an auto mechanic, i.e., someone who work
+this way with cars.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Mechanic
+
+:: Aliases
+auto mechanic
+
+
 mechanical insect
 =================
 
@@ -22486,17 +23084,6 @@ had been created to pollinate plants, because real bees had died out.
 
 :: References
 https://en.wikipedia.org/wiki/RoboBee
-
-
-humanoid robot
-==============
-
-:: Description
-An automaton that resembles a human being is featured.
-
-:: Parents
-artificial intelligence
-speculative robot
 
 
 medical assistance to the enemy
@@ -22527,6 +23114,20 @@ whim.
 
 :: References
 https://en.wikipedia.org/wiki/Medical_ethics
+
+
+medical occupation
+==================
+
+:: Description
+A character working with health care, typically in a hospital or comparable
+institution, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Health_professional
 
 
 medical risk taking
@@ -22568,6 +23169,20 @@ science
 
 :: References
 https://en.wikipedia.org/wiki/Medicine
+
+
+meditation
+==========
+
+:: Description
+A character is engaged in the practice of coming to a deep rest while still
+remaining conscious, perhaps as a form of relaxation.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Meditation
 
 
 meeting the parents
@@ -22647,6 +23262,22 @@ crackpot theory
 
 :: References
 https://en.wikipedia.org/wiki/Men_in_black
+
+
+mending one's wicked ways
+=========================
+
+:: Description
+A once wicked character sets out to reform and become good, or at least to
+cease doing the wicked things they were doing.
+
+:: Parents
+becoming a nicer person
+
+:: Examples
+In ahh1x18 "A Tangled Web", the renowned jewel thief David Chesterman, for the
+sake of his beloved new bride, swears to give up his jewel thieving ways and
+become an honest Joe. Alas, it ends in misery.
 
 
 menopause
@@ -22928,6 +23559,23 @@ discipline is maintained within the military or military-like groups.
 
 :: References
 https://en.wikipedia.org/wiki/Military
+
+
+military related work
+=====================
+
+:: Description
+There is a character whose main occupation involves being part of the armed
+forces of a putative state, or the like. This may, for example, be because
+they work professionally as an officer or because they are conscripted as
+privates.
+
+:: Parents
+human occupational activity
+
+:: Aliases
+military occupation
+military profession
 
 
 military retaliation to discourage
@@ -24714,6 +25362,21 @@ world Argo in tas1x13 "The Ambergris Element".
 https://en.wikipedia.org/wiki/Ocean_planet
 
 
+off-world garbage dump
+======================
+
+:: Description
+There is a garbage dump somewhere away from any inhabited world. The place in
+question may for example be a moon, a planet, or merely a Lagrange point.
+
+:: Parents
+speculative place
+
+:: Examples
+The presumed dead body of Sergeant Todd was unceremoniously dumped on the
+Arcadia 234 waste disposal planet in "Soldier" (1998).
+
+
 off-world prison colony
 =======================
 
@@ -25495,6 +26158,22 @@ A device used to paralyze people. The effect is typically temporary.
 speculative weapon
 
 
+paramour and paramour
+=====================
+
+:: Description
+Two characters are not married to each other but are in a reasonably stable
+long-term romantic relationship that is somewhat or wholly antithetical to
+prevailing social norms, and usually clandestine. Especially this is the case
+if at least one of the two characters is married to someone else.
+
+:: Parents
+romantic relationship
+
+:: References
+https://en.wiktionary.org/wiki/paramour
+
+
 parasitic being
 ===============
 
@@ -26146,6 +26825,28 @@ ghost
 https://en.wikipedia.org/wiki/Ghost
 
 
+personal human experience
+=========================
+
+:: Description
+This is the most general theme about individual humans, their inner
+experiences, their experiences interacting with other individuals, and their
+experiences of the world they inhabit. For example, the theme may discuss the
+individual experiences of members making up a small group of people. Or it may
+discuss the interpersonal relationship of two people vis-à-vis each other. Or
+it may discuss the trials and tribulations an individual encounters in their
+journey through life. Or it may discuss an individual's emotions, desires, and
+driving passions, etc.
+
+:: Parents
+the human world
+
+:: Notes
+This theme, and the more specific themes below it by extension, is defined
+with the perspective of individuals at the center and should be motivated
+accordingly.
+
+
 personal identity
 =================
 
@@ -26261,6 +26962,20 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Personification
+
+
+persuasion of groups by rhetoric
+================================
+
+:: Description
+Someone uses fine words, speeches, rhetorical tricks etc. to influence a group
+of people.
+
+:: Parents
+humans in group
+
+:: References
+https://en.wikipedia.org/wiki/Rhetoric
 
 
 pervasive marketing in society
@@ -26444,6 +27159,27 @@ character, to a seemingly unjustifiable degree.
 
 :: Parents
 humans interacting
+
+
+plagiarism
+==========
+
+:: Description
+Plagiarism is the fraudulent representation of another person's language,
+thoughts, ideas, or expressions as one's own original work. A character does
+this in the story.
+
+:: Parents
+criminal fraud
+
+:: Notes
+Plagiarism often does not become a police matter in stories where it is
+featured but is still categorized as criminal fraud as it could potentially be
+so. If it is categorically not a legal matter the theme "cheating" might be
+considered instead.
+
+:: References
+https://en.wikipedia.org/wiki/Plagiarism
 
 
 planet being flung out of its orbit
@@ -26642,6 +27378,22 @@ desire to gain an advantage on the other.
 
 :: Parents
 personal ethical dilemma
+
+
+plea bargain dilemma
+====================
+
+:: Description
+An accused person, either guilty or innocent, is presented with the following
+troublesome options: admit guilt and get a lower punishment with certainty, or
+plead innocent and risk getting a much heavier punishment but perhaps with
+some chance of going free.
+
+:: Parents
+personal practical dilemma
+
+:: References
+https://en.wikipedia.org/wiki/Plea_bargain
 
 
 pleasure in coffee
@@ -27091,6 +27843,20 @@ supernatural luck
 In tz1959e2x16 "A Penny for Your Thoughts", a tossed coin that stood on its
 side was said to be a portent of good luck. The coin-tosser subsequently began
 to hear thoughts, and profited greatly from this.
+
+
+position in exchange for sexual favors
+======================================
+
+:: Description
+The practice of some people to solicit sexual favors from an applicant in
+exchange for, e.g., employment is treated from a societal perspective.
+
+:: Parents
+social dysfunction
+
+:: References
+https://en.wikipedia.org/wiki/Casting_couch
 
 
 post-apocalyptic dystopia
@@ -27586,6 +28352,19 @@ on a shabby little moon in tng3x11 "The Hunted".
 https://en.wikipedia.org/wiki/Prisoners%27_rights
 
 
+private investigator occupation
+===============================
+
+:: Description
+A professional private investigation is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Private_investigator
+
+
 privatization in society
 ========================
 
@@ -27664,6 +28443,28 @@ human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Political_campaign
+
+
+promiscuity
+===========
+
+:: Description
+Promiscuity is the practice of engaging in sexual activity frequently with
+different partners or being indiscriminate in the choice of sexual partners.
+
+:: Parents
+human character
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Promiscuity
+https://en.wikipedia.org/wiki/Hypersexuality
+https://en.wikipedia.org/wiki/Lascivious_behavior
+
+:: Aliases
+promiscuousness
 
 
 property rights vs. public interest
@@ -28058,6 +28859,21 @@ career choice
 Picard was mightily tempted to leave his post as captain of the Enterprise-D
 in tng6x20 "The Chase" to do space archaeology with his old mentor Professor
 Richard Galen.
+
+
+putting a child up for adoption
+===============================
+
+:: Description
+Someone struggles with the decision of whether to give their child away for
+adoption.
+
+:: Parents
+human life choice
+human parenting
+
+:: References
+https://en.wikipedia.org/wiki/Adoption
 
 
 putting differences aside
@@ -28657,6 +29473,32 @@ and who will not be reasoned with.
 
 :: Parents
 war
+
+
+reliability of eyewitness testimony
+===================================
+
+:: Description
+Eyewitness testimony is the account a bystander or victim gives in the
+courtroom, describing what that person observed that occurred during the
+specific incident under investigation. Discussed is whether and to what extent
+such testimony can be relied upon in order to pass judgment upon another
+person and punish them for a crime that they are alleged to have committed.
+
+:: Parents
+law and order issue
+social ethical dilemma
+
+:: Notes
+Research in the 20th century demonstrated various ways in which witnesses can
+deceive themselves and be unreliable despite being seemingly honest. Typically
+the situation in which this theme is featured is some variation on
+highlighting this, perhaps startling, revelation. I.e., we are shown that a
+witness is sincere in what they say and yet, in fact, wrong. At stake may be
+another person's life and liberty.
+
+:: References
+https://en.wikipedia.org/wiki/Eyewitness_testimony
 
 
 reliable streak of luck
@@ -29973,6 +30815,21 @@ human character
 https://en.wikipedia.org/wiki/Sadomasochism
 
 
+sailing
+=======
+
+:: Description
+A character is notably engaged in the operation of a boat propelled partly or
+entirely by sails. Typically the character is either a professional sailor, or
+sees sailing as a hobby.
+
+:: Parents
+human regular activity
+
+:: References
+https://en.wikipedia.org/wiki/Sailing
+
+
 saving a friend vs. self-preservation
 =====================================
 
@@ -30097,6 +30954,19 @@ The pros and cons of science that creates super soldiers was discussed in
 tos1x24 "Space Seed".
 
 
+scientist occupation
+====================
+
+:: Description
+A scientist is engaged in their chosen occupation.
+
+:: Parents
+academic occupation
+
+:: References
+https://en.wikipedia.org/wiki/Scientist
+
+
 sculpture
 =========
 
@@ -30173,6 +31043,25 @@ human worrying about self
 :: Examples
 Kevin Uxbridge second guessed himself over having wiped the Husnock race clean
 out of existence in tng3x03 "The Survivors".
+
+
+secret agent occupation
+=======================
+
+:: Description
+A character working with espionage or the like is engaged in their chosen
+profession.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This profession is naturally a gray area between legal, illegal, and war type
+of themes. It is included here because there are many stories that feature
+romanticized ideas of secret agents as heroes.
+
+:: References
+https://en.wikipedia.org/wiki/Espionage
 
 
 secret crush
@@ -30428,6 +31317,18 @@ down, he rationalize kidnapping the Enterprise children instead. He dubiously
 held that the children would be better off with foster parents on Aldea than
 with their real human parents, and that his proposed bargain had been a fair
 one anyways.
+
+
+self-preservation vs. conscience
+================================
+
+:: Description
+Someone struggles with an ethical dilemma where on one hand they can follow
+their conscience and "do the right thing", or on the other hand they can act
+to safeguard their own person, position and property.
+
+:: Parents
+personal ethical dilemma
 
 
 self-replicating gray goo consuming the world
@@ -32256,8 +33157,8 @@ speculative ability related to physical things
 ==============================================
 
 :: Description
-A character has a speculative ability which primarily relates to specific
-non-living physical things, when exercised. Notably, telekinesis is covered by
+A character has a speculative ability which primarily relates to specific non-
+living physical things, when exercised. Notably, telekinesis is covered by
 this theme.
 
 :: Parents
@@ -32484,26 +33385,6 @@ expect to face in their lifetime.
 alternate reality
 
 
-alternate reality
-=================
-
-:: Description
-This is the most general theme about views on the nature of reality considered
-outside of mainstream thought in a past or present society of significant size
-relative to the global population. For example, the theme may discuss
-speculative futures, alternate histories, other worlds, Bigfoot, or magic.
-
-:: Parents
-
-:: Notes
-This is the sort of theme that is often explored in science fiction, fantasy,
-superhero fiction, science fantasy, horror, utopian and dystopian fiction,
-supernatural fiction as well as combinations thereof.
-
-:: References
-https://en.wikipedia.org/wiki/Speculative_fiction
-
-
 speculative full body outfit
 ============================
 
@@ -32705,6 +33586,17 @@ than would be expected by chance.
 speculative effect
 
 
+speculative madness inducing effect
+===================================
+
+:: Description
+There is a hypothetical mechanism that induces madness in the mind, in a way
+that is as yet unknown to occur naturally or by artifice.
+
+:: Parents
+speculative mind altering effect
+
+
 speculative matter manipulating effect
 ======================================
 
@@ -32717,6 +33609,17 @@ speculative effect
 
 :: References
 http://www.sf-encyclopedia.com/entry/transmutation
+
+
+speculative mind altering effect
+================================
+
+:: Description
+There is a hypothetical effect on the mind that is as yet unknown to occur
+naturally or by artifice.
+
+:: Parents
+speculative effect
 
 
 speculative nanotechnology
@@ -32783,13 +33686,13 @@ beings have gleaned or set foot in. These hypothetical domains range from
 futuristic cities, to space habitats, to habitable exoplanets, to fabled
 lands, to magical kingdoms in the clouds.
 
+:: Parents
+alternate reality
+
 :: Notes
 From a theming point of view these places tend only to be interesting, and by
 extension used as themes, if they are amenable to human habitation or at the
 very least are hypothetically visitable.
-
-:: Parents
-alternate reality
 
 
 speculative prediction of the future
@@ -34414,6 +35317,19 @@ In tz1985e1x14a "Still Life", a photograph took photos of Kurukai natives and
 their souls somehow became trapped inside the film.
 
 
+taking the blame for someone else's crime
+=========================================
+
+:: Description
+A character admits to a crime they did not commit, in order to protect the
+real culprit from legal retribution (or someone else from associated
+consequences).
+
+:: Parents
+obstruction of justice
+human self-sacrifice for another
+
+
 taking the law into one's own hands
 ===================================
 
@@ -34482,6 +35398,29 @@ socioeconomic issue
 In tz1959e2x02 "The Man in the Bottle", Mr. and Mrs. Castle lamented
 exorbitant taxes that, of their one million dollar windfall, left them  but a
 measly $5.
+
+
+teaching occupation
+===================
+
+:: Description
+There is a school teacher, or the like, engaged in their chosen profession.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Teacher
+
+
+tech support occupation
+=======================
+
+:: Description
+A character is employed to tend to the machines that other people are using.
+
+:: Parents
+human occupational activity
 
 
 technological risk to civilization
@@ -35221,24 +36160,6 @@ https://en.wikipedia.org/wiki/Afterlife
 afterlife
 
 
-archaeology occupation
-======================
-
-:: Description
-An archaeologist is engaged in their chosen occupation.
-
-:: Parents
-academic occupation
-archaeology
-
-:: Examples
-Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
-was rudely cut short by Q in tng4x20 "Qpid".
-
-:: References
-https://en.wikipedia.org/wiki/Archaeology
-
-
 the art of entrepreneurship
 ===========================
 
@@ -35297,18 +36218,6 @@ the natural world
 
 :: References
 https://en.wikipedia.org/wiki/Military_tactics
-
-
-the rise of civilization
-========================
-
-:: Description
-Humankind's development from pre-historical primate through various stages of
-civilization, cultural and scientific development through to our present state
-is featured more or less in the whole.
-
-:: Parents
-history
 
 
 the battle of the sexes
@@ -35394,17 +36303,6 @@ are typically left ambiguous in real stories.
 
 :: Parents
 personal life and death dilemma
-
-
-carpentry occupation
-====================
-
-:: Description
-A character works professionally with creating things out of wood and related
-materials.
-
-:: Parents
-human occupational activity
 
 
 the common cold
@@ -36299,32 +37197,6 @@ fact a fantastically long lived extraterrestrial from the planet "Vinci",
 where he was the dumbest of his kind.
 
 
-history occupation
-==================
-
-:: Description
-A historian is engaged in their chosen occupation.
-
-:: Parents
-academic occupation
-
-:: References
-https://en.wikipedia.org/wiki/Historian
-
-
-hitman occupation
-=================
-
-:: Description
-A character has made a profession out of killing people in return for payment.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Contract_killing
-
-
 the horrors of war
 ==================
 
@@ -36371,28 +37243,6 @@ other.
 https://en.wikipedia.org/wiki/Good_and_evil
 
 
-personal human experience
-=========================
-
-:: Description
-This is the most general theme about individual humans, their inner
-experiences, their experiences interacting with other individuals, and their
-experiences of the world they inhabit. For example, the theme may discuss the
-individual experiences of members making up a small group of people. Or it may
-discuss the interpersonal relationship of two people vis-à-vis each other. Or
-it may discuss the trials and tribulations an individual encounters in their
-journey through life. Or it may discuss an individual's emotions, desires, and
-driving passions, etc.
-
-:: Parents
-the human world
-
-:: Notes
-This theme, and the more specific themes below it by extension, is defined
-with the perspective of individuals at the center and should be motivated
-accordingly.
-
-
 the human mind and big numbers
 ==============================
 
@@ -36407,6 +37257,20 @@ human nature
 :: Examples
 Spock pointed out in tos2x19 "The Immunity Syndrome" how the human mind finds
 it easier to understand the death of one than the death of a million.
+
+
+the human world
+===============
+
+:: Description
+This is the most general theme about matters intrinsically human. The theme
+may pertain to human individuals, their interpersonal relationships, the
+social structures in which they are embedded, or the interactions among these
+structures.
+
+:: Parents
+
+:: References
 
 
 the importance of being frugal
@@ -36579,38 +37443,6 @@ human occupational activity
 https://en.wikipedia.org/wiki/Language_industry
 
 
-legal occupation
-================
-
-:: Description
-A character working directly with the interpretation of law, for example a
-lawyer, prosecutor, or judge, is engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Legal_proceeding
-
-
-El Dorado
-=========
-
-:: Description
-This fabled city in South America is featured.
-
-:: Parents
-legendary place
-
-:: Examples
-In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
-meat their doom on the Amazon River while obsessively pursuing the chimera of
-El Dorado.
-
-:: References
-https://en.wikipedia.org/wiki/El_Dorado
-
-
 the legend of King Arthur
 =========================
 
@@ -36731,39 +37563,6 @@ Armus became a being of pure evil when the Titans left him behind in tng1x23
 "Skin of Evil".
 
 
-maritime occupation
-===================
-
-:: Description
-Someone working on or with a seafaring vessel is engaged in their chosen
-occupation. Typically this means sailors, captains, and other naval officers.
-
-:: Parents
-human occupational activity
-
-:: Examples
-In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
-of an American clipper ship as they pursued pirates across the Pacific Ocean
-all the way to a volcanic island inhabited by dinosaurs.
-
-:: References
-https://en.wikipedia.org/wiki/Sailor
-
-
-medical occupation
-==================
-
-:: Description
-A character working with health care, typically in a hospital or comparable
-institution, is engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Health_professional
-
-
 the merits of autocracy
 =======================
 
@@ -36774,23 +37573,6 @@ decisively.
 
 :: Parents
 political ideology
-
-
-military related work
-=====================
-
-:: Description
-There is a character whose main occupation involves being part of the armed
-forces of a putative state, or the like. This may, for example, be because
-they work professionally as an officer or because they are conscripted as
-privates.
-
-:: Parents
-human occupational activity
-
-:: Aliases
-military occupation
-military profession
 
 
 the military-industrial complex in society
@@ -36837,6 +37619,30 @@ mythology was really an alien in disguise, is put forth.
 
 :: Parents
 crackpot theory
+
+
+the natural world
+=================
+
+:: Description
+This is the most general theme about mainstream views, be they past or
+present, on the operations of the world absent humans. The theme may discuss
+widely held existential claims, moral precepts, or views on human nature. It
+may particularly discuss scientific, religious, philosophical, artistic, and
+humanist views on the nature of reality.
+
+:: Parents
+
+:: Notes
+A view of reality is "mainstream" when it is broadly accepted in society.
+Fringe notions belong in "alternate reality".
+
+The societies falling under the scope of this theme are ones that presently
+exist on the face of the earth, and past societies the world views of which
+are reasonably well understood.
+
+:: References
+https://en.wikipedia.org/wiki/Nature
 
 
 the nature of animal instincts in humans
@@ -37426,19 +38232,6 @@ granted.
 human idea about life
 
 
-private investigator occupation
-===============================
-
-:: Description
-A professional private investigation is engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Private_investigator
-
-
 the problem of evil
 ===================
 
@@ -37496,30 +38289,6 @@ his novel.
 
 :: References
 https://en.wikipedia.org/wiki/Publishing
-
-
-the natural world
-=================
-
-:: Description
-This is the most general theme about mainstream views, be they past or
-present, on the operations of the world absent humans. The theme may discuss
-widely held existential claims, moral precepts, or views on human nature. It
-may particularly discuss scientific, religious, philosophical, artistic, and
-humanist views on the nature of reality.
-
-:: Parents
-
-:: Notes
-A view of reality is "mainstream" when it is broadly accepted in society.
-Fringe notions belong in "alternate reality".
-
-The societies falling under the scope of this theme are ones that presently
-exist on the face of the earth, and past societies the world views of which
-are reasonably well understood.
-
-:: References
-https://en.wikipedia.org/wiki/Nature
 
 
 the qualities of a good leader
@@ -37653,6 +38422,18 @@ The all-powerful Douwd didn't think so and wiped them out of existence with a
 thought. Then he suffered grievous pangs of conscience.
 
 
+the rise of civilization
+========================
+
+:: Description
+Humankind's development from pre-historical primate through various stages of
+civilization, cultural and scientific development through to our present state
+is featured more or less in the whole.
+
+:: Parents
+history
+
+
 the road to hell is paved with good intentions
 ==============================================
 
@@ -37703,38 +38484,6 @@ special interest group issue
 :: Examples
 The Angosians tucked their genetically engineered war veterans safely away on
 a shabby little moon in tng3x11 "The Hunted".
-
-
-scientist occupation
-====================
-
-:: Description
-A scientist is engaged in their chosen occupation.
-
-:: Parents
-academic occupation
-
-:: References
-https://en.wikipedia.org/wiki/Scientist
-
-
-secret agent occupation
-=======================
-
-:: Description
-A character working with espionage or the like is engaged in their chosen
-profession.
-
-:: Parents
-human occupational activity
-
-:: Notes
-This profession is naturally a gray area between legal, illegal, and war type
-of themes. It is included here because there are many stories that feature
-romanticized ideas of secret agents as heroes.
-
-:: References
-https://en.wikipedia.org/wiki/Espionage
 
 
 the senselessness of war
@@ -37829,35 +38578,12 @@ tos2x01 "Catspaw".
 https://en.wikipedia.org/wiki/Supernatural
 
 
-teaching occupation
-===================
-
-:: Description
-There is a school teacher, or the like, engaged in their chosen profession.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Teacher
-
-
 the tech industry
 =================
 
 :: Description
 A character working in a technology oriented company is engaged in their
 chosen occupation.
-
-:: Parents
-human occupational activity
-
-
-tech support occupation
-=======================
-
-:: Description
-A character is employed to tend to the machines that other people are using.
 
 :: Parents
 human occupational activity
@@ -38615,6 +39341,21 @@ speculative device
 :: References
 https://en.wikipedia.org/wiki/Tractor_beam#Fiction
 http://www.sf-encyclopedia.com/entry/tractor_beam
+
+
+trading sex to get ahead in the world
+=====================================
+
+:: Description
+A character struggles with the moral issue of whether to use sex as a tool in
+order to get things like wealth, power, and influence that are perceived as
+improving one's standing in society.
+
+:: Parents
+compromising one's ethical principles for personal advantage
+
+:: References
+https://en.wikipedia.org/wiki/Casting_couch
 
 
 traditionalism
@@ -39963,16 +40704,6 @@ Captain Nemo built a super high-tech submarine to explore the ocean depths in
 "20000 Leagues Under the Sea" (1954).
 
 
-dream interpretation
-====================
-
-:: Description
-Dreams are interpreted in a highly metaphorical or otherwise esoteric way.
-
-:: Parents
-folk belief
-
-
 war
 ===
 
@@ -40478,6 +41209,20 @@ body.
 what if I found myself in a strange place
 
 
+what if I couldn't distinguish between my enemy and my ally but I had to choose between them
+============================================================================================
+
+:: Description
+We imagine what it would be like in this rather peculiar situation.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+Incredibly, Spock faced exactly this situation when Garth of Izar transformed
+himself to look like Captain Kirk in tos3x16 "Whom Gods Destroy".
+
+
 what if I couldn't trust the veracity of my senses
 ==================================================
 
@@ -40737,17 +41482,6 @@ troubling side of themself.
 
 :: Parents
 what if someone around me changed
-
-
-what if I was incapacitated and stuck in the middle of nowhere
-==============================================================
-
-:: Description
-We imagine what it would be like to, for example, get stuck in rock or
-suchlike far away from assistance, say, while spelunking or mountaineering.
-
-:: Parents
-what if I were in a tight spot
 
 
 what if I got accidentally locked in somewhere
@@ -41352,6 +42086,17 @@ him in a cell as part of a large exhibition of notorious individuals from
 history.
 
 
+what if I was incapacitated and stuck in the middle of nowhere
+==============================================================
+
+:: Description
+We imagine what it would be like to, for example, get stuck in rock or
+suchlike far away from assistance, say, while spelunking or mountaineering.
+
+:: Parents
+what if I were in a tight spot
+
+
 what if I was injured and far away from help
 ============================================
 
@@ -41677,6 +42422,20 @@ A character is trapped inside a nightmare.
 what if I found myself in a strange place
 
 
+what if I were trapped in the belly of a whale
+==============================================
+
+:: Description
+A character is swallowed up by a whale, or similar leviathan, and must face
+the prospect that they may never again see the light of day.
+
+:: Parents
+what if I were in a tight spot
+
+:: References
+https://en.wikipedia.org/wiki/Jonah
+
+
 what if I were trapped underground
 ==================================
 
@@ -41869,20 +42628,6 @@ what if the people around me changed
 :: Examples
 Captain Kirk woke up aboard what appeared to be a completely empty Enterprise
 in tos3x17 "The Mark of Gideon".
-
-
-what if I couldn't distinguish between my enemy and my ally but I had to choose between them
-============================================================================================
-
-:: Description
-We imagine what it would be like in this rather peculiar situation.
-
-:: Parents
-what if I were in a tight spot
-
-:: Examples
-Incredibly, Spock faced exactly this situation when Garth of Izar transformed
-himself to look like Captain Kirk in tos3x16 "Whom Gods Destroy".
 
 
 what if my life was secretly stage managed
@@ -42458,6 +43203,24 @@ what life is like
 https://en.wikipedia.org/wiki/Refugee
 
 
+what it is like to be buried alive
+==================================
+
+:: Description
+We imagine what it would be like to be buried (or bricked up in a mausoleum,
+or some other variation on the same concept) while still alive.
+
+:: Parents
+what if I were in a tight spot
+
+:: References
+https://en.wikipedia.org/wiki/Premature_burial
+
+:: Aliases
+what if I were inhumed alive
+what if I were entombed alive
+
+
 what it is like to be different
 ===============================
 
@@ -42937,6 +43700,19 @@ gender issue
 https://en.wikipedia.org/wiki/Women%27s_suffrage
 
 
+work partner and work partner
+=============================
+
+:: Description
+The relationship between two characters who find themselves in a close co-
+working relationship is explored.
+
+:: Parents
+humans in pairs
+
+:: References
+
+
 work-life balance
 =================
 
@@ -43395,19 +44171,5 @@ biology
 
 :: References
 https://en.wikipedia.org/wiki/Zoology
-
-
-male lasciviousness
-===================
-
-:: Description
-A male character is stereotypically licentious, i.e., makes offensive comments
-of a sexual nature or otherwise expresses an offensive preoccupation with sex.
-
-:: Parents
-male stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Lascivious_behavior
 
 
