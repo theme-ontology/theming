@@ -4,11 +4,56 @@ greed
 :: Description
 
 :: Parents
-greed
+human self-actualization need
 
 :: Aliases
-avariceß
+avarice
 
 :: References
 https://en.wikipedia.org/wiki/Greed
+
+
+the lust for gold
+=================
+
+:: Description
+A character wants nothing better than to acquire more money and possessions.
+
+:: Parents
+greed
+
+:: References
+https://en.wikipedia.org/wiki/Greed
+
+
+gold digging
+============
+
+:: Description
+A character engages in a romantic relationship with the primary objective of
+acquiring money, and with little concern for love.
+
+:: Parents
+the lust for gold
+romantic relationship
+
+:: Examples
+In talesoftheunexpected2x15 "The Orderly World of Mr Appleby", we learn that
+Mr. Appleby serially married older women for their money and then sought to
+bring about their premature demises.
+
+:: References
+https://en.wikipedia.org/wiki/Gold_digging
+
+
+greedy heir
+===========
+
+:: Description
+Someone, usually an aging or sick character, is bothered by a potential
+beneficiary who is overly concerned about their future inheritance.
+
+:: Parents
+human character
+the lust for gold
 
