@@ -116,8 +116,8 @@ amazement at a new technology
 =============================
 
 :: Description
-A character is astonished by the effects of a technology that is new, or
-at least unfamiliar, to them.
+A character is astonished by the effects of a technology that is new, or at
+least unfamiliar, to them.
 
 :: Parents
 awe
@@ -308,9 +308,8 @@ awe
 ===
 
 :: Description
-Awe is an emotion comparable to wonder but less joyous.
-Typically, in a story a character is awestruck by something that 
-impresses them deeply.
+Awe is an emotion comparable to wonder but less joyous. Typically, in a story
+a character is awestruck by something that impresses them deeply.
 
 :: Parents
 human emotion
@@ -4359,6 +4358,7 @@ criminal ways.
 
 :: Parents
 family affairs
+coping with a problematic family member
 
 :: Examples
 Lore was the family disgrace in the eyes of his goody two-shoes brother Data
@@ -7645,6 +7645,7 @@ A character struggles to get along with, control, or abide, a family member
 that, for one reason or another, causes them trouble.
 
 :: Parents
+coping with a problematic person
 family affairs
 
 :: Examples
