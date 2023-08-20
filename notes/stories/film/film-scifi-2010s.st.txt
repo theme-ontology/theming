@@ -138,6 +138,9 @@ movie: Resident Evil: Afterlife (2010)
 :: Title
 Resident Evil: Afterlife
 
+:: Date
+2010-09-02
+
 :: Description
 Resident Evil: Afterlife is a 2010 science fiction action horror film written
 and directed by Paul W. S. Anderson. A direct sequel to Resident Evil:
@@ -147,9 +150,6 @@ series, which is loosely based on the video game series of the same name.
 Synopsis: A zombie bashing heroine searches for and rescues some survivors of
 a world-wide zombie outbreak, and teams up with them to bring the pain to the
 head of the nefarious corporation that caused the outbreak.
-
-:: Date
-2010-09-02
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil:_Afterlife
@@ -819,18 +819,18 @@ movie: Resident Evil: Retribution (2012)
 :: Title
 Resident Evil: Retribution
 
+:: Date
+2012-09-03
+
 :: Description
 Resident Evil: Retribution is a 2012 science fiction action horror film
-written and directed by Paul W. S. Anderson. A direct sequel to Resident
-Evil: Afterlife (2010), it is the fifth installment in the Resident Evil film
+written and directed by Paul W. S. Anderson. A direct sequel to Resident Evil:
+Afterlife (2010), it is the fifth installment in the Resident Evil film
 series, loosely based on the video game franchise of the same name.
 
 Synopsis: A zombie bashing heroine is captured by a nefarious corporation,
-forcing her to make her escape from an underwater facility, used for testing
-a zombie creating virus.
-
-:: Date
-2012-09-03
+forcing her to make her escape from an underwater facility, used for testing a
+zombie creating virus.
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil:_Retribution
@@ -972,7 +972,6 @@ interstellar space travel [Travel among the stars is a fundamental reality in th
 the desire for vengeance [Captain Kirk was prepared to extrajudicially execute Khan (a.k.a. John Harrison) for Khan having killed a number of innocent people on Earth in a bombing, including Kirk's mentor Captain Pike. Spock beat the crap out of Khan in a rage over Khan having killed his friend Kirk. Khan somehow wanted revenge against Starfleet.]
 genetically engineered person [Khan and his crew members had been genetically engineered to have superior strength and intelligence.]
 friendship [Spock came to realize that Kirk came back to rescue him on Nibiru because Kirk was his friend.]
-terrorism [Khan twice attacked Starfleet headquarters.]
 
 :: Minor Themes
 the ethics of interfering in less advanced societies [Captain Kirk lost his command of the Enterprise after flagrantly violating the Prime Directive on the planet Nibiru.]
@@ -1065,7 +1064,6 @@ precognition [The mutant Yukio had an innate ability to perceive future events.]
 coping with memories of a lost love [Logan had recurrent hallucinations of his former love interest Jean.]
 infatuation [Logan and Mariko fell in love.]
 self-healing ability [In this installment, a heart parasite made Logan lose his ability to regenerate his body after physical injury.]
-the Japanese stereotype [We saw a variety of stereotypical characters, including Yakuza gang members, loyal to the death samurai warrior-types, etc.]
 speculative personal resilience [The mutant Dr. Green was immune to all toxins.]
 
 :: Minor Themes
@@ -1169,15 +1167,15 @@ movie: Riddick (2013)
 :: Title
 Riddick
 
+:: Date
+2013-09-04
+
 :: Description
 Riddick (also known as Riddick: Rule the Dark) is a 2013 American science
 fiction action film and the third installment in the Riddick film series.
 
 Synopsis: The titular antihero Riddick is pursued by two rival bands of
 mercenaries on a scorpion-like creature infested planet.
-
-:: Date
-2013-09-04
 
 :: References
 https://en.wikipedia.org/wiki/Riddick_(film)
@@ -1555,7 +1553,6 @@ facing being evicted from one's home [Cade was six months behind on his mortgage
 boss and employee [Cade made a point that he was Lucas' boss, and that they were not partners in Cade's Yeager Robotics company. But then Lucas perished in a fiery explosion early on in the film.]
 friendship [It was clear that Cade and Lucas were pals even though Cade insisted that he was Lucas' boss.]
 coping with the death of a friend [Cade and his daughter Tessa mourned the death of their friend Lucas.]
-the Japanese stereotype [One of the Autobots was patterned after a samurai warrior who spoke in a Japanese accent was much concerned with honor.]
 terrorism [The government official Harold Attinger accused the Autobots of having committed an act of terror.]
 speculative spaceship [Galvatron commanded a large prison spaceship.]
 mysterious maker alien race [We learned that a mysterious alien race known as the Creators used devices called Seeds to cover Earth with a special alloy in the age of the dinosaurs. This alloy was a programmable material that the Transformers were made out of, and one gathers that the Creators were the makers of the Transformers.]
@@ -1615,6 +1612,9 @@ movie: Appleseed Alpha (2014)
 :: Title
 Appleseed Alpha
 
+:: Date
+2014-07-15
+
 :: Description
 Appleseed Alpha (also styled as Appleseed α) is a computer-animated military
 science fiction cyberpunk film. It is the third installment in the Appleseed
@@ -1623,9 +1623,6 @@ film series.
 Synopsis: A battle hardened soldier and her cyborg companion work to protect
 two people who claim to be from a supposedly legendary city where war is a
 thing of the past.
-
-:: Date
-2014-07-15
 
 :: References
 https://en.wikipedia.org/wiki/Appleseed_Alpha
@@ -1651,16 +1648,16 @@ movie: Lucy (2014)
 :: Title
 Lucy
 
+:: Date
+2014-07-25
+
 :: Description
 Lucy is a 2014 French science fiction action film written and directed by Luc
-Besson for his company EuropaCorp, and produced by his wife, Virginie
-Besson-Silla.
+Besson for his company EuropaCorp, and produced by his wife, Virginie Besson-
+Silla.
 
 Synopsis: A woman gains psychokinetic abilities when a nootropic, psychedelic
 drug is absorbed into her bloodstream.
-
-:: Date
-2014-07-25
 
 :: References
 https://en.wikipedia.org/wiki/Lucy_(2014_film)
@@ -1679,7 +1676,7 @@ boyfriend and girlfriend [Lucy's new boyfriend, Richard, got her tangled up with
 the theory of evolution [Professor Norman lectured the evolution of the nervous system.]
 the control of fire [A caveman was shown starting a fire by means of repeatedly hitting two stones together over a pile of brush.]
 smuggling [Lucy was forced to transport a bag of drugs, which was sewn into her abdomen, from Taiwan to Europe.]
-academia [Professor Norman gave a university lecture on the subject of animals, humans included, using only a fraction of their total brain capacity.]
+academic occupation [Professor Norman gave a university lecture on the subject of animals, humans included, using only a fraction of their total brain capacity.]
 super hearing [Lucy acquired the ability to hear people talking well outside of an ordinary person's earshot.]
 mother and daughter [An unanesthetized Lucy spoke to her mother over the phone as a surgeon excised a bag of illicit drugs from her abdomen.]
 super intelligence [Lucy acquired this ability in spades after an experimental, illicit drug got into her bloodstream. She learned Chinese in an hour, how to drive in an instant, became an expert in neuroscience in a single night, etc.]
@@ -2036,7 +2033,7 @@ father and daughter [Scott was motivated by a desire to show prove to his belove
 
 :: Major Themes
 the desire for redemption [The petty criminal sought to redeem himself in the eyes on her young daughter Cassie.]
-the lust for gold [Pym Technologies CEO Darren Cross plotted to militarize a similar version of the Ant-Man technology and sell it to the highest bidder.]
+greed [Pym Technologies CEO Darren Cross plotted to militarize a similar version of the Ant-Man technology and sell it to the highest bidder.]
 parental love [Scott beloved his young daughter Cassie.]
 
 :: Minor Themes
@@ -2452,7 +2449,7 @@ monster apocalypse [Rowan North was summoning ghosts in an effort to bring about
 
 :: Minor Themes
 embarrassment [Abby was embarrassed when her academic colleagued found out that she had published a book on the paranormal in her younger years.]
-academia [Erin was a professor who was refused tenure and her contract terminated after it became apparent that she had dabbled in paranormal research.]
+academic occupation [Erin was a professor who was refused tenure and her contract terminated after it became apparent that she had dabbled in paranormal research.]
 haunted house [The Ghostbusters investigated a haunting at the Aldridge mansion. The film opened with someone giving a tour of a haunted mansion.]
 dumb jock stereotype [The Ghostbusters' secretary Kevin Beckman was the male equivalent of a ditzy blond.]
 social media in society [The story played out on social media to some extent.]
@@ -2509,6 +2506,9 @@ movie: Resident Evil: The Final Chapter (2016)
 :: Title
 Resident Evil: The Final Chapter
 
+:: Date
+2016-12-23
+
 :: Description
 Resident Evil: The Final Chapter is a 2016 science fiction action horror film
 written and directed by Paul W. S. Anderson. A direct sequel to Resident Evil:
@@ -2519,9 +2519,6 @@ video game series of the same name.
 Synopsis: A heroine and her allies are betrayed by an evil clone, who gathers
 the entire forces of a nefarious corporation into one final strike against the
 survivors of a zombie apocalypse.
-
-:: Date
-2016-12-23
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil:_The_Final_Chapter
@@ -2790,14 +2787,13 @@ threat from extraterrestrial life [The planet Cybertron was brought into close p
 :: Minor Themes
 the legend of King Arthur [The film opened with Kirk Arthur and his men battling against invaders.]
 human childhood [Four boys snuck into a government fenced off zone.]
-the Japanese stereotype [One of the Autobots was patterned after a samurai warrior who spoke in a Japanese accent.]
 father and daughter [Cade's daughter called him from college.]
 bank robbery [We learned that Dreadbot had robbed a bank.]
 science as magic to the primitive [Cade quoted Arthur C. Clarke's law that "any sufficiently advanced technology is indistinguishable from magic".]
 mother and daughter [Viviane's mother was pressuring her to find a man to settle down with.]
 master and servant [Sir Edmund Burton and his sociopathic, Transformer butler Cogman.]
 speculative spaceship [An enormous alien spaceship emerged from the sea.]
-academia [Vivian was a history professor at Oxford.]
+academic occupation [Vivian was a history professor at Oxford.]
 
 
 movie: SpiderMan: Homecoming (2017)
@@ -3104,7 +3100,7 @@ nuclear weapons [The Air Force nuked the alien mothership, and the city of Los A
 giving birth [Elaine died in childbirth.]
 cyborg [It was spelled out that alien soldiers were actually human brain controlled bio-mechanical robots of some kind.]
 brother and sister [Sua and his sister Kanya were leading the fight against the alien invaders.]
-speculative natural process [Exposure to the blue light accelerated Elaine's pregnancy so that she gave birth to a health baby girl after having been pregnant for just three months. Elaine's baby Rose grew from a newborn to a three-year-old in just one day.]
+speculative effect [Exposure to the blue light accelerated Elaine's pregnancy so that she gave birth to a health baby girl after having been pregnant for just three months. Elaine's baby Rose grew from a newborn to a three-year-old in just one day.]
 alien experiment [Mark described how he'd witnessed the aliens dissecting unborn children while he was aboard one of their spaceships.]
 illegal drug trade [It came to light that Harper had been running drugs out of Vietnam prior to the alien invasion.]
 the Vietnam War [Kenya spoke begrudgingly of how the United States tried to bomb Vietnam out of existence in this war.]
@@ -3145,7 +3141,7 @@ attack from outer space by a powerful conquering enemy [Steppenwolf and his legi
 speculative terraforming [Steppenwolf plotted to terraform the Earth into something similar to his own hellish world.]
 
 :: Minor Themes
-terrorism [Wonder Woman foiled a terrorist plot to detonate a bomb that was calculated to destroy four city blocks.]
+terrorism [Wonder Woman foiled a terrorist plot to detonate a bomb the setting off of which would have resulted in the destruction of four city blocks.]
 father and son [The Flash struggled with his father being incarcerated.]
 super speed [The Flash could run really fast.]
 aquatic ability [Aqua Man could swim around in the sea and talk to fish.]
@@ -3338,14 +3334,14 @@ speculative vehicle [The Wakandans flew around in futuristic, vibranium-based ai
 super strength [The Black Panther suit was said to endow its wearer with super strength.]
 super speed [The Black Panther suit was said to endow its wearer with super speed.]
 super reflexes [The Black Panther suit was said to endow its wearer with a heightened sense of anticipation.]
-terrorism [King T'Chaka was killed in a terrorist attack.]
+terrorism [King T'Chaka was killed in what was characterized as a terrorist attack.]
 mother and son [T'Challa and his mother Queen Ramonda.]
 mother and daughter [T'Challa's 16-year-old sister Shuri and her mother Queen Ramonda.]
 brother and sister [T'Challa and his 16-year-old inventor sister Shuri.]
 archaeological looting [Erik accused the museum director's ancestors of having stolen what was presumed to be a 7th century Fula tribe mining tool that was on display at the museum.]
 father and son [T'Challa conversed with his deceased father in a vision. Killmonger]
 old flames [T'Challa and his ex-lover Nakia.]
-the legend of El Dorado [Ulysses Klaue compared Wakanda to this fabled goal abounding land.]
+El Dorado [Ulysses Klaue compared Wakanda to this fabled goal abounding land.]
 arms trade [The black-market arms dealer Ulysses Klaue stole a powerful vibranium artifact with intentions of selling it to the highest bidder.]
 fratricide [King T'Chaka killed his own brother to save Zuri.]
 becoming like what you oppose [T'Challa accused Erik of having become like the colonizers whom Erik hated so.]
@@ -3682,7 +3678,7 @@ weaponization of animals [Eli Mills hatched a nefarious plot to genetically engi
 unethical business practices [A corporation was developing genetically engineered, weaponized dinosaur to be sold on the black market to the highest bidder.]
 out of control technology [Scientists reintroduced genetically engineered dinosaurs into the world and they ran amok.]
 the dangers of unfettered scientific advancement [Scientists reintroduced genetically engineered dinosaurs into the world and they ran amok.]
-the lust for gold [Eli Mills was consumed with avarice and ambition and he hatched a plot to cash in by selling dinosaurs as weapons.]
+greed [Consumed with avarice and ambition, Eli Mills hatched a plot to cash in by selling dinosaurs as weapons.]
 
 :: Minor Themes
 social activism [Clare was briefly involved with a group of activists who were working to save dinosaurs on Isla Nublar island from going re-extinct.]
@@ -4502,7 +4498,7 @@ shapeshifter [The advanced shapeshifting Rev-9 Terminator Gabriel was sent back 
 what if a killer was after me [Dani was being hunted down by the advanced shapeshifting Rev-9 Terminator Gabriel.]
 post-apocalyptic dystopia [The scene in 2042 was that of a post atomic horror wasteland in which humans were in a desperate war for survival against machines.]
 coping with the death of a child [Sarah Connor hunted Terminators and drank herself into blackouts in order to cope with the murder of her young son John at the hands of a Terminator.]
-resistance movement [We saw a group of dedicated resistance fighters struggling to stop machines from exterminating humankind. The year was 2042.]
+resistance movement [The viewer is shown a group of dedicated resistance fighters struggling to stop machines from exterminating humankind. The year was 2042.]
 
 :: Minor Themes
 the desire for fame [Dani's younger brother Diego wanted to be more famous than Bruno Mars.]
