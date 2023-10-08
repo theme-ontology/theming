@@ -7161,6 +7161,7 @@ A character ponders whether their life is worth living.
 
 :: Parents
 human life choice
+suicide
 
 :: Examples
 Worf was by a hair talked out of committing suicide rather than to live with
@@ -14122,7 +14123,7 @@ female-only society
 There is a nation of, more or less, only women.
 
 :: Parents
-biased sex-ratio society
+single-gender society
 
 :: Examples
 In "Sexmission" (1984), two men woke up from a human hibernation experiment
@@ -17271,6 +17272,11 @@ society and how homosexual people ought to be treated.
 
 :: Parents
 sexual norms in society
+
+:: Examples
+The J'naii's gender identities were rather fuzzy in tng5x17 "The Outcast";
+Riker's fling with Soren may have been as close as we ever got to seeing
+homosexuality in TNG.
 
 :: References
 https://en.wikipedia.org/wiki/Homosexuality
@@ -22405,16 +22411,11 @@ male homosexuality
 ==================
 
 :: Description
-We are asked to what extent, if any, homosexuality should be tolerated in our
+We are asked to what extent, if any, male homosexuality should be tolerated in our
 society and how homosexual people ought to be treated.
 
 :: Parents
 homosexuality in society
-
-:: Examples
-The J'naii's gender identities were rather fuzzy in tng5x17 "The Outcast";
-Riker's fling with Soren may have been as close as we ever got to seeing male
-homosexuality in TNG.
 
 :: References
 https://en.wikipedia.org/wiki/Homosexuality
@@ -31983,7 +31984,7 @@ single-gender society
 There is a nation of people who, more or less, are all the same gender.
 
 :: Parents
-speculative society
+biased sex-ratio society
 
 :: References
 https://en.wikipedia.org/wiki/Single-gender_world
@@ -36599,17 +36600,6 @@ https://en.wikipedia.org/wiki/Revenge
 
 :: Aliases
 revenge
-
-
-the desire to advance one's career
-==================================
-
-:: Description
-A character seeks ever further promotion, influence, rank, and salary at work.
-
-:: Parents
-desire
-human self-actualization need
 
 
 the desire to be beautiful
