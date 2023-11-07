@@ -2766,8 +2766,8 @@ music [In his sketch, a mop-top wig wearing Alfred Hitchcock made some satirical
 father and son [The Likens' brother grieved for their father.]
 corruption in society [Riley McGrath was a crooked politician. Because of his importance, witnesses would not testify against him. He bribed a bar keeper after his goon beat up Wilford.]
 law enforcement [The sheriff appeared both in the beginning and the end.]
-occupational activity <barber> [Verge Likens got a job as a barber, and gave Riley McGrath the shave of a lifetime.]
-occupational activity <chauffeur> [Riley's personal driver, and goon, was present.]
+human occupational activity <barber> [Verge Likens got a job as a barber, and gave Riley McGrath the shave of a lifetime.]
+human occupational activity <chauffeur> [Riley's personal driver, and goon, was present.]
 attachment to one's land [A drunken Stoney Likens, who was a poor farmer, lost his life confronting a crooked politician who was trying to force him off his plot of land. Stoney got all bent out of shape, and the politician shot him dead in what was determined to be an act of self-defense.]
 funeral rite [What amounted to a funeral was held for Stoney Likens in his farm house.]
 coping with having a chronic condition [Riley McGrath had a bad ticker.]
@@ -2924,7 +2924,7 @@ mother and son [The widow Maria was caring for her young son, Jorge. They carrie
 law enforcement [The police chief accompanied Juan's wife in order to have some grave philosophical debates with the town's cemetery keeper.]
 blackmail [The story concerned the avaricious shenanigans of a blackmailing undertaker. He tried to extort money from a widow to keep her husband's corpse in a respectable grave.]
 brother and sister [Maria's story held sway with the chief of police, who happened to be her brother, in the matter of Alejandro's missing mummy.]
-mother and child [The recently widowed Maria was caring for three young children.]
+parent and child [The recently widowed Maria was caring for three young children.]
 fear [Juan's wife and son sneaked into the gravedigger's crypt and scared the bejesus out of him by making it seem like one of the corpses had come alive.]
 living corpse [It is left ambiguous whether there was any life in Juan's mummified corpse (his eyes seemed to return to life a few times), but the avaricious gravedigger nearly browned his breeches when he thought he was facing a walking dead one.]
 getting a taste of one's own medicine [The gravedigger told the police chief to mind his own business at the graveyard which was the domain of the dead. Later he tried to procure assistance from said police chief to get Juan's mummified corpse returned but was snubbed with an echoing of his own words.]
@@ -3114,7 +3114,7 @@ miserliness [George was pathologically tight with money. He prided himself on us
 
 :: Minor Themes
 poetic justice [In his closing remarks, Alfred Hitchcock revealed that Colin, who murdered two people with gas, went to the gas chamber for his crimes.]
-human regular occupation <gasman> [Colin posed as a gasman.]
+human occupational activity <gasman> [Colin posed as a gasman.]
 private investigator occupation [Colin feigned to be a private eye employed by Henry to screw his wife in the impending divorce.]
 divorce [Colin feigned to be a private eye employed by Henry to screw his wife in the impending divorce.]
 facing a stalker [Eva was freaked out by the revelation that Colin had been monitoring her activities weeks, and taking photos of her together with her secret boyfriend. Colin feigned to have done it out of love.]
@@ -3201,7 +3201,7 @@ betrayal [Everyone in The Barons felt betrayed by Jay when it became known he wa
 coping with humiliation [Candle was serially humiliated by Jay who outsmarted him at every turn. Tiger, an alpha male gang leader, was humiliated when he read aloud an excerpt from Jay's personal notes articulating that Tiger was afraid of the opposite sex.]
 initiation rite [Jay was went through a three phase initiation to become a full member of the Barons youth gang. Phase one: pass through a gauntlet of belt-wielding goons. Phase two: bonk a girl of the gang's choosing (which he sidestepped). Phase three: kill someone.]
 belonging [The Barons gang satisfied the need of its juvenile delinquent members to belong to something bigger than themselves. Fish, for example, flipped out at the thought of breaking up the gang.]
-violence in society [A story concerned the felonious antics of a violent youth gang known as "The Barons".]
+sociocultural issue [A story concerned the felonious antics of a violent youth gang known as "The Barons".]
 
 :: Minor Themes
 ice hockey [In his intro, Alfred Hitchcock, standing in front of a hockey net with stick in hand, described a new version of this sport played over 10 feet of water on melting ice.]
@@ -3489,7 +3489,7 @@ coping with having a chronic condition [Glendon Baker was an invalid taken care 
 
 :: Minor Themes
 husband and wife [The house keeper Maude and her handyman husband Sam.]
-inhebriated interaction [Maude got hammered and made a scene before passing out on the floor.]
+inebriated interaction [Maude got hammered and made a scene before passing out on the floor.]
 
 :: Other Keywords
 nurse and patient [Mr. Baker popped the question to his nurse, Stella.]
@@ -3651,7 +3651,7 @@ photography [Arthur fronted as photographer. Indeed, he reveled in taking photos
 American football [In his sketch, Alfred Hitchcock gave a satirical account of the rules of American football.]
 human occupational activity <undertaker> [Hiram, hitman by night, was an undertaker by day.]
 legal occupation [Mr. Rudolph was running a local bureau of a national hitman service from his law office, where he presumably worked as a lawyer.]
-father daughter [Ernest vetted his daughter Sylvia's fiancé.]
+father and daughter [Ernest vetted his daughter Sylvia's fiancé.]
 arson [Arthur burned down how own photography studio to cover up a murder.]
 marriage ceremony [The story concluded with Arthur and Sylvia tying the knot.]
 coping with the death of a parent [Arthur consoled Sylvia over the death of her father, who'd been murdered, at their her wedding. Little did she know that Arthur was the killer.]
