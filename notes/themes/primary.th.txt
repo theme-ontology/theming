@@ -112,6 +112,17 @@ organized religion
 https://en.wikipedia.org/wiki/Adam_and_Eve
 
 
+amazement at a new technology
+=============================
+
+:: Description
+A character is astonished by the effects of a technology that is new, or at
+least unfamiliar, to them.
+
+:: Parents
+awe
+
+
 American Civil War
 ==================
 
@@ -120,7 +131,7 @@ Featured is the civil war that was fought in the United States from 1861 to
 1865.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/American_Civil_War
@@ -291,6 +302,20 @@ earthquakes in tas1x13 "The Ambergris Element".
 :: References
 https://en.wikipedia.org/wiki/Atlantis
 http://www.sf-encyclopedia.com/entry/atlantis
+
+
+awe
+===
+
+:: Description
+Awe is an emotion comparable to wonder but less joyous. Typically, in a story
+a character is awestruck by something that impresses them deeply.
+
+:: Parents
+human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Awe
 
 
 Bermuda Triangle
@@ -479,6 +504,24 @@ appropriately to them.
 
 :: Parents
 human characters in contrast
+
+
+El Dorado
+=========
+
+:: Description
+This fabled city in South America is featured.
+
+:: Parents
+legendary place
+
+:: Examples
+In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
+meat their doom on the Amazon River while obsessively pursuing the chimera of
+El Dorado.
+
+:: References
+https://en.wikipedia.org/wiki/El_Dorado
 
 
 European dragon
@@ -838,7 +881,7 @@ Roswell, New Mexico, and a notorious crackpot theory that it was a flying
 saucer ensued.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/Roswell_UFO_incident
@@ -907,7 +950,7 @@ from 1954 to 1962, and culminated with Algeria winning its independence from
 France. It is featured in the story.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/Algerian_War
@@ -937,7 +980,7 @@ The systematic murder of six million Jews perpetrated by Adolf Hitler of
 Germany in the early 1940s is discussed.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/The_Holocaust
@@ -954,7 +997,7 @@ with the Bolshevik establishment of the Soviet Union. This event and period of
 Russian history is featured.
 
 :: Parents
-history
+historical event
 revolution in society
 
 :: References
@@ -996,7 +1039,7 @@ Featured is the global war originating in Europe that lasted from 28 July 1914
 to 11 November 1918.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/World_War_I
@@ -1007,13 +1050,12 @@ World War II
 ============
 
 :: Description
-A global war that lasted from 1939 to 1945. It was the most widespread war in
-history and directly involved more than 100 million people from over 30
-countries. Towards the end the participants had formed two opposing military
-alliances called "the Allies" and "the Axis".
+World War II was global war that lasted from 1939 to 1945. Towards the end the
+participants had formed two opposing military alliances called "the Allies"
+and "the Axis". The theme is used whenever this war comes up in the story.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/World_War_II
@@ -1144,7 +1186,7 @@ a person and their clone
 The relationship between a person and a clone of the same person is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Riker learned first hand that he was not wholly easy to get along with in
@@ -1336,8 +1378,8 @@ political issue
 https://en.wikipedia.org/wiki/Abuse_of_power
 
 
-academia
-========
+academic occupation
+===================
 
 :: Description
 A character working in an academic institution is engaged in their chosen
@@ -1471,25 +1513,6 @@ their own for an extended period of time.
 foreign point of view
 
 
-addiction to fortune telling
-============================
-
-:: Description
-Someone exhibits an addiction to having their future descried. This is usually
-done by a seer, fortune teller, or the like, at a cost.
-
-:: Parents
-human addiction
-
-:: Examples
-In tz1959e2x07 "Nick of Time", the story followed William Shatner (as Don) as
-he became increasingly consumed with learning mechanical fortune teller
-produced predictions about his future, penny apiece.
-
-:: References
-https://www.psychologytoday.com/gb/blog/in-excess/201601/addiction-fortune-telling
-
-
 addiction to sensation
 ======================
 
@@ -1562,8 +1585,9 @@ aesthetics
 ==========
 
 :: Description
-The branch of philosophy dealing with the nature of art, beauty, and taste;
-and with the creation and appreciation of beauty.
+Aesthetics is the branch of philosophy dealing with the nature of art, beauty,
+taste, as well as with the creation and appreciation of beauty. The theme is
+used whenever an aspect of this branch of philosophy is featured in the story.
 
 :: Parents
 philosophy
@@ -1582,7 +1606,7 @@ Notably, this type of relationship is found in the entertainment industry, for
 example, when an actor hires a personal talent agent to find them jobs.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Notes
 This theme is used only if the expressions of the relationship go beyond what
@@ -1698,7 +1722,7 @@ alien abduction
 ===============
 
 :: Description
-The abduction of someone against their will by aliens.
+The abduction of someone against their will by space aliens.
 
 :: Parents
 crackpot theory
@@ -1706,6 +1730,14 @@ crackpot theory
 :: Examples
 Captain Picard was abducted from the Enterprise-D by a pair of unnamed aliens
 and replaced with a replica in tng3x18 "Allegiance".
+
+Aliens abducted Fry and took his nose in futurama4x17 "Spanish Fry".
+
+In the widely lampooned film "Santa Clause Conquers the Martians" (1964),
+mean-spirited Martians abducted Santa Clause at ray-gun point and hightailed
+it home, not knowing that the jolly old man would bring the spirit of
+Christmas to the Red Planet. Thus featuring the crackpot theory theme "alien
+abduction".
 
 :: References
 https://en.wikipedia.org/wiki/Alien_abduction
@@ -1997,6 +2029,26 @@ This theme is typically used when the story switches between two character's
 perspectives. Other "point of view" themes often feature an unusual
 perspective which is implicitly compared with the viewers assumed normal
 perspective.
+
+
+alternate reality
+=================
+
+:: Description
+This is the most general theme about views on the nature of reality considered
+outside of mainstream thought in a past or present society of significant size
+relative to the global population. For example, the theme may discuss
+speculative futures, alternate histories, other worlds, Bigfoot, or magic.
+
+:: Parents
+
+:: Notes
+This is the sort of theme that is often explored in science fiction, fantasy,
+superhero fiction, science fantasy, horror, utopian and dystopian fiction,
+supernatural fiction as well as combinations thereof.
+
+:: References
+https://en.wikipedia.org/wiki/Speculative_fiction
 
 
 alternative medicine
@@ -2704,6 +2756,42 @@ science
 https://en.wikipedia.org/wiki/Archaeology
 
 
+archaeology occupation
+======================
+
+:: Description
+An archaeologist is engaged in their chosen occupation.
+
+:: Parents
+academic occupation
+archaeology
+
+:: Examples
+Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
+was rudely cut short by Q in tng4x20 "Qpid".
+
+:: References
+https://en.wikipedia.org/wiki/Archaeology
+
+
+architect occupation
+====================
+
+:: Description
+A character is engaged in the planning, design, and supervision of the
+construction of buildings.
+
+:: Parents
+art related occupation
+
+:: References
+https://en.wikipedia.org/wiki/Architect
+https://en.wikipedia.org/wiki/Architecture
+
+:: Aliases
+architecture
+
+
 are humans more than machines
 =============================
 
@@ -3114,7 +3202,8 @@ astronomy
 =========
 
 :: Description
-Topics about celestial objects and other celestial phenomena.
+The scientific study of celestial objects and other celestial phenomena is
+featured.
 
 :: Parents
 science
@@ -3762,6 +3851,17 @@ their enemy.
 human worrying about self
 
 
+beholding the Earth from space
+==============================
+
+:: Description
+A character takes pointed satisfaction in viewing the planet Earth from the
+vantage point of outer space.
+
+:: Parents
+pleasure in nature
+
+
 being ashamed of who you are
 ============================
 
@@ -3795,6 +3895,20 @@ facing organized pursuit
 :: Examples
 In ahp1x16 "You Got to Have Luck", Sam is a felon escaped from prison and
 tries to evade recapture by the police.
+
+
+being physically conjoined to another
+=====================================
+
+:: Description
+We are made to imagine what it would be like to be physically connected, like
+a conjoined twin, to another person.
+
+:: Parents
+speculative experience
+
+:: References
+https://en.wikipedia.org/wiki/Conjoined_twins
 
 
 being that feeds on electricity
@@ -3956,6 +4070,21 @@ The ramifications of big banking in society are explored.
 
 :: Parents
 socioeconomic issue
+
+
+bigamy
+======
+
+:: Description
+In cultures where monogamy is mandated, bigamy is the act of entering into a
+marriage with one person while still legally married to another.
+
+:: Parents
+polygamy
+sexual crime
+
+:: References
+https://en.wikipedia.org/wiki/Bigamy
 
 
 binary star system
@@ -4210,6 +4339,7 @@ criminal ways.
 
 :: Parents
 family affairs
+coping with a problematic family member
 
 :: Examples
 Lore was the family disgrace in the eyes of his goody two-shoes brother Data
@@ -4385,6 +4515,27 @@ romantic relationship issue
 
 :: References
 https://en.wikipedia.org/wiki/Bondage_(BDSM)
+
+
+boredom
+=======
+
+:: Description
+Someone is feeling bored and depressed with their life and existence.
+
+:: Parents
+human emotion
+
+:: Examples
+General Trelane (retired), a.k.a. the Squire of Gothos, held an enterprise
+landing party against their will to help spice up his life in tos1x18 "The
+Squire of Gothos".
+
+:: References
+https://en.wikipedia.org/wiki/Boredom
+
+:: Aliases
+ennui
 
 
 boss and employee
@@ -4880,6 +5031,17 @@ human way of life
 https://en.wikipedia.org/wiki/Carpe_diem
 
 
+carpentry occupation
+====================
+
+:: Description
+A character works professionally with creating things out of wood and related
+materials.
+
+:: Parents
+human occupational activity
+
+
 carrot vs. stick
 ================
 
@@ -5096,6 +5258,23 @@ In tz1959e4x08 "Miniature", Charley kept looking into a museum doll house and
 finding it alive with activity that no one else perceived. After long pining
 for this world, he is suddenly transported into it himself and becomes one of
 its actors.
+
+
+charitable organization
+=======================
+
+:: Description
+A charitable organization, or "charity", is a non-profit organization whose
+primary objectives are philanthropy and social well-being of persons.
+
+:: Parents
+national social issue
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Charitable_organization
 
 
 charitable volunteering
@@ -6347,7 +6526,7 @@ subordinate is featured. The setting may be army, navy, air force or something
 comparable.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 In tz1959e4x06 "Death Ship", we saw the Captain of a spaceship quarrel with
@@ -6422,8 +6601,8 @@ communicating with the dead
 ===========================
 
 :: Description
-The practice of communicating with the spirits of the dead and living human
-beings.
+The supposed practice of communicating with the spirits of the deceased, is
+explored.
 
 :: Parents
 folk belief
@@ -6723,6 +6902,18 @@ another character.
 criminal fraud
 
 
+confessing to a wrongdoing vs. keeping quiet
+============================================
+
+:: Description
+A character considers whether to "come clean" and owe up to something they did
+that they should not have done, or whether to simply stay silent and hope they
+wont be found out.
+
+:: Parents
+self-preservation vs. conscience
+
+
 conflict of cultural norms
 ==========================
 
@@ -6754,9 +6945,9 @@ conflict of duty
 ================
 
 :: Description
-A common category of tough decisions that involve choosing between ones "duty"
-to something (typically a job or a leader) on one hand, and some conflicting
-cause or impulse on the other.
+A character must choose between their "duty" to something (for example, a
+leader) on one hand, and a conflicting impulse (for example, a noble cause) on
+the other.
 
 :: Parents
 personal ethical dilemma
@@ -6865,6 +7056,28 @@ sentence some 4,000 colonists to death as governor of Tarsus IV in tos1x12
 "The Conscience of the King".
 
 
+conjoined twins
+===============
+
+:: Description
+There are a pair of twins that were physically joined in utero, that is,
+before they were born.
+
+:: Parents
+twin and twin
+being physically conjoined to another
+
+:: Examples
+In tftc1989e2x17 "My Brother's Keeper", Frank and Eddie are Siamese twins and
+literally joined at the hip. Their combined epidermis merged there, and they
+share a circulatory system. An eccentric German physician gives them each a
+50/50 chance of surviving a separation procedure, should they choose to
+undergo it.
+
+:: References
+https://en.wikipedia.org/wiki/Conjoined_twins
+
+
 conservative vs. liberal
 ========================
 
@@ -6938,6 +7151,7 @@ A character ponders whether their life is worth living.
 
 :: Parents
 human life choice
+suicide
 
 :: Examples
 Worf was by a hair talked out of committing suicide rather than to live with
@@ -6970,8 +7184,8 @@ contraposed political ideologies
 ================================
 
 :: Description
-This is the category of themes that contrast two or more reasonably well-
-defined political ideologies.
+Two or more reasonably well-defined political ideologies are pointedly
+contrasted.
 
 :: Parents
 political ideology
@@ -7260,7 +7474,7 @@ some disease or injury.
 
 :: Parents
 coping with life issues
-human interpersonal relationship
+humans in pairs
 
 
 coping with a loved one being in peril
@@ -7271,7 +7485,7 @@ Someone must stand idly by while a loved one faces a perilous situation.
 
 :: Parents
 coping with life issues
-human interpersonal relationship
+humans in pairs
 
 
 coping with a loved one being mentally ill
@@ -7283,7 +7497,7 @@ one suffering from a severe mental disorder of one sort or another.
 
 :: Parents
 coping with life issues
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Mental_disorder
@@ -7298,7 +7512,7 @@ whether the loved one is dead or alive.
 
 :: Parents
 coping with life issues
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Missing_person
@@ -7403,6 +7617,7 @@ A character struggles to get along with, control, or abide, a family member
 that, for one reason or another, causes them trouble.
 
 :: Parents
+coping with a problematic person
 family affairs
 
 :: Examples
@@ -7728,7 +7943,7 @@ coping with bad cooking
 A character is subjected to lousily prepared food.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 coping with being a danger to those around you
@@ -7874,13 +8089,14 @@ coping with being injured
 :: Description
 Someone who is injured is featured as trying to cope with their situation.
 
-Note: Since injuries are extremely common in fiction, the bar for using this
-theme ought to be high, i.e., the comment should cite something explicit that
-makes it clear why the coping was featured which is not necessarily the case
-just because there was an injury in passing and someone saying "ouch".
-
 :: Parents
 human in danger
+
+:: Notes
+Since injuries are extremely common in fiction, the bar for using this theme
+ought to be high, i.e., the comment should cite something explicit that makes
+it clear why the coping was featured which is not necessarily the case just
+because there was an injury in passing and someone saying "ouch".
 
 
 coping with being lost
@@ -7933,7 +8149,7 @@ A character struggles with being separated from their family for an extended
 duration of time.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Jono was separated from his adoptive father the Endar in tng4x04 "Suddenly
@@ -7952,7 +8168,7 @@ away (or otherwise separated) from the object of their affection for an
 extended period of time.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 coping with being tortured
@@ -8086,7 +8302,7 @@ A character copes with having one of those days when everything that seemingly
 can go wrong, does go wrong.
 
 :: Parents
-human emotional issue
+coping with life issues
 
 
 coping with having a bad reputation
@@ -8214,7 +8430,7 @@ coping with having injured someone
 Someone feels guilty at having been responsible for injuring another person.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Doctor McCoy unintentionally blinded Spock in tos1x29 "Operation --
@@ -8250,6 +8466,18 @@ of others.
 human social position
 
 
+coping with ill-fitting clothes
+===============================
+
+:: Description
+A character finds themself subject to this most disagreeable circumstance: the
+wearing of items of clothing, for example boots, that are not quite the right
+size.
+
+:: Parents
+coping with life issues
+
+
 coping with infertility
 =======================
 
@@ -8279,7 +8507,7 @@ coping with life issues
 
 :: Description
 A character has to live through one or another of those adverse conditions
-that has been known to plague human life from time to time.
+that have been known to plague human life from time to time.
 
 :: Parents
 human challenge in life
@@ -8336,7 +8564,7 @@ entirely get over.
 
 :: Parents
 romantic relationship issue
-human emotional issue
+coping with life issues
 remembrance
 
 :: Examples
@@ -8369,7 +8597,7 @@ A character is morally compelled to oppose and jeopardize their friendship
 with someone who is acting badly.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Captain Kirk coped with opposing his longtime friend Gary Mitchell, who became
@@ -8458,8 +8686,8 @@ A character is about to leave someone they care about behind forever and
 struggles with how to take their leave.
 
 :: Parents
-human interpersonal relationship
-human emotional issue
+humans in pairs
+coping with life issues
 
 
 coping with senility
@@ -8524,7 +8752,7 @@ Someone must watch as a near and (usually) dear person struggles with an
 addiction.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Addiction
@@ -8538,7 +8766,7 @@ Someone is powerless to help a friend who is losing their mind and is left
 with no alternative but to stand idly by and watch the descent into madness.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 coping with someone who is overexerting themself
@@ -8549,7 +8777,7 @@ Someone experiences having to watch a person they care about overexert
 themself at work.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 coping with someone who is suffering from a health condition
@@ -8560,7 +8788,7 @@ A character must cope with the fact that someone they care about suffers from
 a, more or less, serious health complication.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 coping with someone who refuses to take care of their health
@@ -8759,7 +8987,7 @@ coping with the imprisonment of a family member
 A character must stand idly by while a loved one rots away in prison.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 coping with the loss of one's livelihood
@@ -8816,17 +9044,6 @@ Captain Picard was mortified to have his former lover Vash aboard the
 Enterprise-D in tng4x20 "Qpid".
 
 
-coping with wearing tight boots
-===============================
-
-:: Description
-A character finds themself subject to this most disagreeable circumstance: the
-wearing of boots that are not quite large enough.
-
-:: Parents
-coping with life issues
-
-
 corporal punishment
 ===================
 
@@ -8845,6 +9062,20 @@ sometimes cane at a gallop) to whom he had been assigned as a slave.
 
 :: References
 https://en.wikipedia.org/wiki/Corporal_punishment
+
+
+corporate executive
+===================
+
+:: Description
+A character working at large firm in a senior management capacity is engaged
+in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Corporate_title
 
 
 corporation interfering in politics
@@ -9049,16 +9280,14 @@ crackpot theory
 ===============
 
 :: Description
-There is a theory that is presented as scientific, but does not in fact adhere
-to accepted scientific standards. Examples include ideas about the Bermuda
-Triangle, flying saucers, and Bigfoot.
+This is a general theme pertaining to theories that are presented as
+scholarly, but do not in fact adhere to the mainstream academic standards of
+the time. The theme may pertain to urban legends, fringe science, or
+conspiracy theories. Examples include the Bermuda Triangle, flying saucers,
+and Bigfoot.
 
 :: Parents
-speculative fiction theme
-
-:: Examples
-It was revealed that the vampires of legend were in fact life force thirsty
-space aliens in "Lifeforce" (1985).
+alternate reality
 
 :: References
 https://en.wikipedia.org/wiki/Pseudoscience
@@ -9167,13 +9396,17 @@ crime
 =====
 
 :: Description
-This is the category of themes that relate to proscribed actions that are
-normally punishable by contemporary states.
+One or another of those proscribed actions that are normally punishable by
+contemporary states, is featured.
 
 :: Parents
 law and order issue
 
 :: Notes
+The action must be understood in the context of the story to constitute a
+crime, be it against written law or unwritten customs (for example against God
+or other notions of morality).
+
 Because of their notoriety, we consider that a "crime" theme is topical to the
 story when a character unambiguously commits such a crime. For example
 "murder" becomes topical if a murder is committed. Common sense is required
@@ -9318,8 +9551,8 @@ cross cultural issue
 ====================
 
 :: Description
-This is the category of themes that in general terms illustrate what may
-happen when people of different cultural backgrounds encounter each other.
+This is a general theme pertaining to what may happen when people of different
+cultural backgrounds encounter each other.
 
 :: Parents
 society
@@ -9410,8 +9643,9 @@ cryptid
 =======
 
 :: Description
-An animal or plant that has been inferred from anecdotal or other evidence
-considered insufficient by mainstream science.
+There is an animal or plant that has been inferred from evidence, typically
+anecdotal, considered insufficient by mainstream science. Bigfoot, the Loch
+Ness Monster, and living dinosaurs are common examples from fiction.
 
 :: Parents
 crackpot theory
@@ -9478,9 +9712,9 @@ cultural history
 ================
 
 :: Description
-This is the category of themes that refer to cultural artifacts from actual
-human history. Notably, these are references to well known stories that have
-been occasionally and explicitly referenced within other stories.
+A cultural artifact from actual human history is featured. Notably, these are
+references to well known stories that have been occasionally and explicitly
+referenced within other stories.
 
 :: Parents
 history
@@ -9935,7 +10169,7 @@ outright lies that hurt someone else's reputation be persecuted or is that a
 slippery slope towards totalitarianism?
 
 :: Parents
-social ethical issue
+social ethical dilemma
 
 
 defection
@@ -9975,7 +10209,7 @@ Someone has the undesirable duty to deliver very bad news, i.e., to inform of
 the death of kin.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Captain Picard had the unpleasant duty of informing Jeremy Aster that his
@@ -10029,6 +10263,27 @@ view.
 
 :: Parents
 human mental condition
+
+
+demagoguery
+===========
+
+:: Description
+Someone, typically an aspiring popular leader or a "rabble-rouser", in a
+political context uses speeches, fine or incendiary words, rhetorical tricks
+and the like, to whip up the passions of the crowd.
+
+:: Parents
+persuasion of groups by rhetoric
+
+:: Notes
+It is often the case that the "crowd" consists of commoners and that they are
+being organized in opposition to an elite. This is not a logical necessity.
+The theme would also apply in a story if a group of aristocrats were being
+agitated against the lower classes, to take but one example.
+
+:: References
+https://en.wikipedia.org/wiki/Demagogue
 
 
 democracy
@@ -10387,9 +10642,9 @@ diplomacy
 =========
 
 :: Description
-This is the category of transnational social issues that centre on the
-peaceful interaction between sovereign factions in the form of discussion,
-trade, and posturing - as opposed to threats and brute force.
+Explored is a transnational social issue that centers on the peaceful
+interaction between sovereign factions in the form of discussion, trade, and
+posturing - as opposed to by threats and brute force.
 
 :: Parents
 international issue
@@ -10719,7 +10974,7 @@ doctor and patient
 The interpersonal relationship between a doctor and their patient is examined.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Notes
 As doctors and patients are rather common occurrences in stories, this theme
@@ -10741,6 +10996,7 @@ medical advice?
 
 :: Parents
 romantic relationship
+medical ethical issue
 
 
 doctor assisted suicide
@@ -10897,6 +11153,16 @@ the fine arts and the humanities
 
 :: References
 https://en.wikipedia.org/wiki/Drawing
+
+
+dream interpretation
+====================
+
+:: Description
+Dreams are interpreted in a highly metaphorical or otherwise esoteric way.
+
+:: Parents
+folk belief
 
 
 dream recorder
@@ -11354,8 +11620,8 @@ educating a child
 =================
 
 :: Description
-This is the category of themes that relate to how an adult may go about
-deliberately shaping a child's mind as he or she grows up.
+An adult character goes about deliberately shaping a child's mind as he or she
+grows up.
 
 :: Parents
 human parenting
@@ -11368,10 +11634,9 @@ educational issue
 =================
 
 :: Description
-This is the category of social issues that examine how we, collectively
-through policy making, instruct people in how they should think and act.
-Notably, this is the category that contains themes about the schooling of
-young people.
+Explored is a social issue that examines how we, collectively through policy
+making, instruct people in how they should think and act. Notably, the theme
+pertains to the schooling of young people.
 
 :: Parents
 national social issue
@@ -11585,6 +11850,22 @@ secret Vulcan mating urges to Captain Kirk in tos2x05 "Amok Time".
 https://en.wikipedia.org/wiki/Embarrassment
 
 
+embezzlement
+============
+
+:: Description
+Embezzlement is a type of financial fraud involving the misappropriation of
+assets. Typically it is used with regards to the theft of money from an
+organization or company such as an employer. For example, a lawyer might
+embezzle funds from the trust accounts of their clients; a financial advisor
+might embezzle the funds of investors; and a husband or a wife might embezzle
+funds from a bank account jointly held with the spouse or peer.
+
+:: Parents
+theft
+criminal fraud
+
+
 emergently intelligent being
 ============================
 
@@ -11597,6 +11878,20 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Noogenesis
+
+
+emotional attachment to a thing
+===============================
+
+:: Description
+A character has a significant emotional attachment to an inanimate object,
+typically a cherished possession.
+
+:: Parents
+human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Comfort_object
 
 
 emotional overwhelm
@@ -11684,6 +11979,20 @@ corrupt and over-regulated Earth from its ongoing energy crisis.
 https://en.wikipedia.org/wiki/Energy_crisis
 
 
+engaged couple
+==============
+
+:: Description
+The relationship between two people engaged to be married is featured.
+
+:: Parents
+human familial relationship
+romantic relationship
+
+:: Aliases
+fiancé and fiancée
+
+
 engineered orbital structure
 ============================
 
@@ -11725,8 +12034,8 @@ environmental issue
 ===================
 
 :: Description
-This is the category of social issue themes that examine the effects human
-activity may have at large on the biophysical environment, i.e., on nature.
+Discussed is the effect that human activity may have at large on the
+biophysical environment, that is, on nature.
 
 :: Parents
 national social issue
@@ -11844,8 +12153,9 @@ ethics
 ======
 
 :: Description
-The branch of philosophy that involves systematizing, defending, and
-recommending moral principles.
+Ethics is the branch of philosophy that involves systematizing, defending, and
+recommending moral principles. The theme is used whenever an aspect of this
+branch of philosophy is featured in the story.
 
 :: Parents
 philosophy
@@ -12005,7 +12315,7 @@ something, and that obeying them is undesirable. The character makes a
 reasonable attempt not to do so.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Notes
 There are two contraposed formulas for when the theme applies: wanting to do
@@ -12154,6 +12464,26 @@ conspires to keep the other weak in order to have a more lopsided bargain.
 
 :: Parents
 social ethical dilemma
+
+
+explosives
+==========
+
+:: Description
+The chemistry and technology of making things that explode is featured.
+Gunpowder, for example, is a mixture of sulfur, charcoal, and potassium
+nitrate (saltpeter) with the sulfur and charcoal acting as fuels, while the
+saltpeter functions as an oxidizer.
+
+:: Parents
+technology
+
+:: Examples
+Captain Kirk knew this well and used the knowledge to defeat his Gorn enemy in
+the legendary fight to the death in tos1x19 "Arena".
+
+:: References
+https://en.wikipedia.org/wiki/Gunpowder
 
 
 exponential growth
@@ -12469,6 +12799,20 @@ commandeering the vessel and taking it to the mythical planet Eden in tos3x20
 "The Way to Eden".
 
 
+facing a stalker
+================
+
+:: Description
+A character is illicitly and repeatedly surveilled by someone, for example, by
+a former lover.
+
+:: Parents
+human vs. human
+
+:: References
+https://en.wikipedia.org/wiki/Stalking
+
+
 facing a vermin infestation
 ===========================
 
@@ -12485,7 +12829,8 @@ facing adversity
 
 :: Description
 A character confronts something difficult that they actively endeavor to
-overcome. This includes matters of survival and making a self-sacrifice.
+overcome. This includes matters of survival, for example, making a self-
+sacrifice for (typically) someone.
 
 :: Parents
 human challenge in life
@@ -12919,7 +13264,7 @@ conspires behind their back in a way that is most unfriendly and meant to
 cause harm.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 betrayal
 
 :: Notes
@@ -12965,8 +13310,8 @@ family affairs
 ==============
 
 :: Description
-This is the category of themes that are about interpersonal relations and
-interaction within a family.
+This is a general theme about interpersonal relations, interactions, and those
+sorts of issues that arise among members of a family.
 
 :: Parents
 humans in group
@@ -13652,6 +13997,24 @@ university.
 https://en.wikipedia.org/wiki/Female_education
 
 
+female empowerment
+==================
+
+:: Description
+The idea that women are more capable of feats than perhaps society and
+themselves give them credit for.
+
+:: Parents
+gender issue
+
+:: References
+https://en.wikipedia.org/wiki/Girl_power
+https://en.wikipedia.org/wiki/Women%27s_empowerment
+
+:: Aliases
+girl power
+
+
 female independence
 ===================
 
@@ -13708,9 +14071,9 @@ female stereotype
 =================
 
 :: Description
-The category of themes that (correctly or incorrectly) highlight attributes
-that are believed to be typical of contemporary women. Many of these may be
-considered sexist today.
+Correctly or incorrectly, highlighted is one of those attributes that someone
+thinks to be typical women. Such themes may sometimes be considered sexist by
+contemporary standards.
 
 :: Parents
 human character stereotype
@@ -13750,7 +14113,7 @@ female-only society
 There is a nation of, more or less, only women.
 
 :: Parents
-biased sex-ratio society
+single-gender society
 
 :: Examples
 In "Sexmission" (1984), two men woke up from a human hibernation experiment
@@ -13830,19 +14193,6 @@ special interest group issue
 
 :: References
 https://en.wikipedia.org/wiki/Feral_child
-
-
-engaged couple
-==============
-
-:: Description
-The relationship between two people engaged to be married is featured.
-
-:: Parents
-human familial relationship
-
-:: Aliases
-fiancé and fiancée
 
 
 fictional character come to life
@@ -14321,12 +14671,11 @@ folk belief
 ===========
 
 :: Description
-This is the category of themes that are about faith-based popular beliefs and
-cultural traditions that fall outside of the typical framework of organized
-religious doctrines and practices.
+A faith-based popular belief or cultural tradition falling outside of the
+doctrines and practices of established religious institutions, is featured.
 
 :: Parents
-the pursuit of knowledge
+the natural world
 
 :: References
 https://en.wikipedia.org/wiki/Folk_belief
@@ -14535,9 +14884,9 @@ form of government
 ==================
 
 :: Description
-This is the category of themes that center around one or another of the many
-organizing principles for a system of state government that have been
-proposed, and expressed in a way that makes it reasonably well-defined.
+Explored is one or another of the many organizing principles for a system of
+state government that have been proposed, and expressed in a way that makes it
+reasonably well-defined.
 
 :: Parents
 national social issue
@@ -14839,7 +15188,7 @@ friendship
 The friendship between two characters is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 
@@ -15030,23 +15379,6 @@ unfailingly ten times in a row, but would loose a little finger should he fail
 but once.
 
 
-garbage planet
-==============
-
-:: Description
-There is a planet that is systematically and extensively used as a dumping
-ground for refuse. It may be a designated garbage dump of some spacefaring
-civilization, or merely a convenient place for passers by to unload their
-junk.
-
-:: Parents
-speculative habitable celestial body
-
-:: Examples
-The presumed dead body of Sergeant Todd was unceremoniously dumped on the
-Arcadia 234 waste disposal planet in "Soldier" (1998).
-
-
 gardening
 =========
 
@@ -15117,6 +15449,24 @@ https://en.wikipedia.org/wiki/Gender_bender
 androgyny
 
 
+gender in crime statistics
+==========================
+
+:: Description
+Discussed are the differences between men and women as the perpetrators or
+victims of crime, in aggregate.
+
+:: Parents
+gender issue
+law and order issue
+
+:: References
+https://en.wikipedia.org/wiki/Sex_differences_in_crime
+
+:: Aliases
+sex differences in crime
+
+
 gender in sports
 ================
 
@@ -15139,8 +15489,8 @@ gender issue
 ============
 
 :: Description
-This is the category of themes that center on gender, and that typically
-discuss the different roles of the two sexes in society.
+The social, psychological, cultural and behavioral aspects of being a man,
+woman, or other gender identity, is discussed.
 
 :: Parents
 national social issue
@@ -15530,24 +15880,6 @@ size distinguished being
 https://en.wikipedia.org/wiki/Giant
 
 
-female empowerment
-==================
-
-:: Description
-The idea that women are more capable of feats than perhaps society and
-themselves give them credit for.
-
-:: Parents
-gender issue
-
-:: References
-https://en.wikipedia.org/wiki/Girl_power
-https://en.wikipedia.org/wiki/Women%27s_empowerment
-
-:: Aliases
-girl power
-
-
 girlfriend and girlfriend
 =========================
 
@@ -15654,7 +15986,7 @@ of theirs, is featured.
 
 :: Parents
 organized religion
-human interpersonal relationship
+humans in pairs
 
 :: Notes
 This theme should only be used when someone is in direct, typically verbal
@@ -15684,26 +16016,6 @@ humans in hierarchy
 
 :: References
 https://en.wikipedia.org/wiki/Command_hierarchy
-
-
-gold digging
-============
-
-:: Description
-A character engages in a romantic relationship with the primary objective of
-acquiring money, and with little concern for love.
-
-:: Parents
-the lust for gold
-romantic relationship
-
-:: Examples
-In talesoftheunexpected2x15 "The Orderly World of Mr Appleby", we learn that
-Mr. Appleby serially married older women for their money and then sought to
-bring about their premature demises.
-
-:: References
-https://en.wikipedia.org/wiki/Gold_digging
 
 
 golem
@@ -15868,7 +16180,7 @@ graciousness in defeat
 Someone accepts a defeat with dignity.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Dr. James Moriarty conceded defeat with impeccable Victorian poise in tng2x03
@@ -15934,6 +16246,20 @@ The relationship between a grandmother and her grandson is featured.
 human familial relationship
 
 
+grave robbery
+=============
+
+:: Description
+Grave robbery, tomb robbing, or tomb raiding is the act of uncovering a grave,
+tomb or crypt to steal commodities.
+
+:: Parents
+theft
+
+:: References
+https://en.wikipedia.org/wiki/Grave_robbery
+
+
 gravity manipulating technology
 ===============================
 
@@ -15975,18 +16301,6 @@ only way to protect your own people?
 
 :: Parents
 social ethical dilemma
-
-
-greedy heir
-===========
-
-:: Description
-Someone, usually an aging or sick character, is bothered by a potential
-beneficiary who is overly concerned about their future inheritance.
-
-:: Parents
-human character
-the lust for gold
 
 
 gremlin
@@ -16464,6 +16778,20 @@ happened after a great social upheaval such as was World War 2.
 political issue
 
 
+health and fitness
+==================
+
+:: Description
+A character incorporates noncompetitive exercise and healthy eating habits
+into their general lifestyle.
+
+:: Parents
+human regular activity
+
+:: References
+https://en.wikipedia.org/wiki/Physical_fitness
+
+
 healthcare in society
 =====================
 
@@ -16709,6 +17037,22 @@ metaphysics
 https://en.wikipedia.org/wiki/Historical_determinism
 
 
+historical event
+================
+
+:: Description
+An event from real human history is discussed or otherwise featured.
+
+:: Parents
+history
+
+:: Notes
+The story must clearly identify the event in question, but there is no
+requirement that it be otherwise "correct" in what it has to say.
+
+:: References
+
+
 historical figure
 =================
 
@@ -16746,17 +17090,43 @@ history
 =======
 
 :: Description
-This is the category of themes that discuss the study of history, or
-historical events as they are commonly understood. For example, the themes may
-present a reasonable idea of how a historical event might have transpired,
+This is a general theme pertaining to the study of history, or historical
+events and personages as they are commonly understood. For example, the story
+may present a reasonable idea of how a historical event might have transpired,
 what a time and place in history might have been like for its inhabitants, or
 what a historical figure might have been like.
 
 :: Parents
-the pursuit of knowledge
+society
 
 :: References
 https://en.wikipedia.org/wiki/History
+
+
+history occupation
+==================
+
+:: Description
+A historian is engaged in their chosen occupation.
+
+:: Parents
+academic occupation
+
+:: References
+https://en.wikipedia.org/wiki/Historian
+
+
+hitman occupation
+=================
+
+:: Description
+A character has made a profession out of killing people in return for payment.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Contract_killing
 
 
 hoaxes in society
@@ -16892,6 +17262,11 @@ society and how homosexual people ought to be treated.
 
 :: Parents
 sexual norms in society
+
+:: Examples
+The J'naii's gender identities were rather fuzzy in tng5x17 "The Outcast";
+Riker's fling with Soren may have been as close as we ever got to seeing
+homosexuality in TNG.
 
 :: References
 https://en.wikipedia.org/wiki/Homosexuality
@@ -17060,6 +17435,17 @@ a general disaster, where the opportunity might present itself through mere
 chance.
 
 
+how to cover up a murder
+========================
+
+:: Description
+A character takes measures to prevent the authorities from discovering the
+truth about a murder that has been committed.
+
+:: Parents
+how to commit a crime and get away with it
+
+
 how to crack a safe
 ===================
 
@@ -17078,6 +17464,41 @@ strategies, heavy machines, and explosives.
 
 :: References
 https://en.wikipedia.org/wiki/Safe-cracking
+
+
+how to dispose of a corpse and get away with it
+===============================================
+
+:: Description
+We are made to ponder clever ways in which one might contrive to illicitly and
+quietly dispose of a corpse one has been inconveniently hampered with. The
+usual scenario is that the character saddled with the dilemma produced said
+corpse in the first place by, intentionally or otherwise, killing the living
+person that preceded it.
+
+:: Parents
+how to commit a crime and get away with it
+
+:: References
+https://en.wikipedia.org/wiki/Disposal_of_human_corpses#Criminal_disposal
+
+
+how to fake one's own death
+===========================
+
+:: Description
+A character purposely deceives others into believing they are dead when, in
+fact, they are not.
+
+:: Parents
+how to commit a crime and get away with it
+
+:: References
+https://en.wikipedia.org/wiki/Faked_death
+
+:: Aliases
+staged death
+pseudocide
 
 
 how to handle a hostage situation
@@ -17206,8 +17627,8 @@ human aspiration
 ================
 
 :: Description
-A basic human hope, dream, or the question of what we want out of life is
-featured.
+A character expresses a hope, a dream, or ponders the question of what they
+want out of life.
 
 :: Parents
 purpose in life
@@ -17263,14 +17684,14 @@ human challenge in life
 =======================
 
 :: Description
-Someone is faced with a problem or adversity such as we might plausible face
+This is a general theme pertaining to such problems as we might plausibly face
 in the course of a typical human life.
 
 :: Parents
-individual human experience
+individual humans
 
 :: Examples
-"human challenge in life" often revolve around "facing death" or "facing
+"human challenge in life" often revolves around "facing death" or "facing
 adversity", but may also involve any of a mishmash of troubles categorized
 under "coping with life issues".
 
@@ -17279,15 +17700,15 @@ human character
 ===============
 
 :: Description
-This is the category of themes that examine character types and personal
-character traits.
+This is a general theme pertaining to character types and personal character
+traits.
 
 :: Parents
-individual human experience
+individual humans
 
 :: Notes
-Character themes apply only if the behavior is explicitly discussed or made
-more-or-less pantomimically obvious.
+Character themes apply only if the behavior is explicitly discussed or
+pointedly illustrated.
 
 :: Examples
 "courage", "cowardice", "misanthropy", and "chivalry" are all "human
@@ -17301,8 +17722,8 @@ human character stereotype
 ==========================
 
 :: Description
-There is a person whose character fits a recognizable, well-defined,
-stereotype to a remarkable degree.
+There is a person in the story whose character fits a recognizable, well-
+defined, stereotype to a remarkable degree.
 
 :: Parents
 human character
@@ -17312,8 +17733,7 @@ human characters in contrast
 ============================
 
 :: Description
-This is the category of themes that illustrate and contrast two or more
-different personalities.
+The personalities of two characters are pointedly compared and contrasted.
 
 :: Parents
 human character
@@ -17330,8 +17750,8 @@ human childhood
 ===============
 
 :: Description
-Featured is one of the various problems someone may face during the early
-parts of their life, i.e., childhood and adolescence.
+A young character faces one of those problems people tend to go through during
+the early parts of their lives, typically during childhood or adolescence.
 
 :: Parents
 family affairs
@@ -17377,12 +17797,11 @@ human dreaming
 ==============
 
 :: Description
-This is the category of themes that present a human reflecting on what was,
-what could have been, what might be, what could never be, and so on and so
-forth.
+This is a general theme pertaining to reflections on what was, what could have
+been, what might be, what could never be, and so on and so forth.
 
 :: Parents
-individual human experience
+individual humans
 
 :: Examples
 "human dreaming" themes tend to involve fantasies or reminiscence. An
@@ -17398,42 +17817,16 @@ human emotion
 =============
 
 :: Description
-Someone experiences, intensely, one of those conscious inner mental states
-that we call emotions.
+This is a general theme pertaining to experiences, typically intensely, of one
+of those conscious inner mental states that we call emotions.
 
 :: Parents
-individual human experience
+individual humans
 
 :: Examples
 "hope" and "jealousy" are illustrative examples of "human emotion" themes.
 
 :: References
-https://en.wikipedia.org/wiki/Emotion
-
-
-human emotional issue
-=====================
-
-:: Description
-A character struggles with undesirable emotional consequences stemming from
-some practicality of living, such as any of us might experience during the
-course of our duration on Earth.
-
-:: Parents
-human challenge in life
-
-:: Notes
-Themes in this category generally apply when the emotions are more central to
-the story than is whatever may have caused the emotions.
-
-:: Examples
-"coping with having a bad day" is a "human emotional issue" as the character
-in question is generally concerned with their own state of mind and may have
-little expection that they can do much about whatever situation made the day
-bad.
-
-:: References
-https://en.wikipedia.org/wiki/Emotional_well-being
 https://en.wikipedia.org/wiki/Emotion
 
 
@@ -17451,8 +17844,9 @@ human enhancement technology
 ============================
 
 :: Description
-A novel technology is used to enhance (or diminish depending on one's point of
-view) a person's physical ability.
+A novel technology is used to alter a person's physical or mental ability.
+Typically it is used objectively to enhance abilities, though whether a given
+alteration diminishes or enhances a person can be controversial.
 
 :: Parents
 speculative technology
@@ -17465,11 +17859,12 @@ human familial relationship
 ===========================
 
 :: Description
-This is the category of themes that deal with the interpersonal relationship
-between two somewhat closely related characters, i.e., "family".
+The interpersonal relationship between two individuals bound by such a close
+social bond that they might be called "family" is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
+family affairs
 
 :: Notes
 Any defined character relationship can be familial if it is clearly considered
@@ -17492,9 +17887,10 @@ human health condition
 ======================
 
 :: Description
-This is the category of themes that discuss human mental and physiological
-well-being. It is usually done with respect to some factor, such as disease or
-infirmity, that is seen as detrimental to a human's well-being.
+There is a character whose mental or physiological well-being is featured
+because they suffer from some condition or another that is considered to be
+pathological. Such a condition is usually detrimental to the individual's
+well-being.
 
 :: Parents
 human challenge in life
@@ -17512,13 +17908,13 @@ human idea about life
 =====================
 
 :: Description
-This is the category of themes that seek to illustrate some generality about
-what human life may be like. For example, the themes may be practical advice
-on how one ought to lead ones life. Many of these themes are tidbits of folksy
-wisdom summed up in readily recognizable pithy aphorisms.
+This is the general theme pertaining to generalities about what human life may
+be like. For example, the theme may be practical advice on how one ought to
+lead ones life. Many of the stories featuring this theme contain tidbits of
+folksy wisdom summed up in readily recognizable pithy aphorisms.
 
 :: Parents
-the human condition
+the human world
 
 :: Examples
 "appearances can be deceiving", "beauty is in the eye of the beholder", and
@@ -17533,8 +17929,7 @@ human in danger
 ===============
 
 :: Description
-This is the category of themes that relate to what it is like for a human to
-find themselves in a dangerous situation of one sort or another.
+A character finds themself in a dangerous situation of one sort or another.
 
 :: Parents
 human challenge in life
@@ -17546,33 +17941,13 @@ it is like for someone to be in a certain risky situation.
 :: References
 
 
-human interpersonal relationship
-================================
-
-:: Description
-This is the category of themes that relate to the relationship between two or
-(occasionally) more people at a time.
-
-:: Parents
-humans in pairs
-
-:: Examples
-"romantic relationship", "friendship", "neighbor and noeighbor", and "human
-familial relationship" are all examples of "human interpersonal relationship"
-themes.
-
-:: References
-https://en.wikipedia.org/wiki/Interpersonal_relationship
-
-
 human life choice
 =================
 
 :: Description
-A character is made to reflect on a tough decision that involve choices that
+A character is made to reflect on a tough decision that involves choices that
 are hard, not because of ethical issues or uncertainty regarding the outcome,
-but because the decision that will have a major impact on the course of their
-life. A typical example is "career choice".
+but because the decision will have a major impact on the course of their life.
 
 :: Parents
 human tough decision
@@ -17587,8 +17962,9 @@ human mental condition
 ======================
 
 :: Description
-This is the subcategory of "human health condition" themes that relate to the
-mind.
+There is a character whose mental well-being is featured because they suffer
+from some condition or another that is considered to be pathological. Such a
+condition is usually detrimental to the individual's well-being.
 
 :: Parents
 human health condition
@@ -17606,11 +17982,12 @@ human nature
 ============
 
 :: Description
-The distinguishing characteristics - including ways of thinking, feeling, and
-acting - which humans tend to have naturally.
+This is a general theme pertaining to distinguishing characteristics -
+including ways of thinking, feeling, and acting - which humans tend to have
+naturally.
 
 :: Parents
-philosophy
+the human world
 
 :: References
 https://en.wikipedia.org/wiki/Human_nature
@@ -17620,8 +17997,10 @@ human need
 ==========
 
 :: Description
-The things we humans tend to need in order to consider ourselves healthy,
-content, and fulfilled in life.
+This is a general theme pertaining to the things people tend to need in order
+to consider ourselves healthy, content, and fulfilled in life. The immediate
+specializations break down according to a simplified version of Maslow's
+hierarchy of needs.
 
 :: Parents
 purpose in life
@@ -17631,7 +18010,8 @@ human occupational activity
 ===========================
 
 :: Description
-A character is notably engaged in their chosen occupation.
+This is a general theme pertaining to an individual being notably engaged in
+their chosen occupation.
 
 :: Parents
 human regular activity
@@ -17694,8 +18074,8 @@ human physiological need
 ========================
 
 :: Description
-This is the category of themes that relate to a person's physiological needs.
-I.e., the need for things like food, water, sleep, and (in some sense) sex.
+One or another of a character's physiological needs is featured. For example,
+the theme may pertain to the need for things like food, water, sleep, and sex.
 
 :: Parents
 human need
@@ -17713,7 +18093,8 @@ human pleasure
 ==============
 
 :: Description
-A character takes marked pleasure in an activity such as a hobby.
+A character engages in an activity for the pure enjoyment of it, such as
+savoring a tasty meal or engaging in a cherished pastime.
 
 :: Parents
 purpose in life
@@ -17723,23 +18104,24 @@ human regular activity
 ======================
 
 :: Description
-This is the category of themes that contain various purposeful regular
-activities that humans may be engaged in. Such activities are typically
-occupations or hobbies.
+This is a general theme pertaining to various purposeful regular activities
+that humans may be engaged in. Such activities are typically occupations or
+hobbies.
 
 :: Parents
-the human condition
+personal human experience
 
 
 human rights issue
 ==================
 
 :: Description
-This is the category of themes that discusses issues that relate to whatever
-people typically like to label as human rights. It may, for example, involve
-practical concerns around safeguarding such rights, discuss ethical questions
-around what counts as a right, or weight two conflicting human rights
-considerations in a particular situation.
+Explored is one of those ideas of "rights", such as the right to not be
+tortured, that we sometimes say people (or other beings that are to be treated
+as people) are inalienably entitled to merely by virtue of existing. It may,
+for example, involve practical concerns around safeguarding such rights,
+discuss ethical questions around what counts as a right, or weight two
+conflicting human rights considerations in a particular situation.
 
 Examples of rights and freedoms which are often thought of as human rights
 include civil and political rights, such as the right to life, liberty, and
@@ -17750,12 +18132,6 @@ education.
 
 :: Parents
 social ethical issue
-
-:: Examples
-"homosexuality in society" is a "human rights issue" because an overwhelming
-number of people now believe that systematically discriminated against someone
-on account of their sexuality would be an infringement on that person's
-rights.
 
 :: References
 https://en.wikipedia.org/wiki/Human_rights
@@ -17795,8 +18171,8 @@ human safety need
 =================
 
 :: Description
-This is the category of themes that relate to human's need to feel safe from
-danger of all kinds, including physical, financial, and health risks.
+A character's need to feel save from all kinds of dangers is featured. Dangers
+may include physical dangers, financial dangers, and health risks.
 
 :: Parents
 human need
@@ -17821,7 +18197,7 @@ A character in the story contemplates their own person and some way in which
 they can better themself.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 "lesson in humility" is a "human self improvement" theme because it implies
@@ -17838,9 +18214,9 @@ human self-actualization need
 =============================
 
 :: Description
-This is the category of themes about human needs that specifically deal with
-an individual's desire to grow as a person and to realize their full
-potential.
+A character's desire to grow as a person and to realize their full potential
+is featured. For example, the theme may pertain to a character's aspirations
+or purpose in life
 
 :: Parents
 human need
@@ -17858,8 +18234,9 @@ human self-esteem need
 ======================
 
 :: Description
-This is the category of themes that examine a person's ego needs, i.e., the
-need for things like recognition, status, importance, and respect from others.
+One or another of a character's ego related needs is featured. For example,
+the theme may pertain to the need for things like recognition, status,
+importance, and respect from others.
 
 :: Parents
 human need
@@ -17873,12 +18250,30 @@ form of recognition from others.
 https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#Self-esteem
 
 
+human self-reflection
+=====================
+
+:: Description
+This a general theme pertaining to the examination of one's own person, for
+example, desires, motives, one's own conscience, etc.
+
+:: Parents
+individual humans
+
+:: Examples
+"human self improvement" is the main specialization of this theme because most
+often when a character is considering themself it seems they do so with a
+desire to improve on themself.
+
+:: References
+
+
 human self-sacrifice
 ====================
 
 :: Description
-A character helps another character, or cause, at a significant cost or risk
-to themself.
+A character helps another character, or does something for a worthy cause, at
+a significant cost or risk to themself.
 
 :: Parents
 human tough decision
@@ -17952,9 +18347,9 @@ human social need
 =================
 
 :: Description
-This is the category themes that relate to a persons need to have good
-connections with other people, i.e., belonging to a social group, having
-friends, family, etc.
+A character's need to have good connections with other people is featured. For
+example, the theme may pertain to belonging to a social group, friendship,
+maintaining family relations, etc.
 
 :: Parents
 human need
@@ -17973,8 +18368,8 @@ human social position
 =====================
 
 :: Description
-This is the category of themes that examine a character's status within a
-society of which they are part.
+This is general theme pertaining to an individual's status within a society of
+which they are part.
 
 :: Parents
 humans in group
@@ -17987,32 +18382,37 @@ status in a group is lowered.
 :: References
 
 
-human thinking about self
-=========================
+human thought virus
+===================
 
 :: Description
-This is the category of themes that deal with introspection, i.e., a character
-pondering their own person.
+There is an "information" virus that can invade the thought processes of a
+human and transmit itself to other humans by means of communication. It is
+thus more like a computer virus than a biological virus, except in that it
+infects biological information systems rather than machines.
 
 :: Parents
-individual human experience
+speculative mind altering effect
 
 :: Examples
-"human self improvement" is the main sub-category of "human thinking about
-self" because most often when a character is considering themself it seems
-they do so with a desire to improve on themself.
+In tz1985e1x21a "Need to Know", we saw how people in a little village started
+going insane one after the other because of a confounding and viral idea about
+the meaning of life, that was whispered by an infected person to someone who
+would become the next victim in turn.
 
-:: References
+:: Aliases
+memetic virus
 
 
 human tough decision
 ====================
 
 :: Description
-A character struggles with a decision that must made.
+This is a general theme that pertains to an individual struggling with a
+decision which must be made
 
 :: Parents
-individual human experience
+individual humans
 
 :: Examples
 This category of themes, so common in fiction, is further subdivided into:
@@ -18089,8 +18489,8 @@ human vs. human
 ===============
 
 :: Description
-This is the category of themes that describe a conflict situation between a
-person and other people.
+This is a general theme pertaining to conflict situations between a person and
+other people.
 
 :: Parents
 facing adversity
@@ -18280,11 +18680,11 @@ human way of life
 =================
 
 :: Description
-This is the category of themes that deal with the various ideas people may
-have about how they want to lead their lives.
+This a general theme pertaining to the various ideas people may have about how
+they want to lead their lives.
 
 :: Parents
-individual human experience
+individual humans
 
 :: Notes
 Sometimes a person's idea about how they should lead their life involves ideas
@@ -18303,11 +18703,10 @@ human worrying about self
 =========================
 
 :: Description
-This is the category of themes that deal with the various concerns a person
-may have when thinking about their own condition.
+A character ponders a concern they have regarding their own person.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 "second guessing one's self" and "beating one's self up " are "human worrying
@@ -18457,12 +18856,23 @@ https://en.wikipedia.org/wiki/Mutants_in_fiction
 http://www.sf-encyclopedia.com/entry/mutants
 
 
+humanoid robot
+==============
+
+:: Description
+An automaton that resembles a human being is featured.
+
+:: Parents
+artificial intelligence
+speculative robot
+
+
 humans at work
 ==============
 
 :: Description
-This is the category of themes that describe the experience of people as they
-seek to collaborate in a workplace.
+This is a general theme pertaining to the experience of people as they seek to
+collaborate in a workplace.
 
 :: Parents
 humans in group
@@ -18480,21 +18890,21 @@ humans in group
 ===============
 
 :: Description
-This is the category of themes that examine human group dynamics, or some
-experience simultaneously applicable to each member of a group of people.
+This is a general theme pertaining to human group dynamics, or some experience
+simultaneously applicable to each member of a group of people.
 
 :: Parents
-the human condition
+personal human experience
 
 :: Notes
-We distinguish between "individual human experience", "humans in pairs", and
-"humans in groups" with reference to whose experiences are relevant to the
-thematic idea that is being expressed. For example "coping with problematic
-people" clearly implies the presence of two or more people but the theme is
-only concerned with the experiences of a single observer at a time. "romantic
-relationship", on the other hand, is a category of themes that most often
-examine the interaction between two people and discuss both their experiences
-simultanously. Likewise "humans in group" imply themes that examine the
+We distinguish between "individual humans", "humans in pairs", and "humans in
+groups" with reference to whose experiences are relevant to the thematic idea
+that is being expressed. For example "coping with problematic people" clearly
+implies the presence of two or more people but the theme is only concerned
+with the experiences of a single observer at a time. "romantic relationship",
+on the other hand, is a category of themes that most often examine the
+interaction between two people and discuss both their experiences
+simultaneously. Likewise "humans in group" imply themes that examine the
 constitution of a whole group of people, for example the idea that "lack of
 trust can lead to group dysfunction."
 
@@ -18512,9 +18922,8 @@ humans in hierarchy
 ===================
 
 :: Description
-This is the category of "humans in group" themes that relate to a hierarchical
-structure wherein some characters are put above and in charge of other
-characters.
+This is a general theme pertaining to a hierarchical structure wherein some
+characters are put above and in charge of other characters.
 
 :: Parents
 humans in group
@@ -18532,21 +18941,21 @@ humans in pairs
 ===============
 
 :: Description
-This is the category of themes that examine the respective interactions and
+This is a general theme pertaining to the respective interactions and
 attitudes of two people vis-à-vis each other.
 
 :: Parents
-the human condition
+personal human experience
 
 :: Notes
-We distinguish between "individual human experience", "humans in pairs", and
-"humans in groups" with reference to whose experiences are relevant to the
-thematic idea that is being expressed. For example "coping with problematic
-people" clearly implies the presence of two or more people but the theme is
-only concerned with the experiences of a single observer at a time. "romantic
-relationship", on the other hand, is a category of themes that most often
-examine the interaction between two people and discuss both their experiences
-simultanously. Likewise "humans in group" imply themes that examine the
+We distinguish between "individual humans", "humans in pairs", and "humans in
+groups" with reference to whose experiences are relevant to the thematic idea
+that is being expressed. For example "coping with problematic people" clearly
+implies the presence of two or more people but the theme is only concerned
+with the experiences of a single observer at a time. "romantic relationship",
+on the other hand, is a category of themes that most often examine the
+interaction between two people and discuss both their experiences
+simultaneously. Likewise "humans in group" imply themes that examine the
 constitution of a whole group of people, for example the idea that "lack of
 trust can lead to group dysfunction."
 
@@ -18557,8 +18966,8 @@ humans interacting
 ==================
 
 :: Description
-This is the category of themes that illustrate the interactions between two or
-more humans.
+This is a general theme pertaining to the interactions between two or more
+humans.
 
 :: Parents
 humans in group
@@ -18715,6 +19124,21 @@ speculative habitable celestial body
 
 :: References
 https://en.wikipedia.org/wiki/Ice_planet
+
+
+identical twins
+===============
+
+:: Description
+There's a monozygotic pair of twins (or higher order multiple), i.e., two
+twins that are virtually identical on account of having the same DNA. The
+relationship between these two characters is featured.
+
+:: Parents
+twin and twin
+
+:: References
+https://en.wikipedia.org/wiki/Twin#Monozygotic_(identical)_twins
 
 
 if it ain't broke don't fix it
@@ -19183,25 +19607,26 @@ https://en.wikipedia.org/wiki/Indigenous_rights
 https://en.wikipedia.org/wiki/First_Nations
 
 
-individual human experience
-===========================
+individual humans
+=================
 
 :: Description
-This is the category of themes that center around an individual's personal
-thoughts, emotions, urges, ambitions, and other such experiences.
+This is a general theme pertaining to an individual's personal emotions,
+dispositions, thoughts, urges, ambitions, life issues, and other such
+experiences.
 
 :: Parents
-the human condition
+personal human experience
 
 :: Notes
-We distinguish between "individual human experience", "humans in pairs", and
-"humans in groups" with reference to whose experiences are relevant to the
-thematic idea that is being expressed. For example "coping with problematic
-people" clearly implies the presence of two or more people but the theme is
-only concerned with the experiences of a single observer at a time. "romantic
-relationship", on the other hand, is a category of themes that most often
-examine the interaction between two people and discuss both their experiences
-simultanously. Likewise "humans in group" imply themes that examine the
+We distinguish between "individual humans", "humans in pairs", and "humans in
+groups" with reference to whose experiences are relevant to the thematic idea
+that is being expressed. For example "coping with problematic people" clearly
+implies the presence of two or more people but the theme is only concerned
+with the experiences of a single observer at a time. "romantic relationship",
+on the other hand, is a category of themes that most often examine the
+interaction between two people and discuss both their experiences
+simultaneously. Likewise "humans in group" imply themes that examine the
 constitution of a whole group of people, for example the idea that "lack of
 trust can lead to group dysfunction."
 
@@ -19263,7 +19688,8 @@ inebriated interaction
 ======================
 
 :: Description
-A character is inebriated in a social setting.
+A character is inebriated in a social setting. Typically the character makes a
+right fool of themself.
 
 :: Parents
 humans in group
@@ -19718,9 +20144,9 @@ international issue
 ===================
 
 :: Description
-This is the category of themes that examine how sovereign states interact. For
-example, this is where themes about war, peace, diplomacy, international
-trade, and globalization belong.
+This is a general theme about interactions among sovereign states. For
+example, the theme may pertain to war, peace, diplomacy, international trade,
+and globalization.
 
 :: Parents
 society
@@ -20583,10 +21009,9 @@ law and order issue
 ===================
 
 :: Description
-This is the category of national social issues that relate to behaviors that
-are broadly considered to be against the law in civilized societies. These are
-themes about crimes and the measures we take to punish, deter, and prevent
-crime.
+Explored is behavior that is broadly considered to be against the law in
+organized societies. The theme pertains to crimes and the measures we take to
+punish, deter, and prevent them.
 
 :: Parents
 national social issue
@@ -20707,6 +21132,20 @@ law and order issue
 https://en.wikipedia.org/wiki/Law_of_obligations
 
 
+legal occupation
+================
+
+:: Description
+A character working directly with the interpretation of law, for example a
+lawyer, prosecutor, or judge, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Legal_proceeding
+
+
 legal punishment
 ================
 
@@ -20732,6 +21171,18 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Legendary_creature
+
+
+legendary historical figure
+===========================
+
+:: Description
+A person who has been suggested to have been a real historical figure but for
+whose existence there is no accepted historical evidence, is discussed or
+otherwise featured.
+
+:: Parents
+history
 
 
 legendary magic wielder
@@ -20835,7 +21286,7 @@ used when someone has trouble moving on after a, to them, important person has
 passed away.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 In tz1985e3x05 "Dream Me a Life", both Roger and Laurel were miserable because
@@ -20946,7 +21397,7 @@ Seen is a process, perhaps aided by technology or magic, in which "life force"
 person to another.
 
 :: Parents
-speculative natural process
+speculative effect
 
 :: Examples
 Taurean women put life force draining headbands on men in tas1x04 "The Lorelei
@@ -21307,9 +21758,9 @@ love
 ====
 
 :: Description
-This category of themes concern that feeling of deep affection and attachment
-toward someone or (occasionally) something. Sexuality may or may not be
-involved.
+This is a general theme dealing with that feeling of deep affection and
+attachment toward someone or (occasionally) something. If sexuality is
+featured then the specialization "romantic love" is used.
 
 :: Parents
 human emotion
@@ -21434,6 +21885,18 @@ career choice
 human romantic relationship choice
 
 
+love vs. conscience
+===================
+
+:: Description
+A character is made to choose between love one on one hand, and doing what
+they feel is right on the other.
+
+:: Parents
+personal ethical dilemma
+human romantic relationship choice
+
+
 love vs. faith
 ==============
 
@@ -21475,7 +21938,7 @@ love vs. the public good
 ========================
 
 :: Description
-A character must choose between the love one on one hand, and a general good,
+A character must choose between the loved one on one hand, and a general good,
 such as a cure for cancer, on the other.
 
 :: Parents
@@ -21513,8 +21976,9 @@ loyalty
 =======
 
 :: Description
-The category of themes that deal with loyalty, e.g., between friends, from a
-subordinate to a superior, etc..
+A character is pointedly faithful to someone or something. For example, the
+theme may pertain to an individual demonstrating their loyalty (or pointed
+lack thereof) to a friend, a cause, or their nation.
 
 :: Parents
 human character
@@ -21701,6 +22165,21 @@ human character stereotype
 https://en.wikipedia.org/wiki/Category:Mad_scientist_films
 
 
+madness inducing painting
+=========================
+
+:: Description
+There is a painting, or similarly visual work of art, that entices its
+beholders towards insanity.
+
+:: Parents
+speculative madness inducing effect
+magic object
+
+:: Examples
+
+
+
 magic bag
 =========
 
@@ -21797,12 +22276,12 @@ magic word
 The use of spoken words to invoke magical energies is featured. Note: A stage
 magician uttering "Abracadabra" before performing a trick does not count.
 
+:: Parents
+folk belief
+
 :: Notes
 A stage magician uttering "Abracadabra" before performing a trick does not
 meet the bar for applying this theme.
-
-:: Parents
-folk belief
 
 :: References
 https://en.wikipedia.org/wiki/Magic_word
@@ -21832,7 +22311,7 @@ magnanimity in victory
 Someone is forgiving to a rival they have bested.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 Riker graciously declined Portal 6-3's offer to destroy a party of conniving
@@ -21863,7 +22342,7 @@ The relationship between a maker of a (more or less intelligent) machine and
 that machine is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 maker and monster
@@ -21874,7 +22353,7 @@ The relationship between a maker and a monster of their own creation is
 featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 male bonding
@@ -21922,19 +22401,28 @@ male homosexuality
 ==================
 
 :: Description
-We are asked to what extent, if any, homosexuality should be tolerated in our
+We are asked to what extent, if any, male homosexuality should be tolerated in our
 society and how homosexual people ought to be treated.
 
 :: Parents
 homosexuality in society
 
-:: Examples
-The J'naii's gender identities were rather fuzzy in tng5x17 "The Outcast";
-Riker's fling with Soren may have been as close as we ever got to seeing male
-homosexuality in TNG.
-
 :: References
 https://en.wikipedia.org/wiki/Homosexuality
+
+
+male lasciviousness
+===================
+
+:: Description
+A male character is stereotypically licentious, i.e., makes offensive comments
+of a sexual nature or otherwise expresses an offensive preoccupation with sex.
+
+:: Parents
+male stereotype
+
+:: References
+https://en.wikipedia.org/wiki/Lascivious_behavior
 
 
 male midlife crisis
@@ -21985,9 +22473,9 @@ male stereotype
 ===============
 
 :: Description
-The category of themes that (correctly or incorrectly) highlight attributes
-that are believed to be typical of contemporary men. Many of these may be
-considered sexist today.
+Highlighted is one of those attributes that someone thinks, correctly or
+incorrectly, to be typical of men. Such themes may sometimes be considered
+sexist by contemporary standards.
 
 :: Parents
 human character stereotype
@@ -22117,6 +22605,25 @@ https://en.wikipedia.org/wiki/Etiquette
 
 :: Aliases
 etiquette
+
+
+maritime occupation
+===================
+
+:: Description
+Someone working on or with a seafaring vessel is engaged in their chosen
+occupation. Typically this means sailors, captains, and other naval officers.
+
+:: Parents
+human occupational activity
+
+:: Examples
+In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
+of an American clipper ship as they pursued pirates across the Pacific Ocean
+all the way to a volcanic island inhabited by dinosaurs.
+
+:: References
+https://en.wikipedia.org/wiki/Sailor
 
 
 marriage ceremony
@@ -22355,8 +22862,8 @@ speculative device
 https://en.wikipedia.org/wiki/Matchmaking
 
 
-material possessions isn't everything
-=====================================
+material possessions aren't everything
+======================================
 
 :: Description
 The idea is put forth that we ought to see material possessions as less
@@ -22387,8 +22894,10 @@ mathematics
 ===========
 
 :: Description
-Featured is some aspect of number theory, algebra, geometry, or other type of
-study which is popularly categorized under the rubric of "mathematics".
+Mathematics is an area of knowledge that includes the topics of numbers,
+formulas and related structures, shapes and the spaces in which they are
+contained, and quantities and their changes. The theme is used whenever a
+notable idea from this area of knowledge is featured in the story.
 
 :: Parents
 science
@@ -22508,6 +23017,24 @@ matter manipulating technology
 http://www.sf-encyclopedia.com/entry/transmutation
 
 
+mechanic occupation
+===================
+
+:: Description
+A character works professionally with building, maintaining, or repairing
+machinery. In particular they may be an auto mechanic, i.e., someone who work
+this way with cars.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Mechanic
+
+:: Aliases
+auto mechanic
+
+
 mechanical insect
 =================
 
@@ -22527,17 +23054,6 @@ had been created to pollinate plants, because real bees had died out.
 https://en.wikipedia.org/wiki/RoboBee
 
 
-humanoid robot
-==============
-
-:: Description
-An automaton that resembles a human being is featured.
-
-:: Parents
-artificial intelligence
-speculative robot
-
-
 medical assistance to the enemy
 ===============================
 
@@ -22553,9 +23069,8 @@ medical ethical issue
 =====================
 
 :: Description
-This is the important subcategory of "social ethical issue" themes that relate
-to how doctor's and other health care workers ought to behave in various
-situation.
+Ethical issues relating to how physicians and other health care providers
+ought to behave in various situation, is explored.
 
 :: Parents
 social ethical issue
@@ -22567,6 +23082,20 @@ whim.
 
 :: References
 https://en.wikipedia.org/wiki/Medical_ethics
+
+
+medical occupation
+==================
+
+:: Description
+A character working with health care, typically in a hospital or comparable
+institution, is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Health_professional
 
 
 medical risk taking
@@ -22608,6 +23137,20 @@ science
 
 :: References
 https://en.wikipedia.org/wiki/Medicine
+
+
+meditation
+==========
+
+:: Description
+A character is engaged in the practice of coming to a deep rest while still
+remaining conscious, perhaps as a form of relaxation.
+
+:: Parents
+recreational activity
+
+:: References
+https://en.wikipedia.org/wiki/Meditation
 
 
 meeting the parents
@@ -22689,6 +23232,22 @@ crackpot theory
 https://en.wikipedia.org/wiki/Men_in_black
 
 
+mending one's wicked ways
+=========================
+
+:: Description
+A once wicked character sets out to reform and become good, or at least to
+cease doing the wicked things they were doing.
+
+:: Parents
+becoming a nicer person
+
+:: Examples
+In ahh1x18 "A Tangled Web", the renowned jewel thief David Chesterman, for the
+sake of his beloved new bride, swears to give up his jewel thieving ways and
+become an honest Joe. Alas, it ends in misery.
+
+
 menopause
 =========
 
@@ -22767,7 +23326,7 @@ The relationship between a mentor and the person they are mentoring is
 featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 The Traveler played the role of mentor to Wesley in tng1x06 "Where No One Has
@@ -22782,7 +23341,7 @@ Someone displays forgiveness, pity, or compassion toward another who is under
 their authority, i.e., is at their mercy.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Mercy
@@ -22843,8 +23402,10 @@ metaphysics
 ===========
 
 :: Description
-The branch of philosophy concerned with the fundamental nature of reality and
-such basic concepts as existence, matter, space, time and causation.
+Metaphysics is the branch of philosophy concerned with the fundamental nature
+of reality and such basic concepts as existence, matter, space, time and
+causation. The theme is used whenever a notable idea from this branch of
+philosophy is featured in the story.
 
 :: Parents
 philosophy
@@ -22955,8 +23516,7 @@ military issue
 ==============
 
 :: Description
-This is the category of themes that relate to how a society organizes its
-armed forces.
+The way society organizes its armed forces is explored.
 
 :: Parents
 national social issue
@@ -22967,6 +23527,23 @@ discipline is maintained within the military or military-like groups.
 
 :: References
 https://en.wikipedia.org/wiki/Military
+
+
+military related work
+=====================
+
+:: Description
+There is a character whose main occupation involves being part of the armed
+forces of a putative state, or the like. This may, for example, be because
+they work professionally as an officer or because they are conscripted as
+privates.
+
+:: Parents
+human occupational activity
+
+:: Aliases
+military occupation
+military profession
 
 
 military retaliation to discourage
@@ -23037,7 +23614,7 @@ mind altering technology
 ========================
 
 :: Description
-A novel technology is used to alter (enhance or perhaps diminish) a person's 
+A novel technology is used to alter (enhance or perhaps diminish) a person's
 mental ability. These are themes that posit technology to manipulate the human
 mind by cloning it, wiping it, moving it, controlling it, and so on.
 
@@ -23400,17 +23977,6 @@ found to be innocent.
 https://en.wikipedia.org/wiki/Misogyny
 
 
-mistrust leading to group dysfunction
-=====================================
-
-:: Description
-The way in which mistrust can lead to a group of people not getting along is
-noted.
-
-:: Parents
-humans in group
-
-
 mixed marriage
 ==============
 
@@ -23551,7 +24117,7 @@ The idea is put forth that we ought to see money as less important in favor of
 other considerations, for example relationships.
 
 :: Parents
-material possessions isn't everything
+material possessions aren't everything
 
 :: References
 https://idioms.thefreedictionary.com/money+isn%27t+everything
@@ -24118,8 +24684,7 @@ national social issue
 =====================
 
 :: Description
-This is the category of themes that relate to a single state's internal
-organization.
+This is a general theme pertaining to a single state's internal affairs.
 
 :: Parents
 society
@@ -24312,7 +24877,7 @@ neighbor and neighbor
 The relationship between two people who live next to each other is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 neo-Luddist utopia
@@ -24754,6 +25319,21 @@ world Argo in tas1x13 "The Ambergris Element".
 https://en.wikipedia.org/wiki/Ocean_planet
 
 
+off-world garbage dump
+======================
+
+:: Description
+There is a garbage dump somewhere away from any inhabited world. The place in
+question may for example be a moon, a planet, or merely a Lagrange point.
+
+:: Parents
+speculative place
+
+:: Examples
+The presumed dead body of Sergeant Todd was unceremoniously dumped on the
+Arcadia 234 waste disposal planet in "Soldier" (1998).
+
+
 off-world prison colony
 =======================
 
@@ -24951,8 +25531,8 @@ Helen Noel reminded Captain Kirk about what happened between them when he
 dropped in at the science lab Christmas party in tos1x10 "Dagger of the Mind".
 
 
-onerous license agreements
-==========================
+onerous user agreements
+=======================
 
 :: Description
 When purchasing purchasing and services customers are sometimes asked to sign
@@ -24966,6 +25546,9 @@ sociotechnological issue
 
 :: Examples
 https://en.wikipedia.org/wiki/End-user_license_agreement
+
+:: Aliases
+confusing license agreements
 
 
 open romantic relationship
@@ -25158,11 +25741,10 @@ organized religion
 ==================
 
 :: Description
-This is the category of themes pertaining to the doctrines and practices that
-tend to be features of institutional religions.
+A doctrine or practice of an institutionalized religion is featured.
 
 :: Parents
-the pursuit of knowledge
+the natural world
 
 :: References
 https://en.wikipedia.org/wiki/Religion
@@ -25493,7 +26075,7 @@ The hypothesis that life exists throughout the universe and is distributed
 naturally by asteroids and comets or perhaps even at the direction of aliens.
 
 :: Parents
-speculative natural process
+speculative effect
 
 :: References
 https://en.wikipedia.org/wiki/Panspermia
@@ -25534,6 +26116,22 @@ A device used to paralyze people. The effect is typically temporary.
 
 :: Parents
 speculative weapon
+
+
+paramour and paramour
+=====================
+
+:: Description
+Two characters are not married to each other but are in a reasonably stable
+long-term romantic relationship that is somewhat or wholly antithetical to
+prevailing social norms, and usually clandestine. Especially this is the case
+if at least one of the two characters is married to someone else.
+
+:: Parents
+romantic relationship
+
+:: References
+https://en.wiktionary.org/wiki/paramour
 
 
 parasitic being
@@ -25593,7 +26191,7 @@ a religion or cult?
 
 :: Parents
 human parenting
-social ethical issue
+social ethical dilemma
 
 :: Examples
 In bbf1x10 "Believers", we must ponder whether it was right that Shon's
@@ -25706,7 +26304,7 @@ We are shown a highly parodical version of what life in academia might seem to
 be like.
 
 :: Parents
-academia
+academic occupation
 
 
 parricide
@@ -25879,9 +26477,9 @@ pedophiles
 ==========
 
 :: Description
-We are made to contemplate how adults that are sexually attracted to 
-prepubescent minors affect society, and how such individuals ought to 
-be treated.
+We are made to contemplate how adults that are sexually attracted to
+prepubescent minors affect society, and how such individuals ought to be
+treated.
 
 :: Parents
 sexual crime
@@ -26187,6 +26785,28 @@ ghost
 https://en.wikipedia.org/wiki/Ghost
 
 
+personal human experience
+=========================
+
+:: Description
+This is the most general theme about individual humans, their inner
+experiences, their experiences interacting with other individuals, and their
+experiences of the world they inhabit. For example, the theme may discuss the
+individual experiences of members making up a small group of people. Or it may
+discuss the interpersonal relationship of two people vis-à-vis each other. Or
+it may discuss the trials and tribulations an individual encounters in their
+journey through life. Or it may discuss an individual's emotions, desires, and
+driving passions, etc.
+
+:: Parents
+the human world
+
+:: Notes
+This theme, and the more specific themes below it by extension, is defined
+with the perspective of individuals at the center and should be motivated
+accordingly.
+
+
 personal identity
 =================
 
@@ -26258,8 +26878,8 @@ personality rights
 
 :: Description
 We are made to ponder to what extent or for what purposes it might be wrong to
-use someone elses' physical appearance. Would it be ok to make a film in which
-it looked like a famous actor appeared even if they didn't nor had permitted
+use someone else's physical appearance. Would it be okay to make a film in which
+it looked like a famous actor appeared even if they hadn't permitted
 it?
 
 :: Parents
@@ -26302,6 +26922,20 @@ speculative being
 
 :: References
 https://en.wikipedia.org/wiki/Personification
+
+
+persuasion of groups by rhetoric
+================================
+
+:: Description
+Someone uses fine words, speeches, rhetorical tricks etc. to influence a group
+of people.
+
+:: Parents
+humans in group
+
+:: References
+https://en.wikipedia.org/wiki/Rhetoric
 
 
 pervasive marketing in society
@@ -26358,12 +26992,12 @@ philosophy
 ==========
 
 :: Description
-This is the category of themes that discuss ideas in philosophy, i.e., the
-study of general and fundamental questions, such as those about existence,
-reason, knowledge, values, mind, and language.
+This is a general theme pertaining to ideas in philosophy, that is, the study
+of general and fundamental questions such as those about existence, reason,
+knowledge, values, mind, and language.
 
 :: Parents
-the pursuit of knowledge
+the natural world
 
 :: References
 https://en.wikipedia.org/wiki/Philosophy
@@ -26470,7 +27104,7 @@ pity
 A character shows feelings of sympathy at the misfortune of another.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Pity
@@ -26485,6 +27119,27 @@ character, to a seemingly unjustifiable degree.
 
 :: Parents
 humans interacting
+
+
+plagiarism
+==========
+
+:: Description
+Plagiarism is the fraudulent representation of another person's language,
+thoughts, ideas, or expressions as one's own original work. A character does
+this in the story.
+
+:: Parents
+criminal fraud
+
+:: Notes
+Plagiarism often does not become a police matter in stories where it is
+featured but is still categorized as criminal fraud as it could potentially be
+so. If it is categorically not a legal matter the theme "cheating" might be
+considered instead.
+
+:: References
+https://en.wikipedia.org/wiki/Plagiarism
 
 
 planet being flung out of its orbit
@@ -26685,6 +27340,22 @@ desire to gain an advantage on the other.
 personal ethical dilemma
 
 
+plea bargain dilemma
+====================
+
+:: Description
+An accused person, either guilty or innocent, is presented with the following
+troublesome options: admit guilt and get a lower punishment with certainty, or
+plead innocent and risk getting a much heavier punishment but perhaps with
+some chance of going free.
+
+:: Parents
+personal practical dilemma
+
+:: References
+https://en.wikipedia.org/wiki/Plea_bargain
+
+
 pleasure in coffee
 ==================
 
@@ -26700,8 +27371,8 @@ pleasure in eating and drinking
 ===============================
 
 :: Description
-The natural human predilection for reveling in food and/or drink beyond nutritional
-necessity is illustrated.
+The natural human predilection for reveling in food and/or drink beyond
+nutritional necessity is illustrated.
 
 :: Parents
 human pleasure
@@ -26968,18 +27639,18 @@ political ideology
 ==================
 
 :: Description
-This is the category of themes that relate to those relatively well known,
-well defined, ideas about how society ought to be organized, that we call
-"political ideologies" and often label with "-isms".
+One of those relatively well known, reasonably well defined, ideas about how
+society ought to be organized, that we call "political ideologies" and often
+label with "-isms", is featured.
 
 :: Parents
 form of government
 
 :: Notes
-The goal of this project is in no way to provoke political controversy. When
-using a word that references a political stance it is advisable to consult,
-for example, Wikipedia and use the word only in ways that appear mainstream
-and are relatively uncontroversial.
+TLike Wikipedia, this project aims to remain neutral in regard to political
+questions. When using a word that references a political stance it is
+advisable to consult, for example, Wikipedia and use the word only in ways
+that appear mainstream and are relatively uncontroversial.
 
 :: Examples
 "Capitalism", "communism", "fascism", and "democracy" are some political
@@ -26994,8 +27665,8 @@ political issue
 ===============
 
 :: Description
-This is the category of themes that relate to political power in a society,
-i.e., who rules and makes the laws.
+Political power in a society, that is, who rules and makes the laws, is
+discussed.
 
 :: Parents
 national social issue
@@ -27132,6 +27803,20 @@ supernatural luck
 In tz1959e2x16 "A Penny for Your Thoughts", a tossed coin that stood on its
 side was said to be a portent of good luck. The coin-tosser subsequently began
 to hear thoughts, and profited greatly from this.
+
+
+position in exchange for sexual favors
+======================================
+
+:: Description
+The practice of some people to solicit sexual favors from an applicant in
+exchange for, e.g., employment is treated from a societal perspective.
+
+:: Parents
+social dysfunction
+
+:: References
+https://en.wikipedia.org/wiki/Casting_couch
 
 
 post-apocalyptic dystopia
@@ -27627,6 +28312,19 @@ on a shabby little moon in tng3x11 "The Hunted".
 https://en.wikipedia.org/wiki/Prisoners%27_rights
 
 
+private investigator occupation
+===============================
+
+:: Description
+A professional private investigation is engaged in their chosen occupation.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Private_investigator
+
+
 privatization in society
 ========================
 
@@ -27705,6 +28403,28 @@ human occupational activity
 
 :: References
 https://en.wikipedia.org/wiki/Political_campaign
+
+
+promiscuity
+===========
+
+:: Description
+Promiscuity is the practice of engaging in sexual activity frequently with
+different partners or being indiscriminate in the choice of sexual partners.
+
+:: Parents
+human character
+
+:: Examples
+
+
+:: References
+https://en.wikipedia.org/wiki/Promiscuity
+https://en.wikipedia.org/wiki/Hypersexuality
+https://en.wikipedia.org/wiki/Lascivious_behavior
+
+:: Aliases
+promiscuousness
 
 
 property rights vs. public interest
@@ -27942,8 +28662,8 @@ public health issue
 ===================
 
 :: Description
-This is the category of social issue themes that relate to the mental and
-physiological well-being of humans in a community.
+Social policy relating to the mental and physiological well-being of humans in
+a community, is explored.
 
 :: Parents
 national social issue
@@ -28068,15 +28788,15 @@ purpose in life
 ===============
 
 :: Description
-Featured is one of those topics about what drives us and makes us act with
-what we perceive as "purpose". These are themes about our aspirations and
-needs, pleasures and cherished beliefs.
+This is a general theme pertaining to what drives us and makes us act with
+what we perceive as "purpose". This theme is about our aspirations, needs,
+pleasures, cherished beliefs and such.
 
 :: Parents
-individual human experience
+individual humans
 
 :: Examples
-The category is further subdivided into: human aspiration (hopes, dreams, and
+The theme is further specialized into: human aspiration (hopes, dreams, and
 questions of what we want out of life), human need (things we need in order to
 consider ourselves fulfilled in life), human pleasure (things we may simply
 enjoy).
@@ -28099,6 +28819,21 @@ career choice
 Picard was mightily tempted to leave his post as captain of the Enterprise-D
 in tng6x20 "The Chase" to do space archaeology with his old mentor Professor
 Richard Galen.
+
+
+putting a child up for adoption
+===============================
+
+:: Description
+Someone struggles with the decision of whether to give their child away for
+adoption.
+
+:: Parents
+human life choice
+human parenting
+
+:: References
+https://en.wikipedia.org/wiki/Adoption
 
 
 putting differences aside
@@ -28548,8 +29283,8 @@ recreational activity
 =====================
 
 :: Description
-A character is notably engaged in a hobby or other more or less for-fun
-activity.
+This is a general theme pertaining to activities that are more or less done
+for fun, for example, hobbies.
 
 :: Parents
 human regular activity
@@ -28678,8 +29413,8 @@ relations between social groups in society
 
 :: Description
 There are two different and notably distinct social groups within a society,
-for example two ethnicities, and some aspect of the relationship between these
-two groups are featured. Notably, this is the category of themes that explore
+for example two ethnic groups, and some aspect of the relationship between
+these two groups is featured. Notably, this is a general theme pertaining to
 different types of hatred and prejudice in society.
 
 :: Parents
@@ -28698,6 +29433,32 @@ and who will not be reasoned with.
 
 :: Parents
 war
+
+
+reliability of eyewitness testimony
+===================================
+
+:: Description
+Eyewitness testimony is the account a bystander or victim gives in the
+courtroom, describing what that person observed that occurred during the
+specific incident under investigation. Discussed is whether and to what extent
+such testimony can be relied upon in order to pass judgment upon another
+person and punish them for a crime that they are alleged to have committed.
+
+:: Parents
+law and order issue
+social ethical dilemma
+
+:: Notes
+Research in the 20th century demonstrated various ways in which witnesses can
+deceive themselves and be unreliable despite being seemingly honest. Typically
+the situation in which this theme is featured is some variation on
+highlighting this, perhaps startling, revelation. I.e., we are shown that a
+witness is sincere in what they say and yet, in fact, wrong. At stake may be
+another person's life and liberty.
+
+:: References
+https://en.wikipedia.org/wiki/Eyewitness_testimony
 
 
 reliable streak of luck
@@ -29142,7 +29903,7 @@ A character exhibits feelings of admiration toward an enemy owing to their
 abilities or achievements.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 resurrection of the dead
@@ -29170,7 +29931,7 @@ retarded aging process
 A hypothetical process that makes you age much slower than normal.
 
 :: Parents
-speculative natural process
+speculative effect
 
 :: Examples
 McCoy's tricorder scans of the Vaalians in tos2x09 "The Apple" revealed them
@@ -29240,7 +30001,7 @@ There is a character who starts life as old and then becomes younger as time
 passes.
 
 :: Parents
-speculative natural process
+speculative effect
 
 
 reverse psychology
@@ -29268,7 +30029,7 @@ A fantasy world where time runs in reverse, e.g., people are born old and die
 young.
 
 :: Parents
-speculative natural process
+speculative time manipulating effect
 opposite world
 
 :: Examples
@@ -29420,7 +30181,7 @@ Two characters are rivals over, for example, a desired mate or workplace
 prestige.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 robbery
@@ -29608,10 +30369,11 @@ romantic relationship
 =====================
 
 :: Description
-Two characters engage in a romantic relationship.
+Two or more characters engage in an interpersonal relationship, or web of such
+relationships, that is characterized by romantic intimacy.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Romance_(love)
@@ -29621,12 +30383,11 @@ romantic relationship issue
 ===========================
 
 :: Description
-This is the category of themes that relate to the relationship between two (or
-more) individuals who are, or may become, intimately and sexually involved
-with each other.
+The relationship between two (or more) individuals who are, or may become,
+intimately and sexually involved with each other, is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Examples
 The literature abounds with this sort of themes. "disintegrating romantic
@@ -29667,7 +30428,7 @@ Typically this happens when two young people share a flat in order to save
 money.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: Notes
 The theme does for example normally not apply to people who are incarcerated
@@ -30014,6 +30775,21 @@ human character
 https://en.wikipedia.org/wiki/Sadomasochism
 
 
+sailing
+=======
+
+:: Description
+A character is notably engaged in the operation of a boat propelled partly or
+entirely by sails. Typically the character is either a professional sailor, or
+sees sailing as a hobby.
+
+:: Parents
+human regular activity
+
+:: References
+https://en.wikipedia.org/wiki/Sailing
+
+
 saving a friend vs. self-preservation
 =====================================
 
@@ -30095,12 +30871,12 @@ science
 =======
 
 :: Description
-This is the category of themes that discuss some textbook aspect of mainstream
-modern science, or another. For example, themes featuring uncontroversial
-ideas about relativity theory, DNA sequencing, or cryptography belong here.
+This is a general theme pertaining to science, that is, the systematic
+endeavor that builds and organizes knowledge in the form of testable
+explanations and predictions about the universe.
 
 :: Parents
-the pursuit of knowledge
+the natural world
 
 :: References
 https://en.wikipedia.org/wiki/Science
@@ -30136,6 +30912,19 @@ social ethical dilemma
 :: Examples
 The pros and cons of science that creates super soldiers was discussed in
 tos1x24 "Space Seed".
+
+
+scientist occupation
+====================
+
+:: Description
+A scientist is engaged in their chosen occupation.
+
+:: Parents
+academic occupation
+
+:: References
+https://en.wikipedia.org/wiki/Scientist
 
 
 sculpture
@@ -30214,6 +31003,25 @@ human worrying about self
 :: Examples
 Kevin Uxbridge second guessed himself over having wiped the Husnock race clean
 out of existence in tng3x03 "The Survivors".
+
+
+secret agent occupation
+=======================
+
+:: Description
+A character working with espionage or the like is engaged in their chosen
+profession.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This profession is naturally a gray area between legal, illegal, and war type
+of themes. It is included here because there are many stories that feature
+romanticized ideas of secret agents as heroes.
+
+:: References
+https://en.wikipedia.org/wiki/Espionage
 
 
 secret crush
@@ -30347,7 +31155,7 @@ self-deception
 A character notably refuses to face uncomfortable truths.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 In tng3x23 "Sarek", the eponymous Vulcan refuses to acknowledge the obvious
@@ -30461,7 +31269,7 @@ actions are just even though the motives seem self-serving and the
 justifications weak.
 
 :: Parents
-human thinking about self
+human self-reflection
 
 :: Examples
 In tng1x17 "When The Bough Breaks", when Radue's proposed exchange was turned
@@ -30469,6 +31277,18 @@ down, he rationalize kidnapping the Enterprise children instead. He dubiously
 held that the children would be better off with foster parents on Aldea than
 with their real human parents, and that his proposed bargain had been a fair
 one anyways.
+
+
+self-preservation vs. conscience
+================================
+
+:: Description
+Someone struggles with an ethical dilemma where on one hand they can follow
+their conscience and "do the right thing", or on the other hand they can act
+to safeguard their own person, position and property.
+
+:: Parents
+personal ethical dilemma
 
 
 self-replicating gray goo consuming the world
@@ -30919,8 +31739,8 @@ shape distinguished being
 =========================
 
 :: Description
-There is a being that is novel by virtue of its shape, such as a bouncing ball
-alien or a being shaped like a brain.
+There is a being that is novel by virtue of its shape. For example, blob-like
+creatures and beings resembling disembodied brains.
 
 :: Parents
 speculative being
@@ -31086,7 +31906,7 @@ sin
 ===
 
 :: Description
-The religious idea of transgression against divine law is discussed.
+The religious idea of transgression against divine law is explored.
 
 :: Parents
 organized religion
@@ -31143,7 +31963,7 @@ single-gender society
 There is a nation of people who, more or less, are all the same gender.
 
 :: Parents
-speculative society
+biased sex-ratio society
 
 :: References
 https://en.wikipedia.org/wiki/Single-gender_world
@@ -31474,16 +32294,11 @@ social ethical issue
 
 :: Description
 We are asked to contemplate what is "right" and what is "wrong" with respect
-to social policy. The social policies may be such that are use in practice or
-such that have been proposed and could potentially be implemented.
+to social policy. The social policies may be such that are in use in practice
+or such that have been proposed and could potentially be implemented.
 
 :: Parents
 society
-
-:: Examples
-If a policy under consideration will benefit some only to the detriment of
-others it becomes a kind of "social ethical issue" called a "social ethical
-dilemma".
 
 :: References
 https://en.wikipedia.org/wiki/Ethics
@@ -31616,11 +32431,21 @@ society
 =======
 
 :: Description
-This is the category of themes that are about large social groupings of
-people. For example, the themes may discuss “all of humanity”, countries,
-ethnic groups, cultures, or organizations.
+This is the most general theme about social groupings of people sufficiently
+large that not everyone personally knows everyone else. For example, the theme
+may discuss world society as a whole, intra- or inter-societal issues, forms
+of government, or past and present hot button social issues.
 
 :: Parents
+the human world
+
+:: Notes
+This theme does not apply to small-scale human social interactions, e.g.,
+everyday face-to-face interactions, family life, workplace dynamics, etc.
+
+:: References
+https://en.wikipedia.org/wiki/Society
+https://en.wikipedia.org/wiki/Macrosociology
 
 
 society consisting of only children
@@ -31691,10 +32516,9 @@ sociocultural issue
 ===================
 
 :: Description
-This is the category of social issues that pertain to culture, i.e., the
-social behavior and norms that may be widespread in a human population. Many
-of the themes in this category indicate a past or present moral controversy of
-some sort.
+Explored are the social behaviors and norms that may be widespread in a human
+population. Many specializations of this theme mark a past or present moral
+controversy of some sort.
 
 :: Parents
 national social issue
@@ -31712,12 +32536,12 @@ socioeconomic issue
 ===================
 
 :: Description
-This is the category of social issue themes that relate to how society behaves
-vis-a-vis economic activity, i.e. broadly, the use of labor, capital, and
-land, for the production of goods and services. In particular, this is the
-category of themes that discuss how corporations fit and function within
-society, and the creation of markets. Additionally, this category involves
-themes that relate to how capital (wealth and money) is distributed.
+Explored is the way that society behaves with regard to economic activity.
+Economic activity means the use of labor, capital, and land, for the
+production of goods and services. In particular, this theme pertains to how
+corporations fit and function within society, and the creation of markets.
+Additionally, this theme relates to how capital (wealth and money) is
+distributed.
 
 :: Parents
 national social issue
@@ -31749,8 +32573,7 @@ sociotechnological issue
 ========================
 
 :: Description
-This is the category of social issue themes that relate to how society handles
-innovation and the impact of new technologies.
+Explored is how society handles innovation and the impact of new technologies.
 
 :: Parents
 national social issue
@@ -32108,7 +32931,8 @@ space travel
 ============
 
 :: Description
-There is crewed or uncrewed travel in a spacecraft in outer space.
+There is a means, typically a technology but sometimes a form of magic, that
+enables a character to travel across outer space.
 
 :: Parents
 speculative travel
@@ -32181,8 +33005,8 @@ special interest group issue
 ============================
 
 :: Description
-This is the category of themes that examine the situation of one sub-group of
-people or another, often called a "minority group", in society.
+Examined it the situation of one sub-group of people or another, often called
+a "minority group", in society.
 
 :: Parents
 national social issue
@@ -32252,16 +33076,15 @@ dream of, but can't normally have. Notably, this includes various "super
 powers" that have been described in fiction.
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 
 speculative ability related to another being
 ============================================
 
 :: Description
-A character has a speculative ability (see parent definition) which primarily
-relates to another living being, when exercised. Notably, telepathy falls
-under this category.
+A character has a speculative ability which primarily relates to another
+living being, when exercised. Notably, telepathy falls under this theme.
 
 :: Parents
 speculative ability
@@ -32271,9 +33094,9 @@ speculative ability related to own body
 =======================================
 
 :: Description
-A character has a speculative ability (see parent definition) which primarily
-affects only their own body. Many classical super powers, such as flying
-ability and super strength, fall under this category.
+A character has a speculative ability which primarily affects only their own
+body. The theme pertains to many classical super powers, such as super
+strength and the ability to fly.
 
 :: Parents
 speculative ability
@@ -32283,8 +33106,8 @@ speculative ability related to own mind
 =======================================
 
 :: Description
-A character has a speculative ability (see parent definition) which primarily
-affects only their own mind.
+A character has a speculative ability which primarily affects only their own
+mind.
 
 :: Parents
 speculative ability
@@ -32294,9 +33117,9 @@ speculative ability related to physical things
 ==============================================
 
 :: Description
-A character has a speculative ability (see parent definition) which primarily
-relates to specific non-living physical things, when exercised. Notably,
-telekinesis falls under this category.
+A character has a speculative ability which primarily relates to specific non-
+living physical things, when exercised. Notably, telekinesis is covered by
+this theme.
 
 :: Parents
 speculative ability
@@ -32306,10 +33129,9 @@ speculative ability related to reality at large
 ===============================================
 
 :: Description
-A character has a speculative ability (see parent definition) which affects
-reality broadly. This category is used when a character can  change the
-timeline, or when their powers seem to be without qualitative limits, akin to
-godlike.
+A character has a speculative ability which affects reality broadly. The theme
+is used when a character can change the timeline, or when their powers seem to
+be without qualitative limits, akin to godlike.
 
 :: Parents
 speculative ability
@@ -32372,11 +33194,11 @@ speculative being
 =================
 
 :: Description
-There is a novel creature or living entity not found in the real world as it
+There is a novel creature, or living entity, not found in the real world as it
 is presently understood.
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 :: References
 https://en.wikipedia.org/wiki/Category:Fantasy_creatures
@@ -32388,8 +33210,8 @@ speculative biotechnology
 =========================
 
 :: Description
-An as-yet fictional thing that may conceivably be done with bioengineering
-techniques in the future.
+There is an as-yet fictional technology that achieves the application of
+organisms, cells, parts thereof and molecular analogues for human purposes.
 
 :: Parents
 speculative technology
@@ -32469,7 +33291,7 @@ is presently understood. The phenomenon may be mediated by magic, technology,
 or any other means.
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 
 speculative energy generation technology
@@ -32509,7 +33331,7 @@ This may for example be when an alternative evolutionary history is
 stipulated, or when the evolutionary history of fictional beings is explained.
 
 :: Parents
-speculative natural process
+speculative effect
 
 
 speculative experience
@@ -32520,24 +33342,7 @@ A character finds themself in such an unusual circumstance as no one would
 expect to face in their lifetime.
 
 :: Parents
-speculative fiction theme
-
-
-speculative fiction theme
-=========================
-
-:: Description
-This is the category of themes that are about matters falling outside of
-reality as it is presently understood. For example, the themes may discuss the
-future, alternate histories, other worlds, or magic. These are the sorts of
-themes that are typically explored in science fiction, fantasy, superhero
-fiction, science fantasy, horror, utopian and dystopian fiction, supernatural
-fiction as well as combinations thereof.
-
-:: Parents
-
-:: References
-https://en.wikipedia.org/wiki/Speculative_fiction
+alternate reality
 
 
 speculative full body outfit
@@ -32561,8 +33366,7 @@ speculative future event
 ========================
 
 :: Description
-A hypothetical future event of major significance is depicted. "World War III"
-and "the AI singularity" are illustrative examples.
+A hypothetical future event of major significance to society is featured.
 
 :: Parents
 speculative society
@@ -32672,8 +33476,8 @@ speculative human
 =================
 
 :: Description
-This is the category of speculative beings that are biologically human yet
-have some characteristic that is not ordinarily seen in humans.
+There is a speculative being that is biologically human, yet has some
+characteristic that is not ordinarily seen in the species.
 
 :: Parents
 speculative being
@@ -32742,6 +33546,17 @@ than would be expected by chance.
 speculative effect
 
 
+speculative madness inducing effect
+===================================
+
+:: Description
+There is a hypothetical mechanism that induces madness in the mind, in a way
+that is as yet unknown to occur naturally or by artifice.
+
+:: Parents
+speculative mind altering effect
+
+
 speculative matter manipulating effect
 ======================================
 
@@ -32754,6 +33569,17 @@ speculative effect
 
 :: References
 http://www.sf-encyclopedia.com/entry/transmutation
+
+
+speculative mind altering effect
+================================
+
+:: Description
+There is a hypothetical effect on the mind that is as yet unknown to occur
+naturally or by artifice.
+
+:: Parents
+speculative effect
 
 
 speculative nanotechnology
@@ -32774,19 +33600,6 @@ Wesley Crusher made nano-machines work together and evolve in tng3x01
 https://en.wikipedia.org/wiki/Nanotechnology
 https://en.wikipedia.org/wiki/Nanotechnology_in_fiction
 http://www.sf-encyclopedia.com/entry/nanotechnology
-
-
-speculative natural process
-===========================
-
-:: Description
-There is a hypothetical, and perhaps highly speculative, regularity imposed by
-nature according to which objects in the world interact. These are fanciful
-natural processes, such as a form of super accelerated evolution or time
-running backwards, rather than objects or events.
-
-:: Parents
-speculative fiction theme
 
 
 speculative personal body manipulation
@@ -32828,13 +33641,18 @@ speculative place
 =================
 
 :: Description
-There is a domain amenable to human habitation that falls outside the present
-scope of where human beings have so far set foot. These hypothetical domains
-range from futuristic cities to space habitats to habitable exoplanets to
-fabled lands to magical kingdoms in the clouds.
+There is a domain that falls outside the present scope of places that human
+beings have gleaned or set foot in. These hypothetical domains range from
+futuristic cities, to space habitats, to habitable exoplanets, to fabled
+lands, to magical kingdoms in the clouds.
 
 :: Parents
-speculative fiction theme
+alternate reality
+
+:: Notes
+From a theming point of view these places tend only to be interesting, and by
+extension used as themes, if they are amenable to human habitation or at the
+very least are hypothetically visitable.
 
 
 speculative prediction of the future
@@ -32852,12 +33670,12 @@ speculative punishment
 ======================
 
 :: Description
-People convicted of crimes are systematically punished in some novel, perhaps
-fantastical way that has likely never been used in the course of human history
-as it is commonly understood.
+People convicted of crimes are punished within the confines of some legal
+framework in a novel, perhaps fantastical way that has likely never been used
+in the course of human history.
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 
 speculative remote living body manipulation
@@ -32937,7 +33755,7 @@ There is a society that is different from what we normally experience in some
 novel respect.
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 
 speculative spaceship
@@ -33009,14 +33827,15 @@ speculative technology
 ======================
 
 :: Description
-A technology falling somewhere on the spectrum from being a realistic
-elaboration on a currently existing technology (e.g. a fully developed self-
-driving car), to a scientifically plausible portrayal of a technology far
-beyond our current capabilities (e.g. a Dyson sphere), to a technology that is
-unsupported by science as we know it (e.g. a time machine).
+Featured is a novel technology falling somewhere on the spectrum from being a
+realistic elaboration on a currently existing technology (for example, human
+cloning), to a scientifically plausible portrayal of a technology far beyond
+our current capabilities (for example, self-replicating nanomachines), to a
+technology that is unsupported by science as we know it (for example, time
+machine).
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 :: Examples
 "speculative technology" themes come in great numbers in science fiction, and
@@ -33070,12 +33889,12 @@ speculative travel
 ==================
 
 :: Description
-Speculative means of traveling around in space and time are explored along
-with their consequences. These are themes about ocean voyages, space flights,
-and even travels in time.
+Novel means of traveling around in space and time are explored. For example,
+the theme may pertain to ocean voyages, space flights, and journeys into the
+past.
 
 :: Parents
-speculative fiction theme
+alternate reality
 
 :: References
 https://en.wikipedia.org/wiki/Travel
@@ -33203,7 +34022,7 @@ spirit possession
 
 :: Description
 An entity such as an anima, demon, god, or other spirit takes control of a
-human body.
+person's body.
 
 :: Parents
 folk belief
@@ -33456,8 +34275,8 @@ stasis technology
 =================
 
 :: Description
-There is a technology that makes time in a confined area of space to be
-stopped or the contents have be rendered motionless.
+The story features a technology that makes time freeze in a box or some other
+confined region of space.
 
 :: Parents
 speculative technology
@@ -34003,7 +34822,7 @@ The relationship between a person and someone that person has a position of
 direct authority over, is featured.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 
 supernatural ability
@@ -34076,11 +34895,11 @@ superseded scientific theory
 ============================
 
 :: Description
-The category of scientific theories that were once more or less accepted but
-have since been largely rejected by the scientific community.
+A scientific theory that was once more or less accepted but has since been
+largely rejected by mainstream science, is featured.
 
 :: Parents
-the pursuit of knowledge
+science
 
 :: References
 https://en.wikipedia.org/wiki/Superseded_scientific_theories
@@ -34100,7 +34919,7 @@ drugs, brainwashing, traumatic events, an extreme training regimen or other
 scientific and pseudoscientific means.
 
 :: Parents
-speculative being
+speculative human
 
 :: Examples
 In "X-men Origins: Wolverine" (2009), Major Stryker led a clandestine research
@@ -34458,6 +35277,19 @@ In tz1985e1x14a "Still Life", a photograph took photos of Kurukai natives and
 their souls somehow became trapped inside the film.
 
 
+taking the blame for someone else's crime
+=========================================
+
+:: Description
+A character admits to a crime they did not commit, in order to protect the
+real culprit from legal retribution (or someone else from associated
+consequences).
+
+:: Parents
+obstruction of justice
+human self-sacrifice for another
+
+
 taking the law into one's own hands
 ===================================
 
@@ -34526,6 +35358,29 @@ socioeconomic issue
 In tz1959e2x02 "The Man in the Bottle", Mr. and Mrs. Castle lamented
 exorbitant taxes that, of their one million dollar windfall, left them  but a
 measly $5.
+
+
+teaching occupation
+===================
+
+:: Description
+There is a school teacher, or the like, engaged in their chosen profession.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Teacher
+
+
+tech support occupation
+=======================
+
+:: Description
+A character is employed to tend to the machines that other people are using.
+
+:: Parents
+human occupational activity
 
 
 technological risk to civilization
@@ -34843,7 +35698,7 @@ This 1765-1783 war between the Thirteen Colonies in America, and Great
 Britain, is featured.
 
 :: Parents
-history
+historical event
 revolution in society
 
 :: References
@@ -34941,7 +35796,7 @@ The British Raj was the rule by the British Crown in the Indian subcontinent
 between 1858 and 1947.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/British_Raj
@@ -34972,7 +35827,7 @@ Eastern Bloc (the Soviet Union and its satellite states) and powers in the
 Western Bloc (the United States, its NATO allies and others).
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/Cold_War
@@ -35053,56 +35908,6 @@ Christianity
 https://en.wikipedia.org/wiki/Holy_Chalice
 
 
-the Irish stereotype
-====================
-
-:: Description
-A stereotypical Irish character is featured. This typically involves heavy
-drinking, lots of green, and whimsical, singsongy accents.
-
-:: Parents
-human character stereotype
-
-:: Examples
-The Enterprise-D transported a group of technophobic space-colonists of Irish
-descent, the Bringloidi, in tng2x18 "Up The Long Ladder".
-
-:: References
-https://en.wikipedia.org/wiki/Culture_of_Ireland
-
-
-the Japanese stereotype
-=======================
-
-:: Description
-A stereotypically Japanese character is notably featured. This may involve
-excessive stoicism, notions of honor, and ritual suicide.
-
-:: Parents
-human character stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Culture_of_Japan
-
-
-the Jewish stereotype
-=====================
-
-:: Description
-A stereotypical Jewish character is featured in what is a sometimes prejudiced
-and antisemitic nature.
-
-:: Parents
-human character stereotype
-
-:: Examples
-The Zeons were persecuted by Ekosians dressed in full Nazi regalia in tos2x23
-"Patterns of Force".
-
-:: References
-https://en.wikipedia.org/wiki/Stereotypes_of_Jews
-
-
 the Korean War
 ==============
 
@@ -35115,7 +35920,7 @@ insurrections in the south. The war ended unofficially on 27 July 1953 in an
 armistice. This historical human conflict is featured in the story.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/Korean_War
@@ -35165,7 +35970,7 @@ of the Russian Empire, some of which was directed at the government. It
 included worker strikes, peasant unrest, and military mutinies.
 
 :: Parents
-history
+historical event
 revolution in society
 
 :: Examples
@@ -35185,31 +35990,13 @@ accused of witchcraft in colonial Massachusetts between February 1692 and May
 1693. This theme is used whenever this event is featured in the story.
 
 :: Parents
-history
+historical event
 witch-hunt
 
 :: Notes
 For the intents and purposes of thematic annotation we shall assume that any
 witch trials referenced as taking place in colonial Massachusetts, in fact the
 Salem Witch trials, unless otherwise is said explicitly.
-
-
-the Scottish stereotype
-=======================
-
-:: Description
-A stereotypical Scottish character is featured. This typically involves kilts,
-haggis, and bagpipes.
-
-:: Parents
-human character stereotype
-
-:: Examples
-Beverly Crusher attended her grandmother's funeral on a planet colonized by
-Scottish admirers in tng7x14 "Sub Rosa".
-
-:: References
-https://en.wikipedia.org/wiki/Culture_of_Scotland
 
 
 the Star Trek franchise
@@ -35273,7 +36060,7 @@ conflict in Vietnam, Laos, and Cambodia that lasted from November 1955 to the
 fall of Saigon on 30 April 1975.
 
 :: Parents
-history
+historical event
 
 :: References
 https://en.wikipedia.org/wiki/Vietnam_War
@@ -35333,24 +36120,6 @@ https://en.wikipedia.org/wiki/Afterlife
 afterlife
 
 
-archaeology occupation
-======================
-
-:: Description
-An archaeologist is engaged in their chosen occupation.
-
-:: Parents
-academia
-archaeology
-
-:: Examples
-Captain Picard's much anticipated lecture on archaeological ruins of Tagus III
-was rudely cut short by Q in tng4x20 "Qpid".
-
-:: References
-https://en.wikipedia.org/wiki/Archaeology
-
-
 the art of entrepreneurship
 ===========================
 
@@ -35401,40 +36170,14 @@ the art of war
 ==============
 
 :: Description
-This is the category of themes that pertain to the discussion of how one most
-effectively conduct fights and warfare. Humanity should be ashamed and
-embarrassed that this is such a large group of themes.
+Featured is how one most effectively conducts warfare. Humanity should be
+ashamed and embarrassed that this is such a large group of themes.
 
 :: Parents
-the pursuit of knowledge
+the natural world
 
 :: References
 https://en.wikipedia.org/wiki/Military_tactics
-
-
-the ascent of man
-=================
-
-:: Description
-Man's development from pre-historical primate through various stages of
-civilization, cultural and scientific development through to our present state
-is featured more or less in the whole.
-
-:: Parents
-history
-
-
-astronomy occupation
-====================
-
-:: Description
-An astronomer is engaged in their chosen occupation.
-
-:: Parents
-academia
-
-:: References
-https://en.wikipedia.org/wiki/Astronomer
 
 
 the battle of the sexes
@@ -35520,17 +36263,6 @@ are typically left ambiguous in real stories.
 
 :: Parents
 personal life and death dilemma
-
-
-carpentry occupation
-====================
-
-:: Description
-A character works professionally with creating things out of wood and related
-materials.
-
-:: Parents
-human occupational activity
 
 
 the common cold
@@ -35727,6 +36459,7 @@ that is perceived as simpler and more idyllic. Typically, this means going
 back to a more old-fashioned way of life with less technology.
 
 :: Parents
+desire
 human aspiration
 
 :: Examples
@@ -35743,6 +36476,7 @@ A character manifests a strong desire to become well-known and in the public
 eye.
 
 :: Parents
+desire
 human self-esteem need
 
 
@@ -35754,6 +36488,7 @@ A character wants nothing better than to become famous for great and grand
 achievements such as the vanquishing of foes.
 
 :: Parents
+desire
 human self-esteem need
 
 
@@ -35776,6 +36511,7 @@ A character seeks righteous, and typically lawful, vengeance upon some
 miscreant.
 
 :: Parents
+desire
 human social need
 
 :: Examples
@@ -35791,6 +36527,7 @@ A character wants nothing better than to improve on their own competences and
 character.
 
 :: Parents
+desire
 human self-actualization need
 
 :: References
@@ -35805,6 +36542,7 @@ A character wants nothing better than to become pre-eminently respected in
 their community.
 
 :: Parents
+desire
 human self-esteem need
 
 :: References
@@ -35818,6 +36556,7 @@ the desire for redemption
 A character seeks to make up for past misdeeds and gain forgiveness.
 
 :: Parents
+desire
 human self-esteem need
 
 :: Examples
@@ -35832,6 +36571,7 @@ the desire for vengeance
 A character seeks retribution over a perceived injury or wrong.
 
 :: Parents
+desire
 human self-esteem need
 
 :: References
@@ -35841,16 +36581,6 @@ https://en.wikipedia.org/wiki/Revenge
 revenge
 
 
-the desire to advance one's career
-==================================
-
-:: Description
-A character seeks ever further promotion, influence, rank, and salary at work.
-
-:: Parents
-human self-actualization need
-
-
 the desire to be beautiful
 ==========================
 
@@ -35858,6 +36588,7 @@ the desire to be beautiful
 A character wants nothing less than to look good.
 
 :: Parents
+desire
 human self-esteem need
 
 
@@ -35868,6 +36599,7 @@ the desire to be liked
 A character manifests a wish to be liked by someone else they care about.
 
 :: Parents
+desire
 human social need
 
 
@@ -35879,6 +36611,7 @@ It is suggested that humans are driven to do something with their lives that
 is worth remembering at least for someone.
 
 :: Parents
+desire
 human social need
 
 
@@ -35890,6 +36623,7 @@ A character, typically nonhuman, longs to become more like a human being in
 some respect.
 
 :: Parents
+desire
 human aspiration
 
 :: Examples
@@ -35906,6 +36640,7 @@ A character wants nothing more than to rid themselves of their various burdens
 in life for an extended period of time, or perhaps even permanently.
 
 :: Parents
+desire
 human self-actualization need
 
 
@@ -35917,6 +36652,7 @@ That humans typically need to reproduce and sire offspring in order to feel
 self-fulfilled is illustrated.
 
 :: Parents
+desire
 human physiological need
 
 :: References
@@ -35934,6 +36670,7 @@ A character marries, or seeks to marry, someone from a wealthier or more
 powerful family.
 
 :: Parents
+desire
 human self-actualization need
 
 :: References
@@ -35951,6 +36688,7 @@ A character has wishes to pursue unusual or fanciful ambitions that most
 people typically do not spend their lives persuing.
 
 :: Parents
+desire
 human self-actualization need
 
 
@@ -35962,6 +36700,7 @@ A character manifests a strong desire to repay something, typically money or a
 favor, that they feel they own to someone else.
 
 :: Parents
+desire
 human character
 
 
@@ -35972,6 +36711,7 @@ the desire to survive
 A character is determined to live in spite of an adverse situation.
 
 :: Parents
+desire
 human safety need
 
 
@@ -36300,19 +37040,6 @@ book about Chicago Mobs and promptly became stereotypical gangsters in tos2x20
 https://en.wikipedia.org/wiki/Gangster
 
 
-geology occupation
-==================
-
-:: Description
-A geologist is engaged in their chosen occupation.
-
-:: Parents
-academia
-
-:: References
-https://en.wikipedia.org/wiki/Geology
-
-
 the god is an alien
 ===================
 
@@ -36438,32 +37165,6 @@ fact a fantastically long lived extraterrestrial from the planet "Vinci",
 where he was the dumbest of his kind.
 
 
-history occupation
-==================
-
-:: Description
-A historian is engaged in their chosen occupation.
-
-:: Parents
-academia
-
-:: References
-https://en.wikipedia.org/wiki/Historian
-
-
-hitman occupation
-=================
-
-:: Description
-A character has made a profession out of killing people in return for payment.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Contract_killing
-
-
 the horrors of war
 ==================
 
@@ -36510,20 +37211,6 @@ other.
 https://en.wikipedia.org/wiki/Good_and_evil
 
 
-the human condition
-===================
-
-:: Description
-This is the category of themes that are primarily about individual humans,
-their inner experiences, their experiences of the world they inhabit, or their
-experiences with other individuals. For example, the themes may discuss the
-individual experiences of members in a small group of people, interpersonal
-relationships, the trials and tribulations an individual may encounter in
-their journey through life, or emotions and other internal mental states.
-
-:: Parents
-
-
 the human mind and big numbers
 ==============================
 
@@ -36538,6 +37225,20 @@ human nature
 :: Examples
 Spock pointed out in tos2x19 "The Immunity Syndrome" how the human mind finds
 it easier to understand the death of one than the death of a million.
+
+
+the human world
+===============
+
+:: Description
+This is the most general theme about matters intrinsically human. The theme
+may pertain to human individuals, their interpersonal relationships, the
+social structures in which they are embedded, or the interactions among these
+structures.
+
+:: Parents
+
+:: References
 
 
 the importance of being frugal
@@ -36710,39 +37411,6 @@ human occupational activity
 https://en.wikipedia.org/wiki/Language_industry
 
 
-legal occupation
-================
-
-:: Description
-A character working directly with the interpretation of law, for example a
-lawyer, prosecutor, or judge, is engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Legal_proceeding
-
-
-the legend of El Dorado
-=======================
-
-:: Description
-This fabled city in South America is featured.
-
-:: Parents
-cultural history
-legendary place
-
-:: Examples
-In "Aguirre the Wrath of God" (1972), we saw a band of Spanish conquistadors
-meat their doom on the Amazon River while obsessively pursuing the chimera of
-El Dorado.
-
-:: References
-https://en.wikipedia.org/wiki/El_Dorado
-
-
 the legend of King Arthur
 =========================
 
@@ -36751,6 +37419,7 @@ The legend of King Arthur and his round table is featured.
 
 :: Parents
 cultural history
+legendary historical figure
 
 :: References
 https://en.wikipedia.org/wiki/King_Arthur
@@ -36818,24 +37487,6 @@ metaphysics
 https://en.wikipedia.org/wiki/Empirical_limits_in_science
 
 
-the lust for gold
-=================
-
-:: Description
-A character wants nothing better than to acquire more money and possessions.
-
-:: Parents
-human self-actualization need
-
-:: References
-https://en.wikipedia.org/wiki/Greed
-
-:: Aliases
-cupidity
-avarice
-greed
-
-
 the lust for power
 ==================
 
@@ -36862,39 +37513,6 @@ Armus became a being of pure evil when the Titans left him behind in tng1x23
 "Skin of Evil".
 
 
-maritime occupation
-===================
-
-:: Description
-Someone working on or with a seafaring vessel is engaged in their chosen
-occupation. Typically this means sailors, captains, and other naval officers.
-
-:: Parents
-human occupational activity
-
-:: Examples
-In "Two Lost Worlds" (1951), we saw the day-to-day lives of the crew members
-of an American clipper ship as they pursued pirates across the Pacific Ocean
-all the way to a volcanic island inhabited by dinosaurs.
-
-:: References
-https://en.wikipedia.org/wiki/Sailor
-
-
-medical occupation
-==================
-
-:: Description
-A character working with health care, typically in a hospital or comparable
-institution, is engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Health_professional
-
-
 the merits of autocracy
 =======================
 
@@ -36905,23 +37523,6 @@ decisively.
 
 :: Parents
 political ideology
-
-
-military related work
-=====================
-
-:: Description
-There is a character whose main occupation involves being part of the armed
-forces of a putative state, or the like. This may, for example, be because
-they work professionally as an officer or because they are conscripted as
-privates.
-
-:: Parents
-human occupational activity
-
-:: Aliases
-military occupation
-military profession
 
 
 the military-industrial complex in society
@@ -36970,6 +37571,30 @@ mythology was really an alien in disguise, is put forth.
 crackpot theory
 
 
+the natural world
+=================
+
+:: Description
+This is the most general theme about mainstream views, be they past or
+present, on the operations of the world absent humans. The theme may discuss
+widely held existential claims, moral precepts, or views on human nature. It
+may particularly discuss scientific, religious, philosophical, artistic, and
+humanist views on the nature of reality.
+
+:: Parents
+
+:: Notes
+A view of reality is "mainstream" when it is broadly accepted in society.
+Fringe notions belong in "alternate reality".
+
+The societies falling under the scope of this theme are ones that presently
+exist on the face of the earth, and past societies the world views of which
+are reasonably well understood.
+
+:: References
+https://en.wikipedia.org/wiki/Nature
+
+
 the nature of animal instincts in humans
 ========================================
 
@@ -36984,21 +37609,6 @@ human nature
 :: Examples
 Suppressed animal instincts come to the surface as the crew begins to de-
 evolve in tng7x19 "Genesis".
-
-
-the nature of beauty
-====================
-
-:: Description
-The question of what "beauty" really is, is discussed. Why do we call some
-things "beautiful"?
-
-:: Parents
-aesthetics
-
-:: Examples
-McCoy pondered what it is that attracts us to cute little Tribbles in tos2x13
-"The Trouble with Tribbles".
 
 
 the nature of creativity
@@ -37572,19 +38182,6 @@ granted.
 human idea about life
 
 
-private investigator occupation
-===============================
-
-:: Description
-A professional private investigation is engaged in their chosen occupation.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Private_investigator
-
-
 the problem of evil
 ===================
 
@@ -37642,18 +38239,6 @@ his novel.
 
 :: References
 https://en.wikipedia.org/wiki/Publishing
-
-
-the pursuit of knowledge
-========================
-
-:: Description
-This is the category of themes that are primarily about how world and the
-universe operates irrespective of its human inhabitants. For example, the
-themes may discuss scientific, religious, philosophical, artistic, and
-humanist views on the nature of reality.
-
-:: Parents
 
 
 the qualities of a good leader
@@ -37787,6 +38372,18 @@ The all-powerful Douwd didn't think so and wiped them out of existence with a
 thought. Then he suffered grievous pangs of conscience.
 
 
+the rise of civilization
+========================
+
+:: Description
+Humankind's development from pre-historical primate through various stages of
+civilization, cultural and scientific development through to our present state
+is featured more or less in the whole.
+
+:: Parents
+history
+
+
 the road to hell is paved with good intentions
 ==============================================
 
@@ -37839,38 +38436,6 @@ The Angosians tucked their genetically engineered war veterans safely away on
 a shabby little moon in tng3x11 "The Hunted".
 
 
-scientist occupation
-====================
-
-:: Description
-A scientist is engaged in their chosen occupation.
-
-:: Parents
-academia
-
-:: References
-https://en.wikipedia.org/wiki/Scientist
-
-
-secret agent occupation
-=======================
-
-:: Description
-A character working with espionage or the like is engaged in their chosen
-profession.
-
-:: Parents
-human occupational activity
-
-:: Notes
-This profession is naturally a gray area between legal, illegal, and war type
-of themes. It is included here because there are many stories that feature
-romanticized ideas of secret agents as heroes.
-
-:: References
-https://en.wikipedia.org/wiki/Espionage
-
-
 the senselessness of war
 ========================
 
@@ -37890,16 +38455,16 @@ The magnificent luxury cruiser RMS Titanic that famously hit an ice berg and
 sank in 1912, is featured.
 
 :: Parents
-history
+historical event
 
 
 the soul
 ========
 
 :: Description
-The doctrine that humans (and perhaps other sentient beings if they exist)
-have an immaterial, intangible and immortal component that will somehow
-continue to exist after the body dies.
+The "soul" is the notion that people have an immaterial, intangible and
+immortal component that will somehow continue to exist after the body dies.
+Such a thing is featured in the story.
 
 :: Parents
 organized religion
@@ -37963,35 +38528,12 @@ tos2x01 "Catspaw".
 https://en.wikipedia.org/wiki/Supernatural
 
 
-teaching occupation
-===================
-
-:: Description
-There is a school teacher, or the like, engaged in their chosen profession.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Teacher
-
-
 the tech industry
 =================
 
 :: Description
 A character working in a technology oriented company is engaged in their
 chosen occupation.
-
-:: Parents
-human occupational activity
-
-
-tech support occupation
-=======================
-
-:: Description
-A character is employed to tend to the machines that other people are using.
 
 :: Parents
 human occupational activity
@@ -38502,7 +39044,7 @@ time loop
 A repeated period of time that is typically re-experienced by those within it.
 
 :: Parents
-speculative natural process
+speculative time manipulating effect
 
 :: References
 https://en.wikipedia.org/wiki/Time_loop
@@ -38584,7 +39126,7 @@ time travel
 ===========
 
 :: Description
-The concept of movement between past and future points in time.
+Traveling between past and future points in time is featured.
 
 :: Parents
 speculative travel
@@ -38749,6 +39291,21 @@ speculative device
 :: References
 https://en.wikipedia.org/wiki/Tractor_beam#Fiction
 http://www.sf-encyclopedia.com/entry/tractor_beam
+
+
+trading sex to get ahead in the world
+=====================================
+
+:: Description
+A character struggles with the moral issue of whether to use sex as a tool in
+order to get things like wealth, power, and influence that are perceived as
+improving one's standing in society.
+
+:: Parents
+compromising one's ethical principles for personal advantage
+
+:: References
+https://en.wikipedia.org/wiki/Casting_couch
 
 
 traditionalism
@@ -39051,7 +39608,7 @@ occasionally, something. This assumes that the character harbors a certain
 level of "acceptance", not necessarily "admiration" toward their object.
 
 :: Parents
-human interpersonal relationship
+humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Trust_(emotion)
@@ -39833,10 +40390,8 @@ violent crime
 =============
 
 :: Description
-This is the category of themes that relate to prescribed actions involving
-violence or the threat of violence. The action must be understood in the
-context of the story to constitute a crime, be it against written law or
-unwritten customs (for example against God or other notions of morality).
+One or another of those proscribed actions involving violence or the threat of
+violence, is featured.
 
 :: Parents
 crime
@@ -40099,16 +40654,6 @@ Captain Nemo built a super high-tech submarine to explore the ocean depths in
 "20000 Leagues Under the Sea" (1954).
 
 
-wacky dream interpretation
-==========================
-
-:: Description
-Dreams are interpreted in a highly metaphorical or otherwise esoteric way.
-
-:: Parents
-folk belief
-
-
 war
 ===
 
@@ -40350,11 +40895,11 @@ weapons of mass destruction
 ===========================
 
 :: Description
-A weapon of mass destruction (WMD) is a nuclear, radiological, chemical,
-biological, or any other weapon that can kill and bring significant harm to a
-large number of humans or cause great damage to human-made structures (e.g.,
-buildings), natural structures (e.g., mountains), or the biosphere. This is
-the category of themes that relate to the use of such weapons in war.
+A weapon of mass destruction is a nuclear, radiological, chemical, biological,
+or any other weapon that can kill and bring significant harm to a large number
+of humans or cause great damage to human-made structures (e.g., buildings),
+natural structures (e.g., mountains), or the biosphere. The use of such
+weapons in war is featured.
 
 :: Parents
 war
@@ -40614,6 +41159,20 @@ body.
 what if I found myself in a strange place
 
 
+what if I couldn't distinguish between my enemy and my ally but I had to choose between them
+============================================================================================
+
+:: Description
+We imagine what it would be like in this rather peculiar situation.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+Incredibly, Spock faced exactly this situation when Garth of Izar transformed
+himself to look like Captain Kirk in tos3x16 "Whom Gods Destroy".
+
+
 what if I couldn't trust the veracity of my senses
 ==================================================
 
@@ -40693,8 +41252,8 @@ what if I found myself in a different time
 ==========================================
 
 :: Description
-We imagine what it would be like to suddenly find ourself in a different time
-than the one they are from.
+A character more or less suddenly find themself in a different time than the
+one they are from.
 
 :: Parents
 speculative experience
@@ -40873,17 +41432,6 @@ troubling side of themself.
 
 :: Parents
 what if someone around me changed
-
-
-what if I was incapacitated and stuck in the middle of nowhere
-==============================================================
-
-:: Description
-We imagine what it would be like to, for example, get stuck in rock or
-suchlike far away from assistance, say, while spelunking or mountaineering.
-
-:: Parents
-what if I were in a tight spot
 
 
 what if I got accidentally locked in somewhere
@@ -41488,6 +42036,17 @@ him in a cell as part of a large exhibition of notorious individuals from
 history.
 
 
+what if I was incapacitated and stuck in the middle of nowhere
+==============================================================
+
+:: Description
+We imagine what it would be like to, for example, get stuck in rock or
+suchlike far away from assistance, say, while spelunking or mountaineering.
+
+:: Parents
+what if I were in a tight spot
+
+
 what if I was injured and far away from help
 ============================================
 
@@ -41813,6 +42372,20 @@ A character is trapped inside a nightmare.
 what if I found myself in a strange place
 
 
+what if I were trapped in the belly of a whale
+==============================================
+
+:: Description
+A character is swallowed up by a whale, or similar leviathan, and must face
+the prospect that they may never again see the light of day.
+
+:: Parents
+what if I were in a tight spot
+
+:: References
+https://en.wikipedia.org/wiki/Jonah
+
+
 what if I were trapped underground
 ==================================
 
@@ -42005,20 +42578,6 @@ what if the people around me changed
 :: Examples
 Captain Kirk woke up aboard what appeared to be a completely empty Enterprise
 in tos3x17 "The Mark of Gideon".
-
-
-what if I couldn't distinguish between my enemy and my ally but I had to choose between them
-============================================================================================
-
-:: Description
-We imagine what it would be like in this rather peculiar situation.
-
-:: Parents
-what if I were in a tight spot
-
-:: Examples
-Incredibly, Spock faced exactly this situation when Garth of Izar transformed
-himself to look like Captain Kirk in tos3x16 "Whom Gods Destroy".
 
 
 what if my life was secretly stage managed
@@ -42594,6 +43153,24 @@ what life is like
 https://en.wikipedia.org/wiki/Refugee
 
 
+what it is like to be buried alive
+==================================
+
+:: Description
+We imagine what it would be like to be buried (or bricked up in a mausoleum,
+or some other variation on the same concept) while still alive.
+
+:: Parents
+what if I were in a tight spot
+
+:: References
+https://en.wikipedia.org/wiki/Premature_burial
+
+:: Aliases
+what if I were inhumed alive
+what if I were entombed alive
+
+
 what it is like to be different
 ===============================
 
@@ -42676,12 +43253,12 @@ what life is like
 =================
 
 :: Description
-An aspect of what life may be like for an individual of some interesting
-category of individuals (for example a visible minority group) broadly or in
-some particular situation (for example in high school).
+This is a general theme about aspects of what life may be like for an
+individual of some interesting cohort (for example, a visible minority group)
+or in some particular situation (for example, in high school).
 
 :: Parents
-the human condition
+personal human experience
 
 
 what men want
@@ -43071,6 +43648,19 @@ gender issue
 
 :: References
 https://en.wikipedia.org/wiki/Women%27s_suffrage
+
+
+work partner and work partner
+=============================
+
+:: Description
+The relationship between two characters who find themselves in a close co-
+working relationship is explored.
+
+:: Parents
+humans in pairs
+
+:: References
 
 
 work-life balance
@@ -43531,19 +44121,5 @@ biology
 
 :: References
 https://en.wikipedia.org/wiki/Zoology
-
-
-male lasciviousness
-===================
-
-:: Description
-A male character is stereotypically licentious, i.e., makes offensive comments
-of a sexual nature or otherwise expresses an offensive preoccupation with sex.
-
-:: Parents
-male stereotype
-
-:: References
-https://en.wikipedia.org/wiki/Lascivious_behavior
 
 
