@@ -2,9 +2,9 @@ name: On PR Changed, Run a simple totolo read test
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
     types: [ opened, synchronized ]
 
 jobs:
