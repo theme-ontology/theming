@@ -14,7 +14,7 @@ greed for riches
 ================
 
 :: Description
-A character exhibits an inordinate desire for riches such as money, luxeries,
+A character exhibits an inordinate desire for wealth such as money, luxuries,
 and the like.
 
 :: Parents
@@ -36,7 +36,7 @@ A character engages in a romantic relationship with the primary objective of
 acquiring money, and with little concern for love.
 
 :: Parents
-greed
+greed for riches
 romantic relationship
 
 :: Examples
@@ -59,7 +59,7 @@ their intended benefactor.
 
 :: Parents
 human character
-greed
+greed for riches
 
 :: Notes
 A common related scenario in which this theme is not used is when a much
@@ -80,24 +80,34 @@ greedy search for hidden loot
 =============================
 
 :: Description
+Someone is inordinately eager to enrich themself by finding and purloining a 
+hidden treasure of one sort or the other. Often, though not necessarily, the treasure 
+is something like pirate gold, or otherwise proceeds from illicit activity that has been 
+stashed away by a criminal for later retrieval.
 
 :: Parents
-greed
+greed for riches
 
 
 desire
 ======
 
 :: Description
+This a general theme pertaining to states of mind that are expressed by terms 
+like "wanting", "wishing", "longing" or "craving".
 
 :: Parents
 human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Desire
 
 
 initiation rite
 ===============
 
 :: Description
+Featured is a rite of passage marking entrance or acceptance into a group or society.
 
 :: Parents
 humans in group
@@ -110,6 +120,8 @@ the importance of paying attention to detail
 ============================================
 
 :: Description
+The idea is illustrated that one would do best to be mindful even of seemingly small and
+insignificant things, in order to be successful in one's endeavors.
 
 :: Parents
 human idea about life
