@@ -81,9 +81,9 @@ greedy search for hidden loot
 
 :: Description
 Someone is inordinately eager to enrich themself by finding and purloining a 
-hidden treasure of one sort or the other. Often, though not necessarily, the treasure 
-is something like pirate gold, or otherwise proceeds from illicit activity that has been 
-stashed away by a criminal for later retrieval.
+hidden treasure of one sort or the other. Often, though not necessarily, the
+treasure is something like pirate gold, or otherwise proceeds from illicit
+activity that has been stashed away by a criminal for later retrieval.
 
 :: Parents
 greed for riches
@@ -107,10 +107,16 @@ initiation rite
 ===============
 
 :: Description
-Featured is a rite of passage marking entrance or acceptance into a group or society.
+Featured is a rite of passage marking entrance or acceptance into a group or
+society.
 
 :: Parents
 humans in group
+
+:: Notes
+The initiate should be aware that a rite of passage is taking place for this
+theme to apply. For example, the theme does not apply to a conventional
+infant baptism.
 
 :: References
 https://en.wikipedia.org/wiki/Initiation
@@ -120,8 +126,8 @@ the importance of paying attention to detail
 ============================================
 
 :: Description
-The idea is illustrated that one would do best to be mindful even of seemingly small and
-insignificant things, in order to be successful in one's endeavors.
+The idea is illustrated that one would do best to be mindful even of seemingly
+small and insignificant things, in order to be successful in one's endeavors.
 
 :: Parents
 human idea about life
@@ -131,8 +137,8 @@ the desire for professional success
 ==================================
 
 :: Description
-A character seeks ever further promotion, influence, recognition, rank, or salary etc. 
-in their chosen line of work.
+A character seeks ever further promotion, influence, recognition, rank, or
+salary etc. in their chosen line of work.
 
 :: Parents
 desire
@@ -143,7 +149,8 @@ mistrust
 ========
 
 :: Description
-The way in which mistrust can lead to a group of people not getting along is noted.
+The ways in which mistrust can lead to a group of people not getting along are
+explored.
 
 :: Parents
 humans interacting
@@ -156,8 +163,8 @@ partners in crime
 =================
 
 :: Description
-The relationship between two characters who find themselves in a close co-
-working relationship against the law is featured.
+The relationship between two characters who find themselves in a close
+co-working relationship against the law is featured.
 
 :: Parents
 humans in pairs
