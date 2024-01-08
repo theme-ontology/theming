@@ -22,16 +22,21 @@ movie: Alien Nation (1988)
 movie: Bonnie and Clyde (1967)
 movie: Die Hard (1988)
 movie: I Am Legend (2007)
+movie: Indiana Jones and the Kingdom of the Crystal Skull (2008)
 movie: Jaws (1975)
 movie: Jurassic Park (1993)
 movie: Men in Black (1997)
+movie: One Eight Seven (1997)
 movie: Moon (2009)
 movie: Panic Room (2002)
+movie: Pretty Woman (1990)
+movie: Sherlock Holmes (2009)
 movie: Soldier (1998)
 movie: Star Wars: Episode I - The Phantom Menace (1999)
 movie: Superman (1978)
 movie: Terminator Salvation (2009)
 movie: The Dark Knight (2008)
+movie: The Last Temptation of Christ (1988)
 movie: The Shining (1980)
 movie: The Time Machine (1960)
 movie: The Truman Show (1998)
@@ -160,6 +165,9 @@ love of a woman transforms a man [The reformed outlaw William Munny credited his
 movie: One Eight Seven (1997)
 =============================
 
+:: Title
+One Eight Seven
+
 :: Date
 1997-07-30
 
@@ -172,6 +180,9 @@ Section 187, which defines murder.
 
 :: References
 https://en.wikipedia.org/wiki/One_Eight_Seven
+
+:: Collections
+Collection: TRIPOD films
 
 :: Ratings
 2 <paul>
@@ -277,6 +288,9 @@ https://en.wikipedia.org/wiki/The_Last_Temptation_of_Christ_(film)
 :: Ratings
 5 <paul>
 
+:: Collections
+Collection: TRIPOD films
+
 :: Choice Themes
 resisting a temptation [The title alludes to Jesus' struggle with various earthly temptations, including lust, power, and, perhaps most notably, the desire to lead an ordinary life and have a family.]
 
@@ -335,6 +349,9 @@ Mutt Williams.
 :: References
 https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull
 
+:: Collections
+Collection: TRIPOD films
+
 :: Ratings
 1 <paul>
 
@@ -366,6 +383,9 @@ marriage ceremony [The story ended with Indy and Marion tying the knot in the co
 movie: Sherlock Holmes (2009)
 =============================
 
+:: Title
+Sherlock Holmes
+
 :: Date
 2009-12-25
 
@@ -376,6 +396,15 @@ film, set in 1890, follows eccentric detective Holmes and his companion Watson
 attempting to foil a mysticist's plot to gain control of Britain by seemingly
 supernatural means. Rachel McAdams stars as Holmes' former adversary Irene
 Adler and Mark Strong portrays villain Lord Henry Blackwood.
+
+:: References
+https://en.wikipedia.org/wiki/Sherlock_Holmes_(2009_film)
+
+:: Collections
+Collection: TRIPOD films
+
+:: Ratings
+2 <paul>
 
 :: Major Themes
 the importance of paying attention to detail [Sherlock Holmes demonstrated an uncanny ability to tell much about people and crime scenes alike merely from observing minor details.]
@@ -401,5 +430,4 @@ fortune telling [The Gypsy woman Flora read Watson's palm.]
 master and pet [Watson kept a docile hound, named Gladstone.]
 chemical weapons [Lord Blackwood plotted to detonate a cyanide-based chemical weapon inside Parliament. Holmes remarked it was the first weapon of its kind.]
 physics [Holmes commented on the novelty of remotely detonating a weapon by means of electromagnetic waves.]
-
 
