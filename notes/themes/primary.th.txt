@@ -112,17 +112,6 @@ organized religion
 https://en.wikipedia.org/wiki/Adam_and_Eve
 
 
-amazement at a new technology
-=============================
-
-:: Description
-A character is astonished by the effects of a technology that is new, or at
-least unfamiliar, to them.
-
-:: Parents
-awe
-
-
 American Civil War
 ==================
 
@@ -302,20 +291,6 @@ earthquakes in tas1x13 "The Ambergris Element".
 :: References
 https://en.wikipedia.org/wiki/Atlantis
 http://www.sf-encyclopedia.com/entry/atlantis
-
-
-awe
-===
-
-:: Description
-Awe is an emotion comparable to wonder but less joyous. Typically, in a story
-a character is awestruck by something that impresses them deeply.
-
-:: Parents
-human emotion
-
-:: References
-https://en.wikipedia.org/wiki/Awe
 
 
 Bermuda Triangle
@@ -1524,17 +1499,6 @@ they suffer withdrawal symptoms if they do not experience said sensations.
 human addiction
 
 
-adds in society
-===============
-
-:: Description
-We are made to ponder the place of advertisements in society and whether they
-are sometimes too intrusive and ubiquitous.
-
-:: Parents
-socioeconomic issue
-
-
 adolescence
 ===========
 
@@ -1565,6 +1529,17 @@ mother died in the line of duty in tng3x05 "The Bonding".
 
 :: References
 https://en.wikipedia.org/wiki/Adoption
+
+
+advertising in society
+======================
+
+:: Description
+We are made to ponder the place of advertisements in society and whether they
+are sometimes too intrusive and ubiquitous.
+
+:: Parents
+socioeconomic issue
 
 
 aerial bombing of cities
@@ -2088,6 +2063,17 @@ https://en.wikipedia.org/wiki/Amateur_radio
 
 :: Aliases
 passion for ham radio
+
+
+amazement at a new technology
+=============================
+
+:: Description
+A character is astonished by the effects of a technology that is new, or at
+least unfamiliar, to them.
+
+:: Parents
+awe
 
 
 amphibian-like being
@@ -3569,6 +3555,20 @@ parricide
 https://en.wikipedia.org/wiki/Avunculicide
 
 
+awe
+===
+
+:: Description
+Awe is an emotion comparable to wonder but less joyous. Typically, in a story
+a character is awestruck by something that impresses them deeply.
+
+:: Parents
+human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Awe
+
+
 bad government exports while the people are starving
 ====================================================
 
@@ -5011,6 +5011,22 @@ https://en.wikipedia.org/wiki/Newborn_care_and_safety
 https://en.wikipedia.org/wiki/Infant#Care_and_feeding
 
 
+caring for an elderly relative
+==============================
+
+:: Description
+A character dedicates a significant part of their time towards caring for
+a related person that suffers from old age.
+
+:: Parents
+coping with life issues
+family affairs
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Elderly_care
+
+
 carpe diem
 ==========
 
@@ -5034,7 +5050,7 @@ A character works professionally with creating things out of wood and related
 materials.
 
 :: Parents
-human occupational activity
+artisan occupation
 
 
 carrot vs. stick
@@ -7385,7 +7401,7 @@ coping with a failing marriage
 Family members struggle through a dysfunctional marriage.
 
 :: Parents
-romantic relationship issue
+disintegrating romantic relationship
 
 
 coping with a family issue
@@ -8317,19 +8333,6 @@ the doctor and onerous treatment procedures.
 human health condition
 
 
-coping with having a cuckold reputation
-=======================================
-
-:: Description
-A male character has to handle the information that their female love partner
-has been physically unfaithful with another man, and that this is publicly
-known to some extent.
-
-:: Parents
-coping with having a bad reputation
-romantic relationship issue
-
-
 coping with having a headache
 =============================
 
@@ -8778,18 +8781,6 @@ a, more or less, serious health complication.
 
 :: Parents
 humans in pairs
-
-
-coping with someone who refuses to take care of their health
-============================================================
-
-:: Description
-A character, usually a relative, is concerned about a person they care for
-risking their life by refusing to see the Doctor or not following medical
-advice, etc.
-
-:: Parents
-coping with a problematic person
 
 
 coping with starvation
@@ -10449,6 +10440,20 @@ military issue
 
 :: References
 https://en.wikipedia.org/wiki/Desertion
+
+
+desire
+======
+
+:: Description
+This a general theme pertaining to states of mind that are expressed by terms
+like "wanting", "wishing", "longing" or "craving".
+
+:: Parents
+human emotion
+
+:: References
+https://en.wikipedia.org/wiki/Desire
 
 
 desire vs. conscience
@@ -12455,6 +12460,20 @@ conspires to keep the other weak in order to have a more lopsided bargain.
 social ethical dilemma
 
 
+exploring one's sexual fantasies
+================================
+
+:: Description
+A character imagines or even acts out on a sexual desire that is somehow out
+of reach.
+
+:: Parents
+human nature
+
+:: References
+https://en.wikipedia.org/wiki/Eroticism
+
+
 explosives
 ==========
 
@@ -13430,6 +13449,20 @@ A character imagines their own ideal romantic adventure.
 :: Parents
 human dreaming
 romantic relationship
+
+
+farming
+=======
+
+:: Description
+A farmer is a person engaged in agriculture, raising crops and/or livestock
+for food or raw materials. Such an occupation is featured.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Farmer
 
 
 fascism
@@ -16003,6 +16036,26 @@ humans in hierarchy
 https://en.wikipedia.org/wiki/Command_hierarchy
 
 
+gold digging
+============
+
+:: Description
+A character engages in a romantic relationship with the primary objective of
+acquiring money, and with little concern for love.
+
+:: Parents
+greed for riches
+romantic relationship
+
+:: Examples
+In talesoftheunexpected2x15 "The Orderly World of Mr Appleby", we learn that
+Mr. Appleby serially married older women for their money and then sought to
+bring about their premature demises.
+
+:: References
+https://en.wikipedia.org/wiki/Gold_digging
+
+
 golem
 =====
 
@@ -16286,6 +16339,56 @@ only way to protect your own people?
 
 :: Parents
 social ethical dilemma
+
+
+greed for riches
+================
+
+:: Description
+A character exhibits an inordinate desire for wealth such as money, luxuries,
+and the like.
+
+:: Parents
+desire
+human self-actualization need
+
+:: References
+https://en.wikipedia.org/wiki/Greed
+
+:: Aliases
+avarice
+
+
+greedy heir
+===========
+
+:: Description
+Someone, usually an aging or sick character, is bothered by a potential
+beneficiary who is overly concerned about their future inheritance. The greedy
+beneficiary is from a younger generation, i.e., typically a child or nephew to
+their intended benefactor.
+
+:: Parents
+human character
+greed for riches
+
+:: Notes
+A common related scenario in which this theme is not used is when a much
+younger wife is waiting anxiously for her aged husband to give up the mortal
+coil. In that scenario "gold digging" applies instead.
+
+
+greedy search for hidden loot
+=============================
+
+:: Description
+Someone is inordinately eager to enrich themself by finding and purloining a
+hidden treasure of one sort or the other. Often, though not necessarily, the
+treasure is something like pirate gold, or otherwise proceeds from illicit
+activity that has been stashed away by a criminal for later retrieval.
+
+:: Parents
+greed for riches
 
 
 gremlin
@@ -16857,6 +16960,25 @@ produced from his own DNA in "The Resurrection of Zachary Wheeler" (1971).
 https://en.wikipedia.org/wiki/Heart_transplantation
 
 
+heaven and hell
+===============
+
+:: Description
+Featured is a speculative afterlife existence comparable to the idea of
+"Heaven" or "Hell" as they are popularly understood in various large
+religions. For instance, there is an afterlife location or mental state in
+which the departed are pointedly at peace (heaven) or pointedly tormented
+(hell).
+
+:: Parents
+the afterlife
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Heaven
+https://en.wikipedia.org/wiki/Hell
+
+
 hedonism
 ========
 
@@ -16990,20 +17112,6 @@ was pitted in a fight to the death.
 
 :: References
 https://en.wikipedia.org/wiki/High_ground
-
-
-high treason
-============
-
-:: Description
-A member of a faction decides to take up the cause of an enemy faction against
-their own.
-
-:: Parents
-crime
-
-:: References
-https://en.wikipedia.org/wiki/Treason
 
 
 historical determinism
@@ -19817,6 +19925,25 @@ us humans. In scorching fire, for example, or in bedrock.
 biologically distinguished being
 
 
+initiation rite
+===============
+
+:: Description
+Featured is a rite of passage marking entrance or acceptance into a group or
+society.
+
+:: Parents
+humans in group
+
+:: Notes
+The initiate should be aware that a rite of passage is taking place for this
+theme to apply. For example, the theme does not apply to a conventional
+infant baptism.
+
+:: References
+https://en.wikipedia.org/wiki/Initiation
+
+
 inorganic being
 ===============
 
@@ -21788,6 +21915,18 @@ The love of a master for their pet is featured.
 familial love
 
 
+love of a woman transforms a man
+================================
+
+:: Description
+A man is inspired to transform himself for the better by a woman with whom he
+has fallen in love.
+
+:: Parents
+romantic relationship
+character metamorphosis
+
+
 love out of pity
 ================
 
@@ -21897,6 +22036,18 @@ human romantic relationship choice
 :: Examples
 In tz1959e2x21 "The Prime Mover", Kitty gave her lover Ace this ultimatum:
 Quit his crooked gambling, or she'd leave. Ace kept gambling a bit longer.
+
+
+love vs. self-preservation
+==========================
+
+:: Description
+A character must choose between protecting themself and their own interests on
+one hand, or protecting a lover on the other.
+
+:: Parents
+personal ethical dilemma
+human romantic relationship choice
 
 
 love vs. the public good
@@ -23937,6 +24088,20 @@ found to be innocent.
 
 :: References
 https://en.wikipedia.org/wiki/Misogyny
+
+
+mistrust
+========
+
+:: Description
+The ways in which a lack of trust can lead people to not get along are
+explored.
+
+:: Parents
+humans interacting
+
+:: References
+https://en.wikipedia.org/wiki/Distrust
 
 
 mixed marriage
@@ -26289,6 +26454,31 @@ aunt in order to access an inheritance.
 https://en.wikipedia.org/wiki/Parricide
 
 
+partners in crime
+=================
+
+:: Description
+The relationship between two characters who find themselves in a close
+co-working relationship against the law is featured.
+
+:: Parents
+humans in pairs
+
+:: References
+https://en.wikipedia.org/wiki/Category:Criminal_duos
+
+
+partners on the police force
+============================
+
+:: Description
+The relationship between two law enforcement officers who are working together
+as a unit is explored.
+
+:: Parents
+work partner and work partner
+
+
 passion for vehicles
 ====================
 
@@ -26911,7 +27101,7 @@ perspective.
 :: Parents
 social dysfunction
 sociocultural issue
-socioeconomic issue
+advertising in society
 
 :: References
 https://en.wikipedia.org/wiki/Marketing
@@ -29867,11 +30057,11 @@ resurrection of the dead
 ========================
 
 :: Description
-A person is brought back to life by miraculous means, as opposed to by the
-application of technology.
+A person is brought back to life, be it through miraculous means,
+technological artifice, or otherwise.
 
 :: Parents
-organized religion
+speculative experience
 
 :: Examples
 Worf was brought back from dead by the amnesiac alien provisionally named John
@@ -30003,6 +30193,7 @@ technically dead.
 
 :: Parents
 life extension technology
+resurrection of the dead
 
 
 revolution in society
@@ -32502,7 +32693,7 @@ distributed.
 national social issue
 
 :: Examples
-"monopolies in society", "slavery", and "adds in society" are themes that all
+"monopolies in society", "slavery", and "advertising in society" are themes that all
 relate to economic activity and the distribution of wealth.
 
 :: References
@@ -36504,6 +36695,21 @@ human self-esteem need
 https://en.wikipedia.org/wiki/Reputation
 
 
+the desire for professional success
+===================================
+
+:: Description
+A character seeks ever further promotion, influence, recognition, rank, or
+salary etc. in their chosen line of work.
+
+:: Parents
+desire
+human self-actualization need
+
+:: References
+https://en.wikipedia.org/wiki/Need_for_achievement
+
+
 the desire for redemption
 =========================
 
@@ -36841,6 +37047,7 @@ A character lives so long that they start to see the downsides to
 
 :: Parents
 human idea about life
+immortality
 
 :: References
 https://en.wikipedia.org/wiki/Immortality_in_fiction
@@ -37275,6 +37482,17 @@ the art of war
 :: Examples
 Spcok argued rationally for attack in tos1x08 "Balance of Terror", because
 anything else would be a sign of weakness.
+
+
+the importance of paying attention to detail
+============================================
+
+:: Description
+The idea is illustrated that one would do best to be mindful even of seemingly
+small and insignificant things, in order to be successful in one's endeavors.
+
+:: Parents
+human idea about life
 
 
 the importance of remembering history
@@ -38233,20 +38451,6 @@ https://en.wikipedia.org/wiki/Immortality
 http://www.sf-encyclopedia.com/entry/immortality
 
 
-the reasons for playing games
-=============================
-
-:: Description
-What in our minds attract us to games of different sorts is pondered.
-
-:: Parents
-human nature
-
-:: Examples
-Data, Troi and Pulaski discussed why we enjoy playing games in tng2x21 "Peak
-Performance".
-
-
 the religious end of the world
 ==============================
 
@@ -38268,6 +38472,24 @@ https://en.wikipedia.org/wiki/End_time
 Ragnarök
 apocalypse
 rapture
+
+
+the restless dead
+=================
+
+:: Description
+A departed person's spirit somehow bothers the living world because the person
+feels they have unfinished business there, of one sort or another.
+
+:: Parents
+the afterlife
+undead being
+
+:: Notes
+This theme is not necessarily used when zombies and other undead beings are
+featured except if it is made clear that those beings are restless due to some
+unfinished business from when they were alive. Corpses raised as zombies by a
+virus or a necromancer, for example, do not match this criteria.
 
 
 the right to a fair trial
@@ -39000,6 +39222,24 @@ https://en.wikipedia.org/wiki/Time_loop
 http://www.sf-encyclopedia.com/entry/time_loop
 
 
+time machine
+============
+
+:: Description
+Featured is a hypothetical device by which someone can travel in time. This
+may be either to an earlier time or to a later time, and without the need for
+the time-traveler to experience the intervening period of time in the usual
+sense.
+
+:: Parents
+speculative technology
+time travel
+
+:: References
+https://en.wikipedia.org/wiki/Time_travel
+http://www.sf-encyclopedia.com/entry/time_machine
+
+
 time portal
 ===========
 
@@ -39423,6 +39663,20 @@ space travel
 :: References
 https://en.wikipedia.org/wiki/Wormhole
 http://www.sf-encyclopedia.com/entry/wormholes
+
+
+treason
+=======
+
+:: Description
+A member of a faction decides to take up the cause of an enemy faction against
+their own.
+
+:: Parents
+crime
+
+:: References
+https://en.wikipedia.org/wiki/Treason
 
 
 treatment of migrants
@@ -40209,6 +40463,19 @@ https://en.wikipedia.org/wiki/Feud
 blood feud
 
 
+vengeance from beyond the grave
+===============================
+
+:: Description
+A departed person's spirit somehow bothers the living world because the person
+feels they have a bone to pick with someone there. For example, a murder
+victim's spirit may  be haunting its killer in a desire to see vengeance done.
+
+:: Parents
+the restless dead
+the desire for vengeance
+
+
 ventriloquism
 =============
 
@@ -40991,6 +41258,16 @@ have enough certainty to call the police. Instead he convinces his friends to
 sneak over and gather evidence.
 
 
+what if I came into a lot of money
+==================================
+
+:: Description
+
+
+:: Parents
+what if I was super rich
+
+
 what if I caught a glimpse of the future
 ========================================
 
@@ -41747,6 +42024,24 @@ what if I met an extraordinary person
 :: Examples
 Captain Kirk found his perfect mate in the android Rayna in tos3x21 "Requiem
 for Methuselah".
+
+
+what if I murdered someone in a fit of rage
+===========================================
+
+:: Description
+We are made to imagine what it'd be like to suddenly realize one had murdered
+another person during a fit of, more or less blind, anger.
+
+:: Parents
+murder
+what if I were in a tight spot
+
+:: Notes
+If a person causes someone else's death and it is treated unequivocally as an
+accident in the story then this theme is not used.
+However, if the perpetrator has any expectation that they will be tried for
+murder in a contemporary court, or the like, then this theme likely applies.
 
 
 what if I repeated a portion of my life over again
