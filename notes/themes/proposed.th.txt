@@ -75,6 +75,8 @@ dysfunctional legal system
 ==========================
 
 :: Description
+A legal system (e.g., court system) is so broken that the meting out of
+justice is severely compromised, perhaps owing to endemic corruption.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_national_legal_systems
@@ -117,6 +119,9 @@ the desire to be more like a normal person
 ==========================================
 
 :: Description
+A character longs for nothing more than to be an ordinary person. For example,
+a celebrity wishing they could lead a normal life, or an exceptionally tall
+person wishing they were of average height.
 
 :: Parents
 desire
@@ -152,9 +157,14 @@ speculative smart house
 =======================
 
 :: Description
+A home is made novel by the multitude of everyday tasks that are automated
+within it.
 
 :: Parents
 speculative smart object
+
+:: References
+https://en.wikipedia.org/wiki/Home_automation
 
 
 speculative smart tool
