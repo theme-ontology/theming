@@ -1,29 +1,3 @@
-tvseries: Faerie Tale Theatre
-=============================
-
-:: Title
-Faerie Tale Theatre
-
-:: Date
-1982-1987
-
-:: Description
-Faerie Tale Theatre (also known as Shelley Duvall's Faerie Tale Theatre) is an
-American live-action fairytale fantasy anthology television series of 27
-episodes, that originally aired on Showtime from September 11, 1982 until
-November 14, 1987. It is a retelling of 25 fairy tales, particularly those by
-The Brothers Grimm, Charles Perrault and Hans Christian Andersen, plus the
-poem "The Pied Piper of Hamelin". Shelley Duvall is the series creator, host,
-executive producer alongside Bridget Terry and Frederic E. Fuchs, occasional
-star and narrator, and voice of the animatronic Nightingale.
-
-:: References
-https://en.wikipedia.org/wiki/Faerie_Tale_Theatre
-
-:: Collections
-tvseries: Faerie Tale Theatre
-
-
 ftt1982e1x01
 ============
 
@@ -1346,5 +1320,59 @@ human occupational activity <cobbler> [The royal cobbler was filling the six pri
 the senselessness of war [The soldier voiced his opinion that "all wars are sad... and should be avoided", and the king agreed.]
 subterranean civilization [The six princesses' made nightly rendezvous with princes from an "underground kingdom" of some sort.]
 marriage ceremony [The story concluded with the soldier and Jeanetta tying the knot.]
+
+
+tvseries: Faerie Tale Theatre
+=============================
+
+:: Title
+Faerie Tale Theatre
+
+:: Date
+1982-1987
+
+:: Description
+Faerie Tale Theatre (also known as Shelley Duvall's Faerie Tale Theatre) is an
+American live-action fairytale fantasy anthology television series of 27
+episodes, that originally aired on Showtime from September 11, 1982 until
+November 14, 1987. It is a retelling of 25 fairy tales, particularly those by
+The Brothers Grimm, Charles Perrault and Hans Christian Andersen, plus the
+poem "The Pied Piper of Hamelin". Shelley Duvall is the series creator, host,
+executive producer alongside Bridget Terry and Frederic E. Fuchs, occasional
+star and narrator, and voice of the animatronic Nightingale.
+
+:: References
+https://en.wikipedia.org/wiki/Faerie_Tale_Theatre
+
+:: Collections
+tvseries: Faerie Tale Theatre
+
+:: Component Stories
+ftt1982e1x01
+ftt1982e1x02
+ftt1982e2x01
+ftt1982e2x02
+ftt1982e2x03
+ftt1982e2x04
+ftt1982e2x05
+ftt1982e2x06
+ftt1982e3x01
+ftt1982e3x02
+ftt1982e3x03
+ftt1982e3x04
+ftt1982e3x05
+ftt1982e3x06
+ftt1982e3x07
+ftt1982e4x01
+ftt1982e4x02
+ftt1982e4x03
+ftt1982e4x05
+ftt1982e4x06
+ftt1982e4x07
+ftt1982e5x01
+ftt1982e5x02
+ftt1982e6x01
+ftt1982e6x02
+ftt1982e6x03
 
 

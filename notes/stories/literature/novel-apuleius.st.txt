@@ -1,56 +1,3 @@
-novel: The Golden Ass (180)
-===========================
-
-:: Title
-The Golden Ass
-
-:: Date
-180
-
-:: Description
-The Metamorphoses of Apuleius, which Augustine of Hippo referred to as The
-Golden Ass (Asinus aureus), is the only ancient Roman novel in Latin to
-survive in its entirety.
-
-The protagonist of the novel is called Lucius. At the end of the novel, he is
-revealed to be from Madaurus, the hometown of Apuleius himself. The plot
-revolves around the protagonist's curiosity and insatiable desire to see and
-practice magic. While trying to perform a spell to transform into a bird, he
-is accidentally transformed into an ass. This leads to a long journey, literal
-and metaphorical, filled with inset tales. He finally finds salvation through
-the intervention of the goddess Isis, whose cult he joins.
-
-:: Authors
-Apuleius
-
-:: References
-https://en.wikipedia.org/wiki/The_Golden_Ass
-
-:: Ratings
-5 <paul>
-5 <paul>
-
-:: Component Stories
-apuleius180tgab1
-apuleius180tgab2
-apuleius180tgab3
-apuleius180tgab4
-apuleius180tgainset1
-apuleius180tgab7
-apuleius180tgab8
-apuleius180tgab9
-apuleius180tgab9inset1
-apuleius180tgab9inset2
-apuleius180tgab9inset3
-apuleius180tgab10
-apuleius180tgab10inset1
-apuleius180tgab10inset2
-apuleius180tgab11
-
-:: Choice Themes
-what if I turned into an animal [The story follows Lucius as he is accidentally transformed into a common ass, and his subsequent efforts to change himself back into a human being.]
-
-
 apuleius180tgab1
 ================
 
@@ -85,6 +32,149 @@ alcohol abuse [The conclusion to Aristomenes story is that Aristomenes had drunk
 living corpse [Meroë and Panthia cut open Socrates, drained his blood, ripped out his heart, and replaced it with a sponge. Astonishingly, Socrates woke up the next morning as if nothing had happened, but then died (again) the sponge fell out of him as he bent over to drink from a stream.]
 miserliness [Milo lived in a humble shack even though he had "money to burn".]
 black magic [Lucius expressed curiosity about magic and witchcraft.]
+
+
+apuleius180tgab10
+=================
+
+:: Title
+The Golden Ass: Book 10
+
+:: Date
+180
+
+:: Description
+Lucius the ass is made to perform tricks for public amusement.
+
+:: Major Themes
+bestiality [A wealthy woman paid Lucius the ass's keeper and took him to bed with her. A murderess was condemned to have to publicly fornicate with Lucius the ass.]
+
+:: Minor Themes
+brother and brother [Two brother, a pastrycook and a chef, came to quarrel with each other as a result of Lucius the ass's antics.]
+theft [The pastrycook and the chef were convinced that someone was stealing their food, and were astonished to find out that Lucius the ass had been the one behind the disappearing food.]
+gluttony [Lucius the ass stole human food and grew fat on the fare, to his owner's dismay.]
+contemplating suicide [Lucius the ass contemplated doing away with himself rather than be made to have public intercourse with a notorious murderess.]
+Ancient Roman mythology [Lucius described in much detail an enactment of the Judgment of Paris.]
+the theater [A theater performance involving various Roman deities was described.]
+fear for one's life [Lucius the ass fled in fear for his life from the spectacle in which he was expected to ravage a condemned woman and then, together with her, be torn apart by wild beasts.]
+
+
+apuleius180tgab10inset1
+=======================
+
+:: Title
+The Golden Ass: The Tale of the Murderous Wife
+
+:: Date
+180
+
+:: Description
+A wicked stepmother plots to murder her stepson after he spurns her romantic
+advances. This is an inset story from Book 10.
+
+:: References
+https://en.wikipedia.org/wiki/The_Golden_Ass#Tale_of_the_Murderous_Wife
+
+:: Major Themes
+wicked stepmother stereotype [A wicked stepmother tried to poison murder her stepson after he refused to sleep with her.]
+stepmother and stepson [A lusty and wicked stepmother tried to coerce her stepson into sleeping with her.]
+unrequited love [A wicked stepmother lusted after her stepson to no avail. The stepmother accused the stepson of having made a pass at her and more.]
+coping with unwelcome romantic attention [A young man was horrified by his lusty stepmother's romantic overtures.]
+hell hath no fury like a woman scorned [After suffering romantic rejection from her stepson, a stepmother took up a woman's weapon and began murdering all those she wanted to be rid of.]
+poison murder [A wicked stepmother had a cup of poisoned wine prepared for her stepson to get revenge against him for having spurned her romantic overtures, but her biological son inadvertently drank it and died.]
+
+:: Minor Themes
+father and son [The master of the house had given his son such an excellent education, we read. Later the father was reunited with the son he thought dead.]
+husband and wife [A wicked stepmother send her husband off to visit his outlying estates to facilitate her seduction of his son.]
+master and slave [The wicked stepmother enlisted a villainous slave of hers to dispatch her stepson after the stepson spurned her romantic overtures.]
+mother and son [A wicked stepmother son drank the cup of poisoned wine that she'd left for her stepson to drink.]
+sexual assault [A wicked stepmother falsely accused her stepson of attempting to rape her.]
+false rape accusations [A wicked stepmother falsely accused her stepson of attempting to rape her.]
+fratricide [The stepson was charged with the murder of his stepbrother.]
+the desire for vengeance [A wicked stepmother tried to poison her stepson out of revenge because he'd spurned her romantic advances.]
+coping with the death of a child [The father's face was "streaming with tears", and his "white hair torn and smeared with ash" in the immediate aftermath of his beloved son's funeral.]
+what if I was accused of a crime that I didn't commit [The stepson was charged with and tried for a murder that he didn't commit.]
+guilt and evidence [A town magistrate stood up and insisted that the stepson be granted a trial even though everyone (the town counselors and townspeople) were so convinced of his guilt that they thought a trial was unnecessary.]
+what it is like in a legal proceeding [The stepson was tried for murder.]
+euthanasia [The stepmother's villainous slave told the physician he needed a strong poison for a incurably sick man who wished to end his life.]
+coping with being tortured [The stepmother's villainous slave withstood the wheel, the rack, a flogging, and fire.]
+incest in society [A stepmother lusted after her stepson, who was horrified at the idea of such a "crime".]
+love triangle [A stepson had to deal with unrequited amorous advances from his own stepmother while her husband was away.]
+poetic justice [A stepmother attempted to poison murder her hated stepson, but accidentally killed her beloved biological son instead.]
+medical occupation [The stepmother procured poison from a physician whom she later poisoned.]
+The Hippocratic Oath [A physician had refused to dispense a lethal poison and had surreptitiously doled out a strong soporific instead, thus saving an intended murder victim's life. This was done because the good doctor had been taught to preserve life and not destroy it, we read.]
+exile [The wicked stepmother was exiled for life.]
+
+
+apuleius180tgab10inset2
+=======================
+
+:: Title
+The Golden Ass: The Tale of the Jealous Wife
+
+:: Date
+180
+
+:: Description
+A woman is condemned to death by wild beasts, and also to have public
+intercourse with an ass, as punishment for murdering her husband's sister out
+of jealousy. This is an inset story from Book 10.
+
+:: References
+https://en.wikipedia.org/wiki/The_Golden_Ass#Tale_of_the_Jealous_Wife
+
+:: Major Themes
+romantic jealousy [A wife killed her husband's sister out of jealousy because she mistook the sister for a romantic rival.]
+murder [A wife had her servants kill her husband's sister by running her through with a white-hot firebrand, then she poison murdered her husband and daughter.]
+female-female rivalry [The story concerned a wife who murdered her husband's sister out of jealousy.]
+
+:: Minor Themes
+brother and sister [A brother was working to marry off his sister to his friend, but it ended tragically when his wife killed the sister out of jealously.]
+infanticide [A man commanded his pregnant daughter-in-law to kill the child should it turn out to be a girl.]
+maternal love [A mother so loved her newborn that she disobeyed her husband's order to kill it, instead convincing her neighbor to raise it in secret.]
+husband and wife [A woman disobeyed her husband's order to kill their infant girl. A woman dispatched of her husband's sister using a swift poison.]
+coping with the death of a family member [A brother fell gravely ill upon learning of his sister's tragic death.]
+poison murder [A woman remorselessly died in her husband by means of a swift poison.]
+spouse murder [A woman remorselessly died in her husband by means of a swift poison.]
+greedy heir [A woman stooped to poison murdering her own daughter in an effort to secure the woman's deceased husband's inheritance.]
+filicide [A woman callously poison murdered her own daughter in an effort to secure her husband's inheritance.]
+capital punishment [A woman was sentenced to be thrown to the beasts as punishment for having committed a spate of poison murders.]
+coping with being tortured [The murderous wife's attendants were tortured for their information.]
+mother-in-law and daughter-in-law [A mother-in-law was instructed to have her daughter-in-law's baby killed if it was a girl, which indeed it was.]
+incest in society [The mother was concerned that her son and daughter might become romantically involved if they were not informed about their kinship to each other.]
+mother and son [A mother was concerned about her son.]
+mother and daughter [A mother protected her daughter.]
+extramarital affair [A wife perceived adultery, though in fact there was none.]
+
+
+apuleius180tgab11
+=================
+
+:: Title
+The Golden Ass: Book 11
+
+:: Date
+180
+
+:: Description
+Lucius the ass returns to human form with the help of the goddess Isis and
+lives happily ever after.
+
+:: References
+https://en.wikipedia.org/wiki/The_Golden_Ass#Book_Eleven
+
+:: Major Themes
+what if I turned into an animal [Lucius the ass reverted back into human form after eating some roses that the goddess Isis had arranged for him to find in an act of divine intervention.]
+what if I underwent a physical metamorphosis [Lucius the ass finally returned to human form after devouring a garland of roses.]
+finding religion [Lucius was joyfully initiated into the priesthood of Isis.]
+
+:: Minor Themes
+Ancient Egyptian mythology [The goddess Isis intervened to help Lucius the ass return to human form. Lucius described Osiris as the invincible father of all the gods.]
+religious festival [Lucius the Ass attended an ostentatious religious procession in honor of the goddess Isis.]
+divine visitation [Lucius had a cryptic dream-prophesy that he interpreted to mean that some good fortune would fall on him. And so it happened the very next day that the servants he'd left behind in Hypata returned to him with his horse.]
+Ancient Roman mythology [Lucius the ass cited the following Roman gods Venus, Ceres, Diana, Proserpine, etc. in his prayer to the Queen of Heaven.]
+religious occupation [A priest had a revelation from Isis in which he was told to prepare a garland of roses for Lucius the ass to devour.]
+miracle [Lucius the ass' transformation was attributed to have been a miracle mediated by Isis.]
 
 
 apuleius180tgab2
@@ -180,61 +270,6 @@ ransom kidnapping [The robbers kidnapped a young woman of high birth and plotted
 what if I fell into the clutches of a person with malicious intent [The kidnapped girl Charite contemplated her fate in the hands of the robbers.]
 coping with the death of a lover [The kidnapped girl Charite spoke of how her cousin cum fiancée had been slain.]
 prisoners being exploited for entertainment [The gladiators who were slated to compete in Demochares' gladiatorial show included "desperate criminals with nothing to lose".]
-
-
-apuleius180tgainset1
-====================
-
-:: Title
-The Golden Ass: Cupid and Psyche
-
-:: Date
-180
-
-:: Description
-An elderly woman tells a tale of how the most beautiful woman in the world
-comes to be envied by the goddess Venus in an effort to conform a kidnapped
-young woman.
-
-:: References
-https://en.wikipedia.org/wiki/The_Golden_Ass#Tale_of_Cupid_and_Psyche
-
-:: Choice Themes
-jealousy [Venus was jealous of Psyche's beauty. Psyche's sisters were jealous of Psyche's marriage to Cupid. Psyche's sisters were jealous of her because of the wealth and status that came with her marriage to the god Cupid.]
-female-female rivalry [The story considered the rivalry of Venus with Psyche regarding who was the most beautiful.]
-
-:: Major Themes
-curiosity killed the cat [A central point in the story is the fact that Psyche disobeyed her husband because she had a cat-killing urge to find out who he was. This was later spelled out after Psyche could not resist opening the box that was said to contain some of Proserpina's beauty.]
-mother and son [Cupid disobeyed his mother Venus by pursuing a romantic relationship with her rival in beauty, Psyche.]
-husband and wife [The relationship between Cupid and Psyche is explicitly referred to as that of husband and wife, Venus being the wicked mother-in-law.]
-poetic justice [It is a notably ironic point that Cupid, who has inflicted so much romantic suffering with his love-inducing arrows, should happen to prick himself and suffer the same sort of woe.]
-obsessive love [Because of Cupid's love inducing arrows, Cupid and Psyche came to be obsessively in love to the extent that Cupid upset the heavenly order (angering Venus) and Psyche nearly gave her life chasing after Cupid.]
-mother-in-law and daughter-in-law [The story concerned the relationship between Venus and Psyche after the latter had married the former's son, Cupid.]
-female vanity [Central to the story was various women's obsession with being evermore beautiful.]
-Ancient Roman mythology [The story told of Roman deities and their antics.]
-epic love [The god Cupid and the world's most beautiful woman Psyche fell passionately in love.]
-
-:: Minor Themes
-hubris [Venus, seemingly unfairly, accused Psyche of arrogance in matching her beauty with that of gods and set about punishing her.]
-father and daughter [Psyche and her father.]
-beating one's self up [Psyche was said to hate her own beauty.]
-loneliness [Psyche was said to be lonely.]
-sister and sister [Psyche met with her wicked sisters.]
-coping with the death of a family member [Psyche thought her sisters mourned her death.]
-greed for riches [Psyche's sisters were jealous of Psyche's marriage because of the rich palace she lived in and the many jewels she was adorned with - they attempted to snatch Cupid for themselves. It was noted twice that the Stygian ferryman Charon was avaricious to a fault.]
-pride [Psyche's sisters disingenuously accused Psyche of having been prideful towards them.]
-abandonment [Psyche was abandoned by Cupid as a punishment.]
-parental disappointment in a child [Venus was thoroughly disappointed with Cupid's failure to punish Psyche. She was also chastised by Ceres and Juno for not recognizing that Cupid had become a man.]
-duty vs. compassion [Ceres lamented that she could not help Psyche because of Ceres' kinship with Venus and laws that forbade her from helping runaway slaves.]
-suicide [Psyche briefly intended to kill herself but a tower intervened to save her.]
-apotheosis [The story concluded with the apotheosis of Psyche.]
-sexual debut [Psyche lost her virginity to Cupid in dramatic fashion.]
-feeling neglected in a relationship [One of Psyche's wicked sisters complained that was too old and arthritic to satisfy her in the sack.]
-family honor [Venus said something to the effect that Cupid had brought shame and scandal upon their family by fornicating with a mere mortal, albeit the most beautiful mortal woman in the world.]
-journey into the underworld [Psyche went on a perilous trek down into Tartarus to obtain a box containing Proserpina's beauty.]
-
-:: Other Keywords
-apotheosis [The story concluded with the apotheosis of Psyche.]
 
 
 apuleius180tgab7
@@ -427,146 +462,111 @@ husband and wife [A fuller's wife frantically hid her lover in a drying cage whe
 extramarital affair [A fuller's wife frantically hid her lover in a drying cage when the fuller came home early from supping with his baker friend.]
 
 
+apuleius180tgainset1
+====================
+
+:: Title
+The Golden Ass: Cupid and Psyche
+
+:: Date
+180
+
+:: Description
+An elderly woman tells a tale of how the most beautiful woman in the world
+comes to be envied by the goddess Venus in an effort to conform a kidnapped
+young woman.
+
+:: References
+https://en.wikipedia.org/wiki/The_Golden_Ass#Tale_of_Cupid_and_Psyche
+
+:: Choice Themes
+jealousy [Venus was jealous of Psyche's beauty. Psyche's sisters were jealous of Psyche's marriage to Cupid. Psyche's sisters were jealous of her because of the wealth and status that came with her marriage to the god Cupid.]
+female-female rivalry [The story considered the rivalry of Venus with Psyche regarding who was the most beautiful.]
+
+:: Major Themes
+curiosity killed the cat [A central point in the story is the fact that Psyche disobeyed her husband because she had a cat-killing urge to find out who he was. This was later spelled out after Psyche could not resist opening the box that was said to contain some of Proserpina's beauty.]
+mother and son [Cupid disobeyed his mother Venus by pursuing a romantic relationship with her rival in beauty, Psyche.]
+husband and wife [The relationship between Cupid and Psyche is explicitly referred to as that of husband and wife, Venus being the wicked mother-in-law.]
+poetic justice [It is a notably ironic point that Cupid, who has inflicted so much romantic suffering with his love-inducing arrows, should happen to prick himself and suffer the same sort of woe.]
+obsessive love [Because of Cupid's love inducing arrows, Cupid and Psyche came to be obsessively in love to the extent that Cupid upset the heavenly order (angering Venus) and Psyche nearly gave her life chasing after Cupid.]
+mother-in-law and daughter-in-law [The story concerned the relationship between Venus and Psyche after the latter had married the former's son, Cupid.]
+female vanity [Central to the story was various women's obsession with being evermore beautiful.]
+Ancient Roman mythology [The story told of Roman deities and their antics.]
+epic love [The god Cupid and the world's most beautiful woman Psyche fell passionately in love.]
+
+:: Minor Themes
+hubris [Venus, seemingly unfairly, accused Psyche of arrogance in matching her beauty with that of gods and set about punishing her.]
+father and daughter [Psyche and her father.]
+beating one's self up [Psyche was said to hate her own beauty.]
+loneliness [Psyche was said to be lonely.]
+sister and sister [Psyche met with her wicked sisters.]
+coping with the death of a family member [Psyche thought her sisters mourned her death.]
+greed for riches [Psyche's sisters were jealous of Psyche's marriage because of the rich palace she lived in and the many jewels she was adorned with - they attempted to snatch Cupid for themselves. It was noted twice that the Stygian ferryman Charon was avaricious to a fault.]
+pride [Psyche's sisters disingenuously accused Psyche of having been prideful towards them.]
+abandonment [Psyche was abandoned by Cupid as a punishment.]
+parental disappointment in a child [Venus was thoroughly disappointed with Cupid's failure to punish Psyche. She was also chastised by Ceres and Juno for not recognizing that Cupid had become a man.]
+duty vs. compassion [Ceres lamented that she could not help Psyche because of Ceres' kinship with Venus and laws that forbade her from helping runaway slaves.]
+suicide [Psyche briefly intended to kill herself but a tower intervened to save her.]
+apotheosis [The story concluded with the apotheosis of Psyche.]
+sexual debut [Psyche lost her virginity to Cupid in dramatic fashion.]
+feeling neglected in a relationship [One of Psyche's wicked sisters complained that was too old and arthritic to satisfy her in the sack.]
+family honor [Venus said something to the effect that Cupid had brought shame and scandal upon their family by fornicating with a mere mortal, albeit the most beautiful mortal woman in the world.]
+journey into the underworld [Psyche went on a perilous trek down into Tartarus to obtain a box containing Proserpina's beauty.]
+
+:: Other Keywords
+apotheosis [The story concluded with the apotheosis of Psyche.]
+
+
+novel: The Golden Ass (180)
+===========================
+
+:: Title
+The Golden Ass
+
+:: Date
+180
+
+:: Description
+The Metamorphoses of Apuleius, which Augustine of Hippo referred to as The
+Golden Ass (Asinus aureus), is the only ancient Roman novel in Latin to
+survive in its entirety.
+
+The protagonist of the novel is called Lucius. At the end of the novel, he is
+revealed to be from Madaurus, the hometown of Apuleius himself. The plot
+revolves around the protagonist's curiosity and insatiable desire to see and
+practice magic. While trying to perform a spell to transform into a bird, he
+is accidentally transformed into an ass. This leads to a long journey, literal
+and metaphorical, filled with inset tales. He finally finds salvation through
+the intervention of the goddess Isis, whose cult he joins.
+
+:: Authors
+Apuleius
+
+:: References
+https://en.wikipedia.org/wiki/The_Golden_Ass
+
+:: Ratings
+5 <paul>
+5 <paul>
+
+:: Component Stories
+apuleius180tgab1
+apuleius180tgab2
+apuleius180tgab3
+apuleius180tgab4
+apuleius180tgainset1
+apuleius180tgab7
+apuleius180tgab8
+apuleius180tgab9
+apuleius180tgab9inset1
+apuleius180tgab9inset2
+apuleius180tgab9inset3
 apuleius180tgab10
-=================
-
-:: Title
-The Golden Ass: Book 10
-
-:: Date
-180
-
-:: Description
-Lucius the ass is made to perform tricks for public amusement.
-
-:: Major Themes
-bestiality [A wealthy woman paid Lucius the ass's keeper and took him to bed with her. A murderess was condemned to have to publicly fornicate with Lucius the ass.]
-
-:: Minor Themes
-brother and brother [Two brother, a pastrycook and a chef, came to quarrel with each other as a result of Lucius the ass's antics.]
-theft [The pastrycook and the chef were convinced that someone was stealing their food, and were astonished to find out that Lucius the ass had been the one behind the disappearing food.]
-gluttony [Lucius the ass stole human food and grew fat on the fare, to his owner's dismay.]
-contemplating suicide [Lucius the ass contemplated doing away with himself rather than be made to have public intercourse with a notorious murderess.]
-Ancient Roman mythology [Lucius described in much detail an enactment of the Judgment of Paris.]
-the theater [A theater performance involving various Roman deities was described.]
-fear for one's life [Lucius the ass fled in fear for his life from the spectacle in which he was expected to ravage a condemned woman and then, together with her, be torn apart by wild beasts.]
-
-
 apuleius180tgab10inset1
-=======================
-
-:: Title
-The Golden Ass: The Tale of the Murderous Wife
-
-:: Date
-180
-
-:: Description
-A wicked stepmother plots to murder her stepson after he spurns her romantic
-advances. This is an inset story from Book 10.
-
-:: References
-https://en.wikipedia.org/wiki/The_Golden_Ass#Tale_of_the_Murderous_Wife
-
-:: Major Themes
-wicked stepmother stereotype [A wicked stepmother tried to poison murder her stepson after he refused to sleep with her.]
-stepmother and stepson [A lusty and wicked stepmother tried to coerce her stepson into sleeping with her.]
-unrequited love [A wicked stepmother lusted after her stepson to no avail. The stepmother accused the stepson of having made a pass at her and more.]
-coping with unwelcome romantic attention [A young man was horrified by his lusty stepmother's romantic overtures.]
-hell hath no fury like a woman scorned [After suffering romantic rejection from her stepson, a stepmother took up a woman's weapon and began murdering all those she wanted to be rid of.]
-poison murder [A wicked stepmother had a cup of poisoned wine prepared for her stepson to get revenge against him for having spurned her romantic overtures, but her biological son inadvertently drank it and died.]
-
-:: Minor Themes
-father and son [The master of the house had given his son such an excellent education, we read. Later the father was reunited with the son he thought dead.]
-husband and wife [A wicked stepmother send her husband off to visit his outlying estates to facilitate her seduction of his son.]
-master and slave [The wicked stepmother enlisted a villainous slave of hers to dispatch her stepson after the stepson spurned her romantic overtures.]
-mother and son [A wicked stepmother son drank the cup of poisoned wine that she'd left for her stepson to drink.]
-sexual assault [A wicked stepmother falsely accused her stepson of attempting to rape her.]
-false rape accusations [A wicked stepmother falsely accused her stepson of attempting to rape her.]
-fratricide [The stepson was charged with the murder of his stepbrother.]
-the desire for vengeance [A wicked stepmother tried to poison her stepson out of revenge because he'd spurned her romantic advances.]
-coping with the death of a child [The father's face was "streaming with tears", and his "white hair torn and smeared with ash" in the immediate aftermath of his beloved son's funeral.]
-what if I was accused of a crime that I didn't commit [The stepson was charged with and tried for a murder that he didn't commit.]
-guilt and evidence [A town magistrate stood up and insisted that the stepson be granted a trial even though everyone (the town counselors and townspeople) were so convinced of his guilt that they thought a trial was unnecessary.]
-what it is like in a legal proceeding [The stepson was tried for murder.]
-euthanasia [The stepmother's villainous slave told the physician he needed a strong poison for a incurably sick man who wished to end his life.]
-coping with being tortured [The stepmother's villainous slave withstood the wheel, the rack, a flogging, and fire.]
-incest in society [A stepmother lusted after her stepson, who was horrified at the idea of such a "crime".]
-love triangle [A stepson had to deal with unrequited amorous advances from his own stepmother while her husband was away.]
-poetic justice [A stepmother attempted to poison murder her hated stepson, but accidentally killed her beloved biological son instead.]
-medical occupation [The stepmother procured poison from a physician whom she later poisoned.]
-The Hippocratic Oath [A physician had refused to dispense a lethal poison and had surreptitiously doled out a strong soporific instead, thus saving an intended murder victim's life. This was done because the good doctor had been taught to preserve life and not destroy it, we read.]
-exile [The wicked stepmother was exiled for life.]
-
-
 apuleius180tgab10inset2
-=======================
-
-:: Title
-The Golden Ass: The Tale of the Jealous Wife
-
-:: Date
-180
-
-:: Description
-A woman is condemned to death by wild beasts, and also to have public
-intercourse with an ass, as punishment for murdering her husband's sister out
-of jealousy. This is an inset story from Book 10.
-
-:: References
-https://en.wikipedia.org/wiki/The_Golden_Ass#Tale_of_the_Jealous_Wife
-
-:: Major Themes
-romantic jealousy [A wife killed her husband's sister out of jealousy because she mistook the sister for a romantic rival.]
-murder [A wife had her servants kill her husband's sister by running her through with a white-hot firebrand, then she poison murdered her husband and daughter.]
-female-female rivalry [The story concerned a wife who murdered her husband's sister out of jealousy.]
-
-:: Minor Themes
-brother and sister [A brother was working to marry off his sister to his friend, but it ended tragically when his wife killed the sister out of jealously.]
-infanticide [A man commanded his pregnant daughter-in-law to kill the child should it turn out to be a girl.]
-maternal love [A mother so loved her newborn that she disobeyed her husband's order to kill it, instead convincing her neighbor to raise it in secret.]
-husband and wife [A woman disobeyed her husband's order to kill their infant girl. A woman dispatched of her husband's sister using a swift poison.]
-coping with the death of a family member [A brother fell gravely ill upon learning of his sister's tragic death.]
-poison murder [A woman remorselessly died in her husband by means of a swift poison.]
-spouse murder [A woman remorselessly died in her husband by means of a swift poison.]
-greedy heir [A woman stooped to poison murdering her own daughter in an effort to secure the woman's deceased husband's inheritance.]
-filicide [A woman callously poison murdered her own daughter in an effort to secure her husband's inheritance.]
-capital punishment [A woman was sentenced to be thrown to the beasts as punishment for having committed a spate of poison murders.]
-coping with being tortured [The murderous wife's attendants were tortured for their information.]
-mother-in-law and daughter-in-law [A mother-in-law was instructed to have her daughter-in-law's baby killed if it was a girl, which indeed it was.]
-incest in society [The mother was concerned that her son and daughter might become romantically involved if they were not informed about their kinship to each other.]
-mother and son [A mother was concerned about her son.]
-mother and daughter [A mother protected her daughter.]
-extramarital affair [A wife perceived adultery, though in fact there was none.]
-
-
 apuleius180tgab11
-=================
 
-:: Title
-The Golden Ass: Book 11
-
-:: Date
-180
-
-:: Description
-Lucius the ass returns to human form with the help of the goddess Isis and
-lives happily ever after.
-
-:: References
-https://en.wikipedia.org/wiki/The_Golden_Ass#Book_Eleven
-
-:: Major Themes
-what if I turned into an animal [Lucius the ass reverted back into human form after eating some roses that the goddess Isis had arranged for him to find in an act of divine intervention.]
-what if I underwent a physical metamorphosis [Lucius the ass finally returned to human form after devouring a garland of roses.]
-finding religion [Lucius was joyfully initiated into the priesthood of Isis.]
-
-:: Minor Themes
-Ancient Egyptian mythology [The goddess Isis intervened to help Lucius the ass return to human form. Lucius described Osiris as the invincible father of all the gods.]
-religious festival [Lucius the Ass attended an ostentatious religious procession in honor of the goddess Isis.]
-divine visitation [Lucius had a cryptic dream-prophesy that he interpreted to mean that some good fortune would fall on him. And so it happened the very next day that the servants he'd left behind in Hypata returned to him with his horse.]
-Ancient Roman mythology [Lucius the ass cited the following Roman gods Venus, Ceres, Diana, Proserpine, etc. in his prayer to the Queen of Heaven.]
-religious occupation [A priest had a revelation from Isis in which he was told to prepare a garland of roses for Lucius the ass to devour.]
-miracle [Lucius the ass' transformation was attributed to have been a miracle mediated by Isis.]
+:: Choice Themes
+what if I turned into an animal [The story follows Lucius as he is accidentally transformed into a common ass, and his subsequent efforts to change himself back into a human being.]
 
 

@@ -1,25 +1,3 @@
-tvseries: Tales from the Loop (2020)
-====================================
-
-:: Title
-Tales from the Loop
-
-:: Date
-2020
-
-:: Description
-Tales from the Loop is an American science fiction drama television series
-developed and written by Nathaniel Halpern based on the art book of the same
-name by Swedish artist Simon Stålenhag. The eight-episode first season was
-released in its entirety on Amazon Prime Video on April 3, 2020.
-
-:: References
-https://en.wikipedia.org/wiki/Tales_from_the_Loop
-
-:: Collections
-tvseries: Tales from the Loop (2020)
-
-
 talesfromtheloop1x01
 ====================
 
@@ -379,5 +357,37 @@ teaching occupation [Cole's teacher lent him a certain book to read.]
 android [Cole learned that his school teacher some an android of some sort.]
 photography [Cole photographed a sprig of flowers in a field. Before shooting his mother's portrait, Cole asked her something that made her well up with tears, as if by design.]
 change is part of life [Motivated by a desire to go back to a time when his older brother still lived at home, Cole asked George why things couldn't stay the way they were. George told him that "time" is the reason. Cole's interest in photography is interpretable as being bound up with his desire to keep things they way they were.]
+
+
+tvseries: Tales from the Loop (2020)
+====================================
+
+:: Title
+Tales from the Loop
+
+:: Date
+2020
+
+:: Description
+Tales from the Loop is an American science fiction drama television series
+developed and written by Nathaniel Halpern based on the art book of the same
+name by Swedish artist Simon Stålenhag. The eight-episode first season was
+released in its entirety on Amazon Prime Video on April 3, 2020.
+
+:: References
+https://en.wikipedia.org/wiki/Tales_from_the_Loop
+
+:: Collections
+tvseries: Tales from the Loop (2020)
+
+:: Component Stories
+talesfromtheloop1x01
+talesfromtheloop1x02
+talesfromtheloop1x03
+talesfromtheloop1x04
+talesfromtheloop1x05
+talesfromtheloop1x06
+talesfromtheloop1x07
+talesfromtheloop1x08
 
 

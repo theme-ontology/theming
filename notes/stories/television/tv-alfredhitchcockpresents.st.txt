@@ -1,26 +1,3 @@
-tvseries: Alfred Hitchcock Presents
-===================================
-
-:: Title
-Alfred Hitchcock Presents
-
-:: Date
-1955-1962
-
-:: Description
-Alfred Hitchcock Presents is an American television anthology series created,
-hosted, and produced by Alfred Hitchcock, and aired on CBS and NBC between
-1955 and 1962. It features dramas, thrillers, and mysteries. Between 1962 and
-1965 it was renamed The Alfred Hitchcock Hour. Hitchcock himself directed a
-relatively small number of episodes.
-
-:: References
-https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents
-
-:: Collections
-tvseries: Alfred Hitchcock Presents
-
-
 ahp1x01
 =======
 
@@ -11057,5 +11034,298 @@ divination [In his sketch, Alfred Hitchcock spoke of how the Romans divined the 
 coping with starvation [Hugo had been so hungry that he fainted outside the hotdog stand at the carnival.]
 love triangle [Irene was romantically involved with George behind her husband, Sadini, back.]
 substance intoxication [George passed out drunk in the middle of warning Hugo that Irene was plotting against Hugo.]
+
+
+tvseries: Alfred Hitchcock Presents
+===================================
+
+:: Title
+Alfred Hitchcock Presents
+
+:: Date
+1955-1962
+
+:: Description
+Alfred Hitchcock Presents is an American television anthology series created,
+hosted, and produced by Alfred Hitchcock, and aired on CBS and NBC between
+1955 and 1962. It features dramas, thrillers, and mysteries. Between 1962 and
+1965 it was renamed The Alfred Hitchcock Hour. Hitchcock himself directed a
+relatively small number of episodes.
+
+:: References
+https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents
+
+:: Collections
+tvseries: Alfred Hitchcock Presents
+
+:: Component Stories
+ahp1x01
+ahp1x02
+ahp1x03
+ahp1x04
+ahp1x05
+ahp1x06
+ahp1x07
+ahp1x08
+ahp1x09
+ahp1x10
+ahp1x11
+ahp1x12
+ahp1x13
+ahp1x14
+ahp1x15
+ahp1x16
+ahp1x17
+ahp1x18
+ahp1x19
+ahp1x20
+ahp1x21
+ahp1x22
+ahp1x23
+ahp1x24
+ahp1x25
+ahp1x26
+ahp1x27
+ahp1x28
+ahp1x29
+ahp1x30
+ahp1x31
+ahp1x32
+ahp1x33
+ahp1x34
+ahp1x35
+ahp1x36
+ahp1x37
+ahp1x38
+ahp1x39
+ahp2x01
+ahp2x02
+ahp2x03
+ahp2x04
+ahp2x05
+ahp2x06
+ahp2x07
+ahp2x08
+ahp2x09
+ahp2x10
+ahp2x11
+ahp2x12
+ahp2x13
+ahp2x14
+ahp2x15
+ahp2x16
+ahp2x17
+ahp2x18
+ahp2x19
+ahp2x20
+ahp2x21
+ahp2x22
+ahp2x23
+ahp2x24
+ahp2x25
+ahp2x26
+ahp2x27
+ahp2x28
+ahp2x29
+ahp2x30
+ahp2x31
+ahp2x32
+ahp2x33
+ahp2x34
+ahp2x35
+ahp2x36
+ahp2x37
+ahp2x38
+ahp2x39
+ahp3x01
+ahp3x02
+ahp3x03
+ahp3x04
+ahp3x05
+ahp3x06
+ahp3x07
+ahp3x08
+ahp3x09
+ahp3x10
+ahp3x11
+ahp3x12
+ahp3x13
+ahp3x14
+ahp3x15
+ahp3x16
+ahp3x17
+ahp3x18
+ahp3x19
+ahp3x20
+ahp3x21
+ahp3x22
+ahp3x23
+ahp3x24
+ahp3x25
+ahp3x26
+ahp3x27
+ahp3x28
+ahp3x29
+ahp3x30
+ahp3x31
+ahp3x32
+ahp3x33
+ahp3x34
+ahp3x35
+ahp3x36
+ahp3x37
+ahp3x38
+ahp3x39
+ahp4x01
+ahp4x02
+ahp4x03
+ahp4x04
+ahp4x05
+ahp4x06
+ahp4x07
+ahp4x08
+ahp4x09
+ahp4x10
+ahp4x11
+ahp4x12
+ahp4x13
+ahp4x14
+ahp4x15
+ahp4x16
+ahp4x17
+ahp4x18
+ahp4x19
+ahp4x20
+ahp4x21
+ahp4x22
+ahp4x23
+ahp4x24
+ahp4x25
+ahp4x26
+ahp4x27
+ahp4x28
+ahp4x29
+ahp4x30
+ahp4x31
+ahp4x32
+ahp4x33
+ahp4x34
+ahp4x35
+ahp4x36
+ahp5x01
+ahp5x02
+ahp5x03
+ahp5x04
+ahp5x05
+ahp5x06
+ahp5x07
+ahp5x08
+ahp5x09
+ahp5x10
+ahp5x11
+ahp5x12
+ahp5x13
+ahp5x14
+ahp5x15
+ahp5x16
+ahp5x17
+ahp5x18
+ahp5x19
+ahp5x20
+ahp5x21
+ahp5x22
+ahp5x23
+ahp5x24
+ahp5x25
+ahp5x26
+ahp5x27
+ahp5x28
+ahp5x29
+ahp5x30
+ahp5x31
+ahp5x32
+ahp5x33
+ahp5x34
+ahp5x35
+ahp5x36
+ahp5x37
+ahp5x38
+ahp6x01
+ahp6x02
+ahp6x03
+ahp6x04
+ahp6x05
+ahp6x06
+ahp6x07
+ahp6x08
+ahp6x09
+ahp6x10
+ahp6x11
+ahp6x12
+ahp6x13
+ahp6x14
+ahp6x15
+ahp6x16
+ahp6x17
+ahp6x18
+ahp6x19
+ahp6x20
+ahp6x21
+ahp6x22
+ahp6x23
+ahp6x24
+ahp6x25
+ahp6x26
+ahp6x27
+ahp6x28
+ahp6x29
+ahp6x30
+ahp6x31
+ahp6x32
+ahp6x33
+ahp6x34
+ahp6x35
+ahp6x36
+ahp6x37
+ahp6x38
+ahp7x01
+ahp7x02
+ahp7x03
+ahp7x04
+ahp7x05
+ahp7x06
+ahp7x07
+ahp7x08
+ahp7x09
+ahp7x10
+ahp7x11
+ahp7x12
+ahp7x13
+ahp7x14
+ahp7x15
+ahp7x16
+ahp7x17
+ahp7x18
+ahp7x19
+ahp7x20
+ahp7x21
+ahp7x22
+ahp7x23
+ahp7x24
+ahp7x25
+ahp7x26
+ahp7x27
+ahp7x28
+ahp7x29
+ahp7x30
+ahp7x31
+ahp7x32
+ahp7x33
+ahp7x34
+ahp7x35
+ahp7x36
+ahp7x37
+ahp7x38
+ahp7x39
 
 

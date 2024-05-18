@@ -1,29 +1,55 @@
-Collection: Resident Evil Film Series
-=====================================
+Collection: Alien
+=================
 
 :: Title
-Resident Evil Film Series
+Alien
 
 :: Date
-2002-2016
+1979-2017
 
 :: Description
-Resident Evil is a science fiction action-horror film series based on the
-Japanese video game franchise of the same name by Capcom.
+The six feature films to date in the Alien franchise.
 
 :: References
-https://en.wikipedia.org/wiki/Resident_Evil_(film_series)
+https://en.wikipedia.org/wiki/Alien_(franchise)#Films
 
 :: Collections
-Collection: Resident Evil Film Series
+Collection: Alien
 
 :: Component Stories
-movie: Resident Evil (2002)
-movie: Resident Evil: Apocalypse (2004)
-movie: Resident Evil: Extinction (2007)
-movie: Resident Evil: Afterlife (2010)
-movie: Resident Evil: Retribution (2012)
-movie: Resident Evil: The Final Chapter (2016)
+movie: Alien (1979)
+movie: Aliens (1986)
+movie: Alien 3 (1992)
+movie: Alien Resurrection (1997)
+movie: Prometheus (2012)
+movie: Alien: Covenant (2017)
+
+
+Collection: Alien Nation Films
+==============================
+
+:: Title
+Alien Nation Films
+
+:: Date
+1988-1997
+
+:: Description
+The six television films in the Alien Nation media franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Alien_Nation
+
+:: Collections
+Collection: Alien Nation Films
+
+:: Component Stories
+movie: Alien Nation (1988)
+movie: Alien Nation: Dark Horizon (1994)
+movie: Alien Nation: Body and Soul (1995)
+movie: Alien Nation: Millennium (1996)
+movie: Alien Nation: The Enemy Within (1996)
+movie: Alien Nation: The Udara Legacy (1997)
 
 
 Collection: Appleseed Film Series
@@ -52,6 +78,135 @@ Collection: Appleseed Film Series
 movie: Appleseed (2004)
 movie: Appleseed Ex Machina (2007)
 movie: Appleseed Alpha (2014)
+
+
+Collection: Babylon 5 Films
+===========================
+
+:: Title
+Babylon 5 Films
+
+:: Date
+1993-2002
+
+:: Description
+The six television films in the Babylon 5 media franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Babylon_5_(franchise)#Television_movies
+
+:: Collections
+Collection: Babylon 5 Films
+
+:: Component Stories
+movie: Babylon 5: The Gathering (1993)
+movie: Babylon 5: In The Beginning (1998)
+movie: Babylon 5: Thirdspace (1998)
+movie: Babylon 5: The River Of Souls (1998)
+movie: Babylon 5: A Call to Arms (1999)
+movie: Babylon 5: The Legend Of The Rangers (2002)
+
+
+Collection: Back to the Future
+==============================
+
+:: Title
+Back to the Future
+
+:: Date
+1985-1990
+
+:: Description
+The three feature films in the Back to the Future series
+
+:: References
+https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)
+
+:: Collections
+Collection: Back to the Future
+
+:: Component Stories
+movie: Back to the Future (1985)
+movie: Back to the Future Part II (1989)
+movie: Back to the Future Part III (1990)
+
+
+Collection: Bill and Ted Films
+==============================
+
+:: Title
+Bill and Ted Films
+
+:: Date
+1989-2020
+
+:: Description
+The three films in the Bill & Ted film series.
+
+:: References
+https://en.wikipedia.org/wiki/Bill_%26_Ted#Films
+
+:: Collections
+Collection: Bill and Ted Films
+
+:: Component Stories
+movie: Bill and Teds Excellent Adventure (1989)
+movie: Bill and Teds Bogus Journey (1991)
+movie: Bill and Ted Face the Music (2020)
+
+
+Collection: Carnosaur
+=====================
+
+:: Title
+Carnosaur
+
+:: Date
+1993-1996
+
+:: Description
+The Carnosaur film series consists of B-movies produced by Roger Corman that
+feature genetically engineered dinosaurs running amok in various scenarios.
+
+:: References
+https://en.wikipedia.org/wiki/Carnosaur_(film_series)
+
+:: Collections
+Collection: Carnosaur
+
+:: Component Stories
+movie: Carnosaur (1993)
+movie: Carnosaur 2 (1995)
+movie: Carnosaur 3: Primal Species (1996)
+
+
+Collection: Critters
+====================
+
+:: Title
+Critters
+
+:: Date
+1986-2019
+
+:: Description
+The five films to date in Critters series which is about a group of malevolent
+carnivorous aliens from outer space, called Krites, that have the power to
+roll into balls (cf. hedgehogs) and to combine into a sphere that can roll
+across a landscape and cause mayhem.
+
+:: References
+https://en.wikipedia.org/wiki/Critters_(franchise)
+
+:: Collections
+Collection: Critters
+
+:: Component Stories
+movie: Critters (1986)
+movie: Critters 2: The Main Course (1988)
+movie: Critters 3 (1991)
+movie: Critters 4 (1992)
+movie: Critters Attack (2019)
 
 
 Collection: Cube Film Series
@@ -96,82 +251,28 @@ movie: Cube 2: Hypercube (2002)
 movie: Cube Zero (2004)
 
 
-Collection: Mimic Film Series
-=============================
+Collection: Cyborg
+==================
 
 :: Title
-Mimic Film Series
+Cyborg
 
 :: Date
-1997-2003
+1989-1995
 
 :: Description
-Mimic is a science fiction action horror film series created in 1997.
+Albert Pyun's Cyborg Trilogy.
 
 :: References
-https://en.wikipedia.org/wiki/Mimic_(film)
-https://en.wikipedia.org/wiki/Mimic_2
-https://en.wikipedia.org/wiki/Mimic_3:_Sentinel
+https://en.wikipedia.org/wiki/Cyborg_(film)
 
 :: Collections
-Collection: Mimic Film Series
+Collection: Cyborg
 
 :: Component Stories
-movie: Mimic (1997)
-movie: Mimic 2 (2001)
-movie: Mimic 3: Sentinel (2003)
-
-
-Collection: The Chronicles of Riddick Film Series
-=================================================
-
-:: Title
-The Chronicles of Riddick Film Series
-
-:: Date
-2010-2020
-
-:: Description
-The Chronicles of Riddick, is a science fiction action space Western film
-franchise created in 2000 by brothers Ken and Jim Wheat and later continued by
-writer-director David Twohy, spanning three live-action feature films.
-
-:: References
-https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick_(franchise)
-
-:: Collections
-Collection: The Chronicles of Riddick Film Series
-
-:: Component Stories
-movie: Pitch Black (2000)
-movie: The Chronicles of Riddick (2004)
-movie: Riddick (2013)
-
-
-Collection: Skyline Films
-=========================
-
-:: Title
-Skyline Films
-
-:: Date
-2010-2020
-
-:: Description
-The films in the Skyline film franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Skyline_(2010_film)
-https://en.wikipedia.org/wiki/Beyond_Skyline
-https://en.wikipedia.org/wiki/Skylines_(film)
-
-:: Collections
-Collection: Skyline Films
-
-:: Component Stories
-movie: Skyline (2010)
-movie: Beyond Skyline (2017)
-movie: Skylines (2020)
+movie: Cyborg (1989)
+movie: Cyborg 2 (1993)
+movie: Cyborg 3: The Recycler (1994)
 
 
 Collection: Deep Blue Sea
@@ -198,484 +299,61 @@ movie: Deep Blue Sea 2 (2018)
 movie: Deep Blue Sea 3 (2020)
 
 
-Collection: Starship Troopers
-=============================
-
-:: Title
-Starship Troopers
-
-:: Date
-1997-2017
-
-:: Description
-The five films in the Starship Troopers film series.
-
-:: References
-https://en.wikipedia.org/wiki/Starship_Troopers_(franchise)
-
-:: Collections
-Collection: Starship Troopers
-
-:: Component Stories
-movie: Starship Troopers (1997)
-movie: Starship Troopers 2: Hero of the Federation (2004)
-movie: Starship Troopers 3: Marauder (2008)
-movie: Starship Troopers: Invasion (2012)
-movie: Starship Troopers: Traitor of Mars (2017)
-
-
-Collection: Species
-===================
-
-:: Title
-Species
-
-:: Date
-1995-2007
-
-:: Description
-The four films in the Species film series.
-
-:: References
-https://en.wikipedia.org/wiki/Species_(film_series)
-
-:: Collections
-Collection: Species
-
-:: Component Stories
-movie: Species (1995)
-movie: Species II (1998)
-movie: Species III (2004)
-movie: Species: The Awakening (2007)
-
-
-Collection: Xtro
-================
-
-:: Title
-Xtro
-
-:: Date
-1982-1995
-
-:: Description
-The three films in the low-budget British science fiction/horror Xtro series.
-
-:: References
-https://en.wikipedia.org/wiki/Xtro
-
-:: Collections
-Collection: Xtro
-
-:: Component Stories
-movie: Xtro (1982)
-movie: Xtro II: The Second Encounter (1991)
-movie: Xtro 3: Watch the Skies (1995)
-
-
-Collection: Universal Soldier
-=============================
-
-:: Title
-Universal Soldier
-
-:: Date
-1992-2012
-
-:: Description
-The six films in the Universal Soldier film series.
-
-:: References
-https://en.wikipedia.org/wiki/Universal_Soldier_(film_series)
-
-:: Collections
-Collection: Universal Soldier
-
-:: Component Stories
-movie: Universal Soldier (1992)
-movie: Universal Soldier II: Brothers in Arms (1998)
-movie: Universal Soldier III: Unfinished Business (1998)
-movie: Universal Soldier: The Return (1999)
-movie: Universal Soldier: Regeneration (2009)
-movie: Universal Soldier: Day of Reckoning (2012)
-
-
-Collection: Nemesis
-===================
-
-:: Title
-Nemesis
-
-:: Date
-1992-2017
-
-:: Description
-The five low-budget films in the Nemesis film series.
-
-:: References
-https://en.wikipedia.org/wiki/Category:Nemesis_(film_series)
-
-:: Collections
-Collection: Nemesis
-
-:: Component Stories
-movie: Nemesis (1992)
-movie: Nemesis 2: Nebula (1995)
-movie: Nemesis 3: Prey Harder (1996)
-movie: Nemesis 4: Death Angel (1996)
-movie: Nemesis 5: The New Model (2017)
-
-
-Collection: Carnosaur
-=====================
-
-:: Title
-Carnosaur
-
-:: Date
-1993-1996
-
-:: Description
-The Carnosaur film series consists of B-movies produced by Roger Corman that
-feature genetically engineered dinosaurs running amok in various scenarios.
-
-:: References
-https://en.wikipedia.org/wiki/Carnosaur_(film_series)
-
-:: Collections
-Collection: Carnosaur
-
-:: Component Stories
-movie: Carnosaur (1993)
-movie: Carnosaur 2 (1995)
-movie: Carnosaur 3: Primal Species (1996)
-
-
-Collection: The Twilight Zone Films
-===================================
-
-:: Title
-The Twilight Zone Films
-
-:: Date
-1983-1994
-
-:: Description
-Stories from the two Twilight Zone films: Twilight Zone: The Movie (1984) and
-Twilight Zone: Rod Serling's Lost Classics (1994).
-
-:: References
-https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
-https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
-
-:: Collections
-Collection: The Twilight Zone Films
-
-:: Component Stories
-tz1983a
-tz1983b
-tz1983c
-tz1983d
-tz1994a
-tz1994b
-
-
-Collection: Bill and Ted Films
-==============================
-
-:: Title
-Bill and Ted Films
-
-:: Date
-1989-2020
-
-:: Description
-The three films in the Bill & Ted film series.
-
-:: References
-https://en.wikipedia.org/wiki/Bill_%26_Ted#Films
-
-:: Collections
-Collection: Bill and Ted Films
-
-:: Component Stories
-movie: Bill and Teds Excellent Adventure (1989)
-movie: Bill and Teds Bogus Journey (1991)
-movie: Bill and Ted Face the Music (2020)
-
-
-Collection: Watchers
-====================
-
-:: Title
-Watchers
-
-:: Date
-1988-1998
-
-:: Description
-The four films in the Watchers film series.
-
-:: References
-https://en.wikipedia.org/wiki/Watchers_(film)
-
-:: Collections
-Collection: Watchers
-
-:: Component Stories
-movie: Watchers (1988)
-movie: Watchers II (1990)
-movie: Watchers III (1994)
-movie: Watchers IV (1998)
-
-
-Collection: ReAnimator Films
-============================
-
-:: Title
-Re-Animator Films
-
-:: Date
-1985-2003
-
-:: Description
-The three films in the Re-Animator film series.
-
-:: References
-https://en.wikipedia.org/wiki/Re-Animator_(film_series)
-
-:: Collections
-Collection: ReAnimator Films
-
-:: Component Stories
-movie: ReAnimator (1985)
-movie: Bride of ReAnimator (1990)
-movie: Beyond ReAnimator (2003)
-
-
-Collection: TekWar Films
-========================
-
-:: Title
-TekWar Films
-
-:: Date
-1994
-
-:: Description
-The four television films in the TekWar media franchise.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_TekWar_episodes#Season_1_.281994.29
-
-:: Collections
-Collection: TekWar Films
-
-:: Component Stories
-movie: TekWar: The Movie (1994)
-movie: TekWar: TekLords (1994)
-movie: TekWar: TekLab (1994)
-movie: TekWar: TekJustice (1994)
-
-
-Collection: Babylon 5 Films
-===========================
-
-:: Title
-Babylon 5 Films
-
-:: Date
-1993-2002
-
-:: Description
-The six television films in the Babylon 5 media franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Babylon_5_(franchise)#Television_movies
-
-:: Collections
-Collection: Babylon 5 Films
-
-:: Component Stories
-movie: Babylon 5: The Gathering (1993)
-movie: Babylon 5: In The Beginning (1998)
-movie: Babylon 5: Thirdspace (1998)
-movie: Babylon 5: The River Of Souls (1998)
-movie: Babylon 5: A Call to Arms (1999)
-movie: Babylon 5: The Legend Of The Rangers (2002)
-
-
-Collection: Alien Nation Films
-==============================
-
-:: Title
-Alien Nation Films
-
-:: Date
-1988-1997
-
-:: Description
-The six television films in the Alien Nation media franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Alien_Nation
-
-:: Collections
-Collection: Alien Nation Films
-
-:: Component Stories
-movie: Alien Nation (1988)
-movie: Alien Nation: Dark Horizon (1994)
-movie: Alien Nation: Body and Soul (1995)
-movie: Alien Nation: Millennium (1996)
-movie: Alien Nation: The Enemy Within (1996)
-movie: Alien Nation: The Udara Legacy (1997)
-
-
-Collection: Cyborg
+Collection: Gamera
 ==================
 
 :: Title
-Cyborg
+Gamera
 
 :: Date
-1989-1995
+1965-2006
 
 :: Description
-Albert Pyun's Cyborg Trilogy.
+Films featuring the giant turtle-like monster Gamera.
 
 :: References
-https://en.wikipedia.org/wiki/Cyborg_(film)
+https://en.wikipedia.org/wiki/Gamera#Filmography
 
 :: Collections
-Collection: Cyborg
+Collection: Gamera
 
 :: Component Stories
-movie: Cyborg (1989)
-movie: Cyborg 2 (1993)
-movie: Cyborg 3: The Recycler (1994)
+movie: Gamera the Giant Monster (1965)
+movie: Gamera vs Barugon (1966)
+movie: Gamera vs Gyaos (1967)
+movie: Gamera vs Viras (1968)
+movie: Gamera vs Guiron (1969)
+movie: Gamera vs Jiger (1970)
+movie: Gamera vs Zigra (1971)
+movie: Gamera: Super Monster (1980)
+movie: Gamera: Guardian of the Universe (1995)
+movie: Gamera 2: Attack of Legion (1996)
+movie: Gamera 3: Revenge of Iris (1999)
+movie: Gamera the Brave (2006)
 
 
-Collection: Honey I Shrunk the Kids
-===================================
-
-:: Title
-Honey I Shrunk the Kids
-
-:: Date
-1989-1997
-
-:: Description
-The Honey, I Shrunk the Kids film franchise consists of a series of American
-family-science fiction-comedy films, based on a concept created by Stuart
-Gordon and Brian Yuzna, and an original story co-written by Gordon, Yuzna, and
-Ed Naha.
-
-:: References
-https://en.wikipedia.org/wiki/Honey
-_I_Shrunk_the_Kids_(franchise)#Film
-
-:: Collections
-Collection: Honey I Shrunk the Kids
-
-:: Component Stories
-movie: Honey I Shrunk the Kids (1989)
-movie: Honey I Blew Up the Kid (1992)
-movie: Honey We Shrunk Ourselves (1997)
-
-
-Collection: X-men
-=================
-
-:: Title
-X-men
-
-:: Date
-2000-2019
-
-:: Description
-X-Men is an American superhero film series based on the fictional superhero
-team of the same name, who originally appeared in a series of comic books
-created by Stan Lee and Jack Kirby and published by Marvel Comics.
-
-:: References
-https://en.wikipedia.org/wiki/X-Men_(film_series)
-
-:: Collections
-Collection: X-men
-
-:: Component Stories
-movie: X-Men (2000)
-movie: X2 (2003)
-movie: X-Men Last Stand (2006)
-movie: X-Men Origins: Wolverine (2009)
-movie: X-Men: First Class (2011)
-movie: The Wolverine (2013)
-movie: X-Men: Days of Future Past (2014)
-movie: Deadpool (2016)
-movie: X-Men: Apocalypse (2016)
-movie: Logan (2017)
-movie: Deadpool 2 (2018)
-movie: Dark Phoenix (2019)
-
-
-Collection: Transformers
+Collection: Ghostbusters
 ========================
 
 :: Title
-Transformers
+Ghostbusters
 
 :: Date
-1986-2018
+1984-2016
 
 :: Description
-Films based on the Transformers franchise which centers on extraterrestrial
-factions of sentient self-configuring modular robotic lifeforms in an endless
-civil war.
+The three feature films to date in the Ghostbusters franchise.
 
 :: References
-https://en.wikipedia.org/wiki/Transformers_(film_series)#Films
+https://en.wikipedia.org/wiki/Ghostbusters_(franchise)#Films
 
 :: Collections
-Collection: Transformers
+Collection: Ghostbusters
 
 :: Component Stories
-movie: The Transformers: The Movie (1986)
-movie: Transformers (2007)
-movie: Transformers: Revenge of the Fallen (2009)
-movie: Transformers: Dark of the Moon (2011)
-movie: Transformers: Age of Extinction (2014)
-movie: Transformers: The Last Knight (2017)
-movie: Bumblebee (2018)
-
-
-Collection: Critters
-====================
-
-:: Title
-Critters
-
-:: Date
-1986-2019
-
-:: Description
-The five films to date in Critters series which is about a group of malevolent
-carnivorous aliens from outer space, called Krites, that have the power to
-roll into balls (cf. hedgehogs) and to combine into a sphere that can roll
-across a landscape and cause mayhem.
-
-:: References
-https://en.wikipedia.org/wiki/Critters_(franchise)
-
-:: Collections
-Collection: Critters
-
-:: Component Stories
-movie: Critters (1986)
-movie: Critters 2: The Main Course (1988)
-movie: Critters 3 (1991)
-movie: Critters 4 (1992)
-movie: Critters Attack (2019)
+movie: Ghostbusters (1984)
+movie: Ghostbusters II (1989)
+movie: Ghostbusters (2016)
 
 
 Collection: Giant monster films
@@ -773,37 +451,6 @@ movie: Godzilla: City on the Edge of Battle (2018)
 movie: Godzilla: The Planet Eater (2018)
 
 
-Collection: Superman
-====================
-
-:: Title
-Superman
-
-:: Date
-1951-2017
-
-:: Description
-The nine feature films in the Superman series.
-
-:: References
-https://en.wikipedia.org/wiki/Superman_in_film
-
-:: Collections
-Collection: Superman
-
-:: Component Stories
-movie: Superman and the Mole-Men (1951)
-movie: Superman (1978)
-movie: Superman II (1980)
-movie: Superman III (1983)
-movie: Supergirl (1984)
-movie: Superman IV: The Quest for Peace (1987)
-movie: Superman Returns (2006)
-movie: Man of Steel (2013)
-movie: Batman v Superman: Dawn of Justice (2016)
-movie: Justice League (2017)
-
-
 Collection: Godzilla
 ====================
 
@@ -859,162 +506,263 @@ movie: Godzilla: City on the Edge of Battle (2018)
 movie: Godzilla: The Planet Eater (2018)
 
 
-Collection: Quatermass
-======================
+Collection: Honey I Shrunk the Kids
+===================================
 
 :: Title
-Quatermass
+Honey I Shrunk the Kids
 
 :: Date
-1955-1967
+1989-1997
 
 :: Description
-Three adventures of Professor Bernard Quatermass in film.
+The Honey, I Shrunk the Kids film franchise consists of a series of American
+family-science fiction-comedy films, based on a concept created by Stuart
+Gordon and Brian Yuzna, and an original story co-written by Gordon, Yuzna, and
+Ed Naha.
+
+:: References
+https://en.wikipedia.org/wiki/Honey
+_I_Shrunk_the_Kids_(franchise)#Film
+
+:: Collections
+Collection: Honey I Shrunk the Kids
+
+:: Component Stories
+movie: Honey I Shrunk the Kids (1989)
+movie: Honey I Blew Up the Kid (1992)
+movie: Honey We Shrunk Ourselves (1997)
+
+
+Collection: Jurassic Park
+=========================
+
+:: Title
+Jurassic Park
+
+:: Date
+1993-2018
+
+:: Description
+The five feature films to date in the Jurassic Park franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Jurassic_Park#Film_series
+
+:: Collections
+Collection: Jurassic Park
+
+:: Component Stories
+movie: Jurassic Park (1993)
+movie: The Lost World: Jurassic Park (1997)
+movie: Jurassic Park III (2001)
+movie: Jurassic World (2015)
+movie: Jurassic World: Fallen Kingdom (2018)
+
+
+Collection: Mad Max
+===================
+
+:: Title
+Max Max
+
+:: Date
+1979-2015
+
+:: Description
+The four films in the Australian dystopian action film series Mad Max, created
+by George Miller and Byron Kennedy.
 
 :: References
 https://en.wikipedia.org/wiki/Mad_Max_(franchise)
 
 :: Collections
-Collection: Quatermass
+Collection: Mad Max
 
 :: Component Stories
-movie: The Quatermass Xperiment (1955)
-movie: Quatermass 2 (1957)
-movie: Quatermass and the Pit (1967)
+movie: Mad Max (1979)
+movie: Mad Max 2 (1981)
+movie: Mad Max Beyond Thunderdome (1985)
+movie: Mad Max: Fury Road (2015)
 
 
-Collection: The Blob
-====================
+Collection: Man from Atlantis
+=============================
 
 :: Title
-The Blob
+Man from Atlantis
 
 :: Date
-1958-1988
+1977
 
 :: Description
-The three films in The Blob film series.
+The four television films that preceded the Man from Atlantis American science
+fiction television series that ran for 13 episodes on the NBC network during
+the 1977–78 season
 
 :: References
-https://en.wikipedia.org/wiki/The_Blob
+https://en.wikipedia.org/wiki/Man_from_Atlantis
 
 :: Collections
-Collection: The Blob
+Collection: Man from Atlantis
 
 :: Component Stories
-movie: The Blob (1958)
-movie: Beware The Blob (1972)
-movie: The Blob (1988)
+movie: Man from Atlantis (1977)
+movie: Man from Atlantis II: The Death Scouts (1977)
+movie: Man from Atlantis III: Killer Spores (1977)
+movie: Man from Atlantis IV: The Disappearances (1977)
 
 
-Collection: The Fly
+Collection: Marvel Cinematic Universe
+=====================================
+
+:: Title
+Marvel Cinematic Universe
+
+:: Date
+2008-2019
+
+:: Description
+Films from the Marvel Cinematic Universe which is an American media franchise
+and shared universe centered on a series of superhero films, independently
+produced by Marvel Studios and based on characters that appear in American
+comic books published by Marvel Comics.
+
+:: References
+https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+
+:: Collections
+Collection: Marvel Cinematic Universe
+
+:: Component Stories
+movie: Iron Man (2008)
+movie: The Incredible Hulk (2008)
+movie: Iron Man 2 (2010)
+movie: Thor (2011)
+movie: Captain America: The First Avenger (2011)
+movie: The Avengers (2012)
+movie: Iron Man 3 (2013)
+movie: Thor: The Dark World (2013)
+movie: Captain America: The Winter Soldier (2014)
+movie: Guardians of the Galaxy (2014)
+movie: Avengers: Age of Ultron (2015)
+movie: Captain America: Civil War (2016)
+movie: Doctor Strange (2016)
+movie: Guardians of the Galaxy Vol 2 (2017)
+movie: SpiderMan: Homecoming (2017)
+movie: Thor: Ragnarok (2017)
+movie: Black Panther (2018)
+movie: Avengers: Infinity War (2018)
+movie: AntMan and the Wasp (2018)
+movie: Captain Marvel (2019)
+movie: Avengers: Endgame (2019)
+movie: SpiderMan: Far From Home (2019)
+movie: SpiderMan: No Way Home (2021)
+
+
+Collection: Men in Black
+========================
+
+:: Title
+Men in Black
+
+:: Date
+1997-2019
+
+:: Description
+The four films in the American science fiction action comedy film series based
+the on Malibu / Marvel comic book series The Men in Black by Lowell
+Cunningham.
+
+:: References
+https://en.wikipedia.org/wiki/Men_in_Black_(film_series)
+
+:: Collections
+Collection: Men in Black
+
+:: Component Stories
+movie: Men in Black (1997)
+movie: Men in Black II (2002)
+movie: Men in Black 3 (2012)
+movie: Men in Black: International (2019)
+
+
+Collection: Mimic Film Series
+=============================
+
+:: Title
+Mimic Film Series
+
+:: Date
+1997-2003
+
+:: Description
+Mimic is a science fiction action horror film series created in 1997.
+
+:: References
+https://en.wikipedia.org/wiki/Mimic_(film)
+https://en.wikipedia.org/wiki/Mimic_2
+https://en.wikipedia.org/wiki/Mimic_3:_Sentinel
+
+:: Collections
+Collection: Mimic Film Series
+
+:: Component Stories
+movie: Mimic (1997)
+movie: Mimic 2 (2001)
+movie: Mimic 3: Sentinel (2003)
+
+
+Collection: Nemesis
 ===================
 
 :: Title
-The Fly
+Nemesis
 
 :: Date
-1958-1989
+1992-2017
 
 :: Description
-The five films in the The Fly series.
+The five low-budget films in the Nemesis film series.
 
 :: References
-https://www.imdb.com/list/ls071470502/
+https://en.wikipedia.org/wiki/Category:Nemesis_(film_series)
 
 :: Collections
-Collection: The Fly
+Collection: Nemesis
 
 :: Component Stories
-movie: The Fly (1958)
-movie: Return of the Fly (1959)
-movie: Curse of the Fly (1965)
-movie: The Fly (1986)
-movie: The Fly II (1989)
+movie: Nemesis (1992)
+movie: Nemesis 2: Nebula (1995)
+movie: Nemesis 3: Prey Harder (1996)
+movie: Nemesis 4: Death Angel (1996)
+movie: Nemesis 5: The New Model (2017)
 
 
-Collection: The Nutty Professor
-===============================
+Collection: Not Quite Human
+===========================
 
 :: Title
-The Nutty Professor
+Not Quite Human
 
 :: Date
-1963-2008
+1987-1992
 
 :: Description
-The four films to date in the The Nutty Professor series.
+The three made for television films based on the eponymous series of young
+adult novels by Seth McEvoy about a scientist and his android creation which
+resembles a teenager.
 
 :: References
-https://www.imdb.com/list/ls002112609/
+https://en.wikipedia.org/wiki/Not_Quite_Human
 
 :: Collections
-Collection: The Nutty Professor
+Collection: Not Quite Human
 
 :: Component Stories
-movie: The Nutty Professor (1963)
-movie: The Nutty Professor (1996)
-movie: Nutty Professor II: The Klumps (2000)
-movie: The Nutty Professor (2008)
-
-
-Collection: Super Giant
-=======================
-
-:: Title
-Super Giant
-
-:: Date
-1964
-
-:: Description
-The four films in American adaptation of the Japanese Super Giant serial film
-series.
-
-:: References
-https://en.wikipedia.org/wiki/Super_Giant
-
-:: Collections
-Collection: Super Giant
-
-:: Component Stories
-movie: Atomic Rulers (1964)
-movie: Invaders from Space (1964)
-movie: Attack from Space (1964)
-movie: Evil Brain from Outer Space (1964)
-
-
-Collection: Gamera
-==================
-
-:: Title
-Gamera
-
-:: Date
-1965-2006
-
-:: Description
-Films featuring the giant turtle-like monster Gamera.
-
-:: References
-https://en.wikipedia.org/wiki/Gamera#Filmography
-
-:: Collections
-Collection: Gamera
-
-:: Component Stories
-movie: Gamera the Giant Monster (1965)
-movie: Gamera vs Barugon (1966)
-movie: Gamera vs Gyaos (1967)
-movie: Gamera vs Viras (1968)
-movie: Gamera vs Guiron (1969)
-movie: Gamera vs Jiger (1970)
-movie: Gamera vs Zigra (1971)
-movie: Gamera: Super Monster (1980)
-movie: Gamera: Guardian of the Universe (1995)
-movie: Gamera 2: Attack of Legion (1996)
-movie: Gamera 3: Revenge of Iris (1999)
-movie: Gamera the Brave (2006)
+movie: Not Quite Human (1987)
+movie: Not Quite Human II (1989)
+movie: Still Not Quite Human (1992)
 
 
 Collection: Planet of the Apes
@@ -1046,6 +794,602 @@ movie: Planet of the Apes (2001)
 movie: Rise of the Planet of the Apes (2011)
 movie: Dawn of the Planet of the Apes (2014)
 movie: War for the Planet of the Apes (2017)
+
+
+Collection: Predator
+====================
+
+:: Title
+Predator
+
+:: Date
+1987-2018
+
+:: Description
+The four feature films to date in the original Predator franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
+
+:: Collections
+Collection: Predator
+
+:: Component Stories
+movie: Predator (1987)
+movie: Predator 2 (1990)
+movie: Predators (2010)
+movie: The Predator (2018)
+
+
+Collection: Quatermass
+======================
+
+:: Title
+Quatermass
+
+:: Date
+1955-1967
+
+:: Description
+Three adventures of Professor Bernard Quatermass in film.
+
+:: References
+https://en.wikipedia.org/wiki/Mad_Max_(franchise)
+
+:: Collections
+Collection: Quatermass
+
+:: Component Stories
+movie: The Quatermass Xperiment (1955)
+movie: Quatermass 2 (1957)
+movie: Quatermass and the Pit (1967)
+
+
+Collection: ReAnimator Films
+============================
+
+:: Title
+Re-Animator Films
+
+:: Date
+1985-2003
+
+:: Description
+The three films in the Re-Animator film series.
+
+:: References
+https://en.wikipedia.org/wiki/Re-Animator_(film_series)
+
+:: Collections
+Collection: ReAnimator Films
+
+:: Component Stories
+movie: ReAnimator (1985)
+movie: Bride of ReAnimator (1990)
+movie: Beyond ReAnimator (2003)
+
+
+Collection: Resident Evil Film Series
+=====================================
+
+:: Title
+Resident Evil Film Series
+
+:: Date
+2002-2016
+
+:: Description
+Resident Evil is a science fiction action-horror film series based on the
+Japanese video game franchise of the same name by Capcom.
+
+:: References
+https://en.wikipedia.org/wiki/Resident_Evil_(film_series)
+
+:: Collections
+Collection: Resident Evil Film Series
+
+:: Component Stories
+movie: Resident Evil (2002)
+movie: Resident Evil: Apocalypse (2004)
+movie: Resident Evil: Extinction (2007)
+movie: Resident Evil: Afterlife (2010)
+movie: Resident Evil: Retribution (2012)
+movie: Resident Evil: The Final Chapter (2016)
+Collection: Appleseed Film Series
+Collection: Cube Film Series
+Collection: Mimic Film Series
+Collection: The Chronicles of Riddick Film Series
+Collection: Skyline Films
+Collection: Deep Blue Sea
+Collection: Starship Troopers
+Collection: Species
+Collection: Xtro
+Collection: Universal Soldier
+Collection: Nemesis
+Collection: Carnosaur
+Collection: The Twilight Zone Films
+Collection: Bill and Ted Films
+Collection: Watchers
+Collection: ReAnimator Films
+Collection: TekWar Films
+Collection: Babylon 5 Films
+Collection: Alien Nation Films
+Collection: Cyborg
+Collection: Honey I Shrunk the Kids
+Collection: X-men
+Collection: Transformers
+Collection: Critters
+Collection: Giant monster films
+Collection: Superman
+Collection: Godzilla
+Collection: Quatermass
+Collection: The Blob
+Collection: The Fly
+Collection: The Nutty Professor
+Collection: Super Giant
+Collection: Gamera
+Collection: Planet of the Apes
+Collection: The Six Million Dollar Man
+Collection: The Stepford Wives
+Collection: Man from Atlantis
+Collection: The Incredible Hulk
+Collection: Spider-Man
+Collection: Star Wars
+Collection: Star Trek Films
+Collection: Alien
+Collection: Mad Max
+Collection: Trancers
+Collection: Ghostbusters
+Collection: The Terminator
+Collection: Back to the Future
+Collection: Not Quite Human
+Collection: Robocop
+Collection: Predator
+Collection: Jurassic Park
+Collection: Men in Black
+Collection: The Matrix
+Collection: Marvel Cinematic Universe
+
+
+Collection: Robocop
+===================
+
+:: Title
+Robocop
+
+:: Date
+1987-2014
+
+:: Description
+The four feature films to date in the Robocop franchise.
+
+:: References
+https://en.wikipedia.org/wiki/RoboCop_(franchise)#Films
+
+:: Collections
+Collection: Robocop
+
+:: Component Stories
+movie: RoboCop (1987)
+movie: RoboCop 2 (1990)
+movie: RoboCop 3 (1993)
+movie: RoboCop (2014)
+
+
+Collection: Skyline Films
+=========================
+
+:: Title
+Skyline Films
+
+:: Date
+2010-2020
+
+:: Description
+The films in the Skyline film franchise.
+
+:: References
+https://en.wikipedia.org/wiki/Skyline_(2010_film)
+https://en.wikipedia.org/wiki/Beyond_Skyline
+https://en.wikipedia.org/wiki/Skylines_(film)
+
+:: Collections
+Collection: Skyline Films
+
+:: Component Stories
+movie: Skyline (2010)
+movie: Beyond Skyline (2017)
+movie: Skylines (2020)
+
+
+Collection: Species
+===================
+
+:: Title
+Species
+
+:: Date
+1995-2007
+
+:: Description
+The four films in the Species film series.
+
+:: References
+https://en.wikipedia.org/wiki/Species_(film_series)
+
+:: Collections
+Collection: Species
+
+:: Component Stories
+movie: Species (1995)
+movie: Species II (1998)
+movie: Species III (2004)
+movie: Species: The Awakening (2007)
+
+
+Collection: Spider-Man
+======================
+
+:: Title
+Spider-Man
+
+:: Date
+1977-2019
+
+:: Description
+Films centered on the Marvel Comics character Spider-Man.
+
+:: References
+https://en.wikipedia.org/wiki/Spider-Man_in_film
+
+:: Collections
+Collection: Spider-Man
+
+:: Component Stories
+movie: Spider-Man (1977)
+movie: SpiderMan Strikes Back (1978)
+movie: SpiderMan: The Dragons Challenge (1981)
+movie: SpiderMan (2002)
+movie: SpiderMan 2 (2004)
+movie: SpiderMan 3 (2007)
+movie: The Amazing SpiderMan (2012)
+movie: The Amazing SpiderMan 2 (2014)
+movie: SpiderMan: Homecoming (2017)
+movie: SpiderMan: Into the SpiderVerse (2018)
+movie: SpiderMan: Far From Home (2019)
+movie: SpiderMan: No Way Home (2021)
+
+
+Collection: Star Trek Films
+===========================
+
+:: Title
+Star Trek Films
+
+:: Date
+1979-2016
+
+:: Description
+Star Trek feature films.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_Star_Trek_films_and_television_series#Feature_films
+
+:: Collections
+Collection: Star Trek Films
+
+:: Component Stories
+movie: Star Trek: The Motion Picture (1979)
+movie: Star Trek II: The Wrath of Khan (1982)
+movie: Star Trek III: The Search for Spock (1984)
+movie: Star Trek IV: The Voyage Home (1986)
+movie: Star Trek V: The Final Frontier (1989)
+movie: Star Trek VI: The Undiscovered Country (1991)
+movie: Star Trek Generations (1994)
+movie: Star Trek: First Contact (1996)
+movie: Star Trek: Insurrection (1998)
+movie: Star Trek: Nemesis (2002)
+movie: Star Trek (2009)
+movie: Star Trek Into Darkness (2013)
+movie: Star Trek Beyond (2016)
+
+
+Collection: Star Wars
+=====================
+
+:: Title
+Star Wars
+
+:: Date
+1977-2019
+
+:: Description
+A collection of any and all films set in George Lucas' Star Wars universe.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_Star_Wars_films_and_television_series
+
+:: Collections
+Collection: Star Wars
+
+:: Component Stories
+movie: Star Wars (1977)
+movie: Star Wars Holiday Special (1978)
+movie: The Empire Strikes Back (1980)
+movie: Return of the Jedi (1983)
+movie: Caravan of Courage An Ewok Adventure (1984)
+movie: Ewoks: The Battle for Endor (1985)
+movie: Star Wars: Episode I - The Phantom Menace (1999)
+movie: Star Wars: Episode II - Attack of the Clones (2002)
+movie: Star Wars: Episode III - Revenge of the Sith (2005)
+movie: Star Wars: The Clone Wars (2008)
+movie: Star Wars: The Force Awakens (2015)
+movie: Rogue One: A Star Wars Story (2016)
+movie: Star Wars: The Last Jedi (2017)
+movie: Solo: A Star Wars Story (2018)
+movie: Star Wars: The Rise of Skywalker (2019)
+
+
+Collection: Starship Troopers
+=============================
+
+:: Title
+Starship Troopers
+
+:: Date
+1997-2017
+
+:: Description
+The five films in the Starship Troopers film series.
+
+:: References
+https://en.wikipedia.org/wiki/Starship_Troopers_(franchise)
+
+:: Collections
+Collection: Starship Troopers
+
+:: Component Stories
+movie: Starship Troopers (1997)
+movie: Starship Troopers 2: Hero of the Federation (2004)
+movie: Starship Troopers 3: Marauder (2008)
+movie: Starship Troopers: Invasion (2012)
+movie: Starship Troopers: Traitor of Mars (2017)
+
+
+Collection: Super Giant
+=======================
+
+:: Title
+Super Giant
+
+:: Date
+1964
+
+:: Description
+The four films in American adaptation of the Japanese Super Giant serial film
+series.
+
+:: References
+https://en.wikipedia.org/wiki/Super_Giant
+
+:: Collections
+Collection: Super Giant
+
+:: Component Stories
+movie: Atomic Rulers (1964)
+movie: Invaders from Space (1964)
+movie: Attack from Space (1964)
+movie: Evil Brain from Outer Space (1964)
+
+
+Collection: Superman
+====================
+
+:: Title
+Superman
+
+:: Date
+1951-2017
+
+:: Description
+The nine feature films in the Superman series.
+
+:: References
+https://en.wikipedia.org/wiki/Superman_in_film
+
+:: Collections
+Collection: Superman
+
+:: Component Stories
+movie: Superman and the Mole-Men (1951)
+movie: Superman (1978)
+movie: Superman II (1980)
+movie: Superman III (1983)
+movie: Supergirl (1984)
+movie: Superman IV: The Quest for Peace (1987)
+movie: Superman Returns (2006)
+movie: Man of Steel (2013)
+movie: Batman v Superman: Dawn of Justice (2016)
+movie: Justice League (2017)
+
+
+Collection: TekWar Films
+========================
+
+:: Title
+TekWar Films
+
+:: Date
+1994
+
+:: Description
+The four television films in the TekWar media franchise.
+
+:: References
+https://en.wikipedia.org/wiki/List_of_TekWar_episodes#Season_1_.281994.29
+
+:: Collections
+Collection: TekWar Films
+
+:: Component Stories
+movie: TekWar: The Movie (1994)
+movie: TekWar: TekLords (1994)
+movie: TekWar: TekLab (1994)
+movie: TekWar: TekJustice (1994)
+
+
+Collection: The Blob
+====================
+
+:: Title
+The Blob
+
+:: Date
+1958-1988
+
+:: Description
+The three films in The Blob film series.
+
+:: References
+https://en.wikipedia.org/wiki/The_Blob
+
+:: Collections
+Collection: The Blob
+
+:: Component Stories
+movie: The Blob (1958)
+movie: Beware The Blob (1972)
+movie: The Blob (1988)
+
+
+Collection: The Chronicles of Riddick Film Series
+=================================================
+
+:: Title
+The Chronicles of Riddick Film Series
+
+:: Date
+2010-2020
+
+:: Description
+The Chronicles of Riddick, is a science fiction action space Western film
+franchise created in 2000 by brothers Ken and Jim Wheat and later continued by
+writer-director David Twohy, spanning three live-action feature films.
+
+:: References
+https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick_(franchise)
+
+:: Collections
+Collection: The Chronicles of Riddick Film Series
+
+:: Component Stories
+movie: Pitch Black (2000)
+movie: The Chronicles of Riddick (2004)
+movie: Riddick (2013)
+
+
+Collection: The Fly
+===================
+
+:: Title
+The Fly
+
+:: Date
+1958-1989
+
+:: Description
+The five films in the The Fly series.
+
+:: References
+https://www.imdb.com/list/ls071470502/
+
+:: Collections
+Collection: The Fly
+
+:: Component Stories
+movie: The Fly (1958)
+movie: Return of the Fly (1959)
+movie: Curse of the Fly (1965)
+movie: The Fly (1986)
+movie: The Fly II (1989)
+
+
+Collection: The Incredible Hulk
+===============================
+
+:: Title
+The Incredible Hulk
+
+:: Date
+1977-2008
+
+:: Description
+Films featuring the Marvel Comics character The Hulk as the main character.
+
+:: References
+https://en.wikipedia.org/wiki/Hulk_in_other_media#Live-action
+
+:: Collections
+Collection: The Incredible Hulk
+
+:: Component Stories
+movie: The Incredible Hulk (1977)
+movie: The Incredible Hulk: Death in the Family (1977)
+movie: The Incredible Hulk: Married (1978)
+movie: The Incredible Hulk Returns (1988)
+movie: The Trial of the Incredible Hulk (1989)
+movie: The Death of the Incredible Hulk (1990)
+movie: Hulk (2003)
+movie: The Incredible Hulk (2008)
+
+
+Collection: The Matrix
+======================
+
+:: Title
+The Matrix
+
+:: Date
+1999-2003
+
+:: Description
+The Matrix film trilogy.
+
+:: References
+https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
+
+:: Collections
+Collection: The Matrix
+
+:: Component Stories
+movie: The Matrix (1999)
+movie: The Matrix Reloaded (2003)
+movie: The Matrix Revolutions (2003)
+
+
+Collection: The Nutty Professor
+===============================
+
+:: Title
+The Nutty Professor
+
+:: Date
+1963-2008
+
+:: Description
+The four films to date in the The Nutty Professor series.
+
+:: References
+https://www.imdb.com/list/ls002112609/
+
+:: Collections
+Collection: The Nutty Professor
+
+:: Component Stories
+movie: The Nutty Professor (1963)
+movie: The Nutty Professor (1996)
+movie: Nutty Professor II: The Klumps (2000)
+movie: The Nutty Professor (2008)
 
 
 Collection: The Six Million Dollar Man
@@ -1103,216 +1447,60 @@ movie: The Stepford Husbands (1996)
 movie: The Stepford Wives (2004)
 
 
-Collection: Man from Atlantis
-=============================
+Collection: The Terminator
+==========================
 
 :: Title
-Man from Atlantis
+The Terminator
 
 :: Date
-1977
+1984-2019
 
 :: Description
-The four television films that preceded the Man from Atlantis American science
-fiction television series that ran for 13 episodes on the NBC network during
-the 1977–78 season
+The six feature films to date in The Terminator franchise.
 
 :: References
-https://en.wikipedia.org/wiki/Man_from_Atlantis
+https://en.wikipedia.org/wiki/Terminator_(franchise)#Films
 
 :: Collections
-Collection: Man from Atlantis
+Collection: The Terminator
 
 :: Component Stories
-movie: Man from Atlantis (1977)
-movie: Man from Atlantis II: The Death Scouts (1977)
-movie: Man from Atlantis III: Killer Spores (1977)
-movie: Man from Atlantis IV: The Disappearances (1977)
+movie: The Terminator (1984)
+movie: Terminator 2: Judgment Day (1991)
+movie: Terminator 3: Rise of the Machines (2003)
+movie: Terminator Salvation (2009)
+movie: Terminator Genisys (2015)
+movie: Terminator: Dark Fate (2019)
 
 
-Collection: The Incredible Hulk
-===============================
+Collection: The Twilight Zone Films
+===================================
 
 :: Title
-The Incredible Hulk
+The Twilight Zone Films
 
 :: Date
-1977-2008
+1983-1994
 
 :: Description
-Films featuring the Marvel Comics character The Hulk as the main character.
+Stories from the two Twilight Zone films: Twilight Zone: The Movie (1984) and
+Twilight Zone: Rod Serling's Lost Classics (1994).
 
 :: References
-https://en.wikipedia.org/wiki/Hulk_in_other_media#Live-action
+https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
+https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
 
 :: Collections
-Collection: The Incredible Hulk
+Collection: The Twilight Zone Films
 
 :: Component Stories
-movie: The Incredible Hulk (1977)
-movie: The Incredible Hulk: Death in the Family (1977)
-movie: The Incredible Hulk: Married (1978)
-movie: The Incredible Hulk Returns (1988)
-movie: The Trial of the Incredible Hulk (1989)
-movie: The Death of the Incredible Hulk (1990)
-movie: Hulk (2003)
-movie: The Incredible Hulk (2008)
-
-
-Collection: Spider-Man
-======================
-
-:: Title
-Spider-Man
-
-:: Date
-1977-2019
-
-:: Description
-Films centered on the Marvel Comics character Spider-Man.
-
-:: References
-https://en.wikipedia.org/wiki/Spider-Man_in_film
-
-:: Collections
-Collection: Spider-Man
-
-:: Component Stories
-movie: Spider-Man (1977)
-movie: SpiderMan Strikes Back (1978)
-movie: SpiderMan: The Dragons Challenge (1981)
-movie: SpiderMan (2002)
-movie: SpiderMan 2 (2004)
-movie: SpiderMan 3 (2007)
-movie: The Amazing SpiderMan (2012)
-movie: The Amazing SpiderMan 2 (2014)
-movie: SpiderMan: Homecoming (2017)
-movie: SpiderMan: Into the SpiderVerse (2018)
-movie: SpiderMan: Far From Home (2019)
-movie: SpiderMan: No Way Home (2021)
-
-
-Collection: Star Wars
-=====================
-
-:: Title
-Star Wars
-
-:: Date
-1977-2019
-
-:: Description
-A collection of any and all films set in George Lucas' Star Wars universe.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_Star_Wars_films_and_television_series
-
-:: Collections
-Collection: Star Wars
-
-:: Component Stories
-movie: Star Wars (1977)
-movie: Star Wars Holiday Special (1978)
-movie: The Empire Strikes Back (1980)
-movie: Return of the Jedi (1983)
-movie: Caravan of Courage An Ewok Adventure (1984)
-movie: Ewoks: The Battle for Endor (1985)
-movie: Star Wars: Episode I - The Phantom Menace (1999)
-movie: Star Wars: Episode II - Attack of the Clones (2002)
-movie: Star Wars: Episode III - Revenge of the Sith (2005)
-movie: Star Wars: The Clone Wars (2008)
-movie: Star Wars: The Force Awakens (2015)
-movie: Rogue One: A Star Wars Story (2016)
-movie: Star Wars: The Last Jedi (2017)
-movie: Solo: A Star Wars Story (2018)
-movie: Star Wars: The Rise of Skywalker (2019)
-
-
-Collection: Star Trek Films
-===========================
-
-:: Title
-Star Trek Films
-
-:: Date
-1979-2016
-
-:: Description
-Star Trek feature films.
-
-:: References
-https://en.wikipedia.org/wiki/List_of_Star_Trek_films_and_television_series#Feature_films
-
-:: Collections
-Collection: Star Trek Films
-
-:: Component Stories
-movie: Star Trek: The Motion Picture (1979)
-movie: Star Trek II: The Wrath of Khan (1982)
-movie: Star Trek III: The Search for Spock (1984)
-movie: Star Trek IV: The Voyage Home (1986)
-movie: Star Trek V: The Final Frontier (1989)
-movie: Star Trek VI: The Undiscovered Country (1991)
-movie: Star Trek Generations (1994)
-movie: Star Trek: First Contact (1996)
-movie: Star Trek: Insurrection (1998)
-movie: Star Trek: Nemesis (2002)
-movie: Star Trek (2009)
-movie: Star Trek Into Darkness (2013)
-movie: Star Trek Beyond (2016)
-
-
-Collection: Alien
-=================
-
-:: Title
-Alien
-
-:: Date
-1979-2017
-
-:: Description
-The six feature films to date in the Alien franchise.
-
-:: References
-https://en.wikipedia.org/wiki/Alien_(franchise)#Films
-
-:: Collections
-Collection: Alien
-
-:: Component Stories
-movie: Alien (1979)
-movie: Aliens (1986)
-movie: Alien 3 (1992)
-movie: Alien Resurrection (1997)
-movie: Prometheus (2012)
-movie: Alien: Covenant (2017)
-
-
-Collection: Mad Max
-===================
-
-:: Title
-Max Max
-
-:: Date
-1979-2015
-
-:: Description
-The four films in the Australian dystopian action film series Mad Max, created
-by George Miller and Byron Kennedy.
-
-:: References
-https://en.wikipedia.org/wiki/Mad_Max_(franchise)
-
-:: Collections
-Collection: Mad Max
-
-:: Component Stories
-movie: Mad Max (1979)
-movie: Mad Max 2 (1981)
-movie: Mad Max Beyond Thunderdome (1985)
-movie: Mad Max: Fury Road (2015)
+tz1983a
+tz1983b
+tz1983c
+tz1983d
+tz1994a
+tz1994b
 
 
 Collection: Trancers
@@ -1343,278 +1531,144 @@ movie: Trancers 5: Sudden Deth (1994)
 movie: Trancers 6 (2002)
 
 
-Collection: Ghostbusters
+Collection: Transformers
 ========================
 
 :: Title
-Ghostbusters
+Transformers
 
 :: Date
-1984-2016
+1986-2018
 
 :: Description
-The three feature films to date in the Ghostbusters franchise.
+Films based on the Transformers franchise which centers on extraterrestrial
+factions of sentient self-configuring modular robotic lifeforms in an endless
+civil war.
 
 :: References
-https://en.wikipedia.org/wiki/Ghostbusters_(franchise)#Films
+https://en.wikipedia.org/wiki/Transformers_(film_series)#Films
 
 :: Collections
-Collection: Ghostbusters
+Collection: Transformers
 
 :: Component Stories
-movie: Ghostbusters (1984)
-movie: Ghostbusters II (1989)
-movie: Ghostbusters (2016)
+movie: The Transformers: The Movie (1986)
+movie: Transformers (2007)
+movie: Transformers: Revenge of the Fallen (2009)
+movie: Transformers: Dark of the Moon (2011)
+movie: Transformers: Age of Extinction (2014)
+movie: Transformers: The Last Knight (2017)
+movie: Bumblebee (2018)
 
 
-Collection: The Terminator
-==========================
+Collection: Universal Soldier
+=============================
 
 :: Title
-The Terminator
+Universal Soldier
 
 :: Date
-1984-2019
+1992-2012
 
 :: Description
-The six feature films to date in The Terminator franchise.
+The six films in the Universal Soldier film series.
 
 :: References
-https://en.wikipedia.org/wiki/Terminator_(franchise)#Films
+https://en.wikipedia.org/wiki/Universal_Soldier_(film_series)
 
 :: Collections
-Collection: The Terminator
+Collection: Universal Soldier
 
 :: Component Stories
-movie: The Terminator (1984)
-movie: Terminator 2: Judgment Day (1991)
-movie: Terminator 3: Rise of the Machines (2003)
-movie: Terminator Salvation (2009)
-movie: Terminator Genisys (2015)
-movie: Terminator: Dark Fate (2019)
+movie: Universal Soldier (1992)
+movie: Universal Soldier II: Brothers in Arms (1998)
+movie: Universal Soldier III: Unfinished Business (1998)
+movie: Universal Soldier: The Return (1999)
+movie: Universal Soldier: Regeneration (2009)
+movie: Universal Soldier: Day of Reckoning (2012)
 
 
-Collection: Back to the Future
-==============================
-
-:: Title
-Back to the Future
-
-:: Date
-1985-1990
-
-:: Description
-The three feature films in the Back to the Future series
-
-:: References
-https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)
-
-:: Collections
-Collection: Back to the Future
-
-:: Component Stories
-movie: Back to the Future (1985)
-movie: Back to the Future Part II (1989)
-movie: Back to the Future Part III (1990)
-
-
-Collection: Not Quite Human
-===========================
-
-:: Title
-Not Quite Human
-
-:: Date
-1987-1992
-
-:: Description
-The three made for television films based on the eponymous series of young
-adult novels by Seth McEvoy about a scientist and his android creation which
-resembles a teenager.
-
-:: References
-https://en.wikipedia.org/wiki/Not_Quite_Human
-
-:: Collections
-Collection: Not Quite Human
-
-:: Component Stories
-movie: Not Quite Human (1987)
-movie: Not Quite Human II (1989)
-movie: Still Not Quite Human (1992)
-
-
-Collection: Robocop
-===================
-
-:: Title
-Robocop
-
-:: Date
-1987-2014
-
-:: Description
-The four feature films to date in the Robocop franchise.
-
-:: References
-https://en.wikipedia.org/wiki/RoboCop_(franchise)#Films
-
-:: Collections
-Collection: Robocop
-
-:: Component Stories
-movie: RoboCop (1987)
-movie: RoboCop 2 (1990)
-movie: RoboCop 3 (1993)
-movie: RoboCop (2014)
-
-
-Collection: Predator
+Collection: Watchers
 ====================
 
 :: Title
-Predator
+Watchers
 
 :: Date
-1987-2018
+1988-1998
 
 :: Description
-The four feature films to date in the original Predator franchise.
+The four films in the Watchers film series.
 
 :: References
-https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
+https://en.wikipedia.org/wiki/Watchers_(film)
 
 :: Collections
-Collection: Predator
+Collection: Watchers
 
 :: Component Stories
-movie: Predator (1987)
-movie: Predator 2 (1990)
-movie: Predators (2010)
-movie: The Predator (2018)
+movie: Watchers (1988)
+movie: Watchers II (1990)
+movie: Watchers III (1994)
+movie: Watchers IV (1998)
 
 
-Collection: Jurassic Park
-=========================
+Collection: X-men
+=================
 
 :: Title
-Jurassic Park
+X-men
 
 :: Date
-1993-2018
+2000-2019
 
 :: Description
-The five feature films to date in the Jurassic Park franchise.
+X-Men is an American superhero film series based on the fictional superhero
+team of the same name, who originally appeared in a series of comic books
+created by Stan Lee and Jack Kirby and published by Marvel Comics.
 
 :: References
-https://en.wikipedia.org/wiki/Jurassic_Park#Film_series
+https://en.wikipedia.org/wiki/X-Men_(film_series)
 
 :: Collections
-Collection: Jurassic Park
+Collection: X-men
 
 :: Component Stories
-movie: Jurassic Park (1993)
-movie: The Lost World: Jurassic Park (1997)
-movie: Jurassic Park III (2001)
-movie: Jurassic World (2015)
-movie: Jurassic World: Fallen Kingdom (2018)
+movie: X-Men (2000)
+movie: X2 (2003)
+movie: X-Men Last Stand (2006)
+movie: X-Men Origins: Wolverine (2009)
+movie: X-Men: First Class (2011)
+movie: The Wolverine (2013)
+movie: X-Men: Days of Future Past (2014)
+movie: Deadpool (2016)
+movie: X-Men: Apocalypse (2016)
+movie: Logan (2017)
+movie: Deadpool 2 (2018)
+movie: Dark Phoenix (2019)
 
 
-Collection: Men in Black
-========================
+Collection: Xtro
+================
 
 :: Title
-Men in Black
+Xtro
 
 :: Date
-1997-2019
+1982-1995
 
 :: Description
-The four films in the American science fiction action comedy film series based
-the on Malibu / Marvel comic book series The Men in Black by Lowell
-Cunningham.
+The three films in the low-budget British science fiction/horror Xtro series.
 
 :: References
-https://en.wikipedia.org/wiki/Men_in_Black_(film_series)
+https://en.wikipedia.org/wiki/Xtro
 
 :: Collections
-Collection: Men in Black
+Collection: Xtro
 
 :: Component Stories
-movie: Men in Black (1997)
-movie: Men in Black II (2002)
-movie: Men in Black 3 (2012)
-movie: Men in Black: International (2019)
-
-
-Collection: The Matrix
-======================
-
-:: Title
-The Matrix
-
-:: Date
-1999-2003
-
-:: Description
-The Matrix film trilogy.
-
-:: References
-https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
-
-:: Collections
-Collection: The Matrix
-
-:: Component Stories
-movie: The Matrix (1999)
-movie: The Matrix Reloaded (2003)
-movie: The Matrix Revolutions (2003)
-
-
-Collection: Marvel Cinematic Universe
-=====================================
-
-:: Title
-Marvel Cinematic Universe
-
-:: Date
-2008-2019
-
-:: Description
-Films from the Marvel Cinematic Universe which is an American media franchise
-and shared universe centered on a series of superhero films, independently
-produced by Marvel Studios and based on characters that appear in American
-comic books published by Marvel Comics.
-
-:: References
-https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
-
-:: Collections
-Collection: Marvel Cinematic Universe
-
-:: Component Stories
-movie: Iron Man (2008)
-movie: The Incredible Hulk (2008)
-movie: Iron Man 2 (2010)
-movie: Thor (2011)
-movie: Captain America: The First Avenger (2011)
-movie: The Avengers (2012)
-movie: Iron Man 3 (2013)
-movie: Thor: The Dark World (2013)
-movie: Captain America: The Winter Soldier (2014)
-movie: Guardians of the Galaxy (2014)
-movie: Avengers: Age of Ultron (2015)
-movie: Captain America: Civil War (2016)
-movie: Doctor Strange (2016)
-movie: Guardians of the Galaxy Vol 2 (2017)
-movie: SpiderMan: Homecoming (2017)
-movie: Thor: Ragnarok (2017)
-movie: Black Panther (2018)
-movie: Avengers: Infinity War (2018)
-movie: AntMan and the Wasp (2018)
-movie: Captain Marvel (2019)
-movie: Avengers: Endgame (2019)
-movie: SpiderMan: Far From Home (2019)
-movie: SpiderMan: No Way Home (2021)
+movie: Xtro (1982)
+movie: Xtro II: The Second Encounter (1991)
+movie: Xtro 3: Watch the Skies (1995)
 
 

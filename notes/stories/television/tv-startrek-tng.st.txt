@@ -1,42 +1,3 @@
-tvseries: Star Trek: The Next Generation
-========================================
-
-:: Title
-Star Trek: The Next Generation
-
-:: Date
-1987-1994
-
-:: Description
-Star Trek: The Next Generation (abbreviated as TNG and ST:TNG) is an American
-science-fiction television series in the Star Trek franchise created by Gene
-Roddenberry that ran from 1987 to 1994. Roddenberry, Maurice Hurley, Rick
-Berman, Michael Piller, and Jeri Taylor served as executive producers at
-different times throughout its production. The show was very popular, reaching
-almost 12 million viewers in its 5th season, with the series finale in 1994
-being watched by over 30 million viewers. The show spawned two reasonably
-popular spin-offs set in the same sci-fi universe time and place, and four
-movies with the cast of the show. In the early 2000s the show Enterprise,
-although more oriented towards re-booting the series, was in the same
-fictional universe, but set during an earlier time.
-
-The series involves a starship named Enterprise and is set in the nearby
-regions of the Milky Way galaxy, the Alpha Quadrant. The first episode takes
-place in the year 2364, 99 years after the start of the five-year mission
-described in the original series, which began in 2265.
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
-
-:: Collections
-tvseries: Star Trek: The Next Generation
-
-:: Minor Themes
-teleportation device [The Enterprise transporter.]
-speculative spaceship [The starship USS Enterprise.]
-interstellar space travel [The Enterprise is on a mission to explore the galaxy.]
-
-
 tng1x01/02
 ==========
 
@@ -12941,5 +12902,222 @@ full stop <1:14:48> [Enterprise] {space maneuver}
 senior staff meeting <20:50-21:50, 25:45-27:05, 1:05:00-1:05:35> [Picard, Tasha, Worf, Troi; Picard, Troi, Data, Riker, Worf, Geordi, Beverly; Picard, Riker, Data, Geordi]
 ship explosion <1:01:44, 1:02:53, 1:20:36, 1:20:54, 1:21:05> [Klingon warbird, USS Pasteur, Enterprise, Enterprise, Enterprise]
 hypospray <1:03:27> [Beverly to Picard]
+
+
+tvseries: Star Trek: The Next Generation
+========================================
+
+:: Title
+Star Trek: The Next Generation
+
+:: Date
+1987-1994
+
+:: Description
+Star Trek: The Next Generation (abbreviated as TNG and ST:TNG) is an American
+science-fiction television series in the Star Trek franchise created by Gene
+Roddenberry that ran from 1987 to 1994. Roddenberry, Maurice Hurley, Rick
+Berman, Michael Piller, and Jeri Taylor served as executive producers at
+different times throughout its production. The show was very popular, reaching
+almost 12 million viewers in its 5th season, with the series finale in 1994
+being watched by over 30 million viewers. The show spawned two reasonably
+popular spin-offs set in the same sci-fi universe time and place, and four
+movies with the cast of the show. In the early 2000s the show Enterprise,
+although more oriented towards re-booting the series, was in the same
+fictional universe, but set during an earlier time.
+
+The series involves a starship named Enterprise and is set in the nearby
+regions of the Milky Way galaxy, the Alpha Quadrant. The first episode takes
+place in the year 2364, 99 years after the start of the five-year mission
+described in the original series, which began in 2265.
+
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
+
+:: Collections
+tvseries: Star Trek: The Next Generation
+
+:: Component Stories
+tng1x01/02
+tng1x03
+tng1x04
+tng1x05
+tng1x06
+tng1x07
+tng1x08
+tng1x09
+tng1x10
+tng1x11
+tng1x12
+tng1x13
+tng1x14
+tng1x15
+tng1x16
+tng1x17
+tng1x18
+tng1x19
+tng1x20
+tng1x21
+tng1x22
+tng1x23
+tng1x24
+tng1x25
+tng1x26
+tng2x01
+tng2x02
+tng2x03
+tng2x04
+tng2x05
+tng2x06
+tng2x07
+tng2x08
+tng2x09
+tng2x10
+tng2x11
+tng2x12
+tng2x13
+tng2x14
+tng2x15
+tng2x16
+tng2x17
+tng2x18
+tng2x19
+tng2x20
+tng2x21
+tng2x22
+tng3x01
+tng3x02
+tng3x03
+tng3x04
+tng3x05
+tng3x06
+tng3x07
+tng3x08
+tng3x09
+tng3x10
+tng3x11
+tng3x12
+tng3x13
+tng3x14
+tng3x15
+tng3x16
+tng3x17
+tng3x18
+tng3x19
+tng3x20
+tng3x21
+tng3x22
+tng3x23
+tng3x24
+tng3x25
+tng3x26
+tng4x01
+tng4x02
+tng4x03
+tng4x04
+tng4x05
+tng4x06
+tng4x07
+tng4x08
+tng4x09
+tng4x10
+tng4x11
+tng4x12
+tng4x13
+tng4x14
+tng4x15
+tng4x16
+tng4x17
+tng4x18
+tng4x19
+tng4x20
+tng4x21
+tng4x22
+tng4x23
+tng4x24
+tng4x25
+tng4x26
+tng5x01
+tng5x02
+tng5x03
+tng5x04
+tng5x05
+tng5x06
+tng5x07
+tng5x08
+tng5x09
+tng5x10
+tng5x11
+tng5x12
+tng5x13
+tng5x14
+tng5x15
+tng5x16
+tng5x17
+tng5x18
+tng5x19
+tng5x20
+tng5x21
+tng5x22
+tng5x23
+tng5x24
+tng5x25
+tng5x26
+tng6x01
+tng6x02
+tng6x03
+tng6x04
+tng6x05
+tng6x06
+tng6x07
+tng6x08
+tng6x09
+tng6x10
+tng6x11
+tng6x12
+tng6x13
+tng6x14
+tng6x15
+tng6x16
+tng6x17
+tng6x18
+tng6x19
+tng6x20
+tng6x21
+tng6x22
+tng6x23
+tng6x24
+tng6x25
+tng6x26
+tng7x01
+tng7x02
+tng7x03
+tng7x04
+tng7x05
+tng7x06
+tng7x07
+tng7x08
+tng7x09
+tng7x10
+tng7x11
+tng7x12
+tng7x13
+tng7x14
+tng7x15
+tng7x16
+tng7x17
+tng7x18
+tng7x19
+tng7x20
+tng7x21
+tng7x22
+tng7x23
+tng7x24
+tng7x25-26
+
+:: Minor Themes
+teleportation device [The Enterprise transporter.]
+speculative spaceship [The starship USS Enterprise.]
+interstellar space travel [The Enterprise is on a mission to explore the galaxy.]
 
 

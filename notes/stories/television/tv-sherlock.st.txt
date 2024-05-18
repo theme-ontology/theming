@@ -1,23 +1,49 @@
-tvseries: Sherlock
-==================
+sherlock-special-01
+===================
 
 :: Title
-Sherlock
+The Abominable Bride
 
 :: Date
-2010-2017
+2016-01-01
 
 :: Description
-Sherlock is a British crime drama television series based on Sir Arthur Conan
-Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark
-Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as
-Doctor John Watson.
+Sherlock, under the influence of drugs, enters his mind palace to solve a case
+from Victorian times about a bride shooting herself in the head and rising
+from the grave to kill her husband. If he can solve the murder it might lead
+him to how Moriarty has risen from the grave after similarly shooting himself
+in the head. He solves the case, and concludes that Moriarty is indeed dead,
+but "is back".
 
-:: References
-https://en.wikipedia.org/wiki/Sherlock_(TV_series)
+A Victorian-themed episode, the title of which is based on the quote
+("Ricoletti of the club foot and his abominable wife") from "The Adventure of
+the Musgrave Ritual", which refers to a case mentioned by Sherlock Holmes. The
+episode also alludes to "The Five Orange Pips" and mentions "The Adventure of
+the Blue Carbuncle", both from The Adventures of Sherlock Holmes.
 
-:: Collections
-tvseries: Sherlock
+:: Ratings
+3 <paul>
+
+:: Major Themes
+private investigator occupation [We saw Sherlock Holmes and Watson doing what they do best.]
+attitude of superiority [Sherlock Holmes had a massive ego and condescended people, left, right and center.]
+life in Victorian Britain [Much of the story is set in 1985 London.]
+the desire for vengeance [A secret group of women's rights activists go to elaborate lengths to murder men who wronged them.]
+
+:: Minor Themes
+coping with post-traumatic stress [Watson had a flashback to his time in the Second Afghan War.]
+husband and wife [Watson and Mary. Sir Eustace and Lady Carmichael.]
+Christmas traditions [We saw some quaint Victorian Christmas traditions.]
+suicide [Emelia Ricoletti, a.k.a. The Abominable Bride, apparently blew her brains out in public.]
+women's suffrage [Mary was campaigning for the woman's right to vote.]
+feminism [Sherlock and Watson stumble on a secret society of women's rights activists.]
+law enforcement [Inspector Lestrade of Scotland Yard sought out Sherlock to help him on a case about a man who was apparently shot dead by his already deceased wife.]
+master and servant [Victorian Watson treated his maidservant in a curt manner.]
+brother and brother [Sherlock and Mycroft were taking jabs at one another. Mycroft asks Watson to look after Sherlock, hoping Sherlock will not use drugs again.]
+gluttony [A morbidly obese Mycroft was deliberately eating himself to an early grave.]
+drug abuse [Sherlock's illicit drug use had become a source of much concern to his friends and family.]
+sibling rivalry [Sherlock and Mycroft were rivaling over who was the smarter of the two.]
+spouse murder [Emelia Ricoletti apparently returned from the grave to murder her husband Mr. Ricoletti.]
 
 
 sherlock1x01
@@ -365,54 +391,6 @@ Christmas traditions [Sherlock's parents held a Christmas gathering for their fa
 mother and son [Mrs. Holmes was pleased to have her boys home for Christmas.]
 
 
-sherlock-special-01
-===================
-
-:: Title
-The Abominable Bride
-
-:: Date
-2016-01-01
-
-:: Description
-Sherlock, under the influence of drugs, enters his mind palace to solve a case
-from Victorian times about a bride shooting herself in the head and rising
-from the grave to kill her husband. If he can solve the murder it might lead
-him to how Moriarty has risen from the grave after similarly shooting himself
-in the head. He solves the case, and concludes that Moriarty is indeed dead,
-but "is back".
-
-A Victorian-themed episode, the title of which is based on the quote
-("Ricoletti of the club foot and his abominable wife") from "The Adventure of
-the Musgrave Ritual", which refers to a case mentioned by Sherlock Holmes. The
-episode also alludes to "The Five Orange Pips" and mentions "The Adventure of
-the Blue Carbuncle", both from The Adventures of Sherlock Holmes.
-
-:: Ratings
-3 <paul>
-
-:: Major Themes
-private investigator occupation [We saw Sherlock Holmes and Watson doing what they do best.]
-attitude of superiority [Sherlock Holmes had a massive ego and condescended people, left, right and center.]
-life in Victorian Britain [Much of the story is set in 1985 London.]
-the desire for vengeance [A secret group of women's rights activists go to elaborate lengths to murder men who wronged them.]
-
-:: Minor Themes
-coping with post-traumatic stress [Watson had a flashback to his time in the Second Afghan War.]
-husband and wife [Watson and Mary. Sir Eustace and Lady Carmichael.]
-Christmas traditions [We saw some quaint Victorian Christmas traditions.]
-suicide [Emelia Ricoletti, a.k.a. The Abominable Bride, apparently blew her brains out in public.]
-women's suffrage [Mary was campaigning for the woman's right to vote.]
-feminism [Sherlock and Watson stumble on a secret society of women's rights activists.]
-law enforcement [Inspector Lestrade of Scotland Yard sought out Sherlock to help him on a case about a man who was apparently shot dead by his already deceased wife.]
-master and servant [Victorian Watson treated his maidservant in a curt manner.]
-brother and brother [Sherlock and Mycroft were taking jabs at one another. Mycroft asks Watson to look after Sherlock, hoping Sherlock will not use drugs again.]
-gluttony [A morbidly obese Mycroft was deliberately eating himself to an early grave.]
-drug abuse [Sherlock's illicit drug use had become a source of much concern to his friends and family.]
-sibling rivalry [Sherlock and Mycroft were rivaling over who was the smarter of the two.]
-spouse murder [Emelia Ricoletti apparently returned from the grave to murder her husband Mr. Ricoletti.]
-
-
 sherlock4x01
 ============
 
@@ -569,5 +547,42 @@ to tell the truth vs. offering a comforting lie [Mycroft told his parents that h
 :: Not Themes
 attitude of superiority [Unlike in other episodes in the series, here Sherlock checked his attitude and ego.]
 narcissism [Unlike in other episodes in the series, here Sherlock checked his attitude and ego, and even showed some empathy for Watson.]
+
+
+tvseries: Sherlock
+==================
+
+:: Title
+Sherlock
+
+:: Date
+2010-2017
+
+:: Description
+Sherlock is a British crime drama television series based on Sir Arthur Conan
+Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark
+Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as
+Doctor John Watson.
+
+:: References
+https://en.wikipedia.org/wiki/Sherlock_(TV_series)
+
+:: Collections
+tvseries: Sherlock
+
+:: Component Stories
+sherlock1x01
+sherlock1x02
+sherlock1x03
+sherlock2x01
+sherlock2x02
+sherlock2x03
+sherlock3x01
+sherlock3x02
+sherlock3x03
+sherlock-special-01
+sherlock4x01
+sherlock4x02
+sherlock4x03
 
 

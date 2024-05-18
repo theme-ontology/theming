@@ -1,32 +1,3 @@
-tvseries: Red Dwarf
-===================
-
-:: Title
-Red Dwarf
-
-:: Date
-1988-2017
-
-:: Description
-Red Dwarf is a British science fiction comedy franchise created by Rob Grant
-and Doug Naylor which primarily consists of a television sitcom that aired on
-BBC Two between 1988 and 1999, and on Dave since 2009, gaining a cult
-following. The premise of the series follows the low-ranking technician Dave
-Lister, who awakens after being in suspended animation for three million years
-to find he is the last living human, with no crew on board the mining
-spacecraft Red Dwarf other than Arnold Rimmer, a hologram of Lister's deceased
-bunkmate, and Cat, a life form which evolved from Lister's pregnant cat.
-
-:: References
-https://en.wikipedia.org/wiki/Red_Dwarf
-
-:: Collections
-tvseries: Red Dwarf
-
-:: Minor Themes
-speculative spaceship [The story is set aboard the futuristic Jupiter Mining Corporation space vessel Red Dwarf.]
-
-
 rd1988e1x01
 ===========
 
@@ -2428,5 +2399,88 @@ death incarnate [Rimmer kicked the Grim Reaper in the gonads.]
 jealousy [Rimmer was visibly envious of the captain's success and who he falsely presumed was the captain's mistress.]
 female stereotype [Lister and Kryten discussed the stereotypical view of how women behave while menstruating.]
 female attraction to powerful men [The captain's presumed mistress acted stereotypically turned on by captaincy status.]
+
+
+tvseries: Red Dwarf
+===================
+
+:: Title
+Red Dwarf
+
+:: Date
+1988-2017
+
+:: Description
+Red Dwarf is a British science fiction comedy franchise created by Rob Grant
+and Doug Naylor which primarily consists of a television sitcom that aired on
+BBC Two between 1988 and 1999, and on Dave since 2009, gaining a cult
+following. The premise of the series follows the low-ranking technician Dave
+Lister, who awakens after being in suspended animation for three million years
+to find he is the last living human, with no crew on board the mining
+spacecraft Red Dwarf other than Arnold Rimmer, a hologram of Lister's deceased
+bunkmate, and Cat, a life form which evolved from Lister's pregnant cat.
+
+:: References
+https://en.wikipedia.org/wiki/Red_Dwarf
+
+:: Collections
+tvseries: Red Dwarf
+
+:: Component Stories
+rd1988e1x01
+rd1988e1x02
+rd1988e1x03
+rd1988e1x04
+rd1988e1x05
+rd1988e1x06
+rd1988e2x01
+rd1988e2x02
+rd1988e2x03
+rd1988e2x04
+rd1988e2x05
+rd1988e2x06
+rd1988e3x01
+rd1988e3x02
+rd1988e3x03
+rd1988e3x04
+rd1988e3x05
+rd1988e3x06
+rd1988e4x01
+rd1988e4x02
+rd1988e4x03
+rd1988e4x04
+rd1988e4x05
+rd1988e4x06
+rd1988e5x01
+rd1988e5x02
+rd1988e5x03
+rd1988e5x04
+rd1988e5x05
+rd1988e5x06
+rd1988e6x01
+rd1988e6x02
+rd1988e6x03
+rd1988e6x04
+rd1988e6x05
+rd1988e6x06
+rd1988e7x01
+rd1988e7x02
+rd1988e7x03
+rd1988e7x04
+rd1988e7x05
+rd1988e7x06
+rd1988e7x07
+rd1988e7x08
+rd1988e8x01
+rd1988e8x02
+rd1988e8x03
+rd1988e8x04
+rd1988e8x05
+rd1988e8x06
+rd1988e8x07
+rd1988e8x08
+
+:: Minor Themes
+speculative spaceship [The story is set aboard the futuristic Jupiter Mining Corporation space vessel Red Dwarf.]
 
 

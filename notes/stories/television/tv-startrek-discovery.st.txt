@@ -1,30 +1,3 @@
-tvseries: Star Trek: Discovery
-==============================
-
-:: Title
-Star Trek: Discovery
-
-:: Date
-2017-
-
-:: Description
-Star Trek: Discovery is an American television series created for CBS All
-Access by Bryan Fuller and Alex Kurtzman. It is the first series developed
-specifically for that service, and the first Star Trek series since Star Trek:
-Enterprise concluded in 2005. Set roughly a decade before the events of the
-original Star Trek series and separate from the timeline of the concurrently
-produced feature films, Discovery explores the Federation–Klingon war while
-following the crew of the USS Discovery. Gretchen J. Berg and Aaron Harberts
-served as showrunners for the first season, with producing support from Akiva
-Goldsman; Kurtzman began serving as showrunner during the second season.
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_Discovery
-
-:: Collections
-tvseries: Star Trek: Discovery
-
-
 dis1x01
 =======
 
@@ -58,5 +31,35 @@ invisible spaceship [Klingons used cloaking technology on their ships]
 
 :: Other Keywords
 red alert <18:50>
+
+
+tvseries: Star Trek: Discovery
+==============================
+
+:: Title
+Star Trek: Discovery
+
+:: Date
+2017-
+
+:: Description
+Star Trek: Discovery is an American television series created for CBS All
+Access by Bryan Fuller and Alex Kurtzman. It is the first series developed
+specifically for that service, and the first Star Trek series since Star Trek:
+Enterprise concluded in 2005. Set roughly a decade before the events of the
+original Star Trek series and separate from the timeline of the concurrently
+produced feature films, Discovery explores the Federation–Klingon war while
+following the crew of the USS Discovery. Gretchen J. Berg and Aaron Harberts
+served as showrunners for the first season, with producing support from Akiva
+Goldsman; Kurtzman began serving as showrunner during the second season.
+
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_Discovery
+
+:: Collections
+tvseries: Star Trek: Discovery
+
+:: Component Stories
+dis1x01
 
 
