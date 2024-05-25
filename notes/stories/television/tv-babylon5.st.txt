@@ -1,3 +1,38 @@
+tvseries: Babylon 5
+===================
+
+:: Title
+Babylon 5
+
+:: Date
+1993-1998
+
+:: Description
+Babylon 5 is an American science fiction television series created by writer
+and producer J. Michael Straczynski, under the Babylonian Productions label,
+in association with Straczynski's Synthetic Worlds Ltd. and Warner Bros.
+Domestic Television. After the successful airing of a test pilot movie on
+February 22, 1993, Babylon 5: The Gathering, in May 1993 Warner Brothers
+commissioned the series for production as part of its Prime Time Entertainment
+Network (PTEN).
+
+The first season premiered in the US on January 26, 1994, and the series
+ultimately ran for the intended five seasons. Describing it as having "always
+been conceived as, fundamentally, a five year story, a novel for television",
+Straczynski wrote 92 of the 110 episodes, and served as executive producer,
+along with Douglas Netter.
+
+:: References
+https://en.wikipedia.org/wiki/Babylon_5
+
+:: Collections
+tvseries: Babylon 5
+
+:: Major Themes
+transnational institution for peace [Babylon 5 essentially functions as the United Nations but in space.]
+space station [Babylon 5 space station.]
+
+
 bbf1x01
 =======
 
@@ -1400,6 +1435,40 @@ annihilation by WMDs [Narn accused Cantauri of transporting WMDs]
 The Holocaust [G'Kar likened what the Centauri did to his people to The holocaust.]
 
 
+bbf2x17
+=======
+
+:: Title
+In the Shadow of Z'ha'dum
+
+:: Date
+1995-05-10
+
+:: Description
+Sheridan discovers a connection between his late wife and the mysterious Mr
+Morden, and makes enemies of everyone around him when he has Morden detained.
+Elsewhere, the Nightwatch is formed on the station.
+
+Directed by: David J. Eagle. Story by: J. Michael Straczynski.
+
+:: Ratings
+3 <mikael>
+
+:: Choice Themes
+coping with memories of a lost love [Sheridan is struggling with having lost his wife]
+coping with the death of a lover [Sheridan struggled with having lost his wife in a space accident.]
+the need for closure [Sheridan clearly needed closure over his late wife]
+
+:: Major Themes
+Faustian bargain [Londo's deal with the Shadows is discussed]
+unlawful detention [Sheridan detained the Shadow spy without a good cause and Garibaldi resigned over it.]
+the letter of the law vs. the spirit of the law [this expression was used wrt. to Sheridan's skulduggery]
+
+:: Minor Themes
+organized religion [Franklin discussed his faith "Foundationism" which involved a monotheistic god.]
+World War II [Zack mentioned Germany's Enigma machine.]
+
+
 bbf2x16
 =======
 
@@ -1437,40 +1506,6 @@ coping with memories of a lost love [Londo discussed his past loves with a frien
 coping with stress at work [Franklin thought Sheridan was under too much stress]
 honor [Londo's friend was concerned about family honor]
 the game of baseball [Sheridan and Garibaldi played some baseball.]
-
-
-bbf2x17
-=======
-
-:: Title
-In the Shadow of Z'ha'dum
-
-:: Date
-1995-05-10
-
-:: Description
-Sheridan discovers a connection between his late wife and the mysterious Mr
-Morden, and makes enemies of everyone around him when he has Morden detained.
-Elsewhere, the Nightwatch is formed on the station.
-
-Directed by: David J. Eagle. Story by: J. Michael Straczynski.
-
-:: Ratings
-3 <mikael>
-
-:: Choice Themes
-coping with memories of a lost love [Sheridan is struggling with having lost his wife]
-coping with the death of a lover [Sheridan struggled with having lost his wife in a space accident.]
-the need for closure [Sheridan clearly needed closure over his late wife]
-
-:: Major Themes
-Faustian bargain [Londo's deal with the Shadows is discussed]
-unlawful detention [Sheridan detained the Shadow spy without a good cause and Garibaldi resigned over it.]
-the letter of the law vs. the spirit of the law [this expression was used wrt. to Sheridan's skulduggery]
-
-:: Minor Themes
-organized religion [Franklin discussed his faith "Foundationism" which involved a monotheistic god.]
-World War II [Zack mentioned Germany's Enigma machine.]
 
 
 bbf2x18
@@ -3874,151 +3909,5 @@ coping with saying goodbye forever [Sheridan took farewell of friends before set
 life force [the idea was that Sheridan ran out of life force]
 career choice [Ivanova did some thinking before taking over after Sheridan]
 father and daughter [Garibaldi and his daughter exchanged banter]
-
-
-tvseries: Babylon 5
-===================
-
-:: Title
-Babylon 5
-
-:: Date
-1993-1998
-
-:: Description
-Babylon 5 is an American science fiction television series created by writer
-and producer J. Michael Straczynski, under the Babylonian Productions label,
-in association with Straczynski's Synthetic Worlds Ltd. and Warner Bros.
-Domestic Television. After the successful airing of a test pilot movie on
-February 22, 1993, Babylon 5: The Gathering, in May 1993 Warner Brothers
-commissioned the series for production as part of its Prime Time Entertainment
-Network (PTEN).
-
-The first season premiered in the US on January 26, 1994, and the series
-ultimately ran for the intended five seasons. Describing it as having "always
-been conceived as, fundamentally, a five year story, a novel for television",
-Straczynski wrote 92 of the 110 episodes, and served as executive producer,
-along with Douglas Netter.
-
-:: References
-https://en.wikipedia.org/wiki/Babylon_5
-
-:: Collections
-tvseries: Babylon 5
-
-:: Component Stories
-bbf1x01
-bbf1x02
-bbf1x03
-bbf1x04
-bbf1x05
-bbf1x06
-bbf1x07
-bbf1x08
-bbf1x09
-bbf1x10
-bbf1x11
-bbf1x12
-bbf1x13
-bbf1x14
-bbf1x15
-bbf1x16
-bbf1x17
-bbf1x18
-bbf1x19
-bbf1x20
-bbf1x21
-bbf1x22
-bbf2x01
-bbf2x02
-bbf2x03
-bbf2x04
-bbf2x05
-bbf2x06
-bbf2x07
-bbf2x08
-bbf2x09
-bbf2x10
-bbf2x11
-bbf2x12
-bbf2x13
-bbf2x14
-bbf2x15
-bbf2x17
-bbf2x16
-bbf2x18
-bbf2x19
-bbf2x20
-bbf2x21
-bbf2x22
-bbf3x01
-bbf3x02
-bbf3x03
-bbf3x04
-bbf3x05
-bbf3x06
-bbf3x07
-bbf3x08
-bbf3x09
-bbf3x10
-bbf3x11
-bbf3x12
-bbf3x13
-bbf3x14
-bbf3x15
-bbf3x16
-bbf3x17
-bbf3x18
-bbf3x19
-bbf3x20
-bbf3x22
-bbf4x01
-bbf4x02
-bbf4x03
-bbf4x04
-bbf4x05
-bbf4x06
-bbf4x07
-bbf4x08
-bbf4x09
-bbf4x10
-bbf4x11
-bbf4x12
-bbf4x13
-bbf4x14
-bbf4x15
-bbf4x16
-bbf4x17
-bbf4x18
-bbf4x19
-bbf4x20
-bbf4x21
-bbf4x22
-bbf5x01
-bbf5x02
-bbf5x03
-bbf5x04
-bbf5x05
-bbf5x06
-bbf5x07
-bbf5x08
-bbf5x09
-bbf5x10
-bbf5x11
-bbf5x12
-bbf5x13
-bbf5x14
-bbf5x15
-bbf5x16
-bbf5x17
-bbf5x18
-bbf5x19
-bbf5x20
-bbf5x21
-bbf5x22
-
-:: Major Themes
-transnational institution for peace [Babylon 5 essentially functions as the United Nations but in space.]
-space station [Babylon 5 space station.]
 
 
