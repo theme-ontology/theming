@@ -1,21 +1,29 @@
-tvseries: Night Gallery
-=======================
+nightgallery-misc1
+==================
 
 :: Title
-Night Gallery
+Die Now, Pay Later
 
 :: Date
-1969-1973
+1973
 
 :: Description
-Night Gallery is an American anthology series that aired on NBC from 1969 to
-1973, featuring stories of horror and the macabre.
+An undertaker (Will Geer) slashes funeral prices at a January clearance sale.
+Note: This segment was produced for the second season but never aired during
+the series' original broadcast.
 
-:: References
-https://en.wikipedia.org/wiki/Night_Gallery
+:: Ratings
+3 <mikael>
+3 <paul>
 
-:: Collections
-tvseries: Night Gallery
+:: Major Themes
+commercialism in society [We saw a an undertaker putting on a January clearance sale.]
+greed for riches [An undertaker had arranged a number of deaths in order to get rid of excess stock.]
+funeral rite [We saw a an undertaker putting on a January clearance sale.]
+witchcraft [The black cat owning undertaker turned out to be a warlock.]
+
+:: Minor Themes
+husband and wife [The undertaker's wife called the funeral home to scold the sheriff.]
 
 
 nightgallery0x01a
@@ -2843,34 +2851,6 @@ thinking about one's accomplishments in life [Henry thought his youth had been s
 cats are evil [A general human idea about life spelled out by Serling.]
 
 
-nightgallery-misc1
-==================
-
-:: Title
-Die Now, Pay Later
-
-:: Date
-1973
-
-:: Description
-An undertaker (Will Geer) slashes funeral prices at a January clearance sale.
-Note: This segment was produced for the second season but never aired during
-the series' original broadcast.
-
-:: Ratings
-3 <mikael>
-3 <paul>
-
-:: Major Themes
-commercialism in society [We saw a an undertaker putting on a January clearance sale.]
-greed for riches [An undertaker had arranged a number of deaths in order to get rid of excess stock.]
-funeral rite [We saw a an undertaker putting on a January clearance sale.]
-witchcraft [The black cat owning undertaker turned out to be a warlock.]
-
-:: Minor Themes
-husband and wife [The undertaker's wife called the funeral home to scold the sheriff.]
-
-
 nightgallery3x10
 ================
 
@@ -3101,5 +3081,25 @@ Directed by: Jack Laird. Story by: Jack Laird.
 
 :: Major Themes
 vampire [A man with a stake and a man with a mallet considered how to kill a vampire.]
+
+
+tvseries: Night Gallery
+=======================
+
+:: Title
+Night Gallery
+
+:: Date
+1969-1973
+
+:: Description
+Night Gallery is an American anthology series that aired on NBC from 1969 to
+1973, featuring stories of horror and the macabre.
+
+:: References
+https://en.wikipedia.org/wiki/Night_Gallery
+
+:: Collections
+tvseries: Night Gallery
 
 
