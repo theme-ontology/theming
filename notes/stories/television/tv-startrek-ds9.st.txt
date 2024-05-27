@@ -1,33 +1,3 @@
-tvseries: Star Trek: Deep Space Nine
-====================================
-
-:: Title
-Star Trek: Deep Space Nine
-
-:: Date
-1993-1999
-
-:: Description
-Star Trek: Deep Space Nine (sometimes abbreviated to DS9) is a science fiction
-television series set in the Star Trek universe in the Milky Way galaxy, in
-the years 2369–2375. In contrast to other Star Trek TV series, it primarily
-takes place on a space station rather than a starship, so as not to have two
-series with starships in the same time period; the series ran concurrently
-with Star Trek: The Next Generation during its first two seasons and with Star
-Trek: Voyager for the remainder of its run. The starship USS Defiant was
-introduced in season 3, but the space station Deep Space Nine remained the
-series' primary setting.
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
-
-:: Collections
-tvseries: Star Trek: Deep Space Nine
-
-:: Major Themes
-space station [Deep Space Nine space station.]
-
-
 ds91x01/02
 ==========
 
@@ -7121,5 +7091,35 @@ the desire for vengeance [Garak expressed a wish to avenge the death of his chil
 genocide [The Dominion began executing a genocide on the Caradassian people. Section 31 perpetrated an attempted genocide on the Founders.]
 belonging [Odo decides to leave Kira and return to his shapeshifter people.]
 father and son [Jake reminisces over his time on space station with Benjamin.]
+
+
+tvseries: Star Trek: Deep Space Nine
+====================================
+
+:: Title
+Star Trek: Deep Space Nine
+
+:: Date
+1993-1999
+
+:: Description
+Star Trek: Deep Space Nine (sometimes abbreviated to DS9) is a science fiction
+television series set in the Star Trek universe in the Milky Way galaxy, in
+the years 2369–2375. In contrast to other Star Trek TV series, it primarily
+takes place on a space station rather than a starship, so as not to have two
+series with starships in the same time period; the series ran concurrently
+with Star Trek: The Next Generation during its first two seasons and with Star
+Trek: Voyager for the remainder of its run. The starship USS Defiant was
+introduced in season 3, but the space station Deep Space Nine remained the
+series' primary setting.
+
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
+
+:: Collections
+tvseries: Star Trek: Deep Space Nine
+
+:: Major Themes
+space station [Deep Space Nine space station.]
 
 
