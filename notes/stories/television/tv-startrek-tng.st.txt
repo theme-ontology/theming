@@ -1,3 +1,39 @@
+Collection: Star Trek: The Next Generation
+==========================================
+
+:: Title
+Star Trek: The Next Generation
+
+:: Date
+1987-1994
+
+:: Description
+Star Trek: The Next Generation (abbreviated as TNG and ST:TNG) is an American
+science-fiction television series in the Star Trek franchise created by Gene
+Roddenberry that ran from 1987 to 1994. Roddenberry, Maurice Hurley, Rick
+Berman, Michael Piller, and Jeri Taylor served as executive producers at
+different times throughout its production. The show was very popular, reaching
+almost 12 million viewers in its 5th season, with the series finale in 1994
+being watched by over 30 million viewers. The show spawned two reasonably
+popular spin-offs set in the same sci-fi universe time and place, and four
+movies with the cast of the show. In the early 2000s the show Enterprise,
+although more oriented towards re-booting the series, was in the same
+fictional universe, but set during an earlier time.
+
+The series involves a starship named Enterprise and is set in the nearby
+regions of the Milky Way galaxy, the Alpha Quadrant. The first episode takes
+place in the year 2364, 99 years after the start of the five-year mission
+described in the original series, which began in 2265.
+
+:: References
+https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
+
+:: Minor Themes
+teleportation device [The Enterprise transporter.]
+speculative spaceship [The starship USS Enterprise.]
+interstellar space travel [The Enterprise is on a mission to explore the galaxy.]
+
+
 tng1x01/02
 ==========
 
@@ -12902,44 +12938,5 @@ full stop <1:14:48> [Enterprise] {space maneuver}
 senior staff meeting <20:50-21:50, 25:45-27:05, 1:05:00-1:05:35> [Picard, Tasha, Worf, Troi; Picard, Troi, Data, Riker, Worf, Geordi, Beverly; Picard, Riker, Data, Geordi]
 ship explosion <1:01:44, 1:02:53, 1:20:36, 1:20:54, 1:21:05> [Klingon warbird, USS Pasteur, Enterprise, Enterprise, Enterprise]
 hypospray <1:03:27> [Beverly to Picard]
-
-
-tvseries: Star Trek: The Next Generation
-========================================
-
-:: Title
-Star Trek: The Next Generation
-
-:: Date
-1987-1994
-
-:: Description
-Star Trek: The Next Generation (abbreviated as TNG and ST:TNG) is an American
-science-fiction television series in the Star Trek franchise created by Gene
-Roddenberry that ran from 1987 to 1994. Roddenberry, Maurice Hurley, Rick
-Berman, Michael Piller, and Jeri Taylor served as executive producers at
-different times throughout its production. The show was very popular, reaching
-almost 12 million viewers in its 5th season, with the series finale in 1994
-being watched by over 30 million viewers. The show spawned two reasonably
-popular spin-offs set in the same sci-fi universe time and place, and four
-movies with the cast of the show. In the early 2000s the show Enterprise,
-although more oriented towards re-booting the series, was in the same
-fictional universe, but set during an earlier time.
-
-The series involves a starship named Enterprise and is set in the nearby
-regions of the Milky Way galaxy, the Alpha Quadrant. The first episode takes
-place in the year 2364, 99 years after the start of the five-year mission
-described in the original series, which began in 2265.
-
-:: References
-https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
-
-:: Collections
-tvseries: Star Trek: The Next Generation
-
-:: Minor Themes
-teleportation device [The Enterprise transporter.]
-speculative spaceship [The starship USS Enterprise.]
-interstellar space travel [The Enterprise is on a mission to explore the galaxy.]
 
 

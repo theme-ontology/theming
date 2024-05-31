@@ -13,9 +13,6 @@ The six feature films to date in the Alien franchise.
 :: References
 https://en.wikipedia.org/wiki/Alien_(franchise)#Films
 
-:: Collections
-Collection: Alien
-
 :: Component Stories
 movie: Alien (1979)
 movie: Aliens (1986)
@@ -39,9 +36,6 @@ The six television films in the Alien Nation media franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Alien_Nation
-
-:: Collections
-Collection: Alien Nation Films
 
 :: Component Stories
 movie: Alien Nation (1988)
@@ -71,9 +65,6 @@ https://en.wikipedia.org/wiki/Appleseed_(2004_film)
 https://en.wikipedia.org/wiki/Appleseed_Ex_Machina
 https://en.wikipedia.org/wiki/Appleseed_Alpha
 
-:: Collections
-Collection: Appleseed Film Series
-
 :: Component Stories
 movie: Appleseed (2004)
 movie: Appleseed Ex Machina (2007)
@@ -94,9 +85,6 @@ The six television films in the Babylon 5 media franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Babylon_5_(franchise)#Television_movies
-
-:: Collections
-Collection: Babylon 5 Films
 
 :: Component Stories
 movie: Babylon 5: The Gathering (1993)
@@ -122,9 +110,6 @@ The three feature films in the Back to the Future series
 :: References
 https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)
 
-:: Collections
-Collection: Back to the Future
-
 :: Component Stories
 movie: Back to the Future (1985)
 movie: Back to the Future Part II (1989)
@@ -145,9 +130,6 @@ The three films in the Bill & Ted film series.
 
 :: References
 https://en.wikipedia.org/wiki/Bill_%26_Ted#Films
-
-:: Collections
-Collection: Bill and Ted Films
 
 :: Component Stories
 movie: Bill and Teds Excellent Adventure (1989)
@@ -170,9 +152,6 @@ feature genetically engineered dinosaurs running amok in various scenarios.
 
 :: References
 https://en.wikipedia.org/wiki/Carnosaur_(film_series)
-
-:: Collections
-Collection: Carnosaur
 
 :: Component Stories
 movie: Carnosaur (1993)
@@ -197,9 +176,6 @@ across a landscape and cause mayhem.
 
 :: References
 https://en.wikipedia.org/wiki/Critters_(franchise)
-
-:: Collections
-Collection: Critters
 
 :: Component Stories
 movie: Critters (1986)
@@ -242,9 +218,6 @@ the mystery of what the cube is and why they are in it.
 :: References
 https://en.wikipedia.org/wiki/Cube_(film_series)
 
-:: Collections
-Collection: Cube Film Series
-
 :: Component Stories
 movie: Cube (1997)
 movie: Cube 2: Hypercube (2002)
@@ -265,9 +238,6 @@ Albert Pyun's Cyborg Trilogy.
 
 :: References
 https://en.wikipedia.org/wiki/Cyborg_(film)
-
-:: Collections
-Collection: Cyborg
 
 :: Component Stories
 movie: Cyborg (1989)
@@ -290,9 +260,6 @@ The three films in the Deep Blue Sea film series.
 :: References
 https://en.wikipedia.org/wiki/Deep_Blue_Sea_(film_series)
 
-:: Collections
-Collection: Deep Blue Sea
-
 :: Component Stories
 movie: Deep Blue Sea (1999)
 movie: Deep Blue Sea 2 (2018)
@@ -313,9 +280,6 @@ Films featuring the giant turtle-like monster Gamera.
 
 :: References
 https://en.wikipedia.org/wiki/Gamera#Filmography
-
-:: Collections
-Collection: Gamera
 
 :: Component Stories
 movie: Gamera the Giant Monster (1965)
@@ -347,9 +311,6 @@ The three feature films to date in the Ghostbusters franchise.
 :: References
 https://en.wikipedia.org/wiki/Ghostbusters_(franchise)#Films
 
-:: Collections
-Collection: Ghostbusters
-
 :: Component Stories
 movie: Ghostbusters (1984)
 movie: Ghostbusters II (1989)
@@ -370,9 +331,6 @@ Films featuring giant monsters.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_films_featuring_giant_monsters
-
-:: Collections
-Collection: Giant monster films
 
 :: Component Stories
 movie: King Kong (1933)
@@ -466,9 +424,6 @@ Films featuring the giant monster Godzilla.
 :: References
 https://en.wikipedia.org/wiki/Godzilla_(franchise)#Filmography
 
-:: Collections
-Collection: Godzilla
-
 :: Component Stories
 movie: Godzilla (1954)
 movie: Godzilla Raids Again (1955)
@@ -522,11 +477,7 @@ Gordon and Brian Yuzna, and an original story co-written by Gordon, Yuzna, and
 Ed Naha.
 
 :: References
-https://en.wikipedia.org/wiki/Honey
-_I_Shrunk_the_Kids_(franchise)#Film
-
-:: Collections
-Collection: Honey I Shrunk the Kids
+https://en.wikipedia.org/wiki/Honey_I_Shrunk_the_Kids_(franchise)#Film
 
 :: Component Stories
 movie: Honey I Shrunk the Kids (1989)
@@ -548,9 +499,6 @@ The five feature films to date in the Jurassic Park franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Jurassic_Park#Film_series
-
-:: Collections
-Collection: Jurassic Park
 
 :: Component Stories
 movie: Jurassic Park (1993)
@@ -576,9 +524,6 @@ by George Miller and Byron Kennedy.
 :: References
 https://en.wikipedia.org/wiki/Mad_Max_(franchise)
 
-:: Collections
-Collection: Mad Max
-
 :: Component Stories
 movie: Mad Max (1979)
 movie: Mad Max 2 (1981)
@@ -602,9 +547,6 @@ the 1977–78 season
 
 :: References
 https://en.wikipedia.org/wiki/Man_from_Atlantis
-
-:: Collections
-Collection: Man from Atlantis
 
 :: Component Stories
 movie: Man from Atlantis (1977)
@@ -630,9 +572,6 @@ comic books published by Marvel Comics.
 
 :: References
 https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
-
-:: Collections
-Collection: Marvel Cinematic Universe
 
 :: Component Stories
 movie: Iron Man (2008)
@@ -677,9 +616,6 @@ Cunningham.
 :: References
 https://en.wikipedia.org/wiki/Men_in_Black_(film_series)
 
-:: Collections
-Collection: Men in Black
-
 :: Component Stories
 movie: Men in Black (1997)
 movie: Men in Black II (2002)
@@ -704,9 +640,6 @@ https://en.wikipedia.org/wiki/Mimic_(film)
 https://en.wikipedia.org/wiki/Mimic_2
 https://en.wikipedia.org/wiki/Mimic_3:_Sentinel
 
-:: Collections
-Collection: Mimic Film Series
-
 :: Component Stories
 movie: Mimic (1997)
 movie: Mimic 2 (2001)
@@ -727,9 +660,6 @@ The five low-budget films in the Nemesis film series.
 
 :: References
 https://en.wikipedia.org/wiki/Category:Nemesis_(film_series)
-
-:: Collections
-Collection: Nemesis
 
 :: Component Stories
 movie: Nemesis (1992)
@@ -756,9 +686,6 @@ resembles a teenager.
 :: References
 https://en.wikipedia.org/wiki/Not_Quite_Human
 
-:: Collections
-Collection: Not Quite Human
-
 :: Component Stories
 movie: Not Quite Human (1987)
 movie: Not Quite Human II (1989)
@@ -780,9 +707,6 @@ The nine films in the Planet of the Apes series.
 :: References
 https://en.wikipedia.org/wiki/Planet_of_the_Apes
 https://www.imdb.com/list/ls068557256/
-
-:: Collections
-Collection: Planet of the Apes
 
 :: Component Stories
 movie: Planet of the Apes (1968)
@@ -811,9 +735,6 @@ The four feature films to date in the original Predator franchise.
 :: References
 https://en.wikipedia.org/wiki/Predator_(franchise)#Original_series
 
-:: Collections
-Collection: Predator
-
 :: Component Stories
 movie: Predator (1987)
 movie: Predator 2 (1990)
@@ -836,9 +757,6 @@ Three adventures of Professor Bernard Quatermass in film.
 :: References
 https://en.wikipedia.org/wiki/Mad_Max_(franchise)
 
-:: Collections
-Collection: Quatermass
-
 :: Component Stories
 movie: The Quatermass Xperiment (1955)
 movie: Quatermass 2 (1957)
@@ -859,9 +777,6 @@ The three films in the Re-Animator film series.
 
 :: References
 https://en.wikipedia.org/wiki/Re-Animator_(film_series)
-
-:: Collections
-Collection: ReAnimator Films
 
 :: Component Stories
 movie: ReAnimator (1985)
@@ -884,9 +799,6 @@ Japanese video game franchise of the same name by Capcom.
 
 :: References
 https://en.wikipedia.org/wiki/Resident_Evil_(film_series)
-
-:: Collections
-Collection: Resident Evil Film Series
 
 :: Component Stories
 movie: Resident Evil (2002)
@@ -912,9 +824,6 @@ The four feature films to date in the Robocop franchise.
 :: References
 https://en.wikipedia.org/wiki/RoboCop_(franchise)#Films
 
-:: Collections
-Collection: Robocop
-
 :: Component Stories
 movie: RoboCop (1987)
 movie: RoboCop 2 (1990)
@@ -939,9 +848,6 @@ https://en.wikipedia.org/wiki/Skyline_(2010_film)
 https://en.wikipedia.org/wiki/Beyond_Skyline
 https://en.wikipedia.org/wiki/Skylines_(film)
 
-:: Collections
-Collection: Skyline Films
-
 :: Component Stories
 movie: Skyline (2010)
 movie: Beyond Skyline (2017)
@@ -962,9 +868,6 @@ The four films in the Species film series.
 
 :: References
 https://en.wikipedia.org/wiki/Species_(film_series)
-
-:: Collections
-Collection: Species
 
 :: Component Stories
 movie: Species (1995)
@@ -987,9 +890,6 @@ Films centered on the Marvel Comics character Spider-Man.
 
 :: References
 https://en.wikipedia.org/wiki/Spider-Man_in_film
-
-:: Collections
-Collection: Spider-Man
 
 :: Component Stories
 movie: Spider-Man (1977)
@@ -1021,9 +921,6 @@ Star Trek feature films.
 :: References
 https://en.wikipedia.org/wiki/List_of_Star_Trek_films_and_television_series#Feature_films
 
-:: Collections
-Collection: Star Trek Films
-
 :: Component Stories
 movie: Star Trek: The Motion Picture (1979)
 movie: Star Trek II: The Wrath of Khan (1982)
@@ -1054,9 +951,6 @@ A collection of any and all films set in George Lucas' Star Wars universe.
 
 :: References
 https://en.wikipedia.org/wiki/List_of_Star_Wars_films_and_television_series
-
-:: Collections
-Collection: Star Wars
 
 :: Component Stories
 movie: Star Wars (1977)
@@ -1091,9 +985,6 @@ The five films in the Starship Troopers film series.
 :: References
 https://en.wikipedia.org/wiki/Starship_Troopers_(franchise)
 
-:: Collections
-Collection: Starship Troopers
-
 :: Component Stories
 movie: Starship Troopers (1997)
 movie: Starship Troopers 2: Hero of the Federation (2004)
@@ -1118,9 +1009,6 @@ series.
 :: References
 https://en.wikipedia.org/wiki/Super_Giant
 
-:: Collections
-Collection: Super Giant
-
 :: Component Stories
 movie: Atomic Rulers (1964)
 movie: Invaders from Space (1964)
@@ -1142,9 +1030,6 @@ The nine feature films in the Superman series.
 
 :: References
 https://en.wikipedia.org/wiki/Superman_in_film
-
-:: Collections
-Collection: Superman
 
 :: Component Stories
 movie: Superman and the Mole-Men (1951)
@@ -1174,9 +1059,6 @@ The four television films in the TekWar media franchise.
 :: References
 https://en.wikipedia.org/wiki/List_of_TekWar_episodes#Season_1_.281994.29
 
-:: Collections
-Collection: TekWar Films
-
 :: Component Stories
 movie: TekWar: The Movie (1994)
 movie: TekWar: TekLords (1994)
@@ -1198,9 +1080,6 @@ The three films in The Blob film series.
 
 :: References
 https://en.wikipedia.org/wiki/The_Blob
-
-:: Collections
-Collection: The Blob
 
 :: Component Stories
 movie: The Blob (1958)
@@ -1225,9 +1104,6 @@ writer-director David Twohy, spanning three live-action feature films.
 :: References
 https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick_(franchise)
 
-:: Collections
-Collection: The Chronicles of Riddick Film Series
-
 :: Component Stories
 movie: Pitch Black (2000)
 movie: The Chronicles of Riddick (2004)
@@ -1248,9 +1124,6 @@ The five films in the The Fly series.
 
 :: References
 https://www.imdb.com/list/ls071470502/
-
-:: Collections
-Collection: The Fly
 
 :: Component Stories
 movie: The Fly (1958)
@@ -1274,9 +1147,6 @@ Films featuring the Marvel Comics character The Hulk as the main character.
 
 :: References
 https://en.wikipedia.org/wiki/Hulk_in_other_media#Live-action
-
-:: Collections
-Collection: The Incredible Hulk
 
 :: Component Stories
 movie: The Incredible Hulk (1977)
@@ -1304,9 +1174,6 @@ The Matrix film trilogy.
 :: References
 https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
 
-:: Collections
-Collection: The Matrix
-
 :: Component Stories
 movie: The Matrix (1999)
 movie: The Matrix Reloaded (2003)
@@ -1327,9 +1194,6 @@ The four films to date in the The Nutty Professor series.
 
 :: References
 https://www.imdb.com/list/ls002112609/
-
-:: Collections
-Collection: The Nutty Professor
 
 :: Component Stories
 movie: The Nutty Professor (1963)
@@ -1353,9 +1217,6 @@ The six made for television films in the The Six Million Dollar Man series.
 :: References
 https://en.wikipedia.org/wiki/List_of_The_Six_Million_Dollar_Man_episodes#Television_movies_(1973)
 https://en.wikipedia.org/wiki/List_of_The_Six_Million_Dollar_Man_episodes#Television_movies_(1987%E2%80%9394)
-
-:: Collections
-Collection: The Six Million Dollar Man
 
 :: Component Stories
 movie: The Six Million Dollar Man: The Moon and the Desert (1973)
@@ -1382,9 +1243,6 @@ film remake.
 :: References
 https://en.wikipedia.org/wiki/The_Stepford_Wives_(1975_film)
 
-:: Collections
-Collection: The Stepford Wives
-
 :: Component Stories
 movie: The Stepford Wives (1975)
 movie: Revenge of the Stepford Wives (1980)
@@ -1407,9 +1265,6 @@ The six feature films to date in The Terminator franchise.
 
 :: References
 https://en.wikipedia.org/wiki/Terminator_(franchise)#Films
-
-:: Collections
-Collection: The Terminator
 
 :: Component Stories
 movie: The Terminator (1984)
@@ -1437,9 +1292,6 @@ Twilight Zone: Rod Serling's Lost Classics (1994).
 https://en.wikipedia.org/wiki/Twilight_Zone:_The_Movie
 https://en.wikipedia.org/wiki/Twilight_Zone:_Rod_Serling%27s_Lost_Classics
 
-:: Collections
-Collection: The Twilight Zone Films
-
 :: Component Stories
 tz1983a
 tz1983b
@@ -1463,9 +1315,6 @@ The six feature films and one short film in the Trancers film series.
 
 :: References
 https://en.wikipedia.org/wiki/Trancers_(film_series)
-
-:: Collections
-Collection: Trancers
 
 :: Component Stories
 movie: Trancers (1984)
@@ -1494,9 +1343,6 @@ civil war.
 :: References
 https://en.wikipedia.org/wiki/Transformers_(film_series)#Films
 
-:: Collections
-Collection: Transformers
-
 :: Component Stories
 movie: The Transformers: The Movie (1986)
 movie: Transformers (2007)
@@ -1522,9 +1368,6 @@ The six films in the Universal Soldier film series.
 :: References
 https://en.wikipedia.org/wiki/Universal_Soldier_(film_series)
 
-:: Collections
-Collection: Universal Soldier
-
 :: Component Stories
 movie: Universal Soldier (1992)
 movie: Universal Soldier II: Brothers in Arms (1998)
@@ -1549,9 +1392,6 @@ The four films in the Watchers film series.
 :: References
 https://en.wikipedia.org/wiki/Watchers_(film)
 
-:: Collections
-Collection: Watchers
-
 :: Component Stories
 movie: Watchers (1988)
 movie: Watchers II (1990)
@@ -1575,9 +1415,6 @@ created by Stan Lee and Jack Kirby and published by Marvel Comics.
 
 :: References
 https://en.wikipedia.org/wiki/X-Men_(film_series)
-
-:: Collections
-Collection: X-men
 
 :: Component Stories
 movie: X-Men (2000)
@@ -1608,9 +1445,6 @@ The three films in the low-budget British science fiction/horror Xtro series.
 
 :: References
 https://en.wikipedia.org/wiki/Xtro
-
-:: Collections
-Collection: Xtro
 
 :: Component Stories
 movie: Xtro (1982)

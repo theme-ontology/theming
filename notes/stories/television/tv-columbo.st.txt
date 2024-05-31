@@ -1,3 +1,23 @@
+collection: Columbo
+===================
+
+:: Title
+Columbo
+
+:: Date
+1971-2003
+
+:: Description
+Columbo is an American crime drama television series starring Peter Falk as
+Lieutenant Columbo, a homicide detective with the Los Angeles Police
+Department. After two pilot episodes in 1968 and 1971, the show originally
+aired on NBC from 1971 to 1978 as one of the rotating programs of The NBC
+Mystery Movie. Columbo then aired less frequently on ABC from 1989 to 2003.
+
+:: References
+https://en.wikipedia.org/wiki/Columbo
+
+
 columbo1971e0x01
 ================
 
@@ -4432,28 +4452,5 @@ the game of tennis [Wayne had traveled to Palm Springs ostensibly to play in a t
 private investigator occupation [Jess hired a private eye to catalog Wayne's prolific womanizing.]
 burglary [Conventional police wisdom had it that Theresa was shot dead in a burglary gone tragically wrong. Lt. Columbo begged to differ.]
 anger [Wayne had a violent temper, and was shown blowing his fuse on several occasions.]
-
-
-tvseries: Columbo
-=================
-
-:: Title
-Columbo
-
-:: Date
-1971-2003
-
-:: Description
-Columbo is an American crime drama television series starring Peter Falk as
-Lieutenant Columbo, a homicide detective with the Los Angeles Police
-Department. After two pilot episodes in 1968 and 1971, the show originally
-aired on NBC from 1971 to 1978 as one of the rotating programs of The NBC
-Mystery Movie. Columbo then aired less frequently on ABC from 1989 to 2003.
-
-:: References
-https://en.wikipedia.org/wiki/Columbo
-
-:: Collections
-tvseries: Columbo
 
 
