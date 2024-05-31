@@ -1,3 +1,22 @@
+Collection: Sherlock
+====================
+
+:: Title
+Sherlock
+
+:: Date
+2010-2017
+
+:: Description
+Sherlock is a British crime drama television series based on Sir Arthur Conan
+Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark
+Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as
+Doctor John Watson.
+
+:: References
+https://en.wikipedia.org/wiki/Sherlock_(TV_series)
+
+
 sherlock-special-01
 ===================
 
@@ -547,27 +566,5 @@ to tell the truth vs. offering a comforting lie [Mycroft told his parents that h
 :: Not Themes
 attitude of superiority [Unlike in other episodes in the series, here Sherlock checked his attitude and ego.]
 narcissism [Unlike in other episodes in the series, here Sherlock checked his attitude and ego, and even showed some empathy for Watson.]
-
-
-tvseries: Sherlock
-==================
-
-:: Title
-Sherlock
-
-:: Date
-2010-2017
-
-:: Description
-Sherlock is a British crime drama television series based on Sir Arthur Conan
-Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark
-Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as
-Doctor John Watson.
-
-:: References
-https://en.wikipedia.org/wiki/Sherlock_(TV_series)
-
-:: Collections
-tvseries: Sherlock
 
 

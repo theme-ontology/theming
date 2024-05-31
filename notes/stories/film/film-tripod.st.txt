@@ -13,9 +13,6 @@ The 99 films in the TuRnIng POint Dataset (TRIPOD).
 :: References
 https://github.com/ppapalampidi/TRIPOD
 
-:: Collections
-Collection: TRIPOD films
-
 :: Component Stories
 movie: Alien (1979)
 movie: Alien Nation (1988)
