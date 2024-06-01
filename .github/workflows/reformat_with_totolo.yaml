@@ -3,7 +3,7 @@ name: Reformat with Python 🐍 totolo
 on:
   pull_request:
     branches:
-      - main
+      - master
     types:
       - closed
 
