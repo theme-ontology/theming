@@ -1,12 +1,12 @@
-name: Reformat with Python 🐍 totolo
+name: Merge Proposed Themes with Python 🐍 totolo 🤖
 
 on:
   push:
     branches:
-      - dev-themes
+      - "dev-themes"
   pull_request:
     branches:
-      - dev-themes
+      - "dev-themes"
     types:
       - closed
 
@@ -34,7 +34,7 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
       with:
-        commit-message: merge proposed themes => primary themes, with python-totolo
+        commit-message: merge proposed themes, with python-totolo
         title: merge proposed themes => primary themes
         body: |
           Merge proposed themes => primary themes, with python-totolo command:

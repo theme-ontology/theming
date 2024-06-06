@@ -1,4 +1,4 @@
-name: Reformat with Python 🐍 totolo
+name: Reformat with Python 🐍 totolo 🤖
 
 on:
   pull_request:
