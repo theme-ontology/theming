@@ -1,0 +1,40 @@
+name: Reformat with Python 🐍 totolo
+
+on:
+  push:
+    branches:
+      - dev-themes
+
+jobs:
+  if_merged:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.x"
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install totolo
+
+    - name: Reformat "notes" in repository checkout
+      run: |
+        python -m totolo.util.mergefiles ./notes/themes/proposed.th.txt ./notes/themes/primary.th.txt --reorder
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v6
+      with:
+        commit-message: merge proposed themes => primary themes, with python-totolo
+        title: merge proposed themes => primary themes
+        body: |
+          Merge proposed themes => primary themes, with python-totolo command:
+
+            python -m totolo.util.mergefiles ./notes/themes/proposed.th.txt ./notes/themes/primary.th.txt --reorder
+
+        branch: totolo-merge-proposed
+        delete-branch: true
