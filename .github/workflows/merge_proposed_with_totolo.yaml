@@ -24,6 +24,7 @@ jobs:
     - name: Reformat "notes" in repository checkout
       run: |
         python -m totolo.util.mergefiles ./notes/themes/proposed.th.txt ./notes/themes/primary.th.txt --reorder
+        : > ./notes/themes/proposed.th.txt
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
@@ -34,6 +35,7 @@ jobs:
           Merge proposed themes => primary themes, with python-totolo command:
 
             python -m totolo.util.mergefiles ./notes/themes/proposed.th.txt ./notes/themes/primary.th.txt --reorder
+            : > ./notes/themes/proposed.th.txt
 
         branch: totolo-merge-proposed
         delete-branch: true
