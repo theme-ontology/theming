@@ -2,13 +2,7 @@ name: Merge Proposed Themes with Python 🐍 totolo 🤖
 
 on:
   push:
-    branches:
-      - dev-themes
-  pull_request:
-    branches:
-      - dev-themes
-    types:
-      - closed
+    branches: [ dev-themes ]
 
 jobs:
   merge-proposed-into-primary:
