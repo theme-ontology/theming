@@ -1,4 +1,4 @@
-name: On PR Changed, Run a simple totolo read test
+name: Test with Python 🐍 totolo 🤖
 
 on:
   push:
