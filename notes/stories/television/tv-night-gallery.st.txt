@@ -1,5 +1,5 @@
-tvseries: Night Gallery
-=======================
+Collection: Night Gallery
+=========================
 
 :: Title
 Night Gallery
@@ -14,8 +14,33 @@ Night Gallery is an American anthology series that aired on NBC from 1969 to
 :: References
 https://en.wikipedia.org/wiki/Night_Gallery
 
-:: Collections
-tvseries: Night Gallery
+
+nightgallery-misc1
+==================
+
+:: Title
+Die Now, Pay Later
+
+:: Date
+1973
+
+:: Description
+An undertaker (Will Geer) slashes funeral prices at a January clearance sale.
+Note: This segment was produced for the second season but never aired during
+the series' original broadcast.
+
+:: Ratings
+3 <mikael>
+3 <paul>
+
+:: Major Themes
+commercialism in society [We saw a an undertaker putting on a January clearance sale.]
+greed for riches [An undertaker had arranged a number of deaths in order to get rid of excess stock.]
+funeral rite [We saw a an undertaker putting on a January clearance sale.]
+witchcraft [The black cat owning undertaker turned out to be a warlock.]
+
+:: Minor Themes
+husband and wife [The undertaker's wife called the funeral home to scold the sheriff.]
 
 
 nightgallery0x01a
@@ -254,7 +279,7 @@ time travel [A medical bag from 2098 was accidentally sent back in time to the y
 what it is like to be homeless [The story follows the experience of two hobos who stumble upon a medical bag from the future. Part of the story is set in a homeless shelter.]
 medical occupation [The disgraced physician William Fall wanted to use his medical bag from the future to cure people of disease and didn't care about making money.]
 greed for riches [Heppelwhite murdered his hobo-doctor friend, William Fall, and took his medical bag from the future to try and make a fortune from its contents.]
-smart tools [The medical tools told William Fall how to use them and also assisted in various ways.]
+speculative smart tool [The medical tools told William Fall how to use them and also assisted in various ways.]
 healing ability [William Fall became a veritable miracle worker with his medical bag from the future.]
 
 :: Minor Themes
@@ -440,10 +465,9 @@ Directed by: Richard Benedict. Story by: Rod Serling.
 
 :: Major Themes
 husband and wife [Jonathan and Pamela.]
-ghost [The story followed the quarrels of Johathan's ghost with Pamela's ghost.]
 what if I were a ghost [Johathan was dismayed to find out that he had died and become a ghost.]
 coping with a nag [Pamela was a real nag to Jonathan.]
-personal haunting [Pamela's ghost haunted her husband Jonathan.]
+personal haunting [The story followed the quarrels of Johathan's ghost with Pamela's ghost. In particular, Pamela's ghost haunted her husband Jonathan.]
 the afterlife [Jonathan speculated as to whether Pamela belonged in heaven or hell whereas she in fact lingered on Earth to haunt Jonathan.]
 spouse murder [Jonathan had murdered his wife.]
 lovers' quarrel [Jonathan and Pamela took their quarreling even beyond the grave.]
@@ -2842,34 +2866,6 @@ thinking about one's accomplishments in life [Henry thought his youth had been s
 
 :: Other Keywords
 cats are evil [A general human idea about life spelled out by Serling.]
-
-
-nightgallery-misc1
-==================
-
-:: Title
-Die Now, Pay Later
-
-:: Date
-1973
-
-:: Description
-An undertaker (Will Geer) slashes funeral prices at a January clearance sale.
-Note: This segment was produced for the second season but never aired during
-the series' original broadcast.
-
-:: Ratings
-3 <mikael>
-3 <paul>
-
-:: Major Themes
-commercialism in society [We saw a an undertaker putting on a January clearance sale.]
-greed for riches [An undertaker had arranged a number of deaths in order to get rid of excess stock.]
-funeral rite [We saw a an undertaker putting on a January clearance sale.]
-witchcraft [The black cat owning undertaker turned out to be a warlock.]
-
-:: Minor Themes
-husband and wife [The undertaker's wife called the funeral home to scold the sheriff.]
 
 
 nightgallery3x10

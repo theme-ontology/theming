@@ -1,4 +1,4 @@
-name: On PR Changed, Run a simple totolo read test
+name: Test with Python 🐍 totolo 🤖
 
 on:
   push:
@@ -7,13 +7,8 @@ on:
     types: [ opened, synchronized ]
 
 jobs:
-  build-test:
-    strategy:
-      matrix:
-        python-version: ["3.8", "3.x"]
-        os: [ubuntu-latest, windows-latest, macos-latest]
-
-    runs-on: ${{ matrix.os }}
+  test-with-totolo:
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
