@@ -7,7 +7,7 @@ on:
     types: [ opened, synchronized ]
 
 jobs:
-  build-test:
+  test-with-totolo:
     runs-on: ubuntu-latest
 
     steps:
