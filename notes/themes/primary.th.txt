@@ -2566,6 +2566,25 @@ https://en.wikipedia.org/wiki/Alien_invasion
 attack from outer space by a powerful subjugating enemy
 
 
+attitude of superiority
+=======================
+
+:: Description
+A character expresses the sentiment that they are better than others around
+them in some, more or less, general sense. Typically, this happens when a
+character believes themself to be of superior intellect, social class, or
+race.
+
+:: Parents
+pride
+
+:: Notes
+The theme is not used about specific and limited attributes a character may
+feel, superior with respect to. For example, if a character rightly or wrongly
+thinks they are better at the game of pool than others, this may rather be
+called "pride in an ability", or perhaps "hubris".
+
+
 attitude towards the dead
 =========================
 
@@ -5335,6 +5354,23 @@ specially equipped shuttlecraft into the giant space amoeba.
 
 :: References
 https://www.merriam-webster.com/dictionary/battle/clash%20of%20wills
+
+
+class prejudice in society
+==========================
+
+:: Description
+The issue of a large portion of society having a prejudice against people of
+certain social classes is discussed.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Class_discrimination
+
+:: Aliases
+social class prejudice in society
 
 
 classic films
@@ -27980,6 +28016,30 @@ and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took
 pity on her.
 
 
+prejudice against someone of a different social class
+=====================================================
+
+:: Description
+Class prejudice is featured in general terms, or demonstrated by the
+appearance of a character that expresses a prejudice against a group of people
+whom they regard to have a different social or economic status than themself.
+
+:: Parents
+class prejudice in society
+
+
+prejudice against those less well off than one's self
+=====================================================
+
+:: Description
+A character expresses a prejudice against a group of people whom they consider to be materially
+poorer than themself. For example, a character may express the opinion that poor people are likely
+to be criminals.
+
+:: Parents
+attitude of superiority against someone of a lower social class
+
+
 prejudice in society
 ====================
 
@@ -27998,6 +28058,18 @@ that enemy being demonstrably organized to do murder.
 
 :: References
 https://en.wikipedia.org/wiki/Prejudice
+
+
+prejudicial attitude of superiority against someone less well off than one's self
+=================================================================================
+
+:: Description
+A character expresses a prejudice against a group of people whom they consider
+to be less materially well off, and therefore inferior, to themself.
+
+:: Parents
+attitude of superiority
+prejudice against someone of a different social class
 
 
 prenuptial agreement
