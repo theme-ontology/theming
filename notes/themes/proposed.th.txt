@@ -1,20 +1,3 @@
-class prejudice in society
-==========================
-
-:: Description
-The issue of a large portion of society having a prejudice against people of
-certain social classes is discussed.
-
-:: Parents
-prejudice in society
-
-:: References
-https://en.wikipedia.org/wiki/Class_discrimination
-
-:: Aliases
-social class prejudice in society
-
-
 attitude of superiority
 =======================
 
@@ -43,6 +26,13 @@ appearance of a character that expresses a prejudice against a group of people
 whom they regard to have a different social or economic status than themself.
 
 :: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Class_discrimination
+
+:: Aliases
+social class prejudice in society
 class prejudice in society
 
 
@@ -51,22 +41,26 @@ prejudicial attitude of superiority against someone less well off than one's sel
 
 :: Description
 A character expresses a prejudice against a group of people whom they consider
-to be less materially well off, and therefore inferior, to themself.
+to be materially less well off, and therefore inferior, to themself.
+For example, a character may express the opinion that poor people are likely
+to be criminals.
 
 :: Parents
 attitude of superiority
 prejudice against someone of a different social class
 
 
-prejudice against those less well off than one's self
-=====================================================
+coping with someone who is comporting themself above their station
+==================================================================
 
 :: Description
-A character expresses a prejudice against a group of people whom they consider to be materially
-poorer than themself. For example, a character may express the opinion that poor people are likely
-to be criminals.
+There is a character A and a character B such that: Character A considers
+and is troubled by the fact that character B behaves like they have a
+more esteemed position in A and B's shared society, than they (in A's opinion)
+actually do. For example, an aristocrat may be troubled by the fact that
+a servant habitually doesn't act with due respect and deference.
 
 :: Parents
-attitude of superiority against someone of a lower social class
-
+coping with a problematic person
+prejudicial attitude of superiority against someone less well off than one's self
 
