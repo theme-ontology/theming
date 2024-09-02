@@ -2585,6 +2585,17 @@ thinks they are better at the game of pool than others, this may rather be
 called "pride in an ability", or perhaps "hubris".
 
 
+attitude of superiority against someone of a lower social class
+===============================================================
+
+:: Description
+A character looks down their nose at someone from a lower social class.
+
+:: Parents
+attitude of superiority
+class prejudice in society
+
+
 attitude towards the dead
 =========================
 
@@ -7281,7 +7292,7 @@ coping with being a laughing stock
 Someone is the perpetual laughing stock of a group.
 
 :: Parents
-coping with humiliation
+embarrassment
 
 
 coping with being an outcast
@@ -7760,17 +7771,6 @@ his kin where completely genocidal, B'Elanna very reluctantly took the
 decision to destroy the work she had done in order that it would not aid them.
 
 
-coping with humiliation
-=======================
-
-:: Description
-A character believes themself to have been thoroughly embarrassed in the eyes
-of others.
-
-:: Parents
-human social position
-
-
 coping with ill-fitting clothes
 ===============================
 
@@ -8072,6 +8072,21 @@ with no alternative but to stand idly by and watch the descent into madness.
 
 :: Parents
 humans in pairs
+
+
+coping with someone who is comporting themself above their station
+==================================================================
+
+:: Description
+There is a character A and a character B such that: Character A considers
+and is troubled by the fact that character B behaves like they have a
+more esteemed position in A and B's shared society, than they (in A's opinion)
+actually do. For example, an aristocrat may be troubled by the fact that
+a servant habitually doesn't act with due respect and deference.
+
+:: Parents
+coping with a problematic person
+attitude of superiority against someone of a lower social class
 
 
 coping with someone who is overexerting themself
@@ -9150,6 +9165,16 @@ cure for an as yet uncurable disease
 https://en.wikipedia.org/wiki/Common_cold
 
 
+curiosity
+=========
+
+:: Description
+A character exhibits a strong desire to know or learn something.
+
+:: Parents
+human emotion
+
+
 curiosity killed the cat
 ========================
 
@@ -9159,6 +9184,7 @@ experiments in order to satisfy their own personal curiosity.
 
 :: Parents
 human idea about life
+curiosity
 
 :: References
 https://en.m.wikipedia.org/wiki/Curiosity_killed_the_cat
@@ -11258,6 +11284,7 @@ Someone feels ashamed or self-conscious about themself in front of others.
 
 :: Parents
 human emotion
+human social position
 
 :: Examples
 Spock was mortified at the prospect of having to explain the nature of his
@@ -22254,7 +22281,7 @@ malicious hoaxes in society
 
 :: Description
 A deliberately fabricated falsehood is widely propagated to the public with
-malicious or mischievious intent.
+malicious or mischievous intent.
 
 :: Parents
 sociocultural issue
@@ -28000,6 +28027,18 @@ and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took
 pity on her.
 
 
+prejudice against those less well off than one's self
+=====================================================
+
+:: Description
+A character expresses a prejudice against a group of people whom they consider to be materially
+poorer than themself. For example, a character may express the opinion that poor people are likely
+to be criminals.
+
+:: Parents
+attitude of superiority against someone of a lower social class
+
+
 prejudice in society
 ====================
 
@@ -31216,6 +31255,19 @@ self-driving car
 :: Description
 There is a car, or car-like vehicle, that does not require a driver in order
 to operate.
+
+:: Parents
+self-driving vehicle
+
+:: References
+https://en.wikipedia.org/wiki/Self-driving_car
+
+
+self-driving vehicle
+====================
+
+:: Description
+There is a vehicle that does not require a driver in order to operate.
 
 :: Parents
 speculative vehicle
@@ -35657,6 +35709,7 @@ A being that communicates telepathically with or read the thoughts of others.
 
 :: Parents
 mentally distinguished being
+telepathic ability
 
 
 telepathic society
@@ -35668,6 +35721,7 @@ natural laws.
 
 :: Parents
 speculative society
+telepathic ability
 
 :: References
 https://en.wikipedia.org/wiki/Telepathy
@@ -35682,6 +35736,7 @@ have learned to control their anti-social instincts, etc.
 
 :: Parents
 utopia based on a view of human nature
+telepathic ability
 
 
 teleportation ability
@@ -43618,15 +43673,15 @@ kindly princess Snow White is hunted by her wicked and villainous step-mother,
 the queen.
 
 
-wicked husband and virtuous wife stereotype
-===========================================
+wicked husband stereotype
+=========================
 
 :: Description
 We see a depiction of a married couple wherein the husband is a
-stereotypically bad character and the wife a stereotypically good one.
+stereotypically bad character and the wife a comparatively good one.
 
 :: Parents
-wicked character vs. virtuous character
+male stereotype
 
 :: Examples
 Up until the end in talesoftheunexpected5x04 "Run Rabbit Run", former Nazi war
@@ -43652,15 +43707,15 @@ with her. Through an ironic twist of fate she ended up killing her treasured
 biological son instead.
 
 
-wicked wife and virtuous husband stereotype
-===========================================
+wicked wife stereotype
+======================
 
 :: Description
 We see a depiction of a married couple wherein the wife is a stereotypically
 bad character and the husband a stereotypically good one.
 
 :: Parents
-wicked character vs. virtuous character
+female stereotype
 
 :: Examples
 In tz1959e5x11 "A Short Drink from a Certain Fountain", Harmond was a kind and
