@@ -2566,6 +2566,25 @@ https://en.wikipedia.org/wiki/Alien_invasion
 attack from outer space by a powerful subjugating enemy
 
 
+attitude of superiority
+=======================
+
+:: Description
+A character expresses the sentiment that they are better than others around
+them in some, more or less, general sense. Typically, this happens when a
+character believes themself to be of superior intellect, social class, or
+race.
+
+:: Parents
+pride
+
+:: Notes
+The theme is not used about specific and limited attributes a character may
+feel, superior with respect to. For example, if a character rightly or wrongly
+thinks they are better at the game of pool than others, this may rather be
+called "pride in an ability", or perhaps "hubris".
+
+
 attitude towards the dead
 =========================
 
@@ -8029,6 +8048,21 @@ with no alternative but to stand idly by and watch the descent into madness.
 humans in pairs
 
 
+coping with someone who is comporting themself above their station
+==================================================================
+
+:: Description
+There is a character A and a character B such that: Character A considers
+and is troubled by the fact that character B behaves like they have a
+more esteemed position in A and B's shared society, than they (in A's opinion)
+actually do. For example, an aristocrat may be troubled by the fact that
+a servant habitually doesn't act with due respect and deference.
+
+:: Parents
+coping with a problematic person
+prejudicial attitude of superiority against someone less well off than one's self
+
+
 coping with someone who is overexerting themself
 ================================================
 
@@ -9588,6 +9622,30 @@ station itself.
 
 :: References
 https://en.wikipedia.org/wiki/Democracy
+
+
+democracy vs. autocracy
+=======================
+
+:: Description
+Democracy is a system of government in which state power is vested in the people or the general population of a state.
+Autocracy, by contrast, is a system of government in which absolute power is held by the ruler, known as an autocrat.
+In practice, systems of government aren't objectively either, but can subjectively
+be placed somewhere on a scale between the two extremes.
+Compared and contrasted in the story is two forms of government, one of which falls
+further towards the democratic end of the scale and one who falls further towards the
+autocratic end of the scale.
+For example, in Ancient Rome the faults and virtues of the somewhat democratic republican system
+was compared and contrasted with the faults and virtues of having a mostly
+autocratic dictator or emperor in charge.
+
+:: Parents
+contraposed political ideologies
+
+:: References
+https://en.wikipedia.org/wiki/Democracy
+https://en.wikipedia.org/wiki/Autocracy
+https://en.wikipedia.org/wiki/Roman_Republic
 
 
 demon
@@ -27954,6 +28012,25 @@ and was assigned to the Enterprise-D in tng5x03 "Ensign Ro" until Guinan took
 pity on her.
 
 
+prejudice against someone of a different social class
+=====================================================
+
+:: Description
+Class prejudice is featured in general terms, or demonstrated by the
+appearance of a character that expresses a prejudice against a group of people
+whom they regard to have a different social or economic status than themself.
+
+:: Parents
+prejudice in society
+
+:: References
+https://en.wikipedia.org/wiki/Class_discrimination
+
+:: Aliases
+social class prejudice in society
+class prejudice in society
+
+
 prejudice in society
 ====================
 
@@ -27972,6 +28049,20 @@ that enemy being demonstrably organized to do murder.
 
 :: References
 https://en.wikipedia.org/wiki/Prejudice
+
+
+prejudicial attitude of superiority against someone less well off than one's self
+=================================================================================
+
+:: Description
+A character expresses a prejudice against a group of people whom they consider
+to be materially less well off, and therefore inferior, to themself.
+For example, a character may express the opinion that poor people are likely
+to be criminals.
+
+:: Parents
+attitude of superiority
+prejudice against someone of a different social class
 
 
 prenuptial agreement
