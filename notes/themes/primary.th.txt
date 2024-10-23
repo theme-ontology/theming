@@ -6,7 +6,7 @@ The tendency humans have of putting differences aside and collaborating when a
 common enemy appears is featured.
 
 :: Parents
-human nature
+human idea about life
 
 
 a common interest unites
@@ -17,7 +17,7 @@ The tendency humans have of putting differences aside and collaborating when
 something of mutual interest appears is featured.
 
 :: Parents
-human nature
+human idea about life
 
 
 a danger shared can bring people together
@@ -3647,6 +3647,9 @@ instead.
 :: References
 https://en.wikipedia.org/wiki/Blood_sport
 
+:: Aliases
+bloodsports
+
 
 bluffing
 ========
@@ -6808,17 +6811,6 @@ humans in pairs
 https://en.wikipedia.org/wiki/Missing_person
 
 
-coping with a maniacal leader
-=============================
-
-:: Description
-A subordinate must find ways to cope with a leader who is acting irrationally
-to a great extent.
-
-:: Parents
-coping with a problematic person
-
-
 coping with a massive loss of comrades
 ======================================
 
@@ -8268,7 +8260,10 @@ coping with the defeat of one's people
 ======================================
 
 :: Description
-A character deals with the news that their people have been defeated.
+A character deals with the news that their country, or suchlike faction,
+has suffered a major setback, up to and including a total wipeout.
+The setback is typically military in nature and of such a scale that,
+at minimum, it can be said to hurt the national pride.
 
 :: Parents
 coping with life issues
@@ -17524,7 +17519,7 @@ lead ones life. Many of the stories featuring this theme contain tidbits of
 folksy wisdom summed up in readily recognizable pithy aphorisms.
 
 :: Parents
-the human world
+human nature
 
 :: Examples
 "appearances can be deceiving", "beauty is in the eye of the beholder", and
@@ -21525,12 +21520,30 @@ Two lovers have such strong feelings for each other that prove to survive
 surprisingly difficult obstacles, e.g., years of separation.
 
 :: Parents
-human nature
+romantic love
+human idea about life
 
 :: Examples
 Anne Nored remained as deeply in love as ever with Carter Winston even after
 it came to light that he was a betentacled alien spy in tas1x06 "The
 Survivor".
+
+
+love is blind
+=============
+
+:: Description
+A character is so much in love that they are unable to see important flaws in
+the object of that affection. Typically, other characters can see what's
+happening and tries to intervene, but the character in love refuses to listen
+to them.
+
+:: Parents
+romantic love
+human idea about life
+
+:: References
+https://en.wikipedia.org/wiki/List_of_proverbial_phrases#L
 
 
 love kindled by danger
@@ -26460,7 +26473,6 @@ profound and, perhaps, surprising way. For example, a no-good punk, juvenile
 delinquent might reform their wicked ways to become a veritable saint.
 
 :: Parents
-human nature
 human idea about life
 
 :: Examples
@@ -27855,7 +27867,7 @@ power corrupts
 Someone who was decent gains power and because of the power becomes nasty.
 
 :: Parents
-human nature
+human idea about life
 
 :: References
 http://www.dictionary.com/browse/power-tends-to-corrupt-absolute-power-corrupts-absolutely
@@ -37601,7 +37613,7 @@ can be inefficient and slow in making decisions where the later can act
 decisively.
 
 :: Parents
-political ideology
+democracy vs. autocracy
 
 
 the military-industrial complex in society
@@ -38973,7 +38985,7 @@ constructed by the winners of conflicts and would possibly look quite
 different if such conflicts had ended differently.
 
 :: Parents
-human nature
+human idea about life
 
 
 the wish to live
@@ -39484,6 +39496,17 @@ and being honest on the other.
 
 :: Parents
 personal ethical dilemma
+
+
+too much television is bad for society
+======================================
+
+:: Description
+The idea is put forth that people watching too much (or perhaps any amount of)
+TV is detrimental to society for one reason or another.
+
+:: Parents
+mass media in society
 
 
 torture
