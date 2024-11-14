@@ -5647,6 +5647,19 @@ space colonization
 https://en.wikipedia.org/wiki/Colonization_of_Venus
 
 
+coma
+====
+
+:: Description
+A character is in a coma, i.e., a deep state of prolonged unconsciousness from which they cannot be awakened, fail to respond normally to painful stimuli, light, or sound, lack a normal wake-sleep cycle and do not initiate voluntary actions.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Coma
+
+
 combat sports
 =============
 
@@ -6182,6 +6195,19 @@ the day in tng3x06 "Booby Trap".
 
 :: References
 https://en.wikipedia.org/wiki/Computer_simulation
+
+
+comrades in arms
+================
+
+:: Description
+The relationship between two characters working closely together in combat roles in the armed forces, is explored.
+
+:: Parents
+humans in pairs
+
+:: References
+https://en.wiktionary.org/wiki/comrade_in_arms
 
 
 con artistry
@@ -28477,7 +28503,7 @@ prostitution
 There is a character who sells sex for money in order to make a living.
 
 :: Parents
-human occupational activity
+sex work
 
 :: References
 https://en.wikipedia.org/wiki/Prostitution
@@ -31628,6 +31654,22 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Sex_industry
+
+
+sex work
+========
+
+:: Description
+A character works voluntarily and gainfully in either providing
+direct sexual services, i.e. prostitution, or with activities that
+center around indirect sexual stimulation, such as erotic dancing
+or producing pornography.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Sex_work
 
 
 sex-droid
@@ -42740,6 +42782,7 @@ We imagine what it might be like to suffer from some condition such as
 ability to move but without being entirely brain dead.
 
 :: Parents
+coma
 what if I lived an alternate life
 
 :: References
@@ -43346,6 +43389,9 @@ what life is like
 In "Glory" (1989), we were shown the gruesome experiences of Colenel Shaw's
 all black 54th Massachusetts Infantry Regiment as they lead a suicidal charge
 on Fort Wagner atop Morris Island, with disastrous consequences.
+
+:: Aliases
+what it is like in a battle
 
 
 what it is like in a legal proceeding
