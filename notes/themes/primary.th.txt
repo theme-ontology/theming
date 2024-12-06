@@ -6,7 +6,7 @@ The tendency humans have of putting differences aside and collaborating when a
 common enemy appears is featured.
 
 :: Parents
-human nature
+human idea about life
 
 
 a common interest unites
@@ -17,7 +17,7 @@ The tendency humans have of putting differences aside and collaborating when
 something of mutual interest appears is featured.
 
 :: Parents
-human nature
+human idea about life
 
 
 a danger shared can bring people together
@@ -3647,6 +3647,9 @@ instead.
 :: References
 https://en.wikipedia.org/wiki/Blood_sport
 
+:: Aliases
+bloodsports
+
 
 bluffing
 ========
@@ -5644,6 +5647,19 @@ space colonization
 https://en.wikipedia.org/wiki/Colonization_of_Venus
 
 
+coma
+====
+
+:: Description
+A character is in a coma, i.e., a deep state of prolonged unconsciousness from which they cannot be awakened, fail to respond normally to painful stimuli, light, or sound, lack a normal wake-sleep cycle and do not initiate voluntary actions.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Coma
+
+
 combat sports
 =============
 
@@ -6179,6 +6195,19 @@ the day in tng3x06 "Booby Trap".
 
 :: References
 https://en.wikipedia.org/wiki/Computer_simulation
+
+
+comrades in arms
+================
+
+:: Description
+The relationship between two characters working closely together in combat roles in the armed forces, is explored.
+
+:: Parents
+humans in pairs
+
+:: References
+https://en.wiktionary.org/wiki/comrade_in_arms
 
 
 con artistry
@@ -6806,17 +6835,6 @@ humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Missing_person
-
-
-coping with a maniacal leader
-=============================
-
-:: Description
-A subordinate must find ways to cope with a leader who is acting irrationally
-to a great extent.
-
-:: Parents
-coping with a problematic person
 
 
 coping with a massive loss of comrades
@@ -8268,7 +8286,10 @@ coping with the defeat of one's people
 ======================================
 
 :: Description
-A character deals with the news that their people have been defeated.
+A character deals with the news that their country, or suchlike faction,
+has suffered a major setback, up to and including a total wipeout.
+The setback is typically military in nature and of such a scale that,
+at minimum, it can be said to hurt the national pride.
 
 :: Parents
 coping with life issues
@@ -17524,7 +17545,7 @@ lead ones life. Many of the stories featuring this theme contain tidbits of
 folksy wisdom summed up in readily recognizable pithy aphorisms.
 
 :: Parents
-the human world
+human nature
 
 :: Examples
 "appearances can be deceiving", "beauty is in the eye of the beholder", and
@@ -21525,12 +21546,30 @@ Two lovers have such strong feelings for each other that prove to survive
 surprisingly difficult obstacles, e.g., years of separation.
 
 :: Parents
-human nature
+romantic love
+human idea about life
 
 :: Examples
 Anne Nored remained as deeply in love as ever with Carter Winston even after
 it came to light that he was a betentacled alien spy in tas1x06 "The
 Survivor".
+
+
+love is blind
+=============
+
+:: Description
+A character is so much in love that they are unable to see important flaws in
+the object of that affection. Typically, other characters can see what's
+happening and tries to intervene, but the character in love refuses to listen
+to them.
+
+:: Parents
+romantic love
+human idea about life
+
+:: References
+https://en.wikipedia.org/wiki/List_of_proverbial_phrases#L
 
 
 love kindled by danger
@@ -22643,6 +22682,21 @@ criminal fraud
 
 :: References
 https://en.wikipedia.org/wiki/Match_fixing
+
+
+matchmaking
+===========
+
+:: Description
+A character pointedly engages in the process of matching two
+or more people together for the purpose of forming a romantic
+relationship between them.
+
+:: Parents
+romantic relationship
+
+:: References
+https://en.wikipedia.org/wiki/Matchmaking
 
 
 matchmaking technology
@@ -26460,7 +26514,6 @@ profound and, perhaps, surprising way. For example, a no-good punk, juvenile
 delinquent might reform their wicked ways to become a veritable saint.
 
 :: Parents
-human nature
 human idea about life
 
 :: Examples
@@ -27855,7 +27908,7 @@ power corrupts
 Someone who was decent gains power and because of the power becomes nasty.
 
 :: Parents
-human nature
+human idea about life
 
 :: References
 http://www.dictionary.com/browse/power-tends-to-corrupt-absolute-power-corrupts-absolutely
@@ -28465,7 +28518,7 @@ prostitution
 There is a character who sells sex for money in order to make a living.
 
 :: Parents
-human occupational activity
+sex work
 
 :: References
 https://en.wikipedia.org/wiki/Prostitution
@@ -31616,6 +31669,22 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Sex_industry
+
+
+sex work
+========
+
+:: Description
+A character works voluntarily and gainfully in either providing
+direct sexual services, i.e. prostitution, or with activities that
+center around indirect sexual stimulation, such as erotic dancing
+or producing pornography.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Sex_work
 
 
 sex-droid
@@ -37601,7 +37670,7 @@ can be inefficient and slow in making decisions where the later can act
 decisively.
 
 :: Parents
-political ideology
+democracy vs. autocracy
 
 
 the military-industrial complex in society
@@ -38973,7 +39042,7 @@ constructed by the winners of conflicts and would possibly look quite
 different if such conflicts had ended differently.
 
 :: Parents
-human nature
+human idea about life
 
 
 the wish to live
@@ -39484,6 +39553,17 @@ and being honest on the other.
 
 :: Parents
 personal ethical dilemma
+
+
+too much television is bad for society
+======================================
+
+:: Description
+The idea is put forth that people watching too much (or perhaps any amount of)
+TV is detrimental to society for one reason or another.
+
+:: Parents
+mass media in society
 
 
 torture
@@ -42601,21 +42681,6 @@ it. If a smaller amount of money is suddenly gained, the theme "what if I
 suddenly got some free money" applies instead.
 
 
-what if I was trapped in a story
-================================
-
-:: Description
-We imagine what it would be like to be inside the world painted by the story
-of a novel, with no way to escape it.
-
-:: Parents
-what if I found myself in a strange place
-
-:: Examples
-Captain Picard and some of his team were trapped in an eternal live enactment
-of a second rate 20th century novel in tng2x12 "The Royale".
-
-
 what if I was trapped inside a game
 ===================================
 
@@ -42717,6 +42782,7 @@ We imagine what it might be like to suffer from some condition such as
 ability to move but without being entirely brain dead.
 
 :: Parents
+coma
 what if I lived an alternate life
 
 :: References
@@ -43323,6 +43389,9 @@ what life is like
 In "Glory" (1989), we were shown the gruesome experiences of Colenel Shaw's
 all black 54th Massachusetts Infantry Regiment as they lead a suicidal charge
 on Fort Wagner atop Morris Island, with disastrous consequences.
+
+:: Aliases
+what it is like in a battle
 
 
 what it is like in a legal proceeding
