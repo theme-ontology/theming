@@ -39544,12 +39544,12 @@ place instead of traveling around.
 human life choice
 
 
-to tell the truth vs. offering a comforting lie
+to tell the truth vs. to offer a comforting lie
 ===============================================
 
 :: Description
-A character must choose between telling a comforting white lie on one hand,
-and being honest on the other.
+A character must choose between telling a comforting white lie on the one hand,
+and being brutally honest on the other.
 
 :: Parents
 personal ethical dilemma
@@ -42679,6 +42679,22 @@ The threshold for this theme is that the amount of money is so large that the
 person doesn't necessarily have to work more in their life, should they wish
 it. If a smaller amount of money is suddenly gained, the theme "what if I
 suddenly got some free money" applies instead.
+
+
+what if I was trapped in a work of fiction
+==========================================
+
+:: Description
+A character experiences what it is like to be inside the world painted by the
+story of a creative work (e.g., a novel, movie, poem, etc.), with no way to
+escape it.
+
+:: Parents
+what if I found myself in a strange place
+
+:: Examples
+Commander Riker's landing party was trapped in an eternal live enactment of a
+second rate 21st century novel in tng2x12 "The Royale".
 
 
 what if I was trapped inside a game
