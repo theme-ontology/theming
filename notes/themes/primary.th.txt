@@ -1099,6 +1099,7 @@ Featured is the civil war that was fought in the United States from 1861 to
 
 :: Parents
 historical event
+civil war
 
 :: References
 https://en.wikipedia.org/wiki/American_Civil_War
@@ -4797,6 +4798,7 @@ to be happy and grow up as well-adjusted individuals.
 :: Parents
 human social need
 human parenting
+human childhood
 
 :: Examples
 In tz1959e5x36 "The Bewitchin' Pool", the narrator spells out in the end that
@@ -7610,6 +7612,7 @@ A former lovebird deals with the emotional fallout of having been dumped like
 a sack of potatoes.
 
 :: Parents
+coping with heartbreak
 coping with romantic rejection
 
 
@@ -7759,6 +7762,17 @@ In voy2x13 "Prototype" B'Elanna found an alien robot and spent much time
 lovingly restoring and upgrading him. When it turned out that the robot and
 his kin where completely genocidal, B'Elanna very reluctantly took the
 decision to destroy the work she had done in order that it would not aid them.
+
+
+coping with heartbreak
+======================
+
+:: Description
+A former lovebird deals with the emotional fallout of their relationship having
+come to an end for whatever reason.
+
+:: Parents
+romantic relationship issue
 
 
 coping with ill-fitting clothes
@@ -9895,11 +9909,31 @@ destiny
 =======
 
 :: Description
-The idea that some or all of what will happen to us is predetermined and
-cannot be influenced by our decisions.
+Destiny, or "fate", is the idea that some or all of what happens to us is
+predetermined and cannot be influenced by our decisions. This idea is featured in
+the story. It shouldn't be confused with the idea of (backwards) "timetravel"
+and usually isn't used in conjunction with the timetravel theme.
 
 :: Parents
 folk belief
+
+:: Notes
+Typically, destiny is a major theme in stories where a character has been told about
+their future through a prophesy or the like, and strives to change some part of it
+(generally in vain). It is a minor theme for example when a character mentions the
+idea but it has little relevance to the main storyline. Note that words like "destiny"
+and "fate" are sometimes used in figures of speech (say "come, destiny awaits" or
+"that fateful day") where the speaker is not particularly concerned with the idea
+behind the word in question. In such cases it is not used as a theme at all.
+
+Timetravel stories are most often paradoxical but tend to involve a character
+actually changing what has, in a sense, already happened. In some stories
+a character changes the past futilely in order to escape an event in the present
+and it may in some sense look similar to the idea of destiny. However, it is
+difficult to make sense of such stories in the context of "a singular predetermined
+course of events", which is the basis for the classical idea of "destiny". Therefore,
+as a rule of thumb, "destiny" stories tend to be completely separate from
+"timetravel" stories.
 
 :: Examples
 Data was destined to find his own severed head in tng5x26 "Time's Arrow".
@@ -16137,7 +16171,8 @@ hallucination of a non-existing person
 
 :: Description
 A character suffers from the delusion that they perceive a person that is in
-fact not there.
+fact not there. Typically the person is merely a figment of the perceiver's
+imagination, i.e., an imaginary person.
 
 :: Parents
 human mental condition
@@ -41318,18 +41353,6 @@ monster
 https://en.wikipedia.org/wiki/Werewolf
 https://en.wikipedia.org/wiki/Therianthropy
 http://www.sf-encyclopedia.com/entry/werewolves
-
-
-what civilian life is like in times of war
-==========================================
-
-:: Description
-A more or less ordinary character who is not directly part of the war effort,
-nor directly becomes a victim, experiences what civilian life is like when
-their society goes to war.
-
-:: Parents
-what life is like
 
 
 what if a child had power over adults
