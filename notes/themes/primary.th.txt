@@ -18141,31 +18141,30 @@ human vs. desert environment
 ============================
 
 :: Description
-A human struggle to survive the elements commonly associated with a (sandy) desert environment is featured.
-This typically is about surviving in scorching heat and sandstorms with little water.
+A character's struggle to survive the elements commonly associated with a
+(sandy) desert environment is featured.  This typically is about surviving in
+scorching heat and sandstorms with little water.
 
 :: Parents
 human vs. environment
 
 :: Notes
 For theming purposes, "desert" here only refers to those stereotypically sandy
-stretches we usually think about in this context.
-It does, for example, not include Antarctica, which may otherwise be classified as a desert due to its low rate of precipitation.
+stretches we usually think about in this context. It does, for example, not
+include Antarctica, which may otherwise be classified as a desert due to its
+low rate of precipitation.
 
 
 human vs. environment
 =====================
 
 :: Description
-A human struggle to survive the elements commonly associated with a specific environment is featured.
-This could be about surviving in blistering cold, scorching heat, raging wind, etc.
+A character's struggle to survive the elements commonly associated with a
+specific environment is featured. This could be about surviving the blistering
+cold of a frozen wasteland, the scorching heat of a desert, etc.
 
 :: Parents
 human vs. the elements
-
-:: Examples
-Sulu nearly froze to death of Alfa 177 during a geological survey gone wrong
-in tos1x04 "The Enemy Within".
 
 :: References
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
@@ -18274,15 +18273,11 @@ human vs. natural disaster
 ==========================
 
 :: Description
-A character struggles to get by during a natural disaster such as a volcano eruption,
-an earthquake, or a tsunami.
+A character's struggle to get by during a natural disaster is featured. This
+could be about surviving a volcanic eruption, an earthquake, a tsunami, etc.
 
 :: Parents
 human vs. nature
-
-:: Examples
-Sulu nearly froze to death of Alfa 177 during a geological survey gone wrong
-in tos1x04 "The Enemy Within".
 
 :: References
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
@@ -18292,15 +18287,11 @@ human vs. nature
 ================
 
 :: Description
-A human struggle to survive the elements is featured. This could be about
-surviving in blistering cold, scorching heat, raging wind, etc.
+A character's struggle to survive the elements is featured. This could be
+about surviving in blistering cold, scorching heat, raging wind, etc.
 
 :: Parents
 facing adversity
-
-:: Examples
-Sulu nearly froze to death of Alfa 177 during a geological survey gone wrong
-in tos1x04 "The Enemy Within".
 
 :: References
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
@@ -18361,18 +18352,14 @@ human vs. speculative environment
 =================================
 
 :: Description
-A human struggle to survive the elements perceived to be associated with a speculative
-environment is featured.
-This could be about surviving on an alien planet, the unrealistic interior of a creature,
-or in an alternate dimension.
+A character's struggle to survive the elements perceived to be associated with
+a speculative environment is featured. This could be about surviving on an
+alien planet, the unrealistic interior of a creature, or in an alternate
+dimension.
 
 :: Parents
 human vs. environment
 what if I found myself in a strange place
-
-:: Examples
-Sulu nearly froze to death of Alfa 177 during a geological survey gone wrong
-in tos1x04 "The Enemy Within".
 
 :: References
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
@@ -18395,16 +18382,16 @@ human vs. the elements
 ======================
 
 :: Description
-A human struggle to survive the elements as associated with a specific natural weather
-condition.
-This could be about surviving in the blistering cold of an ice storm, in scorching
-heat during a drought, or in the raging winds of a hurricane.
+A character's struggle to survive the elements as associated with a specific
+natural weather condition. This could be about surviving in the blistering
+cold of an ice storm, in scorching heat during a drought, or in the raging
+winds of a hurricane.
 
 :: Parents
 human vs. nature
 
 :: Examples
-Sulu nearly froze to death of Alfa 177 during a geological survey gone wrong
+Sulu nearly froze to death on Alfa 177 during a geological survey gone wrong
 in tos1x04 "The Enemy Within".
 
 :: References
@@ -34754,9 +34741,9 @@ stranded at sea
 ===============
 
 :: Description
-We are made to imagine what it would be like to be stranded at sea with little prospect of
-survival. Typically, a character is adrift on a small vessel with negligible propulsion, or
-flotsam, without much prospect of reaching safety.
+A character is stranded at sea with little prospect of survival. Typically,
+they are adrift on a small vessel with negligible propulsion, or flotsam,
+without much prospect of reaching safety.
 
 :: Parents
 human vs. environment
@@ -34775,7 +34762,9 @@ stranded in outer space
 =======================
 
 :: Description
-A character is stranded in outer space. Typically, they are in a spacesuit or an inadequate spacecraft that keeps them alive for some time, but that lacks the propulsion to reach safety.
+A character is stranded in outer space. Typically, they are in a spacesuit or
+an inadequate spacecraft that keeps them alive for some time, but that lacks
+the propulsion to reach safety.
 
 :: Parents
 human vs. environment
@@ -34786,12 +34775,17 @@ stranded on a deserted island
 =============================
 
 :: Description
-We are made to imagine what it would be like to be stranded on a deserted island, cut off
-from civilization, without much prospect of a timely rescue.
+A character is stranded on a deserted island, cut off from society, without
+much prospect of a timely rescue.
 
 :: Parents
 wilderness survival
 stranded without food and water
+
+:: Examples
+In Daniel Defoe's "Robinson Crusoe" (1719), the titular character spent 28
+years stranded on a remote tropical island off the coasts of Venezuela and
+Trinidad.
 
 :: References
 https://en.wikipedia.org/wiki/Castaway#Castaways_in_popular_culture
@@ -34801,7 +34795,8 @@ stranded on a deserted planet
 =============================
 
 :: Description
-We are made to imagine what it would be like to be stranded on a deserted planet, or similar celestial object, cut off from civilization without much prospect of a timely rescue.
+A character is stranded on a deserted planet, or similar celestial object, cut
+off from society without much prospect of a timely rescue.
 
 :: Parents
 human vs. speculative environment
@@ -34812,9 +34807,10 @@ stranded without food and water
 ===============================
 
 :: Description
-We are made to imagine what it would be like to be, for example, shipwrecked or otherwise
-stranded somewhere, with inadequate food and water supplies or suchlike necessities
-that we are otherwise accustomed to obtaining from the civilization in which we live.
+A character experiences what it would be like to be, for example, shipwrecked
+or otherwise stranded somewhere, with inadequate food and water supplies or
+suchlike necessities that they are otherwise accustomed to obtaining from the
+society in which they live.
 
 :: Parents
 what if I were in a tight spot
@@ -40012,8 +40008,8 @@ trapped underground
 ===================
 
 :: Description
-We are made to imagine what it'd be like to get trapped in a mine, cave, or the like
-without prompt rescue being at hand.
+A character is trapped in a mine, cave, or the like without prompt rescue
+being at hand.
 
 :: Parents
 human vs. environment
@@ -43917,7 +43913,8 @@ wilderness expedition
 =====================
 
 :: Description
-One or more characters trek through a nature environment for an extended time, with a specific purpose, and with some element of risk to it.
+One or more characters trek through a nature environment for an extended
+time, with a specific purpose, and with some element of risk to it.
 
 :: Parents
 human vs. environment
@@ -43928,7 +43925,7 @@ wilderness survival
 
 :: Description
 A character must survive somewhere in nature for an extended time, more or
-less alone  with little or no technology or access to the amenities of a large
+less alone with little or no technology or access to the amenities of a large
 community.
 
 :: Parents
