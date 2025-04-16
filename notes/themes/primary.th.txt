@@ -1440,6 +1440,16 @@ human rights issue
 https://en.wikipedia.org/wiki/Cruelty_to_animals
 
 
+animal point of view
+====================
+
+:: Description
+We are shown what things might be like from the point of view of an animal.
+
+:: Parents
+alien point of view
+
+
 animal rights
 =============
 
@@ -5684,21 +5694,6 @@ https://en.wikipedia.org/wiki/Martial_arts
 martial arts
 
 
-combat sports in society
-========================
-
-:: Description
-The issue of to what extent potentially dangerous fighting between consenting
-individuals should be allowed as a sport is discussed. Dueling, for example,
-has completely vanished and heavy boxing, if permitted, is heavily regulated.
-
-:: Parents
-sociocultural issue
-
-:: References
-https://en.wikipedia.org/wiki/Combat_sport
-
-
 coming of age
 =============
 
@@ -9911,8 +9906,8 @@ destiny
 :: Description
 Destiny, or "fate", is the idea that some or all of what happens to us is
 predetermined and cannot be influenced by our decisions. This idea is featured in
-the story. It shouldn't be confused with the idea of (backwards) "timetravel"
-and usually isn't used in conjunction with the timetravel theme.
+the story. It shouldn't be confused with the idea of (backwards) "time travel"
+and usually isn't used in conjunction with the time travel theme.
 
 :: Parents
 folk belief
@@ -9926,14 +9921,14 @@ and "fate" are sometimes used in figures of speech (say "come, destiny awaits" o
 "that fateful day") where the speaker is not particularly concerned with the idea
 behind the word in question. In such cases it is not used as a theme at all.
 
-Timetravel stories are most often paradoxical but tend to involve a character
+Time travel stories are most often paradoxical but tend to involve a character
 actually changing what has, in a sense, already happened. In some stories
 a character changes the past futilely in order to escape an event in the present
 and it may in some sense look similar to the idea of destiny. However, it is
 difficult to make sense of such stories in the context of "a singular predetermined
 course of events", which is the basis for the classical idea of "destiny". Therefore,
 as a rule of thumb, "destiny" stories tend to be completely separate from
-"timetravel" stories.
+"time travel" stories.
 
 :: Examples
 Data was destined to find his own severed head in tng5x26 "Time's Arrow".
@@ -18142,6 +18137,39 @@ Butthead aliens held Captain Pike captive with the intention to use him as
 breeding stock in tos0x01 "The Cage".
 
 
+human vs. desert environment
+============================
+
+:: Description
+A character's struggle to survive the elements commonly associated with a
+(sandy) desert environment is featured.  This typically is about surviving in
+scorching heat and sandstorms with little water.
+
+:: Parents
+human vs. environment
+
+:: Notes
+For theming purposes, "desert" here only refers to those stereotypically sandy
+stretches we usually think about in this context. It does, for example, not
+include Antarctica, which may otherwise be classified as a desert due to its
+low rate of precipitation.
+
+
+human vs. environment
+=====================
+
+:: Description
+A character's struggle to survive the elements commonly associated with a
+specific environment is featured. This could be about surviving the blistering
+cold of a frozen wasteland, the scorching heat of a desert, etc.
+
+:: Parents
+human vs. the elements
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
+
+
 human vs. human
 ===============
 
@@ -18241,19 +18269,29 @@ Use man vs. animal if the struggle is with a relatively ordinary animal.
 https://en.wikipedia.org/wiki/Monster
 
 
+human vs. natural disaster
+==========================
+
+:: Description
+A character's struggle to get by during a natural disaster is featured. This
+could be about surviving a volcanic eruption, an earthquake, a tsunami, etc.
+
+:: Parents
+human vs. nature
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
+
+
 human vs. nature
 ================
 
 :: Description
-A human struggle to survive the elements is featured. This could be about
-surviving in blistering cold, scorching heat, raging wind, etc.
+A character's struggle to survive the elements is featured. This could be
+about surviving in blistering cold, scorching heat, raging wind, etc.
 
 :: Parents
 facing adversity
-
-:: Examples
-Sulu nearly froze to death of Alfa 177 during a geological survey gone wrong
-in tos1x04 "The Enemy Within".
 
 :: References
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
@@ -18310,6 +18348,23 @@ Beverly became trapped in a collapsing warp bubble universe in tng4x05
 "Remember Me".
 
 
+human vs. speculative environment
+=================================
+
+:: Description
+A character's struggle to survive the elements perceived to be associated with
+a speculative environment is featured. This could be about surviving on an
+alien planet, the unrealistic interior of a creature, or in an alternate
+dimension.
+
+:: Parents
+human vs. environment
+what if I found myself in a strange place
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
+
+
 human vs. technology
 ====================
 
@@ -18321,6 +18376,26 @@ facing adversity
 
 :: References
 https://en.wikipedia.org/wiki/Man_vs._Technology
+
+
+human vs. the elements
+======================
+
+:: Description
+A character's struggle to survive the elements as associated with a specific
+natural weather condition. This could be about surviving in the blistering
+cold of an ice storm, in scorching heat during a drought, or in the raging
+winds of a hurricane.
+
+:: Parents
+human vs. nature
+
+:: Examples
+Sulu nearly froze to death on Alfa 177 during a geological survey gone wrong
+in tos1x04 "The Enemy Within".
+
+:: References
+https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
 
 
 human vs. the occult
@@ -23332,21 +23407,6 @@ There is a being that is too small to see with the naked eye.
 
 :: Parents
 size distinguished being
-
-
-microscopic sentient life form
-==============================
-
-:: Description
-A life form that is microscopic in size, yet (astonishingly when compared to a
-common brain) is considered sentient.
-
-:: Parents
-microscopic being
-
-:: Examples
-The "Microbrains" of Velara III were tiny, yet somehow sentient, crystals in
-tng1x18 "Home Soil".
 
 
 militarization of space
@@ -33860,6 +33920,18 @@ that real people can't ever do.
 speculative ability related to another being
 
 
+speculative rise of civilization
+================================
+
+:: Description
+A society's development from pre-historical through various stages of
+civilization, cultural and scientific development through to some kind of modernity
+is featured more or less in the whole.
+
+:: Parents
+speculative society
+
+
 speculative robot
 =================
 
@@ -34092,6 +34164,18 @@ speculative time manipulating effect
 :: Description
 There is an effect that enables the past be rewritten or the future to be
 changed.
+
+:: Parents
+speculative effect
+
+
+speculative time manipulating effect
+====================================
+
+:: Description
+There is an effect that makes "time" itself behave in ways we are not accustom to.
+For example it may enable the past be rewritten or the future to be changed,
+or time may seem pass at widely different rates at different places.
 
 :: Parents
 speculative effect
@@ -34472,6 +34556,7 @@ featured.
 
 :: Parents
 romantic relationship
+romantic love
 
 :: References
 https://en.wikipedia.org/wiki/Star-crossed
@@ -34650,6 +34735,90 @@ A character regularly regales their audience with the telling of a story.
 
 :: Parents
 the fine arts and the humanities
+
+
+stranded at sea
+===============
+
+:: Description
+A character is stranded at sea with little prospect of survival. Typically,
+they are adrift on a small vessel with negligible propulsion, or flotsam,
+without much prospect of reaching safety.
+
+:: Parents
+human vs. environment
+stranded without food and water
+
+:: Examples
+After a shipwreck, Edward Prendick finds himself adrift in the southern
+Pacific Ocean with two other men and few provisions in H. G. Wells' classic
+science fiction novel "The Island of Doctor Moreau" (1896).
+
+:: References
+https://en.wikipedia.org/wiki/Castaway
+
+
+stranded in outer space
+=======================
+
+:: Description
+A character is stranded in outer space. Typically, they are in a spacesuit or
+an inadequate spacecraft that keeps them alive for some time, but that lacks
+the propulsion to reach safety.
+
+:: Parents
+human vs. environment
+stranded without food and water
+
+
+stranded on a deserted island
+=============================
+
+:: Description
+A character is stranded on a deserted island, cut off from society, without
+much prospect of a timely rescue.
+
+:: Parents
+wilderness survival
+stranded without food and water
+
+:: Examples
+In Daniel Defoe's "Robinson Crusoe" (1719), the titular character spent 28
+years stranded on a remote tropical island off the coasts of Venezuela and
+Trinidad.
+
+:: References
+https://en.wikipedia.org/wiki/Castaway#Castaways_in_popular_culture
+
+
+stranded on a deserted planet
+=============================
+
+:: Description
+A character is stranded on a deserted planet, or similar celestial object, cut
+off from society without much prospect of a timely rescue.
+
+:: Parents
+human vs. speculative environment
+stranded without food and water
+
+
+stranded without food and water
+===============================
+
+:: Description
+A character experiences what it would be like to be, for example, shipwrecked
+or otherwise stranded somewhere, with inadequate food and water supplies or
+suchlike necessities that they are otherwise accustomed to obtaining from the
+society in which they live.
+
+:: Parents
+what if I were in a tight spot
+
+:: Examples
+Captain Picard, Wesley, and the cantankerous mining shuttle captain Dirgo
+crash-landed without food and water on the desert moon Lambda Paz in tng4x09
+"Final Mission".
 
 
 stress from being in danger
@@ -38591,18 +38760,6 @@ The all-powerful Douwd didn't think so and wiped them out of existence with a
 thought. Then he suffered grievous pangs of conscience.
 
 
-the rise of civilization
-========================
-
-:: Description
-Humankind's development from pre-historical primate through various stages of
-civilization, cultural and scientific development through to our present state
-is featured more or less in the whole.
-
-:: Parents
-history
-
-
 the road to hell is paved with good intentions
 ==============================================
 
@@ -39645,6 +39802,19 @@ waste management
 https://en.wikipedia.org/wiki/Toxic_waste
 
 
+track and field
+===============
+
+:: Description
+Track and field is a sport that includes athletic contests based on running, jumping, and throwing skills. This sport is featured in the story.
+
+:: Parents
+sports
+
+:: References
+https://en.wikipedia.org/wiki/Track_and_field
+
+
 tractor beam
 ============
 
@@ -39817,6 +39987,38 @@ in tos3x24 "Turnabout Intruder".
 
 :: References
 https://en.wikipedia.org/wiki/Transsexual
+
+
+trapped in the belly of a whale
+===============================
+
+:: Description
+A character is swallowed up by a whale, or similar leviathan, and must face
+the prospect that they may never again see the light of day.
+
+:: Parents
+human vs. speculative environment
+stranded without food and water
+
+:: References
+https://en.wikipedia.org/wiki/Jonah
+
+
+trapped underground
+===================
+
+:: Description
+A character is trapped in a mine, cave, or the like without prompt rescue
+being at hand.
+
+:: Parents
+human vs. environment
+stranded without food and water
+
+:: Examples
+In tz1985e2x08b "The Junction", two miners from very different points in time
+somehow end up trapped together in a collapsed mineshaft, hoping beyond hope
+for rescue.
 
 
 travel inside a human body
@@ -42868,79 +43070,6 @@ able to stay silent for a whole year. In order for the effort to be vetted, he
 had to live practically isolated in a glass room.
 
 
-what if I were stranded at sea
-==============================
-
-:: Description
-We imagine what it would be like to be stranded at sea with little prospect of
-survival.
-
-:: Parents
-what if I found myself in a strange place
-
-:: Examples
-After a shipwreck, Edward Prendick finds himself adrift in the southern
-Pacific Ocean with two other men and few provisions in H. G. Wells' classic
-science fiction novel "The Island of Doctor Moreau" (1896).
-
-:: References
-https://en.wikipedia.org/wiki/Castaway
-
-
-what if I were stranded in outer space
-======================================
-
-:: Description
-A character is stranded in outer space.
-
-:: Parents
-what if I found myself in a strange place
-
-
-what if I were stranded on a deserted island
-============================================
-
-:: Description
-We imagine what it would be like to be stranded on a deserted island, cut off
-from civilization.
-
-:: Parents
-what if I found myself in a strange place
-
-:: References
-https://en.wikipedia.org/wiki/Castaway#Castaways_in_popular_culture
-
-
-what if I were stranded on a deserted planet
-============================================
-
-:: Description
-We imagine what it would be like to be stranded on a deserted planet, cut off
-from civilization.
-
-:: Parents
-what if I found myself in a strange place
-
-:: Notes
-This theme is used for planets and other planet-like celestial bodies alike.
-
-
-what if I were stranded without food and water
-==============================================
-
-:: Description
-We imagine what it would be like to be shipwrecked or otherwise stranded
-somewhere, with little or no food and water.
-
-:: Parents
-what if I found myself in a strange place
-
-:: Examples
-Captain Picard, Wesley, and the cantankerous mining shuttle captain Dirgo
-crash-landed without food and water on the desert moon Lambda Paz in tng4x09
-"Final Mission".
-
-
 what if I were the last of my family line
 =========================================
 
@@ -42964,36 +43093,6 @@ A character is trapped inside a nightmare.
 
 :: Parents
 what if I found myself in a strange place
-
-
-what if I were trapped in the belly of a whale
-==============================================
-
-:: Description
-A character is swallowed up by a whale, or similar leviathan, and must face
-the prospect that they may never again see the light of day.
-
-:: Parents
-what if I were in a tight spot
-
-:: References
-https://en.wikipedia.org/wiki/Jonah
-
-
-what if I were trapped underground
-==================================
-
-:: Description
-We imagine what it'd be like to get trapped in a mine, cave, or the like
-without immediate rescue being at hand.
-
-:: Parents
-what if I were in a tight spot
-
-:: Examples
-In tz1985e2x08b "The Junction", two miners from very different points in time
-somehow end up trapped together in a collapsed mineshaft, hoping beyond hope
-for rescue.
 
 
 what if I woke up in a strange place and didn't remember how I got there
@@ -43398,20 +43497,6 @@ philosophy
 
 :: References
 https://en.wikipedia.org/wiki/Truth
-
-
-what it is like during a natural disaster
-=========================================
-
-:: Description
-We are made to imagine what things might be like during an ongoing natural
-disaster, for example an Earthquake.
-
-:: Parents
-what life is like
-
-:: References
-https://en.wikipedia.org/wiki/Natural_disaster
 
 
 what it is like in a combat zone
@@ -43824,16 +43909,27 @@ devoted older man with a cruel, selfish, and self-indulgent younger wife named
 Flora.
 
 
+wilderness expedition
+=====================
+
+:: Description
+One or more characters trek through a nature environment for an extended
+time, with a specific purpose, and with some element of risk to it.
+
+:: Parents
+human vs. environment
+
+
 wilderness survival
 ===================
 
 :: Description
 A character must survive somewhere in nature for an extended time, more or
-less alone  with little or no technology or access to the amenities of a large
+less alone with little or no technology or access to the amenities of a large
 community.
 
 :: Parents
-human vs. nature
+human vs. environment
 
 
 wish-granting being
@@ -44384,6 +44480,19 @@ human worrying about self
 Captain Picard and his crew finally rejected the fake orders they had received
 to kill defenceless aliens in tng5x14 "Conundrum", because the orders went
 against good conscience.
+
+
+writer's block
+==============
+
+:: Description
+A writer's block is a non-medical condition, primarily associated with writing, in which an author is either unable to produce new work or experiences a creative slowdown. A character in the story struggles with this condition.
+
+:: Parents
+coping with life issues
+
+:: References
+https://en.wikipedia.org/wiki/Writer%27s_block
 
 
 X-rays
