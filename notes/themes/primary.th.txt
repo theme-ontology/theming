@@ -2330,6 +2330,23 @@ divination
 https://en.wikipedia.org/wiki/Astrology
 
 
+astronaut occupation
+====================
+
+:: Description
+An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Such a person is featured.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This theme is not used in sci-fi films where space travel is ubiquitous and
+people don't need specific training for the purpose.
+
+:: References
+https://en.wikipedia.org/wiki/Astronaut
+
+
 astronomical impact avoidance
 =============================
 
@@ -10136,11 +10153,15 @@ disciplined leadership vs. flexible leadership
 ==============================================
 
 :: Description
-Someone in a leadership position weighs what balance of flexibility and
-friendliness they should adopt vs. how much hard discipline to impose.
+Two characters in leadership positions take radically different approaches
+in terms of what balance of flexibility and friendliness they employ
+vs. how much hard discipline they impose.
+Alternatively, a single character contemplates which of these leadership
+styles to adopt.
 
 :: Parents
-personal practical dilemma
+human characters in contrast
+leadership
 
 
 discovering a hidden talent
@@ -11349,14 +11370,20 @@ emergently intelligent being
 ============================
 
 :: Description
-An intelligence forms through some natural process akin to evolution. This is
-as opposed to it being designed by some other intelligence.
+A non-human intelligence forms through some process akin to evolution.
+This is as opposed to it being designed by some prior intelligence.
 
 :: Parents
 speculative being
 
+:: Notes
+In fiction there are many cases of machines that weren't meant to be
+intelligent, becoming so for one reason or another. That case is typically in
+scope for this theme. The boundary becomes blurred when the machine was
+originally designed to be advanced close to the point of intelligence.
+
 :: References
-https://en.wikipedia.org/wiki/Noogenesis
+https://en.wikipedia.org/wiki/Intelligence
 
 
 emotional attachment to a thing
@@ -34294,6 +34321,12 @@ ability but scaled up to an impossible extent.
 :: Parents
 speculative personal body manipulation
 
+:: Notes
+This theme is generally not used for machines or
+artificial beings. It may be used when those machines
+are compared and contrasted with humans, as is
+sometimes the case with androids in stories.
+
 
 speed of light limitation
 =========================
@@ -38658,6 +38691,7 @@ considered to be a normal lifespan.
 
 :: Parents
 human self-actualization need
+immortality
 
 :: Examples
 Ira Graves surreptitiously transferred his consciousness into Data in an
@@ -39580,6 +39614,29 @@ time travel
 :: References
 https://en.wikipedia.org/wiki/Time_travel
 http://www.sf-encyclopedia.com/entry/time_machine
+
+
+time passing at different rates for different people
+====================================================
+
+:: Description
+At least two characters experience the passage of time such that time goes faster for
+the one and slower for the other.
+
+:: Parents
+speculative time manipulating effect
+speculative experience
+
+:: Notes
+For this theme to apply, the experience of the passage of time must be
+depicted from the point of view of each character. In particular, this theme
+does not apply when one character simply freezes time or slows time to a
+crawl.
+
+:: Examples
+The Scalosians had been subjected to radiation that made them speed up in time
+relative to the Enterprise crew in tos3x13 "Wink of an Eye". The radiation had
+its negative effects also, rendering them sterile.
 
 
 time portal
@@ -43346,28 +43403,6 @@ inconsistently around us.
 
 :: Parents
 what if I were in a tight spot
-
-
-what if time passed at different rates for different people
-===========================================================
-
-:: Description
-Two characters experience the passage of time such that time goes faster for
-the one and slower for the other.
-
-:: Parents
-speculative experience
-
-:: Notes
-For this theme to apply, the experience of the passage of time must be
-depicted from the point of view of each character. In particular, this theme
-does not apply when one character simply freezes time or slows time to a
-crawl.
-
-:: Examples
-The Scalosians had been subjected to radiation that made them speed up in time
-relative to the Enterprise crew in tos3x13 "Wink of an Eye". The radiation had
-its negative effects also, rendering them sterile.
 
 
 what if we all lost our memories
