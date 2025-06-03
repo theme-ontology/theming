@@ -14,6 +14,21 @@ among the top 100 movies of all times.
 :: References
 https://www.timeout.com/london/film/the-100-best-movies-of-all-time
 
+:: Component Stories
+movie: 2001: A Space Odyssey (1968)
+movie: Alien (1979)
+movie: Blade Runner (1982)
+movie: Eternal Sunshine of the Spotless Mind (2004)
+movie: La Dolce Vita (1960)
+movie: Metropolis (1927)
+movie: North by Northwest (1959)
+movie: Psycho (1960)
+movie: Rashomon (1950)
+movie: Seven Samurai (1954)
+movie: Star Wars (1977)
+movie: The Thing (1982)
+movie: Vertigo (1958)
+
 
 movie: A Woman Under the Influence (1974)
 =========================================
@@ -2120,9 +2135,6 @@ https://en.wikipedia.org/wiki/Persona_(1966_film)
 :: Ratings
 5 <mikael>
 
-:: Collections
-Collection: Ingmar Bergman
-
 :: Choice Themes
 human nature [At the core of the story was the idea that we all play-act our way through life, that we are all conceited liars through and through.]
 human self-reflection [Both women were analyzing their own innermost feelings.]
@@ -3389,9 +3401,6 @@ https://en.wikipedia.org/wiki/The_Seventh_Seal
 
 :: Ratings
 5 <mikael>
-
-:: Collections
-Collection: Ingmar Bergman
 
 :: Choice Themes
 coming to terms with one's own death [Antonius Block played chess with death to give himself more time but knew that he would soon die.]
