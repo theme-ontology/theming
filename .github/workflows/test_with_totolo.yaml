@@ -1,10 +1,10 @@
 name: Test with Python 🐍 totolo 🤖
 
 on:
+  workflow_dispatch:
   push:
     branches: [ master ]
   pull_request:
-    types: [ opened, synchronize ]
 
 jobs:
   test-with-totolo:
