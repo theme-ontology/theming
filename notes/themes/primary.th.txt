@@ -11830,6 +11830,21 @@ A character has a limb that seems to have an evil mind of its own.
 what if my personal identity came into question
 
 
+evocation magic
+===============
+
+:: Description
+Evocation is the act of evoking, calling upon, or summoning a spirit, demon,
+deity or other supernatural agents. Such acts of supernatural magic are
+featured in the story.
+
+:: Parents
+folk belief
+
+:: References
+https://en.wikipedia.org/wiki/Evocation
+
+
 exaggerating the importance of humanity's place in the universe
 ===============================================================
 
@@ -18286,6 +18301,24 @@ https://en.wikipedia.org/wiki/Franz_Kafka#%22Kafkaesque%22
 human vs. bureaucracy
 
 
+human vs. monster
+=================
+
+:: Description
+A struggle between human an monster is featured. Monster, in this case, means
+a grotesque version of man or animal of a sort typically only exists in
+stories.
+
+:: Parents
+facing adversity
+
+:: Notes
+Use "human vs. beast" if the struggle is with a relatively ordinary animal.
+
+:: References
+https://en.wikipedia.org/wiki/Monster
+
+
 human vs. natural disaster
 ==========================
 
@@ -18415,6 +18448,19 @@ in tos1x04 "The Enemy Within".
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
 
 
+human vs. the occult
+====================
+
+:: Description
+A human fights supernatural forces, e.g., ghosts.
+
+:: Parents
+facing adversity
+
+:: Examples
+All manner of hocus-pocus abounded in tos2x01 "Catspaw".
+
+
 human vs. venomous animal
 =========================
 
@@ -18424,6 +18470,16 @@ said human, is featured.
 
 :: Parents
 human vs. beast
+
+
+human vs. zombie
+================
+
+:: Description
+There is a struggle between man and zombie.
+
+:: Parents
+human vs. the occult
 
 
 human worrying about self
