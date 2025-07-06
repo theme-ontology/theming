@@ -11830,6 +11830,21 @@ A character has a limb that seems to have an evil mind of its own.
 what if my personal identity came into question
 
 
+evocation magic
+===============
+
+:: Description
+Evocation is the act of evoking, calling upon, or summoning a spirit, demon,
+deity or other supernatural agents. Such acts of supernatural magic are
+featured in the story.
+
+:: Parents
+folk belief
+
+:: References
+https://en.wikipedia.org/wiki/Evocation
+
+
 exercising self-control
 =======================
 
@@ -18269,6 +18284,24 @@ https://en.wikipedia.org/wiki/Franz_Kafka#%22Kafkaesque%22
 human vs. bureaucracy
 
 
+human vs. monster
+=================
+
+:: Description
+A struggle between human an monster is featured. Monster, in this case, means
+a grotesque version of man or animal of a sort typically only exists in
+stories.
+
+:: Parents
+facing adversity
+
+:: Notes
+Use "human vs. beast" if the struggle is with a relatively ordinary animal.
+
+:: References
+https://en.wikipedia.org/wiki/Monster
+
+
 human vs. natural disaster
 ==========================
 
@@ -18365,6 +18398,19 @@ what if I found myself in a strange place
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
 
 
+human vs. supernatural being
+============================
+
+:: Description
+
+
+:: Parents
+human vs. the supernatural
+
+:: References
+https://en.wikipedia.org/wiki/Evocation
+
+
 human vs. technology
 ====================
 
@@ -18398,6 +18444,19 @@ in tos1x04 "The Enemy Within".
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
 
 
+human vs. the supernatural
+==========================
+
+:: Description
+A human fights supernatural forces, e.g., ghosts.
+
+:: Parents
+facing adversity
+
+:: Examples
+All manner of hocus-pocus abounded in tos2x01 "Catspaw".
+
+
 human vs. venomous animal
 =========================
 
@@ -18407,6 +18466,16 @@ said human, is featured.
 
 :: Parents
 human vs. beast
+
+
+human vs. zombie
+================
+
+:: Description
+There is a struggle between man and zombie.
+
+:: Parents
+human vs. the supernatural
 
 
 human worrying about self
@@ -18531,6 +18600,19 @@ reptilian being
 :: Examples
 Dr. Curt Connors transformed himself into a lizard-man with super regenerative
 capabilities in "The Amazing Spider-Man" (2012).
+
+
+humanity's place in the universe
+================================
+
+:: Description
+
+
+:: Parents
+philosophy
+
+:: References
+https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
 
 
 humankind controlling its own destiny
