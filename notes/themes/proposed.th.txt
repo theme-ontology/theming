@@ -2,12 +2,12 @@ human vs. monster
 =================
 
 :: Description
-A struggle between human an monster is featured. Monster, in this case, means
+A struggle between person and monster is featured. Monster, here, means
 a grotesque version of man or animal of a sort that typically only exists in
 stories.
 
 :: Parents
-facing adversity
+human vs. unnatural being
 
 :: Notes
 Use "human vs. beast" if the struggle is with a relatively ordinary animal.
@@ -16,38 +16,61 @@ Use "human vs. beast" if the struggle is with a relatively ordinary animal.
 https://en.wikipedia.org/wiki/Monster
 
 
-human vs. the supernatural
-==========================
+human vs. spirit
+================
 
 :: Description
-A human fights supernatural forces, e.g., ghosts.
+A struggle between person and spirit is featured. 
+A spirit is an "immaterial being", "supernatural agent", the "soul of a person", an "invisible entity", or the "soul of a seriously suffering person". 
+Often spirits have an intermediate status between gods and humans, sharing some properties with gods (Incorporeality, greater powers) and some with humans (finite, not omniscience).
+
+:: Parents
+human vs. unnatural being
+
+:: References
+https://en.wikipedia.org/wiki/Spirit_(supernatural_entity)
+
+
+human vs. magic wielder
+=======================
+
+:: Description
+There is a struggle between a relatively normal person and someone, such as
+a wizard, who uses magic powers.
+
+:: Parents
+human vs. the unnatural
+
+:: References
+https://en.wikipedia.org/wiki/Magic_(supernatural)
+
+
+human vs. the unnatural
+=======================
+
+:: Description
+A person struggles against supernatural or otherwise unnatural forces 
+such as dark magic or unnatural beings.
 
 :: Parents
 facing adversity
 
-:: Examples
-All manner of hocus-pocus abounded in tos2x01 "Catspaw".
+:: References
+https://en.wikipedia.org/wiki/Supernatural
 
 
-human vs. zombie
-================
+human vs. unnatural being
+=========================
 
 :: Description
-There is a struggle between man and zombie.
+A person struggles against supernatural or otherwise unnatural beings 
+such as ghosts or mutant zombies.
 
 :: Parents
-human vs. the occult
+human vs. the unnatural
 
-
-exaggerating the importance of humanity's place in the universe
-===============================================================
-
-:: Description
-Featured is a doctrine that is notably precise and disproved, and which
-flagrantly exaggerates humanities role in the universe. The most notable
-example of this is the geocentric model of the universe, i.e., the idea that
-Earth and humanity must be at the physical center of creation. There are,
-however, variations.
+:: References
+https://en.wikipedia.org/wiki/Supernatural
 
 
 evocation magic
@@ -63,28 +86,22 @@ folk belief
 https://en.wikipedia.org/wiki/Evocation
 
 
-human vs. supernatural being
-============================
-
-:: Description
-
-:: Parents
-human vs. the supernatural
-
-:: References
-https://en.wikipedia.org/wiki/Evocation
-
-
 humanity's place in the universe
 ================================
 
 :: Description
+A philosophical, or theological, view of humanities place in the universe is discussed.
+For example, the idea that Earth and humanity is at the center of all that there is,
+may be put forth. Alternatively, the contrasting scientific and modern view that humanity
+is a tiny little thing in the vastness of the cosmos, may be pointedly emphasized
+or illustrated.
 
 :: Parents
 philosophy
 
 :: References
 https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
+
 
 
 summoning a malevolent being
