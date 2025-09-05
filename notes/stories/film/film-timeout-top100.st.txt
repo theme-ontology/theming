@@ -14,6 +14,21 @@ among the top 100 movies of all times.
 :: References
 https://www.timeout.com/london/film/the-100-best-movies-of-all-time
 
+:: Component Stories
+movie: 2001: A Space Odyssey (1968)
+movie: Alien (1979)
+movie: Blade Runner (1982)
+movie: Eternal Sunshine of the Spotless Mind (2004)
+movie: La Dolce Vita (1960)
+movie: Metropolis (1927)
+movie: North by Northwest (1959)
+movie: Psycho (1960)
+movie: Rashomon (1950)
+movie: Seven Samurai (1954)
+movie: Star Wars (1977)
+movie: The Thing (1982)
+movie: Vertigo (1958)
+
 
 movie: A Woman Under the Influence (1974)
 =========================================
@@ -1897,7 +1912,7 @@ https://en.wikipedia.org/wiki/Night_of_the_Living_Dead
 4 <mikael>
 
 :: Choice Themes
-human vs. zombie [a group of people tried to survive when the dead cam back to life]
+human vs. monster [The story is about a group of people who did their best to survive when the dead started to walk.]
 zombie [recently deceased people came back to life as some sort of zombies called ghouls]
 
 :: Major Themes
@@ -1954,8 +1969,9 @@ husband and wife [Thomas and Ellen were in a blissful marriage.]
 romantic love [Thomas and Ellen were in the throws of love.]
 coping with a loved one being in peril [Ellen was distraught when Thomas embarked on a perilous journey to Transylvania in the 19th century, and even more so when he failed to return on time.]
 fear for one's life [It slowly dawned on Thomas what he was up against in Count Orlok to the point where one night he was simply shivering in a corner hugging his cross for protection.]
-human vs. the occult [The sailors came to see what they faced and were overpowered by Count Orlok and the forces of evil that accompanied him. In the end, Ellen found a ruse to snare Count Orlok with her womanly innocence.]
+human vs. magic wielder [Count Orlok summoned fog and controlled various animals. He was also somewhat monstrous in appearance, while his adversaries were ordinary people.]
 epidemics in society [The people of Wisborg thought the vampire victims had died of the plague, and the viewer saw how society handled the situation with crosses drawn on doors and angry mobs.]
+human vs. monster [Count Orlok summoned fog and controlled various animals. He was also somewhat monstrous in appearance, while his adversaries were ordinary people.]
 
 :: Minor Themes
 what it is like in a psychiatric institution [Knock was incarcerated in a psychiatric ward.]
@@ -2131,9 +2147,6 @@ https://en.wikipedia.org/wiki/Persona_(1966_film)
 
 :: Ratings
 5 <mikael>
-
-:: Collections
-Collection: Ingmar Bergman
 
 :: Choice Themes
 human nature [At the core of the story was the idea that we all play-act our way through life, that we are all conceited liars through and through.]
@@ -2853,7 +2866,7 @@ https://en.wikipedia.org/wiki/The_Blair_Witch_Project
 5 <mikael>
 
 :: Choice Themes
-human vs. the occult [three young filmmakers were haunted by the ghost of a which while lost in a forest]
+human vs. spirit [While lost in a forest, three young filmmakers were haunted by the ghost of a witch.]
 what if a killer was after me [three young filmmakers were lost in a forest and tormented by someone or something that, it transpired, sought their eventual death]
 coping with being lost in the forest [three young filmmakers were lost in a forest]
 
@@ -3230,7 +3243,7 @@ sacrifice for one's beliefs [in th end Joan went willingly to her own burning ra
 duty vs. self-preservation [Joan was pressured to forswear her divine mission in order to save her life but she refused]
 
 :: Major Themes
-faith vs. reason [Joan held to her faith in the visions even when the learned men argued logically that it must be of the Devil because they said so and they were wiser than Joan]
+faith vs. science [Joan held to her faith in the visions even when the learned men argued logically that they must be of the Devil because they said so and they were wiser than her.]
 capital punishment [The story lead up to a burning at the stake.]
 Christianity [the story centered on activities of the Catholic church in England in 1431]
 war [the backdrop of the trial was the war with France, in which Joan had been a commander, but was now captured by the English]
@@ -3401,9 +3414,6 @@ https://en.wikipedia.org/wiki/The_Seventh_Seal
 
 :: Ratings
 5 <mikael>
-
-:: Collections
-Collection: Ingmar Bergman
 
 :: Choice Themes
 coming to terms with one's own death [Antonius Block played chess with death to give himself more time but knew that he would soon die.]
