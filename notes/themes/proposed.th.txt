@@ -1,23 +1,11 @@
-coping with being blind
-=======================
-
-:: Description
-A character is visually impaired to such an extent that their eyes are nearly 
-useless to them.
-
-:: Parents
-coping with a disability
-
-:: References
-https://en.wikipedia.org/wiki/Visual_impairment
-
-
 sex-droid
 =========
 
 :: Description
-There is a "fully functional" android of one gender or another, capable of pleasing its masters in matters of the flesh. Discussed is whether or to what extent such behavior should be
-tolerated in society.
+There is a "fully functional" android of one gender or another, capable of pleasing its masters in matters of the flesh. Whether or to what extent such behavior should be
+tolerated in society is topical. 
+In practice, if the idea of sexual activity with a human-like machine is mooted in the story, this
+theme can almost certainly be motivated since such any such goings-on would be generally be eyebrow-raising to an audience whether past- or present-day.
 
 :: Parents
 android
@@ -35,4 +23,84 @@ coping with a disability
 
 :: References
 https://en.wikipedia.org/wiki/Speech_disorder
+
+
+muteness
+========
+
+:: Description
+A character experiences life without the ability to speak aloud.
+
+:: Parents
+speech disorder
+
+:: References
+https://en.wikipedia.org/wiki/Muteness
+
+
+blindness
+=========
+
+:: Description
+A character is visually impaired to such an extent that their eyes are nearly 
+useless to them.
+
+:: Parents
+coping with a disability
+
+:: References
+https://en.wikipedia.org/wiki/Visual_impairment
+
+
+mobility impairment
+===================
+
+:: Description
+A character experiences life without the ability to speak aloud.
+
+:: Parents
+speech disorder
+
+:: References
+https://en.wikipedia.org/wiki/Physical_disability
+
+
+deafness
+========
+
+:: Description
+A character experiences life with severely reduced hearing to the point that they can't practically understand spoken language.
+
+:: Parents
+speech disorder
+
+:: References
+https://en.wikipedia.org/wiki/Deafness
+
+
+missing hand
+============
+
+:: Description
+A character experiences life without less than two functioning hands.
+For the avoidance of doubt, this theme also applies if an entire arm is
+absent.
+
+:: Parents
+mobility impairment
+
+:: References
+https://en.wikipedia.org/wiki/Physical_disability
+
+
+communicating with deaf people
+==============================
+
+:: Description
+The troubles a person who is deaf and one who is not, may have in
+communicating with each other are illustrated.
+
+:: Parents
+problem of language and meaning
+deafness
 
