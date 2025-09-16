@@ -608,22 +608,8 @@ Haftel attempted to separate the father and daughter in tng3x16 "The
 Offspring".
 
 
-AI safeguards
-=============
-
-:: Description
-Ways in which AI can be made safe from becoming kill-all-human machines are
-discussed. Isaac Asimov's three laws of robotics is a popular example.
-
-:: Parents
-artificial intelligence
-
-:: References
-https://en.wikipedia.org/wiki/Artificial_intelligence
-
-
-AI takeover
-===========
+AI risk to civilization
+=======================
 
 :: Description
 Artificial intelligence becomes the dominant form of intelligence on a world,
@@ -636,6 +622,20 @@ out of control AI
 
 :: References
 https://en.wikipedia.org/wiki/AI_takeover
+
+
+AI safeguards
+=============
+
+:: Description
+Ways in which AI can be made safe from becoming kill-all-human machines are
+discussed. Isaac Asimov's three laws of robotics is a popular example.
+
+:: Parents
+artificial intelligence
+
+:: References
+https://en.wikipedia.org/wiki/Artificial_intelligence
 
 
 aircraft hijacking
@@ -3624,6 +3624,20 @@ crime against property
 https://en.wikipedia.org/wiki/Blackmail
 
 
+blindness
+=========
+
+:: Description
+A character is visually impaired to such an extent that their eyes are nearly
+useless to them.
+
+:: Parents
+visual impairment
+
+:: References
+https://en.wikipedia.org/wiki/Visual_impairment
+
+
 blobform
 ========
 
@@ -5545,6 +5559,28 @@ form of government
 https://en.wikipedia.org/wiki/Colonialism
 
 
+colonization
+============
+
+:: Description
+Colonization is a process of establishing control over areas or peoples for
+foreign people to advance their trade, cultivation, exploitation and possibly
+settlement. Such a process is featured in the story. In modern fiction,
+colonization typically comes at the expense of indigenous cultures and is seen
+as a moral wrong.
+
+:: Parents
+international issue
+
+:: Examples
+The Federation was preparing a seemingly lifeless planet for colonization in
+tng1x18 "Home Soil", but it turned out that it harbored a very unusual form of
+life. The morality of the whole endeavor became a central topic for the story.
+
+:: References
+https://en.wikipedia.org/wiki/Colonization
+
+
 colonization of Alpha Centauri
 ==============================
 
@@ -5909,6 +5945,7 @@ communicating with each other are illustrated.
 
 :: Parents
 problem of language and meaning
+deafness
 
 
 communicating with someone who speaks a different language
@@ -7709,19 +7746,6 @@ Salia was reluctant to be the predetermined ruler of Daled IV in tng2x10 "The
 Dauphin".
 
 
-coping with having a speech disorder
-====================================
-
-:: Description
-Someone experiences life with a speech impediment.
-
-:: Parents
-human health condition
-
-:: References
-https://en.wikipedia.org/wiki/Speech_disorder
-
-
 coping with having a stigmatizing illness
 =========================================
 
@@ -9236,15 +9260,14 @@ cyborg
 ======
 
 :: Description
-A being whose body is part biological and part mechanical.
+There is a being that is to a significant extent mechanical but that is a
+living biological organism at its core. Typically, a person or creature has
+been transformed by artifice into something that has a significant amount of
+non-biological technology integrated into it.
 
 :: Parents
 artificial being
 hybrid being
-
-:: Examples
-Q acquainted the Enterprise-D crew with that enigmatic race of cyborgs known
-as the Borg in tng2x16 "Q Who".
 
 :: References
 https://en.wikipedia.org/wiki/Cyborg
@@ -9407,6 +9430,20 @@ A character is able to kill people (or living things) merely by touching them.
 
 :: Parents
 remote harming ability
+
+
+deafness
+========
+
+:: Description
+A character experiences life with severely reduced hearing to the point that
+they can't practically understand spoken language.
+
+:: Parents
+speech disorder
+
+:: References
+https://en.wikipedia.org/wiki/Deafness
 
 
 deal with the devil
@@ -11727,6 +11764,23 @@ https://en.wikipedia.org/wiki/Eugenics
 http://www.sf-encyclopedia.com/entry/eugenics
 
 
+European colonization of the Americas
+=====================================
+
+:: Description
+During the Age of Discovery, a large scale colonization of the Americas,
+involving European countries, took place primarily between the late 15th
+century and early 19th century. Featured is all or some part of this centuries
+long human activity.
+
+:: Parents
+historical event
+colonization
+
+:: References
+https://en.wikipedia.org/wiki/European_colonization_of_the_Americas
+
+
 European dragon
 ===============
 
@@ -11830,21 +11884,19 @@ A character has a limb that seems to have an evil mind of its own.
 what if my personal identity came into question
 
 
-exaggerating the importance of humanity's place in the universe
-===============================================================
+evocation magic
+===============
 
 :: Description
-Featured is a doctrine that is notably precise and disproved, and which
-flagrantly exaggerates humanities role in the universe. The most notable
-example of this is the geocentric model of the universe, i.e., the idea that
-Earth and humanity must be at the physical center of creation. There are,
-however, variations.
+Evocation is the act of evoking, calling upon, or summoning a spirit, demon,
+deity or other supernatural agents. Such acts of supernatural magic are
+featured in the story.
 
 :: Parents
-philosophy
+folk belief
 
 :: References
-https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
+https://en.wikipedia.org/wiki/Evocation
 
 
 exercising self-control
@@ -13887,6 +13939,7 @@ adventure, or settling down etc.
 
 :: Parents
 human life choice
+human aspiration
 
 
 filial love
@@ -16434,6 +16487,7 @@ are keeping from everyone else, or at least from the general public.
 
 :: Parents
 human worrying about self
+keeping secrets
 
 
 head transplant
@@ -18286,19 +18340,33 @@ https://en.wikipedia.org/wiki/Franz_Kafka#%22Kafkaesque%22
 human vs. bureaucracy
 
 
+human vs. magic wielder
+=======================
+
+:: Description
+There is a struggle between a relatively normal person and someone, such as a
+wizard, who uses magic powers.
+
+:: Parents
+human vs. the unnatural
+
+:: References
+https://en.wikipedia.org/wiki/Magic_(supernatural)
+
+
 human vs. monster
 =================
 
 :: Description
-A struggle between human an monster is featured. Monster, in this case, means
-a grotesque version of man or animal of a sort typically only exists in
+A struggle between person and monster is featured. Monster, here, means a
+grotesque version of man or animal of a sort that typically only exists in
 stories.
 
 :: Parents
-facing adversity
+human vs. unnatural being
 
 :: Notes
-Use man vs. animal if the struggle is with a relatively ordinary animal.
+Use "human vs. beast" if the struggle is with a relatively ordinary animal.
 
 :: References
 https://en.wikipedia.org/wiki/Monster
@@ -18400,6 +18468,24 @@ what if I found myself in a strange place
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
 
 
+human vs. spirit
+================
+
+:: Description
+A struggle between person and spirit is featured. A spirit, here, means an
+"immaterial being", "supernatural agent", the "soul of a person", an
+"invisible entity", or the "soul of a seriously suffering person". Often
+spirits have an intermediate status between gods and humans, sharing some
+properties with gods (incorporeality, greater powers) and some with humans
+(finite, not omniscience).
+
+:: Parents
+human vs. unnatural being
+
+:: References
+https://en.wikipedia.org/wiki/Spirit_(supernatural_entity)
+
+
 human vs. technology
 ====================
 
@@ -18433,17 +18519,33 @@ in tos1x04 "The Enemy Within".
 https://en.wikipedia.org/wiki/Conflict_(narrative)#Man_against_nature
 
 
-human vs. the occult
-====================
+human vs. the unnatural
+=======================
 
 :: Description
-A human fights supernatural forces, e.g., ghosts.
+A person struggles against supernatural or otherwise unnatural forces such as
+dark magic or unnatural beings. Unnatural, here, means not existing in nature
+as it is presently understood.
 
 :: Parents
 facing adversity
 
-:: Examples
-All manner of hocus-pocus abounded in tos2x01 "Catspaw".
+:: References
+https://en.wikipedia.org/wiki/Supernatural
+
+
+human vs. unnatural being
+=========================
+
+:: Description
+A person struggles against supernatural or otherwise unnatural beings such as
+ghosts or mutant zombies.
+
+:: Parents
+human vs. the unnatural
+
+:: References
+https://en.wikipedia.org/wiki/Supernatural
 
 
 human vs. venomous animal
@@ -18455,16 +18557,6 @@ said human, is featured.
 
 :: Parents
 human vs. beast
-
-
-human vs. zombie
-================
-
-:: Description
-There is a struggle between man and zombie.
-
-:: Parents
-human vs. the occult
 
 
 human worrying about self
@@ -18589,6 +18681,23 @@ reptilian being
 :: Examples
 Dr. Curt Connors transformed himself into a lizard-man with super regenerative
 capabilities in "The Amazing Spider-Man" (2012).
+
+
+humanity's place in the universe
+================================
+
+:: Description
+A philosophical, or theological, view of humanity's place in the universe is
+discussed. For example, the idea that Earth and humanity is at the center of
+all that there is, may be put forth. Alternatively, the contrasting scientific
+and modern view that humanity is a tiny spec in the vastness of the cosmos,
+may be pointedly emphasized or illustrated.
+
+:: Parents
+philosophy
+
+:: References
+https://en.wikipedia.org/wiki/History_of_the_center_of_the_Universe
 
 
 humankind controlling its own destiny
@@ -19850,6 +19959,23 @@ humans is featured.
 
 :: Parents
 crackpot theory
+
+
+interclass romance
+==================
+
+:: Description
+Two characters who are of notably different social classes engage in a
+romantic relationship and the difference in social status has some bearing on
+what happens. Typically, one or both of the lovers' families disapprove.
+Sometimes the affair is proscribed by prevailing social norms.
+
+:: Parents
+romantic relationship
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Category:Interclass_romance_in_fiction
 
 
 interest in antiques
@@ -22042,21 +22168,6 @@ mule while playing with his new pistol in "Almos' a Man" (1976).
 https://en.wikipedia.org/wiki/Lie
 
 
-machine controlled society
-==========================
-
-:: Description
-Society is supposedly ideal thanks to being controlled by machines that go
-about optimizing everybody's well-being in the best way possible.
-
-:: Parents
-ruling elite utopia
-technologically enabled utopia
-
-:: Aliases
-computer controlled society
-
-
 machine living secretly among us
 ================================
 
@@ -22069,6 +22180,21 @@ impostor living secretly among us
 :: Examples
 In "Terminator: Dark Fate" (2019), the T-101 Model Terminator Carl lives with
 a wife and stepson in Laredo, Texas, where he works as a common draper.
+
+
+machine regulated society
+=========================
+
+:: Description
+Society is supposedly ideal thanks to being regulated by machines that go
+about optimizing everybody's well-being in the best way possible.
+
+:: Parents
+ruling elite utopia
+technologically enabled utopia
+
+:: Aliases
+computer controlled society
 
 
 machines in society
@@ -23967,6 +24093,20 @@ found to be innocent.
 https://en.wikipedia.org/wiki/Misogyny
 
 
+missing hand
+============
+
+:: Description
+A character experiences life without less than two functioning hands. For the
+avoidance of doubt, this theme also applies if an entire arm is absent.
+
+:: Parents
+mobility impairment
+
+:: References
+https://en.wikipedia.org/wiki/Physical_disability
+
+
 mistrust
 ========
 
@@ -24026,6 +24166,19 @@ speculative vehicle
 :: Examples
 Captain Pike was confined to just such a device in tos1x15 "The Menagerie,
 Part I" and tos1x16  "The Menagerie, Part II".
+
+
+mobility impairment
+===================
+
+:: Description
+A character experiences life without the ability to speak aloud.
+
+:: Parents
+speech disorder
+
+:: References
+https://en.wikipedia.org/wiki/Physical_disability
 
 
 moderation in all things
@@ -24559,6 +24712,19 @@ Enterprise-D in tng6x19 "Lessons".
 
 :: References
 https://en.wikipedia.org/wiki/Music_appreciation
+
+
+muteness
+========
+
+:: Description
+A character experiences life without the ability to speak aloud.
+
+:: Parents
+speech disorder
+
+:: References
+https://en.wikipedia.org/wiki/Muteness
 
 
 mutilation as punishment
@@ -27902,6 +28068,21 @@ organized religion
 https://en.wikipedia.org/wiki/Polytheism
 
 
+poor personal hygiene
+=====================
+
+:: Description
+Personal hygiene involves those practices performed by a person to care for
+their bodily health and well-being through cleanliness. Featured is a
+character who conspicuously fails to take care of themself in this respect.
+
+:: Parents
+human health condition
+
+:: References
+https://en.wikipedia.org/wiki/Hygiene#Personal_hygiene
+
+
 pornography
 ===========
 
@@ -30275,18 +30456,6 @@ https://www.britannica.com/topic/rights-of-accused
 https://en.wikipedia.org/wiki/Right_to_a_fair_trial
 
 
-rise of the machines
-====================
-
-:: Description
-People construct clever machines but the machines become too clever and decide
-to kill everyone. They won't be back.
-
-:: Parents
-technological risk to civilization
-dystopia
-
-
 rise to prominence from humble beginnings
 =========================================
 
@@ -31818,11 +31987,16 @@ sex-droid
 =========
 
 :: Description
-A "fully functional" android of one gender or another, designed to please its
-masters in matters of the flesh.
+There is a "fully functional" android of one gender or another, capable of
+pleasing its masters in matters of the flesh. Whether or to what extent such
+behavior should be tolerated in society is topical. In practice, if the idea
+of sexual activity with a human-like machine is mooted in the story, this
+theme can almost certainly be motivated since such any such goings-on would be
+generally be eyebrow-raising to an audience whether past- or present-day.
 
 :: Parents
 android
+sexual norms in society
 
 
 sexism in society
@@ -34194,17 +34368,6 @@ speculative time manipulating effect
 ====================================
 
 :: Description
-There is an effect that enables the past be rewritten or the future to be
-changed.
-
-:: Parents
-speculative effect
-
-
-speculative time manipulating effect
-====================================
-
-:: Description
 There is an effect that makes "time" itself behave in ways we are not accustom
 to. For example it may enable the past be rewritten or the future to be
 changed, or time may seem pass at widely different rates at different places.
@@ -34330,6 +34493,19 @@ speculative personal body manipulation
 This theme is generally not used for machines or artificial beings. It may be
 used when those machines are compared and contrasted with humans, as is
 sometimes the case with androids in stories.
+
+
+speech disorder
+===============
+
+:: Description
+A character experiences life with a speech impediment.
+
+:: Parents
+coping with a disability
+
+:: References
+https://en.wikipedia.org/wiki/Speech_disorder
 
 
 speed of light limitation
@@ -35116,6 +35292,21 @@ suffering a drawn out dying process on the other.
 
 :: Parents
 contemplating suicide
+
+
+summoning a malevolent being
+============================
+
+:: Description
+Someone uses magic to conjure a demon or some other more or less evil entity
+with malign designs.
+
+:: Parents
+black magic
+evocation magic
+
+:: References
+https://en.wikipedia.org/wiki/Evocation
 
 
 sun going supernova
@@ -37929,26 +38120,6 @@ military issue
 https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex
 
 
-the morality of colonization
-============================
-
-:: Description
-We are asked when and to what extent it is acceptable to colonize another land
-and bring your own culture there, perhaps displacing indigenous inhabitants
-and surely having some impact on the environment.
-
-:: Parents
-international issue
-
-:: Examples
-The Federation was preparing a seemingly lifeless planet for colonization in
-tng1x18 "Home Soil", but it turns out that it harbored a really unusual form
-of life.
-
-:: References
-https://en.wikipedia.org/wiki/Colonization
-
-
 the mythological figure was really an alien
 ===========================================
 
@@ -39040,7 +39211,7 @@ infinitum. The result will be completely unpredictable and may make humans
 obsolete in the wink of an eye, goes the thinking.
 
 :: Parents
-technological risk to civilization
+AI risk to civilization
 speculative future event
 
 :: References
@@ -39966,22 +40137,6 @@ and who therefore is not limited by our own practical concerns.
 
 :: Parents
 alien point of view
-
-
-transhumanism utopia
-====================
-
-:: Description
-Society is supposedly made perfect by the introduction of a new breed of
-human, i.e., version 2.0. Out with the old, in with the new.
-
-:: Parents
-technologically enabled utopia
-
-:: Examples
-Dr. Roger Korby had a dream in tos1x09 "What Are Little Girls Made Of?" that
-one day mortal human boys and girls will be mind-transfered into the bodies of
-immortal android boys and girls.
 
 
 transnational conflict over a claimed territory
@@ -41212,6 +41367,19 @@ on a vision quest to acquire arcane lore in tng7x20 "Journey's End".
 
 :: References
 https://en.wikipedia.org/wiki/Vision_quest
+
+
+visual impairment
+=================
+
+:: Description
+A character is visually impaired to some extent.
+
+:: Parents
+coping with a disability
+
+:: References
+https://en.wikipedia.org/wiki/Visual_impairment
 
 
 vivisection
