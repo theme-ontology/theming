@@ -17605,6 +17605,34 @@ speculative technology
 https://en.wikipedia.org/wiki/List_of_science_fiction_themes#Body_and_mind_alterations
 
 
+human familial relationship
+===========================
+
+:: Description
+The interpersonal relationship between two individuals bound by such a close
+social bond that they might be called "family" is featured.
+
+:: Parents
+humans in pairs
+family affairs
+
+:: Notes
+Any defined character relationship can be familial if it is clearly considered
+as such in a story and if it is sufficiently relevant to the plot. It may be
+noted that while there are many stories in which parental, sibling, half-
+sibling, step-parent, sibling-in-law, or even adoptive relationships are
+important, there are few stories in which consanguinity relations beyond first
+cousinage is relevant to the plot.
+
+:: Examples
+"guardian and child" is a "human familial relationship" because the guardian
+is typically expected to take on the role of a parent even if they are not
+related to the child by blood.
+
+:: References
+https://en.wikipedia.org/wiki/Family
+
+
 human health condition
 ======================
 
@@ -18865,6 +18893,20 @@ blood sports
 :: Notes
 This theme does not normally apply when warriors hunt down and kill their
 enemies as part of a military campaign.
+
+
+husband and wife
+================
+
+:: Description
+The relationship between husband and wife is featured.
+
+:: Parents
+married couple
+
+:: Examples
+Harry Mudd bickered with an android replica of his wife, Stella, in tos2x11
+"I, Mudd".
 
 
 hybrid being
@@ -22700,6 +22742,17 @@ humans in pairs
 
 :: References
 https://en.wikipedia.org/wiki/Marriage_of_convenience
+
+
+married couple
+==============
+
+:: Description
+The relationship between two people who are married, according to prevailing
+customs, is featured.
+
+:: Parents
+human familial relationship
 
 
 Martian extraterrestrial
