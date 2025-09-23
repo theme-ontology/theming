@@ -1312,7 +1312,6 @@ Directed by: Jonathan Frakes. Story by: Nicholas Corea.
 taking sides in an international conflict [Voyager came across two warring factions of mechanical men and Janeway was implored to intervene but ultimately refused.]
 helping a stranger in need [B'Elanna helped the mechanical man but the conclusion was that sometimes you get burned]
 humanoid robot [a race of mechanical men turned on their makers]
-rise of the machines [the mechanical men]
 autonomous weapons system [the mechanical men]
 autonomous weapons system killing everyone [the mechanical men turned on their makers]
 autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems]
@@ -1323,6 +1322,7 @@ AI rights [the mechanical men's right to exist]
 betrayal [Pralor betrayed B'Elanna]
 coping with having to destroy one's own creation [B'Elanna rued destroying the mechanical man Pralor on whom she'd worked so hard to reactivate.]
 human vs. sentient machine [The voyager crew versus the mechanical men.]
+AI risk to civilization [A revelation of the story is that both warring factions of robots had overthrown and exterminated their respective creator races, known collectively as “the builders”.]
 
 :: Minor Themes
 AI safeguards [how to prevent them from going haywire]
@@ -1501,7 +1501,6 @@ autonomous weapon systems in society [we are made to think of the consequences o
 :: Major Themes
 maker and machine [B'Elanna and weapon]
 human vs. technology [It was up to the Voyager crew to stop a sentient missile from destroying its target.]
-out of control AI [the misprogrammed sentient bomb; PS uses this theme under protest, wants to use the dangers of unfettered scientific advancement]
 remorse [B'Elanna over role in creating bomb]
 selfless service [B'Elanna, Tuvok, Janeway]
 sentient bomb [Cardassian made bomb]
@@ -2689,7 +2688,7 @@ the desire for personal development [The Doctor reprogrammed himself to with the
 the human capacity for good and evil [the geniuses The Doctor incorporated into his programming had good and evil inclinations]
 
 :: Major Themes
-out of control AI [The Doctor accidentally created an evil version of himself]
+out of control technology [The Doctor accidentally created an evil split personality. This evil version of the Doctor attempted to murder an alien, and succeeded in temporarily paralyzing B'Elanna. Note that “out of control AI” is not used here on account that the Doctor is actually a human personality that was copied into a machine and tweaked, rather than conventional AI.]
 infatuation [Kes and Zahir]
 facing one's darker side [The Doctor struggled to come to grips with the fact that his programming imbued in him both good and evil inclinations.]
 human vs. self [The Doctor faced his evil self]
@@ -3002,7 +3001,7 @@ betrayal [Chakotay at Janeway and Seska at all]
 creative writing [Tom and Tuvok argued over how to write a melodramatic holo-novel.]
 facing a ship takeover [Chakotay led mutiny on holodeck]
 human vs. technology [Tuvok and Tom in Seska's holo fantasy]
-out of control technology [Seska hologram reprogrammed holo-novel for nefarious purposes]
+out of control AI [Seska had tampered with Tuvoc’s security training holodeck program in order to create a trap. Within the tampered program there was a holographic version of Seska.]
 
 :: Minor Themes
 cooperation [Tom and Tuvok collaborate on holo-novel]
@@ -3246,7 +3245,7 @@ Directed by: Kenneth Biller. Story by: Lisa Klink.
 belonging [Seven learning how to feel like she is part of the team and Dejaren could not fit in among his crew]
 machines in society [Dejaren is a holographic slave serving his crew]
 psychopathy [Dejaren was like a crased axe murderer]
-out of control AI [the hologram Dejaren murdered his crew]
+out of control AI [The misanthropic hologram Dejaren murdered the entire crew of the vessel on which he served them as a slave.]
 virtual person [holograph being]
 
 :: Major Themes
@@ -3387,7 +3386,7 @@ hubris [Annorax acquired the God-like power of manipulating timelines and though
 desperation [Janeway among others aboard Voyager]
 
 :: Minor Themes
-coping with a disability [Tuvok with blindness]
+blindness [Tuvok was blinded from a chroniton torpedo blast.]
 coping with a loved one being gravely ill [Tom was distressed when his girlfriend B'Elanna was critically injured.]
 coping with an obnoxious chatterbox [The Doctor's speech]
 coping with the death of a spouse [Annorax kept a lock of his dearly departed wife's hair.]
@@ -3441,7 +3440,7 @@ coping with the death of a spouse [Annorax kept a lock of his dearly departed wi
 
 :: Minor Themes
 clash of wills [The Doctor unsuccessfully relieving Janeway of duty]
-coping with a disability [Tuvok]
+blindness [Tuvok was blinded from a chroniton torpedo blast.]
 crew's attachment to their ship [Janeway expressed forcefully]
 computer simulation [Chakotay conducted alternate history simulations.]
 remorse [Annorax about erasing wife from history]
@@ -5182,7 +5181,7 @@ autonomous weapons system [sentient alien missile]
 autonomous weapons system killing everyone [alien missile system could not be diverted from blowing up its target even after the war had ended]
 autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems]
 sentient bomb [sentient alien missile]
-out of control AI [sentient alien missile]
+AI risk to civilization [The Voyager crew encountered a malfunctioning, sentient warhead that was determined to carry out its mission despite its creators having long ago ordered it to stand down.]
 human vs. sentient machine [Voyager crew vs. sentient missile]
 facing a ship takeover [Voyager taken over by sentient alien missile]
 sacrifice to prevent mass death [sentient alien missile blew it self up along with other 32 other sentient missiles to prevent them from hitting their targets]
@@ -6497,9 +6496,10 @@ the good of the many vs. the needs of the few [it was clearly stated that the pr
 
 :: Major Themes
 the calculus of human life [the overseer had a personal ethical dilemma: good of society vs. good of individual]
-machine controlled society [The Allocator regulated Dralian society]
+machine regulated society [A computer known as the Allocator played a central role in regulating Dralian society, most notably its healthcare system.]
 getting a taste of one's own medicine [Chellick got some kind of valuable life lesson when he was made to experience his healthcare system from the wrong tier]
 The Hippocratic Oath [The Doctor said he was programmed with the Hippocratic Oath.]
+AI risk to civilization [The Allocator was a tyrannical supercomputer which the Dralians considered a deity and the ultimate authority. It dictated all decisions, including which hospital patients live or die, based on its cold, logical assessment of their societal importance.]
 
 :: Minor Themes
 extramarital affair [Adultress alien was bored with her husband and expressed romantic interest in Gar.]
@@ -6651,7 +6651,7 @@ David Livingston. Story by: Jack Monaco, Bryan Fuller and Raf Green.
 2 <paul>
 
 :: Choice Themes
-out of control AI [Hirogen simulated prey became too capable and rebelled]
+out of control AI [The simulated prey became too capable and rebelled against their Hirogen creators.]
 AI rights [what rights did the murderous sentient machines have?]
 choosing between conflicting loyalties [The Doctor between Voyager or own kind]
 belonging [The Doctor between organics and his holographic people]

@@ -62,7 +62,7 @@ teleportation device [transporter :: first time transporter technology used in s
 jealousy [Number One :: Number One did not take kindly to the Talosians remarking that the younger J.M. Colt made for superior breeding stock.]
 chivalry [Pike :: Pike about saving the girl from space Mongol]
 coping with being disfigured [Vina :: Vina]
-coping with a disability [Vina :: Vina]
+coping with a disability [Vina was disfigured to such an extent that she would have been unable to go about in society without raising eyebrows.]
 coping with the rigors of command [Pike :: Pike and Boyce's talk]
 second guessing one's self [Pike :: Pike over his decision to battle the space Mongols]
 loneliness [Vina :: Vina]
@@ -114,7 +114,6 @@ power corrupts [Gary Mitchell :: Gary is a textbook example]
 
 :: Major Themes
 coping with opposing a friend [Kirk :: Kirk at Gary]
-transhumanism utopia [There were protracted discussions about Gary and Elizabeth being a the start of a new and better species, probably with analogs to Hitler's movement.]
 pride goes before a fall [Gary Mitchell thought with his new powers that he was above humanity, and he forced Kirk to pray to him like a God. Elizabeth was appalled at these actions and helped Kirk defeat Gary.]
 extrasensory perception [much made of Gary and Elizabeth having ESP]
 friendship [Kirk/Gary Mitchell :: Kirk and Gary]
@@ -718,8 +717,7 @@ the quest for immortality [Roger Korby :: Korby saw mind transfer into androids 
 can machines have souls [Did Korby transfer his true essence into that android body?]
 
 :: Major Themes
-technologically enabled utopia [Roger Korby planned to replace man with android to make a perfect world.]
-rise of the machines [Androids of Exo III :: Korby's androids]
+AI risk to civilization [Korby had created androids and transferred human consciousnesses into them, beginning with himself. Unfortunately, the androids lacked some human qualities and set out to replace all of humanity with emotionless, supposedly flawless, android duplicates.]
 nostalgic love [Christine, Roger Korby :: Christine/Korby]
 husband and wife [Christine/Roger Korby :: Christine/Korby]
 android [Ruk, Andrea, Androids of Exo III :: Korby's androids]
@@ -1142,7 +1140,7 @@ loyalty to a leader [Spock :: Spock to Pike]
 duty vs. friendship [Spock :: Spock]
 
 :: Major Themes
-coping with a disability [Pike :: Pike]
+mobility impairment [Captain Pike was confined to a futuristic, mobile life support box.]
 euthanasia [would it not be better to just let Oike die with dignity]
 sacrifice for a friend [Spock :: Spock for Pike]
 betrayal [Spock :: Spock at Kirk]
@@ -1201,7 +1199,7 @@ loyalty to a leader [Spock :: Spock to Pike]
 atrophied civilization [Talosian :: Talosians]
 escape from reality [Talosians]
 sacrifice for a friend [Spock :: Spock for Pike]
-coping with a disability [Pike, Vina :: Pike/Vina]
+mobility impairment [Captain Pike was confined to a futuristic, mobile life support box.]
 facing life in captivity [Pike :: Pike]
 human vs. captivity [Pike :: Pike]
 telepathic being [Talosian :: Talosians]
@@ -1630,10 +1628,10 @@ taken captive and discover that the Enterprise crew will be the next to be
 
 :: Choice Themes
 order vs. freedom [Children of Landru :: harmony under Landru at the price of freedom]
-rise of the machines [Children of Landru :: Landru took over their society]
+AI risk to civilization [The central computer Landru ruled over the people of Beta III much as a cult leader.]
 
 :: Major Themes
-machine controlled society [Children of Landru :: Landru took over their society]
+machine regulated society [The central computer Landru ruled over the people of Beta III much as a cult leader.]
 mind controlled society [Landru took over Betan society and mind controlled them to make everyone peaceful.]
 the good of the many vs. the needs of the few [Landru justified killing for the good of the body]
 ignorance is bliss [aliens lived quite blissfully under Landru's rule until the arrival of the Archons]
@@ -1788,7 +1786,6 @@ backstory to the second Star Trek film ).
 
 :: Choice Themes
 eugenics [Khan and the eugenics wars]
-transhumanism utopia [Khan wished to start a race of eugenically enhanced people.]
 
 :: Major Themes
 female attraction to powerful men [Lt. Marla McGivers was attracted to such powerful men as Alexander the Great, Napoleon, Richard the Lionheart, Leif Ericson, the gladiator Flavius, and the former dictator Khan Noonien Singh.]
@@ -1802,6 +1799,7 @@ the lust for power [Khan Singh :: Khan]
 facing a mortal enemy [Kirk :: Kirk at Khan]
 facing a ship takeover [Khan]
 attitude of superiority [Khan was going about on the Enterprise looking being arrogant toward the non-perfect human specimen crew members.]
+genetic engineering utopia [Khan wished to create a race of eugenically enhanced people to replace the current stock.]
 
 :: Minor Themes
 the merits of autocracy [Khan's old regime had brought order to the world at the expense of freedom and at the cost of tyranny.]
@@ -2247,7 +2245,7 @@ uncle and nephew [Kirk/Peter Kirk :: Kirk/Peter]
 brother-in-law and sister-in-law [Kirk's brother's wife Aurelan told him about how the neural parasite attacked the colony just before she died.]
 second guessing one's self [McCoy :: McCoy and possibly Kirk]
 coping with having injured someone [McCoy :: McCoy blamed himself for having blinded Spock.]
-coping with a disability [Spock :: Spock with blindness]
+blindness [Spock was struck blind after being exposed to an intensely bright light source.]
 coping with the death of a family member [Captain Kirk mourned the death of his brother, Sam.]
 fortitude [Spock :: Spock going back in spite of weakness]
 remorse [McCoy :: McCoy for having blinded Spock.]
@@ -2835,7 +2833,7 @@ Picture was in part an expansion of this episode.
 3 <mikael>
 
 :: Choice Themes
-rise of the machines [Nomad :: Nomad determined to sterilize all biological life]
+AI risk to civilization [The Nomad probe was determined to exterminate all biological life. It had begun by exterminating 4 billion inhabitants in the Malurian system.]
 
 :: Major Themes
 what is perfection [Nomad about perfection]
@@ -2903,11 +2901,12 @@ the ethics of interfering in less advanced societies [Kirk and McCoy have extend
 social stagnation [The Vaalians were provided for by their benefactor, Vaal, but consequently did not advance their civilization.]
 atrophied civilization [Vaalian :: Vaalians under control of Vaal]
 noble savage utopia [Vaalian :: simple diet etc. leads to no aging]
-machine controlled society [Vaalian :: Vaal controlled Vaalian society]
+machine regulated society [The Vaalians were provided for by their central computer benefactor, Vaal, but consequently did not advance their civilization.]
 the need for freedom [Kirk asserts that the feeders of Vaal need their freedom]
 humankind controlling its own destiny [McCoy asserted that the Feeders of Vaal needed to have the freedom to choose what to do with Vaal.]
 sentient computer [Vaal :: Vaal]
 human vs. sentient machine [crew vs. Vaal]
+AI risk to civilization [The Vaalians were provided for by their central computer benefactor, Vaal, but consequently did not advance their civilization and were entirely helpless in the face of change.]
 
 :: Minor Themes
 society regulating central computer crash [Vaalians believed they needed Vaal to run their village Kirk destroyed their central computer]
@@ -3157,8 +3156,7 @@ the need for a challenge in life [Kirk explains humans need a purpose or challen
 order vs. freedom [order under androids or freedom]
 bird in a gilded cage [landing party held in luxury by androids]
 be careful what you wish for [Harry Mudd :: Mudd]
-utopia on the back of android labor [Mudd's Androids :: the androids were planning to create a utopia]
-machine controlled society [Mudd's Androids :: the androids]
+machine regulated society [The Planet Mudd androids envisioned a grand plan to make themselves the servants of humanoid-kind, though from the human perspective this would amount to life as birds in a gilded cage.]
 human vs. captivity [landing party vs. captivity on android planet]
 humankind controlling its own destiny [Captain Kirk was not about to leave the fate of humanity in the hands of a race of well intentioned androids.]
 AI point of view [Norman, Mudd's Androids :: the androids]
@@ -3166,6 +3164,7 @@ lesson in humility [Harry Mudd :: Mudd]
 human vs. sentient machine [landing party vs. androids]
 hedonism [Harry Mudd :: Mudd with sexdroids; Chekov]
 robotic civilization [There was a planet populated by androids.]
+AI risk to civilization [The androids planned to make mankind completely dependent on them, thereby taking control of the human race for their own good.]
 
 :: Minor Themes
 society regulating central computer crash [Androids all died when Number One short circuted sue to Kirk’s logical paradox]
@@ -4037,7 +4036,7 @@ obsession with a life-dedicated project [Richard Daystrom :: Daystrom]
 
 :: Major Themes
 sentient computer [M-5 multitronic unit :: M-5 multitronic unit]
-out of control AI [M-5 multitronic unit goes out of control and starts attacking Starfleet targets]
+out of control AI [The M-5 multitronic unit went out of control and started attacking Starfleet targets.]
 autonomous weapons system [M-5 multitronic unit transformed the Enterprise into an autonomous weapons system]
 autonomous weapon systems in society [we are made to think of the consequences of creating intelligent weapons systems]
 coping with time passing you by [Richard Daystrom :: Daystrom built the M-5 to show everyone he still had it]
@@ -4662,7 +4661,7 @@ special black case because his appearance causes insanity.
 5 <mikael>
 
 :: Choice Themes
-coping with a disability [Miranda Jones :: Miranda Jones is blind]
+blindness [The story explores how Miranda concealed her blindness so that she could do her job without being pitied by her colleagues.]
 jealousy [Miranda Jones :: Miranda was jealous of Spock over his ability to easily communicate with the Medusans.]
 what is beauty [Kollos was hideous to some and beautiful to others]
 
@@ -4884,12 +4883,13 @@ infatuation [McCoy/Natira :: McCoy/Natira]
 fabled land of goodness [The Yonadans were on course to their new Promised Land-like home world.]
 religion as a control mechanism [the Oracle controlled the people by religion]
 leaving one's old life behind [McCoy :: McCoy]
-machine controlled society [Yonadan society was run by a computer known as "the Oracle".]
+machine regulated society [Yonadan society was run by a computer known as "the Oracle". It was malfunctioning and came to act as a tyrannical deity.]
 struggling with a life-changing decision [McCoy :: McCoy about whether to leave Enterprise and live inside asteroid]
 religious prophesy [The Oracle prophesied the Yonadans would find their new home world.]
 engaged couple [McCoy/Natira :: McCoy and Natira]
 free inquiry vs. obedience [the old man and the oracle]
 hollowed out asteroid habitat [The Yonadans lived inside a hollowed out asteroid.]
+AI risk to civilization [Yonadan society was run by a computer known as "the Oracle". It was malfunctioning and came to act as a tyrannical deity.]
 
 :: Minor Themes
 the thirst for knowledge [Fabrini old man :: old man]
@@ -5037,7 +5037,7 @@ mercy [Alexander :: Alexander to Parmen in the end]
 discrimination in society [Platonians of dwarfs lacking telekinetic powers.]
 embarrassment [Spock, Kirk :: Spock and Kirk]
 appearances can be deceiving [the dwarf small in stature but large of mind]
-coping with a disability [Alexander :: Alexander with being a dwarf without telekinetic powers]
+coping with a disability [The dwarf Alexander was bullied mercilessly by the Platonians because he was the only one among them who lacked telekinetic powers.]
 civilization vs. savagery [Platonian ideals vs. cruel realities of Platonian society]
 leadership [Parmen :: Parmen led by strength]
 rule by strength of arm [Platonian :: Parmen]

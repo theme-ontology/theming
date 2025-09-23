@@ -13,7 +13,7 @@ Films that have won the Academy Award for Best Picture.
 :: References
 https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture
 
-:: Components
+:: Component Stories
 movie: It Happened One Night (1934)
 
 
@@ -27,9 +27,16 @@ All Quiet on the Western Front
 1930-04-21
 
 :: Description
-All Quiet on the Western Front is a 1930 American pre-Code epic anti-war film based on the 1929 novel of the same name by German novelist Erich Maria Remarque. Directed by Lewis Milestone, it stars Lew Ayres, Louis Wolheim, John Wray, Slim Summerville, and William Bakewell.
+All Quiet on the Western Front is a 1930 American pre-Code epic anti-war film
+based on the 1929 novel of the same name by German novelist Erich Maria
+Remarque. Directed by Lewis Milestone, it stars Lew Ayres, Louis Wolheim, John
+Wray, Slim Summerville, and William Bakewell.
 
-The film opened to wide acclaim in the United States. Considered a realistic and harrowing account of warfare in World War I, it made the American Film Institute's first 100 Years...100 Movies list in 1997. A decade later, after the same organization polled over 1,501 workers in the creative community, All Quiet on the Western Front was ranked the seventh-best American epic film.
+The film opened to wide acclaim in the United States. Considered a realistic
+and harrowing account of warfare in World War I, it made the American Film
+Institute's first 100 Years...100 Movies list in 1997. A decade later, after
+the same organization polled over 1,501 workers in the creative community, All
+Quiet on the Western Front was ranked the seventh-best American epic film.
 
 :: References
 https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film)
@@ -62,7 +69,7 @@ respect for an enemy [Paul stabbed a French soldier and then cared for the slowl
 remorse [Paul begged the corpse of the French soldier he had stabbed for forgiveness.]
 the need for companionship [Four soldiers showed themselves desperate for female companionship. They braved court martial to sneak out and meet some.]
 coping with being ill and indisposed [Paul was bedridden in a hospital.]
-coping with a disability [Kemmerick lost his legs and Peter got his boots. Later Albert lost a leg. Albert swore he'd kill himself sooner than live like a cripple.]
+mobility impairment [Kemmerick lost his legs and Peter got his boots. Later Albert lost a leg. Albert swore he'd kill himself sooner than live like a cripple.]
 mother and son [Paul visited his mother while he was on leave from the front lines.]
 brother and sister [Paul met his sister.]
 war propaganda [Paul discovered that members of the public were woefully misinformed about the realities of the war, implying that propaganda had been used to good effect.]
@@ -71,6 +78,71 @@ disciplined leadership vs. flexible leadership [Sergeant Himmelstoss' strict and
 reasons for war [One of the soldiers speculated that the Kaiser started the war to increase his own fame.]
 romantic courtship [While bathing in a pond, Paul and three fellow soldiers flirted with some local French women. They won over the women's affections with treats of sausage and coarse bread.]
 one night stand [Paul had a one night stand with a French lady named Suzanne, whom he had won over with treats of sausage and coarse bread.]
+
+
+movie: Cavalcade (1933)
+=======================
+
+:: Title
+Cavalcade
+
+:: Date
+1933-04-15
+
+:: Description
+Cavalcade is a 1933 American epic pre-Code drama film directed by Frank Lloyd.
+The screenplay by Reginald Berkeley and Sonya Levien is based on the 1931 play
+of the same title by Noël Coward. The film stars Diana Wynyard and Clive
+Brook.
+
+The story presents a view of English life during the first third of the 20th
+century from New Year's Eve 1899 to New Year's Day 1933, from the point of
+view of well-to-do London residents Jane and Robert Marryot, their children,
+their close friends, and their servants. Several historical events affect the
+lives of the characters or serve as background for the film, including the
+Second Boer War, the death of Queen Victoria, the sinking of the RMS Titanic,
+and World War I. Throughout the film, the passage of years is indicated by
+dates on title cards, with a Medieval cavalcade marching in the background.
+
+:: References
+https://en.wikipedia.org/wiki/Cavalcade_(1933_film)
+
+:: Ratings
+3 <mikael>
+3 <paul>
+
+:: Choice Themes
+life in late modern Britain [The story presents a view of English life during the first third of the 20th century from New Year's Eve 1899 to New Year's Day 1933. The events were shown from the point of view of well-to-do London residents Jane and Robert Marryot, their children, their close friends, and their servants.]
+
+:: Major Themes
+husband and wife [Robert and Jane Marryot are at the center of the story. Alfred and Ellen Bridges were central as well.]
+historical event <Second Boer War> [The story begins during the time of the Second Boer War, 1899-1902. It shows various people's reactions to the war.]
+master and servant [The Marryot family interacted with the butler and his family throughout.]
+World War I [The latter part of the story took part during the Great War.]
+the horrors of war [Two wars transformed the lives of the two families at the center of the story. Robert Marryot and Alfred Bridges went to fight in the Boer War, and returned unscathed but hardly unchanged. Joe Marryot was killed in the Great War. The story showed soldiers marching and bombs being dropped on civilians.]
+social inequality [Arguably a point of the story was to compare and contrast the wealthy Marryot family with the poorer family of their butler, the Bridges.]
+human aspiration [Fanny had a strong passion for dancing from the time she was a little girl, and eventually made a career out of it.]
+romantic love [Edward and Edith fell in love and got married, but their lives took a tragic turn when they chose to honeymoon aboard the Titanic. The childhood friends Joe and Fanny fell in love, but the rigid class hierarchy of the time, not to mention Joe's death in combat during the Great War, kept them from ever tying the knot.]
+parent and child [Robert and Jane, the patriarch and matriarch of the Marryot family, raised their two boys to adulthood. Alfred and Ellen likewise raised their daughter, Fanny, to womanhood.]
+
+:: Minor Themes
+reasons for war [Two servants discussed why England was at war. One said that they had to, occasionally, in order to show who is top dog.]
+the senselessness of war [Jane refused to drink to the war when it was declared in 1914. She spoke sarcastically about patriotism.]
+mother and son [Jane interacted with her two sons.]
+father and son [Robert interacted with his two sons.]
+brother and brother [Joe and Edward Marryot squabbled over a war game.]
+human childhood [The boys Joe and Edward played with toy soldiers.]
+historical event <Crimean War> [A servant mentioned the Crimean War of 1854-1856.]
+father and daughter [Alfred interacted with his young daughter, Fanny.]
+mother and daughter [Ellen interacted with her young daughter, Fanny.]
+coping with the death of a family member [Ellen wailed beside Alfred as he lay dying in the street.]
+alcohol abuse [Alfred became a drunk.]
+dancing [Fanny went to dancing school and became a singer/dancer of some renown.]
+newlywed couple [Edward and Edith discussed their future prospects on their ill-fated honeymoon aboard the Titanic.]
+coping with a loved one being in peril [Jane was ill at ease when her husband, Robert, went off to fight in the Second Boer War. She was later even more distressed when Robert and her beloved son, Joe, enlisted to serve in the Great War. Robert made it back in one piece, while Joe was killed on the battlefield.]
+coping with the death of a child [Jane fainted upon reading a telegram conveying the terrible news of her beloved son Joe's death in combat.]
+blindness [In a brief scene, blind veterans of the Great War were shown learning how to read braille and weave baskets.]
+sexual norms in society [In a brief nightclub scene, two young women were shown flirting with each other, and likewise with two young gentlemen. In the context of the 1920s, which was the era in which the scene was set, this behavior would have been considered morally depraved.]
 
 
 movie: Cimmaron (1931)
@@ -83,9 +155,19 @@ Cimmaron
 1931-01-26
 
 :: Description
-Cimarron is a 1931 pre-Code epic Western film starring Richard Dix and Irene Dunne, and directed by Wesley Ruggles. Released by RKO, it won Academy Awards for Best Picture, Best Adapted Screenplay (written by Howard Estabrook and based on Edna Ferber's 1930 novel Cimarron), and Best Production Design (by Max Rée).
+Cimarron is a 1931 pre-Code epic Western film starring Richard Dix and Irene
+Dunne, and directed by Wesley Ruggles. Released by RKO, it won Academy Awards
+for Best Picture, Best Adapted Screenplay (written by Howard Estabrook and
+based on Edna Ferber's 1930 novel Cimarron), and Best Production Design (by
+Max Rée).
 
-Both Dix and Dunne were nominated for their leading roles, and Edward Cronjager for Best Cinematography, but did not win. Estelle Taylor, Edna May Oliver, and Roscoe Ates appeared in supporting roles. Epic in scope, spanning forty years from 1889 to 1929, Cimarron was RKO's most expensive production up to that date, as well as its first production to win the Best Picture Oscar. It was a critical success, although it did not recoup its production costs during its initial run in 1931.
+Both Dix and Dunne were nominated for their leading roles, and Edward
+Cronjager for Best Cinematography, but did not win. Estelle Taylor, Edna May
+Oliver, and Roscoe Ates appeared in supporting roles. Epic in scope, spanning
+forty years from 1889 to 1929, Cimarron was RKO's most expensive production up
+to that date, as well as its first production to win the Best Picture Oscar.
+It was a critical success, although it did not recoup its production costs
+during its initial run in 1931.
 
 :: References
 https://en.wikipedia.org/wiki/Cimarron_(1931_film)
@@ -96,7 +178,7 @@ https://en.wikipedia.org/wiki/Cimarron_(1931_film)
 
 :: Choice Themes
 the need for adventure [The hero of the story Yancey Crevat was driven by an unquenchable thirst for adventure. After settling in the booming frontier town of Osage with his family, he built a successful career as a newspaper publisher. The spirit of adventure, however, soon got the better of him and he irresponsibly bolted on his wife and children to settle land in the newly opened Cherokee Strip. From that point on one gathers that Yancey became an adventure seeking drifter. The viewer later learns, for instance, that he went off to fight in the Spanish-American War.]
-life in the Wild West [The story is largely set in the fictional Oklahoma frontier town of Osage. The story follows the town's development from lawless nothing to a to a flourishing urban center.]
+life in the American Wild West [The story is largely set in the fictional Oklahoma frontier town of Osage. The story follows the town's development from lawless nothing to a to a flourishing urban center.]
 heroism [Yancey was a heroic adventurer. He was lauded as a hero by the people of Osage for almost single-handedly taking down a gang of bandits who were causing a ruckus in the town and terrorizing the locals. The story concluded with the people of Osage raising a statue of Yancey to honor him.]
 
 :: Major Themes
@@ -114,12 +196,12 @@ master and servant [The Cravats employed the doting Black youth Isiah as their h
 racism in society [Racist tropes were raised about Blacks. For instance, Yancey emphasized the abundance of watermelons in Oklahoma to Isiah. Racist slurs leveled against the Native Americans (i.e., Sabra rebuffed Cim for talking to "dirty, filthy Indians") and people of mixed race (e.g., Yancey referred to some people as "half-breeds").]
 father and son [Yancey was doing a fine job raising his son, Cim, until Yancey took off to settle land in the newly opened Cherokee Strip.]
 mother and son [Sabra raised her young son, Cim. Later in life, Sabra put her foot down when Cim announced his intention to marry the Cherokee girl Ruby. However, Sabra accepted Ruby in the end.]
-coping with having a speech disorder [Jesse Rickey had a serious stuttering problem.]
+speech disorder [Jesse Rickey had a serious stuttering problem.]
 harassment [The town miscreant Lon Yountis bullied Sol Levy by shooting in the vicinity of his feet, and then forcing whisky down his throat. Yancey came to Sol's rescue.]
 organized religion [Yancey gave a nondenominational sermon at Grat Gotch's Hall of Chance.]
 gambling [Townspeople were shown gambling at Grat Gotch's Hall of Chance.]
 sacrifice for a loved one [Isiah was shot dead by bandits while trying to protect Young Cim from gunfire.]
-coping with the death of a loved one [Yancey grieved as he held his loyal servant Isiah's shot dead body in his arms.]
+coping with the death of someone [Yancey grieved as he held his loyal servant Isiah's shot dead body in his arms.]
 single motherhood [Sabra was left to care for two young children after Yancey ran off to settle the Cherokee Strip.]
 father and daughter [Yancey interacted with his young daughter, Donna, after returning from the Cherokee Strip.]
 legal occupation [Yancey, a trained lawyer, defended Dixie Lee in court against charges of being a public nuisance. He won her acquittal.]
@@ -131,7 +213,7 @@ historical event <Spanish-American War> [Yancey went off to fight in the Spanish
 journalism [Shortly after starting up a newspaper, Yancey worked on cracking the Jack Paigler case to run as a story.]
 coping with opposing a friend [Yancey was devastated over having to gun down his old friend "The Kid".]
 the art of entrepreneurship [Sabra took up running the newspaper that Yancey had founded and make it go 'round.]
-absentee father	[The fact that Yancey ran of for years at a time didn't seem much to affect his familial relationships, but the viewer must ponder it.]
+absentee father [The fact that Yancey ran of for years at a time didn't seem much to affect his familial relationships, but the viewer must ponder it.]
 seeing the error of one's ways [Sabra was persuaded by her morally superior husband to completely change her perception of the prostitute Dixie Lee.]
 money isn't everything [Someone pointed out that Yancey hadn't made much money. Yancey pointed out that at least he had kept his honor.]
 murder [Yancey mentioned that the old news paper editor had been shot in the back. Isaiah was gunned down by bandits as he ran to protect a child.]
@@ -147,7 +229,11 @@ Grand Hotel
 1932-04-12
 
 :: Description
-Grand Hotel is a 1932 American pre-Code drama film directed by Edmund Goulding and produced by Metro-Goldwyn-Mayer. The screenplay by William A. Drake is based on the 1930 play by Drake, who had adapted it from the 1929 novel Menschen im Hotel by Vicki Baum. To date, it is the only film to have won the Academy Award for Best Picture without being nominated in any other category.
+Grand Hotel is a 1932 American pre-Code drama film directed by Edmund Goulding
+and produced by Metro-Goldwyn-Mayer. The screenplay by William A. Drake is
+based on the 1930 play by Drake, who had adapted it from the 1929 novel
+Menschen im Hotel by Vicki Baum. To date, it is the only film to have won the
+Academy Award for Best Picture without being nominated in any other category.
 
 :: References
 https://en.wikipedia.org/wiki/Grand_Hotel_(1932_film)
@@ -188,61 +274,6 @@ gambling [Gambling was one of Baron von Gaigern's many vices, and one he turned 
 negotiation [The industrial tycoon Mr. Preysing was spearheading a merger that, if successful, would save his company from going under. He stooped to lying about good news having come in from Manchester in a desperate bid to get the deal done.]
 
 
-movie: Cavalcade (1933)
-=======================
-
-:: Title
-Cavalcade
-
-:: Date
-1933-04-15
-
-:: Description
-Cavalcade is a 1933 American epic pre-Code drama film directed by Frank Lloyd. The screenplay by Reginald Berkeley and Sonya Levien is based on the 1931 play of the same title by Noël Coward. The film stars Diana Wynyard and Clive Brook.
-
-The story presents a view of English life during the first third of the 20th century from New Year's Eve 1899 to New Year's Day 1933, from the point of view of well-to-do London residents Jane and Robert Marryot, their children, their close friends, and their servants. Several historical events affect the lives of the characters or serve as background for the film, including the Second Boer War, the death of Queen Victoria, the sinking of the RMS Titanic, and World War I. Throughout the film, the passage of years is indicated by dates on title cards, with a Medieval cavalcade marching in the background.
-
-:: References
-https://en.wikipedia.org/wiki/Cavalcade_(1933_film)
-
-:: Ratings
-3 <mikael>
-3 <paul>
-
-:: Choice Themes
-life in late modern Britain [The story presents a view of English life during the first third of the 20th century from New Year's Eve 1899 to New Year's Day 1933. The events were shown from the point of view of well-to-do London residents Jane and Robert Marryot, their children, their close friends, and their servants.]
-
-:: Major Themes
-husband and wife [Robert and Jane Marryot are at the center of the story. Alfred and Ellen Bridges were central as well.]
-historical event <Second Boer War> [The story begins during the time of the Second Boer War, 1899-1902. It shows various people's reactions to the war.]
-master and servant [The Marryot family interacted with the butler and his family throughout.]
-World War I [The latter part of the story took part during the Great War.]
-the horrors of war [Two wars transformed the lives of the two families at the center of the story. Robert Marryot and Alfred Bridges went to fight in the Boer War, and returned unscathed but hardly unchanged. Joe Marryot was killed in the Great War. The story showed soldiers marching and bombs being dropped on civilians.]
-social inequality [Arguably a point of the story was to compare and contrast the wealthy Marryot family with the poorer family of their butler, the Bridges.]
-human aspiration [Fanny had a strong passion for dancing from the time she was a little girl, and eventually made a career out of it.]
-romantic love [Edward and Edith fell in love and got married, but their lives took a tragic turn when they chose to honeymoon aboard the Titanic. The childhood friends Joe and Fanny fell in love, but the rigid class hierarchy of the time, not to mention Joe's death in combat during the Great War, kept them from ever tying the knot.]
-parent and child [Robert and Jane, the patriarch and matriarch of the Marryot family, raised their two boys to adulthood. Alfred and Ellen likewise raised their daughter, Fanny, to womanhood.]
-
-:: Minor Themes
-reasons for war [Two servants discussed why England was at war. One said that they had to, occasionally, in order to show who is top dog.]
-the senselessness of war [Jane refused to drink to the war when it was declared in 1914. She spoke sarcastically about patriotism.]
-mother and son [Jane interacted with her two sons.]
-father and son [Robert interacted with his two sons.]
-brother and brother [Joe and Edward Marryot squabbled over a war game.]
-human childhood [The boys Joe and Edward played with toy soldiers.]
-historical event <Crimean War> [A servant mentioned the Crimean War of 1854-1856.]
-father and daughter [Alfred interacted with his young daughter, Fanny.]
-mother and daughter [Ellen interacted with her young daughter, Fanny.]
-coping with the death of a family member [Ellen wailed beside Alfred as he lay dying in the street.]
-alcohol abuse [Alfred became a drunk.]
-dancing [Fanny went to dancing school and became a singer/dancer of some renown.]
-newlywed couple [Edward and Edith discussed their future prospects on their ill-fated honeymoon aboard the Titanic.]
-coping with a loved one being in peril [Jane was ill at ease when her husband, Robert, went off to fight in the Second Boer War. She was later even more distressed when Robert and her beloved son, Joe, enlisted to serve in the Great War. Robert made it back in one piece, while Joe was killed on the battlefield.]
-coping with the death of a child [Jane fainted upon reading a telegram conveying the terrible news of her beloved son Joe's death in combat.]
-coping with being blind [In a brief scene, blind veterans of the Great War were shown learning how to read braille and weave baskets.]
-sexual norms in society [In a brief nightclub scene, two young women were shown flirting with each other, and likewise with two young gentlemen. In the context of the 1920s, which was the era in which the scene was set, this behavior would have been considered morally depraved.]
-
-
 movie: Mutiny on the Bounty (1935)
 ==================================
 
@@ -253,7 +284,12 @@ Mutiny on the Bounty
 1935-11-08
 
 :: Description
-Mutiny on the Bounty is a 1935 American historical adventure drama film directed by Frank Lloyd and produced by Metro-Goldwyn-Mayer. It dramatizes the mutiny of HMS Bounty, and is adapted from the novels Mutiny on the Bounty and Men Against the Sea by Charles Nordhoff and James Norman Hall. It stars Charles Laughton as William Bligh, Clark Gable as Fletcher Christian, and Franchot Tone as Roger Byam (based on Peter Heywood).
+Mutiny on the Bounty is a 1935 American historical adventure drama film
+directed by Frank Lloyd and produced by Metro-Goldwyn-Mayer. It dramatizes the
+mutiny of HMS Bounty, and is adapted from the novels Mutiny on the Bounty and
+Men Against the Sea by Charles Nordhoff and James Norman Hall. It stars
+Charles Laughton as William Bligh, Clark Gable as Fletcher Christian, and
+Franchot Tone as Roger Byam (based on Peter Heywood).
 
 :: References
 https://en.m.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)
@@ -279,14 +315,14 @@ noble savage utopia [The Tahitians lived peacefully and in material abundance, a
 choosing between conflicting loyalties [The midshipman Roger Byam was torn between staying loyal to the cruel Captain Bligh and sticking up for the crewmen under his direct command. The entire crew was split between mutineers and loyalists to Captain Bligh.]
 
 :: Minor Themes
-alcoholism [The ship's surgeon, Mr. Bacchus, was an unabashed drunkard.]
+alcohol abuse [The ship's surgeon, Mr. Bacchus, was an unabashed drunkard.]
 falling out of friendship [Roger confided in Fletcher that they could never again be friends in the aftermath of Fletcher's mutinous takeover of the HMS Bounty.]
 husband and wife [One of the crewmen longed to return to England to see his wife and young child.]
 seasickness [In one scene, Fletcher and others became seasick from watching a lantern sway back and forth.]
 theft [Captain Bligh falsely accused a couple of crewmen of theft after it was discovered that a pair of 50 pound cheeses had gone missing. In reality, Bligh had had the cheeses in question taken to his house prior to setting out on the voyage.]
 learning languages [Roger took an interest in Tahitian and compiled an English-Tahitian dictionary.]
 Christmas traditions [A celebration of Christmas Day in England was juxtaposed with the mutineers celebrating that same day in Tahiti.]
-legal proceeding [Roger was court-martialed on a charge of mutiny. He was found guilty and sentenced to death. He was ultimately pardoned by the king.]
+what it is like in a legal proceeding [Roger was court-martialed on a charge of mutiny. He was found guilty and sentenced to death. He was ultimately pardoned by the king.]
 capital punishment [Roger was sentenced to hang after being found guilty of mutiny. He was subsequently pardoned by the king.]
 
 
@@ -300,7 +336,12 @@ The Great Ziegfeld
 1936-03-22
 
 :: Description
-The Great Ziegfeld is a 1936 American musical drama film directed by Robert Z. Leonard and produced by Hunt Stromberg. It stars William Powell as the theatrical impresario Florenz "Flo" Ziegfeld Jr., Luise Rainer as Anna Held, and Myrna Loy as Billie Burke. The film is a fictionalized and sanitized tribute to Florenz Ziegfeld Jr. and a cinematic adaptation of Broadway's Ziegfeld Follies, with highly elaborate costumes, dances and sets.
+The Great Ziegfeld is a 1936 American musical drama film directed by Robert Z.
+Leonard and produced by Hunt Stromberg. It stars William Powell as the
+theatrical impresario Florenz "Flo" Ziegfeld Jr., Luise Rainer as Anna Held,
+and Myrna Loy as Billie Burke. The film is a fictionalized and sanitized
+tribute to Florenz Ziegfeld Jr. and a cinematic adaptation of Broadway's
+Ziegfeld Follies, with highly elaborate costumes, dances and sets.
 
 :: References
 https://en.wikipedia.org/wiki/The_Great_Ziegfeld
@@ -323,7 +364,7 @@ self-confidence [Ziegfeld had remarkable confidence, perhaps not unfounded, in h
 facing financial ruin [Ziegfeld lost his entire fortune in market crash of 1929 by speculating with borrowed money in the stock market.]
 womanizing man [Ziegfeld had a strategy of charming ladies by proffering backwards criticisms on their attire that ended with off-handed compliments. He used this strategy on both Anna Held and Billie Burke, to good effect.]
 womanizing man [Ziegfeld was a practiced charmer who "attracted women like flypaper" it was said at one point.]
-the art of entrepreneurship	[The story follows the showbiz entrepreneur Florenz "Flo" Ziegfeld Jr. as he embarked on one imaginative venture after the other.]
+the art of entrepreneurship [The story follows the showbiz entrepreneur Florenz "Flo" Ziegfeld Jr. as he embarked on one imaginative venture after the other.]
 
 :: Minor Themes
 superstition in society [Ziegfeld repeatedly touched an elephant over the span of five weeks for good luck, but to no avail. According to Ziegfeld, he was told by an "old Hindu" that "if you touch an elephant's trunk and he raises it, everything will be all right".]
@@ -332,7 +373,7 @@ father and son [Ziegfeld visited his elderly father. The father expressed his di
 blood sports [Motivated by naked self-interest, Ziegfeld alerted the Humane Society of an upcoming event that would see the strongman Sandow face off against a lion and grizzly bear.]
 animal cruelty [Motivated by naked self-interest, Ziegfeld alerted the Humane Society of an upcoming event that would see the strongman Sandow face off against a lion and grizzly bear.]
 master and servant [Ziegfeld poached Sidney from his rival Jack Billings and he became Ziegfeld's lifelong loyal butler/attendant.]
-rivalry [The Broadway impresarios Ziegfeld and Jack Billings were rivals. For instance, they vied with each other to sign the talented French singer Anna Held to a contract.] 
+rivalry [The Broadway impresarios Ziegfeld and Jack Billings were rivals. For instance, they vied with each other to sign the talented French singer Anna Held to a contract.]
 coping with unwelcome romantic attention [Mary Lou showered Ziegfeld with kisses upon meeting him for the first time since she was a little girl. Ziegfeld graciously rebuffed her affections, insisting that he was a married man.]
 alcohol abuse [Audrey Dane lost her spot as Ziegfeld's favorite in no small part because of her heavy drinking.]
 divorce [Anna divorced Ziegfeld.]
@@ -357,15 +398,31 @@ The Life of Emile Zola
 1937-08-11
 
 :: Description
-The Life of Emile Zola is a 1937 American biographical film about the 19th-century French author Émile Zola starring Paul Muni and directed by William Dieterle.
+The Life of Emile Zola is a 1937 American biographical film about the 19th-
+century French author Émile Zola starring Paul Muni and directed by William
+Dieterle.
 
-It premiered at the Los Angeles Carthay Circle Theatre to great critical and financial success. Contemporary reviews ranked it as the greatest biographical film made up to that time.
+It premiered at the Los Angeles Carthay Circle Theatre to great critical and
+financial success. Contemporary reviews ranked it as the greatest biographical
+film made up to that time.
 
-In 2000, it was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically, or aesthetically significant."
+In 2000, it was selected for preservation in the United States National Film
+Registry by the Library of Congress as being "culturally, historically, or
+aesthetically significant."
 
-Produced during the Great Depression and after the Nazi Party had taken power in Germany, the film failed to explore the key issue of antisemitic injustice in France in the late 19th century, when Zola became involved in the Dreyfus affair and worked to gain the officer's release. Some recent studies have noted the film as an example of Hollywood's timidity at the time: antisemitism was not mentioned in the film, nor was "Jew" said in dialogue. Some explicitly anti-Nazi films were canceled in this period, and other content was modified. This was also the period when Hollywood had established the Production Code, establishing an internal censor, in response to perceived threats of external censorship.
+Produced during the Great Depression and after the Nazi Party had taken power
+in Germany, the film failed to explore the key issue of antisemitic injustice
+in France in the late 19th century, when Zola became involved in the Dreyfus
+affair and worked to gain the officer's release. Some recent studies have
+noted the film as an example of Hollywood's timidity at the time: antisemitism
+was not mentioned in the film, nor was "Jew" said in dialogue. Some explicitly
+anti-Nazi films were canceled in this period, and other content was modified.
+This was also the period when Hollywood had established the Production Code,
+establishing an internal censor, in response to perceived threats of external
+censorship.
 
-The Life of Emile Zola became the second biographical film to win the Academy Award for Best Picture.
+The Life of Emile Zola became the second biographical film to win the Academy
+Award for Best Picture.
 
 :: References
 https://en.wikipedia.org/wiki/The_Life_of_Emile_Zola
@@ -383,7 +440,7 @@ corruption in society [The French military leadership threw Albert Dreyfus under
 :: Major Themes
 journalism [Emile writing an op-ed proclaiming Alfred Dreyfus' innocence was a turning point in the story.]
 treason [The story turns on Albert Dreyfus being falsely convicted of treason against the French government.]
-what if I were accused of a crime that I didn't commit [Albert Dreyfus was wrongfully convicted of treason and imprisoned on a remote island.]
+what if I was accused of a crime that I didn't commit [Albert Dreyfus was wrongfully convicted of treason and imprisoned on a remote island.]
 struggling artist character [Emile, as a young and upcoming man of letters, lived in squalor with his painter friend, Paul, in a rundown attic apartment. Emile stuffed rags into broken windows to keep out the cold, and they burned the books of hypocrites to keep warm.]
 husband and wife [Alfred and Lucie Dreyfus. Emile and Alexandrine Zola. Lucie beseeched Emile to come to the aid of Alfred. During the trial, Lucie and Alexandrine discussed Alfred's miserable fate.]
 what it is like in a legal proceeding [Emile's trial on a libel charge was much featured toward the end of the story. A significant part of the story took place in this courtroom setting.]
@@ -414,7 +471,15 @@ You Can't Take It with You
 1938-09-29
 
 :: Description
-You Can't Take It with You is a 1938 American romantic comedy film directed by Frank Capra, and starring Jean Arthur, Lionel Barrymore, James Stewart, and Edward Arnold. Adapted by Robert Riskin from the Pulitzer Prize-winning 1936 play of the same name by George S. Kaufman and Moss Hart, the film is about a man from a family of rich snobs who becomes engaged to a woman from a good-natured but decidedly eccentric family. A critical and commercial success, the film received two Academy Awards: Best Picture and Best Director for Frank Capra. This was Capra's third Oscar for Best Director in just five years, following It Happened One Night (1934) and Mr. Deeds Goes to Town (1936).
+You Can't Take It with You is a 1938 American romantic comedy film directed by
+Frank Capra, and starring Jean Arthur, Lionel Barrymore, James Stewart, and
+Edward Arnold. Adapted by Robert Riskin from the Pulitzer Prize-winning 1936
+play of the same name by George S. Kaufman and Moss Hart, the film is about a
+man from a family of rich snobs who becomes engaged to a woman from a good-
+natured but decidedly eccentric family. A critical and commercial success, the
+film received two Academy Awards: Best Picture and Best Director for Frank
+Capra. This was Capra's third Oscar for Best Director in just five years,
+following It Happened One Night (1934) and Mr. Deeds Goes to Town (1936).
 
 :: References
 https://en.wikipedia.org/wiki/You_Can%27t_Take_It_with_You_(film)
@@ -465,4 +530,5 @@ suicide [It came to light that Mr. Ramsey had taken his life after losing his co
 compassion [Mr. Vanderhof lied to save Mr. Kirby the embarrassment of it being publicly revealed that Mr. Kirby's son was fooling around with a lowly stenographer.]
 corporate executive [Tony was a vice president in his dad's company.]
 the corporate world [Mr. Kirby was scheming to force his rival out of business by purchasing a 12-block radius around his factor. In this way, Mr. Kirby would secure a monopoly in munitions manufacturing.]
+
 
