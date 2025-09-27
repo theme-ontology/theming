@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Check out main repo
+      uses: actions/checkout@v4
 
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v4
@@ -27,17 +28,16 @@ jobs:
       run: |
         python -c "import totolo; o=totolo.files('./notes'); assert(len(o.story)>0 and len(o.theme)>0);"
 
-    - name: Print warnings
+    - name: Print warnings with totolo
       run: |
-        git config --global user.name 'M-4'
-        git config --global user.email 'mikael+m4@odinlake.net'
         git clone https://github.com/theme-ontology/theming.wiki.git wiki
         cd wiki
         rm -f warnings.md
-        printf "**cmd**: import totolo; o=totolo.files('./notes'); o.print_warnings()\n\n" >> warnings.md
+        printf "**cmd**: import totolo; o=totolo.files('../notes'); o.print_warnings()\n\n" >> warnings.md
         printf "**output**:\n\n" >> warnings.md
         python -c "import totolo; o=totolo.files('../notes'); o.print_warnings()" >> warnings.md
         printf "**&lt;end&gt;**\n\n" >> warnings.md
-        git add warnings.md
-        git commit warnings.md -m "generated latest warnings"
-        git push
+        cd ..
+
+    - name: Write wiki
+      uses: Andrew-Chen-Wang/github-wiki-action@v4
