@@ -29,6 +29,8 @@ jobs:
 
     - name: Print warnings
       run: |
+        git config --global user.name 'M-4'
+        git config --global user.email 'mikael+m4@odinlake.net'
         git clone https://github.com/theme-ontology/theming.wiki.git wiki
         cd wiki
         rm -f warnings.md
