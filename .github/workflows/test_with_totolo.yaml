@@ -26,3 +26,14 @@ jobs:
     - name: Test with totolo
       run: |
         python -c "import totolo; o=totolo.files('./notes'); assert(len(o.story)>0 and len(o.theme)>0);"
+
+    - name: Print warnings
+      run: |
+        mkdir wiki
+        echo "**cmd**: import totolo; o=totolo.files('./notes'); o.print_warnings()" >> wiki/warnings.md
+        echo "**output**:" >> wiki/warnings.md
+        python -c "import totolo; o=totolo.files('./notes'); o.print_warnings()" >> wiki/warnings.md
+        echo "**<end>**" >> wiki/warnings.md
+
+    - name: Upload Warnings to Wiki
+      uses: Andrew-Chen-Wang/github-wiki-action@v4
