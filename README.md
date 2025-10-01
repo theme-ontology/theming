@@ -23,12 +23,6 @@
 
 Visit the Theme Ontology website: [https://www.themeontology.org/](https://www.themeontology.org/)
 
-## Table of Contents
-
-- [About](#about)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 The Theme Ontology Project is a community-based undertaking that is focused on developing a literary thematic knowledgebase to underpin computational analyses in fiction studies.
@@ -44,8 +38,12 @@ Theming is also a good personal way to reflect on what really goes on in the sto
 Read the project [wiki](https://github.com/theme-ontology/theming/wiki) to get a basic idea of what how the Theme Ontology works in practice.
 Then, refer to the general [Contributing Guide](CONTRIBUTING.md) to learn how to get started with contributing to the project.
 
+## Automation
+
+The package [py-totolo](https://github.com/theme-ontology/python-totolo)
+is used to format this repository and validate the syntax in every file.
+Any warnings are logged at [wiki/warnings](https://github.com/theme-ontology/theming/wiki/warnings).
+
 ## License
 
 The content of this project is licensed under the [MIT license](LICENSE.md).
-
-
