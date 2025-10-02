@@ -4894,10 +4894,10 @@ https://en.wikipedia.org/wiki/Robot_Stories
 5 <paul>
 
 :: Component Stories
-Robot Stories (2003): My Robot Baby
-Robot Stories (2003): The Robot Fixer
-Robot Stories (2003): Machine Love
-Robot Stories (2003): Clay
+movie: Robot Stories (2003): My Robot Baby
+movie: Robot Stories (2003): The Robot Fixer
+movie: Robot Stories (2003): Machine Love
+movie: Robot Stories (2003): Clay
 
 
 movie: Robots (2005)
@@ -8916,8 +8916,8 @@ black hole [The Zorgon fleet and the house was consumed by a black hole.]
 meteor [A meteor shower occurred in the living room after Danny drew a card reading "meteor shower" from the Zathura board game.]
 
 
-Robot Stories (2003): Clay
-==========================
+movie: Robot Stories (2003): Clay
+=================================
 
 :: Title
 Robot Stories (2003): Clay
@@ -8948,8 +8948,8 @@ speculative virtual reality [The elderly man John entered into a virtual reality
 feeling of inadequacy [John confided in Helen that he felt he didn't deserve her.]
 
 
-Robot Stories (2003): Machine Love
-==================================
+movie: Robot Stories (2003): Machine Love
+=========================================
 
 :: Title
 Robot Stories (2003): Machine Love
@@ -8972,8 +8972,8 @@ humans at work [The story explores with it might be like to have an android work
 boss and employee [Archie's boss gave him a cold welcome to his new job at the office.]
 
 
-Robot Stories (2003): My Robot Baby
-===================================
+movie: Robot Stories (2003): My Robot Baby
+==========================================
 
 :: Title
 Robot Stories (2003): My Robot Baby
