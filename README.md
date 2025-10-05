@@ -31,7 +31,8 @@ or
 
 ## License
 
-The content of this project is licensed under the [MIT license](LICENSE.md).
+The content of this project is licensed under the [MIT license](LICENSE.md). 
+Story descriptions are often citations from Wikipedia and care should be taken to retain the attribution thereto.
 
 <BR>
 
