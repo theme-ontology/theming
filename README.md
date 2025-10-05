@@ -3,6 +3,14 @@
     <img src="https://github.com/theme-ontology/tstp/blob/master/projects/favicon2021/avatar-384x384.png?raw=true" alt="LTO avatar" width="200" height="200">
   </a>
 </p>
+<h3 align="center">Theme Ontology</h3>
+<p align="center">
+  <a href="https://www.themeontology.org/themes"><strong>Explore the themes »</strong></a>
+  &nbsp;||&nbsp;
+  <a href="https://www.themeontology.org/stories"><strong>Explore the stories »</strong></a>
+  <br>
+  <br>
+</p>
 
 # Welcome to the Theme Ontology Community
 
@@ -33,21 +41,7 @@ or
 ## License
 
 The content of this project is licensed under the [MIT license](LICENSE.md). 
-Story and Theme descriptions often include citations from Wikipedia. 
-Care should be taken to retain the attribution thereto, or to exclude such descriptions from any derivative work.
 
 <BR>
-
-<h3 align="center">Theme Ontology</h3>
-<p align="center">
-  A community-based, open access knowledgebase of literary themes and thematically annotated stories.
-  <br>
-  <a href="https://www.themeontology.org/themes"><strong>Explore the themes »</strong></a>
-  ||
-  <a href="https://www.themeontology.org/stories"><strong>Explore the stories »</strong></a>
-  <br>
-  <br>
-</p>
-
 <BR>
 <BR>
