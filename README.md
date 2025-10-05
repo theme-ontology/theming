@@ -4,18 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">Theme Ontology</h3>
-
-<p align="center">
-  A community-based, open access knowledgebase of literary themes and thematically annotated stories.
-  <br>
-  <a href="https://www.themeontology.org/themes"><strong>Explore the themes »</strong></a>
-  ||
-  <a href="https://www.themeontology.org/stories"><strong>Explore the stories »</strong></a>
-  <br>
-  <br>
-</p>
-
 # Welcome to the Theme Ontology Community
 
 Visit the Theme Ontology website: [https://www.themeontology.org/](https://www.themeontology.org/)
@@ -44,3 +32,19 @@ or
 ## License
 
 The content of this project is licensed under the [MIT license](LICENSE.md).
+
+<BR>
+
+<h3 align="center">Theme Ontology</h3>
+<p align="center">
+  A community-based, open access knowledgebase of literary themes and thematically annotated stories.
+  <br>
+  <a href="https://www.themeontology.org/themes"><strong>Explore the themes »</strong></a>
+  ||
+  <a href="https://www.themeontology.org/stories"><strong>Explore the stories »</strong></a>
+  <br>
+  <br>
+</p>
+
+<BR>
+<BR>
