@@ -28,7 +28,7 @@ Theming is also a good personal way to reflect on what really goes on in the sto
 
 Visit the Theme Ontology website: [https://www.themeontology.org/](https://www.themeontology.org/) to browse the data.
 
-## Contributing
+## Participating
 
 Read the project [wiki](https://github.com/theme-ontology/theming/wiki) to get a basic idea of what how the Theme Ontology works in practice.
 Then, refer to the general [Contributing Guide](CONTRIBUTING.md) to learn how to get started with contributing to the project.
