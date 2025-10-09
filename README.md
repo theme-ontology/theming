@@ -3,7 +3,6 @@
     <img src="https://github.com/theme-ontology/tstp/blob/master/projects/favicon2021/avatar-384x384.png?raw=true" alt="LTO avatar" width="200" height="200">
   </a>
 </p>
-<h3 align="center">Theme Ontology</h3>
 <p align="center">
   <a href="https://www.themeontology.org/themes"><strong>Explore the themes »</strong></a>
   &nbsp;||&nbsp;
@@ -12,7 +11,7 @@
   <br>
 </p>
 
-# Welcome to the Community
+# Theme Ontology
 
 A community-based, open access knowledgebase of literary themes and thematically annotated stories. 
 
