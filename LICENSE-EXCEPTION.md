@@ -1,7 +1,7 @@
 Story descriptions, that is data on lines following 
 the heading ":: Description" but before the next 
 "::" heading in files with names ending in ".st.txt",
-are generally edited quotations from a Wikipefia
+are generally edited quotations from a Wikipedia
 article with url in the corresponding ":: References" 
 section. As such, by necessity they are provided
 under the more restrictive CC BY-SA license 
