@@ -5,7 +5,8 @@ articles with urls in the corresponding ":: References"
 sections. As such, by necessity they are provided
 under the CC BY-SA license required by Wikipedia.
 This license is more restrictive than 
-The license text follows:
+the MIT license used for the rest of the repository.
+The CC BY-SA license text follows:
 
 Attribution-ShareAlike 4.0 International
 
