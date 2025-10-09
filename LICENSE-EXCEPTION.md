@@ -1,11 +1,11 @@
-Story descriptions, that is data on lines following 
-the heading ":: Description" but before the next 
-"::" heading in files with names ending in ".st.txt",
-are generally edited quotations from a Wikipedia
-article with url in the corresponding ":: References" 
-section. As such, by necessity they are provided
-under the more restrictive CC BY-SA license 
-required by Wikipedia. The license text follows:
+Story descriptions are sections in files with a name ending in ".st.txt".
+They follow the heading ":: Description" and last until the next heading on a line beginning with double colons.
+Story descriptions are generally edited quotations from Wikipedia
+articles with urls in the corresponding ":: References" 
+sections. As such, by necessity they are provided
+under the CC BY-SA license required by Wikipedia.
+This license is more restrictive than 
+The license text follows:
 
 Attribution-ShareAlike 4.0 International
 
