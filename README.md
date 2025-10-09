@@ -12,7 +12,7 @@
   <br>
 </p>
 
-# Welcome to the Theme Ontology Community
+# Welcome to the Community
 
 A community-based, open access knowledgebase of literary themes and thematically annotated stories. 
 
