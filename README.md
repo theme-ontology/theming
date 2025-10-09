@@ -40,7 +40,10 @@ or
 
 ## License
 
-The content of this project is licensed under the [MIT license](LICENSE.md). 
+The content of this project is licensed under the 
+[MIT license](LICENSE.md). 
+An exception applies to story descriptions which are
+[CC BY-SA](LICENSE-EXCEPTION.md). 
 
 <BR>
 <BR>
