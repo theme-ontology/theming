@@ -17,7 +17,7 @@ A community-based, open access knowledgebase of literary themes and thematically
 
 ## About
 
-The Theme Ontology Project is a community-based undertaking that is focused on developing a literary thematic knowledgebase to underpin computational analyses in fiction studies.
+The Theme Ontology Project is a collaborative undertaking that is focused on developing a literary thematic knowledgebase to underpin computational analyses in fiction studies.
 This project repository contains a collection of carefully defined [literary themes](https://github.com/theme-ontology/theming/wiki/What-is-a-Literary-Theme%3F) together with thematically annotated [stories](https://github.com/theme-ontology/theming/wiki/What-is-a-Story%3F).
 The themes are organized into a [hierarchy](https://github.com/theme-ontology/theming/wiki/What-is-Literary-Theme-Ontology%3F).
 The package [py-totolo](https://github.com/theme-ontology/python-totolo) is used to interact with it programmatically.
