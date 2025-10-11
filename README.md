@@ -8,7 +8,6 @@
   &nbsp;||&nbsp;
   <a href="https://www.themeontology.org/stories"><strong>Explore the stories »</strong></a>
   <br>
-  <br>
 </p>
 
 # Theme Ontology
