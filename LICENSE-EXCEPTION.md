@@ -1,9 +1,9 @@
-Story descriptions are sections in files with a name ending in ".st.txt".
+**Story descriptions** are sections in files with a name ending in ".st.txt".
 They follow the heading ":: Description" and last until the next heading on a line beginning with double colons.
-Story descriptions are, generally, *edited quotations* from Wikipedia
+Story descriptions are, generally, **edited quotations** from **Wikipedia**
 articles, with urls found in the corresponding ":: References" 
 sections. As such, by necessity, they are provided
-under the CC BY-SA license required by Wikipedia.
+under the **CC BY-SA** license required by Wikipedia.
 CC BY-SA is more restrictive than 
 the MIT license used for the rest of the repository.
 The CC BY-SA license text follows.
