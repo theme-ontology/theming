@@ -1,4 +1,4 @@
-**Story descriptions** are sections in files with a name ending in ".st.txt".
+**Story descriptions** are sections in files with names ending in ".st.txt".
 They follow the heading ":: Description" and last until the next heading on a line beginning with double colons.
 Story descriptions are, generally, **edited quotations** from **Wikipedia**
 articles, with urls found in the corresponding ":: References" 
