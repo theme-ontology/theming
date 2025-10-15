@@ -17,7 +17,7 @@ A community-based, open access knowledgebase of literary themes and thematically
 ## About
 
 The Theme Ontology Project is a collaborative undertaking focused on developing a literary thematic knowledgebase to underpin computational analyses in fiction studies.
-This project repository contains a collection of carefully defined [literary themes](https://github.com/theme-ontology/theming/wiki/What-is-a-Literary-Theme%3F) together with thematically annotated [stories](https://github.com/theme-ontology/theming/wiki/What-is-a-Story%3F).
+This repository contains a collection of carefully defined [literary themes](https://github.com/theme-ontology/theming/wiki/What-is-a-Literary-Theme%3F) together with thematically annotated [stories](https://github.com/theme-ontology/theming/wiki/What-is-a-Story%3F).
 The themes are organized into a [hierarchy](https://github.com/theme-ontology/theming/wiki/What-is-Literary-Theme-Ontology%3F).
 The package [py-totolo](https://github.com/theme-ontology/python-totolo) is used to interact with it programmatically.
 
@@ -29,8 +29,8 @@ Visit the Theme Ontology website: [https://www.themeontology.org/](https://www.t
 
 ## Participating
 
-Read the project [wiki](https://github.com/theme-ontology/theming/wiki) to get a basic idea of what how the Theme Ontology works in practice.
-Then, refer to the general [Contributing Guide](CONTRIBUTING.md) to learn how to get started with contributing to the project.
+Read the project [wiki](https://github.com/theme-ontology/theming/wiki) to get a basic idea of how the Theme Ontology works.
+Refer to the general [Contributing Guide](CONTRIBUTING.md) to learn how to get started with contributing to the project.
 Propose changes via:
 [Request a theme](https://github.com/theme-ontology/theming/issues/new?template=request-a-new-theme.md)
 or
