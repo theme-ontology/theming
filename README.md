@@ -23,7 +23,7 @@ The package [py-totolo](https://github.com/theme-ontology/python-totolo) is used
 
 The ontology can be downloaded and analyzed in various ways.
 This tells us interesting things about the kind of stories we humans invent.
-Theming is also a good personal way to reflect on what really goes on in the stories we enjoy.
+Theming is also a personal way to reflect on what really goes on in the stories we enjoy.
 
 Visit the Theme Ontology website: [https://www.themeontology.org/](https://www.themeontology.org/) to browse the data.
 
