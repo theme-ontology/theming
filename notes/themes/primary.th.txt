@@ -8042,6 +8042,35 @@ humans in pairs
 coping with life issues
 
 
+coping with senility
+====================
+
+:: Description
+A character copes with a loss of their mental faculties that comes naturally
+with age, or one of the more severe conditions that is sometimes associated.
+Alternatively, a near and dear character copes with this happening to someone
+they care for.
+
+:: Parents
+human health condition
+coping with aging
+
+:: Notes
+This theme is used for example when a character copes with dementia, or
+Alzheimer's.
+
+:: Examples
+In tng3x23 "Sarek", Sarek coped with having Bendii Syndrome, which is a rare
+degenerative neurological disorder that sometimes affects Vulcans over the age
+of two hundred.
+
+:: References
+https://en.wikipedia.org/wiki/Dementia
+
+:: Aliases
+coping with dementia
+
+
 coping with sexual dysfunction
 ==============================
 
@@ -37027,11 +37056,31 @@ A character wants nothing less than to look good.
 desire
 human self-esteem need
 
-
 :: Examples
 The titular character of Carlo Collodi's classic children's novel "The
 Adventures of Pinocchio" (1883) is a wooden puppet who dreams of becoming a
 real boy.
+
+
+the desire to be different from what one is
+===========================================
+
+:: Description
+A character longs to become someone or something else.
+
+:: Parents
+desire
+human aspiration
+
+
+the desire to be human
+======================
+
+:: Description
+A nonhuman character longs to become more like a human being in some respect.
+
+:: Parents
+the desire to be different from what one is
 
 
 the desire to be liked
@@ -37043,6 +37092,19 @@ A character manifests a wish to be liked by someone else they care about.
 :: Parents
 desire
 human social need
+
+
+the desire to be more like a normal person
+==========================================
+
+:: Description
+A character longs for nothing more than to be an ordinary person. For example,
+a celebrity wishing they could lead a normal life, or an exceptionally tall
+person wishing they were of average height.
+
+:: Parents
+the desire to be different from what one is
+human self-esteem need
 
 
 the desire to be remembered
@@ -42029,6 +42091,23 @@ have enough certainty to call the police. Instead he convinces his friends to
 sneak over and gather evidence.
 
 
+what if I came into a lot of money
+==================================
+
+:: Description
+We, as people of more or less normal means, imagine what we would do with a
+very large amount of money if it suddenly came into our possession.
+
+:: Parents
+what if my life were different
+
+:: Notes
+The threshold for this theme is that the amount of money is so large that the
+person doesn't necessarily have to work more in their life, should they wish
+it. If a smaller amount of money is suddenly gained, the theme "what if I
+suddenly got some free money" applies instead.
+
+
 what if I caught a glimpse of the future
 ========================================
 
@@ -43082,6 +43161,20 @@ what if I were in a tight spot
 :: Examples
 The gargantuan blue humanoid alien Tiwa kept a human boy as a pet in
 "Fantastic Planet" (1973).
+
+
+what if I was super rich
+========================
+
+:: Description
+There is a character that is ostentatiously wealthy in the context of the
+society depicted. The character has enough money to command the labour of
+numerous or countless fellow citizens, for example, through the vehicle of a
+private corporation. In a modern story, they might have their own yachts,
+jets, and secret bat caves.
+
+:: Parents
+what if my life were different
 
 
 what if I was trapped in a work of fiction
