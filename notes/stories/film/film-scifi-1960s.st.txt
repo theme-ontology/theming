@@ -77,9 +77,6 @@ https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
 :: Ratings
 5 <paul>
 
-:: Collections
-Collection: Time Out magazine's Top 100 films
-
 :: Major Themes
 interplanetary space travel [The film follows a voyage to Jupiter. There was also a mission to the Moon.]
 sentient computer [The iconic HAL 9000 computer.]
@@ -164,7 +161,7 @@ communism [A point was made several times about how class distinctions had been 
 information technology in society [There was a system much like the Internet except that searches were performed by sending requests to humans at a central authority.]
 open sexuality in society [There was a ball game played at the factory where players kissed and hugged.]
 labor strikes in society [The factory technicians organized a strike.]
-coping with a disability [The head of the History Institute lamented having gone blind.]
+blindness [The head of the History Institute lamented having gone blind.]
 suspended animation [A scientist described how 27,000 people put themselves in suspended animation in wait of a brighter future.]
 mind uploading [A scientist explained how people in suspended animation may one day have their minds transfered into computers.]
 
@@ -262,10 +259,11 @@ https://en.wikipedia.org/wiki/Alphaville_(film)
 4 <paul>
 
 :: Major Themes
-machine controlled society [Alphaville was completely controlled by the sentient computer Alpha 60.]
+machine regulated society [Alphaville was completely controlled by the sentient computer Alpha 60.]
 sentient computer [Alphaville was completely controlled by the sentient computer Alpha 60.]
 totalitarian dystopia [Alphaville was an Orwellian sort of totalitarian society run by a computer.]
 human vs. sentient machine [The film surrounded Lemmy Caution being sent on a mission to destroy the Alpha 60 computer system.]
+AI risk to civilization [Alphaville was completely controlled by the tyrannical computer Alpha 60 which had outlawed emotion and creativity.]
 
 :: Minor Themes
 romantic love [Natacha von Braun experienced love for the first time with Lemmy Caution.]
@@ -588,12 +586,13 @@ mad scientist stereotype [The mad scientist Durand Durand.]
 :: Minor Themes
 interstellar space travel [Barbarella traveled to the Tau Ceti star system in search of D. Duran Duran.]
 universal translation device [Barbarella used a device on her wrist, called a tongue box, to communicate with people who spoke foreign languages.]
-coping with a disability [Pygar the blind angel. Note that he had also lost his ability to fly.]
+blindness [The angel-like being Pygar was blind. Note that he had also lost his ability to fly.]
 angel [Barbarella slept with the blind angel Pygar.]
 resistance movement [Dildano led an underground movement to overthrow the rule of Sogo's Black Queen.]
 the lust for power [Dr. Duran Duran revealed that he wished to rule the entire galaxy.]
 lesbianism [Barbarella's interactions with the Black Queen had lesbian overtones.]
 speculative spaceship [Barbarella had a spaceship with a fur interior.]
+mobility impairment [The angel-like being Pygar was down in the dumps because he had lost his ability to fly. Getting laid by Barberella fixed his flying problem.]
 
 
 movie: Battle Beyond the Sun (1962)
@@ -1108,7 +1107,6 @@ https://en.wikipedia.org/wiki/Destroy_All_Monsters
 :: Major Themes
 living dinosaur [Godzilla and Gorosaurus.]
 monster apocalypse [Major cities around the world were attacked by the monsters of Monsterland.]
-technologically enabled utopia [The Kilaaks Queen plotted to build a "scientific utopia" on Earth.]
 extraterrestrial being [The Kilaaks used the monsters from Monsterland to try and take over the world and build a scientific utopia.]
 subversive life form from outer space [The Kilaaks set up a base on Earth and mind controlled a number of human minions and giant monsters in an effort to take over the world.]
 human vs. monster [Aliens mind-controlled the various giant monsters of Monsterland into attacking people all over the world.]
@@ -1120,6 +1118,7 @@ colonization of the Moon [There was a Moon base.]
 speculative spaceship [People took a futuristic rocketship back and forth to the Moon.]
 mind control technology [The Kilaaks used mind control radio devices to control both people and monsters.]
 flying saucer [The Kilaaks used a flying saucer.]
+technologically enabled utopia [The Kilaaks Queen plotted to build a "scientific utopia" on Earth.]
 
 :: Other Keywords
 giant moth [Mothra.]
@@ -1223,7 +1222,7 @@ mad scientist stereotype [Dr. Peter Blood was transplanting hearts from living p
 
 :: Minor Themes
 unethical human experimentation [Dr. Peter Blood's professor in Vienna warned Peter that he would alert the authorities if he continued with his heart transplant experiments with people before trying them first on animals.]
-human vs. zombie [Dr. Peter Blood turned Steve Parker into a zombie in an attempt to revive him from the dead. The zombie then tried to kill him.]
+human vs. monster [Dr. Peter Blood turned Steve Parker into a zombie in an attempt to revive him from the dead. The zombie then tried to kill Peter.]
 zombie [Dr. Peter Blood turned Steve Parker into a zombie in an attempt to revive him from the dead.]
 
 
@@ -1945,8 +1944,6 @@ https://en.wikipedia.org/wiki/Goke_Body_Snatcher_from_Hell
 3 <paul>
 
 :: Major Themes
-human vs. nature [Plane crash survivors had to survive in a remote area.]
-what if I were stranded without food and water [The plane crash survivors had no water.]
 vampire [Goke transformed its victims into blood thirsty vampires.]
 attack from outer space by a genocidal enemy [The Gokemidoro aliens invaded Earth with the intention of wiping out mankind.]
 extraterrestrial being [The Gokemidoro aliens.]
@@ -1959,6 +1956,7 @@ flying saucer theory of UFOs [It was stated that flying saucer sightings had inc
 coping with the death of a spouse [Mrs. Neal's husband had died in the Vietnam War.]
 arms trade [Mano conspired with an arms dealer to lobby the government to buy arms from the said arms dealer.]
 blobform [The bluish blob Goke.]
+stranded on a deserted island <tropical> [A group of plane crash survivors were stranded on an uncharted deserted island. They discussed the matter of how to find water.]
 
 
 movie: Gorath (1962)
@@ -2057,7 +2055,7 @@ https://en.wikipedia.org/wiki/Horrors_of_Spider_Island
 2 <paul>
 
 :: Major Themes
-human vs. nature [Gary Webster and the dancing girls ended up stranded on an island in the middle of the ocean after a plane crash.]
+stranded on a deserted island [Gary Webster and the dancing girls ended up stranded on an island in the middle of the ocean after a plane crash.]
 romantic love [Joe and Alice fell in love on the island. Gladys and Bobby fell in love.]
 
 :: Minor Themes
@@ -2094,7 +2092,11 @@ coping with a loved one being in peril [Mary and Robert Grant embarked on a jour
 brother and sister [Mary and Robert Grant.]
 father and daughter [Mary Grant embarked on a mission to find her father who was presumed to be lost at sea.]
 father and son [Mary Grant embarked on a mission to find her father who was presumed to be lost at sea.]
-human vs. nature [The rescue party survived an earthquake, a lightning storm, a tidal wave, a volcano, and an avalanche.]
+wilderness expedition [The story follows Professor Paganel and his companions as they undertake a perilous expedition to South America in search of a missing ship captain.]
+
+:: Minor Themes
+human vs. natural disaster <earthquake, tidal wave, volcano eruption, avalanche> [The rescue party survived an earthquake, a lightning storm, a tidal wave, a volcano, and an avalanche.]
+human vs. the elements <lightning storm> [The expedition party survived a dangerous thunder and lightning storm.]
 
 
 movie: In the Year 2889 (1967)
@@ -2613,7 +2615,7 @@ https://en.wikipedia.org/wiki/Latitude_Zero_(film)
 :: Major Themes
 underwater city [Dr. Ken Tashiro, Dr. Jules Masson, and journalist Perry Lawton were taken to Latitude Zero, a super-advanced underwater utopian city.]
 facing a genius adversary [Captain Craig McKenzie was involved in a fight of good versus evil against the evil Dr. Malic.]
-technologically enabled utopia [The utopian city Latitude Zero, which was on the sea floor, was made possible by the super advanced technologies that its citizens had developed over the years. Technology ensured that all the material needs of the city inhabitants were provided for. Gold, which was plentiful, was filtered from ocean water and diamonds were of very little value.]
+post-scarcity economy utopia [The utopian city Latitude Zero, which was on the sea floor, was made possible by the super advanced technologies that its citizens had developed over the years. Technology ensured that all the material needs of the city inhabitants were provided for. Gold, which was plentiful, was filtered from ocean water and diamonds were of very little value.]
 
 :: Minor Themes
 the quest for immortality [The residents of Latitude Zero solved the problem of aging.]
@@ -2688,7 +2690,7 @@ https://en.wikipedia.org/wiki/Marooned_(1969_film)
 3 <paul>
 
 :: Major Themes
-what if I were stranded in outer space [There was a malfunction when three astronauts were returning to Earth from an extended mission aboard an experimental orbital laboratory and they became trapped and slowly began to suffocate in their reentry module.]
+stranded in outer space [While three astronauts were returning to Earth after a long mission aboard an experimental orbital lab, a malfunction occurred, trapping them in their reentry module where they slowly began to suffocate.]
 orbital spaceflight [Three astronauts blasted off from Earth on an extended mission aboard an experimental orbital laboratory.]
 risk taking vs. playing it safe [The President stepped in and unilaterally decided to go ahead with a risky attempt to rescue the suffocating astronauts.]
 
@@ -2792,8 +2794,7 @@ https://en.wikipedia.org/wiki/Matango
 4 <paul>
 
 :: Major Themes
-what if I were stranded without food and water [A group of castaways were stranded on a remote island and struggled to find enough food to survive.]
-human vs. nature [A group of castaways had to survive on an unpopulated island.]
+stranded on a deserted island [A group of day trippers found themselves temporarily stranded on a seemingly unpopulated island.]
 animal and plant patterned being [A group of castaways, who found themselves stranded on a remote island, started transforming into part mushroom, part human creatures.]
 
 :: Minor Themes
@@ -3168,7 +3169,7 @@ science for war or peace [Nemo argued that science must be used for peace and no
 going over someone's head [The Civil War prisoners establish pecking order after becoming stranded on the island.]
 speculative submarine [Nemo had a super high-tech submarine.]
 misanthropy [Nemo manifested a deep resentment of all mankind and secluded himself on an uninhabited island.]
-human vs. nature [Civil War prisoners became stranded on an island.]
+stranded on a deserted island [A group of people found themselves stranded on a deserted island. They took up temporary abode in a cave as they worked on building a boat to escape.]
 human vs. beast [The Civil War prisoners against a giant crab, giant chicken, giant bees, and giant nautilus.]
 
 :: Minor Themes
@@ -3377,7 +3378,7 @@ https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)
 nuclear holocaust [Chimps, gorillas, and orangutans succeeded Humans as the dominant creatures on the Earth after Humans annihilated themselves in a nuclear war.]
 ape-like being [Chimps, gorillas, and orangutans all evolved to be intelligent ans shared power on a planet that was thought by Human astronauts to be a world distant from Earth.]
 creationism [A talking Human according to simian theology and the religious authorities tried to suppress knowledge of Taylor and Cornelius' theory that apes evolved from people.]
-faith vs. reason [Zira and Cornelius were prosecuted as heretics for their view on simian evolution. Dr. Zaius insisted that there was no conflict between faith and science.]
+faith vs. science [Zira and Cornelius were prosecuted as heretics for their subversive view on simian evolution. Dr. Zaius insisted that there was no conflict between faith and science.]
 apostacy [Zira and Cornelius were indited as heretics for their view on simian evolution.]
 heresy [Zira and Cornelius were indited as heretics for their view on simian evolution.]
 displacement by a rising new species [Apes had supplanted Humans as the dominant species on Earth.]
@@ -3451,7 +3452,7 @@ https://en.wikipedia.org/wiki/Planeta_Bur
 :: Major Themes
 interplanetary space travel [The story surrounds a voyage to Venus by three Soviet spaceships.]
 humanoid robot [There was a big robot named John that helped the crew.]
-human vs. nature [Three cosmonauts were stranded on the surface of Venus.]
+human vs. speculative environment <prehistoric> [Three cosmonauts were stranded on the surface of Venus.]
 Venusian extraterrestrial [Alyosha discovered that his odd triangular rock he had found is really a sculpture of a woman's face, proving that there might still be intelligent life on Venus.]
 isolated prehistoric land [Venus was discovered to be a prehistoric world, complete with dinosaurs.]
 
@@ -3591,8 +3592,8 @@ https://en.wikipedia.org/wiki/Robinson_Crusoe_on_Mars
 2 <paul>
 
 :: Major Themes
-human vs. nature [Commander Kit Draper and Colonel Dan McReady were unceremoniously dumped off on Mars and had to try and survive there. Colonel McReady died on the first night, leaving Commander Draper and his pet monkey Mona to find a way to survive there on the Red Planet.]
-what if I were stranded without food and water [Commander Kit Draper was stranded on Mars with minimal provisions.]
+wilderness survival [The story follows Kit Draper in his efforts to sustain himself, and his pet monkey, on the surface of Mars. He found a cave for shelter, burned coal-like rocks for warmth, and discovered that heating the rocks provided a source of oxygen. He additionally secured water and a steady supply of edible plant “sausages”.]
+stranded on a deserted planet [The story follows Kit Draper in his efforts to sustain himself, and his pet monkey, on the surface of Mars. He found a cave for shelter, burned coal-like rocks for warmth, and discovered that heating the rocks provided a source of oxygen. He additionally secured water and a steady supply of edible plant “sausages”.]
 Martian extraterrestrial [Kit Draper encountered Martians while stranded on the Red Planet.]
 male bonding [Kit Draper and Friday had to cooperate to survive on Mars.]
 
@@ -4061,7 +4062,7 @@ https://en.wikipedia.org/wiki/The_Astro-Zombies
 
 :: Major Themes
 zombie [Disgruntled scientist Dr. DeMarco created a couple of zombie-like creature, called Astro-Zombies.]
-human vs. zombie [An Astro-Zombie monster thing was on the loose.]
+human vs. monster [A small team of CIA agents worked to track down the murderous Astro-Zombie monster.]
 
 :: Minor Themes
 mind linking technology [Dr. DeMarco developed a technology that the direct transfer of thoughts from brain to brain via radio waves.]
@@ -4295,8 +4296,8 @@ https://en.wikipedia.org/wiki/The_Creation_of_the_Humanoids
 :: Major Themes
 android [Humans lived together with blue-skinned human-like robots.]
 AI prejudice in society [Most humans were prejudiced against androids, and called them "clickers".]
-utopia on the back of android labor [Humans had grown totally dependent on androids to run their society.]
-rise of the machines [A fanatical organization tried to prevent the robots from becoming too human, fearing that they would take over.]
+technologically enabled utopia [Humans had grown totally dependent on androids to run their society.]
+AI risk to civilization [In a post-apocalyptic world, a fanatical organization was trying to prevent the robots controlled by a central AI from becoming too human, fearing that they would take over. In a plot-twist, it turned out that the AI was actually transferring human consciousnesses into android bodies in a bid to save humanity.]
 social oppression [Most humans saw nothing wrong with treating androids as tools to be used for providing for human comfort and the running of society.]
 mass infertility [Radiation was responsible for a decreasing birth rate among the surviving generations of the nuclear conflagration.]
 romantic love [Kenneth Cragis and Maxine Megan. Esme Cragis Milos and an android.]
@@ -4443,7 +4444,7 @@ invasive life form from outer space [A race of man-eating plants came to Earth f
 romantic love [Tom Goodwin and Karen Goodwin.]
 husband and wife [Tom Goodwin and Karen Goodwin.]
 alcohol abuse [Tom Goodwin was an alcoholic.]
-coping with a disability [An unusual meteor shower has blinded most people on Earth.]
+blindness [An unusual meteor shower has blinded most people on Earth.]
 
 :: Other Keywords
 meteor [An unusual meteor shower has blinded most people on Earth.]
@@ -4571,7 +4572,6 @@ https://en.wikipedia.org/wiki/The_Flesh_Eaters_(film)
 1 <paul>
 
 :: Major Themes
-human vs. nature [There was a group of people stranded on a desert island.]
 human vs. beast [The castaways versus the flesh eating microbes.]
 romantic love [Grant Murdoch and Jan Letterman.]
 mad scientist stereotype [Professor Peter Bartell secluded himself on an island where he hoped to cultivate a group of monstrous "flesh eaters" that could devour the skin off a person in mere seconds.]
@@ -4614,7 +4614,7 @@ what it is like on a passenger flight [The drama unfolded aboard Trans-Coast Air
 :: Minor Themes
 engaged couple [The flight attendant was engaged to the co-pilot.]
 romantic love [The flight attendant and the co-pilot were engaged.]
-coping with a disability [Helen Cooper was blind.]
+blindness [Helen Cooper was blind.]
 female independence [Mathematician Marcia Paxton told Tom Endicott that she wasn't interested in getting married and didn't need to depend on a man.]
 what it is like in a legal proceeding [Eminent scientist Dr Carl Morris, mathematician Marcia Paxton, and rocket scientist Tom Endicott were frozen in time and put on trial in the future for their part in designing a bomb that has destroyed all life on Earth.]
 what if I had to spend eternity in limbo [Three scientists were were frozen in time and put on trial in the future for their part in designing a bomb that has destroyed all life on Earth. If found guilty, they would be condemned to remain frozen suspended in time for all eternity.]
@@ -4763,7 +4763,7 @@ subversive life form from outer space [An alien came to Earth to make android du
 extraterrestrial being [An alien came to Earth to make android duplicates of select humans as part of a Intergalactic Council plot to take over the world.]
 
 :: Minor Themes
-coping with a disability [Lisa Dornheimer was blind.]
+blindness [Lisa Dornheimer was blind.]
 uncle and niece [Prof. Vaughan Dornheimer was determined to create artificial eyes for his blind niece Lisa Dornheimer.]
 artificial body part <eye> [Prof. Vaughan Dornheimer was determined to create artificial eyes for his blind niece Lisa Dornheimer.]
 
@@ -4823,10 +4823,10 @@ husband and wife [Carl and Felicia were married with two kids in the "The Veldt"
 parent and child [Carl and Felicia worried about their children's mental health in the "The Veldt" subplot. A husband and wife were ruled to kill their children in the "The Last Night of the World" subplot.]
 virtual reality room [In "The Veldt" subplot, children John and Anna played in a virtual reality nursery, which produced any environment the children imagined.]
 what if my thoughts became reality [In "The Veldt" subplot, children John and Anna played in a virtual reality nursery, which produced any environment the children imagined.]
-human vs. nature [A crew of astronauts were stranded on Venus in perpetual torrential rains in the "The Long Rain" subplot.]
+human vs. the elements <torrential rain> [A crew of astronauts were stranded on Venus in perpetual torrential rains in the "The Long Rain" subplot.]
 colonization of Venus [The astronauts said there were domed cities, called "sun domes", every 20 miles on Venus in the "The Long Rain" subplot.]
 descent into madness [The astronauts in the "The Long Rain" subplot were driven to madness while searching for a sun dome on Venus.]
-what if I were stranded without food and water [A crew of astronauts were stranded on Venus in perpetual torrential rains in the "The Long Rain" subplot.]
+stranded on a deserted planet [A crew of astronauts were stranded on Venus in perpetual torrential rains in the "The Long Rain" subplot.]
 existential risk to civilization [Every adult on Earth has had the same vision of the Earth ending that night in the "The Last Night of the World" subplot.]
 choosing whether to kill someone to spare them suffering [A husband and wife had to decide whether or not to follow the order to kill their children to save them from the coming horror of the end of the world in the "The Last Night of the World" subplot.]
 
@@ -4925,11 +4925,12 @@ living dinosaur [An expedition team to a plateau in Venezuela discovered dinosau
 
 :: Major Themes
 cryptid [An expedition team to a plateau in Venezuela discovered dinosaurs, carnivorous plants, and giant spiders.]
-human vs. nature [A team went on an expedition to a plateau in Venezuela.]
+human vs. speculative environment <prehistoric> [A team went on an expedition to a plateau in Venezuela.]
 human vs. beast [The expedition team encountered hostile dinosaurs, carnivorous plants, and giant spiders.]
 romantic love [Ed Malone and Jennifer Holmes.]
 land exploration [Members of the Challenger expedition to a remote Venezuelan plateau were in part motivated by the prospect of adventure and exploration.]
 the need for adventure [Members of the Challenger expedition to a remote Venezuelan plateau were in part motivated by the prospect of adventure and exploration.]
+wilderness expedition [A team went on an expedition to a plateau in Venezuela.]
 
 :: Minor Themes
 father and daughter [David Holmes and Jennifer Holmes.]
@@ -5974,7 +5975,7 @@ interplanetary space travel [The story surrounds a group of astronauts who land 
 Venusian extraterrestrial [A tribe of pterosaur worshiping, seashell clad women was discovered on Venus.]
 humanoid robot [The astronauts were assisted on their mission by the big, bulky robot John.]
 isolated prehistoric land [Venus was discovered to be a prehistoric world, complete with dinosaurs and a tribe of seashell clad women.]
-human vs. nature [The astronauts had to survive in hostile and prehistoric environment that was the surface of Venus.]
+human vs. speculative environment <prehistoric> [The astronauts had to survive in the hostile and prehistoric environment that was the surface of Venus.]
 
 :: Minor Themes
 speculative spaceship [Astronauts commandeered a futuristic rocketship to Venus.]
@@ -6009,7 +6010,7 @@ https://en.wikipedia.org/wiki/Voyage_to_the_Prehistoric_Planet
 :: Major Themes
 interplanetary space travel [The story surrounds an expedition to Venus.]
 humanoid robot [There was a big robot named John that helped the crew on Venus.]
-human vs. nature [Three astronauts became stranded on the surface of Venus.]
+human vs. speculative environment <prehistoric> [Three astronauts became stranded on the surface of Venus.]
 Venusian extraterrestrial [Alyosha discovered that his odd triangular rock he had found is really a sculpture of a woman's face, proving that there might still be intelligent life on Venus.]
 isolated prehistoric land [Venus was discovered to be a prehistoric world, complete with dinosaurs.]
 
@@ -6108,7 +6109,7 @@ https://en.wikipedia.org/wiki/Wild_Wild_Planet
 
 :: Major Themes
 eugenics [Mad scientist Mr. Nurmi was using eugenics in combination with bioengineering to "perfect" the human race. One of his creations was a human with cat-like eyes and four arms.]
-transhumanism utopia [Mr. Nurmi imagined a future where a eugenically and biotechnologically enhanced race of humans ruled the universe.]
+genetic engineering utopia [Mr. Nurmi imagined a future where a eugenically and biotechnologically enhanced race of humans ruled the universe.]
 boyfriend and girlfriend [Mike Halstead and Connie.]
 romantic love [Mike Halstead and Connie.]
 
@@ -6145,7 +6146,7 @@ https://en.wikipedia.org/wiki/Women_of_the_Prehistoric_Planet
 :: Major Themes
 interplanetary space travel [There was an international manned mission to the planet Venus.]
 humanoid robot [There was a big, bulky robot named John that helped the explorers on Mars.]
-human vs. nature [Three cosmonauts were stranded on the surface of Venus.]
+human vs. speculative environment <prehistoric> [Three cosmonauts were stranded on the surface of Venus.]
 Venusian extraterrestrial [Alyosha discovered that his odd triangular rock he had found is really a sculpture of a woman's face, proving that there might still be intelligent life on Venus.]
 
 :: Minor Themes

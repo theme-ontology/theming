@@ -13,6 +13,10 @@ Films written or directed by Ingmar Bergman.
 :: References
 https://en.wikipedia.org/wiki/Ingmar_Bergman_filmography
 
+:: Component Stories
+movie: Persona (1966)
+movie: The Seventh Seal (1957)
+
 
 movie: Autumn Sonata (1978)
 ===========================
@@ -54,7 +58,7 @@ coping with the death of a child [We understand that Eva's resentment of her mot
 coping with aging [Charlotte felt her years after her husband had died, and said so on several occasions]
 single fatherhood [we understand that Eva and Helena had been raised by their father alone for years at a time, while their mother toured the world]
 mother's right to determine pregnancy [we understand that Eva felt she had been unjustly pressured by her mother to have an abortion when she was 18]
-coping with a disability [Helena had an ever worsening condition of paralysis, severe enough that she could not move on her own]
+mobility impairment [Helena had an ever worsening condition of paralysis, severe enough that she could not move on her own]
 
 
 movie: Cries and Whispers (1972)
@@ -330,7 +334,7 @@ https://en.wikipedia.org/wiki/The_Magician_(1958_film)
 5 <mikael>
 
 :: Choice Themes
-faith vs. reason [Dr. Vergerus and Concul Egerman discussed whether there could be anything that is beyond science, and came to wager on Albert's abilities being genuine or not. The rest of the story tied into this wager and its object.]
+faith vs. science [Dr. Vergerus and Concul Egerman discussed whether there could be anything that is beyond science, and came to wager on Albert's abilities being genuine or not. The rest of the story tied into this wager and its object.]
 
 :: Major Themes
 con artistry [Tubal and Albert's activities ranged from pseudo medicine to outright quackery.]

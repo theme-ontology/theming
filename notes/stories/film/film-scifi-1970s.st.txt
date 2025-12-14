@@ -228,9 +228,6 @@ https://en.wikipedia.org/wiki/Alien_(film)
 4 <mikael>
 5 <paul>
 
-:: Collections
-Collection: Time Out magazine's Top 100 films
-
 :: Choice Themes
 human vs. beast [Ripley and the Nostromo crew versus the Alien.]
 facing a ferocious beast [The Alien stalked and killed various Nostromo crew members.]
@@ -739,7 +736,8 @@ sentient computer [The Colossus super computer became sentient, as did its Sovie
 human vs. sentient machine [The people of Earth versus the Colossus computer.]
 maker and machine [Dr. Charles Forbin and the Colossus computer.]
 nuclear holocaust [The Colossus computer come to control the nuclear weapons stockpiles of the United States and the Soviet Union.]
-machine controlled society [The film ended with the Colossus computer taking over the world and forcing humans to live together in peace.]
+machine regulated society [The film ended with the Colossus computer taking over the world and forcing humans to live together in peace.]
+AI risk to civilization [The film ended with the Colossus computer taking over the world and forcing humans to live together in peace.]
 
 :: Minor Themes
 videophone [The scientists and politicians communicated over bulky and stationary video phones.]
@@ -813,8 +811,9 @@ https://en.wikipedia.org/wiki/Cosmos:_War_of_the_Planets
 :: Major Themes
 human vs. sentient machine [The futuristic astronauts helped some underground city dwelling aliens overthrow a tyrannical robot that was terrorizing them.]
 humanoid robot [A malevolent robot lured a crew of futuristic astronauts to its planet to force them to repair some of its faulty circuits before it set about on a mission to conquer the galaxy.]
-machine controlled society [A malevolent robot ruled as a tyrant over a race of aliens.]
+machine regulated society [A space crew investigating a signal from a distant planet finds a race of green-skinned humanoids enslaved by a rogue, evil supercomputer.]
 attack from outer space by a powerful conquering enemy [A malevolent robot plotted to conquer the galaxy.]
+AI risk to civilization [A space crew investigating a signal from a distant planet finds a race of green-skinned humanoids enslaved by a rogue, evil supercomputer.]
 
 :: Minor Themes
 speculative spaceship [There was a crew of futuristic astronauts zipping around outer space in a rocketship.]
@@ -1395,7 +1394,7 @@ https://en.wikipedia.org/wiki/Exo-Man
 1 <paul> [TV film]
 
 :: Major Themes
-coping with a disability [Professor Nicholas Conrad was paralyzed from the waist down in a mob hit, so he built an armored suit that enables him to walk and fight crime.]
+mobility impairment [Professor Nicholas Conrad was paralyzed from the waist down in a mob hit, so he built an armored suit that enables him to walk and fight crime.]
 romantic love [Dr. Nicholas Conrad and Emily Frost.]
 boyfriend and girlfriend [Dr. Nicholas Conrad and Emily Frost.]
 overcoming a limitation [Professor Nicholas Conrad overcame being confined to a wheelchair by fashioning for himself an armored suit that enables him to walk and fight crime.]
@@ -1589,7 +1588,7 @@ android [We saw an amusement park for the super rich that was full of androids.]
 AI safeguards [We saw the androids in an android amusement park try to take over the place and kill all the humans there in the process, even though the people were assured that the park was perfectly safe.]
 human vs. sentient machine [We saw the androids in an android amusement park try to take over the place and kill all the humans there in the process.]
 journalism [Newspaper reporter Chuck Browning and TV reporter Tracy Ballard teamed together to uncover a dark side to the "perfectly safe" Futureworld amusement park.]
-rise of the machines [The Futureworld androids replaced world leaders with android duplicates with a view to achieving total control of the world for the good of humankind.]
+AI risk to civilization [The Futureworld androids replaced world leaders with android duplicates with a view to achieving total control of the world for the good of humankind.]
 romantic love [Chuck Browning and Tracy Ballard fell for one another on their visit to Futureworld.]
 
 :: Minor Themes
@@ -2079,7 +2078,7 @@ https://en.wikipedia.org/wiki/Horror_Express
 :: Major Themes
 cryptid [Professor Sir Alexander Saxton discovered discovered the frozen remains of a primitive humanoid creative in a cave in Manchuria, but the creature revived on the transport back to Europe.]
 hominid evolution [Renowned British anthropologist Sir Alexander Saxton was transporting what he believed to be the missing link in human evolution back to Europe from China. It was a primitive humanoid creature that he discovered in a cave in Manchuria.]
-faith vs. reason [Father Pujardov was convinced that the creature was the work of Satan, while Saxton understood the creature within the theory of evolution.]
+faith vs. science [Father Pujardov was convinced that the creature was the work of Satan, while Saxton understood the creature within the theory of evolution.]
 extraterrestrial being [It turned out that the primitive humanoid creature was actually inhabited by an alien being that jumped to a new host after the creature was shot dead.]
 incorporeal being [An malevolent, incorporeal entity of extra-galactic origin inhabited various passengers on the train from China to Europe.]
 
@@ -2184,7 +2183,7 @@ attack from Inner Earth [It seemed that Martians living deep inside the Earth la
 :: Minor Themes
 brother and sister [Jake and his sister Sarah were living in a cabin in the Canadian wilderness.]
 flying saucer [There were shots of 50s style flying saucers invading Earth.]
-human vs. nature [Stan, Sarah, and Eric tried to brave elements to make it to the nearest town.]
+human vs. the elements <cold> [Stan, Sarah, and Eric tried to brave the cold of winter to make it to the nearest town.]
 Martian extraterrestrial [Stan theorized that Matrians moved into the Earth's interior about 8000 years ago when the Red Planet veered closer to Earth than the Moon.]
 
 
@@ -2287,13 +2286,13 @@ greed for riches [Edmond Rackham hatched a devious plot to get his hand on the t
 
 :: Minor Themes
 fear [AThe film opening with a woman running around shrieking in terror with fishmen were after her. She was not the only one either.]
-what if I were stranded without food and water [A group of castaways washed up on a volcanic island starving and without food and water. Initially they thought the island might be uninhabited, but they soon stumbled on Edmond Rackham's settlement.]
 Atlantis [Edmond Rackham showed Clause the ruins of Atlantis on a deep sea dive in a sort of diving bell.]
 misanthropy [Edmond Rackham secluded himself on an uncharted volcanic island to get away from man and his laws. He was accused by being a misanthrope by Claude.]
 speculative evolution [Claude read in Professor Ernest Marvin's journal how the fishmen were the evolutionary descendants of the Atlanteans. Some details of their process of evolution were supplied.]
 unethical human experimentation [Claude recalled that Professor Ernest Marvin was condemned in the past for having transplanted animal organs into human being.]
 human overpopulation [Professor Ernest Marvin was motivated by a desire to transform humans into fishmen so that people could live in the sea. This he saw as a solution to the problem of overpopulation.]
 overpopulated world [Professor Ernest Marvin spoke about the Earth one day becoming overpopulated, and he was transforming humans into fishmen in preparation for that inevitability.]
+stranded on a deserted island [A group of castaways washed up on a volcanic island starving and without food and water. Initially they thought the island might be uninhabited, but they soon stumbled on Edmond Rackham's settlement.]
 
 
 movie: Ivan Vasilievich Back to the Future (1973)
@@ -2533,10 +2532,12 @@ having a preconception challenged [Logan 5 came to question fundamental dogmas o
 questioning one's beliefs [Logan 5 came to question fundamental dogmas of his society, including the need for people to participate in ritual suicide public spectacles.]
 romantic love [Logan 5 and Jessica 6.]
 trust in a potential foe [Should Jessica trust that known Sandman Logan 5 was sincere when he asked for her help to escape from the city and in so doing death in the Carousel ritual?]
-machine controlled society [We saw a computer-run society in which a stable population was maintained through indoctrinating people with the belief that that ritual suicide was a necessity of life.]
+machine regulated society [The viewer is shown a computer-run society in which a stable population was maintained through indoctrinating people with the belief that that ritual suicide was a necessity of life.]
 facing organized pursuit [Logan 5 and Jessica 6 were being hunted down by Sandmen.]
 indoctrination in society [The people in a computer-run city were raised to unquestioningly believe that it was necessary to commit ritual suicide at the age of 30.]
 fabled land of goodness [Logan 5 and Jessica 6 went on a perilous journey to reach a supposedly mythical land of sanctuary.]
+post-scarcity economy utopia [The story is set in a futuristic city-state where peoples material needs are amply provided for.]
+AI risk to civilization [A tyrannical central computer controlled civilization by such means as executing people who reached the age of 30.]
 
 :: Minor Themes
 automatic surgery machine [We saw Logan 5 enter inside an elaborate laser surgery contraption.]
@@ -2941,7 +2942,7 @@ https://en.wikipedia.org/wiki/Morel%27s_Invention_(film)
 4 <paul> [The film takes a behaviorist view.]
 
 :: Major Themes
-what if I were stranded on a deserted island [A shipwrecked man made washed up on an island that appeared to be deserted, but it soon became apparent that other 1920s era people were on the island, but strangely the man could not interact with them. So he still faced the same problems that he would have had he been alone there throughout the film.]
+stranded on a deserted island [A shipwrecked man washed up on an island that appeared to be deserted, but it soon became apparent that other 1920s era people were on the island, but strangely the man could not interact with them. So he still faced the same problems that he would have had he been alone there throughout the film.]
 human vs. nature [The shipwrecked man had to find a way to survive by himself on the island he washed up on.]
 virtual person [Morel recorded all sensory information of the guest on his island for one week and then used a machine to generate self-aware projections of them.]
 what if I became a simulation [Morel collected detailed sensory data from his visitors and then created self-aware projections of them.]
@@ -3261,9 +3262,10 @@ but scarcely sci-fi.]
 brother and brother [Mike was trying to convince his older brother Jody of the threat posed by a malevolent undertaker, known as the Tall Man, who turns the dead of Earth into dwarf zombies.]
 zombie [The Tall Man was turning the dead of Earth into dwarf zombies to be sent to his planet and used as slaves.]
 what if I told the truth and nobody would believe me [Mike older brother was slow to believe him in spite of Mike's sincere protestations that something weird was going on in town.]
-human vs. the occult [The Tall Man wielded powerful supernatural forces of some sort or another.]
+human vs. magic wielder [Mike and his companions combated the Tall Man, an evildoer who wielded techno-magical forces.]
 the supernatural [The Tall Man wielded powerful supernatural forces of some sort or another.]
 extraterrestrial being [The Tall Man was from another planet.]
+human vs. monster [The Tall Man had various monstrous characteristics, including his fingers transforming into hostile insects when severed.]
 
 :: Minor Themes
 suicide in society [Tommy's friends, Jody and Reggie, believed he committed suicide, but he was in fact murdered by the Lady in Lavender while they were engaged in sexual intercourse.]
@@ -3371,9 +3373,9 @@ https://en.wikipedia.org/wiki/Planet_of_Dinosaurs
 isolated prehistoric land [A crew became spaceship wrecked on a distant planet with similar conditions to prehistoric Earth.]
 living dinosaur [The planet on which the crew was stranded was full of dinosaurs.]
 human vs. beast [The crew was under almost constant threat of being attacked by dinosaurs while stranded on the planet. The conclusion of the film saw the crew hunt down and kill tyrannosaurus.]
-what if I were stranded without food and water [A crew became spaceship wrecked on a distant planet with minimal provisions and had to figure out a way to survive until such time as a rescue party arrived.]
+stranded on a deserted planet <prehistoric> [A crew became spaceship-wrecked on a distant planet with minimal provisions and had to figure out a way to survive until such time as a rescue party arrived.]
 rivalry [Lee and Jim were at odds with each other about what was the best approach to surviving on the planet. Lee wanted to build a stockaded settlement while Kim wanted to hide out in the caves.]
-human vs. nature [A crew became spaceship wrecked on a distant planet with minimal provisions and had to figure out a way to survive until such time as a rescue party arrived.]
+wilderness survival <prehistoric> [After finding themselves were stranded on a distant planet, the crew set about finding shelter and securing a food supply.]
 hope [Some of the stranded crew members never lost hope that a rescue ship would arrive, while others had a more bleak outlook about their future.]
 leadership [Captain Lee's cautious approach to leading his crew was contrasted with Jim's more aggressive approach to dealing with potential threats.]
 
@@ -3554,7 +3556,7 @@ https://en.wikipedia.org/wiki/Rabid_(1977_film)
 
 :: Major Themes
 body part transplant [Rose underwent an experimental medical procedure which saw skin grafts differentiate and replace her damaged skin and organs that were damaged in a motorcycle accident. The procedure saved her life, but transformed her into a bloodthirsty monster.]
-human vs. zombie [The people Rose attacked were turned into bloodthirsty, zombie-like monsters that attacked everyone around them.]
+human vs. monster [Rose had a procedure that caused her to mutate, allowing her to survive only on human blood. The people Rose attacked were turned into bloodthirsty, zombie-like monsters that attacked everyone around them.]
 natural pandemic [Montreal was quarantined when it became apparent that an extremely dangerous rabies-like infection was spreading through the population.]
 the dangers of unfettered scientific advancement [Dan Keloid performed a radical skin grafting surgical procedure on a woman who would have otherwise died from injuries sustained in a motorcycle accident, but it resulted in her becoming a kind of Typhoid Mary figure who transmitted an infection that turned others into bloodthirsty zombie-like creatures.]
 human-made pandemic [Dan Keloid unintentionally created a highly contagious and deadly disease that one gathers spelled a lot of trouble for the world, because the film concluded with two hazmat suited men tossing a body into the back of a garbage truck.]
@@ -3597,7 +3599,7 @@ hope [The people in the film had hope in finding a place they called Genesis, wh
 
 :: Minor Themes
 coping with the death of a lover [Falk mourned the death of his beloved Miriam after she was killed by the Ravagers.]
-coping with a disability [Falk encountered a blind lawyer who was wandering about the countryside in a disoriented state.]
+blindness [Falk encountered a blind lawyer who was wandering about the countryside in a disoriented state.]
 delusional point of view [Sergeant had lost his mind after the apocalypse and he became unshakably convinced that Falk was his commanding officer, even though Falk adamantly denied it.]
 
 
@@ -3770,7 +3772,7 @@ interplanetary space travel [The ship Valley Forge was in orbit around Saturn.]
 endangered species [The last trees were housed aboard a spaceship in orbit around Saturn.]
 ecology [Lowell was managing an ecosystem in a spaceship in orbit around Saturn.]
 coping with disagreeable orders [Lowell has spent 8 years managing the ecosystem of plants on the ark ship on which he was stationed, but then he was suddenly order to destroy the whole thing and return to Earth. He did not take it well.]
-technologically enabled utopia [The film is set in a future where poverty has been eliminated on Earth and everyone has a job, but on the other hand, there was massive ecological destruction.]
+post-scarcity economy utopia [The film is set in a future where poverty has been eliminated on Earth and everyone has a job, but on the other hand, there was massive ecological destruction.]
 nature conservationism [Lowell was the only person who seemed to find a problem with Earth not having forests anymore. He took great pains to preserve a geodesic dome enclosed forest in orbit around Saturn.]
 sacrifice for one's beliefs [The film concluded with Lowell blowing himself up to ensure that the forest he was caring would would survive.]
 
@@ -3800,7 +3802,7 @@ https://en.wikipedia.org/wiki/Skullduggery_(1970_film)
 3 <paul> [Starring Burt Reynolds and the actor who played Harry Mudd in Star Trek TOS. Also the Richard Daystrom actor was in it.]
 
 :: Major Themes
-human vs. nature [There was a perilous expedition deep into the heart of Papua New Guinea.]
+wilderness expedition [There was a perilous expedition deep into the heart of Papua New Guinea.]
 ape-like being [An expedition party encountered a tribe of ape-like creatures.]
 cryptid [An expedition party encountered a tribe of ape-like creatures that Dr. Sybil Greame speculated were the missing link.]
 romantic love [Dr. Sybil Greame fell in love with Douglas Temple on the expedition.]
@@ -4146,9 +4148,6 @@ https://en.wikipedia.org/wiki/Stalker_(1979_film)
 5 <paul>
 5 <mikael>
 
-:: Collections
-Collection: BFI Top 100 films
-
 :: Choice Themes
 hope [The Stalker explained how the magical room in the Zone gave people hope and that the Professor would be wrong to blow it up even though it would be dangerous if some unscrupulous person made it to the room and was granted their wish.]
 despair [We heard that only the most wretched people who have lost all hope, have any chance of making it to the magic room.]
@@ -4253,9 +4252,6 @@ https://en.wikipedia.org/wiki/Star_Wars_(film)
 :: Ratings
 5 <paul>
 5 <mikael> [a classic]
-
-:: Collections
-Collection: Time Out magazine's Top 100 films
 
 :: Choice Themes
 good vs. evil [Some used the Force for good, awhile others, like Darth Vader, used it for evil.]
@@ -4468,7 +4464,7 @@ cryogenic technology [Three astronauts, after waking up from 180 years in cryoge
 rebuilding society after a disaster [The three astronauts had to reboot civilized life on Earth.]
 the quest for immortality [The Eternan people had found the secret of immortality in the 180 years since the Earth had been hit by an asteroid storm. There were no old people or children among them, but rather only adults in middle life.]
 human vs. captivity [Allison Crowley was held by the forest dwellers and she had to be rescued before the elders had her executed. The Eterna leaders kept the astronauts as guests, but the astronauts considered themselves to be prisoners and two of them tried to escape.]
-technologically enabled utopia [In Eterna we saw a society where immortal people lived in harmony, but the dark side was that they harvested organs from clones they bred in order to perpetuate themselves. Also a point was made that it was strange to have a society absent of children and old people.]
+speculative society [In Eterna we saw a society where immortal people lived in harmony, but the dark side was that they harvested organs from clones they bred in order to perpetuate themselves. Also a point was made that it was strange to have a society absent of children and old people.]
 
 :: Minor Themes
 space station [A rotating wheel space station was depicted orbiting the sun at the start of the film.]
@@ -4553,7 +4549,7 @@ https://en.wikipedia.org/wiki/Teens_in_the_Universe
 :: Major Themes
 interstellar space travel [An interstellar space voyage was organized to find the source of radio transmissions made by intelligent beings that were picked up from a planet in a star system in the Cassiopeia constellation.]
 speculative spaceship [The film followed a the teenage crew of nuclear, relativistic spaceship as they continued their voyage to a planet in a star system in the Cassiopeia constellation.]
-rise of the machines [One gathers that bionic robots took actions on the planet that somehow led to the extinction of the native population of people that had built them. However, the people living in a small capsule in orbit around the planet remained outside of the bionic robot's reach.]
+AI risk to civilization [One gathers that bionic robots took actions on the planet that somehow led to the extinction of the native population of people that had built them. However, the people living in a small capsule in orbit around the planet remained outside the reach of the bionic robots.]
 cyborg [The planet was populated by bionic robots.]
 human vs. captivity [The bionic robots held a landing party of the teens and Agapit captive.]
 
@@ -4772,7 +4768,7 @@ alcohol abuse [Guilt from having been responsible for the death of a young girl 
 fear [The ship cook Simon was terrified of one thing after another.]
 black sheep [Uncle Peter was regarded as something of an embarrassment because of his drinking.]
 precognition [After falling under the influence of the doll, Little Diane somehow knew how everybody on the ship was going to die.]
-human vs. nature [The Marvin family weathered a hurricane while voyaging in the Bermuda Triangle.]
+human vs. the elements <storm> [The Marvin family weathered a hurricane while voyaging in the Bermuda Triangle.]
 coping with the death of a parent [The Marvin children grieved upon finding out that their parents had been swept overboard during the hurricane.]
 husband and wife [Uncle Peter's wife was habitually unpleased with him. The Marvin family parents Edward and Kim.]
 uncle and niece [Little Diane and her boozing Uncle Peter.]
@@ -5165,7 +5161,7 @@ but the story had nothing to do about revenge. Jerry Cornelius flippantly stated
 the quest for immortality [Miss Brunner plotted to achieve immortality by merging herself with Jerry Cornelius into a hermaphroditic self-fertilizing, self-replicating, immortal human being.]
 
 :: Minor Themes
-faith vs. reason [Professor Hira felt conflicted between the Hindu religion that he was raised with and the knowledge of science he had acquired in life.]
+faith vs. science [Professor Hira felt conflicted between the Hindu faith of his upbringing and the scientific worldview he had adopted over the course of his life.]
 alcohol abuse [Jerry was an alcoholic.]
 sugar addiction [Jerry was a chocoholic.]
 brother and sister [Jerry's sister Catherine was being held captive by their evil, drug addicted brother Frank.]
@@ -5471,7 +5467,7 @@ what if I underwent a physical metamorphosis [David transformed into the Hulk wh
 stepmother and stepdaughter [Margaret Griffith tried to knock off her heiress stepdaughter Julie and inherit her fortune.]
 poison murder [Margaret Griffith tried to poison her heiress stepdaughter Julie and inherit her fortune. Her physician was injecting Julie with poison the he claimed was medicine.]
 greedy heir [Margaret had murdered her wealthy husband and was trying to knock off his heiress daughter in an effort to inherit the family fortune.]
-coping with a disability [Julie was lame in her legs and mostly confined to a wheelchair. Her paralysis was psychosomatic but her stepmother and physician convinced her that it was a physical condition.]
+mobility impairment [Julie was lame in her legs and mostly confined to a wheelchair. Her paralysis was psychosomatic but her stepmother and physician convinced her that it was a physical condition.]
 human vs. self [David struggled to control the brutish creature within him.]
 
 :: Minor Themes
@@ -5963,7 +5959,7 @@ https://en.wikipedia.org/wiki/The_Noah
 what if I were all alone in the world [Noah was the sole survivor on Earth after a nuclear holocaust.]
 nuclear holocaust [Noah was the sole survivor on Earth after a nuclear holocaust.]
 loneliness [Isolated on a Pacific island, and the sole survivor of a nuclear holocaust, Noah tried to keep up the routines of ordinary life, but he soon became lonely and conjured up an imaginary friend.]
-what if I were stranded on a deserted island [Noah found himself on a small, tropical island in the Pacific and he was living in a deserted Communist Chinese military outpost.]
+stranded on a deserted island [Noah found himself on a small, tropical island in the Pacific and he was living in a deserted Communist Chinese military outpost.]
 hallucination of a non-existing person [Noah and his imaginary companion, Friday. Noah went on to conjure up a little coterie of imaginary friends, including Friday's main squeeze Friday-Anne.]
 friendship [Friday became Noah's best and only friend on the deserted Pacific island.]
 descent into madness [Noah gradually conjured up a little community of imaginary people to keep him company on a deserted island. He had gone totally bonkers by the end of it.]
@@ -6793,8 +6789,9 @@ mother and daughter [Barbara and her spawn of Satan daughter Katy.]
 devil worship [The story followed a group of Satanists as they attempted to manifest the physical embodiment of evil cosmic entity Zatteen into reality so that it might wreak havoc upon the world.]
 boyfriend and girlfriend [The Satanist Raymond was trying to marry his girlfriend Barbara so that he could impregnate her with a male child, who in turn will mate with his half-sister and produce the physical embodiment of Zatteen.]
 stepfather and stepdaughter [Raymond and Katy.]
-coping with a disability [Barbara had to adjust to being confined to a wheelchair after she was shot in the spine by Katy.]
-human vs. the occult [Colsowicz came to Earth on a mission of some kind to prevent malevolent occult forces from wreaking havoc in the world.]
+mobility impairment [Barbara had to adjust to being confined to a wheelchair after she was shot in the spine by Katy.]
+human vs. unnatural being [Colsowicz came to Earth on a mission of some kind to prevent malevolent occult forces from wreaking havoc in the world.]
+evocation magic [A group of Satanists attempted to conjure the Lovecraftian cosmic entity Zatteen.]
 
 :: Minor Themes
 telekinetic ability [The 8-year old daughter Katy displayed psychokinetic abilities, like being able to make a basketball explode.]
@@ -6929,7 +6926,7 @@ https://en.wikipedia.org/wiki/Tidal_Wave_(1973_film)
 
 :: Major Themes
 force of nature existential risk to civilization [The Japanese Archipelago was sliding into the Japan Trench.]
-human vs. nature [The people of Japan were faced with the earthquakes, fires, and tsunamis that accompanied their archipelago sliding into an ocean trench. Mt. Fuji also erupted.]
+human vs. natural disaster <earthquake, wildfire, tsunami> [The people of Japan were faced with the earthquakes, fires, and tsunamis that accompanied their archipelago sliding into an ocean trench. Mt. Fuji also erupted.]
 coping with the rigors of command [The Japanese Prime Minister had the weight of the nation on his shoulders as he dealt with the unfolding cataclysm of Japan sinking into an ocean trench.]
 international issue [The Japanese Prime Minister was put in the unenviable position of having to negotiate with other world leaders over how many Japanese refugees their nations would accept.]
 refugee crisis [There was an international crisis over which nations would accept the millions of Japanese refugees.]
@@ -7237,7 +7234,7 @@ father and son [Professor Aitken and his son Charles set out on a perilous exped
 living dinosaur [Charles and Gregory were attacked on the sea floor by an an at least 20 foot long aquatic dinosaur.]
 father and daughter [Delphine and her father Briggs helped the castaways escape. Interestingly, Briggs was captain of the ship Mary Celeste from maritime history.]
 Martian extraterrestrial [The Atlantean queen Atsil revealed to Charles how her race originated from the Red Planet.]
-technologically enabled utopia [The Atlantean ruling elite revealed to Charles how to planned to take over the world, establish a military world state, and use science to build a utopia on Earth.]
+post-scarcity economy utopia [The Atlantean ruling elite revealed to Charles how they to planned to take over the world, establish a military world state, and use science to build a utopia on Earth.]
 Hollow Earth [It tuned out that Atlantis was located in a vast, air-filled cavern beneath the ocean floor.]
 
 :: Other Keywords
