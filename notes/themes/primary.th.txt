@@ -38663,11 +38663,12 @@ the nerd stereotype
 
 :: Description
 A stereotypical nerd character is featured. This typically involves the
-wearing of glasses, social awkwardness, and an excessive interest in things
-intellectual.
+wearing of glasses, an excessive interest in things
+intellectual. The character is socially awkward.
 
 :: Parents
 human character stereotype
+social awkwardness
 
 :: References
 https://en.wikipedia.org/wiki/Nerd
