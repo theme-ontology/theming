@@ -8124,6 +8124,18 @@ with no alternative but to stand idly by and watch the descent into madness.
 humans in pairs
 
 
+coping with someone who is a threat to replace you
+==================================================
+
+:: Description
+A character is concerned with losing their position, often meaning their job,
+to another character.
+
+:: Parents
+coping with a problematic person
+human social position
+
+
 coping with someone who is comporting themself above their station
 ==================================================================
 
@@ -11579,6 +11591,20 @@ engineered space structure
 
 :: References
 https://en.wikipedia.org/wiki/Megastructure#Trans-orbital_structures
+
+
+entrepreneurship
+================
+
+:: Description
+The art of launching a business and engaging in economical activity is
+featured.
+
+:: Parents
+human occupational activity
+
+:: References
+https://en.wikipedia.org/wiki/Entrepreneurship
 
 
 environmental issue
@@ -20997,9 +21023,10 @@ language of musical notes
 =========================
 
 :: Description
-The (very real) idea of a language composed of musical sounds is illustrated.
+The idea of a language composed of musical sounds is illustrated.
 
 :: Parents
+speculative communication
 problem of language and meaning
 
 :: Examples
@@ -30926,6 +30953,7 @@ A merciful character is pointedly contrasted with a ruthless character.
 
 :: Parents
 human characters in contrast
+ruthlessness
 
 
 ruthlessness
@@ -31854,6 +31882,7 @@ important to them for financial gain.
 
 :: Parents
 personal ethical dilemma
+integrity
 
 
 sending a child to military school
@@ -35090,22 +35119,6 @@ Madam La Grue, and struggles to turn every one of the few pennies she
 condescends to give him for his work.
 
 
-struggling with a life-changing decision
-========================================
-
-:: Description
-A character copes with the stress and pressure that comes with making a life-
-changing decision.
-
-:: Parents
-human life choice
-
-:: Examples
-Wesley struggled with whether or not to quit Starfleet Academy to go
-galavanting around the galaxy with his friend the Traveler in tng7x20
-"Journey's End".
-
-
 stubbornness
 ============
 
@@ -36474,20 +36487,6 @@ References https://en.wikipedia.org/wiki/Ancient_Greece
 https://en.wikipedia.org/wiki/Greco-Roman_world
 
 
-the art of entrepreneurship
-===========================
-
-:: Description
-The art of launching a business and engaging in economical activity is
-featured.
-
-:: Parents
-human occupational activity
-
-:: References
-https://en.wikipedia.org/wiki/Entrepreneurship
-
-
 the art of salesmanship
 =======================
 
@@ -37000,7 +36999,8 @@ the desire for professional success
 
 :: Description
 A character seeks ever further promotion, influence, recognition, rank, or
-salary etc. in their chosen line of work.
+salary etc. in their chosen line of work. Usually they want career
+advancement.
 
 :: Parents
 desire
@@ -37008,6 +37008,10 @@ human self-actualization need
 
 :: References
 https://en.wikipedia.org/wiki/Need_for_achievement
+
+:: Aliases
+career ambition
+career advancement
 
 
 the desire for redemption
@@ -38663,11 +38667,12 @@ the nerd stereotype
 
 :: Description
 A stereotypical nerd character is featured. This typically involves the
-wearing of glasses, social awkwardness, and an excessive interest in things
-intellectual.
+wearing of glasses, an excessive interest in things intellectual. The
+character is socially awkward.
 
 :: Parents
 human character stereotype
+social awkwardness
 
 :: References
 https://en.wikipedia.org/wiki/Nerd
@@ -39241,10 +39246,12 @@ the technological singularity
 =============================
 
 :: Description
-The idea that at some point AI will become more advanced than humans. Then
-they will accelerate the development of even more advanced AI, and so on ad
-infinitum. The result will be completely unpredictable and may make humans
-obsolete in the wink of an eye, goes the thinking.
+Featured is the idea that, at some point, AI will become more advanced than
+humans. At that point the AI will accelerate the development of even more
+advanced AI, and so on ad infinitum. The result is that, pretty much in the
+wink of an eye, AI so far exceeds human capabilities that it makes humanity
+obsolete and imperils human civilization's existence, or freedom to choose its
+own destiny.
 
 :: Parents
 AI risk to civilization
@@ -39262,6 +39269,7 @@ The art of playing out stories live is featured.
 
 :: Parents
 the fine arts and the humanities
+the entertainment industry
 
 :: References
 https://en.wikipedia.org/wiki/Theatre
@@ -41821,6 +41829,21 @@ monster
 https://en.wikipedia.org/wiki/Werewolf
 https://en.wikipedia.org/wiki/Therianthropy
 http://www.sf-encyclopedia.com/entry/werewolves
+
+
+what goes around comes around
+=============================
+
+:: Description
+The idea is illustrated that in acting some way (often meaning "badly")
+towards others, you help normalize that behavior and make it more likely that
+others in turn will act that way to you.
+
+:: Parents
+human idea about life
+
+:: References
+https://en.wiktionary.org/wiki/what_goes_around_comes_around
 
 
 what if a child had power over adults
