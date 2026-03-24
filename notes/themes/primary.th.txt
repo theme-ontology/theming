@@ -12472,28 +12472,6 @@ sacrifice for (typically) someone.
 human challenge in life
 
 
-facing an epidemic
-==================
-
-:: Description
-Someone tries to deal with a highly infectious disease running rampant through
-a population.
-
-:: Parents
-human vs. nature
-
-:: Examples
-A weary band of space lepers had their sights set on bringing themselves, and
-possibly their disease, to planet Haven in tng1x11 "Haven".
-
-:: References
-https://en.wikipedia.org/wiki/Epidemic
-https://en.wikipedia.org/wiki/Pandemic
-
-:: Aliases
-facing a pandemic
-
-
 facing an extraordinary accusation
 ==================================
 
@@ -17104,7 +17082,7 @@ honor
 :: Description
 A character steadfastly sticks to a traditional moral code in spite of
 temptation to do otherwise. It nearly always has to do with being honest and
-defending ones reputation. It very often involves Klingons.
+defending ones reputation.
 
 :: Parents
 human character
@@ -18266,6 +18244,30 @@ human vs. human
 :: Examples
 Butthead aliens held Captain Pike captive with the intention to use him as
 breeding stock in tos0x01 "The Cage".
+
+
+human vs. contagious disease
+============================
+
+:: Description
+Someone tries to deal with a highly infectious disease running rampant through
+a population.
+
+:: Parents
+human vs. nature
+contagious disease in society
+
+:: Examples
+A weary band of space lepers had their sights set on bringing themselves, and
+possibly their disease, to planet Haven in tng1x11 "Haven".
+
+:: References
+https://en.wikipedia.org/wiki/Epidemic
+https://en.wikipedia.org/wiki/Pandemic
+
+:: Aliases
+epidemic
+pandemic
 
 
 human vs. desert environment
@@ -22152,16 +22154,6 @@ loyalty to one's family
 
 :: Description
 Someone shows constant support to a family member.
-
-:: Parents
-loyalty
-
-
-loyalty to one's species
-========================
-
-:: Description
-Someone shows constant support to their species.
 
 :: Parents
 loyalty
@@ -40532,6 +40524,9 @@ human sentiment
 The pacifist Dowd turned every cheek on his body in spite of insult and injury
 (then he ran out and wiped a species of 50 billions clean out existence) in
 tng3x03 "The Survivors".
+
+:: Aliases
+forgiveness
 
 
 twin and twin
