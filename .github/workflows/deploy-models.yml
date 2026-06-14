@@ -22,17 +22,25 @@ env:
   AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
   S3_BUCKET: totolo-web-prod
   CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
-  TOOLING_REF: main
+  # Build tooling = latest totolo-search-web release (resolved at run time).
 
 jobs:
   deploy-models:
     runs-on: ubuntu-latest
     steps:
+      - name: Resolve latest search-web release (build tooling version)
+        id: toolref
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REF="$(gh api repos/theme-ontology/totolo-search-web/releases/latest --jq .tag_name 2>/dev/null || true)"
+          echo "Using totolo-search-web @ ${REF:-main}"
+          echo "ref=${REF:-main}" >> "$GITHUB_OUTPUT"
       - name: Check out search-web build tooling
         uses: actions/checkout@v4
         with:
           repository: theme-ontology/totolo-search-web
-          ref: ${{ env.TOOLING_REF }}
+          ref: ${{ steps.toolref.outputs.ref }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20'

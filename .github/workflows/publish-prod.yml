@@ -14,7 +14,7 @@ name: Publish releases to prod (themeontology.org search)
 #
 # Auth is GitHub OIDC (no stored keys): this repo assumes the prod-scoped deploy role.
 # The build tooling lives in the public theme-ontology/totolo-search-web repo and is
-# checked out at TOOLING_REF (currently main; pin to a release tag when one is cut).
+# checked out at the latest totolo-search-web release (resolved in the prepare job).
 
 on:
   push:
@@ -40,8 +40,8 @@ env:
   AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
   S3_BUCKET: totolo-web-prod
   CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
-  # Version of the search app / indexer to build with. Bump to a release tag to pin.
-  TOOLING_REF: main
+  # The search app / indexer version is the LATEST totolo-search-web release (resolved in the
+  # prepare job below), so prod builds use a released toolchain, not whatever is on main.
 
 jobs:
   prepare:
@@ -51,7 +51,16 @@ jobs:
       latest: ${{ steps.list.outputs.latest }}
       deploy_root: ${{ steps.list.outputs.deploy_root }}
       release_dates: ${{ steps.list.outputs.release_dates }}
+      tooling_ref: ${{ steps.toolref.outputs.ref }}
     steps:
+      - name: Resolve latest search-web release (build tooling version)
+        id: toolref
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REF="$(gh api repos/theme-ontology/totolo-search-web/releases/latest --jq .tag_name 2>/dev/null || true)"
+          echo "Building with totolo-search-web @ ${REF:-main}"
+          echo "ref=${REF:-main}" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -122,7 +131,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: theme-ontology/totolo-search-web
-          ref: ${{ env.TOOLING_REF }}
+          ref: ${{ needs.prepare.outputs.tooling_ref }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -150,7 +159,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: theme-ontology/totolo-search-web
-          ref: ${{ env.TOOLING_REF }}
+          ref: ${{ needs.prepare.outputs.tooling_ref }}
 
       - uses: actions/setup-python@v5
         with:
@@ -244,7 +253,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: theme-ontology/totolo-search-web
-          ref: ${{ env.TOOLING_REF }}
+          ref: ${{ needs.prepare.outputs.tooling_ref }}
 
       - uses: actions/setup-python@v5
         with:

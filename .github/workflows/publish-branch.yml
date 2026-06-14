@@ -35,7 +35,7 @@ env:
   AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
   S3_BUCKET: totolo-web-prod
   CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
-  TOOLING_REF: main
+  # Build tooling = latest totolo-search-web release (resolved at run time, see steps).
   BRANCH: ${{ github.event.inputs.branch || github.ref_name }}
 
 jobs:
@@ -50,11 +50,20 @@ jobs:
           fi
           echo "Building snapshot for branch: $BRANCH"
 
+      - name: Resolve latest search-web release (build tooling version)
+        id: toolref
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REF="$(gh api repos/theme-ontology/totolo-search-web/releases/latest --jq .tag_name 2>/dev/null || true)"
+          echo "Building with totolo-search-web @ ${REF:-main}"
+          echo "ref=${REF:-main}" >> "$GITHUB_OUTPUT"
+
       - name: Check out search-web build tooling
         uses: actions/checkout@v4
         with:
           repository: theme-ontology/totolo-search-web
-          ref: ${{ env.TOOLING_REF }}
+          ref: ${{ steps.toolref.outputs.ref }}
 
       - name: Check out theming content @${{ env.BRANCH }}
         uses: actions/checkout@v4
