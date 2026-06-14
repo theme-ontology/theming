@@ -143,7 +143,16 @@ jobs:
           path: ~/.cache/huggingface
           key: hf-models-${{ runner.os }}-all-minilm-l6-v2
       - name: Warm the embedding model cache
-        run: node node_modules/tsx/dist/cli.mjs packages/indexer/src/warm.ts
+        run: |
+          # HuggingFace 429-rate-limits unauthenticated downloads; retry with backoff so a
+          # transient limit doesn't fail the build. Once it succeeds the model is cached and
+          # the matrix legs restore it (no further HF calls).
+          for i in 1 2 3 4 5 6; do
+            if node node_modules/tsx/dist/cli.mjs packages/indexer/src/warm.ts; then exit 0; fi
+            echo "::warning::warm attempt $i failed (HF rate limit?); retrying in 30s"
+            sleep 30
+          done
+          node node_modules/tsx/dist/cli.mjs packages/indexer/src/warm.ts
 
   deploy:
     needs: [prepare, prefetch-models]
