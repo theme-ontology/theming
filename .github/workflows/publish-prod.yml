@@ -102,8 +102,35 @@ jobs:
           print('deploy_root=' + deploy_root)
           PY
 
-  deploy:
+  # Fetch the build-time embedding model ONCE and cache it, so the matrix legs below restore
+  # it from the Actions cache instead of each pulling it from the HuggingFace hub in parallel
+  # (which 429s on a cold cache). The shared browser models in /models/ are managed separately
+  # (deploy-models workflow), not rebuilt here.
+  prefetch-models:
     needs: prepare
+    if: ${{ needs.prepare.outputs.versions != '[]' && needs.prepare.outputs.versions != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out search-web build tooling
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/totolo-search-web
+          ref: ${{ env.TOOLING_REF }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - name: Cache HuggingFace models (build-time embeddings)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-${{ runner.os }}-all-minilm-l6-v2
+      - name: Warm the embedding model cache
+        run: node node_modules/tsx/dist/cli.mjs packages/indexer/src/warm.ts
+
+  deploy:
+    needs: [prepare, prefetch-models]
     if: ${{ needs.prepare.outputs.versions != '[]' && needs.prepare.outputs.versions != '' }}
     runs-on: ubuntu-latest
     strategy:
@@ -145,14 +172,6 @@ jobs:
           HIDE_SOURCE_LINK: '1'   # prod IS themeontology.org; omit the per-doc source link
         run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data
 
-      - name: Cache self-hosted model files
-        uses: actions/cache@v4
-        with:
-          path: packages/web/public/models
-          key: web-models-${{ hashFiles('scripts/fetch-models.mjs') }}
-      - name: Download models
-        run: node scripts/fetch-models.mjs
-
       - name: Build search app
         working-directory: packages/web
         env:
@@ -178,11 +197,6 @@ jobs:
       - name: Publish release (immutable)
         run: |
           aws s3 sync site/ "s3://${{ env.S3_BUCKET }}/${{ matrix.version }}/" --delete \
-            --cache-control "public, max-age=31536000, immutable"
-
-      - name: Upload shared models
-        run: |
-          aws s3 sync packages/web/public/models/ "s3://${{ env.S3_BUCKET }}/models/" \
             --cache-control "public, max-age=31536000, immutable"
 
       - name: Invalidate this release path
@@ -230,14 +244,6 @@ jobs:
           SITE_BASE: ''
           HIDE_SOURCE_LINK: '1'   # prod IS themeontology.org; omit the per-doc source link
         run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data
-
-      - name: Cache self-hosted model files
-        uses: actions/cache@v4
-        with:
-          path: packages/web/public/models
-          key: web-models-${{ hashFiles('scripts/fetch-models.mjs') }}
-      - name: Download models
-        run: node scripts/fetch-models.mjs
 
       - name: Build search app (root)
         working-directory: packages/web
