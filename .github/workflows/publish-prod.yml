@@ -38,8 +38,8 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   AWS_REGION: eu-west-1
   AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
-  PROD_BUCKET: totolo-web-prod
-  PROD_DISTRIBUTION_ID: E18HZDKQXC49C4
+  S3_BUCKET: totolo-web-prod
+  CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
   # Version of the search app / indexer to build with. Bump to a release tag to pin.
   TOOLING_REF: main
 
@@ -77,18 +77,24 @@ jobs:
                       out.append(0)
               return out
 
+          # v0* tags are early totolo package versions, not ontology releases — skip them
+          # in the "all" backfill. (An explicit tag push or single dispatch still builds
+          # whatever is named.)
+          def is_release(tag):
+              return vkey(tag)[:1] != [0]
+
           if event == 'push':
               versions = [ref]
               latest = ref
               deploy_root = 'true'
           else:
               if inp == 'all':
-                  versions = all_releases
+                  versions = [v for v in all_releases if is_release(v)]
               elif inp:
                   versions = [inp]
               else:
                   versions = []
-              latest = max(all_releases, key=vkey) if all_releases else ''
+              latest = max((v for v in all_releases if is_release(v)), key=vkey, default='')
               deploy_root = 'true' if latest and latest in versions else 'false'
 
           print('versions=' + json.dumps(versions))
@@ -170,19 +176,19 @@ jobs:
 
       - name: Publish release (immutable)
         run: |
-          aws s3 sync site/ "s3://${{ env.PROD_BUCKET }}/${{ matrix.version }}/" --delete \
+          aws s3 sync site/ "s3://${{ env.S3_BUCKET }}/${{ matrix.version }}/" --delete \
             --cache-control "public, max-age=31536000, immutable"
 
       - name: Upload shared models
         run: |
-          aws s3 sync packages/web/public/models/ "s3://${{ env.PROD_BUCKET }}/models/" \
+          aws s3 sync packages/web/public/models/ "s3://${{ env.S3_BUCKET }}/models/" \
             --cache-control "public, max-age=31536000, immutable"
 
       - name: Invalidate this release path
-        if: ${{ env.PROD_DISTRIBUTION_ID != '' }}
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
         run: |
           aws cloudfront create-invalidation \
-            --distribution-id "${{ env.PROD_DISTRIBUTION_ID }}" \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
             --paths "/${{ matrix.version }}/*"
 
   # Mirror the newest release to the bucket root so prod.themeontology.org/ tracks latest.
@@ -258,16 +264,16 @@ jobs:
           # --delete cleans stale root files from a previous latest, but the filters keep
           # the per-release prefixes (v*/), /models/, and the shared /versions.json. The
           # root's own /versions/ page dir is re-included (it also matches v*/).
-          aws s3 sync site/ "s3://${{ env.PROD_BUCKET }}/" --delete \
+          aws s3 sync site/ "s3://${{ env.S3_BUCKET }}/" --delete \
             --exclude "models/*" --exclude "versions.json" \
             --exclude "v*/*" --include "versions/*" \
             --cache-control "public, max-age=300"
 
       - name: Invalidate root
-        if: ${{ env.PROD_DISTRIBUTION_ID != '' }}
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
         run: |
           aws cloudfront create-invalidation \
-            --distribution-id "${{ env.PROD_DISTRIBUTION_ID }}" \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
             --paths "/" "/index.html" "/search/*" "/theme/*" "/story/*" \
                     "/versions/*" "/latest.json" "/*.json" "/*.bin"
 
@@ -283,7 +289,7 @@ jobs:
           aws-region: ${{ env.AWS_REGION }}
       - name: Update versions.json with release entries
         env:
-          S3_BUCKET: ${{ env.PROD_BUCKET }}
+          S3_BUCKET: ${{ env.S3_BUCKET }}
           VERSIONS: ${{ needs.prepare.outputs.versions }}
           LATEST: ${{ needs.prepare.outputs.latest }}
         run: |
@@ -307,10 +313,10 @@ jobs:
                   v['current'] = (v.get('tag') == latest)
           json.dump({'versions': vs}, open('versions.json', 'w'), indent=2)
           PY
-          aws s3 cp versions.json "s3://${{ env.PROD_BUCKET }}/versions.json" --cache-control "no-cache"
+          aws s3 cp versions.json "s3://${{ env.S3_BUCKET }}/versions.json" --cache-control "no-cache"
       - name: Invalidate versions list
-        if: ${{ env.PROD_DISTRIBUTION_ID != '' }}
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
         run: |
           aws cloudfront create-invalidation \
-            --distribution-id "${{ env.PROD_DISTRIBUTION_ID }}" \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
             --paths "/versions.json" "/versions/*"

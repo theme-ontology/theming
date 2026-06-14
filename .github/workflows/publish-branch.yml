@@ -33,8 +33,8 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   AWS_REGION: eu-west-1
   AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
-  PROD_BUCKET: totolo-web-prod
-  PROD_DISTRIBUTION_ID: E18HZDKQXC49C4
+  S3_BUCKET: totolo-web-prod
+  CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
   TOOLING_REF: main
   BRANCH: ${{ github.event.inputs.branch || github.ref_name }}
 
@@ -121,17 +121,17 @@ jobs:
 
       - name: Publish branch snapshot
         run: |
-          aws s3 sync site/ "s3://${{ env.PROD_BUCKET }}/${{ env.BRANCH }}/" --delete \
+          aws s3 sync site/ "s3://${{ env.S3_BUCKET }}/${{ env.BRANCH }}/" --delete \
             --cache-control "public, max-age=300"
 
       - name: Upload shared models
         run: |
-          aws s3 sync packages/web/public/models/ "s3://${{ env.PROD_BUCKET }}/models/" \
+          aws s3 sync packages/web/public/models/ "s3://${{ env.S3_BUCKET }}/models/" \
             --cache-control "public, max-age=31536000, immutable"
 
       - name: Update versions.json with this branch
         env:
-          S3_BUCKET: ${{ env.PROD_BUCKET }}
+          S3_BUCKET: ${{ env.S3_BUCKET }}
         run: |
           python3 - <<'PY'
           import json, os, subprocess, datetime
@@ -151,11 +151,11 @@ jobs:
                      'built': datetime.datetime.utcnow().isoformat() + 'Z'})
           json.dump({'versions': vs}, open('versions.json', 'w'), indent=2)
           PY
-          aws s3 cp versions.json "s3://${{ env.PROD_BUCKET }}/versions.json" --cache-control "no-cache"
+          aws s3 cp versions.json "s3://${{ env.S3_BUCKET }}/versions.json" --cache-control "no-cache"
 
       - name: Invalidate branch path + versions list
-        if: ${{ env.PROD_DISTRIBUTION_ID != '' }}
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
         run: |
           aws cloudfront create-invalidation \
-            --distribution-id "${{ env.PROD_DISTRIBUTION_ID }}" \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
             --paths "/${{ env.BRANCH }}/*" "/versions.json" "/versions/*"
