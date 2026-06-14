@@ -261,13 +261,22 @@ jobs:
 
       - name: Publish latest release to bucket root
         run: |
-          # --delete cleans stale root files from a previous latest, but the filters keep
-          # the per-release prefixes (v*/), /models/, and the shared /versions.json. The
-          # root's own /versions/ page dir is re-included (it also matches v*/).
-          aws s3 sync site/ "s3://${{ env.S3_BUCKET }}/" --delete \
-            --exclude "models/*" --exclude "versions.json" \
-            --exclude "v*/*" --include "versions/*" \
+          BUCKET="${{ env.S3_BUCKET }}"
+          # The root mirror owns only the top-level files plus the release's own subtrees
+          # (theme/ story/ search/ versions/). Everything else sharing the bucket root --
+          # /models/, the per-release /v*/ prefixes, and branch snapshots like /master/ or
+          # /dev-themes/ -- is owned by other jobs and must survive --delete. So scope each
+          # --delete instead of using a deny-list (which can't enumerate branch prefixes):
+          #   1) top-level files only (exclude every subdir via */*, and the finalize-owned
+          #      versions.json), then
+          #   2) each release-owned subtree individually.
+          aws s3 sync site/ "s3://$BUCKET/" --delete \
+            --exclude "*/*" --exclude "versions.json" \
             --cache-control "public, max-age=300"
+          for dir in theme story search versions; do
+            aws s3 sync "site/$dir/" "s3://$BUCKET/$dir/" --delete \
+              --cache-control "public, max-age=300"
+          done
 
       - name: Invalidate root
         if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
