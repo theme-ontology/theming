@@ -83,12 +83,23 @@ jobs:
           path: ~/.cache/huggingface
           key: hf-models-${{ runner.os }}-all-minilm-l6-v2
 
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      # Reuse the deployed embeddings when this branch's corpus + model are unchanged
+      # (e.g. a re-run for a design/tooling change). Missing object -> full build.
+      - name: Fetch deployed manifest
+        run: aws s3 cp "s3://${{ env.S3_BUCKET }}/${{ env.BRANCH }}/latest.json" prev-latest.json || echo "no previous manifest"
+
       - name: Build indexes + pages
         working-directory: packages/indexer
         env:
           SITE_BASE: /${{ env.BRANCH }}
           HIDE_SOURCE_LINK: '1'   # branch snapshots live on prod.themeontology.org; omit source link
-        run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data
+        run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data --prev-manifest ../../prev-latest.json
 
       - name: Build search app
         working-directory: packages/web
@@ -106,16 +117,16 @@ jobs:
           cp -r packages/web/dist/* site/search/
           rm -rf site/search/models site/search/test-data
 
-      - name: Configure AWS credentials (OIDC)
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          role-to-assume: ${{ env.AWS_ROLE_ARN }}
-          aws-region: ${{ env.AWS_REGION }}
-
       - name: Publish branch snapshot
         run: |
-          aws s3 sync site/ "s3://${{ env.S3_BUCKET }}/${{ env.BRANCH }}/" --delete \
-            --cache-control "public, max-age=300"
+          BUCKET="${{ env.S3_BUCKET }}"; BR="${{ env.BRANCH }}"; CC="public, max-age=300"
+          # Top-level files (incl. index artifacts): upload changed only, never --delete, so
+          # reused embeddings (not regenerated locally) are preserved. Page subtrees get a
+          # scoped --delete to drop stale entries.
+          aws s3 sync site/ "s3://$BUCKET/$BR/" --size-only --exclude "*/*" --cache-control "$CC"
+          for dir in theme story search versions; do
+            aws s3 sync "site/$dir/" "s3://$BUCKET/$BR/$dir/" --delete --size-only --cache-control "$CC"
+          done
 
       - name: Update versions.json with this branch
         env:
