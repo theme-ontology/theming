@@ -87,6 +87,7 @@ jobs:
         working-directory: packages/indexer
         env:
           SITE_BASE: /${{ env.BRANCH }}
+          HIDE_SOURCE_LINK: '1'   # branch snapshots live on prod.themeontology.org; omit source link
         run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data
 
       - name: Cache self-hosted model files

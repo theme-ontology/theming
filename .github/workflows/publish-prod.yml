@@ -142,6 +142,7 @@ jobs:
         working-directory: packages/indexer
         env:
           SITE_BASE: /${{ matrix.version }}
+          HIDE_SOURCE_LINK: '1'   # prod IS themeontology.org; omit the per-doc source link
         run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data
 
       - name: Cache self-hosted model files
@@ -227,6 +228,7 @@ jobs:
         working-directory: packages/indexer
         env:
           SITE_BASE: ''
+          HIDE_SOURCE_LINK: '1'   # prod IS themeontology.org; omit the per-doc source link
         run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data
 
       - name: Cache self-hosted model files
