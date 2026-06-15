@@ -128,7 +128,7 @@ jobs:
 
       - name: Publish branch snapshot
         run: |
-          BUCKET="${{ env.S3_BUCKET }}"; BR="${{ env.BRANCH }}"; CC="public, max-age=300"
+          BUCKET="${{ env.S3_BUCKET }}"; BR="${{ env.BRANCH }}"; CC="public, max-age=3600"
           # Top-level files (incl. index artifacts): upload changed only, never --delete, so
           # reused embeddings (not regenerated locally) are preserved. Page subtrees get a
           # scoped --delete to drop stale entries.

@@ -333,14 +333,14 @@ jobs:
           # entries. (versions.json is finalize-owned.)
           aws s3 sync site/ "s3://$BUCKET/" --size-only \
             --exclude "*/*" --exclude "versions.json" \
-            --cache-control "public, max-age=300"
+            --cache-control "public, max-age=3600"
           for dir in theme story search versions; do
             aws s3 sync "site/$dir/" "s3://$BUCKET/$dir/" --delete --size-only \
-              --cache-control "public, max-age=300"
+              --cache-control "public, max-age=3600"
           done
           # Force-upload small template-driven files (--size-only can miss same-size edits).
           for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
-            [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$f" --cache-control "public, max-age=300"
+            [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$f" --cache-control "public, max-age=3600"
           done
 
       - name: Invalidate root
