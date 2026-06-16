@@ -1,0 +1,399 @@
+name: Publish releases to prod (themeontology.org search)
+
+# The theme-ontology content repo owns production publishing. This builds a self-contained
+# search site for one or more LTO releases using the totolo-search-web build tooling
+# (checked out at TOOLING_REF) and publishes each under its own immutable prefix in the
+# prod bucket, e.g. s3://totolo-web-prod/v2025.04/ -> prod.themeontology.org/v2025.04/.
+# The newest release also mirrors to the bucket root, so prod.themeontology.org/ always
+# serves the latest release ("root tracks latest").
+#
+# Triggers:
+#   - pushing a v* tag        -> build that release; it becomes the new root
+#   - workflow_dispatch input -> a single tag (e.g. v2025.04), or "all" to backfill every
+#     release returned by totolo.remote.versions(); the max version becomes root
+#
+# Auth is GitHub OIDC (no stored keys): this repo assumes the prod-scoped deploy role.
+# The build tooling lives in the public theme-ontology/totolo-search-web repo and is
+# checked out at the latest totolo-search-web release (resolved in the prepare job).
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release tag (e.g. v2025.04), or "all" to backfill every release'
+        required: true
+        default: all
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: publish-prod
+  cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  AWS_REGION: eu-west-1
+  AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
+  S3_BUCKET: totolo-web-prod
+  CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
+  # The search app / indexer version is the LATEST totolo-search-web release (resolved in the
+  # prepare job below), so prod builds use a released toolchain, not whatever is on main.
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      versions: ${{ steps.list.outputs.versions }}
+      latest: ${{ steps.list.outputs.latest }}
+      deploy_root: ${{ steps.list.outputs.deploy_root }}
+      release_dates: ${{ steps.list.outputs.release_dates }}
+      tooling_ref: ${{ steps.toolref.outputs.ref }}
+    steps:
+      - name: Resolve latest search-web release (build tooling version)
+        id: toolref
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REF="$(gh api repos/theme-ontology/totolo-search-web/releases/latest --jq .tag_name 2>/dev/null || true)"
+          echo "Building with totolo-search-web @ ${REF:-main}"
+          echo "ref=${REF:-main}" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - id: list
+        env:
+          INPUT_VERSION: ${{ github.event.inputs.version }}
+        run: |
+          python3 - >> "$GITHUB_OUTPUT" <<'PY'
+          import json, os, urllib.request
+          event = os.environ.get('GITHUB_EVENT_NAME', '')
+          ref = os.environ.get('GITHUB_REF_NAME', '')
+          inp = (os.environ.get('INPUT_VERSION') or '').strip()
+
+          # Fetch releases once: tag names + publish dates (the date shown for each release).
+          try:
+              rel = json.loads(urllib.request.urlopen(
+                  'https://api.github.com/repos/theme-ontology/theming/releases').read())
+          except Exception:
+              rel = []
+          all_releases = [r['tag_name'] for r in rel]
+          release_dates = {r['tag_name']: (r.get('published_at') or r.get('created_at') or '')[:10] for r in rel}
+
+          def vkey(tag):
+              out = []
+              for part in tag.lstrip('v').split('.'):
+                  try:
+                      out.append(int(part))
+                  except ValueError:
+                      out.append(0)
+              return out
+
+          # v0* tags are early totolo package versions, not ontology releases — skip them
+          # in the "all" backfill. (An explicit tag push or single dispatch still builds
+          # whatever is named.)
+          def is_release(tag):
+              return vkey(tag)[:1] != [0]
+
+          if event == 'push':
+              versions = [ref]
+              latest = ref
+              deploy_root = 'true'
+          else:
+              if inp == 'all':
+                  versions = [v for v in all_releases if is_release(v)]
+              elif inp:
+                  versions = [inp]
+              else:
+                  versions = []
+              latest = max((v for v in all_releases if is_release(v)), key=vkey, default='')
+              deploy_root = 'true' if latest and latest in versions else 'false'
+
+          print('versions=' + json.dumps(versions))
+          print('latest=' + latest)
+          print('deploy_root=' + deploy_root)
+          print('release_dates=' + json.dumps(release_dates))
+          PY
+
+  # Fetch the build-time embedding model ONCE and cache it, so the matrix legs below restore
+  # it from the Actions cache instead of each pulling it from the HuggingFace hub in parallel
+  # (which 429s on a cold cache). The shared browser models in /models/ are managed separately
+  # (deploy-models workflow), not rebuilt here.
+  prefetch-models:
+    needs: prepare
+    if: ${{ needs.prepare.outputs.versions != '[]' && needs.prepare.outputs.versions != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out search-web build tooling
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/totolo-search-web
+          ref: ${{ needs.prepare.outputs.tooling_ref }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - name: Cache HuggingFace models (build-time embeddings)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-${{ runner.os }}-all-minilm-l6-v2
+      - name: Warm the embedding model cache
+        run: |
+          # HuggingFace 429-rate-limits unauthenticated downloads; retry with backoff so a
+          # transient limit doesn't fail the build. Once it succeeds the model is cached and
+          # the matrix legs restore it (no further HF calls).
+          for i in 1 2 3 4 5 6; do
+            if node node_modules/tsx/dist/cli.mjs packages/indexer/src/warm.ts; then exit 0; fi
+            echo "::warning::warm attempt $i failed (HF rate limit?); retrying in 30s"
+            sleep 30
+          done
+          node node_modules/tsx/dist/cli.mjs packages/indexer/src/warm.ts
+
+  deploy:
+    needs: [prepare, prefetch-models]
+    if: ${{ needs.prepare.outputs.versions != '[]' && needs.prepare.outputs.versions != '' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        version: ${{ fromJSON(needs.prepare.outputs.versions) }}
+    steps:
+      - name: Check out search-web build tooling
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/totolo-search-web
+          ref: ${{ needs.prepare.outputs.tooling_ref }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install totolo
+
+      # A release's corpus is immutable, so cache it per tag to skip the makejson download.
+      - name: Cache corpus for ${{ matrix.version }}
+        uses: actions/cache@v4
+        with:
+          path: corpus.json
+          key: corpus-${{ matrix.version }}
+      - name: Generate corpus for ${{ matrix.version }} (if not cached)
+        run: '[ -s corpus.json ] || python -m totolo.util.makejson -tsc "${{ matrix.version }}" > corpus.json'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+
+      - name: Cache HuggingFace models (build-time embeddings)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-${{ runner.os }}-all-minilm-l6-v2
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      # Reuse the deployed embeddings when the corpus + model are unchanged (e.g. a design
+      # rebuild) -- skips the minutes-long embedding step. Missing object -> full build.
+      - name: Fetch deployed manifest
+        run: aws s3 cp "s3://${{ env.S3_BUCKET }}/${{ matrix.version }}/latest.json" prev-latest.json || echo "no previous manifest"
+
+      - name: Build indexes + pages
+        working-directory: packages/indexer
+        env:
+          SITE_BASE: /${{ matrix.version }}
+          HIDE_SOURCE_LINK: '1'   # prod IS themeontology.org; omit the per-doc source link
+        run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data --prev-manifest ../../prev-latest.json
+
+      - name: Build search app
+        working-directory: packages/web
+        env:
+          APP_BASE: /${{ matrix.version }}/search/
+          VITE_LATEST_JSON_URL: /${{ matrix.version }}/latest.json
+          VITE_MODELS_URL: /models/
+        run: npm run build
+
+      - name: Assemble site
+        run: |
+          rm -rf site && mkdir site
+          cp -r dist-data/* site/
+          mkdir site/search
+          cp -r packages/web/dist/* site/search/
+          rm -rf site/search/models site/search/test-data
+
+      - name: Publish release (immutable)
+        run: |
+          BUCKET="${{ env.S3_BUCKET }}"; TAG="${{ matrix.version }}"; CC="public, max-age=31536000, immutable"
+          # Top-level files (incl. index artifacts): upload only what changed, never --delete --
+          # so embeddings reused (not regenerated locally) on a design rebuild are preserved.
+          aws s3 sync site/ "s3://$BUCKET/$TAG/" --size-only --exclude "*/*" --cache-control "$CC"
+          # Page subtrees this build fully owns: --delete to drop stale entries.
+          for dir in theme story search versions; do
+            aws s3 sync "site/$dir/" "s3://$BUCKET/$TAG/$dir/" --delete --size-only --cache-control "$CC"
+          done
+          # Force-upload small template-driven files (--size-only can miss same-size edits).
+          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
+            [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$TAG/$f" --cache-control "$CC"
+          done
+
+      - name: Invalidate this release path
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/${{ matrix.version }}/*"
+
+  # Mirror the newest release to the bucket root so prod.themeontology.org/ tracks latest.
+  deploy-root:
+    needs: [prepare, deploy]
+    if: ${{ needs.prepare.outputs.deploy_root == 'true' && needs.prepare.outputs.latest != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out search-web build tooling
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/totolo-search-web
+          ref: ${{ needs.prepare.outputs.tooling_ref }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install totolo
+
+      - name: Cache corpus for ${{ needs.prepare.outputs.latest }}
+        uses: actions/cache@v4
+        with:
+          path: corpus.json
+          key: corpus-${{ needs.prepare.outputs.latest }}
+      - name: Generate corpus for ${{ needs.prepare.outputs.latest }} (if not cached)
+        run: '[ -s corpus.json ] || python -m totolo.util.makejson -tsc "${{ needs.prepare.outputs.latest }}" > corpus.json'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+
+      - name: Cache HuggingFace models (build-time embeddings)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-${{ runner.os }}-all-minilm-l6-v2
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Fetch deployed root manifest
+        run: aws s3 cp "s3://${{ env.S3_BUCKET }}/latest.json" prev-latest.json || echo "no previous manifest"
+
+      - name: Build indexes + pages (root-relative)
+        working-directory: packages/indexer
+        env:
+          SITE_BASE: ''
+          HIDE_SOURCE_LINK: '1'   # prod IS themeontology.org; omit the per-doc source link
+        run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data --prev-manifest ../../prev-latest.json
+
+      - name: Build search app (root)
+        working-directory: packages/web
+        env:
+          APP_BASE: /search/
+          VITE_LATEST_JSON_URL: /latest.json
+          VITE_MODELS_URL: /models/
+        run: npm run build
+
+      - name: Assemble site
+        run: |
+          rm -rf site && mkdir site
+          cp -r dist-data/* site/
+          mkdir site/search
+          cp -r packages/web/dist/* site/search/
+          rm -rf site/search/models site/search/test-data
+
+      - name: Publish latest release to bucket root
+        run: |
+          BUCKET="${{ env.S3_BUCKET }}"
+          # The root mirror owns only the top-level files plus the release's own subtrees
+          # (theme/ story/ search/ versions/). Everything else sharing the bucket root --
+          # /models/, the per-release /v*/ prefixes, and branch snapshots like /master/ or
+          # /dev-themes/ -- must survive, so we never blanket-delete. Top-level files use
+          # --size-only with NO --delete (so reused/unchanged index artifacts are preserved
+          # and untouched); each release-owned subtree gets a scoped --delete to drop stale
+          # entries. (versions.json is finalize-owned.)
+          aws s3 sync site/ "s3://$BUCKET/" --size-only \
+            --exclude "*/*" --exclude "versions.json" \
+            --cache-control "public, max-age=3600"
+          for dir in theme story search versions; do
+            aws s3 sync "site/$dir/" "s3://$BUCKET/$dir/" --delete --size-only \
+              --cache-control "public, max-age=3600"
+          done
+          # Force-upload small template-driven files (--size-only can miss same-size edits).
+          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
+            [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$f" --cache-control "public, max-age=3600"
+          done
+
+      - name: Invalidate root
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/" "/index.html" "/search/*" "/theme/*" "/story/*" \
+                    "/versions/*" "/latest.json" "/*.json" "/*.bin"
+
+  finalize:
+    needs: [prepare, deploy]
+    if: ${{ needs.prepare.outputs.versions != '[]' && needs.prepare.outputs.versions != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+      - name: Update versions.json with release entries
+        env:
+          S3_BUCKET: ${{ env.S3_BUCKET }}
+          VERSIONS: ${{ needs.prepare.outputs.versions }}
+          LATEST: ${{ needs.prepare.outputs.latest }}
+          RELEASE_DATES: ${{ needs.prepare.outputs.release_dates }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess, datetime
+          bucket = os.environ['S3_BUCKET']
+          tags = json.loads(os.environ['VERSIONS'])
+          latest = os.environ.get('LATEST', '')
+          release_dates = json.loads(os.environ.get('RELEASE_DATES') or '{}')
+          try:
+              out = subprocess.run(['aws','s3','cp',f's3://{bucket}/versions.json','-'],
+                                   capture_output=True, text=True, check=True).stdout
+              data = json.loads(out)
+          except Exception:
+              data = {'versions': []}
+          vs = [v for v in data.get('versions', []) if not (v.get('release') and v.get('tag') in tags)]
+          for tag in tags:
+              vs.append({'release': True, 'tag': tag, 'path': f'/{tag}/',
+                         'date': release_dates.get(tag, ''),
+                         'built': datetime.datetime.utcnow().isoformat() + 'Z'})
+          for v in vs:
+              if v.get('release'):
+                  v['current'] = (v.get('tag') == latest)
+          json.dump({'versions': vs}, open('versions.json', 'w'), indent=2)
+          PY
+          aws s3 cp versions.json "s3://${{ env.S3_BUCKET }}/versions.json" --cache-control "no-cache"
+      - name: Invalidate versions list
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/versions.json" "/versions/*"

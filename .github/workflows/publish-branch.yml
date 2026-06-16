@@ -1,0 +1,180 @@
+name: Publish branch snapshot to prod (themeontology.org search)
+
+# When commits land on a tracked development branch, build a self-contained search site
+# from THIS branch's notes/ (using the totolo-search-web build tooling at TOOLING_REF) and
+# publish it to the prod bucket under prod.themeontology.org/<branch>/.
+#
+# Branch snapshots change over time, so /<branch>/ is served with a short TTL (not
+# immutable). Auth is GitHub OIDC (no stored keys); the build tooling is the public
+# theme-ontology/totolo-search-web repo, checked out at TOOLING_REF.
+
+on:
+  push:
+    branches:
+      - dev-themes
+      - dev-stories
+      # Add any other branch you want mirrored to prod.themeontology.org/<branch>/ here.
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to publish (defaults to the current ref)'
+        required: false
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  # One in-flight build per branch; newer pushes supersede older ones.
+  group: publish-branch-${{ github.event.inputs.branch || github.ref_name }}
+  cancel-in-progress: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  AWS_REGION: eu-west-1
+  AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
+  S3_BUCKET: totolo-web-prod
+  CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
+  # Build tooling = latest totolo-search-web release (resolved at run time, see steps).
+  BRANCH: ${{ github.event.inputs.branch || github.ref_name }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate branch name
+        run: |
+          # Guard the value that flows into S3 keys / paths.
+          if ! echo "$BRANCH" | grep -Eq '^[A-Za-z0-9._-]+$'; then
+            echo "Refusing unsafe branch name: '$BRANCH'"; exit 1
+          fi
+          echo "Building snapshot for branch: $BRANCH"
+
+      - name: Resolve latest search-web release (build tooling version)
+        id: toolref
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REF="$(gh api repos/theme-ontology/totolo-search-web/releases/latest --jq .tag_name 2>/dev/null || true)"
+          echo "Building with totolo-search-web @ ${REF:-main}"
+          echo "ref=${REF:-main}" >> "$GITHUB_OUTPUT"
+
+      - name: Check out search-web build tooling
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/totolo-search-web
+          ref: ${{ steps.toolref.outputs.ref }}
+
+      - name: Check out theming content @${{ env.BRANCH }}
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/theming
+          ref: ${{ env.BRANCH }}
+          path: content
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install totolo
+
+      - name: Generate corpus from content/notes
+        run: python -m totolo.util.makejson -tsc content/notes > corpus.json
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+
+      - name: Cache HuggingFace models (build-time embeddings)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-${{ runner.os }}-all-minilm-l6-v2
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      # Reuse the deployed embeddings when this branch's corpus + model are unchanged
+      # (e.g. a re-run for a design/tooling change). Missing object -> full build.
+      - name: Fetch deployed manifest
+        run: aws s3 cp "s3://${{ env.S3_BUCKET }}/${{ env.BRANCH }}/latest.json" prev-latest.json || echo "no previous manifest"
+
+      - name: Build indexes + pages
+        working-directory: packages/indexer
+        env:
+          SITE_BASE: /${{ env.BRANCH }}
+          HIDE_SOURCE_LINK: '1'   # branch snapshots live on prod.themeontology.org; omit source link
+        run: node ../../node_modules/tsx/dist/cli.mjs src/build.ts ../../corpus.json ../../dist-data --prev-manifest ../../prev-latest.json
+
+      - name: Build search app
+        working-directory: packages/web
+        env:
+          APP_BASE: /${{ env.BRANCH }}/search/
+          VITE_LATEST_JSON_URL: /${{ env.BRANCH }}/latest.json
+          VITE_MODELS_URL: /models/
+        run: npm run build
+
+      - name: Assemble site
+        run: |
+          rm -rf site && mkdir site
+          cp -r dist-data/* site/
+          mkdir site/search
+          cp -r packages/web/dist/* site/search/
+          rm -rf site/search/models site/search/test-data
+
+      - name: Publish branch snapshot
+        run: |
+          BUCKET="${{ env.S3_BUCKET }}"; BR="${{ env.BRANCH }}"; CC="public, max-age=3600"
+          # Top-level files (incl. index artifacts): upload changed only, never --delete, so
+          # reused embeddings (not regenerated locally) are preserved. Page subtrees get a
+          # scoped --delete to drop stale entries.
+          aws s3 sync site/ "s3://$BUCKET/$BR/" --size-only --exclude "*/*" --cache-control "$CC"
+          for dir in theme story search versions; do
+            aws s3 sync "site/$dir/" "s3://$BUCKET/$BR/$dir/" --delete --size-only --cache-control "$CC"
+          done
+          # Force-upload small template-driven files (--size-only can miss same-size edits).
+          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
+            [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$BR/$f" --cache-control "$CC"
+          done
+
+      - name: Update versions.json with this branch
+        env:
+          S3_BUCKET: ${{ env.S3_BUCKET }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess, datetime
+          bucket = os.environ['S3_BUCKET']
+          branch = os.environ['BRANCH']
+          try:
+              out = subprocess.run(['aws','s3','cp',f's3://{bucket}/versions.json','-'],
+                                   capture_output=True, text=True, check=True).stdout
+              data = json.loads(out)
+          except Exception:
+              data = {'versions': []}
+          # Date shown = the branch's last commit date (content/ is checked out at the branch).
+          try:
+              last = subprocess.run(['git', '-C', 'content', 'log', '-1', '--format=%cs'],
+                                    capture_output=True, text=True, check=True).stdout.strip()
+          except Exception:
+              last = ''
+          last = last or datetime.date.today().isoformat()
+          # One row per tracked branch, at /<branch>/.
+          vs = [v for v in data.get('versions', [])
+                if not (v.get('branch') == branch and v.get('path') == f'/{branch}/')]
+          vs.append({'branch': branch, 'date': last,
+                     'path': f'/{branch}/', 'current': False, 'track': True,
+                     'built': datetime.datetime.utcnow().isoformat() + 'Z'})
+          json.dump({'versions': vs}, open('versions.json', 'w'), indent=2)
+          PY
+          aws s3 cp versions.json "s3://${{ env.S3_BUCKET }}/versions.json" --cache-control "no-cache"
+
+      - name: Invalidate branch path + versions list
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/${{ env.BRANCH }}/*" "/versions.json" "/versions/*"

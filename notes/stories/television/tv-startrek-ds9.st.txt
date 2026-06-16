@@ -188,7 +188,7 @@ Directed by: Paul Lynch. Story by: Sally Caves & Ira Steven Behr.
 3 <paul>
 
 :: Choice Themes
-facing an epidemic [A man-made virus was spreading uncontrollably on the station.]
+human vs. contagious disease [Dr. Bashir raced to find a cure for a mysterious disease that was spreading uncontrollably on the space station. The disease was caused by a man-made virus and robbed those infected of the ability to speak.]
 
 :: Major Themes
 bioengineered human pathogen [The Bajorans designed an aphasia causing virus to use against the Cardassians.]
@@ -199,7 +199,7 @@ biological weapons [Bajorans designed an aphasia causing virus to use against th
 tech support occupation [An overworked Chief O'Brien was attempting to repair numerous malfunctions throughout the station, including most of the station's food replicators.]
 coping with stress at work [O'Brien was overworked getting the space station operational]
 taking the law into one's own hands [Kira kidnapped scientist in order to save everyone]
-human-made pandemic [the possibility of the man-made virus spreading to Bajor was mentioned]
+human-made pandemic [The possible danger of the deadly, man-made virus reaching Bajor was entertained.]
 greed for riches [Quark greedily demanded hazard pay for helping on ops when everyone else was incapacitated by the aphasia virus.]
 father and son [Benjamin stuck with Jake through his disease]
 
@@ -633,7 +633,7 @@ coping with unwelcome romantic attention [Jadzia recommends Julian take a high p
 what if I met my double [Jadzia meets the Jadzia from Julian's dreams]
 clash of wills [Jadzia and imaginary Jadzia]
 father and son [Benjamin and Jake]
-homework vs. play [Jake had to choose between doing his homework and going to play baseball in the holosuites with Buck Bokai]
+homework vs. play [Jake had to choose between doing his homework and going to play baseball in the holosuites with Buck Bokai. Jake sided with doing his homework in spite of Buck's protestations.]
 entrepreneurship [Quark schemed about shady business oriented ways to make money.]
 escape from reality [space station people's imagination becomes reality and they get distracted as a result]
 invasion of privacy [Jadzia assured Julian he had the right to imagine whatever he wanted about her.]
@@ -1280,8 +1280,8 @@ reconciliation [episode culminated in Odo and Mora Pol setting aside their diffe
 father and son [Benjamin and Jake quarreled over the boy's direction in life; Mora Pol was like a father to Odo]
 
 :: Minor Themes
-homework vs. play [Jake wanted play but Benjamin put his foot down]
-homework shirking [Jake didn't want to do his homework]
+homework vs. play [Benjamin put his foot down when Jake didn't want to do his homework.]
+homework shirking [Benjamin put his foot down when Jake didn't want to do his homework.]
 silicon-based being [Weld Ram discovered silicon-based life form on the planet]
 what if I was a specimen animal in a zoo [Odo complained being a laboratory specimen on Bajor]
 
@@ -1694,7 +1694,7 @@ invasion of privacy [Odo and Cardassians justified spying. Garak wanted privacy 
 brain stimulating implant [Garak had a pleasure inducing cranial implant.]
 
 :: Minor Themes
-literature appreciation [Julian and Garak discussed the literary merits and shortcomings of a great Cardassian epic.]
+literature discussion [Julian and Garak discussed the literary merits and shortcomings of a great Cardassian epic.]
 remorse [Garak expressed remorse over having been exiled for having taken pity on Bajoran children during the Cardassian occupation]
 totalitarian dystopia [The Cardassian regime spied on everyone, controlled the literature, and put implants in people.]
 betrayal [Garak tried to betray Tain but Tain ended up having beaten him to the punch; Bashir felt betrayed by Garak not confiding in him about the truth about his past]
@@ -2504,7 +2504,7 @@ cooperation [Cardassian scientists cooperate with space station crew on scientif
 
 :: Minor Themes
 signs from the heavens [rogue comet seen by Kira as fulfillment of ancient Bajoran prophesy]
-literature appreciation [Jadzia discussed her interest in Cardassian classical literature with the visiting Cardassian scientists.]
+literature discussion [Jadzia discussed her interest in Cardassian classical literature with the visiting Cardassian scientists.]
 sexism in society [female Cardassian scientists were convinced that women made better scientists than men]
 coping with unwelcome romantic attention [Miles was prepositioned by Gilora]
 there is value in redundancy [Miles explained to an unimpressed Cardassian scientist of how Starfleet code sometimes required secondary backup systems be installed as a safety against the failure of a first line of back ups.]
@@ -2715,7 +2715,7 @@ alternate points of view [Garak kept pointing out differences between the Federa
 mentor and protégé [Garak was the former protégé of Tain]
 
 :: Minor Themes
-literature appreciation [Bashir and Garak discussed the literary merits of one of Shakespeare's plays over lunch.]
+literature discussion [Bashir and Garak discussed the literary merits of one of Shakespeare's plays over lunch.]
 first strike tactic [Tain plotted a first strike against the Dominion]
 factions joining forces against a common enemy [Cardassians and Romulans united in a preemptive strike against the Dominion]
 a common enemy unites [Cardassians and Romulans united in a preemptive strike against the Dominion]
@@ -2764,7 +2764,7 @@ shapeshifter [Garak employed a device that prevented Odo from shapeshifting duri
 the psychology of torture [Garak and Tain reminisced over Garak's abilities to extract information during interrogations]
 coping with being tortured [Odo was tortured in an interrogation presided over by Garak]
 attack from outer space by a genocidal enemy [Founders were about to be wiped out by Cardassian and Romulan first strike]
-loyalty to one's species [Founders helped fellow shapeshifter Odo escape]
+loyalty to a group [The Founders helped their enemy, but fellow shapeshifter, Odo escape from the Cardassians.]
 
 :: Other Keywords
 red alert <4:14>
@@ -3073,7 +3073,7 @@ coping with a loved one being in peril [Jake over Benjamin being lost in time]
 :: Minor Themes
 husband and wife [adult Jake was happily married to Korena]
 mentor and protégé [was Jake a mentor to Melanie with respect to creative writing]
-literature appreciation [Melanie praised Old Jake over his literary achievements.]
+literature discussion [Melanie praised Old Jake over his literary achievements.]
 
 
 ds94x04
@@ -3933,10 +3933,11 @@ euthanasia [Bashir objected to Trevan performing euthanasia on sufferers of the 
 doctor assisted suicide [Bashir objected to Trevan performing euthanasia on sufferers of the blight]
 
 :: Major Themes
-alien brought pandemic [Jem'Hadar destroyed Teplan civilization with a virus]
+alien brought pandemic [The Jem’Hadar had deliberately infected the Teplan people with a contagious disease, known as the “blight”, as a punishment for defying Dominion rule. This act resulted in the effective collapse of the Teplan civilization.]
 coping with personal failure [Julian was devastated by his failure that resulted in several peoples' painful deaths]
 pride goes before a fall [Dr. Bashir arrogantly presumed that he could cure the Teplan people of a hitherto incurable disease called “the blight” within a week, and was humbled when he failed to do so.]
 sacrifice for a child [Ekoria put up with much pain for the sake of her unborn child]
+human vs. contagious disease [Dr. Bashir worked to find a cure for a deadly disease, known as the “blight”, that was afflicting the Teplan people.]
 
 :: Minor Themes
 expecting parents [Bashir helped Ekoria give birth to her baby before she succumbed to the blight]
