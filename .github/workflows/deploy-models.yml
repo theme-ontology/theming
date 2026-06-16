@@ -1,0 +1,65 @@
+name: Deploy models to prod (shared /models/)
+
+# Publishes the self-hosted browser model files (transformers.js embedder + reranker) to the
+# shared s3://totolo-web-prod/models/ prefix. These are version-independent "libraries" with
+# nothing to do with the theming-data lifecycle, so the release/branch builds reference
+# /models/ and never re-upload it. Run on demand (rare -- only when the model set changes).
+# Uses the public totolo-search-web tooling (scripts/fetch-models.mjs) at TOOLING_REF.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: deploy-models-prod
+  cancel-in-progress: true
+
+env:
+  AWS_REGION: eu-west-1
+  AWS_ROLE_ARN: arn:aws:iam::777087578287:role/totolo-theming-prod-deploy
+  S3_BUCKET: totolo-web-prod
+  CLOUDFRONT_DISTRIBUTION_ID: E18HZDKQXC49C4
+  # Build tooling = latest totolo-search-web release (resolved at run time).
+
+jobs:
+  deploy-models:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolve latest search-web release (build tooling version)
+        id: toolref
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REF="$(gh api repos/theme-ontology/totolo-search-web/releases/latest --jq .tag_name 2>/dev/null || true)"
+          echo "Using totolo-search-web @ ${REF:-main}"
+          echo "ref=${REF:-main}" >> "$GITHUB_OUTPUT"
+      - name: Check out search-web build tooling
+        uses: actions/checkout@v4
+        with:
+          repository: theme-ontology/totolo-search-web
+          ref: ${{ steps.toolref.outputs.ref }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Download browser models
+        run: node scripts/fetch-models.mjs
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Upload to shared /models/
+        run: |
+          aws s3 sync packages/web/public/models/ "s3://${{ env.S3_BUCKET }}/models/" \
+            --delete --cache-control "public, max-age=31536000, immutable"
+
+      - name: Invalidate /models/
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" --paths "/models/*"
