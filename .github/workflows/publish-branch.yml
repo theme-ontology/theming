@@ -133,11 +133,11 @@ jobs:
           # reused embeddings (not regenerated locally) are preserved. Page subtrees get a
           # scoped --delete to drop stale entries.
           aws s3 sync site/ "s3://$BUCKET/$BR/" --size-only --exclude "*/*" --cache-control "$CC"
-          for dir in theme story search versions; do
+          for dir in theme story search versions stats; do
             aws s3 sync "site/$dir/" "s3://$BUCKET/$BR/$dir/" --delete --size-only --cache-control "$CC"
           done
           # Force-upload small template-driven files (--size-only can miss same-size edits).
-          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
+          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html stats/index.html stats/themes-graph/index.html; do
             [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$BR/$f" --cache-control "$CC"
           done
 
