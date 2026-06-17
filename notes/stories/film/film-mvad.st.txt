@@ -7,6 +7,9 @@ M-VAD Names Dataset films
 :: Date
 2012-2022
 
+:: Story Format
+film
+
 :: Description
 This is a collection of movies that appear on the latest version of the M-VAD
 Names Dataset.
