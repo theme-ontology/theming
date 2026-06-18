@@ -7,6 +7,9 @@ Alien
 :: Date
 1979-2017
 
+:: Story Format
+film
+
 :: Description
 The six feature films to date in the Alien franchise.
 
@@ -21,9 +24,6 @@ movie: Alien Resurrection (1997)
 movie: Prometheus (2012)
 movie: Alien: Covenant (2017)
 
-:: Story Format
-film
-
 
 Collection: Alien Nation Films
 ==============================
@@ -33,6 +33,9 @@ Alien Nation Films
 
 :: Date
 1988-1997
+
+:: Story Format
+film
 
 :: Description
 The six television films in the Alien Nation media franchise.
@@ -48,9 +51,6 @@ movie: Alien Nation: Millennium (1996)
 movie: Alien Nation: The Enemy Within (1996)
 movie: Alien Nation: The Udara Legacy (1997)
 
-:: Story Format
-film
-
 
 Collection: Appleseed Film Series
 =================================
@@ -60,6 +60,9 @@ Appleseed Film Series
 
 :: Date
 2004-2014
+
+:: Story Format
+film
 
 :: Description
 Appleseed (Japanese: アップルシード, Hepburn: Appurushīdo) is a Japanese animated
@@ -76,9 +79,6 @@ movie: Appleseed (2004)
 movie: Appleseed Ex Machina (2007)
 movie: Appleseed Alpha (2014)
 
-:: Story Format
-film
-
 
 Collection: Babylon 5 Films
 ===========================
@@ -88,6 +88,9 @@ Babylon 5 Films
 
 :: Date
 1993-2002
+
+:: Story Format
+film
 
 :: Description
 The six television films in the Babylon 5 media franchise.
@@ -103,9 +106,6 @@ movie: Babylon 5: The River Of Souls (1998)
 movie: Babylon 5: A Call to Arms (1999)
 movie: Babylon 5: The Legend Of The Rangers (2002)
 
-:: Story Format
-film
-
 
 Collection: Back to the Future
 ==============================
@@ -115,6 +115,9 @@ Back to the Future
 
 :: Date
 1985-1990
+
+:: Story Format
+film
 
 :: Description
 The three feature films in the Back to the Future series
@@ -127,9 +130,6 @@ movie: Back to the Future (1985)
 movie: Back to the Future Part II (1989)
 movie: Back to the Future Part III (1990)
 
-:: Story Format
-film
-
 
 Collection: Bill and Ted Films
 ==============================
@@ -139,6 +139,9 @@ Bill and Ted Films
 
 :: Date
 1989-2020
+
+:: Story Format
+film
 
 :: Description
 The three films in the Bill & Ted film series.
@@ -151,9 +154,6 @@ movie: Bill and Teds Excellent Adventure (1989)
 movie: Bill and Teds Bogus Journey (1991)
 movie: Bill and Ted Face the Music (2020)
 
-:: Story Format
-film
-
 
 Collection: Carnosaur
 =====================
@@ -163,6 +163,9 @@ Carnosaur
 
 :: Date
 1993-1996
+
+:: Story Format
+film
 
 :: Description
 The Carnosaur film series consists of B-movies produced by Roger Corman that
@@ -176,9 +179,6 @@ movie: Carnosaur (1993)
 movie: Carnosaur 2 (1995)
 movie: Carnosaur 3: Primal Species (1996)
 
-:: Story Format
-film
-
 
 Collection: Critters
 ====================
@@ -188,6 +188,9 @@ Critters
 
 :: Date
 1986-2019
+
+:: Story Format
+film
 
 :: Description
 The five films to date in Critters series which is about a group of malevolent
@@ -205,9 +208,6 @@ movie: Critters 3 (1991)
 movie: Critters 4 (1992)
 movie: Critters Attack (2019)
 
-:: Story Format
-film
-
 
 Collection: Cube Film Series
 ============================
@@ -217,6 +217,9 @@ Cube Film Series
 
 :: Date
 1997-2004
+
+:: Story Format
+film
 
 :: Description
 Cube is a Canadian science fiction horror film series.
@@ -247,9 +250,6 @@ movie: Cube (1997)
 movie: Cube 2: Hypercube (2002)
 movie: Cube Zero (2004)
 
-:: Story Format
-film
-
 
 Collection: Cyborg
 ==================
@@ -259,6 +259,9 @@ Cyborg
 
 :: Date
 1989-1995
+
+:: Story Format
+film
 
 :: Description
 Albert Pyun's Cyborg Trilogy.
@@ -271,9 +274,6 @@ movie: Cyborg (1989)
 movie: Cyborg 2 (1993)
 movie: Cyborg 3: The Recycler (1994)
 
-:: Story Format
-film
-
 
 Collection: Deep Blue Sea
 =========================
@@ -283,6 +283,9 @@ Deep Blue Sea
 
 :: Date
 1999-2020
+
+:: Story Format
+film
 
 :: Description
 The three films in the Deep Blue Sea film series.
@@ -295,9 +298,6 @@ movie: Deep Blue Sea (1999)
 movie: Deep Blue Sea 2 (2018)
 movie: Deep Blue Sea 3 (2020)
 
-:: Story Format
-film
-
 
 Collection: Frankenstein
 ========================
@@ -307,6 +307,9 @@ Frankenstein Films
 
 :: Date
 1910-2025
+
+:: Story Format
+film
 
 :: Description
 Cinematic adaptations of Mary Shelley's 1818 Gothic novel "Frankenstein; or,
@@ -329,9 +332,6 @@ movie: Frankenstein: The College Years (1991)
 movie: Mary Shelleys Frankenstein (1994)
 movie: Frankenstein (2025)
 
-:: Story Format
-film
-
 
 Collection: Gamera
 ==================
@@ -341,6 +341,9 @@ Gamera
 
 :: Date
 1965-2006
+
+:: Story Format
+film
 
 :: Description
 Films featuring the giant turtle-like monster Gamera.
@@ -362,9 +365,6 @@ movie: Gamera 2: Attack of Legion (1996)
 movie: Gamera 3: Revenge of Iris (1999)
 movie: Gamera the Brave (2006)
 
-:: Story Format
-film
-
 
 Collection: Ghostbusters
 ========================
@@ -374,6 +374,9 @@ Ghostbusters
 
 :: Date
 1984-2016
+
+:: Story Format
+film
 
 :: Description
 The three feature films to date in the Ghostbusters franchise.
@@ -386,9 +389,6 @@ movie: Ghostbusters (1984)
 movie: Ghostbusters II (1989)
 movie: Ghostbusters (2016)
 
-:: Story Format
-film
-
 
 Collection: Giant monster films
 ===============================
@@ -398,6 +398,9 @@ Giant monster films
 
 :: Date
 1933-2019
+
+:: Story Format
+film
 
 :: Description
 Films featuring giant monsters.
@@ -481,9 +484,6 @@ movie: Godzilla: Planet of the Monsters (2017)
 movie: Godzilla: City on the Edge of Battle (2018)
 movie: Godzilla: The Planet Eater (2018)
 
-:: Story Format
-film
-
 
 Collection: Godzilla
 ====================
@@ -493,6 +493,9 @@ Godzilla
 
 :: Date
 1954-2021
+
+:: Story Format
+film
 
 :: Description
 Films featuring the giant monster Godzilla.
@@ -536,9 +539,6 @@ movie: Godzilla: Planet of the Monsters (2017)
 movie: Godzilla: City on the Edge of Battle (2018)
 movie: Godzilla: The Planet Eater (2018)
 
-:: Story Format
-film
-
 
 Collection: Honey I Shrunk the Kids
 ===================================
@@ -548,6 +548,9 @@ Honey I Shrunk the Kids
 
 :: Date
 1989-1997
+
+:: Story Format
+film
 
 :: Description
 The Honey, I Shrunk the Kids film franchise consists of a series of American
@@ -563,9 +566,6 @@ movie: Honey I Shrunk the Kids (1989)
 movie: Honey I Blew Up the Kid (1992)
 movie: Honey We Shrunk Ourselves (1997)
 
-:: Story Format
-film
-
 
 Collection: Jurassic Park
 =========================
@@ -575,6 +575,9 @@ Jurassic Park
 
 :: Date
 1993-2018
+
+:: Story Format
+film
 
 :: Description
 The five feature films to date in the Jurassic Park franchise.
@@ -589,9 +592,6 @@ movie: Jurassic Park III (2001)
 movie: Jurassic World (2015)
 movie: Jurassic World: Fallen Kingdom (2018)
 
-:: Story Format
-film
-
 
 Collection: Mad Max
 ===================
@@ -601,6 +601,9 @@ Max Max
 
 :: Date
 1979-2015
+
+:: Story Format
+film
 
 :: Description
 The four films in the Australian dystopian action film series Mad Max, created
@@ -615,9 +618,6 @@ movie: Mad Max 2 (1981)
 movie: Mad Max Beyond Thunderdome (1985)
 movie: Mad Max: Fury Road (2015)
 
-:: Story Format
-film
-
 
 Collection: Man from Atlantis
 =============================
@@ -627,6 +627,9 @@ Man from Atlantis
 
 :: Date
 1977
+
+:: Story Format
+film
 
 :: Description
 The four television films that preceded the Man from Atlantis American science
@@ -642,9 +645,6 @@ movie: Man from Atlantis II: The Death Scouts (1977)
 movie: Man from Atlantis III: Killer Spores (1977)
 movie: Man from Atlantis IV: The Disappearances (1977)
 
-:: Story Format
-film
-
 
 Collection: Marvel Cinematic Universe
 =====================================
@@ -654,6 +654,9 @@ Marvel Cinematic Universe
 
 :: Date
 2008-2019
+
+:: Story Format
+film
 
 :: Description
 Films from the Marvel Cinematic Universe which is an American media franchise
@@ -689,9 +692,6 @@ movie: Avengers: Endgame (2019)
 movie: SpiderMan: Far From Home (2019)
 movie: SpiderMan: No Way Home (2021)
 
-:: Story Format
-film
-
 
 Collection: Men in Black
 ========================
@@ -701,6 +701,9 @@ Men in Black
 
 :: Date
 1997-2019
+
+:: Story Format
+film
 
 :: Description
 The four films in the American science fiction action comedy film series based
@@ -716,9 +719,6 @@ movie: Men in Black II (2002)
 movie: Men in Black 3 (2012)
 movie: Men in Black: International (2019)
 
-:: Story Format
-film
-
 
 Collection: Mimic Film Series
 =============================
@@ -728,6 +728,9 @@ Mimic Film Series
 
 :: Date
 1997-2003
+
+:: Story Format
+film
 
 :: Description
 Mimic is a science fiction action horror film series created in 1997.
@@ -742,9 +745,6 @@ movie: Mimic (1997)
 movie: Mimic 2 (2001)
 movie: Mimic 3: Sentinel (2003)
 
-:: Story Format
-film
-
 
 Collection: Nemesis
 ===================
@@ -754,6 +754,9 @@ Nemesis
 
 :: Date
 1992-2017
+
+:: Story Format
+film
 
 :: Description
 The five low-budget films in the Nemesis film series.
@@ -768,9 +771,6 @@ movie: Nemesis 3: Prey Harder (1996)
 movie: Nemesis 4: Death Angel (1996)
 movie: Nemesis 5: The New Model (2017)
 
-:: Story Format
-film
-
 
 Collection: Not Quite Human
 ===========================
@@ -780,6 +780,9 @@ Not Quite Human
 
 :: Date
 1987-1992
+
+:: Story Format
+film
 
 :: Description
 The three made for television films based on the eponymous series of young
@@ -794,9 +797,6 @@ movie: Not Quite Human (1987)
 movie: Not Quite Human II (1989)
 movie: Still Not Quite Human (1992)
 
-:: Story Format
-film
-
 
 Collection: Planet of the Apes
 ==============================
@@ -806,6 +806,9 @@ Planet of the Apes
 
 :: Date
 1968-2017
+
+:: Story Format
+film
 
 :: Description
 The nine films in the Planet of the Apes series.
@@ -825,9 +828,6 @@ movie: Rise of the Planet of the Apes (2011)
 movie: Dawn of the Planet of the Apes (2014)
 movie: War for the Planet of the Apes (2017)
 
-:: Story Format
-film
-
 
 Collection: Predator
 ====================
@@ -837,6 +837,9 @@ Predator
 
 :: Date
 1987-2018
+
+:: Story Format
+film
 
 :: Description
 The four feature films to date in the original Predator franchise.
@@ -850,9 +853,6 @@ movie: Predator 2 (1990)
 movie: Predators (2010)
 movie: The Predator (2018)
 
-:: Story Format
-film
-
 
 Collection: Quatermass
 ======================
@@ -862,6 +862,9 @@ Quatermass
 
 :: Date
 1955-1967
+
+:: Story Format
+film
 
 :: Description
 Three adventures of Professor Bernard Quatermass in film.
@@ -874,9 +877,6 @@ movie: The Quatermass Xperiment (1955)
 movie: Quatermass 2 (1957)
 movie: Quatermass and the Pit (1967)
 
-:: Story Format
-film
-
 
 Collection: ReAnimator Films
 ============================
@@ -886,6 +886,9 @@ Re-Animator Films
 
 :: Date
 1985-2003
+
+:: Story Format
+film
 
 :: Description
 The three films in the Re-Animator film series.
@@ -898,9 +901,6 @@ movie: ReAnimator (1985)
 movie: Bride of ReAnimator (1990)
 movie: Beyond ReAnimator (2003)
 
-:: Story Format
-film
-
 
 Collection: Resident Evil Film Series
 =====================================
@@ -910,6 +910,9 @@ Resident Evil Film Series
 
 :: Date
 2002-2016
+
+:: Story Format
+film
 
 :: Description
 Resident Evil is a science fiction action-horror film series based on the
@@ -926,9 +929,6 @@ movie: Resident Evil: Afterlife (2010)
 movie: Resident Evil: Retribution (2012)
 movie: Resident Evil: The Final Chapter (2016)
 
-:: Story Format
-film
-
 
 Collection: Robocop
 ===================
@@ -938,6 +938,9 @@ Robocop
 
 :: Date
 1987-2014
+
+:: Story Format
+film
 
 :: Description
 The four feature films to date in the Robocop franchise.
@@ -951,9 +954,6 @@ movie: RoboCop 2 (1990)
 movie: RoboCop 3 (1993)
 movie: RoboCop (2014)
 
-:: Story Format
-film
-
 
 Collection: Skyline Films
 =========================
@@ -963,6 +963,9 @@ Skyline Films
 
 :: Date
 2010-2020
+
+:: Story Format
+film
 
 :: Description
 The films in the Skyline film franchise.
@@ -977,9 +980,6 @@ movie: Skyline (2010)
 movie: Beyond Skyline (2017)
 movie: Skylines (2020)
 
-:: Story Format
-film
-
 
 Collection: Species
 ===================
@@ -989,6 +989,9 @@ Species
 
 :: Date
 1995-2007
+
+:: Story Format
+film
 
 :: Description
 The four films in the Species film series.
@@ -1002,9 +1005,6 @@ movie: Species II (1998)
 movie: Species III (2004)
 movie: Species: The Awakening (2007)
 
-:: Story Format
-film
-
 
 Collection: Spider-Man
 ======================
@@ -1014,6 +1014,9 @@ Spider-Man
 
 :: Date
 1977-2019
+
+:: Story Format
+film
 
 :: Description
 Films centered on the Marvel Comics character Spider-Man.
@@ -1035,9 +1038,6 @@ movie: SpiderMan: Into the SpiderVerse (2018)
 movie: SpiderMan: Far From Home (2019)
 movie: SpiderMan: No Way Home (2021)
 
-:: Story Format
-film
-
 
 Collection: Star Trek Films
 ===========================
@@ -1047,6 +1047,9 @@ Star Trek Films
 
 :: Date
 1979-2016
+
+:: Story Format
+film
 
 :: Description
 Star Trek feature films.
@@ -1069,9 +1072,6 @@ movie: Star Trek (2009)
 movie: Star Trek Into Darkness (2013)
 movie: Star Trek Beyond (2016)
 
-:: Story Format
-film
-
 
 Collection: Star Wars
 =====================
@@ -1081,6 +1081,9 @@ Star Wars
 
 :: Date
 1977-2019
+
+:: Story Format
+film
 
 :: Description
 A collection of any and all films set in George Lucas' Star Wars universe.
@@ -1105,9 +1108,6 @@ movie: Star Wars: The Last Jedi (2017)
 movie: Solo: A Star Wars Story (2018)
 movie: Star Wars: The Rise of Skywalker (2019)
 
-:: Story Format
-film
-
 
 Collection: Starship Troopers
 =============================
@@ -1117,6 +1117,9 @@ Starship Troopers
 
 :: Date
 1997-2017
+
+:: Story Format
+film
 
 :: Description
 The five films in the Starship Troopers film series.
@@ -1131,9 +1134,6 @@ movie: Starship Troopers 3: Marauder (2008)
 movie: Starship Troopers: Invasion (2012)
 movie: Starship Troopers: Traitor of Mars (2017)
 
-:: Story Format
-film
-
 
 Collection: Super Giant
 =======================
@@ -1143,6 +1143,9 @@ Super Giant
 
 :: Date
 1964
+
+:: Story Format
+film
 
 :: Description
 The four films in American adaptation of the Japanese Super Giant serial film
@@ -1157,9 +1160,6 @@ movie: Invaders from Space (1964)
 movie: Attack from Space (1964)
 movie: Evil Brain from Outer Space (1964)
 
-:: Story Format
-film
-
 
 Collection: Superman
 ====================
@@ -1169,6 +1169,9 @@ Superman
 
 :: Date
 1951-2017
+
+:: Story Format
+film
 
 :: Description
 The nine feature films in the Superman series.
@@ -1188,9 +1191,6 @@ movie: Man of Steel (2013)
 movie: Batman v Superman: Dawn of Justice (2016)
 movie: Justice League (2017)
 
-:: Story Format
-film
-
 
 Collection: TekWar Films
 ========================
@@ -1200,6 +1200,9 @@ TekWar Films
 
 :: Date
 1994
+
+:: Story Format
+film
 
 :: Description
 The four television films in the TekWar media franchise.
@@ -1213,9 +1216,6 @@ movie: TekWar: TekLords (1994)
 movie: TekWar: TekLab (1994)
 movie: TekWar: TekJustice (1994)
 
-:: Story Format
-film
-
 
 Collection: The Blob
 ====================
@@ -1225,6 +1225,9 @@ The Blob
 
 :: Date
 1958-1988
+
+:: Story Format
+film
 
 :: Description
 The three films in The Blob film series.
@@ -1237,9 +1240,6 @@ movie: The Blob (1958)
 movie: Beware The Blob (1972)
 movie: The Blob (1988)
 
-:: Story Format
-film
-
 
 Collection: The Chronicles of Riddick Film Series
 =================================================
@@ -1249,6 +1249,9 @@ The Chronicles of Riddick Film Series
 
 :: Date
 2010-2020
+
+:: Story Format
+film
 
 :: Description
 The Chronicles of Riddick, is a science fiction action space Western film
@@ -1263,9 +1266,6 @@ movie: Pitch Black (2000)
 movie: The Chronicles of Riddick (2004)
 movie: Riddick (2013)
 
-:: Story Format
-film
-
 
 Collection: The Fly
 ===================
@@ -1275,6 +1275,9 @@ The Fly
 
 :: Date
 1958-1989
+
+:: Story Format
+film
 
 :: Description
 The five films in the The Fly series.
@@ -1289,9 +1292,6 @@ movie: Curse of the Fly (1965)
 movie: The Fly (1986)
 movie: The Fly II (1989)
 
-:: Story Format
-film
-
 
 Collection: The Incredible Hulk
 ===============================
@@ -1301,6 +1301,9 @@ The Incredible Hulk
 
 :: Date
 1977-2008
+
+:: Story Format
+film
 
 :: Description
 Films featuring the Marvel Comics character The Hulk as the main character.
@@ -1318,9 +1321,6 @@ movie: The Death of the Incredible Hulk (1990)
 movie: Hulk (2003)
 movie: The Incredible Hulk (2008)
 
-:: Story Format
-film
-
 
 Collection: The Matrix
 ======================
@@ -1330,6 +1330,9 @@ The Matrix
 
 :: Date
 1999-2003
+
+:: Story Format
+film
 
 :: Description
 The Matrix film trilogy.
@@ -1342,9 +1345,6 @@ movie: The Matrix (1999)
 movie: The Matrix Reloaded (2003)
 movie: The Matrix Revolutions (2003)
 
-:: Story Format
-film
-
 
 Collection: The Nutty Professor
 ===============================
@@ -1354,6 +1354,9 @@ The Nutty Professor
 
 :: Date
 1963-2008
+
+:: Story Format
+film
 
 :: Description
 The four films to date in the The Nutty Professor series.
@@ -1367,9 +1370,6 @@ movie: The Nutty Professor (1996)
 movie: Nutty Professor II: The Klumps (2000)
 movie: The Nutty Professor (2008)
 
-:: Story Format
-film
-
 
 Collection: The Six Million Dollar Man
 ======================================
@@ -1379,6 +1379,9 @@ The Six Million Dollar Man
 
 :: Date
 1973-1994
+
+:: Story Format
+film
 
 :: Description
 The six made for television films in the The Six Million Dollar Man series.
@@ -1395,9 +1398,6 @@ movie: The Return of the Six Million Dollar Man and the Bionic Woman (1987)
 movie: Bionic Showdown: The Six Million Dollar Man and the Bionic Woman (1989)
 movie: Bionic Ever After? (1994)
 
-:: Story Format
-film
-
 
 Collection: The Stepford Wives
 ==============================
@@ -1407,6 +1407,9 @@ The Stepford Wives
 
 :: Date
 1975-2004
+
+:: Story Format
+film
 
 :: Description
 The Stepford Wives original film, its television film sequels, and feature
@@ -1422,9 +1425,6 @@ movie: The Stepford Children (1987)
 movie: The Stepford Husbands (1996)
 movie: The Stepford Wives (2004)
 
-:: Story Format
-film
-
 
 Collection: The Terminator
 ==========================
@@ -1434,6 +1434,9 @@ The Terminator
 
 :: Date
 1984-2019
+
+:: Story Format
+film
 
 :: Description
 The six feature films to date in The Terminator franchise.
@@ -1449,9 +1452,6 @@ movie: Terminator Salvation (2009)
 movie: Terminator Genisys (2015)
 movie: Terminator: Dark Fate (2019)
 
-:: Story Format
-film
-
 
 Collection: The Twilight Zone Films
 ===================================
@@ -1461,6 +1461,9 @@ The Twilight Zone Films
 
 :: Date
 1983-1994
+
+:: Story Format
+film
 
 :: Description
 Stories from the two Twilight Zone films: Twilight Zone: The Movie (1984) and
@@ -1478,9 +1481,6 @@ tz1983d
 tz1994a
 tz1994b
 
-:: Story Format
-film
-
 
 Collection: Trancers
 ====================
@@ -1490,6 +1490,9 @@ Trancers
 
 :: Date
 1984-2002
+
+:: Story Format
+film
 
 :: Description
 The six feature films and one short film in the Trancers film series.
@@ -1506,9 +1509,6 @@ movie: Trancers 4: Jack of Swords (1994)
 movie: Trancers 5: Sudden Deth (1994)
 movie: Trancers 6 (2002)
 
-:: Story Format
-film
-
 
 Collection: Transformers
 ========================
@@ -1518,6 +1518,9 @@ Transformers
 
 :: Date
 1986-2018
+
+:: Story Format
+film
 
 :: Description
 Films based on the Transformers franchise which centers on extraterrestrial
@@ -1536,9 +1539,6 @@ movie: Transformers: Age of Extinction (2014)
 movie: Transformers: The Last Knight (2017)
 movie: Bumblebee (2018)
 
-:: Story Format
-film
-
 
 Collection: Universal Soldier
 =============================
@@ -1548,6 +1548,9 @@ Universal Soldier
 
 :: Date
 1992-2012
+
+:: Story Format
+film
 
 :: Description
 The six films in the Universal Soldier film series.
@@ -1563,9 +1566,6 @@ movie: Universal Soldier: The Return (1999)
 movie: Universal Soldier: Regeneration (2009)
 movie: Universal Soldier: Day of Reckoning (2012)
 
-:: Story Format
-film
-
 
 Collection: Watchers
 ====================
@@ -1575,6 +1575,9 @@ Watchers
 
 :: Date
 1988-1998
+
+:: Story Format
+film
 
 :: Description
 The four films in the Watchers film series.
@@ -1588,9 +1591,6 @@ movie: Watchers II (1990)
 movie: Watchers III (1994)
 movie: Watchers IV (1998)
 
-:: Story Format
-film
-
 
 Collection: X-men
 =================
@@ -1600,6 +1600,9 @@ X-men
 
 :: Date
 2000-2019
+
+:: Story Format
+film
 
 :: Description
 X-Men is an American superhero film series based on the fictional superhero
@@ -1623,9 +1626,6 @@ movie: Logan (2017)
 movie: Deadpool 2 (2018)
 movie: Dark Phoenix (2019)
 
-:: Story Format
-film
-
 
 Collection: Xtro
 ================
@@ -1635,6 +1635,9 @@ Xtro
 
 :: Date
 1982-1995
+
+:: Story Format
+film
 
 :: Description
 The three films in the low-budget British science fiction/horror Xtro series.
@@ -1646,8 +1649,5 @@ https://en.wikipedia.org/wiki/Xtro
 movie: Xtro (1982)
 movie: Xtro II: The Second Encounter (1991)
 movie: Xtro 3: Watch the Skies (1995)
-
-:: Story Format
-film
 
 
