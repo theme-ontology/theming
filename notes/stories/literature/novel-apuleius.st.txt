@@ -7,9 +7,6 @@ The Golden Ass
 :: Date
 180
 
-:: Story Format
-prose
-
 :: Description
 The Metamorphoses of Apuleius, which Augustine of Hippo referred to as The
 Golden Ass (Asinus aureus), is the only ancient Roman novel in Latin to
@@ -32,6 +29,9 @@ https://en.wikipedia.org/wiki/The_Golden_Ass
 :: Ratings
 5 <paul>
 5 <paul>
+
+:: Story Format
+prose
 
 :: Choice Themes
 what if I turned into an animal [The story follows Lucius as he is accidentally transformed into a common ass, and his subsequent efforts to change himself back into a human being.]
