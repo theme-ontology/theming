@@ -7,12 +7,15 @@ Miscellaneous stage works
 :: Date
 458 BC-1791
 
-:: Description
-Miscellaneous stage works (plays and operas) not part of a dedicated
-collection.
-
 :: Story Format
 stage
+
+:: Description
+Miscellaneous stage works (plays and operas) not part of a dedicated collection.
+
+:: Component Stories
+opera: The Magic Flute (1791)
+play: Oresteia (458 BC)
 
 
 opera: The Magic Flute (1791)
@@ -114,5 +117,3 @@ mother and son [Clytemnestra and Orestes; Orestes occasionally reflected on his 
 brother and sister [Orestes and Electra]
 husband and wife [Agamemnon and Clytemnestra]
 mother and daughter [Clytemnestra]
-
-

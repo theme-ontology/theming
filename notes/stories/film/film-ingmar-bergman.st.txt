@@ -7,6 +7,9 @@ Ingmar Bergman
 :: Date
 1944-2003
 
+:: Story Format
+film
+
 :: Description
 Films written or directed by Ingmar Bergman.
 
@@ -16,9 +19,6 @@ https://en.wikipedia.org/wiki/Ingmar_Bergman_filmography
 :: Component Stories
 movie: Persona (1966)
 movie: The Seventh Seal (1957)
-
-:: Story Format
-film
 
 
 movie: Autumn Sonata (1978)
