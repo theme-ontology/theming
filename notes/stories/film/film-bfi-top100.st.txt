@@ -7,9 +7,6 @@ BFI Top 100 films
 :: Date
 1920-2017
 
-:: Story Format
-film
-
 :: Description
 This is a collection of movies that appeared on the top 100 list of BFI, the
 British Film Institute.
@@ -19,5 +16,8 @@ https://www.bfi.org.uk/greatest-films-all-time
 
 :: Component Stories
 movie: Stalker (1979)
+
+:: Story Format
+film
 
 

@@ -7,9 +7,6 @@ Time Out magazine's Top 100 films
 :: Date
 1920-2017
 
-:: Story Format
-film
-
 :: Description
 This is a collection of movies that the magazine Time Out has listed as being
 among the top 100 movies of all times.
@@ -32,6 +29,9 @@ movie: Star Wars (1977)
 movie: The Thing (1982)
 movie: Vertigo (1958)
 movie: Lawrence of Arabia (1962)
+
+:: Story Format
+film
 
 
 movie: A Woman Under the Influence (1974)
