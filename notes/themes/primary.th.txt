@@ -1119,6 +1119,20 @@ sports
 https://en.wikipedia.org/wiki/American_football
 
 
+amnesia
+=======
+
+:: Description
+Amnesia is a deficit in memory typically caused by brain damage or brain
+diseases. A character exhibits this condition.
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Amnesia
+
+
 amphibian-like being
 ====================
 
@@ -3175,6 +3189,21 @@ threat from extraterrestrial life
 
 :: Examples
 A Douwd wiped the Husnock clean out of existence in tng3x03 "The Survivors".
+
+
+belonging
+=========
+
+:: Description
+A character feels that they are an accepted member of a group. Alternatively,
+a character struggles with gaining that acceptance.
+
+:: Parents
+humans in group
+human social need
+
+:: References
+https://en.wikipedia.org/wiki/Belongingness
 
 
 benefiting from someone else's work
@@ -10612,6 +10641,21 @@ else's life.
 human self-sacrifice for another
 
 
+donating one's body to medical science
+======================================
+
+:: Description
+The practice of people donating their bodies to medical science after death is
+featured. For example, a character opts to donate their future corpse by
+ticking a box on some form, or is solicited to do so.
+
+:: Parents
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Body_donation
+
+
 doppelgänger
 ============
 
@@ -15127,6 +15171,24 @@ https://en.wikipedia.org/wiki/Gender_bender
 androgyny
 
 
+gender identity
+===============
+
+:: Description
+
+
+:: Parents
+sexual norms in society
+personal identity
+
+:: Examples
+Captain Kirk and Janice Lester switched genders on account of switching bodies
+in tos3x24 "Turnabout Intruder".
+
+:: References
+https://en.wikipedia.org/wiki/Transsexual
+
+
 gender in crime statistics
 ==========================
 
@@ -16969,6 +17031,23 @@ appealing activity.
 
 :: Parents
 human childhood
+
+
+homework vs. play
+=================
+
+:: Description
+The dichotomy between structure and autonomy in raising children is discussed.
+Should a parent impose more discipline and focus on study, or let the child
+play more?
+
+:: Parents
+human parenting
+working hard vs. taking it easy in life
+
+:: Examples
+Alexander was very much swayed by Lwaxana's arguments for choosing play over
+homework in tng5x20 "cost of Living".
 
 
 hominid evolution
@@ -20975,6 +21054,22 @@ A land inhabited by natives may still be unknown to the explorer and their
 people.
 
 
+language and society
+====================
+
+:: Description
+Discussed are the relations between language and society, particularly the
+influence of language on society.
+
+:: Parents
+linguistics
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Sociolinguistics
+https://en.wikipedia.org/wiki/Sociology_of_language
+
+
 language change
 ===============
 
@@ -21424,6 +21519,17 @@ impairment, for example the loss of a limb, in order to survive.
 contemplating suicide
 
 
+life's unpredictable journey
+============================
+
+:: Description
+
+
+:: Parents
+human idea about life
+what life is like
+
+
 Lilliputian being
 =================
 
@@ -21441,6 +21547,42 @@ were about one sixteenth of an inch tall in tas1x11 "The Terratin Incident".
 
 :: References
 https://en.wiktionary.org/wiki/lilliputian
+
+
+linguistics
+===========
+
+:: Description
+Linguistics is the scientific study of language. The areas of linguistic
+analysis are syntax (rules governing the structure of sentences), semantics
+(meaning), morphology (structure of words), phonetics (speech sounds and
+equivalent gestures in sign languages), phonology (the abstract sound system
+of a particular language, and analogous systems of sign languages), and
+pragmatics (how the context of use contributes to meaning). Some of this is
+featured in the story.
+
+:: Parents
+science
+
+:: References
+https://en.wikipedia.org/wiki/Linguistics
+
+
+literature discussion
+=====================
+
+:: Description
+Two characters discuss a piece of literature, or literature in general.
+
+:: Parents
+art discussion
+
+:: Examples
+Spock was most impressed with Mr. Flint's taste in literature in tos3x21
+"Requiem for Methuselah".
+
+:: References
+https://en.wikipedia.org/wiki/Literary_criticism
 
 
 live by the sword die by the sword
@@ -28816,6 +28958,51 @@ clairvoyance
 https://en.wikipedia.org/wiki/Prophecy
 
 
+prostitution
+============
+
+:: Description
+There is a character who sells sex for money in order to make a living.
+
+:: Parents
+sex work
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
+prostitution in society
+=======================
+
+:: Description
+There is a person who sells sex for money, or an institution (such as a
+brothel) set up for the purpose, and we are made to ponder the way in which
+such practices shape society.
+
+:: Parents
+prostitution
+sexual norms in society
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
+prostitution vs. poverty
+========================
+
+:: Description
+A character has to choose whether to perform sexual services for money in
+order not to starve.
+
+:: Parents
+prostitution
+human life choice
+compromising one's ethical principles vs. self-preservation
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
 protecting children vs. letting them learn
 ==========================================
 
@@ -29700,6 +29887,28 @@ the soul
 
 :: References
 https://en.wikipedia.org/wiki/Reincarnation
+
+
+reintegrating into society
+==========================
+
+:: Description
+Someone has been away from anything resembling normal society for a long time,
+for example due to a lengthy prison term, and tries to re-adjust to life
+amongst normal people again.
+
+:: Parents
+coping with life issues
+human social position
+belonging
+
+:: Examples
+In "Universal Soldier: Regeneration" (2009), the former mindless supersoldier
+Luc Deveraux was undergoing rehabilitation therapy in Switzerland with the
+goal of rejoining society.
+
+:: References
+https://en.wikipedia.org/wiki/Prisoner_reentry
 
 
 rejuvenation technology
@@ -30884,6 +31093,20 @@ organized religion
 
 :: References
 https://en.wikipedia.org/wiki/Sacred#Sacred_ground
+
+
+sacred oath
+===========
+
+:: Description
+A sacred oath is a statement of fact or a promise taken by a sacrality as a
+sign of verity. Such an act is featured in the story.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Oath
 
 
 sacred sanctuary
@@ -35135,6 +35358,16 @@ echelons of Starfleet by secretly attaching themselves to the brain stems of
 its key leaders.
 
 
+success in life is a matter of chance
+=====================================
+
+:: Description
+
+
+:: Parents
+life's unpredictable journey
+
+
 sugar addiction
 ===============
 
@@ -35679,6 +35912,18 @@ some time and as a punishment.
 :: Parents
 suspended animation
 speculative punishment
+
+
+swallowing one's pride
+======================
+
+:: Description
+A character acknowledges their instinctive feelings of pride but consciously
+strives not to let them dictate their actions.
+
+:: Parents
+exercising self-control
+pride
 
 
 sympathetic magic
@@ -42453,6 +42698,25 @@ https://en.wikipedia.org/wiki/Guardian_angel
 guardian angel
 
 
+what if I had amnesia
+=====================
+
+:: Description
+We are shown an idea of what it might be like to suffer from extreme memory
+loss.
+
+:: Parents
+what if my personal identity came into question
+amnesia
+
+:: Examples
+John Doe struggled with a bad case of amnesia in tng3x25 "Transfigurations",
+not even remembering his own name.
+
+:: References
+https://en.wikipedia.org/wiki/Amnesia
+
+
 what if I had multiple personalities
 ====================================
 
@@ -43096,7 +43360,8 @@ what if I were being framed for a crime
 
 :: Description
 A character is being deliberately set-up so as to be suspected of a crime that
-they did not actually commit. The character knows or suspects they are being framed.
+they did not actually commit. The character knows or suspects they are being
+framed.
 
 :: Parents
 what if I was accused of a crime that I didn't commit
