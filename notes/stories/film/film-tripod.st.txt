@@ -7,6 +7,9 @@ TRIPOD films
 :: Date
 1959-2020
 
+:: Story Format
+film
+
 :: Description
 The 99 films in the TuRnIng POint Dataset (TRIPOD).
 
@@ -36,9 +39,6 @@ movie: Unforgiven (1992)
 movie: V for Vendetta (2005)
 movie: Vertigo (1958)
 movie: X-Men (2000)
-
-:: Story Format
-film
 
 
 movie: Indiana Jones and the Kingdom of the Crystal Skull (2008)
@@ -361,8 +361,8 @@ coping with the death of a spouse [In his ultimate temptation, Jesus wept over t
 parent and child [In his ultimate temptation, Jesus settled down and had a family, and was shown caring for his young boy and girl.]
 
 
-Unforgiven (1992)
-=================
+movie: Unforgiven (1992)
+========================
 
 :: Title
 Unforgiven
