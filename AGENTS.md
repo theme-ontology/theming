@@ -18,5 +18,10 @@ contributing in the normal way are unaffected.
 
 4. **Never force-push** a shared branch and never rewrite published history.
 
-5. For everything else (data format, commit messages, scope), follow the human
+5. **Write story annotation motivations in the past tense.** When a motivation describes what
+   happens in a story, recount it from a vantage point *inside the story just after its very end* —
+   the events are narrated as having already happened (e.g. "Claudius knew…", "He strove…", "The
+   drama turned on…"), never in the present tense.
+
+6. For everything else (data format, commit messages, scope), follow the human
    [Contributing Guide](CONTRIBUTING.md).
