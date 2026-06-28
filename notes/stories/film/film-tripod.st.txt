@@ -7,9 +7,6 @@ TRIPOD films
 :: Date
 1959-2020
 
-:: Story Format
-film
-
 :: Description
 The 99 films in the TuRnIng POint Dataset (TRIPOD).
 
@@ -35,10 +32,12 @@ movie: The Shining (1980)
 movie: The Time Machine (1960)
 movie: The Truman Show (1998)
 movie: Total Recall (1990)
-movie: Unforgiven (1992)
 movie: V for Vendetta (2005)
 movie: Vertigo (1958)
 movie: X-Men (2000)
+
+:: Story Format
+film
 
 
 movie: Indiana Jones and the Kingdom of the Crystal Skull (2008)
