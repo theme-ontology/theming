@@ -1119,6 +1119,20 @@ sports
 https://en.wikipedia.org/wiki/American_football
 
 
+amnesia
+=======
+
+:: Description
+Amnesia is a deficit in memory typically caused by brain damage or brain
+diseases. A character exhibits this condition.
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Amnesia
+
+
 amphibian-like being
 ====================
 
@@ -3177,6 +3191,21 @@ threat from extraterrestrial life
 A Douwd wiped the Husnock clean out of existence in tng3x03 "The Survivors".
 
 
+belonging
+=========
+
+:: Description
+A character feels that they are an accepted member of a group. Alternatively,
+a character struggles with gaining that acceptance.
+
+:: Parents
+humans in group
+human social need
+
+:: References
+https://en.wikipedia.org/wiki/Belongingness
+
+
 benefiting from someone else's work
 ===================================
 
@@ -4709,6 +4738,23 @@ violent crime
 https://en.wikipedia.org/wiki/Child_abuse
 
 
+child exploitation
+==================
+
+:: Description
+Underage characters are exploited for labor of one sort or another, by
+scrupulous adults. We are made to ponder whether and to what extent this is
+right or wrong.
+
+:: Parents
+human rights issue
+socioeconomic issue
+sociocultural issue
+
+:: References
+https://www.unicef.org/rosa/what-we-do/child-protection/child-labour-and-exploitation
+
+
 child labor
 ===========
 
@@ -6119,6 +6165,50 @@ humans interacting
 
 :: References
 https://en.wikipedia.org/wiki/Compromise
+
+
+compromising one's ethical principles for personal advantage
+============================================================
+
+:: Description
+Someone must choose between what they believe is right on the one hand, and
+what would profit them personally on the other.
+
+:: Parents
+personal ethical dilemma
+
+
+compromising one's ethical principles vs. great need
+====================================================
+
+:: Description
+Someone is torn up over doing something they feel they greatly need to do, but
+that is ethically unsavory to them.
+
+:: Parents
+personal ethical dilemma
+
+:: Examples
+In voy5x26 "Equinox, Part I" it is revealed that the Equinox crew choose to
+exploit and kill aliens in order to be able to get back to Earth, a voyage
+that would have taken more than a lifetime otherwise.
+
+
+compromising one's ethical principles vs. self-preservation
+===========================================================
+
+:: Description
+Someone must choose whether or not to commit unsavory acts in order to save
+their own skin.
+
+:: Parents
+compromising one's ethical principles vs. great need
+
+:: Examples
+In blackmirror1x01 "The National Anthem", the Prime minister had to decide
+whether to copulate with a pig on national television in order to save his
+political career, as well as the life of beloved Royal Family member Princess
+Susannah.
 
 
 compulsive spending
@@ -10551,6 +10641,21 @@ else's life.
 
 :: Parents
 human self-sacrifice for another
+
+
+donating one's body to medical science
+======================================
+
+:: Description
+The practice of people donating their bodies to medical science after death is
+featured. For example, a character opts to donate their future corpse by
+ticking a box on some form, or is solicited to do so.
+
+:: Parents
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Body_donation
 
 
 doppelgänger
@@ -15068,6 +15173,24 @@ https://en.wikipedia.org/wiki/Gender_bender
 androgyny
 
 
+gender identity
+===============
+
+:: Description
+
+
+:: Parents
+sexual norms in society
+personal identity
+
+:: Examples
+Captain Kirk and Janice Lester switched genders on account of switching bodies
+in tos3x24 "Turnabout Intruder".
+
+:: References
+https://en.wikipedia.org/wiki/Transsexual
+
+
 gender in crime statistics
 ==========================
 
@@ -16910,6 +17033,23 @@ appealing activity.
 
 :: Parents
 human childhood
+
+
+homework vs. play
+=================
+
+:: Description
+The dichotomy between structure and autonomy in raising children is discussed.
+Should a parent impose more discipline and focus on study, or let the child
+play more?
+
+:: Parents
+human parenting
+working hard vs. taking it easy in life
+
+:: Examples
+Alexander was very much swayed by Lwaxana's arguments for choosing play over
+homework in tng5x20 "cost of Living".
 
 
 hominid evolution
@@ -20240,6 +20380,21 @@ physical world.
 https://en.wikipedia.org/wiki/Invisibility_in_fiction
 
 
+invisibility technology
+=======================
+
+:: Description
+There is a technology that renders someone or something invisible.
+
+:: Parents
+speculative stealth technology
+invisibility
+
+:: References
+https://en.wikipedia.org/wiki/Invisibility_in_fiction
+http://www.sf-encyclopedia.com/entry/invisibility
+
+
 invisible spaceship
 ===================
 
@@ -20854,6 +21009,53 @@ The tiny alternate universe time continuum Elysia was a veritable utopia where
 everyone simply got along in tas1x12 "The Time Trap".
 
 
+labor relations in society
+==========================
+
+:: Description
+Featured are the complex interrelations between employers and employees,
+labor/trade unions, employer organizations, and the state.
+
+:: Parents
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Industrial_relations
+https://en.wikipedia.org/wiki/Labor_rights
+
+
+labor revolt
+============
+
+:: Description
+Featured is a period civil unrest characterized by strong labor militancy and
+strike activity.
+
+:: Parents
+labor relations in society
+
+:: References
+https://en.wikipedia.org/wiki/Labour_revolt
+
+
+labor strikes in society
+========================
+
+:: Description
+The feature of strike action among organized worker groups in society is
+discussed.
+
+:: Parents
+labor relations in society
+
+:: Notes
+Not to be confused with "bowling strikes", which rarely appear as social
+issues in stories.
+
+:: References
+https://en.wikipedia.org/wiki/Strike_action
+
+
 land exploration
 ================
 
@@ -20867,6 +21069,22 @@ charting unknown territory
 :: Notes
 A land inhabited by natives may still be unknown to the explorer and their
 people.
+
+
+language and society
+====================
+
+:: Description
+Discussed are the relations between language and society, particularly the
+influence of language on society.
+
+:: Parents
+linguistics
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Sociolinguistics
+https://en.wikipedia.org/wiki/Sociology_of_language
 
 
 language change
@@ -21318,6 +21536,17 @@ impairment, for example the loss of a limb, in order to survive.
 contemplating suicide
 
 
+life's unpredictable journey
+============================
+
+:: Description
+
+
+:: Parents
+human idea about life
+what life is like
+
+
 Lilliputian being
 =================
 
@@ -21335,6 +21564,42 @@ were about one sixteenth of an inch tall in tas1x11 "The Terratin Incident".
 
 :: References
 https://en.wiktionary.org/wiki/lilliputian
+
+
+linguistics
+===========
+
+:: Description
+Linguistics is the scientific study of language. The areas of linguistic
+analysis are syntax (rules governing the structure of sentences), semantics
+(meaning), morphology (structure of words), phonetics (speech sounds and
+equivalent gestures in sign languages), phonology (the abstract sound system
+of a particular language, and analogous systems of sign languages), and
+pragmatics (how the context of use contributes to meaning). Some of this is
+featured in the story.
+
+:: Parents
+science
+
+:: References
+https://en.wikipedia.org/wiki/Linguistics
+
+
+literature discussion
+=====================
+
+:: Description
+Two characters discuss a piece of literature, or literature in general.
+
+:: Parents
+art discussion
+
+:: Examples
+Spock was most impressed with Mr. Flint's taste in literature in tos3x21
+"Requiem for Methuselah".
+
+:: References
+https://en.wikipedia.org/wiki/Literary_criticism
 
 
 live by the sword die by the sword
@@ -24091,6 +24356,21 @@ human idea about life
 
 :: References
 https://idioms.thefreedictionary.com/moderation+in+all+things
+
+
+modern slavery
+==============
+
+:: Description
+A character is controlled, deceived, or coerced by another character or group
+for personal or commercial gain, leaving them unable to refuse or leave.
+
+:: Parents
+labor relations in society
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Slavery_in_the_21st_century
 
 
 mole people
@@ -28710,6 +28990,51 @@ clairvoyance
 https://en.wikipedia.org/wiki/Prophecy
 
 
+prostitution
+============
+
+:: Description
+There is a character who sells sex for money in order to make a living.
+
+:: Parents
+sex work
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
+prostitution in society
+=======================
+
+:: Description
+There is a person who sells sex for money, or an institution (such as a
+brothel) set up for the purpose, and we are made to ponder the way in which
+such practices shape society.
+
+:: Parents
+prostitution
+sexual norms in society
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
+prostitution vs. poverty
+========================
+
+:: Description
+A character has to choose whether to perform sexual services for money in
+order not to starve.
+
+:: Parents
+prostitution
+human life choice
+compromising one's ethical principles vs. self-preservation
+
+:: References
+https://en.wikipedia.org/wiki/Prostitution
+
+
 protecting children vs. letting them learn
 ==========================================
 
@@ -29594,6 +29919,28 @@ the soul
 
 :: References
 https://en.wikipedia.org/wiki/Reincarnation
+
+
+reintegrating into society
+==========================
+
+:: Description
+Someone has been away from anything resembling normal society for a long time,
+for example due to a lengthy prison term, and tries to re-adjust to life
+amongst normal people again.
+
+:: Parents
+coping with life issues
+human social position
+belonging
+
+:: Examples
+In "Universal Soldier: Regeneration" (2009), the former mindless supersoldier
+Luc Deveraux was undergoing rehabilitation therapy in Switzerland with the
+goal of rejoining society.
+
+:: References
+https://en.wikipedia.org/wiki/Prisoner_reentry
 
 
 rejuvenation technology
@@ -30778,6 +31125,20 @@ organized religion
 
 :: References
 https://en.wikipedia.org/wiki/Sacred#Sacred_ground
+
+
+sacred oath
+===========
+
+:: Description
+A sacred oath is a statement of fact or a promise taken by a sacrality as a
+sign of verity. Such an act is featured in the story.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Oath
 
 
 sacred sanctuary
@@ -34105,6 +34466,16 @@ speculative environmental suit
 https://en.wikipedia.org/wiki/Space_suit
 
 
+speculative stealth technology
+==============================
+
+:: Description
+There is a technology that renders something harder to detect.
+
+:: Parents
+speculative technology
+
+
 speculative subliminal stimuli
 ==============================
 
@@ -34729,6 +35100,23 @@ his new stepmother in "My Science Project" (1985).
 https://en.wikipedia.org/wiki/Stepmother
 
 
+stepping up to the task
+=======================
+
+:: Description
+A character is, more or less unexpectedly, thrust into a roll for which they
+are not quite prepared and must quickly rise to the occasion.
+
+:: Parents
+human challenge in life
+
+:: Examples
+In tng4x09 "Final Mission", Ensign Wesley Crusher finds himself in a
+confoundingly tight spot without guidance as Captain Picard is gravely injured
+and their companion, Captain Dirgo, starts to lose his marbles. Wesley
+struggles to control his own insecurities and take command of the situation.
+
+
 stereotypically innocent character
 ==================================
 
@@ -35027,6 +35415,16 @@ threat from extraterrestrial life
 In tng1x25 "Conspiracy", bug-like aliens from outer space subvert the higher
 echelons of Starfleet by secretly attaching themselves to the brain stems of
 its key leaders.
+
+
+success in life is a matter of chance
+=====================================
+
+:: Description
+
+
+:: Parents
+life's unpredictable journey
 
 
 sugar addiction
@@ -35573,6 +35971,18 @@ some time and as a punishment.
 :: Parents
 suspended animation
 speculative punishment
+
+
+swallowing one's pride
+======================
+
+:: Description
+A character acknowledges their instinctive feelings of pride but consciously
+strives not to let them dictate their actions.
+
+:: Parents
+exercising self-control
+pride
 
 
 sympathetic magic
@@ -40577,6 +40987,21 @@ zombies in tos1x10 "Dagger of the Mind", all in the name of medical science.
 https://en.wikipedia.org/wiki/Unethical_human_experimentation
 
 
+unions in the workplace
+=======================
+
+:: Description
+There is an organization of workers who have come together to achieve common
+goals; such as protecting the integrity of its trade, improving safety
+standards, and attaining better wages, etc.
+
+:: Parents
+labor relations in society
+
+:: References
+https://en.wikipedia.org/wiki/Trade_union
+
+
 universal translation device
 ============================
 
@@ -42332,6 +42757,25 @@ https://en.wikipedia.org/wiki/Guardian_angel
 guardian angel
 
 
+what if I had amnesia
+=====================
+
+:: Description
+We are shown an idea of what it might be like to suffer from extreme memory
+loss.
+
+:: Parents
+what if my personal identity came into question
+amnesia
+
+:: Examples
+John Doe struggled with a bad case of amnesia in tng3x25 "Transfigurations",
+not even remembering his own name.
+
+:: References
+https://en.wikipedia.org/wiki/Amnesia
+
+
 what if I had multiple personalities
 ====================================
 
@@ -42975,7 +43419,8 @@ what if I were being framed for a crime
 
 :: Description
 A character is being deliberately set-up so as to be suspected of a crime that
-they did not actually commit. The character knows or suspects they are being framed.
+they did not actually commit. The character knows or suspects they are being
+framed.
 
 :: Parents
 what if I was accused of a crime that I didn't commit
@@ -44164,6 +44609,26 @@ human addiction
 
 :: References
 https://en.wikipedia.org/wiki/Workaholic
+
+
+workers replaced by machines
+============================
+
+:: Description
+We are asked to what extent we should fear and, perhaps, oppose the
+replacement of workers by machines. The day when this definition is written by
+a computer may not be far off.
+
+:: Parents
+labor relations in society
+machines in society
+
+:: Examples
+McCoy moaned about the M-5 multitronic unit (a computer) taking everyone's
+jobs in tos2x24 "The Ultimate Computer".
+
+:: Aliases
+automation in society
 
 
 working hard vs. taking it easy in life
