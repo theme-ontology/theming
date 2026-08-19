@@ -2,6 +2,7 @@ life's unpredictable journey
 ============================
 
 :: Description
+The story features a significant portion of a character's life, usually from a young age, and makes a point of how unpredictable our individual fates are.
 
 :: Parents
 human idea about life
@@ -12,9 +13,31 @@ success in life is a matter of chance
 =====================================
 
 :: Description
+A character achieves great success in life attributable to randomness more than innate ability, and the idea is implied that any successful person owes their fortune in no small part to chance.
 
 :: Parents
 life's unpredictable journey
+
+
+gender identity
+===============
+
+:: Description
+Gender identity is the personal sense of one's own gender. The story makes a 
+point related to this, for example, by featuring a character whose perception
+of their own gender differs from that suggested by the shape or their body, or
+which contradicts the norms of the society they inhabit in some way.
+
+:: Parents
+sexual norms in society
+personal identity
+
+:: Examples
+Captain Kirk and Janice Lester switched genders on account of switching bodies
+in tos3x24 "Turnabout Intruder".
+
+:: References
+https://en.wikipedia.org/wiki/Gender_identity
 
 
 donating one's body to medical science
@@ -28,23 +51,6 @@ sociocultural issue
 
 :: References
 https://en.wikipedia.org/wiki/Body_donation
-
-
-gender identity
-===============
-
-:: Description
-
-:: Parents
-sexual norms in society
-personal identity
-
-:: Examples
-Captain Kirk and Janice Lester switched genders on account of switching bodies
-in tos3x24 "Turnabout Intruder".
-
-:: References
-https://en.wikipedia.org/wiki/Gender_identity
 
 
 sacred oath
