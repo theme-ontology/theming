@@ -28,6 +28,10 @@ movie: Seven Samurai (1954)
 movie: Star Wars (1977)
 movie: The Thing (1982)
 movie: Vertigo (1958)
+movie: Lawrence of Arabia (1962)
+
+:: Story Format
+film
 
 
 movie: A Woman Under the Influence (1974)
@@ -1611,58 +1615,6 @@ bird in a gilded cage [early there were comments about how well the Germans trea
 prejudicial attitude of superiority against someone less well off than one's self [Rittmeister von Rauffenstein revealed his disdain for lower classes when he spoke to Maréchal, a fellow aristocrat.]
 
 
-movie: Lawrence of Arabia (1962)
-================================
-
-:: Title
-Lawrence of Arabia
-
-:: Date
-1962-12-10
-
-:: Description
-Lawrence of Arabia is a 1962 British epic historical drama film based on the
-life of T. E. Lawrence. It was directed by David Lean and produced by Sam
-Spiegel through his British company Horizon Pictures and Columbia Pictures,
-with the screenplay by Robert Bolt and Michael Wilson and starring Peter
-O'Toole in the title role. The film, a British and American co-production,
-depicts Lawrence's experiences in the Ottoman Empire's provinces of Hejaz and
-Greater Syria during World War I, in particular his attacks on Aqaba and
-Damascus and his involvement in the Arab National Council. Its themes include
-Lawrence's emotional struggles with the personal violence inherent in war, his
-own identity, and his divided allegiance between his native Britain and its
-army, and his new-found comrades within the Arabian desert tribes. The film
-also stars Alec Guinness, Jack Hawkins, Anthony Quinn, Omar Sharif, Anthony
-Quayle, Claude Rains and Arthur Kennedy.
-
-:: References
-https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)
-
-:: Ratings
-5 <mikael>
-
-:: Choice Themes
-cultural exchange [Lawrence went to live and ride with the Beduins in Beduin fashion, to win their hearts as it were, during the joint British-Arab campaigns against the Ottomans.]
-the desire for glory [Lawrence wanted to be a prophet of war or something]
-
-:: Major Themes
-when in Rome [Lawrence notably adopted many Arab customs]
-what it is like in a combat zone [We saw attacks on Feisal's camp, the cities of Aqaba and Damascus, and there was a raid on train to boot.]
-there is strength in unity [Lawrence taught the Arab tribes that they had to work together or they would be weak and exploited]
-honor [Lawrence had many discussions that had to do with honor, for example with Sherif Ali about stealing his compass]
-conflict of cultural norms [Lawrence had trouble with some Arab customs, such as blood feuds and killing people for various seemingly barbaric reasons. This is particularly apparent when Lawrence is forced to execute his friend.]
-heroism [Lawrence became a great hero in the eyes of some Arabs almost as much as in his own]
-human vs. desert environment [During Lawrence's trek to Faisal, and then Aqaba, the viewer is made to imagine what it'd be like to get lost in the desert.]
-stranded without food and water [During Lawrence's trek to Faisal, and then again to Aqaba, we imagined what it'd be like to get lost in the desert.]
-wilderness survival [During Lawrence's many conversation with Arab nomads we are made to ponder how people can eek out a living in the midst of a desert.]
-
-:: Minor Themes
-passion for vehicles [Lawrence died speeding on a motorcycle, face ecstatic with the thrill.]
-coping with opposing a friend [Lawrence was forced to execute the man he saved from the desert at great risk]
-personal ethical dilemma [Lawrence killed his friend Gasim in order to save the peace between the tribes]
-taking someone's picture steals their soul [Sheik Auda thought an English photographer was trying to steal his soul by using a camera]
-
-
 movie: Lost in Translation (2003)
 =================================
 
@@ -1775,7 +1727,7 @@ https://en.wikipedia.org/wiki/Modern_Times_(film)
 
 :: Major Themes
 capitalism [the initial factory part showed how the capitalist system made factory owners treat workers as components in a machine to be optimized]
-workers' rights [the initial factory part showed how the capitalist system made factory owners treat workers as components in a machine to be optimized]
+labor relations in society [The story satirizes the harsh conditions of industrial work by depicting workers struggling under dehumanizing factory discipline, relentless production demands, and economic insecurity during the Great Depression.]
 dehumanization [the initial factory part showed how the capitalist system made factory owners treat workers as components in a machine to be optimized]
 unemployment in society [the Tramp flitted from job to job; signs of unemployment were everywhere; and Ellen's father was unemployed]
 cracking under pressure [the Tramp finally went nuts due to excessive stress working in the factory]
@@ -1970,7 +1922,7 @@ romantic love [Thomas and Ellen were in the throws of love.]
 coping with a loved one being in peril [Ellen was distraught when Thomas embarked on a perilous journey to Transylvania in the 19th century, and even more so when he failed to return on time.]
 fear for one's life [It slowly dawned on Thomas what he was up against in Count Orlok to the point where one night he was simply shivering in a corner hugging his cross for protection.]
 human vs. magic wielder [Count Orlok summoned fog and controlled various animals. He was also somewhat monstrous in appearance, while his adversaries were ordinary people.]
-epidemics in society [The people of Wisborg thought the vampire victims had died of the plague, and the viewer saw how society handled the situation with crosses drawn on doors and angry mobs.]
+contagious disease in society [The people of Wisborg thought the vampire victims had died of the plague, and the viewer saw how society handled the situation with crosses drawn on doors and angry mobs.]
 human vs. monster [Count Orlok summoned fog and controlled various animals. He was also somewhat monstrous in appearance, while his adversaries were ordinary people.]
 
 :: Minor Themes
@@ -3423,7 +3375,7 @@ is there a purpose to life [central to the story was metaphysical questions of l
 life in medieval Europe [we saw an idea of what medieval Sweden might have been like - various incongruities notwithstanding]
 Christianity [the story incessantly invoked Christian mythology]
 husband and wife [Mia and Jof; Antonius and Karin; Lisa and Plog; Jons and mentioned wife]
-epidemics in society [we saw medeival Swedish society ravaged by the plague]
+contagious disease in society [The viewer is shown a medieval Swedish society ravaged by the plague.]
 coping with a crisis of faith [Antonius Block lamented that it was so hard to maintain faith what with all the evils in the world.]
 witch-hunt [superstitious villagers wanted to burn a woman as a witch for having caused the plague]
 romantic infidelity [Lisa ran off with Skat from her husband Plog.]
