@@ -46,4 +46,3 @@ An exception applies to story descriptions which are
 <BR>
 <BR>
 <BR>
-Test
