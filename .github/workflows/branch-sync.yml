@@ -1,0 +1,110 @@
+name: Sync branches with master
+
+# Keeps every live branch current with master, and reports the state of ALL of them.
+#
+# Runs from the DEFAULT branch on a schedule, deliberately. A push-triggered workflow is resolved
+# from the file on the branch being pushed, which is how `publish-branch.yml` came to be missing on
+# dev-themes for two months: four pushes, no build, no failure, nothing to notice. A scheduled job
+# cannot be silenced that way.
+#
+# Per branch it tries, in order: already-current -> fast-forward -> rebase -> merge -> report the
+# conflict. The logic and its reasoning live in .github/scripts/branch_sync.py; this file only wires
+# it up. Conflicts do NOT fail the run: they are the output, picked up from the status artifact by
+# the estate watcher (moprox-tooling services/theming/branch_sync_watch.py), which posts to Discord.
+#
+# NOTE ON REBASE: it rewrites branch history and force-pushes (with --force-with-lease). Anyone with
+# a rebased branch checked out must reset. Set strategy=merge on dispatch to avoid that.
+
+on:
+  schedule:
+    - cron: '17 4 * * *'      # 04:17 UTC daily, before the working day in either timezone
+  workflow_dispatch:
+    inputs:
+      strategy:
+        description: "rebase (falls back to merge) | merge (never rewrites history)"
+        type: choice
+        options: [rebase, merge]
+        default: rebase
+      max_age_days:
+        description: "Skip branches older than this many days (0 = every branch)"
+        default: "365"
+      dry_run:
+        description: "Report only; push nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write           # push updated branches
+  actions: write            # dispatch publish-branch.yml for branches that moved
+
+concurrency:
+  group: branch-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0           # full history: rebase and ahead/behind counts need it
+          persist-credentials: true
+
+      - name: Identify as the workflow
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync branches
+        id: sync
+        run: |
+          python3 .github/scripts/branch_sync.py \
+            --base master \
+            --strategy "${{ github.event.inputs.strategy || 'rebase' }}" \
+            --max-age-days "${{ github.event.inputs.max_age_days || '365' }}" \
+            ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }} \
+            --status-out branch-sync-status.json | tee sync.log
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo "### Branch sync"
+            echo
+            echo '```'
+            cat sync.log 2>/dev/null || echo "(no output)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload status
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: branch-sync-status
+          path: branch-sync-status.json
+          retention-days: 30
+
+      # A push made with GITHUB_TOKEN does NOT trigger other workflows (GitHub's loop protection),
+      # so a branch we just updated would silently not republish. Dispatch it explicitly instead —
+      # publish-branch.yml takes the branch as an input, and dispatching it from master also works
+      # for a branch whose own copy of that file is missing or stale.
+      - name: Republish branches that moved
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TRACKED="dev-themes dev-stories"
+          MOVED=$(python3 -c "
+          import json
+          s = json.load(open('branch-sync-status.json'))
+          print(' '.join(b['branch'] for b in s['branches'] if b.get('pushed')))
+          ")
+          for br in $MOVED; do
+            case " $TRACKED " in
+              *" $br "*)
+                echo "dispatching publish-branch for $br"
+                gh workflow run publish-branch.yml --ref master -f branch="$br" || echo "dispatch failed for $br"
+                ;;
+              *) echo "$br moved but is not published; skipping" ;;
+            esac
+          done
