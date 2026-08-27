@@ -11,14 +11,16 @@ WHY THIS EXISTS
 THE LADDER, per branch, cheapest and least destructive first:
   1. up-to-date       — already contains base, nothing to do
   2. fast-forward     — branch has no commits of its own: no rewrite, no merge commit, no force
-  3. rebase           — replays the branch's commits on top of base; needs --force-with-lease
-  4. merge            — a rebase can conflict mid-replay where a single merge is clean, so a failed
-                        rebase is retried as a merge before giving up
-  5. conflict         — reported with the conflicting paths, never forced, never left half-applied
+  3. merge            — appends a merge commit; every clone stays an ancestor, so `git pull` still
+                        fast-forwards and nobody has to reset anything
+  4. conflict         — reported with the conflicting paths, never forced, never left half-applied
 
-REBASE REWRITES HISTORY. Anyone with the branch checked out must reset after a rebase. That is the
-operator's explicit choice here; `--strategy merge` turns it off without editing this file. The push
-uses --force-with-lease so a concurrent push is refused rather than clobbered.
+MERGE IS THE DEFAULT, deliberately. Rebase would keep history linear but rewrites it and force-
+pushes, which diverges every existing clone; worse, it replays the branch's own commits on every
+run, so the same conflict can resurface nightly, where a merge records the resolution once.
+`--strategy rebase` is there for a branch you want linearised: it tries rebase first and falls back
+to a merge when the replay conflicts, and pushes with --force-with-lease so a push that landed
+underneath is refused rather than clobbered.
 
 The status file is the product. It is written whether or not anything changed, so an in-estate agent
 can read one artifact and know the state of every branch — see services/theming/branch_sync_watch.py
@@ -100,6 +102,18 @@ def sync_one(remote, base, branch, strategy, dry_run, workdir):
                     rec["conflict_files"] = rec["conflict_files"] or conflicted_paths(cwd=wt)
                     git("merge", "--abort", cwd=wt, check=False)
                     rec["action"] = "conflict"
+                    # The asymmetry runs BOTH ways, measured on this repo: a rebase can conflict
+                    # mid-replay where one merge is clean, and a merge can conflict where a rebase
+                    # applies (misc-collections, 2026-08-27 -- rebase replays each commit against a
+                    # moving base and can recognise work already upstream, a merge sees one diff
+                    # against one ancestor). So when merge fails, probe a rebase READ-ONLY and say
+                    # whether it would have worked. Nothing is pushed either way; it just tells the
+                    # human whether `strategy=rebase` on this one branch is the cheap way out.
+                    if strategy == "merge":
+                        r = git("rebase", "%s/%s" % (remote, base), cwd=wt, check=False)
+                        rec["rebase_would_apply"] = r.returncode == 0
+                        git("rebase", "--abort", cwd=wt, check=False)
+                        git("reset", "--hard", "%s/%s" % (remote, branch), cwd=wt, check=False)
                     return rec
 
         if dry_run:
@@ -131,8 +145,8 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--base", default="master")
     p.add_argument("--remote", default="origin")
-    p.add_argument("--strategy", choices=["rebase", "merge"], default="rebase",
-                   help="'rebase' tries rebase then falls back to merge; 'merge' never rewrites history")
+    p.add_argument("--strategy", choices=["merge", "rebase"], default="merge",
+                   help="'merge' never rewrites history (default); 'rebase' tries rebase, falls back to merge")
     p.add_argument("--exclude", default=",".join(BOT_BRANCHES))
     p.add_argument("--max-age-days", type=int, default=365,
                    help="skip branches whose last commit is older than this (0 = no limit). Ancient "

@@ -7,13 +7,18 @@ name: Sync branches with master
 # dev-themes for two months: four pushes, no build, no failure, nothing to notice. A scheduled job
 # cannot be silenced that way.
 #
-# Per branch it tries, in order: already-current -> fast-forward -> rebase -> merge -> report the
-# conflict. The logic and its reasoning live in .github/scripts/branch_sync.py; this file only wires
-# it up. Conflicts do NOT fail the run: they are the output, picked up from the status artifact by
-# the estate watcher (moprox-tooling services/theming/branch_sync_watch.py), which posts to Discord.
+# Per branch it tries, in order: already-current -> fast-forward -> merge -> report the conflict.
+# The logic and its reasoning live in .github/scripts/branch_sync.py; this file only wires it up.
+# Conflicts do NOT fail the run: they are the output, picked up from the status artifact by the
+# estate watcher (moprox-tooling services/theming/branch_sync_watch.py), which posts to Discord.
 #
-# NOTE ON REBASE: it rewrites branch history and force-pushes (with --force-with-lease). Anyone with
-# a rebased branch checked out must reset. Set strategy=merge on dispatch to avoid that.
+# WHY MERGE AND NOT REBASE. Merging only ever appends, so every clone stays an ancestor of the
+# remote and `git pull` fast-forwards -- no divergence, no duplicate commits, nothing for another
+# editor to reset. And a merge RECORDS what was already merged: resolve a conflict once and later
+# syncs bring only what is new, where a rebase replays the branch's own commits every time and can
+# resurface the same conflict indefinitely. On branches 126+ commits ahead that is the difference
+# between settling a conflict and re-fighting it nightly. strategy=rebase is available on dispatch
+# for a branch you want linearised; it force-pushes with --force-with-lease and rewrites history.
 
 on:
   schedule:
@@ -21,10 +26,10 @@ on:
   workflow_dispatch:
     inputs:
       strategy:
-        description: "rebase (falls back to merge) | merge (never rewrites history)"
+        description: "merge (append-only, safe for shared branches) | rebase (linear, rewrites history)"
         type: choice
-        options: [rebase, merge]
-        default: rebase
+        options: [merge, rebase]
+        default: merge
       max_age_days:
         description: "Skip branches older than this many days (0 = every branch)"
         default: "365"
@@ -60,7 +65,7 @@ jobs:
         run: |
           python3 .github/scripts/branch_sync.py \
             --base master \
-            --strategy "${{ github.event.inputs.strategy || 'rebase' }}" \
+            --strategy "${{ github.event.inputs.strategy || 'merge' }}" \
             --max-age-days "${{ github.event.inputs.max_age_days || '365' }}" \
             ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }} \
             --status-out branch-sync-status.json | tee sync.log
