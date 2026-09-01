@@ -7,9 +7,6 @@ Time Out magazine's Top 100 films
 :: Date
 1920-2017
 
-:: Story Format
-film
-
 :: Description
 This is a collection of movies that the magazine Time Out has listed as being
 among the top 100 movies of all times.
@@ -32,6 +29,9 @@ movie: Star Wars (1977)
 movie: The Thing (1982)
 movie: Vertigo (1958)
 movie: Lawrence of Arabia (1962)
+
+:: Story Format
+film
 
 
 movie: A Woman Under the Influence (1974)
@@ -1727,7 +1727,7 @@ https://en.wikipedia.org/wiki/Modern_Times_(film)
 
 :: Major Themes
 capitalism [the initial factory part showed how the capitalist system made factory owners treat workers as components in a machine to be optimized]
-workers' rights [the initial factory part showed how the capitalist system made factory owners treat workers as components in a machine to be optimized]
+labor relations in society [The story satirizes the harsh conditions of industrial work by depicting workers struggling under dehumanizing factory discipline, relentless production demands, and economic insecurity during the Great Depression.]
 dehumanization [the initial factory part showed how the capitalist system made factory owners treat workers as components in a machine to be optimized]
 unemployment in society [the Tramp flitted from job to job; signs of unemployment were everywhere; and Ellen's father was unemployed]
 cracking under pressure [the Tramp finally went nuts due to excessive stress working in the factory]
