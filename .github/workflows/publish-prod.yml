@@ -237,11 +237,11 @@ jobs:
           # so embeddings reused (not regenerated locally) on a design rebuild are preserved.
           aws s3 sync site/ "s3://$BUCKET/$TAG/" --size-only --exclude "*/*" --cache-control "$CC"
           # Page subtrees this build fully owns: --delete to drop stale entries.
-          for dir in theme story search versions; do
+          for dir in theme story search versions stats; do
             aws s3 sync "site/$dir/" "s3://$BUCKET/$TAG/$dir/" --delete --size-only --cache-control "$CC"
           done
           # Force-upload small template-driven files (--size-only can miss same-size edits).
-          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
+          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html stats/index.html stats/themes-graph/index.html; do
             [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$TAG/$f" --cache-control "$CC"
           done
 
@@ -334,12 +334,12 @@ jobs:
           aws s3 sync site/ "s3://$BUCKET/" --size-only \
             --exclude "*/*" --exclude "versions.json" \
             --cache-control "public, max-age=3600"
-          for dir in theme story search versions; do
+          for dir in theme story search versions stats; do
             aws s3 sync "site/$dir/" "s3://$BUCKET/$dir/" --delete --size-only \
               --cache-control "public, max-age=3600"
           done
           # Force-upload small template-driven files (--size-only can miss same-size edits).
-          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html; do
+          for f in index.html pages.css pages.js robots.txt favicon.svg versions/index.html search/index.html stats/index.html stats/themes-graph/index.html; do
             [ -f "site/$f" ] && aws s3 cp "site/$f" "s3://$BUCKET/$f" --cache-control "public, max-age=3600"
           done
 

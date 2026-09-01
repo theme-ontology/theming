@@ -14,6 +14,9 @@ Names Dataset.
 :: References
 https://github.com/aimagelab/mvad-names-dataset
 
+:: Story Format
+film
+
 
 movie: 21 Jump Street (2012)
 ============================
