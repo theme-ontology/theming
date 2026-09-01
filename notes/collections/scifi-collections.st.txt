@@ -24,6 +24,9 @@ movie: Alien Resurrection (1997)
 movie: Prometheus (2012)
 movie: Alien: Covenant (2017)
 
+:: Story Format
+film
+
 
 Collection: Alien Nation Films
 ==============================
@@ -50,6 +53,9 @@ movie: Alien Nation: Body and Soul (1995)
 movie: Alien Nation: Millennium (1996)
 movie: Alien Nation: The Enemy Within (1996)
 movie: Alien Nation: The Udara Legacy (1997)
+
+:: Story Format
+film
 
 
 Collection: Appleseed Film Series
@@ -79,6 +85,9 @@ movie: Appleseed (2004)
 movie: Appleseed Ex Machina (2007)
 movie: Appleseed Alpha (2014)
 
+:: Story Format
+film
+
 
 Collection: Babylon 5 Films
 ===========================
@@ -106,6 +115,9 @@ movie: Babylon 5: The River Of Souls (1998)
 movie: Babylon 5: A Call to Arms (1999)
 movie: Babylon 5: The Legend Of The Rangers (2002)
 
+:: Story Format
+film
+
 
 Collection: Back to the Future
 ==============================
@@ -129,6 +141,9 @@ https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)
 movie: Back to the Future (1985)
 movie: Back to the Future Part II (1989)
 movie: Back to the Future Part III (1990)
+
+:: Story Format
+film
 
 
 Collection: Bill and Ted Films
@@ -154,6 +169,9 @@ movie: Bill and Teds Excellent Adventure (1989)
 movie: Bill and Teds Bogus Journey (1991)
 movie: Bill and Ted Face the Music (2020)
 
+:: Story Format
+film
+
 
 Collection: Carnosaur
 =====================
@@ -178,6 +196,9 @@ https://en.wikipedia.org/wiki/Carnosaur_(film_series)
 movie: Carnosaur (1993)
 movie: Carnosaur 2 (1995)
 movie: Carnosaur 3: Primal Species (1996)
+
+:: Story Format
+film
 
 
 Collection: Critters
@@ -207,6 +228,9 @@ movie: Critters 2: The Main Course (1988)
 movie: Critters 3 (1991)
 movie: Critters 4 (1992)
 movie: Critters Attack (2019)
+
+:: Story Format
+film
 
 
 Collection: Cube Film Series
@@ -250,6 +274,9 @@ movie: Cube (1997)
 movie: Cube 2: Hypercube (2002)
 movie: Cube Zero (2004)
 
+:: Story Format
+film
+
 
 Collection: Cyborg
 ==================
@@ -274,6 +301,9 @@ movie: Cyborg (1989)
 movie: Cyborg 2 (1993)
 movie: Cyborg 3: The Recycler (1994)
 
+:: Story Format
+film
+
 
 Collection: Deep Blue Sea
 =========================
@@ -297,6 +327,9 @@ https://en.wikipedia.org/wiki/Deep_Blue_Sea_(film_series)
 movie: Deep Blue Sea (1999)
 movie: Deep Blue Sea 2 (2018)
 movie: Deep Blue Sea 3 (2020)
+
+:: Story Format
+film
 
 
 Collection: Frankenstein
@@ -332,6 +365,9 @@ movie: Frankenstein: The College Years (1991)
 movie: Mary Shelleys Frankenstein (1994)
 movie: Frankenstein (2025)
 
+:: Story Format
+film
+
 
 Collection: Gamera
 ==================
@@ -365,6 +401,9 @@ movie: Gamera 2: Attack of Legion (1996)
 movie: Gamera 3: Revenge of Iris (1999)
 movie: Gamera the Brave (2006)
 
+:: Story Format
+film
+
 
 Collection: Ghostbusters
 ========================
@@ -388,6 +427,9 @@ https://en.wikipedia.org/wiki/Ghostbusters_(franchise)#Films
 movie: Ghostbusters (1984)
 movie: Ghostbusters II (1989)
 movie: Ghostbusters (2016)
+
+:: Story Format
+film
 
 
 Collection: Giant monster films
@@ -484,6 +526,9 @@ movie: Godzilla: Planet of the Monsters (2017)
 movie: Godzilla: City on the Edge of Battle (2018)
 movie: Godzilla: The Planet Eater (2018)
 
+:: Story Format
+film
+
 
 Collection: Godzilla
 ====================
@@ -539,6 +584,9 @@ movie: Godzilla: Planet of the Monsters (2017)
 movie: Godzilla: City on the Edge of Battle (2018)
 movie: Godzilla: The Planet Eater (2018)
 
+:: Story Format
+film
+
 
 Collection: Honey I Shrunk the Kids
 ===================================
@@ -566,6 +614,9 @@ movie: Honey I Shrunk the Kids (1989)
 movie: Honey I Blew Up the Kid (1992)
 movie: Honey We Shrunk Ourselves (1997)
 
+:: Story Format
+film
+
 
 Collection: Jurassic Park
 =========================
@@ -591,6 +642,9 @@ movie: The Lost World: Jurassic Park (1997)
 movie: Jurassic Park III (2001)
 movie: Jurassic World (2015)
 movie: Jurassic World: Fallen Kingdom (2018)
+
+:: Story Format
+film
 
 
 Collection: Mad Max
@@ -618,6 +672,9 @@ movie: Mad Max 2 (1981)
 movie: Mad Max Beyond Thunderdome (1985)
 movie: Mad Max: Fury Road (2015)
 
+:: Story Format
+film
+
 
 Collection: Man from Atlantis
 =============================
@@ -644,6 +701,9 @@ movie: Man from Atlantis (1977)
 movie: Man from Atlantis II: The Death Scouts (1977)
 movie: Man from Atlantis III: Killer Spores (1977)
 movie: Man from Atlantis IV: The Disappearances (1977)
+
+:: Story Format
+film
 
 
 Collection: Marvel Cinematic Universe
@@ -690,7 +750,9 @@ movie: AntMan and the Wasp (2018)
 movie: Captain Marvel (2019)
 movie: Avengers: Endgame (2019)
 movie: SpiderMan: Far From Home (2019)
-movie: SpiderMan: No Way Home (2021)
+
+:: Story Format
+film
 
 
 Collection: Men in Black
@@ -719,6 +781,9 @@ movie: Men in Black II (2002)
 movie: Men in Black 3 (2012)
 movie: Men in Black: International (2019)
 
+:: Story Format
+film
+
 
 Collection: Mimic Film Series
 =============================
@@ -744,6 +809,9 @@ https://en.wikipedia.org/wiki/Mimic_3:_Sentinel
 movie: Mimic (1997)
 movie: Mimic 2 (2001)
 movie: Mimic 3: Sentinel (2003)
+
+:: Story Format
+film
 
 
 Collection: Nemesis
@@ -771,6 +839,9 @@ movie: Nemesis 3: Prey Harder (1996)
 movie: Nemesis 4: Death Angel (1996)
 movie: Nemesis 5: The New Model (2017)
 
+:: Story Format
+film
+
 
 Collection: Not Quite Human
 ===========================
@@ -796,6 +867,9 @@ https://en.wikipedia.org/wiki/Not_Quite_Human
 movie: Not Quite Human (1987)
 movie: Not Quite Human II (1989)
 movie: Still Not Quite Human (1992)
+
+:: Story Format
+film
 
 
 Collection: Planet of the Apes
@@ -828,6 +902,9 @@ movie: Rise of the Planet of the Apes (2011)
 movie: Dawn of the Planet of the Apes (2014)
 movie: War for the Planet of the Apes (2017)
 
+:: Story Format
+film
+
 
 Collection: Predator
 ====================
@@ -853,6 +930,9 @@ movie: Predator 2 (1990)
 movie: Predators (2010)
 movie: The Predator (2018)
 
+:: Story Format
+film
+
 
 Collection: Quatermass
 ======================
@@ -877,6 +957,9 @@ movie: The Quatermass Xperiment (1955)
 movie: Quatermass 2 (1957)
 movie: Quatermass and the Pit (1967)
 
+:: Story Format
+film
+
 
 Collection: ReAnimator Films
 ============================
@@ -900,6 +983,9 @@ https://en.wikipedia.org/wiki/Re-Animator_(film_series)
 movie: ReAnimator (1985)
 movie: Bride of ReAnimator (1990)
 movie: Beyond ReAnimator (2003)
+
+:: Story Format
+film
 
 
 Collection: Resident Evil Film Series
@@ -929,6 +1015,9 @@ movie: Resident Evil: Afterlife (2010)
 movie: Resident Evil: Retribution (2012)
 movie: Resident Evil: The Final Chapter (2016)
 
+:: Story Format
+film
+
 
 Collection: Robocop
 ===================
@@ -953,6 +1042,9 @@ movie: RoboCop (1987)
 movie: RoboCop 2 (1990)
 movie: RoboCop 3 (1993)
 movie: RoboCop (2014)
+
+:: Story Format
+film
 
 
 Collection: Skyline Films
@@ -980,6 +1072,9 @@ movie: Skyline (2010)
 movie: Beyond Skyline (2017)
 movie: Skylines (2020)
 
+:: Story Format
+film
+
 
 Collection: Species
 ===================
@@ -1004,6 +1099,9 @@ movie: Species (1995)
 movie: Species II (1998)
 movie: Species III (2004)
 movie: Species: The Awakening (2007)
+
+:: Story Format
+film
 
 
 Collection: Spider-Man
@@ -1038,6 +1136,9 @@ movie: SpiderMan: Into the SpiderVerse (2018)
 movie: SpiderMan: Far From Home (2019)
 movie: SpiderMan: No Way Home (2021)
 
+:: Story Format
+film
+
 
 Collection: Star Trek Films
 ===========================
@@ -1071,6 +1172,9 @@ movie: Star Trek: Nemesis (2002)
 movie: Star Trek (2009)
 movie: Star Trek Into Darkness (2013)
 movie: Star Trek Beyond (2016)
+
+:: Story Format
+film
 
 
 Collection: Star Wars
@@ -1108,6 +1212,9 @@ movie: Star Wars: The Last Jedi (2017)
 movie: Solo: A Star Wars Story (2018)
 movie: Star Wars: The Rise of Skywalker (2019)
 
+:: Story Format
+film
+
 
 Collection: Starship Troopers
 =============================
@@ -1134,6 +1241,9 @@ movie: Starship Troopers 3: Marauder (2008)
 movie: Starship Troopers: Invasion (2012)
 movie: Starship Troopers: Traitor of Mars (2017)
 
+:: Story Format
+film
+
 
 Collection: Super Giant
 =======================
@@ -1159,6 +1269,9 @@ movie: Atomic Rulers (1964)
 movie: Invaders from Space (1964)
 movie: Attack from Space (1964)
 movie: Evil Brain from Outer Space (1964)
+
+:: Story Format
+film
 
 
 Collection: Superman
@@ -1191,6 +1304,9 @@ movie: Man of Steel (2013)
 movie: Batman v Superman: Dawn of Justice (2016)
 movie: Justice League (2017)
 
+:: Story Format
+film
+
 
 Collection: TekWar Films
 ========================
@@ -1216,6 +1332,9 @@ movie: TekWar: TekLords (1994)
 movie: TekWar: TekLab (1994)
 movie: TekWar: TekJustice (1994)
 
+:: Story Format
+film
+
 
 Collection: The Blob
 ====================
@@ -1239,6 +1358,9 @@ https://en.wikipedia.org/wiki/The_Blob
 movie: The Blob (1958)
 movie: Beware The Blob (1972)
 movie: The Blob (1988)
+
+:: Story Format
+film
 
 
 Collection: The Chronicles of Riddick Film Series
@@ -1266,6 +1388,9 @@ movie: Pitch Black (2000)
 movie: The Chronicles of Riddick (2004)
 movie: Riddick (2013)
 
+:: Story Format
+film
+
 
 Collection: The Fly
 ===================
@@ -1291,6 +1416,9 @@ movie: Return of the Fly (1959)
 movie: Curse of the Fly (1965)
 movie: The Fly (1986)
 movie: The Fly II (1989)
+
+:: Story Format
+film
 
 
 Collection: The Incredible Hulk
@@ -1321,6 +1449,9 @@ movie: The Death of the Incredible Hulk (1990)
 movie: Hulk (2003)
 movie: The Incredible Hulk (2008)
 
+:: Story Format
+film
+
 
 Collection: The Matrix
 ======================
@@ -1344,6 +1475,9 @@ https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films
 movie: The Matrix (1999)
 movie: The Matrix Reloaded (2003)
 movie: The Matrix Revolutions (2003)
+
+:: Story Format
+film
 
 
 Collection: The Nutty Professor
@@ -1369,6 +1503,9 @@ movie: The Nutty Professor (1963)
 movie: The Nutty Professor (1996)
 movie: Nutty Professor II: The Klumps (2000)
 movie: The Nutty Professor (2008)
+
+:: Story Format
+film
 
 
 Collection: The Six Million Dollar Man
@@ -1398,6 +1535,9 @@ movie: The Return of the Six Million Dollar Man and the Bionic Woman (1987)
 movie: Bionic Showdown: The Six Million Dollar Man and the Bionic Woman (1989)
 movie: Bionic Ever After? (1994)
 
+:: Story Format
+film
+
 
 Collection: The Stepford Wives
 ==============================
@@ -1425,6 +1565,9 @@ movie: The Stepford Children (1987)
 movie: The Stepford Husbands (1996)
 movie: The Stepford Wives (2004)
 
+:: Story Format
+film
+
 
 Collection: The Terminator
 ==========================
@@ -1451,6 +1594,9 @@ movie: Terminator 3: Rise of the Machines (2003)
 movie: Terminator Salvation (2009)
 movie: Terminator Genisys (2015)
 movie: Terminator: Dark Fate (2019)
+
+:: Story Format
+film
 
 
 Collection: The Twilight Zone Films
@@ -1481,6 +1627,9 @@ tz1983d
 tz1994a
 tz1994b
 
+:: Story Format
+film
+
 
 Collection: Trancers
 ====================
@@ -1508,6 +1657,9 @@ movie: Trancers III (1992)
 movie: Trancers 4: Jack of Swords (1994)
 movie: Trancers 5: Sudden Deth (1994)
 movie: Trancers 6 (2002)
+
+:: Story Format
+film
 
 
 Collection: Transformers
@@ -1539,6 +1691,9 @@ movie: Transformers: Age of Extinction (2014)
 movie: Transformers: The Last Knight (2017)
 movie: Bumblebee (2018)
 
+:: Story Format
+film
+
 
 Collection: Universal Soldier
 =============================
@@ -1566,6 +1721,9 @@ movie: Universal Soldier: The Return (1999)
 movie: Universal Soldier: Regeneration (2009)
 movie: Universal Soldier: Day of Reckoning (2012)
 
+:: Story Format
+film
+
 
 Collection: Watchers
 ====================
@@ -1590,6 +1748,9 @@ movie: Watchers (1988)
 movie: Watchers II (1990)
 movie: Watchers III (1994)
 movie: Watchers IV (1998)
+
+:: Story Format
+film
 
 
 Collection: X-men
@@ -1626,6 +1787,9 @@ movie: Logan (2017)
 movie: Deadpool 2 (2018)
 movie: Dark Phoenix (2019)
 
+:: Story Format
+film
+
 
 Collection: Xtro
 ================
@@ -1649,5 +1813,8 @@ https://en.wikipedia.org/wiki/Xtro
 movie: Xtro (1982)
 movie: Xtro II: The Second Encounter (1991)
 movie: Xtro 3: Watch the Skies (1995)
+
+:: Story Format
+film
 
 

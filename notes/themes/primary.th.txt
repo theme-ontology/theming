@@ -1119,6 +1119,20 @@ sports
 https://en.wikipedia.org/wiki/American_football
 
 
+amnesia
+=======
+
+:: Description
+Amnesia is a deficit in memory typically caused by brain damage or brain
+diseases. A character exhibits this condition.
+
+:: Parents
+human mental condition
+
+:: References
+https://en.wikipedia.org/wiki/Amnesia
+
+
 amphibian-like being
 ====================
 
@@ -1834,9 +1848,11 @@ human idea about life
 https://www.merriam-webster.com/dictionary/looks%20can%20be%20deceiving/deceptive
 https://idioms.thefreedictionary.com/appearances+can+be+deceiving
 https://en.wikipedia.org/wiki/Don%27t_judge_a_book_by_its_cover
+https://en.wikipedia.org/wiki/Still_waters_run_deep
 
 :: Aliases
 don't judge a book by its cover
+still waters run deep
 
 
 appeasement policy
@@ -3179,10 +3195,12 @@ belonging
 =========
 
 :: Description
-Members of a group feel that they are an essential part of that group.
+A character feels that they are an accepted member of a group. Alternatively,
+a character struggles with gaining that acceptance.
 
 :: Parents
 humans in group
+human social need
 
 :: References
 https://en.wikipedia.org/wiki/Belongingness
@@ -4729,7 +4747,9 @@ scrupulous adults. We are made to ponder whether and to what extent this is
 right or wrong.
 
 :: Parents
-exploitation of sentient beings
+human rights issue
+socioeconomic issue
+sociocultural issue
 
 :: References
 https://www.unicef.org/rosa/what-we-do/child-protection/child-labour-and-exploitation
@@ -6277,6 +6297,7 @@ another character.
 
 :: Parents
 criminal fraud
+appearances can be deceiving
 
 
 confessing to a wrongdoing vs. keeping quiet
@@ -10621,6 +10642,21 @@ else's life.
 
 :: Parents
 human self-sacrifice for another
+
+
+donating one's body to medical science
+======================================
+
+:: Description
+The practice of people donating their bodies to medical science after death is
+featured. For example, a character opts to donate their future corpse by
+ticking a box on some form, or is solicited to do so.
+
+:: Parents
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Body_donation
 
 
 doppelgänger
@@ -15138,6 +15174,27 @@ https://en.wikipedia.org/wiki/Gender_bender
 androgyny
 
 
+gender identity
+===============
+
+:: Description
+Gender identity is the personal sense of one's own gender. The story makes a
+point related to this, for example, by featuring a character whose perception
+of their own gender differs from that suggested by the shape or their body, or
+which contradicts the norms of the society they inhabit in some way.
+
+:: Parents
+sexual norms in society
+personal identity
+
+:: Examples
+Captain Kirk and Janice Lester switched genders on account of switching bodies
+in tos3x24 "Turnabout Intruder".
+
+:: References
+https://en.wikipedia.org/wiki/Gender_identity
+
+
 gender in crime statistics
 ==========================
 
@@ -16986,10 +17043,12 @@ homework vs. play
 =================
 
 :: Description
-A child must choose what is more important to them: boring homework or
-frivolous play.
+The dichotomy between structure and autonomy in raising children is discussed.
+Should a parent impose more discipline and focus on study, or let the child
+play more?
 
 :: Parents
+human parenting
 working hard vs. taking it easy in life
 
 :: Examples
@@ -20332,7 +20391,7 @@ invisibility technology
 There is a technology that renders someone or something invisible.
 
 :: Parents
-speculative technology
+speculative stealth technology
 invisibility
 
 :: References
@@ -20954,6 +21013,21 @@ The tiny alternate universe time continuum Elysia was a veritable utopia where
 everyone simply got along in tas1x12 "The Time Trap".
 
 
+labor relations in society
+==========================
+
+:: Description
+Featured are the complex interrelations between employers and employees,
+labor/trade unions, employer organizations, and the state.
+
+:: Parents
+socioeconomic issue
+
+:: References
+https://en.wikipedia.org/wiki/Industrial_relations
+https://en.wikipedia.org/wiki/Labor_rights
+
+
 labor revolt
 ============
 
@@ -20962,7 +21036,7 @@ Featured is a period civil unrest characterized by strong labor militancy and
 strike activity.
 
 :: Parents
-political issue
+labor relations in society
 
 :: References
 https://en.wikipedia.org/wiki/Labour_revolt
@@ -20976,7 +21050,7 @@ The feature of strike action among organized worker groups in society is
 discussed.
 
 :: Parents
-socioeconomic issue
+labor relations in society
 
 :: Notes
 Not to be confused with "bowling strikes", which rarely appear as social
@@ -20999,6 +21073,22 @@ charting unknown territory
 :: Notes
 A land inhabited by natives may still be unknown to the explorer and their
 people.
+
+
+language and society
+====================
+
+:: Description
+Discussed are the relations between language and society, particularly the
+influence of language on society.
+
+:: Parents
+linguistics
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Sociolinguistics
+https://en.wikipedia.org/wiki/Sociology_of_language
 
 
 language change
@@ -21450,6 +21540,18 @@ impairment, for example the loss of a limb, in order to survive.
 contemplating suicide
 
 
+life's unpredictable journey
+============================
+
+:: Description
+The story features a significant portion of a character's life, usually from a
+young age, and makes a point of how unpredictable our individual fates are.
+
+:: Parents
+human idea about life
+what life is like
+
+
 Lilliputian being
 =================
 
@@ -21469,14 +21571,33 @@ were about one sixteenth of an inch tall in tas1x11 "The Terratin Incident".
 https://en.wiktionary.org/wiki/lilliputian
 
 
-literature appreciation
-=======================
+linguistics
+===========
 
 :: Description
-How best to appreciate litterature is discussed.
+Linguistics is the scientific study of language. The areas of linguistic
+analysis are syntax (rules governing the structure of sentences), semantics
+(meaning), morphology (structure of words), phonetics (speech sounds and
+equivalent gestures in sign languages), phonology (the abstract sound system
+of a particular language, and analogous systems of sign languages), and
+pragmatics (how the context of use contributes to meaning). Some aspect of
+this is featured in the story.
 
 :: Parents
-the fine arts and the humanities
+science
+
+:: References
+https://en.wikipedia.org/wiki/Linguistics
+
+
+literature discussion
+=====================
+
+:: Description
+Two characters discuss a piece of literature, or literature in general.
+
+:: Parents
+art discussion
 
 :: Examples
 Spock was most impressed with Mr. Flint's taste in literature in tos3x21
@@ -21868,6 +21989,18 @@ it came to light that he was a betentacled alien spy in tas1x06 "The
 Survivor".
 
 
+love inspires a character transformation
+========================================
+
+:: Description
+Someone is inspired to transform themself for the better by another person
+with whom they have fallen in love.
+
+:: Parents
+romantic relationship
+character metamorphosis
+
+
 love is blind
 =============
 
@@ -21914,8 +22047,7 @@ A man is inspired to transform himself for the better by a woman with whom he
 has fallen in love.
 
 :: Parents
-romantic relationship
-character metamorphosis
+love inspires a character transformation
 
 
 love out of pity
@@ -24240,6 +24372,21 @@ human idea about life
 
 :: References
 https://idioms.thefreedictionary.com/moderation+in+all+things
+
+
+modern slavery
+==============
+
+:: Description
+A character is controlled, deceived, or coerced by another character or group
+for personal or commercial gain, leaving them unable to refuse or leave.
+
+:: Parents
+labor relations in society
+human rights issue
+
+:: References
+https://en.wikipedia.org/wiki/Slavery_in_the_21st_century
 
 
 mole people
@@ -27055,7 +27202,7 @@ sometimes turns out to be a bad cause but it is the motives that define the
 theme.
 
 :: Parents
-human character
+purpose in life
 
 
 personal ethical dilemma
@@ -28881,6 +29028,7 @@ brothel) set up for the purpose, and we are made to ponder the way in which
 such practices shape society.
 
 :: Parents
+prostitution
 sexual norms in society
 
 :: References
@@ -28895,6 +29043,7 @@ A character has to choose whether to perform sexual services for money in
 order not to starve.
 
 :: Parents
+prostitution
 human life choice
 compromising one's ethical principles vs. self-preservation
 
@@ -29793,12 +29942,13 @@ reintegrating into society
 
 :: Description
 Someone has been away from anything resembling normal society for a long time,
-for example due to a lengthy prison term, and tries to re-adjust to life
-amongst normal people again.
+for example due to a lengthy prison term, and tries to re-adjust to life among
+ordinary people again.
 
 :: Parents
-human social position
 coping with life issues
+human social position
+belonging
 
 :: Examples
 In "Universal Soldier: Regeneration" (2009), the former mindless supersoldier
@@ -30991,6 +31141,21 @@ organized religion
 
 :: References
 https://en.wikipedia.org/wiki/Sacred#Sacred_ground
+
+
+sacred oath
+===========
+
+:: Description
+A sacred oath is a statement of fact or a promise taken by a sacrality as a
+sign of verity. Such an act is featured in the story. For example, someone
+swears on the Bible to tell the truth.
+
+:: Parents
+organized religion
+
+:: References
+https://en.wikipedia.org/wiki/Oath
 
 
 sacred sanctuary
@@ -33036,21 +33201,6 @@ that all relate to economic activity and the distribution of wealth.
 https://en.wikipedia.org/wiki/Socioeconomics
 
 
-sociolinguistics
-================
-
-:: Description
-A thematic entity about the descriptive study of the effect of any and all
-aspects of society, including cultural norms, expectations, and context, on
-the way language is used, and society's effect on language.
-
-:: Parents
-science
-
-:: References
-https://en.wikipedia.org/wiki/Sociolinguistics
-
-
 sociotechnological issue
 ========================
 
@@ -34333,6 +34483,16 @@ speculative environmental suit
 https://en.wikipedia.org/wiki/Space_suit
 
 
+speculative stealth technology
+==============================
+
+:: Description
+There is a technology that renders something harder to detect.
+
+:: Parents
+speculative technology
+
+
 speculative subliminal stimuli
 ==============================
 
@@ -34957,6 +35117,23 @@ his new stepmother in "My Science Project" (1985).
 https://en.wikipedia.org/wiki/Stepmother
 
 
+stepping up to the task
+=======================
+
+:: Description
+A character is, more or less unexpectedly, thrust into a roll for which they
+are not quite prepared and must quickly rise to the occasion.
+
+:: Parents
+human challenge in life
+
+:: Examples
+In tng4x09 "Final Mission", Ensign Wesley Crusher finds himself in a
+confoundingly tight spot without guidance as Captain Picard is gravely injured
+and their companion, Captain Dirgo, starts to lose his marbles. Wesley
+struggles to control his own insecurities and take command of the situation.
+
+
 stereotypically innocent character
 ==================================
 
@@ -35255,6 +35432,18 @@ threat from extraterrestrial life
 In tng1x25 "Conspiracy", bug-like aliens from outer space subvert the higher
 echelons of Starfleet by secretly attaching themselves to the brain stems of
 its key leaders.
+
+
+success in life is a matter of chance
+=====================================
+
+:: Description
+A character achieves great success in life attributable to randomness more
+than innate ability, and the idea is implied that any successful person owes
+their fortune in no small part to chance.
+
+:: Parents
+life's unpredictable journey
 
 
 sugar addiction
@@ -35801,6 +35990,18 @@ some time and as a punishment.
 :: Parents
 suspended animation
 speculative punishment
+
+
+swallowing one's pride
+======================
+
+:: Description
+A character acknowledges their instinctive feelings of pride but consciously
+strives not to let them dictate their actions.
+
+:: Parents
+exercising self-control
+pride
 
 
 sympathetic magic
@@ -38555,19 +38756,6 @@ human social need
 human self-esteem need
 
 
-the need to belong
-==================
-
-:: Description
-The human need to be part of and accepted into a social group is demonstrated.
-
-:: Parents
-human social need
-
-:: References
-https://en.wikipedia.org/wiki/Belongingness
-
-
 the need to feel useful to society
 ==================================
 
@@ -40222,26 +40410,6 @@ international issue
 Babylon 5 in the eponymous tv show is essentially a UN in space.
 
 
-transsexualism
-==============
-
-:: Description
-We are asked to what extent, if any, transsexualism ought to be tolerated in
-society and how people who identify with a different gender than they were
-assigned at birth, ought to be treated. Are sex-change operations to be
-permitted or even subsidized?
-
-:: Parents
-sexual norms in society
-
-:: Examples
-Captain Kirk and Janice Lester switched genders on account of switching bodies
-in tos3x24 "Turnabout Intruder".
-
-:: References
-https://en.wikipedia.org/wiki/Transsexual
-
-
 trapped in the belly of a whale
 ===============================
 
@@ -40847,7 +41015,7 @@ goals; such as protecting the integrity of its trade, improving safety
 standards, and attaining better wages, etc.
 
 :: Parents
-humans at work
+labor relations in society
 
 :: References
 https://en.wikipedia.org/wiki/Trade_union
@@ -42617,6 +42785,7 @@ loss.
 
 :: Parents
 what if my personal identity came into question
+amnesia
 
 :: Examples
 John Doe struggled with a bad case of amnesia in tng3x25 "Transfigurations",
@@ -42624,7 +42793,6 @@ not even remembering his own name.
 
 :: References
 https://en.wikipedia.org/wiki/Amnesia
-http://www.sf-encyclopedia.com/entry/amnesia
 
 
 what if I had multiple personalities
@@ -43270,7 +43438,8 @@ what if I were being framed for a crime
 
 :: Description
 A character is being deliberately set-up so as to be suspected of a crime that
-they did not actually commit.
+they did not actually commit. The character knows or suspects they are being
+framed.
 
 :: Parents
 what if I was accused of a crime that I didn't commit
@@ -44397,6 +44566,7 @@ they have the same rights and opportunities as men in society.
 
 :: Parents
 human rights issue
+gender issue
 
 :: Examples
 The alien woman Kamala was born and raised for no other purpose than to be the
@@ -44414,7 +44584,7 @@ women's suffrage
 The right of women to vote in elections is featured.
 
 :: Parents
-gender issue
+women's rights
 
 :: References
 https://en.wikipedia.org/wiki/Women%27s_suffrage
@@ -44460,21 +44630,6 @@ human addiction
 https://en.wikipedia.org/wiki/Workaholic
 
 
-worker exploitation
-===================
-
-:: Description
-The director of some facility treats their employees in a way that is
-considered unfair, which can happen if the employees for one reason or another
-are not free and able to quit and find employment elsewhere.
-
-:: Parents
-exploitation of sentient beings
-
-:: References
-https://en.wikipedia.org/wiki/Exploitation_of_labour
-
-
 workers replaced by machines
 ============================
 
@@ -44484,8 +44639,8 @@ replacement of workers by machines. The day when this definition is written by
 a computer may not be far off.
 
 :: Parents
+labor relations in society
 machines in society
-socioeconomic issue
 
 :: Examples
 McCoy moaned about the M-5 multitronic unit (a computer) taking everyone's
@@ -44493,22 +44648,6 @@ jobs in tos2x24 "The Ultimate Computer".
 
 :: Aliases
 automation in society
-
-
-workers' rights
-===============
-
-:: Description
-It is discussed what kind of rights we feel that lowly workers ought to have.
-
-:: Parents
-human rights issue
-
-:: References
-https://en.wikipedia.org/wiki/Labor_rights
-
-:: Aliases
-labor rights
 
 
 working hard vs. taking it easy in life
