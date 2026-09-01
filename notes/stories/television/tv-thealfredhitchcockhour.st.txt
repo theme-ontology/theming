@@ -7,9 +7,6 @@ The Alfred Hitchcock Hour
 :: Date
 1962-1965
 
-:: Story Format
-tv
-
 :: Description
 Alfred Hitchcock Presents is an American television anthology series created,
 hosted, and produced by Alfred Hitchcock, and aired on CBS and NBC between
@@ -19,6 +16,9 @@ relatively small number of episodes.
 
 :: References
 https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents
+
+:: Story Format
+tv
 
 
 ahh1x01
