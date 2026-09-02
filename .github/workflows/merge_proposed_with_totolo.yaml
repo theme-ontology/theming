@@ -4,6 +4,10 @@ on:
   push:
     branches: [ dev-themes ]
 
+permissions:
+  contents: write        # push the branch it opens the PR from
+  pull-requests: write  # open it, and request reviewers on it
+
 jobs:
   merge-proposed-into-primary:
     runs-on: ubuntu-latest
@@ -37,5 +41,7 @@ jobs:
             python -m totolo.util.mergefiles ./notes/themes/proposed.th.txt ./notes/themes/primary.th.txt --reorder
             : > ./notes/themes/proposed.th.txt
 
+        reviewers: odinlake,paul-sheridan
+        assignees: odinlake,paul-sheridan
         branch: totolo-merge-proposed
         delete-branch: true

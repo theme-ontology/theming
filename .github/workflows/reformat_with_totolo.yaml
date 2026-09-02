@@ -7,6 +7,10 @@ on:
     types:
       - closed
 
+permissions:
+  contents: write        # push the branch it opens the PR from
+  pull-requests: write  # open it, and request reviewers on it
+
 jobs:
   if_merged:
     if: github.event.pull_request.merged == true
@@ -40,5 +44,7 @@ jobs:
 
             python -m totolo.util.mergefiles ./notes --reorder
 
+        reviewers: odinlake,paul-sheridan
+        assignees: odinlake,paul-sheridan
         branch: totolo-reformat
         delete-branch: true
