@@ -30,7 +30,7 @@ jobs:
       uses: peter-evans/create-pull-request@v6
       with:
         commit-message: merge proposed themes, with python-totolo
-        title: merge proposed themes => primary themes
+        title: 'M4: merge proposed themes => primary themes'
         body: |
           Merge proposed themes => primary themes, with python-totolo command:
 
