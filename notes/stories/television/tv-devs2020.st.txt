@@ -25,15 +25,15 @@ tv
 speculative prediction of the future [A premise of the series is that Forest and Katie had built a quantum computer which was able to see into the past and predict possible futures.]
 
 :: Major Themes
-quantum computing [] {prop FD: alternatively "quantum physics" a new science/physics theme since they tried to explain the underlying ideas}
-coping with a loved one being missing [A premise of the series is that Lily was trying to find her boyfriend Sergei after he went missing under mysterious circumstances.]
-murder [A premise of the series is that Lily was trying to find her boyfriend Sergei after he went missing under mysterious circumstances. Sergei had, in fact, been brutally murdered by Kenton who put a plastic bag over his head.]
+quantum mechanics [] {prop FD: alternatively "quantum physics" a new science/physics theme since they tried to explain the underlying ideas}
+speculative technology [speculative quantum computer] {PS: Craft motivation after figuring out what is going on.}
+coping with a loved one being missing [A premise of the series is that Lily was trying to find her boyfriend Sergei after he went missing under mysterious circumstances.] {Lily became convinced that something bad had happened to her boyfriend, Sergei, when he didn't return home from work after accepting a position with a secretive quantum computing team at the Amaya corporation.}
+murder [A premise of the series is that Lily was trying to find her boyfriend Sergei after he went missing under mysterious circumstances. Sergei had, in fact, been brutally murdered by Kenton who put a transparent, yellow plastic bag over his head.]
 coping with the death of a lover [It was eventually revealed that Forest's obsession with perfecting the quantum device, brokering no pesky variances, began with the death of his wife and child in a fluke car accident.]
 coping with the death of a child [It was eventually revealed that Forest's obsession with perfecting the quantum device, brokering no pesky variances, began with the death of his wife and child in a fluke car accident.]
-speculative quantum computing [] {PS: Craft motivation after figuring out what is going on.}
 
 :: Minor Themes
-espionage [Sergei had been a Russian snoop out to steal information from the company Amaya.] {MO: coin industrial espionage?}
+industrial espionage [Sergei had been a Russian snoop out to steal information from the Amaya corporation. In Episode 1, Sergei surreptitiously recorded top secret quantum computer code using his fancy wristwatch. This proved a key turning point in the plot, as Forest had Sergei killed over the theft.]
 secret agent occupation [Sergei had been a Russian snoop and Katie spoke to his handlers.]
 
 
@@ -64,19 +64,15 @@ ex-boyfriend Jamie to break into it.
 
 :: Major Themes
 boyfriend and girlfriend [The story follows Lily and Sergei, a young coder couple who live together in a San Francisco apartment. Lily became convinced that something bad had happened to Sergei when he didn't return home from work after accepting a position with a secretive quantum computing team at the Amaya corporation. Lily's worst fear was seemingly confirmed when she was shown security camera footage of what appeared to be Sergei taking his own life by the simple expedient of self-immolation.]
-theft [Sergei surreptitiously recorded top secret quantum computer code using his fancy wristwatch. This proved a key turning point in the plot, as Forest had Sergei killed over the theft.]
-murder [Forest had his head of security suffocate Sergei with a transparent, yellow plastic bag after discovering that Sergei had pilfered top secret quantum computing code.]
-coping with a loved one being missing [Lily became convinced that something bad had happened to her boyfriend, Sergei, when he didn't return home from work after accepting a position with a secretive quantum computing team at the Amaya corporation.]
 
 :: Minor Themes
 artificial intelligence [Forest told Sergei that his time in the AI division was over.]
-Faraday cage [] {prop FD}
+physics [The Devs team worked inside a large Faraday cage.]
 old flames [Lily tried to recruit her ex-boyfriend Jamie to help her find her present boyfriend Sergei, who had gone missing. Jamie bitterly told her to "fuck off".]
-
 cryptography [In one scene, Lily and Sergei debated which of RSA and elliptic curve cryptography was the better system.]
 homelessness in society [Lily and Sergei briefly interacted with a homeless man who was sleeping in the entrance way of their San Francisco apartment building as they left for work in the morning. This exchange confronts the viewer with the problem of homelessness in the city.]
 emotional overwhelm [Sergei broke down in tears and puked in a urinal after perusing the top secret quantum supercomputer's codebase.]
-free will [In on scene, Forest conveyed to Sergei that free will was an illusion and that the universe, and by extension human behavior, was wholly deterministic.]
+free will [In one scene, Forest conveyed to Sergei that free will was an illusion and that the universe, and by extension human behavior, was wholly deterministic.]
 suicide [Security camera footage showed Sergei taking his own life by the simple expedient of self-immolation.]
 
 
@@ -97,7 +93,7 @@ Anton, Sergei's handler, in a parking garage, and kills him in the fight
 that follows.
 
 :: Ratings
-2 <paul>
+2 <paul*>
 
 :: Choice Themes
 
