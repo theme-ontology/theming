@@ -15,100 +15,11 @@ https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture
 
 :: Component Stories
 movie: It Happened One Night (1934)
+movie: The Godfather (1972)
+movie: The Godfather Part II (1974)
 
 :: Story Format
 film
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
-
-
-movie: (197)
-============
-
-:: Title
-
-
-:: Date
-1970-
-
-:: Ratings
-5 <mikael>
 
 
 movie: A Man for All Seasons (1966)
@@ -550,6 +461,52 @@ friendship [Jerry, Adam, and Henri were fast friends.]
 romantic courtship [Jerry won Lise's heart after a brief, but spirited, courtship.]
 engaged couple [Lise reluctantly agreed to Henri's plan of getting married and moving to the United States.]
 coping with romantic rejection [Milo schemed to become Jerry's favorite even though he told her in no uncertain terms that he didn't want her. She was very upset when he flirted with Lise.]
+
+
+movie: Annie Hall (1977)
+========================
+
+:: Title
+Annie Hall
+
+:: Date
+1977-03-27
+
+:: Description
+Annie Hall is a 1977 American satirical romantic comedy-drama film directed by
+Woody Allen from a screenplay written by Allen and Marshall Brickman, and
+produced by Allen's manager, Charles H. Joffe. The film stars Allen as Alvy
+Singer, who tries to figure out the reasons for the failure of his
+relationship with the eponymous female lead, played by Diane Keaton in a role
+written specifically for her.
+
+:: References
+https://en.wikipedia.org/wiki/Annie_Hall
+
+:: Ratings
+4 <mikael>
+2 <paul>
+
+:: Choice Themes
+human worrying about self [The story concerns Alvy Singer on his own shortcomings. In particular, his shortcomings that led to the breakdown in his relationship with the titular Annie Hall.]
+romantic relationship [The story concerns Alvy Singer musing on his past relationship with the eponymous Annie Hall and wondering where it went wrong.]
+coping with memories of a lost love [The story concerns Alvy Singer musing on his past relationship with the eponymous Annie Hall and wondering where it went wrong.]
+
+:: Major Themes
+narcissism [Alvy reveled in analyzing and criticizing his own flaws but never changed and rarely considered what others thought or felt. For example, he insisted that Annie should refrain from smoking weed before sex because it made him feel bad. When they tried and she didn't muster the same enthusiasm, he criticized her for that too.]
+romantic infidelity [Although he had himself insisted on a "flexible" relationship, Alvy was clearly upset and jealous about other men Annie saw.]
+romantic jealousy [Although he had himself insisted on a "flexible" relationship, Alvy was clearly upset and jealous about other men Annie saw.]
+human self improvement [Alvy insisted that Annie should take adult education courses because it was important to improve one's self. He had himself seen a psychiatrist regularly for the last 15 years, though with little to show for it. He insisted that Annie should see the same person and was then envious when he heard that she had cried and confronted various subconscious specters. It is noteworthy that Annie was the one who developed as a character and became more confident, while Alvy remained much as he was.]
+better to have loved and lost [The story concluded with Alvy saying that even though relationships are "totally irrational and crazy and absurd", people still need them.]
+
+:: Minor Themes
+hypocritical character [Alvy was hypocritical when it came to the roles he envisioned for him and Annie in their relationship. For example, Alvy wanted he and Annie to have an open relationship, but then became jealous when she had ideas of hanging out with other men.]
+commoner vs. intellectual [Annie accused Alvy of seeing himself as an intellectual and looking down on her as uneducated, when he pushed her to take adult education courses.]
+the Big Chill [In one scene, Alvy, as a boy, despaired to his physician that the universe would ultimately expand into oblivion.]
+despair [In one scene, Alvy, as a boy, despaired to his physician that the universe would ultimately expand into oblivion.]
+antisemitism in society [Alvy made multiple comments about antisemitism and its prevalence in society. For example, Alvy sized up Granny Hall as a "classic Jew hater".]
+suicide [Duane confided in Alvy that he had recurring suicidal thoughts.]
+law enforcement [A motorcycle cop had little patience for a flustered Alvy after arriving at a parking lot where Alvy had just caused a commotion with his bad driving right after being turned down by Annie.]
 
 
 movie: Around the World in 80 Days (1956)
@@ -1580,6 +1537,58 @@ loneliness [In a rare moment of candor, Bill Gillespie all but confided in Virgi
 brother and sister [Lloyd was not happy to find that his promiscuous, 16-year-old sister Delores had gotten pregnant.]
 
 
+movie: Kramer vs. Kramer (1979)
+===============================
+
+:: Title
+Kramer vs. Kramer
+
+:: Date
+1979-12-19
+
+:: Description
+Kramer vs. Kramer is a 1979 American legal drama film written and directed by
+Robert Benton, based on Avery Corman's 1977 novel. The film stars Dustin
+Hoffman, Meryl Streep, Justin Henry and Jane Alexander. It tells the story of
+a couple's divorce, its effect on their young son, and the subsequent
+evolution of their relationship and views on parenting. Kramer vs. Kramer
+explores the psychology and fallout of divorce, and touches on emerging and
+prevailing social issues such as gender roles, fathers' rights, work-life
+balance, and single parents.
+
+:: References
+https://en.wikipedia.org/wiki/Kramer_vs._Kramer
+
+:: Ratings
+4 <mikael>
+5 <paul>
+
+:: Choice Themes
+father and son [The story concerns the deepening relationship between Ted and his son Billy after the mother Johanna walked out.]
+single fatherhood [The story concerns Ted Kramer being left to juggle a previously waxing career and raise his six year old son Billy, alone in New York.]
+custody battle [The story turns on an ugly custody battle between Ted and Johanna over their seven-year-old son, Billy.]
+gender issue [The story challenges contemporary stereotypes of the roles of mothers and fathers in raising a child. The viewer is shown that Johanna was in fact capable of pursuing a career as she landed a job with a salary slightly higher that that of her ex-husband, Ted. On the other hand, Ted proved himself to be an excellent father to Billy.]
+
+:: Major Themes
+work-life balance [A point of the story is that the work expectations Ted faced were incompatible with his duties as a father. Ted was callously fired because he prioritized Billy at the expense of work performance.]
+husband and wife [Joanna walked out on Ted and Billy in order to find herself.]
+beating one's self up [Ted and Billy at different points expressed remorse over being the cause of Joanna walking out on them.]
+mother and son [The story explores the complicated relationship between Johanna and her young son, Billy. Billy was hurt and confused after Johanna walked out on him, leaving the boy in the sole care of his initially ill-prepared father, Ted. Johanna reentered Billy's life over a year later, which Billy welcomed, sparking an ugly custody battle over the boy.]
+family vs. career [Both Ted and Johanna struggled with balancing their family obligations with their career aspirations.]
+abandonment [Joanna walked out on her young son, Billy, in order to find herself. Billy missed his mother and struggled to process her sudden absence.]
+human childhood [The story explores a custody battle from, in part, the point of view of the young boy Billy.]
+coping with stress at work [Ted had trouble balancing being a single father with his duties at his advertising job.]
+divorce [Ted and Johanna divorced in the aftermath of her walking out on him and their young son, Billy. Ted discussed his divorce with his neighbor Margaret.]
+
+:: Minor Themes
+workaholism [Ted was initially a workoholic.]
+getting fired from one's job [Ted was let go from his job for not being able to keep up with his work obligations a little over a year after becoming a single father.]
+one night stand [Billy had a most awkward morning encounter with a naked woman who Ted had brought home from work.]
+what it is like in a legal proceeding [Ted and Johanna each took the stand in what was an ugly series of custody hearings.]
+legal occupation [Ted was defended by the hard-nose divorce attorney John Shaunessy.]
+boss and employee [Ted was "let go" by his boss just days before his custody hearing.]
+
+
 movie: Lawrence of Arabia (1962)
 ================================
 
@@ -2352,6 +2361,56 @@ coping with the death of a family member [Blinded by rage, Terry swore to avenge
 the desire for vengeance [Blinded by rage, Terry swore to avenge his brother Charley's murder after lifting his lifeless body from the hook where it had been left hanging. He later confronted the mob boss Johnny Friendly on the docks, but ended up taking a bad beating for his trouble.]
 
 
+movie: One Flew Over the Cuckoo's Nest (1975)
+=============================================
+
+:: Title
+One Flew Over the Cuckoo's Nest
+
+:: Date
+1975-11-19
+
+:: Description
+One Flew Over the Cuckoo's Nest is a 1975 American psychological comedy-drama
+film directed by Miloš Forman, based on the 1962 novel of the same name by Ken
+Kesey. The film stars Jack Nicholson as a new patient at a mental institution
+and Louise Fletcher as the abusive head nurse. Will Sampson, Danny DeVito,
+Sydney Lassick, William Redfield, Christopher Lloyd, and Brad Dourif play
+supporting roles, with the latter two making their feature-film debuts and
+Sampson having never acted before.
+
+:: References
+https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo's_Nest_(film)
+
+:: Ratings
+5 <mikael>
+5 <paul>
+
+:: Choice Themes
+treatment of the criminally insane [The story concerns a ward in a mental institution and its 18 patients, some of whom were there voluntarily and some of whom were committed. Notably, the main protagonist, McMurphy, was highly intelligent and probably not mentally ill in any way, but was nevertheless subjected to electric shock treatment and ultimately a lobotomization that left him practically a vegetable.]
+what it is like in a psychiatric institution [The story concerns a ward in a mental institution and its 18 patients, some of whom were there voluntarily and some of whom were committed. Notably, the main protagonist, McMurphy, was highly intelligent and probably not mentally ill in any way, but was nevertheless subjected to electric shock treatment and ultimately a lobotomization that left him practically a vegetable.]
+conformism in society [At the heart of the story was the main protagonist McMurphy who was highly intelligent and probably not mentally ill in any way, yet was institutionalized because of his eccentricism. He ended up at the receiving end of a forced lobotomy.]
+
+:: Major Themes
+the need for freedom [McMurphy, in particular, railed against the strict routine forced upon the mental patients by Nurse Ratched. The patients, led by McMurphy, rebelled against her by in one instances taking an unapproved fishing trip.]
+abuse of authority [Central to the story was the conflict between McMurphy and Nurse Ratched. McMurphy maintained that she "liked a rigged game". The viewer is invited to ponder whether things she did and said where therapeutically appropriate or whether, perhaps, she played sadistic mind games. Notably, Ratched tried to humiliate Billy by invoking his mother, and this directly lead to Billy committing suicide minutes later.]
+euthanasia [The story ends with Chief smothering the lobotomize McMurphy with a pillow. The viewer is invited to ponder whether this was perhaps more merciful than the operation which turned him into a living vegetable. Foreshadowing this was the revelation that Chief had likely mercy killed his own father.]
+standing up to a bully [McMurphy was rattled by the control Nurse Ratched, through the mental institution, imposed and tried to assert his own agency by perpetrating various kinds of mischief.]
+prisoners' rights [McMurphy had feigned mental illness in order to be moved from a labor prison to a mental institution. Although life there was apparently laxer, he was irked when he found out that his new incarceration did not have a time limit.]
+medical occupation [Dr. Spivey and Nurse Ratched were running the mental hospital ward where McMurphy and the other patients were being housed.]
+
+:: Minor Themes
+crime and punishment [McMurphy had been convicted of statutory rape. He explained that he had thought the girl 18 and that she had been more than willing to participate. The viewer is invited to ponder the appropriateness of McMurphy's sentence in this light.]
+sexual assault [McMurphy had been convicted of statutory rape.]
+suicide [Billy committed suicide, by slitting his throat with a shard of glass, after being humiliated by Nurse Ratched.]
+fishing [McMurphy took the mental patients on an unapproved fishing trip. Dr. Spivey kept a photo on display in his office of himself holing up a particularly large fish that he'd caught.]
+social awkwardness [Billy was pathologically awkward around women in particular.]
+Christmas traditions [McMurphy organized a wild, all night Christmas party for himself as his fellow mental patients.]
+speech disorder [Billy spoke with a bad stammer.]
+choosing whether to kill someone to spare them suffering [The story ends with Chief smothering the lobotomize McMurphy with a pillow.]
+racism in society [In a radio news broadcast, there was a report of a Black church having been bombed in Alabama.]
+
+
 movie: Patton (1970)
 ====================
 
@@ -2448,6 +2507,66 @@ law enforcement [The constable Colonel Julyan was involved in the inquest into R
 medical occupation [Dr. Baker was questioned in connection to the inquest into Rebecca's death.]
 arson [In the end, Mrs. Denvers burned the Manderley estate to the ground.]
 betrayal [Mrs. Danvers betrayed the new Mrs. de Winter by duping her into wearing a replica of Rebecca's gown to a costume ball, an act that left Maxim deeply outraged.]
+
+
+movie: Rocky (1976)
+===================
+
+:: Title
+Rocky
+
+:: Date
+1976-11-20
+
+:: Description
+Rocky is a 1976 American sports drama film directed by John G. Avildsen and
+written by and starring Sylvester Stallone. It is the first installment in the
+Rocky film series and also stars Talia Shire, Burt Young, Carl Weathers, and
+Burgess Meredith. In the film, Rocky Balboa (Stallone), a poor small-time club
+fighter and loanshark debt collector from Philadelphia, gets an unlikely once
+in a lifetime shot at the world heavyweight championship held by Apollo Creed
+(Weathers).
+
+:: References
+https://en.wikipedia.org/wiki/Rocky
+
+:: Ratings
+5 <mikael>
+5 <paul>
+
+:: Choice Themes
+the sport of boxing [The story concerns a local journeyman boxer, Rocky Balboa, getting the unexpected opportunity to fight the reigning heavyweight champion of the world, Apollo Creed, for that title in an event dubbed the "Bicentennial Super Battle".]
+rise to prominence from humble beginnings [The journeyman boxer Rocky Balboa making the most out of his getting a shot the world heavyweight title exemplified the American Dream. The champion Apollo Creed went on about how the fight would give an ordinary Joe a shot at achieving the American Dream.]
+
+:: Major Themes
+the need to prove one's self [The story centers on the small-time club fighter Rocky Balboa getting an unexpected shot to fight for the world heavyweight championship. In the months leading up to the bout, Rocky cleaned up his life and dedicated himself to his training, privately resolving to prove himself by going the distance with the champion. On fight night he lasted all fifteen rounds, but ultimately lost in a split decision.]
+social inequality [A central theme, emphasized mockingly by Apollo, was that America is "the land of opportunity": the idea that someone can, through hard work and a bit of luck, move up the social ladder to become rich and famous.]
+the desire for fame [Although Rocky was notably self-effacing he clearly saw his newfound fame as a positive.]
+hubris [Apollo was notably cavalier about the fight thinking he would win easily, and focused instead on making it a publicity stunt by spectacle and implicit boasting. His tune changed abruptly after, for the first time in his career, he was knocked down by Rocky in round one. He only won by a split decision after round 15, though at that point Rocky would have clearly beaten him if the fight had gone on.]
+loneliness [Rocky emphasized that he and Adrian were both lonely characters that had found each other.]
+working hard vs. taking it easy in life [Rocky loafing around and not fighting up to his talent level level Micky frustrated. After getting an unexpected title shot, Rocky Rocky worked hard to get in shape before the fight. In contrast, Apollo joked around and tried to create publicity. It is a notable conclusion that, against all odds, this lead to Rocky going the distance with Apollo and very nearly winning the fight.]
+the importance of being hardworking [Rocky loafing around and not fighting up to his talent left Micky frustrated. After getting an unexpected title shot, Rocky Rocky worked hard to get in shape before the fight. In contrast, Apollo joked around and tried to create publicity. It is a notable conclusion that, against all odds, this lead to Rocky going the distance with Apollo and very nearly winning the fight.]
+romantic love [Rocky and Adrian fell in love with each other.]
+brother and sister [Adrian lived with, and was bullied by, her older brother Paulie.]
+friendship [Rocky and Paulie were fast friends and remained so despite friction.]
+human self-esteem need [Paulie yearned for something better for himself and begged Rocky to get him a job as a goon for the local kingpin.]
+compassion [Despite his muscular physique, Rocky was a notably compassionate man. Rocky took pity on the man whose thumb he had been ordered to break and relented. Rocky forgave Paulie and allowed Paulie to make money off of Rocky's name.]
+love of a woman transforms a man [Adrian inspired Rocky to become a more disciplined, focused, and responsible man. Rocky inspired Adrian to become a more confident, self-assertive woman.]
+social awkwardness [Adrian was awkward and pathologically shy. She was contrasted with Rocky, an outgoing guy who could seemingly instantly connect with anyone.]
+extrovert vs. introvert [Rocky (affable, confident, and social) was juxtaposed with Adrian (awkward and sky).]
+determination [Rocky worked hard to get in shape before the fight while Apollo joked around and tried to create publicity. It is a notable conclusion that, against all odds, this lead to Rocky going the distance with Apollo and very nearly winning the fight.]
+boyfriend and girlfriend [Rocky and Adrian fell in love and became an item of sorts.]
+mentor and protégé [The relationship between Rocky and the grizzled boxing trainer Mickey was featured. Mickey had given up on Rocky and expressed disappointment because Rocky had thrown his boxing career away to work as a hired good. When Rocky got a shot at the title, Mickey swallowed his pride and took on Rocky to train him for the fight.]
+
+:: Minor Themes
+the importance of reputation [Rocky lectured Maria on behaving like a ``whore'' because reputation was important.]
+mutual respect [Rocky and Apollo developed a deep respect for one another over the course of their grueling boxing match.]
+mercy [Rocky was excoriated by the loan shark Mr. Gazzo for failing to break a guy's thumb as ordered after the guy had come up short on a payment.]
+organized crime [Rocky worked as a hired goon for the loan shark Mr. Gazzo.]
+master and pet [Rocky kept a goldfish, two pet turtles, and later trained together with a Bull Mastiff named Butkus.]
+alcohol abuse [Paulie was drinking on the job at the meat packing plant.]
+anger [In one scene, Paulie flew into a rage and smashed up his living room with a baseball bat.]
+jealousy [Paulie had jealous outburst at Rocky over his success, but later wormed his way into having his own small part in Rocky's big night, by advertising on Rocky's robe.]
 
 
 movie: The Apartment (1960)
@@ -2731,6 +2850,63 @@ human vs. nature [The commandos trekked through heavy jungle terrain to reach th
 flirtation [Shears flirted with a nurse who was stationed at the British Ceylon hospital where he was recuperating. He later got flirty with one of the Siamese women guides who was accompanying the commandos on their mission to blow up the bridge.]
 
 
+movie: The Deer Hunter (1978)
+=============================
+
+:: Title
+The Deer Hunter
+
+:: Date
+1978-12-08
+
+:: Description
+The Deer Hunter is a 1978 American epic war drama film co-written and directed
+by Michael Cimino about a trio of Russian-American steelworkers whose lives
+are upended by fighting in the Vietnam War. The soldiers are played by Robert
+De Niro, Christopher Walken and John Savage, with John Cazale (in his final
+role), Meryl Streep, and George Dzundza in supporting roles. The story takes
+place in Clairton, Pennsylvania (a working-class town on the Monongahela River
+south of Pittsburgh) and in Vietnam.
+
+:: References
+https://en.wikipedia.org/wiki/The_Deer_Hunter
+
+:: Ratings
+5 <mikael>
+4 <paul>
+
+:: Choice Themes
+the horrors of war [The story is a commentary of the Vietnam War, depicting it as inhumane and chaotic. The central event was that three American soldiers were tortured by North Vietnamese partisans. After the war, each of the three characters were broken or mentally scarred: Mike fared the best but hid in a motel to avoid his friends from time to time. Steven had lost both legs and the use of his left arm, and was staying in an army hospital because he couldn't face his family and old friends. Nick refused to return altogether and instead went deep into the murky Saigon underworld to become a famed Russian roulette player know as "The American".]
+reintegrating into society [The film is a commentary on the devastating toll war can take on humans and their communities. The central event was that three American soldiers were tortured by North Vietnamese partisans. Mike fared the best but hid in a motel to avoid his friends from time to time. Steven had lost both legs and the use of his left arm, and was staying in an army hospital because he couldn't face his family and old friends. Nick refused to return altogether and instead went deep into the murky Saigon underworld to become a famed Russian roulette player know as "The American".]
+courage in the face of death [Russian roulette is the recurring central motif the film is best known for. It was first played as a form of torture: players must either take the risk of shooting themselves in the head, or be subjected to a slow torturous death. Later it was played for money by desperate men in Saigon. It was also played by Mike and Nick in outbursts of despair and nihilism when they pulled the trigger (on themselves or others) to prove a point that can be interpreted variously as being about courage, fatalism, or the meaningless of life.]
+coping with post-traumatic stress [Each of the three friends Mike, Nick, and Steven dealt with in different ways the trauma inflicted on them while fighting in Vietnam. Mike kept himself together but returned to his hometown with a new respect for life, as demonstrated by his showing mercy on a deer that he could well have shot dead. Nick descended into utter madness. Steven, who'd lost both legs, retreated from his family and fell into depression.]
+
+:: Major Themes
+the Vietnam War [The story is a commentary of the Vietnam War, depicting it as inhumane and chaotic. The central event was that three American soldiers were tortured by North Vietnamese partisans.]
+hunting [Deer hunting, as the title suggests, is used as a metaphor in the film. Mike, Steven, and Nick together with Stan, Axel and John, went deer hunting in the mountains. Notably, before fighting in Vietnam Mike shot a deer without compunction, but after returning he couldn't bring himself to kill one.]
+friendship [The story concerns the tight-knit friends Mike, Steven and Nick.]
+choosing between equally unappealing possibilities [Russian roulette was a central feature of the story. In particular, Mike, Nick and Steven had to play it while in captivity in Vietnam: if they refused to play they would be thrown into a rat infested cage submerged in the water and left to die. The rest of the story concerns how these three characters coped with this horrible experience.]
+loyalty to a friend [Mike and Nick made a pact not to leave Vietnam without the other. Mike prominently made good on this promise when he jumped from the rescue helicopter to follow Nick who had fallen in. Mike later returned to Saigon to find Nick, who had gone AWOL, and then bring him back, but it didn't work out.]
+male bonding [Six buddies bonded on a deer hunting trip. Three of them deepened their friendship by serving in Vietnam together.]
+love triangle [Nick and Linda were engaged to be married when Nick went to Vietnam never to come back. Mike was in love with Linda but suppressed his feelings because of his friendship with Nick. While Nick was AWOL in the murky underworld of Saigon, Mike succumbed to advances by Linda and slept with her in his motel room.]
+romantic love [Mike and Nick were both besotted with Linda, who in turned seemed pretty besotted with each of them.]
+mobility impairment [Steven had lost both legs and the use of his left arm, and was staying in an army hospital because he couldn't face his family and old friends. He was confined to an electric wheelchair he controlled with a joystick near his right hand.]
+descent into madness [Nick progressively lost his mind after escaping from a brutal captivity under the Viet Cong. By the time Mike had tracked him down, Nick was essentially nonverbal and playing in an underground Russian roulette league.]
+human vs. captivity [The three friends Mike, Nick, and Steven escaped their captivity by a group of Viet Cong in dramatic fashion. The rest of the story concerns how these three characters coped with this horrible experience.]
+torture [The three friends Mike, Nick, and Steven were subjected to physical and psychological torture during their captivity under the Viet Cong. The rest of the story concerns how these three characters coped with this horrible experience.]
+
+:: Minor Themes
+marriage ceremony [The story began with a marriage ceremony in a rural steel-working community following Orthodox Christian tradition.]
+patriotism [The film features acts of patriotism that are conspicuously juxtaposed with the failed Vietnam War. For example people spoke jubilantly about America's performance there, and in the end there was a communal singing of God Bless America.]
+funeral rite [Nick was laid to rest at home in an Orthodox Christian ceremony.]
+omens [In one scene, Mike interpreted the sun dogs he and the other men saw in the sky as a favorable omen regarding their upcoming hunting trip. In another scene, everyone knew that Angela's dripping of red wine on her wedding dress was a bad omen, and indeed her husband Steven came back from Vietnam leg-less and despondent.]
+dangerous driving [Mike, with encouragement from his buddies who were riding with him, recklessly passed a tractor trailer on the inside lane of a narrow roadway.]
+domestic violence [Linda left home after her drunken father hit her in the face.]
+gambling [People in Saigon gambled on Russian roulette.]
+war crime [The three friends Mike, Nick, and Steven were subjected to physical and psychological torture during their captivity under the Viet Cong.]
+choosing between lovers [Linda had feelings for both Mike and Nick.]
+
+
 movie: The French Connection (1971)
 ===================================
 
@@ -2754,127 +2930,25 @@ https://en.wikipedia.org/wiki/The_French_Connection_(film)
 
 :: Ratings
 3 <mikael>
+3 <paul>
 
 :: Choice Themes
-illegal drug trade [The story concerns American police officers rying to catch a French and an American crime syndicate in the act of illegally trading heroin.]
+illegal drug trade [The story concerns American police detectives trying to catch a French and an American crime syndicate in the act of illegally trading heroin. The title is a reference to the real life drug smuggling scheme of the same name.]
 
 :: Major Themes
-organised crime [The story concerns American police officers rying to catch a French and an American crime syndicate in the act of illegally trading heroin.]
-law enforecement [The story concerns American police officers rying to catch a French and an American crime syndicate in the act of illegally trading heroin.]
-work partner and work partenr [The central protagonists were the buddy cops, detectives Jimmy "Popeye" Doyle and Buddy "Cloudy" Russo.]
-anger [Popeye was notoriously belligerent and short tempered.]
-anger management issues {FD}
-murder [The story began with a hitman murder in Marseilles. A sniper tried to kill Popeye. Popeye arguably murdered the man by shooting him in the back. The sniper murdered a beat cop on the train.]
-rich character vs. poor character [In one notable scene in particular, Deveraux and his buddies were gorging themselves on fine food in a fancy restaurant while Popeye was eating a crummy hotdog outside.] {FD}
-facing organised pursuit [Devereaux was tailed by Popeye but cleverly shook him off. Various criminals complained about being under surveilance by the cops.]
-
-
-movie: The Godfather (1972)
-===========================
-
-:: Title
-The Godfather
-
-:: Date
-1972-03-14
-
-:: Description
-The Godfather is a 1972 American epic gangster film directed by Francis Ford
-Coppola, who co-wrote the screenplay with Mario Puzo based on Puzo's best-
-selling 1969 novel. The film features an ensemble cast that includes Marlon
-Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling
-Hayden, John Marley, Richard Conte and Diane Keaton. It is the first
-installment in The Godfather trilogy, which chronicles the Corleone family
-under patriarch Vito Corleone (Brando) and the transformation of his youngest
-son, Michael Corleone (Pacino), from reluctant family outsider to ruthless
-mafia boss.
-
-:: References
-https://en.wikipedia.org/wiki/The_Godfather
-
-:: Ratings
-5 <mikael>
-
-:: Choice Themes
-organized crime [The story concerns an the Italian mafia in the US.]
-loyalty to one's family [The story underlines that the success of the Corleone crime syndicate is in no small part down to the tight bonds between the members of its inner circle: Don Vito and his sons. Tom was an adopted son and in most matters equal to the other children, yet when push came to shove decisions were made only by the true blooded scions of the Don.]
-descent into crime [A central theme in the film is Machael's moral fall from lauded war hero and upstanding citizen, to that of a murderer and crime syndicalist.]
-
-:: Major Themes
-corruption in society [Don Vito's crucial advantage in the American underworld was that he had congressmen and other politicians in his pocket. Notably, he told one of his underlings to assign a task to some Jewish congressman during the wedding.]
-father and son [In particula, Don Vito and Michael's strong bond was a central feature. Don Vito had wanted to keep Michael out of crime. When his father's life was threatened, however, Michael insisted on being there to protect him.]
-stepping up to the task [A key component of the story is that Michael had to abandon his previously sheltered life in order to become part of his family's criminal syndicate.] {MO: hmm what happened to this theme...}
-the desire for vengeance [It was a point of the story that Don Vito put buisness before his personal feelings. By contrast, Sonny was a hothead who wanted instant revenge for the attempt on his father's life. Michael got revenge on the police chief that punched him and it is left open whether his motive was merely business, or if personal satisfaction played a role.]
-illegal drug trade [A turning point of the story was the decision of whether or not the Corleone family should underwrite any drug dealing activity. Don Vito refused at first, but as this lead to open warfare in the criminal underworld he later relented.]
-the desire for vengeance [Sonny was hotheaded and vengeful, especially where his siter was concerned. Tattaglia killed Sonny as revenge for his own son's death. It was a highlight when Don Vito swore to forego vengenace for Sonny's death in order to make peace. He did, however, threaten armageddon should anything befall Michael.]
-vendetta [Sonny's hotheadedness nearly lead to a vendetta in the criminal underworld. In the Sicily town of Corleone it was said all the men had perished in the vendettas.]
-murder [Michael cold bloodedly settled all the family buisnesses while standing godfather to his sister's child, with a carefully planned murder spree.]
-loyalty to a group [Many people were fiercly loyal to the Corleone family. For example, Michael Hagen's loyalty was almost though not entirely above questioning.]
-brother and sister [Both Michael and Sonny were protective of their sister Connie.]
-handing over the mantle before retirement [Don Vito set Michael up as the new Don and tutored him on the family business, then retired from it all.]
-the desire for glory [It was a recurring point that Don Vito had wished for his son Michael to have a law abiding life and great success, perhaps becoming a senator or governor.]
-betrayal [The question of whom to trus was ubiquitous. In the end, Carlo, Paulie, and Tessio had all been exposed as traitors and punished accordingly.]
+organized crime [The story concerns American police officers trying to catch a French and an American crime syndicate in the act of illegally trading heroin.]
+law enforcement [The story concerns American police officers trying to catch a French and an American crime syndicate in the act of illegally trading heroin.]
+partners on the police force [The central protagonists were the buddy narcotics detectives Jimmy "Popeye" Doyle and Buddy "Cloudy" Russo.]
+anger [Popeye was notoriously hot-headed and short-tempered.]
+murder [The story began with a hitman murder in Marseilles. A sniper tried to kill Popeye. The sniper murdered a beat cop on the train. Popeye arguably murdered the sniper by shooting him in the back.]
+obsession [The narcotics detective Jimmy "Popeye" Doyle became borderline obsessed with bringing Alain Charnier and his international heroin smuggling scheme. This was especially the case after Charnier taunted Popeye while felling on the subway.]
 
 :: Minor Themes
-celebrity worship [At the wedding, a flock of worshipping girls swarmed around the music and movie star Johnny Fontane as he arrived.]
-music [Johnny Fontane was a career musician who aspired to make it in film.]
-wedding [The story begins with the Don's daughter's wedding, a day on which tradition had it he could not refuse a favor.]
-blackmail
-horse racing [Jack Woltz showed off his black stallion and stated proudly that he wouldn't race it but let it stud. It's head later ended up in Woltz' bed as a warning.]
-racism in society [Tom was called a Kraut-Mick on account of his German-Irish origin. Notabl, Woltz ranted: "I don’t care how many dago, guinea, wop, greaseball, goombahs come out of the woodwork."]
-romantic jealousy [Connie flew into a rage after receiving a phonecall from her husband's girlfriend.]
-funeral [Don Vito was laid to rest in a grand funeral with numerous flower adorned hershes.]
-coping with ageing [Don Vito rappidly began feeling the weight of his years after recovering from being shot mmultiple times.]
-
-
-movie: The Godfather Part II (1974)
-===================================
-
-:: Title
-The Godfather Part II
-
-:: Date
-1974-12-12
-
-:: Description
-The Godfather Part II is a 1974 American epic gangster film produced and
-directed by Francis Ford Coppola, loosely based on the 1969 novel The
-Godfather by Mario Puzo, who co-wrote the screenplay with Coppola. It is both
-a sequel and a prequel to the 1972 film The Godfather, presenting two parallel
-dramas: one picks up the 1958 story of Michael Corleone (Al Pacino), the new
-Don of the Corleone family, protecting the family business in the aftermath of
-an attempt on his life; the other covers the journey of his father, Vito
-Corleone (Robert De Niro), from his Sicilian childhood to the founding of his
-family enterprise in New York City. The ensemble cast also features Robert
-Duvall, Diane Keaton, Talia Shire, Morgana King, John Cazale, Marianna Hill
-and Lee Strasberg.
-
-:: References
-https://en.wikipedia.org/wiki/The_Godfather_Part_II
-
-:: Ratings
-5 <mikael>
-
-:: Choice Themes
-organized crime [The story concerns the Italian mafia in the US. Flashbacks presents an origin story of the same.]
-loyalty to one's family [Michael's loyalty to his own family above else is on full display. In particular he was outraged when his family was imperiled in an asassination attempt in his home. He kept a tight hold on his children even as he, reluctantly, divorced Kate. He displayed unvawering adoration for his mother. He told his brother Freddie he loved him, and it was an iconic nadir in Michael's moral decay when he committed fratricide by ordering Fredos murder at the end.]
-
-:: Major Themes
-descent into crime [A central theme is how Michael becomes ever more brutal and callous as the story progresses. It ends with a moral nadir when Michael committs fratricide.]
-corruption in society [The Corelone family's crucial advantage in the American underworld was that they had politicians in their collective pocket. Notably, Senator ?? demanded a huge bribe from Michael but was in turn set up, blackmailed and turned into a mouthpiece for the family.]
-the desire for vengeance [After an attempt was made on his life right in his bedroom, endangering his family, Michael set out to avenge himself. He had already won in every other way that matters when he made the decision to sacrifice one of his most loyal men to murder Hyman Roth in front of the police at an airport. It was a sinister sign of moral decay when he ultimately committed fratricide and had Fredo killed.]
-murder [Attempts were made on Michael's life. Michael had numerous people murdered, notably Hyman Roth in the end.]
-fratricide [The story ends ominously with the killing of Michael's remaining brother, Fredo, at Michael's behest.]
-loyalty to a group [Many people were fiercly loyal to the Corleone family. For example, Michael Hagen's loyalty was almost though not entirely above questioning.]
-brother and sister [Connie rebeled against Michael but eventually came back to him and became loyal.]
-betrayal [A central line in the story is the question of whom in his inner circle had betrayed Michael and enabled the assassination attempt on him within his secure compound at Lake ....]
-
-:: Minor Themes
-illegal drug trade
-music [Frankie was outraged when he instructed the band in playing an Italian tarantella and they ended up irreverently breaking into "pop goes the weasel" instead.]
-blackmail [Senator Geary was set up at a brothel and subsequently blackmailed into being a mouthpiece for the family.]
-racism in society [Senator Geary expressed his disdain for Micahael's "kind of people".]
-funeral [Michael mourned at his mother's funeral.]
+rich character vs. poor character [In one notable scene in particular, Charnier and his buddies were gorging themselves on fine food in a fancy restaurant while Popeye was eating a crummy hotdog outside.]
+facing organized pursuit [Charnier was tailed by Popeye but cleverly shook him off. Various criminals complained about being under surveillance by the cops.]
+racism in society [Doyle used racial slurs against Blacks and Latinos without compunction.]
+dangerous driving [Popeye commandeered a civilian's car and tore through Brooklyn under an elevated train, nearly killing a woman pushing a baby carriage.]
+the end justifies the means [The narcotics detective Jimmy "Popeye" Doyle cavalierly neglected to follow police procedures in order to take down his nemesis, the heroin smuggler Alain Charnier.]
 
 
 movie: The Great Ziegfeld (1936)
@@ -3299,6 +3373,54 @@ engaged couple [Georg broke off his engagement with Elsa to be with Maria.]
 marriage ceremony [Maria and George were married to much fanfare in a picturesque abbey.]
 human tough decision [Georg made the difficult decision to flee Austria together with his family rather than accept a commission in the Nazi German navy.]
 facing organized pursuit [The von Trapp family narrowly evaded Nazi pursuit during their harrowing escape from Austria to Switzerland.]
+
+
+movie: The Sting (1973)
+=======================
+
+:: Title
+The Sting
+
+:: Date
+1973-12-25
+
+:: Description
+The Sting is a 1973 American caper film. Set in 1936, it involves a
+complicated plot by two professional grifters (Paul Newman and Robert Redford)
+to con a mob boss (Robert Shaw). The film was directed by George Roy Hill, who
+had directed Newman and Redford in Butch Cassidy and the Sundance Kid (1969).
+The screenplay by David S. Ward was inspired by real-life cons perpetrated by
+brothers Fred and Charley Gondorff and documented by David Maurer in his 1940
+book The Big Con: The Story of the Confidence Man.
+
+:: References
+https://en.wikipedia.org/wiki/The_Sting
+
+:: Ratings
+4 <mikael>
+4 <paul>
+
+:: Choice Themes
+con artistry [The story revolves around a gang of grifters pulling of the con of the century.]
+the desire for vengeance [Doyle Lonnegan was a spiteful man and driven by his desire to avenge himself on both Gondorf and Hooker for having conned him in a card game, and for stealing from his courier, respectively. As Hooker in the end refused his share of the win, it is reasonable to think his motivation for participating was, in some part, a similar vindictiveness against Lonnegan.]
+
+:: Major Themes
+betrayal [Hooker pretended to be in league with Lonnegan in order to con him. Hooker appeared to betray his mentor, Gondorf, to the FBI agent Polk, though in the end Polk was revealed to be in on the whole con.]
+mentor and protégé [Hooker sought out Gondorf in order to learn from this renowned con artist.]
+greed for riches [Lonnegan was avaricious to the extreme and Gondorf used this to con him into betting half a million dollars on, what he had been gulled to believe, was an insider tip in the horse races.]
+organized crime [The main villain in the story was the mob boss Doyle Lonnegan. The plot turned on Hooker and Gondorf hatching an elaborate scheme to con the mob boss Doyle Lonnegan out of $500,000 of his not so honestly earned money.]
+gambling [Key to the plot was Hooker and Gondorf conning Lonnegan into betting half a million dollars in the horse races. Gondorf cheated Lonnegan at the poker table just as Lonnegan had tried to cheat him. In an ill-advised play, Hooker bet his $3000 cut of a successful con job on red at the roulette wheel and lost it all.]
+law enforcement [The corrupt cop Lieutenant Snyder was tasked by Lonnegan to track down Hooker and send him to meet his maker. A key part of Hooker and Gondorf's con job involved a fake FBI agent, named Polk, feigning to coerce Hooker into betraying Gondorf.]
+
+:: Minor Themes
+vigilante justice [A central feature of the story is the implicit assertion that the protagonists' con against Doyle Lonnegan was morally justified because Lonnegan was a ruthless mob boss.]
+corruption in society [Lieutenant Snyder was on the mob boss Lonnegan's payroll. Gondorf suggested that Lonnegan similarly had "half the politicians in Chicago and New York" on his payroll.]
+murder [Hooker was hunted by Lonnegan's goons, notably the female assassin Salino, who had orders to kill him. In the denument, it appeared that Gondorf shot Hooker in revenge for betrayal.]
+poker [Gondorf cheated Lonnegan at the poker table just as Lonnegan had tried to cheat him.]
+cheating [Gondorf cheated Lonnegan at the poker table just as Lonnegan had tried to cheat him.]
+horse racing [Gondorf and his team conned Lonnegan into betting half a million dollars in the horse races.]
+coping with the death of a spouse [Alva was distraught upon seeing her husband Luther's dead body in the alleyway.]
+husband and wife [Alva was distraught upon seeing her husband Luther's dead body in the alleyway.]
 
 
 movie: Tom Jones (1963)
