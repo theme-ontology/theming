@@ -7,6 +7,10 @@ on:
     types:
       - closed
 
+permissions:
+  contents: write        # push the branch it opens the PR from
+  pull-requests: write  # open it, and request reviewers on it
+
 jobs:
   if_merged:
     if: github.event.pull_request.merged == true
@@ -33,12 +37,14 @@ jobs:
       uses: peter-evans/create-pull-request@v6
       with:
         commit-message: reformat with python-totolo
-        title: reformat with python-totolo
+        title: 'M4: reformat with python-totolo'
         body: |
           Reformat all /notes in the theming repository using the
           python-totolo package like so:
 
             python -m totolo.util.mergefiles ./notes --reorder
 
+        reviewers: odinlake,paul-sheridan
+        assignees: odinlake,paul-sheridan
         branch: totolo-reformat
         delete-branch: true
