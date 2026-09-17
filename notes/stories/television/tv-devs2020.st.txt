@@ -22,8 +22,8 @@ https://en.wikipedia.org/wiki/Devs_(TV_series)
 tv
 
 :: Choice Themes
-speculative prediction of the future [A premise of the series is that Forest and Katie had built a quantum computer which was able to see into the past and predict possible futures.]
-what if I saw a glimpse of the past [In one scene, the Devs team reconstructed a grainy video of the crucifixion using the top secret quantum supercomputer. In another, Forest viewed a similar grainy video of his young daughter blowing soap bubbles.]
+speculative prediction of the future [A premise of the series is that Forest and Katie had built a quantum supercomputer which was able to see into the past and predict possible futures.]
+what if I saw a glimpse of the past [A quantum supercomputer that reconstruct grainy video-like reconstructions of past events is key novelty of the series. In Episode 2, the Devs team reconstructed a grainy video of the crucifixion using the top secret quantum supercomputer. In another, Forest viewed a similar grainy video of his young daughter blowing soap bubbles.]
 what if I caught a glimpse of the future [] {FD}
 speculative future event [] {MO FD not sure what it's building up to}
 
@@ -36,15 +36,19 @@ coping with the death of a lover [It was eventually revealed that Forest's obses
 coping with the death of a child [It was eventually revealed that Forest's obsession with perfecting the quantum device, brokering no pesky variances, began with the death of his wife and child in a fluke car accident.]
 remembrance [] {FD Forest dreamed of his lost child in every other episode.}
 
-big tech in society []
-the tech industry [] {FD series level}
+big tech in society [The series invites the viewer to ponder whether big tech companies have too much influence over society. This culminated in Episode 8, when Lily confronted the tech CEO Forest, telling him that people like him become "fanatics" and end up thinking themselves as "messiahs".]
+the tech industry [Much of the series is set at the fictional Silicon Valley tech firm Amaya, and revolves around the firm's development of a top secret quantum supercomputer.]
 information technology in society [] {FD}
 corporation interfering in politics [] {FD}
 the corporate world [] {FD}
 
-multiverse [The story explores the many-worlds interpretation of quantum mechanics, and its multiple branching realities.]
+multiverse [The series explores the many-worlds interpretation of quantum mechanics, and its multiple branching realities. In Episode 4, Lyndon developed a new algorithm to sharpen the projections and Forest fired him for using an unapproved multiverse approach. In an Episode 5 flashback scene, Katie confronted a physics lecturer over neglecting to touch on the Everett multiverse interpretation of the double slit experiment.]
 
-boyfriend and girlfriend []
+boyfriend and girlfriend [The series starts out following Lily and Sergei, a young coder couple who live together in a San Francisco apartment. Lily became convinced that something bad had happened to Sergei when he didn't return home from work after accepting a position with a secretive quantum computing team at the Amaya corporation. Lily's worst fear was seemingly confirmed when she was shown security camera footage of what appeared to be Sergei taking his own life by the simple expedient of self-immolation. Lily responded by taking concerted efforts to get to the bottom of Sergei's suspicious and inexplicable suicide. In the process of sorting that out, Lily rekindled her relationship with her old flame, Jamie.]
+one cannot cheat fate [A main narrative arc in the series concerns whether Lily was fated to die in the certain way and time that was predicted by the Amaya corporation quantum supercomputer. In Episode 4, Forest and Katie watched a grainy quantum computer video prediction of Lily dying in 48 hours, and they commented on the supposed inevitability of her fate.]
+
+historical determinism []
+hubris [] {For discussion: Forest was accused of having a messiah complex, arrogantly secretly named Devs with the double meaning of Deus, and suggest there that he feigned himself as a god or something along those lines.}
 
 :: Minor Themes
 industrial espionage [Sergei had been a Russian snoop out to steal information from the Amaya corporation. In Episode 1, Sergei surreptitiously recorded top secret quantum computer code using his fancy wristwatch. This proved a key turning point in the plot, as Forest had Sergei killed over the theft.]
@@ -79,7 +83,6 @@ ex-boyfriend Jamie to break into it.
 :: Choice Themes
 
 :: Major Themes
-boyfriend and girlfriend [The story follows Lily and Sergei, a young coder couple who live together in a San Francisco apartment. Lily became convinced that something bad had happened to Sergei when he didn't return home from work after accepting a position with a secretive quantum computing team at the Amaya corporation. Lily's worst fear was seemingly confirmed when she was shown security camera footage of what appeared to be Sergei taking his own life by the simple expedient of self-immolation.]
 
 :: Minor Themes
 artificial intelligence [Forest told Sergei that his time in the AI division was over.]
@@ -180,7 +183,6 @@ human mental condition [After playing schizophrenic and suicidal at the Amaya HQ
 
 :: Minor Themes
 trust in a potential foe [Lily went along in a car with Kenton knowing he was not to be trusted.]
-one cannot cheat fate [Forest and Katie watched a grainy quantum computer video prediction of Lily dying in 48 hours, and they commented on the supposed inevitability of her fate.]
 historical determinism [Katie argued that the future is fixed in just the same way as the past.]
 homelessness in society [Kenton gave the hobo outside Lily's apartment building a smoke in order to gain his trust. The hobo, however, realized that Kenton was a threat to Lily and didn't help him.]
 medical occupation [A shrink assessed Lily.]
@@ -217,7 +219,6 @@ workplace relationship [Katie agreed that she was sort-of her boss' girlfriend.]
 tabletop games [Katie watched a quantum computer recreation of child Lily playing her father at a game of Go.]
 physics [In a flashback scene, a wheelchair-bound physics lecturer described, in a lecture, the double slit experiment and its possible interpretations. Katie voiced her disagreement to the lecturer over her neglecting to mention Everett's multiverse interpretation and stormed off.]
 mobility impairment [The physics lecturer was in a wheelchair.]
-multiverse [In a flashback scene, Katie confronted a physics lecturer over neglecting to touch on the Everett multiverse interpretation of the double slit experiment.]
 
 
 devs2020e1x06
@@ -314,11 +315,7 @@ determinism [] {https://en.wikipedia.org/wiki/Determinism}
 the desire for vengeance [Lily state unequivocally that she was there to kill Forest as revenge for Jamie's death. A humming sound in the background was no doubt Sergei spinning in his grave.]
 
 free will [The viewer is made to ponder whether Lily ever had any choice in how she ended up confronting Forest at gunpoint and shooting him in the head before they plummeted to their deaths, assuming Forest had a modicum of life left in him after being shot.]
-historical determinism []
-one cannot cheat fate []
 
-big tech in society [] {PS: Discussion had about big tech CEO thinking themselves as gods or something along those lines.}
-hubris [] {For discussion: Forest was accused of having a messiah complex, arrogantly secretly named Devs with the double meaning of Deus, and suggest there that he feigned himself as a god or something along those lines.}
 
 :: Minor Themes
 trust [Lily met with her alive-again boyfriend Sergei and demanded to see his phone. When she tried to open the Sudoku app that was a Russian spy tool, he absconded wiht a huff.]
