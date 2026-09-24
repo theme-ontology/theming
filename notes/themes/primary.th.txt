@@ -3329,6 +3329,20 @@ The ramifications of big banking in society are explored.
 socioeconomic issue
 
 
+Big Tech in society
+===================
+
+:: Description
+
+
+:: Parents
+socioeconomic issue
+sociocultural issue
+
+:: References
+https://en.wikipedia.org/wiki/Big_Tech
+
+
 bigamy
 ======
 
@@ -9059,6 +9073,26 @@ crackpot theory
 
 :: References
 https://en.wikipedia.org/wiki/List_of_cryptids
+
+
+cryptography
+============
+
+:: Description
+A technique for secure communication in the presence a third party is
+featured. A collection of more or less complicated algorithms for encryption.
+These are strategies for writing messages such that they can only be read by
+those who know the secret to decoding them.
+
+:: Parents
+science
+
+:: Examples
+Sherlock Holmes and Watson cracked a book cipher in sherlock1x02 "The Blind
+Banker".
+
+:: References
+https://en.wikipedia.org/wiki/Cryptography
 
 
 crystalline being
@@ -19625,6 +19659,19 @@ younger members of the crew in tos3x15 "Let That Be Your Last Battlefield".
 https://en.wikipedia.org/wiki/Indoctrination
 
 
+industrial espionage
+====================
+
+:: Description
+
+
+:: Parents
+espionage
+
+:: References
+https://en.wikipedia.org/wiki/Industrial_espionage
+
+
 inebriated interaction
 ======================
 
@@ -24812,6 +24859,19 @@ speculative spaceship
 https://en.wikipedia.org/wiki/Multistage_rocket
 
 
+multiverse
+==========
+
+:: Description
+The story explores the idea that our universe is but one of many.
+
+:: Parents
+speculative cosmos
+
+:: References
+https://en.wikipedia.org/wiki/Multiverse
+
+
 murder
 ======
 
@@ -29451,6 +29511,22 @@ things, or is there a sweet spot somewhere in between?
 
 :: Parents
 human idea about life
+
+
+quantum mechanics
+=================
+
+:: Description
+Quantum mechanics, also known as quantum physics, is the fundamental physical
+theory that describes the behavior of matter and of light; the behaviors it
+models typically occur at and below the scale of atoms, and have often been
+described as counterintuitive. Some or all of this is discussed in the story.
+
+:: Parents
+physics
+
+:: References
+https://en.wikipedia.org/wiki/Quantum_mechanics
 
 
 quarantine dilemma
