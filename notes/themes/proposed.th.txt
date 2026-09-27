@@ -2,10 +2,9 @@ cryptography
 ============
 
 :: Description
-A technique for secure communication in the presence a third party is
-featured. A collection of more or less complicated algorithms for encryption.
-These are strategies for writing messages such that they can only be read by
-those who know the secret to decoding them.
+A technique for secure communication in the presence of a third party is
+featured. These are usually strategies for writing messages such that they can 
+only be read by those who know the secret to decoding them.
 
 :: Parents
 science
@@ -22,7 +21,9 @@ industrial espionage
 ====================
 
 :: Description
-
+Industrial espionage, also known as economic espionage, corporate spying, or 
+corporate espionage, refers to the systematic and unauthorized acquisition of 
+sensitive business information. Such activity is featured in the story.
 
 :: Parents
 espionage
@@ -43,6 +44,29 @@ speculative cosmos
 :: References
 https://en.wikipedia.org/wiki/Multiverse
 
+
+parallel universe
+=================
+
+:: Description
+There is exactly two distinct universes that exist in parallel.
+Perhaps each is the "mirror" version of the other.
+
+:: Parents
+multiverse
+
+:: Notes
+The word "dimension" is used in two different sense in fiction. Sometimes what
+is meant is no different from a parallel universe. Sometimes what is meant is
+a fourth spatial dimension of space as an addition to the three we know. In
+the latter case we use "four-dimensional space" as a theme.
+
+:: References
+https://en.wikipedia.org/wiki/Parallel_universes_in_fiction
+https://en.wikipedia.org/wiki/Multiverse
+
+:: Aliases
+parallel dimension
 
 
 Big Tech in society
