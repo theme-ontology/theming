@@ -2982,6 +2982,7 @@ is unfair or unnecessary.
 
 :: Parents
 human worrying about self
+remorse
 
 :: References
 https://dictionary.cambridge.org/dictionary/english/beat-yourself-up
@@ -3326,6 +3327,22 @@ The ramifications of big banking in society are explored.
 
 :: Parents
 socioeconomic issue
+
+
+Big Tech in society
+===================
+
+:: Description
+Big Tech, also known as the tech giants or tech titans, are the largest and
+most powerful technology companies in the world. Discussed is whether and to
+what extent these companies, by virtue of their size and wealth, exercise
+undue influence on politics and culture in human society.
+
+:: Parents
+corporate influence in society
+
+:: References
+https://en.wikipedia.org/wiki/Big_Tech
 
 
 bigamy
@@ -5099,22 +5116,6 @@ loyalty
 In voy3x06 "Remember", B'Elanna had an alien inspired dream in which she had
 to choose between saving her lover's life on one hand, and being obedient to
 her parents on the other.
-
-
-choosing between equally futile actions
-=======================================
-
-:: Description
-A character must decide which action to take even though all potential actions
-appear equally unappealing.
-
-:: Parents
-personal practical dilemma
-
-:: Notes
-This situation is also allegorically known as "Sheridan's Ass" after renowned
-theme enthusiast Paul Sheridan who noted that it is a mirror reflection of
-"Burridan's Ass".
 
 
 choosing between equally unappealing possibilities
@@ -8484,14 +8485,15 @@ human occupational activity
 https://en.wikipedia.org/wiki/Corporate_title
 
 
-corporation interfering in politics
-===================================
+corporate influence in society
+==============================
 
 :: Description
-There is a powerful corporation that to a notable extent uses its wealth to
-bribe or otherwise influence the government.
+There is a powerful corporation that to a notable extent uses its wealth and
+power to unduly influence the society it inhabits.
 
 :: Parents
+sociocultural issue
 unethical business practices
 political issue
 
@@ -8502,6 +8504,21 @@ seriously challenges the whole of law enforcement.
 :: Examples
 In RoboCop 2 (1990), the OCP megacorporation plotted to bankrupt the city of
 Detroit then to step in to take it over.
+
+
+corporate occupation
+====================
+
+:: Description
+A character who works in the bureaucracy of a corporation is engaged in their
+profession.
+
+:: Parents
+human occupational activity
+
+:: Notes
+This typically means, businessmen, CEOs, board members, and sometimes
+secretaries. It typically does not mean factory workers and janitors.
 
 
 corporatocracy
@@ -9076,24 +9093,23 @@ crackpot theory
 https://en.wikipedia.org/wiki/List_of_cryptids
 
 
-cryptographic cypher
-====================
+cryptography
+============
 
 :: Description
-A technique for secure communication in the presence a third party is
-featured. A collection of more or less complicated algorithms for encryption.
-These are strategies for writing messages such that they can only be read by
-those who know the secret to decoding them.
+A technique for secure communication in the presence of a third party is
+featured. These are usually strategies for writing messages such that they can
+only be read by those who know the secret to decoding them.
 
 :: Parents
-mathematics
+science
 
 :: Examples
 Sherlock Holmes and Watson cracked a book cipher in sherlock1x02 "The Blind
 Banker".
 
 :: References
-https://en.wikipedia.org/wiki/Cipher
+https://en.wikipedia.org/wiki/Cryptography
 
 
 crystalline being
@@ -19660,6 +19676,21 @@ younger members of the crew in tos3x15 "Let That Be Your Last Battlefield".
 https://en.wikipedia.org/wiki/Indoctrination
 
 
+industrial espionage
+====================
+
+:: Description
+Industrial espionage, also known as economic espionage, corporate spying, or
+corporate espionage, refers to the systematic and unauthorized acquisition of
+sensitive business information. Such activity is featured in the story.
+
+:: Parents
+espionage
+
+:: References
+https://en.wikipedia.org/wiki/Industrial_espionage
+
+
 inebriated interaction
 ======================
 
@@ -24847,6 +24878,19 @@ speculative spaceship
 https://en.wikipedia.org/wiki/Multistage_rocket
 
 
+multiverse
+==========
+
+:: Description
+The story explores the idea that our universe is but one of many.
+
+:: Parents
+speculative cosmos
+
+:: References
+https://en.wikipedia.org/wiki/Multiverse
+
+
 murder
 ======
 
@@ -26527,10 +26571,11 @@ parallel universe
 =================
 
 :: Description
-A hypothetical self-contained universe co-existing with our own.
+There are exactly two distinct universes that exist in parallel. Perhaps each
+is the "mirror" version of the other.
 
 :: Parents
-speculative cosmos
+multiverse
 
 :: Notes
 The word "dimension" is used in two different sense in fiction. Sometimes what
@@ -26541,12 +26586,9 @@ the latter case we use "four-dimensional space" as a theme.
 :: References
 https://en.wikipedia.org/wiki/Parallel_universes_in_fiction
 https://en.wikipedia.org/wiki/Multiverse
-http://www.sf-encyclopedia.com/entry/parallel_worlds
-http://www.sf-encyclopedia.com/entry/multiverse
 
 :: Aliases
 parallel dimension
-multiverse
 
 
 paralysis device
@@ -27311,8 +27353,8 @@ personal life and death dilemma
 ===============================
 
 :: Description
-A character must make a difficult choice regarding whether someone else lives
-or dies.
+A character must make a difficult choice regarding whether someone (usually
+someone else) lives or dies.
 
 :: Parents
 human tough decision
@@ -29486,6 +29528,22 @@ things, or is there a sweet spot somewhere in between?
 
 :: Parents
 human idea about life
+
+
+quantum mechanics
+=================
+
+:: Description
+Quantum mechanics, also known as quantum physics, is the fundamental physical
+theory that describes the behavior of matter and of light; the behaviors it
+models typically occur at and below the scale of atoms, and have often been
+described as counterintuitive. Some or all of this is discussed in the story.
+
+:: Parents
+physics
+
+:: References
+https://en.wikipedia.org/wiki/Quantum_mechanics
 
 
 quarantine dilemma
@@ -36240,6 +36298,17 @@ human occupational activity
 https://en.wikipedia.org/wiki/Teacher
 
 
+tech industry occupation
+========================
+
+:: Description
+A character working in a technology oriented company is engaged in their
+chosen occupation.
+
+:: Parents
+human occupational activity
+
+
 tech support occupation
 =======================
 
@@ -36952,21 +37021,6 @@ technology
 
 :: References
 https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans
-
-
-the corporate world
-===================
-
-:: Description
-A character who works in the bureaucracy of a corporation is engaged in this
-profession.
-
-:: Parents
-human occupational activity
-
-:: Notes
-This typically means, businessmen, CEOs, board members, and sometimes
-secretaries. It typically does not mean factory workers and janitors.
 
 
 the crime of adultery
@@ -39409,17 +39463,6 @@ tos2x01 "Catspaw".
 
 :: References
 https://en.wikipedia.org/wiki/Supernatural
-
-
-the tech industry
-=================
-
-:: Description
-A character working in a technology oriented company is engaged in their
-chosen occupation.
-
-:: Parents
-human occupational activity
 
 
 the technological singularity
