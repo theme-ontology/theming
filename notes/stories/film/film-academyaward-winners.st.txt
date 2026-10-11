@@ -2695,30 +2695,27 @@ Chariots of Fire is a 1981 historical sports drama film directed by Hugh Hudson,
 https://en.wikipedia.org/wiki/Chariots_of_Fire
 
 :: Ratings
-3 <mikael*>
+3 <mikael>
 3 <paul>
 
 :: Choice Themes
-sports [The story concerns British ruuners competing in running and hurdling events in the 1924 Olympic Games.]
+sports [The story concerns two British athletes, Harold Abrahams and Eric Liddell, competing in running and hurdling events in the 1924 Olympic Games.]
+the desire for glory [The story concerns two British athletes, Harold Abrahams and Eric Liddell, competing in running and hurdling events in the 1924 Olympic Games. Harold Abrahams was so anxious to win that he went against the desires of Cambridge Masters and enlisted a professional running coach.]
+the need to prove one's self [Harold ran, in part, to prove his worth in Cambridge society where he was often looked down upon because of his Jewish ancestry.]
 
 :: Major Themes
-the desire for professional success [Harold Abrahams was so anxious to win that he went against the desires of Cambridge Masters and enlisted a professional running coach.]
-personal conviction versus social expectations [] {FD: AI suggestion that looks like it could be straight out of the ontology}
-Christianity [Eric Liddell was a devout Scottish Presbyterian who time and again emphasised that he ran for the glory of God.]
+Christianity [Eric Liddell was a devout Scottish Presbyterian who time and again emphasized that he ran for the glory of God.]
 life in late modern Britain [The story is a period piece set in interwar Britain, following the personal lives of two Cambridge athletes who went on to distinguish themselves in the 1924 Olympic Games.]
-friendship [Harold and Eric were both friends and rivals.It is noteworthy that Harold wanted above all to beat Liddell but didn't get to do that despite winning gold in 100m sprint because Liddell had given up his own place there to let Harold compete.]
-rivalry [Harold and Eric were both friends and rivals. It is noteworthy that Harold wanted above all to beat Liddell but didn't get to do that despite winning gold in 100m sprint because Liddell had given up his own place there to let Harold compete.]
-the need to prove one's self [Harold ran, in part, to prove his worth in Cambridge society where he was often looked down upon because of his Jewish ancestry.] {PS: Could be choice. Both runners wanted to be the best.}
-belonging [] {FD: Harold reiterated that he ran for family, university, and country.}
-the need to belong [] {FD: Harold reiterated that he ran for family, university, and country.}
-patriotism [] {FD: Harold reiterated that he ran for family, university, and country.}
-
+friendship [Harold and Eric were both friends and rivals. It is noteworthy that Harold wanted above all to beat Eric but didn't get to do that despite winning gold in 100 meters sprint because Eric had given up his own place there to let Harold compete.]
+rivalry [Harold and Eric were both friends and rivals. It is noteworthy that Harold wanted above all to beat Eric but didn't get to do that despite winning gold in 100 meters sprint because Eric had given up his own place there to let Harold compete.]
+patriotism [Harold Abrahams reiterated that he ran for family, university, and country. He was encouraged along the way by royalty and aristocrats.]
 mentor and protégé [Harold Abrahams brought in the renowned running coach Sam Mussabini to oversee his training for the 1924 Olympic Games. The pair became close to the extent that Mussabini even once referred to Harold as a son.]
+antisemitism in society [Harold Abrahams faced antisemitism in interwar Britain. For example, a veteran remarked sarcastically that the British had fought in the Great War to "Give all the Jew boys a proper education".]
+boyfriend and girlfriend [Harold Abrahams became romantically entangled with Sybil Gordon. According to the epilogue, they went on to marry.]
 
 :: Minor Themes
-antisemitism in society [Harold Abrahams occasionally faced antisemitism in interwar Britain.] {PS: Knock up? Something was made of Harold running in the Olympics in spite of it.}
-boyfriend and girlfriend [Harold Abrahams became romantically entangled with Sybil Evers. According to the epilogue, they went on to marry.]
-opera [Harold became instantly besotted with Sybil when he saw her perform in the 1885 comic operetta The Mikado, by Gilbert and Sullivan.] {MO: we could generalize the opera theme to musical theatre I guess, I also note opera goes to music and acting but apparently not the theater.}
+opera [Harold became instantly besotted with Sybil when he saw her perform in the 1885 comic operetta The Mikado, by Gilbert and Sullivan.]
+compromising one's ethical principles for personal advantage [Eric Liddell refused to run a qualifying race on the Sabbath.]
 
 
 movie: Gandhi (1982)
@@ -2737,7 +2734,7 @@ Gandhi is a 1982 biographical film directed and produced by Richard Attenborough
 https://en.wikipedia.org/wiki/Gandhi_(film)
 
 :: Ratings
-5 <mikael>
+5 <mikael*>
 
 :: Choice Themes
 life in late modern India [Mahatma Gandhi made it the core of his identity that he would get to know the "real" India and himself live humbly because the majority of Indians at this time were impoverished.]
