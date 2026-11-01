@@ -2828,7 +2828,7 @@ Amadeus
 1984-09-06
 
 :: Description
-Amadeus is a 1984 American epic drama film directed by Miloš Forman. Peter Shaffer adapted it from his 1979 stage play, inspired by Alexander Pushkin's 1830 play Mozart and Salieri. Shaffer described it as a "fantasia on [a real-life] theme", as it imagines an orchestral rivalry between two 18th-century Vienna composers, Wolfgang Amadeus Mozart (Tom Hulce) and Antonio Salieri (F. Murray Abraham). Salieri struggles to reconcile his professional admiration for Mozart with his jealous hatred, and resolves to ruin Mozart's career as his form of vengeance against God.
+Amadeus is a 1984 American epic drama film directed by Miloš Forman. Peter Shaffer adapted it from his 1979 stage play, inspired by Alexander Pushkin's 1830 play Mozart and Salieri. It imagines an orchestral rivalry between two 18th-century Vienna composers, Wolfgang Amadeus Mozart  and Antonio Salieri. Salieri struggles to reconcile his professional admiration for Mozart with his jealous hatred, and resolves to ruin Mozart's career as his form of vengeance against God.
 
 :: References
 https://en.wikipedia.org/wiki/Amadeus_(film)
@@ -2839,26 +2839,27 @@ https://en.wikipedia.org/wiki/Amadeus_(film)
 :: Choice Themes
 
 :: Major Themes
-music []
-opera []
-jealousy [Salieri at Mozart.]
-resentment [Salieri of Mozart.]
-pride [Mozart thought himself above submitting his work to be evaluated for Royal Musician post.]
-the desire for vengeance [Salieri at Mozart and God.]
-false friend [Salieri of Mozart.]
-husband and wife [Mozart and wife.]
-father and son [Mozart had complicated relationship with his possibly domineering father.]
-financial crisis [Mozart broke.]
+music [The story focuses on the life of the renown 18th-century Vienna compose Wolfgang Amadeus Mozart and his music.]
+opera [The story depicts Mozart writing and performing various of his operas, including The Marriage of Figaro and The Magic Flute.]
+struggling artist character [Mozart, despite being a musical genius of the first order, struggled to materially provide for his family and was constantly forced to borrow money to maintain his lifestyle.]
+jealousy [Salieri, a successful but mediocre composer, was deeply envious of Mozart and blamed God for his own shortcomings as a musician.]
+resentment [Salieri, a successful but mediocre composer, was deeply envious and resentful of Mozart and blamed God for his own shortcomings as a musician.]
+rivalry [] {PS: For discussion: Mozart didn't see Salieri as a rival.}
+pride [Mozart was the best composer in the land and he didn't hesitate to conceal his sense of superiority over his fellow composers. Mozart's haughty attitude was particularly put on display when he considered it beneath his dignity to submit his work for evaluation in pursuit of the post of Royal Musician.]
+the desire for vengeance [Salieri blamed God for his own mediocrity as a composer. He resolved to ruin his rival Mozart's career as a form a revenge against the Lord.]
+false friend [Salieri feigned to be a close friend and confident to Mozart, but was all the time secretly plotting to ruin Mozart's career.]
+husband and wife [Mozart and Stanzi were in a loving but troubled marriage.]
+father and son [Mozart had complicated relationship with his possibly domineering father, Leopold.]
+family financial problem [Mozart wstruggled to materially provide for his family and was constantly forced to borrow money to maintain his lifestyle.]
 
 :: Minor Themes
-suicide [Salieri attempted.]
-what it is like in a psychiatric institution [Salieri institutionalized.]
-embarrassment [Salieri by Mozart.]
-government censorship in society [Emperor forbade Figaro play.]
-alcohol abuse [Mozart.]
-marriage ceremony [Mozart and wife.]
-funeral [Mozart unceremoniously dumped into mass grave.]
-
+suicide [Salieri was institutionalized after he slit his throat.]
+what it is like in a psychiatric institution [After slitting his throat, Salieri was institutionalized in a lunatic filled insane asylum.]
+embarrassment [Salieri was utterly humiliated when Mozart extemporaneously jazzed up an unremarkable piece Salieri had written to welcome Mozart to the royal court.]
+government censorship in society [Emperor Joseph II had put a prohibition on performing The Marriage of Figaro on account that doing so would exacerbate strife between the classes.]
+alcohol abuse [Mozart's drinking became a concern to his wife, Stanzi.]
+marriage ceremony [Mozart and Stanzi were wed in a Catholic cathedral.]
+funeral [After his funeral, Mozart's body was unceremoniously dumped into mass grave.]
 
 
 movie: (198)
