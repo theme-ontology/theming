@@ -45,7 +45,8 @@ being that feeds on something intangible
 ========================================
 
 :: Description
-There is a being that somehow derives nourishment directly from 
+There is a being that somehow derives nourishment directly from something
+like radiation, electricity, spirit, etc.
 
 :: Parents
 biologically distinguished being
@@ -80,3 +81,30 @@ being that feeds on something intangible
 :: Aliases
 emotion eating being
 
+
+android
+=======
+
+:: Description
+There is a robot designed to look and act like a human.
+Typically this means it has some sort of soft skin and dynamic facial
+expressions.
+
+:: Parents
+artificial being
+humanoid robot
+
+:: References
+https://en.wikipedia.org/wiki/Android_(robot)
+
+
+upbringing by machines
+======================
+
+:: Description
+A human is raised mostly, or exclusively, by intelligent machines such as
+robots or androids.
+
+:: Parents
+human childhood
+artificial intelligence
